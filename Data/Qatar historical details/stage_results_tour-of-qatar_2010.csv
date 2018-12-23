@@ -1,0 +1,625 @@
+Rnk,Rider,Age,Team,Pnt,GC,GC-Time,Time,year,stage
+1,Steurs Geert,28.0,Topsport Vlaanderen - Mercator,20.0,,+0:00,3:31:00 3:31:00,2010,2
+2,Mol Wouter,27.0,Vacansoleil,12.0,,+0:00,",, ,,",2010,2
+3,Kluge Roger,24.0,Milram,7.0,,+0:00,1:51 1:51,2010,2
+4,Haussler Heinrich,25.0,Cervelo Test Team,5.0,,+0:00,1:54 1:54,2010,2
+5,Gilbert Philippe,27.0,Omega Pharma-Lotto,4.0,,+0:00,1:55 1:55,2010,2
+6,Hammond Roger,36.0,Cervelo Test Team,3.0,,+0:00,",, 1:55",2010,2
+7,Boonen Tom,29.0,Quickstep - Innergetic,2.0,,+0:00,",, 1:55",2010,2
+8,Hunt Jeremy,35.0,Cervelo Test Team,1.0,,+0:00,",, 1:55",2010,2
+9,Napolitano Danilo,29.0,Team Katusha,,,+0:00,",, 1:55",2010,2
+10,Burghardt Marcus,26.0,BMC Racing Team,,,+0:00,",, 1:55",2010,2
+11,Lodewyck Klaas,21.0,Topsport Vlaanderen - Mercator,,,+0:00,2:37 2:37,2010,2
+12,Reimer Martin,22.0,Cervelo Test Team,,,+0:00,",, 2:37",2010,2
+13,Klier Andreas,34.0,Cervelo Test Team,,,+0:00,",, 2:37",2010,2
+14,Bandiera Marco,25.0,Team Katusha,,,+0:00,",, 2:37",2010,2
+15,O'Grady Stuart,36.0,Saxo Bank,,,+0:00,",, 2:37",2010,2
+16,Chicchi Francesco,29.0,Liquigas - Doimo,,,+0:00,",, 2:37",2010,2
+17,Velo Marco,35.0,Quickstep - Innergetic,,,+0:00,",, 2:37",2010,2
+18,Ballan Alessandro,30.0,BMC Racing Team,,,+0:00,",, 2:37",2010,2
+19,Hulsmans Kevin,31.0,Quickstep - Innergetic,,,+0:00,2:42 2:42,2010,2
+20,Lemoine Cyril,26.0,Saur - Sojasun,,,+0:00,2:43 2:43,2010,2
+21,Farrar Tyler,25.0,Team Garmin - Transitions,,,+0:00,",, 2:43",2010,2
+22,Schr\xf6der Bjorn,29.0,Milram,,,+0:00,",, 2:43",2010,2
+23,Eisel Bernhard,28.0,Team HTC - Columbia,,,+0:00,3:33 3:33,2010,2
+24,Stauff Andreas,23.0,Quickstep - Innergetic,,,+0:00,",, 3:33",2010,2
+25,Lang Sebastian,30.0,Omega Pharma-Lotto,,,+0:00,",, 3:33",2010,2
+26,Mondory Lloyd,27.0,AG2R La Mondiale,,,+0:00,",, 3:33",2010,2
+27,Stannard Ian,22.0,Sky Procycling,,,+0:00,",, 3:33",2010,2
+28,Westra Lieuwe,27.0,Vacansoleil,,,+0:00,",, 3:33",2010,2
+29,Vanmarcke Sep,21.0,Topsport Vlaanderen - Mercator,,,+0:00,",, 3:33",2010,2
+30,van Groen Arnoud,26.0,Vacansoleil,,,+0:00,",, 3:33",2010,2
+31,Kohler Martin,24.0,BMC Racing Team,,,+0:00,",, 3:33",2010,2
+32,Trusov Nikolay,24.0,Team Katusha,,,+0:00,",, 3:33",2010,2
+33,Rasch Gabriel,33.0,Cervelo Test Team,,,+0:00,",, 3:33",2010,2
+34,Bos Theo,26.0,Cervelo Test Team,,,+0:00,",, 3:33",2010,2
+35,Pate Danny,30.0,Team Garmin - Transitions,,,+0:00,",, 3:33",2010,2
+36,Cooke Baden,31.0,Saxo Bank,,,+0:00,",, 3:33",2010,2
+37,Fischer Murilo Antonio,30.0,Team Garmin - Transitions,,,+0:00,",, 3:33",2010,2
+38,van Vooren Steven,23.0,Topsport Vlaanderen - Mercator,,,+0:00,",, 3:33",2010,2
+39,Traksel Bobbie,28.0,Vacansoleil,,,+0:00,3:37 3:37,2010,2
+40,Pronk Matthe,35.0,Vacansoleil,,,+0:00,3:40 3:40,2010,2
+41,Knaven Servais,38.0,Milram,,,+0:00,9:43 9:43,2010,2
+42,Vandenbergh Stijn,25.0,Team Katusha,,,+0:00,",, 9:43",2010,2
+43,Terpstra Niki,25.0,Milram,,,+0:00,",, 9:43",2010,2
+44,Goddaert Kristof,23.0,AG2R La Mondiale,,,+0:00,",, 9:43",2010,2
+45,Smukulis Gatis,22.0,AG2R La Mondiale,,,+0:00,",, 9:43",2010,2
+46,Carlsen Kirk,22.0,Team Garmin - Transitions,,,+0:00,",, 9:43",2010,2
+47,Sentjens Roy,29.0,Milram,,,+0:00,",, 9:43",2010,2
+48,Phinney Taylor,19.0,Trek - Livestrong presented by Radioshack,,,+0:00,",, 9:43",2010,2
+49,Pozzato Filippo,28.0,Team Katusha,,,+0:00,",, 9:43",2010,2
+50,Casper Jimmy,31.0,Saur - Sojasun,,,+0:00,",, 9:43",2010,2
+51,Mangel Laurent,28.0,Saur - Sojasun,,,+0:00,",, 9:43",2010,2
+52,Schar Michael,23.0,BMC Racing Team,,,+0:00,",, 9:43",2010,2
+53,Hinault S\xe9bastien,35.0,AG2R La Mondiale,,,+0:00,",, 9:43",2010,2
+54,Eskov Nikita,27.0,Team Katusha,,,+0:00,",, 9:43",2010,2
+55,Kristoff Alexander,22.0,BMC Racing Team,,,+0:00,",, 9:43",2010,2
+56,Wrolich Peter,35.0,Milram,,,+0:00,",, 9:43",2010,2
+57,Appollonio Davide,20.0,Cervelo Test Team,,,+0:00,",, 9:43",2010,2
+58,Vansummeren Johan,29.0,Team Garmin - Transitions,,,+0:00,",, 9:43",2010,2
+59,Van Avermaet Greg,24.0,Omega Pharma-Lotto,,,+0:00,",, 9:43",2010,2
+60,Thomas Geraint,23.0,Sky Procycling,,,+0:00,",, 9:43",2010,2
+61,Boasson Hagen Edvald,22.0,Sky Procycling,,,+0:00,",, 9:43",2010,2
+62,Elijzen Michiel,27.0,Omega Pharma-Lotto,,,+0:00,",, 9:43",2010,2
+63,Haedo Juan Jose,29.0,Saxo Bank,,,+0:00,",, 9:43",2010,2
+64,van Staeyen Michael,21.0,Topsport Vlaanderen - Mercator,,,+0:00,",, 9:43",2010,2
+65,Cancellara Fabian,28.0,Saxo Bank,,,+0:00,",, 9:43",2010,2
+66,Martias Rony,29.0,Saur - Sojasun,,,+0:00,",, 9:43",2010,2
+67,Goss Matthew,23.0,Team HTC - Columbia,,,+0:00,",, 9:43",2010,2
+68,Tosatto Matteo,35.0,Quickstep - Innergetic,,,+0:00,",, 9:43",2010,2
+69,Engoulvent Jimmy,30.0,Saur - Sojasun,,,+0:00,",, 9:43",2010,2
+70,Ghyselinck Jan,21.0,Team HTC - Columbia,,,+0:00,",, 9:43",2010,2
+71,Dockx Gert,21.0,Team HTC - Columbia,,,+0:00,",, 9:43",2010,2
+72,Cimolai Davide,20.0,Liquigas - Doimo,,,+0:00,",, 9:43",2010,2
+73,Wynants Maarten,27.0,Quickstep - Innergetic,,,+0:00,",, 9:43",2010,2
+74,Tuft Svein,32.0,Team Garmin - Transitions,,,+0:00,",, 9:43",2010,2
+75,Matheou Romain,21.0,Saur - Sojasun,,,+0:00,",, 9:43",2010,2
+76,Hansen Adam,28.0,Team HTC - Columbia,,,+0:00,",, 9:43",2010,2
+77,Breschel Matti,25.0,Saxo Bank,,,+0:00,",, 9:43",2010,2
+78,Bak Lars Ytting,30.0,Team HTC - Columbia,,,+0:00,",, 9:43",2010,2
+79,Velits Martin,24.0,Team HTC - Columbia,,,+0:00,",, 9:43",2010,2
+80,Oss Daniel,23.0,Liquigas - Doimo,,,+0:00,",, 9:43",2010,2
+81,Klemme Dominic,23.0,Saxo Bank,,,+0:00,",, 9:43",2010,2
+82,Willems Frederik,30.0,Liquigas - Doimo,,,+0:00,",, 9:43",2010,2
+83,Poulhies St\xe9phane,24.0,Saur - Sojasun,,,+0:00,",, 9:43",2010,2
+84,Coutouly Cedric,30.0,Saur - Sojasun,,,+0:00,",, 9:43",2010,2
+85,Downing Russell,31.0,Sky Procycling,,,+0:00,11:10 11:10,2010,2
+86,Zahner Simon,26.0,BMC Racing Team,,,+0:00,",, 11:10",2010,2
+87,Ignatyev Mikhail,24.0,Team Katusha,,,+0:00,",, 11:10",2010,2
+88,Nordhaug Lars Petter,25.0,Sky Procycling,,,+0:00,",, 11:10",2010,2
+89,Paterski Maciej,23.0,Liquigas - Doimo,,,+0:00,",, 11:10",2010,2
+90,Cretskens Wilfried,33.0,Omega Pharma-Lotto,,,+0:00,",, 11:10",2010,2
+91,De Vocht Wim,27.0,Milram,,,+0:00,",, 11:10",2010,2
+92,Stewart Jackson,29.0,BMC Racing Team,,,+0:00,",, 11:10",2010,2
+93,Murphy John,25.0,BMC Racing Team,,,+0:00,",, 11:10",2010,2
+94,Gretsch Patrick,22.0,Team HTC - Columbia,,,+0:00,",, 11:10",2010,2
+95,Scheirlinckx Staf,30.0,Omega Pharma-Lotto,,,+0:00,",, 11:10",2010,2
+96,King Benjamin,21.0,Trek - Livestrong presented by Radioshack,,,+0:00,",, 11:10",2010,2
+97,Dowsett Alex,21.0,Trek - Livestrong presented by Radioshack,,,+0:00,",, 11:10",2010,2
+98,Ovechkin Artem,23.0,Team Katusha,,,+0:00,",, 11:10",2010,2
+99,Haedo Lucas Sebastian,26.0,Saxo Bank,,,+0:00,",, 11:10",2010,2
+100,Hoste Leif,32.0,Omega Pharma-Lotto,,,+0:00,",, 11:10",2010,2
+101,H\xf8j Frank,37.0,Saxo Bank,,,+0:00,",, 11:10",2010,2
+102,Ciolek Gerald,23.0,Milram,,,+0:00,",, 11:10",2010,2
+103,Riblon Christophe,29.0,AG2R La Mondiale,,,+0:00,",, 11:10",2010,2
+104,Gastauer Ben,22.0,AG2R La Mondiale,,,+0:00,",, 11:10",2010,2
+105,Rousseau Nicolas,26.0,AG2R La Mondiale,,,+0:00,",, 11:10",2010,2
+106,Van Impe Kevin,28.0,Quickstep - Innergetic,,,+0:00,",, 11:10",2010,2
+107,Mouris Jens,29.0,Vacansoleil,,,+0:00,",, 11:10",2010,2
+108,Sergent Jesse,21.0,Trek - Livestrong presented by Radioshack,,,+0:00,",, 11:10",2010,2
+109,Maaskant Martijn,26.0,Team Garmin - Transitions,,,+0:00,",, 11:10",2010,2
+110,Vandewalle Kristof,24.0,Topsport Vlaanderen - Mercator,,,+0:00,",, 11:10",2010,2
+111,Neirynck Stijn,24.0,Topsport Vlaanderen - Mercator,,,+0:00,",, 11:10",2010,2
+112,Wiggins Bradley,29.0,Sky Procycling,,,+0:00,",, 11:10",2010,2
+113,Vanspeybrouck Pieter,22.0,Topsport Vlaanderen - Mercator,,,+0:00,",, 11:10",2010,2
+114,Feillu Romain,25.0,Vacansoleil,,,+0:00,",, 11:10",2010,2
+115,De Weert Kevin,27.0,Quickstep - Innergetic,,,+0:00,",, 11:10",2010,2
+116,Flecha Juan Antonio,32.0,Sky Procycling,,,+0:00,14:17 14:17,2010,2
+117,Bennati Daniele,29.0,Liquigas - Doimo,,,+0:00,",, 14:17",2010,2
+118,King Benjamin,20.0,Trek - Livestrong presented by Radioshack,,,+0:00,",, 14:17",2010,2
+119,Ruijgh Rob,23.0,Vacansoleil,,,+0:00,",, 14:17",2010,2
+120,Kyer Julian,21.0,Trek - Livestrong presented by Radioshack,,,+0:00,",, 14:17",2010,2
+121,Quinziato Manuel,30.0,Liquigas - Doimo,,,+0:00,",, 14:17",2010,2
+122,Dehaes Kenny,25.0,Omega Pharma-Lotto,,,+0:00,",, 14:17",2010,2
+123,B\xe9rard Julien,22.0,AG2R La Mondiale,,,+0:00,",, 14:17",2010,2
+124,Santaromita Ivan,25.0,Liquigas - Doimo,,,+0:00,",, 14:17",2010,2
+125,Campbell Cody,,,,,+0:00,",, 14:17",2010,2
+126,Williams Justin,20.0,Trek - Livestrong presented by Radioshack,,,+0:00,",, 14:17",2010,2
+DNF,Cozza Steven,24.0,Team Garmin - Transitions,,,+0:00,-3:31:00 -3:31:00,2010,2
+DNF,Arvesen Kurt-Asle,34.0,Sky Procycling,,,+0:00,",, -3:31:00",2010,2
+1,Boonen Tom,29.0,Quickstep - Innergetic,20.0,,+0:00,3:01:39 3:01:39,2010,3
+2,Haussler Heinrich,25.0,Cervelo Test Team,12.0,,+0:00,",, ,,",2010,3
+3,Cooke Baden,31.0,Saxo Bank,7.0,,+0:00,",, ,,",2010,3
+4,Dehaes Kenny,25.0,Omega Pharma-Lotto,5.0,,+0:00,",, ,,",2010,3
+5,Bennati Daniele,29.0,Liquigas - Doimo,4.0,,+0:00,",, ,,",2010,3
+6,Wrolich Peter,35.0,Milram,3.0,,+0:00,",, ,,",2010,3
+7,Phinney Taylor,19.0,Trek - Livestrong presented by Radioshack,2.0,,+0:00,",, ,,",2010,3
+8,Traksel Bobbie,28.0,Vacansoleil,1.0,,+0:00,",, ,,",2010,3
+9,Farrar Tyler,25.0,Team Garmin - Transitions,,,+0:00,",, ,,",2010,3
+10,Gilbert Philippe,27.0,Omega Pharma-Lotto,,,+0:00,",, ,,",2010,3
+11,Hammond Roger,36.0,Cervelo Test Team,,,+0:00,",, ,,",2010,3
+12,Haedo Juan Jose,29.0,Saxo Bank,,,+0:00,",, ,,",2010,3
+13,Murphy John,25.0,BMC Racing Team,,,+0:00,",, ,,",2010,3
+14,Neirynck Stijn,24.0,Topsport Vlaanderen - Mercator,,,+0:00,",, ,,",2010,3
+15,Eisel Bernhard,28.0,Team HTC - Columbia,,,+0:00,",, ,,",2010,3
+16,Vanmarcke Sep,21.0,Topsport Vlaanderen - Mercator,,,+0:00,",, ,,",2010,3
+17,Casper Jimmy,31.0,Saur - Sojasun,,,+0:00,",, ,,",2010,3
+18,Downing Russell,31.0,Sky Procycling,,,+0:00,",, ,,",2010,3
+19,Mol Wouter,27.0,Vacansoleil,,,+0:00,",, ,,",2010,3
+20,Goddaert Kristof,23.0,AG2R La Mondiale,,,+0:00,",, ,,",2010,3
+21,Klier Andreas,34.0,Cervelo Test Team,,,+0:00,",, ,,",2010,3
+22,Vanspeybrouck Pieter,22.0,Topsport Vlaanderen - Mercator,,,+0:00,",, ,,",2010,3
+23,Schar Michael,23.0,BMC Racing Team,,,+0:00,",, ,,",2010,3
+24,Ignatyev Mikhail,24.0,Team Katusha,,,+0:00,",, ,,",2010,3
+25,Haedo Lucas Sebastian,26.0,Saxo Bank,,,+0:00,",, ,,",2010,3
+26,Paterski Maciej,23.0,Liquigas - Doimo,,,+0:00,",, ,,",2010,3
+27,Vansummeren Johan,29.0,Team Garmin - Transitions,,,+0:00,",, ,,",2010,3
+28,B\xe9rard Julien,22.0,AG2R La Mondiale,,,+0:00,",, ,,",2010,3
+29,Steurs Geert,28.0,Topsport Vlaanderen - Mercator,,,+0:00,",, ,,",2010,3
+30,Trusov Nikolay,24.0,Team Katusha,,,+0:00,",, ,,",2010,3
+31,Bos Theo,26.0,Cervelo Test Team,,,+0:00,",, ,,",2010,3
+32,Schr\xf6der Bjorn,29.0,Milram,,,+0:00,",, ,,",2010,3
+33,Rasch Gabriel,33.0,Cervelo Test Team,,,+0:00,",, ,,",2010,3
+34,Maaskant Martijn,26.0,Team Garmin - Transitions,,,+0:00,",, ,,",2010,3
+35,Eskov Nikita,27.0,Team Katusha,,,+0:00,",, ,,",2010,3
+36,Velo Marco,35.0,Quickstep - Innergetic,,,+0:00,",, ,,",2010,3
+37,Bandiera Marco,25.0,Team Katusha,,,+0:00,",, ,,",2010,3
+38,Ballan Alessandro,30.0,BMC Racing Team,,,+0:00,",, ,,",2010,3
+39,Stauff Andreas,23.0,Quickstep - Innergetic,,,+0:00,",, ,,",2010,3
+40,Hunt Jeremy,35.0,Cervelo Test Team,,,+0:00,",, ,,",2010,3
+41,Napolitano Danilo,29.0,Team Katusha,,,+0:00,",, ,,",2010,3
+42,van Groen Arnoud,26.0,Vacansoleil,,,+0:00,",, ,,",2010,3
+43,Mondory Lloyd,27.0,AG2R La Mondiale,,,+0:00,",, ,,",2010,3
+44,Lemoine Cyril,26.0,Saur - Sojasun,,,+0:00,",, ,,",2010,3
+45,Burghardt Marcus,26.0,BMC Racing Team,,,+0:00,",, ,,",2010,3
+46,Sentjens Roy,29.0,Milram,,,+0:00,",, ,,",2010,3
+47,Flecha Juan Antonio,32.0,Sky Procycling,,,+0:00,",, ,,",2010,3
+48,Boasson Hagen Edvald,22.0,Sky Procycling,,,+0:00,",, ,,",2010,3
+49,Williams Justin,20.0,Trek - Livestrong presented by Radioshack,,,+0:00,",, ,,",2010,3
+50,Vandenbergh Stijn,25.0,Team Katusha,,,+0:00,",, ,,",2010,3
+51,Van Avermaet Greg,24.0,Omega Pharma-Lotto,,,+0:00,",, ,,",2010,3
+52,Chicchi Francesco,29.0,Liquigas - Doimo,,,+0:00,",, ,,",2010,3
+53,Lang Sebastian,30.0,Omega Pharma-Lotto,,,+0:00,",, ,,",2010,3
+54,Hulsmans Kevin,31.0,Quickstep - Innergetic,,,+0:00,",, ,,",2010,3
+55,Wynants Maarten,27.0,Quickstep - Innergetic,,,+0:00,",, ,,",2010,3
+56,Zahner Simon,26.0,BMC Racing Team,,,+0:00,",, ,,",2010,3
+57,Kristoff Alexander,22.0,BMC Racing Team,,,+0:00,",, ,,",2010,3
+58,Mangel Laurent,28.0,Saur - Sojasun,,,+0:00,",, ,,",2010,3
+59,Hinault S\xe9bastien,35.0,AG2R La Mondiale,,,+0:00,",, ,,",2010,3
+60,Kohler Martin,24.0,BMC Racing Team,,,+0:00,",, ,,",2010,3
+61,Oss Daniel,23.0,Liquigas - Doimo,,,+0:00,",, ,,",2010,3
+62,van Staeyen Michael,21.0,Topsport Vlaanderen - Mercator,,,+0:00,",, ,,",2010,3
+63,Stannard Ian,22.0,Sky Procycling,,,+0:00,",, ,,",2010,3
+64,O'Grady Stuart,36.0,Saxo Bank,,,+0:00,",, ,,",2010,3
+65,Elijzen Michiel,27.0,Omega Pharma-Lotto,,,+0:00,",, ,,",2010,3
+66,Riblon Christophe,29.0,AG2R La Mondiale,,,+0:00,",, ,,",2010,3
+67,Engoulvent Jimmy,30.0,Saur - Sojasun,,,+0:00,",, ,,",2010,3
+68,Smukulis Gatis,22.0,AG2R La Mondiale,,,+0:00,",, ,,",2010,3
+69,Gastauer Ben,22.0,AG2R La Mondiale,,,+0:00,",, ,,",2010,3
+70,Cretskens Wilfried,33.0,Omega Pharma-Lotto,,,+0:00,",, ,,",2010,3
+71,Matheou Romain,21.0,Saur - Sojasun,,,+0:00,",, ,,",2010,3
+72,Scheirlinckx Staf,30.0,Omega Pharma-Lotto,,,+0:00,",, ,,",2010,3
+73,King Benjamin,20.0,Trek - Livestrong presented by Radioshack,,,+0:00,",, ,,",2010,3
+74,Hoste Leif,32.0,Omega Pharma-Lotto,,,+0:00,",, ,,",2010,3
+75,Stewart Jackson,29.0,BMC Racing Team,,,+0:00,",, ,,",2010,3
+76,Ruijgh Rob,23.0,Vacansoleil,,,+0:00,",, ,,",2010,3
+77,Coutouly Cedric,30.0,Saur - Sojasun,,,+0:00,",, ,,",2010,3
+78,King Benjamin,21.0,Trek - Livestrong presented by Radioshack,,,+0:00,",, ,,",2010,3
+79,Pronk Matthe,35.0,Vacansoleil,,,+0:00,",, ,,",2010,3
+80,Reimer Martin,22.0,Cervelo Test Team,,,+0:00,",, ,,",2010,3
+81,Quinziato Manuel,30.0,Liquigas - Doimo,,,+0:00,",, ,,",2010,3
+82,Santaromita Ivan,25.0,Liquigas - Doimo,,,+0:00,",, ,,",2010,3
+83,Ovechkin Artem,23.0,Team Katusha,,,+0:00,",, ,,",2010,3
+84,Thomas Geraint,23.0,Sky Procycling,,,+0:00,",, ,,",2010,3
+85,Willems Frederik,30.0,Liquigas - Doimo,,,+0:00,",, ,,",2010,3
+86,Wiggins Bradley,29.0,Sky Procycling,,,+0:00,",, ,,",2010,3
+87,Dowsett Alex,21.0,Trek - Livestrong presented by Radioshack,,,+0:00,",, ,,",2010,3
+88,Sergent Jesse,21.0,Trek - Livestrong presented by Radioshack,,,+0:00,",, ,,",2010,3
+89,Kyer Julian,21.0,Trek - Livestrong presented by Radioshack,,,+0:00,",, ,,",2010,3
+90,Pozzato Filippo,28.0,Team Katusha,,,+0:00,",, ,,",2010,3
+91,Nordhaug Lars Petter,25.0,Sky Procycling,,,+0:00,",, ,,",2010,3
+92,De Vocht Wim,27.0,Milram,,,+0:00,",, ,,",2010,3
+93,Vandewalle Kristof,24.0,Topsport Vlaanderen - Mercator,,,+0:00,",, ,,",2010,3
+94,Tosatto Matteo,35.0,Quickstep - Innergetic,,,+0:00,",, ,,",2010,3
+95,Martias Rony,29.0,Saur - Sojasun,,,+0:00,",, ,,",2010,3
+96,Poulhies St\xe9phane,24.0,Saur - Sojasun,,,+0:00,",, ,,",2010,3
+97,Van Impe Kevin,28.0,Quickstep - Innergetic,,,+0:00,",, ,,",2010,3
+98,Ghyselinck Jan,21.0,Team HTC - Columbia,,,+0:00,0:44 0:44,2010,3
+99,Appollonio Davide,20.0,Cervelo Test Team,,,+0:00,",, 0:44",2010,3
+100,Rousseau Nicolas,26.0,AG2R La Mondiale,,,+0:00,",, 0:44",2010,3
+101,Campbell Cody,,,,,+0:00,",, 0:44",2010,3
+102,Cimolai Davide,20.0,Liquigas - Doimo,,,+0:00,",, 0:44",2010,3
+103,Fischer Murilo Antonio,30.0,Team Garmin - Transitions,,,+0:00,",, 0:44",2010,3
+104,Bak Lars Ytting,30.0,Team HTC - Columbia,,,+0:00,",, 0:44",2010,3
+105,Pate Danny,30.0,Team Garmin - Transitions,,,+0:00,",, 0:44",2010,3
+106,Tuft Svein,32.0,Team Garmin - Transitions,,,+0:00,",, 0:44",2010,3
+107,Dockx Gert,21.0,Team HTC - Columbia,,,+0:00,",, 0:44",2010,3
+108,Cancellara Fabian,28.0,Saxo Bank,,,+0:00,1:20 1:20,2010,3
+109,Breschel Matti,25.0,Saxo Bank,,,+0:00,1:24 1:24,2010,3
+110,H\xf8j Frank,37.0,Saxo Bank,,,+0:00,",, 1:24",2010,3
+111,Velits Martin,24.0,Team HTC - Columbia,,,+0:00,1:33 1:33,2010,3
+112,Gretsch Patrick,22.0,Team HTC - Columbia,,,+0:00,",, 1:33",2010,3
+113,De Weert Kevin,27.0,Quickstep - Innergetic,,,+0:00,1:35 1:35,2010,3
+114,van Vooren Steven,23.0,Topsport Vlaanderen - Mercator,,,+0:00,",, 1:35",2010,3
+115,Knaven Servais,38.0,Milram,,,+0:00,",, 1:35",2010,3
+116,Mouris Jens,29.0,Vacansoleil,,,+0:00,",, 1:35",2010,3
+117,Kluge Roger,24.0,Milram,,,+0:00,",, 1:35",2010,3
+118,Hansen Adam,28.0,Team HTC - Columbia,,,+0:00,2:22 2:22,2010,3
+119,Klemme Dominic,23.0,Saxo Bank,,,+0:00,",, 2:22",2010,3
+120,Terpstra Niki,25.0,Milram,,,+0:00,2:40 2:40,2010,3
+121,Goss Matthew,23.0,Team HTC - Columbia,,,+0:00,",, 2:40",2010,3
+122,Feillu Romain,25.0,Vacansoleil,,,+0:00,",, 2:40",2010,3
+123,Westra Lieuwe,27.0,Vacansoleil,,,+0:00,",, 2:40",2010,3
+124,Ciolek Gerald,23.0,Milram,,,+0:00,",, 2:40",2010,3
+125,Lodewyck Klaas,21.0,Topsport Vlaanderen - Mercator,,,+0:00,",, 2:40",2010,3
+DNF,Carlsen Kirk,22.0,Team Garmin - Transitions,,,+0:00,-3:01:39 -3:01:39,2010,3
+1,Chicchi Francesco,29.0,Liquigas - Doimo,20.0,,+0:00,3:16:58 3:16:58,2010,4
+2,Haussler Heinrich,25.0,Cervelo Test Team,12.0,,+0:00,",, ,,",2010,4
+3,Haedo Juan Jose,29.0,Saxo Bank,7.0,,+0:00,",, ,,",2010,4
+4,Bos Theo,26.0,Cervelo Test Team,5.0,,+0:00,",, ,,",2010,4
+5,Dehaes Kenny,25.0,Omega Pharma-Lotto,4.0,,+0:00,",, ,,",2010,4
+6,Kluge Roger,24.0,Milram,3.0,,+0:00,",, ,,",2010,4
+7,Goddaert Kristof,23.0,AG2R La Mondiale,2.0,,+0:00,",, ,,",2010,4
+8,Phinney Taylor,19.0,Trek - Livestrong presented by Radioshack,1.0,,+0:00,",, ,,",2010,4
+9,Napolitano Danilo,29.0,Team Katusha,,,+0:00,",, ,,",2010,4
+10,Cooke Baden,31.0,Saxo Bank,,,+0:00,",, ,,",2010,4
+11,Boonen Tom,29.0,Quickstep - Innergetic,,,+0:00,",, ,,",2010,4
+12,Goss Matthew,23.0,Team HTC - Columbia,,,+0:00,",, ,,",2010,4
+13,Murphy John,25.0,BMC Racing Team,,,+0:00,",, ,,",2010,4
+14,Mondory Lloyd,27.0,AG2R La Mondiale,,,+0:00,",, ,,",2010,4
+15,Wrolich Peter,35.0,Milram,,,+0:00,",, ,,",2010,4
+16,Gilbert Philippe,27.0,Omega Pharma-Lotto,,,+0:00,",, ,,",2010,4
+17,Boasson Hagen Edvald,22.0,Sky Procycling,,,+0:00,",, ,,",2010,4
+18,Hammond Roger,36.0,Cervelo Test Team,,,+0:00,",, ,,",2010,4
+19,Maaskant Martijn,26.0,Team Garmin - Transitions,,,+0:00,",, ,,",2010,4
+20,Mol Wouter,27.0,Vacansoleil,,,+0:00,",, ,,",2010,4
+21,Vanspeybrouck Pieter,23.0,Topsport Vlaanderen - Mercator,,,+0:00,",, ,,",2010,4
+22,Neirynck Stijn,24.0,Topsport Vlaanderen - Mercator,,,+0:00,",, ,,",2010,4
+23,Steurs Geert,28.0,Topsport Vlaanderen - Mercator,,,+0:00,",, ,,",2010,4
+24,O'Grady Stuart,36.0,Saxo Bank,,,+0:00,",, ,,",2010,4
+25,van Staeyen Michael,21.0,Topsport Vlaanderen - Mercator,,,+0:00,",, ,,",2010,4
+26,Eskov Nikita,27.0,Team Katusha,,,+0:00,",, ,,",2010,4
+27,Eisel Bernhard,28.0,Team HTC - Columbia,,,+0:00,",, ,,",2010,4
+28,Williams Justin,20.0,Trek - Livestrong presented by Radioshack,,,+0:00,",, ,,",2010,4
+29,Stannard Ian,22.0,Sky Procycling,,,+0:00,",, ,,",2010,4
+30,Velo Marco,35.0,Quickstep - Innergetic,,,+0:00,",, ,,",2010,4
+31,Oss Daniel,23.0,Liquigas - Doimo,,,+0:00,",, ,,",2010,4
+32,Casper Jimmy,31.0,Saur - Sojasun,,,+0:00,",, ,,",2010,4
+33,Smukulis Gatis,22.0,AG2R La Mondiale,,,+0:00,",, ,,",2010,4
+34,Vanmarcke Sep,21.0,Topsport Vlaanderen - Mercator,,,+0:00,",, ,,",2010,4
+35,Zahner Simon,26.0,BMC Racing Team,,,+0:00,",, ,,",2010,4
+36,Dockx Gert,21.0,Team HTC - Columbia,,,+0:00,",, ,,",2010,4
+37,Engoulvent Jimmy,30.0,Saur - Sojasun,,,+0:00,",, ,,",2010,4
+38,Elijzen Michiel,27.0,Omega Pharma-Lotto,,,+0:00,",, ,,",2010,4
+39,Lang Sebastian,30.0,Omega Pharma-Lotto,,,+0:00,",, ,,",2010,4
+40,Reimer Martin,22.0,Cervelo Test Team,,,+0:00,",, ,,",2010,4
+41,Kohler Martin,24.0,BMC Racing Team,,,+0:00,",, ,,",2010,4
+42,Stewart Jackson,29.0,BMC Racing Team,,,+0:00,",, ,,",2010,4
+43,Vandenbergh Stijn,25.0,Team Katusha,,,+0:00,",, ,,",2010,4
+44,Ballan Alessandro,30.0,BMC Racing Team,,,+0:00,",, ,,",2010,4
+45,Burghardt Marcus,26.0,BMC Racing Team,,,+0:00,",, ,,",2010,4
+46,De Vocht Wim,27.0,Milram,,,+0:00,",, ,,",2010,4
+47,Klier Andreas,34.0,Cervelo Test Team,,,+0:00,",, ,,",2010,4
+48,Rasch Gabriel,33.0,Cervelo Test Team,,,+0:00,",, ,,",2010,4
+49,Pate Danny,30.0,Team Garmin - Transitions,,,+0:00,",, ,,",2010,4
+50,Trusov Nikolay,24.0,Team Katusha,,,+0:00,",, ,,",2010,4
+51,Feillu Romain,25.0,Vacansoleil,,,+0:00,",, ,,",2010,4
+52,Pronk Matthe,35.0,Vacansoleil,,,+0:00,",, ,,",2010,4
+53,Lodewyck Klaas,21.0,Topsport Vlaanderen - Mercator,,,+0:00,",, ,,",2010,4
+54,Kyer Julian,21.0,Trek - Livestrong presented by Radioshack,,,+0:00,",, ,,",2010,4
+55,Poulhies St\xe9phane,24.0,Saur - Sojasun,,,+0:00,",, ,,",2010,4
+56,Martias Rony,29.0,Saur - Sojasun,,,+0:00,",, ,,",2010,4
+57,Haedo Lucas Sebastian,26.0,Saxo Bank,,,+0:00,",, ,,",2010,4
+58,Vandewalle Kristof,24.0,Topsport Vlaanderen - Mercator,,,+0:00,",, ,,",2010,4
+59,Kristoff Alexander,22.0,BMC Racing Team,,,+0:00,",, ,,",2010,4
+60,Rousseau Nicolas,26.0,AG2R La Mondiale,,,+0:00,",, ,,",2010,4
+61,Sentjens Roy,29.0,Milram,,,+0:00,",, ,,",2010,4
+62,Flecha Juan Antonio,32.0,Sky Procycling,,,+0:00,",, ,,",2010,4
+63,Dowsett Alex,21.0,Trek - Livestrong presented by Radioshack,,,+0:00,",, ,,",2010,4
+64,Traksel Bobbie,28.0,Vacansoleil,,,+0:00,",, ,,",2010,4
+65,Velits Martin,24.0,Team HTC - Columbia,,,+0:00,",, ,,",2010,4
+66,van Groen Arnoud,26.0,Vacansoleil,,,+0:00,",, ,,",2010,4
+67,van Vooren Steven,23.0,Topsport Vlaanderen - Mercator,,,+0:00,",, ,,",2010,4
+68,Cretskens Wilfried,33.0,Omega Pharma-Lotto,,,+0:00,0:25 0:25,2010,4
+69,Hoste Leif,32.0,Omega Pharma-Lotto,,,+0:00,0:27 0:27,2010,4
+70,Van Avermaet Greg,24.0,Omega Pharma-Lotto,,,+0:00,",, 0:27",2010,4
+71,Hansen Adam,28.0,Team HTC - Columbia,,,+0:00,0:28 0:28,2010,4
+72,Thomas Geraint,23.0,Sky Procycling,,,+0:00,0:30 0:30,2010,4
+73,Hunt Jeremy,35.0,Cervelo Test Team,,,+0:00,",, 0:30",2010,4
+74,Hinault S\xe9bastien,35.0,AG2R La Mondiale,,,+0:00,",, 0:30",2010,4
+75,Downing Russell,31.0,Sky Procycling,,,+0:00,0:32 0:32,2010,4
+76,Ruijgh Rob,23.0,Vacansoleil,,,+0:00,0:35 0:35,2010,4
+77,Vansummeren Johan,29.0,Team Garmin - Transitions,,,+0:00,",, 0:35",2010,4
+78,De Weert Kevin,27.0,Quickstep - Innergetic,,,+0:00,0:44 0:44,2010,4
+79,Coutouly Cedric,30.0,Saur - Sojasun,,,+0:00,",, 0:44",2010,4
+80,Terpstra Niki,25.0,Milram,,,+0:00,",, 0:44",2010,4
+81,Willems Frederik,30.0,Liquigas - Doimo,,,+0:00,0:55 0:55,2010,4
+82,Bennati Daniele,29.0,Liquigas - Doimo,,,+0:00,1:08 1:08,2010,4
+83,Cancellara Fabian,28.0,Saxo Bank,,,+0:00,1:09 1:09,2010,4
+84,Hulsmans Kevin,31.0,Quickstep - Innergetic,,,+0:00,1:18 1:18,2010,4
+85,Stauff Andreas,23.0,Quickstep - Innergetic,,,+0:00,1:20 1:20,2010,4
+86,H\xf8j Frank,37.0,Saxo Bank,,,+0:00,1:26 1:26,2010,4
+87,Tosatto Matteo,35.0,Quickstep - Innergetic,,,+0:00,1:32 1:32,2010,4
+88,Pozzato Filippo,28.0,Team Katusha,,,+0:00,1:42 1:42,2010,4
+89,Bandiera Marco,25.0,Team Katusha,,,+0:00,",, 1:42",2010,4
+90,King Benjamin,21.0,Trek - Livestrong presented by Radioshack,,,+0:00,",, 1:42",2010,4
+91,Campbell Cody,,,,,+0:00,",, 1:42",2010,4
+92,Ignatyev Mikhail,24.0,Team Katusha,,,+0:00,",, 1:42",2010,4
+93,Riblon Christophe,29.0,AG2R La Mondiale,,,+0:00,",, 1:42",2010,4
+94,Schar Michael,23.0,BMC Racing Team,,,+0:00,",, 1:42",2010,4
+95,Scheirlinckx Staf,30.0,Omega Pharma-Lotto,,,+0:00,",, 1:42",2010,4
+96,King Benjamin,20.0,Trek - Livestrong presented by Radioshack,,,+0:00,",, 1:42",2010,4
+97,Appollonio Davide,20.0,Cervelo Test Team,,,+0:00,",, 1:42",2010,4
+98,Nordhaug Lars Petter,25.0,Sky Procycling,,,+0:00,",, 1:42",2010,4
+99,Wiggins Bradley,29.0,Sky Procycling,,,+0:00,",, 1:42",2010,4
+100,Sergent Jesse,21.0,Trek - Livestrong presented by Radioshack,,,+0:00,",, 1:42",2010,4
+101,Gretsch Patrick,22.0,Team HTC - Columbia,,,+0:00,",, 1:42",2010,4
+102,Westra Lieuwe,27.0,Vacansoleil,,,+0:00,",, 1:42",2010,4
+103,B\xe9rard Julien,22.0,AG2R La Mondiale,,,+0:00,",, 1:42",2010,4
+104,Cimolai Davide,20.0,Liquigas - Doimo,,,+0:00,",, 1:42",2010,4
+105,Van Impe Kevin,28.0,Quickstep - Innergetic,,,+0:00,",, 1:42",2010,4
+106,Wynants Maarten,27.0,Quickstep - Innergetic,,,+0:00,",, 1:42",2010,4
+107,Gastauer Ben,22.0,AG2R La Mondiale,,,+0:00,",, 1:42",2010,4
+108,Santaromita Ivan,25.0,Liquigas - Doimo,,,+0:00,",, 1:42",2010,4
+109,Ovechkin Artem,23.0,Team Katusha,,,+0:00,",, 1:42",2010,4
+110,Quinziato Manuel,30.0,Liquigas - Doimo,,,+0:00,",, 1:42",2010,4
+111,Bak Lars Ytting,30.0,Team HTC - Columbia,,,+0:00,",, 1:42",2010,4
+112,Breschel Matti,25.0,Saxo Bank,,,+0:00,",, 1:42",2010,4
+113,Schr\xf6der Bjorn,29.0,Milram,,,+0:00,",, 1:42",2010,4
+114,Lemoine Cyril,26.0,Saur - Sojasun,,,+0:00,",, 1:42",2010,4
+115,Knaven Servais,38.0,Milram,,,+0:00,2:22 2:22,2010,4
+116,Mouris Jens,29.0,Vacansoleil,,,+0:00,",, 2:22",2010,4
+117,Klemme Dominic,23.0,Saxo Bank,,,+0:00,2:24 2:24,2010,4
+118,Tuft Svein,32.0,Team Garmin - Transitions,,,+0:00,2:27 2:27,2010,4
+119,Mangel Laurent,28.0,Saur - Sojasun,,,+0:00,2:39 2:39,2010,4
+120,Matheou Romain,21.0,Saur - Sojasun,,,+0:00,3:41 3:41,2010,4
+121,Ghyselinck Jan,21.0,Team HTC - Columbia,,,+0:00,3:43 3:43,2010,4
+122,Farrar Tyler,25.0,Team Garmin - Transitions,,,+0:00,4:21 4:21,2010,4
+123,Fischer Murilo Antonio,30.0,Team Garmin - Transitions,,,+0:00,",, 4:21",2010,4
+DNS,Paterski Maciej,23.0,Liquigas - Doimo,,,+0:00,-3:16:58 -3:16:58,2010,4
+DNS,Ciolek Gerald,23.0,Milram,,,+0:00,",, -3:16:58",2010,4
+1,Boonen Tom,29.0,Quickstep - Innergetic,20.0,,+0:00,3:13:00 3:13:00,2010,5
+2,Napolitano Danilo,29.0,Team Katusha,12.0,,+0:00,",, ,,",2010,5
+3,Boasson Hagen Edvald,22.0,Sky Procycling,7.0,,+0:00,",, ,,",2010,5
+4,Bos Theo,26.0,Cervelo Test Team,5.0,,+0:00,",, ,,",2010,5
+5,Haedo Juan Jose,29.0,Saxo Bank,4.0,,+0:00,",, ,,",2010,5
+6,Wrolich Peter,35.0,Milram,3.0,,+0:00,",, ,,",2010,5
+7,Chicchi Francesco,29.0,Liquigas - Doimo,2.0,,+0:00,",, ,,",2010,5
+8,Haussler Heinrich,25.0,Cervelo Test Team,1.0,,+0:00,",, ,,",2010,5
+9,Eisel Bernhard,28.0,Team HTC - Columbia,,,+0:00,",, ,,",2010,5
+10,Farrar Tyler,25.0,Team Garmin - Transitions,,,+0:00,",, ,,",2010,5
+11,O'Grady Stuart,36.0,Saxo Bank,,,+0:00,",, ,,",2010,5
+12,Trusov Nikolay,24.0,Team Katusha,,,+0:00,",, ,,",2010,5
+13,Burghardt Marcus,26.0,BMC Racing Team,,,+0:00,",, ,,",2010,5
+14,De Vocht Wim,27.0,Milram,,,+0:00,",, ,,",2010,5
+15,Hammond Roger,36.0,Cervelo Test Team,,,+0:00,",, ,,",2010,5
+16,Gilbert Philippe,27.0,Omega Pharma-Lotto,,,+0:00,",, ,,",2010,5
+17,Phinney Taylor,19.0,Trek - Livestrong presented by Radioshack,,,+0:00,",, ,,",2010,5
+18,Casper Jimmy,31.0,Saur - Sojasun,,,+0:00,",, ,,",2010,5
+19,Mondory Lloyd,27.0,AG2R La Mondiale,,,+0:00,",, ,,",2010,5
+20,Maaskant Martijn,26.0,Team Garmin - Transitions,,,+0:00,",, ,,",2010,5
+21,Kluge Roger,24.0,Milram,,,+0:00,",, ,,",2010,5
+22,Mol Wouter,27.0,Vacansoleil,,,+0:00,",, ,,",2010,5
+23,Steurs Geert,28.0,Topsport Vlaanderen - Mercator,,,+0:00,",, ,,",2010,5
+24,Klier Andreas,34.0,Cervelo Test Team,,,+0:00,",, ,,",2010,5
+25,Hunt Jeremy,35.0,Cervelo Test Team,,,+0:00,",, ,,",2010,5
+26,Velo Marco,35.0,Quickstep - Innergetic,,,+0:00,",, ,,",2010,5
+27,Matheou Romain,21.0,Saur - Sojasun,,,+0:00,",, ,,",2010,5
+28,Ballan Alessandro,30.0,BMC Racing Team,,,+0:00,",, ,,",2010,5
+29,Lodewyck Klaas,21.0,Topsport Vlaanderen - Mercator,,,+0:00,",, ,,",2010,5
+30,Eskov Nikita,27.0,Team Katusha,,,+0:00,",, ,,",2010,5
+31,Appollonio Davide,20.0,Cervelo Test Team,,,+0:00,",, ,,",2010,5
+32,Lang Sebastian,30.0,Omega Pharma-Lotto,,,+0:00,",, ,,",2010,5
+33,Cooke Baden,31.0,Saxo Bank,,,+0:00,",, ,,",2010,5
+34,Schr\xf6der Bjorn,29.0,Milram,,,+0:00,",, ,,",2010,5
+35,Lemoine Cyril,26.0,Saur - Sojasun,,,+0:00,",, ,,",2010,5
+36,Bennati Daniele,29.0,Liquigas - Doimo,,,+0:00,",, ,,",2010,5
+37,Haedo Lucas Sebastian,26.0,Saxo Bank,,,+0:00,",, ,,",2010,5
+38,van Groen Arnoud,26.0,Vacansoleil,,,+0:00,",, ,,",2010,5
+39,Klemme Dominic,23.0,Saxo Bank,,,+0:00,",, ,,",2010,5
+40,Vanmarcke Sep,21.0,Topsport Vlaanderen - Mercator,,,+0:00,",, ,,",2010,5
+41,H\xf8j Frank,37.0,Saxo Bank,,,+0:00,",, ,,",2010,5
+42,Rasch Gabriel,33.0,Cervelo Test Team,,,+0:00,",, ,,",2010,5
+43,Martias Rony,29.0,Saur - Sojasun,,,+0:00,",, ,,",2010,5
+44,Sentjens Roy,29.0,Milram,,,+0:00,",, ,,",2010,5
+45,Knaven Servais,38.0,Milram,,,+0:00,",, ,,",2010,5
+46,Stauff Andreas,23.0,Quickstep - Innergetic,,,+0:00,",, ,,",2010,5
+47,Hinault S\xe9bastien,36.0,AG2R La Mondiale,,,+0:00,",, ,,",2010,5
+48,Elijzen Michiel,27.0,Omega Pharma-Lotto,,,+0:00,",, ,,",2010,5
+49,Fischer Murilo Antonio,30.0,Team Garmin - Transitions,,,+0:00,",, ,,",2010,5
+50,Vandenbergh Stijn,25.0,Team Katusha,,,+0:00,",, ,,",2010,5
+51,Cancellara Fabian,28.0,Saxo Bank,,,+0:00,0:13 0:13,2010,5
+52,Hulsmans Kevin,31.0,Quickstep - Innergetic,,,+0:00,0:15 0:15,2010,5
+53,Bandiera Marco,25.0,Team Katusha,,,+0:00,0:26 0:26,2010,5
+54,Murphy John,25.0,BMC Racing Team,,,+0:00,0:30 0:30,2010,5
+55,Westra Lieuwe,27.0,Vacansoleil,,,+0:00,0:32 0:32,2010,5
+56,Mouris Jens,29.0,Vacansoleil,,,+0:00,",, 0:32",2010,5
+57,Quinziato Manuel,30.0,Liquigas - Doimo,,,+0:00,0:52 0:52,2010,5
+58,Oss Daniel,23.0,Liquigas - Doimo,,,+0:00,0:55 0:55,2010,5
+59,Downing Russell,31.0,Sky Procycling,,,+0:00,1:15 1:15,2010,5
+60,Wynants Maarten,27.0,Quickstep - Innergetic,,,+0:00,1:21 1:21,2010,5
+61,Dockx Gert,21.0,Team HTC - Columbia,,,+0:00,1:47 1:47,2010,5
+62,Vanspeybrouck Pieter,23.0,Topsport Vlaanderen - Mercator,,,+0:00,",, 1:47",2010,5
+63,Stewart Jackson,29.0,BMC Racing Team,,,+0:00,2:10 2:10,2010,5
+64,Kohler Martin,24.0,BMC Racing Team,,,+0:00,",, 2:10",2010,5
+65,Van Avermaet Greg,24.0,Omega Pharma-Lotto,,,+0:00,",, 2:10",2010,5
+66,Kyer Julian,21.0,Trek - Livestrong presented by Radioshack,,,+0:00,",, 2:10",2010,5
+67,Cretskens Wilfried,33.0,Omega Pharma-Lotto,,,+0:00,",, 2:10",2010,5
+68,Ruijgh Rob,23.0,Vacansoleil,,,+0:00,",, 2:10",2010,5
+69,Smukulis Gatis,22.0,AG2R La Mondiale,,,+0:00,",, 2:10",2010,5
+70,Scheirlinckx Staf,30.0,Omega Pharma-Lotto,,,+0:00,",, 2:10",2010,5
+71,Ignatyev Mikhail,24.0,Team Katusha,,,+0:00,",, 2:10",2010,5
+72,Feillu Romain,25.0,Vacansoleil,,,+0:00,",, 2:10",2010,5
+73,Gretsch Patrick,22.0,Team HTC - Columbia,,,+0:00,",, 2:10",2010,5
+74,Sergent Jesse,21.0,Trek - Livestrong presented by Radioshack,,,+0:00,",, 2:10",2010,5
+75,Reimer Martin,22.0,Cervelo Test Team,,,+0:00,",, 2:10",2010,5
+76,Schar Michael,23.0,BMC Racing Team,,,+0:00,",, 2:10",2010,5
+77,Kristoff Alexander,22.0,BMC Racing Team,,,+0:00,",, 2:10",2010,5
+78,B\xe9rard Julien,22.0,AG2R La Mondiale,,,+0:00,",, 2:10",2010,5
+79,Ghyselinck Jan,21.0,Team HTC - Columbia,,,+0:00,",, 2:10",2010,5
+80,King Benjamin,21.0,Trek - Livestrong presented by Radioshack,,,+0:00,",, 2:10",2010,5
+81,Velits Martin,24.0,Team HTC - Columbia,,,+0:00,",, 2:10",2010,5
+82,Vandewalle Kristof,24.0,Topsport Vlaanderen - Mercator,,,+0:00,",, 2:10",2010,5
+83,Traksel Bobbie,28.0,Vacansoleil,,,+0:00,",, 2:10",2010,5
+84,Tosatto Matteo,35.0,Quickstep - Innergetic,,,+0:00,",, 2:10",2010,5
+85,Pozzato Filippo,28.0,Team Katusha,,,+0:00,",, 2:10",2010,5
+86,van Staeyen Michael,21.0,Topsport Vlaanderen - Mercator,,,+0:00,",, 2:10",2010,5
+87,Cimolai Davide,20.0,Liquigas - Doimo,,,+0:00,",, 2:10",2010,5
+88,Ovechkin Artem,23.0,Team Katusha,,,+0:00,",, 2:10",2010,5
+89,Rousseau Nicolas,26.0,AG2R La Mondiale,,,+0:00,",, 2:10",2010,5
+90,Santaromita Ivan,25.0,Liquigas - Doimo,,,+0:00,",, 2:10",2010,5
+91,Pate Danny,30.0,Team Garmin - Transitions,,,+0:00,",, 2:10",2010,5
+92,Neirynck Stijn,24.0,Topsport Vlaanderen - Mercator,,,+0:00,",, 2:10",2010,5
+93,King Benjamin,20.0,Trek - Livestrong presented by Radioshack,,,+0:00,",, 2:10",2010,5
+94,Mangel Laurent,28.0,Saur - Sojasun,,,+0:00,",, 2:10",2010,5
+95,Campbell Cody,,,,,+0:00,",, 2:10",2010,5
+96,Vansummeren Johan,29.0,Team Garmin - Transitions,,,+0:00,",, 2:10",2010,5
+97,Williams Justin,20.0,Trek - Livestrong presented by Radioshack,,,+0:00,",, 2:10",2010,5
+98,Willems Frederik,30.0,Liquigas - Doimo,,,+0:00,",, 2:10",2010,5
+99,Breschel Matti,25.0,Saxo Bank,,,+0:00,",, 2:10",2010,5
+100,Stannard Ian,22.0,Sky Procycling,,,+0:00,",, 2:10",2010,5
+101,Gastauer Ben,22.0,AG2R La Mondiale,,,+0:00,",, 2:10",2010,5
+102,Riblon Christophe,29.0,AG2R La Mondiale,,,+0:00,",, 2:10",2010,5
+103,De Weert Kevin,27.0,Quickstep - Innergetic,,,+0:00,",, 2:10",2010,5
+104,Tuft Svein,32.0,Team Garmin - Transitions,,,+0:00,",, 2:10",2010,5
+105,van Vooren Steven,23.0,Topsport Vlaanderen - Mercator,,,+0:00,",, 2:10",2010,5
+106,Pronk Matthe,35.0,Vacansoleil,,,+0:00,",, 2:10",2010,5
+107,Dehaes Kenny,25.0,Omega Pharma-Lotto,,,+0:00,",, 2:10",2010,5
+108,Van Impe Kevin,28.0,Quickstep - Innergetic,,,+0:00,",, 2:10",2010,5
+109,Hoste Leif,32.0,Omega Pharma-Lotto,,,+0:00,",, 2:10",2010,5
+110,Bak Lars Ytting,30.0,Team HTC - Columbia,,,+0:00,",, 2:10",2010,5
+111,Zahner Simon,26.0,BMC Racing Team,,,+0:00,",, 2:10",2010,5
+112,Nordhaug Lars Petter,25.0,Sky Procycling,,,+0:00,",, 2:10",2010,5
+113,Goss Matthew,23.0,Team HTC - Columbia,,,+0:00,",, 2:10",2010,5
+114,Dowsett Alex,21.0,Trek - Livestrong presented by Radioshack,,,+0:00,",, 2:10",2010,5
+115,Engoulvent Jimmy,30.0,Saur - Sojasun,,,+0:00,",, 2:10",2010,5
+116,Poulhies St\xe9phane,24.0,Saur - Sojasun,,,+0:00,",, 2:10",2010,5
+117,Coutouly Cedric,30.0,Saur - Sojasun,,,+0:00,",, 2:10",2010,5
+118,Terpstra Niki,25.0,Milram,,,+0:00,",, 2:10",2010,5
+119,Thomas Geraint,23.0,Sky Procycling,,,+0:00,2:33 2:33,2010,5
+120,Flecha Juan Antonio,32.0,Sky Procycling,,,+0:00,",, 2:33",2010,5
+121,Wiggins Bradley,29.0,Sky Procycling,,,+0:00,",, 2:33",2010,5
+122,Hansen Adam,28.0,Team HTC - Columbia,,,+0:00,8:03 8:03,2010,5
+DNF,Goddaert Kristof,23.0,AG2R La Mondiale,,,+0:00,-3:13:00 -3:13:00,2010,5
+1,Chicchi Francesco,29.0,Liquigas - Doimo,20.0,8.0,+2:28,2:42:49 2:42:49,2010,6
+2,Farrar Tyler,25.0,Team Garmin - Transitions,12.0,32.0,+6:56,",, ,,",2010,6
+3,Haedo Juan Jose,29.0,Saxo Bank,7.0,40.0,+9:38,",, ,,",2010,6
+4,Goss Matthew,23.0,Team HTC - Columbia,5.0,54.0,+12:01,",, ,,",2010,6
+5,Casper Jimmy,31.0,Saur - Sojasun,4.0,41.0,+9:54,",, ,,",2010,6
+6,Boasson Hagen Edvald,22.0,Sky Procycling,3.0,39.0,+9:29,",, ,,",2010,6
+7,Boonen Tom,29.0,Quickstep - Innergetic,2.0,3.0,+1:45,",, ,,",2010,6
+8,Kluge Roger,24.0,Milram,1.0,4.0,+1:59,",, ,,",2010,6
+9,Haussler Heinrich,25.0,Cervelo Test Team,,9.0,+2:37,",, ,,",2010,6
+10,Murphy John,25.0,BMC Racing Team,,53.0,+11:51,",, ,,",2010,6
+11,Feillu Romain,25.0,Vacansoleil,,66.0,+13:32,",, ,,",2010,6
+12,Napolitano Danilo,29.0,Team Katusha,,6.0,+2:09,",, ,,",2010,6
+13,Dehaes Kenny,25.0,Omega Pharma-Lotto,,110.0,+18:31,",, ,,",2010,6
+14,Mondory Lloyd,27.0,AG2R La Mondiale,,22.0,+4:00,",, ,,",2010,6
+15,Hunt Jeremy,35.0,Cervelo Test Team,,16.0,+3:23,",, ,,",2010,6
+16,Sentjens Roy,29.0,Milram,,43.0,+9:58,",, ,,",2010,6
+17,van Staeyen Michael,21.0,Topsport Vlaanderen - Mercator,,58.0,+12:16,",, ,,",2010,6
+18,Cooke Baden,31.0,Saxo Bank,,18.0,+3:37,",, ,,",2010,6
+19,Kristoff Alexander,22.0,BMC Racing Team,,62.0,+12:45,",, ,,",2010,6
+20,Mol Wouter,27.0,Vacansoleil,,1.0,+0:00,",, ,,",2010,6
+21,Smukulis Gatis,22.0,AG2R La Mondiale,,59.0,+12:20,",, ,,",2010,6
+22,Dowsett Alex,21.0,Trek - Livestrong presented by Radioshack,,70.0,+13:49,",, ,,",2010,6
+23,Burghardt Marcus,26.0,BMC Racing Team,,5.0,+2:05,",, ,,",2010,6
+24,Phinney Taylor,19.0,Trek - Livestrong presented by Radioshack,,44.0,+10:12,",, ,,",2010,6
+25,Lang Sebastian,30.0,Omega Pharma-Lotto,,21.0,+3:56,",, ,,",2010,6
+26,Klier Andreas,34.0,Cervelo Test Team,,17.0,+3:35,",, ,,",2010,6
+27,Gilbert Philippe,27.0,Omega Pharma-Lotto,,7.0,+2:17,",, ,,",2010,6
+28,Hinault S\xe9bastien,36.0,AG2R La Mondiale,,46.0,+10:40,",, ,,",2010,6
+29,Lodewyck Klaas,21.0,Topsport Vlaanderen - Mercator,,15.0,+3:00,",, ,,",2010,6
+30,Velo Marco,35.0,Quickstep - Innergetic,,11.0,+2:47,",, ,,",2010,6
+31,Ballan Alessandro,30.0,BMC Racing Team,,12.0,+2:48,",, ,,",2010,6
+32,De Weert Kevin,27.0,Quickstep - Innergetic,,104.0,+17:43,",, ,,",2010,6
+33,Reimer Martin,22.0,Cervelo Test Team,,28.0,+5:39,",, ,,",2010,6
+34,Hammond Roger,36.0,Cervelo Test Team,,13.0,+2:53,",, ,,",2010,6
+35,Riblon Christophe,29.0,AG2R La Mondiale,,89.0,+15:27,",, ,,",2010,6
+36,Eisel Bernhard,28.0,Team HTC - Columbia,,19.0,+3:41,",, ,,",2010,6
+37,Williams Justin,20.0,Trek - Livestrong presented by Radioshack,,106.0,+17:51,",, ,,",2010,6
+38,O'Grady Stuart,36.0,Saxo Bank,,10.0,+2:40,",, ,,",2010,6
+39,Bos Theo,26.0,Cervelo Test Team,,25.0,+4:31,",, ,,",2010,6
+40,Breschel Matti,25.0,Saxo Bank,,85.0,+15:02,",, ,,",2010,6
+41,Wrolich Peter,35.0,Milram,,42.0,+9:56,",, ,,",2010,6
+42,Lemoine Cyril,26.0,Saur - Sojasun,,14.0,+2:54,",, ,,",2010,6
+43,Rousseau Nicolas,26.0,AG2R La Mondiale,,69.0,+13:47,",, ,,",2010,6
+44,Engoulvent Jimmy,30.0,Saur - Sojasun,,55.0,+12:04,",, ,,",2010,6
+45,Trusov Nikolay,24.0,Team Katusha,,20.0,+3:56,",, ,,",2010,6
+46,Downing Russell,31.0,Sky Procycling,,64.0,+12:57,0:08 0:08,2010,6
+47,De Vocht Wim,27.0,Milram,,52.0,+11:38,0:13 0:13,2010,6
+48,Oss Daniel,23.0,Liquigas - Doimo,,49.0,+11:07,0:18 0:18,2010,6
+49,Vansummeren Johan,29.0,Team Garmin - Transitions,,63.0,+12:46,0:20 0:20,2010,6
+50,Vanmarcke Sep,21.0,Topsport Vlaanderen - Mercator,,24.0,+4:19,0:26 0:26,2010,6
+51,Steurs Geert,28.0,Topsport Vlaanderen - Mercator,,2.0,+0:35,",, 0:26",2010,6
+52,Bennati Daniele,29.0,Liquigas - Doimo,,92.0,+16:02,",, 0:26",2010,6
+53,van Groen Arnoud,26.0,Vacansoleil,,23.0,+4:11,",, 0:26",2010,6
+54,van Vooren Steven,23.0,Topsport Vlaanderen - Mercator,,30.0,+6:32,",, 0:26",2010,6
+55,Dockx Gert,21.0,Team HTC - Columbia,,57.0,+12:13,",, 0:26",2010,6
+56,Pronk Matthe,35.0,Vacansoleil,,38.0,+9:20,",, 0:26",2010,6
+57,Schr\xf6der Bjorn,29.0,Milram,,26.0,+5:06,",, 0:26",2010,6
+58,Bandiera Marco,25.0,Team Katusha,,31.0,+6:34,0:29 0:29,2010,6
+59,Fischer Murilo Antonio,30.0,Team Garmin - Transitions,,37.0,+8:26,0:34 0:34,2010,6
+60,Willems Frederik,30.0,Liquigas - Doimo,,68.0,+13:36,0:37 0:37,2010,6
+61,Wynants Maarten,27.0,Quickstep - Innergetic,,67.0,+13:33,",, 0:37",2010,6
+62,Vandenbergh Stijn,25.0,Team Katusha,,47.0,+10:43,",, 0:37",2010,6
+63,Hoste Leif,32.0,Omega Pharma-Lotto,,80.0,+14:52,0:42 0:42,2010,6
+64,Zahner Simon,26.0,BMC Racing Team,,75.0,+14:22,0:53 0:53,2010,6
+65,Schar Michael,23.0,BMC Racing Team,,78.0,+14:39,",, 0:53",2010,6
+66,Neirynck Stijn,24.0,Topsport Vlaanderen - Mercator,,76.0,+14:36,",, 0:53",2010,6
+67,Rasch Gabriel,33.0,Cervelo Test Team,,27.0,+5:29,",, 0:53",2010,6
+68,Vandewalle Kristof,24.0,Topsport Vlaanderen - Mercator,,77.0,+14:36,",, 0:53",2010,6
+69,Stauff Andreas,23.0,Quickstep - Innergetic,,36.0,+7:54,0:57 0:57,2010,6
+70,Maaskant Martijn,26.0,Team Garmin - Transitions,,56.0,+12:08,1:00 1:00,2010,6
+71,Knaven Servais,38.0,Milram,,65.0,+13:26,1:06 1:06,2010,6
+72,Hulsmans Kevin,31.0,Quickstep - Innergetic,,29.0,+5:52,1:16 1:16,2010,6
+73,Quinziato Manuel,30.0,Liquigas - Doimo,,107.0,+18:18,",, 1:16",2010,6
+74,King Benjamin,21.0,Trek - Livestrong presented by Radioshack,,102.0,+17:29,1:26 1:26,2010,6
+75,Sergent Jesse,21.0,Trek - Livestrong presented by Radioshack,,99.0,+16:54,",, 1:26",2010,6
+76,Scheirlinckx Staf,30.0,Omega Pharma-Lotto,,97.0,+16:51,",, 1:26",2010,6
+77,Elijzen Michiel,27.0,Omega Pharma-Lotto,,60.0,+12:29,",, 1:26",2010,6
+78,Kohler Martin,24.0,BMC Racing Team,,33.0,+7:10,",, 1:26",2010,6
+79,Stewart Jackson,29.0,BMC Racing Team,,81.0,+14:57,",, 1:26",2010,6
+80,Ovechkin Artem,23.0,Team Katusha,,98.0,+16:51,",, 1:26",2010,6
+81,Velits Martin,24.0,Team HTC - Columbia,,82.0,+15:00,",, 1:26",2010,6
+82,Eskov Nikita,27.0,Team Katusha,,51.0,+11:36,",, 1:26",2010,6
+83,Cretskens Wilfried,33.0,Omega Pharma-Lotto,,90.0,+15:34,",, 1:26",2010,6
+84,Martias Rony,29.0,Saur - Sojasun,,50.0,+11:20,",, 1:26",2010,6
+85,Gastauer Ben,22.0,AG2R La Mondiale,,105.0,+17:50,",, 1:26",2010,6
+86,Bak Lars Ytting,30.0,Team HTC - Columbia,,86.0,+15:09,",, 1:26",2010,6
+87,Vanspeybrouck Pieter,23.0,Topsport Vlaanderen - Mercator,,79.0,+14:46,",, 1:26",2010,6
+88,Matheou Romain,21.0,Saur - Sojasun,,83.0,+15:01,",, 1:26",2010,6
+89,Van Avermaet Greg,24.0,Omega Pharma-Lotto,,72.0,+14:09,",, 1:26",2010,6
+90,Tosatto Matteo,35.0,Quickstep - Innergetic,,84.0,+15:01,",, 1:26",2010,6
+91,Pozzato Filippo,28.0,Team Katusha,,88.0,+15:24,",, 1:26",2010,6
+92,Haedo Lucas Sebastian,26.0,Saxo Bank,,61.0,+12:39,",, 1:26",2010,6
+93,Westra Lieuwe,27.0,Vacansoleil,,34.0,+7:25,",, 1:26",2010,6
+94,Ruijgh Rob,23.0,Vacansoleil,,111.0,+18:40,",, 1:26",2010,6
+95,Traksel Bobbie,28.0,Vacansoleil,,45.0,+10:17,",, 1:26",2010,6
+96,Mouris Jens,29.0,Vacansoleil,,91.0,+15:47,",, 1:26",2010,6
+97,Thomas Geraint,23.0,Sky Procycling,,73.0,+14:11,1:35 1:35,2010,6
+98,Nordhaug Lars Petter,25.0,Sky Procycling,,94.0,+16:27,",, 1:35",2010,6
+99,Flecha Juan Antonio,32.0,Sky Procycling,,108.0,+18:21,1:41 1:41,2010,6
+100,Santaromita Ivan,25.0,Liquigas - Doimo,,115.0,+21:15,",, 1:41",2010,6
+101,Appollonio Davide,20.0,Cervelo Test Team,,71.0,+14:04,",, 1:41",2010,6
+102,Stannard Ian,22.0,Sky Procycling,,35.0,+7:38,",, 1:41",2010,6
+103,Ignatyev Mikhail,24.0,Team Katusha,,100.0,+17:21,1:58 1:58,2010,6
+104,Mangel Laurent,28.0,Saur - Sojasun,,96.0,+16:45,2:02 2:02,2010,6
+105,Poulhies St\xe9phane,24.0,Saur - Sojasun,,74.0,+14:11,",, 2:02",2010,6
+106,King Benjamin,20.0,Trek - Livestrong presented by Radioshack,,116.0,+21:30,",, 2:02",2010,6
+107,Cancellara Fabian,28.0,Saxo Bank,,87.0,+15:13,",, 2:02",2010,6
+108,H\xf8j Frank,37.0,Saxo Bank,,93.0,+16:05,",, 2:02",2010,6
+109,Klemme Dominic,23.0,Saxo Bank,,95.0,+16:34,",, 2:02",2010,6
+110,Van Impe Kevin,28.0,Quickstep - Innergetic,,103.0,+17:37,2:25 2:25,2010,6
+111,Ghyselinck Jan,21.0,Team HTC - Columbia,,112.0,+18:56,2:28 2:28,2010,6
+112,Gretsch Patrick,22.0,Team HTC - Columbia,,113.0,+19:08,",, 2:28",2010,6
+113,Cimolai Davide,20.0,Liquigas - Doimo,,101.0,+17:24,3:38 3:38,2010,6
+114,Pate Danny,30.0,Team Garmin - Transitions,,48.0,+10:48,4:04 4:04,2010,6
+115,Tuft Svein,32.0,Team Garmin - Transitions,,109.0,+18:22,",, 4:04",2010,6
+116,Wiggins Bradley,29.0,Sky Procycling,,114.0,+19:19,",, 4:04",2010,6
+117,Terpstra Niki,25.0,Milram,,117.0,+21:40,4:09 4:09,2010,6
+118,Campbell Cody,,,,119.0,+25:28,5:16 5:16,2010,6
+119,Kyer Julian,21.0,Trek - Livestrong presented by Radioshack,,118.0,+22:12,",, 5:16",2010,6
+120,B\xe9rard Julien,22.0,AG2R La Mondiale,,120.0,+28:01,8:30 8:30,2010,6
+DNF,Coutouly Cedric,30.0,Saur - Sojasun,,,+ - 15:55:17,-2:42:49 -2:42:49,2010,6
+DNS,Hansen Adam,28.0,Team HTC - Columbia,,,+ - 15:55:17,",, -2:42:49",2010,6

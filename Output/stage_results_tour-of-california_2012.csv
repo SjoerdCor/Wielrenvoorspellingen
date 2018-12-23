@@ -1,0 +1,966 @@
+Age,Avg,GC,GC-Time,Pnt,Rider,Rnk,Team,Time,UCI,stage,year
+22.0,,1.0,+0:00,30.0,Sagan Peter,1,Liquigas - Cannondale,4:42:35 4:42:35,20.0,1,2012
+28.0,,2.0,+0:04,18.0,Haussler Heinrich,2,Team Garmin - Barracuda,",, ,,",14.0,1,2012
+38.0,,4.0,+0:06,12.0,Rodriguez Fred,3,Team Exergy,",, ,,",8.0,1,2012
+22.0,,7.0,+0:10,7.0,Howard Leigh,4,Orica GreenEDGE,",, ,,",7.0,1,2012
+26.0,,8.0,+0:10,4.0,Van Avermaet Greg,5,BMC Racing Team,",, ,,",6.0,1,2012
+38.0,,9.0,+0:10,3.0,Hincapie George,6,BMC Racing Team,",, ,,",5.0,1,2012
+24.0,,10.0,+0:10,2.0,Anderson Ryan,7,Spidertech Powered by C10,",, ,,",4.0,1,2012
+28.0,,11.0,+0:10,1.0,Vandenbergh Stijn,8,Omega Pharma - Quick-Step,",, ,,",2.0,1,2012
+20.0,,12.0,+0:10,,Craddock Lawson,9,Bontrager Livestrong Team,",, ,,",,1,2012
+28.0,,13.0,+0:10,,Sanchez Luis Leon,10,Rabobank Cycling Team,",, ,,",,1,2012
+28.0,,14.0,+0:10,,Martens Paul,11,Rabobank Cycling Team,",, ,,",,1,2012
+20.0,,15.0,+0:10,,Mannion Gavin,12,Bontrager Livestrong Team,",, ,,",,1,2012
+28.0,,16.0,+0:10,,Devenyns Dries,13,Omega Pharma - Quick-Step,",, ,,",,1,2012
+21.0,,17.0,+0:10,,Bardet Romain,14,AG2R La Mondiale,",, ,,",,1,2012
+25.0,,18.0,+0:10,,Duarte Fabio,15,Colombia - Coldeportes,",, ,,",,1,2012
+24.0,,19.0,+0:10,,Meyer Cameron,16,Orica GreenEDGE,",, ,,",,1,2012
+26.0,,20.0,+0:10,,Machado Tiago,17,RadioShack - Nissan,",, ,,",,1,2012
+21.0,,21.0,+0:10,,Dumoulin Tom,18,Argos - Shimano,",, ,,",,1,2012
+21.0,,22.0,+0:10,,Kelderman Wilco,19,Rabobank Cycling Team,",, ,,",,1,2012
+30.0,,23.0,+0:10,,Sutherland Rory,20,UnitedHealthcare Presented by Maxxis,",, ,,",,1,2012
+27.0,,24.0,+0:10,,Velits Peter,21,Omega Pharma - Quick-Step,",, ,,",,1,2012
+28.0,,25.0,+0:10,,de Maar Marc,22,UnitedHealthcare Presented by Maxxis,",, ,,",,1,2012
+40.0,,26.0,+0:10,,Horner Chris,23,RadioShack - Nissan,",, ,,",,1,2012
+31.0,,27.0,+0:10,,Weening Pieter,24,Orica GreenEDGE,",, ,,",,1,2012
+23.0,,28.0,+0:10,,Talansky Andrew,25,Team Garmin - Barracuda,",, ,,",,1,2012
+32.0,,29.0,+0:10,,Jones Chris,26,UnitedHealthcare Presented by Maxxis,",, ,,",,1,2012
+31.0,,30.0,+0:10,,Cummings Stephen,27,BMC Racing Team,",, ,,",,1,2012
+25.0,,31.0,+0:10,,Oss Daniel,28,Liquigas - Cannondale,",, ,,",,1,2012
+29.0,,32.0,+0:10,,Morabito Steve,29,BMC Racing Team,",, ,,",,1,2012
+24.0,,33.0,+0:10,,Atapuma John Darwin,30,Colombia - Coldeportes,",, ,,",,1,2012
+27.0,,34.0,+0:10,,Busche Matthew,31,RadioShack - Nissan,",, ,,",,1,2012
+21.0,,35.0,+0:10,,Durbridge Luke,32,Orica GreenEDGE,",, ,,",,1,2012
+31.0,,36.0,+0:10,,ten Dam Laurens,33,Rabobank Cycling Team,",, ,,",,1,2012
+34.0,,37.0,+0:10,,Danielson Thomas,34,Team Garmin - Barracuda,",, ,,",,1,2012
+28.0,,38.0,+0:10,,Bookwalter Brent,35,BMC Racing Team,",, ,,",,1,2012
+30.0,,39.0,+0:10,,Vandborg Brian,36,Spidertech Powered by C10,",, ,,",,1,2012
+27.0,,40.0,+0:10,,K\xfcnzli Raimond,37,Spidertech Powered by C10,",, ,,",,1,2012
+29.0,,41.0,+0:10,,Duggan Timothy,38,Liquigas - Cannondale,",, ,,",,1,2012
+33.0,,42.0,+0:10,,Zabriskie David,39,Team Garmin - Barracuda,",, ,,",,1,2012
+25.0,,43.0,+0:10,,Gesink Robert,40,Rabobank Cycling Team,",, ,,",,1,2012
+28.0,,44.0,+0:10,,Diaz Andr\xe8s Miguel,41,Team Exergy,",, ,,",,1,2012
+27.0,,45.0,+0:10,,Nibali Vincenzo,42,Liquigas - Cannondale,",, ,,",,1,2012
+38.0,,46.0,+0:10,,Leipheimer Levi,43,Omega Pharma - Quick-Step,",, ,,",,1,2012
+34.0,,47.0,+0:10,,Nocentini Rinaldo,44,AG2R La Mondiale,",, ,,",,1,2012
+33.0,,5.0,+0:06,,Jacques-Maynes Benjamin,45,Bissell Pro Cycling,",, ,,",,1,2012
+23.0,,48.0,+0:10,,van Garderen Tejay,46,BMC Racing Team,",, ,,",,1,2012
+22.0,,49.0,+0:10,,Roe Timothy,47,BMC Racing Team,",, ,,",,1,2012
+28.0,,50.0,+0:10,,Deignan Philip,48,UnitedHealthcare Presented by Maxxis,",, ,,",,1,2012
+32.0,,51.0,+0:10,,Cooke Matt,49,Team Exergy,",, ,,",,1,2012
+19.0,,6.0,+0:09,,Atkins Joshua,50,Bontrager Livestrong Team,",, ,,",,1,2012
+20.0,,52.0,+0:10,,Brown Nathan,51,Bontrager Livestrong Team,",, ,,",,1,2012
+25.0,,53.0,+0:10,,Sulzberger Wesley,52,Orica GreenEDGE,",, ,,",,1,2012
+21.0,,54.0,+0:10,,Boswell Ian,53,Bontrager Livestrong Team,",, ,,",,1,2012
+34.0,,3.0,+0:04,,Louder Jeff,54,UnitedHealthcare Presented by Maxxis,",, ,,",,1,2012
+31.0,,55.0,+0:10,,Vanotti Alessandro,55,Liquigas - Cannondale,",, ,,",,1,2012
+32.0,,56.0,+0:10,,Irizar Markel,56,RadioShack - Nissan,",, ,,",,1,2012
+36.0,,66.0,+0:32,,Baldwin Christopher,57,Bissell Pro Cycling,0:22 0:22,,1,2012
+31.0,,57.0,+0:10,,Boonen Tom,58,Omega Pharma - Quick-Step,",, 0:22",,1,2012
+24.0,,68.0,+0:34,,Geniez Alexandre,59,Argos - Shimano,0:24 0:24,,1,2012
+22.0,,69.0,+0:34,,Bennett George,60,RadioShack - Nissan,",, 0:24",,1,2012
+39.0,,70.0,+0:34,,Bajadali Andrew,61,Optum p/b Kelly Benefit Strategies,",, 0:24",,1,2012
+21.0,,71.0,+0:34,,Dombrowski Joe,62,Bontrager Livestrong Team,",, 0:24",,1,2012
+33.0,,72.0,+0:34,,Tankink Bram,63,Rabobank Cycling Team,",, 0:24",,1,2012
+25.0,,67.0,+0:33,,Bouet Maxime,64,AG2R La Mondiale,",, 0:24",,1,2012
+34.0,,73.0,+0:43,,Pipp Frank Kevin,65,Bissell Pro Cycling,0:33 0:33,,1,2012
+22.0,,58.0,+0:10,,Eijssen Yannick,66,BMC Racing Team,",, 0:33",,1,2012
+24.0,,59.0,+0:10,,Howes Alex,67,Team Garmin - Barracuda,",, 0:33",,1,2012
+31.0,,60.0,+0:10,,Vennell Jeremy,68,Bissell Pro Cycling,",, 0:33",,1,2012
+26.0,,61.0,+0:10,,Ch\xe9rel Micka\xebl,69,AG2R La Mondiale,",, 0:33",,1,2012
+27.0,,62.0,+0:10,,Roche Nicolas,70,AG2R La Mondiale,",, 0:33",,1,2012
+28.0,,63.0,+0:10,,Georges Sylvain,71,AG2R La Mondiale,",, 0:33",,1,2012
+29.0,,64.0,+0:10,,King Edward,72,Liquigas - Cannondale,",, 0:33",,1,2012
+28.0,,74.0,+4:53,,Johnson Sam,73,Team Exergy,4:43 4:43,,1,2012
+21.0,,65.0,+0:10,,Matthews Michael,74,Rabobank Cycling Team,",, 4:43",,1,2012
+24.0,,75.0,+6:25,,Salas Sebastian,75,Optum p/b Kelly Benefit Strategies,6:15 6:15,,1,2012
+34.0,,76.0,+7:06,,Wilson Matthew,76,Orica GreenEDGE,6:56 6:56,,1,2012
+27.0,,77.0,+7:06,,Clarke Jonathan,77,UnitedHealthcare Presented by Maxxis,",, 6:56",,1,2012
+33.0,,78.0,+7:06,,Zirbel Tom,78,Optum p/b Kelly Benefit Strategies,",, 6:56",,1,2012
+21.0,,79.0,+7:06,,Bevin Patrick,79,Bissell Pro Cycling,",, 6:56",,1,2012
+32.0,,80.0,+7:06,,Rast Gregory,80,RadioShack - Nissan,",, 6:56",,1,2012
+39.0,,81.0,+7:06,,McEwen Robbie,81,Orica GreenEDGE,",, 6:56",,1,2012
+37.0,,82.0,+7:06,,Pe\xf1a Victor Hugo,82,Colombia - Coldeportes,",, 6:56",,1,2012
+26.0,,83.0,+7:06,,Suarez Juan Pablo,83,Colombia - Coldeportes,",, 6:56",,1,2012
+31.0,,84.0,+7:06,,Da Dalto Mauro,84,Liquigas - Cannondale,",, 6:56",,1,2012
+22.0,,85.0,+7:06,,Loader Logan,85,Team Exergy,",, 6:56",,1,2012
+25.0,,86.0,+7:06,,Koren Kristijan,86,Liquigas - Cannondale,",, 6:56",,1,2012
+23.0,,87.0,+7:06,,King Benjamin,87,RadioShack - Nissan,",, 6:56",,1,2012
+23.0,,88.0,+7:06,,Jones Carter,88,Bissell Pro Cycling,",, 6:56",,1,2012
+30.0,,89.0,+7:06,,White Bradley,89,UnitedHealthcare Presented by Maxxis,",, 6:56",,1,2012
+21.0,,90.0,+7:06,,Houle Hugo,90,Spidertech Powered by C10,",, 6:56",,1,2012
+22.0,,91.0,+7:06,,Boily David,91,Spidertech Powered by C10,",, 6:56",,1,2012
+32.0,,92.0,+7:06,,Gonzalez Javier,92,Colombia - Coldeportes,",, 6:56",,1,2012
+22.0,,93.0,+7:06,,Boivin Guillaume,93,Spidertech Powered by C10,",, 6:56",,1,2012
+30.0,,94.0,+7:06,,Mondory Lloyd,94,AG2R La Mondiale,",, 6:56",,1,2012
+31.0,,95.0,+7:06,,Riblon Christophe,95,AG2R La Mondiale,",, 6:56",,1,2012
+23.0,,96.0,+7:06,,Damuseau Thomas,96,Argos - Shimano,",, 6:56",,1,2012
+25.0,,97.0,+7:06,,Ciolek Gerald,97,Omega Pharma - Quick-Step,",, 6:56",,1,2012
+24.0,,98.0,+7:06,,Kittel Marcel,98,Argos - Shimano,",, 6:56",,1,2012
+30.0,,99.0,+7:06,,Hanson Ken,99,Optum p/b Kelly Benefit Strategies,",, 6:56",,1,2012
+28.0,,100.0,+7:06,,Doi Yukihiro,100,Argos - Shimano,",, 6:56",,1,2012
+37.0,,101.0,+7:06,,Candelario Alex,101,Optum p/b Kelly Benefit Strategies,",, 6:56",,1,2012
+25.0,,102.0,+7:06,,Peterson Tom,102,Team Garmin - Barracuda,",, 6:56",,1,2012
+34.0,,103.0,+7:06,,Zwizanski Scott,103,Optum p/b Kelly Benefit Strategies,",, 6:56",,1,2012
+36.0,,104.0,+7:06,,Grabsch Bert,104,Omega Pharma - Quick-Step,",, 6:56",,1,2012
+40.0,,105.0,+7:06,,Voigt Jens,105,RadioShack - Nissan,",, 6:56",,1,2012
+26.0,,106.0,+7:06,,Kluge Roger,106,Argos - Shimano,",, 6:56",,1,2012
+26.0,,107.0,+7:06,,Stamsnijder Tom,107,Argos - Shimano,",, 6:56",,1,2012
+34.0,,108.0,+7:06,,Tjallingii Maarten,108,Rabobank Cycling Team,",, 6:56",,1,2012
+27.0,,109.0,+7:06,,Schmitt Morgan,109,Team Exergy,",, 6:56",,1,2012
+29.0,,110.0,+7:06,,de Kort Koen,110,Argos - Shimano,",, 6:56",,1,2012
+23.0,,111.0,+7:06,,Haas Nathan,111,Team Garmin - Barracuda,",, 6:56",,1,2012
+28.0,,112.0,+7:06,,Rabon Frantisek,112,Omega Pharma - Quick-Step,",, 6:56",,1,2012
+30.0,,113.0,+7:06,,Mccarty Jonathan Patrick,113,Spidertech Powered by C10,",, 6:56",,1,2012
+31.0,,114.0,+7:06,,Creed Michael,114,Optum p/b Kelly Benefit Strategies,",, 6:56",,1,2012
+20.0,,115.0,+7:06,,Stuyven Jasper,115,Bontrager Livestrong Team,",, 6:56",,1,2012
+19.0,,116.0,+7:06,,Eastman Ryan,116,Bontrager Livestrong Team,",, 6:56",,1,2012
+28.0,,117.0,+7:06,,Euser Lucas,117,,",, 6:56",,1,2012
+22.0,,118.0,+10:45,,Rodriguez Michael,118,Colombia - Coldeportes,10:35 10:35,,1,2012
+23.0,,119.0,+11:58,,Tvetcov Serghei,119,Team Exergy,11:48 11:48,,1,2012
+26.0,,120.0,+11:58,,Marentes Wilson Alexander,120,Colombia - Coldeportes,",, 11:48",,1,2012
+21.0,,121.0,+11:58,,Rathe Jacob,121,Team Garmin - Barracuda,",, 11:48",,1,2012
+26.0,,122.0,+11:58,,Quintero Carlos,122,Colombia - Coldeportes,",, 11:48",,1,2012
+38.0,,123.0,+11:58,,McCartney Jason,123,UnitedHealthcare Presented by Maxxis,",, 11:48",,1,2012
+29.0,,124.0,+11:58,,Alzate Carlos Eduardo,124,Team Exergy,",, 11:48",,1,2012
+29.0,,125.0,+11:58,,Friedman Michael,125,Optum p/b Kelly Benefit Strategies,",, 11:48",,1,2012
+23.0,,126.0,+11:58,,Young Eric,126,Bissell Pro Cycling,",, 11:48",,1,2012
+22.0,,127.0,+11:58,,Meyer Travis,127,Orica GreenEDGE,",, 11:48",,1,2012
+23.0,,128.0,+16:33,,Dahlheim Andrew,128,Bissell Pro Cycling,16:23 16:23,,1,2012
+22.0,,1.0,+0:00,30.0,Sagan Peter,1,Liquigas - Cannondale,5:02:00 5:02:00,20.0,2,2012
+28.0,,2.0,+0:08,18.0,Haussler Heinrich,2,Team Garmin - Barracuda,",, ,,",14.0,2,2012
+22.0,,3.0,+0:13,12.0,Howard Leigh,3,Orica GreenEDGE,",, ,,",8.0,2,2012
+29.0,,65.0,+7:16,7.0,de Kort Koen,4,Argos - Shimano,",, ,,",7.0,2,2012
+38.0,,5.0,+0:16,4.0,Rodriguez Fred,5,Team Exergy,",, ,,",6.0,2,2012
+26.0,,10.0,+0:20,3.0,Van Avermaet Greg,6,BMC Racing Team,",, ,,",5.0,2,2012
+20.0,,11.0,+0:20,2.0,Craddock Lawson,7,Bontrager Livestrong Team,",, ,,",4.0,2,2012
+28.0,,7.0,+0:17,1.0,de Maar Marc,8,UnitedHealthcare Presented by Maxxis,",, ,,",2.0,2,2012
+21.0,,13.0,+0:20,,Dumoulin Tom,9,Argos - Shimano,",, ,,",,2,2012
+27.0,,15.0,+0:20,,Velits Peter,10,Omega Pharma - Quick-Step,",, ,,",,2,2012
+20.0,,67.0,+7:16,,Stuyven Jasper,11,Bontrager Livestrong Team,",, ,,",,2,2012
+28.0,,21.0,+0:20,,Bookwalter Brent,12,BMC Racing Team,",, ,,",,2,2012
+37.0,,66.0,+7:16,,Candelario Alex,13,Optum p/b Kelly Benefit Strategies,",, ,,",,2,2012
+23.0,,63.0,+7:16,,Damuseau Thomas,14,Argos - Shimano,",, ,,",,2,2012
+23.0,,24.0,+0:20,,van Garderen Tejay,15,BMC Racing Team,",, ,,",,2,2012
+40.0,,17.0,+0:20,,Horner Chris,16,RadioShack - Nissan,",, ,,",,2,2012
+38.0,,12.0,+0:20,,Hincapie George,17,BMC Racing Team,",, ,,",,2,2012
+28.0,,14.0,+0:20,,Sanchez Luis Leon,18,Rabobank Cycling Team,",, ,,",,2,2012
+27.0,,36.0,+0:20,,Roche Nicolas,19,AG2R La Mondiale,",, ,,",,2,2012
+32.0,,8.0,+0:19,,Irizar Markel,20,RadioShack - Nissan,",, ,,",,2,2012
+25.0,,25.0,+0:20,,Gesink Robert,21,Rabobank Cycling Team,",, ,,",,2,2012
+21.0,,19.0,+0:20,,Kelderman Wilco,22,Rabobank Cycling Team,",, ,,",,2,2012
+21.0,,64.0,+7:16,,Houle Hugo,23,Spidertech Powered by C10,",, ,,",,2,2012
+21.0,,16.0,+0:20,,Bardet Romain,24,AG2R La Mondiale,",, ,,",,2,2012
+25.0,,18.0,+0:20,,Duarte Fabio,25,Colombia - Coldeportes,",, ,,",,2,2012
+36.0,,50.0,+0:42,,Baldwin Christopher,26,Bissell Pro Cycling,",, ,,",,2,2012
+34.0,,26.0,+0:20,,Danielson Thomas,27,Team Garmin - Barracuda,",, ,,",,2,2012
+28.0,,68.0,+7:16,,Doi Yukihiro,28,Argos - Shimano,",, ,,",,2,2012
+24.0,,20.0,+0:20,,Meyer Cameron,29,Orica GreenEDGE,",, ,,",,2,2012
+22.0,,53.0,+0:44,,Bennett George,30,RadioShack - Nissan,",, ,,",,2,2012
+33.0,,51.0,+0:42,,Tankink Bram,31,Rabobank Cycling Team,",, ,,",,2,2012
+24.0,,27.0,+0:20,,Atapuma John Darwin,32,Colombia - Coldeportes,",, ,,",,2,2012
+27.0,,30.0,+0:20,,K\xfcnzli Raimond,33,Spidertech Powered by C10,",, ,,",,2,2012
+,,,+ -9:44:15,,Jacques Hubert,34,,",, ,,",,2,2012
+30.0,,31.0,+0:20,,Vandborg Brian,35,Spidertech Powered by C10,",, ,,",,2,2012
+26.0,,22.0,+0:20,,Machado Tiago,36,RadioShack - Nissan,",, ,,",,2,2012
+38.0,,34.0,+0:20,,Leipheimer Levi,37,Omega Pharma - Quick-Step,",, ,,",,2,2012
+31.0,,32.0,+0:20,,ten Dam Laurens,38,Rabobank Cycling Team,",, ,,",,2,2012
+19.0,,9.0,+0:19,,Atkins Joshua,39,Bontrager Livestrong Team,",, ,,",,2,2012
+23.0,,28.0,+0:20,,Talansky Andrew,40,Team Garmin - Barracuda,",, ,,",,2,2012
+31.0,,29.0,+0:20,,Weening Pieter,41,Orica GreenEDGE,",, ,,",,2,2012
+28.0,,44.0,+0:20,,Georges Sylvain,42,AG2R La Mondiale,",, ,,",,2,2012
+28.0,,23.0,+0:20,,Martens Paul,43,Rabobank Cycling Team,",, ,,",,2,2012
+32.0,,38.0,+0:20,,Cooke Matt,44,Team Exergy,",, ,,",,2,2012
+26.0,,45.0,+0:20,,Ch\xe9rel Micka\xebl,45,AG2R La Mondiale,",, ,,",,2,2012
+28.0,,71.0,+7:16,,Euser Lucas,46,,",, ,,",,2,2012
+21.0,,54.0,+0:44,,Dombrowski Joe,47,Bontrager Livestrong Team,",, ,,",,2,2012
+21.0,,35.0,+0:20,,Durbridge Luke,48,Orica GreenEDGE,",, ,,",,2,2012
+34.0,,4.0,+0:14,,Louder Jeff,49,UnitedHealthcare Presented by Maxxis,",, ,,",,2,2012
+28.0,,41.0,+0:20,,Deignan Philip,50,UnitedHealthcare Presented by Maxxis,",, ,,",,2,2012
+24.0,,48.0,+0:20,,Howes Alex,51,Team Garmin - Barracuda,",, ,,",,2,2012
+33.0,,37.0,+0:20,,Zabriskie David,52,Team Garmin - Barracuda,",, ,,",,2,2012
+27.0,,39.0,+0:20,,Nibali Vincenzo,53,Liquigas - Cannondale,",, ,,",,2,2012
+40.0,,70.0,+7:16,,Voigt Jens,54,RadioShack - Nissan,",, ,,",,2,2012
+28.0,,40.0,+0:20,,Diaz Andr\xe8s Miguel,55,Team Exergy,",, ,,",,2,2012
+22.0,,49.0,+0:20,,Eijssen Yannick,56,BMC Racing Team,",, ,,",,2,2012
+30.0,,33.0,+0:20,,Sutherland Rory,57,UnitedHealthcare Presented by Maxxis,",, ,,",,2,2012
+37.0,,69.0,+7:16,,Pe\xf1a Victor Hugo,58,Colombia - Coldeportes,",, ,,",,2,2012
+20.0,,43.0,+0:20,,Brown Nathan,59,Bontrager Livestrong Team,",, ,,",,2,2012
+25.0,,52.0,+0:43,,Bouet Maxime,60,AG2R La Mondiale,",, ,,",,2,2012
+21.0,,46.0,+0:20,,Boswell Ian,61,Bontrager Livestrong Team,",, ,,",,2,2012
+22.0,,42.0,+0:20,,Roe Timothy,62,BMC Racing Team,",, ,,",,2,2012
+25.0,,47.0,+0:20,,Sulzberger Wesley,63,Orica GreenEDGE,",, ,,",,2,2012
+39.0,,57.0,+1:28,,Bajadali Andrew,64,Optum p/b Kelly Benefit Strategies,0:44 0:44,,2,2012
+29.0,,55.0,+1:04,,Duggan Timothy,65,Liquigas - Cannondale,",, 0:44",,2,2012
+31.0,,56.0,+1:04,,Vanotti Alessandro,66,Liquigas - Cannondale,",, 0:44",,2,2012
+27.0,,58.0,+1:56,,Busche Matthew,67,RadioShack - Nissan,1:36 1:36,,2,2012
+25.0,,59.0,+3:22,,Oss Daniel,68,Liquigas - Cannondale,3:02 3:02,,2,2012
+31.0,,60.0,+7:04,,Cummings Stephen,69,BMC Racing Team,6:44 6:44,,2,2012
+29.0,,62.0,+7:04,,Morabito Steve,70,BMC Racing Team,",, 6:44",,2,2012
+32.0,,61.0,+7:04,,Jones Chris,71,UnitedHealthcare Presented by Maxxis,",, 6:44",,2,2012
+23.0,,85.0,+15:32,,King Benjamin,72,RadioShack - Nissan,8:16 8:16,,2,2012
+30.0,,83.0,+15:31,,Mondory Lloyd,73,AG2R La Mondiale,",, 8:16",,2,2012
+22.0,,95.0,+19:11,,Rodriguez Michael,74,Colombia - Coldeportes,",, 8:16",,2,2012
+29.0,,73.0,+8:36,,King Edward,75,Liquigas - Cannondale,",, 8:16",,2,2012
+20.0,,72.0,+8:36,,Mannion Gavin,76,Bontrager Livestrong Team,",, 8:16",,2,2012
+19.0,,89.0,+15:32,,Eastman Ryan,77,Bontrager Livestrong Team,",, 8:16",,2,2012
+34.0,,75.0,+9:09,,Pipp Frank Kevin,78,Bissell Pro Cycling,",, 8:16",,2,2012
+25.0,,87.0,+15:32,,Peterson Tom,79,Team Garmin - Barracuda,",, 8:16",,2,2012
+27.0,,84.0,+15:32,,Clarke Jonathan,80,UnitedHealthcare Presented by Maxxis,",, 8:16",,2,2012
+36.0,,88.0,+15:32,,Grabsch Bert,81,Omega Pharma - Quick-Step,",, 8:16",,2,2012
+25.0,,86.0,+15:32,,Koren Kristijan,82,Liquigas - Cannondale,",, 8:16",,2,2012
+24.0,,74.0,+9:00,,Geniez Alexandre,83,Argos - Shimano,",, 8:16",,2,2012
+28.0,,76.0,+11:53,,Vandenbergh Stijn,84,Omega Pharma - Quick-Step,11:33 11:33,,2,2012
+31.0,,77.0,+11:53,,Boonen Tom,85,Omega Pharma - Quick-Step,",, 11:33",,2,2012
+31.0,,93.0,+18:49,,Riblon Christophe,86,AG2R La Mondiale,",, 11:33",,2,2012
+22.0,,92.0,+18:49,,Boily David,87,Spidertech Powered by C10,",, 11:33",,2,2012
+24.0,,90.0,+18:08,,Salas Sebastian,88,Optum p/b Kelly Benefit Strategies,",, 11:33",,2,2012
+26.0,,118.0,+23:41,,Quintero Carlos,89,Colombia - Coldeportes,",, 11:33",,2,2012
+33.0,,91.0,+18:49,,Zirbel Tom,90,Optum p/b Kelly Benefit Strategies,",, 11:33",,2,2012
+30.0,,94.0,+18:49,,Mccarty Jonathan Patrick,91,Spidertech Powered by C10,",, 11:33",,2,2012
+34.0,,102.0,+21:17,,Zwizanski Scott,92,Optum p/b Kelly Benefit Strategies,14:01 14:01,,2,2012
+31.0,,104.0,+21:17,,Creed Michael,93,Optum p/b Kelly Benefit Strategies,",, 14:01",,2,2012
+32.0,,99.0,+21:17,,Rast Gregory,94,RadioShack - Nissan,",, 14:01",,2,2012
+30.0,,97.0,+21:13,,White Bradley,95,UnitedHealthcare Presented by Maxxis,",, 14:01",,2,2012
+34.0,,98.0,+21:15,,Tjallingii Maarten,96,Rabobank Cycling Team,",, 14:01",,2,2012
+26.0,,103.0,+21:17,,Stamsnijder Tom,97,Argos - Shimano,",, 14:01",,2,2012
+39.0,,101.0,+21:17,,McEwen Robbie,98,Orica GreenEDGE,",, 14:01",,2,2012
+22.0,,120.0,+26:09,,Meyer Travis,99,Orica GreenEDGE,",, 14:01",,2,2012
+34.0,,100.0,+21:17,,Wilson Matthew,100,Orica GreenEDGE,",, 14:01",,2,2012
+38.0,,119.0,+26:09,,McCartney Jason,101,UnitedHealthcare Presented by Maxxis,",, 14:01",,2,2012
+23.0,,105.0,+21:17,,Haas Nathan,102,Team Garmin - Barracuda,",, 14:01",,2,2012
+31.0,,78.0,+14:19,,Vennell Jeremy,103,Bissell Pro Cycling,",, 14:01",,2,2012
+28.0,,80.0,+14:21,,Devenyns Dries,104,Omega Pharma - Quick-Step,",, 14:01",,2,2012
+24.0,,79.0,+14:21,,Anderson Ryan,105,Spidertech Powered by C10,",, 14:01",,2,2012
+26.0,,121.0,+26:53,,Marentes Wilson Alexander,106,Colombia - Coldeportes,14:45 14:45,,2,2012
+26.0,,113.0,+22:01,,Kluge Roger,107,Argos - Shimano,",, 14:45",,2,2012
+29.0,,123.0,+26:53,,Friedman Michael,108,Optum p/b Kelly Benefit Strategies,",, 14:45",,2,2012
+23.0,,122.0,+26:53,,Tvetcov Serghei,109,Team Exergy,",, 14:45",,2,2012
+23.0,,106.0,+22:01,,Jones Carter,110,Bissell Pro Cycling,",, 14:45",,2,2012
+32.0,,109.0,+22:01,,Gonzalez Javier,111,Colombia - Coldeportes,",, 14:45",,2,2012
+25.0,,112.0,+22:01,,Ciolek Gerald,112,Omega Pharma - Quick-Step,",, 14:45",,2,2012
+22.0,,110.0,+22:01,,Boivin Guillaume,113,Spidertech Powered by C10,",, 14:45",,2,2012
+21.0,,124.0,+26:53,,Rathe Jacob,114,Team Garmin - Barracuda,",, 14:45",,2,2012
+27.0,,116.0,+22:01,,Schmitt Morgan,115,Team Exergy,",, 14:45",,2,2012
+31.0,,107.0,+22:01,,Da Dalto Mauro,116,Liquigas - Cannondale,",, 14:45",,2,2012
+22.0,,108.0,+22:01,,Loader Logan,117,Team Exergy,",, 14:45",,2,2012
+28.0,,96.0,+19:48,,Johnson Sam,118,Team Exergy,",, 14:45",,2,2012
+30.0,,114.0,+22:01,,Hanson Ken,119,Optum p/b Kelly Benefit Strategies,",, 14:45",,2,2012
+23.0,,126.0,+31:28,,Dahlheim Andrew,120,Bissell Pro Cycling,",, 14:45",,2,2012
+24.0,,115.0,+22:01,,Kittel Marcel,121,Argos - Shimano,",, 14:45",,2,2012
+21.0,,82.0,+15:05,,Matthews Michael,122,Rabobank Cycling Team,",, 14:45",,2,2012
+28.0,,117.0,+22:01,,Rabon Frantisek,123,Omega Pharma - Quick-Step,",, 14:45",,2,2012
+26.0,,111.0,+22:01,,Suarez Juan Pablo,124,Colombia - Coldeportes,",, 14:45",,2,2012
+34.0,,81.0,+15:05,,Nocentini Rinaldo,125,AG2R La Mondiale,",, 14:45",,2,2012
+29.0,,125.0,+26:53,,Alzate Carlos Eduardo,126,Team Exergy,",, 14:45",,2,2012
+21.0,,,+ -9:44:15,,Bevin Patrick,HD,Bissell Pro Cycling,",, 14:45",,2,2012
+23.0,,,+ -9:44:15,,Young Eric,HD,Bissell Pro Cycling,",, 14:45",,2,2012
+22.0,,1.0,+0:00,30.0,Sagan Peter,1,Liquigas - Cannondale,4:50:49 4:50:49,20.0,3,2012
+28.0,,2.0,+0:12,18.0,Haussler Heinrich,2,Team Garmin - Barracuda,",, ,,",14.0,3,2012
+31.0,,72.0,+11:59,12.0,Boonen Tom,3,Omega Pharma - Quick-Step,",, ,,",8.0,3,2012
+37.0,,59.0,+7:26,7.0,Candelario Alex,4,Optum p/b Kelly Benefit Strategies,",, ,,",7.0,3,2012
+30.0,,77.0,+15:41,4.0,Mondory Lloyd,5,AG2R La Mondiale,",, ,,",6.0,3,2012
+38.0,,4.0,+0:26,3.0,Rodriguez Fred,6,Team Exergy,",, ,,",5.0,3,2012
+21.0,,60.0,+7:26,2.0,Houle Hugo,7,Spidertech Powered by C10,",, ,,",4.0,3,2012
+29.0,,61.0,+7:26,1.0,de Kort Koen,8,Argos - Shimano,",, ,,",2.0,3,2012
+21.0,,76.0,+15:15,,Matthews Michael,9,Rabobank Cycling Team,",, ,,",,3,2012
+25.0,,32.0,+0:30,,Sulzberger Wesley,10,Orica GreenEDGE,",, ,,",,3,2012
+26.0,,88.0,+22:11,,Kluge Roger,11,Argos - Shimano,",, ,,",,3,2012
+34.0,,70.0,+9:19,,Pipp Frank Kevin,12,Bissell Pro Cycling,",, ,,",,3,2012
+20.0,,62.0,+7:26,,Stuyven Jasper,13,Bontrager Livestrong Team,",, ,,",,3,2012
+32.0,,86.0,+21:27,,Rast Gregory,14,RadioShack - Nissan,",, ,,",,3,2012
+26.0,,9.0,+0:30,,Van Avermaet Greg,15,BMC Racing Team,",, ,,",,3,2012
+21.0,,22.0,+0:30,,Durbridge Luke,16,Orica GreenEDGE,",, ,,",,3,2012
+20.0,,68.0,+8:46,,Mannion Gavin,17,Bontrager Livestrong Team,",, ,,",,3,2012
+25.0,,89.0,+22:11,,Ciolek Gerald,18,Omega Pharma - Quick-Step,",, ,,",,3,2012
+27.0,,12.0,+0:30,,Velits Peter,19,Omega Pharma - Quick-Step,",, ,,",,3,2012
+28.0,,11.0,+0:30,,Sanchez Luis Leon,20,Rabobank Cycling Team,",, ,,",,3,2012
+28.0,,6.0,+0:27,,de Maar Marc,21,UnitedHealthcare Presented by Maxxis,",, ,,",,3,2012
+28.0,,63.0,+7:26,,Doi Yukihiro,22,Argos - Shimano,",, ,,",,3,2012
+26.0,,16.0,+0:30,,Machado Tiago,23,RadioShack - Nissan,",, ,,",,3,2012
+20.0,,10.0,+0:30,,Craddock Lawson,24,Bontrager Livestrong Team,",, ,,",,3,2012
+24.0,,18.0,+0:30,,Atapuma John Darwin,25,Colombia - Coldeportes,",, ,,",,3,2012
+23.0,,19.0,+0:30,,van Garderen Tejay,26,BMC Racing Team,",, ,,",,3,2012
+40.0,,15.0,+0:30,,Horner Chris,27,RadioShack - Nissan,",, ,,",,3,2012
+38.0,,13.0,+0:30,,Hincapie George,28,BMC Racing Team,",, ,,",,3,2012
+28.0,,73.0,+12:03,,Vandenbergh Stijn,29,Omega Pharma - Quick-Step,",, ,,",,3,2012
+36.0,,49.0,+0:52,,Baldwin Christopher,30,Bissell Pro Cycling,",, ,,",,3,2012
+28.0,,17.0,+0:30,,Bookwalter Brent,31,BMC Racing Team,",, ,,",,3,2012
+32.0,,7.0,+0:29,,Irizar Markel,32,RadioShack - Nissan,",, ,,",,3,2012
+21.0,,14.0,+0:30,,Dumoulin Tom,33,Argos - Shimano,",, ,,",,3,2012
+23.0,,24.0,+0:30,,Talansky Andrew,34,Team Garmin - Barracuda,",, ,,",,3,2012
+25.0,,58.0,+3:32,,Oss Daniel,35,Liquigas - Cannondale,",, ,,",,3,2012
+22.0,,38.0,+0:30,,Eijssen Yannick,36,BMC Racing Team,",, ,,",,3,2012
+34.0,,23.0,+0:30,,Danielson Thomas,37,Team Garmin - Barracuda,",, ,,",,3,2012
+,,,+ - 14:34:54,,Jacques Hubert,38,,",, ,,",,3,2012
+37.0,,64.0,+7:26,,Pe\xf1a Victor Hugo,39,Colombia - Coldeportes,",, ,,",,3,2012
+28.0,,75.0,+14:31,,Devenyns Dries,40,Omega Pharma - Quick-Step,",, ,,",,3,2012
+31.0,,28.0,+0:30,,ten Dam Laurens,41,Rabobank Cycling Team,",, ,,",,3,2012
+30.0,,29.0,+0:30,,Vandborg Brian,42,Spidertech Powered by C10,",, ,,",,3,2012
+30.0,,31.0,+0:30,,Sutherland Rory,43,UnitedHealthcare Presented by Maxxis,",, ,,",,3,2012
+22.0,,52.0,+0:54,,Bennett George,44,RadioShack - Nissan,",, ,,",,3,2012
+24.0,,20.0,+0:30,,Meyer Cameron,45,Orica GreenEDGE,",, ,,",,3,2012
+38.0,,33.0,+0:30,,Leipheimer Levi,46,Omega Pharma - Quick-Step,",, ,,",,3,2012
+27.0,,36.0,+0:30,,Roche Nicolas,47,AG2R La Mondiale,",, ,,",,3,2012
+26.0,,40.0,+0:30,,Ch\xe9rel Micka\xebl,48,AG2R La Mondiale,",, ,,",,3,2012
+33.0,,37.0,+0:30,,Zabriskie David,49,Team Garmin - Barracuda,",, ,,",,3,2012
+21.0,,21.0,+0:30,,Kelderman Wilco,50,Rabobank Cycling Team,",, ,,",,3,2012
+19.0,,8.0,+0:29,,Atkins Joshua,51,Bontrager Livestrong Team,",, ,,",,3,2012
+25.0,,30.0,+0:30,,Gesink Robert,52,Rabobank Cycling Team,",, ,,",,3,2012
+33.0,,50.0,+0:52,,Tankink Bram,53,Rabobank Cycling Team,",, ,,",,3,2012
+27.0,,57.0,+2:06,,Busche Matthew,54,RadioShack - Nissan,",, ,,",,3,2012
+27.0,,90.0,+22:11,,Schmitt Morgan,55,Team Exergy,",, ,,",,3,2012
+27.0,,34.0,+0:30,,K\xfcnzli Raimond,56,Spidertech Powered by C10,",, ,,",,3,2012
+28.0,,27.0,+0:30,,Martens Paul,57,Rabobank Cycling Team,",, ,,",,3,2012
+28.0,,44.0,+0:30,,Georges Sylvain,58,AG2R La Mondiale,",, ,,",,3,2012
+25.0,,25.0,+0:30,,Duarte Fabio,59,Colombia - Coldeportes,",, ,,",,3,2012
+21.0,,53.0,+0:54,,Dombrowski Joe,60,Bontrager Livestrong Team,",, ,,",,3,2012
+25.0,,51.0,+0:53,,Bouet Maxime,61,AG2R La Mondiale,",, ,,",,3,2012
+24.0,,45.0,+0:30,,Howes Alex,62,Team Garmin - Barracuda,",, ,,",,3,2012
+27.0,,39.0,+0:30,,Nibali Vincenzo,63,Liquigas - Cannondale,",, ,,",,3,2012
+34.0,,3.0,+0:24,,Louder Jeff,64,UnitedHealthcare Presented by Maxxis,",, ,,",,3,2012
+28.0,,41.0,+0:30,,Deignan Philip,65,UnitedHealthcare Presented by Maxxis,",, ,,",,3,2012
+33.0,,81.0,+18:59,,Zirbel Tom,66,Optum p/b Kelly Benefit Strategies,",, ,,",,3,2012
+21.0,,26.0,+0:30,,Bardet Romain,67,AG2R La Mondiale,",, ,,",,3,2012
+25.0,,78.0,+15:42,,Peterson Tom,68,Team Garmin - Barracuda,",, ,,",,3,2012
+31.0,,35.0,+0:30,,Weening Pieter,69,Orica GreenEDGE,",, ,,",,3,2012
+39.0,,56.0,+1:38,,Bajadali Andrew,70,Optum p/b Kelly Benefit Strategies,",, ,,",,3,2012
+22.0,,46.0,+0:30,,Roe Timothy,71,BMC Racing Team,",, ,,",,3,2012
+40.0,,66.0,+7:26,,Voigt Jens,72,RadioShack - Nissan,",, ,,",,3,2012
+28.0,,43.0,+0:30,,Diaz Andr\xe8s Miguel,73,Team Exergy,",, ,,",,3,2012
+32.0,,42.0,+0:30,,Cooke Matt,74,Team Exergy,",, ,,",,3,2012
+21.0,,47.0,+0:30,,Boswell Ian,75,Bontrager Livestrong Team,",, ,,",,3,2012
+28.0,,67.0,+7:26,,Euser Lucas,76,,",, ,,",,3,2012
+22.0,,83.0,+19:21,,Rodriguez Michael,77,Colombia - Coldeportes,",, ,,",,3,2012
+31.0,,55.0,+1:14,,Vanotti Alessandro,78,Liquigas - Cannondale,",, ,,",,3,2012
+34.0,,85.0,+21:25,,Tjallingii Maarten,79,Rabobank Cycling Team,",, ,,",,3,2012
+31.0,,87.0,+21:27,,Creed Michael,80,Optum p/b Kelly Benefit Strategies,",, ,,",,3,2012
+29.0,,54.0,+1:14,,Duggan Timothy,81,Liquigas - Cannondale,",, ,,",,3,2012
+20.0,,48.0,+0:30,,Brown Nathan,82,Bontrager Livestrong Team,",, ,,",,3,2012
+23.0,,65.0,+7:26,,Damuseau Thomas,83,Argos - Shimano,",, ,,",,3,2012
+24.0,,69.0,+9:10,,Geniez Alexandre,84,Argos - Shimano,",, ,,",,3,2012
+34.0,,79.0,+16:09,,Nocentini Rinaldo,85,AG2R La Mondiale,0:54 0:54,,3,2012
+39.0,,94.0,+23:58,,McEwen Robbie,86,Orica GreenEDGE,2:31 2:31,,3,2012
+19.0,,80.0,+18:13,,Eastman Ryan,87,Bontrager Livestrong Team,",, 2:31",,3,2012
+22.0,,95.0,+24:42,,Boily David,88,Spidertech Powered by C10,5:43 5:43,,3,2012
+29.0,,74.0,+14:29,,King Edward,89,Liquigas - Cannondale,",, 5:43",,3,2012
+23.0,,84.0,+21:25,,King Benjamin,90,RadioShack - Nissan,",, 5:43",,3,2012
+26.0,,102.0,+29:34,,Quintero Carlos,91,Colombia - Coldeportes,",, 5:43",,3,2012
+22.0,,99.0,+27:54,,Boivin Guillaume,92,Spidertech Powered by C10,",, 5:43",,3,2012
+25.0,,92.0,+23:27,,Koren Kristijan,93,Liquigas - Cannondale,7:45 7:45,,3,2012
+23.0,,103.0,+29:56,,Jones Carter,94,Bissell Pro Cycling,",, 7:45",,3,2012
+36.0,,93.0,+23:27,,Grabsch Bert,95,Omega Pharma - Quick-Step,",, 7:45",,3,2012
+30.0,,100.0,+29:08,,White Bradley,96,UnitedHealthcare Presented by Maxxis,",, 7:45",,3,2012
+34.0,,101.0,+29:12,,Zwizanski Scott,97,Optum p/b Kelly Benefit Strategies,",, 7:45",,3,2012
+24.0,,97.0,+26:02,,Salas Sebastian,98,Optum p/b Kelly Benefit Strategies,",, 7:45",,3,2012
+24.0,,91.0,+22:16,,Anderson Ryan,99,Spidertech Powered by C10,",, 7:45",,3,2012
+22.0,,111.0,+34:04,,Meyer Travis,100,Orica GreenEDGE,",, 7:45",,3,2012
+26.0,,118.0,+34:45,,Marentes Wilson Alexander,101,Colombia - Coldeportes,",, 7:45",,3,2012
+32.0,,104.0,+29:56,,Gonzalez Javier,102,Colombia - Coldeportes,",, 7:45",,3,2012
+22.0,,71.0,+11:06,,Howard Leigh,103,Orica GreenEDGE,10:43 10:43,,3,2012
+27.0,,108.0,+32:10,,Stamsnijder Tom,104,Argos - Shimano,",, 10:43",,3,2012
+31.0,,96.0,+25:10,,Vennell Jeremy,105,Bissell Pro Cycling,",, 10:43",,3,2012
+38.0,,119.0,+38:25,,McCartney Jason,106,UnitedHealthcare Presented by Maxxis,12:06 12:06,,3,2012
+27.0,,98.0,+27:48,,Clarke Jonathan,107,UnitedHealthcare Presented by Maxxis,",, 12:06",,3,2012
+26.0,,113.0,+34:17,,Suarez Juan Pablo,108,Colombia - Coldeportes,",, 12:06",,3,2012
+24.0,,115.0,+34:17,,Kittel Marcel,109,Argos - Shimano,",, 12:06",,3,2012
+23.0,,120.0,+39:09,,Tvetcov Serghei,110,Team Exergy,",, 12:06",,3,2012
+31.0,,112.0,+34:17,,Da Dalto Mauro,111,Liquigas - Cannondale,",, 12:06",,3,2012
+23.0,,110.0,+33:33,,Haas Nathan,112,Team Garmin - Barracuda,",, 12:06",,3,2012
+30.0,,116.0,+34:17,,Hanson Ken,113,Optum p/b Kelly Benefit Strategies,",, 12:06",,3,2012
+34.0,,109.0,+33:33,,Wilson Matthew,114,Orica GreenEDGE,",, 12:06",,3,2012
+21.0,,122.0,+39:09,,Rathe Jacob,115,Team Garmin - Barracuda,",, 12:06",,3,2012
+29.0,,121.0,+39:09,,Friedman Michael,116,Optum p/b Kelly Benefit Strategies,",, 12:06",,3,2012
+32.0,,82.0,+19:20,,Jones Chris,117,UnitedHealthcare Presented by Maxxis,",, 12:06",,3,2012
+28.0,,107.0,+32:04,,Johnson Sam,118,Team Exergy,",, 12:06",,3,2012
+29.0,,123.0,+39:09,,Alzate Carlos Eduardo,119,Team Exergy,",, 12:06",,3,2012
+28.0,,117.0,+34:17,,Rabon Frantisek,120,Omega Pharma - Quick-Step,",, 12:06",,3,2012
+30.0,,106.0,+31:05,,Mccarty Jonathan Patrick,121,Spidertech Powered by C10,",, 12:06",,3,2012
+22.0,,114.0,+34:17,,Loader Logan,122,Team Exergy,",, 12:06",,3,2012
+31.0,,105.0,+31:05,,Riblon Christophe,123,AG2R La Mondiale,",, 12:06",,3,2012
+23.0,,,+ - 14:34:54,,Dahlheim Andrew,DNF,Bissell Pro Cycling,",, 12:06",,3,2012
+29.0,,,+ - 14:34:54,,Morabito Steve,DNS,BMC Racing Team,",, 12:06",,3,2012
+31.0,,,+ - 14:34:54,,Cummings Stephen,DNS,BMC Racing Team,",, 12:06",,3,2012
+22.0,,1.0,+0:00,30.0,Sagan Peter,1,Liquigas - Cannondale,5:18:08 5:18:08,20.0,4,2012
+28.0,,2.0,+0:16,18.0,Haussler Heinrich,2,Team Garmin - Barracuda,",, ,,",14.0,4,2012
+21.0,,76.0,+15:21,12.0,Matthews Michael,3,Rabobank Cycling Team,",, ,,",8.0,4,2012
+31.0,,72.0,+12:09,7.0,Boonen Tom,4,Omega Pharma - Quick-Step,",, ,,",7.0,4,2012
+26.0,,85.0,+22:21,4.0,Kluge Roger,5,Argos - Shimano,",, ,,",6.0,4,2012
+20.0,,60.0,+7:36,3.0,Stuyven Jasper,6,Bontrager Livestrong Team,",, ,,",5.0,4,2012
+22.0,,96.0,+28:24,2.0,Boivin Guillaume,7,Spidertech Powered by C10,",, ,,",4.0,4,2012
+37.0,,59.0,+7:36,1.0,Candelario Alex,8,Optum p/b Kelly Benefit Strategies,",, ,,",2.0,4,2012
+22.0,,71.0,+11:16,,Howard Leigh,9,Orica GreenEDGE,",, ,,",,4,2012
+30.0,,77.0,+15:51,,Mondory Lloyd,10,AG2R La Mondiale,",, ,,",,4,2012
+38.0,,5.0,+0:36,,Rodriguez Fred,11,Team Exergy,",, ,,",,4,2012
+,,,+ - 19:52:52,,Jacques Hubert,12,,",, ,,",,4,2012
+28.0,,11.0,+0:40,,Sanchez Luis Leon,13,Rabobank Cycling Team,",, ,,",,4,2012
+27.0,,12.0,+0:40,,Velits Peter,14,Omega Pharma - Quick-Step,",, ,,",,4,2012
+23.0,,21.0,+0:40,,Talansky Andrew,15,Team Garmin - Barracuda,",, ,,",,4,2012
+26.0,,17.0,+0:40,,Machado Tiago,16,RadioShack - Nissan,",, ,,",,4,2012
+24.0,,4.0,+0:35,,Howes Alex,17,Team Garmin - Barracuda,",, ,,",,4,2012
+23.0,,19.0,+0:40,,van Garderen Tejay,18,BMC Racing Team,",, ,,",,4,2012
+27.0,,31.0,+0:40,,Roche Nicolas,19,AG2R La Mondiale,",, ,,",,4,2012
+38.0,,13.0,+0:40,,Hincapie George,20,BMC Racing Team,",, ,,",,4,2012
+21.0,,16.0,+0:40,,Dumoulin Tom,21,Argos - Shimano,",, ,,",,4,2012
+25.0,,27.0,+0:40,,Sulzberger Wesley,22,Orica GreenEDGE,",, ,,",,4,2012
+31.0,,24.0,+0:40,,ten Dam Laurens,23,Rabobank Cycling Team,",, ,,",,4,2012
+25.0,,58.0,+3:42,,Oss Daniel,24,Liquigas - Cannondale,",, ,,",,4,2012
+29.0,,54.0,+1:24,,Duggan Timothy,25,Liquigas - Cannondale,",, ,,",,4,2012
+32.0,,7.0,+0:36,,Irizar Markel,26,RadioShack - Nissan,",, ,,",,4,2012
+40.0,,18.0,+0:40,,Horner Chris,27,RadioShack - Nissan,",, ,,",,4,2012
+34.0,,22.0,+0:40,,Danielson Thomas,28,Team Garmin - Barracuda,",, ,,",,4,2012
+28.0,,8.0,+0:37,,de Maar Marc,29,UnitedHealthcare Presented by Maxxis,",, ,,",,4,2012
+34.0,,84.0,+21:35,,Tjallingii Maarten,30,Rabobank Cycling Team,",, ,,",,4,2012
+25.0,,26.0,+0:40,,Gesink Robert,31,Rabobank Cycling Team,",, ,,",,4,2012
+29.0,,61.0,+7:36,,de Kort Koen,32,Argos - Shimano,",, ,,",,4,2012
+29.0,,74.0,+14:39,,King Edward,33,Liquigas - Cannondale,",, ,,",,4,2012
+28.0,,20.0,+0:40,,Bookwalter Brent,34,BMC Racing Team,",, ,,",,4,2012
+20.0,,15.0,+0:40,,Craddock Lawson,35,Bontrager Livestrong Team,",, ,,",,4,2012
+30.0,,97.0,+29:18,,White Bradley,36,UnitedHealthcare Presented by Maxxis,",, ,,",,4,2012
+30.0,,29.0,+0:40,,Vandborg Brian,37,Spidertech Powered by C10,",, ,,",,4,2012
+32.0,,81.0,+19:30,,Jones Chris,38,UnitedHealthcare Presented by Maxxis,",, ,,",,4,2012
+30.0,,32.0,+0:40,,Sutherland Rory,39,UnitedHealthcare Presented by Maxxis,",, ,,",,4,2012
+27.0,,34.0,+0:40,,K\xfcnzli Raimond,40,Spidertech Powered by C10,",, ,,",,4,2012
+24.0,,23.0,+0:40,,Atapuma John Darwin,41,Colombia - Coldeportes,",, ,,",,4,2012
+21.0,,25.0,+0:40,,Durbridge Luke,42,Orica GreenEDGE,",, ,,",,4,2012
+33.0,,50.0,+1:02,,Tankink Bram,43,Rabobank Cycling Team,",, ,,",,4,2012
+22.0,,52.0,+1:04,,Bennett George,44,RadioShack - Nissan,",, ,,",,4,2012
+21.0,,53.0,+1:04,,Dombrowski Joe,45,Bontrager Livestrong Team,",, ,,",,4,2012
+31.0,,37.0,+0:40,,Weening Pieter,46,Orica GreenEDGE,",, ,,",,4,2012
+26.0,,40.0,+0:40,,Ch\xe9rel Micka\xebl,47,AG2R La Mondiale,",, ,,",,4,2012
+26.0,,14.0,+0:40,,Van Avermaet Greg,48,BMC Racing Team,",, ,,",,4,2012
+22.0,,39.0,+0:40,,Eijssen Yannick,49,BMC Racing Team,",, ,,",,4,2012
+31.0,,102.0,+34:47,,Da Dalto Mauro,50,Liquigas - Cannondale,",, ,,",,4,2012
+28.0,,33.0,+0:40,,Martens Paul,51,Rabobank Cycling Team,",, ,,",,4,2012
+28.0,,41.0,+0:40,,Georges Sylvain,52,AG2R La Mondiale,",, ,,",,4,2012
+38.0,,36.0,+0:40,,Leipheimer Levi,53,Omega Pharma - Quick-Step,",, ,,",,4,2012
+33.0,,38.0,+0:40,,Zabriskie David,54,Team Garmin - Barracuda,",, ,,",,4,2012
+25.0,,30.0,+0:40,,Duarte Fabio,55,Colombia - Coldeportes,",, ,,",,4,2012
+25.0,,91.0,+23:37,,Koren Kristijan,56,Liquigas - Cannondale,",, ,,",,4,2012
+24.0,,28.0,+0:40,,Meyer Cameron,57,Orica GreenEDGE,",, ,,",,4,2012
+23.0,,83.0,+21:33,,King Benjamin,58,RadioShack - Nissan,",, ,,",,4,2012
+19.0,,79.0,+18:23,,Eastman Ryan,59,Bontrager Livestrong Team,",, ,,",,4,2012
+28.0,,42.0,+0:40,,Deignan Philip,60,UnitedHealthcare Presented by Maxxis,",, ,,",,4,2012
+34.0,,3.0,+0:34,,Louder Jeff,61,UnitedHealthcare Presented by Maxxis,",, ,,",,4,2012
+21.0,,65.0,+7:56,,Houle Hugo,62,Spidertech Powered by C10,",, ,,",,4,2012
+27.0,,57.0,+2:16,,Busche Matthew,63,RadioShack - Nissan,",, ,,",,4,2012
+34.0,,69.0,+9:29,,Pipp Frank Kevin,64,Bissell Pro Cycling,",, ,,",,4,2012
+27.0,,43.0,+0:40,,Nibali Vincenzo,65,Liquigas - Cannondale,",, ,,",,4,2012
+25.0,,51.0,+1:03,,Bouet Maxime,66,AG2R La Mondiale,",, ,,",,4,2012
+28.0,,73.0,+12:13,,Vandenbergh Stijn,67,Omega Pharma - Quick-Step,",, ,,",,4,2012
+30.0,,103.0,+34:47,,Hanson Ken,68,Optum p/b Kelly Benefit Strategies,",, ,,",,4,2012
+21.0,,9.0,+0:38,,Kelderman Wilco,69,Rabobank Cycling Team,",, ,,",,4,2012
+21.0,,35.0,+0:40,,Bardet Romain,70,AG2R La Mondiale,",, ,,",,4,2012
+36.0,,49.0,+1:02,,Baldwin Christopher,71,Bissell Pro Cycling,",, ,,",,4,2012
+32.0,,44.0,+0:40,,Cooke Matt,72,Team Exergy,",, ,,",,4,2012
+28.0,,48.0,+0:50,,Diaz Andr\xe8s Miguel,73,Team Exergy,",, ,,",,4,2012
+25.0,,78.0,+15:52,,Peterson Tom,74,Team Garmin - Barracuda,",, ,,",,4,2012
+22.0,,45.0,+0:40,,Roe Timothy,75,BMC Racing Team,",, ,,",,4,2012
+19.0,,10.0,+0:39,,Atkins Joshua,76,Bontrager Livestrong Team,",, ,,",,4,2012
+33.0,,80.0,+19:19,,Zirbel Tom,77,Optum p/b Kelly Benefit Strategies,",, ,,",,4,2012
+39.0,,56.0,+1:48,,Bajadali Andrew,78,Optum p/b Kelly Benefit Strategies,",, ,,",,4,2012
+20.0,,47.0,+0:40,,Brown Nathan,79,Bontrager Livestrong Team,",, ,,",,4,2012
+21.0,,46.0,+0:40,,Boswell Ian,80,Bontrager Livestrong Team,",, ,,",,4,2012
+27.0,,100.0,+32:20,,Stamsnijder Tom,81,Argos - Shimano,",, ,,",,4,2012
+40.0,,64.0,+7:36,,Voigt Jens,82,RadioShack - Nissan,",, ,,",,4,2012
+24.0,,86.0,+22:26,,Anderson Ryan,83,Spidertech Powered by C10,",, ,,",,4,2012
+36.0,,92.0,+23:37,,Grabsch Bert,84,Omega Pharma - Quick-Step,",, ,,",,4,2012
+28.0,,62.0,+7:36,,Doi Yukihiro,85,Argos - Shimano,",, ,,",,4,2012
+20.0,,68.0,+8:56,,Mannion Gavin,86,Bontrager Livestrong Team,",, ,,",,4,2012
+31.0,,55.0,+1:44,,Vanotti Alessandro,87,Liquigas - Cannondale,",, ,,",,4,2012
+28.0,,75.0,+14:41,,Devenyns Dries,88,Omega Pharma - Quick-Step,",, ,,",,4,2012
+23.0,,63.0,+7:36,,Damuseau Thomas,89,Argos - Shimano,",, ,,",,4,2012
+34.0,,99.0,+29:42,,Zwizanski Scott,90,Optum p/b Kelly Benefit Strategies,",, ,,",,4,2012
+23.0,,101.0,+34:07,,Haas Nathan,91,Team Garmin - Barracuda,0:24 0:24,,4,2012
+24.0,,70.0,+9:51,,Geniez Alexandre,92,Argos - Shimano,0:31 0:31,,4,2012
+24.0,,95.0,+27:08,,Salas Sebastian,93,Optum p/b Kelly Benefit Strategies,0:36 0:36,,4,2012
+37.0,,67.0,+8:32,,Pe\xf1a Victor Hugo,94,Colombia - Coldeportes,",, 0:36",,4,2012
+22.0,,82.0,+20:07,,Rodriguez Michael,95,Colombia - Coldeportes,",, 0:36",,4,2012
+27.0,,89.0,+23:10,,Schmitt Morgan,96,Team Exergy,0:49 0:49,,4,2012
+21.0,,109.0,+40:28,,Rathe Jacob,97,Team Garmin - Barracuda,",, 0:49",,4,2012
+38.0,,107.0,+39:24,,McCartney Jason,98,UnitedHealthcare Presented by Maxxis,",, 0:49",,4,2012
+28.0,,66.0,+8:25,,Euser Lucas,99,,",, 0:49",,4,2012
+23.0,,108.0,+40:20,,Tvetcov Serghei,100,Team Exergy,1:01 1:01,,4,2012
+32.0,,87.0,+22:38,,Rast Gregory,101,RadioShack - Nissan,",, 1:01",,4,2012
+31.0,,94.0,+26:29,,Vennell Jeremy,102,Bissell Pro Cycling,1:09 1:09,,4,2012
+25.0,,90.0,+23:30,,Ciolek Gerald,103,Omega Pharma - Quick-Step,",, 1:09",,4,2012
+31.0,,88.0,+22:46,,Creed Michael,104,Optum p/b Kelly Benefit Strategies,",, 1:09",,4,2012
+34.0,,104.0,+35:05,,Wilson Matthew,105,Orica GreenEDGE,1:22 1:22,,4,2012
+27.0,,98.0,+29:20,,Clarke Jonathan,106,UnitedHealthcare Presented by Maxxis,",, 1:22",,4,2012
+22.0,,93.0,+26:14,,Boily David,107,Spidertech Powered by C10,",, 1:22",,4,2012
+28.0,,105.0,+36:42,,Rabon Frantisek,108,Omega Pharma - Quick-Step,2:15 2:15,,4,2012
+39.0,,106.0,+38:58,,McEwen Robbie,109,Orica GreenEDGE,14:50 14:50,,4,2012
+22.0,,116.0,+49:17,,Loader Logan,110,Team Exergy,",, 14:50",,4,2012
+26.0,,110.0,+44:34,,Quintero Carlos,111,Colombia - Coldeportes,",, 14:50",,4,2012
+26.0,,115.0,+49:17,,Suarez Juan Pablo,112,Colombia - Coldeportes,",, 14:50",,4,2012
+26.0,,118.0,+49:45,,Marentes Wilson Alexander,113,Colombia - Coldeportes,",, 14:50",,4,2012
+23.0,,111.0,+44:56,,Jones Carter,114,Bissell Pro Cycling,",, 14:50",,4,2012
+22.0,,114.0,+49:04,,Meyer Travis,115,Orica GreenEDGE,",, 14:50",,4,2012
+31.0,,112.0,+46:05,,Riblon Christophe,116,AG2R La Mondiale,",, 14:50",,4,2012
+24.0,,117.0,+49:17,,Kittel Marcel,117,Argos - Shimano,",, 14:50",,4,2012
+30.0,,113.0,+46:05,,Mccarty Jonathan Patrick,118,Spidertech Powered by C10,",, 14:50",,4,2012
+29.0,,,+ - 19:52:52,,Alzate Carlos Eduardo,DNF,Team Exergy,",, 14:50",,4,2012
+28.0,,,+ - 19:52:52,,Johnson Sam,DNF,Team Exergy,",, 14:50",,4,2012
+34.0,,,+ - 19:52:52,,Nocentini Rinaldo,DNF,AG2R La Mondiale,",, 14:50",,4,2012
+29.0,,,+ - 19:52:52,,Friedman Michael,DNF,Optum p/b Kelly Benefit Strategies,",, 14:50",,4,2012
+32.0,,,+ - 19:52:52,,Gonzalez Javier,DNF,Colombia - Coldeportes,",, 14:50",,4,2012
+33.0,49.523,1.0,+0:00,30.0,Zabriskie David,1,Team Garmin - Barracuda,35:59 35:59,20.0,5,2012
+40.0,49.001000000000005,57.0,+7:19,18.0,Voigt Jens,2,RadioShack - Nissan,0:23 0:23,14.0,5,2012
+23.0,48.755,2.0,+0:34,12.0,van Garderen Tejay,3,BMC Racing Team,0:34 0:34,8.0,5,2012
+25.0,48.644,3.0,+0:39,7.0,Gesink Robert,4,Rabobank Cycling Team,0:39 0:39,7.0,5,2012
+23.0,48.446000000000005,4.0,+0:48,4.0,Talansky Andrew,5,Team Garmin - Barracuda,0:48 0:48,6.0,5,2012
+27.0,48.424,5.0,+0:49,3.0,Velits Peter,6,Omega Pharma - Quick-Step,0:49 0:49,5.0,5,2012
+34.0,48.358000000000004,80.0,+21:47,2.0,Tjallingii Maarten,7,Rabobank Cycling Team,0:52 0:52,4.0,5,2012
+21.0,48.162,6.0,+1:01,1.0,Durbridge Luke,8,Orica GreenEDGE,1:01 1:01,2.0,5,2012
+34.0,48.032,7.0,+1:07,,Danielson Thomas,9,Team Garmin - Barracuda,1:07 1:07,,5,2012
+30.0,47.968,8.0,+1:10,,Sutherland Rory,10,UnitedHealthcare Presented by Maxxis,1:10 1:10,,5,2012
+24.0,47.626000000000005,9.0,+1:26,,Meyer Cameron,11,Orica GreenEDGE,1:26 1:26,,5,2012
+20.0,47.541000000000004,11.0,+1:30,,Craddock Lawson,12,Bontrager Livestrong Team,1:30 1:30,,5,2012
+38.0,47.541000000000004,12.0,+1:30,,Hincapie George,13,BMC Racing Team,",, 1:30",,5,2012
+32.0,47.478,10.0,+1:29,,Irizar Markel,14,RadioShack - Nissan,1:33 1:33,,5,2012
+21.0,47.394,13.0,+1:37,,Dumoulin Tom,15,Argos - Shimano,1:37 1:37,,5,2012
+28.0,47.331,14.0,+1:40,,Sanchez Luis Leon,16,Rabobank Cycling Team,1:40 1:40,,5,2012
+38.0,47.247,16.0,+1:44,,Leipheimer Levi,17,Omega Pharma - Quick-Step,1:44 1:44,,5,2012
+20.0,47.143,17.0,+1:49,,Brown Nathan,18,Bontrager Livestrong Team,1:49 1:49,,5,2012
+27.0,47.143,36.0,+3:25,,Busche Matthew,19,RadioShack - Nissan,",, 1:49",,5,2012
+27.0,47.081,18.0,+1:52,,Nibali Vincenzo,20,Liquigas - Cannondale,1:52 1:52,,5,2012
+33.0,46.915,27.0,+2:22,,Tankink Bram,21,Rabobank Cycling Team,2:00 2:00,,5,2012
+25.0,46.895,19.0,+2:01,,Duarte Fabio,22,Colombia - Coldeportes,2:01 2:01,,5,2012
+28.0,46.813,20.0,+2:05,,Bookwalter Brent,23,BMC Racing Team,2:05 2:05,,5,2012
+31.0,46.772,23.0,+2:07,,Weening Pieter,24,Orica GreenEDGE,2:07 2:07,,5,2012
+28.0,46.772,15.0,+1:43,,Haussler Heinrich,25,Team Garmin - Barracuda,",, 2:07",,5,2012
+26.0,46.772,24.0,+2:07,,Machado Tiago,26,RadioShack - Nissan,",, 2:07",,5,2012
+21.0,46.751000000000005,21.0,+2:06,,Kelderman Wilco,27,Rabobank Cycling Team,2:08 2:08,,5,2012
+28.0,46.71,22.0,+2:07,,de Maar Marc,28,UnitedHealthcare Presented by Maxxis,2:10 2:10,,5,2012
+36.0,46.69,84.0,+25:08,,Grabsch Bert,29,Omega Pharma - Quick-Step,2:11 2:11,,5,2012
+38.0,46.648999999999994,25.0,+2:09,,Rodriguez Fred,30,Team Exergy,2:13 2:13,,5,2012
+33.0,46.629,79.0,+20:53,,Zirbel Tom,31,Optum p/b Kelly Benefit Strategies,2:14 2:14,,5,2012
+29.0,46.486999999999995,34.0,+3:05,,Duggan Timothy,32,Liquigas - Cannondale,2:21 2:21,,5,2012
+28.0,46.486999999999995,26.0,+2:21,,Martens Paul,33,Rabobank Cycling Team,",, 2:21",,5,2012
+34.0,46.467,94.0,+31:24,,Zwizanski Scott,34,Optum p/b Kelly Benefit Strategies,2:22 2:22,,5,2012
+31.0,46.446999999999996,110.0,+47:48,,Riblon Christophe,35,AG2R La Mondiale,2:23 2:23,,5,2012
+31.0,46.446999999999996,28.0,+2:23,,ten Dam Laurens,36,Rabobank Cycling Team,",, 2:23",,5,2012
+25.0,46.406000000000006,85.0,+25:15,,Ciolek Gerald,37,Omega Pharma - Quick-Step,2:25 2:25,,5,2012
+21.0,46.266000000000005,60.0,+9:48,,Houle Hugo,38,Spidertech Powered by C10,2:32 2:32,,5,2012
+23.0,46.146,82.0,+23:31,,King Benjamin,39,RadioShack - Nissan,2:38 2:38,,5,2012
+,46.126000000000005,,+ - 20:29:31,,Jacques Hubert,40,,2:39 2:39,,5,2012
+30.0,46.047,30.0,+2:43,,Vandborg Brian,41,Spidertech Powered by C10,2:43 2:43,,5,2012
+40.0,45.908,32.0,+2:50,,Horner Chris,42,RadioShack - Nissan,2:50 2:50,,5,2012
+28.0,45.869,33.0,+2:52,,Georges Sylvain,43,AG2R La Mondiale,2:52 2:52,,5,2012
+22.0,45.82899999999999,113.0,+51:18,,Meyer Travis,44,Orica GreenEDGE,2:54 2:54,,5,2012
+25.0,45.692,35.0,+3:24,,Bouet Maxime,45,AG2R La Mondiale,3:01 3:01,,5,2012
+21.0,45.673,75.0,+17:43,,Matthews Michael,46,Rabobank Cycling Team,3:02 3:02,,5,2012
+37.0,45.653,61.0,+10:55,,Pe\xf1a Victor Hugo,47,Colombia - Coldeportes,3:03 3:03,,5,2012
+22.0,45.498000000000005,37.0,+3:35,,Bennett George,48,RadioShack - Nissan,3:11 3:11,,5,2012
+31.0,45.343999999999994,86.0,+25:25,,Creed Michael,49,Optum p/b Kelly Benefit Strategies,3:19 3:19,,5,2012
+28.0,45.324,73.0,+17:21,,Devenyns Dries,50,Omega Pharma - Quick-Step,3:20 3:20,,5,2012
+28.0,45.19,102.0,+39:29,,Rabon Frantisek,51,Omega Pharma - Quick-Step,3:27 3:27,,5,2012
+22.0,45.19,31.0,+2:47,,Sagan Peter,52,Liquigas - Cannondale,",, 3:27",,5,2012
+25.0,45.152,87.0,+26:26,,Koren Kristijan,53,Liquigas - Cannondale,3:29 3:29,,5,2012
+38.0,45.095,106.0,+42:16,,McCartney Jason,54,UnitedHealthcare Presented by Maxxis,3:32 3:32,,5,2012
+21.0,45.038000000000004,44.0,+3:59,,Dombrowski Joe,55,Bontrager Livestrong Team,3:35 3:35,,5,2012
+22.0,45.019,92.0,+29:10,,Boily David,56,Spidertech Powered by C10,3:36 3:36,,5,2012
+27.0,45.0,38.0,+3:37,,Roche Nicolas,57,AG2R La Mondiale,3:37 3:37,,5,2012
+25.0,44.961999999999996,55.0,+6:41,,Oss Daniel,58,Liquigas - Cannondale,3:39 3:39,,5,2012
+27.0,44.943000000000005,39.0,+3:40,,Van Avermaet Greg,59,BMC Racing Team,3:40 3:40,,5,2012
+28.0,44.773999999999994,43.0,+3:59,,Diaz Andr\xe8s Miguel,60,Team Exergy,3:49 3:49,,5,2012
+34.0,44.718,40.0,+3:46,,Louder Jeff,61,UnitedHealthcare Presented by Maxxis,3:52 3:52,,5,2012
+32.0,44.699,41.0,+3:53,,Cooke Matt,62,Team Exergy,3:53 3:53,,5,2012
+25.0,44.662,77.0,+19:07,,Peterson Tom,63,Team Garmin - Barracuda,3:55 3:55,,5,2012
+21.0,44.623999999999995,42.0,+3:57,,Boswell Ian,64,Bontrager Livestrong Team,3:57 3:57,,5,2012
+27.0,44.42,45.0,+4:08,,K\xfcnzli Raimond,65,Spidertech Powered by C10,4:08 4:08,,5,2012
+28.0,44.42,46.0,+4:08,,Deignan Philip,66,UnitedHealthcare Presented by Maxxis,",, 4:08",,5,2012
+19.0,44.31,47.0,+4:13,,Atkins Joshua,67,Bontrager Livestrong Team,4:14 4:14,,5,2012
+36.0,44.292,50.0,+4:37,,Baldwin Christopher,68,Bissell Pro Cycling,4:15 4:15,,5,2012
+29.0,44.218,76.0,+18:18,,King Edward,69,Liquigas - Cannondale,4:19 4:19,,5,2012
+30.0,44.2,96.0,+32:58,,White Bradley,70,UnitedHealthcare Presented by Maxxis,4:20 4:20,,5,2012
+20.0,44.163999999999994,66.0,+12:38,,Mannion Gavin,71,Bontrager Livestrong Team,4:22 4:22,,5,2012
+22.0,44.108999999999995,48.0,+4:25,,Roe Timothy,72,BMC Racing Team,4:25 4:25,,5,2012
+23.0,44.073,100.0,+37:54,,Haas Nathan,73,Team Garmin - Barracuda,4:27 4:27,,5,2012
+24.0,44.0,49.0,+4:26,,Howes Alex,74,Team Garmin - Barracuda,4:31 4:31,,5,2012
+29.0,43.891999999999996,62.0,+11:33,,de Kort Koen,75,Argos - Shimano,4:37 4:37,,5,2012
+24.0,43.784,88.0,+26:29,,Anderson Ryan,76,Spidertech Powered by C10,4:43 4:43,,5,2012
+27.0,43.586999999999996,91.0,+27:24,,Schmitt Morgan,77,Team Exergy,4:54 4:54,,5,2012
+23.0,43.393,107.0,+44:45,,Tvetcov Serghei,78,Team Exergy,5:05 5:05,,5,2012
+24.0,43.358000000000004,51.0,+5:07,,Atapuma John Darwin,79,Colombia - Coldeportes,5:07 5:07,,5,2012
+34.0,43.183,69.0,+14:06,,Pipp Frank Kevin,80,Bissell Pro Cycling,5:17 5:17,,5,2012
+28.0,43.165,71.0,+16:51,,Vandenbergh Stijn,81,Omega Pharma - Quick-Step,5:18 5:18,,5,2012
+22.0,43.113,70.0,+15:57,,Howard Leigh,82,Orica GreenEDGE,5:21 5:21,,5,2012
+37.0,43.113,63.0,+12:17,,Candelario Alex,83,Optum p/b Kelly Benefit Strategies,",, 5:21",,5,2012
+32.0,43.043,90.0,+27:23,,Rast Gregory,84,RadioShack - Nissan,5:25 5:25,,5,2012
+32.0,43.026,83.0,+24:16,,Jones Chris,85,UnitedHealthcare Presented by Maxxis,5:26 5:26,,5,2012
+31.0,43.00899999999999,72.0,+16:56,,Boonen Tom,86,Omega Pharma - Quick-Step,5:27 5:27,,5,2012
+23.0,43.00899999999999,111.0,+49:43,,Jones Carter,87,Bissell Pro Cycling,",, 5:27",,5,2012
+34.0,43.00899999999999,103.0,+39:52,,Wilson Matthew,88,Orica GreenEDGE,",, 5:27",,5,2012
+19.0,42.923,81.0,+23:15,,Eastman Ryan,89,Bontrager Livestrong Team,5:32 5:32,,5,2012
+28.0,42.905,67.0,+13:18,,Euser Lucas,90,,5:33 5:33,,5,2012
+21.0,42.836999999999996,52.0,+5:37,,Bardet Romain,91,AG2R La Mondiale,5:37 5:37,,5,2012
+30.0,42.818999999999996,78.0,+20:49,,Mondory Lloyd,92,AG2R La Mondiale,5:38 5:38,,5,2012
+20.0,42.818999999999996,64.0,+12:34,,Stuyven Jasper,93,Bontrager Livestrong Team,",, 5:38",,5,2012
+23.0,42.768,65.0,+12:37,,Damuseau Thomas,94,Argos - Shimano,5:41 5:41,,5,2012
+22.0,42.598,98.0,+33:35,,Boivin Guillaume,95,Spidertech Powered by C10,5:51 5:51,,5,2012
+26.0,42.53,53.0,+5:55,,Ch\xe9rel Micka\xebl,96,AG2R La Mondiale,5:55 5:55,,5,2012
+22.0,42.461999999999996,54.0,+5:59,,Eijssen Yannick,97,BMC Racing Team,5:59 5:59,,5,2012
+39.0,42.128,58.0,+7:27,,Bajadali Andrew,98,Optum p/b Kelly Benefit Strategies,6:19 6:19,,5,2012
+26.0,42.128,112.0,+50:13,,Quintero Carlos,99,Colombia - Coldeportes,",, 6:19",,5,2012
+27.0,42.045,99.0,+35:04,,Clarke Jonathan,100,UnitedHealthcare Presented by Maxxis,6:24 6:24,,5,2012
+27.0,41.995,101.0,+38:07,,Stamsnijder Tom,101,Argos - Shimano,6:27 6:27,,5,2012
+21.0,41.831,109.0,+46:25,,Rathe Jacob,102,Team Garmin - Barracuda,6:37 6:37,,5,2012
+31.0,41.798,95.0,+32:28,,Vennell Jeremy,103,Bissell Pro Cycling,6:39 6:39,,5,2012
+28.0,41.717,68.0,+13:40,,Doi Yukihiro,104,Argos - Shimano,6:44 6:44,,5,2012
+25.0,41.668,56.0,+6:47,,Sulzberger Wesley,105,Orica GreenEDGE,6:47 6:47,,5,2012
+24.0,41.652,97.0,+33:16,,Salas Sebastian,106,Optum p/b Kelly Benefit Strategies,6:48 6:48,,5,2012
+24.0,41.586999999999996,115.0,+55:29,,Kittel Marcel,107,Argos - Shimano,6:52 6:52,,5,2012
+30.0,41.522,104.0,+41:03,,Hanson Ken,108,Optum p/b Kelly Benefit Strategies,6:56 6:56,,5,2012
+26.0,41.458,116.0,+55:37,,Suarez Juan Pablo,109,Colombia - Coldeportes,7:00 7:00,,5,2012
+30.0,41.282,114.0,+52:36,,Mccarty Jonathan Patrick,110,Spidertech Powered by C10,7:11 7:11,,5,2012
+22.0,41.202,89.0,+26:43,,Rodriguez Michael,111,Colombia - Coldeportes,7:16 7:16,,5,2012
+31.0,41.18600000000001,105.0,+41:24,,Da Dalto Mauro,112,Liquigas - Cannondale,7:17 7:17,,5,2012
+22.0,41.076,117.0,+56:01,,Loader Logan,113,Team Exergy,7:24 7:24,,5,2012
+26.0,40.7,93.0,+29:29,,Kluge Roger,114,Argos - Shimano,7:48 7:48,,5,2012
+39.0,40.669000000000004,108.0,+46:08,,McEwen Robbie,115,Orica GreenEDGE,7:50 7:50,,5,2012
+31.0,40.654,59.0,+8:55,,Vanotti Alessandro,116,Liquigas - Cannondale,7:51 7:51,,5,2012
+26.0,40.623000000000005,118.0,+56:58,,Marentes Wilson Alexander,117,Colombia - Coldeportes,7:53 7:53,,5,2012
+24.0,40.302,74.0,+17:25,,Geniez Alexandre,118,Argos - Shimano,8:14 8:14,,5,2012
+28.0,,22.0,+2:09,30.0,Georges Sylvain,1,AG2R La Mondiale,5:07:06 5:07:06,20.0,6,2012
+22.0,,25.0,+2:41,18.0,Sagan Peter,2,Liquigas - Cannondale,0:28 0:28,14.0,6,2012
+27.0,,4.0,+0:45,12.0,Velits Peter,3,Omega Pharma - Quick-Step,",, 0:28",8.0,6,2012
+23.0,,55.0,+12:37,7.0,Damuseau Thomas,4,Argos - Shimano,",, 0:28",7.0,6,2012
+21.0,,12.0,+1:37,4.0,Dumoulin Tom,5,Argos - Shimano,",, 0:28",6.0,6,2012
+27.0,,33.0,+3:40,3.0,Van Avermaet Greg,6,BMC Racing Team,",, 0:28",5.0,6,2012
+21.0,,44.0,+5:37,2.0,Bardet Romain,7,AG2R La Mondiale,",, 0:28",4.0,6,2012
+40.0,,26.0,+2:50,1.0,Horner Chris,8,RadioShack - Nissan,",, 0:28",2.0,6,2012
+23.0,,2.0,+0:34,,van Garderen Tejay,9,BMC Racing Team,",, 0:28",,6,2012
+25.0,,3.0,+0:39,,Gesink Robert,10,Rabobank Cycling Team,",, 0:28",,6,2012
+23.0,,5.0,+0:48,,Talansky Andrew,11,Team Garmin - Barracuda,",, 0:28",,6,2012
+34.0,,7.0,+1:07,,Danielson Thomas,12,Team Garmin - Barracuda,",, 0:28",,6,2012
+23.0,,63.0,+23:31,,King Benjamin,13,RadioShack - Nissan,",, 0:28",,6,2012
+26.0,,46.0,+5:55,,Ch\xe9rel Micka\xebl,14,AG2R La Mondiale,",, 0:28",,6,2012
+21.0,,6.0,+1:01,,Durbridge Luke,15,Orica GreenEDGE,",, 0:28",,6,2012
+28.0,,20.0,+2:07,,de Maar Marc,16,UnitedHealthcare Presented by Maxxis,",, 0:28",,6,2012
+38.0,,11.0,+1:30,,Hincapie George,17,BMC Racing Team,",, 0:28",,6,2012
+40.0,,48.0,+7:19,,Voigt Jens,18,RadioShack - Nissan,",, 0:28",,6,2012
+21.0,,19.0,+2:05,,Kelderman Wilco,19,Rabobank Cycling Team,",, 0:28",,6,2012
+36.0,,39.0,+4:37,,Baldwin Christopher,20,Bissell Pro Cycling,",, 0:28",,6,2012
+33.0,,1.0,+0:00,,Zabriskie David,21,Team Garmin - Barracuda,",, 0:28",,6,2012
+20.0,,10.0,+1:30,,Craddock Lawson,22,Bontrager Livestrong Team,",, 0:28",,6,2012
+28.0,,13.0,+1:40,,Sanchez Luis Leon,23,Rabobank Cycling Team,",, 0:28",,6,2012
+38.0,,14.0,+1:44,,Leipheimer Levi,24,Omega Pharma - Quick-Step,",, 0:28",,6,2012
+27.0,,15.0,+1:52,,Nibali Vincenzo,25,Liquigas - Cannondale,",, 0:28",,6,2012
+21.0,,35.0,+3:59,,Dombrowski Joe,26,Bontrager Livestrong Team,",, 0:28",,6,2012
+26.0,,23.0,+2:27,,Machado Tiago,27,RadioShack - Nissan,",, 0:28",,6,2012
+30.0,,8.0,+1:10,,Sutherland Rory,28,UnitedHealthcare Presented by Maxxis,",, 0:28",,6,2012
+25.0,,16.0,+2:01,,Duarte Fabio,29,Colombia - Coldeportes,",, 0:28",,6,2012
+27.0,,36.0,+4:08,,K\xfcnzli Raimond,30,Spidertech Powered by C10,",, 0:28",,6,2012
+22.0,,32.0,+3:35,,Bennett George,31,RadioShack - Nissan,",, 0:28",,6,2012
+37.0,,54.0,+12:17,,Candelario Alex,32,Optum p/b Kelly Benefit Strategies,",, 0:28",,6,2012
+24.0,,9.0,+1:26,,Meyer Cameron,33,Orica GreenEDGE,",, 0:28",,6,2012
+38.0,,21.0,+2:09,,Rodriguez Fred,34,Team Exergy,",, 0:28",,6,2012
+21.0,,34.0,+3:57,,Boswell Ian,35,Bontrager Livestrong Team,",, 0:28",,6,2012
+27.0,,30.0,+3:25,,Busche Matthew,36,RadioShack - Nissan,",, 0:28",,6,2012
+28.0,,17.0,+2:05,,Bookwalter Brent,37,BMC Racing Team,",, 0:28",,6,2012
+24.0,,42.0,+5:07,,Atapuma John Darwin,38,Colombia - Coldeportes,",, 0:28",,6,2012
+25.0,,47.0,+6:14,,Bouet Maxime,39,AG2R La Mondiale,",, 0:28",,6,2012
+25.0,,60.0,+19:07,,Peterson Tom,40,Team Garmin - Barracuda,",, 0:28",,6,2012
+31.0,,18.0,+2:05,,Weening Pieter,41,Orica GreenEDGE,",, 0:28",,6,2012
+30.0,,29.0,+2:57,,Vandborg Brian,42,Spidertech Powered by C10,0:42 0:42,,6,2012
+22.0,,65.0,+27:16,,Rodriguez Michael,43,Colombia - Coldeportes,0:51 0:51,,6,2012
+28.0,,27.0,+2:53,,Martens Paul,44,Rabobank Cycling Team,1:00 1:00,,6,2012
+33.0,,28.0,+2:54,,Tankink Bram,45,Rabobank Cycling Team,",, 1:00",,6,2012
+27.0,,37.0,+4:09,,Roche Nicolas,46,AG2R La Mondiale,",, 1:00",,6,2012
+32.0,,40.0,+4:45,,Cooke Matt,47,Team Exergy,",, 1:00",,6,2012
+31.0,,64.0,+25:57,,Creed Michael,48,Optum p/b Kelly Benefit Strategies,",, 1:00",,6,2012
+28.0,,57.0,+13:59,,Euser Lucas,49,,1:09 1:09,,6,2012
+,,,+ - 25:37:05,,Jacques Hubert,50,,1:14 1:14,,6,2012
+25.0,,49.0,+7:47,,Sulzberger Wesley,51,Orica GreenEDGE,1:18 1:18,,6,2012
+28.0,,24.0,+2:35,,Haussler Heinrich,52,Team Garmin - Barracuda,1:20 1:20,,6,2012
+20.0,,56.0,+13:40,,Mannion Gavin,53,Bontrager Livestrong Team,1:30 1:30,,6,2012
+31.0,,52.0,+10:00,,Vanotti Alessandro,54,Liquigas - Cannondale,1:33 1:33,,6,2012
+28.0,,43.0,+5:13,,Deignan Philip,55,UnitedHealthcare Presented by Maxxis,",, 1:33",,6,2012
+29.0,,38.0,+4:10,,Duggan Timothy,56,Liquigas - Cannondale,",, 1:33",,6,2012
+28.0,,58.0,+18:26,,Devenyns Dries,57,Omega Pharma - Quick-Step,",, 1:33",,6,2012
+34.0,,41.0,+5:01,,Louder Jeff,58,UnitedHealthcare Presented by Maxxis,",, 1:33",,6,2012
+24.0,,59.0,+18:47,,Geniez Alexandre,59,Argos - Shimano,1:40 1:40,,6,2012
+24.0,,45.0,+5:43,,Howes Alex,60,Team Garmin - Barracuda,1:45 1:45,,6,2012
+32.0,,67.0,+28:58,,Rast Gregory,61,RadioShack - Nissan,2:06 2:06,,6,2012
+25.0,,53.0,+12:11,,Oss Daniel,62,Liquigas - Cannondale,3:23 3:23,,6,2012
+31.0,,71.0,+35:39,,Vennell Jeremy,63,Bissell Pro Cycling,3:39 3:39,,6,2012
+28.0,,50.0,+8:17,,Diaz Andr\xe8s Miguel,64,Team Exergy,4:16 4:16,,6,2012
+24.0,,72.0,+37:28,,Salas Sebastian,65,Optum p/b Kelly Benefit Strategies,4:41 4:41,,6,2012
+32.0,,51.0,+8:38,,Irizar Markel,66,RadioShack - Nissan,7:37 7:37,,6,2012
+39.0,,62.0,+22:37,,Bajadali Andrew,67,Optum p/b Kelly Benefit Strategies,15:38 15:38,,6,2012
+28.0,,66.0,+28:50,,Doi Yukihiro,68,Argos - Shimano,",, 15:38",,6,2012
+22.0,,61.0,+21:39,,Eijssen Yannick,69,BMC Racing Team,16:08 16:08,,6,2012
+22.0,,78.0,+44:57,,Boily David,70,Spidertech Powered by C10,16:15 16:15,,6,2012
+27.0,,88.0,+52:34,,Schmitt Morgan,71,Team Exergy,25:38 25:38,,6,2012
+32.0,,84.0,+49:36,,Jones Chris,72,UnitedHealthcare Presented by Maxxis,",, 25:38",,6,2012
+20.0,,76.0,+42:18,,Stuyven Jasper,73,Bontrager Livestrong Team,30:12 30:12,,6,2012
+25.0,,92.0,+56:10,,Koren Kristijan,74,Liquigas - Cannondale,",, 30:12",,6,2012
+31.0,,104.0,+1:11:08,,Da Dalto Mauro,75,Liquigas - Cannondale,",, 30:12",,6,2012
+31.0,,81.0,+46:40,,Boonen Tom,76,Omega Pharma - Quick-Step,",, 30:12",,6,2012
+37.0,,74.0,+40:39,,Pe\xf1a Victor Hugo,77,Colombia - Coldeportes,",, 30:12",,6,2012
+29.0,,83.0,+48:02,,King Edward,78,Liquigas - Cannondale,",, 30:12",,6,2012
+34.0,,77.0,+43:50,,Pipp Frank Kevin,79,Bissell Pro Cycling,",, 30:12",,6,2012
+26.0,,114.0,+1:26:42,,Marentes Wilson Alexander,80,Colombia - Coldeportes,",, 30:12",,6,2012
+28.0,,80.0,+46:35,,Vandenbergh Stijn,81,Omega Pharma - Quick-Step,",, 30:12",,6,2012
+26.0,,111.0,+1:19:57,,Quintero Carlos,82,Colombia - Coldeportes,",, 30:12",,6,2012
+29.0,,75.0,+41:17,,de Kort Koen,83,Argos - Shimano,",, 30:12",,6,2012
+22.0,,113.0,+1:25:55,,Loader Logan,84,Team Exergy,",, 30:12",,6,2012
+34.0,,87.0,+51:31,,Tjallingii Maarten,85,Rabobank Cycling Team,",, 30:12",,6,2012
+27.0,,100.0,+1:07:51,,Stamsnijder Tom,86,Argos - Shimano,",, 30:12",,6,2012
+23.0,,106.0,+1:14:29,,Tvetcov Serghei,87,Team Exergy,",, 30:12",,6,2012
+39.0,,107.0,+1:15:52,,McEwen Robbie,88,Orica GreenEDGE,",, 30:12",,6,2012
+22.0,,70.0,+34:09,,Roe Timothy,89,BMC Racing Team,",, 30:12",,6,2012
+21.0,,108.0,+1:16:09,,Rathe Jacob,90,Team Garmin - Barracuda,",, 30:12",,6,2012
+21.0,,73.0,+39:32,,Houle Hugo,91,Spidertech Powered by C10,",, 30:12",,6,2012
+36.0,,90.0,+54:52,,Grabsch Bert,92,Omega Pharma - Quick-Step,",, 30:12",,6,2012
+30.0,,85.0,+50:33,,Mondory Lloyd,93,AG2R La Mondiale,",, 30:12",,6,2012
+31.0,,109.0,+1:17:32,,Riblon Christophe,94,AG2R La Mondiale,",, 30:12",,6,2012
+22.0,,97.0,+1:03:19,,Boivin Guillaume,95,Spidertech Powered by C10,",, 30:12",,6,2012
+25.0,,91.0,+54:59,,Ciolek Gerald,96,Omega Pharma - Quick-Step,",, 30:12",,6,2012
+30.0,,103.0,+1:10:47,,Hanson Ken,97,Optum p/b Kelly Benefit Strategies,",, 30:12",,6,2012
+28.0,,101.0,+1:09:13,,Rabon Frantisek,98,Omega Pharma - Quick-Step,",, 30:12",,6,2012
+34.0,,102.0,+1:09:36,,Wilson Matthew,99,Orica GreenEDGE,",, 30:12",,6,2012
+24.0,,93.0,+56:13,,Anderson Ryan,100,Spidertech Powered by C10,",, 30:12",,6,2012
+22.0,,112.0,+1:21:02,,Meyer Travis,101,Orica GreenEDGE,",, 30:12",,6,2012
+30.0,,96.0,+1:02:42,,White Bradley,102,UnitedHealthcare Presented by Maxxis,",, 30:12",,6,2012
+22.0,,79.0,+45:41,,Howard Leigh,103,Orica GreenEDGE,",, 30:12",,6,2012
+23.0,,99.0,+1:07:38,,Haas Nathan,104,Team Garmin - Barracuda,",, 30:12",,6,2012
+38.0,,105.0,+1:12:00,,McCartney Jason,105,UnitedHealthcare Presented by Maxxis,",, 30:12",,6,2012
+33.0,,86.0,+50:37,,Zirbel Tom,106,Optum p/b Kelly Benefit Strategies,",, 30:12",,6,2012
+21.0,,82.0,+47:27,,Matthews Michael,107,Rabobank Cycling Team,",, 30:12",,6,2012
+23.0,,110.0,+1:19:27,,Jones Carter,108,Bissell Pro Cycling,",, 30:12",,6,2012
+19.0,,69.0,+33:57,,Atkins Joshua,109,Bontrager Livestrong Team,",, 30:12",,6,2012
+34.0,,95.0,+1:01:08,,Zwizanski Scott,110,Optum p/b Kelly Benefit Strategies,",, 30:12",,6,2012
+19.0,,89.0,+52:59,,Eastman Ryan,111,Bontrager Livestrong Team,",, 30:12",,6,2012
+20.0,,68.0,+31:33,,Brown Nathan,112,Bontrager Livestrong Team,",, 30:12",,6,2012
+27.0,,98.0,+1:04:48,,Clarke Jonathan,113,UnitedHealthcare Presented by Maxxis,",, 30:12",,6,2012
+26.0,,94.0,+59:23,,Kluge Roger,114,Argos - Shimano,",, 30:12",,6,2012
+31.0,,,+ - 25:37:05,,ten Dam Laurens,DNF,Rabobank Cycling Team,",, 30:12",,6,2012
+26.0,,,+ - 25:37:05,,Suarez Juan Pablo,DNF,Colombia - Coldeportes,",, 30:12",,6,2012
+30.0,,,+ - 25:37:05,,Mccarty Jonathan Patrick,DNF,Spidertech Powered by C10,",, 30:12",,6,2012
+24.0,,,+ - 25:37:05,,Kittel Marcel,DNF,Argos - Shimano,",, 30:12",,6,2012
+25.0,,1.0,+0:00,30.0,Gesink Robert,1,Rabobank Cycling Team,3:37:08 3:37:08,20.0,7,2012
+24.0,,16.0,+4:28,18.0,Atapuma John Darwin,2,Colombia - Coldeportes,",, ,,",14.0,7,2012
+25.0,,5.0,+1:36,12.0,Duarte Fabio,3,Colombia - Coldeportes,0:14 0:14,8.0,7,2012
+21.0,,12.0,+3:38,7.0,Dombrowski Joe,4,Bontrager Livestrong Team,0:18 0:18,7.0,7,2012
+34.0,,3.0,+0:54,4.0,Danielson Thomas,5,Team Garmin - Barracuda,0:26 0:26,6.0,7,2012
+40.0,,8.0,+2:49,3.0,Horner Chris,6,RadioShack - Nissan,0:38 0:38,5.0,7,2012
+21.0,,7.0,+2:30,2.0,Kelderman Wilco,7,Rabobank Cycling Team,1:04 1:04,4.0,7,2012
+26.0,,9.0,+2:54,1.0,Machado Tiago,8,RadioShack - Nissan,1:06 1:06,2.0,7,2012
+38.0,,6.0,+2:13,,Leipheimer Levi,9,Omega Pharma - Quick-Step,1:08 1:08,,7,2012
+23.0,,4.0,+1:17,,van Garderen Tejay,10,BMC Racing Team,1:22 1:22,,7,2012
+33.0,,2.0,+0:46,,Zabriskie David,11,Team Garmin - Barracuda,1:25 1:25,,7,2012
+27.0,,14.0,+4:19,,Busche Matthew,12,RadioShack - Nissan,1:33 1:33,,7,2012
+31.0,,10.0,+3:05,,Weening Pieter,13,Orica GreenEDGE,1:39 1:39,,7,2012
+27.0,,19.0,+5:52,,Roche Nicolas,14,AG2R La Mondiale,2:22 2:22,,7,2012
+24.0,,11.0,+3:15,,Meyer Cameron,15,Orica GreenEDGE,2:28 2:28,,7,2012
+28.0,,17.0,+4:28,,Georges Sylvain,16,AG2R La Mondiale,2:58 2:58,,7,2012
+30.0,,13.0,+3:44,,Sutherland Rory,17,UnitedHealthcare Presented by Maxxis,3:13 3:13,,7,2012
+28.0,,24.0,+7:49,,Deignan Philip,18,UnitedHealthcare Presented by Maxxis,3:15 3:15,,7,2012
+38.0,,15.0,+4:21,,Hincapie George,19,BMC Racing Team,3:30 3:30,,7,2012
+21.0,,25.0,+8:28,,Bardet Romain,20,AG2R La Mondiale,",, 3:30",,7,2012
+21.0,,18.0,+5:03,,Durbridge Luke,21,Orica GreenEDGE,4:41 4:41,,7,2012
+23.0,,35.0,+16:54,,Damuseau Thomas,22,Argos - Shimano,4:56 4:56,,7,2012
+30.0,,22.0,+7:21,,Vandborg Brian,23,Spidertech Powered by C10,5:03 5:03,,7,2012
+27.0,,20.0,+6:02,,Velits Peter,24,Omega Pharma - Quick-Step,5:56 5:56,,7,2012
+28.0,,21.0,+6:57,,Sanchez Luis Leon,25,Rabobank Cycling Team,",, 5:56",,7,2012
+31.0,,54.0,+31:36,,Creed Michael,26,Optum p/b Kelly Benefit Strategies,6:18 6:18,,7,2012
+23.0,,50.0,+29:23,,King Benjamin,27,RadioShack - Nissan,6:31 6:31,,7,2012
+21.0,,23.0,+7:29,,Dumoulin Tom,28,Argos - Shimano,",, 6:31",,7,2012
+38.0,,26.0,+8:38,,Rodriguez Fred,29,Team Exergy,7:08 7:08,,7,2012
+29.0,,28.0,+10:44,,Duggan Timothy,30,Liquigas - Cannondale,7:13 7:13,,7,2012
+22.0,,45.0,+28:15,,Eijssen Yannick,31,BMC Racing Team,7:15 7:15,,7,2012
+26.0,,31.0,+12:57,,Ch\xe9rel Micka\xebl,32,AG2R La Mondiale,7:41 7:41,,7,2012
+22.0,,58.0,+34:18,,Rodriguez Michael,33,Colombia - Coldeportes,",, 7:41",,7,2012
+28.0,,27.0,+9:53,,Bookwalter Brent,34,BMC Racing Team,8:27 8:27,,7,2012
+40.0,,34.0,+16:04,,Voigt Jens,35,RadioShack - Nissan,9:24 9:24,,7,2012
+33.0,,29.0,+12:05,,Tankink Bram,36,Rabobank Cycling Team,9:50 9:50,,7,2012
+28.0,,47.0,+28:37,,Devenyns Dries,37,Omega Pharma - Quick-Step,10:50 10:50,,7,2012
+28.0,,30.0,+12:49,,de Maar Marc,38,UnitedHealthcare Presented by Maxxis,11:21 11:21,,7,2012
+,,,+ - 29:14:52,,Jacques Hubert,39,,12:51 12:51,,7,2012
+24.0,,38.0,+19:27,,Howes Alex,40,Team Garmin - Barracuda,14:23 14:23,,7,2012
+32.0,,36.0,+18:31,,Cooke Matt,41,Team Exergy,14:25 14:25,,7,2012
+25.0,,79.0,+1:10:20,,Koren Kristijan,42,Liquigas - Cannondale,14:49 14:49,,7,2012
+27.0,,33.0,+16:02,,Nibali Vincenzo,43,Liquigas - Cannondale,",, 14:49",,7,2012
+22.0,,103.0,+1:35:12,,Meyer Travis,44,Orica GreenEDGE,",, 14:49",,7,2012
+19.0,,66.0,+50:31,,Atkins Joshua,45,Bontrager Livestrong Team,17:13 17:13,,7,2012
+39.0,,63.0,+39:54,,Bajadali Andrew,46,Optum p/b Kelly Benefit Strategies,17:56 17:56,,7,2012
+20.0,,37.0,+19:10,,Craddock Lawson,47,Bontrager Livestrong Team,18:19 18:19,,7,2012
+27.0,,39.0,+21:20,,Van Avermaet Greg,48,BMC Racing Team,",, 18:19",,7,2012
+38.0,,98.0,+1:30:10,,McCartney Jason,49,UnitedHealthcare Presented by Maxxis,18:49 18:49,,7,2012
+37.0,,71.0,+1:00:32,,Pe\xf1a Victor Hugo,50,Colombia - Coldeportes,20:32 20:32,,7,2012
+28.0,,40.0,+23:32,,Haussler Heinrich,51,Team Garmin - Barracuda,21:36 21:36,,7,2012
+31.0,,53.0,+31:16,,Vanotti Alessandro,52,Liquigas - Cannondale,21:55 21:55,,7,2012
+25.0,,44.0,+28:13,,Bouet Maxime,53,AG2R La Mondiale,22:38 22:38,,7,2012
+28.0,,61.0,+37:34,,Euser Lucas,54,,24:14 24:14,,7,2012
+25.0,,64.0,+42:45,,Peterson Tom,55,Team Garmin - Barracuda,24:17 24:17,,7,2012
+28.0,,81.0,+1:11:36,,Vandenbergh Stijn,56,Omega Pharma - Quick-Step,25:40 25:40,,7,2012
+30.0,,86.0,+1:15:34,,Mondory Lloyd,57,AG2R La Mondiale,",, 25:40",,7,2012
+29.0,,84.0,+1:13:03,,King Edward,58,Liquigas - Cannondale,",, 25:40",,7,2012
+29.0,,75.0,+1:06:18,,de Kort Koen,59,Argos - Shimano,",, 25:40",,7,2012
+24.0,,73.0,+1:02:29,,Salas Sebastian,60,Optum p/b Kelly Benefit Strategies,",, 25:40",,7,2012
+31.0,,82.0,+1:11:41,,Boonen Tom,61,Omega Pharma - Quick-Step,",, 25:40",,7,2012
+32.0,,85.0,+1:14:37,,Jones Chris,62,UnitedHealthcare Presented by Maxxis,",, 25:40",,7,2012
+25.0,,59.0,+37:12,,Oss Daniel,63,Liquigas - Cannondale,",, 25:40",,7,2012
+20.0,,76.0,+1:07:19,,Stuyven Jasper,64,Bontrager Livestrong Team,",, 25:40",,7,2012
+31.0,,105.0,+1:36:09,,Da Dalto Mauro,65,Liquigas - Cannondale,",, 25:40",,7,2012
+34.0,,77.0,+1:08:51,,Pipp Frank Kevin,66,Bissell Pro Cycling,",, 25:40",,7,2012
+28.0,,101.0,+1:34:14,,Rabon Frantisek,67,Omega Pharma - Quick-Step,",, 25:40",,7,2012
+28.0,,43.0,+27:54,,Martens Paul,68,Rabobank Cycling Team,",, 25:40",,7,2012
+34.0,,88.0,+1:16:32,,Tjallingii Maarten,69,Rabobank Cycling Team,",, 25:40",,7,2012
+26.0,,110.0,+1:51:43,,Marentes Wilson Alexander,70,Colombia - Coldeportes,",, 25:40",,7,2012
+22.0,,42.0,+27:42,,Sagan Peter,71,Liquigas - Cannondale,",, 25:40",,7,2012
+23.0,,99.0,+1:32:39,,Haas Nathan,72,Team Garmin - Barracuda,",, 25:40",,7,2012
+32.0,,57.0,+33:39,,Irizar Markel,73,RadioShack - Nissan,",, 25:40",,7,2012
+20.0,,62.0,+38:41,,Mannion Gavin,74,Bontrager Livestrong Team,",, 25:40",,7,2012
+22.0,,78.0,+1:09:58,,Boily David,75,Spidertech Powered by C10,",, 25:40",,7,2012
+27.0,,100.0,+1:32:52,,Stamsnijder Tom,76,Argos - Shimano,",, 25:40",,7,2012
+31.0,,72.0,+1:00:40,,Vennell Jeremy,77,Bissell Pro Cycling,",, 25:40",,7,2012
+22.0,,46.0,+28:36,,Bennett George,78,RadioShack - Nissan,",, 25:40",,7,2012
+26.0,,109.0,+1:44:58,,Quintero Carlos,79,Colombia - Coldeportes,",, 25:40",,7,2012
+21.0,,74.0,+1:04:33,,Houle Hugo,80,Spidertech Powered by C10,",, 25:40",,7,2012
+22.0,,96.0,+1:28:20,,Boivin Guillaume,81,Spidertech Powered by C10,",, 25:40",,7,2012
+33.0,,87.0,+1:15:38,,Zirbel Tom,82,Optum p/b Kelly Benefit Strategies,",, 25:40",,7,2012
+27.0,,89.0,+1:17:35,,Schmitt Morgan,83,Team Exergy,",, 25:40",,7,2012
+27.0,,49.0,+29:09,,K\xfcnzli Raimond,84,Spidertech Powered by C10,",, 25:40",,7,2012
+37.0,,60.0,+37:18,,Candelario Alex,85,Optum p/b Kelly Benefit Strategies,",, 25:40",,7,2012
+23.0,,106.0,+1:39:30,,Tvetcov Serghei,86,Team Exergy,",, 25:40",,7,2012
+21.0,,108.0,+1:41:10,,Rathe Jacob,87,Team Garmin - Barracuda,",, 25:40",,7,2012
+30.0,,95.0,+1:27:43,,White Bradley,88,UnitedHealthcare Presented by Maxxis,",, 25:40",,7,2012
+25.0,,92.0,+1:20:00,,Ciolek Gerald,89,Omega Pharma - Quick-Step,",, 25:40",,7,2012
+34.0,,52.0,+30:02,,Louder Jeff,90,UnitedHealthcare Presented by Maxxis,",, 25:40",,7,2012
+20.0,,69.0,+56:34,,Brown Nathan,91,Bontrager Livestrong Team,",, 25:40",,7,2012
+36.0,,51.0,+29:38,,Baldwin Christopher,92,Bissell Pro Cycling,",, 25:40",,7,2012
+22.0,,80.0,+1:10:42,,Howard Leigh,93,Orica GreenEDGE,",, 25:40",,7,2012
+39.0,,107.0,+1:40:53,,McEwen Robbie,94,Orica GreenEDGE,",, 25:40",,7,2012
+26.0,,93.0,+1:24:24,,Kluge Roger,95,Argos - Shimano,",, 25:40",,7,2012
+34.0,,102.0,+1:34:37,,Wilson Matthew,96,Orica GreenEDGE,",, 25:40",,7,2012
+25.0,,55.0,+32:48,,Sulzberger Wesley,97,Orica GreenEDGE,",, 25:40",,7,2012
+27.0,,97.0,+1:29:49,,Clarke Jonathan,98,UnitedHealthcare Presented by Maxxis,",, 25:40",,7,2012
+36.0,,91.0,+1:19:53,,Grabsch Bert,99,Omega Pharma - Quick-Step,",, 25:40",,7,2012
+24.0,,65.0,+43:48,,Geniez Alexandre,100,Argos - Shimano,",, 25:40",,7,2012
+21.0,,83.0,+1:12:28,,Matthews Michael,101,Rabobank Cycling Team,",, 25:40",,7,2012
+19.0,,90.0,+1:18:00,,Eastman Ryan,102,Bontrager Livestrong Team,",, 25:40",,7,2012
+30.0,,104.0,+1:35:48,,Hanson Ken,103,Optum p/b Kelly Benefit Strategies,",, 25:40",,7,2012
+28.0,,67.0,+53:51,,Doi Yukihiro,104,Argos - Shimano,",, 25:40",,7,2012
+28.0,,56.0,+33:18,,Diaz Andr\xe8s Miguel,105,Team Exergy,",, 25:40",,7,2012
+22.0,,70.0,+59:10,,Roe Timothy,106,BMC Racing Team,",, 25:40",,7,2012
+23.0,,41.0,+25:49,,Talansky Andrew,107,Team Garmin - Barracuda,",, 25:40",,7,2012
+34.0,,94.0,+1:26:09,,Zwizanski Scott,108,Optum p/b Kelly Benefit Strategies,",, 25:40",,7,2012
+21.0,,48.0,+28:58,,Boswell Ian,109,Bontrager Livestrong Team,",, 25:40",,7,2012
+32.0,,68.0,+53:59,,Rast Gregory,110,RadioShack - Nissan,",, 25:40",,7,2012
+31.0,,,+ - 29:14:52,,Riblon Christophe,DNF,AG2R La Mondiale,",, 25:40",,7,2012
+22.0,,,+ - 29:14:52,,Loader Logan,DNF,Team Exergy,",, 25:40",,7,2012
+23.0,,,+ - 29:14:52,,Jones Carter,DNF,Bissell Pro Cycling,",, 25:40",,7,2012
+24.0,,,+ - 29:14:52,,Anderson Ryan,DNF,Spidertech Powered by C10,",, 25:40",,7,2012
+22.0,,42.0,+27:28,30.0,Sagan Peter,1,Liquigas - Cannondale,1:27:36 1:27:36,20.0,8,2012
+31.0,,81.0,+1:11:31,18.0,Boonen Tom,2,Omega Pharma - Quick-Step,",, ,,",14.0,8,2012
+25.0,,91.0,+1:19:52,12.0,Ciolek Gerald,3,Omega Pharma - Quick-Step,",, ,,",8.0,8,2012
+26.0,,93.0,+1:24:20,7.0,Kluge Roger,4,Argos - Shimano,",, ,,",7.0,8,2012
+28.0,,40.0,+23:28,4.0,Haussler Heinrich,5,Team Garmin - Barracuda,",, ,,",6.0,8,2012
+30.0,,86.0,+1:15:30,3.0,Mondory Lloyd,6,AG2R La Mondiale,",, ,,",5.0,8,2012
+30.0,,103.0,+1:35:44,2.0,Hanson Ken,7,Optum p/b Kelly Benefit Strategies,",, ,,",4.0,8,2012
+25.0,,59.0,+37:08,1.0,Oss Daniel,8,Liquigas - Cannondale,",, ,,",2.0,8,2012
+21.0,,83.0,+1:12:24,,Matthews Michael,9,Rabobank Cycling Team,",, ,,",,8,2012
+22.0,,95.0,+1:28:16,,Boivin Guillaume,10,Spidertech Powered by C10,",, ,,",,8,2012
+34.0,,77.0,+1:08:47,,Pipp Frank Kevin,11,Bissell Pro Cycling,",, ,,",,8,2012
+20.0,,62.0,+38:37,,Mannion Gavin,12,Bontrager Livestrong Team,",, ,,",,8,2012
+37.0,,60.0,+37:14,,Candelario Alex,13,Optum p/b Kelly Benefit Strategies,",, ,,",,8,2012
+38.0,,26.0,+8:34,,Rodriguez Fred,14,Team Exergy,",, ,,",,8,2012
+22.0,,80.0,+1:10:38,,Howard Leigh,15,Orica GreenEDGE,",, ,,",,8,2012
+39.0,,107.0,+1:40:49,,McEwen Robbie,16,Orica GreenEDGE,",, ,,",,8,2012
+24.0,,38.0,+19:27,,Howes Alex,17,Team Garmin - Barracuda,0:04 0:04,,8,2012
+21.0,,18.0,+5:03,,Durbridge Luke,18,Orica GreenEDGE,",, 0:04",,8,2012
+27.0,,19.0,+5:52,,Roche Nicolas,19,AG2R La Mondiale,",, 0:04",,8,2012
+23.0,,106.0,+1:39:30,,Tvetcov Serghei,20,Team Exergy,",, 0:04",,8,2012
+31.0,,72.0,+1:00:40,,Vennell Jeremy,21,Bissell Pro Cycling,",, 0:04",,8,2012
+31.0,,10.0,+3:05,,Weening Pieter,22,Orica GreenEDGE,",, 0:04",,8,2012
+28.0,,17.0,+4:28,,Georges Sylvain,23,AG2R La Mondiale,",, 0:04",,8,2012
+40.0,,8.0,+2:49,,Horner Chris,24,RadioShack - Nissan,",, 0:04",,8,2012
+29.0,,84.0,+1:13:03,,King Edward,25,Liquigas - Cannondale,",, 0:04",,8,2012
+34.0,,3.0,+0:54,,Danielson Thomas,26,Team Garmin - Barracuda,",, 0:04",,8,2012
+28.0,,27.0,+9:53,,Bookwalter Brent,27,BMC Racing Team,",, 0:04",,8,2012
+38.0,,15.0,+4:21,,Hincapie George,28,BMC Racing Team,",, 0:04",,8,2012
+31.0,,104.0,+1:36:09,,Da Dalto Mauro,29,Liquigas - Cannondale,",, 0:04",,8,2012
+32.0,,57.0,+33:39,,Irizar Markel,30,RadioShack - Nissan,",, 0:04",,8,2012
+33.0,,2.0,+0:46,,Zabriskie David,31,Team Garmin - Barracuda,",, 0:04",,8,2012
+21.0,,23.0,+7:29,,Dumoulin Tom,32,Argos - Shimano,",, 0:04",,8,2012
+21.0,,108.0,+1:41:10,,Rathe Jacob,33,Team Garmin - Barracuda,",, 0:04",,8,2012
+21.0,,25.0,+8:28,,Bardet Romain,34,AG2R La Mondiale,",, 0:04",,8,2012
+34.0,,51.0,+30:02,,Louder Jeff,35,UnitedHealthcare Presented by Maxxis,",, 0:04",,8,2012
+37.0,,71.0,+1:00:32,,Pe\xf1a Victor Hugo,36,Colombia - Coldeportes,",, 0:04",,8,2012
+27.0,,32.0,+16:02,,Nibali Vincenzo,37,Liquigas - Cannondale,",, 0:04",,8,2012
+23.0,,4.0,+1:17,,van Garderen Tejay,38,BMC Racing Team,",, 0:04",,8,2012
+27.0,,20.0,+6:02,,Velits Peter,39,Omega Pharma - Quick-Step,",, 0:04",,8,2012
+30.0,,22.0,+7:21,,Vandborg Brian,40,Spidertech Powered by C10,",, 0:04",,8,2012
+26.0,,31.0,+12:57,,Ch\xe9rel Micka\xebl,41,AG2R La Mondiale,",, 0:04",,8,2012
+26.0,,9.0,+2:54,,Machado Tiago,42,RadioShack - Nissan,",, 0:04",,8,2012
+24.0,,11.0,+3:15,,Meyer Cameron,43,Orica GreenEDGE,",, 0:04",,8,2012
+19.0,,90.0,+1:18:00,,Eastman Ryan,44,Bontrager Livestrong Team,",, 0:04",,8,2012
+25.0,,44.0,+28:13,,Bouet Maxime,45,AG2R La Mondiale,",, 0:04",,8,2012
+36.0,,92.0,+1:19:53,,Grabsch Bert,46,Omega Pharma - Quick-Step,",, 0:04",,8,2012
+25.0,,1.0,+0:00,,Gesink Robert,47,Rabobank Cycling Team,",, 0:04",,8,2012
+25.0,,5.0,+1:36,,Duarte Fabio,48,Colombia - Coldeportes,",, 0:04",,8,2012
+28.0,,21.0,+6:57,,Sanchez Luis Leon,49,Rabobank Cycling Team,",, 0:04",,8,2012
+38.0,,6.0,+2:13,,Leipheimer Levi,50,Omega Pharma - Quick-Step,",, 0:04",,8,2012
+25.0,,64.0,+42:45,,Peterson Tom,51,Team Garmin - Barracuda,",, 0:04",,8,2012
+21.0,,7.0,+2:30,,Kelderman Wilco,52,Rabobank Cycling Team,",, 0:04",,8,2012
+21.0,,12.0,+3:38,,Dombrowski Joe,53,Bontrager Livestrong Team,",, 0:04",,8,2012
+34.0,,88.0,+1:16:32,,Tjallingii Maarten,54,Rabobank Cycling Team,",, 0:04",,8,2012
+27.0,,49.0,+29:09,,K\xfcnzli Raimond,55,Spidertech Powered by C10,",, 0:04",,8,2012
+27.0,,39.0,+21:20,,Van Avermaet Greg,56,BMC Racing Team,",, 0:04",,8,2012
+21.0,,74.0,+1:04:33,,Houle Hugo,57,Spidertech Powered by C10,",, 0:04",,8,2012
+26.0,,110.0,+1:51:43,,Marentes Wilson Alexander,58,Colombia - Coldeportes,",, 0:04",,8,2012
+24.0,,16.0,+4:28,,Atapuma John Darwin,59,Colombia - Coldeportes,",, 0:04",,8,2012
+28.0,,67.0,+53:51,,Doi Yukihiro,60,Argos - Shimano,",, 0:04",,8,2012
+30.0,,13.0,+3:44,,Sutherland Rory,61,UnitedHealthcare Presented by Maxxis,",, 0:04",,8,2012
+25.0,,79.0,+1:10:20,,Koren Kristijan,62,Liquigas - Cannondale,",, 0:04",,8,2012
+28.0,,61.0,+37:34,,Euser Lucas,63,,",, 0:04",,8,2012
+31.0,,52.0,+31:16,,Vanotti Alessandro,64,Liquigas - Cannondale,",, 0:04",,8,2012
+32.0,,85.0,+1:14:37,,Jones Chris,65,UnitedHealthcare Presented by Maxxis,",, 0:04",,8,2012
+27.0,,14.0,+4:19,,Busche Matthew,66,RadioShack - Nissan,",, 0:04",,8,2012
+28.0,,24.0,+7:49,,Deignan Philip,67,UnitedHealthcare Presented by Maxxis,",, 0:04",,8,2012
+36.0,,50.0,+29:38,,Baldwin Christopher,68,Bissell Pro Cycling,",, 0:04",,8,2012
+28.0,,47.0,+28:37,,Devenyns Dries,69,Omega Pharma - Quick-Step,",, 0:04",,8,2012
+19.0,,66.0,+50:31,,Atkins Joshua,70,Bontrager Livestrong Team,",, 0:04",,8,2012
+23.0,,98.0,+1:32:39,,Haas Nathan,71,Team Garmin - Barracuda,",, 0:04",,8,2012
+22.0,,46.0,+28:36,,Bennett George,72,RadioShack - Nissan,",, 0:04",,8,2012
+23.0,,41.0,+25:49,,Talansky Andrew,73,Team Garmin - Barracuda,",, 0:04",,8,2012
+26.0,,109.0,+1:44:58,,Quintero Carlos,74,Colombia - Coldeportes,",, 0:04",,8,2012
+39.0,,63.0,+39:54,,Bajadali Andrew,75,Optum p/b Kelly Benefit Strategies,",, 0:04",,8,2012
+22.0,,78.0,+1:09:58,,Boily David,76,Spidertech Powered by C10,",, 0:04",,8,2012
+31.0,,53.0,+31:36,,Creed Michael,77,Optum p/b Kelly Benefit Strategies,",, 0:04",,8,2012
+24.0,,65.0,+43:48,,Geniez Alexandre,78,Argos - Shimano,",, 0:04",,8,2012
+27.0,,89.0,+1:17:35,,Schmitt Morgan,79,Team Exergy,",, 0:04",,8,2012
+32.0,,35.0,+18:31,,Cooke Matt,80,Team Exergy,",, 0:04",,8,2012
+33.0,,87.0,+1:15:38,,Zirbel Tom,81,Optum p/b Kelly Benefit Strategies,",, 0:04",,8,2012
+32.0,,68.0,+53:59,,Rast Gregory,82,RadioShack - Nissan,",, 0:04",,8,2012
+22.0,,45.0,+28:15,,Eijssen Yannick,83,BMC Racing Team,",, 0:04",,8,2012
+29.0,,28.0,+10:44,,Duggan Timothy,84,Liquigas - Cannondale,",, 0:04",,8,2012
+40.0,,33.0,+16:04,,Voigt Jens,85,RadioShack - Nissan,",, 0:04",,8,2012
+34.0,,101.0,+1:34:37,,Wilson Matthew,86,Orica GreenEDGE,",, 0:04",,8,2012
+27.0,,100.0,+1:32:52,,Stamsnijder Tom,87,Argos - Shimano,",, 0:04",,8,2012
+22.0,,58.0,+34:18,,Rodriguez Michael,88,Colombia - Coldeportes,",, 0:04",,8,2012
+28.0,,30.0,+12:49,,de Maar Marc,89,UnitedHealthcare Presented by Maxxis,",, 0:04",,8,2012
+28.0,,55.0,+33:18,,Diaz Andr\xe8s Miguel,90,Team Exergy,",, 0:04",,8,2012
+30.0,,94.0,+1:27:43,,White Bradley,91,UnitedHealthcare Presented by Maxxis,",, 0:04",,8,2012
+22.0,,70.0,+59:10,,Roe Timothy,92,BMC Racing Team,",, 0:04",,8,2012
+28.0,,43.0,+27:54,,Martens Paul,93,Rabobank Cycling Team,",, 0:04",,8,2012
+24.0,,73.0,+1:02:29,,Salas Sebastian,94,Optum p/b Kelly Benefit Strategies,",, 0:04",,8,2012
+23.0,,34.0,+16:54,,Damuseau Thomas,95,Argos - Shimano,",, 0:04",,8,2012
+38.0,,97.0,+1:30:10,,McCartney Jason,96,UnitedHealthcare Presented by Maxxis,",, 0:04",,8,2012
+20.0,,37.0,+19:10,,Craddock Lawson,97,Bontrager Livestrong Team,",, 0:04",,8,2012
+21.0,,48.0,+28:58,,Boswell Ian,98,Bontrager Livestrong Team,",, 0:04",,8,2012
+20.0,,76.0,+1:07:19,,Stuyven Jasper,99,Bontrager Livestrong Team,",, 0:04",,8,2012
+20.0,,69.0,+56:34,,Brown Nathan,100,Bontrager Livestrong Team,",, 0:04",,8,2012
+33.0,,29.0,+12:05,,Tankink Bram,101,Rabobank Cycling Team,",, 0:04",,8,2012
+28.0,,82.0,+1:12:02,,Vandenbergh Stijn,102,Omega Pharma - Quick-Step,0:30 0:30,,8,2012
+28.0,,102.0,+1:34:47,,Rabon Frantisek,103,Omega Pharma - Quick-Step,0:37 0:37,,8,2012
+25.0,,56.0,+33:37,,Sulzberger Wesley,104,Orica GreenEDGE,0:53 0:53,,8,2012
+29.0,,75.0,+1:06:18,,de Kort Koen,105,Argos - Shimano,0:04 0:04,,8,2012
+22.0,,105.0,+1:36:30,,Meyer Travis,106,Orica GreenEDGE,1:22 1:22,,8,2012
+23.0,,54.0,+32:24,,King Benjamin,107,RadioShack - Nissan,3:05 3:05,,8,2012
+,,36.0,+18:44,,Jacques Hubert,108,,",, 3:05",,8,2012
+34.0,,96.0,+1:29:10,,Zwizanski Scott,109,Optum p/b Kelly Benefit Strategies,",, 3:05",,8,2012
+27.0,,99.0,+1:32:50,,Clarke Jonathan,110,UnitedHealthcare Presented by Maxxis,",, 3:05",,8,2012

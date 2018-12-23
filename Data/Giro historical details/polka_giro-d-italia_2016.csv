@@ -1,0 +1,787 @@
+Age,BIB,Pnt,Prev,Rider,Rnk,Team,\u25bc\u25b2,stage,year
+25,52,3,,Fraile Omar,1,Team Dimension Data,,2,2016
+38,178,2,,Tjallingii Maarten,2,Team LottoNL-Jumbo,,2,2016
+24,132,1,,Berlato Giacomo,3,Nippo - Vini Fantini,,2,2016
+38,178,5,2.0,Tjallingii Maarten,1,Team LottoNL-Jumbo,\u25b21,3,2016
+25,52,3,1.0,Fraile Omar,2,Team Dimension Data,\u25bc1,3,2016
+22,212,2,,Amezqueta Julen,3,Wilier - Southeast,-,3,2016
+24,132,2,3.0,Berlato Giacomo,4,Nippo - Vini Fantini,\u25bc1,3,2016
+34,131,7,,Cunego Damiano,1,Nippo - Vini Fantini,-,4,2016
+26,24,7,,Boem Nicola,2,Bardiani - CSF,-,4,2016
+38,178,5,1.0,Tjallingii Maarten,3,Team LottoNL-Jumbo,\u25bc2,4,2016
+29,21,4,,Pirazzi Stefano,4,Bardiani - CSF,-,4,2016
+26,38,4,,Rosskopf Joey,5,BMC Racing Team,-,4,2016
+25,52,3,2.0,Fraile Omar,6,Team Dimension Data,\u25bc4,4,2016
+25,157,2,,Preidler Georg,7,Team Giant - Alpecin,-,4,2016
+21,105,2,,Mohoric Matej,8,Lampre - Merida,-,4,2016
+22,212,2,3.0,Amezqueta Julen,9,Wilier - Southeast,\u25bc6,4,2016
+24,132,2,4.0,Berlato Giacomo,10,Nippo - Vini Fantini,\u25bc6,4,2016
+25,151,1,,Dumoulin Tom,11,Team Giant - Alpecin,-,4,2016
+26,92,1,,Br\xe4ndle Matthias,12,IAM Cycling,-,4,2016
+34,131,14,1.0,Cunego Damiano,1,Nippo - Vini Fantini,-,5,2016
+26,24,7,2.0,Boem Nicola,2,Bardiani - CSF,-,5,2016
+22,212,6,9.0,Amezqueta Julen,3,Wilier - Southeast,\u25b26,5,2016
+38,178,5,3.0,Tjallingii Maarten,4,Team LottoNL-Jumbo,\u25bc1,5,2016
+29,21,4,4.0,Pirazzi Stefano,5,Bardiani - CSF,\u25bc1,5,2016
+26,38,4,5.0,Rosskopf Joey,6,BMC Racing Team,\u25bc1,5,2016
+25,157,2,7.0,Preidler Georg,7,Team Giant - Alpecin,-,5,2016
+21,105,2,8.0,Mohoric Matej,8,Lampre - Merida,-,5,2016
+24,132,2,10.0,Berlato Giacomo,9,Nippo - Vini Fantini,\u25b21,5,2016
+25,111,2,,Wellens Tim,10,Lotto Soudal,-,5,2016
+25,151,1,11.0,Dumoulin Tom,11,Team Giant - Alpecin,-,5,2016
+31,133,1,,Bisolti Alessandro,12,Nippo - Vini Fantini,-,5,2016
+26,92,1,12.0,Br\xe4ndle Matthias,13,IAM Cycling,\u25bc1,5,2016
+34,131,18,1.0,Cunego Damiano,1,Nippo - Vini Fantini,-,6,2016
+25,111,17,10.0,Wellens Tim,2,Lotto Soudal,\u25b28,6,2016
+31,133,16,12.0,Bisolti Alessandro,3,Nippo - Vini Fantini,\u25b29,6,2016
+31,14,8,,Fuglsang Jakob,4,Astana Pro Team,-,6,2016
+35,81,8,,Kolobnev Alexandr,5,Gazprom-RusVelo,-,6,2016
+26,24,7,2.0,Boem Nicola,6,Bardiani - CSF,\u25bc4,6,2016
+26,161,6,,Zakarin Ilnur,7,Team Katusha,-,6,2016
+29,21,6,5.0,Pirazzi Stefano,8,Bardiani - CSF,\u25bc3,6,2016
+26,219,6,,Zhupa Eugert,9,Wilier - Southeast,-,6,2016
+22,212,6,3.0,Amezqueta Julen,10,Wilier - Southeast,\u25bc7,6,2016
+38,178,5,4.0,Tjallingii Maarten,11,Team LottoNL-Jumbo,\u25bc7,6,2016
+25,151,5,11.0,Dumoulin Tom,12,Team Giant - Alpecin,\u25bc1,6,2016
+26,38,4,6.0,Rosskopf Joey,13,BMC Racing Team,\u25bc7,6,2016
+33,56,2,,Siutsou Kanstantsin,14,Team Dimension Data,-,6,2016
+25,157,2,7.0,Preidler Georg,15,Team Giant - Alpecin,\u25bc8,6,2016
+21,105,2,8.0,Mohoric Matej,16,Lampre - Merida,\u25bc8,6,2016
+24,132,2,9.0,Berlato Giacomo,17,Nippo - Vini Fantini,\u25bc8,6,2016
+33,1,1,,Pozzovivo Domenico,18,AG2R La Mondiale,-,6,2016
+31,12,1,,Agnoli Valerio,19,Astana Pro Team,-,6,2016
+26,92,1,13.0,Br\xe4ndle Matthias,20,IAM Cycling,\u25bc7,6,2016
+25,111,21,2.0,Wellens Tim,1,Lotto Soudal,\u25b21,7,2016
+34,131,20,1.0,Cunego Damiano,2,Nippo - Vini Fantini,\u25bc1,7,2016
+31,133,16,3.0,Bisolti Alessandro,3,Nippo - Vini Fantini,-,7,2016
+22,35,15,,K\xfcng Stefan,4,BMC Racing Team,-,7,2016
+31,14,8,4.0,Fuglsang Jakob,5,Astana Pro Team,\u25bc1,7,2016
+23,195,8,,McCarthy Jay,6,Tinkoff,-,7,2016
+35,81,8,5.0,Kolobnev Alexandr,7,Gazprom-RusVelo,\u25bc2,7,2016
+26,24,7,6.0,Boem Nicola,8,Bardiani - CSF,\u25bc2,7,2016
+26,161,6,7.0,Zakarin Ilnur,9,Team Katusha,\u25bc2,7,2016
+29,21,6,8.0,Pirazzi Stefano,10,Bardiani - CSF,\u25bc2,7,2016
+26,219,6,9.0,Zhupa Eugert,11,Wilier - Southeast,\u25bc2,7,2016
+29,5,6,,Gretsch Patrick,12,AG2R La Mondiale,-,7,2016
+22,212,6,10.0,Amezqueta Julen,13,Wilier - Southeast,\u25bc3,7,2016
+38,178,5,11.0,Tjallingii Maarten,14,Team LottoNL-Jumbo,\u25bc3,7,2016
+25,151,5,12.0,Dumoulin Tom,15,Team Giant - Alpecin,\u25bc3,7,2016
+26,38,4,13.0,Rosskopf Joey,16,BMC Racing Team,\u25bc3,7,2016
+20,218,3,,Martinez Daniel Felipe,17,Wilier - Southeast,-,7,2016
+33,56,2,14.0,Siutsou Kanstantsin,18,Team Dimension Data,\u25bc4,7,2016
+25,157,2,15.0,Preidler Georg,19,Team Giant - Alpecin,\u25bc4,7,2016
+21,26,2,,Ciccone Giulio,20,Bardiani - CSF,-,7,2016
+21,105,2,16.0,Mohoric Matej,21,Lampre - Merida,\u25bc5,7,2016
+24,132,2,17.0,Berlato Giacomo,22,Nippo - Vini Fantini,\u25bc5,7,2016
+33,1,1,18.0,Pozzovivo Domenico,23,AG2R La Mondiale,\u25bc5,7,2016
+33,129,1,,Visconti Giovanni,24,Movistar Team,-,7,2016
+31,12,1,19.0,Agnoli Valerio,25,Astana Pro Team,\u25bc6,7,2016
+25,3,1,,Domont Axel,26,AG2R La Mondiale,-,7,2016
+26,92,1,20.0,Br\xe4ndle Matthias,27,IAM Cycling,\u25bc7,7,2016
+25,111,21,1.0,Wellens Tim,1,Lotto Soudal,-,8,2016
+34,131,20,2.0,Cunego Damiano,2,Nippo - Vini Fantini,-,8,2016
+28,62,16,,Brambilla Gianluca,3,Etixx - Quick Step,-,8,2016
+31,133,16,3.0,Bisolti Alessandro,4,Nippo - Vini Fantini,\u25bc1,8,2016
+22,35,15,4.0,K\xfcng Stefan,5,BMC Racing Team,\u25bc1,8,2016
+31,14,8,5.0,Fuglsang Jakob,6,Astana Pro Team,\u25bc1,8,2016
+32,8,8,,Montaguti Matteo,7,AG2R La Mondiale,-,8,2016
+23,195,8,6.0,McCarthy Jay,8,Tinkoff,\u25bc2,8,2016
+35,81,8,7.0,Kolobnev Alexandr,9,Gazprom-RusVelo,\u25bc2,8,2016
+24,113,7,,de Bie Sean,10,Lotto Soudal,-,8,2016
+26,24,7,8.0,Boem Nicola,11,Bardiani - CSF,\u25bc3,8,2016
+26,161,6,9.0,Zakarin Ilnur,12,Team Katusha,\u25bc3,8,2016
+29,21,6,10.0,Pirazzi Stefano,13,Bardiani - CSF,\u25bc3,8,2016
+30,126,6,,Rojas Jos\xe9 Joaqu\xedn,14,Movistar Team,-,8,2016
+24,132,6,22.0,Berlato Giacomo,15,Nippo - Vini Fantini,\u25b27,8,2016
+26,219,6,11.0,Zhupa Eugert,16,Wilier - Southeast,\u25bc5,8,2016
+29,5,6,12.0,Gretsch Patrick,17,AG2R La Mondiale,\u25bc5,8,2016
+22,212,6,13.0,Amezqueta Julen,18,Wilier - Southeast,\u25bc5,8,2016
+38,178,5,14.0,Tjallingii Maarten,19,Team LottoNL-Jumbo,\u25bc5,8,2016
+25,151,5,15.0,Dumoulin Tom,20,Team Giant - Alpecin,\u25bc5,8,2016
+29,33,4,,De Marchi Alessandro,21,BMC Racing Team,-,8,2016
+26,38,4,16.0,Rosskopf Joey,22,BMC Racing Team,\u25bc6,8,2016
+20,218,3,17.0,Martinez Daniel Felipe,23,Wilier - Southeast,\u25bc6,8,2016
+33,56,2,18.0,Siutsou Kanstantsin,24,Team Dimension Data,\u25bc6,8,2016
+25,157,2,19.0,Preidler Georg,25,Team Giant - Alpecin,\u25bc6,8,2016
+29,59,2,,Venter Jaco,26,Team Dimension Data,-,8,2016
+21,26,2,20.0,Ciccone Giulio,27,Bardiani - CSF,\u25bc7,8,2016
+21,105,2,21.0,Mohoric Matej,28,Lampre - Merida,\u25bc7,8,2016
+23,128,2,,S\xfctterlin Jasha,29,Movistar Team,-,8,2016
+26,141,1,,Chaves Johan Esteban,30,Orica GreenEDGE,-,8,2016
+33,1,1,23.0,Pozzovivo Domenico,31,AG2R La Mondiale,\u25bc8,8,2016
+33,129,1,24.0,Visconti Giovanni,32,Movistar Team,\u25bc8,8,2016
+31,12,1,25.0,Agnoli Valerio,33,Astana Pro Team,\u25bc8,8,2016
+25,3,1,26.0,Domont Axel,34,AG2R La Mondiale,\u25bc8,8,2016
+26,92,1,27.0,Br\xe4ndle Matthias,35,IAM Cycling,\u25bc8,8,2016
+25,111,21,1.0,Wellens Tim,1,Lotto Soudal,-,9,2016
+34,131,20,2.0,Cunego Damiano,2,Nippo - Vini Fantini,-,9,2016
+28,62,16,3.0,Brambilla Gianluca,3,Etixx - Quick Step,-,9,2016
+31,133,16,4.0,Bisolti Alessandro,4,Nippo - Vini Fantini,-,9,2016
+22,35,15,5.0,K\xfcng Stefan,5,BMC Racing Team,-,9,2016
+31,14,8,6.0,Fuglsang Jakob,6,Astana Pro Team,-,9,2016
+32,8,8,7.0,Montaguti Matteo,7,AG2R La Mondiale,-,9,2016
+23,195,8,8.0,McCarthy Jay,8,Tinkoff,-,9,2016
+35,81,8,9.0,Kolobnev Alexandr,9,Gazprom-RusVelo,-,9,2016
+24,113,7,10.0,de Bie Sean,10,Lotto Soudal,-,9,2016
+26,24,7,11.0,Boem Nicola,11,Bardiani - CSF,-,9,2016
+26,161,6,12.0,Zakarin Ilnur,12,Team Katusha,-,9,2016
+29,21,6,13.0,Pirazzi Stefano,13,Bardiani - CSF,-,9,2016
+30,126,6,14.0,Rojas Jos\xe9 Joaqu\xedn,14,Movistar Team,-,9,2016
+24,132,6,15.0,Berlato Giacomo,15,Nippo - Vini Fantini,-,9,2016
+26,219,6,16.0,Zhupa Eugert,16,Wilier - Southeast,-,9,2016
+29,5,6,17.0,Gretsch Patrick,17,AG2R La Mondiale,-,9,2016
+22,212,6,18.0,Amezqueta Julen,18,Wilier - Southeast,-,9,2016
+38,178,5,19.0,Tjallingii Maarten,19,Team LottoNL-Jumbo,-,9,2016
+25,151,5,20.0,Dumoulin Tom,20,Team Giant - Alpecin,-,9,2016
+29,33,4,21.0,De Marchi Alessandro,21,BMC Racing Team,-,9,2016
+26,38,4,22.0,Rosskopf Joey,22,BMC Racing Team,-,9,2016
+20,218,3,23.0,Martinez Daniel Felipe,23,Wilier - Southeast,-,9,2016
+33,56,2,24.0,Siutsou Kanstantsin,24,Team Dimension Data,-,9,2016
+25,157,2,25.0,Preidler Georg,25,Team Giant - Alpecin,-,9,2016
+29,59,2,26.0,Venter Jaco,26,Team Dimension Data,-,9,2016
+21,105,2,28.0,Mohoric Matej,27,Lampre - Merida,\u25b21,9,2016
+21,26,2,27.0,Ciccone Giulio,28,Bardiani - CSF,\u25bc1,9,2016
+23,128,2,29.0,S\xfctterlin Jasha,29,Movistar Team,-,9,2016
+33,1,1,31.0,Pozzovivo Domenico,30,AG2R La Mondiale,\u25b21,9,2016
+26,141,1,30.0,Chaves Johan Esteban,31,Orica GreenEDGE,\u25bc1,9,2016
+33,129,1,32.0,Visconti Giovanni,32,Movistar Team,-,9,2016
+31,12,1,33.0,Agnoli Valerio,33,Astana Pro Team,-,9,2016
+25,3,1,34.0,Domont Axel,34,AG2R La Mondiale,-,9,2016
+26,92,1,35.0,Br\xe4ndle Matthias,35,IAM Cycling,-,9,2016
+34,131,56,2.0,Cunego Damiano,1,Nippo - Vini Fantini,\u25b21,10,2016
+21,26,27,28.0,Ciccone Giulio,2,Bardiani - CSF,\u25b226,10,2016
+25,111,25,1.0,Wellens Tim,3,Lotto Soudal,\u25bc2,10,2016
+29,21,18,13.0,Pirazzi Stefano,4,Bardiani - CSF,\u25b29,10,2016
+33,129,17,32.0,Visconti Giovanni,5,Movistar Team,\u25b227,10,2016
+28,62,16,3.0,Brambilla Gianluca,6,Etixx - Quick Step,\u25bc3,10,2016
+31,133,16,4.0,Bisolti Alessandro,7,Nippo - Vini Fantini,\u25bc3,10,2016
+22,35,15,5.0,K\xfcng Stefan,8,BMC Racing Team,\u25bc3,10,2016
+28,197,15,,Rovny Ivan,9,Tinkoff,-,10,2016
+26,24,11,11.0,Boem Nicola,10,Bardiani - CSF,\u25b21,10,2016
+31,14,8,6.0,Fuglsang Jakob,11,Astana Pro Team,\u25bc5,10,2016
+32,8,8,7.0,Montaguti Matteo,12,AG2R La Mondiale,\u25bc5,10,2016
+23,195,8,8.0,McCarthy Jay,13,Tinkoff,\u25bc5,10,2016
+35,81,8,9.0,Kolobnev Alexandr,14,Gazprom-RusVelo,\u25bc5,10,2016
+24,113,7,10.0,de Bie Sean,15,Lotto Soudal,\u25bc5,10,2016
+24,49,7,,Brown Nathan,16,Cannondale Pro Cycling Team,-,10,2016
+26,161,6,12.0,Zakarin Ilnur,17,Team Katusha,\u25bc5,10,2016
+28,32,6,,Atapuma John Darwin,18,BMC Racing Team,-,10,2016
+30,126,6,14.0,Rojas Jos\xe9 Joaqu\xedn,19,Movistar Team,\u25bc5,10,2016
+24,132,6,15.0,Berlato Giacomo,20,Nippo - Vini Fantini,\u25bc5,10,2016
+26,219,6,16.0,Zhupa Eugert,21,Wilier - Southeast,\u25bc5,10,2016
+29,5,6,17.0,Gretsch Patrick,22,AG2R La Mondiale,\u25bc5,10,2016
+22,212,6,18.0,Amezqueta Julen,23,Wilier - Southeast,\u25bc5,10,2016
+38,178,5,19.0,Tjallingii Maarten,24,Team LottoNL-Jumbo,\u25bc5,10,2016
+25,151,5,20.0,Dumoulin Tom,25,Team Giant - Alpecin,\u25bc5,10,2016
+29,33,4,21.0,De Marchi Alessandro,26,BMC Racing Team,\u25bc5,10,2016
+26,38,4,22.0,Rosskopf Joey,27,BMC Racing Team,\u25bc5,10,2016
+20,218,3,23.0,Martinez Daniel Felipe,28,Wilier - Southeast,\u25bc5,10,2016
+25,157,3,25.0,Preidler Georg,29,Team Giant - Alpecin,\u25bc4,10,2016
+33,56,2,24.0,Siutsou Kanstantsin,30,Team Dimension Data,\u25bc6,10,2016
+36,107,2,,Niemiec Przemyslaw,31,Lampre - Merida,-,10,2016
+29,59,2,26.0,Venter Jaco,32,Team Dimension Data,\u25bc6,10,2016
+21,105,2,27.0,Mohoric Matej,33,Lampre - Merida,\u25bc6,10,2016
+23,128,2,29.0,S\xfctterlin Jasha,34,Movistar Team,\u25bc5,10,2016
+26,141,1,31.0,Chaves Johan Esteban,35,Orica GreenEDGE,\u25bc4,10,2016
+33,1,1,30.0,Pozzovivo Domenico,36,AG2R La Mondiale,\u25bc6,10,2016
+31,12,1,33.0,Agnoli Valerio,37,Astana Pro Team,\u25bc4,10,2016
+25,3,1,34.0,Domont Axel,38,AG2R La Mondiale,\u25bc4,10,2016
+22,22,1,,Andreetta Simone,39,Bardiani - CSF,-,10,2016
+26,92,1,35.0,Br\xe4ndle Matthias,40,IAM Cycling,\u25bc5,10,2016
+34,131,56,1.0,Cunego Damiano,1,Nippo - Vini Fantini,-,11,2016
+21,26,27,2.0,Ciccone Giulio,2,Bardiani - CSF,-,11,2016
+25,111,25,3.0,Wellens Tim,3,Lotto Soudal,-,11,2016
+29,21,18,4.0,Pirazzi Stefano,4,Bardiani - CSF,-,11,2016
+33,129,17,5.0,Visconti Giovanni,5,Movistar Team,-,11,2016
+28,62,16,6.0,Brambilla Gianluca,6,Etixx - Quick Step,-,11,2016
+31,133,16,7.0,Bisolti Alessandro,7,Nippo - Vini Fantini,-,11,2016
+22,35,15,8.0,K\xfcng Stefan,8,BMC Racing Team,-,11,2016
+28,197,15,9.0,Rovny Ivan,9,Tinkoff,-,11,2016
+26,24,11,10.0,Boem Nicola,10,Bardiani - CSF,-,11,2016
+31,14,8,11.0,Fuglsang Jakob,11,Astana Pro Team,-,11,2016
+32,8,8,12.0,Montaguti Matteo,12,AG2R La Mondiale,-,11,2016
+35,81,8,14.0,Kolobnev Alexandr,13,Gazprom-RusVelo,\u25b21,11,2016
+23,195,8,13.0,McCarthy Jay,14,Tinkoff,\u25bc1,11,2016
+24,113,7,15.0,de Bie Sean,15,Lotto Soudal,-,11,2016
+24,49,7,16.0,Brown Nathan,16,Cannondale Pro Cycling Team,-,11,2016
+26,161,6,17.0,Zakarin Ilnur,17,Team Katusha,-,11,2016
+28,32,6,18.0,Atapuma John Darwin,18,BMC Racing Team,-,11,2016
+30,126,6,19.0,Rojas Jos\xe9 Joaqu\xedn,19,Movistar Team,-,11,2016
+24,132,6,20.0,Berlato Giacomo,20,Nippo - Vini Fantini,-,11,2016
+26,219,6,21.0,Zhupa Eugert,21,Wilier - Southeast,-,11,2016
+29,5,6,22.0,Gretsch Patrick,22,AG2R La Mondiale,-,11,2016
+22,212,6,23.0,Amezqueta Julen,23,Wilier - Southeast,-,11,2016
+38,178,5,24.0,Tjallingii Maarten,24,Team LottoNL-Jumbo,-,11,2016
+26,38,4,27.0,Rosskopf Joey,25,BMC Racing Team,\u25b22,11,2016
+29,33,4,26.0,De Marchi Alessandro,26,BMC Racing Team,-,11,2016
+28,171,3,,Kruijswijk Steven,27,Team LottoNL-Jumbo,-,11,2016
+20,218,3,28.0,Martinez Daniel Felipe,28,Wilier - Southeast,-,11,2016
+25,157,3,29.0,Preidler Georg,29,Team Giant - Alpecin,-,11,2016
+36,121,2,,Valverde Alejandro,30,Movistar Team,-,11,2016
+26,141,2,35.0,Chaves Johan Esteban,31,Orica GreenEDGE,\u25b24,11,2016
+33,56,2,30.0,Siutsou Kanstantsin,32,Team Dimension Data,\u25bc2,11,2016
+36,107,2,31.0,Niemiec Przemyslaw,33,Lampre - Merida,\u25bc2,11,2016
+29,59,2,32.0,Venter Jaco,34,Team Dimension Data,\u25bc2,11,2016
+21,105,2,33.0,Mohoric Matej,35,Lampre - Merida,\u25bc2,11,2016
+23,128,2,34.0,S\xfctterlin Jasha,36,Movistar Team,\u25bc2,11,2016
+33,1,1,36.0,Pozzovivo Domenico,37,AG2R La Mondiale,\u25bc1,11,2016
+31,12,1,37.0,Agnoli Valerio,38,Astana Pro Team,\u25bc1,11,2016
+25,3,1,38.0,Domont Axel,39,AG2R La Mondiale,\u25bc1,11,2016
+22,22,1,39.0,Andreetta Simone,40,Bardiani - CSF,\u25bc1,11,2016
+26,92,1,40.0,Br\xe4ndle Matthias,41,IAM Cycling,\u25bc1,11,2016
+34,131,56,1.0,Cunego Damiano,1,Nippo - Vini Fantini,-,12,2016
+21,26,27,2.0,Ciccone Giulio,2,Bardiani - CSF,-,12,2016
+25,111,25,3.0,Wellens Tim,3,Lotto Soudal,-,12,2016
+29,21,18,4.0,Pirazzi Stefano,4,Bardiani - CSF,-,12,2016
+33,129,17,5.0,Visconti Giovanni,5,Movistar Team,-,12,2016
+28,62,16,6.0,Brambilla Gianluca,6,Etixx - Quick Step,-,12,2016
+31,133,16,7.0,Bisolti Alessandro,7,Nippo - Vini Fantini,-,12,2016
+22,35,15,8.0,K\xfcng Stefan,8,BMC Racing Team,-,12,2016
+28,197,15,9.0,Rovny Ivan,9,Tinkoff,-,12,2016
+26,24,11,10.0,Boem Nicola,10,Bardiani - CSF,-,12,2016
+31,14,8,11.0,Fuglsang Jakob,11,Astana Pro Team,-,12,2016
+32,8,8,12.0,Montaguti Matteo,12,AG2R La Mondiale,-,12,2016
+35,81,8,13.0,Kolobnev Alexandr,13,Gazprom-RusVelo,-,12,2016
+23,195,8,14.0,McCarthy Jay,14,Tinkoff,-,12,2016
+24,113,7,15.0,de Bie Sean,15,Lotto Soudal,-,12,2016
+24,49,7,16.0,Brown Nathan,16,Cannondale Pro Cycling Team,-,12,2016
+26,161,6,17.0,Zakarin Ilnur,17,Team Katusha,-,12,2016
+28,32,6,18.0,Atapuma John Darwin,18,BMC Racing Team,-,12,2016
+30,126,6,19.0,Rojas Jos\xe9 Joaqu\xedn,19,Movistar Team,-,12,2016
+24,132,6,20.0,Berlato Giacomo,20,Nippo - Vini Fantini,-,12,2016
+26,219,6,21.0,Zhupa Eugert,21,Wilier - Southeast,-,12,2016
+29,5,6,22.0,Gretsch Patrick,22,AG2R La Mondiale,-,12,2016
+22,212,6,23.0,Amezqueta Julen,23,Wilier - Southeast,-,12,2016
+38,178,5,24.0,Tjallingii Maarten,24,Team LottoNL-Jumbo,-,12,2016
+26,38,4,25.0,Rosskopf Joey,25,BMC Racing Team,-,12,2016
+30,33,4,26.0,De Marchi Alessandro,26,BMC Racing Team,-,12,2016
+28,171,3,27.0,Kruijswijk Steven,27,Team LottoNL-Jumbo,-,12,2016
+20,218,3,28.0,Martinez Daniel Felipe,28,Wilier - Southeast,-,12,2016
+25,157,3,29.0,Preidler Georg,29,Team Giant - Alpecin,-,12,2016
+36,121,2,30.0,Valverde Alejandro,30,Movistar Team,-,12,2016
+26,141,2,31.0,Chaves Johan Esteban,31,Orica GreenEDGE,-,12,2016
+33,56,2,32.0,Siutsou Kanstantsin,32,Team Dimension Data,-,12,2016
+36,107,2,33.0,Niemiec Przemyslaw,33,Lampre - Merida,-,12,2016
+29,59,2,34.0,Venter Jaco,34,Team Dimension Data,-,12,2016
+21,105,2,35.0,Mohoric Matej,35,Lampre - Merida,-,12,2016
+23,128,2,36.0,S\xfctterlin Jasha,36,Movistar Team,-,12,2016
+33,1,1,37.0,Pozzovivo Domenico,37,AG2R La Mondiale,-,12,2016
+25,3,1,39.0,Domont Axel,38,AG2R La Mondiale,\u25b21,12,2016
+22,22,1,40.0,Andreetta Simone,39,Bardiani - CSF,\u25b21,12,2016
+26,92,1,41.0,Br\xe4ndle Matthias,40,IAM Cycling,\u25b21,12,2016
+34,131,91,1.0,Cunego Damiano,1,Nippo - Vini Fantini,-,13,2016
+33,129,61,5.0,Visconti Giovanni,2,Movistar Team,\u25b23,13,2016
+28,96,54,,Denifl Stefan,3,IAM Cycling,-,13,2016
+31,185,50,,Nieve Mikel,4,Team Sky,-,13,2016
+21,26,27,2.0,Ciccone Giulio,5,Bardiani - CSF,\u25bc3,13,2016
+25,111,25,3.0,Wellens Tim,6,Lotto Soudal,\u25bc3,13,2016
+32,8,20,12.0,Montaguti Matteo,7,AG2R La Mondiale,\u25b25,13,2016
+29,21,18,4.0,Pirazzi Stefano,8,Bardiani - CSF,\u25bc4,13,2016
+28,62,16,6.0,Brambilla Gianluca,9,Etixx - Quick Step,\u25bc3,13,2016
+31,133,16,7.0,Bisolti Alessandro,10,Nippo - Vini Fantini,\u25bc3,13,2016
+25,44,16,,Dombrowski Joe,11,Cannondale Pro Cycling Team,-,13,2016
+22,35,15,8.0,K\xfcng Stefan,12,BMC Racing Team,\u25bc4,13,2016
+28,197,15,9.0,Rovny Ivan,13,Tinkoff,\u25bc4,13,2016
+30,33,13,26.0,De Marchi Alessandro,14,BMC Racing Team,\u25b212,13,2016
+26,24,11,10.0,Boem Nicola,15,Bardiani - CSF,\u25bc5,13,2016
+31,14,9,11.0,Fuglsang Jakob,16,Astana Pro Team,\u25bc5,13,2016
+35,81,8,13.0,Kolobnev Alexandr,17,Gazprom-RusVelo,\u25bc4,13,2016
+21,105,8,35.0,Mohoric Matej,18,Lampre - Merida,\u25b217,13,2016
+23,195,8,14.0,McCarthy Jay,19,Tinkoff,\u25bc5,13,2016
+24,113,7,15.0,de Bie Sean,20,Lotto Soudal,\u25bc5,13,2016
+24,49,7,16.0,Brown Nathan,21,Cannondale Pro Cycling Team,\u25bc5,13,2016
+26,161,6,17.0,Zakarin Ilnur,22,Team Katusha,\u25bc5,13,2016
+28,32,6,18.0,Atapuma John Darwin,23,BMC Racing Team,\u25bc5,13,2016
+30,126,6,19.0,Rojas Jos\xe9 Joaqu\xedn,24,Movistar Team,\u25bc5,13,2016
+24,85,6,,Foliforov Alexander,25,Gazprom-RusVelo,-,13,2016
+29,43,6,,Clarke Simon,26,Cannondale Pro Cycling Team,-,13,2016
+24,132,6,20.0,Berlato Giacomo,27,Nippo - Vini Fantini,\u25bc7,13,2016
+26,219,6,21.0,Zhupa Eugert,28,Wilier - Southeast,\u25bc7,13,2016
+22,212,6,23.0,Amezqueta Julen,29,Wilier - Southeast,\u25bc6,13,2016
+38,178,5,24.0,Tjallingii Maarten,30,Team LottoNL-Jumbo,\u25bc6,13,2016
+26,172,4,,Battaglin Enrico,31,Team LottoNL-Jumbo,-,13,2016
+26,38,4,25.0,Rosskopf Joey,32,BMC Racing Team,\u25bc7,13,2016
+28,171,3,27.0,Kruijswijk Steven,33,Team LottoNL-Jumbo,\u25bc6,13,2016
+20,218,3,28.0,Martinez Daniel Felipe,34,Wilier - Southeast,\u25bc6,13,2016
+25,157,3,29.0,Preidler Georg,35,Team Giant - Alpecin,\u25bc6,13,2016
+36,121,2,30.0,Valverde Alejandro,36,Movistar Team,\u25bc6,13,2016
+26,141,2,31.0,Chaves Johan Esteban,37,Orica GreenEDGE,\u25bc6,13,2016
+33,56,2,32.0,Siutsou Kanstantsin,38,Team Dimension Data,\u25bc6,13,2016
+29,59,2,34.0,Venter Jaco,39,Team Dimension Data,\u25bc5,13,2016
+36,107,2,33.0,Niemiec Przemyslaw,40,Lampre - Merida,\u25bc7,13,2016
+23,128,2,36.0,S\xfctterlin Jasha,41,Movistar Team,\u25bc5,13,2016
+33,1,1,37.0,Pozzovivo Domenico,42,AG2R La Mondiale,\u25bc5,13,2016
+26,100,1,,Ulissi Diego,43,Lampre - Merida,-,13,2016
+22,184,1,,Henao Sebasti\xe1n,44,Team Sky,-,13,2016
+25,46,1,,Moser Moreno,45,Cannondale Pro Cycling Team,-,13,2016
+25,3,1,38.0,Domont Axel,46,AG2R La Mondiale,\u25bc8,13,2016
+22,22,1,39.0,Andreetta Simone,47,Bardiani - CSF,\u25bc8,13,2016
+26,92,1,40.0,Br\xe4ndle Matthias,48,IAM Cycling,\u25bc8,13,2016
+34,131,134,1.0,Cunego Damiano,1,Nippo - Vini Fantini,-,14,2016
+28,96,72,3.0,Denifl Stefan,2,IAM Cycling,\u25b21,14,2016
+28,32,69,23.0,Atapuma John Darwin,3,BMC Racing Team,\u25b220,14,2016
+33,129,61,2.0,Visconti Giovanni,4,Movistar Team,\u25bc2,14,2016
+31,185,50,4.0,Nieve Mikel,5,Team Sky,\u25bc1,14,2016
+35,187,39,,Lopez David,6,Team Sky,-,14,2016
+33,56,36,38.0,Siutsou Kanstantsin,7,Team Dimension Data,\u25b231,14,2016
+21,26,27,5.0,Ciccone Giulio,8,Bardiani - CSF,\u25bc3,14,2016
+25,111,26,6.0,Wellens Tim,9,Lotto Soudal,\u25bc3,14,2016
+36,147,23,,Plaza Rub\xe9n,10,Orica GreenEDGE,-,14,2016
+25,157,21,35.0,Preidler Georg,11,Team Giant - Alpecin,\u25b224,14,2016
+32,8,20,7.0,Montaguti Matteo,12,AG2R La Mondiale,\u25bc5,14,2016
+29,21,18,8.0,Pirazzi Stefano,13,Bardiani - CSF,\u25bc5,14,2016
+28,62,16,9.0,Brambilla Gianluca,14,Etixx - Quick Step,\u25bc5,14,2016
+31,133,16,10.0,Bisolti Alessandro,15,Nippo - Vini Fantini,\u25bc5,14,2016
+25,44,16,11.0,Dombrowski Joe,16,Cannondale Pro Cycling Team,\u25bc5,14,2016
+22,35,15,12.0,K\xfcng Stefan,17,BMC Racing Team,\u25bc5,14,2016
+27,63,15,,de la Cruz David,18,Etixx - Quick Step,-,14,2016
+28,197,15,13.0,Rovny Ivan,19,Tinkoff,\u25bc6,14,2016
+30,33,13,14.0,De Marchi Alessandro,20,BMC Racing Team,\u25bc6,14,2016
+31,188,12,,Roche Nicolas,21,Team Sky,-,14,2016
+26,24,11,15.0,Boem Nicola,22,Bardiani - CSF,\u25bc7,14,2016
+31,14,9,16.0,Fuglsang Jakob,23,Astana Pro Team,\u25bc7,14,2016
+35,106,9,,Mori Manuele,24,Lampre - Merida,-,14,2016
+35,81,8,17.0,Kolobnev Alexandr,25,Gazprom-RusVelo,\u25bc8,14,2016
+21,105,8,18.0,Mohoric Matej,26,Lampre - Merida,\u25bc8,14,2016
+23,195,8,19.0,McCarthy Jay,27,Tinkoff,\u25bc8,14,2016
+24,113,7,20.0,de Bie Sean,28,Lotto Soudal,\u25bc8,14,2016
+26,100,7,43.0,Ulissi Diego,29,Lampre - Merida,\u25b214,14,2016
+24,49,7,21.0,Brown Nathan,30,Cannondale Pro Cycling Team,\u25bc9,14,2016
+26,141,6,37.0,Chaves Johan Esteban,31,Orica GreenEDGE,\u25b26,14,2016
+26,161,6,22.0,Zakarin Ilnur,32,Team Katusha,\u25bc10,14,2016
+30,126,6,24.0,Rojas Jos\xe9 Joaqu\xedn,33,Movistar Team,\u25bc9,14,2016
+24,85,6,25.0,Foliforov Alexander,34,Gazprom-RusVelo,\u25bc9,14,2016
+29,43,6,26.0,Clarke Simon,35,Cannondale Pro Cycling Team,\u25bc9,14,2016
+24,132,6,27.0,Berlato Giacomo,36,Nippo - Vini Fantini,\u25bc9,14,2016
+26,219,6,28.0,Zhupa Eugert,37,Wilier - Southeast,\u25bc9,14,2016
+22,212,6,29.0,Amezqueta Julen,38,Wilier - Southeast,\u25bc9,14,2016
+28,171,5,33.0,Kruijswijk Steven,39,Team LottoNL-Jumbo,\u25bc6,14,2016
+38,178,5,30.0,Tjallingii Maarten,40,Team LottoNL-Jumbo,\u25bc10,14,2016
+25,3,5,46.0,Domont Axel,41,AG2R La Mondiale,\u25b25,14,2016
+26,172,4,31.0,Battaglin Enrico,42,Team LottoNL-Jumbo,\u25bc11,14,2016
+26,38,4,32.0,Rosskopf Joey,43,BMC Racing Team,\u25bc11,14,2016
+20,218,3,34.0,Martinez Daniel Felipe,44,Wilier - Southeast,\u25bc10,14,2016
+25,46,3,45.0,Moser Moreno,45,Cannondale Pro Cycling Team,-,14,2016
+36,121,2,36.0,Valverde Alejandro,46,Movistar Team,\u25bc10,14,2016
+33,117,2,,Monfort Maxime,47,Lotto Soudal,-,14,2016
+29,59,2,39.0,Venter Jaco,48,Team Dimension Data,\u25bc9,14,2016
+23,128,2,41.0,S\xfctterlin Jasha,49,Movistar Team,\u25bc8,14,2016
+31,11,1,,Nibali Vincenzo,50,Astana Pro Team,-,14,2016
+33,1,1,42.0,Pozzovivo Domenico,51,AG2R La Mondiale,\u25bc9,14,2016
+22,184,1,44.0,Henao Sebasti\xe1n,52,Team Sky,\u25bc8,14,2016
+22,22,1,47.0,Andreetta Simone,53,Bardiani - CSF,\u25bc6,14,2016
+34,131,134,1.0,Cunego Damiano,1,Nippo - Vini Fantini,-,15,2016
+28,96,72,2.0,Denifl Stefan,2,IAM Cycling,-,15,2016
+28,32,69,3.0,Atapuma John Darwin,3,BMC Racing Team,-,15,2016
+33,129,61,4.0,Visconti Giovanni,4,Movistar Team,-,15,2016
+31,185,50,5.0,Nieve Mikel,5,Team Sky,-,15,2016
+24,85,41,34.0,Foliforov Alexander,6,Gazprom-RusVelo,\u25b228,15,2016
+35,187,39,6.0,Lopez David,7,Team Sky,\u25bc1,15,2016
+33,56,36,7.0,Siutsou Kanstantsin,8,Team Dimension Data,\u25bc1,15,2016
+21,26,27,8.0,Ciccone Giulio,9,Bardiani - CSF,\u25bc1,15,2016
+25,111,26,9.0,Wellens Tim,10,Lotto Soudal,\u25bc1,15,2016
+36,147,23,10.0,Plaza Rub\xe9n,11,Orica GreenEDGE,\u25bc1,15,2016
+28,171,23,39.0,Kruijswijk Steven,12,Team LottoNL-Jumbo,\u25b227,15,2016
+25,157,21,11.0,Preidler Georg,13,Team Giant - Alpecin,\u25bc2,15,2016
+32,8,20,12.0,Montaguti Matteo,14,AG2R La Mondiale,\u25bc2,15,2016
+29,21,18,13.0,Pirazzi Stefano,15,Bardiani - CSF,\u25bc2,15,2016
+25,44,17,16.0,Dombrowski Joe,16,Cannondale Pro Cycling Team,-,15,2016
+28,62,16,14.0,Brambilla Gianluca,17,Etixx - Quick Step,\u25bc3,15,2016
+31,133,16,15.0,Bisolti Alessandro,18,Nippo - Vini Fantini,\u25bc3,15,2016
+22,35,15,17.0,K\xfcng Stefan,19,BMC Racing Team,\u25bc2,15,2016
+27,63,15,18.0,de la Cruz David,20,Etixx - Quick Step,\u25bc2,15,2016
+28,197,15,19.0,Rovny Ivan,21,Tinkoff,\u25bc2,15,2016
+36,121,14,46.0,Valverde Alejandro,22,Movistar Team,\u25b224,15,2016
+30,33,13,20.0,De Marchi Alessandro,23,BMC Racing Team,\u25bc3,15,2016
+31,188,12,21.0,Roche Nicolas,24,Team Sky,\u25bc3,15,2016
+26,24,11,22.0,Boem Nicola,25,Bardiani - CSF,\u25bc3,15,2016
+26,141,10,31.0,Chaves Johan Esteban,26,Orica GreenEDGE,\u25b25,15,2016
+31,14,9,23.0,Fuglsang Jakob,27,Astana Pro Team,\u25bc4,15,2016
+33,84,9,,Firsanov Sergey,28,Gazprom-RusVelo,-,15,2016
+35,106,9,24.0,Mori Manuele,29,Lampre - Merida,\u25bc5,15,2016
+26,161,8,32.0,Zakarin Ilnur,30,Team Katusha,\u25b22,15,2016
+35,81,8,25.0,Kolobnev Alexandr,31,Gazprom-RusVelo,\u25bc6,15,2016
+21,105,8,26.0,Mohoric Matej,32,Lampre - Merida,\u25bc6,15,2016
+23,195,8,27.0,McCarthy Jay,33,Tinkoff,\u25bc6,15,2016
+24,113,7,28.0,de Bie Sean,34,Lotto Soudal,\u25bc6,15,2016
+26,100,7,29.0,Ulissi Diego,35,Lampre - Merida,\u25bc6,15,2016
+24,49,7,30.0,Brown Nathan,36,Cannondale Pro Cycling Team,\u25bc6,15,2016
+36,18,6,,Scarponi Michele,37,Astana Pro Team,-,15,2016
+30,126,6,33.0,Rojas Jos\xe9 Joaqu\xedn,38,Movistar Team,\u25bc5,15,2016
+29,43,6,35.0,Clarke Simon,39,Cannondale Pro Cycling Team,\u25bc4,15,2016
+26,219,6,37.0,Zhupa Eugert,40,Wilier - Southeast,\u25bc3,15,2016
+22,212,6,38.0,Amezqueta Julen,41,Wilier - Southeast,\u25bc3,15,2016
+38,178,5,40.0,Tjallingii Maarten,42,Team LottoNL-Jumbo,\u25bc2,15,2016
+25,3,5,41.0,Domont Axel,43,AG2R La Mondiale,\u25bc2,15,2016
+26,172,4,42.0,Battaglin Enrico,44,Team LottoNL-Jumbo,\u25bc2,15,2016
+26,38,4,43.0,Rosskopf Joey,45,BMC Racing Team,\u25bc2,15,2016
+20,218,3,44.0,Martinez Daniel Felipe,46,Wilier - Southeast,\u25bc2,15,2016
+25,46,3,45.0,Moser Moreno,47,Cannondale Pro Cycling Team,\u25bc2,15,2016
+33,117,2,47.0,Monfort Maxime,48,Lotto Soudal,\u25bc1,15,2016
+29,59,2,48.0,Venter Jaco,49,Team Dimension Data,\u25bc1,15,2016
+23,128,2,49.0,S\xfctterlin Jasha,50,Movistar Team,\u25bc1,15,2016
+31,11,1,50.0,Nibali Vincenzo,51,Astana Pro Team,\u25bc1,15,2016
+33,1,1,51.0,Pozzovivo Domenico,52,AG2R La Mondiale,\u25bc1,15,2016
+22,184,1,52.0,Henao Sebasti\xe1n,53,Team Sky,\u25bc1,15,2016
+22,22,1,53.0,Andreetta Simone,54,Bardiani - CSF,\u25bc1,15,2016
+34,131,134,1.0,Cunego Damiano,1,Nippo - Vini Fantini,-,16,2016
+28,96,72,2.0,Denifl Stefan,2,IAM Cycling,-,16,2016
+28,32,69,3.0,Atapuma John Darwin,3,BMC Racing Team,-,16,2016
+33,129,61,4.0,Visconti Giovanni,4,Movistar Team,-,16,2016
+35,187,54,7.0,Lopez David,5,Team Sky,\u25b22,16,2016
+31,185,50,5.0,Nieve Mikel,6,Team Sky,\u25bc1,16,2016
+28,171,42,12.0,Kruijswijk Steven,7,Team LottoNL-Jumbo,\u25b25,16,2016
+24,85,41,6.0,Foliforov Alexander,8,Gazprom-RusVelo,\u25bc2,16,2016
+33,56,36,8.0,Siutsou Kanstantsin,9,Team Dimension Data,\u25bc1,16,2016
+36,121,27,22.0,Valverde Alejandro,10,Movistar Team,\u25b212,16,2016
+21,26,27,9.0,Ciccone Giulio,11,Bardiani - CSF,\u25bc2,16,2016
+25,111,26,10.0,Wellens Tim,12,Lotto Soudal,\u25bc2,16,2016
+36,147,23,11.0,Plaza Rub\xe9n,13,Orica GreenEDGE,\u25bc2,16,2016
+25,157,21,13.0,Preidler Georg,14,Team Giant - Alpecin,\u25bc1,16,2016
+32,8,20,14.0,Montaguti Matteo,15,AG2R La Mondiale,\u25bc1,16,2016
+26,161,18,30.0,Zakarin Ilnur,16,Team Katusha,\u25b214,16,2016
+29,21,18,15.0,Pirazzi Stefano,17,Bardiani - CSF,\u25bc2,16,2016
+25,44,18,16.0,Dombrowski Joe,18,Cannondale Pro Cycling Team,\u25bc2,16,2016
+33,84,17,28.0,Firsanov Sergey,19,Gazprom-RusVelo,\u25b29,16,2016
+28,62,16,17.0,Brambilla Gianluca,20,Etixx - Quick Step,\u25bc3,16,2016
+31,133,16,18.0,Bisolti Alessandro,21,Nippo - Vini Fantini,\u25bc3,16,2016
+22,35,15,19.0,K\xfcng Stefan,22,BMC Racing Team,\u25bc3,16,2016
+28,197,15,21.0,Rovny Ivan,23,Tinkoff,\u25bc2,16,2016
+26,141,14,26.0,Chaves Johan Esteban,24,Orica GreenEDGE,\u25b22,16,2016
+26,100,13,35.0,Ulissi Diego,25,Lampre - Merida,\u25b210,16,2016
+30,33,13,23.0,De Marchi Alessandro,26,BMC Racing Team,\u25bc3,16,2016
+31,188,12,24.0,Roche Nicolas,27,Team Sky,\u25bc3,16,2016
+26,24,11,25.0,Boem Nicola,28,Bardiani - CSF,\u25bc3,16,2016
+31,14,9,27.0,Fuglsang Jakob,29,Astana Pro Team,\u25bc2,16,2016
+35,106,9,29.0,Mori Manuele,30,Lampre - Merida,\u25bc1,16,2016
+23,64,8,,Jungels Bob,31,Etixx - Quick Step,-,16,2016
+35,81,8,31.0,Kolobnev Alexandr,32,Gazprom-RusVelo,\u25bc1,16,2016
+21,105,8,32.0,Mohoric Matej,33,Lampre - Merida,\u25bc1,16,2016
+23,195,8,33.0,McCarthy Jay,34,Tinkoff,\u25bc1,16,2016
+24,113,7,34.0,de Bie Sean,35,Lotto Soudal,\u25bc1,16,2016
+24,49,7,36.0,Brown Nathan,36,Cannondale Pro Cycling Team,-,16,2016
+36,18,6,37.0,Scarponi Michele,37,Astana Pro Team,-,16,2016
+30,126,6,38.0,Rojas Jos\xe9 Joaqu\xedn,38,Movistar Team,-,16,2016
+29,43,6,39.0,Clarke Simon,39,Cannondale Pro Cycling Team,-,16,2016
+26,219,6,40.0,Zhupa Eugert,40,Wilier - Southeast,-,16,2016
+22,212,6,41.0,Amezqueta Julen,41,Wilier - Southeast,-,16,2016
+38,178,5,42.0,Tjallingii Maarten,42,Team LottoNL-Jumbo,-,16,2016
+25,3,5,43.0,Domont Axel,43,AG2R La Mondiale,-,16,2016
+26,172,4,44.0,Battaglin Enrico,44,Team LottoNL-Jumbo,-,16,2016
+26,38,4,45.0,Rosskopf Joey,45,BMC Racing Team,-,16,2016
+20,218,3,46.0,Martinez Daniel Felipe,46,Wilier - Southeast,-,16,2016
+25,46,3,47.0,Moser Moreno,47,Cannondale Pro Cycling Team,-,16,2016
+33,117,2,48.0,Monfort Maxime,48,Lotto Soudal,-,16,2016
+29,15,2,,Kangert Tanel,49,Astana Pro Team,-,16,2016
+29,59,2,49.0,Venter Jaco,50,Team Dimension Data,\u25bc1,16,2016
+23,128,2,50.0,S\xfctterlin Jasha,51,Movistar Team,\u25bc1,16,2016
+31,11,1,51.0,Nibali Vincenzo,52,Astana Pro Team,\u25bc1,16,2016
+33,1,1,52.0,Pozzovivo Domenico,53,AG2R La Mondiale,\u25bc1,16,2016
+22,184,1,53.0,Henao Sebasti\xe1n,54,Team Sky,\u25bc1,16,2016
+22,22,1,54.0,Andreetta Simone,55,Bardiani - CSF,\u25bc1,16,2016
+34,131,134,1.0,Cunego Damiano,1,Nippo - Vini Fantini,-,17,2016
+28,96,72,2.0,Denifl Stefan,2,IAM Cycling,-,17,2016
+28,32,69,3.0,Atapuma John Darwin,3,BMC Racing Team,-,17,2016
+33,129,61,4.0,Visconti Giovanni,4,Movistar Team,-,17,2016
+35,187,54,5.0,Lopez David,5,Team Sky,-,17,2016
+31,185,50,6.0,Nieve Mikel,6,Team Sky,-,17,2016
+28,171,42,7.0,Kruijswijk Steven,7,Team LottoNL-Jumbo,-,17,2016
+24,85,41,8.0,Foliforov Alexander,8,Gazprom-RusVelo,-,17,2016
+33,56,36,9.0,Siutsou Kanstantsin,9,Team Dimension Data,-,17,2016
+36,121,27,10.0,Valverde Alejandro,10,Movistar Team,-,17,2016
+21,26,27,11.0,Ciccone Giulio,11,Bardiani - CSF,-,17,2016
+25,111,26,12.0,Wellens Tim,12,Lotto Soudal,-,17,2016
+36,147,23,13.0,Plaza Rub\xe9n,13,Orica GreenEDGE,-,17,2016
+25,157,21,14.0,Preidler Georg,14,Team Giant - Alpecin,-,17,2016
+32,8,20,15.0,Montaguti Matteo,15,AG2R La Mondiale,-,17,2016
+26,161,18,16.0,Zakarin Ilnur,16,Team Katusha,-,17,2016
+29,21,18,17.0,Pirazzi Stefano,17,Bardiani - CSF,-,17,2016
+25,44,18,18.0,Dombrowski Joe,18,Cannondale Pro Cycling Team,-,17,2016
+33,84,17,19.0,Firsanov Sergey,19,Gazprom-RusVelo,-,17,2016
+28,62,16,20.0,Brambilla Gianluca,20,Etixx - Quick Step,-,17,2016
+31,133,16,21.0,Bisolti Alessandro,21,Nippo - Vini Fantini,-,17,2016
+22,35,15,22.0,K\xfcng Stefan,22,BMC Racing Team,-,17,2016
+28,197,15,23.0,Rovny Ivan,23,Tinkoff,-,17,2016
+26,141,14,24.0,Chaves Johan Esteban,24,Orica GreenEDGE,-,17,2016
+26,100,13,25.0,Ulissi Diego,25,Lampre - Merida,-,17,2016
+30,33,13,26.0,De Marchi Alessandro,26,BMC Racing Team,-,17,2016
+31,188,12,27.0,Roche Nicolas,27,Team Sky,-,17,2016
+26,24,11,28.0,Boem Nicola,28,Bardiani - CSF,-,17,2016
+31,14,9,29.0,Fuglsang Jakob,29,Astana Pro Team,-,17,2016
+35,106,9,30.0,Mori Manuele,30,Lampre - Merida,-,17,2016
+23,64,8,31.0,Jungels Bob,31,Etixx - Quick Step,-,17,2016
+35,81,8,32.0,Kolobnev Alexandr,32,Gazprom-RusVelo,-,17,2016
+21,105,8,33.0,Mohoric Matej,33,Lampre - Merida,-,17,2016
+23,195,8,34.0,McCarthy Jay,34,Tinkoff,-,17,2016
+26,219,8,40.0,Zhupa Eugert,35,Wilier - Southeast,\u25b25,17,2016
+24,113,7,35.0,de Bie Sean,36,Lotto Soudal,\u25bc1,17,2016
+24,49,7,36.0,Brown Nathan,37,Cannondale Pro Cycling Team,\u25bc1,17,2016
+36,18,6,37.0,Scarponi Michele,38,Astana Pro Team,\u25bc1,17,2016
+30,126,6,38.0,Rojas Jos\xe9 Joaqu\xedn,39,Movistar Team,\u25bc1,17,2016
+29,43,6,39.0,Clarke Simon,40,Cannondale Pro Cycling Team,\u25bc1,17,2016
+22,212,6,41.0,Amezqueta Julen,41,Wilier - Southeast,-,17,2016
+38,178,5,42.0,Tjallingii Maarten,42,Team LottoNL-Jumbo,-,17,2016
+25,3,5,43.0,Domont Axel,43,AG2R La Mondiale,-,17,2016
+26,172,4,44.0,Battaglin Enrico,44,Team LottoNL-Jumbo,-,17,2016
+26,38,4,45.0,Rosskopf Joey,45,BMC Racing Team,-,17,2016
+29,36,3,,Oss Daniel,46,BMC Racing Team,-,17,2016
+20,218,3,46.0,Martinez Daniel Felipe,47,Wilier - Southeast,\u25bc1,17,2016
+25,46,3,47.0,Moser Moreno,48,Cannondale Pro Cycling Team,\u25bc1,17,2016
+33,117,2,48.0,Monfort Maxime,49,Lotto Soudal,\u25bc1,17,2016
+29,15,2,49.0,Kangert Tanel,50,Astana Pro Team,\u25bc1,17,2016
+29,59,2,50.0,Venter Jaco,51,Team Dimension Data,\u25bc1,17,2016
+23,128,2,51.0,S\xfctterlin Jasha,52,Movistar Team,\u25bc1,17,2016
+31,11,1,52.0,Nibali Vincenzo,53,Astana Pro Team,\u25bc1,17,2016
+33,1,1,53.0,Pozzovivo Domenico,54,AG2R La Mondiale,\u25bc1,17,2016
+22,184,1,54.0,Henao Sebasti\xe1n,55,Team Sky,\u25bc1,17,2016
+34,193,1,,Brutt Pavel,56,Tinkoff,-,17,2016
+22,22,1,55.0,Andreetta Simone,57,Bardiani - CSF,\u25bc2,17,2016
+34,131,134,1.0,Cunego Damiano,1,Nippo - Vini Fantini,-,18,2016
+28,96,72,2.0,Denifl Stefan,2,IAM Cycling,-,18,2016
+28,32,69,3.0,Atapuma John Darwin,3,BMC Racing Team,-,18,2016
+33,129,61,4.0,Visconti Giovanni,4,Movistar Team,-,18,2016
+35,187,54,5.0,Lopez David,5,Team Sky,-,18,2016
+32,185,50,6.0,Nieve Mikel,6,Team Sky,-,18,2016
+28,171,42,7.0,Kruijswijk Steven,7,Team LottoNL-Jumbo,-,18,2016
+24,85,41,8.0,Foliforov Alexander,8,Gazprom-RusVelo,-,18,2016
+33,56,36,9.0,Siutsou Kanstantsin,9,Team Dimension Data,-,18,2016
+28,62,31,20.0,Brambilla Gianluca,10,Etixx - Quick Step,\u25b210,18,2016
+36,121,27,10.0,Valverde Alejandro,11,Movistar Team,\u25bc1,18,2016
+21,26,27,11.0,Ciccone Giulio,12,Bardiani - CSF,\u25bc1,18,2016
+25,111,26,12.0,Wellens Tim,13,Lotto Soudal,\u25bc1,18,2016
+36,147,23,13.0,Plaza Rub\xe9n,14,Orica GreenEDGE,\u25bc1,18,2016
+25,157,21,14.0,Preidler Georg,15,Team Giant - Alpecin,\u25bc1,18,2016
+32,8,20,15.0,Montaguti Matteo,16,AG2R La Mondiale,\u25bc1,18,2016
+28,197,19,23.0,Rovny Ivan,17,Tinkoff,\u25b26,18,2016
+26,161,18,16.0,Zakarin Ilnur,18,Team Katusha,\u25bc2,18,2016
+29,21,18,17.0,Pirazzi Stefano,19,Bardiani - CSF,\u25bc2,18,2016
+25,44,18,18.0,Dombrowski Joe,20,Cannondale Pro Cycling Team,\u25bc2,18,2016
+33,84,17,19.0,Firsanov Sergey,21,Gazprom-RusVelo,\u25bc2,18,2016
+31,133,16,21.0,Bisolti Alessandro,22,Nippo - Vini Fantini,\u25bc1,18,2016
+22,35,15,22.0,K\xfcng Stefan,23,BMC Racing Team,\u25bc1,18,2016
+26,141,14,24.0,Chaves Johan Esteban,24,Orica GreenEDGE,-,18,2016
+26,100,13,25.0,Ulissi Diego,25,Lampre - Merida,-,18,2016
+30,33,13,26.0,De Marchi Alessandro,26,BMC Racing Team,-,18,2016
+31,188,12,27.0,Roche Nicolas,27,Team Sky,-,18,2016
+26,24,11,28.0,Boem Nicola,28,Bardiani - CSF,-,18,2016
+25,46,11,48.0,Moser Moreno,29,Cannondale Pro Cycling Team,\u25b219,18,2016
+31,14,9,29.0,Fuglsang Jakob,30,Astana Pro Team,\u25bc1,18,2016
+35,106,9,30.0,Mori Manuele,31,Lampre - Merida,\u25bc1,18,2016
+23,64,8,31.0,Jungels Bob,32,Etixx - Quick Step,\u25bc1,18,2016
+35,81,8,32.0,Kolobnev Alexandr,33,Gazprom-RusVelo,\u25bc1,18,2016
+21,105,8,33.0,Mohoric Matej,34,Lampre - Merida,\u25bc1,18,2016
+23,195,8,34.0,McCarthy Jay,35,Tinkoff,\u25bc1,18,2016
+26,219,8,35.0,Zhupa Eugert,36,Wilier - Southeast,\u25bc1,18,2016
+24,113,7,36.0,de Bie Sean,37,Lotto Soudal,\u25bc1,18,2016
+24,49,7,37.0,Brown Nathan,38,Cannondale Pro Cycling Team,\u25bc1,18,2016
+36,18,6,38.0,Scarponi Michele,39,Astana Pro Team,\u25bc1,18,2016
+30,126,6,39.0,Rojas Jos\xe9 Joaqu\xedn,40,Movistar Team,\u25bc1,18,2016
+25,3,6,43.0,Domont Axel,41,AG2R La Mondiale,\u25b22,18,2016
+29,43,6,40.0,Clarke Simon,42,Cannondale Pro Cycling Team,\u25bc2,18,2016
+24,152,6,,Arndt Nikias,43,Team Giant - Alpecin,-,18,2016
+22,212,6,41.0,Amezqueta Julen,44,Wilier - Southeast,\u25bc3,18,2016
+38,178,5,42.0,Tjallingii Maarten,45,Team LottoNL-Jumbo,\u25bc3,18,2016
+26,172,4,44.0,Battaglin Enrico,46,Team LottoNL-Jumbo,\u25bc2,18,2016
+26,38,4,45.0,Rosskopf Joey,47,BMC Racing Team,\u25bc2,18,2016
+29,36,3,46.0,Oss Daniel,48,BMC Racing Team,\u25bc2,18,2016
+20,218,3,47.0,Martinez Daniel Felipe,49,Wilier - Southeast,\u25bc2,18,2016
+33,117,2,49.0,Monfort Maxime,50,Lotto Soudal,\u25bc1,18,2016
+29,15,2,50.0,Kangert Tanel,51,Astana Pro Team,\u25bc1,18,2016
+26,67,2,,Trentin Matteo,52,Etixx - Quick Step,-,18,2016
+29,59,2,51.0,Venter Jaco,53,Team Dimension Data,\u25bc2,18,2016
+23,128,2,52.0,S\xfctterlin Jasha,54,Movistar Team,\u25bc2,18,2016
+31,11,1,53.0,Nibali Vincenzo,55,Astana Pro Team,\u25bc2,18,2016
+33,1,1,54.0,Pozzovivo Domenico,56,AG2R La Mondiale,\u25bc2,18,2016
+22,184,1,55.0,Henao Sebasti\xe1n,57,Team Sky,\u25bc2,18,2016
+34,193,1,56.0,Brutt Pavel,58,Tinkoff,\u25bc2,18,2016
+22,22,1,57.0,Andreetta Simone,59,Bardiani - CSF,\u25bc2,18,2016
+34,131,134,1.0,Cunego Damiano,1,Nippo - Vini Fantini,-,19,2016
+32,185,98,6.0,Nieve Mikel,2,Team Sky,\u25b24,19,2016
+28,96,73,2.0,Denifl Stefan,3,IAM Cycling,\u25bc1,19,2016
+28,32,69,3.0,Atapuma John Darwin,4,BMC Racing Team,\u25bc1,19,2016
+33,129,61,4.0,Visconti Giovanni,5,Movistar Team,\u25bc1,19,2016
+35,187,54,5.0,Lopez David,6,Team Sky,\u25bc1,19,2016
+36,18,51,39.0,Scarponi Michele,7,Astana Pro Team,\u25b232,19,2016
+28,171,42,7.0,Kruijswijk Steven,8,Team LottoNL-Jumbo,\u25bc1,19,2016
+26,100,42,25.0,Ulissi Diego,9,Lampre - Merida,\u25b216,19,2016
+24,85,41,8.0,Foliforov Alexander,10,Gazprom-RusVelo,\u25bc2,19,2016
+31,11,36,55.0,Nibali Vincenzo,11,Astana Pro Team,\u25b244,19,2016
+33,56,36,9.0,Siutsou Kanstantsin,12,Team Dimension Data,\u25bc3,19,2016
+28,62,31,10.0,Brambilla Gianluca,13,Etixx - Quick Step,\u25bc3,19,2016
+36,121,31,11.0,Valverde Alejandro,14,Movistar Team,\u25bc3,19,2016
+25,111,26,13.0,Wellens Tim,15,Lotto Soudal,\u25bc2,19,2016
+26,141,26,24.0,Chaves Johan Esteban,16,Orica GreenEDGE,\u25b28,19,2016
+36,147,23,14.0,Plaza Rub\xe9n,17,Orica GreenEDGE,\u25bc3,19,2016
+25,157,22,15.0,Preidler Georg,18,Team Giant - Alpecin,\u25bc3,19,2016
+32,8,20,16.0,Montaguti Matteo,19,AG2R La Mondiale,\u25bc3,19,2016
+28,197,19,17.0,Rovny Ivan,20,Tinkoff,\u25bc3,19,2016
+29,21,18,19.0,Pirazzi Stefano,21,Bardiani - CSF,\u25bc2,19,2016
+25,44,18,20.0,Dombrowski Joe,22,Cannondale Pro Cycling Team,\u25bc2,19,2016
+33,84,17,21.0,Firsanov Sergey,23,Gazprom-RusVelo,\u25bc2,19,2016
+31,133,16,22.0,Bisolti Alessandro,24,Nippo - Vini Fantini,\u25bc2,19,2016
+33,117,16,50.0,Monfort Maxime,25,Lotto Soudal,\u25b225,19,2016
+22,35,15,23.0,K\xfcng Stefan,26,BMC Racing Team,\u25bc3,19,2016
+31,188,14,27.0,Roche Nicolas,27,Team Sky,-,19,2016
+30,33,13,26.0,De Marchi Alessandro,28,BMC Racing Team,\u25bc2,19,2016
+26,24,11,28.0,Boem Nicola,29,Bardiani - CSF,\u25bc1,19,2016
+25,46,11,29.0,Moser Moreno,30,Cannondale Pro Cycling Team,\u25bc1,19,2016
+31,42,10,,Cardoso Andr\xe9,31,Cannondale Pro Cycling Team,-,19,2016
+31,14,9,30.0,Fuglsang Jakob,32,Astana Pro Team,\u25bc2,19,2016
+35,106,9,31.0,Mori Manuele,33,Lampre - Merida,\u25bc2,19,2016
+23,64,8,32.0,Jungels Bob,34,Etixx - Quick Step,\u25bc2,19,2016
+35,81,8,33.0,Kolobnev Alexandr,35,Gazprom-RusVelo,\u25bc2,19,2016
+23,195,8,35.0,McCarthy Jay,36,Tinkoff,\u25bc1,19,2016
+21,105,8,34.0,Mohoric Matej,37,Lampre - Merida,\u25bc3,19,2016
+26,219,8,36.0,Zhupa Eugert,38,Wilier - Southeast,\u25bc2,19,2016
+24,113,7,37.0,de Bie Sean,39,Lotto Soudal,\u25bc2,19,2016
+24,49,7,38.0,Brown Nathan,40,Cannondale Pro Cycling Team,\u25bc2,19,2016
+26,191,6,,Majka Rafa\u0142,41,Tinkoff,-,19,2016
+35,4,6,,Dupont Hubert,42,AG2R La Mondiale,-,19,2016
+30,126,6,40.0,Rojas Jos\xe9 Joaqu\xedn,43,Movistar Team,\u25bc3,19,2016
+25,3,6,41.0,Domont Axel,44,AG2R La Mondiale,\u25bc3,19,2016
+29,43,6,42.0,Clarke Simon,45,Cannondale Pro Cycling Team,\u25bc3,19,2016
+24,152,6,43.0,Arndt Nikias,46,Team Giant - Alpecin,\u25bc3,19,2016
+22,212,6,44.0,Amezqueta Julen,47,Wilier - Southeast,\u25bc3,19,2016
+38,178,5,45.0,Tjallingii Maarten,48,Team LottoNL-Jumbo,\u25bc3,19,2016
+26,172,4,46.0,Battaglin Enrico,49,Team LottoNL-Jumbo,\u25bc3,19,2016
+25,182,4,,Boswell Ian,50,Team Sky,-,19,2016
+26,38,4,47.0,Rosskopf Joey,51,BMC Racing Team,\u25bc4,19,2016
+29,36,3,48.0,Oss Daniel,52,BMC Racing Team,\u25bc4,19,2016
+20,218,3,49.0,Martinez Daniel Felipe,53,Wilier - Southeast,\u25bc4,19,2016
+29,41,2,,Uran Rigoberto,54,Cannondale Pro Cycling Team,-,19,2016
+29,15,2,51.0,Kangert Tanel,55,Astana Pro Team,\u25bc4,19,2016
+26,67,2,52.0,Trentin Matteo,56,Etixx - Quick Step,\u25bc4,19,2016
+29,59,2,53.0,Venter Jaco,57,Team Dimension Data,\u25bc4,19,2016
+23,128,2,54.0,S\xfctterlin Jasha,58,Movistar Team,\u25bc4,19,2016
+33,1,1,56.0,Pozzovivo Domenico,59,AG2R La Mondiale,\u25bc3,19,2016
+22,184,1,57.0,Henao Sebasti\xe1n,60,Team Sky,\u25bc3,19,2016
+34,193,1,58.0,Brutt Pavel,61,Tinkoff,\u25bc3,19,2016
+22,22,1,59.0,Andreetta Simone,62,Bardiani - CSF,\u25bc3,19,2016
+32,185,152,2.0,Nieve Mikel,1,Team Sky,\u25b21,20,2016
+34,131,134,1.0,Cunego Damiano,2,Nippo - Vini Fantini,\u25bc1,20,2016
+28,32,118,4.0,Atapuma John Darwin,3,BMC Racing Team,\u25b21,20,2016
+28,96,109,3.0,Denifl Stefan,4,IAM Cycling,\u25bc1,20,2016
+33,129,77,5.0,Visconti Giovanni,5,Movistar Team,-,20,2016
+24,85,66,10.0,Foliforov Alexander,6,Gazprom-RusVelo,\u25b24,20,2016
+29,168,62,,Taaram\xe4e Rein,7,Team Katusha,-,20,2016
+35,187,54,6.0,Lopez David,8,Team Sky,\u25bc2,20,2016
+36,18,51,7.0,Scarponi Michele,9,Astana Pro Team,\u25bc2,20,2016
+28,171,42,8.0,Kruijswijk Steven,10,Team LottoNL-Jumbo,\u25bc2,20,2016
+26,100,42,9.0,Ulissi Diego,11,Lampre - Merida,\u25bc2,20,2016
+25,44,39,22.0,Dombrowski Joe,12,Cannondale Pro Cycling Team,\u25b210,20,2016
+31,11,37,11.0,Nibali Vincenzo,13,Astana Pro Team,\u25bc2,20,2016
+33,56,36,12.0,Siutsou Kanstantsin,14,Team Dimension Data,\u25bc2,20,2016
+28,62,33,13.0,Brambilla Gianluca,15,Etixx - Quick Step,\u25bc2,20,2016
+36,121,31,14.0,Valverde Alejandro,16,Movistar Team,\u25bc2,20,2016
+25,111,26,15.0,Wellens Tim,17,Lotto Soudal,\u25bc2,20,2016
+26,141,26,16.0,Chaves Johan Esteban,18,Orica GreenEDGE,\u25bc2,20,2016
+36,147,23,17.0,Plaza Rub\xe9n,19,Orica GreenEDGE,\u25bc2,20,2016
+25,157,22,18.0,Preidler Georg,20,Team Giant - Alpecin,\u25bc2,20,2016
+32,8,20,19.0,Montaguti Matteo,21,AG2R La Mondiale,\u25bc2,20,2016
+28,197,19,20.0,Rovny Ivan,22,Tinkoff,\u25bc2,20,2016
+29,21,18,21.0,Pirazzi Stefano,23,Bardiani - CSF,\u25bc2,20,2016
+33,84,17,23.0,Firsanov Sergey,24,Gazprom-RusVelo,\u25bc1,20,2016
+31,133,16,24.0,Bisolti Alessandro,25,Nippo - Vini Fantini,\u25bc1,20,2016
+33,117,16,25.0,Monfort Maxime,26,Lotto Soudal,\u25bc1,20,2016
+22,35,15,26.0,K\xfcng Stefan,27,BMC Racing Team,\u25bc1,20,2016
+31,188,14,27.0,Roche Nicolas,28,Team Sky,\u25bc1,20,2016
+30,33,13,28.0,De Marchi Alessandro,29,BMC Racing Team,\u25bc1,20,2016
+26,24,11,29.0,Boem Nicola,30,Bardiani - CSF,\u25bc1,20,2016
+25,46,11,30.0,Moser Moreno,31,Cannondale Pro Cycling Team,\u25bc1,20,2016
+31,42,10,31.0,Cardoso Andr\xe9,32,Cannondale Pro Cycling Team,\u25bc1,20,2016
+29,15,10,55.0,Kangert Tanel,33,Astana Pro Team,\u25b222,20,2016
+31,14,9,32.0,Fuglsang Jakob,34,Astana Pro Team,\u25bc2,20,2016
+35,106,9,33.0,Mori Manuele,35,Lampre - Merida,\u25bc2,20,2016
+23,64,8,34.0,Jungels Bob,36,Etixx - Quick Step,\u25bc2,20,2016
+35,81,8,35.0,Kolobnev Alexandr,37,Gazprom-RusVelo,\u25bc2,20,2016
+23,195,8,36.0,McCarthy Jay,38,Tinkoff,\u25bc2,20,2016
+21,105,8,37.0,Mohoric Matej,39,Lampre - Merida,\u25bc2,20,2016
+26,219,8,38.0,Zhupa Eugert,40,Wilier - Southeast,\u25bc2,20,2016
+24,113,7,39.0,de Bie Sean,41,Lotto Soudal,\u25bc2,20,2016
+24,49,7,40.0,Brown Nathan,42,Cannondale Pro Cycling Team,\u25bc2,20,2016
+26,191,6,41.0,Majka Rafa\u0142,43,Tinkoff,\u25bc2,20,2016
+35,4,6,42.0,Dupont Hubert,44,AG2R La Mondiale,\u25bc2,20,2016
+30,126,6,43.0,Rojas Jos\xe9 Joaqu\xedn,45,Movistar Team,\u25bc2,20,2016
+25,3,6,44.0,Domont Axel,46,AG2R La Mondiale,\u25bc2,20,2016
+29,43,6,45.0,Clarke Simon,47,Cannondale Pro Cycling Team,\u25bc2,20,2016
+24,152,6,46.0,Arndt Nikias,48,Team Giant - Alpecin,\u25bc2,20,2016
+22,212,6,47.0,Amezqueta Julen,49,Wilier - Southeast,\u25bc2,20,2016
+38,178,5,48.0,Tjallingii Maarten,50,Team LottoNL-Jumbo,\u25bc2,20,2016
+26,172,4,49.0,Battaglin Enrico,51,Team LottoNL-Jumbo,\u25bc2,20,2016
+25,182,4,50.0,Boswell Ian,52,Team Sky,\u25bc2,20,2016
+26,38,4,51.0,Rosskopf Joey,53,BMC Racing Team,\u25bc2,20,2016
+29,36,3,52.0,Oss Daniel,54,BMC Racing Team,\u25bc2,20,2016
+20,218,3,53.0,Martinez Daniel Felipe,55,Wilier - Southeast,\u25bc2,20,2016
+29,41,2,54.0,Uran Rigoberto,56,Cannondale Pro Cycling Team,\u25bc2,20,2016
+26,67,2,56.0,Trentin Matteo,57,Etixx - Quick Step,\u25bc1,20,2016
+29,59,2,57.0,Venter Jaco,58,Team Dimension Data,\u25bc1,20,2016
+23,128,2,58.0,S\xfctterlin Jasha,59,Movistar Team,\u25bc1,20,2016
+33,1,1,59.0,Pozzovivo Domenico,60,AG2R La Mondiale,\u25bc1,20,2016
+22,184,1,60.0,Henao Sebasti\xe1n,61,Team Sky,\u25bc1,20,2016
+34,193,1,61.0,Brutt Pavel,62,Tinkoff,\u25bc1,20,2016
+22,82,1,,Rybalkin Aleksey,63,Gazprom-RusVelo,-,20,2016
+22,22,1,62.0,Andreetta Simone,64,Bardiani - CSF,\u25bc2,20,2016
+32,185,152,1.0,Nieve Mikel,1,Team Sky,-,21,2016
+34,131,134,2.0,Cunego Damiano,2,Nippo - Vini Fantini,-,21,2016
+28,32,118,3.0,Atapuma John Darwin,3,BMC Racing Team,-,21,2016
+28,96,109,4.0,Denifl Stefan,4,IAM Cycling,-,21,2016
+33,129,77,5.0,Visconti Giovanni,5,Movistar Team,-,21,2016
+24,85,66,6.0,Foliforov Alexander,6,Gazprom-RusVelo,-,21,2016
+29,168,62,7.0,Taaram\xe4e Rein,7,Team Katusha,-,21,2016
+35,187,54,8.0,Lopez David,8,Team Sky,-,21,2016
+36,18,51,9.0,Scarponi Michele,9,Astana Pro Team,-,21,2016
+28,171,42,10.0,Kruijswijk Steven,10,Team LottoNL-Jumbo,-,21,2016
+26,100,42,11.0,Ulissi Diego,11,Lampre - Merida,-,21,2016
+25,44,39,12.0,Dombrowski Joe,12,Cannondale Pro Cycling Team,-,21,2016
+31,11,37,13.0,Nibali Vincenzo,13,Astana Pro Team,-,21,2016
+33,56,36,14.0,Siutsou Kanstantsin,14,Team Dimension Data,-,21,2016
+28,62,33,15.0,Brambilla Gianluca,15,Etixx - Quick Step,-,21,2016
+36,121,31,16.0,Valverde Alejandro,16,Movistar Team,-,21,2016
+25,111,26,17.0,Wellens Tim,17,Lotto Soudal,-,21,2016
+26,141,26,18.0,Chaves Johan Esteban,18,Orica GreenEDGE,-,21,2016
+36,147,23,19.0,Plaza Rub\xe9n,19,Orica GreenEDGE,-,21,2016
+25,157,22,20.0,Preidler Georg,20,Team Giant - Alpecin,-,21,2016
+32,8,20,21.0,Montaguti Matteo,21,AG2R La Mondiale,-,21,2016
+28,197,19,22.0,Rovny Ivan,22,Tinkoff,-,21,2016
+29,21,18,23.0,Pirazzi Stefano,23,Bardiani - CSF,-,21,2016
+33,84,17,24.0,Firsanov Sergey,24,Gazprom-RusVelo,-,21,2016
+31,133,16,25.0,Bisolti Alessandro,25,Nippo - Vini Fantini,-,21,2016
+33,117,16,26.0,Monfort Maxime,26,Lotto Soudal,-,21,2016
+22,35,15,27.0,K\xfcng Stefan,27,BMC Racing Team,-,21,2016
+31,188,14,28.0,Roche Nicolas,28,Team Sky,-,21,2016
+30,33,13,29.0,De Marchi Alessandro,29,BMC Racing Team,-,21,2016
+26,24,11,30.0,Boem Nicola,30,Bardiani - CSF,-,21,2016
+25,46,11,31.0,Moser Moreno,31,Cannondale Pro Cycling Team,-,21,2016
+31,42,10,32.0,Cardoso Andr\xe9,32,Cannondale Pro Cycling Team,-,21,2016
+29,15,10,33.0,Kangert Tanel,33,Astana Pro Team,-,21,2016
+31,14,9,34.0,Fuglsang Jakob,34,Astana Pro Team,-,21,2016
+35,106,9,35.0,Mori Manuele,35,Lampre - Merida,-,21,2016
+23,64,8,36.0,Jungels Bob,36,Etixx - Quick Step,-,21,2016
+35,81,8,37.0,Kolobnev Alexandr,37,Gazprom-RusVelo,-,21,2016
+23,195,8,38.0,McCarthy Jay,38,Tinkoff,-,21,2016
+21,105,8,39.0,Mohoric Matej,39,Lampre - Merida,-,21,2016
+26,219,8,40.0,Zhupa Eugert,40,Wilier - Southeast,-,21,2016
+24,113,7,41.0,de Bie Sean,41,Lotto Soudal,-,21,2016
+24,49,7,42.0,Brown Nathan,42,Cannondale Pro Cycling Team,-,21,2016
+26,191,6,43.0,Majka Rafa\u0142,43,Tinkoff,-,21,2016
+35,4,6,44.0,Dupont Hubert,44,AG2R La Mondiale,-,21,2016
+30,126,6,45.0,Rojas Jos\xe9 Joaqu\xedn,45,Movistar Team,-,21,2016
+25,3,6,46.0,Domont Axel,46,AG2R La Mondiale,-,21,2016
+29,43,6,47.0,Clarke Simon,47,Cannondale Pro Cycling Team,-,21,2016
+24,152,6,48.0,Arndt Nikias,48,Team Giant - Alpecin,-,21,2016
+22,212,6,49.0,Amezqueta Julen,49,Wilier - Southeast,-,21,2016
+38,178,5,50.0,Tjallingii Maarten,50,Team LottoNL-Jumbo,-,21,2016
+26,172,4,51.0,Battaglin Enrico,51,Team LottoNL-Jumbo,-,21,2016
+25,182,4,52.0,Boswell Ian,52,Team Sky,-,21,2016
+26,38,4,53.0,Rosskopf Joey,53,BMC Racing Team,-,21,2016
+29,36,3,54.0,Oss Daniel,54,BMC Racing Team,-,21,2016
+20,218,3,55.0,Martinez Daniel Felipe,55,Wilier - Southeast,-,21,2016
+29,41,2,56.0,Uran Rigoberto,56,Cannondale Pro Cycling Team,-,21,2016
+26,67,2,57.0,Trentin Matteo,57,Etixx - Quick Step,-,21,2016
+29,59,2,58.0,Venter Jaco,58,Team Dimension Data,-,21,2016
+23,128,2,59.0,S\xfctterlin Jasha,59,Movistar Team,-,21,2016
+22,184,1,61.0,Henao Sebasti\xe1n,60,Team Sky,\u25b21,21,2016
+33,1,1,60.0,Pozzovivo Domenico,61,AG2R La Mondiale,\u25bc1,21,2016
+34,193,1,62.0,Brutt Pavel,62,Tinkoff,-,21,2016
+22,82,1,63.0,Rybalkin Aleksey,63,Gazprom-RusVelo,-,21,2016
+22,22,1,64.0,Andreetta Simone,64,Bardiani - CSF,-,21,2016

@@ -1,0 +1,204 @@
+Age,BIB,Pnt,Prev,Rider,Rnk,Team,\u25bc\u25b2,stage,year
+24,113,19,,Jones Carter,1,Bissell Pro Cycling,,1,2013
+27,156,16,,Stemper James,2,5-hour Energy,,1,2013
+27,124,12,,Cooper Marsh,3,Optum p/b Kelly Benefit Strategies,,1,2013
+25,104,10,,Dempster Zakkari,4,Team NetApp \u2013 Endura,,1,2013
+29,83,8,,Euser Lucas,5,UnitedHealthcare Presented by Maxxis,,1,2013
+32,138,4,,Wren Tyler,6,Jamis - Hagens Berman,,1,2013
+28,3,2,,Didier Laurent,7,RadioShack - Leopard,,1,2013
+28,2,1,,Busche Matthew,8,RadioShack - Leopard,,1,2013
+24,113,21,1.0,Jones Carter,1,Bissell Pro Cycling,-,2,2013
+27,156,16,2.0,Stemper James,2,5-hour Energy,-,2,2013
+29,83,12,5.0,Euser Lucas,3,UnitedHealthcare Presented by Maxxis,\u25b22,2,2013
+27,124,12,3.0,Cooper Marsh,4,Optum p/b Kelly Benefit Strategies,\u25bc1,2,2013
+27,131,10,,Acevedo Janier Alexis,5,Jamis - Hagens Berman,-,2,2013
+34,134,10,,Jacques-Maynes Benjamin,6,Jamis - Hagens Berman,-,2,2013
+25,104,10,4.0,Dempster Zakkari,7,Team NetApp \u2013 Endura,\u25bc3,2,2013
+24,31,9,,van Garderen Tejay,8,BMC Racing Team,-,2,2013
+32,138,9,6.0,Wren Tyler,9,Jamis - Hagens Berman,\u25bc3,2,2013
+31,116,9,,Mccarty Jonathan Patrick,10,Bissell Pro Cycling,-,2,2013
+29,82,7,,Deignan Philip,11,UnitedHealthcare Presented by Maxxis,-,2,2013
+33,21,7,,Chavanel Sylvain,12,Omega Pharma - Quick-Step,-,2,2013
+26,33,6,,Frank Mathias,13,BMC Racing Team,-,2,2013
+35,128,6,,Zwizanski Scott,14,Optum p/b Kelly Benefit Strategies,-,2,2013
+33,61,5,,Rogers Michael,15,Team Saxo - Tinkoff,-,2,2013
+24,121,4,,Haga Chad,16,Optum p/b Kelly Benefit Strategies,-,2,2013
+28,2,3,8.0,Busche Matthew,17,RadioShack - Leopard,\u25bc9,2,2013
+28,3,2,7.0,Didier Laurent,18,RadioShack - Leopard,\u25bc11,2,2013
+24,113,25,1.0,Jones Carter,1,Bissell Pro Cycling,-,3,2013
+27,156,16,2.0,Stemper James,2,5-hour Energy,-,3,2013
+29,83,12,3.0,Euser Lucas,3,UnitedHealthcare Presented by Maxxis,-,3,2013
+27,124,12,4.0,Cooper Marsh,4,Optum p/b Kelly Benefit Strategies,-,3,2013
+26,91,11,,Beyer Chad,5,Champion System Pro Cycling Team,-,3,2013
+27,131,10,5.0,Acevedo Janier Alexis,6,Jamis - Hagens Berman,\u25bc1,3,2013
+34,134,10,6.0,Jacques-Maynes Benjamin,7,Jamis - Hagens Berman,\u25bc1,3,2013
+27,7,10,,Schleck Andy,8,RadioShack - Leopard,-,3,2013
+25,104,10,7.0,Dempster Zakkari,9,Team NetApp \u2013 Endura,\u25bc2,3,2013
+24,31,9,8.0,van Garderen Tejay,10,BMC Racing Team,\u25bc2,3,2013
+31,116,9,10.0,Mccarty Jonathan Patrick,11,Bissell Pro Cycling,\u25bc1,3,2013
+32,138,9,9.0,Wren Tyler,12,Jamis - Hagens Berman,\u25bc3,3,2013
+29,82,7,11.0,Deignan Philip,13,UnitedHealthcare Presented by Maxxis,\u25bc2,3,2013
+33,21,7,12.0,Chavanel Sylvain,14,Omega Pharma - Quick-Step,\u25bc2,3,2013
+26,33,6,13.0,Frank Mathias,15,BMC Racing Team,\u25bc2,3,2013
+35,128,6,14.0,Zwizanski Scott,16,Optum p/b Kelly Benefit Strategies,\u25bc2,3,2013
+33,61,5,15.0,Rogers Michael,17,Team Saxo - Tinkoff,\u25bc2,3,2013
+21,145,5,,Mannion Gavin,18,Bontrager Cycling Team,-,3,2013
+24,121,4,16.0,Haga Chad,19,Optum p/b Kelly Benefit Strategies,\u25bc3,3,2013
+30,78,4,,Westra Lieuwe,20,Vacansoleil - DCM,-,3,2013
+28,2,3,17.0,Busche Matthew,21,RadioShack - Leopard,\u25bc4,3,2013
+37,111,3,,Baldwin Christopher,22,Bissell Pro Cycling,-,3,2013
+37,151,2,,Mancebo Francisco,23,5-hour Energy,-,3,2013
+28,3,2,18.0,Didier Laurent,24,RadioShack - Leopard,\u25bc6,3,2013
+26,38,1,,Schar Michael,25,BMC Racing Team,-,3,2013
+24,113,25,1.0,Jones Carter,1,Bissell Pro Cycling,-,4,2013
+27,124,18,4.0,Cooper Marsh,2,Optum p/b Kelly Benefit Strategies,\u25b22,4,2013
+27,156,17,2.0,Stemper James,3,5-hour Energy,\u25bc1,4,2013
+26,91,12,5.0,Beyer Chad,4,Champion System Pro Cycling Team,\u25b21,4,2013
+37,111,12,22.0,Baldwin Christopher,5,Bissell Pro Cycling,\u25b217,4,2013
+29,83,12,3.0,Euser Lucas,6,UnitedHealthcare Presented by Maxxis,\u25bc3,4,2013
+27,131,10,6.0,Acevedo Janier Alexis,7,Jamis - Hagens Berman,\u25bc1,4,2013
+34,134,10,7.0,Jacques-Maynes Benjamin,8,Jamis - Hagens Berman,\u25bc1,4,2013
+27,7,10,8.0,Schleck Andy,9,RadioShack - Leopard,\u25bc1,4,2013
+25,104,10,9.0,Dempster Zakkari,10,Team NetApp \u2013 Endura,\u25bc1,4,2013
+24,31,9,10.0,van Garderen Tejay,11,BMC Racing Team,\u25bc1,4,2013
+31,116,9,11.0,Mccarty Jonathan Patrick,12,Bissell Pro Cycling,\u25bc1,4,2013
+32,138,9,12.0,Wren Tyler,13,Jamis - Hagens Berman,\u25bc1,4,2013
+29,82,7,13.0,Deignan Philip,14,UnitedHealthcare Presented by Maxxis,\u25bc1,4,2013
+33,21,7,14.0,Chavanel Sylvain,15,Omega Pharma - Quick-Step,\u25bc1,4,2013
+21,141,6,,Brown Nathan,16,Bontrager Cycling Team,-,4,2013
+26,33,6,15.0,Frank Mathias,17,BMC Racing Team,\u25bc2,4,2013
+35,117,6,,Pipp Frank Kevin,18,Bissell Pro Cycling,-,4,2013
+35,128,6,16.0,Zwizanski Scott,19,Optum p/b Kelly Benefit Strategies,\u25bc3,4,2013
+33,61,5,17.0,Rogers Michael,20,Team Saxo - Tinkoff,\u25bc3,4,2013
+21,145,5,18.0,Mannion Gavin,21,Bontrager Cycling Team,\u25bc3,4,2013
+24,121,4,19.0,Haga Chad,22,Optum p/b Kelly Benefit Strategies,\u25bc3,4,2013
+30,78,4,20.0,Westra Lieuwe,23,Vacansoleil - DCM,\u25bc3,4,2013
+28,2,3,21.0,Busche Matthew,24,RadioShack - Leopard,\u25bc3,4,2013
+37,151,2,23.0,Mancebo Francisco,25,5-hour Energy,\u25bc2,4,2013
+28,3,2,24.0,Didier Laurent,26,RadioShack - Leopard,\u25bc2,4,2013
+26,38,1,25.0,Schar Michael,27,BMC Racing Team,\u25bc2,4,2013
+24,113,33,1.0,Jones Carter,1,Bissell Pro Cycling,-,5,2013
+27,124,18,2.0,Cooper Marsh,2,Optum p/b Kelly Benefit Strategies,-,5,2013
+27,156,17,3.0,Stemper James,3,5-hour Energy,-,5,2013
+26,91,12,4.0,Beyer Chad,4,Champion System Pro Cycling Team,-,5,2013
+37,111,12,5.0,Baldwin Christopher,5,Bissell Pro Cycling,-,5,2013
+29,83,12,6.0,Euser Lucas,6,UnitedHealthcare Presented by Maxxis,-,5,2013
+27,131,10,7.0,Acevedo Janier Alexis,7,Jamis - Hagens Berman,-,5,2013
+34,134,10,8.0,Jacques-Maynes Benjamin,8,Jamis - Hagens Berman,-,5,2013
+27,7,10,9.0,Schleck Andy,9,RadioShack - Leopard,-,5,2013
+25,104,10,10.0,Dempster Zakkari,10,Team NetApp \u2013 Endura,-,5,2013
+24,31,9,11.0,van Garderen Tejay,11,BMC Racing Team,-,5,2013
+32,138,9,13.0,Wren Tyler,12,Jamis - Hagens Berman,\u25b21,5,2013
+31,116,9,12.0,Mccarty Jonathan Patrick,13,Bissell Pro Cycling,\u25bc1,5,2013
+29,82,7,14.0,Deignan Philip,14,UnitedHealthcare Presented by Maxxis,-,5,2013
+37,151,7,25.0,Mancebo Francisco,15,5-hour Energy,\u25b210,5,2013
+33,21,7,15.0,Chavanel Sylvain,16,Omega Pharma - Quick-Step,\u25bc1,5,2013
+24,94,7,,Feng Chun Kai,17,Champion System Pro Cycling Team,-,5,2013
+21,141,6,16.0,Brown Nathan,18,Bontrager Cycling Team,\u25bc2,5,2013
+26,33,6,17.0,Frank Mathias,19,BMC Racing Team,\u25bc2,5,2013
+26,71,6,,De Gendt Thomas,20,Vacansoleil - DCM,-,5,2013
+35,117,6,18.0,Pipp Frank Kevin,21,Bissell Pro Cycling,\u25bc3,5,2013
+35,128,6,19.0,Zwizanski Scott,22,Optum p/b Kelly Benefit Strategies,\u25bc3,5,2013
+33,61,5,20.0,Rogers Michael,23,Team Saxo - Tinkoff,\u25bc3,5,2013
+21,145,5,21.0,Mannion Gavin,24,Bontrager Cycling Team,\u25bc3,5,2013
+24,121,4,22.0,Haga Chad,25,Optum p/b Kelly Benefit Strategies,\u25bc3,5,2013
+30,78,4,23.0,Westra Lieuwe,26,Vacansoleil - DCM,\u25bc3,5,2013
+28,2,3,24.0,Busche Matthew,27,RadioShack - Leopard,\u25bc3,5,2013
+26,114,3,,Torckler Michael,28,Bissell Pro Cycling,-,5,2013
+28,3,2,26.0,Didier Laurent,29,RadioShack - Leopard,\u25bc3,5,2013
+26,38,1,27.0,Schar Michael,30,BMC Racing Team,\u25bc3,5,2013
+24,113,33,1.0,Jones Carter,1,Bissell Pro Cycling,-,6,2013
+27,124,18,2.0,Cooper Marsh,2,Optum p/b Kelly Benefit Strategies,-,6,2013
+27,156,17,3.0,Stemper James,3,5-hour Energy,-,6,2013
+26,91,12,4.0,Beyer Chad,4,Champion System Pro Cycling Team,-,6,2013
+37,111,12,5.0,Baldwin Christopher,5,Bissell Pro Cycling,-,6,2013
+29,83,12,6.0,Euser Lucas,6,UnitedHealthcare Presented by Maxxis,-,6,2013
+27,131,10,7.0,Acevedo Janier Alexis,7,Jamis - Hagens Berman,-,6,2013
+34,134,10,8.0,Jacques-Maynes Benjamin,8,Jamis - Hagens Berman,-,6,2013
+27,7,10,9.0,Schleck Andy,9,RadioShack - Leopard,-,6,2013
+25,104,10,10.0,Dempster Zakkari,10,Team NetApp \u2013 Endura,-,6,2013
+24,31,9,11.0,van Garderen Tejay,11,BMC Racing Team,-,6,2013
+31,116,9,13.0,Mccarty Jonathan Patrick,12,Bissell Pro Cycling,\u25b21,6,2013
+32,138,9,12.0,Wren Tyler,13,Jamis - Hagens Berman,\u25bc1,6,2013
+37,151,7,15.0,Mancebo Francisco,14,5-hour Energy,\u25b21,6,2013
+29,82,7,14.0,Deignan Philip,15,UnitedHealthcare Presented by Maxxis,\u25bc1,6,2013
+33,21,7,16.0,Chavanel Sylvain,16,Omega Pharma - Quick-Step,-,6,2013
+21,141,6,18.0,Brown Nathan,17,Bontrager Cycling Team,\u25b21,6,2013
+26,33,6,19.0,Frank Mathias,18,BMC Racing Team,\u25b21,6,2013
+26,71,6,20.0,De Gendt Thomas,19,Vacansoleil - DCM,\u25b21,6,2013
+35,128,6,22.0,Zwizanski Scott,20,Optum p/b Kelly Benefit Strategies,\u25b22,6,2013
+35,117,6,21.0,Pipp Frank Kevin,21,Bissell Pro Cycling,-,6,2013
+33,61,5,23.0,Rogers Michael,22,Team Saxo - Tinkoff,\u25b21,6,2013
+21,145,5,24.0,Mannion Gavin,23,Bontrager Cycling Team,\u25b21,6,2013
+24,121,4,25.0,Haga Chad,24,Optum p/b Kelly Benefit Strategies,\u25b21,6,2013
+30,78,4,26.0,Westra Lieuwe,25,Vacansoleil - DCM,\u25b21,6,2013
+28,2,3,27.0,Busche Matthew,26,RadioShack - Leopard,\u25b21,6,2013
+26,114,3,28.0,Torckler Michael,27,Bissell Pro Cycling,\u25b21,6,2013
+28,3,2,29.0,Didier Laurent,28,RadioShack - Leopard,\u25b21,6,2013
+26,38,1,30.0,Schar Michael,29,BMC Racing Team,\u25b21,6,2013
+24,113,47,1.0,Jones Carter,1,Bissell Pro Cycling,-,7,2013
+27,7,20,9.0,Schleck Andy,2,RadioShack - Leopard,\u25b27,7,2013
+27,124,18,2.0,Cooper Marsh,3,Optum p/b Kelly Benefit Strategies,\u25bc1,7,2013
+27,156,17,3.0,Stemper James,4,5-hour Energy,\u25bc1,7,2013
+26,91,12,4.0,Beyer Chad,5,Champion System Pro Cycling Team,\u25bc1,7,2013
+37,111,12,5.0,Baldwin Christopher,6,Bissell Pro Cycling,\u25bc1,7,2013
+29,83,12,6.0,Euser Lucas,7,UnitedHealthcare Presented by Maxxis,\u25bc1,7,2013
+21,141,11,17.0,Brown Nathan,8,Bontrager Cycling Team,\u25b29,7,2013
+34,134,10,8.0,Jacques-Maynes Benjamin,9,Jamis - Hagens Berman,\u25bc1,7,2013
+27,131,10,7.0,Acevedo Janier Alexis,10,Jamis - Hagens Berman,\u25bc3,7,2013
+25,104,10,10.0,Dempster Zakkari,11,Team NetApp \u2013 Endura,\u25bc1,7,2013
+32,138,9,13.0,Wren Tyler,12,Jamis - Hagens Berman,\u25b21,7,2013
+30,78,9,25.0,Westra Lieuwe,13,Vacansoleil - DCM,\u25b212,7,2013
+31,116,9,12.0,Mccarty Jonathan Patrick,14,Bissell Pro Cycling,\u25bc2,7,2013
+28,3,9,28.0,Didier Laurent,15,RadioShack - Leopard,\u25b213,7,2013
+24,31,9,11.0,van Garderen Tejay,16,BMC Racing Team,\u25bc5,7,2013
+33,21,7,16.0,Chavanel Sylvain,17,Omega Pharma - Quick-Step,\u25bc1,7,2013
+37,151,7,14.0,Mancebo Francisco,18,5-hour Energy,\u25bc4,7,2013
+29,82,7,15.0,Deignan Philip,19,UnitedHealthcare Presented by Maxxis,\u25bc4,7,2013
+26,33,6,18.0,Frank Mathias,20,BMC Racing Team,\u25bc2,7,2013
+35,128,6,20.0,Zwizanski Scott,21,Optum p/b Kelly Benefit Strategies,\u25bc1,7,2013
+26,71,6,19.0,De Gendt Thomas,22,Vacansoleil - DCM,\u25bc3,7,2013
+24,103,6,,de la Cruz David,23,Team NetApp \u2013 Endura,-,7,2013
+35,117,6,21.0,Pipp Frank Kevin,24,Bissell Pro Cycling,\u25bc3,7,2013
+33,61,5,22.0,Rogers Michael,25,Team Saxo - Tinkoff,\u25bc3,7,2013
+21,145,5,23.0,Mannion Gavin,26,Bontrager Cycling Team,\u25bc3,7,2013
+24,121,4,24.0,Haga Chad,27,Optum p/b Kelly Benefit Strategies,\u25bc3,7,2013
+28,2,3,26.0,Busche Matthew,28,RadioShack - Leopard,\u25bc2,7,2013
+26,114,3,27.0,Torckler Michael,29,Bissell Pro Cycling,\u25bc2,7,2013
+29,152,1,,English Nathaniel,30,5-hour Energy,-,7,2013
+26,38,1,29.0,Schar Michael,31,BMC Racing Team,\u25bc2,7,2013
+24,113,47,1.0,Jones Carter,1,Bissell Pro Cycling,-,8,2013
+27,131,20,10.0,Acevedo Janier Alexis,2,Jamis - Hagens Berman,\u25b28,8,2013
+27,7,20,2.0,Schleck Andy,3,RadioShack - Leopard,\u25bc1,8,2013
+27,124,18,3.0,Cooper Marsh,4,Optum p/b Kelly Benefit Strategies,\u25bc1,8,2013
+24,31,17,16.0,van Garderen Tejay,5,BMC Racing Team,\u25b211,8,2013
+27,156,17,4.0,Stemper James,6,5-hour Energy,\u25bc2,8,2013
+25,101,12,,K\xf6nig Leopold,7,Team NetApp \u2013 Endura,-,8,2013
+26,91,12,5.0,Beyer Chad,8,Champion System Pro Cycling Team,\u25bc3,8,2013
+37,111,12,6.0,Baldwin Christopher,9,Bissell Pro Cycling,\u25bc3,8,2013
+33,61,12,25.0,Rogers Michael,10,Team Saxo - Tinkoff,\u25b215,8,2013
+26,33,12,20.0,Frank Mathias,11,BMC Racing Team,\u25b29,8,2013
+29,83,12,7.0,Euser Lucas,12,UnitedHealthcare Presented by Maxxis,\u25bc5,8,2013
+21,141,11,8.0,Brown Nathan,13,Bontrager Cycling Team,\u25bc5,8,2013
+34,134,10,9.0,Jacques-Maynes Benjamin,14,Jamis - Hagens Berman,\u25bc5,8,2013
+25,104,10,11.0,Dempster Zakkari,15,Team NetApp \u2013 Endura,\u25bc4,8,2013
+37,151,10,18.0,Mancebo Francisco,16,5-hour Energy,\u25b22,8,2013
+28,3,9,15.0,Didier Laurent,17,RadioShack - Leopard,\u25bc2,8,2013
+30,78,9,13.0,Westra Lieuwe,18,Vacansoleil - DCM,\u25bc5,8,2013
+31,116,9,14.0,Mccarty Jonathan Patrick,19,Bissell Pro Cycling,\u25bc5,8,2013
+32,138,9,12.0,Wren Tyler,20,Jamis - Hagens Berman,\u25bc8,8,2013
+28,2,8,28.0,Busche Matthew,21,RadioShack - Leopard,\u25b27,8,2013
+29,82,7,19.0,Deignan Philip,22,UnitedHealthcare Presented by Maxxis,\u25bc3,8,2013
+33,21,7,17.0,Chavanel Sylvain,23,Omega Pharma - Quick-Step,\u25bc6,8,2013
+24,103,6,23.0,de la Cruz David,24,Team NetApp \u2013 Endura,\u25bc1,8,2013
+26,71,6,22.0,De Gendt Thomas,25,Vacansoleil - DCM,\u25bc3,8,2013
+35,128,6,21.0,Zwizanski Scott,26,Optum p/b Kelly Benefit Strategies,\u25bc5,8,2013
+35,117,6,24.0,Pipp Frank Kevin,27,Bissell Pro Cycling,\u25bc3,8,2013
+21,145,5,26.0,Mannion Gavin,28,Bontrager Cycling Team,\u25bc2,8,2013
+21,142,4,,Craddock Lawson,29,Bontrager Cycling Team,-,8,2013
+24,121,4,27.0,Haga Chad,30,Optum p/b Kelly Benefit Strategies,\u25bc3,8,2013
+26,114,3,29.0,Torckler Michael,31,Bissell Pro Cycling,\u25bc2,8,2013
+28,106,2,,Mendes Jos\xe9,32,Team NetApp \u2013 Endura,-,8,2013
+29,81,1,,de Maar Marc,33,UnitedHealthcare Presented by Maxxis,-,8,2013
+29,152,1,30.0,English Nathaniel,34,5-hour Energy,\u25bc4,8,2013
+26,38,1,31.0,Schar Michael,35,BMC Racing Team,\u25bc4,8,2013

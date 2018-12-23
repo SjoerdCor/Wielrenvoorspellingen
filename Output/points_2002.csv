@@ -1,0 +1,1786 @@
+Age,BIB,GC,GC-Time,Pnt,Prev,Rider,Rnk,Team,Time,\u25bc\u25b2,stage,year
+30,1.0,,,,,Armstrong Lance,1*,US Postal Service,,,0,2002
+33,51.0,,,12.0,,Jalabert Laurent,2,CSC ProTeam - Tiscali,,,0,2002
+30,158.0,,,10.0,,Rumsas Raimondas,3,Lampre - Daikin,,,0,2002
+29,32.0,,,8.0,,Botero Santiago,4,Kelme - Costa Blanca,,,0,2002
+25,47.0,,,6.0,,Millar David,5,Cofidis,,,0,2002
+34,204.0,,,5.0,,Brochard Laurent,6,Jean Delatour,,,0,2002
+28,171.0,,,4.0,,Frigo Dario,7,Tacconi Sport,,,0,2002
+28,24.0,,,3.0,,Gonzalez De Galdeano Igor,8,O.N.C.E. - Eroski,,,0,2002
+28,21.0,,,2.0,,Beloki Joseba,9,O.N.C.E. - Eroski,,,0,2002
+25,122.0,,,1.0,,Bodrogi Laszlo,10,Mapei - Quickstep,,,0,2002
+32,11.0,,,36.0,,Zabel Erik,1,Team Telekom,,-,1,2002
+23,153.0,,,35.0,,Bertogliati Rubens,2,Lampre - Daikin,,-,1,2002
+30,147.0,,,26.0,,McEwen Robbie,3,Lotto - Adecco,,-,1,2002
+34,82.0,,,24.0,,Baldato Fabio,4,Fassa Bortolo,,-,1,2002
+34,204.0,,,24.0,6,Brochard Laurent,5,Jean Delatour,,\u25b21,1,2002
+28,67.0,,,24.0,,O'Grady Stuart,6,Cr\xe9dit Agricole,,-,1,2002
+26,121.0,,,22.0,,Freire Oscar,7,Mapei - Quickstep,,-,1,2002
+28,171.0,,,22.0,7,Frigo Dario,8,Tacconi Sport,,\u25bc1,1,2002
+30,158.0,,,20.0,3,Rumsas Raimondas,9,Lampre - Daikin,,\u25bc6,1,2002
+29,32.0,,,20.0,4,Botero Santiago,10,Kelme - Costa Blanca,,\u25bc6,1,2002
+28,35.0,,,17.0,,Gutierrez Jose Enrique,11,Kelme - Costa Blanca,,-,1,2002
+33,119.0,,,16.0,,Simon Fran\xe7ois,12,Bonjour,,-,1,2002
+30,1.0,,,,1*,Armstrong Lance,13*,US Postal Service,,-,1,2002
+27,48.0,,,15.0,,Moncouti\xe9 David,14,Cofidis,,-,1,2002
+33,51.0,,,14.0,2,Jalabert Laurent,15,CSC ProTeam - Tiscali,,\u25bc13,1,2002
+26,97.0,,,14.0,,McGee Bradley,16,La Fran\xe7aise des Jeux,,-,1,2002
+30,102.0,,,13.0,,Boogerd Michael,17,Rabobank ProTeam,,-,1,2002
+23,129.0,,,11.0,,Trampusch Gerhard,18,Mapei - Quickstep,,-,1,2002
+28,21.0,,,9.0,9,Beloki Joseba,19,O.N.C.E. - Eroski,,\u25bc10,1,2002
+27,138.0,,,9.0,,Osa Unai,20,Ibanesto.com,,-,1,2002
+26,137.0,,,8.0,,Mancebo Francisco,21,Ibanesto.com,,-,1,2002
+25,47.0,,,6.0,5,Millar David,22,Cofidis,,\u25bc17,1,2002
+25,31.0,,,6.0,,Sevilla Oscar,23,Kelme - Costa Blanca,,-,1,2002
+33,173.0,,,6.0,,Bortolami Gianluca,24,Tacconi Sport,,-,1,2002
+37,155.0,,,6.0,,Dierckxsens Ludo,25,Lampre - Daikin,,-,1,2002
+23,94.0,,,5.0,,Cooke Baden,26,La Fran\xe7aise des Jeux,,-,1,2002
+28,116.0,,,4.0,,Nazon Damien,27,Bonjour,,-,1,2002
+29,79.0,,,4.0,,Wadecki Piotr,28,Domo - Farm Frites,,-,1,2002
+33,98.0,,,4.0,,Mengin Christophe,29,La Fran\xe7aise des Jeux,,-,1,2002
+28,24.0,,,3.0,8,Gonzalez De Galdeano Igor,30,O.N.C.E. - Eroski,,\u25bc22,1,2002
+32,99.0,,,3.0,,Robin Jean-Cyril,31,La Fran\xe7aise des Jeux,,-,1,2002
+30,199.0,,,2.0,,Shefer Alexandre,32,Alessio,,-,1,2002
+35,95.0,,,2.0,,Durand Jacky,33,La Fran\xe7aise des Jeux,,-,1,2002
+27,183.0,,,2.0,,Berges Stephane,34,AG2R Pr\xe9voyance,,-,1,2002
+25,122.0,,,1.0,10,Bodrogi Laszlo,35,Mapei - Quickstep,,\u25bc25,1,2002
+34,45.0,,,1.0,,Lelli Massimiliano,36,Cofidis,,-,1,2002
+32,11.0,,,62.0,1,Zabel Erik,1,Team Telekom,,-,2,2002
+26,121.0,,,57.0,7,Freire Oscar,2,Mapei - Quickstep,,\u25b25,2,2002
+30,147.0,,,56.0,3,McEwen Robbie,3,Lotto - Adecco,,-,2,2002
+28,67.0,,,40.0,6,O'Grady Stuart,4,Cr\xe9dit Agricole,,\u25b22,2,2002
+23,153.0,,,35.0,2,Bertogliati Rubens,5,Lampre - Daikin,,\u25bc3,2,2002
+23,94.0,,,29.0,26,Cooke Baden,6,La Fran\xe7aise des Jeux,,\u25b220,2,2002
+33,119.0,,,29.0,12,Simon Fran\xe7ois,7,Bonjour,,\u25b25,2,2002
+28,35.0,,,26.0,11,Gutierrez Jose Enrique,8,Kelme - Costa Blanca,,\u25b23,2,2002
+34,82.0,,,24.0,4,Baldato Fabio,9,Fassa Bortolo,,\u25bc5,2,2002
+34,204.0,,,24.0,5,Brochard Laurent,10,Jean Delatour,,\u25bc5,2,2002
+32,186.0,,,22.0,,Kirsipuu Jaan,11,AG2R Pr\xe9voyance,,-,2,2002
+28,171.0,,,22.0,8,Frigo Dario,12,Tacconi Sport,,\u25bc4,2,2002
+30,158.0,,,20.0,9,Rumsas Raimondas,13,Lampre - Daikin,,\u25bc4,2,2002
+29,32.0,,,20.0,10,Botero Santiago,14,Kelme - Costa Blanca,,\u25bc4,2,2002
+27,176.0,,,20.0,,Hauptman Andrej,15,Tacconi Sport,,-,2,2002
+27,124.0,,,19.0,,Horrillo Pedro,16,Mapei - Quickstep,,-,2,2002
+28,77.0,,,18.0,,Rodriguez Fred,17,Domo - Farm Frites,,-,2,2002
+31,14.0,,,17.0,,Fagnini Gian-matteo,18,Team Telekom,,-,2,2002
+23,129.0,,,17.0,18,Trampusch Gerhard,19,Mapei - Quickstep,,\u25bc1,2,2002
+23,114.0,,,16.0,,Chavanel Sylvain,20,Bonjour,,-,2,2002
+30,1.0,,,,13*,Armstrong Lance,21*,US Postal Service,,-,2,2002
+28,16.0,,,15.0,,Hondo Danilo,22,Team Telekom,,-,2,2002
+27,48.0,,,15.0,14,Moncouti\xe9 David,23,Cofidis,,\u25bc9,2,2002
+33,51.0,,,14.0,15,Jalabert Laurent,24,CSC ProTeam - Tiscali,,\u25bc9,2,2002
+33,159.0,,,14.0,,Svorada Jan,25,Lampre - Daikin,,-,2,2002
+26,97.0,,,14.0,16,McGee Bradley,26,La Fran\xe7aise des Jeux,,\u25bc10,2,2002
+30,102.0,,,13.0,17,Boogerd Michael,27,Rabobank ProTeam,,\u25bc10,2,2002
+25,174.0,,,12.0,,Bossoni Paolo,28,Tacconi Sport,,-,2,2002
+30,46.0,,,11.0,,Mattan Nico,29,Cofidis,,-,2,2002
+27,86.0,,,10.0,,Ivanov Serguei,30,Fassa Bortolo,,-,2,2002
+27,183.0,,,10.0,34,Berges Stephane,31,AG2R Pr\xe9voyance,,\u25b23,2,2002
+28,21.0,,,9.0,19,Beloki Joseba,32,O.N.C.E. - Eroski,,\u25bc13,2,2002
+27,138.0,,,9.0,20,Osa Unai,33,Ibanesto.com,,\u25bc13,2,2002
+32,196.0,,,8.0,,Hvastija Martin,34,Alessio,,-,2,2002
+26,137.0,,,8.0,21,Mancebo Francisco,35,Ibanesto.com,,\u25bc14,2,2002
+24,156.0,,,7.0,,Pagliarini Luciano Andr\xe9,36,Lampre - Daikin,,-,2,2002
+25,47.0,,,6.0,22,Millar David,37,Cofidis,,\u25bc15,2,2002
+25,31.0,,,6.0,23,Sevilla Oscar,38,Kelme - Costa Blanca,,\u25bc15,2,2002
+37,155.0,,,6.0,25,Dierckxsens Ludo,39,Lampre - Daikin,,\u25bc14,2,2002
+30,69.0,,,6.0,,Voigt Jens,40,Cr\xe9dit Agricole,,-,2,2002
+33,173.0,,,6.0,24,Bortolami Gianluca,41,Tacconi Sport,,\u25bc17,2,2002
+24,64.0,,,6.0,,Hushovd Thor,42,Cr\xe9dit Agricole,,-,2,2002
+29,198.0,,,5.0,,Moreni Cristian,43,Alessio,,-,2,2002
+30,194.0,,,4.0,,Casarotto Davide,44,Alessio,,-,2,2002
+28,116.0,,,4.0,27,Nazon Damien,45,Bonjour,,\u25bc18,2,2002
+29,79.0,,,4.0,28,Wadecki Piotr,46,Domo - Farm Frites,,\u25bc18,2,2002
+33,98.0,,,4.0,29,Mengin Christophe,47,La Fran\xe7aise des Jeux,,\u25bc18,2,2002
+28,24.0,,,3.0,30,Gonzalez De Galdeano Igor,48,O.N.C.E. - Eroski,,\u25bc18,2,2002
+30,87.0,,,3.0,,Loda Nicola,49,Fassa Bortolo,,-,2,2002
+32,99.0,,,3.0,31,Robin Jean-Cyril,50,La Fran\xe7aise des Jeux,,\u25bc19,2,2002
+32,149.0,,,2.0,,Vierhouten Aart,51,Lotto - Adecco,,-,2,2002
+30,199.0,,,2.0,32,Shefer Alexandre,52,Alessio,,\u25bc20,2,2002
+35,95.0,,,2.0,33,Durand Jacky,53,La Fran\xe7aise des Jeux,,\u25bc20,2,2002
+25,122.0,,,1.0,35,Bodrogi Laszlo,54,Mapei - Quickstep,,\u25bc19,2,2002
+30,53.0,,,1.0,,Peron Andrea,55,CSC ProTeam - Tiscali,,-,2,2002
+34,45.0,,,1.0,36,Lelli Massimiliano,56,Cofidis,,\u25bc20,2,2002
+32,11.0,,,96.0,1,Zabel Erik,1,Team Telekom,,-,3,2002
+30,147.0,,,91.0,3,McEwen Robbie,2,Lotto - Adecco,,\u25b21,3,2002
+26,121.0,,,71.0,2,Freire Oscar,3,Mapei - Quickstep,,\u25bc1,3,2002
+28,67.0,,,56.0,4,O'Grady Stuart,4,Cr\xe9dit Agricole,,-,3,2002
+23,94.0,,,55.0,6,Cooke Baden,5,La Fran\xe7aise des Jeux,,\u25b21,3,2002
+33,119.0,,,47.0,7,Simon Fran\xe7ois,6,Bonjour,,\u25b21,3,2002
+34,82.0,,,46.0,9,Baldato Fabio,7,Fassa Bortolo,,\u25b22,3,2002
+27,176.0,,,44.0,15,Hauptman Andrej,8,Tacconi Sport,,\u25b27,3,2002
+32,186.0,,,41.0,11,Kirsipuu Jaan,9,AG2R Pr\xe9voyance,,\u25b22,3,2002
+28,35.0,,,41.0,8,Gutierrez Jose Enrique,10,Kelme - Costa Blanca,,\u25bc2,3,2002
+34,204.0,,,37.0,10,Brochard Laurent,11,Jean Delatour,,\u25bc1,3,2002
+23,153.0,,,35.0,5,Bertogliati Rubens,12,Lampre - Daikin,,\u25bc7,3,2002
+33,159.0,,,33.0,25,Svorada Jan,13,Lampre - Daikin,,\u25b212,3,2002
+25,174.0,,,32.0,28,Bossoni Paolo,14,Tacconi Sport,,\u25b214,3,2002
+27,124.0,,,26.0,16,Horrillo Pedro,15,Mapei - Quickstep,,\u25b21,3,2002
+28,77.0,,,24.0,17,Rodriguez Fred,16,Domo - Farm Frites,,\u25b21,3,2002
+28,171.0,,,22.0,12,Frigo Dario,17,Tacconi Sport,,\u25bc5,3,2002
+30,158.0,,,20.0,13,Rumsas Raimondas,18,Lampre - Daikin,,\u25bc5,3,2002
+29,32.0,,,20.0,14,Botero Santiago,19,Kelme - Costa Blanca,,\u25bc5,3,2002
+24,156.0,,,19.0,36,Pagliarini Luciano Andr\xe9,20,Lampre - Daikin,,\u25b216,3,2002
+35,95.0,,,18.0,53,Durand Jacky,21,La Fran\xe7aise des Jeux,,\u25b232,3,2002
+31,14.0,,,17.0,18,Fagnini Gian-matteo,22,Team Telekom,,\u25bc4,3,2002
+23,129.0,,,17.0,19,Trampusch Gerhard,23,Mapei - Quickstep,,\u25bc4,3,2002
+23,114.0,,,16.0,20,Chavanel Sylvain,24,Bonjour,,\u25bc4,3,2002
+30,1.0,,,,21*,Armstrong Lance,25*,US Postal Service,,-,3,2002
+28,16.0,,,15.0,22,Hondo Danilo,26,Team Telekom,,\u25bc4,3,2002
+27,48.0,,,15.0,23,Moncouti\xe9 David,27,Cofidis,,\u25bc4,3,2002
+33,51.0,,,14.0,24,Jalabert Laurent,28,CSC ProTeam - Tiscali,,\u25bc4,3,2002
+26,97.0,,,14.0,26,McGee Bradley,29,La Fran\xe7aise des Jeux,,\u25bc3,3,2002
+30,194.0,,,14.0,44,Casarotto Davide,30,Alessio,,\u25b214,3,2002
+28,118.0,,,14.0,,Renier Franck,31,Bonjour,,-,3,2002
+30,102.0,,,13.0,27,Boogerd Michael,32,Rabobank ProTeam,,\u25bc5,3,2002
+26,106.0,,,11.0,,Kroon Karsten,33,Rabobank ProTeam,,-,3,2002
+30,46.0,,,11.0,29,Mattan Nico,34,Cofidis,,\u25bc5,3,2002
+27,86.0,,,10.0,30,Ivanov Serguei,35,Fassa Bortolo,,\u25bc5,3,2002
+29,198.0,,,10.0,43,Moreni Cristian,36,Alessio,,\u25b27,3,2002
+27,183.0,,,10.0,31,Berges Stephane,37,AG2R Pr\xe9voyance,,\u25bc6,3,2002
+28,21.0,,,9.0,32,Beloki Joseba,38,O.N.C.E. - Eroski,,\u25bc6,3,2002
+24,39.0,,,9.0,,Zaballa Constantino,39,Kelme - Costa Blanca,,-,3,2002
+27,138.0,,,9.0,33,Osa Unai,40,Ibanesto.com,,\u25bc7,3,2002
+22,117.0,,,8.0,,Pineau J\xe9rome,41,Bonjour,,-,3,2002
+32,196.0,,,8.0,34,Hvastija Martin,42,Alessio,,\u25bc8,3,2002
+26,137.0,,,8.0,35,Mancebo Francisco,43,Ibanesto.com,,\u25bc8,3,2002
+25,47.0,,,6.0,37,Millar David,44,Cofidis,,\u25bc7,3,2002
+25,31.0,,,6.0,38,Sevilla Oscar,45,Kelme - Costa Blanca,,\u25bc7,3,2002
+37,155.0,,,6.0,39,Dierckxsens Ludo,46,Lampre - Daikin,,\u25bc7,3,2002
+30,69.0,,,6.0,40,Voigt Jens,47,Cr\xe9dit Agricole,,\u25bc7,3,2002
+33,173.0,,,6.0,41,Bortolami Gianluca,48,Tacconi Sport,,\u25bc7,3,2002
+24,64.0,,,6.0,42,Hushovd Thor,49,Cr\xe9dit Agricole,,\u25bc7,3,2002
+24,93.0,,,4.0,,Casper Jimmy,50,La Fran\xe7aise des Jeux,,-,3,2002
+28,116.0,,,4.0,45,Nazon Damien,51,Bonjour,,\u25bc6,3,2002
+33,98.0,,,4.0,47,Mengin Christophe,52,La Fran\xe7aise des Jeux,,\u25bc5,3,2002
+29,79.0,,,4.0,46,Wadecki Piotr,53,Domo - Farm Frites,,\u25bc7,3,2002
+28,24.0,,,3.0,48,Gonzalez De Galdeano Igor,54,O.N.C.E. - Eroski,,\u25bc6,3,2002
+27,181.0,,,3.0,,Botcharov Alexandre,55,AG2R Pr\xe9voyance,,-,3,2002
+30,87.0,,,3.0,49,Loda Nicola,56,Fassa Bortolo,,\u25bc7,3,2002
+32,99.0,,,3.0,50,Robin Jean-Cyril,57,La Fran\xe7aise des Jeux,,\u25bc7,3,2002
+28,161.0,,,2.0,,Etxebarria David,58,Euskaltel - Euskadi,,-,3,2002
+30,199.0,,,2.0,52,Shefer Alexandre,59,Alessio,,\u25bc7,3,2002
+32,149.0,,,2.0,51,Vierhouten Aart,60,Lotto - Adecco,,\u25bc9,3,2002
+25,122.0,,,1.0,54,Bodrogi Laszlo,61,Mapei - Quickstep,,\u25bc7,3,2002
+22,206.0,,,1.0,,Edaleine Christophe,62,Jean Delatour,,-,3,2002
+30,53.0,,,1.0,55,Peron Andrea,63,CSC ProTeam - Tiscali,,\u25bc8,3,2002
+34,45.0,,,1.0,56,Lelli Massimiliano,64,Cofidis,,\u25bc8,3,2002
+24,26.0,7.0,+0:27,,10,Nozal Isidro,1,O.N.C.E. - Eroski,14:52:17 14:52:17,\u25b29,4,2002
+25,47.0,23.0,+1:40,,2,Millar David,2,Cofidis,1:13 1:13,-,4,2002
+24,81.0,24.0,+1:41,,4,Basso Ivan,3,Fassa Bortolo,1:14 1:14,\u25b21,4,2002
+25,84.0,25.0,+1:52,,9,Gustov Volodymyr,4,Fassa Bortolo,1:25 1:25,\u25b25,4,2002
+23,153.0,32.0,+2:10,,1,Bertogliati Rubens,5,Lampre - Daikin,1:43 1:43,\u25bc4,4,2002
+24,131.0,44.0,+2:28,,14,Menchov Denis,6,Ibanesto.com,2:01 2:01,\u25b28,4,2002
+24,36.0,59.0,+2:51,,13,Perez Santiago,7,Kelme - Costa Blanca,2:24 2:24,\u25b26,4,2002
+23,94.0,71.0,+3:37,,3,Cooke Baden,8,La Fran\xe7aise des Jeux,3:10 3:10,\u25bc5,4,2002
+22,117.0,78.0,+3:43,,12,Pineau J\xe9rome,9,Bonjour,3:16 3:16,\u25b23,4,2002
+23,92.0,83.0,+3:46,,5,Casar Sandy,10,La Fran\xe7aise des Jeux,3:19 3:19,\u25bc5,4,2002
+24,91.0,85.0,+3:54,,8,Vogondy Nicolas,11,La Fran\xe7aise des Jeux,3:27 3:27,\u25bc3,4,2002
+25,144.0,88.0,+3:59,,11,Brandt Christophe,12,Lotto - Adecco,3:32 3:32,\u25bc1,4,2002
+23,129.0,106.0,+4:30,,15,Trampusch Gerhard,13,Mapei - Quickstep,4:03 4:03,\u25b22,4,2002
+25,169.0,108.0,+4:41,,6,Zubeldia Haimar,14,Euskaltel - Euskadi,4:14 4:14,\u25bc8,4,2002
+22,206.0,111.0,+4:47,,18,Edaleine Christophe,15,Jean Delatour,4:20 4:20,\u25b23,4,2002
+23,185.0,120.0,+5:09,,16,Flickinger Andy,16,AG2R Pr\xe9voyance,4:42 4:42,-,4,2002
+24,39.0,125.0,+6:03,,19,Zaballa Constantino,17,Kelme - Costa Blanca,5:36 5:36,\u25b22,4,2002
+23,114.0,135.0,+7:04,,20,Chavanel Sylvain,18,Bonjour,6:37 6:37,\u25b22,4,2002
+24,154.0,140.0,+7:19,,7,Cortinovis Alessandro,19,Lampre - Daikin,6:52 6:52,\u25bc12,4,2002
+25,105.0,149.0,+7:57,,17,Engels Addy,20,Rabobank ProTeam,7:30 7:30,\u25bc3,4,2002
+25,125.0,152.0,+8:19,,23,Hunter Robert,21,Mapei - Quickstep,7:52 7:52,\u25b22,4,2002
+24,93.0,157.0,+8:37,,21,Casper Jimmy,22,La Fran\xe7aise des Jeux,8:10 8:10,\u25bc1,4,2002
+24,167.0,160.0,+8:50,,22,Mayo Iban,23,Euskaltel - Euskadi,8:23 8:23,\u25bc1,4,2002
+25,162.0,161.0,+9:03,,24,Arrizabalaga Gorka,24,Euskaltel - Euskadi,8:36 8:36,-,4,2002
+24,168.0,177.0,+17:10,,25,S\xe1nchez Samuel,25,Euskaltel - Euskadi,16:43 16:43,-,4,2002
+24,165.0,180.0,+19:45,,26,Gonzalez Gorka,26,Euskaltel - Euskadi,19:18 19:18,-,4,2002
+24,156.0,186.0,+24:03,,27,Pagliarini Luciano Andr\xe9,27,Lampre - Daikin,23:36 23:36,-,4,2002
+24,64.0,189.0,+33:46,,28,Hushovd Thor,28,Cr\xe9dit Agricole,33:19 33:19,-,4,2002
+32,11.0,,,113.0,1,Zabel Erik,1,Team Telekom,,-,5,2002
+30,147.0,,,111.0,2,McEwen Robbie,2,Lotto - Adecco,,-,5,2002
+23,94.0,,,80.0,5,Cooke Baden,3,La Fran\xe7aise des Jeux,,\u25b22,5,2002
+32,186.0,,,78.0,9,Kirsipuu Jaan,4,AG2R Pr\xe9voyance,,\u25b25,5,2002
+28,67.0,,,74.0,4,O'Grady Stuart,5,Cr\xe9dit Agricole,,\u25bc1,5,2002
+26,121.0,,,71.0,3,Freire Oscar,6,Mapei - Quickstep,,\u25bc3,5,2002
+27,176.0,,,60.0,8,Hauptman Andrej,7,Tacconi Sport,,\u25b21,5,2002
+33,119.0,,,56.0,6,Simon Fran\xe7ois,8,Bonjour,,\u25bc2,5,2002
+28,35.0,,,49.0,10,Gutierrez Jose Enrique,9,Kelme - Costa Blanca,,\u25b21,5,2002
+33,159.0,,,47.0,13,Svorada Jan,10,Lampre - Daikin,,\u25b23,5,2002
+34,82.0,,,46.0,7,Baldato Fabio,11,Fassa Bortolo,,\u25bc4,5,2002
+34,204.0,,,43.0,11,Brochard Laurent,12,Jean Delatour,,\u25bc1,5,2002
+34,56.0,,,40.0,,Sandst\xf8d Michael,13,CSC ProTeam - Tiscali,,-,5,2002
+29,193.0,,,36.0,,Casagranda Stefano,14,Alessio,,-,5,2002
+23,153.0,,,35.0,12,Bertogliati Rubens,15,Lampre - Daikin,,\u25bc3,5,2002
+37,155.0,,,32.0,46,Dierckxsens Ludo,16,Lampre - Daikin,,\u25b230,5,2002
+25,174.0,,,32.0,14,Bossoni Paolo,17,Tacconi Sport,,\u25bc3,5,2002
+24,156.0,,,30.0,20,Pagliarini Luciano Andr\xe9,18,Lampre - Daikin,,\u25b22,5,2002
+27,124.0,,,26.0,15,Horrillo Pedro,19,Mapei - Quickstep,,\u25bc4,5,2002
+22,206.0,,,25.0,64,Edaleine Christophe,20,Jean Delatour,,\u25b244,5,2002
+28,77.0,,,24.0,16,Rodriguez Fred,21,Domo - Farm Frites,,\u25bc5,5,2002
+30,46.0,,,24.0,33,Mattan Nico,22,Cofidis,,\u25b211,5,2002
+28,171.0,,,22.0,17,Frigo Dario,23,Tacconi Sport,,\u25bc6,5,2002
+30,158.0,,,20.0,18,Rumsas Raimondas,24,Lampre - Daikin,,\u25bc6,5,2002
+29,32.0,,,20.0,19,Botero Santiago,25,Kelme - Costa Blanca,,\u25bc6,5,2002
+26,106.0,,,20.0,34,Kroon Karsten,26,Rabobank ProTeam,,\u25b28,5,2002
+35,95.0,,,18.0,21,Durand Jacky,27,La Fran\xe7aise des Jeux,,\u25bc6,5,2002
+31,14.0,,,17.0,22,Fagnini Gian-matteo,28,Team Telekom,,\u25bc6,5,2002
+23,129.0,,,17.0,23,Trampusch Gerhard,29,Mapei - Quickstep,,\u25bc6,5,2002
+23,114.0,,,16.0,24,Chavanel Sylvain,30,Bonjour,,\u25bc6,5,2002
+30,1.0,,,,25*,Armstrong Lance,31*,US Postal Service,,-,5,2002
+32,55.0,,,15.0,,Piziks Arvis,32,CSC ProTeam - Tiscali,,-,5,2002
+28,16.0,,,15.0,27,Hondo Danilo,33,Team Telekom,,\u25bc6,5,2002
+27,48.0,,,15.0,26,Moncouti\xe9 David,34,Cofidis,,\u25bc8,5,2002
+33,51.0,,,14.0,28,Jalabert Laurent,35,CSC ProTeam - Tiscali,,\u25bc7,5,2002
+26,97.0,,,14.0,29,McGee Bradley,36,La Fran\xe7aise des Jeux,,\u25bc7,5,2002
+30,194.0,,,14.0,30,Casarotto Davide,37,Alessio,,\u25bc7,5,2002
+28,118.0,,,14.0,31,Renier Franck,38,Bonjour,,\u25bc7,5,2002
+30,102.0,,,13.0,32,Boogerd Michael,39,Rabobank ProTeam,,\u25bc7,5,2002
+25,125.0,,,12.0,,Hunter Robert,40,Mapei - Quickstep,,-,5,2002
+22,117.0,,,12.0,42,Pineau J\xe9rome,41,Bonjour,,\u25b21,5,2002
+31,115.0,,,10.0,,Magnien Emmanuel,42,Bonjour,,-,5,2002
+27,86.0,,,10.0,35,Ivanov Serguei,43,Fassa Bortolo,,\u25bc8,5,2002
+29,198.0,,,10.0,36,Moreni Cristian,44,Alessio,,\u25bc8,5,2002
+27,183.0,,,10.0,37,Berges Stephane,45,AG2R Pr\xe9voyance,,\u25bc8,5,2002
+28,21.0,,,9.0,38,Beloki Joseba,46,O.N.C.E. - Eroski,,\u25bc8,5,2002
+27,138.0,,,9.0,39,Osa Unai,47,Ibanesto.com,,\u25bc8,5,2002
+24,39.0,,,9.0,40,Zaballa Constantino,48,Kelme - Costa Blanca,,\u25bc8,5,2002
+32,196.0,,,8.0,43,Hvastija Martin,49,Alessio,,\u25bc6,5,2002
+26,137.0,,,8.0,41,Mancebo Francisco,50,Ibanesto.com,,\u25bc9,5,2002
+28,8.0,,,7.0,,Pe\xf1a Victor Hugo,51,US Postal Service,,-,5,2002
+25,47.0,,,6.0,44,Millar David,52,Cofidis,,\u25bc8,5,2002
+25,31.0,,,6.0,45,Sevilla Oscar,53,Kelme - Costa Blanca,,\u25bc8,5,2002
+33,173.0,,,6.0,48,Bortolami Gianluca,54,Tacconi Sport,,\u25bc6,5,2002
+30,69.0,,,6.0,47,Voigt Jens,55,Cr\xe9dit Agricole,,\u25bc8,5,2002
+24,64.0,,,6.0,49,Hushovd Thor,56,Cr\xe9dit Agricole,,\u25bc7,5,2002
+32,149.0,,,5.0,59,Vierhouten Aart,57,Lotto - Adecco,,\u25b22,5,2002
+24,93.0,,,4.0,51,Casper Jimmy,58,La Fran\xe7aise des Jeux,,\u25bc7,5,2002
+28,116.0,,,4.0,50,Nazon Damien,59,Bonjour,,\u25bc9,5,2002
+29,79.0,,,4.0,52,Wadecki Piotr,60,Domo - Farm Frites,,\u25bc8,5,2002
+33,98.0,,,4.0,53,Mengin Christophe,61,La Fran\xe7aise des Jeux,,\u25bc8,5,2002
+28,24.0,,,3.0,54,Gonzalez De Galdeano Igor,62,O.N.C.E. - Eroski,,\u25bc8,5,2002
+30,87.0,,,3.0,55,Loda Nicola,63,Fassa Bortolo,,\u25bc8,5,2002
+27,181.0,,,3.0,57,Botcharov Alexandre,64,AG2R Pr\xe9voyance,,\u25bc7,5,2002
+32,99.0,,,3.0,56,Robin Jean-Cyril,65,La Fran\xe7aise des Jeux,,\u25bc9,5,2002
+32,172.0,,,2.0,,Apollonio Massimo,66,Tacconi Sport,,-,5,2002
+30,199.0,,,2.0,58,Shefer Alexandre,67,Alessio,,\u25bc9,5,2002
+28,161.0,,,2.0,60,Etxebarria David,68,Euskaltel - Euskadi,,\u25bc8,5,2002
+25,122.0,,,1.0,61,Bodrogi Laszlo,69,Mapei - Quickstep,,\u25bc8,5,2002
+32,182.0,,,1.0,,Agnolutto Christophe,70,AG2R Pr\xe9voyance,,-,5,2002
+30,53.0,,,1.0,62,Peron Andrea,71,CSC ProTeam - Tiscali,,\u25bc9,5,2002
+34,45.0,,,1.0,63,Lelli Massimiliano,72,Cofidis,,\u25bc9,5,2002
+32,11.0,,,150.0,1,Zabel Erik,1,Team Telekom,,-,6,2002
+30,147.0,,,143.0,2,McEwen Robbie,2,Lotto - Adecco,,-,6,2002
+26,121.0,,,101.0,6,Freire Oscar,3,Mapei - Quickstep,,\u25b23,6,2002
+23,94.0,,,100.0,3,Cooke Baden,4,La Fran\xe7aise des Jeux,,\u25bc1,6,2002
+28,67.0,,,84.0,5,O'Grady Stuart,5,Cr\xe9dit Agricole,,-,6,2002
+32,186.0,,,80.0,4,Kirsipuu Jaan,6,AG2R Pr\xe9voyance,,\u25bc2,6,2002
+27,176.0,,,76.0,7,Hauptman Andrej,7,Tacconi Sport,,-,6,2002
+33,159.0,,,75.0,10,Svorada Jan,8,Lampre - Daikin,,\u25b22,6,2002
+33,119.0,,,69.0,8,Simon Fran\xe7ois,9,Bonjour,,\u25bc1,6,2002
+34,204.0,,,61.0,12,Brochard Laurent,10,Jean Delatour,,\u25b22,6,2002
+28,35.0,,,60.0,9,Gutierrez Jose Enrique,11,Kelme - Costa Blanca,,\u25bc2,6,2002
+29,193.0,,,48.0,14,Casagranda Stefano,12,Alessio,,\u25b22,6,2002
+26,174.0,,,47.0,17,Bossoni Paolo,13,Tacconi Sport,,\u25b24,6,2002
+34,82.0,,,46.0,11,Baldato Fabio,14,Fassa Bortolo,,\u25bc3,6,2002
+34,56.0,,,40.0,13,Sandst\xf8d Michael,15,CSC ProTeam - Tiscali,,\u25bc2,6,2002
+23,153.0,,,35.0,15,Bertogliati Rubens,16,Lampre - Daikin,,\u25bc1,6,2002
+37,155.0,,,32.0,16,Dierckxsens Ludo,17,Lampre - Daikin,,\u25bc1,6,2002
+27,86.0,,,32.0,43,Ivanov Serguei,18,Fassa Bortolo,,\u25b225,6,2002
+32,55.0,,,32.0,32,Piziks Arvis,19,CSC ProTeam - Tiscali,,\u25b213,6,2002
+30,46.0,,,32.0,22,Mattan Nico,20,Cofidis,,\u25b22,6,2002
+24,156.0,,,30.0,18,Pagliarini Luciano Andr\xe9,21,Lampre - Daikin,,\u25bc3,6,2002
+27,124.0,,,26.0,19,Horrillo Pedro,22,Mapei - Quickstep,,\u25bc3,6,2002
+22,206.0,,,25.0,20,Edaleine Christophe,23,Jean Delatour,,\u25bc3,6,2002
+24,64.0,,,25.0,56,Hushovd Thor,24,Cr\xe9dit Agricole,,\u25b232,6,2002
+28,77.0,,,24.0,21,Rodriguez Fred,25,Domo - Farm Frites,,\u25bc4,6,2002
+35,95.0,,,24.0,27,Durand Jacky,26,La Fran\xe7aise des Jeux,,\u25b21,6,2002
+31,14.0,,,23.0,28,Fagnini Gian-matteo,27,Team Telekom,,\u25b21,6,2002
+28,171.0,,,22.0,23,Frigo Dario,28,Tacconi Sport,,\u25bc5,6,2002
+22,117.0,,,21.0,41,Pineau J\xe9rome,29,Bonjour,,\u25b212,6,2002
+28,118.0,,,21.0,38,Renier Franck,30,Bonjour,,\u25b28,6,2002
+30,158.0,,,20.0,24,Rumsas Raimondas,31,Lampre - Daikin,,\u25bc7,6,2002
+29,32.0,,,20.0,25,Botero Santiago,32,Kelme - Costa Blanca,,\u25bc7,6,2002
+26,106.0,,,20.0,26,Kroon Karsten,33,Rabobank ProTeam,,\u25bc7,6,2002
+30,102.0,,,18.0,39,Boogerd Michael,34,Rabobank ProTeam,,\u25b25,6,2002
+23,129.0,,,17.0,29,Trampusch Gerhard,35,Mapei - Quickstep,,\u25bc6,6,2002
+31,115.0,,,17.0,42,Magnien Emmanuel,36,Bonjour,,\u25b26,6,2002
+23,114.0,,,16.0,30,Chavanel Sylvain,37,Bonjour,,\u25bc7,6,2002
+30,1.0,,,,31*,Armstrong Lance,38*,US Postal Service,,-,6,2002
+28,16.0,,,15.0,33,Hondo Danilo,39,Team Telekom,,\u25bc6,6,2002
+27,48.0,,,15.0,34,Moncouti\xe9 David,40,Cofidis,,\u25bc6,6,2002
+33,51.0,,,14.0,35,Jalabert Laurent,41,CSC ProTeam - Tiscali,,\u25bc6,6,2002
+34,179.0,,,14.0,,Radaelli Mauro,42,Tacconi Sport,,-,6,2002
+26,97.0,,,14.0,36,McGee Bradley,43,La Fran\xe7aise des Jeux,,\u25bc7,6,2002
+30,194.0,,,14.0,37,Casarotto Davide,44,Alessio,,\u25bc7,6,2002
+25,125.0,,,12.0,40,Hunter Robert,45,Mapei - Quickstep,,\u25bc5,6,2002
+29,198.0,,,10.0,44,Moreni Cristian,46,Alessio,,\u25bc2,6,2002
+32,172.0,,,10.0,66,Apollonio Massimo,47,Tacconi Sport,,\u25b219,6,2002
+27,183.0,,,10.0,45,Berges Stephane,48,AG2R Pr\xe9voyance,,\u25bc3,6,2002
+28,21.0,,,9.0,46,Beloki Joseba,49,O.N.C.E. - Eroski,,\u25bc3,6,2002
+27,138.0,,,9.0,47,Osa Unai,50,Ibanesto.com,,\u25bc3,6,2002
+24,39.0,,,9.0,48,Zaballa Constantino,51,Kelme - Costa Blanca,,\u25bc3,6,2002
+26,137.0,,,8.0,50,Mancebo Francisco,52,Ibanesto.com,,\u25bc2,6,2002
+32,196.0,,,8.0,49,Hvastija Martin,53,Alessio,,\u25bc4,6,2002
+28,8.0,,,7.0,51,Pe\xf1a Victor Hugo,54,US Postal Service,,\u25bc3,6,2002
+25,47.0,,,6.0,52,Millar David,55,Cofidis,,\u25bc3,6,2002
+25,31.0,,,6.0,53,Sevilla Oscar,56,Kelme - Costa Blanca,,\u25bc3,6,2002
+33,173.0,,,6.0,54,Bortolami Gianluca,57,Tacconi Sport,,\u25bc3,6,2002
+30,69.0,,,6.0,55,Voigt Jens,58,Cr\xe9dit Agricole,,\u25bc3,6,2002
+30,59.0,,,6.0,,Van Hyfte Paul,59,CSC ProTeam - Tiscali,,-,6,2002
+32,149.0,,,5.0,57,Vierhouten Aart,60,Lotto - Adecco,,\u25bc3,6,2002
+31,49.0,,,4.0,,Vasseur C\xe9dric,61,Cofidis,,-,6,2002
+24,93.0,,,4.0,58,Casper Jimmy,62,La Fran\xe7aise des Jeux,,\u25bc4,6,2002
+28,116.0,,,4.0,59,Nazon Damien,63,Bonjour,,\u25bc4,6,2002
+33,98.0,,,4.0,61,Mengin Christophe,64,La Fran\xe7aise des Jeux,,\u25bc3,6,2002
+29,79.0,,,4.0,60,Wadecki Piotr,65,Domo - Farm Frites,,\u25bc5,6,2002
+28,24.0,,,3.0,62,Gonzalez De Galdeano Igor,66,O.N.C.E. - Eroski,,\u25bc4,6,2002
+32,99.0,,,3.0,65,Robin Jean-Cyril,67,La Fran\xe7aise des Jeux,,\u25bc2,6,2002
+30,87.0,,,3.0,63,Loda Nicola,68,Fassa Bortolo,,\u25bc5,6,2002
+27,181.0,,,3.0,64,Botcharov Alexandre,69,AG2R Pr\xe9voyance,,\u25bc5,6,2002
+28,161.0,,,2.0,68,Etxebarria David,70,Euskaltel - Euskadi,,\u25bc2,6,2002
+25,122.0,,,1.0,69,Bodrogi Laszlo,71,Mapei - Quickstep,,\u25bc2,6,2002
+26,208.0,,,1.0,,Lefevre Laurent,72,Jean Delatour,,-,6,2002
+32,182.0,,,1.0,70,Agnolutto Christophe,73,AG2R Pr\xe9voyance,,\u25bc3,6,2002
+30,53.0,,,1.0,71,Peron Andrea,74,CSC ProTeam - Tiscali,,\u25bc3,6,2002
+34,45.0,,,1.0,72,Lelli Massimiliano,75,Cofidis,,\u25bc3,6,2002
+32,11.0,,,172.0,1,Zabel Erik,1,Team Telekom,,-,7,2002
+30,147.0,,,167.0,2,McEwen Robbie,2,Lotto - Adecco,,-,7,2002
+23,94.0,,,118.0,4,Cooke Baden,3,La Fran\xe7aise des Jeux,,\u25b21,7,2002
+32,186.0,,,110.0,6,Kirsipuu Jaan,4,AG2R Pr\xe9voyance,,\u25b22,7,2002
+28,67.0,,,104.0,5,O'Grady Stuart,5,Cr\xe9dit Agricole,,-,7,2002
+26,121.0,,,101.0,3,Freire Oscar,6,Mapei - Quickstep,,\u25bc3,7,2002
+33,159.0,,,94.0,8,Svorada Jan,7,Lampre - Daikin,,\u25b21,7,2002
+27,176.0,,,91.0,7,Hauptman Andrej,8,Tacconi Sport,,\u25bc1,7,2002
+33,119.0,,,82.0,9,Simon Fran\xe7ois,9,Bonjour,,-,7,2002
+34,204.0,,,62.0,10,Brochard Laurent,10,Jean Delatour,,-,7,2002
+28,35.0,,,60.0,11,Gutierrez Jose Enrique,11,Kelme - Costa Blanca,,-,7,2002
+27,124.0,,,52.0,22,Horrillo Pedro,12,Mapei - Quickstep,,\u25b210,7,2002
+26,97.0,,,49.0,43,McGee Bradley,13,La Fran\xe7aise des Jeux,,\u25b230,7,2002
+29,193.0,,,48.0,12,Casagranda Stefano,14,Alessio,,\u25bc2,7,2002
+26,174.0,,,47.0,13,Bossoni Paolo,15,Tacconi Sport,,\u25bc2,7,2002
+34,82.0,,,46.0,14,Baldato Fabio,16,Fassa Bortolo,,\u25bc2,7,2002
+24,64.0,,,41.0,24,Hushovd Thor,17,Cr\xe9dit Agricole,,\u25b27,7,2002
+28,77.0,,,41.0,25,Rodriguez Fred,18,Domo - Farm Frites,,\u25b27,7,2002
+34,56.0,,,40.0,15,Sandst\xf8d Michael,19,CSC ProTeam - Tiscali,,\u25bc4,7,2002
+28,118.0,,,39.0,30,Renier Franck,20,Bonjour,,\u25b210,7,2002
+23,153.0,,,35.0,16,Bertogliati Rubens,21,Lampre - Daikin,,\u25bc5,7,2002
+37,155.0,,,32.0,17,Dierckxsens Ludo,22,Lampre - Daikin,,\u25bc5,7,2002
+27,86.0,,,32.0,18,Ivanov Serguei,23,Fassa Bortolo,,\u25bc5,7,2002
+32,55.0,,,32.0,19,Piziks Arvis,24,CSC ProTeam - Tiscali,,\u25bc5,7,2002
+30,46.0,,,32.0,20,Mattan Nico,25,Cofidis,,\u25bc5,7,2002
+24,156.0,,,30.0,21,Pagliarini Luciano Andr\xe9,26,Lampre - Daikin,,\u25bc5,7,2002
+28,171.0,,,29.0,28,Frigo Dario,27,Tacconi Sport,,\u25b21,7,2002
+22,206.0,,,25.0,23,Edaleine Christophe,28,Jean Delatour,,\u25bc5,7,2002
+35,95.0,,,24.0,26,Durand Jacky,29,La Fran\xe7aise des Jeux,,\u25bc3,7,2002
+31,14.0,,,23.0,27,Fagnini Gian-matteo,30,Team Telekom,,\u25bc3,7,2002
+26,137.0,,,22.0,52,Mancebo Francisco,31,Ibanesto.com,,\u25b221,7,2002
+22,117.0,,,21.0,29,Pineau J\xe9rome,32,Bonjour,,\u25bc3,7,2002
+30,158.0,,,20.0,31,Rumsas Raimondas,33,Lampre - Daikin,,\u25bc2,7,2002
+29,32.0,,,20.0,32,Botero Santiago,34,Kelme - Costa Blanca,,\u25bc2,7,2002
+26,106.0,,,20.0,33,Kroon Karsten,35,Rabobank ProTeam,,\u25bc2,7,2002
+30,102.0,,,18.0,34,Boogerd Michael,36,Rabobank ProTeam,,\u25bc2,7,2002
+23,129.0,,,17.0,35,Trampusch Gerhard,37,Mapei - Quickstep,,\u25bc2,7,2002
+31,115.0,,,17.0,36,Magnien Emmanuel,38,Bonjour,,\u25bc2,7,2002
+23,114.0,,,16.0,37,Chavanel Sylvain,39,Bonjour,,\u25bc2,7,2002
+30,1.0,,,,38*,Armstrong Lance,40*,US Postal Service,,-,7,2002
+27,48.0,,,15.0,40,Moncouti\xe9 David,41,Cofidis,,\u25bc1,7,2002
+28,16.0,,,15.0,39,Hondo Danilo,42,Team Telekom,,\u25bc3,7,2002
+33,51.0,,,14.0,41,Jalabert Laurent,43,CSC ProTeam - Tiscali,,\u25bc2,7,2002
+28,21.0,,,14.0,49,Beloki Joseba,44,O.N.C.E. - Eroski,,\u25b25,7,2002
+34,179.0,,,14.0,42,Radaelli Mauro,45,Tacconi Sport,,\u25bc3,7,2002
+30,194.0,,,14.0,44,Casarotto Davide,46,Alessio,,\u25bc2,7,2002
+27,138.0,,,13.0,50,Osa Unai,47,Ibanesto.com,,\u25b23,7,2002
+29,79.0,,,13.0,65,Wadecki Piotr,48,Domo - Farm Frites,,\u25b217,7,2002
+27,142.0,,,12.0,,Aerts Mario,49,Lotto - Adecco,,-,7,2002
+25,125.0,,,12.0,45,Hunter Robert,50,Mapei - Quickstep,,\u25bc5,7,2002
+25,31.0,,,12.0,56,Sevilla Oscar,51,Kelme - Costa Blanca,,\u25b25,7,2002
+30,78.0,,,12.0,,van Bon L\xe9on,52,Domo - Farm Frites,,-,7,2002
+24,168.0,,,11.0,,S\xe1nchez Samuel,53,Euskaltel - Euskadi,,-,7,2002
+34,45.0,,,11.0,75,Lelli Massimiliano,54,Cofidis,,\u25b221,7,2002
+29,198.0,,,10.0,46,Moreni Cristian,55,Alessio,,\u25bc9,7,2002
+32,172.0,,,10.0,47,Apollonio Massimo,56,Tacconi Sport,,\u25bc9,7,2002
+27,183.0,,,10.0,48,Berges Stephane,57,AG2R Pr\xe9voyance,,\u25bc9,7,2002
+24,39.0,,,9.0,51,Zaballa Constantino,58,Kelme - Costa Blanca,,\u25bc7,7,2002
+24,131.0,,,8.0,,Menchov Denis,59,Ibanesto.com,,-,7,2002
+32,196.0,,,8.0,53,Hvastija Martin,60,Alessio,,\u25bc7,7,2002
+28,8.0,,,7.0,54,Pe\xf1a Victor Hugo,61,US Postal Service,,\u25bc7,7,2002
+25,47.0,,,6.0,55,Millar David,62,Cofidis,,\u25bc7,7,2002
+28,24.0,,,6.0,66,Gonzalez De Galdeano Igor,63,O.N.C.E. - Eroski,,\u25b23,7,2002
+33,173.0,,,6.0,57,Bortolami Gianluca,64,Tacconi Sport,,\u25bc7,7,2002
+30,69.0,,,6.0,58,Voigt Jens,65,Cr\xe9dit Agricole,,\u25bc7,7,2002
+30,59.0,,,6.0,59,Van Hyfte Paul,66,CSC ProTeam - Tiscali,,\u25bc7,7,2002
+28,66.0,,,6.0,,Morin Anthony,67,Cr\xe9dit Agricole,,-,7,2002
+32,149.0,,,5.0,60,Vierhouten Aart,68,Lotto - Adecco,,\u25bc8,7,2002
+31,49.0,,,4.0,61,Vasseur C\xe9dric,69,Cofidis,,\u25bc8,7,2002
+24,93.0,,,4.0,62,Casper Jimmy,70,La Fran\xe7aise des Jeux,,\u25bc8,7,2002
+28,116.0,,,4.0,63,Nazon Damien,71,Bonjour,,\u25bc8,7,2002
+33,98.0,,,4.0,64,Mengin Christophe,72,La Fran\xe7aise des Jeux,,\u25bc8,7,2002
+32,99.0,,,3.0,67,Robin Jean-Cyril,73,La Fran\xe7aise des Jeux,,\u25bc6,7,2002
+27,181.0,,,3.0,69,Botcharov Alexandre,74,AG2R Pr\xe9voyance,,\u25bc5,7,2002
+30,87.0,,,3.0,68,Loda Nicola,75,Fassa Bortolo,,\u25bc7,7,2002
+26,208.0,,,3.0,72,Lefevre Laurent,76,Jean Delatour,,\u25bc4,7,2002
+28,161.0,,,2.0,70,Etxebarria David,77,Euskaltel - Euskadi,,\u25bc7,7,2002
+25,122.0,,,1.0,71,Bodrogi Laszlo,78,Mapei - Quickstep,,\u25bc7,7,2002
+30,53.0,,,1.0,74,Peron Andrea,79,CSC ProTeam - Tiscali,,\u25bc5,7,2002
+32,182.0,,,1.0,73,Agnolutto Christophe,80,AG2R Pr\xe9voyance,,\u25bc7,7,2002
+32,11.0,,,193.0,1,Zabel Erik,1,Team Telekom,,-,8,2002
+30,147.0,,,191.0,2,McEwen Robbie,2,Lotto - Adecco,,-,8,2002
+23,94.0,,,134.0,3,Cooke Baden,3,La Fran\xe7aise des Jeux,,-,8,2002
+28,67.0,,,119.0,5,O'Grady Stuart,4,Cr\xe9dit Agricole,,\u25b21,8,2002
+32,186.0,,,110.0,4,Kirsipuu Jaan,5,AG2R Pr\xe9voyance,,\u25bc1,8,2002
+33,159.0,,,108.0,7,Svorada Jan,6,Lampre - Daikin,,\u25b21,8,2002
+27,176.0,,,102.0,8,Hauptman Andrej,7,Tacconi Sport,,\u25b21,8,2002
+33,119.0,,,89.0,9,Simon Fran\xe7ois,8,Bonjour,,\u25b21,8,2002
+28,118.0,,,63.0,20,Renier Franck,9,Bonjour,,\u25b211,8,2002
+34,204.0,,,62.0,10,Brochard Laurent,10,Jean Delatour,,-,8,2002
+28,35.0,,,62.0,11,Gutierrez Jose Enrique,11,Kelme - Costa Blanca,,-,8,2002
+26,106.0,,,59.0,35,Kroon Karsten,12,Rabobank ProTeam,,\u25b223,8,2002
+27,124.0,,,57.0,12,Horrillo Pedro,13,Mapei - Quickstep,,\u25bc1,8,2002
+28,77.0,,,54.0,18,Rodriguez Fred,14,Domo - Farm Frites,,\u25b24,8,2002
+26,174.0,,,53.0,15,Bossoni Paolo,15,Tacconi Sport,,-,8,2002
+26,97.0,,,49.0,13,McGee Bradley,16,La Fran\xe7aise des Jeux,,\u25bc3,8,2002
+29,193.0,,,48.0,14,Casagranda Stefano,17,Alessio,,\u25bc3,8,2002
+34,82.0,,,46.0,16,Baldato Fabio,18,Fassa Bortolo,,\u25bc2,8,2002
+30,46.0,,,42.0,25,Mattan Nico,19,Cofidis,,\u25b26,8,2002
+24,64.0,,,41.0,17,Hushovd Thor,20,Cr\xe9dit Agricole,,\u25bc3,8,2002
+34,56.0,,,40.0,19,Sandst\xf8d Michael,21,CSC ProTeam - Tiscali,,\u25bc2,8,2002
+23,153.0,,,35.0,21,Bertogliati Rubens,22,Lampre - Daikin,,\u25bc1,8,2002
+31,74.0,,,32.0,,Knaven Servais,23,Domo - Farm Frites,,-,8,2002
+37,155.0,,,32.0,22,Dierckxsens Ludo,24,Lampre - Daikin,,\u25bc2,8,2002
+27,86.0,,,32.0,23,Ivanov Serguei,25,Fassa Bortolo,,\u25bc2,8,2002
+32,55.0,,,32.0,24,Piziks Arvis,26,CSC ProTeam - Tiscali,,\u25bc2,8,2002
+24,156.0,,,30.0,26,Pagliarini Luciano Andr\xe9,27,Lampre - Daikin,,\u25bc1,8,2002
+28,171.0,,,29.0,27,Frigo Dario,28,Tacconi Sport,,\u25bc1,8,2002
+28,63.0,,,28.0,,Hinault S\xe9bastien,29,Cr\xe9dit Agricole,,-,8,2002
+31,104.0,,,26.0,,Dekker Erik,30,Rabobank ProTeam,,-,8,2002
+22,206.0,,,25.0,28,Edaleine Christophe,31,Jean Delatour,,\u25bc3,8,2002
+25,125.0,,,24.0,50,Hunter Robert,32,Mapei - Quickstep,,\u25b218,8,2002
+35,95.0,,,24.0,29,Durand Jacky,33,La Fran\xe7aise des Jeux,,\u25bc4,8,2002
+31,14.0,,,23.0,30,Fagnini Gian-matteo,34,Team Telekom,,\u25bc4,8,2002
+26,137.0,,,22.0,31,Mancebo Francisco,35,Ibanesto.com,,\u25bc4,8,2002
+31,115.0,,,21.0,38,Magnien Emmanuel,36,Bonjour,,\u25b22,8,2002
+22,117.0,,,21.0,32,Pineau J\xe9rome,37,Bonjour,,\u25bc5,8,2002
+30,158.0,,,20.0,33,Rumsas Raimondas,38,Lampre - Daikin,,\u25bc5,8,2002
+29,32.0,,,20.0,34,Botero Santiago,39,Kelme - Costa Blanca,,\u25bc5,8,2002
+27,202.0,,,20.0,,Auge St\xe9phane,40,Jean Delatour,,-,8,2002
+27,142.0,,,20.0,49,Aerts Mario,41,Lotto - Adecco,,\u25b28,8,2002
+26,152.0,,,19.0,,Belohvosciks Raivis,42,Lampre - Daikin,,-,8,2002
+30,102.0,,,18.0,36,Boogerd Michael,43,Rabobank ProTeam,,\u25bc7,8,2002
+23,129.0,,,17.0,37,Trampusch Gerhard,44,Mapei - Quickstep,,\u25bc7,8,2002
+23,114.0,,,16.0,39,Chavanel Sylvain,45,Bonjour,,\u25bc6,8,2002
+30,1.0,,,,40*,Armstrong Lance,46*,US Postal Service,,-,8,2002
+28,16.0,,,15.0,42,Hondo Danilo,47,Team Telekom,,\u25bc5,8,2002
+27,48.0,,,15.0,41,Moncouti\xe9 David,48,Cofidis,,\u25bc7,8,2002
+33,51.0,,,14.0,43,Jalabert Laurent,49,CSC ProTeam - Tiscali,,\u25bc6,8,2002
+28,21.0,,,14.0,44,Beloki Joseba,50,O.N.C.E. - Eroski,,\u25bc6,8,2002
+34,179.0,,,14.0,45,Radaelli Mauro,51,Tacconi Sport,,\u25bc6,8,2002
+30,194.0,,,14.0,46,Casarotto Davide,52,Alessio,,\u25bc6,8,2002
+27,138.0,,,13.0,47,Osa Unai,53,Ibanesto.com,,\u25bc6,8,2002
+29,79.0,,,13.0,48,Wadecki Piotr,54,Domo - Farm Frites,,\u25bc6,8,2002
+25,31.0,,,12.0,51,Sevilla Oscar,55,Kelme - Costa Blanca,,\u25bc4,8,2002
+30,78.0,,,12.0,52,van Bon L\xe9on,56,Domo - Farm Frites,,\u25bc4,8,2002
+24,168.0,,,11.0,53,S\xe1nchez Samuel,57,Euskaltel - Euskadi,,\u25bc4,8,2002
+34,45.0,,,11.0,54,Lelli Massimiliano,58,Cofidis,,\u25bc4,8,2002
+29,198.0,,,10.0,55,Moreni Cristian,59,Alessio,,\u25bc4,8,2002
+32,172.0,,,10.0,56,Apollonio Massimo,60,Tacconi Sport,,\u25bc4,8,2002
+27,183.0,,,10.0,57,Berges Stephane,61,AG2R Pr\xe9voyance,,\u25bc4,8,2002
+33,145.0,,,9.0,,De Clercq Hans,62,Lotto - Adecco,,-,8,2002
+24,39.0,,,9.0,58,Zaballa Constantino,63,Kelme - Costa Blanca,,\u25bc5,8,2002
+24,131.0,,,8.0,59,Menchov Denis,64,Ibanesto.com,,\u25bc5,8,2002
+32,196.0,,,8.0,60,Hvastija Martin,65,Alessio,,\u25bc5,8,2002
+28,8.0,,,7.0,61,Pe\xf1a Victor Hugo,66,US Postal Service,,\u25bc5,8,2002
+25,47.0,,,6.0,62,Millar David,67,Cofidis,,\u25bc5,8,2002
+28,24.0,,,6.0,63,Gonzalez De Galdeano Igor,68,O.N.C.E. - Eroski,,\u25bc5,8,2002
+23,92.0,,,6.0,,Casar Sandy,69,La Fran\xe7aise des Jeux,,-,8,2002
+33,173.0,,,6.0,64,Bortolami Gianluca,70,Tacconi Sport,,\u25bc6,8,2002
+30,69.0,,,6.0,65,Voigt Jens,71,Cr\xe9dit Agricole,,\u25bc6,8,2002
+30,59.0,,,6.0,66,Van Hyfte Paul,72,CSC ProTeam - Tiscali,,\u25bc6,8,2002
+28,66.0,,,6.0,67,Morin Anthony,73,Cr\xe9dit Agricole,,\u25bc6,8,2002
+31,49.0,,,4.0,69,Vasseur C\xe9dric,74,Cofidis,,\u25bc5,8,2002
+24,93.0,,,4.0,70,Casper Jimmy,75,La Fran\xe7aise des Jeux,,\u25bc5,8,2002
+28,116.0,,,4.0,71,Nazon Damien,76,Bonjour,,\u25bc5,8,2002
+33,98.0,,,4.0,72,Mengin Christophe,77,La Fran\xe7aise des Jeux,,\u25bc5,8,2002
+28,37.0,,,4.0,,Tauler Toni,78,Kelme - Costa Blanca,,-,8,2002
+32,143.0,,,3.0,,Baguet Serge,79,Lotto - Adecco,,-,8,2002
+30,87.0,,,3.0,75,Loda Nicola,80,Fassa Bortolo,,\u25bc5,8,2002
+32,99.0,,,3.0,73,Robin Jean-Cyril,81,La Fran\xe7aise des Jeux,,\u25bc8,8,2002
+27,181.0,,,3.0,74,Botcharov Alexandre,82,AG2R Pr\xe9voyance,,\u25bc8,8,2002
+26,208.0,,,3.0,76,Lefevre Laurent,83,Jean Delatour,,\u25bc7,8,2002
+28,161.0,,,2.0,77,Etxebarria David,84,Euskaltel - Euskadi,,\u25bc7,8,2002
+28,201.0,,,2.0,,Halgand Patrice,85,Jean Delatour,,-,8,2002
+25,122.0,,,1.0,78,Bodrogi Laszlo,86,Mapei - Quickstep,,\u25bc8,8,2002
+26,6.0,,,1.0,,Landis Floyd,87,US Postal Service,,-,8,2002
+30,53.0,,,1.0,79,Peron Andrea,88,CSC ProTeam - Tiscali,,\u25bc9,8,2002
+32,182.0,,,1.0,80,Agnolutto Christophe,89,AG2R Pr\xe9voyance,,\u25bc9,8,2002
+32,11.0,,,193.0,1,Zabel Erik,1,Team Telekom,,-,9,2002
+30,147.0,,,191.0,2,McEwen Robbie,2,Lotto - Adecco,,-,9,2002
+23,94.0,,,134.0,3,Cooke Baden,3,La Fran\xe7aise des Jeux,,-,9,2002
+28,67.0,,,119.0,4,O'Grady Stuart,4,Cr\xe9dit Agricole,,-,9,2002
+32,186.0,,,110.0,5,Kirsipuu Jaan,5,AG2R Pr\xe9voyance,,-,9,2002
+33,159.0,,,108.0,6,Svorada Jan,6,Lampre - Daikin,,-,9,2002
+27,176.0,,,102.0,7,Hauptman Andrej,7,Tacconi Sport,,-,9,2002
+33,119.0,,,89.0,8,Simon Fran\xe7ois,8,Bonjour,,-,9,2002
+28,118.0,,,63.0,9,Renier Franck,9,Bonjour,,-,9,2002
+34,204.0,,,62.0,10,Brochard Laurent,10,Jean Delatour,,-,9,2002
+28,35.0,,,62.0,11,Gutierrez Jose Enrique,11,Kelme - Costa Blanca,,-,9,2002
+26,106.0,,,59.0,12,Kroon Karsten,12,Rabobank ProTeam,,-,9,2002
+27,124.0,,,57.0,13,Horrillo Pedro,13,Mapei - Quickstep,,-,9,2002
+28,77.0,,,54.0,14,Rodriguez Fred,14,Domo - Farm Frites,,-,9,2002
+26,174.0,,,53.0,15,Bossoni Paolo,15,Tacconi Sport,,-,9,2002
+26,97.0,,,49.0,16,McGee Bradley,16,La Fran\xe7aise des Jeux,,-,9,2002
+29,193.0,,,48.0,17,Casagranda Stefano,17,Alessio,,-,9,2002
+34,82.0,,,46.0,18,Baldato Fabio,18,Fassa Bortolo,,-,9,2002
+30,46.0,,,42.0,19,Mattan Nico,19,Cofidis,,-,9,2002
+24,64.0,,,41.0,20,Hushovd Thor,20,Cr\xe9dit Agricole,,-,9,2002
+34,56.0,,,40.0,21,Sandst\xf8d Michael,21,CSC ProTeam - Tiscali,,-,9,2002
+23,153.0,,,35.0,22,Bertogliati Rubens,22,Lampre - Daikin,,-,9,2002
+29,32.0,,,35.0,39,Botero Santiago,23,Kelme - Costa Blanca,,\u25b216,9,2002
+31,74.0,,,32.0,23,Knaven Servais,24,Domo - Farm Frites,,\u25bc1,9,2002
+37,155.0,,,32.0,24,Dierckxsens Ludo,25,Lampre - Daikin,,\u25bc1,9,2002
+27,86.0,,,32.0,25,Ivanov Serguei,26,Fassa Bortolo,,\u25bc1,9,2002
+28,171.0,,,32.0,28,Frigo Dario,27,Tacconi Sport,,\u25b21,9,2002
+32,55.0,,,32.0,26,Piziks Arvis,28,CSC ProTeam - Tiscali,,\u25bc2,9,2002
+24,156.0,,,30.0,27,Pagliarini Luciano Andr\xe9,29,Lampre - Daikin,,\u25bc2,9,2002
+28,63.0,,,28.0,29,Hinault S\xe9bastien,30,Cr\xe9dit Agricole,,\u25bc1,9,2002
+30,1.0,,,,46*,Armstrong Lance,31*,US Postal Service,,-,9,2002
+31,104.0,,,26.0,30,Dekker Erik,32,Rabobank ProTeam,,\u25bc2,9,2002
+30,158.0,,,25.0,38,Rumsas Raimondas,33,Lampre - Daikin,,\u25b25,9,2002
+22,206.0,,,25.0,31,Edaleine Christophe,34,Jean Delatour,,\u25bc3,9,2002
+25,125.0,,,24.0,32,Hunter Robert,35,Mapei - Quickstep,,\u25bc3,9,2002
+35,95.0,,,24.0,33,Durand Jacky,36,La Fran\xe7aise des Jeux,,\u25bc3,9,2002
+31,14.0,,,23.0,34,Fagnini Gian-matteo,37,Team Telekom,,\u25bc3,9,2002
+26,137.0,,,22.0,35,Mancebo Francisco,38,Ibanesto.com,,\u25bc3,9,2002
+31,115.0,,,21.0,36,Magnien Emmanuel,39,Bonjour,,\u25bc3,9,2002
+22,117.0,,,21.0,37,Pineau J\xe9rome,40,Bonjour,,\u25bc3,9,2002
+27,202.0,,,20.0,40,Auge St\xe9phane,41,Jean Delatour,,\u25bc1,9,2002
+27,142.0,,,20.0,41,Aerts Mario,42,Lotto - Adecco,,\u25bc1,9,2002
+26,152.0,,,19.0,42,Belohvosciks Raivis,43,Lampre - Daikin,,\u25bc1,9,2002
+30,102.0,,,18.0,43,Boogerd Michael,44,Rabobank ProTeam,,\u25bc1,9,2002
+23,129.0,,,17.0,44,Trampusch Gerhard,45,Mapei - Quickstep,,\u25bc1,9,2002
+23,114.0,,,16.0,45,Chavanel Sylvain,46,Bonjour,,\u25bc1,9,2002
+28,21.0,,,15.0,50,Beloki Joseba,47,O.N.C.E. - Eroski,,\u25b23,9,2002
+28,16.0,,,15.0,47,Hondo Danilo,48,Team Telekom,,\u25bc1,9,2002
+27,48.0,,,15.0,48,Moncouti\xe9 David,49,Cofidis,,\u25bc1,9,2002
+33,51.0,,,14.0,49,Jalabert Laurent,50,CSC ProTeam - Tiscali,,\u25bc1,9,2002
+28,24.0,,,14.0,68,Gonzalez De Galdeano Igor,51,O.N.C.E. - Eroski,,\u25b217,9,2002
+34,179.0,,,14.0,51,Radaelli Mauro,52,Tacconi Sport,,\u25bc1,9,2002
+30,194.0,,,14.0,52,Casarotto Davide,53,Alessio,,\u25bc1,9,2002
+27,138.0,,,13.0,53,Osa Unai,54,Ibanesto.com,,\u25bc1,9,2002
+29,79.0,,,13.0,54,Wadecki Piotr,55,Domo - Farm Frites,,\u25bc1,9,2002
+25,31.0,,,12.0,55,Sevilla Oscar,56,Kelme - Costa Blanca,,\u25bc1,9,2002
+30,78.0,,,12.0,56,van Bon L\xe9on,57,Domo - Farm Frites,,\u25bc1,9,2002
+24,168.0,,,11.0,57,S\xe1nchez Samuel,58,Euskaltel - Euskadi,,\u25bc1,9,2002
+34,45.0,,,11.0,58,Lelli Massimiliano,59,Cofidis,,\u25bc1,9,2002
+32,85.0,,,10.0,,Honchar Serhiy,60,Fassa Bortolo,,-,9,2002
+25,47.0,,,10.0,67,Millar David,61,Cofidis,,\u25b26,9,2002
+29,198.0,,,10.0,59,Moreni Cristian,62,Alessio,,\u25bc3,9,2002
+32,172.0,,,10.0,60,Apollonio Massimo,63,Tacconi Sport,,\u25bc3,9,2002
+27,183.0,,,10.0,61,Berges Stephane,64,AG2R Pr\xe9voyance,,\u25bc3,9,2002
+33,145.0,,,9.0,62,De Clercq Hans,65,Lotto - Adecco,,\u25bc3,9,2002
+24,39.0,,,9.0,63,Zaballa Constantino,66,Kelme - Costa Blanca,,\u25bc3,9,2002
+24,131.0,,,8.0,64,Menchov Denis,67,Ibanesto.com,,\u25bc3,9,2002
+32,196.0,,,8.0,65,Hvastija Martin,68,Alessio,,\u25bc3,9,2002
+25,122.0,,,7.0,86,Bodrogi Laszlo,69,Mapei - Quickstep,,\u25b217,9,2002
+28,8.0,,,7.0,66,Pe\xf1a Victor Hugo,70,US Postal Service,,\u25bc4,9,2002
+23,92.0,,,6.0,69,Casar Sandy,71,La Fran\xe7aise des Jeux,,\u25bc2,9,2002
+33,173.0,,,6.0,70,Bortolami Gianluca,72,Tacconi Sport,,\u25bc2,9,2002
+30,69.0,,,6.0,71,Voigt Jens,73,Cr\xe9dit Agricole,,\u25bc2,9,2002
+30,59.0,,,6.0,72,Van Hyfte Paul,74,CSC ProTeam - Tiscali,,\u25bc2,9,2002
+28,66.0,,,6.0,73,Morin Anthony,75,Cr\xe9dit Agricole,,\u25bc2,9,2002
+28,116.0,,,4.0,76,Nazon Damien,76,Bonjour,,-,9,2002
+31,49.0,,,4.0,74,Vasseur C\xe9dric,77,Cofidis,,\u25bc3,9,2002
+24,93.0,,,4.0,75,Casper Jimmy,78,La Fran\xe7aise des Jeux,,\u25bc3,9,2002
+28,37.0,,,4.0,78,Tauler Toni,79,Kelme - Costa Blanca,,\u25bc1,9,2002
+33,98.0,,,4.0,77,Mengin Christophe,80,La Fran\xe7aise des Jeux,,\u25bc3,9,2002
+30,53.0,,,3.0,88,Peron Andrea,81,CSC ProTeam - Tiscali,,\u25b27,9,2002
+32,143.0,,,3.0,79,Baguet Serge,82,Lotto - Adecco,,\u25bc3,9,2002
+32,99.0,,,3.0,81,Robin Jean-Cyril,83,La Fran\xe7aise des Jeux,,\u25bc2,9,2002
+30,87.0,,,3.0,80,Loda Nicola,84,Fassa Bortolo,,\u25bc4,9,2002
+27,181.0,,,3.0,82,Botcharov Alexandre,85,AG2R Pr\xe9voyance,,\u25bc3,9,2002
+26,208.0,,,3.0,83,Lefevre Laurent,86,Jean Delatour,,\u25bc3,9,2002
+28,161.0,,,2.0,84,Etxebarria David,87,Euskaltel - Euskadi,,\u25bc3,9,2002
+28,201.0,,,2.0,85,Halgand Patrice,88,Jean Delatour,,\u25bc3,9,2002
+26,6.0,,,1.0,87,Landis Floyd,89,US Postal Service,,\u25bc2,9,2002
+32,182.0,,,1.0,89,Agnolutto Christophe,90,AG2R Pr\xe9voyance,,\u25bc1,9,2002
+30,147.0,,,210.0,2,McEwen Robbie,1,Lotto - Adecco,,\u25b21,10,2002
+32,11.0,,,209.0,1,Zabel Erik,2,Team Telekom,,\u25bc1,10,2002
+28,67.0,,,157.0,4,O'Grady Stuart,3,Cr\xe9dit Agricole,,\u25b21,10,2002
+23,94.0,,,148.0,3,Cooke Baden,4,La Fran\xe7aise des Jeux,,\u25bc1,10,2002
+33,159.0,,,119.0,6,Svorada Jan,5,Lampre - Daikin,,\u25b21,10,2002
+33,186.0,,,110.0,5,Kirsipuu Jaan,6,AG2R Pr\xe9voyance,,\u25bc1,10,2002
+27,176.0,,,102.0,7,Hauptman Andrej,7,Tacconi Sport,,-,10,2002
+33,119.0,,,89.0,8,Simon Fran\xe7ois,8,Bonjour,,-,10,2002
+27,124.0,,,81.0,13,Horrillo Pedro,9,Mapei - Quickstep,,\u25b24,10,2002
+28,118.0,,,70.0,9,Renier Franck,10,Bonjour,,\u25bc1,10,2002
+31,46.0,,,64.0,19,Mattan Nico,11,Cofidis,,\u25b28,10,2002
+28,77.0,,,63.0,14,Rodriguez Fred,12,Domo - Farm Frites,,\u25b22,10,2002
+34,204.0,,,62.0,10,Brochard Laurent,13,Jean Delatour,,\u25bc3,10,2002
+28,35.0,,,62.0,11,Gutierrez Jose Enrique,14,Kelme - Costa Blanca,,\u25bc3,10,2002
+26,106.0,,,59.0,12,Kroon Karsten,15,Rabobank ProTeam,,\u25bc3,10,2002
+37,155.0,,,56.0,25,Dierckxsens Ludo,16,Lampre - Daikin,,\u25b29,10,2002
+26,174.0,,,56.0,15,Bossoni Paolo,17,Tacconi Sport,,\u25bc2,10,2002
+22,117.0,,,51.0,40,Pineau J\xe9rome,18,Bonjour,,\u25b222,10,2002
+26,97.0,,,49.0,16,McGee Bradley,19,La Fran\xe7aise des Jeux,,\u25bc3,10,2002
+29,193.0,,,48.0,17,Casagranda Stefano,20,Alessio,,\u25bc3,10,2002
+34,82.0,,,46.0,18,Baldato Fabio,21,Fassa Bortolo,,\u25bc3,10,2002
+24,64.0,,,46.0,20,Hushovd Thor,22,Cr\xe9dit Agricole,,\u25bc2,10,2002
+34,56.0,,,40.0,21,Sandst\xf8d Michael,23,CSC ProTeam - Tiscali,,\u25bc2,10,2002
+28,201.0,,,37.0,88,Halgand Patrice,24,Jean Delatour,,\u25b264,10,2002
+28,63.0,,,36.0,30,Hinault S\xe9bastien,25,Cr\xe9dit Agricole,,\u25b25,10,2002
+23,153.0,,,35.0,22,Bertogliati Rubens,26,Lampre - Daikin,,\u25bc4,10,2002
+29,32.0,,,35.0,23,Botero Santiago,27,Kelme - Costa Blanca,,\u25bc4,10,2002
+25,125.0,,,34.0,35,Hunter Robert,28,Mapei - Quickstep,,\u25b27,10,2002
+24,156.0,,,34.0,29,Pagliarini Luciano Andr\xe9,29,Lampre - Daikin,,-,10,2002
+31,74.0,,,32.0,24,Knaven Servais,30,Domo - Farm Frites,,\u25bc6,10,2002
+27,86.0,,,32.0,26,Ivanov Serguei,31,Fassa Bortolo,,\u25bc5,10,2002
+28,171.0,,,32.0,27,Frigo Dario,32,Tacconi Sport,,\u25bc5,10,2002
+32,55.0,,,32.0,28,Piziks Arvis,33,CSC ProTeam - Tiscali,,\u25bc5,10,2002
+30,1.0,,,,31*,Armstrong Lance,34*,US Postal Service,,-,10,2002
+31,104.0,,,26.0,32,Dekker Erik,35,Rabobank ProTeam,,\u25bc3,10,2002
+23,185.0,,,26.0,,Flickinger Andy,36,AG2R Pr\xe9voyance,,-,10,2002
+24,39.0,,,26.0,66,Zaballa Constantino,37,Kelme - Costa Blanca,,\u25b229,10,2002
+30,158.0,,,25.0,33,Rumsas Raimondas,38,Lampre - Daikin,,\u25bc5,10,2002
+22,206.0,,,25.0,34,Edaleine Christophe,39,Jean Delatour,,\u25bc5,10,2002
+35,95.0,,,24.0,36,Durand Jacky,40,La Fran\xe7aise des Jeux,,\u25bc4,10,2002
+31,14.0,,,23.0,37,Fagnini Gian-matteo,41,Team Telekom,,\u25bc4,10,2002
+26,137.0,,,22.0,38,Mancebo Francisco,42,Ibanesto.com,,\u25bc4,10,2002
+31,115.0,,,21.0,39,Magnien Emmanuel,43,Bonjour,,\u25bc4,10,2002
+27,202.0,,,20.0,41,Auge St\xe9phane,44,Jean Delatour,,\u25bc3,10,2002
+27,142.0,,,20.0,42,Aerts Mario,45,Lotto - Adecco,,\u25bc3,10,2002
+26,152.0,,,19.0,43,Belohvosciks Raivis,46,Lampre - Daikin,,\u25bc3,10,2002
+30,102.0,,,18.0,44,Boogerd Michael,47,Rabobank ProTeam,,\u25bc3,10,2002
+23,129.0,,,17.0,45,Trampusch Gerhard,48,Mapei - Quickstep,,\u25bc3,10,2002
+30,73.0,,,16.0,,Cassani Enrico,49,Domo - Farm Frites,,-,10,2002
+23,114.0,,,16.0,46,Chavanel Sylvain,50,Bonjour,,\u25bc4,10,2002
+28,21.0,,,15.0,47,Beloki Joseba,51,O.N.C.E. - Eroski,,\u25bc4,10,2002
+29,163.0,,,15.0,,Etxebarria Unai,52,Euskaltel - Euskadi,,-,10,2002
+28,16.0,,,15.0,48,Hondo Danilo,53,Team Telekom,,\u25bc5,10,2002
+27,48.0,,,15.0,49,Moncouti\xe9 David,54,Cofidis,,\u25bc5,10,2002
+33,51.0,,,14.0,50,Jalabert Laurent,55,CSC ProTeam - Tiscali,,\u25bc5,10,2002
+28,24.0,,,14.0,51,Gonzalez De Galdeano Igor,56,O.N.C.E. - Eroski,,\u25bc5,10,2002
+34,179.0,,,14.0,52,Radaelli Mauro,57,Tacconi Sport,,\u25bc5,10,2002
+30,194.0,,,14.0,53,Casarotto Davide,58,Alessio,,\u25bc5,10,2002
+24,91.0,,,13.0,,Vogondy Nicolas,59,La Fran\xe7aise des Jeux,,-,10,2002
+27,138.0,,,13.0,54,Osa Unai,60,Ibanesto.com,,\u25bc6,10,2002
+29,79.0,,,13.0,55,Wadecki Piotr,61,Domo - Farm Frites,,\u25bc6,10,2002
+25,31.0,,,12.0,56,Sevilla Oscar,62,Kelme - Costa Blanca,,\u25bc6,10,2002
+30,78.0,,,12.0,57,van Bon L\xe9on,63,Domo - Farm Frites,,\u25bc6,10,2002
+24,168.0,,,11.0,58,S\xe1nchez Samuel,64,Euskaltel - Euskadi,,\u25bc6,10,2002
+34,45.0,,,11.0,59,Lelli Massimiliano,65,Cofidis,,\u25bc6,10,2002
+32,85.0,,,10.0,60,Honchar Serhiy,66,Fassa Bortolo,,\u25bc6,10,2002
+25,47.0,,,10.0,61,Millar David,67,Cofidis,,\u25bc6,10,2002
+24,93.0,,,10.0,78,Casper Jimmy,68,La Fran\xe7aise des Jeux,,\u25b210,10,2002
+29,198.0,,,10.0,62,Moreni Cristian,69,Alessio,,\u25bc7,10,2002
+32,172.0,,,10.0,63,Apollonio Massimo,70,Tacconi Sport,,\u25bc7,10,2002
+27,183.0,,,10.0,64,Berges Stephane,71,AG2R Pr\xe9voyance,,\u25bc7,10,2002
+33,145.0,,,9.0,65,De Clercq Hans,72,Lotto - Adecco,,\u25bc7,10,2002
+24,131.0,,,8.0,67,Menchov Denis,73,Ibanesto.com,,\u25bc6,10,2002
+32,196.0,,,8.0,68,Hvastija Martin,74,Alessio,,\u25bc6,10,2002
+25,122.0,,,7.0,69,Bodrogi Laszlo,75,Mapei - Quickstep,,\u25bc6,10,2002
+28,8.0,,,7.0,70,Pe\xf1a Victor Hugo,76,US Postal Service,,\u25bc6,10,2002
+30,69.0,,,6.0,73,Voigt Jens,77,Cr\xe9dit Agricole,,\u25bc4,10,2002
+23,92.0,,,6.0,71,Casar Sandy,78,La Fran\xe7aise des Jeux,,\u25bc7,10,2002
+33,173.0,,,6.0,72,Bortolami Gianluca,79,Tacconi Sport,,\u25bc7,10,2002
+30,59.0,,,6.0,74,Van Hyfte Paul,80,CSC ProTeam - Tiscali,,\u25bc6,10,2002
+28,66.0,,,6.0,75,Morin Anthony,81,Cr\xe9dit Agricole,,\u25bc6,10,2002
+31,49.0,,,4.0,77,Vasseur C\xe9dric,82,Cofidis,,\u25bc5,10,2002
+28,116.0,,,4.0,76,Nazon Damien,83,Bonjour,,\u25bc7,10,2002
+33,98.0,,,4.0,80,Mengin Christophe,84,La Fran\xe7aise des Jeux,,\u25bc4,10,2002
+28,37.0,,,4.0,79,Tauler Toni,85,Kelme - Costa Blanca,,\u25bc6,10,2002
+30,53.0,,,3.0,81,Peron Andrea,86,CSC ProTeam - Tiscali,,\u25bc5,10,2002
+32,143.0,,,3.0,82,Baguet Serge,87,Lotto - Adecco,,\u25bc5,10,2002
+30,87.0,,,3.0,84,Loda Nicola,88,Fassa Bortolo,,\u25bc4,10,2002
+32,99.0,,,3.0,83,Robin Jean-Cyril,89,La Fran\xe7aise des Jeux,,\u25bc6,10,2002
+27,181.0,,,3.0,85,Botcharov Alexandre,90,AG2R Pr\xe9voyance,,\u25bc5,10,2002
+26,208.0,,,3.0,86,Lefevre Laurent,91,Jean Delatour,,\u25bc5,10,2002
+36,128.0,,,2.0,,Tafi Andrea,92,Mapei - Quickstep,,-,10,2002
+28,161.0,,,2.0,87,Etxebarria David,93,Euskaltel - Euskadi,,\u25bc6,10,2002
+32,71.0,,,1.0,,Virenque Richard,94,Domo - Farm Frites,,-,10,2002
+26,6.0,,,1.0,89,Landis Floyd,95,US Postal Service,,\u25bc6,10,2002
+32,182.0,,,1.0,90,Agnolutto Christophe,96,AG2R Pr\xe9voyance,,\u25bc6,10,2002
+32,11.0,,,213.0,2,Zabel Erik,1,Team Telekom,,\u25b21,11,2002
+30,147.0,,,210.0,1,McEwen Robbie,2,Lotto - Adecco,,\u25bc1,11,2002
+28,67.0,,,157.0,3,O'Grady Stuart,3,Cr\xe9dit Agricole,,-,11,2002
+23,94.0,,,148.0,4,Cooke Baden,4,La Fran\xe7aise des Jeux,,-,11,2002
+33,159.0,,,119.0,5,Svorada Jan,5,Lampre - Daikin,,-,11,2002
+27,176.0,,,102.0,7,Hauptman Andrej,6,Tacconi Sport,,\u25b21,11,2002
+33,119.0,,,89.0,8,Simon Fran\xe7ois,7,Bonjour,,\u25b21,11,2002
+27,124.0,,,81.0,9,Horrillo Pedro,8,Mapei - Quickstep,,\u25b21,11,2002
+28,118.0,,,70.0,10,Renier Franck,9,Bonjour,,\u25b21,11,2002
+31,46.0,,,64.0,11,Mattan Nico,10,Cofidis,,\u25b21,11,2002
+28,77.0,,,63.0,12,Rodriguez Fred,11,Domo - Farm Frites,,\u25b21,11,2002
+34,204.0,,,62.0,13,Brochard Laurent,12,Jean Delatour,,\u25b21,11,2002
+28,35.0,,,62.0,14,Gutierrez Jose Enrique,13,Kelme - Costa Blanca,,\u25b21,11,2002
+26,106.0,,,59.0,15,Kroon Karsten,14,Rabobank ProTeam,,\u25b21,11,2002
+37,155.0,,,56.0,16,Dierckxsens Ludo,15,Lampre - Daikin,,\u25b21,11,2002
+26,174.0,,,56.0,17,Bossoni Paolo,16,Tacconi Sport,,\u25b21,11,2002
+22,117.0,,,51.0,18,Pineau J\xe9rome,17,Bonjour,,\u25b21,11,2002
+26,97.0,,,49.0,19,McGee Bradley,18,La Fran\xe7aise des Jeux,,\u25b21,11,2002
+29,193.0,,,48.0,20,Casagranda Stefano,19,Alessio,,\u25b21,11,2002
+30,1.0,,,,34*,Armstrong Lance,20*,US Postal Service,,-,11,2002
+34,82.0,,,46.0,21,Baldato Fabio,21,Fassa Bortolo,,-,11,2002
+24,64.0,,,46.0,22,Hushovd Thor,22,Cr\xe9dit Agricole,,-,11,2002
+28,201.0,,,37.0,24,Halgand Patrice,23,Jean Delatour,,\u25b21,11,2002
+30,158.0,,,37.0,38,Rumsas Raimondas,24,Lampre - Daikin,,\u25b214,11,2002
+28,63.0,,,36.0,25,Hinault S\xe9bastien,25,Cr\xe9dit Agricole,,-,11,2002
+23,153.0,,,35.0,26,Bertogliati Rubens,26,Lampre - Daikin,,-,11,2002
+29,32.0,,,35.0,27,Botero Santiago,27,Kelme - Costa Blanca,,-,11,2002
+26,137.0,,,35.0,42,Mancebo Francisco,28,Ibanesto.com,,\u25b214,11,2002
+25,125.0,,,34.0,28,Hunter Robert,29,Mapei - Quickstep,,\u25bc1,11,2002
+24,156.0,,,34.0,29,Pagliarini Luciano Andr\xe9,30,Lampre - Daikin,,\u25bc1,11,2002
+28,21.0,,,32.0,51,Beloki Joseba,31,O.N.C.E. - Eroski,,\u25b220,11,2002
+31,74.0,,,32.0,30,Knaven Servais,32,Domo - Farm Frites,,\u25bc2,11,2002
+27,86.0,,,32.0,31,Ivanov Serguei,33,Fassa Bortolo,,\u25bc2,11,2002
+28,171.0,,,32.0,32,Frigo Dario,34,Tacconi Sport,,\u25bc2,11,2002
+32,55.0,,,32.0,33,Piziks Arvis,35,CSC ProTeam - Tiscali,,\u25bc2,11,2002
+33,51.0,,,29.0,55,Jalabert Laurent,36,CSC ProTeam - Tiscali,,\u25b219,11,2002
+31,115.0,,,27.0,43,Magnien Emmanuel,37,Bonjour,,\u25b26,11,2002
+31,104.0,,,26.0,35,Dekker Erik,38,Rabobank ProTeam,,\u25bc3,11,2002
+23,185.0,,,26.0,36,Flickinger Andy,39,AG2R Pr\xe9voyance,,\u25bc3,11,2002
+24,39.0,,,26.0,37,Zaballa Constantino,40,Kelme - Costa Blanca,,\u25bc3,11,2002
+22,206.0,,,25.0,39,Edaleine Christophe,41,Jean Delatour,,\u25bc2,11,2002
+35,95.0,,,24.0,40,Durand Jacky,42,La Fran\xe7aise des Jeux,,\u25bc2,11,2002
+31,14.0,,,23.0,41,Fagnini Gian-matteo,43,Team Telekom,,\u25bc2,11,2002
+25,31.0,,,22.0,62,Sevilla Oscar,44,Kelme - Costa Blanca,,\u25b218,11,2002
+27,202.0,,,20.0,44,Auge St\xe9phane,45,Jean Delatour,,\u25bc1,11,2002
+27,142.0,,,20.0,45,Aerts Mario,46,Lotto - Adecco,,\u25bc1,11,2002
+28,24.0,,,19.0,56,Gonzalez De Galdeano Igor,47,O.N.C.E. - Eroski,,\u25b29,11,2002
+26,152.0,,,19.0,46,Belohvosciks Raivis,48,Lampre - Daikin,,\u25bc2,11,2002
+30,102.0,,,18.0,47,Boogerd Michael,49,Rabobank ProTeam,,\u25bc2,11,2002
+27,48.0,,,17.0,54,Moncouti\xe9 David,50,Cofidis,,\u25b24,11,2002
+23,129.0,,,17.0,48,Trampusch Gerhard,51,Mapei - Quickstep,,\u25bc3,11,2002
+30,73.0,,,16.0,49,Cassani Enrico,52,Domo - Farm Frites,,\u25bc3,11,2002
+23,114.0,,,16.0,50,Chavanel Sylvain,53,Bonjour,,\u25bc3,11,2002
+28,3.0,,,15.0,,Heras Roberto,54,US Postal Service,,-,11,2002
+28,16.0,,,15.0,53,Hondo Danilo,55,Team Telekom,,\u25bc2,11,2002
+29,163.0,,,15.0,52,Etxebarria Unai,56,Euskaltel - Euskadi,,\u25bc4,11,2002
+34,179.0,,,14.0,57,Radaelli Mauro,57,Tacconi Sport,,-,11,2002
+34,45.0,,,14.0,65,Lelli Massimiliano,58,Cofidis,,\u25b27,11,2002
+27,138.0,,,14.0,60,Osa Unai,59,Ibanesto.com,,\u25b21,11,2002
+30,194.0,,,14.0,58,Casarotto Davide,60,Alessio,,\u25bc2,11,2002
+24,91.0,,,13.0,59,Vogondy Nicolas,61,La Fran\xe7aise des Jeux,,\u25bc2,11,2002
+29,79.0,,,13.0,61,Wadecki Piotr,62,Domo - Farm Frites,,\u25bc1,11,2002
+30,78.0,,,12.0,63,van Bon L\xe9on,63,Domo - Farm Frites,,-,11,2002
+24,168.0,,,11.0,64,S\xe1nchez Samuel,64,Euskaltel - Euskadi,,-,11,2002
+32,85.0,,,10.0,66,Honchar Serhiy,65,Fassa Bortolo,,\u25b21,11,2002
+25,47.0,,,10.0,67,Millar David,66,Cofidis,,\u25b21,11,2002
+24,93.0,,,10.0,68,Casper Jimmy,67,La Fran\xe7aise des Jeux,,\u25b21,11,2002
+29,198.0,,,10.0,69,Moreni Cristian,68,Alessio,,\u25b21,11,2002
+32,172.0,,,10.0,70,Apollonio Massimo,69,Tacconi Sport,,\u25b21,11,2002
+27,183.0,,,10.0,71,Berges Stephane,70,AG2R Pr\xe9voyance,,\u25b21,11,2002
+24,81.0,,,9.0,,Basso Ivan,71,Fassa Bortolo,,-,11,2002
+33,145.0,,,9.0,72,De Clercq Hans,72,Lotto - Adecco,,-,11,2002
+28,41.0,,,8.0,,Kivilev Andrei,73,Cofidis,,-,11,2002
+24,131.0,,,8.0,73,Menchov Denis,74,Ibanesto.com,,\u25bc1,11,2002
+32,196.0,,,8.0,74,Hvastija Martin,75,Alessio,,\u25bc1,11,2002
+25,122.0,,,7.0,75,Bodrogi Laszlo,76,Mapei - Quickstep,,\u25bc1,11,2002
+28,8.0,,,7.0,76,Pe\xf1a Victor Hugo,77,US Postal Service,,\u25bc1,11,2002
+28,22.0,,,6.0,,Azevedo Jos\xe9 Bento Carvalho,78,O.N.C.E. - Eroski,,-,11,2002
+30,69.0,,,6.0,77,Voigt Jens,79,Cr\xe9dit Agricole,,\u25bc2,11,2002
+33,173.0,,,6.0,79,Bortolami Gianluca,80,Tacconi Sport,,\u25bc1,11,2002
+23,92.0,,,6.0,78,Casar Sandy,81,La Fran\xe7aise des Jeux,,\u25bc3,11,2002
+30,59.0,,,6.0,80,Van Hyfte Paul,82,CSC ProTeam - Tiscali,,\u25bc2,11,2002
+28,66.0,,,6.0,81,Morin Anthony,83,Cr\xe9dit Agricole,,\u25bc2,11,2002
+31,61.0,,,4.0,,Moreau Christophe,84,Cr\xe9dit Agricole,,-,11,2002
+31,49.0,,,4.0,82,Vasseur C\xe9dric,85,Cofidis,,\u25bc3,11,2002
+28,116.0,,,4.0,83,Nazon Damien,86,Bonjour,,\u25bc3,11,2002
+33,98.0,,,4.0,84,Mengin Christophe,87,La Fran\xe7aise des Jeux,,\u25bc3,11,2002
+33,43.0,,,4.0,,Cuesta \xcd\xf1igo,88,Cofidis,,-,11,2002
+28,37.0,,,4.0,85,Tauler Toni,89,Kelme - Costa Blanca,,\u25bc4,11,2002
+30,53.0,,,3.0,86,Peron Andrea,90,CSC ProTeam - Tiscali,,\u25bc4,11,2002
+32,99.0,,,3.0,89,Robin Jean-Cyril,91,La Fran\xe7aise des Jeux,,\u25bc2,11,2002
+27,181.0,,,3.0,90,Botcharov Alexandre,92,AG2R Pr\xe9voyance,,\u25bc2,11,2002
+32,143.0,,,3.0,87,Baguet Serge,93,Lotto - Adecco,,\u25bc6,11,2002
+30,87.0,,,3.0,88,Loda Nicola,94,Fassa Bortolo,,\u25bc6,11,2002
+26,208.0,,,3.0,91,Lefevre Laurent,95,Jean Delatour,,\u25bc4,11,2002
+28,161.0,,,2.0,93,Etxebarria David,96,Euskaltel - Euskadi,,\u25bc3,11,2002
+36,128.0,,,2.0,92,Tafi Andrea,97,Mapei - Quickstep,,\u25bc5,11,2002
+28,148.0,,,2.0,,Mikhailov Guennady,98,Lotto - Adecco,,-,11,2002
+32,71.0,,,1.0,94,Virenque Richard,99,Domo - Farm Frites,,\u25bc5,11,2002
+26,6.0,,,1.0,95,Landis Floyd,100,US Postal Service,,\u25bc5,11,2002
+32,182.0,,,1.0,96,Agnolutto Christophe,101,AG2R Pr\xe9voyance,,\u25bc5,11,2002
+32,11.0,,,217.0,1,Zabel Erik,1,Team Telekom,,-,12,2002
+30,147.0,,,216.0,2,McEwen Robbie,2,Lotto - Adecco,,-,12,2002
+28,67.0,,,159.0,3,O'Grady Stuart,3,Cr\xe9dit Agricole,,-,12,2002
+23,94.0,,,148.0,4,Cooke Baden,4,La Fran\xe7aise des Jeux,,-,12,2002
+33,159.0,,,119.0,5,Svorada Jan,5,Lampre - Daikin,,-,12,2002
+27,124.0,,,81.0,8,Horrillo Pedro,6,Mapei - Quickstep,,\u25b22,12,2002
+28,118.0,,,70.0,9,Renier Franck,7,Bonjour,,\u25b22,12,2002
+30,1.0,,,,20*,Armstrong Lance,8*,US Postal Service,,-,12,2002
+31,46.0,,,64.0,10,Mattan Nico,9,Cofidis,,\u25b21,12,2002
+28,77.0,,,63.0,11,Rodriguez Fred,10,Domo - Farm Frites,,\u25b21,12,2002
+34,204.0,,,62.0,12,Brochard Laurent,11,Jean Delatour,,\u25b21,12,2002
+28,35.0,,,62.0,13,Gutierrez Jose Enrique,12,Kelme - Costa Blanca,,\u25b21,12,2002
+26,106.0,,,59.0,14,Kroon Karsten,13,Rabobank ProTeam,,\u25b21,12,2002
+37,155.0,,,56.0,15,Dierckxsens Ludo,14,Lampre - Daikin,,\u25b21,12,2002
+26,174.0,,,56.0,16,Bossoni Paolo,15,Tacconi Sport,,\u25b21,12,2002
+22,117.0,,,51.0,17,Pineau J\xe9rome,16,Bonjour,,\u25b21,12,2002
+26,97.0,,,49.0,18,McGee Bradley,17,La Fran\xe7aise des Jeux,,\u25b21,12,2002
+29,32.0,,,48.0,27,Botero Santiago,18,Kelme - Costa Blanca,,\u25b29,12,2002
+28,21.0,,,47.0,31,Beloki Joseba,19,O.N.C.E. - Eroski,,\u25b212,12,2002
+30,158.0,,,47.0,24,Rumsas Raimondas,20,Lampre - Daikin,,\u25b24,12,2002
+34,82.0,,,46.0,21,Baldato Fabio,21,Fassa Bortolo,,-,12,2002
+24,64.0,,,46.0,22,Hushovd Thor,22,Cr\xe9dit Agricole,,-,12,2002
+28,201.0,,,37.0,23,Halgand Patrice,23,Jean Delatour,,-,12,2002
+26,137.0,,,36.0,28,Mancebo Francisco,24,Ibanesto.com,,\u25b24,12,2002
+28,63.0,,,36.0,25,Hinault S\xe9bastien,25,Cr\xe9dit Agricole,,-,12,2002
+23,153.0,,,35.0,26,Bertogliati Rubens,26,Lampre - Daikin,,-,12,2002
+33,51.0,,,35.0,36,Jalabert Laurent,27,CSC ProTeam - Tiscali,,\u25b29,12,2002
+25,125.0,,,34.0,29,Hunter Robert,28,Mapei - Quickstep,,\u25b21,12,2002
+28,3.0,,,32.0,54,Heras Roberto,29,US Postal Service,,\u25b225,12,2002
+31,74.0,,,32.0,32,Knaven Servais,30,Domo - Farm Frites,,\u25b22,12,2002
+27,86.0,,,32.0,33,Ivanov Serguei,31,Fassa Bortolo,,\u25b22,12,2002
+28,171.0,,,32.0,34,Frigo Dario,32,Tacconi Sport,,\u25b22,12,2002
+32,55.0,,,32.0,35,Piziks Arvis,33,CSC ProTeam - Tiscali,,\u25b22,12,2002
+28,24.0,,,31.0,47,Gonzalez De Galdeano Igor,34,O.N.C.E. - Eroski,,\u25b213,12,2002
+25,31.0,,,29.0,44,Sevilla Oscar,35,Kelme - Costa Blanca,,\u25b29,12,2002
+31,115.0,,,27.0,37,Magnien Emmanuel,36,Bonjour,,\u25b21,12,2002
+31,104.0,,,26.0,38,Dekker Erik,37,Rabobank ProTeam,,\u25b21,12,2002
+23,185.0,,,26.0,39,Flickinger Andy,38,AG2R Pr\xe9voyance,,\u25b21,12,2002
+24,39.0,,,26.0,40,Zaballa Constantino,39,Kelme - Costa Blanca,,\u25b21,12,2002
+22,206.0,,,25.0,41,Edaleine Christophe,40,Jean Delatour,,\u25b21,12,2002
+31,14.0,,,23.0,43,Fagnini Gian-matteo,41,Team Telekom,,\u25b22,12,2002
+27,48.0,,,21.0,50,Moncouti\xe9 David,42,Cofidis,,\u25b28,12,2002
+27,202.0,,,20.0,45,Auge St\xe9phane,43,Jean Delatour,,\u25b22,12,2002
+26,152.0,,,19.0,48,Belohvosciks Raivis,44,Lampre - Daikin,,\u25b24,12,2002
+30,102.0,,,18.0,49,Boogerd Michael,45,Rabobank ProTeam,,\u25b24,12,2002
+23,129.0,,,17.0,51,Trampusch Gerhard,46,Mapei - Quickstep,,\u25b25,12,2002
+30,73.0,,,16.0,52,Cassani Enrico,47,Domo - Farm Frites,,\u25b25,12,2002
+23,114.0,,,16.0,53,Chavanel Sylvain,48,Bonjour,,\u25b25,12,2002
+28,16.0,,,15.0,55,Hondo Danilo,49,Team Telekom,,\u25b26,12,2002
+29,163.0,,,15.0,56,Etxebarria Unai,50,Euskaltel - Euskadi,,\u25b26,12,2002
+28,41.0,,,14.0,73,Kivilev Andrei,51,Cofidis,,\u25b222,12,2002
+34,179.0,,,14.0,57,Radaelli Mauro,52,Tacconi Sport,,\u25b25,12,2002
+34,45.0,,,14.0,58,Lelli Massimiliano,53,Cofidis,,\u25b25,12,2002
+27,138.0,,,14.0,59,Osa Unai,54,Ibanesto.com,,\u25b25,12,2002
+31,194.0,,,14.0,60,Casarotto Davide,55,Alessio,,\u25b25,12,2002
+24,91.0,,,13.0,61,Vogondy Nicolas,56,La Fran\xe7aise des Jeux,,\u25b25,12,2002
+29,79.0,,,13.0,62,Wadecki Piotr,57,Domo - Farm Frites,,\u25b25,12,2002
+30,78.0,,,12.0,63,van Bon L\xe9on,58,Domo - Farm Frites,,\u25b25,12,2002
+32,85.0,,,10.0,65,Honchar Serhiy,59,Fassa Bortolo,,\u25b26,12,2002
+25,47.0,,,10.0,66,Millar David,60,Cofidis,,\u25b26,12,2002
+27,142.0,,,10.0,46,Aerts Mario,61,Lotto - Adecco,,\u25bc15,12,2002
+24,93.0,,,10.0,67,Casper Jimmy,62,La Fran\xe7aise des Jeux,,\u25b25,12,2002
+32,172.0,,,10.0,69,Apollonio Massimo,63,Tacconi Sport,,\u25b26,12,2002
+27,183.0,,,10.0,70,Berges Stephane,64,AG2R Pr\xe9voyance,,\u25b26,12,2002
+27,57.0,,,9.0,,Sastre Carlos,65,CSC ProTeam - Tiscali,,-,12,2002
+24,81.0,,,9.0,71,Basso Ivan,66,Fassa Bortolo,,\u25b25,12,2002
+33,145.0,,,9.0,72,De Clercq Hans,67,Lotto - Adecco,,\u25b25,12,2002
+29,29.0,,,8.0,,Serrano Marcos Antonio,68,O.N.C.E. - Eroski,,-,12,2002
+24,131.0,,,8.0,74,Menchov Denis,69,Ibanesto.com,,\u25b25,12,2002
+32,196.0,,,8.0,75,Hvastija Martin,70,Alessio,,\u25b25,12,2002
+25,122.0,,,7.0,76,Bodrogi Laszlo,71,Mapei - Quickstep,,\u25b25,12,2002
+28,8.0,,,7.0,77,Pe\xf1a Victor Hugo,72,US Postal Service,,\u25b25,12,2002
+28,22.0,,,6.0,78,Azevedo Jos\xe9 Bento Carvalho,73,O.N.C.E. - Eroski,,\u25b25,12,2002
+33,173.0,,,6.0,80,Bortolami Gianluca,74,Tacconi Sport,,\u25b26,12,2002
+30,69.0,,,6.0,79,Voigt Jens,75,Cr\xe9dit Agricole,,\u25b24,12,2002
+23,92.0,,,6.0,81,Casar Sandy,76,La Fran\xe7aise des Jeux,,\u25b25,12,2002
+30,59.0,,,6.0,82,Van Hyfte Paul,77,CSC ProTeam - Tiscali,,\u25b25,12,2002
+28,66.0,,,6.0,83,Morin Anthony,78,Cr\xe9dit Agricole,,\u25b25,12,2002
+29,76.0,,,5.0,,Merckx Axel,79,Domo - Farm Frites,,-,12,2002
+31,61.0,,,4.0,84,Moreau Christophe,80,Cr\xe9dit Agricole,,\u25b24,12,2002
+31,49.0,,,4.0,85,Vasseur C\xe9dric,81,Cofidis,,\u25b24,12,2002
+28,116.0,,,4.0,86,Nazon Damien,82,Bonjour,,\u25b24,12,2002
+33,191.0,,,4.0,,Dufaux Laurent,83,Alessio,,-,12,2002
+33,43.0,,,4.0,88,Cuesta \xcd\xf1igo,84,Cofidis,,\u25b24,12,2002
+33,98.0,,,4.0,87,Mengin Christophe,85,La Fran\xe7aise des Jeux,,\u25b22,12,2002
+30,53.0,,,3.0,90,Peron Andrea,86,CSC ProTeam - Tiscali,,\u25b24,12,2002
+28,101.0,,,,,Leipheimer Levi,87*,Rabobank ProTeam,,-,12,2002
+32,99.0,,,3.0,91,Robin Jean-Cyril,88,La Fran\xe7aise des Jeux,,\u25b23,12,2002
+27,181.0,,,3.0,92,Botcharov Alexandre,89,AG2R Pr\xe9voyance,,\u25b23,12,2002
+30,87.0,,,3.0,94,Loda Nicola,90,Fassa Bortolo,,\u25b24,12,2002
+32,143.0,,,3.0,93,Baguet Serge,91,Lotto - Adecco,,\u25b22,12,2002
+26,208.0,,,3.0,95,Lefevre Laurent,92,Jean Delatour,,\u25b23,12,2002
+32,207.0,,,2.0,,Goubert Stephane,93,Jean Delatour,,-,12,2002
+36,128.0,,,2.0,97,Tafi Andrea,94,Mapei - Quickstep,,\u25b23,12,2002
+24,26.0,,,2.0,,Nozal Isidro,95,O.N.C.E. - Eroski,,-,12,2002
+28,148.0,,,2.0,98,Mikhailov Guennady,96,Lotto - Adecco,,\u25b22,12,2002
+32,71.0,,,1.0,99,Virenque Richard,97,Domo - Farm Frites,,\u25b22,12,2002
+26,6.0,,,1.0,100,Landis Floyd,98,US Postal Service,,\u25b22,12,2002
+32,182.0,,,1.0,101,Agnolutto Christophe,99,AG2R Pr\xe9voyance,,\u25b22,12,2002
+30,147.0,,,229.0,2,McEwen Robbie,1,Lotto - Adecco,,\u25b21,13,2002
+32,11.0,,,229.0,1,Zabel Erik,2,Team Telekom,,\u25bc1,13,2002
+28,67.0,,,170.0,3,O'Grady Stuart,3,Cr\xe9dit Agricole,,-,13,2002
+23,94.0,,,162.0,4,Cooke Baden,4,La Fran\xe7aise des Jeux,,-,13,2002
+33,159.0,,,129.0,5,Svorada Jan,5,Lampre - Daikin,,-,13,2002
+34,204.0,,,86.0,11,Brochard Laurent,6,Jean Delatour,,\u25b25,13,2002
+27,124.0,,,81.0,6,Horrillo Pedro,7,Mapei - Quickstep,,\u25bc1,13,2002
+28,118.0,,,70.0,7,Renier Franck,8,Bonjour,,\u25bc1,13,2002
+31,46.0,,,68.0,9,Mattan Nico,9,Cofidis,,-,13,2002
+30,1.0,,,,8*,Armstrong Lance,10*,US Postal Service,,-,13,2002
+28,77.0,,,63.0,10,Rodriguez Fred,11,Domo - Farm Frites,,\u25bc1,13,2002
+28,35.0,,,62.0,12,Gutierrez Jose Enrique,12,Kelme - Costa Blanca,,-,13,2002
+26,106.0,,,59.0,13,Kroon Karsten,13,Rabobank ProTeam,,-,13,2002
+37,155.0,,,56.0,14,Dierckxsens Ludo,14,Lampre - Daikin,,-,13,2002
+22,117.0,,,51.0,16,Pineau J\xe9rome,15,Bonjour,,\u25b21,13,2002
+33,51.0,,,50.0,27,Jalabert Laurent,16,CSC ProTeam - Tiscali,,\u25b211,13,2002
+30,102.0,,,50.0,45,Boogerd Michael,17,Rabobank ProTeam,,\u25b228,13,2002
+26,97.0,,,49.0,17,McGee Bradley,18,La Fran\xe7aise des Jeux,,\u25bc1,13,2002
+29,32.0,,,48.0,18,Botero Santiago,19,Kelme - Costa Blanca,,\u25bc1,13,2002
+28,21.0,,,47.0,19,Beloki Joseba,20,O.N.C.E. - Eroski,,\u25bc1,13,2002
+30,158.0,,,47.0,20,Rumsas Raimondas,21,Lampre - Daikin,,\u25bc1,13,2002
+24,64.0,,,46.0,22,Hushovd Thor,22,Cr\xe9dit Agricole,,-,13,2002
+34,82.0,,,46.0,21,Baldato Fabio,23,Fassa Bortolo,,\u25bc2,13,2002
+28,63.0,,,45.0,25,Hinault S\xe9bastien,24,Cr\xe9dit Agricole,,\u25b21,13,2002
+25,47.0,,,45.0,60,Millar David,25,Cofidis,,\u25b235,13,2002
+26,137.0,,,38.0,24,Mancebo Francisco,26,Ibanesto.com,,\u25bc2,13,2002
+28,201.0,,,37.0,23,Halgand Patrice,27,Jean Delatour,,\u25bc4,13,2002
+23,153.0,,,35.0,26,Bertogliati Rubens,28,Lampre - Daikin,,\u25bc2,13,2002
+25,125.0,,,34.0,28,Hunter Robert,29,Mapei - Quickstep,,\u25bc1,13,2002
+31,74.0,,,32.0,30,Knaven Servais,30,Domo - Farm Frites,,-,13,2002
+28,3.0,,,32.0,29,Heras Roberto,31,US Postal Service,,\u25bc2,13,2002
+27,86.0,,,32.0,31,Ivanov Serguei,32,Fassa Bortolo,,\u25bc1,13,2002
+25,31.0,,,32.0,35,Sevilla Oscar,33,Kelme - Costa Blanca,,\u25b22,13,2002
+28,171.0,,,32.0,32,Frigo Dario,34,Tacconi Sport,,\u25bc2,13,2002
+32,55.0,,,32.0,33,Piziks Arvis,35,CSC ProTeam - Tiscali,,\u25bc2,13,2002
+28,24.0,,,31.0,34,Gonzalez De Galdeano Igor,36,O.N.C.E. - Eroski,,\u25bc2,13,2002
+31,115.0,,,27.0,36,Magnien Emmanuel,37,Bonjour,,\u25bc1,13,2002
+23,185.0,,,26.0,38,Flickinger Andy,38,AG2R Pr\xe9voyance,,-,13,2002
+31,104.0,,,26.0,37,Dekker Erik,39,Rabobank ProTeam,,\u25bc2,13,2002
+24,39.0,,,26.0,39,Zaballa Constantino,40,Kelme - Costa Blanca,,\u25bc1,13,2002
+28,178.0,,,25.0,,Mazzoleni Eddy,41,Tacconi Sport,,-,13,2002
+22,206.0,,,25.0,40,Edaleine Christophe,42,Jean Delatour,,\u25bc2,13,2002
+28,161.0,,,24.0,,Etxebarria David,43,Euskaltel - Euskadi,,-,13,2002
+31,14.0,,,23.0,41,Fagnini Gian-matteo,44,Team Telekom,,\u25bc3,13,2002
+28,136.0,,,22.0,,Latasa lasa David,45,Ibanesto.com,,-,13,2002
+27,48.0,,,21.0,42,Moncouti\xe9 David,46,Cofidis,,\u25bc4,13,2002
+30,17.0,,,20.0,,Julich Bobby,47,Team Telekom,,-,13,2002
+26,126.0,,,20.0,,Martinez Miguel,48,Mapei - Quickstep,,-,13,2002
+27,202.0,,,20.0,43,Auge St\xe9phane,49,Jean Delatour,,\u25bc6,13,2002
+26,152.0,,,19.0,44,Belohvosciks Raivis,50,Lampre - Daikin,,\u25bc6,13,2002
+31,109.0,,,17.0,,Zberg Beat,51,Rabobank ProTeam,,-,13,2002
+23,129.0,,,17.0,46,Trampusch Gerhard,52,Mapei - Quickstep,,\u25bc6,13,2002
+23,114.0,,,16.0,48,Chavanel Sylvain,53,Bonjour,,\u25bc5,13,2002
+30,73.0,,,16.0,47,Cassani Enrico,54,Domo - Farm Frites,,\u25bc7,13,2002
+28,16.0,,,15.0,49,Hondo Danilo,55,Team Telekom,,\u25bc6,13,2002
+29,163.0,,,15.0,50,Etxebarria Unai,56,Euskaltel - Euskadi,,\u25bc6,13,2002
+30,,,,14.0,,Rodriguez Javier Pascual,57,,,-,13,2002
+28,41.0,,,14.0,51,Kivilev Andrei,58,Cofidis,,\u25bc7,13,2002
+34,179.0,,,14.0,52,Radaelli Mauro,59,Tacconi Sport,,\u25bc7,13,2002
+34,45.0,,,14.0,53,Lelli Massimiliano,60,Cofidis,,\u25bc7,13,2002
+27,138.0,,,14.0,54,Osa Unai,61,Ibanesto.com,,\u25bc7,13,2002
+31,194.0,,,14.0,55,Casarotto Davide,62,Alessio,,\u25bc7,13,2002
+29,79.0,,,13.0,57,Wadecki Piotr,63,Domo - Farm Frites,,\u25bc6,13,2002
+24,91.0,,,13.0,56,Vogondy Nicolas,64,La Fran\xe7aise des Jeux,,\u25bc8,13,2002
+30,78.0,,,12.0,58,van Bon L\xe9on,65,Domo - Farm Frites,,\u25bc7,13,2002
+32,172.0,,,10.0,63,Apollonio Massimo,66,Tacconi Sport,,\u25bc3,13,2002
+27,183.0,,,10.0,64,Berges Stephane,67,AG2R Pr\xe9voyance,,\u25bc3,13,2002
+32,85.0,,,10.0,59,Honchar Serhiy,68,Fassa Bortolo,,\u25bc9,13,2002
+24,81.0,,,10.0,66,Basso Ivan,69,Fassa Bortolo,,\u25bc3,13,2002
+27,142.0,,,10.0,61,Aerts Mario,70,Lotto - Adecco,,\u25bc9,13,2002
+24,93.0,,,10.0,62,Casper Jimmy,71,La Fran\xe7aise des Jeux,,\u25bc9,13,2002
+27,57.0,,,9.0,65,Sastre Carlos,72,CSC ProTeam - Tiscali,,\u25bc7,13,2002
+33,145.0,,,9.0,67,De Clercq Hans,73,Lotto - Adecco,,\u25bc6,13,2002
+36,128.0,,,9.0,94,Tafi Andrea,74,Mapei - Quickstep,,\u25b220,13,2002
+29,29.0,,,8.0,68,Serrano Marcos Antonio,75,O.N.C.E. - Eroski,,\u25bc7,13,2002
+29,54.0,,,8.0,,Piil Jakob,76,CSC ProTeam - Tiscali,,-,13,2002
+32,196.0,,,8.0,70,Hvastija Martin,77,Alessio,,\u25bc7,13,2002
+24,131.0,,,8.0,69,Menchov Denis,78,Ibanesto.com,,\u25bc9,13,2002
+25,122.0,,,7.0,71,Bodrogi Laszlo,79,Mapei - Quickstep,,\u25bc8,13,2002
+28,8.0,,,7.0,72,Pe\xf1a Victor Hugo,80,US Postal Service,,\u25bc8,13,2002
+32,182.0,,,7.0,99,Agnolutto Christophe,81,AG2R Pr\xe9voyance,,\u25b218,13,2002
+33,173.0,,,6.0,74,Bortolami Gianluca,82,Tacconi Sport,,\u25bc8,13,2002
+23,92.0,,,6.0,76,Casar Sandy,83,La Fran\xe7aise des Jeux,,\u25bc7,13,2002
+30,69.0,,,6.0,75,Voigt Jens,84,Cr\xe9dit Agricole,,\u25bc9,13,2002
+30,59.0,,,6.0,77,Van Hyfte Paul,85,CSC ProTeam - Tiscali,,\u25bc8,13,2002
+28,66.0,,,6.0,78,Morin Anthony,86,Cr\xe9dit Agricole,,\u25bc8,13,2002
+28,22.0,,,6.0,73,Azevedo Jos\xe9 Bento Carvalho,87,O.N.C.E. - Eroski,,\u25bc14,13,2002
+29,76.0,,,5.0,79,Merckx Axel,88,Domo - Farm Frites,,\u25bc9,13,2002
+27,103.0,,,5.0,,de Groot Bram,89,Rabobank ProTeam,,-,13,2002
+33,98.0,,,4.0,85,Mengin Christophe,90,La Fran\xe7aise des Jeux,,\u25bc5,13,2002
+33,191.0,,,4.0,83,Dufaux Laurent,91,Alessio,,\u25bc8,13,2002
+33,43.0,,,4.0,84,Cuesta \xcd\xf1igo,92,Cofidis,,\u25bc8,13,2002
+31,61.0,,,4.0,80,Moreau Christophe,93,Cr\xe9dit Agricole,,\u25bc13,13,2002
+31,49.0,,,4.0,81,Vasseur C\xe9dric,94,Cofidis,,\u25bc13,13,2002
+28,116.0,,,4.0,82,Nazon Damien,95,Bonjour,,\u25bc13,13,2002
+30,53.0,,,3.0,86,Peron Andrea,96,CSC ProTeam - Tiscali,,\u25bc10,13,2002
+28,101.0,,,,87*,Leipheimer Levi,97*,Rabobank ProTeam,,-,13,2002
+32,99.0,,,3.0,88,Robin Jean-Cyril,98,La Fran\xe7aise des Jeux,,\u25bc10,13,2002
+30,87.0,,,3.0,90,Loda Nicola,99,Fassa Bortolo,,\u25bc9,13,2002
+32,143.0,,,3.0,91,Baguet Serge,100,Lotto - Adecco,,\u25bc9,13,2002
+27,181.0,,,3.0,89,Botcharov Alexandre,101,AG2R Pr\xe9voyance,,\u25bc12,13,2002
+26,208.0,,,3.0,92,Lefevre Laurent,102,Jean Delatour,,\u25bc10,13,2002
+24,26.0,,,2.0,95,Nozal Isidro,103,O.N.C.E. - Eroski,,\u25bc8,13,2002
+28,148.0,,,2.0,96,Mikhailov Guennady,104,Lotto - Adecco,,\u25bc8,13,2002
+32,207.0,,,2.0,93,Goubert Stephane,105,Jean Delatour,,\u25bc12,13,2002
+26,6.0,,,1.0,98,Landis Floyd,106,US Postal Service,,\u25bc8,13,2002
+32,71.0,,,1.0,97,Virenque Richard,107,Domo - Farm Frites,,\u25bc10,13,2002
+30,147.0,,,229.0,1,McEwen Robbie,1,Lotto - Adecco,,-,14,2002
+32,11.0,,,229.0,2,Zabel Erik,2,Team Telekom,,-,14,2002
+28,67.0,,,170.0,3,O'Grady Stuart,3,Cr\xe9dit Agricole,,-,14,2002
+23,94.0,,,162.0,4,Cooke Baden,4,La Fran\xe7aise des Jeux,,-,14,2002
+33,159.0,,,129.0,5,Svorada Jan,5,Lampre - Daikin,,-,14,2002
+34,204.0,,,86.0,6,Brochard Laurent,6,Jean Delatour,,-,14,2002
+30,1.0,,,,10*,Armstrong Lance,7*,US Postal Service,,-,14,2002
+27,124.0,,,81.0,7,Horrillo Pedro,8,Mapei - Quickstep,,\u25bc1,14,2002
+28,118.0,,,70.0,8,Renier Franck,9,Bonjour,,\u25bc1,14,2002
+31,46.0,,,68.0,9,Mattan Nico,10,Cofidis,,\u25bc1,14,2002
+28,77.0,,,63.0,11,Rodriguez Fred,11,Domo - Farm Frites,,-,14,2002
+28,35.0,,,62.0,12,Gutierrez Jose Enrique,12,Kelme - Costa Blanca,,-,14,2002
+26,106.0,,,59.0,13,Kroon Karsten,13,Rabobank ProTeam,,-,14,2002
+30,158.0,,,59.0,21,Rumsas Raimondas,14,Lampre - Daikin,,\u25b27,14,2002
+37,155.0,,,56.0,14,Dierckxsens Ludo,15,Lampre - Daikin,,\u25bc1,14,2002
+28,21.0,,,55.0,20,Beloki Joseba,16,O.N.C.E. - Eroski,,\u25b24,14,2002
+24,64.0,,,54.0,22,Hushovd Thor,17,Cr\xe9dit Agricole,,\u25b25,14,2002
+22,117.0,,,51.0,15,Pineau J\xe9rome,18,Bonjour,,\u25bc3,14,2002
+33,51.0,,,50.0,16,Jalabert Laurent,19,CSC ProTeam - Tiscali,,\u25bc3,14,2002
+30,102.0,,,50.0,17,Boogerd Michael,20,Rabobank ProTeam,,\u25bc3,14,2002
+26,97.0,,,49.0,18,McGee Bradley,21,La Fran\xe7aise des Jeux,,\u25bc3,14,2002
+29,32.0,,,48.0,19,Botero Santiago,22,Kelme - Costa Blanca,,\u25bc3,14,2002
+26,137.0,,,47.0,26,Mancebo Francisco,23,Ibanesto.com,,\u25b23,14,2002
+34,82.0,,,46.0,23,Baldato Fabio,24,Fassa Bortolo,,\u25bc1,14,2002
+28,63.0,,,45.0,24,Hinault S\xe9bastien,25,Cr\xe9dit Agricole,,\u25bc1,14,2002
+25,47.0,,,45.0,25,Millar David,26,Cofidis,,\u25bc1,14,2002
+28,201.0,,,37.0,27,Halgand Patrice,27,Jean Delatour,,-,14,2002
+23,153.0,,,35.0,28,Bertogliati Rubens,28,Lampre - Daikin,,-,14,2002
+25,125.0,,,34.0,29,Hunter Robert,29,Mapei - Quickstep,,-,14,2002
+28,3.0,,,33.0,31,Heras Roberto,30,US Postal Service,,\u25b21,14,2002
+31,74.0,,,32.0,30,Knaven Servais,31,Domo - Farm Frites,,\u25bc1,14,2002
+27,86.0,,,32.0,32,Ivanov Serguei,32,Fassa Bortolo,,-,14,2002
+25,31.0,,,32.0,33,Sevilla Oscar,33,Kelme - Costa Blanca,,-,14,2002
+28,171.0,,,32.0,34,Frigo Dario,34,Tacconi Sport,,-,14,2002
+32,55.0,,,32.0,35,Piziks Arvis,35,CSC ProTeam - Tiscali,,-,14,2002
+28,24.0,,,31.0,36,Gonzalez De Galdeano Igor,36,O.N.C.E. - Eroski,,-,14,2002
+22,206.0,,,29.0,42,Edaleine Christophe,37,Jean Delatour,,\u25b25,14,2002
+31,115.0,,,27.0,37,Magnien Emmanuel,38,Bonjour,,\u25bc1,14,2002
+23,185.0,,,26.0,38,Flickinger Andy,39,AG2R Pr\xe9voyance,,\u25bc1,14,2002
+31,104.0,,,26.0,39,Dekker Erik,40,Rabobank ProTeam,,\u25bc1,14,2002
+24,39.0,,,26.0,40,Zaballa Constantino,41,Kelme - Costa Blanca,,\u25bc1,14,2002
+28,178.0,,,25.0,41,Mazzoleni Eddy,42,Tacconi Sport,,\u25bc1,14,2002
+27,202.0,,,24.0,49,Auge St\xe9phane,43,Jean Delatour,,\u25b26,14,2002
+28,161.0,,,24.0,43,Etxebarria David,44,Euskaltel - Euskadi,,\u25bc1,14,2002
+31,14.0,,,23.0,44,Fagnini Gian-matteo,45,Team Telekom,,\u25bc1,14,2002
+27,48.0,,,23.0,46,Moncouti\xe9 David,46,Cofidis,,-,14,2002
+28,136.0,,,22.0,45,Latasa lasa David,47,Ibanesto.com,,\u25bc2,14,2002
+32,71.0,,,21.0,107,Virenque Richard,48,Domo - Farm Frites,,\u25b259,14,2002
+30,17.0,,,20.0,47,Julich Bobby,49,Team Telekom,,\u25bc2,14,2002
+26,126.0,,,20.0,48,Martinez Miguel,50,Mapei - Quickstep,,\u25bc2,14,2002
+27,181.0,,,20.0,101,Botcharov Alexandre,51,AG2R Pr\xe9voyance,,\u25b250,14,2002
+24,81.0,,,20.0,69,Basso Ivan,52,Fassa Bortolo,,\u25b217,14,2002
+26,152.0,,,19.0,50,Belohvosciks Raivis,53,Lampre - Daikin,,\u25bc3,14,2002
+31,109.0,,,17.0,51,Zberg Beat,54,Rabobank ProTeam,,\u25bc3,14,2002
+23,129.0,,,17.0,52,Trampusch Gerhard,55,Mapei - Quickstep,,\u25bc3,14,2002
+23,114.0,,,16.0,53,Chavanel Sylvain,56,Bonjour,,\u25bc3,14,2002
+30,73.0,,,16.0,54,Cassani Enrico,57,Domo - Farm Frites,,\u25bc3,14,2002
+28,16.0,,,15.0,55,Hondo Danilo,58,Team Telekom,,\u25bc3,14,2002
+29,163.0,,,15.0,56,Etxebarria Unai,59,Euskaltel - Euskadi,,\u25bc3,14,2002
+30,,,,14.0,57,Rodriguez Javier Pascual,60,,,\u25bc3,14,2002
+28,41.0,,,14.0,58,Kivilev Andrei,61,Cofidis,,\u25bc3,14,2002
+34,179.0,,,14.0,59,Radaelli Mauro,62,Tacconi Sport,,\u25bc3,14,2002
+34,45.0,,,14.0,60,Lelli Massimiliano,63,Cofidis,,\u25bc3,14,2002
+27,138.0,,,14.0,61,Osa Unai,64,Ibanesto.com,,\u25bc3,14,2002
+31,194.0,,,14.0,62,Casarotto Davide,65,Alessio,,\u25bc3,14,2002
+29,79.0,,,13.0,63,Wadecki Piotr,66,Domo - Farm Frites,,\u25bc3,14,2002
+24,91.0,,,13.0,64,Vogondy Nicolas,67,La Fran\xe7aise des Jeux,,\u25bc3,14,2002
+29,151.0,,,13.0,,Serpellini Marco,68,Lampre - Daikin,,-,14,2002
+28,66.0,,,12.0,86,Morin Anthony,69,Cr\xe9dit Agricole,,\u25b217,14,2002
+30,78.0,,,12.0,65,van Bon L\xe9on,70,Domo - Farm Frites,,\u25bc5,14,2002
+32,172.0,,,10.0,66,Apollonio Massimo,71,Tacconi Sport,,\u25bc5,14,2002
+27,183.0,,,10.0,67,Berges Stephane,72,AG2R Pr\xe9voyance,,\u25bc5,14,2002
+32,85.0,,,10.0,68,Honchar Serhiy,73,Fassa Bortolo,,\u25bc5,14,2002
+28,22.0,,,10.0,87,Azevedo Jos\xe9 Bento Carvalho,74,O.N.C.E. - Eroski,,\u25b213,14,2002
+27,142.0,,,10.0,70,Aerts Mario,75,Lotto - Adecco,,\u25bc5,14,2002
+24,93.0,,,10.0,71,Casper Jimmy,76,La Fran\xe7aise des Jeux,,\u25bc5,14,2002
+27,57.0,,,9.0,72,Sastre Carlos,77,CSC ProTeam - Tiscali,,\u25bc5,14,2002
+33,145.0,,,9.0,73,De Clercq Hans,78,Lotto - Adecco,,\u25bc5,14,2002
+36,128.0,,,9.0,74,Tafi Andrea,79,Mapei - Quickstep,,\u25bc5,14,2002
+29,29.0,,,8.0,75,Serrano Marcos Antonio,80,O.N.C.E. - Eroski,,\u25bc5,14,2002
+28,101.0,,,,97*,Leipheimer Levi,81*,Rabobank ProTeam,,-,14,2002
+24,131.0,,,8.0,78,Menchov Denis,82,Ibanesto.com,,\u25bc4,14,2002
+29,54.0,,,8.0,76,Piil Jakob,83,CSC ProTeam - Tiscali,,\u25bc7,14,2002
+32,196.0,,,8.0,77,Hvastija Martin,84,Alessio,,\u25bc7,14,2002
+25,122.0,,,7.0,79,Bodrogi Laszlo,85,Mapei - Quickstep,,\u25bc6,14,2002
+30,132.0,,,7.0,,Baranowski Dariusz,86,Ibanesto.com,,-,14,2002
+28,8.0,,,7.0,80,Pe\xf1a Victor Hugo,87,US Postal Service,,\u25bc7,14,2002
+32,182.0,,,7.0,81,Agnolutto Christophe,88,AG2R Pr\xe9voyance,,\u25bc7,14,2002
+33,173.0,,,6.0,82,Bortolami Gianluca,89,Tacconi Sport,,\u25bc7,14,2002
+23,92.0,,,6.0,83,Casar Sandy,90,La Fran\xe7aise des Jeux,,\u25bc7,14,2002
+30,69.0,,,6.0,84,Voigt Jens,91,Cr\xe9dit Agricole,,\u25bc7,14,2002
+30,59.0,,,6.0,85,Van Hyfte Paul,92,CSC ProTeam - Tiscali,,\u25bc7,14,2002
+33,195.0,,,6.0,,Gotti Ivan,93,Alessio,,-,14,2002
+29,76.0,,,5.0,88,Merckx Axel,94,Domo - Farm Frites,,\u25bc6,14,2002
+32,207.0,,,5.0,105,Goubert Stephane,95,Jean Delatour,,\u25b210,14,2002
+27,103.0,,,5.0,89,de Groot Bram,96,Rabobank ProTeam,,\u25bc7,14,2002
+33,191.0,,,4.0,91,Dufaux Laurent,97,Alessio,,\u25bc6,14,2002
+33,98.0,,,4.0,90,Mengin Christophe,98,La Fran\xe7aise des Jeux,,\u25bc8,14,2002
+33,43.0,,,4.0,92,Cuesta \xcd\xf1igo,99,Cofidis,,\u25bc7,14,2002
+31,61.0,,,4.0,93,Moreau Christophe,100,Cr\xe9dit Agricole,,\u25bc7,14,2002
+31,49.0,,,4.0,94,Vasseur C\xe9dric,101,Cofidis,,\u25bc7,14,2002
+28,116.0,,,4.0,95,Nazon Damien,102,Bonjour,,\u25bc7,14,2002
+30,53.0,,,3.0,96,Peron Andrea,103,CSC ProTeam - Tiscali,,\u25bc7,14,2002
+32,99.0,,,3.0,98,Robin Jean-Cyril,104,La Fran\xe7aise des Jeux,,\u25bc6,14,2002
+30,87.0,,,3.0,99,Loda Nicola,105,Fassa Bortolo,,\u25bc6,14,2002
+32,143.0,,,3.0,100,Baguet Serge,106,Lotto - Adecco,,\u25bc6,14,2002
+26,208.0,,,3.0,102,Lefevre Laurent,107,Jean Delatour,,\u25bc5,14,2002
+24,26.0,,,2.0,103,Nozal Isidro,108,O.N.C.E. - Eroski,,\u25bc5,14,2002
+28,148.0,,,2.0,104,Mikhailov Guennady,109,Lotto - Adecco,,\u25bc5,14,2002
+29,198.0,,,2.0,,Moreni Cristian,110,Alessio,,-,14,2002
+26,6.0,,,1.0,106,Landis Floyd,111,US Postal Service,,\u25bc5,14,2002
+30,147.0,,,229.0,1,McEwen Robbie,1,Lotto - Adecco,,-,15,2002
+32,11.0,,,229.0,2,Zabel Erik,2,Team Telekom,,-,15,2002
+28,67.0,,,170.0,3,O'Grady Stuart,3,Cr\xe9dit Agricole,,-,15,2002
+23,94.0,,,162.0,4,Cooke Baden,4,La Fran\xe7aise des Jeux,,-,15,2002
+33,159.0,,,129.0,5,Svorada Jan,5,Lampre - Daikin,,-,15,2002
+30,1.0,,,,7*,Armstrong Lance,6*,US Postal Service,,-,15,2002
+34,204.0,,,86.0,6,Brochard Laurent,7,Jean Delatour,,\u25bc1,15,2002
+27,124.0,,,81.0,8,Horrillo Pedro,8,Mapei - Quickstep,,-,15,2002
+29,32.0,,,72.0,22,Botero Santiago,9,Kelme - Costa Blanca,,\u25b213,15,2002
+28,118.0,,,70.0,9,Renier Franck,10,Bonjour,,\u25bc1,15,2002
+31,46.0,,,68.0,10,Mattan Nico,11,Cofidis,,\u25bc1,15,2002
+30,158.0,,,68.0,14,Rumsas Raimondas,12,Lampre - Daikin,,\u25b22,15,2002
+28,21.0,,,63.0,16,Beloki Joseba,13,O.N.C.E. - Eroski,,\u25b23,15,2002
+28,77.0,,,63.0,11,Rodriguez Fred,14,Domo - Farm Frites,,\u25bc3,15,2002
+28,35.0,,,62.0,12,Gutierrez Jose Enrique,15,Kelme - Costa Blanca,,\u25bc3,15,2002
+26,106.0,,,59.0,13,Kroon Karsten,16,Rabobank ProTeam,,\u25bc3,15,2002
+37,155.0,,,56.0,15,Dierckxsens Ludo,17,Lampre - Daikin,,\u25bc2,15,2002
+24,64.0,,,54.0,17,Hushovd Thor,18,Cr\xe9dit Agricole,,\u25bc1,15,2002
+26,137.0,,,53.0,23,Mancebo Francisco,19,Ibanesto.com,,\u25b24,15,2002
+22,117.0,,,51.0,18,Pineau J\xe9rome,20,Bonjour,,\u25bc2,15,2002
+33,51.0,,,50.0,19,Jalabert Laurent,21,CSC ProTeam - Tiscali,,\u25bc2,15,2002
+30,102.0,,,50.0,20,Boogerd Michael,22,Rabobank ProTeam,,\u25bc2,15,2002
+26,97.0,,,49.0,21,McGee Bradley,23,La Fran\xe7aise des Jeux,,\u25bc2,15,2002
+31,115.0,,,46.0,38,Magnien Emmanuel,24,Bonjour,,\u25b214,15,2002
+34,82.0,,,46.0,24,Baldato Fabio,25,Fassa Bortolo,,\u25bc1,15,2002
+28,63.0,,,45.0,25,Hinault S\xe9bastien,26,Cr\xe9dit Agricole,,\u25bc1,15,2002
+25,47.0,,,45.0,26,Millar David,27,Cofidis,,\u25bc1,15,2002
+28,3.0,,,38.0,30,Heras Roberto,28,US Postal Service,,\u25b22,15,2002
+28,201.0,,,37.0,27,Halgand Patrice,29,Jean Delatour,,\u25bc2,15,2002
+27,142.0,,,35.0,75,Aerts Mario,30,Lotto - Adecco,,\u25b245,15,2002
+23,153.0,,,35.0,28,Bertogliati Rubens,31,Lampre - Daikin,,\u25bc3,15,2002
+25,125.0,,,34.0,29,Hunter Robert,32,Mapei - Quickstep,,\u25bc3,15,2002
+31,74.0,,,32.0,31,Knaven Servais,33,Domo - Farm Frites,,\u25bc2,15,2002
+28,24.0,,,32.0,36,Gonzalez De Galdeano Igor,34,O.N.C.E. - Eroski,,\u25b22,15,2002
+27,86.0,,,32.0,32,Ivanov Serguei,35,Fassa Bortolo,,\u25bc3,15,2002
+25,31.0,,,32.0,33,Sevilla Oscar,36,Kelme - Costa Blanca,,\u25bc3,15,2002
+28,171.0,,,32.0,34,Frigo Dario,37,Tacconi Sport,,\u25bc3,15,2002
+32,55.0,,,32.0,35,Piziks Arvis,38,CSC ProTeam - Tiscali,,\u25bc3,15,2002
+22,206.0,,,29.0,37,Edaleine Christophe,39,Jean Delatour,,\u25bc2,15,2002
+23,185.0,,,26.0,39,Flickinger Andy,40,AG2R Pr\xe9voyance,,\u25bc1,15,2002
+31,104.0,,,26.0,40,Dekker Erik,41,Rabobank ProTeam,,\u25bc1,15,2002
+24,39.0,,,26.0,41,Zaballa Constantino,42,Kelme - Costa Blanca,,\u25bc1,15,2002
+28,178.0,,,25.0,42,Mazzoleni Eddy,43,Tacconi Sport,,\u25bc1,15,2002
+27,202.0,,,24.0,43,Auge St\xe9phane,44,Jean Delatour,,\u25bc1,15,2002
+29,161.0,,,24.0,44,Etxebarria David,45,Euskaltel - Euskadi,,\u25bc1,15,2002
+24,81.0,,,24.0,52,Basso Ivan,46,Fassa Bortolo,,\u25b26,15,2002
+31,14.0,,,23.0,45,Fagnini Gian-matteo,47,Team Telekom,,\u25bc2,15,2002
+27,48.0,,,23.0,46,Moncouti\xe9 David,48,Cofidis,,\u25bc2,15,2002
+23,92.0,,,22.0,90,Casar Sandy,49,La Fran\xe7aise des Jeux,,\u25b241,15,2002
+28,136.0,,,22.0,47,Latasa lasa David,50,Ibanesto.com,,\u25bc3,15,2002
+32,71.0,,,21.0,48,Virenque Richard,51,Domo - Farm Frites,,\u25bc3,15,2002
+30,17.0,,,20.0,49,Julich Bobby,52,Team Telekom,,\u25bc3,15,2002
+26,126.0,,,20.0,50,Martinez Miguel,53,Mapei - Quickstep,,\u25bc3,15,2002
+27,181.0,,,20.0,51,Botcharov Alexandre,54,AG2R Pr\xe9voyance,,\u25bc3,15,2002
+29,76.0,,,20.0,94,Merckx Axel,55,Domo - Farm Frites,,\u25b239,15,2002
+26,152.0,,,19.0,53,Belohvosciks Raivis,56,Lampre - Daikin,,\u25bc3,15,2002
+31,109.0,,,17.0,54,Zberg Beat,57,Rabobank ProTeam,,\u25bc3,15,2002
+23,129.0,,,17.0,55,Trampusch Gerhard,58,Mapei - Quickstep,,\u25bc3,15,2002
+23,114.0,,,16.0,56,Chavanel Sylvain,59,Bonjour,,\u25bc3,15,2002
+29,163.0,,,15.0,59,Etxebarria Unai,60,Euskaltel - Euskadi,,\u25bc1,15,2002
+28,16.0,,,15.0,58,Hondo Danilo,61,Team Telekom,,\u25bc3,15,2002
+30,,,,14.0,60,Rodriguez Javier Pascual,62,,,\u25bc2,15,2002
+28,41.0,,,14.0,61,Kivilev Andrei,63,Cofidis,,\u25bc2,15,2002
+34,179.0,,,14.0,62,Radaelli Mauro,64,Tacconi Sport,,\u25bc2,15,2002
+34,45.0,,,14.0,63,Lelli Massimiliano,65,Cofidis,,\u25bc2,15,2002
+27,138.0,,,14.0,64,Osa Unai,66,Ibanesto.com,,\u25bc2,15,2002
+31,194.0,,,14.0,65,Casarotto Davide,67,Alessio,,\u25bc2,15,2002
+29,79.0,,,13.0,66,Wadecki Piotr,68,Domo - Farm Frites,,\u25bc2,15,2002
+24,91.0,,,13.0,67,Vogondy Nicolas,69,La Fran\xe7aise des Jeux,,\u25bc2,15,2002
+29,151.0,,,13.0,68,Serpellini Marco,70,Lampre - Daikin,,\u25bc2,15,2002
+28,66.0,,,12.0,69,Morin Anthony,71,Cr\xe9dit Agricole,,\u25bc2,15,2002
+30,78.0,,,12.0,70,van Bon L\xe9on,72,Domo - Farm Frites,,\u25bc2,15,2002
+28,22.0,,,12.0,74,Azevedo Jos\xe9 Bento Carvalho,73,O.N.C.E. - Eroski,,\u25b21,15,2002
+28,101.0,,,,81*,Leipheimer Levi,74*,Rabobank ProTeam,,-,15,2002
+32,172.0,,,10.0,71,Apollonio Massimo,75,Tacconi Sport,,\u25bc4,15,2002
+27,183.0,,,10.0,72,Berges Stephane,76,AG2R Pr\xe9voyance,,\u25bc4,15,2002
+32,196.0,,,10.0,84,Hvastija Martin,77,Alessio,,\u25b27,15,2002
+32,85.0,,,10.0,73,Honchar Serhiy,78,Fassa Bortolo,,\u25bc5,15,2002
+29,135.0,,,10.0,,Garcia Jose Vicente,79,Ibanesto.com,,-,15,2002
+24,93.0,,,10.0,76,Casper Jimmy,80,La Fran\xe7aise des Jeux,,\u25bc4,15,2002
+27,57.0,,,9.0,77,Sastre Carlos,81,CSC ProTeam - Tiscali,,\u25bc4,15,2002
+33,145.0,,,9.0,78,De Clercq Hans,82,Lotto - Adecco,,\u25bc4,15,2002
+36,128.0,,,9.0,79,Tafi Andrea,83,Mapei - Quickstep,,\u25bc4,15,2002
+29,29.0,,,8.0,80,Serrano Marcos Antonio,84,O.N.C.E. - Eroski,,\u25bc4,15,2002
+24,131.0,,,8.0,82,Menchov Denis,85,Ibanesto.com,,\u25bc3,15,2002
+29,54.0,,,8.0,83,Piil Jakob,86,CSC ProTeam - Tiscali,,\u25bc3,15,2002
+25,122.0,,,7.0,85,Bodrogi Laszlo,87,Mapei - Quickstep,,\u25bc2,15,2002
+30,132.0,,,7.0,86,Baranowski Dariusz,88,Ibanesto.com,,\u25bc2,15,2002
+28,8.0,,,7.0,87,Pe\xf1a Victor Hugo,89,US Postal Service,,\u25bc2,15,2002
+32,182.0,,,7.0,88,Agnolutto Christophe,90,AG2R Pr\xe9voyance,,\u25bc2,15,2002
+33,173.0,,,6.0,89,Bortolami Gianluca,91,Tacconi Sport,,\u25bc2,15,2002
+30,69.0,,,6.0,91,Voigt Jens,92,Cr\xe9dit Agricole,,\u25bc1,15,2002
+30,59.0,,,6.0,92,Van Hyfte Paul,93,CSC ProTeam - Tiscali,,\u25bc1,15,2002
+33,195.0,,,6.0,93,Gotti Ivan,94,Alessio,,\u25bc1,15,2002
+30,73.0,,,6.0,57,Cassani Enrico,95,Domo - Farm Frites,,\u25bc38,15,2002
+32,207.0,,,5.0,95,Goubert Stephane,96,Jean Delatour,,\u25bc1,15,2002
+27,103.0,,,5.0,96,de Groot Bram,97,Rabobank ProTeam,,\u25bc1,15,2002
+33,43.0,,,4.0,99,Cuesta \xcd\xf1igo,98,Cofidis,,\u25b21,15,2002
+33,98.0,,,4.0,98,Mengin Christophe,99,La Fran\xe7aise des Jeux,,\u25bc1,15,2002
+33,191.0,,,4.0,97,Dufaux Laurent,100,Alessio,,\u25bc3,15,2002
+31,49.0,,,4.0,101,Vasseur C\xe9dric,101,Cofidis,,-,15,2002
+28,116.0,,,4.0,102,Nazon Damien,102,Bonjour,,-,15,2002
+30,53.0,,,3.0,103,Peron Andrea,103,CSC ProTeam - Tiscali,,-,15,2002
+32,99.0,,,3.0,104,Robin Jean-Cyril,104,La Fran\xe7aise des Jeux,,-,15,2002
+30,87.0,,,3.0,105,Loda Nicola,105,Fassa Bortolo,,-,15,2002
+32,143.0,,,3.0,106,Baguet Serge,106,Lotto - Adecco,,-,15,2002
+26,208.0,,,3.0,107,Lefevre Laurent,107,Jean Delatour,,-,15,2002
+24,26.0,,,2.0,108,Nozal Isidro,108,O.N.C.E. - Eroski,,-,15,2002
+28,148.0,,,2.0,109,Mikhailov Guennady,109,Lotto - Adecco,,-,15,2002
+29,198.0,,,2.0,110,Moreni Cristian,110,Alessio,,-,15,2002
+26,6.0,,,1.0,111,Landis Floyd,111,US Postal Service,,-,15,2002
+30,147.0,,,229.0,1,McEwen Robbie,1,Lotto - Adecco,,-,16,2002
+32,11.0,,,229.0,2,Zabel Erik,2,Team Telekom,,-,16,2002
+28,67.0,,,180.0,3,O'Grady Stuart,3,Cr\xe9dit Agricole,,-,16,2002
+23,94.0,,,162.0,4,Cooke Baden,4,La Fran\xe7aise des Jeux,,-,16,2002
+33,159.0,,,129.0,5,Svorada Jan,5,Lampre - Daikin,,-,16,2002
+30,1.0,,,,6*,Armstrong Lance,6*,US Postal Service,,-,16,2002
+34,204.0,,,86.0,7,Brochard Laurent,7,Jean Delatour,,-,16,2002
+27,124.0,,,81.0,8,Horrillo Pedro,8,Mapei - Quickstep,,-,16,2002
+30,158.0,,,80.0,12,Rumsas Raimondas,9,Lampre - Daikin,,\u25b23,16,2002
+29,32.0,,,79.0,9,Botero Santiago,10,Kelme - Costa Blanca,,\u25bc1,16,2002
+30,102.0,,,76.0,22,Boogerd Michael,11,Rabobank ProTeam,,\u25b211,16,2002
+28,21.0,,,76.0,13,Beloki Joseba,12,O.N.C.E. - Eroski,,\u25b21,16,2002
+28,118.0,,,70.0,10,Renier Franck,13,Bonjour,,\u25bc3,16,2002
+31,46.0,,,68.0,11,Mattan Nico,14,Cofidis,,\u25bc3,16,2002
+28,35.0,,,62.0,15,Gutierrez Jose Enrique,15,Kelme - Costa Blanca,,-,16,2002
+26,106.0,,,59.0,16,Kroon Karsten,16,Rabobank ProTeam,,-,16,2002
+26,137.0,,,58.0,19,Mancebo Francisco,17,Ibanesto.com,,\u25b22,16,2002
+37,155.0,,,56.0,17,Dierckxsens Ludo,18,Lampre - Daikin,,\u25bc1,16,2002
+24,64.0,,,54.0,18,Hushovd Thor,19,Cr\xe9dit Agricole,,\u25bc1,16,2002
+22,117.0,,,51.0,20,Pineau J\xe9rome,20,Bonjour,,-,16,2002
+33,51.0,,,50.0,21,Jalabert Laurent,21,CSC ProTeam - Tiscali,,-,16,2002
+26,97.0,,,49.0,23,McGee Bradley,22,La Fran\xe7aise des Jeux,,\u25b21,16,2002
+31,115.0,,,46.0,24,Magnien Emmanuel,23,Bonjour,,\u25b21,16,2002
+34,82.0,,,46.0,25,Baldato Fabio,24,Fassa Bortolo,,\u25b21,16,2002
+28,63.0,,,45.0,26,Hinault S\xe9bastien,25,Cr\xe9dit Agricole,,\u25b21,16,2002
+25,47.0,,,45.0,27,Millar David,26,Cofidis,,\u25b21,16,2002
+28,3.0,,,44.0,28,Heras Roberto,27,US Postal Service,,\u25b21,16,2002
+28,201.0,,,37.0,29,Halgand Patrice,28,Jean Delatour,,\u25b21,16,2002
+25,125.0,,,36.0,32,Hunter Robert,29,Mapei - Quickstep,,\u25b23,16,2002
+28,24.0,,,36.0,34,Gonzalez De Galdeano Igor,30,O.N.C.E. - Eroski,,\u25b24,16,2002
+27,142.0,,,35.0,30,Aerts Mario,31,Lotto - Adecco,,\u25bc1,16,2002
+24,81.0,,,33.0,46,Basso Ivan,32,Fassa Bortolo,,\u25b214,16,2002
+31,74.0,,,32.0,33,Knaven Servais,33,Domo - Farm Frites,,-,16,2002
+27,86.0,,,32.0,35,Ivanov Serguei,34,Fassa Bortolo,,\u25b21,16,2002
+28,171.0,,,32.0,37,Frigo Dario,35,Tacconi Sport,,\u25b22,16,2002
+32,55.0,,,32.0,38,Piziks Arvis,36,CSC ProTeam - Tiscali,,\u25b22,16,2002
+22,206.0,,,29.0,39,Edaleine Christophe,37,Jean Delatour,,\u25b22,16,2002
+31,14.0,,,27.0,47,Fagnini Gian-matteo,38,Team Telekom,,\u25b29,16,2002
+23,185.0,,,26.0,40,Flickinger Andy,39,AG2R Pr\xe9voyance,,\u25b21,16,2002
+27,57.0,,,26.0,81,Sastre Carlos,40,CSC ProTeam - Tiscali,,\u25b241,16,2002
+31,104.0,,,26.0,41,Dekker Erik,41,Rabobank ProTeam,,-,16,2002
+24,39.0,,,26.0,42,Zaballa Constantino,42,Kelme - Costa Blanca,,-,16,2002
+27,48.0,,,26.0,48,Moncouti\xe9 David,43,Cofidis,,\u25b25,16,2002
+28,178.0,,,25.0,43,Mazzoleni Eddy,44,Tacconi Sport,,\u25bc1,16,2002
+23,153.0,,,25.0,31,Bertogliati Rubens,45,Lampre - Daikin,,\u25bc14,16,2002
+27,202.0,,,24.0,44,Auge St\xe9phane,46,Jean Delatour,,\u25bc2,16,2002
+29,161.0,,,24.0,45,Etxebarria David,47,Euskaltel - Euskadi,,\u25bc2,16,2002
+23,92.0,,,22.0,49,Casar Sandy,48,La Fran\xe7aise des Jeux,,\u25b21,16,2002
+26,126.0,,,22.0,53,Martinez Miguel,49,Mapei - Quickstep,,\u25b24,16,2002
+28,136.0,,,22.0,50,Latasa lasa David,50,Ibanesto.com,,-,16,2002
+32,71.0,,,21.0,51,Virenque Richard,51,Domo - Farm Frites,,-,16,2002
+28,101.0,,,,74*,Leipheimer Levi,52*,Rabobank ProTeam,,-,16,2002
+30,17.0,,,20.0,52,Julich Bobby,53,Team Telekom,,\u25bc1,16,2002
+27,181.0,,,20.0,54,Botcharov Alexandre,54,AG2R Pr\xe9voyance,,-,16,2002
+29,76.0,,,20.0,55,Merckx Axel,55,Domo - Farm Frites,,-,16,2002
+28,22.0,,,20.0,73,Azevedo Jos\xe9 Bento Carvalho,56,O.N.C.E. - Eroski,,\u25b217,16,2002
+26,152.0,,,19.0,56,Belohvosciks Raivis,57,Lampre - Daikin,,\u25bc1,16,2002
+31,109.0,,,17.0,57,Zberg Beat,58,Rabobank ProTeam,,\u25bc1,16,2002
+23,129.0,,,17.0,58,Trampusch Gerhard,59,Mapei - Quickstep,,\u25bc1,16,2002
+23,114.0,,,16.0,59,Chavanel Sylvain,60,Bonjour,,\u25bc1,16,2002
+28,16.0,,,15.0,61,Hondo Danilo,61,Team Telekom,,-,16,2002
+29,163.0,,,15.0,60,Etxebarria Unai,62,Euskaltel - Euskadi,,\u25bc2,16,2002
+34,45.0,,,15.0,65,Lelli Massimiliano,63,Cofidis,,\u25b22,16,2002
+30,,,,14.0,62,Rodriguez Javier Pascual,64,,,\u25bc2,16,2002
+28,41.0,,,14.0,63,Kivilev Andrei,65,Cofidis,,\u25bc2,16,2002
+34,179.0,,,14.0,64,Radaelli Mauro,66,Tacconi Sport,,\u25bc2,16,2002
+27,138.0,,,14.0,66,Osa Unai,67,Ibanesto.com,,\u25bc1,16,2002
+31,194.0,,,14.0,67,Casarotto Davide,68,Alessio,,\u25bc1,16,2002
+29,79.0,,,13.0,68,Wadecki Piotr,69,Domo - Farm Frites,,\u25bc1,16,2002
+24,91.0,,,13.0,69,Vogondy Nicolas,70,La Fran\xe7aise des Jeux,,\u25bc1,16,2002
+29,151.0,,,13.0,70,Serpellini Marco,71,Lampre - Daikin,,\u25bc1,16,2002
+28,66.0,,,12.0,71,Morin Anthony,72,Cr\xe9dit Agricole,,\u25bc1,16,2002
+30,78.0,,,12.0,72,van Bon L\xe9on,73,Domo - Farm Frites,,\u25bc1,16,2002
+32,172.0,,,10.0,75,Apollonio Massimo,74,Tacconi Sport,,\u25b21,16,2002
+27,183.0,,,10.0,76,Berges Stephane,75,AG2R Pr\xe9voyance,,\u25b21,16,2002
+32,196.0,,,10.0,77,Hvastija Martin,76,Alessio,,\u25b21,16,2002
+32,85.0,,,10.0,78,Honchar Serhiy,77,Fassa Bortolo,,\u25b21,16,2002
+29,135.0,,,10.0,79,Garcia Jose Vicente,78,Ibanesto.com,,\u25b21,16,2002
+33,145.0,,,9.0,82,De Clercq Hans,79,Lotto - Adecco,,\u25b23,16,2002
+36,128.0,,,9.0,83,Tafi Andrea,80,Mapei - Quickstep,,\u25b23,16,2002
+29,29.0,,,8.0,84,Serrano Marcos Antonio,81,O.N.C.E. - Eroski,,\u25b23,16,2002
+29,54.0,,,8.0,86,Piil Jakob,82,CSC ProTeam - Tiscali,,\u25b24,16,2002
+24,131.0,,,8.0,85,Menchov Denis,83,Ibanesto.com,,\u25b22,16,2002
+25,122.0,,,7.0,87,Bodrogi Laszlo,84,Mapei - Quickstep,,\u25b23,16,2002
+30,132.0,,,7.0,88,Baranowski Dariusz,85,Ibanesto.com,,\u25b23,16,2002
+28,8.0,,,7.0,89,Pe\xf1a Victor Hugo,86,US Postal Service,,\u25b23,16,2002
+32,182.0,,,7.0,90,Agnolutto Christophe,87,AG2R Pr\xe9voyance,,\u25b23,16,2002
+33,173.0,,,6.0,91,Bortolami Gianluca,88,Tacconi Sport,,\u25b23,16,2002
+30,69.0,,,6.0,92,Voigt Jens,89,Cr\xe9dit Agricole,,\u25b23,16,2002
+30,59.0,,,6.0,93,Van Hyfte Paul,90,CSC ProTeam - Tiscali,,\u25b23,16,2002
+33,195.0,,,6.0,94,Gotti Ivan,91,Alessio,,\u25b23,16,2002
+30,73.0,,,6.0,95,Cassani Enrico,92,Domo - Farm Frites,,\u25b23,16,2002
+32,207.0,,,5.0,96,Goubert Stephane,93,Jean Delatour,,\u25b23,16,2002
+27,103.0,,,5.0,97,de Groot Bram,94,Rabobank ProTeam,,\u25b23,16,2002
+33,43.0,,,4.0,98,Cuesta \xcd\xf1igo,95,Cofidis,,\u25b23,16,2002
+33,98.0,,,4.0,99,Mengin Christophe,96,La Fran\xe7aise des Jeux,,\u25b23,16,2002
+31,49.0,,,4.0,101,Vasseur C\xe9dric,97,Cofidis,,\u25b24,16,2002
+28,116.0,,,4.0,102,Nazon Damien,98,Bonjour,,\u25b24,16,2002
+30,53.0,,,3.0,103,Peron Andrea,99,CSC ProTeam - Tiscali,,\u25b24,16,2002
+32,99.0,,,3.0,104,Robin Jean-Cyril,100,La Fran\xe7aise des Jeux,,\u25b24,16,2002
+32,143.0,,,3.0,106,Baguet Serge,101,Lotto - Adecco,,\u25b25,16,2002
+30,87.0,,,3.0,105,Loda Nicola,102,Fassa Bortolo,,\u25b23,16,2002
+26,208.0,,,3.0,107,Lefevre Laurent,103,Jean Delatour,,\u25b24,16,2002
+24,26.0,,,2.0,108,Nozal Isidro,104,O.N.C.E. - Eroski,,\u25b24,16,2002
+28,148.0,,,2.0,109,Mikhailov Guennady,105,Lotto - Adecco,,\u25b24,16,2002
+29,198.0,,,2.0,110,Moreni Cristian,106,Alessio,,\u25b24,16,2002
+29,9.0,,,2.0,,Rubiera Jos\xe9 Luis,107,US Postal Service,,-,16,2002
+30,147.0,,,229.0,1,McEwen Robbie,1,Lotto - Adecco,,-,17,2002
+32,11.0,,,229.0,2,Zabel Erik,2,Team Telekom,,-,17,2002
+28,67.0,,,180.0,3,O'Grady Stuart,3,Cr\xe9dit Agricole,,-,17,2002
+23,94.0,,,162.0,4,Cooke Baden,4,La Fran\xe7aise des Jeux,,-,17,2002
+33,159.0,,,129.0,5,Svorada Jan,5,Lampre - Daikin,,-,17,2002
+30,1.0,,,,6*,Armstrong Lance,6*,US Postal Service,,-,17,2002
+34,204.0,,,89.0,7,Brochard Laurent,7,Jean Delatour,,-,17,2002
+29,32.0,,,84.0,10,Botero Santiago,8,Kelme - Costa Blanca,,\u25b22,17,2002
+27,124.0,,,81.0,8,Horrillo Pedro,9,Mapei - Quickstep,,\u25bc1,17,2002
+30,158.0,,,80.0,9,Rumsas Raimondas,10,Lampre - Daikin,,\u25bc1,17,2002
+30,102.0,,,76.0,11,Boogerd Michael,11,Rabobank ProTeam,,-,17,2002
+28,21.0,,,76.0,12,Beloki Joseba,12,O.N.C.E. - Eroski,,-,17,2002
+28,118.0,,,70.0,13,Renier Franck,13,Bonjour,,-,17,2002
+31,46.0,,,68.0,14,Mattan Nico,14,Cofidis,,-,17,2002
+24,64.0,,,66.0,19,Hushovd Thor,15,Cr\xe9dit Agricole,,\u25b24,17,2002
+28,35.0,,,66.0,15,Gutierrez Jose Enrique,16,Kelme - Costa Blanca,,\u25bc1,17,2002
+26,137.0,,,60.0,17,Mancebo Francisco,17,Ibanesto.com,,-,17,2002
+26,106.0,,,59.0,16,Kroon Karsten,18,Rabobank ProTeam,,\u25bc2,17,2002
+28,171.0,,,58.0,35,Frigo Dario,19,Tacconi Sport,,\u25b216,17,2002
+37,155.0,,,56.0,18,Dierckxsens Ludo,20,Lampre - Daikin,,\u25bc2,17,2002
+27,142.0,,,54.0,31,Aerts Mario,21,Lotto - Adecco,,\u25b210,17,2002
+22,117.0,,,51.0,20,Pineau J\xe9rome,22,Bonjour,,\u25bc2,17,2002
+33,51.0,,,50.0,21,Jalabert Laurent,23,CSC ProTeam - Tiscali,,\u25bc2,17,2002
+26,97.0,,,49.0,22,McGee Bradley,24,La Fran\xe7aise des Jeux,,\u25bc2,17,2002
+31,115.0,,,46.0,23,Magnien Emmanuel,25,Bonjour,,\u25bc2,17,2002
+34,82.0,,,46.0,24,Baldato Fabio,26,Fassa Bortolo,,\u25bc2,17,2002
+28,63.0,,,45.0,25,Hinault S\xe9bastien,27,Cr\xe9dit Agricole,,\u25bc2,17,2002
+25,47.0,,,45.0,26,Millar David,28,Cofidis,,\u25bc2,17,2002
+28,3.0,,,44.0,27,Heras Roberto,29,US Postal Service,,\u25bc2,17,2002
+27,48.0,,,39.0,43,Moncouti\xe9 David,30,Cofidis,,\u25b213,17,2002
+28,201.0,,,37.0,28,Halgand Patrice,31,Jean Delatour,,\u25bc3,17,2002
+25,125.0,,,36.0,29,Hunter Robert,32,Mapei - Quickstep,,\u25bc3,17,2002
+28,24.0,,,36.0,30,Gonzalez De Galdeano Igor,33,O.N.C.E. - Eroski,,\u25bc3,17,2002
+24,81.0,,,33.0,32,Basso Ivan,34,Fassa Bortolo,,\u25bc2,17,2002
+31,74.0,,,32.0,33,Knaven Servais,35,Domo - Farm Frites,,\u25bc2,17,2002
+27,57.0,,,32.0,40,Sastre Carlos,36,CSC ProTeam - Tiscali,,\u25b24,17,2002
+27,86.0,,,32.0,34,Ivanov Serguei,37,Fassa Bortolo,,\u25bc3,17,2002
+32,55.0,,,32.0,36,Piziks Arvis,38,CSC ProTeam - Tiscali,,\u25bc2,17,2002
+22,206.0,,,29.0,37,Edaleine Christophe,39,Jean Delatour,,\u25bc2,17,2002
+31,14.0,,,27.0,38,Fagnini Gian-matteo,40,Team Telekom,,\u25bc2,17,2002
+23,185.0,,,26.0,39,Flickinger Andy,41,AG2R Pr\xe9voyance,,\u25bc2,17,2002
+31,104.0,,,26.0,41,Dekker Erik,42,Rabobank ProTeam,,\u25bc1,17,2002
+24,39.0,,,26.0,42,Zaballa Constantino,43,Kelme - Costa Blanca,,\u25bc1,17,2002
+28,178.0,,,25.0,44,Mazzoleni Eddy,44,Tacconi Sport,,-,17,2002
+23,153.0,,,25.0,45,Bertogliati Rubens,45,Lampre - Daikin,,-,17,2002
+27,202.0,,,24.0,46,Auge St\xe9phane,46,Jean Delatour,,-,17,2002
+29,161.0,,,24.0,47,Etxebarria David,47,Euskaltel - Euskadi,,-,17,2002
+27,138.0,,,23.0,67,Osa Unai,48,Ibanesto.com,,\u25b219,17,2002
+23,92.0,,,22.0,48,Casar Sandy,49,La Fran\xe7aise des Jeux,,\u25bc1,17,2002
+26,126.0,,,22.0,49,Martinez Miguel,50,Mapei - Quickstep,,\u25bc1,17,2002
+28,136.0,,,22.0,50,Latasa lasa David,51,Ibanesto.com,,\u25bc1,17,2002
+28,101.0,,,,52*,Leipheimer Levi,52*,Rabobank ProTeam,,-,17,2002
+32,71.0,,,21.0,51,Virenque Richard,53,Domo - Farm Frites,,\u25bc2,17,2002
+30,17.0,,,20.0,53,Julich Bobby,54,Team Telekom,,\u25bc1,17,2002
+27,181.0,,,20.0,54,Botcharov Alexandre,55,AG2R Pr\xe9voyance,,\u25bc1,17,2002
+29,76.0,,,20.0,55,Merckx Axel,56,Domo - Farm Frites,,\u25bc1,17,2002
+28,22.0,,,20.0,56,Azevedo Jos\xe9 Bento Carvalho,57,O.N.C.E. - Eroski,,\u25bc1,17,2002
+32,15.0,,,19.0,,Guerini Giuseppe,58,Team Telekom,,-,17,2002
+26,152.0,,,19.0,57,Belohvosciks Raivis,59,Lampre - Daikin,,\u25bc2,17,2002
+31,109.0,,,17.0,58,Zberg Beat,60,Rabobank ProTeam,,\u25bc2,17,2002
+23,129.0,,,17.0,59,Trampusch Gerhard,61,Mapei - Quickstep,,\u25bc2,17,2002
+23,114.0,,,16.0,60,Chavanel Sylvain,62,Bonjour,,\u25bc2,17,2002
+29,29.0,,,16.0,81,Serrano Marcos Antonio,63,O.N.C.E. - Eroski,,\u25b218,17,2002
+28,16.0,,,15.0,61,Hondo Danilo,64,Team Telekom,,\u25bc3,17,2002
+29,163.0,,,15.0,62,Etxebarria Unai,65,Euskaltel - Euskadi,,\u25bc3,17,2002
+34,45.0,,,15.0,63,Lelli Massimiliano,66,Cofidis,,\u25bc3,17,2002
+30,,,,14.0,64,Rodriguez Javier Pascual,67,,,\u25bc3,17,2002
+28,41.0,,,14.0,65,Kivilev Andrei,68,Cofidis,,\u25bc3,17,2002
+34,179.0,,,14.0,66,Radaelli Mauro,69,Tacconi Sport,,\u25bc3,17,2002
+31,194.0,,,14.0,68,Casarotto Davide,70,Alessio,,\u25bc2,17,2002
+29,79.0,,,13.0,69,Wadecki Piotr,71,Domo - Farm Frites,,\u25bc2,17,2002
+24,91.0,,,13.0,70,Vogondy Nicolas,72,La Fran\xe7aise des Jeux,,\u25bc2,17,2002
+29,151.0,,,13.0,71,Serpellini Marco,73,Lampre - Daikin,,\u25bc2,17,2002
+26,208.0,,,13.0,103,Lefevre Laurent,74,Jean Delatour,,\u25b229,17,2002
+28,66.0,,,12.0,72,Morin Anthony,75,Cr\xe9dit Agricole,,\u25bc3,17,2002
+30,78.0,,,12.0,73,van Bon L\xe9on,76,Domo - Farm Frites,,\u25bc3,17,2002
+29,54.0,,,12.0,82,Piil Jakob,77,CSC ProTeam - Tiscali,,\u25b25,17,2002
+32,172.0,,,10.0,74,Apollonio Massimo,78,Tacconi Sport,,\u25bc4,17,2002
+27,183.0,,,10.0,75,Berges Stephane,79,AG2R Pr\xe9voyance,,\u25bc4,17,2002
+32,196.0,,,10.0,76,Hvastija Martin,80,Alessio,,\u25bc4,17,2002
+32,85.0,,,10.0,77,Honchar Serhiy,81,Fassa Bortolo,,\u25bc4,17,2002
+29,135.0,,,10.0,78,Garcia Jose Vicente,82,Ibanesto.com,,\u25bc4,17,2002
+33,145.0,,,9.0,79,De Clercq Hans,83,Lotto - Adecco,,\u25bc4,17,2002
+36,128.0,,,9.0,80,Tafi Andrea,84,Mapei - Quickstep,,\u25bc4,17,2002
+24,131.0,,,8.0,83,Menchov Denis,85,Ibanesto.com,,\u25bc2,17,2002
+25,122.0,,,7.0,84,Bodrogi Laszlo,86,Mapei - Quickstep,,\u25bc2,17,2002
+26,25.0,,,7.0,,Jaksche Jorg,87,O.N.C.E. - Eroski,,-,17,2002
+30,132.0,,,7.0,85,Baranowski Dariusz,88,Ibanesto.com,,\u25bc3,17,2002
+28,8.0,,,7.0,86,Pe\xf1a Victor Hugo,89,US Postal Service,,\u25bc3,17,2002
+32,182.0,,,7.0,87,Agnolutto Christophe,90,AG2R Pr\xe9voyance,,\u25bc3,17,2002
+30,69.0,,,6.0,89,Voigt Jens,91,Cr\xe9dit Agricole,,\u25bc2,17,2002
+33,173.0,,,6.0,88,Bortolami Gianluca,92,Tacconi Sport,,\u25bc4,17,2002
+33,12.0,,,6.0,,Aldag Rolf,93,Team Telekom,,-,17,2002
+30,59.0,,,6.0,90,Van Hyfte Paul,94,CSC ProTeam - Tiscali,,\u25bc4,17,2002
+33,195.0,,,6.0,91,Gotti Ivan,95,Alessio,,\u25bc4,17,2002
+30,73.0,,,6.0,92,Cassani Enrico,96,Domo - Farm Frites,,\u25bc4,17,2002
+32,207.0,,,5.0,93,Goubert Stephane,97,Jean Delatour,,\u25bc4,17,2002
+27,103.0,,,5.0,94,de Groot Bram,98,Rabobank ProTeam,,\u25bc4,17,2002
+33,43.0,,,4.0,95,Cuesta \xcd\xf1igo,99,Cofidis,,\u25bc4,17,2002
+33,98.0,,,4.0,96,Mengin Christophe,100,La Fran\xe7aise des Jeux,,\u25bc4,17,2002
+31,49.0,,,4.0,97,Vasseur C\xe9dric,101,Cofidis,,\u25bc4,17,2002
+28,116.0,,,4.0,98,Nazon Damien,102,Bonjour,,\u25bc4,17,2002
+30,53.0,,,3.0,99,Peron Andrea,103,CSC ProTeam - Tiscali,,\u25bc4,17,2002
+32,143.0,,,3.0,101,Baguet Serge,104,Lotto - Adecco,,\u25bc3,17,2002
+30,87.0,,,3.0,102,Loda Nicola,105,Fassa Bortolo,,\u25bc3,17,2002
+32,99.0,,,3.0,100,Robin Jean-Cyril,106,La Fran\xe7aise des Jeux,,\u25bc6,17,2002
+24,26.0,,,2.0,104,Nozal Isidro,107,O.N.C.E. - Eroski,,\u25bc3,17,2002
+30,62.0,,,2.0,,Bessy Fr\xe9d\xe9ric,108,Cr\xe9dit Agricole,,-,17,2002
+28,148.0,,,2.0,105,Mikhailov Guennady,109,Lotto - Adecco,,\u25bc4,17,2002
+29,198.0,,,2.0,106,Moreni Cristian,110,Alessio,,\u25bc4,17,2002
+29,9.0,,,2.0,107,Rubiera Jos\xe9 Luis,111,US Postal Service,,\u25bc4,17,2002
+30,147.0,,,239.0,1,McEwen Robbie,1,Lotto - Adecco,,-,18,2002
+32,11.0,,,238.0,2,Zabel Erik,2,Team Telekom,,-,18,2002
+28,67.0,,,188.0,3,O'Grady Stuart,3,Cr\xe9dit Agricole,,-,18,2002
+23,94.0,,,168.0,4,Cooke Baden,4,La Fran\xe7aise des Jeux,,-,18,2002
+33,159.0,,,136.0,5,Svorada Jan,5,Lampre - Daikin,,-,18,2002
+30,1.0,,,,6*,Armstrong Lance,6*,US Postal Service,,-,18,2002
+24,64.0,,,91.0,15,Hushovd Thor,7,Cr\xe9dit Agricole,,\u25b28,18,2002
+34,204.0,,,89.0,7,Brochard Laurent,8,Jean Delatour,,\u25bc1,18,2002
+29,32.0,,,84.0,8,Botero Santiago,9,Kelme - Costa Blanca,,\u25bc1,18,2002
+27,124.0,,,81.0,9,Horrillo Pedro,10,Mapei - Quickstep,,\u25bc1,18,2002
+30,158.0,,,80.0,10,Rumsas Raimondas,11,Lampre - Daikin,,\u25bc1,18,2002
+30,102.0,,,76.0,11,Boogerd Michael,12,Rabobank ProTeam,,\u25bc1,18,2002
+28,21.0,,,76.0,12,Beloki Joseba,13,O.N.C.E. - Eroski,,\u25bc1,18,2002
+28,118.0,,,75.0,13,Renier Franck,14,Bonjour,,\u25bc1,18,2002
+31,46.0,,,71.0,14,Mattan Nico,15,Cofidis,,\u25bc1,18,2002
+28,35.0,,,66.0,16,Gutierrez Jose Enrique,16,Kelme - Costa Blanca,,-,18,2002
+26,137.0,,,60.0,17,Mancebo Francisco,17,Ibanesto.com,,-,18,2002
+26,106.0,,,59.0,18,Kroon Karsten,18,Rabobank ProTeam,,-,18,2002
+28,171.0,,,58.0,19,Frigo Dario,19,Tacconi Sport,,-,18,2002
+37,155.0,,,56.0,20,Dierckxsens Ludo,20,Lampre - Daikin,,-,18,2002
+27,142.0,,,54.0,21,Aerts Mario,21,Lotto - Adecco,,-,18,2002
+22,117.0,,,51.0,22,Pineau J\xe9rome,22,Bonjour,,-,18,2002
+33,51.0,,,50.0,23,Jalabert Laurent,23,CSC ProTeam - Tiscali,,-,18,2002
+26,97.0,,,49.0,24,McGee Bradley,24,La Fran\xe7aise des Jeux,,-,18,2002
+31,115.0,,,46.0,25,Magnien Emmanuel,25,Bonjour,,-,18,2002
+34,82.0,,,46.0,26,Baldato Fabio,26,Fassa Bortolo,,-,18,2002
+28,63.0,,,45.0,27,Hinault S\xe9bastien,27,Cr\xe9dit Agricole,,-,18,2002
+25,47.0,,,45.0,28,Millar David,28,Cofidis,,-,18,2002
+28,3.0,,,44.0,29,Heras Roberto,29,US Postal Service,,-,18,2002
+31,104.0,,,43.0,42,Dekker Erik,30,Rabobank ProTeam,,\u25b212,18,2002
+31,14.0,,,41.0,40,Fagnini Gian-matteo,31,Team Telekom,,\u25b29,18,2002
+27,48.0,,,39.0,30,Moncouti\xe9 David,32,Cofidis,,\u25bc2,18,2002
+28,201.0,,,37.0,31,Halgand Patrice,33,Jean Delatour,,\u25bc2,18,2002
+25,125.0,,,36.0,32,Hunter Robert,34,Mapei - Quickstep,,\u25bc2,18,2002
+28,24.0,,,36.0,33,Gonzalez De Galdeano Igor,35,O.N.C.E. - Eroski,,\u25bc2,18,2002
+30,78.0,,,34.0,76,van Bon L\xe9on,36,Domo - Farm Frites,,\u25b240,18,2002
+24,81.0,,,33.0,34,Basso Ivan,37,Fassa Bortolo,,\u25bc3,18,2002
+29,54.0,,,32.0,77,Piil Jakob,38,CSC ProTeam - Tiscali,,\u25b239,18,2002
+31,74.0,,,32.0,35,Knaven Servais,39,Domo - Farm Frites,,\u25bc4,18,2002
+27,57.0,,,32.0,36,Sastre Carlos,40,CSC ProTeam - Tiscali,,\u25bc4,18,2002
+27,86.0,,,32.0,37,Ivanov Serguei,41,Fassa Bortolo,,\u25bc4,18,2002
+32,55.0,,,32.0,38,Piziks Arvis,42,CSC ProTeam - Tiscali,,\u25bc4,18,2002
+26,25.0,,,29.0,87,Jaksche Jorg,43,O.N.C.E. - Eroski,,\u25b244,18,2002
+22,206.0,,,29.0,39,Edaleine Christophe,44,Jean Delatour,,\u25bc5,18,2002
+23,185.0,,,26.0,41,Flickinger Andy,45,AG2R Pr\xe9voyance,,\u25bc4,18,2002
+33,98.0,,,26.0,100,Mengin Christophe,46,La Fran\xe7aise des Jeux,,\u25b254,18,2002
+24,39.0,,,26.0,43,Zaballa Constantino,47,Kelme - Costa Blanca,,\u25bc4,18,2002
+28,178.0,,,25.0,44,Mazzoleni Eddy,48,Tacconi Sport,,\u25bc4,18,2002
+23,153.0,,,25.0,45,Bertogliati Rubens,49,Lampre - Daikin,,\u25bc4,18,2002
+30,87.0,,,24.0,105,Loda Nicola,50,Fassa Bortolo,,\u25b255,18,2002
+27,202.0,,,24.0,46,Auge St\xe9phane,51,Jean Delatour,,\u25bc5,18,2002
+29,161.0,,,24.0,47,Etxebarria David,52,Euskaltel - Euskadi,,\u25bc5,18,2002
+27,138.0,,,23.0,48,Osa Unai,53,Ibanesto.com,,\u25bc5,18,2002
+23,92.0,,,22.0,49,Casar Sandy,54,La Fran\xe7aise des Jeux,,\u25bc5,18,2002
+26,126.0,,,22.0,50,Martinez Miguel,55,Mapei - Quickstep,,\u25bc5,18,2002
+28,136.0,,,22.0,51,Latasa lasa David,56,Ibanesto.com,,\u25bc5,18,2002
+28,101.0,,,,52*,Leipheimer Levi,57*,Rabobank ProTeam,,-,18,2002
+32,71.0,,,21.0,53,Virenque Richard,58,Domo - Farm Frites,,\u25bc5,18,2002
+30,17.0,,,20.0,54,Julich Bobby,59,Team Telekom,,\u25bc5,18,2002
+27,181.0,,,20.0,55,Botcharov Alexandre,60,AG2R Pr\xe9voyance,,\u25bc5,18,2002
+29,76.0,,,20.0,56,Merckx Axel,61,Domo - Farm Frites,,\u25bc5,18,2002
+28,22.0,,,20.0,57,Azevedo Jos\xe9 Bento Carvalho,62,O.N.C.E. - Eroski,,\u25bc5,18,2002
+32,15.0,,,19.0,58,Guerini Giuseppe,63,Team Telekom,,\u25bc5,18,2002
+26,152.0,,,19.0,59,Belohvosciks Raivis,64,Lampre - Daikin,,\u25bc5,18,2002
+31,109.0,,,17.0,60,Zberg Beat,65,Rabobank ProTeam,,\u25bc5,18,2002
+23,129.0,,,17.0,61,Trampusch Gerhard,66,Mapei - Quickstep,,\u25bc5,18,2002
+23,114.0,,,16.0,62,Chavanel Sylvain,67,Bonjour,,\u25bc5,18,2002
+29,29.0,,,16.0,63,Serrano Marcos Antonio,68,O.N.C.E. - Eroski,,\u25bc5,18,2002
+27,58.0,,,15.0,,S\xf8rensen Nicki,69,CSC ProTeam - Tiscali,,-,18,2002
+28,16.0,,,15.0,64,Hondo Danilo,70,Team Telekom,,\u25bc6,18,2002
+29,163.0,,,15.0,65,Etxebarria Unai,71,Euskaltel - Euskadi,,\u25bc6,18,2002
+34,45.0,,,15.0,66,Lelli Massimiliano,72,Cofidis,,\u25bc6,18,2002
+30,,,,14.0,67,Rodriguez Javier Pascual,73,,,\u25bc6,18,2002
+28,41.0,,,14.0,68,Kivilev Andrei,74,Cofidis,,\u25bc6,18,2002
+34,179.0,,,14.0,69,Radaelli Mauro,75,Tacconi Sport,,\u25bc6,18,2002
+31,194.0,,,14.0,70,Casarotto Davide,76,Alessio,,\u25bc6,18,2002
+29,79.0,,,13.0,71,Wadecki Piotr,77,Domo - Farm Frites,,\u25bc6,18,2002
+24,91.0,,,13.0,72,Vogondy Nicolas,78,La Fran\xe7aise des Jeux,,\u25bc6,18,2002
+29,151.0,,,13.0,73,Serpellini Marco,79,Lampre - Daikin,,\u25bc6,18,2002
+26,208.0,,,13.0,74,Lefevre Laurent,80,Jean Delatour,,\u25bc6,18,2002
+28,66.0,,,12.0,75,Morin Anthony,81,Cr\xe9dit Agricole,,\u25bc6,18,2002
+26,187.0,,,12.0,,Loder Thierry,82,AG2R Pr\xe9voyance,,-,18,2002
+32,182.0,,,11.0,90,Agnolutto Christophe,83,AG2R Pr\xe9voyance,,\u25b27,18,2002
+32,172.0,,,10.0,78,Apollonio Massimo,84,Tacconi Sport,,\u25bc6,18,2002
+27,183.0,,,10.0,79,Berges Stephane,85,AG2R Pr\xe9voyance,,\u25bc6,18,2002
+32,196.0,,,10.0,80,Hvastija Martin,86,Alessio,,\u25bc6,18,2002
+32,85.0,,,10.0,81,Honchar Serhiy,87,Fassa Bortolo,,\u25bc6,18,2002
+29,135.0,,,10.0,82,Garcia Jose Vicente,88,Ibanesto.com,,\u25bc6,18,2002
+33,145.0,,,9.0,83,De Clercq Hans,89,Lotto - Adecco,,\u25bc6,18,2002
+36,128.0,,,9.0,84,Tafi Andrea,90,Mapei - Quickstep,,\u25bc6,18,2002
+24,131.0,,,8.0,85,Menchov Denis,91,Ibanesto.com,,\u25bc6,18,2002
+25,122.0,,,7.0,86,Bodrogi Laszlo,92,Mapei - Quickstep,,\u25bc6,18,2002
+30,132.0,,,7.0,88,Baranowski Dariusz,93,Ibanesto.com,,\u25bc5,18,2002
+28,8.0,,,7.0,89,Pe\xf1a Victor Hugo,94,US Postal Service,,\u25bc5,18,2002
+33,12.0,,,6.0,93,Aldag Rolf,95,Team Telekom,,\u25bc2,18,2002
+30,69.0,,,6.0,91,Voigt Jens,96,Cr\xe9dit Agricole,,\u25bc5,18,2002
+33,173.0,,,6.0,92,Bortolami Gianluca,97,Tacconi Sport,,\u25bc5,18,2002
+30,59.0,,,6.0,94,Van Hyfte Paul,98,CSC ProTeam - Tiscali,,\u25bc4,18,2002
+33,195.0,,,6.0,95,Gotti Ivan,99,Alessio,,\u25bc4,18,2002
+30,73.0,,,6.0,96,Cassani Enrico,100,Domo - Farm Frites,,\u25bc4,18,2002
+32,207.0,,,5.0,97,Goubert Stephane,101,Jean Delatour,,\u25bc4,18,2002
+27,103.0,,,5.0,98,de Groot Bram,102,Rabobank ProTeam,,\u25bc4,18,2002
+33,43.0,,,4.0,99,Cuesta \xcd\xf1igo,103,Cofidis,,\u25bc4,18,2002
+32,143.0,,,4.0,104,Baguet Serge,104,Lotto - Adecco,,-,18,2002
+28,116.0,,,4.0,102,Nazon Damien,105,Bonjour,,\u25bc3,18,2002
+31,49.0,,,4.0,101,Vasseur C\xe9dric,106,Cofidis,,\u25bc5,18,2002
+30,53.0,,,3.0,103,Peron Andrea,107,CSC ProTeam - Tiscali,,\u25bc4,18,2002
+32,99.0,,,3.0,106,Robin Jean-Cyril,108,La Fran\xe7aise des Jeux,,\u25bc2,18,2002
+28,148.0,,,2.0,109,Mikhailov Guennady,109,Lotto - Adecco,,-,18,2002
+30,62.0,,,2.0,108,Bessy Fr\xe9d\xe9ric,110,Cr\xe9dit Agricole,,\u25bc2,18,2002
+24,26.0,,,2.0,107,Nozal Isidro,111,O.N.C.E. - Eroski,,\u25bc4,18,2002
+29,198.0,,,2.0,110,Moreni Cristian,112,Alessio,,\u25bc2,18,2002
+29,9.0,,,2.0,111,Rubiera Jos\xe9 Luis,113,US Postal Service,,\u25bc2,18,2002
+31,19.0,,,2.0,,Wesemann Steffen,114,Team Telekom,,-,18,2002
+30,147.0,,,239.0,1,McEwen Robbie,1,Lotto - Adecco,,-,19,2002
+32,11.0,,,238.0,2,Zabel Erik,2,Team Telekom,,-,19,2002
+28,67.0,,,188.0,3,O'Grady Stuart,3,Cr\xe9dit Agricole,,-,19,2002
+23,94.0,,,168.0,4,Cooke Baden,4,La Fran\xe7aise des Jeux,,-,19,2002
+33,159.0,,,136.0,5,Svorada Jan,5,Lampre - Daikin,,-,19,2002
+30,1.0,,,,6*,Armstrong Lance,6*,US Postal Service,,-,19,2002
+30,158.0,,,92.0,11,Rumsas Raimondas,7,Lampre - Daikin,,\u25b24,19,2002
+24,64.0,,,91.0,7,Hushovd Thor,8,Cr\xe9dit Agricole,,\u25bc1,19,2002
+34,204.0,,,89.0,8,Brochard Laurent,9,Jean Delatour,,\u25bc1,19,2002
+29,32.0,,,87.0,9,Botero Santiago,10,Kelme - Costa Blanca,,\u25bc1,19,2002
+27,124.0,,,81.0,10,Horrillo Pedro,11,Mapei - Quickstep,,\u25bc1,19,2002
+28,21.0,,,78.0,13,Beloki Joseba,12,O.N.C.E. - Eroski,,\u25b21,19,2002
+30,102.0,,,76.0,12,Boogerd Michael,13,Rabobank ProTeam,,\u25bc1,19,2002
+28,118.0,,,75.0,14,Renier Franck,14,Bonjour,,-,19,2002
+31,46.0,,,71.0,15,Mattan Nico,15,Cofidis,,-,19,2002
+28,35.0,,,66.0,16,Gutierrez Jose Enrique,16,Kelme - Costa Blanca,,-,19,2002
+26,137.0,,,60.0,17,Mancebo Francisco,17,Ibanesto.com,,-,19,2002
+26,106.0,,,59.0,18,Kroon Karsten,18,Rabobank ProTeam,,-,19,2002
+28,171.0,,,58.0,19,Frigo Dario,19,Tacconi Sport,,-,19,2002
+37,155.0,,,56.0,20,Dierckxsens Ludo,20,Lampre - Daikin,,-,19,2002
+27,142.0,,,54.0,21,Aerts Mario,21,Lotto - Adecco,,-,19,2002
+25,47.0,,,53.0,28,Millar David,22,Cofidis,,\u25b26,19,2002
+22,117.0,,,51.0,22,Pineau J\xe9rome,23,Bonjour,,\u25bc1,19,2002
+33,51.0,,,50.0,23,Jalabert Laurent,24,CSC ProTeam - Tiscali,,\u25bc1,19,2002
+26,97.0,,,49.0,24,McGee Bradley,25,La Fran\xe7aise des Jeux,,\u25bc1,19,2002
+31,115.0,,,46.0,25,Magnien Emmanuel,26,Bonjour,,\u25bc1,19,2002
+34,82.0,,,46.0,26,Baldato Fabio,27,Fassa Bortolo,,\u25bc1,19,2002
+28,63.0,,,45.0,27,Hinault S\xe9bastien,28,Cr\xe9dit Agricole,,\u25bc1,19,2002
+28,3.0,,,44.0,29,Heras Roberto,29,US Postal Service,,-,19,2002
+31,104.0,,,43.0,30,Dekker Erik,30,Rabobank ProTeam,,-,19,2002
+28,24.0,,,42.0,35,Gonzalez De Galdeano Igor,31,O.N.C.E. - Eroski,,\u25b24,19,2002
+31,14.0,,,41.0,31,Fagnini Gian-matteo,32,Team Telekom,,\u25bc1,19,2002
+27,48.0,,,39.0,32,Moncouti\xe9 David,33,Cofidis,,\u25bc1,19,2002
+28,201.0,,,37.0,33,Halgand Patrice,34,Jean Delatour,,\u25bc1,19,2002
+25,125.0,,,36.0,34,Hunter Robert,35,Mapei - Quickstep,,\u25bc1,19,2002
+30,78.0,,,34.0,36,van Bon L\xe9on,36,Domo - Farm Frites,,-,19,2002
+24,81.0,,,33.0,37,Basso Ivan,37,Fassa Bortolo,,-,19,2002
+29,54.0,,,32.0,38,Piil Jakob,38,CSC ProTeam - Tiscali,,-,19,2002
+31,74.0,,,32.0,39,Knaven Servais,39,Domo - Farm Frites,,-,19,2002
+27,57.0,,,32.0,40,Sastre Carlos,40,CSC ProTeam - Tiscali,,-,19,2002
+27,86.0,,,32.0,41,Ivanov Serguei,41,Fassa Bortolo,,-,19,2002
+32,55.0,,,32.0,42,Piziks Arvis,42,CSC ProTeam - Tiscali,,-,19,2002
+26,25.0,,,29.0,43,Jaksche Jorg,43,O.N.C.E. - Eroski,,-,19,2002
+22,206.0,,,29.0,44,Edaleine Christophe,44,Jean Delatour,,-,19,2002
+23,185.0,,,26.0,45,Flickinger Andy,45,AG2R Pr\xe9voyance,,-,19,2002
+33,98.0,,,26.0,46,Mengin Christophe,46,La Fran\xe7aise des Jeux,,-,19,2002
+24,39.0,,,26.0,47,Zaballa Constantino,47,Kelme - Costa Blanca,,-,19,2002
+28,178.0,,,25.0,48,Mazzoleni Eddy,48,Tacconi Sport,,-,19,2002
+23,153.0,,,25.0,49,Bertogliati Rubens,49,Lampre - Daikin,,-,19,2002
+31,87.0,,,24.0,50,Loda Nicola,50,Fassa Bortolo,,-,19,2002
+27,202.0,,,24.0,51,Auge St\xe9phane,51,Jean Delatour,,-,19,2002
+29,161.0,,,24.0,52,Etxebarria David,52,Euskaltel - Euskadi,,-,19,2002
+26,152.0,,,23.0,64,Belohvosciks Raivis,53,Lampre - Daikin,,\u25b211,19,2002
+27,138.0,,,23.0,53,Osa Unai,54,Ibanesto.com,,\u25bc1,19,2002
+23,92.0,,,22.0,54,Casar Sandy,55,La Fran\xe7aise des Jeux,,\u25bc1,19,2002
+26,126.0,,,22.0,55,Martinez Miguel,56,Mapei - Quickstep,,\u25bc1,19,2002
+28,136.0,,,22.0,56,Latasa lasa David,57,Ibanesto.com,,\u25bc1,19,2002
+28,101.0,,,,57*,Leipheimer Levi,58*,Rabobank ProTeam,,-,19,2002
+32,71.0,,,21.0,58,Virenque Richard,59,Domo - Farm Frites,,\u25bc1,19,2002
+30,17.0,,,20.0,59,Julich Bobby,60,Team Telekom,,\u25bc1,19,2002
+27,181.0,,,20.0,60,Botcharov Alexandre,61,AG2R Pr\xe9voyance,,\u25bc1,19,2002
+29,76.0,,,20.0,61,Merckx Axel,62,Domo - Farm Frites,,\u25bc1,19,2002
+28,22.0,,,20.0,62,Azevedo Jos\xe9 Bento Carvalho,63,O.N.C.E. - Eroski,,\u25bc1,19,2002
+32,15.0,,,19.0,63,Guerini Giuseppe,64,Team Telekom,,\u25bc1,19,2002
+25,122.0,,,17.0,92,Bodrogi Laszlo,65,Mapei - Quickstep,,\u25b227,19,2002
+31,109.0,,,17.0,65,Zberg Beat,66,Rabobank ProTeam,,\u25bc1,19,2002
+23,129.0,,,17.0,66,Trampusch Gerhard,67,Mapei - Quickstep,,\u25bc1,19,2002
+23,114.0,,,16.0,67,Chavanel Sylvain,68,Bonjour,,\u25bc1,19,2002
+29,29.0,,,16.0,68,Serrano Marcos Antonio,69,O.N.C.E. - Eroski,,\u25bc1,19,2002
+32,85.0,,,15.0,87,Honchar Serhiy,70,Fassa Bortolo,,\u25b217,19,2002
+27,58.0,,,15.0,69,S\xf8rensen Nicki,71,CSC ProTeam - Tiscali,,\u25bc2,19,2002
+28,16.0,,,15.0,70,Hondo Danilo,72,Team Telekom,,\u25bc2,19,2002
+29,163.0,,,15.0,71,Etxebarria Unai,73,Euskaltel - Euskadi,,\u25bc2,19,2002
+34,45.0,,,15.0,72,Lelli Massimiliano,74,Cofidis,,\u25bc2,19,2002
+30,,,,14.0,73,Rodriguez Javier Pascual,75,,,\u25bc2,19,2002
+28,41.0,,,14.0,74,Kivilev Andrei,76,Cofidis,,\u25bc2,19,2002
+34,179.0,,,14.0,75,Radaelli Mauro,77,Tacconi Sport,,\u25bc2,19,2002
+31,194.0,,,14.0,76,Casarotto Davide,78,Alessio,,\u25bc2,19,2002
+29,79.0,,,13.0,77,Wadecki Piotr,79,Domo - Farm Frites,,\u25bc2,19,2002
+24,91.0,,,13.0,78,Vogondy Nicolas,80,La Fran\xe7aise des Jeux,,\u25bc2,19,2002
+29,151.0,,,13.0,79,Serpellini Marco,81,Lampre - Daikin,,\u25bc2,19,2002
+26,208.0,,,13.0,80,Lefevre Laurent,82,Jean Delatour,,\u25bc2,19,2002
+28,66.0,,,12.0,81,Morin Anthony,83,Cr\xe9dit Agricole,,\u25bc2,19,2002
+26,187.0,,,12.0,82,Loder Thierry,84,AG2R Pr\xe9voyance,,\u25bc2,19,2002
+32,182.0,,,11.0,83,Agnolutto Christophe,85,AG2R Pr\xe9voyance,,\u25bc2,19,2002
+32,172.0,,,10.0,84,Apollonio Massimo,86,Tacconi Sport,,\u25bc2,19,2002
+27,183.0,,,10.0,85,Berges Stephane,87,AG2R Pr\xe9voyance,,\u25bc2,19,2002
+32,196.0,,,10.0,86,Hvastija Martin,88,Alessio,,\u25bc2,19,2002
+29,135.0,,,10.0,88,Garcia Jose Vicente,89,Ibanesto.com,,\u25bc1,19,2002
+33,145.0,,,9.0,89,De Clercq Hans,90,Lotto - Adecco,,\u25bc1,19,2002
+36,128.0,,,9.0,90,Tafi Andrea,91,Mapei - Quickstep,,\u25bc1,19,2002
+28,8.0,,,8.0,94,Pe\xf1a Victor Hugo,92,US Postal Service,,\u25b22,19,2002
+24,131.0,,,8.0,91,Menchov Denis,93,Ibanesto.com,,\u25bc2,19,2002
+30,132.0,,,7.0,93,Baranowski Dariusz,94,Ibanesto.com,,\u25bc1,19,2002
+33,12.0,,,6.0,95,Aldag Rolf,95,Team Telekom,,-,19,2002
+30,69.0,,,6.0,96,Voigt Jens,96,Cr\xe9dit Agricole,,-,19,2002
+33,173.0,,,6.0,97,Bortolami Gianluca,97,Tacconi Sport,,-,19,2002
+30,59.0,,,6.0,98,Van Hyfte Paul,98,CSC ProTeam - Tiscali,,-,19,2002
+33,195.0,,,6.0,99,Gotti Ivan,99,Alessio,,-,19,2002
+30,73.0,,,6.0,100,Cassani Enrico,100,Domo - Farm Frites,,-,19,2002
+32,207.0,,,5.0,101,Goubert Stephane,101,Jean Delatour,,-,19,2002
+27,103.0,,,5.0,102,de Groot Bram,102,Rabobank ProTeam,,-,19,2002
+33,43.0,,,4.0,103,Cuesta \xcd\xf1igo,103,Cofidis,,-,19,2002
+32,143.0,,,4.0,104,Baguet Serge,104,Lotto - Adecco,,-,19,2002
+31,49.0,,,4.0,106,Vasseur C\xe9dric,105,Cofidis,,\u25b21,19,2002
+28,116.0,,,4.0,105,Nazon Damien,106,Bonjour,,\u25bc1,19,2002
+30,53.0,,,3.0,107,Peron Andrea,107,CSC ProTeam - Tiscali,,-,19,2002
+32,99.0,,,3.0,108,Robin Jean-Cyril,108,La Fran\xe7aise des Jeux,,-,19,2002
+24,26.0,,,2.0,111,Nozal Isidro,109,O.N.C.E. - Eroski,,\u25b22,19,2002
+28,148.0,,,2.0,109,Mikhailov Guennady,110,Lotto - Adecco,,\u25bc1,19,2002
+30,62.0,,,2.0,110,Bessy Fr\xe9d\xe9ric,111,Cr\xe9dit Agricole,,\u25bc1,19,2002
+29,198.0,,,2.0,112,Moreni Cristian,112,Alessio,,-,19,2002
+29,9.0,,,2.0,113,Rubiera Jos\xe9 Luis,113,US Postal Service,,-,19,2002
+31,19.0,,,2.0,114,Wesemann Steffen,114,Team Telekom,,-,19,2002
+30,147.0,,,280.0,1,McEwen Robbie,1,Lotto - Adecco,,-,20,2002
+32,11.0,,,261.0,2,Zabel Erik,2,Team Telekom,,-,20,2002
+28,67.0,,,208.0,3,O'Grady Stuart,3,Cr\xe9dit Agricole,,-,20,2002
+23,94.0,,,198.0,4,Cooke Baden,4,La Fran\xe7aise des Jeux,,-,20,2002
+33,159.0,,,154.0,5,Svorada Jan,5,Lampre - Daikin,,-,20,2002
+30,1.0,,,,6*,Armstrong Lance,6*,US Postal Service,,-,20,2002
+24,64.0,,,103.0,8,Hushovd Thor,7,Cr\xe9dit Agricole,,\u25b21,20,2002
+34,204.0,,,99.0,9,Brochard Laurent,8,Jean Delatour,,\u25b21,20,2002
+30,158.0,,,92.0,7,Rumsas Raimondas,9,Lampre - Daikin,,\u25bc2,20,2002
+29,32.0,,,87.0,10,Botero Santiago,10,Kelme - Costa Blanca,,-,20,2002
+27,124.0,,,81.0,11,Horrillo Pedro,11,Mapei - Quickstep,,-,20,2002
+31,46.0,,,80.0,15,Mattan Nico,12,Cofidis,,\u25b23,20,2002
+28,21.0,,,78.0,12,Beloki Joseba,13,O.N.C.E. - Eroski,,\u25bc1,20,2002
+30,102.0,,,76.0,13,Boogerd Michael,14,Rabobank ProTeam,,\u25bc1,20,2002
+28,118.0,,,75.0,14,Renier Franck,15,Bonjour,,\u25bc1,20,2002
+34,82.0,,,70.0,27,Baldato Fabio,16,Fassa Bortolo,,\u25b211,20,2002
+28,35.0,,,70.0,16,Gutierrez Jose Enrique,17,Kelme - Costa Blanca,,\u25bc1,20,2002
+26,106.0,,,61.0,18,Kroon Karsten,18,Rabobank ProTeam,,-,20,2002
+26,137.0,,,60.0,17,Mancebo Francisco,19,Ibanesto.com,,\u25bc2,20,2002
+28,171.0,,,58.0,19,Frigo Dario,20,Tacconi Sport,,\u25bc1,20,2002
+37,155.0,,,56.0,20,Dierckxsens Ludo,21,Lampre - Daikin,,\u25bc1,20,2002
+27,142.0,,,54.0,21,Aerts Mario,22,Lotto - Adecco,,\u25bc1,20,2002
+25,47.0,,,53.0,22,Millar David,23,Cofidis,,\u25bc1,20,2002
+22,117.0,,,51.0,23,Pineau J\xe9rome,24,Bonjour,,\u25bc1,20,2002
+33,51.0,,,50.0,24,Jalabert Laurent,25,CSC ProTeam - Tiscali,,\u25bc1,20,2002
+28,3.0,,,50.0,29,Heras Roberto,26,US Postal Service,,\u25b23,20,2002
+26,97.0,,,49.0,25,McGee Bradley,27,La Fran\xe7aise des Jeux,,\u25bc2,20,2002
+32,55.0,,,49.0,42,Piziks Arvis,28,CSC ProTeam - Tiscali,,\u25b214,20,2002
+31,115.0,,,46.0,26,Magnien Emmanuel,29,Bonjour,,\u25bc3,20,2002
+28,63.0,,,45.0,28,Hinault S\xe9bastien,30,Cr\xe9dit Agricole,,\u25bc2,20,2002
+30,78.0,,,45.0,36,van Bon L\xe9on,31,Domo - Farm Frites,,\u25b25,20,2002
+31,104.0,,,43.0,30,Dekker Erik,32,Rabobank ProTeam,,\u25bc2,20,2002
+28,24.0,,,42.0,31,Gonzalez De Galdeano Igor,33,O.N.C.E. - Eroski,,\u25bc2,20,2002
+31,14.0,,,41.0,32,Fagnini Gian-matteo,34,Team Telekom,,\u25bc2,20,2002
+31,87.0,,,40.0,50,Loda Nicola,35,Fassa Bortolo,,\u25b215,20,2002
+27,48.0,,,39.0,33,Moncouti\xe9 David,36,Cofidis,,\u25bc3,20,2002
+28,201.0,,,37.0,34,Halgand Patrice,37,Jean Delatour,,\u25bc3,20,2002
+31,74.0,,,37.0,39,Knaven Servais,38,Domo - Farm Frites,,\u25b21,20,2002
+25,125.0,,,36.0,35,Hunter Robert,39,Mapei - Quickstep,,\u25bc4,20,2002
+31,194.0,,,36.0,78,Casarotto Davide,40,Alessio,,\u25b238,20,2002
+24,81.0,,,33.0,37,Basso Ivan,41,Fassa Bortolo,,\u25bc4,20,2002
+23,185.0,,,32.0,45,Flickinger Andy,42,AG2R Pr\xe9voyance,,\u25b23,20,2002
+29,54.0,,,32.0,38,Piil Jakob,43,CSC ProTeam - Tiscali,,\u25bc5,20,2002
+27,57.0,,,32.0,40,Sastre Carlos,44,CSC ProTeam - Tiscali,,\u25bc4,20,2002
+27,86.0,,,32.0,41,Ivanov Serguei,45,Fassa Bortolo,,\u25bc4,20,2002
+28,116.0,,,30.0,106,Nazon Damien,46,Bonjour,,\u25b260,20,2002
+26,25.0,,,29.0,43,Jaksche Jorg,47,O.N.C.E. - Eroski,,\u25bc4,20,2002
+22,206.0,,,29.0,44,Edaleine Christophe,48,Jean Delatour,,\u25bc4,20,2002
+28,16.0,,,28.0,72,Hondo Danilo,49,Team Telekom,,\u25b223,20,2002
+27,202.0,,,27.0,51,Auge St\xe9phane,50,Jean Delatour,,\u25b21,20,2002
+33,98.0,,,26.0,46,Mengin Christophe,51,La Fran\xe7aise des Jeux,,\u25bc5,20,2002
+24,39.0,,,26.0,47,Zaballa Constantino,52,Kelme - Costa Blanca,,\u25bc5,20,2002
+32,182.0,,,26.0,85,Agnolutto Christophe,53,AG2R Pr\xe9voyance,,\u25b232,20,2002
+28,178.0,,,25.0,48,Mazzoleni Eddy,54,Tacconi Sport,,\u25bc6,20,2002
+23,153.0,,,25.0,49,Bertogliati Rubens,55,Lampre - Daikin,,\u25bc6,20,2002
+29,161.0,,,24.0,52,Etxebarria David,56,Euskaltel - Euskadi,,\u25bc4,20,2002
+27,138.0,,,24.0,54,Osa Unai,57,Ibanesto.com,,\u25bc3,20,2002
+26,152.0,,,23.0,53,Belohvosciks Raivis,58,Lampre - Daikin,,\u25bc5,20,2002
+23,92.0,,,22.0,55,Casar Sandy,59,La Fran\xe7aise des Jeux,,\u25bc4,20,2002
+26,126.0,,,22.0,56,Martinez Miguel,60,Mapei - Quickstep,,\u25bc4,20,2002
+28,136.0,,,22.0,57,Latasa lasa David,61,Ibanesto.com,,\u25bc4,20,2002
+28,101.0,,,,58*,Leipheimer Levi,62*,Rabobank ProTeam,,-,20,2002
+32,71.0,,,21.0,59,Virenque Richard,63,Domo - Farm Frites,,\u25bc4,20,2002
+33,173.0,,,20.0,97,Bortolami Gianluca,64,Tacconi Sport,,\u25b233,20,2002
+30,17.0,,,20.0,60,Julich Bobby,65,Team Telekom,,\u25bc5,20,2002
+27,181.0,,,20.0,61,Botcharov Alexandre,66,AG2R Pr\xe9voyance,,\u25bc5,20,2002
+29,76.0,,,20.0,62,Merckx Axel,67,Domo - Farm Frites,,\u25bc5,20,2002
+28,22.0,,,20.0,63,Azevedo Jos\xe9 Bento Carvalho,68,O.N.C.E. - Eroski,,\u25bc5,20,2002
+32,15.0,,,19.0,64,Guerini Giuseppe,69,Team Telekom,,\u25bc5,20,2002
+32,172.0,,,18.0,86,Apollonio Massimo,70,Tacconi Sport,,\u25b216,20,2002
+25,122.0,,,17.0,65,Bodrogi Laszlo,71,Mapei - Quickstep,,\u25bc6,20,2002
+31,109.0,,,17.0,66,Zberg Beat,72,Rabobank ProTeam,,\u25bc6,20,2002
+23,129.0,,,17.0,67,Trampusch Gerhard,73,Mapei - Quickstep,,\u25bc6,20,2002
+23,114.0,,,16.0,68,Chavanel Sylvain,74,Bonjour,,\u25bc6,20,2002
+29,29.0,,,16.0,69,Serrano Marcos Antonio,75,O.N.C.E. - Eroski,,\u25bc6,20,2002
+36,128.0,,,16.0,91,Tafi Andrea,76,Mapei - Quickstep,,\u25b215,20,2002
+32,85.0,,,15.0,70,Honchar Serhiy,77,Fassa Bortolo,,\u25bc7,20,2002
+27,58.0,,,15.0,71,S\xf8rensen Nicki,78,CSC ProTeam - Tiscali,,\u25bc7,20,2002
+29,163.0,,,15.0,73,Etxebarria Unai,79,Euskaltel - Euskadi,,\u25bc6,20,2002
+34,45.0,,,15.0,74,Lelli Massimiliano,80,Cofidis,,\u25bc6,20,2002
+30,,,,14.0,75,Rodriguez Javier Pascual,81,,,\u25bc6,20,2002
+28,41.0,,,14.0,76,Kivilev Andrei,82,Cofidis,,\u25bc6,20,2002
+34,179.0,,,14.0,77,Radaelli Mauro,83,Tacconi Sport,,\u25bc6,20,2002
+29,79.0,,,13.0,79,Wadecki Piotr,84,Domo - Farm Frites,,\u25bc5,20,2002
+24,91.0,,,13.0,80,Vogondy Nicolas,85,La Fran\xe7aise des Jeux,,\u25bc5,20,2002
+29,151.0,,,13.0,81,Serpellini Marco,86,Lampre - Daikin,,\u25bc5,20,2002
+26,208.0,,,13.0,82,Lefevre Laurent,87,Jean Delatour,,\u25bc5,20,2002
+28,66.0,,,12.0,83,Morin Anthony,88,Cr\xe9dit Agricole,,\u25bc5,20,2002
+26,187.0,,,12.0,84,Loder Thierry,89,AG2R Pr\xe9voyance,,\u25bc5,20,2002
+27,183.0,,,10.0,87,Berges Stephane,90,AG2R Pr\xe9voyance,,\u25bc3,20,2002
+32,196.0,,,10.0,88,Hvastija Martin,91,Alessio,,\u25bc3,20,2002
+29,135.0,,,10.0,89,Garcia Jose Vicente,92,Ibanesto.com,,\u25bc3,20,2002
+33,145.0,,,9.0,90,De Clercq Hans,93,Lotto - Adecco,,\u25bc3,20,2002
+28,8.0,,,8.0,92,Pe\xf1a Victor Hugo,94,US Postal Service,,\u25bc2,20,2002
+24,131.0,,,8.0,93,Menchov Denis,95,Ibanesto.com,,\u25bc2,20,2002
+30,132.0,,,7.0,94,Baranowski Dariusz,96,Ibanesto.com,,\u25bc2,20,2002
+33,12.0,,,6.0,95,Aldag Rolf,97,Team Telekom,,\u25bc2,20,2002
+30,69.0,,,6.0,96,Voigt Jens,98,Cr\xe9dit Agricole,,\u25bc2,20,2002
+30,59.0,,,6.0,98,Van Hyfte Paul,99,CSC ProTeam - Tiscali,,\u25bc1,20,2002
+30,73.0,,,6.0,100,Cassani Enrico,100,Domo - Farm Frites,,-,20,2002
+33,195.0,,,6.0,99,Gotti Ivan,101,Alessio,,\u25bc2,20,2002
+32,207.0,,,5.0,101,Goubert Stephane,102,Jean Delatour,,\u25bc1,20,2002
+27,103.0,,,5.0,102,de Groot Bram,103,Rabobank ProTeam,,\u25bc1,20,2002
+33,43.0,,,4.0,103,Cuesta \xcd\xf1igo,104,Cofidis,,\u25bc1,20,2002
+28,148.0,,,4.0,110,Mikhailov Guennady,105,Lotto - Adecco,,\u25b25,20,2002
+32,143.0,,,4.0,104,Baguet Serge,106,Lotto - Adecco,,\u25bc2,20,2002
+31,49.0,,,4.0,105,Vasseur C\xe9dric,107,Cofidis,,\u25bc2,20,2002
+30,53.0,,,3.0,107,Peron Andrea,108,CSC ProTeam - Tiscali,,\u25bc1,20,2002
+32,99.0,,,3.0,108,Robin Jean-Cyril,109,La Fran\xe7aise des Jeux,,\u25bc1,20,2002
+24,26.0,,,2.0,109,Nozal Isidro,110,O.N.C.E. - Eroski,,\u25bc1,20,2002
+30,62.0,,,2.0,111,Bessy Fr\xe9d\xe9ric,111,Cr\xe9dit Agricole,,-,20,2002
+29,198.0,,,2.0,112,Moreni Cristian,112,Alessio,,-,20,2002
+29,9.0,,,2.0,113,Rubiera Jos\xe9 Luis,113,US Postal Service,,-,20,2002
+31,19.0,,,2.0,114,Wesemann Steffen,114,Team Telekom,,-,20,2002

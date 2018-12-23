@@ -1,0 +1,763 @@
+Age,Avg,Pnt,Rider,Rnk,Team,stage,year
+29.0,,50.0,Boardman Christopher,1,GAN,0,1998
+27.0,,30.0,Moreau Christophe,2,Festina - Lotus,0,1998
+29.0,,18.0,Jalabert Laurent,3,O.N.C.E.,0,1998
+25.0,,13.0,Baranowski Dariusz,4,US Postal Service,0,1998
+29.0,,10.0,Jonker Patrick,5,Rabobank ProTeam,0,1998
+25.0,,7.0,Jalabert Nicolas,6,Cofidis,0,1998
+33.0,,4.0,S\xf8rensen Rolf,7,Rabobank ProTeam,0,1998
+35.0,,3.0,Bourguignon Thierry,8,BigMat - Auber 93,0,1998
+30.0,,2.0,Capelle Christophe,9,Cofidis,0,1998
+23.0,,1.0,Verbrugghe Rik,10,Lotto - Mobistar,0,1998
+29.0,,,Llaneras Juan,11,,0,1998
+29.0,,,Thibout Bruno,12,Cofidis,0,1998
+30.0,,,Brochard Laurent,13,Festina - Lotus,0,1998
+27.0,,,Odriozola Jon,14,Banesto,0,1998
+30.0,,,Teteriouk Andrei,15,Lotto - Mobistar,0,1998
+28.0,,,Desbiens Laurent,16,Cofidis,0,1998
+21.0,,,Lefevre Laurent,17,Festina - Lotus,0,1998
+27.0,,,Rous Didier,18,Festina - Lotus,0,1998
+23.0,,,Perez Luis,19,O.N.C.E.,0,1998
+27.0,,,Vasseur C\xe9dric,20,GAN,0,1998
+24.0,,,Vinokourov Alexandre,21,Casino - AG2R,0,1998
+24.0,,,Bouyer Franck,22,La Fran\xe7aise des Jeux,0,1998
+32.0,,,Ekimov Viatcheslav,23,US Postal Service,0,1998
+28.0,,,Hamburger Bo,24,Casino - AG2R,0,1998
+29.0,,,De Las Cuevas Armand,25,Banesto,0,1998
+28.0,,,Zarrabeitia Mikel,26,O.N.C.E.,0,1998
+33.0,,,Bruyneel Johan,27,O.N.C.E.,0,1998
+26.0,,,Julich Bobby,28,Cofidis,0,1998
+28.0,,,Vidal Jos\xe9 Angel,29,Kelme - Costa Blanca,0,1998
+34.0,,,Stephens Neil,30,Festina - Lotus,0,1998
+29.0,,,Gouvenou Thierry,31,BigMat - Auber 93,0,1998
+28.0,,,Bouvard Gilles,32,Casino - AG2R,0,1998
+29.0,,,Teyssier Francisque,33,Mutuelle de Seine-et-Marne,0,1998
+29.0,,,Maignan Gilles,34,Mutuelle de Seine-et-Marne,0,1998
+32.0,,,Meinert-Nielsen Peter,35,US Postal Service,0,1998
+29.0,,,Cuesta \xcd\xf1igo,36,O.N.C.E.,0,1998
+31.0,,,Bolts Udo,37,Team Telekom - ARD,0,1998
+28.0,,,Vierhouten Aart,38,Rabobank ProTeam,0,1998
+26.0,,,Voigt Jens,39,GAN,0,1998
+29.0,,,Moncassin Fr\xe9d\xe9ric,40,GAN,0,1998
+27.0,,,Genty Laurent,41,BigMat - Auber 93,0,1998
+25.0,,,Barthe St\xe9phane,42,Casino - AG2R,0,1998
+29.0,,,Simon Fran\xe7ois,43,GAN,0,1998
+28.0,,,Berzin Yewgeni,44,La Fran\xe7aise des Jeux,0,1998
+27.0,,,Solaun Cesar,45,Banesto,0,1998
+27.0,,,Steinhauser Tobias,46,Vitalicio Seguros,0,1998
+29.0,,,Aldag Rolf,47,Team Telekom - ARD,0,1998
+34.0,,,Poli Eros,48,GAN,0,1998
+23.0,,,Blanco Santiago,49,Vitalicio Seguros,0,1998
+29.0,,,Djavanian Viatcheslav,50,BigMat - Auber 93,0,1998
+28.0,,,Virenque Richard,51,Festina - Lotus,0,1998
+27.0,,,Pe\xf1a Miguel \xc1ngel,52,Banesto,0,1998
+29.0,,,Cabello Francisco,53,Kelme - Costa Blanca,0,1998
+26.0,,,Boogerd Michael,54,Rabobank ProTeam,0,1998
+23.0,,,Morin Anthony,55,La Fran\xe7aise des Jeux,0,1998
+25.0,,,Serrano Marcos Antonio,56,Kelme - Costa Blanca,0,1998
+34.0,,,Henn Christian,57,Team Telekom - ARD,0,1998
+24.0,,,Vaughters Jonathan,58,US Postal Service,0,1998
+27.0,,,Auger Ludovic,59,BigMat - Auber 93,0,1998
+28.0,,,Agnolutto Christophe,60,Casino - AG2R,0,1998
+32.0,,,Mauleon Francisco Javier,61,O.N.C.E.,0,1998
+30.0,,,Chanteur Pascal,62,Casino - AG2R,0,1998
+23.0,,,Sastre Carlos,63,O.N.C.E.,0,1998
+27.0,,,Delrieu David,64,Mutuelle de Seine-et-Marne,0,1998
+24.0,,,Salmon Benoit,65,Casino - AG2R,0,1998
+28.0,,,Robin Jean-Cyril,66,US Postal Service,0,1998
+34.0,,,Vanzella Flavio,67,La Fran\xe7aise des Jeux,0,1998
+25.0,,,Casero Angel Luis,68,Vitalicio Seguros,0,1998
+24.0,,,Halgand Patrice,69,Festina - Lotus,0,1998
+27.0,,,Totschnig Georg,70,Team Telekom - ARD,0,1998
+23.0,,,Nazon Damien,71,La Fran\xe7aise des Jeux,0,1998
+31.0,,,Sciandri Maximilian,72,La Fran\xe7aise des Jeux,0,1998
+27.0,,,Derame Pascal,73,US Postal Service,0,1998
+24.0,,,Gonzalez Santos,74,Kelme - Costa Blanca,0,1998
+32.0,,,Rodriguez Jos\xe9 Luis,75,Kelme - Costa Blanca,0,1998
+30.0,,,Dojwa Jean-philippe,76,,0,1998
+25.0,,,Livingston Kevin,77,Cofidis,0,1998
+33.0,,,Heppner Jens,78,Team Telekom - ARD,0,1998
+32.0,,,Massi Rodolfo,79,Casino - AG2R,0,1998
+22.0,,,Osa Unai,80,Banesto,0,1998
+33.0,,,Herv\xe9 Pascal,81,Festina - Lotus,0,1998
+29.0,,,Indurain Prudencio,82,Vitalicio Seguros,0,1998
+28.0,,,Garcia David,83,Vitalicio Seguros,0,1998
+23.0,,,Jonasson Danny,84,Rabobank ProTeam,0,1998
+24.0,,,Hinault S\xe9bastien,85,GAN,0,1998
+27.0,,,Benitez Francisco,86,Vitalicio Seguros,0,1998
+29.0,,,Hundertmarck Kai,87,Team Telekom - ARD,0,1998
+30.0,,,Rinc\xf3n Oliveiro,88,Vitalicio Seguros,0,1998
+24.0,,,Saugrain Cyril,89,Cofidis,0,1998
+28.0,,,Ledanois Yvon,90,La Fran\xe7aise des Jeux,0,1998
+28.0,,,Goubert Stephane,91,Cofidis,0,1998
+28.0,,,Talmant Gilles,92,Mutuelle de Seine-et-Marne,0,1998
+22.0,,,Osa Unai,93,Banesto,0,1998
+29.0,,,Farazijn Peter,94,Lotto - Mobistar,0,1998
+24.0,,,Lotz Marc,95,Rabobank ProTeam,0,1998
+27.0,,,Gonzalez I\xf1igo,96,Vitalicio Seguros,0,1998
+26.0,,,Bernard J\xe9r\xf4me,97,Mutuelle de Seine-et-Marne,0,1998
+26.0,,,Boven Jan,98,Rabobank ProTeam,0,1998
+27.0,,,Petilleau Stephane,99,GAN,0,1998
+31.0,,,Sierra Roberto,100,O.N.C.E.,0,1998
+28.0,,,Jan Xavier,101,La Fran\xe7aise des Jeux,0,1998
+25.0,,,Verheyen Geert,102,Lotto - Mobistar,0,1998
+27.0,,,Jimenez Jose Maria,103,Banesto,0,1998
+26.0,,,van de Wouwer Kurt,104,Lotto - Mobistar,0,1998
+25.0,,,Teutenberg Sven,105,US Postal Service,0,1998
+31.0,,,Madouas Laurent,106,Lotto - Mobistar,0,1998
+26.0,,,Lebreton Lylian,107,BigMat - Auber 93,0,1998
+33.0,,,Leproux Denis,108,,0,1998
+31.0,,,Frattini Francesco,109,Team Telekom - ARD,0,1998
+28.0,,,Lamour Claude,110,Mutuelle de Seine-et-Marne,0,1998
+27.0,,,Rault Dominique,111,Mutuelle de Seine-et-Marne,0,1998
+29.0,,,Bordenave Philippe,112,BigMat - Auber 93,0,1998
+24.0,,,Gomez Jose Javier,113,Kelme - Costa Blanca,0,1998
+22.0,,,De Wolf Steve,114,Lotto - Mobistar,0,1998
+,,,Contreras Alberto,115,,0,1998
+27.0,,,Pascual Javier,116,Kelme - Colombia,0,1998
+25.0,,,Laukka Joona,117,Lotto - Mobistar,0,1998
+28.0,,,Lombardi Giovanni,118,Team Telekom - ARD,0,1998
+27.0,,,Fernandez Gines Manuel,119,Banesto,0,1998
+24.0,,,Moerenhout Koos,120,Rabobank ProTeam,0,1998
+31.0,,50.0,Sciandri Maximilian,1,La Fran\xe7aise des Jeux,1,1998
+26.0,,30.0,Voigt Jens,2,GAN,1,1998
+30.0,,18.0,Capelle Christophe,3,Cofidis,1,1998
+28.0,,13.0,Lombardi Giovanni,4,Team Telekom - ARD,1,1998
+29.0,,10.0,Djavanian Viatcheslav,5,BigMat - Auber 93,1,1998
+25.0,,7.0,Barthe St\xe9phane,6,Casino - AG2R,1,1998
+23.0,,4.0,Nazon Damien,7,La Fran\xe7aise des Jeux,1,1998
+25.0,,3.0,Verheyen Geert,8,Lotto - Mobistar,1,1998
+28.0,,2.0,Lamour Claude,9,Mutuelle de Seine-et-Marne,1,1998
+28.0,,1.0,Vierhouten Aart,10,Rabobank ProTeam,1,1998
+29.0,,,Simon Fran\xe7ois,11,GAN,1,1998
+25.0,,,Jalabert Nicolas,12,Cofidis,1,1998
+27.0,,,Benitez Francisco,13,Vitalicio Seguros,1,1998
+29.0,,,Moncassin Fr\xe9d\xe9ric,14,GAN,1,1998
+27.0,,,Moreau Christophe,15,Festina - Lotus,1,1998
+24.0,,,Hinault S\xe9bastien,16,GAN,1,1998
+78.0,,,Vidal Jos\xe9,17,,1,1998
+29.0,,,Jalabert Laurent,18,O.N.C.E.,1,1998
+22.0,,,Osa Unai,19,Banesto,1,1998
+27.0,,,Vasseur C\xe9dric,20,GAN,1,1998
+23.0,,50.0,Nazon Damien,1,La Fran\xe7aise des Jeux,2,1998
+25.0,,30.0,Barthe St\xe9phane,2,Casino - AG2R,2,1998
+30.0,,18.0,Capelle Christophe,3,Cofidis,2,1998
+28.0,,13.0,Lombardi Giovanni,4,Team Telekom - ARD,2,1998
+29.0,,10.0,Jalabert Laurent,5,O.N.C.E.,2,1998
+29.0,,7.0,Djavanian Viatcheslav,6,BigMat - Auber 93,2,1998
+32.0,,4.0,Ekimov Viatcheslav,7,US Postal Service,2,1998
+28.0,,3.0,Lamour Claude,8,Mutuelle de Seine-et-Marne,2,1998
+27.0,,2.0,Moreau Christophe,9,Festina - Lotus,2,1998
+28.0,,1.0,Agnolutto Christophe,10,Casino - AG2R,2,1998
+24.0,,,Moerenhout Koos,11,Rabobank ProTeam,2,1998
+29.0,,,Simon Fran\xe7ois,12,GAN,2,1998
+26.0,,,Voigt Jens,13,GAN,2,1998
+34.0,,,Henn Christian,14,Team Telekom - ARD,2,1998
+28.0,,,Vidal Jos\xe9 Angel,15,Kelme - Costa Blanca,2,1998
+30.0,,,Chanteur Pascal,16,Casino - AG2R,2,1998
+29.0,,,Thibout Bruno,17,Cofidis,2,1998
+29.0,,,Aldag Rolf,18,Team Telekom - ARD,2,1998
+31.0,,,Sciandri Maximilian,19,La Fran\xe7aise des Jeux,2,1998
+32.0,,,Rodriguez Jos\xe9 Luis,20,Kelme - Costa Blanca,2,1998
+26.0,,,Julich Bobby,21,Cofidis,2,1998
+29.0,,,Gouvenou Thierry,22,BigMat - Auber 93,2,1998
+29.0,,,De Las Cuevas Armand,23,Banesto,2,1998
+29.0,,,Jonker Patrick,24,Rabobank ProTeam,2,1998
+27.0,,,Vasseur C\xe9dric,25,GAN,2,1998
+27.0,,,Delrieu David,26,Mutuelle de Seine-et-Marne,2,1998
+25.0,,,Verheyen Geert,27,Lotto - Mobistar,2,1998
+27.0,,,Benitez Francisco,28,Vitalicio Seguros,2,1998
+28.0,,,Ledanois Yvon,29,La Fran\xe7aise des Jeux,2,1998
+28.0,,,Bouvard Gilles,30,Casino - AG2R,2,1998
+22.0,,,Osa Unai,31,Banesto,2,1998
+28.0,,,Virenque Richard,32,Festina - Lotus,2,1998
+22.0,,,Osa Unai,33,Banesto,2,1998
+31.0,,,Madouas Laurent,34,Lotto - Mobistar,2,1998
+35.0,,,Bourguignon Thierry,35,BigMat - Auber 93,2,1998
+27.0,,,Genty Laurent,36,BigMat - Auber 93,2,1998
+27.0,,,Rous Didier,37,Festina - Lotus,2,1998
+26.0,,,Boogerd Michael,38,Rabobank ProTeam,2,1998
+27.0,,,Gonzalez I\xf1igo,39,Vitalicio Seguros,2,1998
+24.0,,,Bouyer Franck,40,La Fran\xe7aise des Jeux,2,1998
+24.0,,,Salmon Benoit,41,Casino - AG2R,2,1998
+24.0,,,Vinokourov Alexandre,42,Casino - AG2R,2,1998
+29.0,,,Teyssier Francisque,43,Mutuelle de Seine-et-Marne,2,1998
+28.0,,,Robin Jean-Cyril,44,US Postal Service,2,1998
+33.0,,,S\xf8rensen Rolf,45,Rabobank ProTeam,2,1998
+25.0,,,Baranowski Dariusz,46,US Postal Service,2,1998
+28.0,,,Hamburger Bo,47,Casino - AG2R,2,1998
+33.0,,,Herv\xe9 Pascal,48,Festina - Lotus,2,1998
+25.0,,,Laukka Joona,49,Lotto - Mobistar,2,1998
+28.0,,,Garcia David,50,Vitalicio Seguros,2,1998
+26.0,,,Lebreton Lylian,51,BigMat - Auber 93,2,1998
+27.0,,,Totschnig Georg,52,Team Telekom - ARD,2,1998
+30.0,,,Brochard Laurent,53,Festina - Lotus,2,1998
+29.0,,,Hundertmarck Kai,54,Team Telekom - ARD,2,1998
+31.0,,,Frattini Francesco,55,Team Telekom - ARD,2,1998
+29.0,,,Boardman Christopher,56,GAN,2,1998
+28.0,,,Jan Xavier,57,La Fran\xe7aise des Jeux,2,1998
+33.0,,,Bruyneel Johan,58,O.N.C.E.,2,1998
+27.0,,,Odriozola Jon,59,Banesto,2,1998
+24.0,,,Lotz Marc,60,Rabobank ProTeam,2,1998
+27.0,,,Solaun Cesar,61,Banesto,2,1998
+23.0,,,Morin Anthony,62,La Fran\xe7aise des Jeux,2,1998
+34.0,,,Stephens Neil,63,Festina - Lotus,2,1998
+23.0,,,Verbrugghe Rik,64,Lotto - Mobistar,2,1998
+30.0,,,Teteriouk Andrei,65,Lotto - Mobistar,2,1998
+23.0,,,Jonasson Danny,66,Rabobank ProTeam,2,1998
+33.0,,,Heppner Jens,67,Team Telekom - ARD,2,1998
+30.0,,,Indurain Prudencio,68,Vitalicio Seguros,2,1998
+23.0,,,Blanco Santiago,69,Vitalicio Seguros,2,1998
+32.0,,,Massi Rodolfo,70,Casino - AG2R,2,1998
+29.0,,,Maignan Gilles,71,Mutuelle de Seine-et-Marne,2,1998
+23.0,,,Perez Luis,72,O.N.C.E.,2,1998
+26.0,,,van de Wouwer Kurt,73,Lotto - Mobistar,2,1998
+27.0,,,Pe\xf1a Miguel \xc1ngel,74,Banesto,2,1998
+31.0,,,Bolts Udo,75,Team Telekom - ARD,2,1998
+25.0,,,Casero Angel Luis,76,Vitalicio Seguros,2,1998
+25.0,,,Livingston Kevin,77,Cofidis,2,1998
+32.0,,,Meinert-Nielsen Peter,78,US Postal Service,2,1998
+27.0,,,Fernandez Gines Manuel,79,Banesto,2,1998
+24.0,,,Gomez Jose Javier,80,Kelme - Costa Blanca,2,1998
+29.0,,,Cabello Francisco,81,Kelme - Costa Blanca,2,1998
+25.0,,,Serrano Marcos Antonio,82,Kelme - Costa Blanca,2,1998
+28.0,,,Zarrabeitia Mikel,83,O.N.C.E.,2,1998
+,,,Contreras Alberto,84,,2,1998
+32.0,,,Mauleon Francisco Javier,85,O.N.C.E.,2,1998
+29.0,,,Farazijn Peter,86,Lotto - Mobistar,2,1998
+30.0,,,Dojwa Jean-philippe,87,,2,1998
+28.0,,,Berzin Yewgeni,88,La Fran\xe7aise des Jeux,2,1998
+27.0,,,Derame Pascal,89,US Postal Service,2,1998
+24.0,,,Gonzalez Santos,90,Kelme - Costa Blanca,2,1998
+28.0,,,Goubert Stephane,91,Cofidis,2,1998
+27.0,,,Jimenez Jose Maria,92,Banesto,2,1998
+29.0,,,Cuesta \xcd\xf1igo,93,O.N.C.E.,2,1998
+29.0,,,Bordenave Philippe,94,BigMat - Auber 93,2,1998
+28.0,,,Desbiens Laurent,95,Cofidis,2,1998
+24.0,,,Saugrain Cyril,96,Cofidis,2,1998
+23.0,,,Sastre Carlos,97,O.N.C.E.,2,1998
+27.0,,,Auger Ludovic,98,BigMat - Auber 93,2,1998
+21.0,,,Lefevre Laurent,99,Festina - Lotus,2,1998
+24.0,,,Halgand Patrice,100,Festina - Lotus,2,1998
+26.0,,,Bernard J\xe9r\xf4me,101,Mutuelle de Seine-et-Marne,2,1998
+33.0,,,Leproux Denis,102,,2,1998
+24.0,,,Vaughters Jonathan,103,US Postal Service,2,1998
+27.0,,,Steinhauser Tobias,104,Vitalicio Seguros,2,1998
+27.0,,,Rault Dominique,105,Mutuelle de Seine-et-Marne,2,1998
+28.0,,,Talmant Gilles,106,Mutuelle de Seine-et-Marne,2,1998
+26.0,,,Boven Jan,107,Rabobank ProTeam,2,1998
+28.0,,,Vierhouten Aart,108,Rabobank ProTeam,2,1998
+25.0,,,Jalabert Nicolas,109,Cofidis,2,1998
+29.0,,,Llaneras Juan,110,,2,1998
+34.0,,,Vanzella Flavio,111,La Fran\xe7aise des Jeux,2,1998
+30.0,,,Rinc\xf3n Oliveiro,112,Vitalicio Seguros,2,1998
+31.0,,,Sierra Roberto,113,O.N.C.E.,2,1998
+22.0,,,De Wolf Steve,114,Lotto - Mobistar,2,1998
+27.0,,,Petilleau Stephane,115,GAN,2,1998
+25.0,,,Teutenberg Sven,116,US Postal Service,2,1998
+34.0,,,Poli Eros,117,GAN,2,1998
+24.0,,,Hinault S\xe9bastien,118,GAN,2,1998
+29.0,,,Moncassin Fr\xe9d\xe9ric,119,GAN,2,1998
+27.0,,50.0,Jimenez Jose Maria,1,Banesto,3,1998
+29.0,,30.0,De Las Cuevas Armand,2,Banesto,3,1998
+27.0,,18.0,Pe\xf1a Miguel \xc1ngel,3,Banesto,3,1998
+29.0,,13.0,Jonker Patrick,4,Rabobank ProTeam,3,1998
+26.0,,10.0,van de Wouwer Kurt,5,Lotto - Mobistar,3,1998
+25.0,,7.0,Baranowski Dariusz,6,US Postal Service,3,1998
+26.0,,4.0,Boogerd Michael,7,Rabobank ProTeam,3,1998
+26.0,,3.0,Voigt Jens,8,GAN,3,1998
+30.0,,2.0,Teteriouk Andrei,9,Lotto - Mobistar,3,1998
+24.0,,1.0,Salmon Benoit,10,Casino - AG2R,3,1998
+31.0,,,Madouas Laurent,11,Lotto - Mobistar,3,1998
+28.0,,,Virenque Richard,12,Festina - Lotus,3,1998
+28.0,,,Robin Jean-Cyril,13,US Postal Service,3,1998
+28.0,,,Ledanois Yvon,14,La Fran\xe7aise des Jeux,3,1998
+23.0,,,Verbrugghe Rik,15,Lotto - Mobistar,3,1998
+29.0,,,Jalabert Laurent,16,O.N.C.E.,3,1998
+25.0,,,Livingston Kevin,17,Cofidis,3,1998
+30.0,,,Brochard Laurent,18,Festina - Lotus,3,1998
+28.0,,,Zarrabeitia Mikel,19,O.N.C.E.,3,1998
+35.0,,,Bourguignon Thierry,20,BigMat - Auber 93,3,1998
+29.0,,,Teyssier Francisque,21,Mutuelle de Seine-et-Marne,3,1998
+27.0,,,Solaun Cesar,22,Banesto,3,1998
+26.0,,,Lebreton Lylian,23,BigMat - Auber 93,3,1998
+23.0,,,Blanco Santiago,24,Vitalicio Seguros,3,1998
+24.0,,,Vinokourov Alexandre,25,Casino - AG2R,3,1998
+27.0,,,Vasseur C\xe9dric,26,GAN,3,1998
+28.0,,,Garcia David,27,Vitalicio Seguros,3,1998
+24.0,,,Moerenhout Koos,28,Rabobank ProTeam,3,1998
+29.0,,,Bordenave Philippe,29,BigMat - Auber 93,3,1998
+26.0,,,Julich Bobby,30,Cofidis,3,1998
+28.0,,,Hamburger Bo,31,Casino - AG2R,3,1998
+23.0,,,Morin Anthony,32,La Fran\xe7aise des Jeux,3,1998
+32.0,,,Meinert-Nielsen Peter,33,US Postal Service,3,1998
+27.0,,,Odriozola Jon,34,Banesto,3,1998
+25.0,,,Laukka Joona,35,Lotto - Mobistar,3,1998
+25.0,,,Verheyen Geert,36,Lotto - Mobistar,3,1998
+31.0,,,Sierra Roberto,37,O.N.C.E.,3,1998
+29.0,,,Cuesta \xcd\xf1igo,38,O.N.C.E.,3,1998
+27.0,,,Totschnig Georg,39,Team Telekom - ARD,3,1998
+22.0,,,Osa Unai,40,Banesto,3,1998
+29.0,,,Djavanian Viatcheslav,41,BigMat - Auber 93,3,1998
+27.0,,,Benitez Francisco,42,Vitalicio Seguros,3,1998
+31.0,,,Sciandri Maximilian,43,La Fran\xe7aise des Jeux,3,1998
+27.0,,,Moreau Christophe,44,Festina - Lotus,3,1998
+25.0,,,Casero Angel Luis,45,Vitalicio Seguros,3,1998
+33.0,,,Heppner Jens,46,Team Telekom - ARD,3,1998
+28.0,,,Berzin Yewgeni,47,La Fran\xe7aise des Jeux,3,1998
+28.0,,,Agnolutto Christophe,48,Casino - AG2R,3,1998
+29.0,,,Thibout Bruno,49,Cofidis,3,1998
+27.0,,,Petilleau Stephane,50,GAN,3,1998
+32.0,,,Massi Rodolfo,51,Casino - AG2R,3,1998
+27.0,,,Delrieu David,52,Mutuelle de Seine-et-Marne,3,1998
+25.0,,,Serrano Marcos Antonio,53,Kelme - Costa Blanca,3,1998
+24.0,,,Osa Aitor,54,Banesto,3,1998
+24.0,,,Saugrain Cyril,55,Cofidis,3,1998
+32.0,,,Rodriguez Jos\xe9 Luis,56,Kelme - Costa Blanca,3,1998
+32.0,,,Mauleon Francisco Javier,57,O.N.C.E.,3,1998
+23.0,,,Perez Luis,58,O.N.C.E.,3,1998
+25.0,,,Jalabert Nicolas,59,Cofidis,3,1998
+23.0,,,Sastre Carlos,60,O.N.C.E.,3,1998
+29.0,,,Boardman Christopher,61,GAN,3,1998
+33.0,,,Leproux Denis,62,,3,1998
+27.0,,,Gonzalez I\xf1igo,63,Vitalicio Seguros,3,1998
+30.0,,,Indurain Prudencio,64,Vitalicio Seguros,3,1998
+26.0,,,Boven Jan,65,Rabobank ProTeam,3,1998
+29.0,,,Farazijn Peter,66,Lotto - Mobistar,3,1998
+28.0,,,Vidal Jos\xe9 Angel,67,Kelme - Costa Blanca,3,1998
+25.0,,,Vaughters Jonathan,68,US Postal Service,3,1998
+27.0,,,Genty Laurent,69,BigMat - Auber 93,3,1998
+23.0,,,Jonasson Danny,70,Rabobank ProTeam,3,1998
+29.0,,,Hundertmarck Kai,71,Team Telekom - ARD,3,1998
+29.0,,,Simon Fran\xe7ois,72,GAN,3,1998
+22.0,,,De Wolf Steve,73,Lotto - Mobistar,3,1998
+29.0,,,Maignan Gilles,74,Mutuelle de Seine-et-Marne,3,1998
+29.0,,,Aldag Rolf,75,Team Telekom - ARD,3,1998
+27.0,,,Steinhauser Tobias,76,Vitalicio Seguros,3,1998
+32.0,,,Ekimov Viatcheslav,77,US Postal Service,3,1998
+33.0,,,Herv\xe9 Pascal,78,Festina - Lotus,3,1998
+33.0,,,Bruyneel Johan,79,O.N.C.E.,3,1998
+27.0,,,Fernandez Gines Manuel,80,Banesto,3,1998
+30.0,,,Chanteur Pascal,81,Casino - AG2R,3,1998
+29.0,,,Gouvenou Thierry,82,BigMat - Auber 93,3,1998
+24.0,,,Bouyer Franck,83,La Fran\xe7aise des Jeux,3,1998
+27.0,,,Derame Pascal,84,US Postal Service,3,1998
+34.0,,,Poli Eros,85,GAN,3,1998
+28.0,,,Vierhouten Aart,86,Rabobank ProTeam,3,1998
+25.0,,,Barthe St\xe9phane,87,Casino - AG2R,3,1998
+27.0,,,Auger Ludovic,88,BigMat - Auber 93,3,1998
+30.0,,,Dojwa Jean-philippe,89,,3,1998
+24.0,,,Lotz Marc,90,Rabobank ProTeam,3,1998
+27.0,,,Rault Dominique,91,Mutuelle de Seine-et-Marne,3,1998
+30.0,,,Capelle Christophe,92,Cofidis,3,1998
+28.0,,,Goubert Stephane,93,Cofidis,3,1998
+28.0,,,Lamour Claude,94,Mutuelle de Seine-et-Marne,3,1998
+28.0,,,Jan Xavier,95,La Fran\xe7aise des Jeux,3,1998
+33.0,,,S\xf8rensen Rolf,96,Rabobank ProTeam,3,1998
+24.0,,,Hinault S\xe9bastien,97,GAN,3,1998
+34.0,,,Henn Christian,98,Team Telekom - ARD,3,1998
+29.0,,,Moncassin Fr\xe9d\xe9ric,99,GAN,3,1998
+28.0,,,Bouvard Gilles,100,Casino - AG2R,3,1998
+23.0,,,Nazon Damien,101,La Fran\xe7aise des Jeux,3,1998
+28.0,,,Desbiens Laurent,102,Cofidis,3,1998
+26.0,,,Bernard J\xe9r\xf4me,103,Mutuelle de Seine-et-Marne,3,1998
+27.0,,,Rous Didier,104,Festina - Lotus,3,1998
+31.0,,,Frattini Francesco,105,Team Telekom - ARD,3,1998
+28.0,,,Lombardi Giovanni,106,Team Telekom - ARD,3,1998
+30.0,,,Rinc\xf3n Oliveiro,107,Vitalicio Seguros,3,1998
+28.0,,,Talmant Gilles,108,Mutuelle de Seine-et-Marne,3,1998
+34.0,,,Vanzella Flavio,109,La Fran\xe7aise des Jeux,3,1998
+21.0,,,Lefevre Laurent,110,Festina - Lotus,3,1998
+34.0,,,Stephens Neil,111,Festina - Lotus,3,1998
+24.0,,,Halgand Patrice,112,Festina - Lotus,3,1998
+25.0,,,Teutenberg Sven,113,US Postal Service,3,1998
+24.0,,,Gomez Jose Javier,114,Kelme - Costa Blanca,3,1998
+29.0,,,Cabello Francisco,115,Kelme - Costa Blanca,3,1998
+,,,Contreras Alberto,116,,3,1998
+24.0,,,Gonzalez Santos,117,Kelme - Costa Blanca,3,1998
+29.0,,50.0,Boardman Christopher,1,GAN,4,1998
+29.0,,30.0,Maignan Gilles,2,Mutuelle de Seine-et-Marne,4,1998
+32.0,,18.0,Ekimov Viatcheslav,3,US Postal Service,4,1998
+27.0,,13.0,Moreau Christophe,4,Festina - Lotus,4,1998
+25.0,,10.0,Baranowski Dariusz,5,US Postal Service,4,1998
+25.0,,7.0,Jalabert Nicolas,6,Cofidis,4,1998
+25.0,,4.0,Vaughters Jonathan,7,US Postal Service,4,1998
+33.0,,3.0,Bruyneel Johan,8,O.N.C.E.,4,1998
+26.0,,2.0,Voigt Jens,9,GAN,4,1998
+29.0,,1.0,Teyssier Francisque,10,Mutuelle de Seine-et-Marne,4,1998
+25.0,,,Barthe St\xe9phane,11,Casino - AG2R,4,1998
+29.0,,,Gouvenou Thierry,12,BigMat - Auber 93,4,1998
+26.0,,,Julich Bobby,13,Cofidis,4,1998
+24.0,,,Moerenhout Koos,14,Rabobank ProTeam,4,1998
+30.0,,,Teteriouk Andrei,15,Lotto - Mobistar,4,1998
+29.0,,,De Las Cuevas Armand,16,Banesto,4,1998
+27.0,,,Pe\xf1a Miguel \xc1ngel,17,Banesto,4,1998
+28.0,,,Desbiens Laurent,18,Cofidis,4,1998
+29.0,,,Jonker Patrick,19,Rabobank ProTeam,4,1998
+29.0,,,Thibout Bruno,20,Cofidis,4,1998
+32.0,,,Meinert-Nielsen Peter,21,US Postal Service,4,1998
+23.0,,,Perez Luis,22,O.N.C.E.,4,1998
+35.0,,,Bourguignon Thierry,23,BigMat - Auber 93,4,1998
+24.0,,,Vinokourov Alexandre,24,Casino - AG2R,4,1998
+28.0,,,Zarrabeitia Mikel,25,O.N.C.E.,4,1998
+28.0,,,Virenque Richard,27,Festina - Lotus,4,1998
+23.0,,,Morin Anthony,28,La Fran\xe7aise des Jeux,4,1998
+27.0,,,Auger Ludovic,29,BigMat - Auber 93,4,1998
+23.0,,,Verbrugghe Rik,30,Lotto - Mobistar,4,1998
+30.0,,,Brochard Laurent,31,Festina - Lotus,4,1998
+27.0,,,Derame Pascal,32,US Postal Service,4,1998
+30.0,,,Chanteur Pascal,33,Casino - AG2R,4,1998
+29.0,,,Aldag Rolf,34,Team Telekom - ARD,4,1998
+27.0,,,Totschnig Georg,35,Team Telekom - ARD,4,1998
+27.0,,,Solaun Cesar,36,Banesto,4,1998
+25.0,,,Casero Angel Luis,37,Vitalicio Seguros,4,1998
+27.0,,,Rous Didier,38,Festina - Lotus,4,1998
+30.0,,,Capelle Christophe,39,Cofidis,4,1998
+29.0,,,Simon Fran\xe7ois,40,GAN,4,1998
+32.0,,,Mauleon Francisco Javier,41,O.N.C.E.,4,1998
+24.0,,,Bouyer Franck,42,La Fran\xe7aise des Jeux,4,1998
+33.0,,,Herv\xe9 Pascal,43,Festina - Lotus,4,1998
+28.0,,,Agnolutto Christophe,44,Casino - AG2R,4,1998
+34.0,,,Poli Eros,45,GAN,4,1998
+31.0,,,Sierra Roberto,46,O.N.C.E.,4,1998
+29.0,,,Cuesta \xcd\xf1igo,47,O.N.C.E.,4,1998
+28.0,,,Hamburger Bo,48,Casino - AG2R,4,1998
+28.0,,,Bouvard Gilles,49,Casino - AG2R,4,1998
+28.0,,,Robin Jean-Cyril,50,US Postal Service,4,1998
+28.0,,,Vidal Jos\xe9 Angel,51,Kelme - Costa Blanca,4,1998
+26.0,,,Boogerd Michael,52,Rabobank ProTeam,4,1998
+24.0,,,Saugrain Cyril,53,Cofidis,4,1998
+27.0,,,Vasseur C\xe9dric,54,GAN,4,1998
+27.0,,,Gonzalez I\xf1igo,55,Vitalicio Seguros,4,1998
+27.0,,,Fernandez Gines Manuel,56,Banesto,4,1998
+33.0,,,S\xf8rensen Rolf,57,Rabobank ProTeam,4,1998
+21.0,,,Lefevre Laurent,58,Festina - Lotus,4,1998
+32.0,,,Rodriguez Jos\xe9 Luis,59,Kelme - Costa Blanca,4,1998
+27.0,,,Steinhauser Tobias,60,Vitalicio Seguros,4,1998
+27.0,,,Jimenez Jose Maria,61,Banesto,4,1998
+27.0,,,Genty Laurent,62,BigMat - Auber 93,4,1998
+33.0,,,Leproux Denis,63,,4,1998
+25.0,,,Serrano Marcos Antonio,64,Kelme - Costa Blanca,4,1998
+33.0,,,Heppner Jens,65,Team Telekom - ARD,4,1998
+26.0,,,van de Wouwer Kurt,66,Lotto - Mobistar,4,1998
+25.0,,,Livingston Kevin,67,Cofidis,4,1998
+26.0,,,Lebreton Lylian,68,BigMat - Auber 93,4,1998
+29.0,,,Djavanian Viatcheslav,69,BigMat - Auber 93,4,1998
+29.0,,,Farazijn Peter,70,Lotto - Mobistar,4,1998
+23.0,,,Jonasson Danny,71,Rabobank ProTeam,4,1998
+29.0,,,Hundertmarck Kai,72,Team Telekom - ARD,4,1998
+28.0,,,Ledanois Yvon,73,La Fran\xe7aise des Jeux,4,1998
+24.0,,,Salmon Benoit,74,Casino - AG2R,4,1998
+27.0,,,Delrieu David,75,Mutuelle de Seine-et-Marne,4,1998
+28.0,,,Goubert Stephane,76,Cofidis,4,1998
+26.0,,,Bernard J\xe9r\xf4me,77,Mutuelle de Seine-et-Marne,4,1998
+26.0,,,Boven Jan,78,Rabobank ProTeam,4,1998
+23.0,,,Blanco Santiago,79,Vitalicio Seguros,4,1998
+29.0,,,Cabello Francisco,80,Kelme - Costa Blanca,4,1998
+25.0,,,Laukka Joona,81,Lotto - Mobistar,4,1998
+31.0,,,Madouas Laurent,82,Lotto - Mobistar,4,1998
+27.0,,,Odriozola Jon,83,Banesto,4,1998
+28.0,,,Vierhouten Aart,84,Rabobank ProTeam,4,1998
+30.0,,,Indurain Prudencio,85,Vitalicio Seguros,4,1998
+23.0,,,Sastre Carlos,86,O.N.C.E.,4,1998
+27.0,,,Benitez Francisco,87,Vitalicio Seguros,4,1998
+30.0,,,Dojwa Jean-philippe,88,,4,1998
+25.0,,,Verheyen Geert,89,Lotto - Mobistar,4,1998
+24.0,,,Lotz Marc,90,Rabobank ProTeam,4,1998
+34.0,,,Henn Christian,91,Team Telekom - ARD,4,1998
+31.0,,,Sciandri Maximilian,92,La Fran\xe7aise des Jeux,4,1998
+27.0,,,Rault Dominique,93,Mutuelle de Seine-et-Marne,4,1998
+23.0,,,Nazon Damien,94,La Fran\xe7aise des Jeux,4,1998
+32.0,,,Massi Rodolfo,95,Casino - AG2R,4,1998
+28.0,,,Jan Xavier,96,La Fran\xe7aise des Jeux,4,1998
+24.0,,,Gomez Jose Javier,97,Kelme - Costa Blanca,4,1998
+28.0,,,Garcia David,98,Vitalicio Seguros,4,1998
+24.0,,,Osa Aitor,99,Banesto,4,1998
+31.0,,,Frattini Francesco,100,Team Telekom - ARD,4,1998
+28.0,,,Lamour Claude,101,Mutuelle de Seine-et-Marne,4,1998
+34.0,,,Stephens Neil,102,Festina - Lotus,4,1998
+22.0,,,Osa Unai,103,Banesto,4,1998
+29.0,,,Bordenave Philippe,104,BigMat - Auber 93,4,1998
+27.0,,,Petilleau Stephane,105,GAN,4,1998
+28.0,,,Lombardi Giovanni,106,Team Telekom - ARD,4,1998
+,,,Contreras Alberto,107,,4,1998
+25.0,,,Teutenberg Sven,108,US Postal Service,4,1998
+34.0,,,Vanzella Flavio,109,La Fran\xe7aise des Jeux,4,1998
+24.0,,,Halgand Patrice,110,Festina - Lotus,4,1998
+24.0,,,Hinault S\xe9bastien,111,GAN,4,1998
+28.0,,,Talmant Gilles,112,Mutuelle de Seine-et-Marne,4,1998
+29.0,,,Moncassin Fr\xe9d\xe9ric,113,GAN,4,1998
+22.0,,,De Wolf Steve,114,Lotto - Mobistar,4,1998
+31.0,,50.0,Sciandri Maximilian,1,La Fran\xe7aise des Jeux,5,1998
+28.0,,30.0,Lombardi Giovanni,2,Team Telekom - ARD,5,1998
+25.0,,18.0,Jalabert Nicolas,3,Cofidis,5,1998
+33.0,,13.0,S\xf8rensen Rolf,4,Rabobank ProTeam,5,1998
+30.0,,10.0,Teteriouk Andrei,5,Lotto - Mobistar,5,1998
+28.0,,7.0,Virenque Richard,6,Festina - Lotus,5,1998
+31.0,,4.0,Madouas Laurent,7,Lotto - Mobistar,5,1998
+26.0,,3.0,Boogerd Michael,8,Rabobank ProTeam,5,1998
+28.0,,2.0,Zarrabeitia Mikel,9,O.N.C.E.,5,1998
+35.0,,1.0,Bourguignon Thierry,10,BigMat - Auber 93,5,1998
+31.0,,,Frattini Francesco,11,Team Telekom - ARD,5,1998
+24.0,,,Vinokourov Alexandre,12,Casino - AG2R,5,1998
+26.0,,,Julich Bobby,13,Cofidis,5,1998
+27.0,,,Jimenez Jose Maria,14,Banesto,5,1998
+23.0,,,Verbrugghe Rik,15,Lotto - Mobistar,5,1998
+26.0,,,van de Wouwer Kurt,16,Lotto - Mobistar,5,1998
+25.0,,,Baranowski Dariusz,17,US Postal Service,5,1998
+29.0,,,Djavanian Viatcheslav,18,BigMat - Auber 93,5,1998
+26.0,,,Lebreton Lylian,19,BigMat - Auber 93,5,1998
+27.0,,,Odriozola Jon,20,Banesto,5,1998
+29.0,,,De Las Cuevas Armand,21,Banesto,5,1998
+24.0,,,Salmon Benoit,22,Casino - AG2R,5,1998
+27.0,,,Pe\xf1a Miguel \xc1ngel,23,Banesto,5,1998
+27.0,,,Moreau Christophe,24,Festina - Lotus,5,1998
+27.0,,,Fernandez Gines Manuel,25,Banesto,5,1998
+27.0,,,Totschnig Georg,26,Team Telekom - ARD,5,1998
+29.0,,,Jonker Patrick,27,Rabobank ProTeam,5,1998
+28.0,,,Robin Jean-Cyril,28,US Postal Service,5,1998
+28.0,,,Berzin Yewgeni,29,La Fran\xe7aise des Jeux,5,1998
+,,,Contreras Alberto,30,,5,1998
+26.0,,,Voigt Jens,31,GAN,5,1998
+25.0,,,Casero Angel Luis,32,Vitalicio Seguros,5,1998
+30.0,,,Dojwa Jean-philippe,33,,5,1998
+28.0,,,Goubert Stephane,34,Cofidis,5,1998
+29.0,,,Teyssier Francisque,35,Mutuelle de Seine-et-Marne,5,1998
+29.0,,,Simon Fran\xe7ois,36,GAN,5,1998
+27.0,,,Vasseur C\xe9dric,37,GAN,5,1998
+29.0,,,Cuesta \xcd\xf1igo,38,O.N.C.E.,5,1998
+30.0,,,Brochard Laurent,39,Festina - Lotus,5,1998
+27.0,,,Rous Didier,40,Festina - Lotus,5,1998
+24.0,,,Moerenhout Koos,41,Rabobank ProTeam,5,1998
+23.0,,,Morin Anthony,42,La Fran\xe7aise des Jeux,5,1998
+32.0,,,Mauleon Francisco Javier,43,O.N.C.E.,5,1998
+30.0,,,Indurain Prudencio,44,Vitalicio Seguros,5,1998
+23.0,,,Jonasson Danny,45,Rabobank ProTeam,5,1998
+33.0,,,Bruyneel Johan,46,O.N.C.E.,5,1998
+25.0,,,Verheyen Geert,47,Lotto - Mobistar,5,1998
+34.0,,,Stephens Neil,48,Festina - Lotus,5,1998
+23.0,,,Perez Luis,49,O.N.C.E.,5,1998
+29.0,,,Farazijn Peter,50,Lotto - Mobistar,5,1998
+31.0,,,Sierra Roberto,51,O.N.C.E.,5,1998
+28.0,,,Jan Xavier,52,La Fran\xe7aise des Jeux,5,1998
+27.0,,,Solaun Cesar,53,Banesto,5,1998
+29.0,,,Gouvenou Thierry,54,BigMat - Auber 93,5,1998
+25.0,,,Vaughters Jonathan,55,US Postal Service,5,1998
+33.0,,,Leproux Denis,56,,5,1998
+29.0,,,Bordenave Philippe,57,BigMat - Auber 93,5,1998
+25.0,,,Livingston Kevin,58,Cofidis,5,1998
+27.0,,,Benitez Francisco,59,Vitalicio Seguros,5,1998
+28.0,,,Garcia David,60,Vitalicio Seguros,5,1998
+28.0,,,Agnolutto Christophe,61,Casino - AG2R,5,1998
+23.0,,,Blanco Santiago,62,Vitalicio Seguros,5,1998
+25.0,,,Serrano Marcos Antonio,63,Kelme - Costa Blanca,5,1998
+32.0,,,Meinert-Nielsen Peter,64,US Postal Service,5,1998
+32.0,,,Massi Rodolfo,65,Casino - AG2R,5,1998
+25.0,,,Barthe St\xe9phane,66,Casino - AG2R,5,1998
+27.0,,,Delrieu David,67,Mutuelle de Seine-et-Marne,5,1998
+29.0,,,Maignan Gilles,68,Mutuelle de Seine-et-Marne,5,1998
+24.0,,,Lotz Marc,69,Rabobank ProTeam,5,1998
+27.0,,,Genty Laurent,70,BigMat - Auber 93,5,1998
+24.0,,,Hinault S\xe9bastien,71,GAN,5,1998
+33.0,,,Heppner Jens,72,Team Telekom - ARD,5,1998
+28.0,,,Vierhouten Aart,73,Rabobank ProTeam,5,1998
+28.0,,,Hamburger Bo,74,Casino - AG2R,5,1998
+32.0,,,Ekimov Viatcheslav,75,US Postal Service,5,1998
+32.0,,,Rodriguez Jos\xe9 Luis,76,Kelme - Costa Blanca,5,1998
+28.0,,,Lamour Claude,77,Mutuelle de Seine-et-Marne,5,1998
+25.0,,,Laukka Joona,78,Lotto - Mobistar,5,1998
+29.0,,,Boardman Christopher,79,GAN,5,1998
+27.0,,,Steinhauser Tobias,80,Vitalicio Seguros,5,1998
+23.0,,,Sastre Carlos,81,O.N.C.E.,5,1998
+30.0,,,Chanteur Pascal,82,Casino - AG2R,5,1998
+34.0,,,Henn Christian,83,Team Telekom - ARD,5,1998
+34.0,,,Poli Eros,84,GAN,5,1998
+29.0,,,Aldag Rolf,85,Team Telekom - ARD,5,1998
+27.0,,,Petilleau Stephane,86,GAN,5,1998
+27.0,,,Derame Pascal,87,US Postal Service,5,1998
+29.0,,,Hundertmarck Kai,88,Team Telekom - ARD,5,1998
+27.0,,,Auger Ludovic,89,BigMat - Auber 93,5,1998
+27.0,,,Gonzalez I\xf1igo,90,Vitalicio Seguros,5,1998
+24.0,,,Saugrain Cyril,91,Cofidis,5,1998
+29.0,,,Moncassin Fr\xe9d\xe9ric,92,GAN,5,1998
+24.0,,,Osa Aitor,93,Banesto,5,1998
+22.0,,,De Wolf Steve,94,Lotto - Mobistar,5,1998
+23.0,,,Osa Unai,95,Banesto,5,1998
+29.0,,,Cabello Francisco,96,Kelme - Costa Blanca,5,1998
+28.0,,,Vidal Jos\xe9 Angel,97,Kelme - Costa Blanca,5,1998
+26.0,,,Boven Jan,98,Rabobank ProTeam,5,1998
+25.0,,,Teutenberg Sven,99,US Postal Service,5,1998
+21.0,,,Lefevre Laurent,100,Festina - Lotus,5,1998
+28.0,,50.0,Virenque Richard,1,Festina - Lotus,6,1998
+28.0,,30.0,Robin Jean-Cyril,2,US Postal Service,6,1998
+23.0,,18.0,Verbrugghe Rik,3,Lotto - Mobistar,6,1998
+25.0,,13.0,Livingston Kevin,4,Cofidis,6,1998
+35.0,,10.0,Bourguignon Thierry,5,BigMat - Auber 93,6,1998
+27.0,,7.0,Moreau Christophe,6,Festina - Lotus,6,1998
+26.0,,4.0,van de Wouwer Kurt,7,Lotto - Mobistar,6,1998
+27.0,,3.0,Jimenez Jose Maria,8,Banesto,6,1998
+25.0,,2.0,Baranowski Dariusz,9,US Postal Service,6,1998
+25.0,,1.0,Serrano Marcos Antonio,10,Kelme - Costa Blanca,6,1998
+27.0,,,Totschnig Georg,11,Team Telekom - ARD,6,1998
+27.0,,,Pe\xf1a Miguel \xc1ngel,12,Banesto,6,1998
+33.0,,,Leproux Denis,13,,6,1998
+31.0,,,Madouas Laurent,14,Lotto - Mobistar,6,1998
+28.0,,,Zarrabeitia Mikel,15,O.N.C.E.,6,1998
+29.0,,,De Las Cuevas Armand,16,Banesto,6,1998
+26.0,,,Lebreton Lylian,17,BigMat - Auber 93,6,1998
+30.0,,,Teteriouk Andrei,18,Lotto - Mobistar,6,1998
+26.0,,,Voigt Jens,19,GAN,6,1998
+,,,Contreras Alberto,20,,6,1998
+28.0,,,Hamburger Bo,21,Casino - AG2R,6,1998
+29.0,,,Jonker Patrick,22,Rabobank ProTeam,6,1998
+24.0,,,Salmon Benoit,23,Casino - AG2R,6,1998
+24.0,,,Blanco Santiago,24,Vitalicio Seguros,6,1998
+27.0,,,Vasseur C\xe9dric,25,GAN,6,1998
+29.0,,,Teyssier Francisque,26,Mutuelle de Seine-et-Marne,6,1998
+27.0,,,Rous Didier,27,Festina - Lotus,6,1998
+30.0,,,Brochard Laurent,28,Festina - Lotus,6,1998
+28.0,,,Garcia David,29,Vitalicio Seguros,6,1998
+26.0,,,Boogerd Michael,30,Rabobank ProTeam,6,1998
+27.0,,,Delrieu David,31,Mutuelle de Seine-et-Marne,6,1998
+24.0,,,Vinokourov Alexandre,32,Casino - AG2R,6,1998
+28.0,,,Goubert Stephane,33,Cofidis,6,1998
+32.0,,,Meinert-Nielsen Peter,34,US Postal Service,6,1998
+29.0,,,Bordenave Philippe,35,BigMat - Auber 93,6,1998
+27.0,,,Fernandez Gines Manuel,37,Banesto,6,1998
+29.0,,,Cabello Francisco,38,Kelme - Costa Blanca,6,1998
+23.0,,,Perez Luis,39,O.N.C.E.,6,1998
+25.0,,,Casero Angel Luis,40,Vitalicio Seguros,6,1998
+27.0,,,Odriozola Jon,41,Banesto,6,1998
+32.0,,,Ekimov Viatcheslav,42,US Postal Service,6,1998
+31.0,,,Frattini Francesco,43,Team Telekom - ARD,6,1998
+23.0,,,Jonasson Danny,44,Rabobank ProTeam,6,1998
+27.0,,,Genty Laurent,45,BigMat - Auber 93,6,1998
+28.0,,,Agnolutto Christophe,46,Casino - AG2R,6,1998
+27.0,,,Petilleau Stephane,47,GAN,6,1998
+24.0,,,Saugrain Cyril,48,Cofidis,6,1998
+25.0,,,Jalabert Nicolas,49,Cofidis,6,1998
+32.0,,,Rodriguez Jos\xe9 Luis,50,Kelme - Costa Blanca,6,1998
+29.0,,,Gouvenou Thierry,51,BigMat - Auber 93,6,1998
+34.0,,,Henn Christian,52,Team Telekom - ARD,6,1998
+28.0,,,Jan Xavier,53,La Fran\xe7aise des Jeux,6,1998
+33.0,,,Heppner Jens,54,Team Telekom - ARD,6,1998
+27.0,,,Solaun Cesar,55,Banesto,6,1998
+30.0,,,Chanteur Pascal,56,Casino - AG2R,6,1998
+30.0,,,Dojwa Jean-philippe,57,,6,1998
+27.0,,,Derame Pascal,58,US Postal Service,6,1998
+23.0,,,Sastre Carlos,59,O.N.C.E.,6,1998
+31.0,,,Sierra Roberto,60,O.N.C.E.,6,1998
+29.0,,,Cuesta \xcd\xf1igo,61,O.N.C.E.,6,1998
+27.0,,,Benitez Francisco,62,Vitalicio Seguros,6,1998
+24.0,,,Osa Aitor,63,Banesto,6,1998
+29.0,,,Farazijn Peter,64,Lotto - Mobistar,6,1998
+23.0,,,Osa Unai,65,Banesto,6,1998
+29.0,,,Boardman Christopher,66,GAN,6,1998
+25.0,,,Verheyen Geert,67,Lotto - Mobistar,6,1998
+33.0,,,Bruyneel Johan,68,O.N.C.E.,6,1998
+28.0,,,Vidal Jos\xe9 Angel,69,Kelme - Costa Blanca,6,1998
+28.0,,,Vierhouten Aart,70,Rabobank ProTeam,6,1998
+32.0,,,Mauleon Francisco Javier,71,O.N.C.E.,6,1998
+26.0,,,Julich Bobby,72,Cofidis,6,1998
+29.0,,,Simon Fran\xe7ois,73,GAN,6,1998
+30.0,,,Indurain Prudencio,74,Vitalicio Seguros,6,1998
+29.0,,,Maignan Gilles,75,Mutuelle de Seine-et-Marne,6,1998
+29.0,,,Aldag Rolf,76,Team Telekom - ARD,6,1998
+29.0,,,Hundertmarck Kai,77,Team Telekom - ARD,6,1998
+24.0,,,Moerenhout Koos,78,Rabobank ProTeam,6,1998
+25.0,,,Laukka Joona,79,Lotto - Mobistar,6,1998
+25.0,,,Vaughters Jonathan,80,US Postal Service,6,1998
+28.0,,,Lombardi Giovanni,81,Team Telekom - ARD,6,1998
+29.0,,,Djavanian Viatcheslav,82,BigMat - Auber 93,6,1998
+32.0,,,Massi Rodolfo,83,Casino - AG2R,6,1998
+33.0,,,S\xf8rensen Rolf,84,Rabobank ProTeam,6,1998
+24.0,,,Lotz Marc,85,Rabobank ProTeam,6,1998
+34.0,,,Stephens Neil,86,Festina - Lotus,6,1998
+27.0,,,Steinhauser Tobias,87,Vitalicio Seguros,6,1998
+28.0,,,Lamour Claude,88,Mutuelle de Seine-et-Marne,6,1998
+25.0,,,Barthe St\xe9phane,89,Casino - AG2R,6,1998
+27.0,,,Auger Ludovic,90,BigMat - Auber 93,6,1998
+23.0,,,Morin Anthony,91,La Fran\xe7aise des Jeux,6,1998
+31.0,,,Sciandri Maximilian,92,La Fran\xe7aise des Jeux,6,1998
+34.0,,,Poli Eros,93,GAN,6,1998
+25.0,,,Teutenberg Sven,94,US Postal Service,6,1998
+27.0,,50.0,Pe\xf1a Miguel \xc1ngel,1,Banesto,7,1998
+27.0,,30.0,Jimenez Jose Maria,2,Banesto,7,1998
+29.0,,18.0,De Las Cuevas Armand,3,Banesto,7,1998
+30.0,,13.0,Teteriouk Andrei,4,Lotto - Mobistar,7,1998
+28.0,,10.0,Virenque Richard,5,Festina - Lotus,7,1998
+26.0,,7.0,van de Wouwer Kurt,6,Lotto - Mobistar,7,1998
+,,4.0,Contreras Alberto,7,,7,1998
+28.0,,3.0,Robin Jean-Cyril,8,US Postal Service,7,1998
+27.0,,2.0,Totschnig Georg,9,Team Telekom - ARD,7,1998
+26.0,,1.0,Boogerd Michael,10,Rabobank ProTeam,7,1998
+27.0,,,Moreau Christophe,11,Festina - Lotus,7,1998
+35.0,,,Bourguignon Thierry,12,BigMat - Auber 93,7,1998
+25.0,,,Baranowski Dariusz,13,US Postal Service,7,1998
+24.0,,,Salmon Benoit,14,Casino - AG2R,7,1998
+27.0,,,Odriozola Jon,15,Banesto,7,1998
+33.0,,,Leproux Denis,16,,7,1998
+26.0,,,Lebreton Lylian,17,BigMat - Auber 93,7,1998
+29.0,,,Jonker Patrick,18,Rabobank ProTeam,7,1998
+24.0,,,Blanco Santiago,19,Vitalicio Seguros,7,1998
+31.0,,,Madouas Laurent,20,Lotto - Mobistar,7,1998
+25.0,,,Serrano Marcos Antonio,21,Kelme - Costa Blanca,7,1998
+23.0,,,Verbrugghe Rik,22,Lotto - Mobistar,7,1998
+26.0,,,Voigt Jens,23,GAN,7,1998
+26.0,,,Julich Bobby,24,Cofidis,7,1998
+25.0,,,Livingston Kevin,25,Cofidis,7,1998
+28.0,,,Zarrabeitia Mikel,26,O.N.C.E.,7,1998
+29.0,,,Simon Fran\xe7ois,27,GAN,7,1998
+27.0,,,Vasseur C\xe9dric,28,GAN,7,1998
+33.0,,,Heppner Jens,29,Team Telekom - ARD,7,1998
+25.0,,,Jalabert Nicolas,30,Cofidis,7,1998
+29.0,,,Boardman Christopher,31,GAN,7,1998
+30.0,,,Brochard Laurent,32,Festina - Lotus,7,1998
+32.0,,,Mauleon Francisco Javier,33,O.N.C.E.,7,1998
+27.0,,,Delrieu David,34,Mutuelle de Seine-et-Marne,7,1998
+24.0,,,Saugrain Cyril,35,Cofidis,7,1998
+29.0,,,Aldag Rolf,36,Team Telekom - ARD,7,1998
+28.0,,,Goubert Stephane,37,Cofidis,7,1998
+32.0,,,Meinert-Nielsen Peter,38,US Postal Service,7,1998
+29.0,,,Bordenave Philippe,39,BigMat - Auber 93,7,1998
+32.0,,,Massi Rodolfo,40,Casino - AG2R,7,1998
+23.0,,,Perez Luis,41,O.N.C.E.,7,1998
+29.0,,,Djavanian Viatcheslav,42,BigMat - Auber 93,7,1998
+28.0,,,Jan Xavier,43,La Fran\xe7aise des Jeux,7,1998
+24.0,,,Vinokourov Alexandre,44,Casino - AG2R,7,1998
+30.0,,,Chanteur Pascal,45,Casino - AG2R,7,1998
+27.0,,,Rous Didier,46,Festina - Lotus,7,1998
+23.0,,,Sastre Carlos,47,O.N.C.E.,7,1998
+25.0,,,Verheyen Geert,48,Lotto - Mobistar,7,1998
+30.0,,,Indurain Prudencio,49,Vitalicio Seguros,7,1998
+28.0,,,Garcia David,50,Vitalicio Seguros,7,1998
+27.0,,,Benitez Francisco,51,Vitalicio Seguros,7,1998
+32.0,,,Rodriguez Jos\xe9 Luis,52,Kelme - Costa Blanca,7,1998
+30.0,,,Dojwa Jean-philippe,53,,7,1998
+33.0,,,Bruyneel Johan,54,O.N.C.E.,7,1998
+27.0,,,Genty Laurent,55,BigMat - Auber 93,7,1998
+24.0,,,Moerenhout Koos,56,Rabobank ProTeam,7,1998
+23.0,,,Jonasson Danny,57,Rabobank ProTeam,7,1998
+29.0,,,Cuesta \xcd\xf1igo,58,O.N.C.E.,7,1998
+29.0,,,Cabello Francisco,59,Kelme - Costa Blanca,7,1998
+27.0,,,Petilleau Stephane,60,GAN,7,1998
+28.0,,,Vidal Jos\xe9 Angel,61,Kelme - Costa Blanca,7,1998
+25.0,,,Casero Angel Luis,62,Vitalicio Seguros,7,1998
+25.0,,,Vaughters Jonathan,63,US Postal Service,7,1998
+28.0,,,Berzin Yewgeni,64,La Fran\xe7aise des Jeux,7,1998
+29.0,,,Gouvenou Thierry,65,BigMat - Auber 93,7,1998
+28.0,,,Hamburger Bo,66,Casino - AG2R,7,1998
+27.0,,,Steinhauser Tobias,67,Vitalicio Seguros,7,1998
+29.0,,,Teyssier Francisque,68,Mutuelle de Seine-et-Marne,7,1998
+31.0,,,Sciandri Maximilian,69,La Fran\xe7aise des Jeux,7,1998
+28.0,,,Lamour Claude,70,Mutuelle de Seine-et-Marne,7,1998
+29.0,,,Hundertmarck Kai,71,Team Telekom - ARD,7,1998
+25.0,,,Teutenberg Sven,72,US Postal Service,7,1998
+28.0,,,Vierhouten Aart,73,Rabobank ProTeam,7,1998
+28.0,,,Agnolutto Christophe,74,Casino - AG2R,7,1998
+33.0,,,S\xf8rensen Rolf,75,Rabobank ProTeam,7,1998
+29.0,,,Farazijn Peter,76,Lotto - Mobistar,7,1998
+34.0,,,Poli Eros,77,GAN,7,1998
+23.0,,,Morin Anthony,78,La Fran\xe7aise des Jeux,7,1998
+24.0,,,Lotz Marc,79,Rabobank ProTeam,7,1998
+25.0,,,Laukka Joona,80,Lotto - Mobistar,7,1998

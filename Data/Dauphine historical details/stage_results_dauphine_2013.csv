@@ -1,0 +1,1353 @@
+Age,Avg,BIB,GC,GC-Time,Pnt,Rider,Rnk,Team,Time,UCI,stage,year
+25,,148,1.0,+0:00,50.0,Veilleux David,1,Team Europcar,3:17:35 3:17:35,6.0,1,2013
+27,,155,2.0,+1:56,30.0,Meersman Gianni,2,Omega Pharma - Quick-Step,1:56 1:56,4.0,1,2013
+23,,55,3.0,+1:57,18.0,Slagter Tom-Jelte,3,Blanco Pro Cycling Team,1:57 1:57,2.0,1,2013
+28,,6,4.0,+1:57,13.0,Porte Richie,4,Sky Procycling,",, 1:57",1.0,1,2013
+28,,1,5.0,+1:57,10.0,Froome Christopher,5,Sky Procycling,",, 1:57",1.0,1,2013
+24,,176,6.0,+1:57,7.0,Madrazo \xc1ngel,6,Movistar Team,",, 1:57",,1,2013
+28,,31,7.0,+1:57,4.0,Fuglsang Jakob,7,Astana Pro Team,",, 1:57",,1,2013
+33,,171,8.0,+1:57,3.0,Valverde Alejandro,8,Movistar Team,",, 1:57",,1,2013
+25,,64,9.0,+1:57,2.0,Gallopin Tony,9,RadioShack - Leopard,",, 1:57",,1,2013
+25,,211,10.0,+1:57,1.0,K\xf6nig Leopold,10,Team NetApp \u2013 Endura,",, 1:57",,1,2013
+30,,11,11.0,+1:57,,Contador Alberto,11,Team Saxo - Tinkoff,",, 1:57",,1,2013
+24,,138,12.0,+1:57,,Vichot Arthur,12,FDJ.fr,",, 1:57",,1,2013
+21,,191,13.0,+1:57,,Barguil Warren,13,Team Argos - Shimano,",, 1:57",,1,2013
+33,,16,14.0,+1:57,,Rogers Michael,14,Team Saxo - Tinkoff,",, 1:57",,1,2013
+25,,92,15.0,+1:57,,Bagot Yoann,15,"Cofidis, Solutions Cr\xe9dits",",, 1:57",,1,2013
+30,,21,16.0,+1:57,,Van den Broeck Jurgen,16,Lotto Belisol Team,",, 1:57",,1,2013
+35,,101,17.0,+1:57,,S\xe1nchez Samuel,17,Euskaltel - Euskadi,",, 1:57",,1,2013
+26,,164,18.0,+1:57,,Koren Kristijan,18,Cannondale Pro Cycling Team,",, 1:57",,1,2013
+25,,105,19.0,+1:57,,Izagirre Gorka,19,Euskaltel - Euskadi,",, 1:57",,1,2013
+26,,97,20.0,+1:57,,Taaram\xe4e Rein,20,"Cofidis, Solutions Cr\xe9dits",",, 1:57",,1,2013
+23,,113,21.0,+1:57,,Dennis Rohan,21,Garmin Sharp,",, 1:57",,1,2013
+26,,24,22.0,+1:57,,De Clercq Bart,22,Lotto Belisol Team,",, 1:57",,1,2013
+29,,96,23.0,+1:57,,Navarro Daniel,23,"Cofidis, Solutions Cr\xe9dits",",, 1:57",,1,2013
+30,,52,24.0,+1:57,,Clement Stef,24,Blanco Pro Cycling Team,",, 1:57",,1,2013
+32,,93,25.0,+1:57,,Le M\xe9vel Christophe,25,"Cofidis, Solutions Cr\xe9dits",",, 1:57",,1,2013
+23,,44,26.0,+1:57,,Nerz Dominik,26,BMC Racing Team,",, 1:57",,1,2013
+30,,68,27.0,+1:57,,Rohregger Thomas,27,RadioShack - Leopard,",, 1:57",,1,2013
+25,,134,28.0,+1:57,,Geniez Alexandre,28,FDJ.fr,",, 1:57",,1,2013
+27,,8,29.0,+1:57,,Thomas Geraint,29,Sky Procycling,",, 1:57",,1,2013
+32,,51,30.0,+1:57,,ten Dam Laurens,30,Blanco Pro Cycling Team,",, 1:57",,1,2013
+23,,3,31.0,+1:57,,Kennaugh Peter,31,Sky Procycling,",, 1:57",,1,2013
+26,,147,32.0,+1:57,,Rolland Pierre,32,Team Europcar,",, 1:57",,1,2013
+34,,81,33.0,+1:57,,Rodr\xedguez Joaquim,33,Team Katusha,",, 1:57",,1,2013
+23,,152,34.0,+1:57,,Kwiatkowski Michal,34,Omega Pharma - Quick-Step,",, 1:57",,1,2013
+25,,187,35.0,+1:57,,Poels Wout,35,Vacansoleil - DCM,",, 1:57",,1,2013
+35,,177,36.0,+1:57,,Szmyd Sylwester,36,Movistar Team,",, 1:57",,1,2013
+26,,37,37.0,+1:57,,Seeldraeyers Kevin,37,Astana Pro Team,",, 1:57",,1,2013
+25,,38,38.0,+1:57,,Silin Egor,38,Astana Pro Team,",, 1:57",,1,2013
+30,,206,39.0,+1:57,,Guillou Florian,39,Bretagne - S\xe9ch\xe9 Environnement,",, 1:57",,1,2013
+26,,172,40.0,+1:57,,Capecchi Eros,40,Movistar Team,",, 1:57",,1,2013
+30,,188,41.0,+1:57,,Westra Lieuwe,41,Vacansoleil - DCM,",, 1:57",,1,2013
+29,,47,42.0,+1:57,,Santaromita Ivan,42,BMC Racing Team,",, 1:57",,1,2013
+26,,65,43.0,+1:57,,Hermans Ben,43,RadioShack - Leopard,",, 1:57",,1,2013
+31,,88,44.0,+1:57,,Moreno Daniel,44,Team Katusha,",, 1:57",,1,2013
+33,,102,45.0,+1:57,,Astarloza Mikel,45,Euskaltel - Euskadi,",, 1:57",,1,2013
+23,,95,46.0,+1:57,,Molard Rudy,46,"Cofidis, Solutions Cr\xe9dits",",, 1:57",,1,2013
+27,,163,47.0,+1:57,,De Marchi Alessandro,47,Cannondale Pro Cycling Team,",, 1:57",,1,2013
+32,,5,48.0,+1:57,,Lopez David,48,Sky Procycling,",, 1:57",,1,2013
+35,,106,49.0,+1:57,,Martinez Egoi,49,Euskaltel - Euskadi,",, 1:57",,1,2013
+31,,87,50.0,+1:57,,Losada Alberto,50,Team Katusha,",, 1:57",,1,2013
+36,,61,51.0,+1:57,,Zubeldia Haimar,51,RadioShack - Leopard,",, 1:57",,1,2013
+26,,91,52.0,+1:57,,Coppel J\xe9rome,52,"Cofidis, Solutions Cr\xe9dits",",, 1:57",,1,2013
+28,,62,53.0,+1:57,,Busche Matthew,53,RadioShack - Leopard,",, 1:57",,1,2013
+33,,151,54.0,+1:57,,Chavanel Sylvain,54,Omega Pharma - Quick-Step,",, 1:57",,1,2013
+28,,33,55.0,+1:57,,Gavazzi Francesco,55,Astana Pro Team,",, 1:57",,1,2013
+28,,205,56.0,+1:57,,Gerard Arnaud,56,Bretagne - S\xe9ch\xe9 Environnement,",, 1:57",,1,2013
+21,,133,57.0,+1:57,,Elissonde Kenny,57,FDJ.fr,",, 1:57",,1,2013
+25,,108,58.0,+1:57,,Sicard Romain,58,Euskaltel - Euskadi,",, 1:57",,1,2013
+30,,184,59.0,+1:57,,Hoogerland Johnny,59,Vacansoleil - DCM,",, 1:57",,1,2013
+24,,157,60.0,+1:57,,Serry Pieter,60,Omega Pharma - Quick-Step,",, 1:57",,1,2013
+24,,213,61.0,+1:57,,de la Cruz David,61,Team NetApp \u2013 Endura,",, 1:57",,1,2013
+27,,175,62.0,+1:57,,Herrada Jos\xe9,62,Movistar Team,",, 1:57",,1,2013
+28,,215,63.0,+1:57,,Mendes Jos\xe9,63,Team NetApp \u2013 Endura,",, 1:57",,1,2013
+25,,144,64.0,+1:57,,Gautier Cyril,64,Team Europcar,",, 1:57",,1,2013
+24,,207,65.0,+1:57,,Laengen Vegard Stake,65,Bretagne - S\xe9ch\xe9 Environnement,",, 1:57",,1,2013
+36,,25,66.0,+1:57,,van de Walle Jurgen,66,Lotto Belisol Team,",, 1:57",,1,2013
+33,,15,67.0,+1:57,,Paulinho S\xe9rgio,67,Team Saxo - Tinkoff,",, 1:57",,1,2013
+33,,141,68.0,+1:57,,Voeckler Thomas,68,Team Europcar,",, 1:57",,1,2013
+26,,77,69.0,+1:57,,Sulzberger Wesley,69,Orica GreenEDGE,",, 1:57",,1,2013
+28,,161,70.0,+1:57,,Bodnar Maciej,70,Cannondale Pro Cycling Team,",, 1:57",,1,2013
+32,,185,71.0,+1:57,,Lagutin Sergey,71,Vacansoleil - DCM,",, 1:57",,1,2013
+26,,2,72.0,+1:57,,Boasson Hagen Edvald,72,Sky Procycling,",, 1:57",,1,2013
+31,,167,73.0,+1:57,,Vandborg Brian,73,Cannondale Pro Cycling Team,",, 1:57",,1,2013
+35,,183,74.0,+1:57,,Flecha Juan Antonio,74,Vacansoleil - DCM,",, 1:57",,1,2013
+22,,28,75.0,+2:24,,Wellens Tim,75,Lotto Belisol Team,2:24 2:24,,1,2013
+29,,34,76.0,+2:24,,Grivko Andrei,76,Astana Pro Team,",, 2:24",,1,2013
+27,,217,77.0,+2:24,,Voss Paul,77,Team NetApp \u2013 Endura,",, 2:24",,1,2013
+22,,142,78.0,+2:24,,Berhane Natnael,78,Team Europcar,",, 2:24",,1,2013
+32,,135,79.0,+2:24,,Geslin Anthony,79,FDJ.fr,",, 2:24",,1,2013
+28,,154,80.0,+2:24,,Martin Tony,80,Omega Pharma - Quick-Step,",, 2:24",,1,2013
+29,,94,81.0,+2:24,,Mat\xe9 Luis \xc1ngel,81,"Cofidis, Solutions Cr\xe9dits",",, 2:24",,1,2013
+26,,166,82.0,+2:24,,Sarmiento Jose Cayetano,82,Cannondale Pro Cycling Team,",, 2:24",,1,2013
+25,,84,83.0,+2:24,,Ignatenko Petr,83,Team Katusha,",, 2:24",,1,2013
+28,,17,84.0,+2:24,,S\xf8rensen Chris Anker,84,Team Saxo - Tinkoff,",, 2:24",,1,2013
+21,,208,85.0,+2:24,,Sep\xfalveda Eduardo,85,Bretagne - S\xe9ch\xe9 Environnement,",, 2:24",,1,2013
+31,,121,86.0,+2:38,,Cunego Damiano,86,Lampre - Merida,2:38 2:38,,1,2013
+37,,45,87.0,+2:42,,Pinotti Marco,87,BMC Racing Team,2:42 2:42,,1,2013
+32,,203,88.0,+2:42,,Duret Sebastien,88,Bretagne - S\xe9ch\xe9 Environnement,",, 2:42",,1,2013
+29,,42,89.0,+2:42,,Bookwalter Brent,89,BMC Racing Team,",, 2:42",,1,2013
+24,,197,90.0,+2:42,,Janse van Rensburg Reinardt,90,Team Argos - Shimano,",, 2:42",,1,2013
+29,,107,91.0,+2:55,,Nieve Mikel,91,Euskaltel - Euskadi,2:55 2:55,,1,2013
+24,,194,92.0,+3:30,,Damuseau Thomas,92,Team Argos - Shimano,3:30 3:30,,1,2013
+25,,104,93.0,+3:30,,Garcia Ricardo,93,Euskaltel - Euskadi,",, 3:30",,1,2013
+32,,32,94.0,+3:30,,Bazayev Assan,94,Astana Pro Team,",, 3:30",,1,2013
+23,,76,95.0,+3:30,,Meyer Travis,95,Orica GreenEDGE,",, 3:30",,1,2013
+23,,186,96.0,+3:41,,Lindeman Bert-Jan,96,Vacansoleil - DCM,3:41 3:41,,1,2013
+34,,56,97.0,+3:41,,Tankink Bram,97,Blanco Pro Cycling Team,",, 3:41",,1,2013
+28,,136,98.0,+4:02,,Ladagnous Matthieu,98,FDJ.fr,4:02 4:02,,1,2013
+34,,131,99.0,+4:02,,Fedrigo Pierrick,99,FDJ.fr,",, 4:02",,1,2013
+24,,26,100.0,+5:43,,Vanendert Dennis,100,Lotto Belisol Team,5:43 5:43,,1,2013
+23,,103,101.0,+5:51,,Bilbao Pello,101,Euskaltel - Euskadi,5:51 5:51,,1,2013
+31,,4,102.0,+6:38,,Kiryienka Vasil,102,Sky Procycling,6:38 6:38,,1,2013
+28,,63,103.0,+6:38,,Didier Laurent,103,RadioShack - Leopard,",, 6:38",,1,2013
+29,,202,104.0,+6:56,,Bideau Jean Marc,104,Bretagne - S\xe9ch\xe9 Environnement,6:56 6:56,,1,2013
+22,,118,105.0,+8:16,,Rathe Jacob,105,Garmin Sharp,8:16 8:16,,1,2013
+24,,111,106.0,+8:16,,Talansky Andrew,106,Garmin Sharp,",, 8:16",,1,2013
+23,,82,107.0,+8:21,,Chernetski Sergei,107,Team Katusha,8:21 8:21,,1,2013
+24,,78,108.0,+10:40,,Teklehaimanot Daniel,108,Orica GreenEDGE,10:40 10:40,,1,2013
+32,,214,109.0,+10:40,,Huzarski Bartosz,109,Team NetApp \u2013 Endura,",, 10:40",,1,2013
+29,,174,110.0,+10:40,,Erviti Imanol,110,Movistar Team,",, 10:40",,1,2013
+33,,71,111.0,+10:40,,Gerrans Simon,111,Orica GreenEDGE,",, 10:40",,1,2013
+28,,57,112.0,+10:40,,Tanner David,112,Blanco Pro Cycling Team,",, 10:40",,1,2013
+22,,54,113.0,+10:40,,Goos Marc,113,Blanco Pro Cycling Team,",, 10:40",,1,2013
+26,,173,114.0,+10:40,,Castroviejo Jonathan,114,Movistar Team,",, 10:40",,1,2013
+25,,123,115.0,+10:40,,Durasek Kristijan,115,Lampre - Merida,",, 10:40",,1,2013
+29,,122,116.0,+10:40,,Bono Matteo,116,Lampre - Merida,",, 10:40",,1,2013
+33,,36,117.0,+10:40,,Muravyev Dmitriy,117,Astana Pro Team,",, 10:40",,1,2013
+31,,13,118.0,+10:40,,Hern\xe1ndez Jes\xfas,118,Team Saxo - Tinkoff,",, 10:40",,1,2013
+27,,153,119.0,+10:40,,Maes Nikolas,119,Omega Pharma - Quick-Step,",, 10:40",,1,2013
+28,,201,120.0,+10:40,,Vachon Florian,120,Bretagne - S\xe9ch\xe9 Environnement,",, 10:40",,1,2013
+29,,145,121.0,+10:40,,Quemeneur Perrig,121,Team Europcar,",, 10:40",,1,2013
+31,,98,122.0,+10:40,,Valentin Tristan,122,"Cofidis, Solutions Cr\xe9dits",",, 10:40",,1,2013
+33,,46,123.0,+10:40,,Quinziato Manuel,123,BMC Racing Team,",, 10:40",,1,2013
+26,,114,124.0,+10:40,,Fairly Caleb,124,Garmin Sharp,",, 10:40",,1,2013
+28,,158,125.0,+14:00,,Velits Martin,125,Omega Pharma - Quick-Step,14:00 14:00,,1,2013
+25,,117,126.0,+14:00,,Kreder Michel,126,Garmin Sharp,",, 14:00",,1,2013
+29,,156,127.0,+14:00,,Rabon Frantisek,127,Omega Pharma - Quick-Step,",, 14:00",,1,2013
+25,,137,128.0,+14:00,,Soupe Geoffrey,128,FDJ.fr,",, 14:00",,1,2013
+34,,14,129.0,+14:00,,Noval Benjamin,129,Team Saxo - Tinkoff,",, 14:00",,1,2013
+24,,204,130.0,+14:00,,Fonseca Armindo,130,Bretagne - S\xe9ch\xe9 Environnement,",, 14:00",,1,2013
+28,,212,131.0,+14:00,,B\xe1rta Jan,131,Team NetApp \u2013 Endura,",, 14:00",,1,2013
+37,,53,132.0,+14:00,,Garate Juan Manuel,132,Blanco Pro Cycling Team,",, 14:00",,1,2013
+33,,83,133.0,+14:00,,Florencio Xavier,133,Team Katusha,",, 14:00",,1,2013
+38,,18,134.0,+14:00,,S\xf8rensen Nicki,134,Team Saxo - Tinkoff,",, 14:00",,1,2013
+29,,195,135.0,+14:00,,Huguet Yann,135,Team Argos - Shimano,",, 14:00",,1,2013
+28,,193,136.0,+14:00,,Clarke William,136,Team Argos - Shimano,",, 14:00",,1,2013
+26,,74,137.0,+14:00,,Docker Mitchell,137,Orica GreenEDGE,",, 14:00",,1,2013
+26,,181,138.0,+14:00,,De Gendt Thomas,138,Vacansoleil - DCM,",, 14:00",,1,2013
+28,,27,139.0,+14:00,,Vanendert Jelle,139,Lotto Belisol Team,",, 14:00",,1,2013
+26,,73,140.0,+14:00,,Clarke Simon,140,Orica GreenEDGE,",, 14:00",,1,2013
+26,,7,141.0,+14:00,,Stannard Ian,141,Sky Procycling,",, 14:00",,1,2013
+25,,22,142.0,+14:00,,Bille Gaetan,142,Lotto Belisol Team,",, 14:00",,1,2013
+29,,216,143.0,+14:00,,Schillinger Andreas,143,Team NetApp \u2013 Endura,",, 14:00",,1,2013
+22,,75,144.0,+14:00,,Matthews Michael,144,Orica GreenEDGE,",, 14:00",,1,2013
+27,,162,145.0,+14:00,,Canuti Federico,145,Cannondale Pro Cycling Team,",, 14:00",,1,2013
+30,,178,146.0,+14:00,,Teruel Eloy,146,Movistar Team,",, 14:00",,1,2013
+24,,124,147.0,+14:00,,Favilli Elia,147,Lampre - Merida,",, 14:00",,1,2013
+24,,168,148.0,+14:00,,Viviani Elia,148,Cannondale Pro Cycling Team,",, 14:00",,1,2013
+20,,35,,+ -3:17:35,,Lutsenko Alexey,149,Astana Pro Team,",, 14:00",,1,2013
+34,,128,150.0,+14:00,,Serpa Jose Rodolfo,150,Lampre - Merida,",, 14:00",,1,2013
+25,,146,151.0,+14:00,,R\xe9za K\xe9vin,151,Team Europcar,",, 14:00",,1,2013
+31,,198,152.0,+14:00,,Parisien Francois,152,Team Argos - Shimano,",, 14:00",,1,2013
+33,,143,153.0,+14:00,,Charteau Anthony,153,Team Europcar,",, 14:00",,1,2013
+28,,85,154.0,+15:34,,Ignatyev Mikhail,154,Team Katusha,15:34 15:34,,1,2013
+33,,66,155.0,+15:34,,Irizar Markel,155,RadioShack - Leopard,",, 15:34",,1,2013
+24,,67,156.0,+15:34,,King Benjamin,156,RadioShack - Leopard,",, 15:34",,1,2013
+27,,218,157.0,+15:34,,Wetterhall Alexander,157,Team NetApp \u2013 Endura,",, 15:34",,1,2013
+31,,115,158.0,+15:34,,Fern\xe1ndez Koldo,158,Garmin Sharp,",, 15:34",,1,2013
+22,,48,159.0,+15:34,,Warbasse Larry,159,BMC Racing Team,",, 15:34",,1,2013
+30,,58,160.0,+15:34,,Wagner Robert,160,Blanco Pro Cycling Team,",, 15:34",,1,2013
+26,,165,161.0,+15:34,,Paterski Maciej,161,Cannondale Pro Cycling Team,",, 15:34",,1,2013
+30,,72,162.0,+15:34,,Beppu Fumiyuki,162,Orica GreenEDGE,",, 15:34",,1,2013
+25,,23,163.0,+15:34,,Cordeel Sander,163,Lotto Belisol Team,",, 15:34",,1,2013
+35,,41,164.0,+15:40,,Hushovd Thor,164,BMC Racing Team,15:40 15:40,,1,2013
+30,,127,165.0,+15:40,,Richeze Ariel Maximiliano,165,Lampre - Merida,",, 15:40",,1,2013
+22,,132,166.0,+15:40,,Bouhanni Nacer,166,FDJ.fr,",, 15:40",,1,2013
+24,,125,167.0,+15:40,,Graziato Massimo,167,Lampre - Merida,",, 15:40",,1,2013
+25,,116,168.0,+15:40,,Howes Alex,168,Garmin Sharp,",, 15:40",,1,2013
+23,,126,169.0,+15:40,,Palini Andrea,169,Lampre - Merida,",, 15:40",,1,2013
+28,,112,170.0,+15:40,,Bauer Jack,170,Garmin Sharp,",, 15:40",,1,2013
+23,,43,171.0,+15:40,,Eijssen Yannick,171,BMC Racing Team,",, 15:40",,1,2013
+30,,12,172.0,+15:40,,Duggan Timothy,172,Team Saxo - Tinkoff,",, 15:40",,1,2013
+26,,86,173.0,+15:45,,Kritskiy Timofey,173,Team Katusha,15:45 15:45,,1,2013
+26,,182,174.0,+15:47,,Boeckmans Kris,174,Vacansoleil - DCM,15:47 15:47,,1,2013
+21,,192,175.0,+19:23,,Arndt Nikias,175,Team Argos - Shimano,19:02 19:02,,1,2013
+28,,196,,+ -3:17:35,,Hupond Thierry,DNF,Team Argos - Shimano,-3:17:35 -3:17:35,,1,2013
+24,,168,111.0,+14:00,50.0,Viviani Elia,1,Cannondale Pro Cycling Team,4:39:15 4:39:15,6.0,2,2013
+27,,155,2.0,+1:56,30.0,Meersman Gianni,2,Omega Pharma - Quick-Step,",, ,,",4.0,2,2013
+25,,64,3.0,+1:57,18.0,Gallopin Tony,3,RadioShack - Leopard,",, ,,",2.0,2,2013
+24,,197,66.0,+2:42,13.0,Janse van Rensburg Reinardt,4,Team Argos - Shimano,",, ,,",1.0,2,2013
+32,,135,59.0,+2:24,10.0,Geslin Anthony,5,FDJ.fr,",, ,,",1.0,2,2013
+24,,204,110.0,+14:00,7.0,Fonseca Armindo,6,Bretagne - S\xe9ch\xe9 Environnement,",, ,,",,2,2013
+34,,56,68.0,+3:41,4.0,Tankink Bram,7,Blanco Pro Cycling Team,",, ,,",,2,2013
+21,,191,4.0,+1:57,3.0,Barguil Warren,8,Team Argos - Shimano,",, ,,",,2,2013
+35,,183,32.0,+1:57,2.0,Flecha Juan Antonio,9,Vacansoleil - DCM,",, ,,",,2,2013
+26,,77,29.0,+1:57,1.0,Sulzberger Wesley,10,Orica GreenEDGE,",, ,,",,2,2013
+27,,8,10.0,+1:57,,Thomas Geraint,11,Sky Procycling,",, ,,",,2,2013
+31,,88,20.0,+1:57,,Moreno Daniel,12,Team Katusha,",, ,,",,2,2013
+33,,171,5.0,+1:57,,Valverde Alejandro,13,Movistar Team,",, ,,",,2,2013
+27,,217,60.0,+2:24,,Voss Paul,14,Team NetApp \u2013 Endura,",, ,,",,2,2013
+29,,94,61.0,+2:24,,Mat\xe9 Luis \xc1ngel,15,"Cofidis, Solutions Cr\xe9dits",",, ,,",,2,2013
+30,,68,12.0,+1:57,,Rohregger Thomas,16,RadioShack - Leopard,",, ,,",,2,2013
+23,,3,17.0,+1:57,,Kennaugh Peter,17,Sky Procycling,",, ,,",,2,2013
+23,,44,13.0,+1:57,,Nerz Dominik,18,BMC Racing Team,",, ,,",,2,2013
+28,,31,6.0,+1:57,,Fuglsang Jakob,19,Astana Pro Team,",, ,,",,2,2013
+28,,161,40.0,+1:57,,Bodnar Maciej,20,Cannondale Pro Cycling Team,",, ,,",,2,2013
+23,,82,83.0,+8:21,,Chernetski Sergei,21,Team Katusha,",, ,,",,2,2013
+32,,93,15.0,+1:57,,Le M\xe9vel Christophe,22,"Cofidis, Solutions Cr\xe9dits",",, ,,",,2,2013
+28,,1,7.0,+1:57,,Froome Christopher,23,Sky Procycling,",, ,,",,2,2013
+24,,207,38.0,+1:57,,Laengen Vegard Stake,24,Bretagne - S\xe9ch\xe9 Environnement,",, ,,",,2,2013
+30,,21,11.0,+1:57,,Van den Broeck Jurgen,25,Lotto Belisol Team,",, ,,",,2,2013
+24,,176,9.0,+1:57,,Madrazo \xc1ngel,26,Movistar Team,",, ,,",,2,2013
+28,,6,8.0,+1:57,,Porte Richie,27,Sky Procycling,",, ,,",,2,2013
+33,,151,31.0,+1:57,,Chavanel Sylvain,28,Omega Pharma - Quick-Step,",, ,,",,2,2013
+29,,122,96.0,+10:40,,Bono Matteo,29,Lampre - Merida,",, ,,",,2,2013
+27,,175,42.0,+1:57,,Herrada Jos\xe9,30,Movistar Team,",, ,,",,2,2013
+26,,2,48.0,+1:57,,Boasson Hagen Edvald,31,Sky Procycling,",, ,,",,2,2013
+25,,92,16.0,+1:57,,Bagot Yoann,32,"Cofidis, Solutions Cr\xe9dits",",, ,,",,2,2013
+30,,52,21.0,+1:57,,Clement Stef,33,Blanco Pro Cycling Team,",, ,,",,2,2013
+30,,11,14.0,+1:57,,Contador Alberto,34,Team Saxo - Tinkoff,",, ,,",,2,2013
+26,,73,112.0,+14:00,,Clarke Simon,35,Orica GreenEDGE,",, ,,",,2,2013
+26,,65,30.0,+1:57,,Hermans Ben,36,RadioShack - Leopard,",, ,,",,2,2013
+26,,37,26.0,+1:57,,Seeldraeyers Kevin,37,Astana Pro Team,",, ,,",,2,2013
+35,,101,18.0,+1:57,,S\xe1nchez Samuel,38,Euskaltel - Euskadi,",, ,,",,2,2013
+21,,133,44.0,+1:57,,Elissonde Kenny,39,FDJ.fr,",, ,,",,2,2013
+35,,106,39.0,+1:57,,Martinez Egoi,40,Euskaltel - Euskadi,",, ,,",,2,2013
+29,,34,62.0,+2:24,,Grivko Andrei,41,Astana Pro Team,",, ,,",,2,2013
+36,,61,43.0,+1:57,,Zubeldia Haimar,42,RadioShack - Leopard,",, ,,",,2,2013
+34,,81,27.0,+1:57,,Rodr\xedguez Joaquim,43,Team Katusha,",, ,,",,2,2013
+29,,96,23.0,+1:57,,Navarro Daniel,44,"Cofidis, Solutions Cr\xe9dits",",, ,,",,2,2013
+25,,211,19.0,+1:57,,K\xf6nig Leopold,45,Team NetApp \u2013 Endura,",, ,,",,2,2013
+29,,47,37.0,+1:57,,Santaromita Ivan,46,BMC Racing Team,",, ,,",,2,2013
+26,,97,24.0,+1:57,,Taaram\xe4e Rein,47,"Cofidis, Solutions Cr\xe9dits",",, ,,",,2,2013
+26,,24,25.0,+1:57,,De Clercq Bart,48,Lotto Belisol Team,",, ,,",,2,2013
+29,,107,67.0,+2:55,,Nieve Mikel,49,Euskaltel - Euskadi,",, ,,",,2,2013
+33,,16,22.0,+1:57,,Rogers Michael,50,Team Saxo - Tinkoff,",, ,,",,2,2013
+31,,87,47.0,+1:57,,Losada Alberto,51,Team Katusha,",, ,,",,2,2013
+23,,152,36.0,+1:57,,Kwiatkowski Michal,52,Omega Pharma - Quick-Step,",, ,,",,2,2013
+32,,51,33.0,+1:57,,ten Dam Laurens,53,Blanco Pro Cycling Team,",, ,,",,2,2013
+26,,91,51.0,+1:57,,Coppel J\xe9rome,54,"Cofidis, Solutions Cr\xe9dits",",, ,,",,2,2013
+31,,121,65.0,+2:38,,Cunego Damiano,55,Lampre - Merida,",, ,,",,2,2013
+25,,134,34.0,+1:57,,Geniez Alexandre,56,FDJ.fr,",, ,,",,2,2013
+28,,33,52.0,+1:57,,Gavazzi Francesco,57,Astana Pro Team,",, ,,",,2,2013
+26,,172,46.0,+1:57,,Capecchi Eros,58,Movistar Team,",, ,,",,2,2013
+25,,38,45.0,+1:57,,Silin Egor,59,Astana Pro Team,",, ,,",,2,2013
+26,,164,28.0,+1:57,,Koren Kristijan,60,Cannondale Pro Cycling Team,",, ,,",,2,2013
+25,,144,55.0,+1:57,,Gautier Cyril,61,Team Europcar,",, ,,",,2,2013
+25,,148,1.0,+0:00,,Veilleux David,62,Team Europcar,",, ,,",,2,2013
+23,,113,35.0,+1:57,,Dennis Rohan,63,Garmin Sharp,",, ,,",,2,2013
+30,,206,49.0,+1:57,,Guillou Florian,64,Bretagne - S\xe9ch\xe9 Environnement,",, ,,",,2,2013
+28,,62,54.0,+1:57,,Busche Matthew,65,RadioShack - Leopard,",, ,,",,2,2013
+32,,5,53.0,+1:57,,Lopez David,66,Sky Procycling,",, ,,",,2,2013
+26,,166,63.0,+2:24,,Sarmiento Jose Cayetano,67,Cannondale Pro Cycling Team,",, ,,",,2,2013
+33,,15,57.0,+1:57,,Paulinho S\xe9rgio,68,Team Saxo - Tinkoff,",, ,,",,2,2013
+30,,184,56.0,+1:57,,Hoogerland Johnny,69,Vacansoleil - DCM,",, ,,",,2,2013
+28,,17,64.0,+2:24,,S\xf8rensen Chris Anker,70,Team Saxo - Tinkoff,",, ,,",,2,2013
+25,,105,41.0,+1:57,,Izagirre Gorka,71,Euskaltel - Euskadi,",, ,,",,2,2013
+26,,147,50.0,+1:57,,Rolland Pierre,72,Team Europcar,",, ,,",,2,2013
+34,,131,69.0,+4:02,,Fedrigo Pierrick,73,FDJ.fr,",, ,,",,2,2013
+31,,13,97.0,+10:40,,Hern\xe1ndez Jes\xfas,74,Team Saxo - Tinkoff,",, ,,",,2,2013
+33,,141,58.0,+1:57,,Voeckler Thomas,75,Team Europcar,",, ,,",,2,2013
+33,,66,131.0,+17:41,,Irizar Markel,76,RadioShack - Leopard,2:07 2:07,,2,2013
+24,,213,74.0,+4:04,,de la Cruz David,77,Team NetApp \u2013 Endura,",, 2:07",,2,2013
+23,,55,70.0,+4:04,,Slagter Tom-Jelte,78,Blanco Pro Cycling Team,",, 2:07",,2,2013
+32,,214,100.0,+12:47,,Huzarski Bartosz,79,Team NetApp \u2013 Endura,",, 2:07",,2,2013
+24,,78,101.0,+12:47,,Teklehaimanot Daniel,80,Orica GreenEDGE,",, 2:07",,2,2013
+22,,75,121.0,+16:07,,Matthews Michael,81,Orica GreenEDGE,",, 2:07",,2,2013
+33,,102,72.0,+4:04,,Astarloza Mikel,82,Euskaltel - Euskadi,",, 2:07",,2,2013
+23,,95,73.0,+4:04,,Molard Rudy,83,"Cofidis, Solutions Cr\xe9dits",",, 2:07",,2,2013
+28,,201,103.0,+12:47,,Vachon Florian,84,Bretagne - S\xe9ch\xe9 Environnement,",, 2:07",,2,2013
+25,,187,71.0,+4:04,,Poels Wout,85,Vacansoleil - DCM,",, 2:07",,2,2013
+22,,132,132.0,+17:47,,Bouhanni Nacer,86,FDJ.fr,",, 2:07",,2,2013
+28,,63,88.0,+8:45,,Didier Laurent,87,RadioShack - Leopard,",, 2:07",,2,2013
+38,,18,120.0,+16:07,,S\xf8rensen Nicki,88,Team Saxo - Tinkoff,",, 2:07",,2,2013
+26,,173,102.0,+12:47,,Castroviejo Jonathan,89,Movistar Team,",, 2:07",,2,2013
+21,,208,75.0,+4:31,,Sep\xfalveda Eduardo,90,Bretagne - S\xe9ch\xe9 Environnement,",, 2:07",,2,2013
+22,,28,77.0,+4:49,,Wellens Tim,91,Lotto Belisol Team,2:25 2:25,,2,2013
+24,,157,76.0,+4:47,,Serry Pieter,92,Omega Pharma - Quick-Step,2:50 2:50,,2,2013
+37,,45,78.0,+5:32,,Pinotti Marco,93,BMC Racing Team,",, 2:50",,2,2013
+32,,203,79.0,+5:32,,Duret Sebastien,94,Bretagne - S\xe9ch\xe9 Environnement,",, 2:50",,2,2013
+33,,71,105.0,+13:30,,Gerrans Simon,95,Orica GreenEDGE,",, 2:50",,2,2013
+28,,57,106.0,+13:30,,Tanner David,96,Blanco Pro Cycling Team,",, 2:50",,2,2013
+20,,35,123.0,+16:50,,Lutsenko Alexey,97,Astana Pro Team,",, 2:50",,2,2013
+25,,123,107.0,+13:30,,Durasek Kristijan,98,Lampre - Merida,",, 2:50",,2,2013
+33,,46,114.0,+14:18,,Quinziato Manuel,99,BMC Racing Team,3:38 3:38,,2,2013
+36,,25,80.0,+5:35,,van de Walle Jurgen,100,Lotto Belisol Team,",, 3:38",,2,2013
+29,,174,113.0,+14:18,,Erviti Imanol,101,Movistar Team,",, 3:38",,2,2013
+28,,136,82.0,+7:40,,Ladagnous Matthieu,102,FDJ.fr,",, 3:38",,2,2013
+33,,83,128.0,+17:38,,Florencio Xavier,103,Team Katusha,",, 3:38",,2,2013
+26,,7,129.0,+17:38,,Stannard Ian,104,Sky Procycling,",, 3:38",,2,2013
+24,,124,130.0,+17:38,,Favilli Elia,105,Lampre - Merida,",, 3:38",,2,2013
+26,,114,115.0,+14:18,,Fairly Caleb,106,Garmin Sharp,",, 3:38",,2,2013
+31,,198,134.0,+19:15,,Parisien Francois,107,Team Argos - Shimano,5:15 5:15,,2,2013
+31,,167,81.0,+7:12,,Vandborg Brian,108,Cannondale Pro Cycling Team,",, 5:15",,2,2013
+28,,158,135.0,+19:37,,Velits Martin,109,Omega Pharma - Quick-Step,5:37 5:37,,2,2013
+27,,153,122.0,+16:17,,Maes Nikolas,110,Omega Pharma - Quick-Step,",, 5:37",,2,2013
+24,,194,93.0,+9:43,,Damuseau Thomas,111,Team Argos - Shimano,6:13 6:13,,2,2013
+37,,53,136.0,+20:13,,Garate Juan Manuel,112,Blanco Pro Cycling Team,",, 6:13",,2,2013
+29,,42,89.0,+8:55,,Bookwalter Brent,113,BMC Racing Team,",, 6:13",,2,2013
+28,,212,137.0,+20:13,,B\xe1rta Jan,114,Team NetApp \u2013 Endura,",, 6:13",,2,2013
+22,,118,116.0,+14:29,,Rathe Jacob,115,Garmin Sharp,",, 6:13",,2,2013
+34,,128,139.0,+20:13,,Serpa Jose Rodolfo,116,Lampre - Merida,",, 6:13",,2,2013
+33,,36,124.0,+16:53,,Muravyev Dmitriy,117,Astana Pro Team,",, 6:13",,2,2013
+32,,32,94.0,+9:43,,Bazayev Assan,118,Astana Pro Team,",, 6:13",,2,2013
+23,,76,95.0,+9:43,,Meyer Travis,119,Orica GreenEDGE,",, 6:13",,2,2013
+25,,117,138.0,+20:13,,Kreder Michel,120,Garmin Sharp,",, 6:13",,2,2013
+26,,181,140.0,+20:29,,De Gendt Thomas,121,Vacansoleil - DCM,6:29 6:29,,2,2013
+29,,156,141.0,+20:31,,Rabon Frantisek,122,Omega Pharma - Quick-Step,6:31 6:31,,2,2013
+28,,154,90.0,+8:55,,Martin Tony,123,Omega Pharma - Quick-Step,",, 6:31",,2,2013
+24,,67,143.0,+22:05,,King Benjamin,124,RadioShack - Leopard,",, 6:31",,2,2013
+32,,185,86.0,+8:28,,Lagutin Sergey,125,Vacansoleil - DCM,",, 6:31",,2,2013
+25,,116,148.0,+22:11,,Howes Alex,126,Garmin Sharp,",, 6:31",,2,2013
+35,,177,84.0,+8:28,,Szmyd Sylwester,127,Movistar Team,",, 6:31",,2,2013
+26,,165,145.0,+22:05,,Paterski Maciej,128,Cannondale Pro Cycling Team,",, 6:31",,2,2013
+30,,72,146.0,+22:05,,Beppu Fumiyuki,129,Orica GreenEDGE,",, 6:31",,2,2013
+28,,205,85.0,+8:28,,Gerard Arnaud,130,Bretagne - S\xe9ch\xe9 Environnement,",, 6:31",,2,2013
+28,,85,144.0,+22:05,,Ignatyev Mikhail,131,Team Katusha,",, 6:31",,2,2013
+22,,54,125.0,+17:11,,Goos Marc,132,Blanco Pro Cycling Team,",, 6:31",,2,2013
+29,,202,104.0,+13:27,,Bideau Jean Marc,133,Bretagne - S\xe9ch\xe9 Environnement,",, 6:31",,2,2013
+28,,215,87.0,+8:28,,Mendes Jos\xe9,134,Team NetApp \u2013 Endura,",, 6:31",,2,2013
+25,,84,92.0,+8:55,,Ignatenko Petr,135,Team Katusha,",, 6:31",,2,2013
+22,,142,91.0,+8:55,,Berhane Natnael,136,Team Europcar,",, 6:31",,2,2013
+28,,112,150.0,+22:17,,Bauer Jack,137,Garmin Sharp,6:37 6:37,,2,2013
+25,,23,149.0,+22:11,,Cordeel Sander,138,Lotto Belisol Team,",, 6:37",,2,2013
+30,,178,147.0,+22:10,,Teruel Eloy,139,Movistar Team,8:10 8:10,,2,2013
+21,,192,172.0,+27:33,,Arndt Nikias,140,Team Argos - Shimano,",, 8:10",,2,2013
+23,,126,154.0,+23:50,,Palini Andrea,141,Lampre - Merida,",, 8:10",,2,2013
+27,,162,152.0,+23:05,,Canuti Federico,142,Cannondale Pro Cycling Team,9:05 9:05,,2,2013
+24,,111,126.0,+17:21,,Talansky Andrew,143,Garmin Sharp,",, 9:05",,2,2013
+33,,143,153.0,+23:05,,Charteau Anthony,144,Team Europcar,",, 9:05",,2,2013
+25,,137,155.0,+24:14,,Soupe Geoffrey,145,FDJ.fr,10:14 10:14,,2,2013
+31,,98,142.0,+20:54,,Valentin Tristan,146,"Cofidis, Solutions Cr\xe9dits",",, 10:14",,2,2013
+27,,163,98.0,+12:11,,De Marchi Alessandro,147,Cannondale Pro Cycling Team,",, 10:14",,2,2013
+26,,86,162.0,+25:59,,Kritskiy Timofey,148,Team Katusha,",, 10:14",,2,2013
+25,,108,99.0,+12:11,,Sicard Romain,149,Euskaltel - Euskadi,",, 10:14",,2,2013
+23,,103,119.0,+16:05,,Bilbao Pello,150,Euskaltel - Euskadi,",, 10:14",,2,2013
+28,,193,156.0,+25:12,,Clarke William,151,Team Argos - Shimano,11:12 11:12,,2,2013
+27,,218,163.0,+27:15,,Wetterhall Alexander,152,Team NetApp \u2013 Endura,11:41 11:41,,2,2013
+30,,58,164.0,+27:15,,Wagner Robert,153,Blanco Pro Cycling Team,",, 11:41",,2,2013
+35,,41,166.0,+27:21,,Hushovd Thor,154,BMC Racing Team,",, 11:41",,2,2013
+25,,104,117.0,+15:11,,Garcia Ricardo,155,Euskaltel - Euskadi,",, 11:41",,2,2013
+25,,22,159.0,+25:41,,Bille Gaetan,156,Lotto Belisol Team,",, 11:41",,2,2013
+29,,195,157.0,+25:41,,Huguet Yann,157,Team Argos - Shimano,",, 11:41",,2,2013
+23,,186,118.0,+15:22,,Lindeman Bert-Jan,158,Vacansoleil - DCM,",, 11:41",,2,2013
+31,,115,165.0,+27:15,,Fern\xe1ndez Koldo,159,Garmin Sharp,",, 11:41",,2,2013
+30,,188,109.0,+13:38,,Westra Lieuwe,160,Vacansoleil - DCM,",, 11:41",,2,2013
+26,,182,171.0,+27:28,,Boeckmans Kris,161,Vacansoleil - DCM,",, 11:41",,2,2013
+23,,43,169.0,+27:21,,Eijssen Yannick,162,BMC Racing Team,",, 11:41",,2,2013
+24,,125,168.0,+27:21,,Graziato Massimo,163,Lampre - Merida,",, 11:41",,2,2013
+30,,127,167.0,+27:21,,Richeze Ariel Maximiliano,164,Lampre - Merida,",, 11:41",,2,2013
+24,,26,127.0,+17:24,,Vanendert Dennis,165,Lotto Belisol Team,",, 11:41",,2,2013
+29,,216,160.0,+25:41,,Schillinger Andreas,166,Team NetApp \u2013 Endura,",, 11:41",,2,2013
+34,,14,158.0,+25:41,,Noval Benjamin,167,Team Saxo - Tinkoff,",, 11:41",,2,2013
+30,,12,170.0,+27:21,,Duggan Timothy,168,Team Saxo - Tinkoff,",, 11:41",,2,2013
+25,,146,161.0,+25:41,,R\xe9za K\xe9vin,169,Team Europcar,",, 11:41",,2,2013
+29,,145,151.0,+22:21,,Quemeneur Perrig,170,Team Europcar,",, 11:41",,2,2013
+31,,4,133.0,+18:19,,Kiryienka Vasil,171,Sky Procycling,",, 11:41",,2,2013
+24,,138,108.0,+13:38,,Vichot Arthur,172,FDJ.fr,",, 11:41",,2,2013
+26,,74,173.0,+28:21,,Docker Mitchell,173,Orica GreenEDGE,14:21 14:21,,2,2013
+22,,48,174.0,+31:26,,Warbasse Larry,174,BMC Racing Team,15:52 15:52,,2,2013
+28,,27,,+ -7:56:50,,Vanendert Jelle,DNF,Lotto Belisol Team,-4:39:15 -4:39:15,,2,2013
+26,,2,22.0,+1:57,50.0,Boasson Hagen Edvald,1,Sky Procycling,4:03:32 4:03:32,6.0,3,2013
+22,,75,112.0,+16:07,30.0,Matthews Michael,2,Orica GreenEDGE,",, ,,",4.0,3,2013
+27,,155,2.0,+1:56,18.0,Meersman Gianni,3,Omega Pharma - Quick-Step,",, ,,",2.0,3,2013
+35,,41,154.0,+27:21,13.0,Hushovd Thor,4,BMC Racing Team,",, ,,",1.0,3,2013
+24,,168,104.0,+14:00,10.0,Viviani Elia,5,Cannondale Pro Cycling Team,",, ,,",1.0,3,2013
+24,,197,64.0,+2:42,7.0,Janse van Rensburg Reinardt,6,Team Argos - Shimano,",, ,,",,3,2013
+22,,132,123.0,+17:47,4.0,Bouhanni Nacer,7,FDJ.fr,",, ,,",,3,2013
+27,,217,58.0,+2:24,3.0,Voss Paul,8,Team NetApp \u2013 Endura,",, ,,",,3,2013
+33,,151,16.0,+1:57,2.0,Chavanel Sylvain,9,Omega Pharma - Quick-Step,",, ,,",,3,2013
+28,,33,29.0,+1:57,1.0,Gavazzi Francesco,10,Astana Pro Team,",, ,,",,3,2013
+27,,8,7.0,+1:57,,Thomas Geraint,11,Sky Procycling,",, ,,",,3,2013
+28,,201,97.0,+12:47,,Vachon Florian,12,Bretagne - S\xe9ch\xe9 Environnement,",, ,,",,3,2013
+25,,64,3.0,+1:57,,Gallopin Tony,13,RadioShack - Leopard,",, ,,",,3,2013
+24,,124,120.0,+17:38,,Favilli Elia,14,Lampre - Merida,",, ,,",,3,2013
+33,,171,4.0,+1:57,,Valverde Alejandro,15,Movistar Team,",, ,,",,3,2013
+20,,35,115.0,+16:50,,Lutsenko Alexey,16,Astana Pro Team,",, ,,",,3,2013
+21,,191,5.0,+1:57,,Barguil Warren,17,Team Argos - Shimano,",, ,,",,3,2013
+30,,11,10.0,+1:57,,Contador Alberto,18,Team Saxo - Tinkoff,",, ,,",,3,2013
+34,,56,66.0,+3:41,,Tankink Bram,19,Blanco Pro Cycling Team,",, ,,",,3,2013
+28,,31,6.0,+1:57,,Fuglsang Jakob,20,Astana Pro Team,",, ,,",,3,2013
+23,,113,23.0,+1:57,,Dennis Rohan,21,Garmin Sharp,",, ,,",,3,2013
+24,,194,88.0,+9:43,,Damuseau Thomas,22,Team Argos - Shimano,",, ,,",,3,2013
+25,,187,69.0,+4:04,,Poels Wout,23,Vacansoleil - DCM,",, ,,",,3,2013
+27,,175,27.0,+1:57,,Herrada Jos\xe9,24,Movistar Team,",, ,,",,3,2013
+24,,176,8.0,+1:57,,Madrazo \xc1ngel,25,Movistar Team,",, ,,",,3,2013
+25,,117,127.0,+20:13,,Kreder Michel,26,Garmin Sharp,",, ,,",,3,2013
+28,,6,9.0,+1:57,,Porte Richie,27,Sky Procycling,",, ,,",,3,2013
+26,,97,18.0,+1:57,,Taaram\xe4e Rein,28,"Cofidis, Solutions Cr\xe9dits",",, ,,",,3,2013
+29,,96,20.0,+1:57,,Navarro Daniel,29,"Cofidis, Solutions Cr\xe9dits",",, ,,",,3,2013
+26,,77,24.0,+1:57,,Sulzberger Wesley,30,Orica GreenEDGE,",, ,,",,3,2013
+29,,34,61.0,+2:24,,Grivko Andrei,31,Astana Pro Team,",, ,,",,3,2013
+26,,172,34.0,+1:57,,Capecchi Eros,32,Movistar Team,",, ,,",,3,2013
+23,,44,12.0,+1:57,,Nerz Dominik,33,BMC Racing Team,",, ,,",,3,2013
+30,,68,13.0,+1:57,,Rohregger Thomas,34,RadioShack - Leopard,",, ,,",,3,2013
+23,,3,14.0,+1:57,,Kennaugh Peter,35,Sky Procycling,",, ,,",,3,2013
+35,,101,17.0,+1:57,,S\xe1nchez Samuel,36,Euskaltel - Euskadi,",, ,,",,3,2013
+26,,86,148.0,+25:59,,Kritskiy Timofey,37,Team Katusha,",, ,,",,3,2013
+33,,16,21.0,+1:57,,Rogers Michael,38,Team Saxo - Tinkoff,",, ,,",,3,2013
+26,,37,26.0,+1:57,,Seeldraeyers Kevin,39,Astana Pro Team,",, ,,",,3,2013
+26,,65,28.0,+1:57,,Hermans Ben,40,RadioShack - Leopard,",, ,,",,3,2013
+28,,1,11.0,+1:57,,Froome Christopher,41,Sky Procycling,",, ,,",,3,2013
+29,,94,59.0,+2:24,,Mat\xe9 Luis \xc1ngel,42,"Cofidis, Solutions Cr\xe9dits",",, ,,",,3,2013
+23,,152,33.0,+1:57,,Kwiatkowski Michal,43,Omega Pharma - Quick-Step,",, ,,",,3,2013
+30,,21,15.0,+1:57,,Van den Broeck Jurgen,44,Lotto Belisol Team,",, ,,",,3,2013
+28,,136,79.0,+7:40,,Ladagnous Matthieu,45,FDJ.fr,",, ,,",,3,2013
+24,,204,105.0,+14:00,,Fonseca Armindo,46,Bretagne - S\xe9ch\xe9 Environnement,",, ,,",,3,2013
+24,,138,103.0,+13:38,,Vichot Arthur,47,FDJ.fr,",, ,,",,3,2013
+32,,93,19.0,+1:57,,Le M\xe9vel Christophe,48,"Cofidis, Solutions Cr\xe9dits",",, ,,",,3,2013
+26,,164,31.0,+1:57,,Koren Kristijan,49,Cannondale Pro Cycling Team,",, ,,",,3,2013
+31,,13,90.0,+10:40,,Hern\xe1ndez Jes\xfas,50,Team Saxo - Tinkoff,",, ,,",,3,2013
+29,,47,35.0,+1:57,,Santaromita Ivan,51,BMC Racing Team,",, ,,",,3,2013
+28,,63,86.0,+8:45,,Didier Laurent,52,RadioShack - Leopard,",, ,,",,3,2013
+35,,106,39.0,+1:57,,Martinez Egoi,53,Euskaltel - Euskadi,",, ,,",,3,2013
+33,,71,100.0,+13:30,,Gerrans Simon,54,Orica GreenEDGE,",, ,,",,3,2013
+30,,52,25.0,+1:57,,Clement Stef,55,Blanco Pro Cycling Team,",, ,,",,3,2013
+27,,163,94.0,+12:11,,De Marchi Alessandro,56,Cannondale Pro Cycling Team,",, ,,",,3,2013
+32,,135,60.0,+2:24,,Geslin Anthony,57,FDJ.fr,",, ,,",,3,2013
+32,,51,38.0,+1:57,,ten Dam Laurens,58,Blanco Pro Cycling Team,",, ,,",,3,2013
+31,,121,63.0,+2:38,,Cunego Damiano,59,Lampre - Merida,",, ,,",,3,2013
+26,,73,106.0,+14:00,,Clarke Simon,60,Orica GreenEDGE,",, ,,",,3,2013
+22,,28,76.0,+4:49,,Wellens Tim,61,Lotto Belisol Team,",, ,,",,3,2013
+32,,185,81.0,+8:28,,Lagutin Sergey,62,Vacansoleil - DCM,",, ,,",,3,2013
+21,,192,155.0,+27:33,,Arndt Nikias,63,Team Argos - Shimano,",, ,,",,3,2013
+34,,81,37.0,+1:57,,Rodr\xedguez Joaquim,64,Team Katusha,",, ,,",,3,2013
+23,,55,70.0,+4:04,,Slagter Tom-Jelte,65,Blanco Pro Cycling Team,",, ,,",,3,2013
+28,,57,101.0,+13:30,,Tanner David,66,Blanco Pro Cycling Team,",, ,,",,3,2013
+31,,88,30.0,+1:57,,Moreno Daniel,67,Team Katusha,",, ,,",,3,2013
+36,,61,42.0,+1:57,,Zubeldia Haimar,68,RadioShack - Leopard,",, ,,",,3,2013
+31,,87,43.0,+1:57,,Losada Alberto,69,Team Katusha,",, ,,",,3,2013
+26,,91,45.0,+1:57,,Coppel J\xe9rome,70,"Cofidis, Solutions Cr\xe9dits",",, ,,",,3,2013
+25,,123,102.0,+13:30,,Durasek Kristijan,71,Lampre - Merida,",, ,,",,3,2013
+23,,82,80.0,+8:21,,Chernetski Sergei,72,Team Katusha,",, ,,",,3,2013
+29,,107,65.0,+2:55,,Nieve Mikel,73,Euskaltel - Euskadi,",, ,,",,3,2013
+25,,134,41.0,+1:57,,Geniez Alexandre,74,FDJ.fr,",, ,,",,3,2013
+33,,102,71.0,+4:04,,Astarloza Mikel,75,Euskaltel - Euskadi,",, ,,",,3,2013
+25,,146,147.0,+25:41,,R\xe9za K\xe9vin,76,Team Europcar,",, ,,",,3,2013
+25,,144,51.0,+1:57,,Gautier Cyril,77,Team Europcar,",, ,,",,3,2013
+25,,148,1.0,+0:00,,Veilleux David,78,Team Europcar,",, ,,",,3,2013
+26,,24,40.0,+1:57,,De Clercq Bart,79,Lotto Belisol Team,",, ,,",,3,2013
+25,,92,32.0,+1:57,,Bagot Yoann,80,"Cofidis, Solutions Cr\xe9dits",",, ,,",,3,2013
+28,,161,44.0,+1:57,,Bodnar Maciej,81,Cannondale Pro Cycling Team,",, ,,",,3,2013
+28,,62,50.0,+1:57,,Busche Matthew,82,RadioShack - Leopard,",, ,,",,3,2013
+26,,166,62.0,+2:24,,Sarmiento Jose Cayetano,83,Cannondale Pro Cycling Team,",, ,,",,3,2013
+25,,211,36.0,+1:57,,K\xf6nig Leopold,84,Team NetApp \u2013 Endura,",, ,,",,3,2013
+25,,38,48.0,+1:57,,Silin Egor,85,Astana Pro Team,",, ,,",,3,2013
+21,,133,49.0,+1:57,,Elissonde Kenny,86,FDJ.fr,",, ,,",,3,2013
+33,,15,55.0,+1:57,,Paulinho S\xe9rgio,87,Team Saxo - Tinkoff,",, ,,",,3,2013
+25,,105,46.0,+1:57,,Izagirre Gorka,88,Euskaltel - Euskadi,",, ,,",,3,2013
+33,,66,122.0,+17:41,,Irizar Markel,89,RadioShack - Leopard,",, ,,",,3,2013
+32,,32,89.0,+9:43,,Bazayev Assan,90,Astana Pro Team,",, ,,",,3,2013
+24,,207,47.0,+1:57,,Laengen Vegard Stake,91,Bretagne - S\xe9ch\xe9 Environnement,",, ,,",,3,2013
+23,,103,111.0,+16:05,,Bilbao Pello,92,Euskaltel - Euskadi,",, ,,",,3,2013
+30,,184,54.0,+1:57,,Hoogerland Johnny,93,Vacansoleil - DCM,",, ,,",,3,2013
+23,,95,72.0,+4:04,,Molard Rudy,94,"Cofidis, Solutions Cr\xe9dits",",, ,,",,3,2013
+33,,83,121.0,+17:38,,Florencio Xavier,95,Team Katusha,",, ,,",,3,2013
+31,,98,132.0,+20:54,,Valentin Tristan,96,"Cofidis, Solutions Cr\xe9dits",",, ,,",,3,2013
+24,,213,73.0,+4:04,,de la Cruz David,97,Team NetApp \u2013 Endura,",, ,,",,3,2013
+25,,108,95.0,+12:11,,Sicard Romain,98,Euskaltel - Euskadi,",, ,,",,3,2013
+26,,147,52.0,+1:57,,Rolland Pierre,99,Team Europcar,",, ,,",,3,2013
+28,,205,83.0,+8:28,,Gerard Arnaud,100,Bretagne - S\xe9ch\xe9 Environnement,",, ,,",,3,2013
+30,,206,53.0,+1:57,,Guillou Florian,101,Bretagne - S\xe9ch\xe9 Environnement,",, ,,",,3,2013
+34,,128,129.0,+20:13,,Serpa Jose Rodolfo,102,Lampre - Merida,",, ,,",,3,2013
+37,,45,77.0,+5:32,,Pinotti Marco,103,BMC Racing Team,",, ,,",,3,2013
+32,,203,78.0,+5:32,,Duret Sebastien,104,Bretagne - S\xe9ch\xe9 Environnement,",, ,,",,3,2013
+28,,215,84.0,+8:28,,Mendes Jos\xe9,105,Team NetApp \u2013 Endura,",, ,,",,3,2013
+21,,208,74.0,+4:31,,Sep\xfalveda Eduardo,106,Bretagne - S\xe9ch\xe9 Environnement,",, ,,",,3,2013
+34,,131,68.0,+4:02,,Fedrigo Pierrick,107,FDJ.fr,",, ,,",,3,2013
+24,,78,98.0,+12:47,,Teklehaimanot Daniel,108,Orica GreenEDGE,",, ,,",,3,2013
+37,,53,128.0,+20:13,,Garate Juan Manuel,109,Blanco Pro Cycling Team,",, ,,",,3,2013
+32,,5,56.0,+1:57,,Lopez David,110,Sky Procycling,",, ,,",,3,2013
+24,,157,75.0,+4:47,,Serry Pieter,111,Omega Pharma - Quick-Step,",, ,,",,3,2013
+35,,177,82.0,+8:28,,Szmyd Sylwester,112,Movistar Team,",, ,,",,3,2013
+25,,116,136.0,+22:11,,Howes Alex,113,Garmin Sharp,",, ,,",,3,2013
+33,,141,57.0,+1:57,,Voeckler Thomas,114,Team Europcar,",, ,,",,3,2013
+26,,181,131.0,+20:29,,De Gendt Thomas,115,Vacansoleil - DCM,",, ,,",,3,2013
+25,,104,109.0,+15:11,,Garcia Ricardo,116,Euskaltel - Euskadi,",, ,,",,3,2013
+25,,84,87.0,+8:55,,Ignatenko Petr,117,Team Katusha,",, ,,",,3,2013
+33,,46,107.0,+14:39,,Quinziato Manuel,118,BMC Racing Team,0:21 0:21,,3,2013
+29,,122,93.0,+11:18,,Bono Matteo,119,Lampre - Merida,0:38 0:38,,3,2013
+25,,137,144.0,+25:01,,Soupe Geoffrey,120,FDJ.fr,0:47 0:47,,3,2013
+35,,183,67.0,+3:51,,Flecha Juan Antonio,121,Vacansoleil - DCM,1:54 1:54,,3,2013
+26,,114,113.0,+16:12,,Fairly Caleb,122,Garmin Sharp,",, 1:54",,3,2013
+31,,198,133.0,+21:09,,Parisien Francois,123,Team Argos - Shimano,",, 1:54",,3,2013
+24,,26,126.0,+19:18,,Vanendert Dennis,124,Lotto Belisol Team,",, 1:54",,3,2013
+30,,127,157.0,+29:15,,Richeze Ariel Maximiliano,125,Lampre - Merida,",, 1:54",,3,2013
+22,,54,125.0,+19:05,,Goos Marc,126,Blanco Pro Cycling Team,",, 1:54",,3,2013
+27,,153,124.0,+18:11,,Maes Nikolas,127,Omega Pharma - Quick-Step,",, 1:54",,3,2013
+28,,212,135.0,+22:07,,B\xe1rta Jan,128,Team NetApp \u2013 Endura,",, 1:54",,3,2013
+29,,202,110.0,+15:21,,Bideau Jean Marc,129,Bretagne - S\xe9ch\xe9 Environnement,",, 1:54",,3,2013
+28,,85,138.0,+23:59,,Ignatyev Mikhail,130,Team Katusha,",, 1:54",,3,2013
+28,,154,91.0,+10:49,,Martin Tony,131,Omega Pharma - Quick-Step,",, 1:54",,3,2013
+23,,186,117.0,+17:16,,Lindeman Bert-Jan,132,Vacansoleil - DCM,",, 1:54",,3,2013
+26,,182,160.0,+29:22,,Boeckmans Kris,133,Vacansoleil - DCM,",, 1:54",,3,2013
+29,,174,114.0,+16:17,,Erviti Imanol,134,Movistar Team,1:59 1:59,,3,2013
+24,,67,139.0,+24:04,,King Benjamin,135,RadioShack - Leopard,",, 1:59",,3,2013
+26,,173,108.0,+14:49,,Castroviejo Jonathan,136,Movistar Team,2:02 2:02,,3,2013
+30,,178,141.0,+24:12,,Teruel Eloy,137,Movistar Team,",, 2:02",,3,2013
+27,,162,145.0,+25:07,,Canuti Federico,138,Cannondale Pro Cycling Team,",, 2:02",,3,2013
+31,,115,158.0,+29:20,,Fern\xe1ndez Koldo,139,Garmin Sharp,2:05 2:05,,3,2013
+36,,25,85.0,+8:38,,van de Walle Jurgen,140,Lotto Belisol Team,3:03 3:03,,3,2013
+29,,156,142.0,+24:19,,Rabon Frantisek,141,Omega Pharma - Quick-Step,3:48 3:48,,3,2013
+30,,58,165.0,+31:03,,Wagner Robert,142,Blanco Pro Cycling Team,",, 3:48",,3,2013
+22,,48,172.0,+35:14,,Warbasse Larry,143,BMC Racing Team,",, 3:48",,3,2013
+29,,42,96.0,+12:43,,Bookwalter Brent,144,BMC Racing Team,",, 3:48",,3,2013
+24,,111,134.0,+21:09,,Talansky Andrew,145,Garmin Sharp,",, 3:48",,3,2013
+30,,12,168.0,+31:09,,Duggan Timothy,146,Team Saxo - Tinkoff,",, 3:48",,3,2013
+31,,167,92.0,+11:00,,Vandborg Brian,147,Cannondale Pro Cycling Team,",, 3:48",,3,2013
+24,,125,167.0,+31:09,,Graziato Massimo,148,Lampre - Merida,",, 3:48",,3,2013
+27,,218,166.0,+31:03,,Wetterhall Alexander,149,Team NetApp \u2013 Endura,",, 3:48",,3,2013
+26,,74,170.0,+32:09,,Docker Mitchell,150,Orica GreenEDGE,",, 3:48",,3,2013
+30,,188,118.0,+17:26,,Westra Lieuwe,151,Vacansoleil - DCM,",, 3:48",,3,2013
+32,,214,116.0,+16:56,,Huzarski Bartosz,152,Team NetApp \u2013 Endura,4:09 4:09,,3,2013
+26,,165,149.0,+26:14,,Paterski Maciej,153,Cannondale Pro Cycling Team,",, 4:09",,3,2013
+29,,216,163.0,+29:50,,Schillinger Andreas,154,Team NetApp \u2013 Endura,",, 4:09",,3,2013
+38,,18,130.0,+20:16,,S\xf8rensen Nicki,155,Team Saxo - Tinkoff,",, 4:09",,3,2013
+34,,14,161.0,+29:50,,Noval Benjamin,156,Team Saxo - Tinkoff,",, 4:09",,3,2013
+29,,145,152.0,+26:30,,Quemeneur Perrig,157,Team Europcar,",, 4:09",,3,2013
+34,,143,153.0,+27:14,,Charteau Anthony,158,Team Europcar,",, 4:09",,3,2013
+30,,72,150.0,+26:14,,Beppu Fumiyuki,159,Orica GreenEDGE,",, 4:09",,3,2013
+22,,142,99.0,+13:04,,Berhane Natnael,160,Team Europcar,",, 4:09",,3,2013
+25,,23,151.0,+26:20,,Cordeel Sander,161,Lotto Belisol Team,",, 4:09",,3,2013
+28,,158,137.0,+23:46,,Velits Martin,162,Omega Pharma - Quick-Step,",, 4:09",,3,2013
+29,,195,162.0,+29:50,,Huguet Yann,163,Team Argos - Shimano,",, 4:09",,3,2013
+28,,193,159.0,+29:21,,Clarke William,164,Team Argos - Shimano,",, 4:09",,3,2013
+26,,7,146.0,+25:30,,Stannard Ian,165,Sky Procycling,7:52 7:52,,3,2013
+28,,112,164.0,+30:09,,Bauer Jack,166,Garmin Sharp,",, 7:52",,3,2013
+23,,43,171.0,+35:13,,Eijssen Yannick,167,BMC Racing Team,",, 7:52",,3,2013
+23,,76,119.0,+17:35,,Meyer Travis,168,Orica GreenEDGE,",, 7:52",,3,2013
+23,,126,169.0,+31:42,,Palini Andrea,169,Lampre - Merida,",, 7:52",,3,2013
+33,,36,143.0,+24:45,,Muravyev Dmitriy,170,Astana Pro Team,",, 7:52",,3,2013
+22,,118,140.0,+24:06,,Rathe Jacob,171,Garmin Sharp,9:37 9:37,,3,2013
+31,,4,156.0,+27:56,,Kiryienka Vasil,172,Sky Procycling,",, 9:37",,3,2013
+25,,22,,+ - 12:00:22,,Bille Gaetan,DNF,Lotto Belisol Team,-4:03:32 -4:03:32,,3,2013
+28,,17,,+ - 12:00:22,,S\xf8rensen Chris Anker,DNS,Team Saxo - Tinkoff,",, -4:03:32",,3,2013
+28,52.846000000000004,154,79.0,+8:05,50.0,Martin Tony,1,Omega Pharma - Quick-Step,36:54 36:54,6.0,4,2013
+23,51.747,113,1.0,+0:00,30.0,Dennis Rohan,2,Garmin Sharp,0:47 0:47,4.0,4,2013
+28,51.633,1,2.0,+0:05,18.0,Froome Christopher,3,Sky Procycling,0:52 0:52,2.0,4,2013
+26,51.271,173,93.0,+13:13,13.0,Castroviejo Jonathan,4,Movistar Team,1:08 1:08,1.0,4,2013
+23,51.159,152,3.0,+0:26,10.0,Kwiatkowski Michal,5,Omega Pharma - Quick-Step,1:13 1:13,1.0,4,2013
+26,51.025,2,4.0,+0:32,7.0,Boasson Hagen Edvald,6,Sky Procycling,1:19 1:19,,4,2013
+28,51.003,6,5.0,+0:33,4.0,Porte Richie,7,Sky Procycling,1:20 1:20,,4,2013
+28,50.648999999999994,212,124.0,+20:59,3.0,B\xe1rta Jan,8,Team NetApp \u2013 Endura,1:36 1:36,,4,2013
+37,50.606,45,60.0,+4:26,2.0,Pinotti Marco,9,BMC Racing Team,1:38 1:38,,4,2013
+27,50.518,8,6.0,+0:55,1.0,Thomas Geraint,10,Sky Procycling,1:42 1:42,,4,2013
+29,50.431000000000004,34,10.0,+1:26,,Grivko Andrei,11,Astana Pro Team,1:46 1:46,,4,2013
+25,50.172,211,8.0,+1:11,,K\xf6nig Leopold,12,Team NetApp \u2013 Endura,1:58 1:58,,4,2013
+30,50.107,52,9.0,+1:14,,Clement Stef,13,Blanco Pro Cycling Team,2:01 2:01,,4,2013
+33,49.766000000000005,16,11.0,+1:30,,Rogers Michael,14,Team Saxo - Tinkoff,2:17 2:17,,4,2013
+29,49.703,96,12.0,+1:33,,Navarro Daniel,15,"Cofidis, Solutions Cr\xe9dits",2:20 2:20,,4,2013
+26,49.597,181,121.0,+20:10,,De Gendt Thomas,16,Vacansoleil - DCM,2:25 2:25,,4,2013
+31,49.555,88,13.0,+1:40,,Moreno Daniel,17,Team Katusha,2:27 2:27,,4,2013
+33,49.534,151,14.0,+1:41,,Chavanel Sylvain,18,Omega Pharma - Quick-Step,2:28 2:28,,4,2013
+26,49.451,97,15.0,+1:45,,Taaram\xe4e Rein,19,"Cofidis, Solutions Cr\xe9dits",2:32 2:32,,4,2013
+30,49.409,178,135.0,+24:02,,Teruel Eloy,20,Movistar Team,2:34 2:34,,4,2013
+25,49.367,64,16.0,+1:49,,Gallopin Tony,21,RadioShack - Leopard,2:36 2:36,,4,2013
+24,49.325,138,96.0,+13:32,,Vichot Arthur,22,FDJ.fr,2:38 2:38,,4,2013
+28,49.325,112,155.0,+30:03,,Bauer Jack,23,Garmin Sharp,",, 2:38",,4,2013
+36,49.305,61,17.0,+1:52,,Zubeldia Haimar,24,RadioShack - Leopard,2:39 2:39,,4,2013
+28,49.222,31,18.0,+1:56,,Fuglsang Jakob,25,Astana Pro Team,2:43 2:43,,4,2013
+28,49.201,193,154.0,+29:21,,Clarke William,26,Team Argos - Shimano,2:44 2:44,,4,2013
+33,49.138999999999996,66,111.0,+17:44,,Irizar Markel,27,RadioShack - Leopard,2:47 2:47,,4,2013
+33,49.138999999999996,46,100.0,+14:42,,Quinziato Manuel,28,BMC Racing Team,",, 2:47",,4,2013
+25,49.036,134,19.0,+2:05,,Geniez Alexandre,29,FDJ.fr,2:52 2:52,,4,2013
+26,49.036,65,20.0,+2:05,,Hermans Ben,30,RadioShack - Leopard,",, 2:52",,4,2013
+20,48.974,35,107.0,+17:01,,Lutsenko Alexey,31,Astana Pro Team,2:55 2:55,,4,2013
+26,48.872,164,21.0,+2:13,,Koren Kristijan,32,Cannondale Pro Cycling Team,3:00 3:00,,4,2013
+23,48.872,76,112.0,+17:51,,Meyer Travis,33,Orica GreenEDGE,",, 3:00",,4,2013
+23,48.872,44,22.0,+2:13,,Nerz Dominik,34,BMC Racing Team,",, 3:00",,4,2013
+23,48.852,82,80.0,+8:38,,Chernetski Sergei,35,Team Katusha,3:01 3:01,,4,2013
+28,48.77,85,137.0,+24:20,,Ignatyev Mikhail,36,Team Katusha,3:05 3:05,,4,2013
+24,48.75,111,128.0,+21:31,,Talansky Andrew,37,Garmin Sharp,3:06 3:06,,4,2013
+35,48.708999999999996,183,59.0,+4:15,,Flecha Juan Antonio,38,Vacansoleil - DCM,3:08 3:08,,4,2013
+29,48.568000000000005,47,23.0,+2:28,,Santaromita Ivan,39,BMC Racing Team,3:15 3:15,,4,2013
+24,48.568000000000005,176,24.0,+2:28,,Madrazo \xc1ngel,40,Movistar Team,",, 3:15",,4,2013
+24,48.507,78,94.0,+13:21,,Teklehaimanot Daniel,41,Orica GreenEDGE,3:18 3:18,,4,2013
+31,48.486999999999995,167,90.0,+11:35,,Vandborg Brian,42,Cannondale Pro Cycling Team,3:19 3:19,,4,2013
+26,48.486999999999995,86,143.0,+26:34,,Kritskiy Timofey,43,Team Katusha,",, 3:19",,4,2013
+26,48.467,91,25.0,+2:33,,Coppel J\xe9rome,44,"Cofidis, Solutions Cr\xe9dits",3:20 3:20,,4,2013
+35,48.427,101,26.0,+2:35,,S\xe1nchez Samuel,45,Euskaltel - Euskadi,3:22 3:22,,4,2013
+26,48.407,147,27.0,+2:36,,Rolland Pierre,46,Team Europcar,3:23 3:23,,4,2013
+27,48.387,218,161.0,+31:43,,Wetterhall Alexander,47,Team NetApp \u2013 Endura,3:24 3:24,,4,2013
+24,48.367,157,70.0,+5:28,,Serry Pieter,48,Omega Pharma - Quick-Step,3:25 3:25,,4,2013
+36,48.347,25,83.0,+9:20,,van de Walle Jurgen,49,Lotto Belisol Team,3:26 3:26,,4,2013
+28,48.306999999999995,215,82.0,+9:12,,Mendes Jos\xe9,50,Team NetApp \u2013 Endura,3:28 3:28,,4,2013
+33,48.287,71,98.0,+14:15,,Gerrans Simon,51,Orica GreenEDGE,3:29 3:29,,4,2013
+26,48.287,172,28.0,+2:42,,Capecchi Eros,52,Movistar Team,",, 3:29",,4,2013
+33,48.287,171,29.0,+2:42,,Valverde Alejandro,53,Movistar Team,",, 3:29",,4,2013
+30,48.266999999999996,21,30.0,+2:43,,Van den Broeck Jurgen,54,Lotto Belisol Team,3:30 3:30,,4,2013
+32,48.228,51,31.0,+2:45,,ten Dam Laurens,55,Blanco Pro Cycling Team,3:32 3:32,,4,2013
+27,48.228,163,92.0,+12:59,,De Marchi Alessandro,56,Cannondale Pro Cycling Team,",, 3:32",,4,2013
+24,48.208,213,63.0,+4:53,,de la Cruz David,57,Team NetApp \u2013 Endura,3:33 3:33,,4,2013
+24,48.208,207,32.0,+2:46,,Laengen Vegard Stake,58,Bretagne - S\xe9ch\xe9 Environnement,",, 3:33",,4,2013
+33,48.208,15,33.0,+2:46,,Paulinho S\xe9rgio,59,Team Saxo - Tinkoff,",, 3:33",,4,2013
+25,48.188,187,64.0,+4:54,,Poels Wout,60,Vacansoleil - DCM,3:34 3:34,,4,2013
+30,48.128,11,34.0,+2:50,,Contador Alberto,61,Team Saxo - Tinkoff,3:37 3:37,,4,2013
+38,48.108999999999995,18,125.0,+21:10,,S\xf8rensen Nicki,62,Team Saxo - Tinkoff,3:38 3:38,,4,2013
+31,48.068999999999996,87,35.0,+2:53,,Losada Alberto,63,Team Katusha,3:40 3:40,,4,2013
+30,48.068999999999996,58,163.0,+31:59,,Wagner Robert,64,Blanco Pro Cycling Team,",, 3:40",,4,2013
+26,48.068999999999996,74,167.0,+33:05,,Docker Mitchell,65,Orica GreenEDGE,",, 3:40",,4,2013
+32,48.03,203,76.0,+6:30,,Duret Sebastien,66,Bretagne - S\xe9ch\xe9 Environnement,3:42 3:42,,4,2013
+28,48.01,136,81.0,+8:39,,Ladagnous Matthieu,67,FDJ.fr,3:43 3:43,,4,2013
+22,47.99,54,120.0,+20:05,,Goos Marc,68,Blanco Pro Cycling Team,3:44 3:44,,4,2013
+28,47.97,161,36.0,+2:58,,Bodnar Maciej,69,Cannondale Pro Cycling Team,3:45 3:45,,4,2013
+34,47.912,81,37.0,+3:01,,Rodr\xedguez Joaquim,70,Team Katusha,3:48 3:48,,4,2013
+26,47.891999999999996,37,38.0,+3:02,,Seeldraeyers Kevin,71,Astana Pro Team,3:49 3:49,,4,2013
+31,47.891999999999996,4,153.0,+29:01,,Kiryienka Vasil,72,Sky Procycling,",, 3:49",,4,2013
+26,47.872,24,39.0,+3:03,,De Clercq Bart,73,Lotto Belisol Team,3:50 3:50,,4,2013
+21,47.853,208,71.0,+5:38,,Sep\xfalveda Eduardo,74,Bretagne - S\xe9ch\xe9 Environnement,3:51 3:51,,4,2013
+32,47.853,32,88.0,+10:50,,Bazayev Assan,75,Astana Pro Team,",, 3:51",,4,2013
+25,47.81399999999999,148,7.0,+1:09,,Veilleux David,76,Team Europcar,3:53 3:53,,4,2013
+27,47.81399999999999,162,142.0,+26:16,,Canuti Federico,77,Cannondale Pro Cycling Team,",, 3:53",,4,2013
+28,47.794,205,84.0,+9:38,,Gerard Arnaud,78,Bretagne - S\xe9ch\xe9 Environnement,3:54 3:54,,4,2013
+26,47.736000000000004,114,108.0,+17:25,,Fairly Caleb,79,Garmin Sharp,3:57 3:57,,4,2013
+30,47.736000000000004,188,116.0,+18:39,,Westra Lieuwe,80,Vacansoleil - DCM,",, 3:57",,4,2013
+26,47.716,182,157.0,+30:36,,Boeckmans Kris,81,Vacansoleil - DCM,3:58 3:58,,4,2013
+31,47.716,121,56.0,+3:52,,Cunego Damiano,82,Lampre - Merida,",, 3:58",,4,2013
+33,47.677,102,67.0,+5:20,,Astarloza Mikel,83,Euskaltel - Euskadi,4:00 4:00,,4,2013
+23,47.658,3,40.0,+3:14,,Kennaugh Peter,84,Sky Procycling,4:01 4:01,,4,2013
+21,47.638000000000005,191,41.0,+3:15,,Barguil Warren,85,Team Argos - Shimano,4:02 4:02,,4,2013
+27,47.58,175,42.0,+3:18,,Herrada Jos\xe9,86,Movistar Team,4:05 4:05,,4,2013
+34,47.56100000000001,131,69.0,+5:24,,Fedrigo Pierrick,87,FDJ.fr,4:06 4:06,,4,2013
+24,47.542,67,139.0,+25:27,,King Benjamin,88,RadioShack - Leopard,4:07 4:07,,4,2013
+30,47.503,184,43.0,+3:22,,Hoogerland Johnny,89,Vacansoleil - DCM,4:09 4:09,,4,2013
+29,47.465,156,141.0,+25:46,,Rabon Frantisek,90,Omega Pharma - Quick-Step,4:11 4:11,,4,2013
+28,47.426,33,44.0,+3:26,,Gavazzi Francesco,91,Astana Pro Team,4:13 4:13,,4,2013
+25,47.426,117,129.0,+21:42,,Kreder Michel,92,Garmin Sharp,",, 4:13",,4,2013
+27,47.407,155,45.0,+3:26,,Meersman Gianni,93,Omega Pharma - Quick-Step,4:14 4:14,,4,2013
+33,47.407,141,46.0,+3:27,,Voeckler Thomas,94,Team Europcar,",, 4:14",,4,2013
+29,47.388000000000005,195,160.0,+31:21,,Huguet Yann,95,Team Argos - Shimano,4:15 4:15,,4,2013
+22,47.388000000000005,28,75.0,+6:20,,Wellens Tim,96,Lotto Belisol Team,",, 4:15",,4,2013
+25,47.292,105,47.0,+3:33,,Izagirre Gorka,97,Euskaltel - Euskadi,4:20 4:20,,4,2013
+21,47.273,133,48.0,+3:34,,Elissonde Kenny,98,FDJ.fr,4:21 4:21,,4,2013
+26,47.235,77,49.0,+3:36,,Sulzberger Wesley,99,Orica GreenEDGE,4:23 4:23,,4,2013
+30,47.215,206,50.0,+3:37,,Guillou Florian,100,Bretagne - S\xe9ch\xe9 Environnement,4:24 4:24,,4,2013
+23,47.196000000000005,55,72.0,+5:45,,Slagter Tom-Jelte,101,Blanco Pro Cycling Team,4:25 4:25,,4,2013
+26,47.158,165,147.0,+27:57,,Paterski Maciej,102,Cannondale Pro Cycling Team,4:27 4:27,,4,2013
+35,47.158,177,85.0,+10:11,,Szmyd Sylwester,103,Movistar Team,",, 4:27",,4,2013
+31,47.158,198,133.0,+22:52,,Parisien Francois,104,Team Argos - Shimano,",, 4:27",,4,2013
+24,47.082,124,119.0,+19:25,,Favilli Elia,105,Lampre - Merida,4:31 4:31,,4,2013
+25,47.06399999999999,84,87.0,+10:43,,Ignatenko Petr,106,Team Katusha,4:32 4:32,,4,2013
+35,47.06399999999999,106,51.0,+3:45,,Martinez Egoi,107,Euskaltel - Euskadi,",, 4:32",,4,2013
+25,47.06399999999999,108,97.0,+13:59,,Sicard Romain,108,Euskaltel - Euskadi,",, 4:32",,4,2013
+25,47.045,144,52.0,+3:46,,Gautier Cyril,109,Team Europcar,4:33 4:33,,4,2013
+29,47.045,42,99.0,+14:32,,Bookwalter Brent,110,BMC Racing Team,",, 4:33",,4,2013
+34,47.045,128,130.0,+22:02,,Serpa Jose Rodolfo,111,Lampre - Merida,",, 4:33",,4,2013
+32,47.026,5,53.0,+3:47,,Lopez David,112,Sky Procycling,4:34 4:34,,4,2013
+28,47.026,62,54.0,+3:47,,Busche Matthew,113,RadioShack - Leopard,",, 4:34",,4,2013
+25,47.026,38,55.0,+3:47,,Silin Egor,114,Astana Pro Team,",, 4:34",,4,2013
+28,46.95,63,86.0,+10:39,,Didier Laurent,115,RadioShack - Leopard,4:38 4:38,,4,2013
+25,46.913000000000004,137,144.0,+26:57,,Soupe Geoffrey,116,FDJ.fr,4:40 4:40,,4,2013
+28,46.913000000000004,158,140.0,+25:42,,Velits Martin,117,Omega Pharma - Quick-Step,",, 4:40",,4,2013
+29,46.875,145,149.0,+28:28,,Quemeneur Perrig,118,Team Europcar,4:42 4:42,,4,2013
+30,46.836999999999996,68,57.0,+3:57,,Rohregger Thomas,119,RadioShack - Leopard,4:44 4:44,,4,2013
+34,46.818999999999996,14,162.0,+31:51,,Noval Benjamin,120,Team Saxo - Tinkoff,4:45 4:45,,4,2013
+28,46.725,201,101.0,+14:53,,Vachon Florian,121,Bretagne - S\xe9ch\xe9 Environnement,4:50 4:50,,4,2013
+25,46.707,23,148.0,+28:27,,Cordeel Sander,122,Lotto Belisol Team,4:51 4:51,,4,2013
+29,46.688,174,115.0,+18:25,,Erviti Imanol,123,Movistar Team,4:52 4:52,,4,2013
+29,46.669,122,95.0,+13:27,,Bono Matteo,124,Lampre - Merida,4:53 4:53,,4,2013
+34,46.632,56,73.0,+5:52,,Tankink Bram,125,Blanco Pro Cycling Team,4:55 4:55,,4,2013
+25,46.576,92,58.0,+4:11,,Bagot Yoann,126,"Cofidis, Solutions Cr\xe9dits",4:58 4:58,,4,2013
+23,46.576,103,114.0,+18:19,,Bilbao Pello,127,Euskaltel - Euskadi,",, 4:58",,4,2013
+26,46.538999999999994,7,146.0,+27:46,,Stannard Ian,128,Sky Procycling,5:00 5:00,,4,2013
+29,46.391999999999996,94,62.0,+4:48,,Mat\xe9 Luis \xc1ngel,129,"Cofidis, Solutions Cr\xe9dits",5:08 5:08,,4,2013
+24,46.336999999999996,197,65.0,+5:09,,Janse van Rensburg Reinardt,130,Team Argos - Shimano,5:11 5:11,,4,2013
+33,46.318000000000005,36,145.0,+27:13,,Muravyev Dmitriy,131,Astana Pro Team,5:12 5:12,,4,2013
+37,46.3,53,132.0,+22:42,,Garate Juan Manuel,132,Blanco Pro Cycling Team,5:13 5:13,,4,2013
+29,46.3,107,68.0,+5:24,,Nieve Mikel,133,Euskaltel - Euskadi,",, 5:13",,4,2013
+24,46.227,168,105.0,+16:33,,Viviani Elia,134,Cannondale Pro Cycling Team,5:17 5:17,,4,2013
+29,46.227,216,166.0,+32:23,,Schillinger Andreas,135,Team NetApp \u2013 Endura,",, 5:17",,4,2013
+32,46.227,185,89.0,+11:01,,Lagutin Sergey,136,Vacansoleil - DCM,",, 5:17",,4,2013
+31,46.099,115,164.0,+32:00,,Fern\xe1ndez Koldo,137,Garmin Sharp,5:24 5:24,,4,2013
+30,45.99100000000001,72,152.0,+29:00,,Beppu Fumiyuki,138,Orica GreenEDGE,5:30 5:30,,4,2013
+33,45.972,83,122.0,+20:25,,Florencio Xavier,139,Team Katusha,5:31 5:31,,4,2013
+25,45.972,123,104.0,+16:17,,Durasek Kristijan,140,Lampre - Merida,",, 5:31",,4,2013
+22,45.972,75,118.0,+18:54,,Matthews Michael,141,Orica GreenEDGE,",, 5:31",,4,2013
+29,45.95399999999999,202,113.0,+18:09,,Bideau Jean Marc,142,Bretagne - S\xe9ch\xe9 Environnement,5:32 5:32,,4,2013
+32,45.93600000000001,93,61.0,+4:46,,Le M\xe9vel Christophe,143,"Cofidis, Solutions Cr\xe9dits",5:33 5:33,,4,2013
+24,45.9,194,91.0,+12:34,,Damuseau Thomas,144,Team Argos - Shimano,5:35 5:35,,4,2013
+32,45.864,135,66.0,+5:17,,Geslin Anthony,145,FDJ.fr,5:37 5:37,,4,2013
+26,45.775,73,106.0,+16:58,,Clarke Simon,146,Orica GreenEDGE,5:42 5:42,,4,2013
+22,45.757,142,103.0,+16:03,,Berhane Natnael,147,Team Europcar,5:43 5:43,,4,2013
+30,45.685,127,165.0,+32:18,,Richeze Ariel Maximiliano,148,Lampre - Merida,5:47 5:47,,4,2013
+27,45.65,153,127.0,+21:16,,Maes Nikolas,149,Omega Pharma - Quick-Step,5:49 5:49,,4,2013
+34,45.65,143,156.0,+30:19,,Charteau Anthony,150,Team Europcar,",, 5:49",,4,2013
+22,45.65,48,171.0,+38:19,,Warbasse Larry,151,BMC Racing Team,",, 5:49",,4,2013
+25,45.632,116,138.0,+25:17,,Howes Alex,152,Garmin Sharp,5:50 5:50,,4,2013
+21,45.632,192,159.0,+30:39,,Arndt Nikias,153,Team Argos - Shimano,",, 5:50",,4,2013
+23,45.543,95,78.0,+7:15,,Molard Rudy,154,"Cofidis, Solutions Cr\xe9dits",5:55 5:55,,4,2013
+25,45.508,146,151.0,+28:54,,R\xe9za K\xe9vin,155,Team Europcar,5:57 5:57,,4,2013
+35,45.455,41,158.0,+30:37,,Hushovd Thor,156,BMC Racing Team,6:00 6:00,,4,2013
+23,45.419,126,169.0,+35:00,,Palini Andrea,157,Lampre - Merida,6:02 6:02,,4,2013
+31,45.36600000000001,98,136.0,+24:15,,Valentin Tristan,158,"Cofidis, Solutions Cr\xe9dits",6:05 6:05,,4,2013
+24,45.156000000000006,204,110.0,+17:33,,Fonseca Armindo,159,Bretagne - S\xe9ch\xe9 Environnement,6:17 6:17,,4,2013
+25,45.138999999999996,104,117.0,+18:45,,Garcia Ricardo,160,Euskaltel - Euskadi,6:18 6:18,,4,2013
+30,45.052,12,168.0,+34:48,,Duggan Timothy,161,Team Saxo - Tinkoff,6:23 6:23,,4,2013
+32,45.052,214,123.0,+20:35,,Huzarski Bartosz,162,Team NetApp \u2013 Endura,",, 6:23",,4,2013
+24,44.896,26,134.0,+23:06,,Vanendert Dennis,163,Lotto Belisol Team,6:32 6:32,,4,2013
+27,44.845,217,74.0,+6:15,,Voss Paul,164,Team NetApp \u2013 Endura,6:35 6:35,,4,2013
+24,44.828,125,170.0,+35:01,,Graziato Massimo,165,Lampre - Merida,6:36 6:36,,4,2013
+23,44.776,186,126.0,+21:11,,Lindeman Bert-Jan,166,Vacansoleil - DCM,6:39 6:39,,4,2013
+28,44.674,57,109.0,+17:31,,Tanner David,167,Blanco Pro Cycling Team,6:45 6:45,,4,2013
+26,44.571000000000005,166,77.0,+6:31,,Sarmiento Jose Cayetano,168,Cannondale Pro Cycling Team,6:51 6:51,,4,2013
+31,44.402,13,102.0,+14:57,,Hern\xe1ndez Jes\xfas,169,Team Saxo - Tinkoff,7:01 7:01,,4,2013
+22,44.251000000000005,132,131.0,+22:13,,Bouhanni Nacer,170,FDJ.fr,7:10 7:10,,4,2013
+22,43.985,118,150.0,+28:48,,Rathe Jacob,171,Garmin Sharp,7:26 7:26,,4,2013
+23,43.349,43,172.0,+40:34,,Eijssen Yannick,172,BMC Racing Team,8:05 8:05,,4,2013
+28,,1,1.0,+0:00,50.0,Froome Christopher,1,Sky Procycling,3:28:39 3:28:39,6.0,5,2013
+30,,11,13.0,+2:49,30.0,Contador Alberto,2,Team Saxo - Tinkoff,0:04 0:04,4.0,5,2013
+28,,62,19.0,+3:46,18.0,Busche Matthew,3,RadioShack - Leopard,",, 0:04",2.0,5,2013
+33,,171,12.0,+2:47,13.0,Valverde Alejandro,4,Movistar Team,0:10 0:10,1.0,5,2013
+33,,16,4.0,+1:37,10.0,Rogers Michael,5,Team Saxo - Tinkoff,0:12 0:12,1.0,5,2013
+31,,88,5.0,+1:47,7.0,Moreno Daniel,6,Team Katusha,",, 0:12",,5,2013
+26,,97,7.0,+1:52,4.0,Taaram\xe4e Rein,7,"Cofidis, Solutions Cr\xe9dits",",, 0:12",,5,2013
+29,,96,6.0,+1:49,3.0,Navarro Daniel,8,"Cofidis, Solutions Cr\xe9dits",0:21 0:21,,5,2013
+28,,6,2.0,+0:52,2.0,Porte Richie,9,Sky Procycling,0:24 0:24,,5,2013
+28,,31,10.0,+2:20,1.0,Fuglsang Jakob,10,Astana Pro Team,0:29 0:29,,5,2013
+26,,24,16.0,+3:30,,De Clercq Bart,11,Lotto Belisol Team,0:32 0:32,,5,2013
+32,,51,14.0,+3:12,,ten Dam Laurens,12,Blanco Pro Cycling Team,",, 0:32",,5,2013
+31,,13,63.0,+15:47,,Hern\xe1ndez Jes\xfas,13,Team Saxo - Tinkoff,0:55 0:55,,5,2013
+23,,113,3.0,+0:54,,Dennis Rohan,14,Garmin Sharp,0:59 0:59,,5,2013
+25,,211,9.0,+2:16,,K\xf6nig Leopold,15,Team NetApp \u2013 Endura,1:10 1:10,,5,2013
+26,,37,21.0,+4:16,,Seeldraeyers Kevin,16,Astana Pro Team,1:19 1:19,,5,2013
+30,,52,11.0,+2:32,,Clement Stef,17,Blanco Pro Cycling Team,1:23 1:23,,5,2013
+35,,101,20.0,+4:01,,S\xe1nchez Samuel,18,Euskaltel - Euskadi,1:31 1:31,,5,2013
+23,,152,8.0,+1:58,,Kwiatkowski Michal,19,Omega Pharma - Quick-Step,1:37 1:37,,5,2013
+36,,61,15.0,+3:24,,Zubeldia Haimar,20,RadioShack - Leopard,",, 1:37",,5,2013
+26,,65,17.0,+3:37,,Hermans Ben,21,RadioShack - Leopard,",, 1:37",,5,2013
+25,,134,18.0,+3:41,,Geniez Alexandre,22,FDJ.fr,1:41 1:41,,5,2013
+22,,28,38.0,+8:20,,Wellens Tim,23,Lotto Belisol Team,2:05 2:05,,5,2013
+23,,103,81.0,+20:19,,Bilbao Pello,24,Euskaltel - Euskadi,",, 2:05",,5,2013
+29,,42,67.0,+16:42,,Bookwalter Brent,25,BMC Racing Team,2:15 2:15,,5,2013
+21,,191,26.0,+5:33,,Barguil Warren,26,Team Argos - Shimano,2:23 2:23,,5,2013
+27,,175,29.0,+6:00,,Herrada Jos\xe9,27,Movistar Team,2:47 2:47,,5,2013
+33,,141,31.0,+6:12,,Voeckler Thomas,28,Team Europcar,2:50 2:50,,5,2013
+29,,47,23.0,+5:15,,Santaromita Ivan,29,BMC Racing Team,2:52 2:52,,5,2013
+30,,206,32.0,+6:30,,Guillou Florian,30,Bretagne - S\xe9ch\xe9 Environnement,2:58 2:58,,5,2013
+27,,163,64.0,+15:59,,De Marchi Alessandro,31,Cannondale Pro Cycling Team,3:05 3:05,,5,2013
+24,,78,66.0,+16:21,,Teklehaimanot Daniel,32,Orica GreenEDGE,",, 3:05",,5,2013
+29,,107,39.0,+8:24,,Nieve Mikel,33,Euskaltel - Euskadi,",, 3:05",,5,2013
+24,,157,41.0,+8:39,,Serry Pieter,34,Omega Pharma - Quick-Step,3:16 3:16,,5,2013
+23,,55,44.0,+9:10,,Slagter Tom-Jelte,35,Blanco Pro Cycling Team,3:30 3:30,,5,2013
+26,,172,30.0,+6:07,,Capecchi Eros,36,Movistar Team,",, 3:30",,5,2013
+24,,176,28.0,+5:53,,Madrazo \xc1ngel,37,Movistar Team,",, 3:30",,5,2013
+28,,63,60.0,+14:04,,Didier Laurent,38,RadioShack - Leopard,",, 3:30",,5,2013
+26,,164,27.0,+5:43,,Koren Kristijan,39,Cannondale Pro Cycling Team,3:35 3:35,,5,2013
+32,,93,37.0,+8:16,,Le M\xe9vel Christophe,40,"Cofidis, Solutions Cr\xe9dits",",, 3:35",,5,2013
+29,,34,22.0,+5:04,,Grivko Andrei,41,Astana Pro Team,3:43 3:43,,5,2013
+24,,111,91.0,+25:23,,Talansky Andrew,42,Garmin Sharp,3:57 3:57,,5,2013
+25,,148,24.0,+5:17,,Veilleux David,43,Team Europcar,4:13 4:13,,5,2013
+27,,8,25.0,+5:30,,Thomas Geraint,44,Sky Procycling,4:40 4:40,,5,2013
+33,,15,35.0,+7:21,,Paulinho S\xe9rgio,45,Team Saxo - Tinkoff,",, 4:40",,5,2013
+23,,44,33.0,+6:58,,Nerz Dominik,46,BMC Racing Team,4:50 4:50,,5,2013
+34,,131,48.0,+10:09,,Fedrigo Pierrick,47,FDJ.fr,",, 4:50",,5,2013
+26,,147,36.0,+7:21,,Rolland Pierre,48,Team Europcar,",, 4:50",,5,2013
+30,,68,42.0,+8:42,,Rohregger Thomas,49,RadioShack - Leopard,",, 4:50",,5,2013
+26,,166,54.0,+11:45,,Sarmiento Jose Cayetano,50,Cannondale Pro Cycling Team,5:19 5:19,,5,2013
+34,,81,40.0,+8:25,,Rodr\xedguez Joaquim,51,Team Katusha,5:29 5:29,,5,2013
+25,,105,43.0,+8:57,,Izagirre Gorka,52,Euskaltel - Euskadi,",, 5:29",,5,2013
+25,,64,34.0,+7:13,,Gallopin Tony,53,RadioShack - Leopard,",, 5:29",,5,2013
+32,,203,55.0,+11:54,,Duret Sebastien,54,Bretagne - S\xe9ch\xe9 Environnement,",, 5:29",,5,2013
+34,,56,51.0,+11:26,,Tankink Bram,55,Blanco Pro Cycling Team,5:39 5:39,,5,2013
+28,,33,46.0,+9:37,,Gavazzi Francesco,56,Astana Pro Team,6:16 6:16,,5,2013
+26,,181,94.0,+26:21,,De Gendt Thomas,57,Vacansoleil - DCM,",, 6:16",,5,2013
+29,,174,89.0,+24:36,,Erviti Imanol,58,Movistar Team,",, 6:16",,5,2013
+23,,186,99.0,+27:55,,Lindeman Bert-Jan,59,Vacansoleil - DCM,6:49 6:49,,5,2013
+29,,156,107.0,+32:32,,Rabon Frantisek,60,Omega Pharma - Quick-Step,6:51 6:51,,5,2013
+25,,38,49.0,+10:50,,Silin Egor,61,Astana Pro Team,7:08 7:08,,5,2013
+26,,91,45.0,+9:36,,Coppel J\xe9rome,62,"Cofidis, Solutions Cr\xe9dits",",, 7:08",,5,2013
+31,,121,53.0,+11:43,,Cunego Damiano,63,Lampre - Merida,7:56 7:56,,5,2013
+26,,77,52.0,+11:27,,Sulzberger Wesley,64,Orica GreenEDGE,",, 7:56",,5,2013
+24,,213,59.0,+13:16,,de la Cruz David,65,Team NetApp \u2013 Endura,8:28 8:28,,5,2013
+24,,207,50.0,+11:16,,Laengen Vegard Stake,66,Bretagne - S\xe9ch\xe9 Environnement,8:35 8:35,,5,2013
+26,,2,47.0,+9:45,,Boasson Hagen Edvald,67,Sky Procycling,9:18 9:18,,5,2013
+23,,3,56.0,+12:27,,Kennaugh Peter,68,Sky Procycling,",, 9:18",,5,2013
+32,,5,58.0,+13:00,,Lopez David,69,Sky Procycling,",, 9:18",,5,2013
+25,,146,127.0,+38:07,,R\xe9za K\xe9vin,70,Team Europcar,",, 9:18",,5,2013
+32,,185,80.0,+20:14,,Lagutin Sergey,71,Vacansoleil - DCM,",, 9:18",,5,2013
+23,,82,69.0,+18:01,,Chernetski Sergei,72,Team Katusha,9:28 9:28,,5,2013
+30,,21,57.0,+12:36,,Van den Broeck Jurgen,73,Lotto Belisol Team,9:58 9:58,,5,2013
+24,,26,110.0,+32:59,,Vanendert Dennis,74,Lotto Belisol Team,",, 9:58",,5,2013
+30,,184,61.0,+14:24,,Hoogerland Johnny,75,Vacansoleil - DCM,11:07 11:07,,5,2013
+35,,177,82.0,+21:19,,Szmyd Sylwester,76,Movistar Team,11:13 11:13,,5,2013
+31,,4,133.0,+40:09,,Kiryienka Vasil,77,Sky Procycling,",, 11:13",,5,2013
+21,,133,62.0,+15:09,,Elissonde Kenny,78,FDJ.fr,11:40 11:40,,5,2013
+33,,66,102.0,+29:32,,Irizar Markel,79,RadioShack - Leopard,11:53 11:53,,5,2013
+24,,67,126.0,+37:15,,King Benjamin,80,RadioShack - Leopard,",, 11:53",,5,2013
+32,,214,109.0,+32:49,,Huzarski Bartosz,81,Team NetApp \u2013 Endura,12:19 12:19,,5,2013
+24,,194,95.0,+26:23,,Damuseau Thomas,82,Team Argos - Shimano,13:54 13:54,,5,2013
+35,,183,72.0,+18:35,,Flecha Juan Antonio,83,Vacansoleil - DCM,14:25 14:25,,5,2013
+32,,135,77.0,+19:37,,Geslin Anthony,84,FDJ.fr,",, 14:25",,5,2013
+33,,151,65.0,+16:01,,Chavanel Sylvain,85,Omega Pharma - Quick-Step,",, 14:25",,5,2013
+24,,138,98.0,+27:52,,Vichot Arthur,86,FDJ.fr,",, 14:25",,5,2013
+28,,205,88.0,+23:58,,Gerard Arnaud,87,Bretagne - S\xe9ch\xe9 Environnement,",, 14:25",,5,2013
+28,,136,85.0,+22:59,,Ladagnous Matthieu,88,FDJ.fr,",, 14:25",,5,2013
+28,,201,101.0,+29:13,,Vachon Florian,89,Bretagne - S\xe9ch\xe9 Environnement,",, 14:25",,5,2013
+33,,102,78.0,+19:40,,Astarloza Mikel,90,Euskaltel - Euskadi,",, 14:25",,5,2013
+33,,46,100.0,+29:02,,Quinziato Manuel,91,BMC Racing Team,",, 14:25",,5,2013
+37,,53,123.0,+37:02,,Garate Juan Manuel,92,Blanco Pro Cycling Team,",, 14:25",,5,2013
+24,,204,104.0,+31:53,,Fonseca Armindo,93,Bretagne - S\xe9ch\xe9 Environnement,",, 14:25",,5,2013
+35,,106,70.0,+18:05,,Martinez Egoi,94,Euskaltel - Euskadi,",, 14:25",,5,2013
+21,,208,79.0,+19:58,,Sep\xfalveda Eduardo,95,Bretagne - S\xe9ch\xe9 Environnement,",, 14:25",,5,2013
+29,,202,106.0,+32:29,,Bideau Jean Marc,96,Bretagne - S\xe9ch\xe9 Environnement,",, 14:25",,5,2013
+36,,25,87.0,+23:40,,van de Walle Jurgen,97,Lotto Belisol Team,",, 14:25",,5,2013
+25,,187,75.0,+19:14,,Poels Wout,98,Vacansoleil - DCM,",, 14:25",,5,2013
+22,,54,115.0,+34:25,,Goos Marc,99,Blanco Pro Cycling Team,",, 14:25",,5,2013
+34,,143,142.0,+44:39,,Charteau Anthony,100,Team Europcar,",, 14:25",,5,2013
+29,,94,74.0,+19:08,,Mat\xe9 Luis \xc1ngel,101,"Cofidis, Solutions Cr\xe9dits",",, 14:25",,5,2013
+29,,145,138.0,+42:48,,Quemeneur Perrig,102,Team Europcar,",, 14:25",,5,2013
+24,,197,76.0,+19:29,,Janse van Rensburg Reinardt,103,Team Argos - Shimano,",, 14:25",,5,2013
+25,,144,71.0,+18:06,,Gautier Cyril,104,Team Europcar,",, 14:25",,5,2013
+34,,128,118.0,+36:22,,Serpa Jose Rodolfo,105,Lampre - Merida,",, 14:25",,5,2013
+26,,182,145.0,+44:56,,Boeckmans Kris,106,Vacansoleil - DCM,",, 14:25",,5,2013
+37,,45,73.0,+18:46,,Pinotti Marco,107,BMC Racing Team,",, 14:25",,5,2013
+35,,41,146.0,+44:57,,Hushovd Thor,108,BMC Racing Team,",, 14:25",,5,2013
+27,,155,68.0,+17:46,,Meersman Gianni,109,Omega Pharma - Quick-Step,",, 14:25",,5,2013
+28,,212,122.0,+36:50,,B\xe1rta Jan,110,Team NetApp \u2013 Endura,15:56 15:56,,5,2013
+29,,216,155.0,+48:14,,Schillinger Andreas,111,Team NetApp \u2013 Endura,",, 15:56",,5,2013
+28,,215,90.0,+25:03,,Mendes Jos\xe9,112,Team NetApp \u2013 Endura,",, 15:56",,5,2013
+34,,14,154.0,+47:49,,Noval Benjamin,113,Team Saxo - Tinkoff,16:03 16:03,,5,2013
+32,,32,97.0,+27:12,,Bazayev Assan,114,Astana Pro Team,16:27 16:27,,5,2013
+26,,7,143.0,+44:43,,Stannard Ian,115,Sky Procycling,17:02 17:02,,5,2013
+26,,73,114.0,+33:55,,Clarke Simon,116,Orica GreenEDGE,",, 17:02",,5,2013
+28,,158,137.0,+42:39,,Velits Martin,117,Omega Pharma - Quick-Step,",, 17:02",,5,2013
+30,,178,136.0,+40:59,,Teruel Eloy,118,Movistar Team,",, 17:02",,5,2013
+27,,153,129.0,+38:13,,Maes Nikolas,119,Omega Pharma - Quick-Step,",, 17:02",,5,2013
+25,,23,147.0,+45:24,,Cordeel Sander,120,Lotto Belisol Team,",, 17:02",,5,2013
+28,,154,93.0,+26:07,,Martin Tony,121,Omega Pharma - Quick-Step,18:07 18:07,,5,2013
+26,,114,120.0,+36:42,,Fairly Caleb,122,Garmin Sharp,19:22 19:22,,5,2013
+28,,112,158.0,+49:20,,Bauer Jack,123,Garmin Sharp,",, 19:22",,5,2013
+33,,71,112.0,+33:32,,Gerrans Simon,124,Orica GreenEDGE,",, 19:22",,5,2013
+31,,115,161.0,+51:37,,Fern\xe1ndez Koldo,125,Garmin Sharp,",, 19:22",,5,2013
+27,,217,92.0,+25:32,,Voss Paul,126,Team NetApp \u2013 Endura,",, 19:22",,5,2013
+20,,35,117.0,+36:18,,Lutsenko Alexey,127,Astana Pro Team,",, 19:22",,5,2013
+28,,193,157.0,+48:38,,Clarke William,128,Team Argos - Shimano,",, 19:22",,5,2013
+23,,95,96.0,+26:32,,Molard Rudy,129,"Cofidis, Solutions Cr\xe9dits",",, 19:22",,5,2013
+31,,98,141.0,+43:32,,Valentin Tristan,130,"Cofidis, Solutions Cr\xe9dits",",, 19:22",,5,2013
+26,,165,151.0,+47:14,,Paterski Maciej,131,Cannondale Pro Cycling Team,",, 19:22",,5,2013
+31,,87,83.0,+22:10,,Losada Alberto,132,Team Katusha,",, 19:22",,5,2013
+30,,72,156.0,+48:17,,Beppu Fumiyuki,133,Orica GreenEDGE,",, 19:22",,5,2013
+25,,92,86.0,+23:28,,Bagot Yoann,134,"Cofidis, Solutions Cr\xe9dits",",, 19:22",,5,2013
+29,,122,108.0,+32:44,,Bono Matteo,135,Lampre - Merida,",, 19:22",,5,2013
+28,,57,121.0,+36:48,,Tanner David,136,Blanco Pro Cycling Team,",, 19:22",,5,2013
+22,,75,128.0,+38:11,,Matthews Michael,137,Orica GreenEDGE,",, 19:22",,5,2013
+25,,123,116.0,+35:34,,Durasek Kristijan,138,Lampre - Merida,",, 19:22",,5,2013
+26,,74,164.0,+52:22,,Docker Mitchell,139,Orica GreenEDGE,",, 19:22",,5,2013
+38,,18,134.0,+40:27,,S\xf8rensen Nicki,140,Team Saxo - Tinkoff,",, 19:22",,5,2013
+25,,84,103.0,+30:00,,Ignatenko Petr,141,Team Katusha,",, 19:22",,5,2013
+33,,83,131.0,+39:42,,Florencio Xavier,142,Team Katusha,",, 19:22",,5,2013
+28,,161,84.0,+22:15,,Bodnar Maciej,143,Cannondale Pro Cycling Team,",, 19:22",,5,2013
+25,,108,111.0,+33:16,,Sicard Romain,144,Euskaltel - Euskadi,",, 19:22",,5,2013
+27,,162,148.0,+45:33,,Canuti Federico,145,Cannondale Pro Cycling Team,",, 19:22",,5,2013
+30,,12,167.0,+54:05,,Duggan Timothy,146,Team Saxo - Tinkoff,",, 19:22",,5,2013
+23,,76,124.0,+37:08,,Meyer Travis,147,Orica GreenEDGE,",, 19:22",,5,2013
+25,,117,135.0,+40:59,,Kreder Michel,148,Garmin Sharp,",, 19:22",,5,2013
+21,,192,160.0,+51:15,,Arndt Nikias,149,Team Argos - Shimano,20:41 20:41,,5,2013
+30,,58,165.0,+52:35,,Wagner Robert,150,Blanco Pro Cycling Team,",, 20:41",,5,2013
+22,,48,170.0,+58:55,,Warbasse Larry,151,BMC Racing Team,",, 20:41",,5,2013
+22,,118,159.0,+49:24,,Rathe Jacob,152,Garmin Sharp,",, 20:41",,5,2013
+26,,86,150.0,+47:10,,Kritskiy Timofey,153,Team Katusha,",, 20:41",,5,2013
+28,,85,144.0,+44:56,,Ignatyev Mikhail,154,Team Katusha,",, 20:41",,5,2013
+27,,218,163.0,+52:19,,Wetterhall Alexander,155,Team NetApp \u2013 Endura,",, 20:41",,5,2013
+25,,104,130.0,+39:21,,Garcia Ricardo,156,Euskaltel - Euskadi,",, 20:41",,5,2013
+30,,127,166.0,+52:54,,Richeze Ariel Maximiliano,157,Lampre - Merida,",, 20:41",,5,2013
+22,,142,119.0,+36:39,,Berhane Natnael,158,Team Europcar,",, 20:41",,5,2013
+31,,167,105.0,+32:11,,Vandborg Brian,159,Cannondale Pro Cycling Team,",, 20:41",,5,2013
+33,,36,153.0,+47:49,,Muravyev Dmitriy,160,Astana Pro Team,",, 20:41",,5,2013
+23,,126,168.0,+55:36,,Palini Andrea,161,Lampre - Merida,",, 20:41",,5,2013
+22,,132,139.0,+42:49,,Bouhanni Nacer,162,FDJ.fr,",, 20:41",,5,2013
+23,,43,171.0,+1:01:10,,Eijssen Yannick,163,BMC Racing Team,",, 20:41",,5,2013
+24,,125,169.0,+55:37,,Graziato Massimo,164,Lampre - Merida,",, 20:41",,5,2013
+25,,137,152.0,+47:33,,Soupe Geoffrey,165,FDJ.fr,",, 20:41",,5,2013
+25,,116,149.0,+45:53,,Howes Alex,166,Garmin Sharp,",, 20:41",,5,2013
+24,,168,125.0,+37:09,,Viviani Elia,167,Cannondale Pro Cycling Team,",, 20:41",,5,2013
+29,,195,162.0,+51:57,,Huguet Yann,168,Team Argos - Shimano,",, 20:41",,5,2013
+24,,124,132.0,+40:01,,Favilli Elia,169,Lampre - Merida,",, 20:41",,5,2013
+26,,173,113.0,+33:49,,Castroviejo Jonathan,170,Movistar Team,",, 20:41",,5,2013
+31,,198,140.0,+43:28,,Parisien Francois,171,Team Argos - Shimano,",, 20:41",,5,2013
+30,,188,,+ - 16:08:44,,Westra Lieuwe,DNS,Vacansoleil - DCM,-3:28:39 -3:28:39,,5,2013
+33,,141,22.0,+5:26,50.0,Voeckler Thomas,1,Team Europcar,3:24:13 3:24:13,6.0,6,2013
+27,,175,21.0,+5:14,30.0,Herrada Jos\xe9,2,Movistar Team,",, ,,",4.0,6,2013
+26,,37,16.0,+3:30,18.0,Seeldraeyers Kevin,3,Astana Pro Team,",, ,,",2.0,6,2013
+25,,38,39.0,+10:04,13.0,Silin Egor,4,Astana Pro Team,",, ,,",1.0,6,2013
+26,,2,38.0,+9:45,10.0,Boasson Hagen Edvald,5,Sky Procycling,0:46 0:46,1.0,6,2013
+27,,155,54.0,+17:46,7.0,Meersman Gianni,6,Omega Pharma - Quick-Step,",, 0:46",,6,2013
+28,,33,37.0,+9:37,4.0,Gavazzi Francesco,7,Astana Pro Team,",, 0:46",,6,2013
+26,,77,44.0,+11:27,3.0,Sulzberger Wesley,8,Orica GreenEDGE,",, 0:46",,6,2013
+28,,205,70.0,+23:58,2.0,Gerard Arnaud,9,Bretagne - S\xe9ch\xe9 Environnement,",, 0:46",,6,2013
+23,,152,8.0,+1:58,1.0,Kwiatkowski Michal,10,Omega Pharma - Quick-Step,",, 0:46",,6,2013
+30,,68,34.0,+8:42,,Rohregger Thomas,11,RadioShack - Leopard,",, 0:46",,6,2013
+23,,82,55.0,+18:01,,Chernetski Sergei,12,Team Katusha,",, 0:46",,6,2013
+26,,164,25.0,+5:43,,Koren Kristijan,13,Cannondale Pro Cycling Team,",, 0:46",,6,2013
+29,,94,58.0,+19:08,,Mat\xe9 Luis \xc1ngel,14,"Cofidis, Solutions Cr\xe9dits",",, 0:46",,6,2013
+25,,144,56.0,+18:06,,Gautier Cyril,15,Team Europcar,",, 0:46",,6,2013
+33,,46,82.0,+29:02,,Quinziato Manuel,16,BMC Racing Team,",, 0:46",,6,2013
+23,,113,3.0,+0:54,,Dennis Rohan,17,Garmin Sharp,",, 0:46",,6,2013
+23,,55,36.0,+9:10,,Slagter Tom-Jelte,18,Blanco Pro Cycling Team,",, 0:46",,6,2013
+28,,6,2.0,+0:52,,Porte Richie,19,Sky Procycling,",, 0:46",,6,2013
+24,,111,76.0,+25:23,,Talansky Andrew,20,Garmin Sharp,",, 0:46",,6,2013
+24,,176,26.0,+5:53,,Madrazo \xc1ngel,21,Movistar Team,",, 0:46",,6,2013
+30,,11,13.0,+2:49,,Contador Alberto,22,Team Saxo - Tinkoff,",, 0:46",,6,2013
+28,,1,1.0,+0:00,,Froome Christopher,23,Sky Procycling,",, 0:46",,6,2013
+26,,65,17.0,+3:37,,Hermans Ben,24,RadioShack - Leopard,",, 0:46",,6,2013
+33,,71,89.0,+33:32,,Gerrans Simon,25,Orica GreenEDGE,",, 0:46",,6,2013
+33,,16,4.0,+1:37,,Rogers Michael,26,Team Saxo - Tinkoff,",, 0:46",,6,2013
+32,,93,30.0,+8:16,,Le M\xe9vel Christophe,27,"Cofidis, Solutions Cr\xe9dits",",, 0:46",,6,2013
+23,,95,78.0,+26:32,,Molard Rudy,28,"Cofidis, Solutions Cr\xe9dits",",, 0:46",,6,2013
+26,,97,7.0,+1:52,,Taaram\xe4e Rein,29,"Cofidis, Solutions Cr\xe9dits",",, 0:46",,6,2013
+35,,101,20.0,+4:01,,S\xe1nchez Samuel,30,Euskaltel - Euskadi,",, 0:46",,6,2013
+30,,52,11.0,+2:32,,Clement Stef,31,Blanco Pro Cycling Team,",, 0:46",,6,2013
+23,,44,27.0,+6:58,,Nerz Dominik,32,BMC Racing Team,",, 0:46",,6,2013
+28,,31,10.0,+2:20,,Fuglsang Jakob,33,Astana Pro Team,",, 0:46",,6,2013
+36,,25,69.0,+23:40,,van de Walle Jurgen,34,Lotto Belisol Team,",, 0:46",,6,2013
+33,,102,60.0,+19:40,,Astarloza Mikel,35,Euskaltel - Euskadi,",, 0:46",,6,2013
+31,,121,45.0,+11:43,,Cunego Damiano,36,Lampre - Merida,",, 0:46",,6,2013
+25,,134,18.0,+3:41,,Geniez Alexandre,37,FDJ.fr,",, 0:46",,6,2013
+32,,51,14.0,+3:12,,ten Dam Laurens,38,Blanco Pro Cycling Team,",, 0:46",,6,2013
+21,,191,23.0,+5:33,,Barguil Warren,39,Team Argos - Shimano,",, 0:46",,6,2013
+25,,123,95.0,+35:34,,Durasek Kristijan,40,Lampre - Merida,",, 0:46",,6,2013
+25,,211,9.0,+2:16,,K\xf6nig Leopold,41,Team NetApp \u2013 Endura,",, 0:46",,6,2013
+33,,171,12.0,+2:47,,Valverde Alejandro,42,Movistar Team,",, 0:46",,6,2013
+26,,181,77.0,+26:21,,De Gendt Thomas,43,Vacansoleil - DCM,",, 0:46",,6,2013
+25,,84,84.0,+30:00,,Ignatenko Petr,44,Team Katusha,",, 0:46",,6,2013
+29,,96,6.0,+1:49,,Navarro Daniel,45,"Cofidis, Solutions Cr\xe9dits",",, 0:46",,6,2013
+36,,61,15.0,+3:24,,Zubeldia Haimar,46,RadioShack - Leopard,",, 0:46",,6,2013
+37,,53,98.0,+37:02,,Garate Juan Manuel,47,Blanco Pro Cycling Team,",, 0:46",,6,2013
+34,,131,41.0,+10:09,,Fedrigo Pierrick,48,FDJ.fr,",, 0:46",,6,2013
+25,,105,35.0,+8:57,,Izagirre Gorka,49,Euskaltel - Euskadi,",, 0:46",,6,2013
+31,,13,51.0,+15:47,,Hern\xe1ndez Jes\xfas,50,Team Saxo - Tinkoff,",, 0:46",,6,2013
+28,,62,19.0,+3:46,,Busche Matthew,51,RadioShack - Leopard,",, 0:46",,6,2013
+26,,147,29.0,+7:21,,Rolland Pierre,52,Team Europcar,",, 0:46",,6,2013
+31,,87,67.0,+22:10,,Losada Alberto,53,Team Katusha,",, 0:46",,6,2013
+29,,107,32.0,+8:24,,Nieve Mikel,54,Euskaltel - Euskadi,",, 0:46",,6,2013
+34,,81,33.0,+8:25,,Rodr\xedguez Joaquim,55,Team Katusha,",, 0:46",,6,2013
+31,,88,5.0,+1:47,,Moreno Daniel,56,Team Katusha,",, 0:46",,6,2013
+33,,15,28.0,+7:21,,Paulinho S\xe9rgio,57,Team Saxo - Tinkoff,",, 0:46",,6,2013
+34,,56,43.0,+11:26,,Tankink Bram,58,Blanco Pro Cycling Team,",, 0:46",,6,2013
+27,,8,24.0,+5:41,,Thomas Geraint,59,Sky Procycling,0:57 0:57,,6,2013
+23,,3,46.0,+12:38,,Kennaugh Peter,60,Sky Procycling,",, 0:57",,6,2013
+30,,21,50.0,+14:55,,Van den Broeck Jurgen,61,Lotto Belisol Team,3:05 3:05,,6,2013
+28,,215,83.0,+29:51,,Mendes Jos\xe9,62,Team NetApp \u2013 Endura,5:34 5:34,,6,2013
+22,,54,103.0,+39:13,,Goos Marc,63,Blanco Pro Cycling Team,",, 5:34",,6,2013
+21,,133,61.0,+19:57,,Elissonde Kenny,64,FDJ.fr,",, 5:34",,6,2013
+22,,132,122.0,+47:37,,Bouhanni Nacer,65,FDJ.fr,",, 5:34",,6,2013
+24,,204,97.0,+36:41,,Fonseca Armindo,66,Bretagne - S\xe9ch\xe9 Environnement,",, 5:34",,6,2013
+20,,35,107.0,+41:06,,Lutsenko Alexey,67,Astana Pro Team,",, 5:34",,6,2013
+28,,63,57.0,+18:52,,Didier Laurent,68,RadioShack - Leopard,",, 5:34",,6,2013
+26,,24,31.0,+8:18,,De Clercq Bart,69,Lotto Belisol Team,",, 5:34",,6,2013
+28,,136,79.0,+27:47,,Ladagnous Matthieu,70,FDJ.fr,",, 5:34",,6,2013
+30,,184,59.0,+19:12,,Hoogerland Johnny,71,Vacansoleil - DCM,",, 5:34",,6,2013
+26,,173,101.0,+38:37,,Castroviejo Jonathan,72,Movistar Team,",, 5:34",,6,2013
+28,,57,109.0,+41:36,,Tanner David,73,Blanco Pro Cycling Team,",, 5:34",,6,2013
+35,,106,68.0,+22:53,,Martinez Egoi,74,Euskaltel - Euskadi,",, 5:34",,6,2013
+30,,206,42.0,+11:18,,Guillou Florian,75,Bretagne - S\xe9ch\xe9 Environnement,",, 5:34",,6,2013
+26,,73,102.0,+38:43,,Clarke Simon,76,Orica GreenEDGE,",, 5:34",,6,2013
+24,,26,100.0,+37:47,,Vanendert Dennis,77,Lotto Belisol Team,",, 5:34",,6,2013
+26,,91,49.0,+14:24,,Coppel J\xe9rome,78,"Cofidis, Solutions Cr\xe9dits",",, 5:34",,6,2013
+25,,23,127.0,+50:12,,Cordeel Sander,79,Lotto Belisol Team,",, 5:34",,6,2013
+33,,151,64.0,+20:49,,Chavanel Sylvain,80,Omega Pharma - Quick-Step,",, 5:34",,6,2013
+22,,28,47.0,+13:08,,Wellens Tim,81,Lotto Belisol Team,",, 5:34",,6,2013
+28,,154,85.0,+30:55,,Martin Tony,82,Omega Pharma - Quick-Step,",, 5:34",,6,2013
+38,,18,115.0,+45:15,,S\xf8rensen Nicki,83,Team Saxo - Tinkoff,",, 5:34",,6,2013
+25,,148,40.0,+10:05,,Veilleux David,84,Team Europcar,",, 5:34",,6,2013
+27,,163,63.0,+20:47,,De Marchi Alessandro,85,Cannondale Pro Cycling Team,",, 5:34",,6,2013
+32,,135,72.0,+24:25,,Geslin Anthony,86,FDJ.fr,",, 5:34",,6,2013
+34,,128,108.0,+41:10,,Serpa Jose Rodolfo,87,Lampre - Merida,",, 5:34",,6,2013
+25,,137,135.0,+54:34,,Soupe Geoffrey,88,FDJ.fr,7:47 7:47,,6,2013
+28,,112,144.0,+58:20,,Bauer Jack,89,Garmin Sharp,9:46 9:46,,6,2013
+25,,116,137.0,+54:53,,Howes Alex,90,Garmin Sharp,",, 9:46",,6,2013
+22,,118,145.0,+58:24,,Rathe Jacob,91,Garmin Sharp,",, 9:46",,6,2013
+24,,157,53.0,+17:39,,Serry Pieter,92,Omega Pharma - Quick-Step,",, 9:46",,6,2013
+26,,74,151.0,+1:01:22,,Docker Mitchell,93,Orica GreenEDGE,",, 9:46",,6,2013
+22,,75,119.0,+47:11,,Matthews Michael,94,Orica GreenEDGE,",, 9:46",,6,2013
+35,,41,132.0,+53:57,,Hushovd Thor,95,BMC Racing Team,",, 9:46",,6,2013
+32,,5,66.0,+22:00,,Lopez David,96,Sky Procycling,",, 9:46",,6,2013
+28,,212,117.0,+45:50,,B\xe1rta Jan,97,Team NetApp \u2013 Endura,",, 9:46",,6,2013
+24,,78,75.0,+25:21,,Teklehaimanot Daniel,98,Orica GreenEDGE,",, 9:46",,6,2013
+29,,47,48.0,+14:15,,Santaromita Ivan,99,BMC Racing Team,",, 9:46",,6,2013
+34,,143,141.0,+56:06,,Charteau Anthony,100,Team Europcar,12:13 12:13,,6,2013
+29,,42,80.0,+28:09,,Bookwalter Brent,101,BMC Racing Team,",, 12:13",,6,2013
+24,,138,104.0,+39:19,,Vichot Arthur,102,FDJ.fr,",, 12:13",,6,2013
+35,,177,88.0,+32:46,,Szmyd Sylwester,103,Movistar Team,",, 12:13",,6,2013
+29,,122,113.0,+44:11,,Bono Matteo,104,Lampre - Merida,",, 12:13",,6,2013
+29,,34,52.0,+17:08,,Grivko Andrei,105,Astana Pro Team,12:50 12:50,,6,2013
+26,,7,143.0,+57:46,,Stannard Ian,106,Sky Procycling,13:49 13:49,,6,2013
+35,,183,86.0,+31:38,,Flecha Juan Antonio,107,Vacansoleil - DCM,",, 13:49",,6,2013
+21,,192,158.0,+1:04:18,,Arndt Nikias,108,Team Argos - Shimano,",, 13:49",,6,2013
+28,,161,92.0,+35:18,,Bodnar Maciej,109,Cannondale Pro Cycling Team,",, 13:49",,6,2013
+24,,168,126.0,+50:12,,Viviani Elia,110,Cannondale Pro Cycling Team,",, 13:49",,6,2013
+27,,162,146.0,+58:36,,Canuti Federico,111,Cannondale Pro Cycling Team,",, 13:49",,6,2013
+26,,166,73.0,+24:48,,Sarmiento Jose Cayetano,112,Cannondale Pro Cycling Team,",, 13:49",,6,2013
+33,,36,150.0,+1:00:52,,Muravyev Dmitriy,113,Astana Pro Team,",, 13:49",,6,2013
+25,,187,87.0,+32:17,,Poels Wout,114,Vacansoleil - DCM,",, 13:49",,6,2013
+25,,64,62.0,+20:16,,Gallopin Tony,115,RadioShack - Leopard,",, 13:49",,6,2013
+29,,145,139.0,+55:51,,Quemeneur Perrig,116,Team Europcar,",, 13:49",,6,2013
+22,,142,124.0,+49:42,,Berhane Natnael,117,Team Europcar,",, 13:49",,6,2013
+33,,66,111.0,+42:35,,Irizar Markel,118,RadioShack - Leopard,",, 13:49",,6,2013
+24,,207,71.0,+24:19,,Laengen Vegard Stake,119,Bretagne - S\xe9ch\xe9 Environnement,",, 13:49",,6,2013
+32,,203,74.0,+24:57,,Duret Sebastien,120,Bretagne - S\xe9ch\xe9 Environnement,",, 13:49",,6,2013
+25,,108,118.0,+46:19,,Sicard Romain,121,Euskaltel - Euskadi,",, 13:49",,6,2013
+29,,174,99.0,+37:39,,Erviti Imanol,122,Movistar Team,",, 13:49",,6,2013
+24,,194,105.0,+39:26,,Damuseau Thomas,123,Team Argos - Shimano,",, 13:49",,6,2013
+31,,115,159.0,+1:04:40,,Fern\xe1ndez Koldo,124,Garmin Sharp,",, 13:49",,6,2013
+30,,12,160.0,+1:07:08,,Duggan Timothy,125,Team Saxo - Tinkoff,",, 13:49",,6,2013
+26,,114,125.0,+49:45,,Fairly Caleb,126,Garmin Sharp,",, 13:49",,6,2013
+25,,117,133.0,+54:02,,Kreder Michel,127,Garmin Sharp,",, 13:49",,6,2013
+25,,92,96.0,+36:31,,Bagot Yoann,128,"Cofidis, Solutions Cr\xe9dits",",, 13:49",,6,2013
+29,,202,116.0,+45:32,,Bideau Jean Marc,129,Bretagne - S\xe9ch\xe9 Environnement,",, 13:49",,6,2013
+28,,158,142.0,+57:44,,Velits Martin,130,Omega Pharma - Quick-Step,15:51 15:51,,6,2013
+24,,67,128.0,+52:20,,King Benjamin,131,RadioShack - Leopard,",, 15:51",,6,2013
+24,,213,81.0,+28:21,,de la Cruz David,132,Team NetApp \u2013 Endura,",, 15:51",,6,2013
+31,,98,147.0,+58:37,,Valentin Tristan,133,"Cofidis, Solutions Cr\xe9dits",",, 15:51",,6,2013
+22,,48,166.0,+1:14:00,,Warbasse Larry,134,BMC Racing Team,",, 15:51",,6,2013
+27,,218,161.0,+1:07:24,,Wetterhall Alexander,135,Team NetApp \u2013 Endura,",, 15:51",,6,2013
+30,,72,155.0,+1:03:22,,Beppu Fumiyuki,136,Orica GreenEDGE,",, 15:51",,6,2013
+31,,167,120.0,+47:16,,Vandborg Brian,137,Cannondale Pro Cycling Team,",, 15:51",,6,2013
+26,,165,152.0,+1:02:19,,Paterski Maciej,138,Cannondale Pro Cycling Team,",, 15:51",,6,2013
+31,,4,138.0,+55:14,,Kiryienka Vasil,139,Sky Procycling,",, 15:51",,6,2013
+28,,85,148.0,+1:00:01,,Ignatyev Mikhail,140,Team Katusha,",, 15:51",,6,2013
+29,,216,154.0,+1:03:19,,Schillinger Andreas,141,Team NetApp \u2013 Endura,",, 15:51",,6,2013
+25,,146,130.0,+53:12,,R\xe9za K\xe9vin,142,Team Europcar,",, 15:51",,6,2013
+23,,186,112.0,+43:00,,Lindeman Bert-Jan,143,Vacansoleil - DCM,",, 15:51",,6,2013
+23,,43,167.0,+1:16:15,,Eijssen Yannick,144,BMC Racing Team,",, 15:51",,6,2013
+30,,58,162.0,+1:07:40,,Wagner Robert,145,Blanco Pro Cycling Team,",, 15:51",,6,2013
+28,,201,114.0,+44:18,,Vachon Florian,146,Bretagne - S\xe9ch\xe9 Environnement,",, 15:51",,6,2013
+27,,153,131.0,+53:18,,Maes Nikolas,147,Omega Pharma - Quick-Step,",, 15:51",,6,2013
+21,,208,91.0,+35:03,,Sep\xfalveda Eduardo,148,Bretagne - S\xe9ch\xe9 Environnement,",, 15:51",,6,2013
+30,,127,163.0,+1:07:59,,Richeze Ariel Maximiliano,149,Lampre - Merida,",, 15:51",,6,2013
+33,,83,136.0,+54:47,,Florencio Xavier,150,Team Katusha,",, 15:51",,6,2013
+34,,14,153.0,+1:02:54,,Noval Benjamin,151,Team Saxo - Tinkoff,",, 15:51",,6,2013
+24,,125,165.0,+1:10:42,,Graziato Massimo,152,Lampre - Merida,",, 15:51",,6,2013
+23,,126,164.0,+1:10:41,,Palini Andrea,153,Lampre - Merida,",, 15:51",,6,2013
+23,,103,94.0,+35:24,,Bilbao Pello,154,Euskaltel - Euskadi,",, 15:51",,6,2013
+28,,193,156.0,+1:03:43,,Clarke William,155,Team Argos - Shimano,",, 15:51",,6,2013
+23,,76,129.0,+52:23,,Meyer Travis,156,Orica GreenEDGE,",, 15:51",,6,2013
+32,,32,110.0,+42:17,,Bazayev Assan,157,Astana Pro Team,",, 15:51",,6,2013
+25,,104,134.0,+54:26,,Garcia Ricardo,158,Euskaltel - Euskadi,",, 15:51",,6,2013
+32,,185,93.0,+35:19,,Lagutin Sergey,159,Vacansoleil - DCM,",, 15:51",,6,2013
+26,,182,149.0,+1:00:01,,Boeckmans Kris,160,Vacansoleil - DCM,",, 15:51",,6,2013
+26,,172,65.0,+21:12,,Capecchi Eros,161,Movistar Team,",, 15:51",,6,2013
+30,,178,140.0,+56:04,,Teruel Eloy,162,Movistar Team,",, 15:51",,6,2013
+32,,214,123.0,+47:54,,Huzarski Bartosz,163,Team NetApp \u2013 Endura,",, 15:51",,6,2013
+27,,217,106.0,+40:37,,Voss Paul,164,Team NetApp \u2013 Endura,",, 15:51",,6,2013
+37,,45,90.0,+33:51,,Pinotti Marco,165,BMC Racing Team,",, 15:51",,6,2013
+29,,156,121.0,+47:37,,Rabon Frantisek,166,Omega Pharma - Quick-Step,",, 15:51",,6,2013
+31,,198,157.0,+1:04:06,,Parisien Francois,167,Team Argos - Shimano,21:24 21:24,,6,2013
+26,,86,,+ - 19:33:43,,Kritskiy Timofey,DNF,Team Katusha,-3:24:13 -3:24:13,,6,2013
+24,,197,,+ - 19:33:43,,Janse van Rensburg Reinardt,DNF,Team Argos - Shimano,",, -3:24:13",,6,2013
+29,,195,,+ - 19:33:43,,Huguet Yann,DNF,Team Argos - Shimano,",, -3:24:13",,6,2013
+24,,124,,+ - 19:33:43,,Favilli Elia,DNS,Lampre - Merida,",, -3:24:13",,6,2013
+35,,101,12.0,+3:45,50.0,S\xe1nchez Samuel,1,Euskaltel - Euskadi,5:26:14 5:26:14,6.0,7,2013
+28,,31,6.0,+2:04,30.0,Fuglsang Jakob,2,Astana Pro Team,",, ,,",4.0,7,2013
+28,,6,2.0,+0:51,18.0,Porte Richie,3,Sky Procycling,0:15 0:15,2.0,7,2013
+31,,88,4.0,+1:47,13.0,Moreno Daniel,4,Team Katusha,0:16 0:16,1.0,7,2013
+30,,52,7.0,+2:32,10.0,Clement Stef,5,Blanco Pro Cycling Team,",, 0:16",1.0,7,2013
+33,,171,8.0,+2:47,7.0,Valverde Alejandro,6,Movistar Team,",, 0:16",,7,2013
+28,,1,1.0,+0:00,4.0,Froome Christopher,7,Sky Procycling,",, 0:16",,7,2013
+29,,96,5.0,+1:49,3.0,Navarro Daniel,8,"Cofidis, Solutions Cr\xe9dits",",, 0:16",,7,2013
+33,,16,3.0,+1:37,2.0,Rogers Michael,9,Team Saxo - Tinkoff,",, 0:16",,7,2013
+30,,11,10.0,+2:56,1.0,Contador Alberto,10,Team Saxo - Tinkoff,0:23 0:23,,7,2013
+34,,81,19.0,+8:39,,Rodr\xedguez Joaquim,11,Team Katusha,0:30 0:30,,7,2013
+32,,51,13.0,+3:49,,ten Dam Laurens,12,Blanco Pro Cycling Team,0:53 0:53,,7,2013
+29,,107,22.0,+9:08,,Nieve Mikel,13,Euskaltel - Euskadi,1:00 1:00,,7,2013
+33,,141,17.0,+6:55,,Voeckler Thomas,14,Team Europcar,1:45 1:45,,7,2013
+25,,134,15.0,+5:10,,Geniez Alexandre,15,FDJ.fr,",, 1:45",,7,2013
+26,,97,11.0,+3:21,,Taaram\xe4e Rein,16,"Cofidis, Solutions Cr\xe9dits",",, 1:45",,7,2013
+31,,121,27.0,+13:19,,Cunego Damiano,17,Lampre - Merida,1:52 1:52,,7,2013
+27,,8,18.0,+7:31,,Thomas Geraint,18,Sky Procycling,2:06 2:06,,7,2013
+23,,152,14.0,+3:49,,Kwiatkowski Michal,19,Omega Pharma - Quick-Step,2:07 2:07,,7,2013
+23,,113,9.0,+2:48,,Dennis Rohan,20,Garmin Sharp,2:10 2:10,,7,2013
+23,,3,28.0,+14:32,,Kennaugh Peter,21,Sky Procycling,",, 2:10",,7,2013
+29,,42,55.0,+30:15,,Bookwalter Brent,22,BMC Racing Team,2:22 2:22,,7,2013
+31,,13,33.0,+17:53,,Hern\xe1ndez Jes\xfas,23,Team Saxo - Tinkoff,",, 2:22",,7,2013
+36,,61,16.0,+5:40,,Zubeldia Haimar,24,RadioShack - Leopard,2:32 2:32,,7,2013
+24,,111,47.0,+27:39,,Talansky Andrew,25,Garmin Sharp,",, 2:32",,7,2013
+26,,147,25.0,+10:08,,Rolland Pierre,26,Team Europcar,3:03 3:03,,7,2013
+32,,203,48.0,+27:46,,Duret Sebastien,27,Bretagne - S\xe9ch\xe9 Environnement,3:05 3:05,,7,2013
+28,,215,62.0,+32:54,,Mendes Jos\xe9,28,Team NetApp \u2013 Endura,3:19 3:19,,7,2013
+25,,38,26.0,+13:09,,Silin Egor,29,Astana Pro Team,3:21 3:21,,7,2013
+21,,191,20.0,+8:40,,Barguil Warren,30,Team Argos - Shimano,3:23 3:23,,7,2013
+26,,164,21.0,+8:50,,Koren Kristijan,31,Cannondale Pro Cycling Team,",, 3:23",,7,2013
+23,,44,24.0,+10:05,,Nerz Dominik,32,BMC Racing Team,",, 3:23",,7,2013
+30,,206,30.0,+15:21,,Guillou Florian,33,Bretagne - S\xe9ch\xe9 Environnement,4:19 4:19,,7,2013
+33,,102,40.0,+23:43,,Astarloza Mikel,34,Euskaltel - Euskadi,",, 4:19",,7,2013
+35,,183,67.0,+35:41,,Flecha Juan Antonio,35,Vacansoleil - DCM,",, 4:19",,7,2013
+26,,77,32.0,+17:00,,Sulzberger Wesley,36,Orica GreenEDGE,5:49 5:49,,7,2013
+27,,155,38.0,+23:19,,Meersman Gianni,37,Omega Pharma - Quick-Step,",, 5:49",,7,2013
+34,,128,80.0,+46:43,,Serpa Jose Rodolfo,38,Lampre - Merida,",, 5:49",,7,2013
+25,,187,68.0,+37:50,,Poels Wout,39,Vacansoleil - DCM,",, 5:49",,7,2013
+28,,62,23.0,+9:47,,Busche Matthew,40,RadioShack - Leopard,6:17 6:17,,7,2013
+25,,92,76.0,+42:41,,Bagot Yoann,41,"Cofidis, Solutions Cr\xe9dits",6:26 6:26,,7,2013
+21,,208,75.0,+41:48,,Sep\xfalveda Eduardo,42,Bretagne - S\xe9ch\xe9 Environnement,7:01 7:01,,7,2013
+35,,106,58.0,+31:19,,Martinez Egoi,43,Euskaltel - Euskadi,8:42 8:42,,7,2013
+28,,201,90.0,+52:44,,Vachon Florian,44,Bretagne - S\xe9ch\xe9 Environnement,",, 8:42",,7,2013
+23,,95,66.0,+34:58,,Molard Rudy,45,"Cofidis, Solutions Cr\xe9dits",",, 8:42",,7,2013
+24,,207,61.0,+32:45,,Laengen Vegard Stake,46,Bretagne - S\xe9ch\xe9 Environnement,",, 8:42",,7,2013
+33,,15,31.0,+15:47,,Paulinho S\xe9rgio,47,Team Saxo - Tinkoff,",, 8:42",,7,2013
+30,,21,39.0,+23:21,,Van den Broeck Jurgen,48,Lotto Belisol Team,",, 8:42",,7,2013
+33,,151,50.0,+29:15,,Chavanel Sylvain,49,Omega Pharma - Quick-Step,",, 8:42",,7,2013
+27,,163,52.0,+29:18,,De Marchi Alessandro,50,Cannondale Pro Cycling Team,8:47 8:47,,7,2013
+25,,144,46.0,+27:33,,Gautier Cyril,51,Team Europcar,9:43 9:43,,7,2013
+23,,55,34.0,+18:52,,Slagter Tom-Jelte,52,Blanco Pro Cycling Team,9:58 9:58,,7,2013
+26,,73,82.0,+48:25,,Clarke Simon,53,Orica GreenEDGE,",, 9:58",,7,2013
+27,,175,29.0,+14:56,,Herrada Jos\xe9,54,Movistar Team,",, 9:58",,7,2013
+34,,56,36.0,+22:07,,Tankink Bram,55,Blanco Pro Cycling Team,10:57 10:57,,7,2013
+24,,26,83.0,+48:28,,Vanendert Dennis,56,Lotto Belisol Team,",, 10:57",,7,2013
+25,,64,56.0,+30:57,,Gallopin Tony,57,RadioShack - Leopard,",, 10:57",,7,2013
+32,,93,35.0,+18:57,,Le M\xe9vel Christophe,58,"Cofidis, Solutions Cr\xe9dits",",, 10:57",,7,2013
+29,,47,41.0,+24:56,,Santaromita Ivan,59,BMC Racing Team,",, 10:57",,7,2013
+29,,34,51.0,+29:18,,Grivko Andrei,60,Astana Pro Team,12:26 12:26,,7,2013
+29,,94,57.0,+31:19,,Mat\xe9 Luis \xc1ngel,61,"Cofidis, Solutions Cr\xe9dits",12:27 12:27,,7,2013
+30,,184,60.0,+32:37,,Hoogerland Johnny,62,Vacansoleil - DCM,13:41 13:41,,7,2013
+33,,66,99.0,+56:31,,Irizar Markel,63,RadioShack - Leopard,14:12 14:12,,7,2013
+24,,76,115.0,+1:06:19,,Meyer Travis,64,Orica GreenEDGE,",, 14:12",,7,2013
+31,,4,119.0,+1:10:02,,Kiryienka Vasil,65,Sky Procycling,15:04 15:04,,7,2013
+35,,177,84.0,+48:36,,Szmyd Sylwester,66,Movistar Team,16:06 16:06,,7,2013
+24,,157,63.0,+33:29,,Serry Pieter,67,Omega Pharma - Quick-Step,",, 16:06",,7,2013
+24,,67,117.0,+1:08:10,,King Benjamin,68,RadioShack - Leopard,",, 16:06",,7,2013
+25,,116,120.0,+1:10:43,,Howes Alex,69,Garmin Sharp,",, 16:06",,7,2013
+25,,108,106.0,+1:02:09,,Sicard Romain,70,Euskaltel - Euskadi,",, 16:06",,7,2013
+26,,114,113.0,+1:05:35,,Fairly Caleb,71,Garmin Sharp,",, 16:06",,7,2013
+28,,33,43.0,+25:27,,Gavazzi Francesco,72,Astana Pro Team,",, 16:06",,7,2013
+28,,136,77.0,+43:37,,Ladagnous Matthieu,73,FDJ.fr,",, 16:06",,7,2013
+26,,165,127.0,+1:18:09,,Paterski Maciej,74,Cannondale Pro Cycling Team,",, 16:06",,7,2013
+34,,131,45.0,+25:59,,Fedrigo Pierrick,75,FDJ.fr,",, 16:06",,7,2013
+33,,71,85.0,+49:22,,Gerrans Simon,76,Orica GreenEDGE,",, 16:06",,7,2013
+20,,35,101.0,+56:56,,Lutsenko Alexey,77,Astana Pro Team,",, 16:06",,7,2013
+25,,23,114.0,+1:06:02,,Cordeel Sander,78,Lotto Belisol Team,",, 16:06",,7,2013
+36,,25,70.0,+39:30,,van de Walle Jurgen,79,Lotto Belisol Team,",, 16:06",,7,2013
+23,,82,64.0,+33:51,,Chernetski Sergei,80,Team Katusha,",, 16:06",,7,2013
+26,,166,73.0,+40:38,,Sarmiento Jose Cayetano,81,Cannondale Pro Cycling Team,",, 16:06",,7,2013
+28,,158,124.0,+1:13:34,,Velits Martin,82,Omega Pharma - Quick-Step,",, 16:06",,7,2013
+24,,204,89.0,+52:31,,Fonseca Armindo,83,Bretagne - S\xe9ch\xe9 Environnement,",, 16:06",,7,2013
+28,,161,87.0,+51:08,,Bodnar Maciej,84,Cannondale Pro Cycling Team,",, 16:06",,7,2013
+29,,202,103.0,+1:01:22,,Bideau Jean Marc,85,Bretagne - S\xe9ch\xe9 Environnement,",, 16:06",,7,2013
+31,,87,69.0,+38:00,,Losada Alberto,86,Team Katusha,",, 16:06",,7,2013
+28,,63,65.0,+34:42,,Didier Laurent,87,RadioShack - Leopard,",, 16:06",,7,2013
+37,,53,91.0,+52:52,,Garate Juan Manuel,88,Blanco Pro Cycling Team,",, 16:06",,7,2013
+28,,212,104.0,+1:01:40,,B\xe1rta Jan,89,Team NetApp \u2013 Endura,",, 16:06",,7,2013
+29,,174,92.0,+53:29,,Erviti Imanol,90,Movistar Team,",, 16:06",,7,2013
+26,,91,54.0,+30:14,,Coppel J\xe9rome,91,"Cofidis, Solutions Cr\xe9dits",",, 16:06",,7,2013
+24,,138,97.0,+55:09,,Vichot Arthur,92,FDJ.fr,",, 16:06",,7,2013
+22,,54,96.0,+55:03,,Goos Marc,93,Blanco Pro Cycling Team,",, 16:06",,7,2013
+29,,145,121.0,+1:11:41,,Quemeneur Perrig,94,Team Europcar,",, 16:06",,7,2013
+26,,173,94.0,+54:27,,Castroviejo Jonathan,95,Movistar Team,",, 16:06",,7,2013
+24,,194,98.0,+55:16,,Damuseau Thomas,96,Team Argos - Shimano,",, 16:06",,7,2013
+35,,41,118.0,+1:09:47,,Hushovd Thor,97,BMC Racing Team,",, 16:06",,7,2013
+26,,2,44.0,+25:35,,Boasson Hagen Edvald,98,Sky Procycling,",, 16:06",,7,2013
+32,,185,88.0,+51:09,,Lagutin Sergey,99,Vacansoleil - DCM,",, 16:06",,7,2013
+33,,46,78.0,+44:52,,Quinziato Manuel,100,BMC Racing Team,",, 16:06",,7,2013
+31,,167,108.0,+1:03:06,,Vandborg Brian,101,Cannondale Pro Cycling Team,",, 16:06",,7,2013
+24,,78,74.0,+41:11,,Teklehaimanot Daniel,102,Orica GreenEDGE,",, 16:06",,7,2013
+22,,142,112.0,+1:05:32,,Berhane Natnael,103,Team Europcar,",, 16:06",,7,2013
+28,,205,71.0,+39:48,,Gerard Arnaud,104,Bretagne - S\xe9ch\xe9 Environnement,",, 16:06",,7,2013
+32,,135,72.0,+40:15,,Geslin Anthony,105,FDJ.fr,",, 16:06",,7,2013
+22,,75,110.0,+1:04:50,,Matthews Michael,106,Orica GreenEDGE,17:55 17:55,,7,2013
+23,,186,107.0,+1:02:29,,Lindeman Bert-Jan,107,Vacansoleil - DCM,19:45 19:45,,7,2013
+26,,181,79.0,+45:50,,De Gendt Thomas,108,Vacansoleil - DCM,",, 19:45",,7,2013
+26,,182,129.0,+1:19:30,,Boeckmans Kris,109,Vacansoleil - DCM,",, 19:45",,7,2013
+26,,37,37.0,+22:59,,Seeldraeyers Kevin,110,Astana Pro Team,",, 19:45",,7,2013
+27,,153,123.0,+1:12:47,,Maes Nikolas,111,Omega Pharma - Quick-Step,",, 19:45",,7,2013
+28,,154,86.0,+50:24,,Martin Tony,112,Omega Pharma - Quick-Step,",, 19:45",,7,2013
+27,,162,126.0,+1:18:05,,Canuti Federico,113,Cannondale Pro Cycling Team,",, 19:45",,7,2013
+29,,216,133.0,+1:22:48,,Schillinger Andreas,114,Team NetApp \u2013 Endura,",, 19:45",,7,2013
+25,,104,125.0,+1:13:55,,Garcia Ricardo,115,Euskaltel - Euskadi,",, 19:45",,7,2013
+23,,43,144.0,+1:35:44,,Eijssen Yannick,116,BMC Racing Team,",, 19:45",,7,2013
+24,,213,81.0,+47:50,,de la Cruz David,117,Team NetApp \u2013 Endura,",, 19:45",,7,2013
+23,,103,95.0,+54:53,,Bilbao Pello,118,Euskaltel - Euskadi,",, 19:45",,7,2013
+25,,105,49.0,+28:26,,Izagirre Gorka,119,Euskaltel - Euskadi,",, 19:45",,7,2013
+38,,18,109.0,+1:04:44,,S\xf8rensen Nicki,120,Team Saxo - Tinkoff,",, 19:45",,7,2013
+28,,57,102.0,+1:01:05,,Tanner David,121,Blanco Pro Cycling Team,",, 19:45",,7,2013
+26,,74,132.0,+1:20:51,,Docker Mitchell,122,Orica GreenEDGE,",, 19:45",,7,2013
+28,,193,134.0,+1:23:12,,Clarke William,123,Team Argos - Shimano,",, 19:45",,7,2013
+24,,176,42.0,+25:22,,Madrazo \xc1ngel,124,Movistar Team,",, 19:45",,7,2013
+25,,148,53.0,+29:34,,Veilleux David,125,Team Europcar,",, 19:45",,7,2013
+25,,146,122.0,+1:12:41,,R\xe9za K\xe9vin,126,Team Europcar,",, 19:45",,7,2013
+32,,32,105.0,+1:01:46,,Bazayev Assan,127,Astana Pro Team,",, 19:45",,7,2013
+22,,28,59.0,+32:37,,Wellens Tim,128,Lotto Belisol Team,",, 19:45",,7,2013
+21,,192,136.0,+1:25:05,,Arndt Nikias,129,Team Argos - Shimano,21:03 21:03,,7,2013
+25,,137,128.0,+1:18:33,,Soupe Geoffrey,130,FDJ.fr,24:15 24:15,,7,2013
+25,,84,93.0,+53:59,,Ignatenko Petr,131,Team Katusha,",, 24:15",,7,2013
+30,,178,131.0,+1:20:03,,Teruel Eloy,132,Movistar Team,",, 24:15",,7,2013
+29,,122,116.0,+1:08:10,,Bono Matteo,133,Lampre - Merida,",, 24:15",,7,2013
+28,,112,135.0,+1:23:50,,Bauer Jack,134,Garmin Sharp,25:46 25:46,,7,2013
+25,,117,130.0,+1:19:34,,Kreder Michel,135,Garmin Sharp,25:48 25:48,,7,2013
+31,,115,140.0,+1:30:12,,Fern\xe1ndez Koldo,136,Garmin Sharp,",, 25:48",,7,2013
+27,,218,143.0,+1:32:56,,Wetterhall Alexander,137,Team NetApp \u2013 Endura,",, 25:48",,7,2013
+30,,12,141.0,+1:32:40,,Duggan Timothy,138,Team Saxo - Tinkoff,",, 25:48",,7,2013
+22,,118,137.0,+1:25:18,,Rathe Jacob,139,Garmin Sharp,27:10 27:10,,7,2013
+31,,98,138.0,+1:25:33,,Valentin Tristan,140,"Cofidis, Solutions Cr\xe9dits",27:12 27:12,,7,2013
+26,,7,139.0,+1:25:42,,Stannard Ian,141,Sky Procycling,28:12 28:12,,7,2013
+30,,127,145.0,+1:36:14,,Richeze Ariel Maximiliano,142,Lampre - Merida,28:31 28:31,,7,2013
+32,,5,100.0,+56:37,,Lopez David,143,Sky Procycling,34:53 34:53,,7,2013
+21,,133,111.0,+1:05:00,,Elissonde Kenny,144,FDJ.fr,45:19 45:19,,7,2013
+22,,132,142.0,+1:32:40,,Bouhanni Nacer,145,FDJ.fr,",, 45:19",,7,2013
+34,,14,,+ - 25:00:13,,Noval Benjamin,DNF,Team Saxo - Tinkoff,-5:26:14 -5:26:14,,7,2013
+27,,65,,+ - 25:00:13,,Hermans Ben,DNF,RadioShack - Leopard,",, -5:26:14",,7,2013
+26,,172,,+ - 25:00:13,,Capecchi Eros,DNF,Movistar Team,",, -5:26:14",,7,2013
+31,,198,,+ - 25:00:13,,Parisien Francois,DNF,Team Argos - Shimano,",, -5:26:14",,7,2013
+34,,143,,+ - 25:00:13,,Charteau Anthony,DNF,Team Europcar,",, -5:26:14",,7,2013
+23,,126,,+ - 25:00:13,,Palini Andrea,DNF,Lampre - Merida,",, -5:26:14",,7,2013
+24,,125,,+ - 25:00:13,,Graziato Massimo,DNF,Lampre - Merida,",, -5:26:14",,7,2013
+28,,85,,+ - 25:00:13,,Ignatyev Mikhail,DNF,Team Katusha,",, -5:26:14",,7,2013
+33,,83,,+ - 25:00:13,,Florencio Xavier,DNF,Team Katusha,",, -5:26:14",,7,2013
+30,,72,,+ - 25:00:13,,Beppu Fumiyuki,DNF,Orica GreenEDGE,",, -5:26:14",,7,2013
+30,,68,,+ - 25:00:13,,Rohregger Thomas,DNF,RadioShack - Leopard,",, -5:26:14",,7,2013
+30,,58,,+ - 25:00:13,,Wagner Robert,DNF,Blanco Pro Cycling Team,",, -5:26:14",,7,2013
+33,,36,,+ - 25:00:13,,Muravyev Dmitriy,DNF,Astana Pro Team,",, -5:26:14",,7,2013
+26,,24,,+ - 25:00:13,,De Clercq Bart,DNF,Lotto Belisol Team,",, -5:26:14",,7,2013
+32,,214,,+ - 25:00:13,,Huzarski Bartosz,DNF,Team NetApp \u2013 Endura,",, -5:26:14",,7,2013
+22,,48,,+ - 25:00:13,,Warbasse Larry,DNF,BMC Racing Team,",, -5:26:14",,7,2013
+29,,156,,+ - 25:00:13,,Rabon Frantisek,DNS,Omega Pharma - Quick-Step,",, -5:26:14",,7,2013
+24,,168,,+ - 25:00:13,,Viviani Elia,DNS,Cannondale Pro Cycling Team,",, -5:26:14",,7,2013
+25,,211,,+ - 25:00:13,,K\xf6nig Leopold,DNS,Team NetApp \u2013 Endura,",, -5:26:14",,7,2013
+27,,217,,+ - 25:00:13,,Voss Paul,DNS,Team NetApp \u2013 Endura,",, -5:26:14",,7,2013
+25,,123,,+ - 25:00:13,,Durasek Kristijan,DNS,Lampre - Merida,",, -5:26:14",,7,2013
+37,,45,,+ - 25:00:13,,Pinotti Marco,DNS,BMC Racing Team,",, -5:26:14",,7,2013
+27,,163,30.0,+28:54,50.0,De Marchi Alessandro,1,Cannondale Pro Cycling Team,4:28:09 4:28:09,6.0,8,2013
+28,,1,1.0,+0:00,30.0,Froome Christopher,2,Sky Procycling,0:24 0:24,4.0,8,2013
+24,,111,28.0,+27:39,18.0,Talansky Andrew,3,Garmin Sharp,",, 0:24",2.0,8,2013
+28,,6,2.0,+0:58,13.0,Porte Richie,4,Sky Procycling,0:31 0:31,1.0,8,2013
+28,,31,4.0,+2:18,10.0,Fuglsang Jakob,5,Astana Pro Team,0:38 0:38,1.0,8,2013
+33,,171,7.0,+3:12,7.0,Valverde Alejandro,6,Movistar Team,0:49 0:49,,8,2013
+34,,81,16.0,+9:04,4.0,Rodr\xedguez Joaquim,7,Team Katusha,",, 0:49",,8,2013
+31,,88,3.0,+2:12,3.0,Moreno Daniel,8,Team Katusha,",, 0:49",,8,2013
+29,,96,5.0,+2:20,2.0,Navarro Daniel,9,"Cofidis, Solutions Cr\xe9dits",0:55 0:55,,8,2013
+23,,113,8.0,+3:24,1.0,Dennis Rohan,10,Garmin Sharp,1:00 1:00,,8,2013
+31,,121,21.0,+13:59,,Cunego Damiano,11,Lampre - Merida,1:04 1:04,,8,2013
+35,,101,9.0,+4:25,,S\xe1nchez Samuel,12,Euskaltel - Euskadi,",, 1:04",,8,2013
+22,,28,34.0,+33:54,,Wellens Tim,13,Lotto Belisol Team,1:41 1:41,,8,2013
+30,,11,10.0,+4:27,,Contador Alberto,14,Team Saxo - Tinkoff,1:55 1:55,,8,2013
+29,,107,17.0,+10:39,,Nieve Mikel,15,Euskaltel - Euskadi,",, 1:55",,8,2013
+33,,16,6.0,+3:08,,Rogers Michael,16,Team Saxo - Tinkoff,",, 1:55",,8,2013
+27,,8,15.0,+9:02,,Thomas Geraint,17,Sky Procycling,",, 1:55",,8,2013
+25,,64,33.0,+33:04,,Gallopin Tony,18,RadioShack - Leopard,2:31 2:31,,8,2013
+25,,134,12.0,+7:17,,Geniez Alexandre,19,FDJ.fr,",, 2:31",,8,2013
+30,,52,11.0,+4:39,,Clement Stef,20,Blanco Pro Cycling Team,",, 2:31",,8,2013
+36,,61,14.0,+7:47,,Zubeldia Haimar,21,RadioShack - Leopard,",, 2:31",,8,2013
+25,,38,22.0,+15:16,,Silin Egor,22,Astana Pro Team,",, 2:31",,8,2013
+24,,76,74.0,+1:08:57,,Meyer Travis,23,Orica GreenEDGE,3:02 3:02,,8,2013
+23,,3,23.0,+17:35,,Kennaugh Peter,24,Sky Procycling,3:27 3:27,,8,2013
+28,,62,19.0,+13:15,,Busche Matthew,25,RadioShack - Leopard,3:52 3:52,,8,2013
+23,,44,20.0,+13:37,,Nerz Dominik,26,BMC Racing Team,3:56 3:56,,8,2013
+21,,191,18.0,+12:12,,Barguil Warren,27,Team Argos - Shimano,",, 3:56",,8,2013
+33,,46,53.0,+48:24,,Quinziato Manuel,28,BMC Racing Team,",, 3:56",,8,2013
+32,,51,13.0,+7:21,,ten Dam Laurens,29,Blanco Pro Cycling Team,",, 3:56",,8,2013
+34,,128,54.0,+50:15,,Serpa Jose Rodolfo,30,Lampre - Merida,",, 3:56",,8,2013
+26,,2,31.0,+30:05,,Boasson Hagen Edvald,31,Sky Procycling,4:54 4:54,,8,2013
+29,,42,35.0,+34:48,,Bookwalter Brent,32,BMC Racing Team,4:57 4:57,,8,2013
+25,,92,52.0,+47:52,,Bagot Yoann,33,"Cofidis, Solutions Cr\xe9dits",5:35 5:35,,8,2013
+31,,87,47.0,+43:15,,Losada Alberto,34,Team Katusha,5:39 5:39,,8,2013
+30,,21,29.0,+28:53,,Van den Broeck Jurgen,35,Lotto Belisol Team,5:56 5:56,,8,2013
+35,,183,45.0,+42:06,,Flecha Juan Antonio,36,Vacansoleil - DCM,6:49 6:49,,8,2013
+26,,182,93.0,+1:26:43,,Boeckmans Kris,37,Vacansoleil - DCM,7:37 7:37,,8,2013
+20,,35,69.0,+1:04:49,,Lutsenko Alexey,38,Astana Pro Team,8:17 8:17,,8,2013
+33,,15,25.0,+24:14,,Paulinho S\xe9rgio,39,Team Saxo - Tinkoff,8:51 8:51,,8,2013
+22,,75,80.0,+1:13:50,,Matthews Michael,40,Orica GreenEDGE,9:24 9:24,,8,2013
+23,,43,105.0,+1:45:09,,Eijssen Yannick,41,BMC Racing Team,9:49 9:49,,8,2013
+27,,218,104.0,+1:42:36,,Wetterhall Alexander,42,Team NetApp \u2013 Endura,10:04 10:04,,8,2013
+26,,77,26.0,+26:40,,Sulzberger Wesley,43,Orica GreenEDGE,",, 10:04",,8,2013
+32,,203,38.0,+37:26,,Duret Sebastien,44,Bretagne - S\xe9ch\xe9 Environnement,",, 10:04",,8,2013
+35,,106,44.0,+41:43,,Martinez Egoi,45,Euskaltel - Euskadi,10:48 10:48,,8,2013
+37,,53,66.0,+1:03:16,,Garate Juan Manuel,46,Blanco Pro Cycling Team,",, 10:48",,8,2013
+26,,165,96.0,+1:28:33,,Paterski Maciej,47,Cannondale Pro Cycling Team,",, 10:48",,8,2013
+26,,7,101.0,+1:37:50,,Stannard Ian,48,Sky Procycling,12:32 12:32,,8,2013
+31,,4,91.0,+1:22:10,,Kiryienka Vasil,49,Sky Procycling,",, 12:32",,8,2013
+25,,23,87.0,+1:18:10,,Cordeel Sander,50,Lotto Belisol Team,",, 12:32",,8,2013
+32,,93,32.0,+31:08,,Le M\xe9vel Christophe,51,"Cofidis, Solutions Cr\xe9dits",12:35 12:35,,8,2013
+28,,63,50.0,+47:17,,Didier Laurent,52,RadioShack - Leopard,12:59 12:59,,8,2013
+26,,173,72.0,+1:07:32,,Castroviejo Jonathan,53,Movistar Team,13:29 13:29,,8,2013
+24,,176,39.0,+38:27,,Madrazo \xc1ngel,54,Movistar Team,",, 13:29",,8,2013
+25,,105,43.0,+41:31,,Izagirre Gorka,55,Euskaltel - Euskadi,",, 13:29",,8,2013
+28,,112,99.0,+1:36:55,,Bauer Jack,56,Garmin Sharp,",, 13:29",,8,2013
+26,,164,24.0,+21:55,,Koren Kristijan,57,Cannondale Pro Cycling Team,",, 13:29",,8,2013
+33,,102,37.0,+36:48,,Astarloza Mikel,58,Euskaltel - Euskadi,",, 13:29",,8,2013
+26,,114,88.0,+1:18:40,,Fairly Caleb,59,Garmin Sharp,",, 13:29",,8,2013
+25,,108,83.0,+1:15:14,,Sicard Romain,60,Euskaltel - Euskadi,",, 13:29",,8,2013
+23,,103,73.0,+1:07:58,,Bilbao Pello,61,Euskaltel - Euskadi,",, 13:29",,8,2013
+29,,174,70.0,+1:06:34,,Erviti Imanol,62,Movistar Team,",, 13:29",,8,2013
+34,,131,41.0,+39:04,,Fedrigo Pierrick,63,FDJ.fr,",, 13:29",,8,2013
+28,,33,40.0,+38:42,,Gavazzi Francesco,64,Astana Pro Team,13:39 13:39,,8,2013
+26,,37,36.0,+36:14,,Seeldraeyers Kevin,65,Astana Pro Team,",, 13:39",,8,2013
+23,,186,85.0,+1:16:32,,Lindeman Bert-Jan,66,Vacansoleil - DCM,14:27 14:27,,8,2013
+25,,187,57.0,+51:53,,Poels Wout,67,Vacansoleil - DCM,",, 14:27",,8,2013
+29,,34,48.0,+43:28,,Grivko Andrei,68,Astana Pro Team,14:34 14:34,,8,2013
+32,,32,84.0,+1:15:56,,Bazayev Assan,69,Astana Pro Team,",, 14:34",,8,2013
+28,,215,49.0,+47:13,,Mendes Jos\xe9,70,Team NetApp \u2013 Endura,14:43 14:43,,8,2013
+30,,184,51.0,+47:38,,Hoogerland Johnny,71,Vacansoleil - DCM,15:25 15:25,,8,2013
+24,,194,77.0,+1:10:17,,Damuseau Thomas,72,Team Argos - Shimano,",, 15:25",,8,2013
+26,,166,61.0,+55:39,,Sarmiento Jose Cayetano,73,Cannondale Pro Cycling Team,",, 15:25",,8,2013
+29,,145,94.0,+1:26:50,,Quemeneur Perrig,74,Team Europcar,15:33 15:33,,8,2013
+28,,136,63.0,+59:35,,Ladagnous Matthieu,75,FDJ.fr,16:22 16:22,,8,2013
+29,,216,103.0,+1:38:58,,Schillinger Andreas,76,Team NetApp \u2013 Endura,16:34 16:34,,8,2013
+28,,212,86.0,+1:17:50,,B\xe1rta Jan,77,Team NetApp \u2013 Endura,",, 16:34",,8,2013
+33,,66,82.0,+1:14:51,,Irizar Markel,78,RadioShack - Leopard,18:44 18:44,,8,2013
+34,,56,42.0,+40:27,,Tankink Bram,79,Blanco Pro Cycling Team,",, 18:44",,8,2013
+28,,161,76.0,+1:09:56,,Bodnar Maciej,80,Cannondale Pro Cycling Team,19:12 19:12,,8,2013
+27,,162,98.0,+1:36:53,,Canuti Federico,81,Cannondale Pro Cycling Team,",, 19:12",,8,2013
+24,,26,71.0,+1:07:16,,Vanendert Dennis,82,Lotto Belisol Team,",, 19:12",,8,2013
+31,,167,90.0,+1:21:54,,Vandborg Brian,83,Cannondale Pro Cycling Team,",, 19:12",,8,2013
+28,,201,78.0,+1:11:32,,Vachon Florian,84,Bretagne - S\xe9ch\xe9 Environnement,",, 19:12",,8,2013
+21,,208,65.0,+1:01:16,,Sep\xfalveda Eduardo,85,Bretagne - S\xe9ch\xe9 Environnement,19:52 19:52,,8,2013
+24,,207,58.0,+52:13,,Laengen Vegard Stake,86,Bretagne - S\xe9ch\xe9 Environnement,",, 19:52",,8,2013
+27,,155,46.0,+43:14,,Meersman Gianni,87,Omega Pharma - Quick-Step,20:19 20:19,,8,2013
+35,,177,75.0,+1:09:14,,Szmyd Sylwester,88,Movistar Team,21:02 21:02,,8,2013
+25,,84,81.0,+1:14:40,,Ignatenko Petr,89,Team Katusha,21:05 21:05,,8,2013
+32,,185,79.0,+1:12:57,,Lagutin Sergey,90,Vacansoleil - DCM,22:12 22:12,,8,2013
+28,,193,106.0,+1:45:28,,Clarke William,91,Team Argos - Shimano,22:40 22:40,,8,2013
+21,,192,108.0,+1:48:23,,Arndt Nikias,92,Team Argos - Shimano,23:42 23:42,,8,2013
+28,,205,67.0,+1:04:04,,Gerard Arnaud,93,Bretagne - S\xe9ch\xe9 Environnement,24:40 24:40,,8,2013
+33,,135,68.0,+1:04:31,,Geslin Anthony,94,FDJ.fr,",, 24:40",,8,2013
+30,,127,110.0,+2:00:30,,Richeze Ariel Maximiliano,95,Lampre - Merida,",, 24:40",,8,2013
+25,,144,56.0,+51:49,,Gautier Cyril,96,Team Europcar,",, 24:40",,8,2013
+23,,82,62.0,+58:07,,Chernetski Sergei,97,Team Katusha,",, 24:40",,8,2013
+29,,122,97.0,+1:32:26,,Bono Matteo,98,Lampre - Merida,",, 24:40",,8,2013
+25,,104,102.0,+1:38:11,,Garcia Ricardo,99,Euskaltel - Euskadi,",, 24:40",,8,2013
+26,,91,59.0,+54:30,,Coppel J\xe9rome,100,"Cofidis, Solutions Cr\xe9dits",",, 24:40",,8,2013
+25,,146,100.0,+1:36:57,,R\xe9za K\xe9vin,101,Team Europcar,",, 24:40",,8,2013
+24,,138,89.0,+1:19:25,,Vichot Arthur,102,FDJ.fr,",, 24:40",,8,2013
+26,,97,27.0,+27:37,,Taaram\xe4e Rein,103,"Cofidis, Solutions Cr\xe9dits",",, 24:40",,8,2013
+29,,202,92.0,+1:25:38,,Bideau Jean Marc,104,Bretagne - S\xe9ch\xe9 Environnement,",, 24:40",,8,2013
+25,,148,60.0,+55:11,,Veilleux David,105,Team Europcar,26:01 26:01,,8,2013
+26,,74,107.0,+1:46:28,,Docker Mitchell,106,Orica GreenEDGE,",, 26:01",,8,2013
+31,,98,109.0,+1:51:10,,Valentin Tristan,107,"Cofidis, Solutions Cr\xe9dits",",, 26:01",,8,2013
+23,,95,64.0,+1:00:39,,Molard Rudy,108,"Cofidis, Solutions Cr\xe9dits",26:05 26:05,,8,2013
+24,,204,95.0,+1:28:24,,Fonseca Armindo,109,Bretagne - S\xe9ch\xe9 Environnement,36:17 36:17,,8,2013
+30,,206,55.0,+51:37,,Guillou Florian,110,Bretagne - S\xe9ch\xe9 Environnement,36:40 36:40,,8,2013
+30,,178,,+ - 29:28:46,,Teruel Eloy,DNF,Movistar Team,-4:28:09 -4:28:09,,8,2013
+35,,41,,+ - 29:28:46,,Hushovd Thor,DNF,BMC Racing Team,",, -4:28:09",,8,2013
+28,,57,,+ - 29:28:46,,Tanner David,DNF,Blanco Pro Cycling Team,",, -4:28:09",,8,2013
+26,,147,,+ - 29:28:46,,Rolland Pierre,DNF,Team Europcar,",, -4:28:09",,8,2013
+26,,181,,+ - 29:28:46,,De Gendt Thomas,DNF,Vacansoleil - DCM,",, -4:28:09",,8,2013
+24,,213,,+ - 29:28:46,,de la Cruz David,DNF,Team NetApp \u2013 Endura,",, -4:28:09",,8,2013
+27,,153,,+ - 29:28:46,,Maes Nikolas,DNF,Omega Pharma - Quick-Step,",, -4:28:09",,8,2013
+25,,137,,+ - 29:28:46,,Soupe Geoffrey,DNF,FDJ.fr,",, -4:28:09",,8,2013
+23,,55,,+ - 29:28:46,,Slagter Tom-Jelte,DNF,Blanco Pro Cycling Team,",, -4:28:09",,8,2013
+25,,116,,+ - 29:28:46,,Howes Alex,DNF,Garmin Sharp,",, -4:28:09",,8,2013
+24,,67,,+ - 29:28:46,,King Benjamin,DNF,RadioShack - Leopard,",, -4:28:09",,8,2013
+33,,71,,+ - 29:28:46,,Gerrans Simon,DNF,Orica GreenEDGE,",, -4:28:09",,8,2013
+26,,73,,+ - 29:28:46,,Clarke Simon,DNF,Orica GreenEDGE,",, -4:28:09",,8,2013
+24,,78,,+ - 29:28:46,,Teklehaimanot Daniel,DNF,Orica GreenEDGE,",, -4:28:09",,8,2013
+29,,94,,+ - 29:28:46,,Mat\xe9 Luis \xc1ngel,DNF,"Cofidis, Solutions Cr\xe9dits",",, -4:28:09",,8,2013
+36,,25,,+ - 29:28:46,,van de Walle Jurgen,DNF,Lotto Belisol Team,",, -4:28:09",,8,2013
+38,,18,,+ - 29:28:46,,S\xf8rensen Nicki,DNF,Team Saxo - Tinkoff,",, -4:28:09",,8,2013
+27,,175,,+ - 29:28:46,,Herrada Jos\xe9,DNF,Movistar Team,",, -4:28:09",,8,2013
+31,,115,,+ - 29:28:46,,Fern\xe1ndez Koldo,DNF,Garmin Sharp,",, -4:28:09",,8,2013
+24,,157,,+ - 29:28:46,,Serry Pieter,DNF,Omega Pharma - Quick-Step,",, -4:28:09",,8,2013
+23,,152,,+ - 29:28:46,,Kwiatkowski Michal,DNF,Omega Pharma - Quick-Step,",, -4:28:09",,8,2013
+33,,151,,+ - 29:28:46,,Chavanel Sylvain,DNF,Omega Pharma - Quick-Step,",, -4:28:09",,8,2013
+22,,118,,+ - 29:28:46,,Rathe Jacob,DNF,Garmin Sharp,",, -4:28:09",,8,2013
+33,,141,,+ - 29:28:46,,Voeckler Thomas,DNF,Team Europcar,",, -4:28:09",,8,2013
+29,,47,,+ - 29:28:46,,Santaromita Ivan,DNF,BMC Racing Team,",, -4:28:09",,8,2013
+21,,133,,+ - 29:28:46,,Elissonde Kenny,DNF,FDJ.fr,",, -4:28:09",,8,2013
+22,,132,,+ - 29:28:46,,Bouhanni Nacer,DNF,FDJ.fr,",, -4:28:09",,8,2013
+32,,5,,+ - 29:28:46,,Lopez David,DNF,Sky Procycling,",, -4:28:09",,8,2013
+22,,54,,+ - 29:28:46,,Goos Marc,DNF,Blanco Pro Cycling Team,",, -4:28:09",,8,2013
+30,,12,,+ - 29:28:46,,Duggan Timothy,DNF,Team Saxo - Tinkoff,",, -4:28:09",,8,2013
+31,,13,,+ - 29:28:46,,Hern\xe1ndez Jes\xfas,DNF,Team Saxo - Tinkoff,",, -4:28:09",,8,2013
+28,,158,,+ - 29:28:46,,Velits Martin,DNF,Omega Pharma - Quick-Step,",, -4:28:09",,8,2013
+22,,142,,+ - 29:28:46,,Berhane Natnael,DNS,Team Europcar,",, -4:28:09",,8,2013
+25,,117,,+ - 29:28:46,,Kreder Michel,DNS,Garmin Sharp,",, -4:28:09",,8,2013
+28,,154,,+ - 29:28:46,,Martin Tony,DNS,Omega Pharma - Quick-Step,",, -4:28:09",,8,2013

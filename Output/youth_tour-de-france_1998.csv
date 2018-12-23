@@ -1,0 +1,580 @@
+Age,BIB,GC,GC-Time,Prev,Rider,Rnk,Team,Time,\u25bc\u25b2,stage,year
+24,1,6,+0:05,,Ullrich Jan,1,Team Telekom - ARD,6:17 6:17,,0,1998
+25,134,15,+0:12,,Jalabert Nicolas,2,Cofidis,0:07 0:07,,0,1998
+24,32,20,+0:13,,Di Grande Giuseppe,3,Mapei - Bricobi,0:08 0:08,,0,1998
+23,98,21,+0:13,,Verbrugghe Rik,4,Lotto - Mobistar,",, 0:08",,0,1998
+24,84,24,+0:15,,O'Grady Stuart,5,GAN,0:10 0:10,,0,1998
+25,187,26,+0:16,,Hincapie George,6,US Postal Service,0:11 0:11,,0,1998
+23,104,35,+0:19,,Ivanov Serguei,7,TVM - Farm Frites,0:14 0:14,,0,1998
+25,133,43,+0:20,,Gaumont Philippe,8,Cofidis,0:15 0:15,,0,1998
+24,161,53,+0:22,,Blanco Santiago,9,Vitalicio Seguros,0:17 0:17,,0,1998
+24,139,66,+0:24,,Rinero Christophe,10,Cofidis,0:19 0:19,,0,1998
+23,82,67,+0:24,,B\xe4ckstedt Magnus,11,GAN,",, 0:19",,0,1998
+24,56,70,+0:25,,Moerenhout Koos,12,Rabobank ProTeam,0:20 0:20,,0,1998
+24,48,78,+0:26,,Perez Luis,13,O.N.C.E.,0:21 0:21,,0,1998
+24,176,90,+0:27,,Gonzalez Santos,14,Kelme - Costa Blanca,0:22 0:22,,0,1998
+21,146,101,+0:29,,Jaksche Jorg,15,Polti,0:24 0:24,,0,1998
+24,117,115,+0:31,,Mori Massimiliano,16,Saeco Macchine da Caffe' - Cannondale,0:26 0:26,,0,1998
+25,137,119,+0:32,,Livingston Kevin,17,Cofidis,0:27 0:27,,0,1998
+25,195,138,+0:37,,Casagranda Stefano,18,Riso Scotti - MG,0:32 0:32,,0,1998
+24,116,140,+0:37,,Mazzoleni Eddy,19,Saeco Macchine da Caffe' - Cannondale,",, 0:32",,0,1998
+24,122,141,+0:37,,Bouyer Franck,20,La Fran\xe7aise des Jeux,",, 0:32",,0,1998
+24,69,150,+0:38,,Salmon Benoit,21,Casino - AG2R,0:33 0:33,,0,1998
+24,173,154,+0:39,,Alberto Contreras Carlos,22,Kelme - Costa Blanca,0:34 0:34,,0,1998
+25,196,155,+0:39,,De Beni Federico,23,Riso Scotti - MG,",, 0:34",,0,1998
+24,103,157,+0:39,,de Jongh Steven,24,TVM - Farm Frites,",, 0:34",,0,1998
+23,152,161,+0:40,,Bongioni Alessio,25,Asics - CGA,0:35 0:35,,0,1998
+24,175,162,+0:41,,Gomez Jose Javier,26,Kelme - Costa Blanca,0:36 0:36,,0,1998
+22,167,163,+0:41,,Garcia Francisco Tomas,27,Vitalicio Seguros,",, 0:36",,0,1998
+24,149,170,+0:43,,Sacchi Fabio,28,Polti,0:38 0:38,,0,1998
+25,99,171,+0:43,,Verheyen Geert,29,Lotto - Mobistar,",, 0:38",,0,1998
+24,145,175,+0:46,,Guidi Leonardo,30,Polti,0:41 0:41,,0,1998
+24,128,182,+0:48,,Nazon Damien,31,La Fran\xe7aise des Jeux,0:43 0:43,,0,1998
+25,174,185,+0:51,,De Los Angeles Juan Jos\xe9,32,Kelme - Costa Blanca,0:46 0:46,,0,1998
+22,159,188,+0:55,,Turicchia Alain,33,Asics - CGA,0:50 0:50,,0,1998
+23,199,189,+1:01,,Spezialetti Alessandro,34,Riso Scotti - MG,0:56 0:56,,0,1998
+24,1,6,+0:05,1.0,Ullrich Jan,1,Team Telekom - ARD,4:36:15 4:36:15,-,1,1998
+25,134,19,+0:12,2.0,Jalabert Nicolas,2,Cofidis,0:07 0:07,-,1,1998
+24,32,22,+0:13,3.0,Di Grande Giuseppe,3,Mapei - Bricobi,0:08 0:08,-,1,1998
+23,98,23,+0:13,4.0,Verbrugghe Rik,4,Lotto - Mobistar,",, 0:08",-,1,1998
+24,84,25,+0:15,5.0,O'Grady Stuart,5,GAN,0:10 0:10,-,1,1998
+25,187,27,+0:16,6.0,Hincapie George,6,US Postal Service,0:11 0:11,-,1,1998
+23,104,38,+0:19,7.0,Ivanov Serguei,7,TVM - Farm Frites,0:14 0:14,-,1,1998
+25,133,45,+0:20,8.0,Gaumont Philippe,8,Cofidis,0:15 0:15,-,1,1998
+24,161,55,+0:22,9.0,Blanco Santiago,9,Vitalicio Seguros,0:17 0:17,-,1,1998
+24,139,65,+0:24,10.0,Rinero Christophe,10,Cofidis,0:19 0:19,-,1,1998
+23,82,66,+0:24,11.0,B\xe4ckstedt Magnus,11,GAN,",, 0:19",-,1,1998
+24,56,68,+0:25,12.0,Moerenhout Koos,12,Rabobank ProTeam,0:20 0:20,-,1,1998
+24,48,76,+0:26,13.0,Perez Luis,13,O.N.C.E.,0:21 0:21,-,1,1998
+24,176,87,+0:27,14.0,Gonzalez Santos,14,Kelme - Costa Blanca,0:22 0:22,-,1,1998
+21,146,96,+0:29,15.0,Jaksche Jorg,15,Polti,0:24 0:24,-,1,1998
+25,137,112,+0:32,17.0,Livingston Kevin,16,Cofidis,0:27 0:27,\u25b21,1,1998
+25,195,130,+0:37,18.0,Casagranda Stefano,17,Riso Scotti - MG,0:32 0:32,\u25b21,1,1998
+24,122,132,+0:37,20.0,Bouyer Franck,18,La Fran\xe7aise des Jeux,",, 0:32",\u25b22,1,1998
+24,69,141,+0:38,21.0,Salmon Benoit,19,Casino - AG2R,0:33 0:33,\u25b22,1,1998
+24,173,144,+0:39,22.0,Alberto Contreras Carlos,20,Kelme - Costa Blanca,0:34 0:34,\u25b22,1,1998
+25,196,145,+0:39,23.0,De Beni Federico,21,Riso Scotti - MG,",, 0:34",\u25b22,1,1998
+24,103,147,+0:39,24.0,de Jongh Steven,22,TVM - Farm Frites,",, 0:34",\u25b22,1,1998
+23,152,150,+0:40,25.0,Bongioni Alessio,23,Asics - CGA,0:35 0:35,\u25b22,1,1998
+24,175,151,+0:41,26.0,Gomez Jose Javier,24,Kelme - Costa Blanca,0:36 0:36,\u25b22,1,1998
+22,167,152,+0:41,27.0,Garcia Francisco Tomas,25,Vitalicio Seguros,",, 0:36",\u25b22,1,1998
+24,149,159,+0:43,28.0,Sacchi Fabio,26,Polti,0:38 0:38,\u25b22,1,1998
+25,99,160,+0:43,29.0,Verheyen Geert,27,Lotto - Mobistar,",, 0:38",\u25b22,1,1998
+24,145,163,+0:46,30.0,Guidi Leonardo,28,Polti,0:41 0:41,\u25b22,1,1998
+24,128,170,+0:48,31.0,Nazon Damien,29,La Fran\xe7aise des Jeux,0:43 0:43,\u25b22,1,1998
+25,174,173,+0:51,32.0,De Los Angeles Juan Jos\xe9,30,Kelme - Costa Blanca,0:46 0:46,\u25b22,1,1998
+22,159,174,+0:55,33.0,Turicchia Alain,31,Asics - CGA,0:50 0:50,\u25b22,1,1998
+23,199,176,+1:01,34.0,Spezialetti Alessandro,32,Riso Scotti - MG,0:56 0:56,\u25b22,1,1998
+24,117,183,+4:11,16.0,Mori Massimiliano,33,Saeco Macchine da Caffe' - Cannondale,4:06 4:06,\u25bc17,1,1998
+24,116,185,+4:17,19.0,Mazzoleni Eddy,34,Saeco Macchine da Caffe' - Cannondale,4:12 4:12,\u25bc15,1,1998
+24,1,8,+0:09,1.0,Ullrich Jan,1,Team Telekom - ARD,10:21:25 10:21:25,-,2,1998
+25,134,20,+0:16,2.0,Jalabert Nicolas,2,Cofidis,0:07 0:07,-,2,1998
+24,32,23,+0:17,3.0,Di Grande Giuseppe,3,Mapei - Bricobi,0:08 0:08,-,2,1998
+23,98,24,+0:17,4.0,Verbrugghe Rik,4,Lotto - Mobistar,",, 0:08",-,2,1998
+24,84,26,+0:19,5.0,O'Grady Stuart,5,GAN,0:10 0:10,-,2,1998
+25,187,28,+0:20,6.0,Hincapie George,6,US Postal Service,0:11 0:11,-,2,1998
+23,104,40,+0:23,7.0,Ivanov Serguei,7,TVM - Farm Frites,0:14 0:14,-,2,1998
+25,133,46,+0:24,8.0,Gaumont Philippe,8,Cofidis,0:15 0:15,-,2,1998
+24,161,54,+0:26,9.0,Blanco Santiago,9,Vitalicio Seguros,0:17 0:17,-,2,1998
+24,139,64,+0:28,10.0,Rinero Christophe,10,Cofidis,0:19 0:19,-,2,1998
+23,82,65,+0:28,11.0,B\xe4ckstedt Magnus,11,GAN,",, 0:19",-,2,1998
+24,56,67,+0:29,12.0,Moerenhout Koos,12,Rabobank ProTeam,0:20 0:20,-,2,1998
+24,48,74,+0:30,13.0,Perez Luis,13,O.N.C.E.,0:21 0:21,-,2,1998
+24,176,84,+0:31,14.0,Gonzalez Santos,14,Kelme - Costa Blanca,0:22 0:22,-,2,1998
+21,146,92,+0:33,15.0,Jaksche Jorg,15,Polti,0:24 0:24,-,2,1998
+25,137,107,+0:36,16.0,Livingston Kevin,16,Cofidis,0:27 0:27,-,2,1998
+24,122,126,+0:41,18.0,Bouyer Franck,17,La Fran\xe7aise des Jeux,0:32 0:32,\u25b21,2,1998
+24,69,135,+0:42,19.0,Salmon Benoit,18,Casino - AG2R,0:33 0:33,\u25b21,2,1998
+24,173,138,+0:43,20.0,Alberto Contreras Carlos,19,Kelme - Costa Blanca,0:34 0:34,\u25b21,2,1998
+25,196,139,+0:43,21.0,De Beni Federico,20,Riso Scotti - MG,",, 0:34",\u25b21,2,1998
+24,103,141,+0:43,22.0,de Jongh Steven,21,TVM - Farm Frites,",, 0:34",\u25b21,2,1998
+23,152,144,+0:44,23.0,Bongioni Alessio,22,Asics - CGA,0:35 0:35,\u25b21,2,1998
+24,175,145,+0:45,24.0,Gomez Jose Javier,23,Kelme - Costa Blanca,0:36 0:36,\u25b21,2,1998
+22,167,146,+0:45,25.0,Garcia Francisco Tomas,24,Vitalicio Seguros,",, 0:36",\u25b21,2,1998
+24,149,153,+0:47,26.0,Sacchi Fabio,25,Polti,0:38 0:38,\u25b21,2,1998
+25,99,154,+0:47,27.0,Verheyen Geert,26,Lotto - Mobistar,",, 0:38",\u25b21,2,1998
+24,145,157,+0:50,28.0,Guidi Leonardo,27,Polti,0:41 0:41,\u25b21,2,1998
+24,128,163,+0:52,29.0,Nazon Damien,28,La Fran\xe7aise des Jeux,0:43 0:43,\u25b21,2,1998
+25,174,166,+0:55,30.0,De Los Angeles Juan Jos\xe9,29,Kelme - Costa Blanca,0:46 0:46,\u25b21,2,1998
+22,159,167,+0:59,31.0,Turicchia Alain,30,Asics - CGA,0:50 0:50,\u25b21,2,1998
+23,199,169,+1:05,32.0,Spezialetti Alessandro,31,Riso Scotti - MG,0:56 0:56,\u25b21,2,1998
+24,116,177,+4:21,34.0,Mazzoleni Eddy,32,Saeco Macchine da Caffe' - Cannondale,4:12 4:12,\u25b22,2,1998
+25,195,184,+6:33,17.0,Casagranda Stefano,33,Riso Scotti - MG,6:24 6:24,\u25bc16,2,1998
+24,117,186,+15:12,33.0,Mori Massimiliano,34,Saeco Macchine da Caffe' - Cannondale,15:03 15:03,\u25bc1,2,1998
+25,187,2,+0:02,6.0,Hincapie George,1,US Postal Service,13:55:02 13:55:02,\u25b25,3,1998
+24,84,3,+0:03,5.0,O'Grady Stuart,2,GAN,0:01 0:01,\u25b23,3,1998
+24,1,17,+1:11,1.0,Ullrich Jan,3,Team Telekom - ARD,1:09 1:09,\u25bc2,3,1998
+25,134,30,+1:18,2.0,Jalabert Nicolas,4,Cofidis,1:16 1:16,\u25bc2,3,1998
+24,32,32,+1:19,3.0,Di Grande Giuseppe,5,Mapei - Bricobi,1:17 1:17,\u25bc2,3,1998
+23,104,45,+1:25,7.0,Ivanov Serguei,6,TVM - Farm Frites,1:23 1:23,\u25b21,3,1998
+25,133,50,+1:26,8.0,Gaumont Philippe,7,Cofidis,1:24 1:24,\u25b21,3,1998
+24,161,58,+1:28,9.0,Blanco Santiago,8,Vitalicio Seguros,1:26 1:26,\u25b21,3,1998
+24,139,67,+1:30,10.0,Rinero Christophe,9,Cofidis,1:28 1:28,\u25b21,3,1998
+23,82,68,+1:30,11.0,B\xe4ckstedt Magnus,10,GAN,",, 1:28",\u25b21,3,1998
+24,56,70,+1:31,12.0,Moerenhout Koos,11,Rabobank ProTeam,1:29 1:29,\u25b21,3,1998
+24,48,75,+1:32,13.0,Perez Luis,12,O.N.C.E.,1:30 1:30,\u25b21,3,1998
+24,176,82,+1:33,14.0,Gonzalez Santos,13,Kelme - Costa Blanca,1:31 1:31,\u25b21,3,1998
+21,146,90,+1:35,15.0,Jaksche Jorg,14,Polti,1:33 1:33,\u25b21,3,1998
+25,137,104,+1:38,16.0,Livingston Kevin,15,Cofidis,1:36 1:36,\u25b21,3,1998
+24,122,120,+1:43,17.0,Bouyer Franck,16,La Fran\xe7aise des Jeux,1:41 1:41,\u25b21,3,1998
+24,69,128,+1:44,18.0,Salmon Benoit,17,Casino - AG2R,1:42 1:42,\u25b21,3,1998
+24,173,130,+1:45,19.0,Alberto Contreras Carlos,18,Kelme - Costa Blanca,1:43 1:43,\u25b21,3,1998
+24,103,132,+1:45,21.0,de Jongh Steven,19,TVM - Farm Frites,",, 1:43",\u25b22,3,1998
+24,175,134,+1:47,23.0,Gomez Jose Javier,20,Kelme - Costa Blanca,1:45 1:45,\u25b23,3,1998
+22,167,135,+1:47,24.0,Garcia Francisco Tomas,21,Vitalicio Seguros,",, 1:45",\u25b23,3,1998
+24,149,141,+1:49,25.0,Sacchi Fabio,22,Polti,1:47 1:47,\u25b23,3,1998
+25,99,142,+1:49,26.0,Verheyen Geert,23,Lotto - Mobistar,",, 1:47",\u25b23,3,1998
+24,145,145,+1:52,27.0,Guidi Leonardo,24,Polti,1:50 1:50,\u25b23,3,1998
+25,174,150,+1:57,29.0,De Los Angeles Juan Jos\xe9,25,Kelme - Costa Blanca,1:55 1:55,\u25b24,3,1998
+22,159,151,+2:01,30.0,Turicchia Alain,26,Asics - CGA,1:59 1:59,\u25b24,3,1998
+23,98,156,+4:48,4.0,Verbrugghe Rik,27,Lotto - Mobistar,4:46 4:46,\u25bc23,3,1998
+25,196,167,+5:14,20.0,De Beni Federico,28,Riso Scotti - MG,5:12 5:12,\u25bc8,3,1998
+23,152,170,+5:15,22.0,Bongioni Alessio,29,Asics - CGA,5:13 5:13,\u25bc7,3,1998
+24,128,173,+5:23,28.0,Nazon Damien,30,La Fran\xe7aise des Jeux,5:21 5:21,\u25bc2,3,1998
+23,199,175,+5:36,31.0,Spezialetti Alessandro,31,Riso Scotti - MG,5:34 5:34,-,3,1998
+24,116,179,+6:58,32.0,Mazzoleni Eddy,32,Saeco Macchine da Caffe' - Cannondale,6:56 6:56,-,3,1998
+25,195,183,+7:35,33.0,Casagranda Stefano,33,Riso Scotti - MG,7:33 7:33,-,3,1998
+24,117,186,+16:14,34.0,Mori Massimiliano,34,Saeco Macchine da Caffe' - Cannondale,16:12 16:12,-,3,1998
+24,84,1,+0:00,2.0,O'Grady Stuart,1,GAN,19:43:29 19:43:29,\u25b21,4,1998
+25,187,3,+0:11,1.0,Hincapie George,2,US Postal Service,0:11 0:11,\u25bc1,4,1998
+24,1,22,+1:22,3.0,Ullrich Jan,3,Team Telekom - ARD,1:22 1:22,-,4,1998
+24,32,33,+1:30,5.0,Di Grande Giuseppe,4,Mapei - Bricobi,1:30 1:30,\u25b21,4,1998
+25,133,48,+1:37,7.0,Gaumont Philippe,5,Cofidis,1:37 1:37,\u25b22,4,1998
+24,161,57,+1:39,8.0,Blanco Santiago,6,Vitalicio Seguros,1:39 1:39,\u25b22,4,1998
+24,139,65,+1:41,9.0,Rinero Christophe,7,Cofidis,1:41 1:41,\u25b22,4,1998
+23,82,66,+1:41,10.0,B\xe4ckstedt Magnus,8,GAN,",, 1:41",\u25b22,4,1998
+24,56,68,+1:42,11.0,Moerenhout Koos,9,Rabobank ProTeam,1:42 1:42,\u25b22,4,1998
+24,48,73,+1:43,12.0,Perez Luis,10,O.N.C.E.,1:43 1:43,\u25b22,4,1998
+24,176,79,+1:44,13.0,Gonzalez Santos,11,Kelme - Costa Blanca,1:44 1:44,\u25b22,4,1998
+21,146,88,+1:46,14.0,Jaksche Jorg,12,Polti,1:46 1:46,\u25b22,4,1998
+25,137,101,+1:49,15.0,Livingston Kevin,13,Cofidis,1:49 1:49,\u25b22,4,1998
+24,122,117,+1:54,16.0,Bouyer Franck,14,La Fran\xe7aise des Jeux,1:54 1:54,\u25b22,4,1998
+24,69,124,+1:55,17.0,Salmon Benoit,15,Casino - AG2R,1:55 1:55,\u25b22,4,1998
+24,173,126,+1:56,18.0,Alberto Contreras Carlos,16,Kelme - Costa Blanca,1:56 1:56,\u25b22,4,1998
+24,103,127,+1:56,19.0,de Jongh Steven,17,TVM - Farm Frites,",, 1:56",\u25b22,4,1998
+24,175,128,+1:58,20.0,Gomez Jose Javier,18,Kelme - Costa Blanca,1:58 1:58,\u25b22,4,1998
+22,167,129,+1:58,21.0,Garcia Francisco Tomas,19,Vitalicio Seguros,",, 1:58",\u25b22,4,1998
+25,99,135,+2:00,23.0,Verheyen Geert,20,Lotto - Mobistar,2:00 2:00,\u25b23,4,1998
+24,145,138,+2:03,24.0,Guidi Leonardo,21,Polti,2:03 2:03,\u25b23,4,1998
+25,174,143,+2:08,25.0,De Los Angeles Juan Jos\xe9,22,Kelme - Costa Blanca,2:08 2:08,\u25b23,4,1998
+22,159,144,+2:12,26.0,Turicchia Alain,23,Asics - CGA,2:12 2:12,\u25b23,4,1998
+25,134,147,+2:51,4.0,Jalabert Nicolas,24,Cofidis,2:51 2:51,\u25bc20,4,1998
+24,149,149,+3:04,22.0,Sacchi Fabio,25,Polti,3:04 3:04,\u25bc3,4,1998
+23,104,152,+3:17,6.0,Ivanov Serguei,26,TVM - Farm Frites,3:17 3:17,\u25bc20,4,1998
+23,98,156,+4:59,27.0,Verbrugghe Rik,27,Lotto - Mobistar,4:59 4:59,-,4,1998
+23,152,167,+5:26,29.0,Bongioni Alessio,28,Asics - CGA,5:26 5:26,\u25b21,4,1998
+23,199,171,+5:47,31.0,Spezialetti Alessandro,29,Riso Scotti - MG,5:47 5:47,\u25b22,4,1998
+25,195,177,+7:46,33.0,Casagranda Stefano,30,Riso Scotti - MG,7:46 7:46,\u25b23,4,1998
+24,116,179,+8:46,32.0,Mazzoleni Eddy,31,Saeco Macchine da Caffe' - Cannondale,8:46 8:46,\u25b21,4,1998
+24,128,182,+9:49,30.0,Nazon Damien,32,La Fran\xe7aise des Jeux,9:49 9:49,\u25bc2,4,1998
+24,117,184,+17:01,34.0,Mori Massimiliano,33,Saeco Macchine da Caffe' - Cannondale,17:01 17:01,\u25b21,4,1998
+24,84,1,+0:00,1.0,O'Grady Stuart,1,GAN,25:02:18 25:02:18,-,5,1998
+25,187,2,+0:07,2.0,Hincapie George,2,US Postal Service,0:07 0:07,-,5,1998
+24,1,22,+1:22,3.0,Ullrich Jan,3,Team Telekom - ARD,1:22 1:22,-,5,1998
+24,32,33,+1:30,4.0,Di Grande Giuseppe,4,Mapei - Bricobi,1:30 1:30,-,5,1998
+25,133,49,+1:37,5.0,Gaumont Philippe,5,Cofidis,1:37 1:37,-,5,1998
+24,161,58,+1:39,6.0,Blanco Santiago,6,Vitalicio Seguros,1:39 1:39,-,5,1998
+24,139,66,+1:41,7.0,Rinero Christophe,7,Cofidis,1:41 1:41,-,5,1998
+23,82,67,+1:41,8.0,B\xe4ckstedt Magnus,8,GAN,",, 1:41",-,5,1998
+24,56,69,+1:42,9.0,Moerenhout Koos,9,Rabobank ProTeam,1:42 1:42,-,5,1998
+24,48,74,+1:43,10.0,Perez Luis,10,O.N.C.E.,1:43 1:43,-,5,1998
+24,176,81,+1:44,11.0,Gonzalez Santos,11,Kelme - Costa Blanca,1:44 1:44,-,5,1998
+21,146,91,+1:46,12.0,Jaksche Jorg,12,Polti,1:46 1:46,-,5,1998
+25,137,102,+1:49,13.0,Livingston Kevin,13,Cofidis,1:49 1:49,-,5,1998
+24,122,118,+1:54,14.0,Bouyer Franck,14,La Fran\xe7aise des Jeux,1:54 1:54,-,5,1998
+24,69,125,+1:55,15.0,Salmon Benoit,15,Casino - AG2R,1:55 1:55,-,5,1998
+24,173,127,+1:56,16.0,Alberto Contreras Carlos,16,Kelme - Costa Blanca,1:56 1:56,-,5,1998
+24,103,128,+1:56,17.0,de Jongh Steven,17,TVM - Farm Frites,",, 1:56",-,5,1998
+24,175,129,+1:58,18.0,Gomez Jose Javier,18,Kelme - Costa Blanca,1:58 1:58,-,5,1998
+25,99,134,+2:00,20.0,Verheyen Geert,19,Lotto - Mobistar,2:00 2:00,\u25b21,5,1998
+24,145,137,+2:03,21.0,Guidi Leonardo,20,Polti,2:03 2:03,\u25b21,5,1998
+25,174,142,+2:08,22.0,De Los Angeles Juan Jos\xe9,21,Kelme - Costa Blanca,2:08 2:08,\u25b21,5,1998
+22,159,143,+2:12,23.0,Turicchia Alain,22,Asics - CGA,2:12 2:12,\u25b21,5,1998
+25,134,146,+2:51,24.0,Jalabert Nicolas,23,Cofidis,2:51 2:51,\u25b21,5,1998
+24,149,148,+3:04,25.0,Sacchi Fabio,24,Polti,3:04 3:04,\u25b21,5,1998
+23,104,151,+3:17,26.0,Ivanov Serguei,25,TVM - Farm Frites,3:17 3:17,\u25b21,5,1998
+23,98,155,+4:59,27.0,Verbrugghe Rik,26,Lotto - Mobistar,4:59 4:59,\u25b21,5,1998
+23,152,166,+5:26,28.0,Bongioni Alessio,27,Asics - CGA,5:26 5:26,\u25b21,5,1998
+23,199,170,+5:47,29.0,Spezialetti Alessandro,28,Riso Scotti - MG,5:47 5:47,\u25b21,5,1998
+25,195,176,+7:46,30.0,Casagranda Stefano,29,Riso Scotti - MG,7:46 7:46,\u25b21,5,1998
+24,128,180,+9:49,32.0,Nazon Damien,30,La Fran\xe7aise des Jeux,9:49 9:49,\u25b22,5,1998
+24,116,181,+10:41,31.0,Mazzoleni Eddy,31,Saeco Macchine da Caffe' - Cannondale,10:41 10:41,-,5,1998
+24,117,183,+17:01,33.0,Mori Massimiliano,32,Saeco Macchine da Caffe' - Cannondale,17:01 17:01,\u25b21,5,1998
+24,84,1,+0:00,1.0,O'Grady Stuart,1,GAN,30:07:48 30:07:48,-,6,1998
+25,187,2,+0:09,2.0,Hincapie George,2,US Postal Service,0:09 0:09,-,6,1998
+24,1,22,+1:24,3.0,Ullrich Jan,3,Team Telekom - ARD,1:24 1:24,-,6,1998
+24,32,34,+1:32,4.0,Di Grande Giuseppe,4,Mapei - Bricobi,1:32 1:32,-,6,1998
+25,133,50,+1:39,5.0,Gaumont Philippe,5,Cofidis,1:39 1:39,-,6,1998
+24,161,58,+1:41,6.0,Blanco Santiago,6,Vitalicio Seguros,1:41 1:41,-,6,1998
+24,139,65,+1:43,7.0,Rinero Christophe,7,Cofidis,1:43 1:43,-,6,1998
+23,82,66,+1:43,8.0,B\xe4ckstedt Magnus,8,GAN,",, 1:43",-,6,1998
+24,56,68,+1:44,9.0,Moerenhout Koos,9,Rabobank ProTeam,1:44 1:44,-,6,1998
+24,48,73,+1:45,10.0,Perez Luis,10,O.N.C.E.,1:45 1:45,-,6,1998
+24,176,80,+1:46,11.0,Gonzalez Santos,11,Kelme - Costa Blanca,1:46 1:46,-,6,1998
+21,146,89,+1:48,12.0,Jaksche Jorg,12,Polti,1:48 1:48,-,6,1998
+25,137,99,+1:51,13.0,Livingston Kevin,13,Cofidis,1:51 1:51,-,6,1998
+24,122,114,+1:56,14.0,Bouyer Franck,14,La Fran\xe7aise des Jeux,1:56 1:56,-,6,1998
+24,69,121,+1:57,15.0,Salmon Benoit,15,Casino - AG2R,1:57 1:57,-,6,1998
+24,173,123,+1:58,16.0,Alberto Contreras Carlos,16,Kelme - Costa Blanca,1:58 1:58,-,6,1998
+24,103,124,+1:58,17.0,de Jongh Steven,17,TVM - Farm Frites,",, 1:58",-,6,1998
+24,175,125,+2:00,18.0,Gomez Jose Javier,18,Kelme - Costa Blanca,2:00 2:00,-,6,1998
+25,99,130,+2:02,19.0,Verheyen Geert,19,Lotto - Mobistar,2:02 2:02,-,6,1998
+24,145,133,+2:05,20.0,Guidi Leonardo,20,Polti,2:05 2:05,-,6,1998
+25,174,138,+2:10,21.0,De Los Angeles Juan Jos\xe9,21,Kelme - Costa Blanca,2:10 2:10,-,6,1998
+22,159,139,+2:14,22.0,Turicchia Alain,22,Asics - CGA,2:14 2:14,-,6,1998
+25,134,144,+2:53,23.0,Jalabert Nicolas,23,Cofidis,2:53 2:53,-,6,1998
+24,149,146,+3:06,24.0,Sacchi Fabio,24,Polti,3:06 3:06,-,6,1998
+23,104,149,+3:19,25.0,Ivanov Serguei,25,TVM - Farm Frites,3:19 3:19,-,6,1998
+23,98,152,+5:01,26.0,Verbrugghe Rik,26,Lotto - Mobistar,5:01 5:01,-,6,1998
+23,152,163,+5:28,27.0,Bongioni Alessio,27,Asics - CGA,5:28 5:28,-,6,1998
+23,199,168,+5:49,28.0,Spezialetti Alessandro,28,Riso Scotti - MG,5:49 5:49,-,6,1998
+25,195,174,+8:25,29.0,Casagranda Stefano,29,Riso Scotti - MG,8:25 8:25,-,6,1998
+24,128,177,+10:57,30.0,Nazon Damien,30,La Fran\xe7aise des Jeux,10:57 10:57,-,6,1998
+24,116,178,+11:58,31.0,Mazzoleni Eddy,31,Saeco Macchine da Caffe' - Cannondale,11:58 11:58,-,6,1998
+24,117,181,+17:40,32.0,Mori Massimiliano,32,Saeco Macchine da Caffe' - Cannondale,17:40 17:40,-,6,1998
+24,1,1,+0:00,3.0,Ullrich Jan,1,Team Telekom - ARD,31:24:37 31:24:37,\u25b22,7,1998
+24,84,8,+1:53,1.0,O'Grady Stuart,2,GAN,1:53 1:53,\u25bc1,7,1998
+25,187,21,+3:53,2.0,Hincapie George,3,US Postal Service,3:53 3:53,\u25bc1,7,1998
+24,176,30,+4:36,11.0,Gonzalez Santos,4,Kelme - Costa Blanca,4:36 4:36,\u25b27,7,1998
+24,48,31,+4:37,10.0,Perez Luis,5,O.N.C.E.,4:37 4:37,\u25b25,7,1998
+25,137,32,+4:39,13.0,Livingston Kevin,6,Cofidis,4:39 4:39,\u25b27,7,1998
+24,139,36,+4:54,7.0,Rinero Christophe,7,Cofidis,4:54 4:54,-,7,1998
+25,134,40,+4:58,23.0,Jalabert Nicolas,8,Cofidis,4:58 4:58,\u25b215,7,1998
+21,146,42,+5:01,12.0,Jaksche Jorg,9,Polti,5:01 5:01,\u25b23,7,1998
+23,104,47,+5:18,25.0,Ivanov Serguei,10,TVM - Farm Frites,5:18 5:18,\u25b215,7,1998
+24,173,59,+5:51,16.0,Alberto Contreras Carlos,11,Kelme - Costa Blanca,5:51 5:51,\u25b25,7,1998
+24,32,60,+5:54,4.0,Di Grande Giuseppe,12,Mapei - Bricobi,5:54 5:54,\u25bc8,7,1998
+24,56,62,+6:02,9.0,Moerenhout Koos,13,Rabobank ProTeam,6:02 6:02,\u25bc4,7,1998
+24,69,91,+7:31,15.0,Salmon Benoit,14,Casino - AG2R,7:31 7:31,\u25b21,7,1998
+24,161,93,+7:34,6.0,Blanco Santiago,15,Vitalicio Seguros,7:34 7:34,\u25bc9,7,1998
+24,175,102,+7:50,18.0,Gomez Jose Javier,16,Kelme - Costa Blanca,7:50 7:50,\u25b22,7,1998
+23,98,110,+8:16,26.0,Verbrugghe Rik,17,Lotto - Mobistar,8:16 8:16,\u25b29,7,1998
+24,122,114,+8:28,14.0,Bouyer Franck,18,La Fran\xe7aise des Jeux,8:28 8:28,\u25bc4,7,1998
+25,174,119,+8:55,21.0,De Los Angeles Juan Jos\xe9,19,Kelme - Costa Blanca,8:55 8:55,\u25b22,7,1998
+23,82,125,+9:32,8.0,B\xe4ckstedt Magnus,20,GAN,9:32 9:32,\u25bc12,7,1998
+25,133,127,+9:40,5.0,Gaumont Philippe,21,Cofidis,9:40 9:40,\u25bc16,7,1998
+22,159,129,+9:53,22.0,Turicchia Alain,22,Asics - CGA,9:53 9:53,-,7,1998
+25,99,130,+9:56,19.0,Verheyen Geert,23,Lotto - Mobistar,9:56 9:56,\u25bc4,7,1998
+24,145,141,+10:39,20.0,Guidi Leonardo,24,Polti,10:39 10:39,\u25bc4,7,1998
+24,103,142,+10:48,17.0,de Jongh Steven,25,TVM - Farm Frites,10:48 10:48,\u25bc8,7,1998
+24,149,148,+11:30,24.0,Sacchi Fabio,26,Polti,11:30 11:30,\u25bc2,7,1998
+23,152,153,+13:10,27.0,Bongioni Alessio,27,Asics - CGA,13:10 13:10,-,7,1998
+23,199,166,+16:45,28.0,Spezialetti Alessandro,28,Riso Scotti - MG,16:45 16:45,-,7,1998
+25,195,167,+17:56,29.0,Casagranda Stefano,29,Riso Scotti - MG,17:56 17:56,-,7,1998
+24,128,168,+18:16,30.0,Nazon Damien,30,La Fran\xe7aise des Jeux,18:16 18:16,-,7,1998
+24,116,169,+19:38,31.0,Mazzoleni Eddy,31,Saeco Macchine da Caffe' - Cannondale,19:38 19:38,-,7,1998
+24,117,172,+23:27,32.0,Mori Massimiliano,32,Saeco Macchine da Caffe' - Cannondale,23:27 23:27,-,7,1998
+24,1,5,+3:21,1.0,Ullrich Jan,1,Team Telekom - ARD,36:13:17 36:13:17,-,8,1998
+24,84,12,+5:14,2.0,O'Grady Stuart,2,GAN,1:53 1:53,-,8,1998
+25,133,20,+6:44,21.0,Gaumont Philippe,3,Cofidis,3:23 3:23,\u25b218,8,1998
+24,149,22,+6:58,26.0,Sacchi Fabio,4,Polti,3:37 3:37,\u25b222,8,1998
+25,187,27,+7:14,3.0,Hincapie George,5,US Postal Service,3:53 3:53,\u25bc2,8,1998
+24,176,35,+7:57,4.0,Gonzalez Santos,6,Kelme - Costa Blanca,4:36 4:36,\u25bc2,8,1998
+24,48,36,+7:58,5.0,Perez Luis,7,O.N.C.E.,4:37 4:37,\u25bc2,8,1998
+25,137,37,+8:00,6.0,Livingston Kevin,8,Cofidis,4:39 4:39,\u25bc2,8,1998
+24,139,41,+8:15,7.0,Rinero Christophe,9,Cofidis,4:54 4:54,\u25bc2,8,1998
+25,134,44,+8:19,8.0,Jalabert Nicolas,10,Cofidis,4:58 4:58,\u25bc2,8,1998
+21,146,46,+8:22,9.0,Jaksche Jorg,11,Polti,5:01 5:01,\u25bc2,8,1998
+23,104,51,+8:39,10.0,Ivanov Serguei,12,TVM - Farm Frites,5:18 5:18,\u25bc2,8,1998
+24,173,62,+9:12,11.0,Alberto Contreras Carlos,13,Kelme - Costa Blanca,5:51 5:51,\u25bc2,8,1998
+24,32,63,+9:15,12.0,Di Grande Giuseppe,14,Mapei - Bricobi,5:54 5:54,\u25bc2,8,1998
+24,56,65,+9:23,13.0,Moerenhout Koos,15,Rabobank ProTeam,6:02 6:02,\u25bc2,8,1998
+24,69,93,+10:52,14.0,Salmon Benoit,16,Casino - AG2R,7:31 7:31,\u25bc2,8,1998
+24,161,95,+10:55,15.0,Blanco Santiago,17,Vitalicio Seguros,7:34 7:34,\u25bc2,8,1998
+24,175,104,+11:11,16.0,Gomez Jose Javier,18,Kelme - Costa Blanca,7:50 7:50,\u25bc2,8,1998
+23,98,112,+11:37,17.0,Verbrugghe Rik,19,Lotto - Mobistar,8:16 8:16,\u25bc2,8,1998
+24,122,115,+11:49,18.0,Bouyer Franck,20,La Fran\xe7aise des Jeux,8:28 8:28,\u25bc2,8,1998
+25,174,120,+12:16,19.0,De Los Angeles Juan Jos\xe9,21,Kelme - Costa Blanca,8:55 8:55,\u25bc2,8,1998
+23,82,126,+12:53,20.0,B\xe4ckstedt Magnus,22,GAN,9:32 9:32,\u25bc2,8,1998
+22,159,129,+13:14,22.0,Turicchia Alain,23,Asics - CGA,9:53 9:53,\u25bc1,8,1998
+25,99,130,+13:17,23.0,Verheyen Geert,24,Lotto - Mobistar,9:56 9:56,\u25bc1,8,1998
+24,145,141,+14:00,24.0,Guidi Leonardo,25,Polti,10:39 10:39,\u25bc1,8,1998
+24,103,142,+14:09,25.0,de Jongh Steven,26,TVM - Farm Frites,10:48 10:48,\u25bc1,8,1998
+24,116,150,+15:14,31.0,Mazzoleni Eddy,27,Saeco Macchine da Caffe' - Cannondale,11:53 11:53,\u25b24,8,1998
+23,199,164,+20:06,28.0,Spezialetti Alessandro,28,Riso Scotti - MG,16:45 16:45,-,8,1998
+25,195,165,+21:17,29.0,Casagranda Stefano,29,Riso Scotti - MG,17:56 17:56,-,8,1998
+24,128,166,+21:37,30.0,Nazon Damien,30,La Fran\xe7aise des Jeux,18:16 18:16,-,8,1998
+24,117,169,+26:48,32.0,Mori Massimiliano,31,Saeco Macchine da Caffe' - Cannondale,23:27 23:27,\u25b21,8,1998
+23,152,170,+29:36,27.0,Bongioni Alessio,32,Asics - CGA,26:15 26:15,\u25bc5,8,1998
+24,1,5,+3:21,1.0,Ullrich Jan,1,Team Telekom - ARD,41:34:39 41:34:39,-,9,1998
+24,84,11,+5:14,2.0,O'Grady Stuart,2,GAN,1:53 1:53,-,9,1998
+25,133,19,+6:44,3.0,Gaumont Philippe,3,Cofidis,3:23 3:23,-,9,1998
+24,149,21,+6:58,4.0,Sacchi Fabio,4,Polti,3:37 3:37,-,9,1998
+25,187,26,+7:14,5.0,Hincapie George,5,US Postal Service,3:53 3:53,-,9,1998
+24,176,35,+7:57,6.0,Gonzalez Santos,6,Kelme - Costa Blanca,4:36 4:36,-,9,1998
+24,48,36,+7:58,7.0,Perez Luis,7,O.N.C.E.,4:37 4:37,-,9,1998
+25,137,37,+8:00,8.0,Livingston Kevin,8,Cofidis,4:39 4:39,-,9,1998
+24,139,42,+8:15,9.0,Rinero Christophe,9,Cofidis,4:54 4:54,-,9,1998
+25,134,44,+8:19,10.0,Jalabert Nicolas,10,Cofidis,4:58 4:58,-,9,1998
+21,146,46,+8:22,11.0,Jaksche Jorg,11,Polti,5:01 5:01,-,9,1998
+23,104,51,+8:39,12.0,Ivanov Serguei,12,TVM - Farm Frites,5:18 5:18,-,9,1998
+24,173,59,+9:12,13.0,Alberto Contreras Carlos,13,Kelme - Costa Blanca,5:51 5:51,-,9,1998
+24,32,60,+9:15,14.0,Di Grande Giuseppe,14,Mapei - Bricobi,5:54 5:54,-,9,1998
+24,56,62,+9:23,15.0,Moerenhout Koos,15,Rabobank ProTeam,6:02 6:02,-,9,1998
+24,69,88,+10:52,16.0,Salmon Benoit,16,Casino - AG2R,7:31 7:31,-,9,1998
+24,161,90,+10:55,17.0,Blanco Santiago,17,Vitalicio Seguros,7:34 7:34,-,9,1998
+24,175,97,+11:11,18.0,Gomez Jose Javier,18,Kelme - Costa Blanca,7:50 7:50,-,9,1998
+23,98,104,+11:37,19.0,Verbrugghe Rik,19,Lotto - Mobistar,8:16 8:16,-,9,1998
+25,174,111,+12:16,21.0,De Los Angeles Juan Jos\xe9,20,Kelme - Costa Blanca,8:55 8:55,\u25b21,9,1998
+23,82,117,+12:53,22.0,B\xe4ckstedt Magnus,21,GAN,9:32 9:32,\u25b21,9,1998
+22,159,119,+13:14,23.0,Turicchia Alain,22,Asics - CGA,9:53 9:53,\u25b21,9,1998
+25,99,120,+13:17,24.0,Verheyen Geert,23,Lotto - Mobistar,9:56 9:56,\u25b21,9,1998
+24,145,131,+14:00,25.0,Guidi Leonardo,24,Polti,10:39 10:39,\u25b21,9,1998
+24,103,132,+14:09,26.0,de Jongh Steven,25,TVM - Farm Frites,10:48 10:48,\u25b21,9,1998
+24,116,138,+15:14,27.0,Mazzoleni Eddy,26,Saeco Macchine da Caffe' - Cannondale,11:53 11:53,\u25b21,9,1998
+23,199,154,+20:06,28.0,Spezialetti Alessandro,27,Riso Scotti - MG,16:45 16:45,\u25b21,9,1998
+24,122,158,+21:12,20.0,Bouyer Franck,28,La Fran\xe7aise des Jeux,17:51 17:51,\u25bc8,9,1998
+24,128,159,+21:37,30.0,Nazon Damien,29,La Fran\xe7aise des Jeux,18:16 18:16,\u25b21,9,1998
+24,117,165,+26:48,31.0,Mori Massimiliano,30,Saeco Macchine da Caffe' - Cannondale,23:27 23:27,\u25b21,9,1998
+25,195,167,+30:30,29.0,Casagranda Stefano,31,Riso Scotti - MG,27:09 27:09,\u25bc2,9,1998
+24,1,1,+0:00,1.0,Ullrich Jan,1,Team Telekom - ARD,47:25:18 47:25:18,-,10,1998
+25,137,18,+5:38,8.0,Livingston Kevin,2,Cofidis,5:38 5:38,\u25b26,10,1998
+24,32,20,+5:54,14.0,Di Grande Giuseppe,3,Mapei - Bricobi,5:54 5:54,\u25b211,10,1998
+24,139,23,+6:23,9.0,Rinero Christophe,4,Cofidis,6:23 6:23,\u25b25,10,1998
+24,48,26,+7:17,7.0,Perez Luis,5,O.N.C.E.,7:17 7:17,\u25b22,10,1998
+21,146,30,+7:41,11.0,Jaksche Jorg,6,Polti,7:41 7:41,\u25b25,10,1998
+24,161,39,+9:53,17.0,Blanco Santiago,7,Vitalicio Seguros,9:53 9:53,\u25b210,10,1998
+24,176,40,+11:43,6.0,Gonzalez Santos,8,Kelme - Costa Blanca,11:43 11:43,\u25bc2,10,1998
+25,99,42,+12:15,23.0,Verheyen Geert,9,Lotto - Mobistar,12:15 12:15,\u25b214,10,1998
+24,56,50,+17:30,15.0,Moerenhout Koos,10,Rabobank ProTeam,17:30 17:30,\u25b25,10,1998
+24,69,55,+18:59,16.0,Salmon Benoit,11,Casino - AG2R,18:59 18:59,\u25b25,10,1998
+24,175,57,+19:18,18.0,Gomez Jose Javier,12,Kelme - Costa Blanca,19:18 19:18,\u25b26,10,1998
+23,98,67,+25:45,19.0,Verbrugghe Rik,13,Lotto - Mobistar,25:45 25:45,\u25b26,10,1998
+23,104,71,+27:00,12.0,Ivanov Serguei,14,TVM - Farm Frites,27:00 27:00,\u25bc2,10,1998
+24,149,82,+28:45,4.0,Sacchi Fabio,15,Polti,28:45 28:45,\u25bc11,10,1998
+25,187,84,+29:01,5.0,Hincapie George,16,US Postal Service,29:01 29:01,\u25bc11,10,1998
+25,134,88,+30:06,10.0,Jalabert Nicolas,17,Cofidis,30:06 30:06,\u25bc7,10,1998
+24,84,98,+32:37,2.0,O'Grady Stuart,18,GAN,32:37 32:37,\u25bc16,10,1998
+25,174,109,+34:03,20.0,De Los Angeles Juan Jos\xe9,19,Kelme - Costa Blanca,34:03 34:03,\u25b21,10,1998
+23,199,118,+38:27,27.0,Spezialetti Alessandro,20,Riso Scotti - MG,38:27 38:27,\u25b27,10,1998
+23,82,126,+40:16,21.0,B\xe4ckstedt Magnus,21,GAN,40:16 40:16,-,10,1998
+22,159,128,+40:37,22.0,Turicchia Alain,22,Asics - CGA,40:37 40:37,-,10,1998
+24,145,132,+41:23,24.0,Guidi Leonardo,23,Polti,41:23 41:23,\u25b21,10,1998
+24,103,133,+41:32,25.0,de Jongh Steven,24,TVM - Farm Frites,41:32 41:32,\u25b21,10,1998
+24,116,138,+42:19,26.0,Mazzoleni Eddy,25,Saeco Macchine da Caffe' - Cannondale,42:19 42:19,\u25b21,10,1998
+24,122,146,+48:35,28.0,Bouyer Franck,26,La Fran\xe7aise des Jeux,48:35 48:35,\u25b22,10,1998
+24,128,147,+49:00,29.0,Nazon Damien,27,La Fran\xe7aise des Jeux,49:00 49:00,\u25b22,10,1998
+24,117,151,+54:11,30.0,Mori Massimiliano,28,Saeco Macchine da Caffe' - Cannondale,54:11 54:11,\u25b22,10,1998
+24,1,1,+0:00,1.0,Ullrich Jan,1,Team Telekom - ARD,52:42:25 52:42:25,-,11,1998
+25,137,11,+5:59,2.0,Livingston Kevin,2,Cofidis,5:59 5:59,-,11,1998
+24,139,12,+6:16,4.0,Rinero Christophe,3,Cofidis,6:16 6:16,\u25b21,11,1998
+24,32,16,+7:12,3.0,Di Grande Giuseppe,4,Mapei - Bricobi,7:12 7:12,\u25bc1,11,1998
+21,146,29,+10:50,6.0,Jaksche Jorg,5,Polti,10:50 10:50,\u25b21,11,1998
+24,161,30,+11:48,7.0,Blanco Santiago,6,Vitalicio Seguros,11:48 11:48,\u25b21,11,1998
+24,48,34,+15:36,5.0,Perez Luis,7,O.N.C.E.,15:36 15:36,\u25bc2,11,1998
+25,99,35,+16:31,9.0,Verheyen Geert,8,Lotto - Mobistar,16:31 16:31,\u25b21,11,1998
+24,69,42,+21:26,11.0,Salmon Benoit,9,Casino - AG2R,21:26 21:26,\u25b22,11,1998
+24,56,45,+23:41,10.0,Moerenhout Koos,10,Rabobank ProTeam,23:41 23:41,-,11,1998
+24,176,46,+23:43,8.0,Gonzalez Santos,11,Kelme - Costa Blanca,23:43 23:43,\u25bc3,11,1998
+24,175,58,+31:30,12.0,Gomez Jose Javier,12,Kelme - Costa Blanca,31:30 31:30,-,11,1998
+23,98,61,+32:23,13.0,Verbrugghe Rik,13,Lotto - Mobistar,32:23 32:23,-,11,1998
+25,134,65,+34:22,17.0,Jalabert Nicolas,14,Cofidis,34:22 34:22,\u25b23,11,1998
+23,104,66,+35:45,14.0,Ivanov Serguei,15,TVM - Farm Frites,35:45 35:45,\u25bc1,11,1998
+24,149,76,+41:48,15.0,Sacchi Fabio,16,Polti,41:48 41:48,\u25bc1,11,1998
+25,187,82,+45:17,16.0,Hincapie George,17,US Postal Service,45:17 45:17,\u25bc1,11,1998
+23,199,86,+46:44,20.0,Spezialetti Alessandro,18,Riso Scotti - MG,46:44 46:44,\u25b22,11,1998
+22,159,93,+50:48,22.0,Turicchia Alain,19,Asics - CGA,50:48 50:48,\u25b23,11,1998
+25,174,104,+57:16,19.0,De Los Angeles Juan Jos\xe9,20,Kelme - Costa Blanca,57:16 57:16,\u25bc1,11,1998
+24,84,110,+58:19,18.0,O'Grady Stuart,21,GAN,58:19 58:19,\u25bc3,11,1998
+24,116,121,+1:00:38,25.0,Mazzoleni Eddy,22,Saeco Macchine da Caffe' - Cannondale,1:00:38 1:00:38,\u25b23,11,1998
+24,145,126,+1:04:36,23.0,Guidi Leonardo,23,Polti,1:04:36 1:04:36,-,11,1998
+23,82,132,+1:05:58,21.0,B\xe4ckstedt Magnus,24,GAN,1:05:58 1:05:58,\u25bc3,11,1998
+24,103,137,+1:07:34,24.0,de Jongh Steven,25,TVM - Farm Frites,1:07:34 1:07:34,\u25bc1,11,1998
+24,122,145,+1:14:17,26.0,Bouyer Franck,26,La Fran\xe7aise des Jeux,1:14:17 1:14:17,-,11,1998
+24,128,147,+1:14:42,27.0,Nazon Damien,27,La Fran\xe7aise des Jeux,1:14:42 1:14:42,-,11,1998
+24,117,149,+1:17:24,28.0,Mori Massimiliano,28,Saeco Macchine da Caffe' - Cannondale,1:17:24 1:17:24,-,11,1998
+24,1,1,+0:00,1.0,Ullrich Jan,1,Team Telekom - ARD,56:55:16 56:55:16,-,12,1998
+25,137,11,+5:59,2.0,Livingston Kevin,2,Cofidis,5:59 5:59,-,12,1998
+24,139,12,+6:16,3.0,Rinero Christophe,3,Cofidis,6:16 6:16,-,12,1998
+24,32,16,+7:12,4.0,Di Grande Giuseppe,4,Mapei - Bricobi,7:12 7:12,-,12,1998
+22,146,29,+10:50,5.0,Jaksche Jorg,5,Polti,10:50 10:50,-,12,1998
+24,161,30,+11:48,6.0,Blanco Santiago,6,Vitalicio Seguros,11:48 11:48,-,12,1998
+24,48,34,+15:36,7.0,Perez Luis,7,O.N.C.E.,15:36 15:36,-,12,1998
+25,99,35,+16:31,8.0,Verheyen Geert,8,Lotto - Mobistar,16:31 16:31,-,12,1998
+24,69,40,+21:26,9.0,Salmon Benoit,9,Casino - AG2R,21:26 21:26,-,12,1998
+24,56,43,+23:41,10.0,Moerenhout Koos,10,Rabobank ProTeam,23:41 23:41,-,12,1998
+24,176,44,+23:43,11.0,Gonzalez Santos,11,Kelme - Costa Blanca,23:43 23:43,-,12,1998
+24,175,57,+35:23,12.0,Gomez Jose Javier,12,Kelme - Costa Blanca,35:23 35:23,-,12,1998
+23,104,58,+35:45,15.0,Ivanov Serguei,13,TVM - Farm Frites,35:45 35:45,\u25b22,12,1998
+24,149,71,+41:48,16.0,Sacchi Fabio,14,Polti,41:48 41:48,\u25b22,12,1998
+25,187,76,+45:17,17.0,Hincapie George,15,US Postal Service,45:17 45:17,\u25b22,12,1998
+23,199,79,+46:44,18.0,Spezialetti Alessandro,16,Riso Scotti - MG,46:44 46:44,\u25b22,12,1998
+25,134,87,+50:08,14.0,Jalabert Nicolas,17,Cofidis,50:08 50:08,\u25bc3,12,1998
+24,98,94,+52:21,13.0,Verbrugghe Rik,18,Lotto - Mobistar,52:21 52:21,\u25bc5,12,1998
+24,84,105,+58:19,21.0,O'Grady Stuart,19,GAN,58:19 58:19,\u25b22,12,1998
+24,116,110,+1:00:38,22.0,Mazzoleni Eddy,20,Saeco Macchine da Caffe' - Cannondale,1:00:38 1:00:38,\u25b22,12,1998
+25,174,111,+1:01:09,20.0,De Los Angeles Juan Jos\xe9,21,Kelme - Costa Blanca,1:01:09 1:01:09,\u25bc1,12,1998
+24,145,120,+1:04:36,23.0,Guidi Leonardo,22,Polti,1:04:36 1:04:36,\u25b21,12,1998
+23,82,124,+1:05:58,24.0,B\xe4ckstedt Magnus,23,GAN,1:05:58 1:05:58,\u25b21,12,1998
+22,159,133,+1:09:42,19.0,Turicchia Alain,24,Asics - CGA,1:09:42 1:09:42,\u25bc5,12,1998
+24,103,138,+1:11:27,25.0,de Jongh Steven,25,TVM - Farm Frites,1:11:27 1:11:27,-,12,1998
+24,122,140,+1:14:17,26.0,Bouyer Franck,26,La Fran\xe7aise des Jeux,1:14:17 1:14:17,-,12,1998
+24,117,145,+1:17:24,28.0,Mori Massimiliano,27,Saeco Macchine da Caffe' - Cannondale,1:17:24 1:17:24,\u25b21,12,1998
+24,128,148,+1:34:38,27.0,Nazon Damien,28,La Fran\xe7aise des Jeux,1:34:38 1:34:38,\u25bc1,12,1998
+24,1,1,+0:00,1.0,Ullrich Jan,1,Team Telekom - ARD,61:30:53 61:30:53,-,13,1998
+25,137,13,+5:59,2.0,Livingston Kevin,2,Cofidis,5:59 5:59,-,13,1998
+24,139,14,+6:16,3.0,Rinero Christophe,3,Cofidis,6:16 6:16,-,13,1998
+24,32,18,+7:12,4.0,Di Grande Giuseppe,4,Mapei - Bricobi,7:12 7:12,-,13,1998
+22,146,29,+10:50,5.0,Jaksche Jorg,5,Polti,10:50 10:50,-,13,1998
+24,161,30,+11:48,6.0,Blanco Santiago,6,Vitalicio Seguros,11:48 11:48,-,13,1998
+24,48,34,+15:36,7.0,Perez Luis,7,O.N.C.E.,15:36 15:36,-,13,1998
+25,99,35,+16:31,8.0,Verheyen Geert,8,Lotto - Mobistar,16:31 16:31,-,13,1998
+24,56,38,+20:50,10.0,Moerenhout Koos,9,Rabobank ProTeam,20:50 20:50,\u25b21,13,1998
+24,69,42,+21:26,9.0,Salmon Benoit,10,Casino - AG2R,21:26 21:26,\u25bc1,13,1998
+24,176,45,+23:43,11.0,Gonzalez Santos,11,Kelme - Costa Blanca,23:43 23:43,-,13,1998
+23,104,55,+35:21,13.0,Ivanov Serguei,12,TVM - Farm Frites,35:21 35:21,\u25b21,13,1998
+24,175,56,+35:23,12.0,Gomez Jose Javier,13,Kelme - Costa Blanca,35:23 35:23,\u25bc1,13,1998
+24,149,66,+41:48,14.0,Sacchi Fabio,14,Polti,41:48 41:48,-,13,1998
+25,187,71,+45:17,15.0,Hincapie George,15,US Postal Service,45:17 45:17,-,13,1998
+23,199,75,+46:44,16.0,Spezialetti Alessandro,16,Riso Scotti - MG,46:44 46:44,-,13,1998
+25,134,78,+50:08,17.0,Jalabert Nicolas,17,Cofidis,50:08 50:08,-,13,1998
+24,98,83,+52:21,18.0,Verbrugghe Rik,18,Lotto - Mobistar,52:21 52:21,-,13,1998
+24,84,91,+58:19,19.0,O'Grady Stuart,19,GAN,58:19 58:19,-,13,1998
+23,82,109,+1:05:58,23.0,B\xe4ckstedt Magnus,20,GAN,1:05:58 1:05:58,\u25b23,13,1998
+22,159,116,+1:09:42,24.0,Turicchia Alain,21,Asics - CGA,1:09:42 1:09:42,\u25b23,13,1998
+24,116,117,+1:09:43,20.0,Mazzoleni Eddy,22,Saeco Macchine da Caffe' - Cannondale,1:09:43 1:09:43,\u25bc2,13,1998
+25,174,118,+1:10:14,21.0,De Los Angeles Juan Jos\xe9,23,Kelme - Costa Blanca,1:10:14 1:10:14,\u25bc2,13,1998
+24,145,127,+1:15:51,22.0,Guidi Leonardo,24,Polti,1:15:51 1:15:51,\u25bc2,13,1998
+24,117,129,+1:17:24,27.0,Mori Massimiliano,25,Saeco Macchine da Caffe' - Cannondale,1:17:24 1:17:24,\u25b22,13,1998
+24,103,139,+1:22:42,25.0,de Jongh Steven,26,TVM - Farm Frites,1:22:42 1:22:42,\u25bc1,13,1998
+24,122,141,+1:23:22,26.0,Bouyer Franck,27,La Fran\xe7aise des Jeux,1:23:22 1:23:22,\u25bc1,13,1998
+24,128,147,+1:45:53,28.0,Nazon Damien,28,La Fran\xe7aise des Jeux,1:45:53 1:45:53,-,13,1998
+24,1,1,+0:00,1.0,Ullrich Jan,1,Team Telekom - ARD,66:11:51 66:11:51,-,14,1998
+25,137,13,+5:59,2.0,Livingston Kevin,2,Cofidis,5:59 5:59,-,14,1998
+24,139,14,+6:16,3.0,Rinero Christophe,3,Cofidis,6:16 6:16,-,14,1998
+24,32,18,+7:12,4.0,Di Grande Giuseppe,4,Mapei - Bricobi,7:12 7:12,-,14,1998
+22,146,29,+10:50,5.0,Jaksche Jorg,5,Polti,10:50 10:50,-,14,1998
+24,161,30,+11:48,6.0,Blanco Santiago,6,Vitalicio Seguros,11:48 11:48,-,14,1998
+24,48,34,+15:36,7.0,Perez Luis,7,O.N.C.E.,15:36 15:36,-,14,1998
+25,99,35,+16:31,8.0,Verheyen Geert,8,Lotto - Mobistar,16:31 16:31,-,14,1998
+24,56,38,+20:50,9.0,Moerenhout Koos,9,Rabobank ProTeam,20:50 20:50,-,14,1998
+24,69,42,+21:26,10.0,Salmon Benoit,10,Casino - AG2R,21:26 21:26,-,14,1998
+24,176,45,+23:43,11.0,Gonzalez Santos,11,Kelme - Costa Blanca,23:43 23:43,-,14,1998
+23,104,56,+35:21,12.0,Ivanov Serguei,12,TVM - Farm Frites,35:21 35:21,-,14,1998
+24,175,57,+35:23,13.0,Gomez Jose Javier,13,Kelme - Costa Blanca,35:23 35:23,-,14,1998
+24,149,67,+41:48,14.0,Sacchi Fabio,14,Polti,41:48 41:48,-,14,1998
+25,187,71,+45:17,15.0,Hincapie George,15,US Postal Service,45:17 45:17,-,14,1998
+23,199,76,+46:44,16.0,Spezialetti Alessandro,16,Riso Scotti - MG,46:44 46:44,-,14,1998
+24,84,78,+48:14,19.0,O'Grady Stuart,17,GAN,48:14 48:14,\u25b22,14,1998
+25,134,81,+50:08,17.0,Jalabert Nicolas,18,Cofidis,50:08 50:08,\u25bc1,14,1998
+24,98,86,+52:21,18.0,Verbrugghe Rik,19,Lotto - Mobistar,52:21 52:21,\u25bc1,14,1998
+23,82,108,+1:05:58,20.0,B\xe4ckstedt Magnus,20,GAN,1:05:58 1:05:58,-,14,1998
+22,159,114,+1:09:42,21.0,Turicchia Alain,21,Asics - CGA,1:09:42 1:09:42,-,14,1998
+24,116,115,+1:09:43,22.0,Mazzoleni Eddy,22,Saeco Macchine da Caffe' - Cannondale,1:09:43 1:09:43,-,14,1998
+25,174,120,+1:10:14,23.0,De Los Angeles Juan Jos\xe9,23,Kelme - Costa Blanca,1:10:14 1:10:14,-,14,1998
+24,145,128,+1:15:51,24.0,Guidi Leonardo,24,Polti,1:15:51 1:15:51,-,14,1998
+24,117,130,+1:17:24,25.0,Mori Massimiliano,25,Saeco Macchine da Caffe' - Cannondale,1:17:24 1:17:24,-,14,1998
+24,122,138,+1:23:22,27.0,Bouyer Franck,26,La Fran\xe7aise des Jeux,1:23:22 1:23:22,\u25b21,14,1998
+24,103,145,+1:28:58,26.0,de Jongh Steven,27,TVM - Farm Frites,1:28:58 1:28:58,\u25bc1,14,1998
+24,128,147,+1:45:53,28.0,Nazon Damien,28,La Fran\xe7aise des Jeux,1:45:53 1:45:53,-,14,1998
+24,1,4,+5:56,1.0,Ullrich Jan,1,Team Telekom - ARD,72:04:33 72:04:33,-,15,1998
+24,139,5,+6:12,3.0,Rinero Christophe,2,Cofidis,0:16 0:16,\u25b21,15,1998
+24,32,16,+10:51,4.0,Di Grande Giuseppe,3,Mapei - Bricobi,4:55 4:55,\u25b21,15,1998
+24,161,24,+16:23,6.0,Blanco Santiago,4,Vitalicio Seguros,10:27 10:27,\u25b22,15,1998
+22,146,26,+19:47,5.0,Jaksche Jorg,5,Polti,13:51 13:51,-,15,1998
+25,99,27,+21:06,8.0,Verheyen Geert,6,Lotto - Mobistar,15:10 15:10,\u25b22,15,1998
+25,137,29,+21:42,2.0,Livingston Kevin,7,Cofidis,15:46 15:46,\u25bc5,15,1998
+24,69,36,+33:12,10.0,Salmon Benoit,8,Casino - AG2R,27:16 27:16,\u25b22,15,1998
+24,48,38,+38:57,7.0,Perez Luis,9,O.N.C.E.,33:01 33:01,\u25bc2,15,1998
+24,176,46,+48:51,11.0,Gonzalez Santos,10,Kelme - Costa Blanca,42:55 42:55,\u25b21,15,1998
+24,56,51,+53:40,9.0,Moerenhout Koos,11,Rabobank ProTeam,47:44 47:44,\u25bc2,15,1998
+25,187,64,+1:06:46,15.0,Hincapie George,12,US Postal Service,1:00:50 1:00:50,\u25b23,15,1998
+23,104,65,+1:07:31,12.0,Ivanov Serguei,13,TVM - Farm Frites,1:01:35 1:01:35,\u25bc1,15,1998
+24,175,67,+1:10:19,13.0,Gomez Jose Javier,14,Kelme - Costa Blanca,1:04:23 1:04:23,\u25bc1,15,1998
+24,149,73,+1:14:38,14.0,Sacchi Fabio,15,Polti,1:08:42 1:08:42,\u25bc1,15,1998
+23,199,82,+1:21:40,16.0,Spezialetti Alessandro,16,Riso Scotti - MG,1:15:44 1:15:44,-,15,1998
+25,134,86,+1:22:58,18.0,Jalabert Nicolas,17,Cofidis,1:17:02 1:17:02,\u25b21,15,1998
+24,84,88,+1:23:10,17.0,O'Grady Stuart,18,GAN,1:17:14 1:17:14,\u25bc1,15,1998
+24,98,91,+1:25:11,19.0,Verbrugghe Rik,19,Lotto - Mobistar,1:19:15 1:19:15,-,15,1998
+23,82,111,+1:40:54,20.0,B\xe4ckstedt Magnus,20,GAN,1:34:58 1:34:58,-,15,1998
+22,159,113,+1:42:32,21.0,Turicchia Alain,21,Asics - CGA,1:36:36 1:36:36,-,15,1998
+24,116,114,+1:42:33,22.0,Mazzoleni Eddy,22,Saeco Macchine da Caffe' - Cannondale,1:36:37 1:36:37,-,15,1998
+24,117,127,+1:52:20,25.0,Mori Massimiliano,23,Saeco Macchine da Caffe' - Cannondale,1:46:24 1:46:24,\u25b22,15,1998
+24,122,133,+1:58:18,26.0,Bouyer Franck,24,La Fran\xe7aise des Jeux,1:52:22 1:52:22,\u25b22,15,1998
+24,103,139,+2:03:54,27.0,de Jongh Steven,25,TVM - Farm Frites,1:57:58 1:57:58,\u25b22,15,1998
+24,128,140,+2:20:49,28.0,Nazon Damien,26,La Fran\xe7aise des Jeux,2:14:53 2:14:53,\u25b22,15,1998
+24,1,3,+5:56,1.0,Ullrich Jan,1,Team Telekom - ARD,77:44:20 77:44:20,-,16,1998
+24,139,5,+8:01,2.0,Rinero Christophe,2,Cofidis,2:05 2:05,-,16,1998
+24,32,15,+15:13,3.0,Di Grande Giuseppe,3,Mapei - Bricobi,9:17 9:17,-,16,1998
+24,161,22,+25:11,4.0,Blanco Santiago,4,Vitalicio Seguros,19:15 19:15,-,16,1998
+22,146,24,+28:35,5.0,Jaksche Jorg,5,Polti,22:39 22:39,-,16,1998
+25,137,25,+30:30,7.0,Livingston Kevin,6,Cofidis,24:34 24:34,\u25b21,16,1998
+25,99,28,+32:09,6.0,Verheyen Geert,7,Lotto - Mobistar,26:13 26:13,\u25bc1,16,1998
+24,69,33,+37:37,8.0,Salmon Benoit,8,Casino - AG2R,31:41 31:41,-,16,1998
+24,48,39,+50:00,9.0,Perez Luis,9,O.N.C.E.,44:04 44:04,-,16,1998
+24,176,44,+1:07:59,10.0,Gonzalez Santos,10,Kelme - Costa Blanca,1:02:03 1:02:03,-,16,1998
+24,56,55,+1:16:57,11.0,Moerenhout Koos,11,Rabobank ProTeam,1:11:01 1:11:01,-,16,1998
+24,175,64,+1:28:28,14.0,Gomez Jose Javier,12,Kelme - Costa Blanca,1:22:32 1:22:32,\u25b22,16,1998
+25,187,70,+1:35:19,12.0,Hincapie George,13,US Postal Service,1:29:23 1:29:23,\u25bc1,16,1998
+25,134,71,+1:35:39,17.0,Jalabert Nicolas,14,Cofidis,1:29:43 1:29:43,\u25b23,16,1998
+23,104,72,+1:36:04,13.0,Ivanov Serguei,15,TVM - Farm Frites,1:30:08 1:30:08,\u25bc2,16,1998
+24,149,76,+1:43:11,15.0,Sacchi Fabio,16,Polti,1:37:15 1:37:15,\u25bc1,16,1998
+24,98,87,+1:53:44,19.0,Verbrugghe Rik,17,Lotto - Mobistar,1:47:48 1:47:48,\u25b22,16,1998
+23,199,91,+1:56:47,16.0,Spezialetti Alessandro,18,Riso Scotti - MG,1:50:51 1:50:51,\u25bc2,16,1998
+24,84,93,+1:58:17,18.0,O'Grady Stuart,19,GAN,1:52:21 1:52:21,\u25bc1,16,1998
+22,159,107,+2:11:05,21.0,Turicchia Alain,20,Asics - CGA,2:05:09 2:05:09,\u25b21,16,1998
+24,116,108,+2:11:06,22.0,Mazzoleni Eddy,21,Saeco Macchine da Caffe' - Cannondale,2:05:10 2:05:10,\u25b21,16,1998
+23,82,116,+2:16:01,20.0,B\xe4ckstedt Magnus,22,GAN,2:10:05 2:10:05,\u25bc2,16,1998
+24,117,118,+2:20:53,23.0,Mori Massimiliano,23,Saeco Macchine da Caffe' - Cannondale,2:14:57 2:14:57,-,16,1998
+24,122,124,+2:26:51,24.0,Bouyer Franck,24,La Fran\xe7aise des Jeux,2:20:55 2:20:55,-,16,1998
+24,103,133,+2:39:01,25.0,de Jongh Steven,25,TVM - Farm Frites,2:33:05 2:33:05,-,16,1998
+24,128,134,+2:55:56,26.0,Nazon Damien,26,La Fran\xe7aise des Jeux,2:50:00 2:50:00,-,16,1998
+24,1,3,+5:56,1.0,Ullrich Jan,1,Team Telekom - ARD,82:37:47 82:37:47,-,18,1998
+24,139,4,+8:01,2.0,Rinero Christophe,2,Cofidis,2:05 2:05,-,18,1998
+24,32,10,+15:13,3.0,Di Grande Giuseppe,3,Mapei - Bricobi,9:17 9:17,-,18,1998
+25,137,17,+30:30,6.0,Livingston Kevin,4,Cofidis,24:34 24:34,\u25b22,18,1998
+22,146,19,+32:43,5.0,Jaksche Jorg,5,Polti,26:47 26:47,-,18,1998
+25,99,24,+36:17,7.0,Verheyen Geert,6,Lotto - Mobistar,30:21 30:21,\u25b21,18,1998
+24,69,27,+47:31,8.0,Salmon Benoit,7,Casino - AG2R,41:35 41:35,\u25b21,18,1998
+24,56,44,+1:25:46,11.0,Moerenhout Koos,8,Rabobank ProTeam,1:19:50 1:19:50,\u25b23,18,1998
+25,187,49,+1:35:19,13.0,Hincapie George,9,US Postal Service,1:29:23 1:29:23,\u25b24,18,1998
+25,134,51,+1:35:39,14.0,Jalabert Nicolas,10,Cofidis,1:29:43 1:29:43,\u25b24,18,1998
+23,104,53,+1:40:12,15.0,Ivanov Serguei,11,TVM - Farm Frites,1:34:16 1:34:16,\u25b24,18,1998
+24,149,55,+1:43:11,16.0,Sacchi Fabio,12,Polti,1:37:15 1:37:15,\u25b24,18,1998
+24,84,64,+1:58:17,19.0,O'Grady Stuart,13,GAN,1:52:21 1:52:21,\u25b26,18,1998
+24,98,67,+2:03:38,17.0,Verbrugghe Rik,14,Lotto - Mobistar,1:57:42 1:57:42,\u25b23,18,1998
+22,159,83,+2:19:54,20.0,Turicchia Alain,15,Asics - CGA,2:13:58 2:13:58,\u25b25,18,1998
+25,116,84,+2:19:55,21.0,Mazzoleni Eddy,16,Saeco Macchine da Caffe' - Cannondale,2:13:59 2:13:59,\u25b25,18,1998
+23,82,85,+2:20:09,22.0,B\xe4ckstedt Magnus,17,GAN,2:14:13 2:14:13,\u25b25,18,1998
+24,117,91,+2:30:47,23.0,Mori Massimiliano,18,Saeco Macchine da Caffe' - Cannondale,2:24:51 2:24:51,\u25b25,18,1998
+24,122,95,+2:36:45,24.0,Bouyer Franck,19,La Fran\xe7aise des Jeux,2:30:49 2:30:49,\u25b25,18,1998
+24,103,100,+2:47:50,25.0,de Jongh Steven,20,TVM - Farm Frites,2:41:54 2:41:54,\u25b25,18,1998
+24,128,101,+3:05:50,26.0,Nazon Damien,21,La Fran\xe7aise des Jeux,2:59:54 2:59:54,\u25b25,18,1998
+24,1,3,+5:56,1.0,Ullrich Jan,1,Team Telekom - ARD,88:04:39 88:04:39,-,19,1998
+24,139,4,+8:01,2.0,Rinero Christophe,2,Cofidis,2:05 2:05,-,19,1998
+24,32,10,+15:13,3.0,Di Grande Giuseppe,3,Mapei - Bricobi,9:17 9:17,-,19,1998
+25,137,17,+30:30,4.0,Livingston Kevin,4,Cofidis,24:34 24:34,-,19,1998
+22,146,19,+32:43,5.0,Jaksche Jorg,5,Polti,26:47 26:47,-,19,1998
+25,99,24,+36:17,6.0,Verheyen Geert,6,Lotto - Mobistar,30:21 30:21,-,19,1998
+24,69,28,+47:31,7.0,Salmon Benoit,7,Casino - AG2R,41:35 41:35,-,19,1998
+24,56,45,+1:25:46,8.0,Moerenhout Koos,8,Rabobank ProTeam,1:19:50 1:19:50,-,19,1998
+24,149,46,+1:26:58,12.0,Sacchi Fabio,9,Polti,1:21:02 1:21:02,\u25b23,19,1998
+25,187,50,+1:35:19,9.0,Hincapie George,10,US Postal Service,1:29:23 1:29:23,\u25bc1,19,1998
+25,134,52,+1:35:39,10.0,Jalabert Nicolas,11,Cofidis,1:29:43 1:29:43,\u25bc1,19,1998
+24,84,54,+1:42:04,13.0,O'Grady Stuart,12,GAN,1:36:08 1:36:08,\u25b21,19,1998
+25,116,69,+2:03:17,16.0,Mazzoleni Eddy,13,Saeco Macchine da Caffe' - Cannondale,1:57:21 1:57:21,\u25b23,19,1998
+23,82,70,+2:03:31,17.0,B\xe4ckstedt Magnus,14,GAN,1:57:35 1:57:35,\u25b23,19,1998
+24,98,71,+2:03:38,14.0,Verbrugghe Rik,15,Lotto - Mobistar,1:57:42 1:57:42,\u25bc1,19,1998
+22,159,72,+2:03:41,15.0,Turicchia Alain,16,Asics - CGA,1:57:45 1:57:45,\u25bc1,19,1998
+24,117,91,+2:30:47,18.0,Mori Massimiliano,17,Saeco Macchine da Caffe' - Cannondale,2:24:51 2:24:51,\u25b21,19,1998
+24,122,94,+2:36:45,19.0,Bouyer Franck,18,La Fran\xe7aise des Jeux,2:30:49 2:30:49,\u25b21,19,1998
+24,128,96,+3:05:50,21.0,Nazon Damien,19,La Fran\xe7aise des Jeux,2:59:54 2:59:54,\u25b22,19,1998
+24,1,2,+3:21,1.0,Ullrich Jan,1,Team Telekom - ARD,89:08:31 89:08:31,-,20,1998
+24,139,4,+9:16,2.0,Rinero Christophe,2,Cofidis,5:55 5:55,-,20,1998
+24,32,9,+17:35,3.0,Di Grande Giuseppe,3,Mapei - Bricobi,14:14 14:14,-,20,1998
+25,137,17,+34:03,4.0,Livingston Kevin,4,Cofidis,30:42 30:42,-,20,1998
+22,146,18,+35:41,5.0,Jaksche Jorg,5,Polti,32:20 32:20,-,20,1998
+25,99,23,+41:23,6.0,Verheyen Geert,6,Lotto - Mobistar,38:02 38:02,-,20,1998
+24,69,28,+51:18,7.0,Salmon Benoit,7,Casino - AG2R,47:57 47:57,-,20,1998
+24,56,44,+1:29:37,8.0,Moerenhout Koos,8,Rabobank ProTeam,1:26:16 1:26:16,-,20,1998
+24,149,47,+1:31:53,9.0,Sacchi Fabio,9,Polti,1:28:32 1:28:32,-,20,1998
+25,134,49,+1:38:45,11.0,Jalabert Nicolas,10,Cofidis,1:35:24 1:35:24,\u25b21,20,1998
+25,187,53,+1:40:39,10.0,Hincapie George,11,US Postal Service,1:37:18 1:37:18,\u25bc1,20,1998
+24,84,54,+1:46:04,12.0,O'Grady Stuart,12,GAN,1:42:43 1:42:43,-,20,1998
+24,98,69,+2:06:17,15.0,Verbrugghe Rik,13,Lotto - Mobistar,2:02:56 2:02:56,\u25b22,20,1998
+23,82,70,+2:08:30,14.0,B\xe4ckstedt Magnus,14,GAN,2:05:09 2:05:09,-,20,1998
+25,116,71,+2:10:19,13.0,Mazzoleni Eddy,15,Saeco Macchine da Caffe' - Cannondale,2:06:58 2:06:58,\u25bc2,20,1998
+22,159,74,+2:14:12,16.0,Turicchia Alain,16,Asics - CGA,2:10:51 2:10:51,-,20,1998
+24,117,91,+2:38:12,17.0,Mori Massimiliano,17,Saeco Macchine da Caffe' - Cannondale,2:34:51 2:34:51,-,20,1998
+24,122,94,+2:43:45,18.0,Bouyer Franck,18,La Fran\xe7aise des Jeux,2:40:24 2:40:24,-,20,1998
+24,128,96,+3:12:15,19.0,Nazon Damien,19,La Fran\xe7aise des Jeux,3:08:54 3:08:54,-,20,1998

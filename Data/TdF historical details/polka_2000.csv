@@ -1,0 +1,729 @@
+Age,BIB,Pnt,Prev,Rider,Rnk,Team,\u25bc\u25b2,stage,year
+32,109,5.0,,W\xfcst Marcel,1,Festina - Lotus,,1,2000
+33,2,3.0,,Andreu Frankie,2,US Postal Service,,1,2000
+31,199,1.0,,Simon Fran\xe7ois,3,Bonjour,,1,2000
+32,109,5.0,1.0,W\xfcst Marcel,1,Festina - Lotus,-,2,2000
+33,2,3.0,2.0,Andreu Frankie,2,US Postal Service,-,2,2000
+31,199,1.0,3.0,Simon Fran\xe7ois,3,Bonjour,-,2,2000
+32,109,5.0,1.0,W\xfcst Marcel,1,Festina - Lotus,-,3,2000
+33,2,3.0,2.0,Andreu Frankie,2,US Postal Service,-,3,2000
+31,199,1.0,3.0,Simon Fran\xe7ois,3,Bonjour,-,3,2000
+26,33,13.0,,Bettini Paolo,1,Mapei - Quickstep,-,5,2000
+26,134,10.0,,Demarbaix Sebastien,2,Lotto - Adecco,-,5,2000
+26,49,8.0,,Zberg Markus,3,Rabobank ProTeam,-,5,2000
+30,151,5.0,,Virenque Richard,4,Polti,-,5,2000
+33,135,5.0,,Durand Jacky,5,Lotto - Adecco,-,5,2000
+32,109,5.0,1.0,W\xfcst Marcel,6,Festina - Lotus,\u25bc5,5,2000
+31,199,4.0,3.0,Simon Fran\xe7ois,7,Bonjour,\u25bc4,5,2000
+29,43,4.0,,Dekker Erik,8,Rabobank ProTeam,-,5,2000
+28,179,4.0,,Voigt Jens,9,Cr\xe9dit Agricole,-,5,2000
+33,2,3.0,2.0,Andreu Frankie,10,US Postal Service,\u25bc8,5,2000
+26,67,1.0,,Vinokourov Alexandre,11,Team Telekom,-,5,2000
+26,33,13.0,1.0,Bettini Paolo,1,Mapei - Quickstep,-,6,2000
+26,134,10.0,2.0,Demarbaix Sebastien,2,Lotto - Adecco,-,6,2000
+26,49,8.0,3.0,Zberg Markus,3,Rabobank ProTeam,-,6,2000
+30,151,5.0,4.0,Virenque Richard,4,Polti,-,6,2000
+33,135,5.0,5.0,Durand Jacky,5,Lotto - Adecco,-,6,2000
+32,109,5.0,6.0,W\xfcst Marcel,6,Festina - Lotus,-,6,2000
+31,199,4.0,7.0,Simon Fran\xe7ois,7,Bonjour,-,6,2000
+29,43,4.0,8.0,Dekker Erik,8,Rabobank ProTeam,-,6,2000
+28,179,4.0,9.0,Voigt Jens,9,Cr\xe9dit Agricole,-,6,2000
+33,2,3.0,10.0,Andreu Frankie,10,US Postal Service,-,6,2000
+26,67,1.0,11.0,Vinokourov Alexandre,11,Team Telekom,-,6,2000
+26,33,16.0,1.0,Bettini Paolo,1,Mapei - Quickstep,-,7,2000
+26,134,10.0,2.0,Demarbaix Sebastien,2,Lotto - Adecco,-,7,2000
+26,49,8.0,3.0,Zberg Markus,3,Rabobank ProTeam,-,7,2000
+30,82,5.0,,Agnolutto Christophe,4,AG2R Prevoyance,-,7,2000
+33,135,5.0,5.0,Durand Jacky,5,Lotto - Adecco,-,7,2000
+32,109,5.0,6.0,W\xfcst Marcel,6,Festina - Lotus,-,7,2000
+30,151,5.0,4.0,Virenque Richard,7,Polti,\u25bc3,7,2000
+29,43,4.0,8.0,Dekker Erik,8,Rabobank ProTeam,-,7,2000
+28,179,4.0,9.0,Voigt Jens,9,Cr\xe9dit Agricole,-,7,2000
+31,199,4.0,7.0,Simon Fran\xe7ois,10,Bonjour,\u25bc3,7,2000
+33,2,3.0,10.0,Andreu Frankie,11,US Postal Service,\u25bc1,7,2000
+33,62,1.0,,Bolts Udo,12,Team Telekom,-,7,2000
+26,67,1.0,11.0,Vinokourov Alexandre,13,Team Telekom,\u25bc2,7,2000
+29,43,29.0,8.0,Dekker Erik,1,Rabobank ProTeam,\u25b27,8,2000
+26,33,23.0,1.0,Bettini Paolo,2,Mapei - Quickstep,\u25bc1,8,2000
+26,134,10.0,2.0,Demarbaix Sebastien,3,Lotto - Adecco,\u25bc1,8,2000
+26,49,8.0,3.0,Zberg Markus,4,Rabobank ProTeam,\u25bc1,8,2000
+32,159,6.0,,Voskamp Bart,5,Polti,-,8,2000
+30,82,5.0,4.0,Agnolutto Christophe,6,AG2R Prevoyance,\u25bc2,8,2000
+33,135,5.0,5.0,Durand Jacky,7,Lotto - Adecco,\u25bc2,8,2000
+32,109,5.0,6.0,W\xfcst Marcel,8,Festina - Lotus,\u25bc2,8,2000
+26,87,5.0,,Kivilev Andrei,9,AG2R Prevoyance,-,8,2000
+30,151,5.0,7.0,Virenque Richard,10,Polti,\u25bc3,8,2000
+28,179,4.0,9.0,Voigt Jens,11,Cr\xe9dit Agricole,\u25bc2,8,2000
+31,199,4.0,10.0,Simon Fran\xe7ois,12,Bonjour,\u25bc2,8,2000
+30,145,3.0,,Jan Xavier,13,La Fran\xe7aise des Jeux,-,8,2000
+33,2,3.0,11.0,Andreu Frankie,14,US Postal Service,\u25bc3,8,2000
+27,22,3.0,,Botero Santiago,15,Kelme - Costa Blanca,-,8,2000
+33,106,2.0,,Lino Pascal,16,Festina - Lotus,-,8,2000
+29,198,2.0,,Rous Didier,17,Bonjour,-,8,2000
+33,62,1.0,12.0,Bolts Udo,18,Team Telekom,\u25bc6,8,2000
+26,67,1.0,13.0,Vinokourov Alexandre,19,Team Telekom,\u25bc6,8,2000
+29,43,29.0,1.0,Dekker Erik,1,Rabobank ProTeam,-,9,2000
+26,33,28.0,2.0,Bettini Paolo,2,Mapei - Quickstep,-,9,2000
+26,134,10.0,3.0,Demarbaix Sebastien,3,Lotto - Adecco,-,9,2000
+26,49,8.0,4.0,Zberg Markus,4,Rabobank ProTeam,-,9,2000
+32,159,6.0,5.0,Voskamp Bart,5,Polti,-,9,2000
+30,82,5.0,6.0,Agnolutto Christophe,6,AG2R Prevoyance,-,9,2000
+33,135,5.0,7.0,Durand Jacky,7,Lotto - Adecco,-,9,2000
+32,109,5.0,8.0,W\xfcst Marcel,8,Festina - Lotus,-,9,2000
+29,198,5.0,17.0,Rous Didier,9,Bonjour,\u25b28,9,2000
+26,87,5.0,9.0,Kivilev Andrei,10,AG2R Prevoyance,\u25bc1,9,2000
+30,151,5.0,10.0,Virenque Richard,11,Polti,\u25bc1,9,2000
+28,179,4.0,11.0,Voigt Jens,12,Cr\xe9dit Agricole,\u25bc1,9,2000
+31,199,4.0,12.0,Simon Fran\xe7ois,13,Bonjour,\u25bc1,9,2000
+30,145,3.0,13.0,Jan Xavier,14,La Fran\xe7aise des Jeux,\u25bc1,9,2000
+33,2,3.0,14.0,Andreu Frankie,15,US Postal Service,\u25bc1,9,2000
+27,22,3.0,15.0,Botero Santiago,16,Kelme - Costa Blanca,\u25bc1,9,2000
+33,106,2.0,16.0,Lino Pascal,17,Festina - Lotus,\u25bc1,9,2000
+27,139,1.0,,Verheyen Geert,18,Lotto - Adecco,-,9,2000
+33,62,1.0,18.0,Bolts Udo,19,Team Telekom,\u25bc1,9,2000
+26,67,1.0,19.0,Vinokourov Alexandre,20,Team Telekom,\u25bc1,9,2000
+25,26,140.0,,Otxoa Javier,1,Kelme - Costa Blanca,-,10,2000
+28,125,83.0,,Mattan Nico,2,Cofidis,-,10,2000
+30,151,65.0,11.0,Virenque Richard,3,Polti,\u25b28,10,2000
+24,16,56.0,,Mancebo Francisco,4,Banesto,-,10,2000
+27,22,51.0,16.0,Botero Santiago,5,Kelme - Costa Blanca,\u25b211,10,2000
+29,32,49.0,,Beltran Manuel,6,Mapei - Quickstep,-,10,2000
+29,15,42.0,,Jimenez Jose Maria,7,Banesto,-,10,2000
+33,135,32.0,7.0,Durand Jacky,9,Lotto - Adecco,\u25bc2,10,2000
+32,21,32.0,,Escartin Fernando,10,Kelme - Costa Blanca,-,10,2000
+26,24,32.0,,Heras Roberto,11,Kelme - Costa Blanca,-,10,2000
+29,43,29.0,1.0,Dekker Erik,12,Rabobank ProTeam,\u25bc11,10,2000
+26,102,29.0,,Beloki Joseba,13,Festina - Lotus,-,10,2000
+26,33,28.0,2.0,Bettini Paolo,14,Mapei - Quickstep,\u25bc12,10,2000
+25,92,24.0,,Atienza Daniel,15,Saeco,-,10,2000
+32,168,21.0,,Sandst\xf8d Michael,16,MemoryCard - Jack & Jones,-,10,2000
+35,156,16.0,,Herv\xe9 Pascal,17,Polti,-,10,2000
+29,101,14.0,,Moreau Christophe,18,Festina - Lotus,-,10,2000
+26,134,10.0,3.0,Demarbaix Sebastien,19,Lotto - Adecco,\u25bc16,10,2000
+32,11,10.0,,Z\xfclle Alex,20,Banesto,-,10,2000
+26,49,8.0,4.0,Zberg Markus,21,Rabobank ProTeam,\u25bc17,10,2000
+27,144,7.0,,H\xf8j Frank,22,La Fran\xe7aise des Jeux,-,10,2000
+32,159,6.0,5.0,Voskamp Bart,23,Polti,\u25bc18,10,2000
+28,137,6.0,,van de Wouwer Kurt,24,Lotto - Adecco,-,10,2000
+29,17,6.0,,Odriozola Jon,25,Banesto,-,10,2000
+30,82,5.0,6.0,Agnolutto Christophe,26,AG2R Prevoyance,\u25bc20,10,2000
+32,109,5.0,8.0,W\xfcst Marcel,27,Festina - Lotus,\u25bc19,10,2000
+29,198,5.0,9.0,Rous Didier,28,Bonjour,\u25bc19,10,2000
+26,87,5.0,10.0,Kivilev Andrei,29,AG2R Prevoyance,\u25bc19,10,2000
+26,61,5.0,,Ullrich Jan,30,Team Telekom,-,10,2000
+28,179,4.0,12.0,Voigt Jens,31,Cr\xe9dit Agricole,\u25bc19,10,2000
+31,199,4.0,13.0,Simon Fran\xe7ois,32,Bonjour,\u25bc19,10,2000
+30,145,3.0,14.0,Jan Xavier,33,La Fran\xe7aise des Jeux,\u25bc19,10,2000
+33,2,3.0,15.0,Andreu Frankie,34,US Postal Service,\u25bc19,10,2000
+30,31,3.0,,Bartoli Michele,35,Mapei - Quickstep,-,10,2000
+33,106,2.0,17.0,Lino Pascal,36,Festina - Lotus,\u25bc19,10,2000
+27,139,2.0,18.0,Verheyen Geert,37,Lotto - Adecco,\u25bc19,10,2000
+25,132,2.0,,Aerts Mario,38,Lotto - Adecco,-,10,2000
+33,62,1.0,19.0,Bolts Udo,39,Team Telekom,\u25bc20,10,2000
+26,67,1.0,20.0,Vinokourov Alexandre,40,Team Telekom,\u25bc20,10,2000
+25,26,148.0,1.0,Otxoa Javier,1,Kelme - Costa Blanca,-,11,2000
+27,22,84.0,5.0,Botero Santiago,2,Kelme - Costa Blanca,\u25b23,11,2000
+28,125,83.0,2.0,Mattan Nico,3,Cofidis,\u25bc1,11,2000
+30,151,72.0,3.0,Virenque Richard,4,Polti,\u25bc1,11,2000
+29,43,58.0,12.0,Dekker Erik,5,Rabobank ProTeam,\u25b27,11,2000
+24,16,56.0,4.0,Mancebo Francisco,6,Banesto,\u25bc2,11,2000
+29,32,49.0,6.0,Beltran Manuel,7,Mapei - Quickstep,\u25bc1,11,2000
+29,15,42.0,7.0,Jimenez Jose Maria,8,Banesto,\u25bc1,11,2000
+33,135,32.0,9.0,Durand Jacky,10,Lotto - Adecco,\u25bc1,11,2000
+32,21,32.0,10.0,Escartin Fernando,11,Kelme - Costa Blanca,\u25bc1,11,2000
+26,24,32.0,11.0,Heras Roberto,12,Kelme - Costa Blanca,\u25bc1,11,2000
+26,102,29.0,13.0,Beloki Joseba,13,Festina - Lotus,-,11,2000
+26,33,28.0,14.0,Bettini Paolo,14,Mapei - Quickstep,-,11,2000
+25,92,24.0,15.0,Atienza Daniel,15,Saeco,-,11,2000
+32,168,21.0,16.0,Sandst\xf8d Michael,16,MemoryCard - Jack & Jones,-,11,2000
+35,156,16.0,17.0,Herv\xe9 Pascal,17,Polti,-,11,2000
+29,101,14.0,18.0,Moreau Christophe,18,Festina - Lotus,-,11,2000
+26,134,10.0,19.0,Demarbaix Sebastien,19,Lotto - Adecco,-,11,2000
+32,11,10.0,20.0,Z\xfclle Alex,20,Banesto,-,11,2000
+26,49,8.0,21.0,Zberg Markus,21,Rabobank ProTeam,-,11,2000
+27,144,7.0,22.0,H\xf8j Frank,22,La Fran\xe7aise des Jeux,-,11,2000
+32,159,6.0,23.0,Voskamp Bart,23,Polti,-,11,2000
+28,137,6.0,24.0,van de Wouwer Kurt,24,Lotto - Adecco,-,11,2000
+29,17,6.0,25.0,Odriozola Jon,25,Banesto,-,11,2000
+30,82,5.0,26.0,Agnolutto Christophe,26,AG2R Prevoyance,-,11,2000
+32,109,5.0,27.0,W\xfcst Marcel,27,Festina - Lotus,-,11,2000
+29,198,5.0,28.0,Rous Didier,28,Bonjour,-,11,2000
+25,131,5.0,,Verbrugghe Rik,29,Lotto - Adecco,-,11,2000
+26,87,5.0,29.0,Kivilev Andrei,30,AG2R Prevoyance,\u25bc1,11,2000
+26,61,5.0,30.0,Ullrich Jan,31,Team Telekom,\u25bc1,11,2000
+28,179,4.0,31.0,Voigt Jens,32,Cr\xe9dit Agricole,\u25bc1,11,2000
+31,199,4.0,32.0,Simon Fran\xe7ois,33,Bonjour,\u25bc1,11,2000
+30,145,3.0,33.0,Jan Xavier,34,La Fran\xe7aise des Jeux,\u25bc1,11,2000
+33,2,3.0,34.0,Andreu Frankie,35,US Postal Service,\u25bc1,11,2000
+23,127,3.0,,Millar David,36,Cofidis,-,11,2000
+30,31,3.0,35.0,Bartoli Michele,37,Mapei - Quickstep,\u25bc2,11,2000
+33,106,2.0,36.0,Lino Pascal,38,Festina - Lotus,\u25bc2,11,2000
+27,139,2.0,37.0,Verheyen Geert,39,Lotto - Adecco,\u25bc2,11,2000
+25,132,2.0,38.0,Aerts Mario,40,Lotto - Adecco,\u25bc2,11,2000
+27,14,1.0,,Garcia Jose Vicente,41,Banesto,-,11,2000
+33,62,1.0,39.0,Bolts Udo,42,Team Telekom,\u25bc3,11,2000
+26,53,1.0,,Etxebarria David,43,O.N.C.E. - Deutsche Bank,-,11,2000
+27,7,1.0,,Kjaergaard Steffen,44,US Postal Service,-,11,2000
+26,67,1.0,40.0,Vinokourov Alexandre,45,Team Telekom,\u25bc5,11,2000
+25,26,153.0,1.0,Otxoa Javier,1,Kelme - Costa Blanca,-,12,2000
+27,22,151.0,2.0,Botero Santiago,2,Kelme - Costa Blanca,-,12,2000
+28,125,138.0,3.0,Mattan Nico,3,Cofidis,-,12,2000
+30,151,89.0,4.0,Virenque Richard,4,Polti,-,12,2000
+24,16,70.0,6.0,Mancebo Francisco,6,Banesto,-,12,2000
+29,32,61.0,7.0,Beltran Manuel,7,Mapei - Quickstep,-,12,2000
+26,102,59.0,13.0,Beloki Joseba,8,Festina - Lotus,\u25b25,12,2000
+29,43,58.0,5.0,Dekker Erik,9,Rabobank ProTeam,\u25bc4,12,2000
+30,82,52.0,26.0,Agnolutto Christophe,10,AG2R Prevoyance,\u25b216,12,2000
+26,24,50.0,12.0,Heras Roberto,11,Kelme - Costa Blanca,\u25b21,12,2000
+36,156,45.0,17.0,Herv\xe9 Pascal,12,Polti,\u25b25,12,2000
+29,15,42.0,8.0,Jimenez Jose Maria,13,Banesto,\u25bc5,12,2000
+30,71,40.0,,Pantani Marco,14,Mercatone Uno - Albacom,-,12,2000
+33,135,32.0,10.0,Durand Jacky,15,Lotto - Adecco,\u25bc5,12,2000
+32,21,32.0,11.0,Escartin Fernando,16,Kelme - Costa Blanca,\u25bc5,12,2000
+26,61,31.0,31.0,Ullrich Jan,17,Team Telekom,\u25b214,12,2000
+26,33,28.0,14.0,Bettini Paolo,18,Mapei - Quickstep,\u25bc4,12,2000
+25,92,26.0,15.0,Atienza Daniel,19,Saeco,\u25bc4,12,2000
+29,101,24.0,18.0,Moreau Christophe,20,Festina - Lotus,\u25bc2,12,2000
+26,67,23.0,45.0,Vinokourov Alexandre,21,Team Telekom,\u25b224,12,2000
+32,168,21.0,16.0,Sandst\xf8d Michael,22,MemoryCard - Jack & Jones,\u25bc6,12,2000
+26,87,19.0,30.0,Kivilev Andrei,23,AG2R Prevoyance,\u25b27,12,2000
+27,55,15.0,,Jalabert Nicolas,24,O.N.C.E. - Deutsche Bank,-,12,2000
+28,137,14.0,24.0,van de Wouwer Kurt,25,Lotto - Adecco,\u25bc1,12,2000
+27,14,13.0,41.0,Garcia Jose Vicente,26,Banesto,\u25b215,12,2000
+26,134,10.0,19.0,Demarbaix Sebastien,27,Lotto - Adecco,\u25bc8,12,2000
+32,11,10.0,20.0,Z\xfclle Alex,28,Banesto,\u25bc8,12,2000
+26,49,8.0,21.0,Zberg Markus,29,Rabobank ProTeam,\u25bc8,12,2000
+27,144,7.0,22.0,H\xf8j Frank,30,La Fran\xe7aise des Jeux,\u25bc8,12,2000
+32,159,6.0,23.0,Voskamp Bart,31,Polti,\u25bc8,12,2000
+29,12,6.0,,Arrieta Jose Luis,32,Banesto,-,12,2000
+31,51,6.0,,Jalabert Laurent,33,O.N.C.E. - Deutsche Bank,-,12,2000
+29,17,6.0,25.0,Odriozola Jon,34,Banesto,\u25bc9,12,2000
+29,198,5.0,28.0,Rous Didier,35,Bonjour,\u25bc7,12,2000
+25,131,5.0,29.0,Verbrugghe Rik,36,Lotto - Adecco,\u25bc7,12,2000
+28,179,4.0,32.0,Voigt Jens,37,Cr\xe9dit Agricole,\u25bc5,12,2000
+31,199,4.0,33.0,Simon Fran\xe7ois,38,Bonjour,\u25bc5,12,2000
+27,35,4.0,,Nardello Daniele,39,Mapei - Quickstep,-,12,2000
+30,145,3.0,34.0,Jan Xavier,40,La Fran\xe7aise des Jeux,\u25bc6,12,2000
+33,2,3.0,35.0,Andreu Frankie,41,US Postal Service,\u25bc6,12,2000
+23,127,3.0,36.0,Millar David,42,Cofidis,\u25bc6,12,2000
+30,31,3.0,37.0,Bartoli Michele,43,Mapei - Quickstep,\u25bc6,12,2000
+33,106,2.0,38.0,Lino Pascal,44,Festina - Lotus,\u25bc6,12,2000
+27,139,2.0,39.0,Verheyen Geert,45,Lotto - Adecco,\u25bc6,12,2000
+25,132,2.0,40.0,Aerts Mario,46,Lotto - Adecco,\u25bc6,12,2000
+33,62,1.0,42.0,Bolts Udo,47,Team Telekom,\u25bc5,12,2000
+26,53,1.0,43.0,Etxebarria David,48,O.N.C.E. - Deutsche Bank,\u25bc5,12,2000
+27,7,1.0,44.0,Kjaergaard Steffen,49,US Postal Service,\u25bc5,12,2000
+30,19,1.0,,Sergio Rodrigues Orlando,50,Banesto,-,12,2000
+35,185,1.0,,Conti Roberto,51,Vini Caldirola - Sidermec,-,12,2000
+25,26,153.0,1.0,Otxoa Javier,1,Kelme - Costa Blanca,-,13,2000
+27,22,151.0,2.0,Botero Santiago,2,Kelme - Costa Blanca,-,13,2000
+28,125,138.0,3.0,Mattan Nico,3,Cofidis,-,13,2000
+30,151,89.0,4.0,Virenque Richard,4,Polti,-,13,2000
+24,16,70.0,6.0,Mancebo Francisco,6,Banesto,-,13,2000
+29,32,61.0,7.0,Beltran Manuel,7,Mapei - Quickstep,-,13,2000
+26,102,59.0,8.0,Beloki Joseba,8,Festina - Lotus,-,13,2000
+29,43,58.0,9.0,Dekker Erik,9,Rabobank ProTeam,-,13,2000
+30,82,52.0,10.0,Agnolutto Christophe,10,AG2R Prevoyance,-,13,2000
+26,24,50.0,11.0,Heras Roberto,11,Kelme - Costa Blanca,-,13,2000
+36,156,49.0,12.0,Herv\xe9 Pascal,12,Polti,-,13,2000
+29,15,42.0,13.0,Jimenez Jose Maria,13,Banesto,-,13,2000
+30,71,40.0,14.0,Pantani Marco,14,Mercatone Uno - Albacom,-,13,2000
+33,135,32.0,15.0,Durand Jacky,15,Lotto - Adecco,-,13,2000
+32,21,32.0,16.0,Escartin Fernando,16,Kelme - Costa Blanca,-,13,2000
+26,61,31.0,17.0,Ullrich Jan,17,Team Telekom,-,13,2000
+25,92,26.0,19.0,Atienza Daniel,18,Saeco,\u25b21,13,2000
+29,101,24.0,20.0,Moreau Christophe,19,Festina - Lotus,\u25b21,13,2000
+26,67,23.0,21.0,Vinokourov Alexandre,20,Team Telekom,\u25b21,13,2000
+32,168,21.0,22.0,Sandst\xf8d Michael,21,MemoryCard - Jack & Jones,\u25b21,13,2000
+26,87,19.0,23.0,Kivilev Andrei,22,AG2R Prevoyance,\u25b21,13,2000
+27,14,18.0,26.0,Garcia Jose Vicente,23,Banesto,\u25b23,13,2000
+27,55,18.0,24.0,Jalabert Nicolas,24,O.N.C.E. - Deutsche Bank,-,13,2000
+28,137,14.0,25.0,van de Wouwer Kurt,25,Lotto - Adecco,-,13,2000
+26,134,10.0,27.0,Demarbaix Sebastien,26,Lotto - Adecco,\u25b21,13,2000
+29,198,10.0,35.0,Rous Didier,27,Bonjour,\u25b28,13,2000
+32,11,10.0,28.0,Z\xfclle Alex,28,Banesto,-,13,2000
+26,49,8.0,29.0,Zberg Markus,29,Rabobank ProTeam,-,13,2000
+29,17,7.0,34.0,Odriozola Jon,30,Banesto,\u25b24,13,2000
+27,144,7.0,30.0,H\xf8j Frank,31,La Fran\xe7aise des Jeux,\u25bc1,13,2000
+32,159,6.0,31.0,Voskamp Bart,32,Polti,\u25bc1,13,2000
+29,12,6.0,32.0,Arrieta Jose Luis,33,Banesto,\u25bc1,13,2000
+31,51,6.0,33.0,Jalabert Laurent,34,O.N.C.E. - Deutsche Bank,\u25bc1,13,2000
+30,191,5.0,,Robin Jean-Cyril,35,Bonjour,-,13,2000
+25,131,5.0,36.0,Verbrugghe Rik,36,Lotto - Adecco,-,13,2000
+28,179,4.0,37.0,Voigt Jens,37,Cr\xe9dit Agricole,-,13,2000
+35,185,4.0,51.0,Conti Roberto,38,Vini Caldirola - Sidermec,\u25b213,13,2000
+31,199,4.0,38.0,Simon Fran\xe7ois,39,Bonjour,\u25bc1,13,2000
+27,35,4.0,39.0,Nardello Daniele,40,Mapei - Quickstep,\u25bc1,13,2000
+30,145,3.0,40.0,Jan Xavier,41,La Fran\xe7aise des Jeux,\u25bc1,13,2000
+33,2,3.0,41.0,Andreu Frankie,42,US Postal Service,\u25bc1,13,2000
+23,127,3.0,42.0,Millar David,43,Cofidis,\u25bc1,13,2000
+33,106,2.0,44.0,Lino Pascal,44,Festina - Lotus,-,13,2000
+27,139,2.0,45.0,Verheyen Geert,45,Lotto - Adecco,-,13,2000
+25,132,2.0,46.0,Aerts Mario,46,Lotto - Adecco,-,13,2000
+24,189,1.0,,Trentin Guido,47,Vini Caldirola - Sidermec,-,13,2000
+33,62,1.0,47.0,Bolts Udo,48,Team Telekom,\u25bc1,13,2000
+26,53,1.0,48.0,Etxebarria David,49,O.N.C.E. - Deutsche Bank,\u25bc1,13,2000
+27,7,1.0,49.0,Kjaergaard Steffen,50,US Postal Service,\u25bc1,13,2000
+30,19,1.0,50.0,Sergio Rodrigues Orlando,51,Banesto,\u25bc1,13,2000
+27,22,227.0,2.0,Botero Santiago,1,Kelme - Costa Blanca,\u25b21,14,2000
+25,26,188.0,1.0,Otxoa Javier,2,Kelme - Costa Blanca,\u25bc1,14,2000
+28,125,158.0,3.0,Mattan Nico,3,Cofidis,-,14,2000
+30,151,136.0,4.0,Virenque Richard,4,Polti,-,14,2000
+36,156,89.0,12.0,Herv\xe9 Pascal,6,Polti,\u25b26,14,2000
+24,16,76.0,6.0,Mancebo Francisco,7,Banesto,\u25bc1,14,2000
+28,13,75.0,,Baranowski Dariusz,8,Banesto,-,14,2000
+26,102,75.0,8.0,Beloki Joseba,9,Festina - Lotus,\u25bc1,14,2000
+29,43,61.0,9.0,Dekker Erik,10,Rabobank ProTeam,\u25bc1,14,2000
+29,32,61.0,7.0,Beltran Manuel,11,Mapei - Quickstep,\u25bc4,14,2000
+29,27,60.0,,Pascual Javier,12,Kelme - Costa Blanca,-,14,2000
+30,71,58.0,14.0,Pantani Marco,13,Mercatone Uno - Albacom,\u25b21,14,2000
+30,82,52.0,10.0,Agnolutto Christophe,14,AG2R Prevoyance,\u25bc4,14,2000
+26,24,52.0,11.0,Heras Roberto,15,Kelme - Costa Blanca,\u25bc4,14,2000
+29,15,50.0,13.0,Jimenez Jose Maria,16,Banesto,\u25bc3,14,2000
+27,98,44.0,,Savoldelli Paolo,17,Saeco,-,14,2000
+32,21,40.0,16.0,Escartin Fernando,18,Kelme - Costa Blanca,\u25bc2,14,2000
+29,101,38.0,19.0,Moreau Christophe,19,Festina - Lotus,-,14,2000
+26,61,35.0,17.0,Ullrich Jan,20,Team Telekom,\u25bc3,14,2000
+29,17,33.0,30.0,Odriozola Jon,21,Banesto,\u25b29,14,2000
+26,67,33.0,20.0,Vinokourov Alexandre,22,Team Telekom,\u25bc2,14,2000
+33,135,32.0,15.0,Durand Jacky,23,Lotto - Adecco,\u25bc8,14,2000
+35,66,31.0,,Heppner Jens,24,Team Telekom,-,14,2000
+25,92,26.0,18.0,Atienza Daniel,25,Saeco,\u25bc7,14,2000
+29,198,22.0,27.0,Rous Didier,26,Bonjour,\u25b21,14,2000
+26,87,19.0,22.0,Kivilev Andrei,27,AG2R Prevoyance,\u25bc5,14,2000
+27,14,18.0,23.0,Garcia Jose Vicente,28,Banesto,\u25bc5,14,2000
+27,55,18.0,24.0,Jalabert Nicolas,29,O.N.C.E. - Deutsche Bank,\u25bc5,14,2000
+35,185,16.0,38.0,Conti Roberto,30,Vini Caldirola - Sidermec,\u25b28,14,2000
+28,137,14.0,25.0,van de Wouwer Kurt,31,Lotto - Adecco,\u25bc6,14,2000
+32,159,12.0,32.0,Voskamp Bart,32,Polti,-,14,2000
+30,65,11.0,,Guerini Giuseppe,33,Team Telekom,-,14,2000
+26,134,10.0,26.0,Demarbaix Sebastien,34,Lotto - Adecco,\u25bc8,14,2000
+31,44,10.0,,den Bakker Maarten,35,Rabobank ProTeam,-,14,2000
+32,11,10.0,28.0,Z\xfclle Alex,36,Banesto,\u25bc8,14,2000
+26,49,8.0,29.0,Zberg Markus,37,Rabobank ProTeam,\u25bc8,14,2000
+27,35,8.0,40.0,Nardello Daniele,38,Mapei - Quickstep,\u25b22,14,2000
+27,144,7.0,31.0,H\xf8j Frank,39,La Fran\xe7aise des Jeux,\u25bc8,14,2000
+29,12,6.0,33.0,Arrieta Jose Luis,40,Banesto,\u25bc7,14,2000
+30,161,6.0,,Hamburger Bo,41,MemoryCard - Jack & Jones,-,14,2000
+31,51,6.0,34.0,Jalabert Laurent,42,O.N.C.E. - Deutsche Bank,\u25bc8,14,2000
+30,191,5.0,35.0,Robin Jean-Cyril,43,Bonjour,\u25bc8,14,2000
+28,179,4.0,37.0,Voigt Jens,44,Cr\xe9dit Agricole,\u25bc7,14,2000
+31,199,4.0,39.0,Simon Fran\xe7ois,45,Bonjour,\u25bc6,14,2000
+33,107,4.0,,Madouas Laurent,46,Festina - Lotus,-,14,2000
+30,145,3.0,41.0,Jan Xavier,47,La Fran\xe7aise des Jeux,\u25bc6,14,2000
+33,2,3.0,42.0,Andreu Frankie,48,US Postal Service,\u25bc6,14,2000
+23,127,3.0,43.0,Millar David,49,Cofidis,\u25bc6,14,2000
+33,106,2.0,44.0,Lino Pascal,50,Festina - Lotus,\u25bc6,14,2000
+27,139,2.0,45.0,Verheyen Geert,51,Lotto - Adecco,\u25bc6,14,2000
+25,132,2.0,46.0,Aerts Mario,52,Lotto - Adecco,\u25bc6,14,2000
+24,189,1.0,47.0,Trentin Guido,53,Vini Caldirola - Sidermec,\u25bc6,14,2000
+33,62,1.0,48.0,Bolts Udo,54,Team Telekom,\u25bc6,14,2000
+26,53,1.0,49.0,Etxebarria David,55,O.N.C.E. - Deutsche Bank,\u25bc6,14,2000
+27,7,1.0,50.0,Kjaergaard Steffen,56,US Postal Service,\u25bc6,14,2000
+28,47,1.0,,van Bon L\xe9on,57,Rabobank ProTeam,-,14,2000
+30,19,1.0,51.0,Sergio Rodrigues Orlando,58,Banesto,\u25bc7,14,2000
+27,22,296.0,1.0,Botero Santiago,1,Kelme - Costa Blanca,-,15,2000
+25,26,249.0,2.0,Otxoa Javier,2,Kelme - Costa Blanca,-,15,2000
+30,151,180.0,4.0,Virenque Richard,3,Polti,\u25b21,15,2000
+28,125,158.0,3.0,Mattan Nico,4,Cofidis,\u25bc1,15,2000
+36,156,144.0,6.0,Herv\xe9 Pascal,5,Polti,\u25b21,15,2000
+29,15,110.0,16.0,Jimenez Jose Maria,7,Banesto,\u25b29,15,2000
+30,71,94.0,13.0,Pantani Marco,8,Mercatone Uno - Albacom,\u25b25,15,2000
+26,102,85.0,9.0,Beloki Joseba,9,Festina - Lotus,-,15,2000
+29,27,78.0,12.0,Pascual Javier,10,Kelme - Costa Blanca,\u25b22,15,2000
+26,24,78.0,15.0,Heras Roberto,11,Kelme - Costa Blanca,\u25b24,15,2000
+24,16,76.0,7.0,Mancebo Francisco,12,Banesto,\u25bc5,15,2000
+28,13,75.0,8.0,Baranowski Dariusz,13,Banesto,\u25bc5,15,2000
+29,32,73.0,11.0,Beltran Manuel,14,Mapei - Quickstep,\u25bc3,15,2000
+29,101,66.0,19.0,Moreau Christophe,15,Festina - Lotus,\u25b24,15,2000
+29,43,61.0,10.0,Dekker Erik,16,Rabobank ProTeam,\u25bc6,15,2000
+26,61,59.0,20.0,Ullrich Jan,17,Team Telekom,\u25b23,15,2000
+32,21,58.0,18.0,Escartin Fernando,18,Kelme - Costa Blanca,-,15,2000
+30,82,52.0,14.0,Agnolutto Christophe,19,AG2R Prevoyance,\u25bc5,15,2000
+27,35,52.0,38.0,Nardello Daniele,20,Mapei - Quickstep,\u25b218,15,2000
+32,124,50.0,,Lelli Massimiliano,21,Cofidis,-,15,2000
+35,185,46.0,30.0,Conti Roberto,22,Vini Caldirola - Sidermec,\u25b28,15,2000
+27,98,44.0,17.0,Savoldelli Paolo,23,Saeco,\u25bc6,15,2000
+29,17,33.0,21.0,Odriozola Jon,24,Banesto,\u25bc3,15,2000
+26,67,33.0,22.0,Vinokourov Alexandre,25,Team Telekom,\u25bc3,15,2000
+33,135,32.0,23.0,Durand Jacky,26,Lotto - Adecco,\u25bc3,15,2000
+35,66,31.0,24.0,Heppner Jens,27,Team Telekom,\u25bc3,15,2000
+25,92,26.0,25.0,Atienza Daniel,28,Saeco,\u25bc3,15,2000
+27,14,23.0,28.0,Garcia Jose Vicente,29,Banesto,\u25bc1,15,2000
+29,198,22.0,26.0,Rous Didier,30,Bonjour,\u25bc4,15,2000
+26,87,19.0,27.0,Kivilev Andrei,31,AG2R Prevoyance,\u25bc4,15,2000
+27,55,18.0,29.0,Jalabert Nicolas,32,O.N.C.E. - Deutsche Bank,\u25bc3,15,2000
+28,137,14.0,31.0,van de Wouwer Kurt,33,Lotto - Adecco,\u25bc2,15,2000
+32,159,12.0,32.0,Voskamp Bart,34,Polti,\u25bc2,15,2000
+30,65,12.0,33.0,Guerini Giuseppe,35,Team Telekom,\u25bc2,15,2000
+26,134,10.0,34.0,Demarbaix Sebastien,36,Lotto - Adecco,\u25bc2,15,2000
+31,44,10.0,35.0,den Bakker Maarten,37,Rabobank ProTeam,\u25bc2,15,2000
+32,11,10.0,36.0,Z\xfclle Alex,38,Banesto,\u25bc2,15,2000
+26,49,8.0,37.0,Zberg Markus,39,Rabobank ProTeam,\u25bc2,15,2000
+27,144,7.0,39.0,H\xf8j Frank,40,La Fran\xe7aise des Jeux,\u25bc1,15,2000
+29,12,6.0,40.0,Arrieta Jose Luis,41,Banesto,\u25bc1,15,2000
+30,161,6.0,41.0,Hamburger Bo,42,MemoryCard - Jack & Jones,\u25bc1,15,2000
+31,51,6.0,42.0,Jalabert Laurent,43,O.N.C.E. - Deutsche Bank,\u25bc1,15,2000
+30,191,5.0,43.0,Robin Jean-Cyril,44,Bonjour,\u25bc1,15,2000
+28,179,4.0,44.0,Voigt Jens,45,Cr\xe9dit Agricole,\u25bc1,15,2000
+31,199,4.0,45.0,Simon Fran\xe7ois,46,Bonjour,\u25bc1,15,2000
+33,107,4.0,46.0,Madouas Laurent,47,Festina - Lotus,\u25bc1,15,2000
+30,145,3.0,47.0,Jan Xavier,48,La Fran\xe7aise des Jeux,\u25bc1,15,2000
+33,2,3.0,48.0,Andreu Frankie,49,US Postal Service,\u25bc1,15,2000
+23,127,3.0,49.0,Millar David,50,Cofidis,\u25bc1,15,2000
+33,106,2.0,50.0,Lino Pascal,51,Festina - Lotus,\u25bc1,15,2000
+27,139,2.0,51.0,Verheyen Geert,52,Lotto - Adecco,\u25bc1,15,2000
+25,132,2.0,52.0,Aerts Mario,53,Lotto - Adecco,\u25bc1,15,2000
+24,189,1.0,53.0,Trentin Guido,54,Vini Caldirola - Sidermec,\u25bc1,15,2000
+33,62,1.0,54.0,Bolts Udo,55,Team Telekom,\u25bc1,15,2000
+27,7,1.0,56.0,Kjaergaard Steffen,56,US Postal Service,-,15,2000
+30,19,1.0,58.0,Sergio Rodrigues Orlando,57,Banesto,\u25b21,15,2000
+27,22,347.0,1.0,Botero Santiago,1,Kelme - Costa Blanca,-,16,2000
+25,26,283.0,2.0,Otxoa Javier,2,Kelme - Costa Blanca,-,16,2000
+30,151,262.0,3.0,Virenque Richard,3,Polti,-,16,2000
+36,156,218.0,5.0,Herv\xe9 Pascal,4,Polti,\u25b21,16,2000
+30,71,174.0,8.0,Pantani Marco,5,Mercatone Uno - Albacom,\u25b23,16,2000
+29,125,158.0,4.0,Mattan Nico,7,Cofidis,\u25bc3,16,2000
+32,21,143.0,18.0,Escartin Fernando,8,Kelme - Costa Blanca,\u25b210,16,2000
+26,24,113.0,11.0,Heras Roberto,9,Kelme - Costa Blanca,\u25b22,16,2000
+26,102,112.0,9.0,Beloki Joseba,10,Festina - Lotus,\u25bc1,16,2000
+29,15,110.0,7.0,Jimenez Jose Maria,11,Banesto,\u25bc4,16,2000
+29,27,100.0,10.0,Pascual Javier,12,Kelme - Costa Blanca,\u25bc2,16,2000
+26,61,91.0,17.0,Ullrich Jan,13,Team Telekom,\u25b24,16,2000
+24,16,78.0,12.0,Mancebo Francisco,14,Banesto,\u25bc2,16,2000
+29,32,78.0,14.0,Beltran Manuel,15,Mapei - Quickstep,\u25bc1,16,2000
+28,13,75.0,13.0,Baranowski Dariusz,16,Banesto,\u25bc3,16,2000
+29,101,74.0,15.0,Moreau Christophe,17,Festina - Lotus,\u25bc2,16,2000
+29,43,61.0,16.0,Dekker Erik,18,Rabobank ProTeam,\u25bc2,16,2000
+35,185,58.0,22.0,Conti Roberto,19,Vini Caldirola - Sidermec,\u25b23,16,2000
+30,82,52.0,19.0,Agnolutto Christophe,20,AG2R Prevoyance,\u25bc1,16,2000
+27,35,52.0,20.0,Nardello Daniele,21,Mapei - Quickstep,\u25bc1,16,2000
+32,124,50.0,21.0,Lelli Massimiliano,22,Cofidis,\u25bc1,16,2000
+27,98,44.0,23.0,Savoldelli Paolo,23,Saeco,-,16,2000
+25,92,34.0,28.0,Atienza Daniel,24,Saeco,\u25b24,16,2000
+29,17,33.0,24.0,Odriozola Jon,25,Banesto,\u25bc1,16,2000
+26,67,33.0,25.0,Vinokourov Alexandre,26,Team Telekom,\u25bc1,16,2000
+29,198,32.0,30.0,Rous Didier,27,Bonjour,\u25b23,16,2000
+33,135,32.0,26.0,Durand Jacky,28,Lotto - Adecco,\u25bc2,16,2000
+35,66,31.0,27.0,Heppner Jens,29,Team Telekom,\u25bc2,16,2000
+26,87,26.0,31.0,Kivilev Andrei,30,AG2R Prevoyance,\u25b21,16,2000
+27,14,23.0,29.0,Garcia Jose Vicente,31,Banesto,\u25bc2,16,2000
+24,189,20.0,54.0,Trentin Guido,32,Vini Caldirola - Sidermec,\u25b222,16,2000
+27,8,18.0,,Livingston Kevin,33,US Postal Service,-,16,2000
+28,137,14.0,33.0,van de Wouwer Kurt,34,Lotto - Adecco,\u25bc1,16,2000
+32,159,12.0,34.0,Voskamp Bart,35,Polti,\u25bc1,16,2000
+30,65,12.0,35.0,Guerini Giuseppe,36,Team Telekom,\u25bc1,16,2000
+23,127,11.0,50.0,Millar David,37,Cofidis,\u25b213,16,2000
+26,134,10.0,36.0,Demarbaix Sebastien,38,Lotto - Adecco,\u25bc2,16,2000
+29,4,10.0,,Hamilton Tyler,39,US Postal Service,-,16,2000
+31,44,10.0,37.0,den Bakker Maarten,40,Rabobank ProTeam,\u25bc3,16,2000
+32,11,10.0,38.0,Z\xfclle Alex,41,Banesto,\u25bc3,16,2000
+33,62,9.0,55.0,Bolts Udo,42,Team Telekom,\u25b213,16,2000
+26,49,8.0,39.0,Zberg Markus,43,Rabobank ProTeam,\u25bc4,16,2000
+27,144,7.0,40.0,H\xf8j Frank,44,La Fran\xe7aise des Jeux,\u25bc4,16,2000
+29,12,6.0,41.0,Arrieta Jose Luis,45,Banesto,\u25bc4,16,2000
+30,161,6.0,42.0,Hamburger Bo,46,MemoryCard - Jack & Jones,\u25bc4,16,2000
+31,51,6.0,43.0,Jalabert Laurent,47,O.N.C.E. - Deutsche Bank,\u25bc4,16,2000
+30,191,5.0,44.0,Robin Jean-Cyril,48,Bonjour,\u25bc4,16,2000
+28,179,4.0,45.0,Voigt Jens,49,Cr\xe9dit Agricole,\u25bc4,16,2000
+31,199,4.0,46.0,Simon Fran\xe7ois,50,Bonjour,\u25bc4,16,2000
+33,107,4.0,47.0,Madouas Laurent,51,Festina - Lotus,\u25bc4,16,2000
+30,145,3.0,48.0,Jan Xavier,52,La Fran\xe7aise des Jeux,\u25bc4,16,2000
+33,2,3.0,49.0,Andreu Frankie,53,US Postal Service,\u25bc4,16,2000
+33,106,2.0,51.0,Lino Pascal,54,Festina - Lotus,\u25bc3,16,2000
+27,139,2.0,52.0,Verheyen Geert,55,Lotto - Adecco,\u25bc3,16,2000
+25,132,2.0,53.0,Aerts Mario,56,Lotto - Adecco,\u25bc3,16,2000
+27,7,1.0,56.0,Kjaergaard Steffen,57,US Postal Service,\u25bc1,16,2000
+30,19,1.0,57.0,Sergio Rodrigues Orlando,58,Banesto,\u25bc1,16,2000
+27,22,347.0,1.0,Botero Santiago,1,Kelme - Costa Blanca,-,17,2000
+25,26,283.0,2.0,Otxoa Javier,2,Kelme - Costa Blanca,-,17,2000
+30,151,262.0,3.0,Virenque Richard,3,Polti,-,17,2000
+36,156,233.0,4.0,Herv\xe9 Pascal,4,Polti,-,17,2000
+29,125,,7.0,Mattan Nico,5,Cofidis,\u25b22,17,2000
+32,21,161.0,8.0,Escartin Fernando,6,Kelme - Costa Blanca,\u25b22,17,2000
+26,24,149.0,9.0,Heras Roberto,7,Kelme - Costa Blanca,\u25b22,17,2000
+26,102,113.0,10.0,Beloki Joseba,8,Festina - Lotus,\u25b22,17,2000
+29,15,112.0,11.0,Jimenez Jose Maria,9,Banesto,\u25b22,17,2000
+29,27,110.0,12.0,Pascual Javier,10,Kelme - Costa Blanca,\u25b22,17,2000
+26,61,100.0,13.0,Ullrich Jan,11,Team Telekom,\u25b22,17,2000
+24,16,96.0,14.0,Mancebo Francisco,12,Banesto,\u25b22,17,2000
+29,101,86.0,17.0,Moreau Christophe,13,Festina - Lotus,\u25b24,17,2000
+29,32,81.0,15.0,Beltran Manuel,14,Mapei - Quickstep,\u25b21,17,2000
+28,13,78.0,16.0,Baranowski Dariusz,15,Banesto,\u25b21,17,2000
+32,124,75.0,22.0,Lelli Massimiliano,16,Cofidis,\u25b26,17,2000
+29,43,70.0,18.0,Dekker Erik,17,Rabobank ProTeam,\u25b21,17,2000
+35,185,61.0,19.0,Conti Roberto,18,Vini Caldirola - Sidermec,\u25b21,17,2000
+30,82,58.0,20.0,Agnolutto Christophe,19,AG2R Prevoyance,\u25b21,17,2000
+27,35,52.0,21.0,Nardello Daniele,20,Mapei - Quickstep,\u25b21,17,2000
+27,98,52.0,23.0,Savoldelli Paolo,21,Saeco,\u25b22,17,2000
+26,67,44.0,26.0,Vinokourov Alexandre,22,Team Telekom,\u25b24,17,2000
+25,92,40.0,24.0,Atienza Daniel,23,Saeco,\u25b21,17,2000
+29,17,34.0,25.0,Odriozola Jon,24,Banesto,\u25b21,17,2000
+35,66,33.0,29.0,Heppner Jens,25,Team Telekom,\u25b24,17,2000
+29,198,32.0,27.0,Rous Didier,26,Bonjour,\u25b21,17,2000
+33,135,32.0,28.0,Durand Jacky,27,Lotto - Adecco,\u25b21,17,2000
+26,87,32.0,30.0,Kivilev Andrei,28,AG2R Prevoyance,\u25b22,17,2000
+27,14,26.0,31.0,Garcia Jose Vicente,29,Banesto,\u25b22,17,2000
+32,79,23.0,,Zaina Enrico,30,Mercatone Uno - Albacom,-,17,2000
+24,189,22.0,32.0,Trentin Guido,31,Vini Caldirola - Sidermec,\u25b21,17,2000
+31,44,20.0,40.0,den Bakker Maarten,32,Rabobank ProTeam,\u25b28,17,2000
+27,8,20.0,33.0,Livingston Kevin,33,US Postal Service,-,17,2000
+28,137,18.0,34.0,van de Wouwer Kurt,34,Lotto - Adecco,-,17,2000
+23,127,14.0,37.0,Millar David,35,Cofidis,\u25b22,17,2000
+32,159,13.0,35.0,Voskamp Bart,36,Polti,\u25bc1,17,2000
+30,65,12.0,36.0,Guerini Giuseppe,37,Team Telekom,\u25bc1,17,2000
+26,134,12.0,38.0,Demarbaix Sebastien,38,Lotto - Adecco,-,17,2000
+29,4,10.0,39.0,Hamilton Tyler,39,US Postal Service,-,17,2000
+33,62,10.0,42.0,Bolts Udo,40,Team Telekom,\u25b22,17,2000
+26,49,9.0,43.0,Zberg Markus,41,Rabobank ProTeam,\u25b22,17,2000
+27,144,8.0,44.0,H\xf8j Frank,42,La Fran\xe7aise des Jeux,\u25b22,17,2000
+29,12,7.0,45.0,Arrieta Jose Luis,43,Banesto,\u25b22,17,2000
+30,161,6.0,46.0,Hamburger Bo,44,MemoryCard - Jack & Jones,\u25b22,17,2000
+31,51,6.0,47.0,Jalabert Laurent,45,O.N.C.E. - Deutsche Bank,\u25b22,17,2000
+30,191,6.0,48.0,Robin Jean-Cyril,46,Bonjour,\u25b22,17,2000
+28,179,5.0,49.0,Voigt Jens,47,Cr\xe9dit Agricole,\u25b22,17,2000
+31,199,4.0,50.0,Simon Fran\xe7ois,48,Bonjour,\u25b22,17,2000
+33,107,4.0,51.0,Madouas Laurent,49,Festina - Lotus,\u25b22,17,2000
+30,145,4.0,52.0,Jan Xavier,50,La Fran\xe7aise des Jeux,\u25b22,17,2000
+33,2,3.0,53.0,Andreu Frankie,51,US Postal Service,\u25b22,17,2000
+33,106,3.0,54.0,Lino Pascal,52,Festina - Lotus,\u25b22,17,2000
+27,139,2.0,55.0,Verheyen Geert,53,Lotto - Adecco,\u25b22,17,2000
+25,132,2.0,56.0,Aerts Mario,54,Lotto - Adecco,\u25b22,17,2000
+30,69,2.0,,Zabel Erik,55,Team Telekom,-,17,2000
+27,7,1.0,57.0,Kjaergaard Steffen,56,US Postal Service,\u25b21,17,2000
+30,19,1.0,58.0,Sergio Rodrigues Orlando,57,Banesto,\u25b21,17,2000
+30,19,1.0,58.0,Sergio Rodrigues Orlando,58,Banesto,-,17,2000
+27,22,347.0,1.0,Botero Santiago,1,Kelme - Costa Blanca,-,18,2000
+25,26,283.0,2.0,Otxoa Javier,2,Kelme - Costa Blanca,-,18,2000
+30,151,262.0,3.0,Virenque Richard,3,Polti,-,18,2000
+36,156,233.0,4.0,Herv\xe9 Pascal,4,Polti,-,18,2000
+29,125,161.0,5.0,Mattan Nico,6,Cofidis,\u25bc1,18,2000
+32,21,149.0,6.0,Escartin Fernando,7,Kelme - Costa Blanca,\u25bc1,18,2000
+26,24,113.0,7.0,Heras Roberto,8,Kelme - Costa Blanca,\u25bc1,18,2000
+26,102,112.0,8.0,Beloki Joseba,9,Festina - Lotus,\u25bc1,18,2000
+29,15,110.0,9.0,Jimenez Jose Maria,10,Banesto,\u25bc1,18,2000
+29,27,100.0,10.0,Pascual Javier,11,Kelme - Costa Blanca,\u25bc1,18,2000
+26,61,96.0,11.0,Ullrich Jan,12,Team Telekom,\u25bc1,18,2000
+24,16,86.0,12.0,Mancebo Francisco,13,Banesto,\u25bc1,18,2000
+29,101,81.0,13.0,Moreau Christophe,14,Festina - Lotus,\u25bc1,18,2000
+29,32,78.0,14.0,Beltran Manuel,15,Mapei - Quickstep,\u25bc1,18,2000
+28,13,75.0,15.0,Baranowski Dariusz,16,Banesto,\u25bc1,18,2000
+32,124,70.0,16.0,Lelli Massimiliano,17,Cofidis,\u25bc1,18,2000
+29,43,61.0,17.0,Dekker Erik,18,Rabobank ProTeam,\u25bc1,18,2000
+35,185,58.0,18.0,Conti Roberto,19,Vini Caldirola - Sidermec,\u25bc1,18,2000
+30,82,52.0,19.0,Agnolutto Christophe,20,AG2R Prevoyance,\u25bc1,18,2000
+27,35,52.0,20.0,Nardello Daniele,21,Mapei - Quickstep,\u25bc1,18,2000
+26,67,49.0,22.0,Vinokourov Alexandre,22,Team Telekom,-,18,2000
+27,98,44.0,21.0,Savoldelli Paolo,23,Saeco,\u25bc2,18,2000
+33,135,42.0,27.0,Durand Jacky,24,Lotto - Adecco,\u25b23,18,2000
+25,92,34.0,23.0,Atienza Daniel,25,Saeco,\u25bc2,18,2000
+29,17,33.0,24.0,Odriozola Jon,26,Banesto,\u25bc2,18,2000
+35,66,32.0,25.0,Heppner Jens,27,Team Telekom,\u25bc2,18,2000
+29,198,32.0,26.0,Rous Didier,28,Bonjour,\u25bc2,18,2000
+26,87,26.0,28.0,Kivilev Andrei,29,AG2R Prevoyance,\u25bc1,18,2000
+27,14,23.0,29.0,Garcia Jose Vicente,30,Banesto,\u25bc1,18,2000
+30,191,22.0,46.0,Robin Jean-Cyril,31,Bonjour,\u25b215,18,2000
+32,79,22.0,30.0,Zaina Enrico,32,Mercatone Uno - Albacom,\u25bc2,18,2000
+28,179,20.0,47.0,Voigt Jens,33,Cr\xe9dit Agricole,\u25b214,18,2000
+24,189,20.0,31.0,Trentin Guido,34,Vini Caldirola - Sidermec,\u25bc3,18,2000
+31,44,20.0,32.0,den Bakker Maarten,35,Rabobank ProTeam,\u25bc3,18,2000
+25,93,18.0,,Commesso Salvatore,36,Saeco,-,18,2000
+27,8,18.0,33.0,Livingston Kevin,37,US Postal Service,\u25bc4,18,2000
+28,137,14.0,34.0,van de Wouwer Kurt,38,Lotto - Adecco,\u25bc4,18,2000
+23,127,13.0,35.0,Millar David,39,Cofidis,\u25bc4,18,2000
+32,159,12.0,36.0,Voskamp Bart,40,Polti,\u25bc4,18,2000
+30,65,12.0,37.0,Guerini Giuseppe,41,Team Telekom,\u25bc4,18,2000
+26,134,10.0,38.0,Demarbaix Sebastien,42,Lotto - Adecco,\u25bc4,18,2000
+29,4,10.0,39.0,Hamilton Tyler,43,US Postal Service,\u25bc4,18,2000
+33,62,9.0,40.0,Bolts Udo,44,Team Telekom,\u25bc4,18,2000
+26,49,8.0,41.0,Zberg Markus,45,Rabobank ProTeam,\u25bc4,18,2000
+27,144,7.0,42.0,H\xf8j Frank,46,La Fran\xe7aise des Jeux,\u25bc4,18,2000
+29,12,6.0,43.0,Arrieta Jose Luis,47,Banesto,\u25bc4,18,2000
+30,161,6.0,44.0,Hamburger Bo,48,MemoryCard - Jack & Jones,\u25bc4,18,2000
+31,51,6.0,45.0,Jalabert Laurent,49,O.N.C.E. - Deutsche Bank,\u25bc4,18,2000
+31,199,4.0,48.0,Simon Fran\xe7ois,50,Bonjour,\u25bc2,18,2000
+33,107,4.0,49.0,Madouas Laurent,51,Festina - Lotus,\u25bc2,18,2000
+30,145,3.0,50.0,Jan Xavier,52,La Fran\xe7aise des Jeux,\u25bc2,18,2000
+33,2,3.0,51.0,Andreu Frankie,53,US Postal Service,\u25bc2,18,2000
+33,106,2.0,52.0,Lino Pascal,54,Festina - Lotus,\u25bc2,18,2000
+27,139,2.0,53.0,Verheyen Geert,55,Lotto - Adecco,\u25bc2,18,2000
+25,132,2.0,54.0,Aerts Mario,56,Lotto - Adecco,\u25bc2,18,2000
+30,69,1.0,55.0,Zabel Erik,57,Team Telekom,\u25bc2,18,2000
+27,7,1.0,56.0,Kjaergaard Steffen,58,US Postal Service,\u25bc2,18,2000
+30,19,1.0,58.0,Sergio Rodrigues Orlando,59,Banesto,\u25bc1,18,2000
+27,22,347.0,1.0,Botero Santiago,1,Kelme - Costa Blanca,-,19,2000
+25,26,283.0,2.0,Otxoa Javier,2,Kelme - Costa Blanca,-,19,2000
+30,151,262.0,3.0,Virenque Richard,3,Polti,-,19,2000
+36,156,233.0,4.0,Herv\xe9 Pascal,4,Polti,-,19,2000
+29,125,161.0,6.0,Mattan Nico,6,Cofidis,-,19,2000
+32,21,149.0,7.0,Escartin Fernando,7,Kelme - Costa Blanca,-,19,2000
+26,24,113.0,8.0,Heras Roberto,8,Kelme - Costa Blanca,-,19,2000
+26,102,112.0,9.0,Beloki Joseba,9,Festina - Lotus,-,19,2000
+29,15,110.0,10.0,Jimenez Jose Maria,10,Banesto,-,19,2000
+29,27,100.0,11.0,Pascual Javier,11,Kelme - Costa Blanca,-,19,2000
+26,61,96.0,12.0,Ullrich Jan,12,Team Telekom,-,19,2000
+24,16,86.0,13.0,Mancebo Francisco,13,Banesto,-,19,2000
+29,101,81.0,14.0,Moreau Christophe,14,Festina - Lotus,-,19,2000
+29,32,78.0,15.0,Beltran Manuel,15,Mapei - Quickstep,-,19,2000
+28,13,75.0,16.0,Baranowski Dariusz,16,Banesto,-,19,2000
+32,124,70.0,17.0,Lelli Massimiliano,17,Cofidis,-,19,2000
+29,43,61.0,18.0,Dekker Erik,18,Rabobank ProTeam,-,19,2000
+35,185,58.0,19.0,Conti Roberto,19,Vini Caldirola - Sidermec,-,19,2000
+30,82,52.0,20.0,Agnolutto Christophe,20,AG2R Prevoyance,-,19,2000
+27,35,52.0,21.0,Nardello Daniele,21,Mapei - Quickstep,-,19,2000
+26,67,49.0,22.0,Vinokourov Alexandre,22,Team Telekom,-,19,2000
+27,98,44.0,23.0,Savoldelli Paolo,23,Saeco,-,19,2000
+33,135,42.0,24.0,Durand Jacky,24,Lotto - Adecco,-,19,2000
+25,92,34.0,25.0,Atienza Daniel,25,Saeco,-,19,2000
+29,17,33.0,26.0,Odriozola Jon,26,Banesto,-,19,2000
+35,66,32.0,27.0,Heppner Jens,27,Team Telekom,-,19,2000
+29,198,32.0,28.0,Rous Didier,28,Bonjour,-,19,2000
+26,87,26.0,29.0,Kivilev Andrei,29,AG2R Prevoyance,-,19,2000
+27,14,23.0,30.0,Garcia Jose Vicente,30,Banesto,-,19,2000
+30,191,22.0,31.0,Robin Jean-Cyril,31,Bonjour,-,19,2000
+32,79,22.0,32.0,Zaina Enrico,32,Mercatone Uno - Albacom,-,19,2000
+28,179,20.0,33.0,Voigt Jens,33,Cr\xe9dit Agricole,-,19,2000
+24,189,20.0,34.0,Trentin Guido,34,Vini Caldirola - Sidermec,-,19,2000
+31,44,20.0,35.0,den Bakker Maarten,35,Rabobank ProTeam,-,19,2000
+25,93,18.0,36.0,Commesso Salvatore,36,Saeco,-,19,2000
+27,8,18.0,37.0,Livingston Kevin,37,US Postal Service,-,19,2000
+28,137,14.0,38.0,van de Wouwer Kurt,38,Lotto - Adecco,-,19,2000
+23,127,13.0,39.0,Millar David,39,Cofidis,-,19,2000
+32,159,12.0,40.0,Voskamp Bart,40,Polti,-,19,2000
+30,65,12.0,41.0,Guerini Giuseppe,41,Team Telekom,-,19,2000
+26,134,10.0,42.0,Demarbaix Sebastien,42,Lotto - Adecco,-,19,2000
+29,4,10.0,43.0,Hamilton Tyler,43,US Postal Service,-,19,2000
+33,62,9.0,44.0,Bolts Udo,44,Team Telekom,-,19,2000
+26,49,8.0,45.0,Zberg Markus,45,Rabobank ProTeam,-,19,2000
+27,144,7.0,46.0,H\xf8j Frank,46,La Fran\xe7aise des Jeux,-,19,2000
+29,12,6.0,47.0,Arrieta Jose Luis,47,Banesto,-,19,2000
+30,161,6.0,48.0,Hamburger Bo,48,MemoryCard - Jack & Jones,-,19,2000
+31,51,6.0,49.0,Jalabert Laurent,49,O.N.C.E. - Deutsche Bank,-,19,2000
+31,199,4.0,50.0,Simon Fran\xe7ois,50,Bonjour,-,19,2000
+33,107,4.0,51.0,Madouas Laurent,51,Festina - Lotus,-,19,2000
+30,145,3.0,52.0,Jan Xavier,52,La Fran\xe7aise des Jeux,-,19,2000
+33,2,3.0,53.0,Andreu Frankie,53,US Postal Service,-,19,2000
+33,106,2.0,54.0,Lino Pascal,54,Festina - Lotus,-,19,2000
+27,139,2.0,55.0,Verheyen Geert,55,Lotto - Adecco,-,19,2000
+25,132,2.0,56.0,Aerts Mario,56,Lotto - Adecco,-,19,2000
+30,69,1.0,57.0,Zabel Erik,57,Team Telekom,-,19,2000
+27,7,1.0,58.0,Kjaergaard Steffen,58,US Postal Service,-,19,2000
+30,19,1.0,59.0,Sergio Rodrigues Orlando,59,Banesto,-,19,2000
+27,22,347.0,1.0,Botero Santiago,1,Kelme - Costa Blanca,-,20,2000
+25,26,283.0,2.0,Otxoa Javier,2,Kelme - Costa Blanca,-,20,2000
+30,151,262.0,3.0,Virenque Richard,3,Polti,-,20,2000
+36,156,233.0,4.0,Herv\xe9 Pascal,4,Polti,-,20,2000
+29,125,161.0,6.0,Mattan Nico,6,Cofidis,-,20,2000
+32,21,149.0,7.0,Escartin Fernando,7,Kelme - Costa Blanca,-,20,2000
+26,24,113.0,8.0,Heras Roberto,8,Kelme - Costa Blanca,-,20,2000
+26,102,112.0,9.0,Beloki Joseba,9,Festina - Lotus,-,20,2000
+29,15,110.0,10.0,Jimenez Jose Maria,10,Banesto,-,20,2000
+29,27,100.0,11.0,Pascual Javier,11,Kelme - Costa Blanca,-,20,2000
+26,61,96.0,12.0,Ullrich Jan,12,Team Telekom,-,20,2000
+24,16,86.0,13.0,Mancebo Francisco,13,Banesto,-,20,2000
+29,101,81.0,14.0,Moreau Christophe,14,Festina - Lotus,-,20,2000
+29,32,78.0,15.0,Beltran Manuel,15,Mapei - Quickstep,-,20,2000
+28,13,75.0,16.0,Baranowski Dariusz,16,Banesto,-,20,2000
+32,124,70.0,17.0,Lelli Massimiliano,17,Cofidis,-,20,2000
+29,43,61.0,18.0,Dekker Erik,18,Rabobank ProTeam,-,20,2000
+35,185,58.0,19.0,Conti Roberto,19,Vini Caldirola - Sidermec,-,20,2000
+30,82,52.0,20.0,Agnolutto Christophe,20,AG2R Prevoyance,-,20,2000
+27,35,52.0,21.0,Nardello Daniele,21,Mapei - Quickstep,-,20,2000
+26,67,49.0,22.0,Vinokourov Alexandre,22,Team Telekom,-,20,2000
+27,98,44.0,23.0,Savoldelli Paolo,23,Saeco,-,20,2000
+33,135,42.0,24.0,Durand Jacky,24,Lotto - Adecco,-,20,2000
+25,92,34.0,25.0,Atienza Daniel,25,Saeco,-,20,2000
+29,17,33.0,26.0,Odriozola Jon,26,Banesto,-,20,2000
+35,66,32.0,27.0,Heppner Jens,27,Team Telekom,-,20,2000
+29,198,32.0,28.0,Rous Didier,28,Bonjour,-,20,2000
+26,87,26.0,29.0,Kivilev Andrei,29,AG2R Prevoyance,-,20,2000
+27,14,23.0,30.0,Garcia Jose Vicente,30,Banesto,-,20,2000
+30,191,22.0,31.0,Robin Jean-Cyril,31,Bonjour,-,20,2000
+32,79,22.0,32.0,Zaina Enrico,32,Mercatone Uno - Albacom,-,20,2000
+28,179,20.0,33.0,Voigt Jens,33,Cr\xe9dit Agricole,-,20,2000
+24,189,20.0,34.0,Trentin Guido,34,Vini Caldirola - Sidermec,-,20,2000
+31,44,20.0,35.0,den Bakker Maarten,35,Rabobank ProTeam,-,20,2000
+25,93,18.0,36.0,Commesso Salvatore,36,Saeco,-,20,2000
+27,8,18.0,37.0,Livingston Kevin,37,US Postal Service,-,20,2000
+28,137,14.0,38.0,van de Wouwer Kurt,38,Lotto - Adecco,-,20,2000
+23,127,13.0,39.0,Millar David,39,Cofidis,-,20,2000
+32,159,12.0,40.0,Voskamp Bart,40,Polti,-,20,2000
+30,65,12.0,41.0,Guerini Giuseppe,41,Team Telekom,-,20,2000
+26,134,10.0,42.0,Demarbaix Sebastien,42,Lotto - Adecco,-,20,2000
+29,4,10.0,43.0,Hamilton Tyler,43,US Postal Service,-,20,2000
+33,62,9.0,44.0,Bolts Udo,44,Team Telekom,-,20,2000
+26,49,8.0,45.0,Zberg Markus,45,Rabobank ProTeam,-,20,2000
+27,144,7.0,46.0,H\xf8j Frank,46,La Fran\xe7aise des Jeux,-,20,2000
+29,12,6.0,47.0,Arrieta Jose Luis,47,Banesto,-,20,2000
+30,161,6.0,48.0,Hamburger Bo,48,MemoryCard - Jack & Jones,-,20,2000
+31,51,6.0,49.0,Jalabert Laurent,49,O.N.C.E. - Deutsche Bank,-,20,2000
+31,199,4.0,50.0,Simon Fran\xe7ois,50,Bonjour,-,20,2000
+33,107,4.0,51.0,Madouas Laurent,51,Festina - Lotus,-,20,2000
+30,145,3.0,52.0,Jan Xavier,52,La Fran\xe7aise des Jeux,-,20,2000
+33,2,3.0,53.0,Andreu Frankie,53,US Postal Service,-,20,2000
+33,106,2.0,54.0,Lino Pascal,54,Festina - Lotus,-,20,2000
+27,139,2.0,55.0,Verheyen Geert,55,Lotto - Adecco,-,20,2000
+25,132,2.0,56.0,Aerts Mario,56,Lotto - Adecco,-,20,2000
+30,69,1.0,57.0,Zabel Erik,57,Team Telekom,-,20,2000
+27,7,1.0,58.0,Kjaergaard Steffen,58,US Postal Service,-,20,2000
+30,19,1.0,59.0,Sergio Rodrigues Orlando,59,Banesto,-,20,2000
+27,22,347.0,,Botero Santiago,1,Kelme - Costa Blanca,,21,2000
+25,26,283.0,,Otxoa Javier,2,Kelme - Costa Blanca,,21,2000
+30,151,267.0,,Virenque Richard,3,Polti,,21,2000
+36,156,234.0,,Herv\xe9 Pascal,4,Polti,,21,2000
+29,125,164.0,,Mattan Nico,5,Cofidis,,21,2000
+32,21,149.0,,Escartin Fernando,7,Kelme - Costa Blanca,,21,2000
+26,24,113.0,,Heras Roberto,8,Kelme - Costa Blanca,,21,2000
+26,102,112.0,,Beloki Joseba,9,Festina - Lotus,,21,2000
+29,15,110.0,,Jimenez Jose Maria,10,Banesto,,21,2000
+29,27,100.0,,Pascual Javier,11,Kelme - Costa Blanca,,21,2000
+26,61,96.0,,Ullrich Jan,12,Team Telekom,,21,2000
+24,16,86.0,,Mancebo Francisco,13,Banesto,,21,2000
+29,101,81.0,,Moreau Christophe,14,Festina - Lotus,,21,2000
+29,32,78.0,,Beltran Manuel,15,Mapei - Quickstep,,21,2000
+28,13,75.0,,Baranowski Dariusz,16,Banesto,,21,2000
+32,124,70.0,,Lelli Massimiliano,17,Cofidis,,21,2000
+29,43,61.0,,Dekker Erik,18,Rabobank ProTeam,,21,2000
+35,185,58.0,,Conti Roberto,19,Vini Caldirola - Sidermec,,21,2000
+30,82,52.0,,Agnolutto Christophe,20,AG2R Prevoyance,,21,2000
+27,35,52.0,,Nardello Daniele,21,Mapei - Quickstep,,21,2000
+26,67,49.0,,Vinokourov Alexandre,22,Team Telekom,,21,2000
+27,98,44.0,,Savoldelli Paolo,23,Saeco,,21,2000
+33,135,42.0,,Durand Jacky,24,Lotto - Adecco,,21,2000
+25,92,34.0,,Atienza Daniel,25,Saeco,,21,2000
+29,17,33.0,,Odriozola Jon,26,Banesto,,21,2000
+35,66,32.0,,Heppner Jens,27,Team Telekom,,21,2000
+29,198,32.0,,Rous Didier,28,Bonjour,,21,2000
+26,87,26.0,,Kivilev Andrei,29,AG2R Prevoyance,,21,2000
+27,14,23.0,,Garcia Jose Vicente,30,Banesto,,21,2000
+30,191,22.0,,Robin Jean-Cyril,31,Bonjour,,21,2000
+32,79,22.0,,Zaina Enrico,32,Mercatone Uno - Albacom,,21,2000
+28,179,20.0,,Voigt Jens,33,Cr\xe9dit Agricole,,21,2000
+24,189,20.0,,Trentin Guido,34,Vini Caldirola - Sidermec,,21,2000
+31,44,20.0,,den Bakker Maarten,35,Rabobank ProTeam,,21,2000
+25,93,18.0,,Commesso Salvatore,36,Saeco,,21,2000
+27,8,18.0,,Livingston Kevin,37,US Postal Service,,21,2000
+28,137,14.0,,van de Wouwer Kurt,38,Lotto - Adecco,,21,2000
+23,127,13.0,,Millar David,39,Cofidis,,21,2000
+32,159,12.0,,Voskamp Bart,40,Polti,,21,2000
+30,65,12.0,,Guerini Giuseppe,41,Team Telekom,,21,2000
+26,134,10.0,,Demarbaix Sebastien,42,Lotto - Adecco,,21,2000
+31,199,10.0,,Simon Fran\xe7ois,43,Bonjour,,21,2000
+29,4,10.0,,Hamilton Tyler,44,US Postal Service,,21,2000
+33,62,9.0,,Bolts Udo,45,Team Telekom,,21,2000
+26,49,8.0,,Zberg Markus,46,Rabobank ProTeam,,21,2000
+27,144,7.0,,H\xf8j Frank,47,La Fran\xe7aise des Jeux,,21,2000
+26,174,6.0,,Hinault S\xe9bastien,48,Cr\xe9dit Agricole,,21,2000
+25,143,6.0,,Gwiazdowski Grzegorz,49,La Fran\xe7aise des Jeux,,21,2000
+29,12,6.0,,Arrieta Jose Luis,50,Banesto,,21,2000
+30,161,6.0,,Hamburger Bo,51,MemoryCard - Jack & Jones,,21,2000
+31,51,6.0,,Jalabert Laurent,52,O.N.C.E. - Deutsche Bank,,21,2000
+33,107,4.0,,Madouas Laurent,53,Festina - Lotus,,21,2000
+30,145,3.0,,Jan Xavier,54,La Fran\xe7aise des Jeux,,21,2000
+33,2,3.0,,Andreu Frankie,55,US Postal Service,,21,2000
+33,106,2.0,,Lino Pascal,56,Festina - Lotus,,21,2000
+27,139,2.0,,Verheyen Geert,57,Lotto - Adecco,,21,2000
+25,132,2.0,,Aerts Mario,58,Lotto - Adecco,,21,2000
+30,69,1.0,,Zabel Erik,59,Team Telekom,,21,2000
+27,7,1.0,,Kjaergaard Steffen,60,US Postal Service,,21,2000
+30,19,1.0,,Sergio Rodrigues Orlando,61,Banesto,,21,2000

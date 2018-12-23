@@ -1,0 +1,351 @@
+Age,BIB,Pnt,Prev,Rider,Rnk,Team,\u25bc\u25b2,stage,year
+26,1,15.0,,Sagan Peter,1,Tinkoff,,1,2016
+25,78,12.0,,Wippert Wouter,2,Cannondale Pro Cycling Team,,1,2016
+22,111,9.0,,Groenewegen Dylan,3,Team LottoNL-Jumbo,,1,2016
+24,91,7.0,,Coquard Bryan,4,Direct Energie,,1,2016
+24,146,6.0,,Sheehan Michael,5,Jelly Belly p/b Maxxis,,1,2016
+31,167,6.0,,Verschoor Martijn,6,Team Novo Nordisk,,1,2016
+22,84,5.0,,Bonifazio Niccolo,7,Trek - Segafredo,,1,2016
+21,135,4.0,,Guerreiro Ruben,8,Axeon Hagens Berman,,1,2016
+22,124,3.0,,Eaton Daniel,9,UnitedHealthcare Pro Cycling Team,,1,2016
+35,12,3.0,,Boonen Tom,10,Etixx - Quick Step,,1,2016
+24,162,2.0,,Henttala Joonas,11,Team Novo Nordisk,,1,2016
+29,53,2.0,,Drucker Jean-Pierre,12,BMC Racing Team,,1,2016
+31,127,1.0,,Murphy John,13,UnitedHealthcare Pro Cycling Team,,1,2016
+25,145,1.0,,Rathe Jacob,14,Jelly Belly p/b Maxxis,,1,2016
+26,1,,1.0,Sagan Peter,1,Tinkoff,-,2,2016
+27,75,,,King Benjamin,2,Cannondale Pro Cycling Team,-,2,2016
+26,174,,,Huffman Evan,3,Rally Cycling,-,2,2016
+25,78,,2.0,Wippert Wouter,4,Cannondale Pro Cycling Team,\u25bc2,2,2016
+22,84,,7.0,Bonifazio Niccolo,5,Trek - Segafredo,\u25b22,2,2016
+28,41,,,Kristoff Alexander,6,Team Katusha,-,2,2016
+24,91,,4.0,Coquard Bryan,7,Direct Energie,\u25bc3,2,2016
+22,111,,3.0,Groenewegen Dylan,8,Team LottoNL-Jumbo,\u25bc5,2,2016
+24,146,,5.0,Sheehan Michael,9,Jelly Belly p/b Maxxis,\u25bc4,2,2016
+31,167,,6.0,Verschoor Martijn,10,Team Novo Nordisk,\u25bc4,2,2016
+22,27,,,van Poppel Danny,11,Team Sky,-,2,2016
+21,135,,8.0,Guerreiro Ruben,12,Axeon Hagens Berman,\u25bc4,2,2016
+25,72,,,Bevin Patrick,13,Cannondale Pro Cycling Team,-,2,2016
+22,124,,9.0,Eaton Daniel,14,UnitedHealthcare Pro Cycling Team,\u25bc5,2,2016
+20,132,,,Barta William,15,Axeon Hagens Berman,-,2,2016
+35,12,,10.0,Boonen Tom,16,Etixx - Quick Step,\u25bc6,2,2016
+27,35,,,Haas Nathan,17,Team Dimension Data,-,2,2016
+24,162,,11.0,Henttala Joonas,18,Team Novo Nordisk,\u25bc7,2,2016
+29,53,,12.0,Drucker Jean-Pierre,19,BMC Racing Team,\u25bc7,2,2016
+23,107,,,Lunke Sindre Skj\xf8stad,20,Team Giant - Alpecin,-,2,2016
+27,122,,,Canola Marco,21,UnitedHealthcare Pro Cycling Team,-,2,2016
+25,145,,14.0,Rathe Jacob,22,Jelly Belly p/b Maxxis,\u25bc8,2,2016
+31,127,,13.0,Murphy John,23,UnitedHealthcare Pro Cycling Team,\u25bc10,2,2016
+26,1,22.0,1.0,Sagan Peter,1,Tinkoff,-,3,2016
+27,75,21.0,2.0,King Benjamin,2,Cannondale Pro Cycling Team,-,3,2016
+23,11,15.0,,Alaphilippe Julian,3,Etixx - Quick Step,-,3,2016
+26,174,14.0,3.0,Huffman Evan,4,Rally Cycling,\u25bc1,3,2016
+28,81,12.0,,Stetina Peter,5,Trek - Segafredo,-,3,2016
+25,78,12.0,4.0,Wippert Wouter,6,Cannondale Pro Cycling Team,\u25bc2,3,2016
+22,84,11.0,5.0,Bonifazio Niccolo,7,Trek - Segafredo,\u25bc2,3,2016
+26,112,9.0,,Bennett George,8,Team LottoNL-Jumbo,-,3,2016
+28,41,9.0,6.0,Kristoff Alexander,9,Team Katusha,\u25bc3,3,2016
+24,91,9.0,7.0,Coquard Bryan,10,Direct Energie,\u25bc3,3,2016
+22,111,9.0,8.0,Groenewegen Dylan,11,Team LottoNL-Jumbo,\u25bc3,3,2016
+32,51,7.0,,Bookwalter Brent,12,BMC Racing Team,-,3,2016
+24,146,6.0,9.0,Sheehan Michael,13,Jelly Belly p/b Maxxis,\u25bc4,3,2016
+29,67,6.0,,Tennant Andrew,14,Team Wiggins,-,3,2016
+19,138,6.0,,Powless Neilson,15,Axeon Hagens Berman,-,3,2016
+31,167,6.0,10.0,Verschoor Martijn,16,Team Novo Nordisk,\u25bc6,3,2016
+35,108,5.0,,ten Dam Laurens,17,Team Giant - Alpecin,-,3,2016
+22,27,5.0,11.0,van Poppel Danny,18,Team Sky,\u25bc7,3,2016
+24,141,4.0,,Morton Lachlan,19,Jelly Belly p/b Maxxis,-,3,2016
+21,135,4.0,12.0,Guerreiro Ruben,20,Axeon Hagens Berman,\u25bc8,3,2016
+25,72,4.0,13.0,Bevin Patrick,21,Cannondale Pro Cycling Team,\u25bc8,3,2016
+25,52,3.0,,Dennis Rohan,22,BMC Racing Team,-,3,2016
+27,35,3.0,17.0,Haas Nathan,23,Team Dimension Data,\u25bc6,3,2016
+35,12,3.0,16.0,Boonen Tom,24,Etixx - Quick Step,\u25bc8,3,2016
+22,124,3.0,14.0,Eaton Daniel,25,UnitedHealthcare Pro Cycling Team,\u25bc11,3,2016
+20,132,3.0,15.0,Barta William,26,Axeon Hagens Berman,\u25bc11,3,2016
+24,128,3.0,,Putt Tanner,27,UnitedHealthcare Pro Cycling Team,-,3,2016
+38,55,2.0,,S\xe1nchez Samuel,28,BMC Racing Team,-,3,2016
+21,134,2.0,,Daniel Gregory,29,Axeon Hagens Berman,-,3,2016
+24,162,2.0,18.0,Henttala Joonas,30,Team Novo Nordisk,\u25bc12,3,2016
+29,53,2.0,19.0,Drucker Jean-Pierre,31,BMC Racing Team,\u25bc12,3,2016
+27,71,1.0,,Talansky Andrew,32,Cannondale Pro Cycling Team,-,3,2016
+23,107,1.0,20.0,Lunke Sindre Skj\xf8stad,33,Team Giant - Alpecin,\u25bc13,3,2016
+25,145,1.0,22.0,Rathe Jacob,34,Jelly Belly p/b Maxxis,\u25bc12,3,2016
+27,122,1.0,21.0,Canola Marco,35,UnitedHealthcare Pro Cycling Team,\u25bc14,3,2016
+27,152,1.0,,Clark Oscar,36,Holowesko-Citadel Racing Team,-,3,2016
+31,127,1.0,23.0,Murphy John,37,UnitedHealthcare Pro Cycling Team,\u25bc14,3,2016
+26,1,38.0,1.0,Sagan Peter,1,Tinkoff,-,4,2016
+27,75,21.0,2.0,King Benjamin,2,Cannondale Pro Cycling Team,-,4,2016
+23,11,19.0,3.0,Alaphilippe Julian,3,Etixx - Quick Step,-,4,2016
+32,51,14.0,12.0,Bookwalter Brent,4,BMC Racing Team,\u25b28,4,2016
+26,174,14.0,4.0,Huffman Evan,5,Rally Cycling,\u25bc1,4,2016
+28,81,12.0,5.0,Stetina Peter,6,Trek - Segafredo,\u25bc1,4,2016
+27,35,12.0,23.0,Haas Nathan,7,Team Dimension Data,\u25b216,4,2016
+31,57,12.0,,Van Avermaet Greg,8,BMC Racing Team,-,4,2016
+25,78,12.0,6.0,Wippert Wouter,9,Cannondale Pro Cycling Team,\u25bc3,4,2016
+19,138,11.0,15.0,Powless Neilson,10,Axeon Hagens Berman,\u25b25,4,2016
+22,84,11.0,7.0,Bonifazio Niccolo,11,Trek - Segafredo,\u25bc4,4,2016
+26,112,9.0,8.0,Bennett George,12,Team LottoNL-Jumbo,\u25bc4,4,2016
+28,41,9.0,9.0,Kristoff Alexander,13,Team Katusha,\u25bc4,4,2016
+24,91,9.0,10.0,Coquard Bryan,14,Direct Energie,\u25bc4,4,2016
+22,111,9.0,11.0,Groenewegen Dylan,15,Team LottoNL-Jumbo,\u25bc4,4,2016
+25,52,7.0,22.0,Dennis Rohan,16,BMC Racing Team,\u25b26,4,2016
+24,146,6.0,13.0,Sheehan Michael,17,Jelly Belly p/b Maxxis,\u25bc4,4,2016
+29,67,6.0,14.0,Tennant Andrew,18,Team Wiggins,\u25bc4,4,2016
+21,131,6.0,,Geoghegan Hart Tao,19,Axeon Hagens Berman,-,4,2016
+31,167,6.0,16.0,Verschoor Martijn,20,Team Novo Nordisk,\u25bc4,4,2016
+35,108,5.0,17.0,ten Dam Laurens,21,Team Giant - Alpecin,\u25bc4,4,2016
+22,27,5.0,18.0,van Poppel Danny,22,Team Sky,\u25bc4,4,2016
+21,135,4.0,20.0,Guerreiro Ruben,23,Axeon Hagens Berman,\u25bc3,4,2016
+24,141,4.0,19.0,Morton Lachlan,24,Jelly Belly p/b Maxxis,\u25bc5,4,2016
+21,134,4.0,29.0,Daniel Gregory,25,Axeon Hagens Berman,\u25b24,4,2016
+25,72,4.0,21.0,Bevin Patrick,26,Cannondale Pro Cycling Team,\u25bc5,4,2016
+29,53,4.0,31.0,Drucker Jean-Pierre,27,BMC Racing Team,\u25b24,4,2016
+30,31,3.0,,Cavendish Mark,28,Team Dimension Data,-,4,2016
+33,48,3.0,,Van den Broeck Jurgen,29,Team Katusha,-,4,2016
+22,124,3.0,25.0,Eaton Daniel,30,UnitedHealthcare Pro Cycling Team,\u25bc5,4,2016
+35,12,3.0,24.0,Boonen Tom,31,Etixx - Quick Step,\u25bc7,4,2016
+20,132,3.0,26.0,Barta William,32,Axeon Hagens Berman,\u25bc6,4,2016
+24,128,3.0,27.0,Putt Tanner,33,UnitedHealthcare Pro Cycling Team,\u25bc6,4,2016
+38,55,2.0,28.0,S\xe1nchez Samuel,34,BMC Racing Team,\u25bc6,4,2016
+31,172,2.0,,Britton Rob,35,Rally Cycling,-,4,2016
+24,162,2.0,30.0,Henttala Joonas,36,Team Novo Nordisk,\u25bc6,4,2016
+27,71,1.0,32.0,Talansky Andrew,37,Cannondale Pro Cycling Team,\u25bc5,4,2016
+23,107,1.0,33.0,Lunke Sindre Skj\xf8stad,38,Team Giant - Alpecin,\u25bc5,4,2016
+25,145,1.0,34.0,Rathe Jacob,39,Jelly Belly p/b Maxxis,\u25bc5,4,2016
+27,122,1.0,35.0,Canola Marco,40,UnitedHealthcare Pro Cycling Team,\u25bc5,4,2016
+27,152,1.0,36.0,Clark Oscar,41,Holowesko-Citadel Racing Team,\u25bc5,4,2016
+32,178,1.0,,Routley Will,42,Rally Cycling,-,4,2016
+31,127,1.0,37.0,Murphy John,43,UnitedHealthcare Pro Cycling Team,\u25bc6,4,2016
+26,1,38.0,1.0,Sagan Peter,1,Tinkoff,-,5,2016
+23,11,23.0,3.0,Alaphilippe Julian,2,Etixx - Quick Step,\u25b21,5,2016
+27,75,21.0,2.0,King Benjamin,3,Cannondale Pro Cycling Team,\u25bc1,5,2016
+24,77,18.0,,Skuji\u0146\u0161 Toms,4,Cannondale Pro Cycling Team,-,5,2016
+32,51,14.0,4.0,Bookwalter Brent,5,BMC Racing Team,\u25bc1,5,2016
+26,174,14.0,5.0,Huffman Evan,6,Rally Cycling,\u25bc1,5,2016
+22,173,13.0,,De Vos Adam,7,Rally Cycling,-,5,2016
+28,81,12.0,6.0,Stetina Peter,8,Trek - Segafredo,\u25bc2,5,2016
+31,57,12.0,8.0,Van Avermaet Greg,9,BMC Racing Team,\u25bc1,5,2016
+27,35,12.0,7.0,Haas Nathan,10,Team Dimension Data,\u25bc3,5,2016
+25,78,12.0,9.0,Wippert Wouter,11,Cannondale Pro Cycling Team,\u25bc2,5,2016
+19,138,11.0,10.0,Powless Neilson,12,Axeon Hagens Berman,\u25bc2,5,2016
+39,28,11.0,,Zandio Xabier,13,Team Sky,-,5,2016
+22,84,11.0,11.0,Bonifazio Niccolo,14,Trek - Segafredo,\u25bc3,5,2016
+26,112,9.0,12.0,Bennett George,15,Team LottoNL-Jumbo,\u25bc3,5,2016
+25,52,9.0,16.0,Dennis Rohan,16,BMC Racing Team,-,5,2016
+28,41,9.0,13.0,Kristoff Alexander,17,Team Katusha,\u25bc4,5,2016
+24,91,9.0,14.0,Coquard Bryan,18,Direct Energie,\u25bc4,5,2016
+22,111,9.0,15.0,Groenewegen Dylan,19,Team LottoNL-Jumbo,\u25bc4,5,2016
+24,87,7.0,,Stuyven Jasper,20,Trek - Segafredo,-,5,2016
+24,146,6.0,17.0,Sheehan Michael,21,Jelly Belly p/b Maxxis,\u25bc4,5,2016
+29,67,6.0,18.0,Tennant Andrew,22,Team Wiggins,\u25bc4,5,2016
+21,131,6.0,19.0,Geoghegan Hart Tao,23,Axeon Hagens Berman,\u25bc4,5,2016
+21,47,6.0,,Restrepo Jhonatan,24,Team Katusha,-,5,2016
+31,167,6.0,20.0,Verschoor Martijn,25,Team Novo Nordisk,\u25bc5,5,2016
+35,108,5.0,21.0,ten Dam Laurens,26,Team Giant - Alpecin,\u25bc5,5,2016
+26,158,5.0,,Squire Rob,27,Holowesko-Citadel Racing Team,-,5,2016
+22,27,5.0,22.0,van Poppel Danny,28,Team Sky,\u25bc6,5,2016
+21,135,4.0,23.0,Guerreiro Ruben,29,Axeon Hagens Berman,\u25bc6,5,2016
+21,134,4.0,25.0,Daniel Gregory,30,Axeon Hagens Berman,\u25bc5,5,2016
+25,72,4.0,26.0,Bevin Patrick,31,Cannondale Pro Cycling Team,\u25bc5,5,2016
+29,53,4.0,27.0,Drucker Jean-Pierre,32,BMC Racing Team,\u25bc5,5,2016
+29,13,3.0,,Bouet Maxime,33,Etixx - Quick Step,-,5,2016
+30,31,3.0,28.0,Cavendish Mark,34,Team Dimension Data,\u25bc6,5,2016
+33,48,3.0,29.0,Van den Broeck Jurgen,35,Team Katusha,\u25bc6,5,2016
+27,157,3.0,,McCabe Travis,36,Holowesko-Citadel Racing Team,-,5,2016
+22,124,3.0,30.0,Eaton Daniel,37,UnitedHealthcare Pro Cycling Team,\u25bc7,5,2016
+35,12,3.0,31.0,Boonen Tom,38,Etixx - Quick Step,\u25bc7,5,2016
+20,132,3.0,32.0,Barta William,39,Axeon Hagens Berman,\u25bc7,5,2016
+24,128,3.0,33.0,Putt Tanner,40,UnitedHealthcare Pro Cycling Team,\u25bc7,5,2016
+38,55,2.0,34.0,S\xe1nchez Samuel,41,BMC Racing Team,\u25bc7,5,2016
+31,172,2.0,35.0,Britton Rob,42,Rally Cycling,\u25bc7,5,2016
+24,162,2.0,36.0,Henttala Joonas,43,Team Novo Nordisk,\u25bc7,5,2016
+30,14,2.0,,Maes Nikolas,44,Etixx - Quick Step,-,5,2016
+27,71,1.0,37.0,Talansky Andrew,45,Cannondale Pro Cycling Team,\u25bc8,5,2016
+24,73,1.0,,Craddock Lawson,46,Cannondale Pro Cycling Team,-,5,2016
+23,107,1.0,38.0,Lunke Sindre Skj\xf8stad,47,Team Giant - Alpecin,\u25bc9,5,2016
+25,145,1.0,39.0,Rathe Jacob,48,Jelly Belly p/b Maxxis,\u25bc9,5,2016
+27,122,1.0,40.0,Canola Marco,49,UnitedHealthcare Pro Cycling Team,\u25bc9,5,2016
+21,137,1.0,,Owen Logan,50,Axeon Hagens Berman,-,5,2016
+32,178,1.0,42.0,Routley Will,51,Rally Cycling,\u25bc9,5,2016
+27,152,1.0,41.0,Clark Oscar,52,Holowesko-Citadel Racing Team,\u25bc11,5,2016
+31,127,1.0,43.0,Murphy John,53,UnitedHealthcare Pro Cycling Team,\u25bc10,5,2016
+26,1,38.0,1.0,Sagan Peter,1,Tinkoff,-,6,2016
+23,11,26.0,2.0,Alaphilippe Julian,2,Etixx - Quick Step,-,6,2016
+25,52,24.0,16.0,Dennis Rohan,3,BMC Racing Team,\u25b213,6,2016
+27,75,21.0,3.0,King Benjamin,4,Cannondale Pro Cycling Team,\u25bc1,6,2016
+32,51,20.0,5.0,Bookwalter Brent,5,BMC Racing Team,-,6,2016
+24,77,18.0,4.0,Skuji\u0146\u0161 Toms,6,Cannondale Pro Cycling Team,\u25bc2,6,2016
+26,174,14.0,6.0,Huffman Evan,7,Rally Cycling,\u25bc1,6,2016
+27,71,13.0,45.0,Talansky Andrew,8,Cannondale Pro Cycling Team,\u25b237,6,2016
+22,173,13.0,7.0,De Vos Adam,9,Rally Cycling,\u25bc2,6,2016
+19,138,12.0,12.0,Powless Neilson,10,Axeon Hagens Berman,\u25b22,6,2016
+28,81,12.0,8.0,Stetina Peter,11,Trek - Segafredo,\u25bc3,6,2016
+31,57,12.0,9.0,Van Avermaet Greg,12,BMC Racing Team,\u25bc3,6,2016
+27,35,12.0,10.0,Haas Nathan,13,Team Dimension Data,\u25bc3,6,2016
+25,78,12.0,11.0,Wippert Wouter,14,Cannondale Pro Cycling Team,\u25bc3,6,2016
+39,28,11.0,13.0,Zandio Xabier,15,Team Sky,\u25bc2,6,2016
+22,84,11.0,14.0,Bonifazio Niccolo,16,Trek - Segafredo,\u25bc2,6,2016
+26,112,9.0,15.0,Bennett George,17,Team LottoNL-Jumbo,\u25bc2,6,2016
+25,54,9.0,,Phinney Taylor,18,BMC Racing Team,-,6,2016
+28,41,9.0,17.0,Kristoff Alexander,19,Team Katusha,\u25bc2,6,2016
+24,91,9.0,18.0,Coquard Bryan,20,Direct Energie,\u25bc2,6,2016
+22,111,9.0,19.0,Groenewegen Dylan,21,Team LottoNL-Jumbo,\u25bc2,6,2016
+24,87,7.0,20.0,Stuyven Jasper,22,Trek - Segafredo,\u25bc2,6,2016
+21,102,7.0,,Andersen S\xf8ren Kragh,23,Team Giant - Alpecin,-,6,2016
+24,146,6.0,21.0,Sheehan Michael,24,Jelly Belly p/b Maxxis,\u25bc3,6,2016
+29,67,6.0,22.0,Tennant Andrew,25,Team Wiggins,\u25bc3,6,2016
+21,131,6.0,23.0,Geoghegan Hart Tao,26,Axeon Hagens Berman,\u25bc3,6,2016
+21,47,6.0,24.0,Restrepo Jhonatan,27,Team Katusha,\u25bc3,6,2016
+31,167,6.0,25.0,Verschoor Martijn,28,Team Novo Nordisk,\u25bc3,6,2016
+24,73,5.0,46.0,Craddock Lawson,29,Cannondale Pro Cycling Team,\u25b217,6,2016
+35,108,5.0,26.0,ten Dam Laurens,30,Team Giant - Alpecin,\u25bc4,6,2016
+33,48,5.0,35.0,Van den Broeck Jurgen,31,Team Katusha,\u25b24,6,2016
+26,158,5.0,27.0,Squire Rob,32,Holowesko-Citadel Racing Team,\u25bc5,6,2016
+22,27,5.0,28.0,van Poppel Danny,33,Team Sky,\u25bc5,6,2016
+34,23,5.0,,Kiryienka Vasil,34,Team Sky,-,6,2016
+21,135,4.0,29.0,Guerreiro Ruben,35,Axeon Hagens Berman,\u25bc6,6,2016
+21,134,4.0,30.0,Daniel Gregory,36,Axeon Hagens Berman,\u25bc6,6,2016
+25,72,4.0,31.0,Bevin Patrick,37,Cannondale Pro Cycling Team,\u25bc6,6,2016
+29,53,4.0,32.0,Drucker Jean-Pierre,38,BMC Racing Team,\u25bc6,6,2016
+29,13,3.0,33.0,Bouet Maxime,39,Etixx - Quick Step,\u25bc6,6,2016
+30,31,3.0,34.0,Cavendish Mark,40,Team Dimension Data,\u25bc6,6,2016
+27,157,3.0,36.0,McCabe Travis,41,Holowesko-Citadel Racing Team,\u25bc5,6,2016
+22,124,3.0,37.0,Eaton Daniel,42,UnitedHealthcare Pro Cycling Team,\u25bc5,6,2016
+35,12,3.0,38.0,Boonen Tom,43,Etixx - Quick Step,\u25bc5,6,2016
+20,132,3.0,39.0,Barta William,44,Axeon Hagens Berman,\u25bc5,6,2016
+24,128,3.0,40.0,Putt Tanner,45,UnitedHealthcare Pro Cycling Team,\u25bc5,6,2016
+38,55,2.0,41.0,S\xe1nchez Samuel,46,BMC Racing Team,\u25bc5,6,2016
+31,172,2.0,42.0,Britton Rob,47,Rally Cycling,\u25bc5,6,2016
+24,162,2.0,43.0,Henttala Joonas,48,Team Novo Nordisk,\u25bc5,6,2016
+30,14,2.0,44.0,Maes Nikolas,49,Etixx - Quick Step,\u25bc5,6,2016
+23,107,1.0,47.0,Lunke Sindre Skj\xf8stad,50,Team Giant - Alpecin,\u25bc3,6,2016
+25,145,1.0,48.0,Rathe Jacob,51,Jelly Belly p/b Maxxis,\u25bc3,6,2016
+27,122,1.0,49.0,Canola Marco,52,UnitedHealthcare Pro Cycling Team,\u25bc3,6,2016
+21,137,1.0,50.0,Owen Logan,53,Axeon Hagens Berman,\u25bc3,6,2016
+32,178,1.0,51.0,Routley Will,54,Rally Cycling,\u25bc3,6,2016
+27,152,1.0,52.0,Clark Oscar,55,Holowesko-Citadel Racing Team,\u25bc3,6,2016
+31,127,1.0,53.0,Murphy John,56,UnitedHealthcare Pro Cycling Team,\u25bc3,6,2016
+26,1,56.0,1.0,Sagan Peter,1,Tinkoff,-,7,2016
+23,11,26.0,2.0,Alaphilippe Julian,2,Etixx - Quick Step,-,7,2016
+25,52,24.0,3.0,Dennis Rohan,3,BMC Racing Team,-,7,2016
+28,41,24.0,19.0,Kristoff Alexander,4,Team Katusha,\u25b215,7,2016
+27,75,21.0,4.0,King Benjamin,5,Cannondale Pro Cycling Team,\u25bc1,7,2016
+32,51,20.0,5.0,Bookwalter Brent,6,BMC Racing Team,\u25bc1,7,2016
+24,77,18.0,6.0,Skuji\u0146\u0161 Toms,7,Cannondale Pro Cycling Team,\u25bc1,7,2016
+31,57,16.0,12.0,Van Avermaet Greg,8,BMC Racing Team,\u25b24,7,2016
+24,91,15.0,20.0,Coquard Bryan,9,Direct Energie,\u25b211,7,2016
+22,27,14.0,33.0,van Poppel Danny,10,Team Sky,\u25b223,7,2016
+26,174,14.0,7.0,Huffman Evan,11,Rally Cycling,\u25bc4,7,2016
+27,71,13.0,8.0,Talansky Andrew,12,Cannondale Pro Cycling Team,\u25bc4,7,2016
+22,173,13.0,9.0,De Vos Adam,13,Rally Cycling,\u25bc4,7,2016
+19,138,12.0,10.0,Powless Neilson,14,Axeon Hagens Berman,\u25bc4,7,2016
+28,81,12.0,11.0,Stetina Peter,15,Trek - Segafredo,\u25bc4,7,2016
+24,87,12.0,22.0,Stuyven Jasper,16,Trek - Segafredo,\u25b26,7,2016
+27,35,12.0,13.0,Haas Nathan,17,Team Dimension Data,\u25bc4,7,2016
+39,28,11.0,15.0,Zandio Xabier,18,Team Sky,\u25bc3,7,2016
+22,84,11.0,16.0,Bonifazio Niccolo,19,Trek - Segafredo,\u25bc3,7,2016
+26,112,9.0,17.0,Bennett George,20,Team LottoNL-Jumbo,\u25bc3,7,2016
+25,54,9.0,18.0,Phinney Taylor,21,BMC Racing Team,\u25bc3,7,2016
+22,111,9.0,21.0,Groenewegen Dylan,22,Team LottoNL-Jumbo,\u25bc1,7,2016
+27,157,7.0,41.0,McCabe Travis,23,Holowesko-Citadel Racing Team,\u25b218,7,2016
+23,114,7.0,,Teunissen Mike,24,Team LottoNL-Jumbo,-,7,2016
+21,102,7.0,23.0,Andersen S\xf8ren Kragh,25,Team Giant - Alpecin,\u25bc2,7,2016
+24,146,6.0,24.0,Sheehan Michael,26,Jelly Belly p/b Maxxis,\u25bc2,7,2016
+29,67,6.0,25.0,Tennant Andrew,27,Team Wiggins,\u25bc2,7,2016
+21,131,6.0,26.0,Geoghegan Hart Tao,28,Axeon Hagens Berman,\u25bc2,7,2016
+21,47,6.0,27.0,Restrepo Jhonatan,29,Team Katusha,\u25bc2,7,2016
+31,167,6.0,28.0,Verschoor Martijn,30,Team Novo Nordisk,\u25bc2,7,2016
+24,73,5.0,29.0,Craddock Lawson,31,Cannondale Pro Cycling Team,\u25bc2,7,2016
+35,108,5.0,30.0,ten Dam Laurens,32,Team Giant - Alpecin,\u25bc2,7,2016
+33,48,5.0,31.0,Van den Broeck Jurgen,33,Team Katusha,\u25bc2,7,2016
+21,135,5.0,35.0,Guerreiro Ruben,34,Axeon Hagens Berman,\u25b21,7,2016
+26,158,5.0,32.0,Squire Rob,35,Holowesko-Citadel Racing Team,\u25bc3,7,2016
+34,23,5.0,34.0,Kiryienka Vasil,36,Team Sky,\u25bc2,7,2016
+21,134,4.0,36.0,Daniel Gregory,37,Axeon Hagens Berman,\u25bc1,7,2016
+25,72,4.0,37.0,Bevin Patrick,38,Cannondale Pro Cycling Team,\u25bc1,7,2016
+29,53,4.0,38.0,Drucker Jean-Pierre,39,BMC Racing Team,\u25bc1,7,2016
+29,13,3.0,39.0,Bouet Maxime,40,Etixx - Quick Step,\u25bc1,7,2016
+31,31,3.0,40.0,Cavendish Mark,41,Team Dimension Data,\u25bc1,7,2016
+27,101,3.0,,Degenkolb John,42,Team Giant - Alpecin,-,7,2016
+22,124,3.0,42.0,Eaton Daniel,43,UnitedHealthcare Pro Cycling Team,\u25bc1,7,2016
+35,12,3.0,43.0,Boonen Tom,44,Etixx - Quick Step,\u25bc1,7,2016
+20,132,3.0,44.0,Barta William,45,Axeon Hagens Berman,\u25bc1,7,2016
+24,128,3.0,45.0,Putt Tanner,46,UnitedHealthcare Pro Cycling Team,\u25bc1,7,2016
+38,55,2.0,46.0,S\xe1nchez Samuel,47,BMC Racing Team,\u25bc1,7,2016
+31,172,2.0,47.0,Britton Rob,48,Rally Cycling,\u25bc1,7,2016
+23,113,2.0,,Roosen Timo,49,Team LottoNL-Jumbo,-,7,2016
+24,162,2.0,48.0,Henttala Joonas,50,Team Novo Nordisk,\u25bc2,7,2016
+30,14,2.0,49.0,Maes Nikolas,51,Etixx - Quick Step,\u25bc2,7,2016
+32,164,1.0,,Megias Javier,52,Team Novo Nordisk,-,7,2016
+21,136,1.0,,Neilands Krists,53,Axeon Hagens Berman,-,7,2016
+23,107,1.0,50.0,Lunke Sindre Skj\xf8stad,54,Team Giant - Alpecin,\u25bc4,7,2016
+25,145,1.0,51.0,Rathe Jacob,55,Jelly Belly p/b Maxxis,\u25bc4,7,2016
+27,122,1.0,52.0,Canola Marco,56,UnitedHealthcare Pro Cycling Team,\u25bc4,7,2016
+21,137,1.0,53.0,Owen Logan,57,Axeon Hagens Berman,\u25bc4,7,2016
+32,178,1.0,54.0,Routley Will,58,Rally Cycling,\u25bc4,7,2016
+27,152,1.0,55.0,Clark Oscar,59,Holowesko-Citadel Racing Team,\u25bc4,7,2016
+31,127,1.0,56.0,Murphy John,60,UnitedHealthcare Pro Cycling Team,\u25bc4,7,2016
+26,1,68.0,1.0,Sagan Peter,1,Tinkoff,-,8,2016
+28,41,33.0,4.0,Kristoff Alexander,2,Team Katusha,\u25b22,8,2016
+23,11,26.0,2.0,Alaphilippe Julian,3,Etixx - Quick Step,\u25bc1,8,2016
+25,52,24.0,3.0,Dennis Rohan,4,BMC Racing Team,\u25bc1,8,2016
+27,75,21.0,5.0,King Benjamin,5,Cannondale Pro Cycling Team,-,8,2016
+22,27,21.0,10.0,van Poppel Danny,6,Team Sky,\u25b24,8,2016
+32,51,20.0,6.0,Bookwalter Brent,7,BMC Racing Team,\u25bc1,8,2016
+24,77,18.0,7.0,Skuji\u0146\u0161 Toms,8,Cannondale Pro Cycling Team,\u25bc1,8,2016
+31,31,18.0,41.0,Cavendish Mark,9,Team Dimension Data,\u25b232,8,2016
+31,57,16.0,8.0,Van Avermaet Greg,10,BMC Racing Team,\u25bc2,8,2016
+22,84,16.0,19.0,Bonifazio Niccolo,11,Trek - Segafredo,\u25b28,8,2016
+24,91,15.0,9.0,Coquard Bryan,12,Direct Energie,\u25bc3,8,2016
+26,174,14.0,11.0,Huffman Evan,13,Rally Cycling,\u25bc2,8,2016
+27,71,13.0,12.0,Talansky Andrew,14,Cannondale Pro Cycling Team,\u25bc2,8,2016
+22,173,13.0,13.0,De Vos Adam,15,Rally Cycling,\u25bc2,8,2016
+19,138,12.0,14.0,Powless Neilson,16,Axeon Hagens Berman,\u25bc2,8,2016
+28,81,12.0,15.0,Stetina Peter,17,Trek - Segafredo,\u25bc2,8,2016
+24,87,12.0,16.0,Stuyven Jasper,18,Trek - Segafredo,\u25bc2,8,2016
+27,35,12.0,17.0,Haas Nathan,19,Team Dimension Data,\u25bc2,8,2016
+39,28,11.0,18.0,Zandio Xabier,20,Team Sky,\u25bc2,8,2016
+22,111,11.0,22.0,Groenewegen Dylan,21,Team LottoNL-Jumbo,\u25b21,8,2016
+26,112,9.0,20.0,Bennett George,22,Team LottoNL-Jumbo,\u25bc2,8,2016
+27,101,9.0,42.0,Degenkolb John,23,Team Giant - Alpecin,\u25b219,8,2016
+25,54,9.0,21.0,Phinney Taylor,24,BMC Racing Team,\u25bc3,8,2016
+27,157,8.0,23.0,McCabe Travis,25,Holowesko-Citadel Racing Team,\u25bc2,8,2016
+29,53,8.0,39.0,Drucker Jean-Pierre,26,BMC Racing Team,\u25b213,8,2016
+23,114,7.0,24.0,Teunissen Mike,27,Team LottoNL-Jumbo,\u25bc3,8,2016
+21,102,7.0,25.0,Andersen S\xf8ren Kragh,28,Team Giant - Alpecin,\u25bc3,8,2016
+24,146,6.0,26.0,Sheehan Michael,29,Jelly Belly p/b Maxxis,\u25bc3,8,2016
+29,67,6.0,27.0,Tennant Andrew,30,Team Wiggins,\u25bc3,8,2016
+21,131,6.0,28.0,Geoghegan Hart Tao,31,Axeon Hagens Berman,\u25bc3,8,2016
+21,47,6.0,29.0,Restrepo Jhonatan,32,Team Katusha,\u25bc3,8,2016
+31,167,6.0,30.0,Verschoor Martijn,33,Team Novo Nordisk,\u25bc3,8,2016
+21,136,5.0,53.0,Neilands Krists,34,Axeon Hagens Berman,\u25b219,8,2016
+24,73,5.0,31.0,Craddock Lawson,35,Cannondale Pro Cycling Team,\u25bc4,8,2016
+33,48,5.0,33.0,Van den Broeck Jurgen,36,Team Katusha,\u25bc3,8,2016
+35,108,5.0,32.0,ten Dam Laurens,37,Team Giant - Alpecin,\u25bc5,8,2016
+21,135,5.0,34.0,Guerreiro Ruben,38,Axeon Hagens Berman,\u25bc4,8,2016
+26,158,5.0,35.0,Squire Rob,39,Holowesko-Citadel Racing Team,\u25bc4,8,2016
+34,23,5.0,36.0,Kiryienka Vasil,40,Team Sky,\u25bc4,8,2016
+36,126,4.0,,Jones Chris,41,UnitedHealthcare Pro Cycling Team,-,8,2016
+21,134,4.0,37.0,Daniel Gregory,42,Axeon Hagens Berman,\u25bc5,8,2016
+25,72,4.0,38.0,Bevin Patrick,43,Cannondale Pro Cycling Team,\u25bc5,8,2016
+29,13,3.0,40.0,Bouet Maxime,44,Etixx - Quick Step,\u25bc4,8,2016
+33,15,3.0,,Richeze Ariel Maximiliano,45,Etixx - Quick Step,-,8,2016
+22,124,3.0,43.0,Eaton Daniel,46,UnitedHealthcare Pro Cycling Team,\u25bc3,8,2016
+35,12,3.0,44.0,Boonen Tom,47,Etixx - Quick Step,\u25bc3,8,2016
+20,132,3.0,45.0,Barta William,48,Axeon Hagens Berman,\u25bc3,8,2016
+24,128,3.0,46.0,Putt Tanner,49,UnitedHealthcare Pro Cycling Team,\u25bc3,8,2016
+38,55,2.0,47.0,S\xe1nchez Samuel,50,BMC Racing Team,\u25bc3,8,2016
+31,172,2.0,48.0,Britton Rob,51,Rally Cycling,\u25bc3,8,2016
+23,113,2.0,49.0,Roosen Timo,52,Team LottoNL-Jumbo,\u25bc3,8,2016
+26,176,2.0,,Oronte Emerson,53,Rally Cycling,-,8,2016
+30,14,2.0,51.0,Maes Nikolas,54,Etixx - Quick Step,\u25bc3,8,2016
+31,76,2.0,,Marangoni Alan,55,Cannondale Pro Cycling Team,-,8,2016
+24,162,2.0,50.0,Henttala Joonas,56,Team Novo Nordisk,\u25bc6,8,2016
+32,164,1.0,52.0,Megias Javier,57,Team Novo Nordisk,\u25bc5,8,2016
+23,107,1.0,54.0,Lunke Sindre Skj\xf8stad,58,Team Giant - Alpecin,\u25bc4,8,2016
+27,122,1.0,56.0,Canola Marco,59,UnitedHealthcare Pro Cycling Team,\u25bc3,8,2016
+25,145,1.0,55.0,Rathe Jacob,60,Jelly Belly p/b Maxxis,\u25bc5,8,2016
+21,137,1.0,57.0,Owen Logan,61,Axeon Hagens Berman,\u25bc4,8,2016
+32,178,1.0,58.0,Routley Will,62,Rally Cycling,\u25bc4,8,2016
+27,152,1.0,59.0,Clark Oscar,63,Holowesko-Citadel Racing Team,\u25bc4,8,2016
+31,127,1.0,60.0,Murphy John,64,UnitedHealthcare Pro Cycling Team,\u25bc4,8,2016

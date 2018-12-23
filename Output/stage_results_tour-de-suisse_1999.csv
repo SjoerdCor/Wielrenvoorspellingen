@@ -1,0 +1,1313 @@
+Age,Avg,GC,GC-Time,Pnt,Rider,Rnk,Team,Time,stage,year
+30.0,50.0,1.0,+0:00,50.0,Jalabert Laurent,1,O.N.C.E. - Deutsche Bank,7:12 7:12,0,1999
+33.0,49.091,,+ -7:12,30.0,Ekimov Viatcheslav,2,Amica Chips - Costa de Almeria,0:08 0:08,0,1999
+25.0,48.758,3.0,+0:11,18.0,Schnider Daniel,3,,0:11 0:11,0,1999
+28.0,48.758,4.0,+0:11,13.0,Petito Roberto,4,Saeco - Cannondale,",, 0:11",0,1999
+28.0,48.648999999999994,5.0,+0:13,10.0,Dekker Erik,5,Rabobank ProTeam,0:12 0:12,0,1999
+30.0,48.648999999999994,6.0,+0:13,7.0,Wauters Marc,6,Rabobank ProTeam,",, 0:12",0,1999
+28.0,48.538999999999994,7.0,+0:13,4.0,Wesemann Steffen,7,Team Telekom,0:13 0:13,0,1999
+28.0,48.538999999999994,8.0,+0:14,3.0,Zberg Beat,8,Rabobank ProTeam,",, 0:13",0,1999
+29.0,48.43,9.0,+0:14,2.0,Hvastija Martin,9,,0:14 0:14,0,1999
+29.0,48.43,10.0,+0:14,1.0,Zarrabeitia Mikel,10,O.N.C.E. - Deutsche Bank,",, 0:14",0,1999
+25.0,48.43,,+ -7:12,,White Matthew,11,Vini Caldirola - Sidermec,",, 0:14",0,1999
+31.0,48.43,,+ -7:12,,Meier Roland,12,Cofidis,",, 0:14",0,1999
+25.0,48.43,,+ -7:12,,Sacchi Fabio,13,Polti,",, 0:14",0,1999
+30.0,48.214,,+ -7:12,,den Bakker Maarten,14,Rabobank ProTeam,0:16 0:16,0,1999
+28.0,48.107,,+ -7:12,,Honchar Serhiy,15,Vini Caldirola - Sidermec,0:17 0:17,0,1999
+27.0,48.107,,+ -7:12,,Camenzind Oscar,16,Lampre - Daikin - Colnago,",, 0:17",0,1999
+23.0,48.107,,+ -7:12,,Montgomery Sven,17,,",, 0:17",0,1999
+26.0,48.107,,+ -7:12,,Nardello Daniele,18,Mapei - Quickstep,",, 0:17",0,1999
+30.0,48.107,,+ -7:12,,Dufaux Laurent,19,Saeco - Cannondale,",, 0:17",0,1999
+25.0,48.107,,+ -7:12,,Tosatto Matteo,20,,",, 0:17",0,1999
+30.0,48.107,,+ -7:12,,Cuesta \xcd\xf1igo,21,O.N.C.E. - Deutsche Bank,",, 0:17",0,1999
+26.0,48.0,,+ -7:12,,Merckx Axel,22,Mapei - Quickstep,0:18 0:18,0,1999
+24.0,48.0,,+ -7:12,,Gwiazdowski Grzegorz,23,Cofidis,",, 0:18",0,1999
+29.0,47.894,,+ -7:12,,Meier Armin,24,Saeco - Cannondale,0:19 0:19,0,1999
+30.0,47.894,,+ -7:12,,Gualdi Mirko,25,Mobilvetta Design - Northwave,",, 0:19",0,1999
+29.0,47.788000000000004,,+ -7:12,,Guerini Giuseppe,26,Team Telekom,0:20 0:20,0,1999
+34.0,47.788000000000004,,+ -7:12,,Dierckxsens Ludo,27,Lampre - Daikin - Colnago,",, 0:20",0,1999
+28.0,47.788000000000004,,+ -7:12,,Pe\xf1a Miguel \xc1ngel,28,Banesto,",, 0:20",0,1999
+26.0,47.681999999999995,,+ -7:12,,Aebersold Niki,29,Rabobank ProTeam,0:21 0:21,0,1999
+27.0,47.681999999999995,,+ -7:12,,Ackermann Pierre,30,,",, 0:21",0,1999
+30.0,47.681999999999995,,+ -7:12,,Bortolami Gianluca,31,Vini Caldirola - Sidermec,",, 0:21",0,1999
+25.0,47.681999999999995,,+ -7:12,,Ullrich Jan,32,Team Telekom,",, 0:21",0,1999
+26.0,47.577,,+ -7:12,,Secchiari Francesco,33,Saeco - Cannondale,0:22 0:22,0,1999
+27.0,47.577,,+ -7:12,,Brasi Rossano,34,Polti,",, 0:22",0,1999
+26.0,47.577,,+ -7:12,,Celestino Mirko,35,Polti,",, 0:22",0,1999
+21.0,47.577,,+ -7:12,,Tessier Jean-Michel,36,La Fran\xe7aise des Jeux,",, 0:22",0,1999
+24.0,47.577,,+ -7:12,,Zberg Markus,37,Rabobank ProTeam,",, 0:22",0,1999
+27.0,47.473,,+ -7:12,,van Bon L\xe9on,38,Rabobank ProTeam,0:23 0:23,0,1999
+27.0,47.473,,+ -7:12,,Boogerd Michael,39,Rabobank ProTeam,",, 0:23",0,1999
+27.0,47.473,,+ -7:12,,Simoni Gilberto,40,,",, 0:23",0,1999
+31.0,47.473,,+ -7:12,,Baldato Fabio,41,,",, 0:23",0,1999
+,47.368,,+ -7:12,,Lejarreta Martin,42,,0:24 0:24,0,1999
+25.0,47.368,,+ -7:12,,De Paoli Daniele,43,Amica Chips - Costa de Almeria,",, 0:24",0,1999
+27.0,47.368,,+ -7:12,,Guesdon Fr\xe9d\xe9ric,44,La Fran\xe7aise des Jeux,",, 0:24",0,1999
+35.0,47.368,,+ -7:12,,Richard Pascal,45,Mobilvetta Design - Northwave,",, 0:24",0,1999
+30.0,47.265,,+ -7:12,,Faustini Stefano,46,Mobilvetta Design - Northwave,0:25 0:25,0,1999
+27.0,47.265,,+ -7:12,,Steels Tom,47,Mapei - Quickstep,",, 0:25",0,1999
+28.0,47.265,,+ -7:12,,Buschor Philipp,48,Post Swiss Team,",, 0:25",0,1999
+30.0,47.265,,+ -7:12,,Bramati Davide,49,Mapei - Quickstep,",, 0:25",0,1999
+25.0,47.162,,+ -7:12,,Sgambelluri Roberto,50,Cantina Tollo - Alexia Alluminio,0:26 0:26,0,1999
+22.0,47.162,,+ -7:12,,Nazon Jean-Patrick,51,La Fran\xe7aise des Jeux,",, 0:26",0,1999
+24.0,47.162,,+ -7:12,,Commesso Salvatore,52,Saeco - Cannondale,",, 0:26",0,1999
+25.0,47.059,,+ -7:12,,Bouyer Franck,53,La Fran\xe7aise des Jeux,0:27 0:27,0,1999
+27.0,47.059,,+ -7:12,,Horner Chris,54,La Fran\xe7aise des Jeux,",, 0:27",0,1999
+25.0,47.059,,+ -7:12,,Piovaccari Giusvan,55,Cantina Tollo - Alexia Alluminio,",, 0:27",0,1999
+30.0,46.957,,+ -7:12,,Mengin Christophe,56,La Fran\xe7aise des Jeux,0:28 0:28,0,1999
+23.0,46.957,,+ -7:12,,Belohvosciks Raivis,57,Lampre - Daikin - Colnago,",, 0:28",0,1999
+26.0,46.957,,+ -7:12,,Mondini Gianpaolo,58,Cantina Tollo - Alexia Alluminio,",, 0:28",0,1999
+28.0,46.855,,+ -7:12,,Missaglia Gabriele,59,Lampre - Daikin - Colnago,0:29 0:29,0,1999
+28.0,46.855,,+ -7:12,,Gasperoni Cristian,60,Cantina Tollo - Alexia Alluminio,",, 0:29",0,1999
+36.0,46.855,,+ -7:12,,Martinello Silvio,61,Polti,",, 0:29",0,1999
+35.0,46.855,,+ -7:12,,Elli Alberto,62,Team Telekom,",, 0:29",0,1999
+27.0,46.855,,+ -7:12,,Bertolini Alessandro,63,Mobilvetta Design - Northwave,",, 0:29",0,1999
+24.0,46.753,,+ -7:12,,Heule Christian,64,,0:30 0:30,0,1999
+22.0,46.753,,+ -7:12,,Jaksche Jorg,65,Team Telekom,",, 0:30",0,1999
+30.0,46.753,,+ -7:12,,Tonkov Pavel,66,Mapei - Quickstep,",, 0:30",0,1999
+34.0,46.753,,+ -7:12,,S\xf8rensen Rolf,67,Rabobank ProTeam,",, 0:30",0,1999
+31.0,46.753,,+ -7:12,,Lelli Massimiliano,68,Cofidis,",, 0:30",0,1999
+35.0,46.652,,+ -7:12,,Riis Bjarne,69,Team Telekom,0:31 0:31,0,1999
+25.0,46.652,,+ -7:12,,Puglioli Mirko,70,,",, 0:31",0,1999
+33.0,46.652,,+ -7:12,,Jaermann Rolf,71,Post Swiss Team,",, 0:31",0,1999
+29.0,46.652,,+ -7:12,,Themann Michael,72,,",, 0:31",0,1999
+28.0,46.652,,+ -7:12,,Valoti Paolo,73,Mobilvetta Design - Northwave,",, 0:31",0,1999
+30.0,46.652,,+ -7:12,,Leysen Bart,74,Mapei - Quickstep,",, 0:31",0,1999
+,46.552,,+ -7:12,,Fernandez Manuel,75,,0:32 0:32,0,1999
+28.0,46.552,,+ -7:12,,Vetsch Patrick,76,,",, 0:32",0,1999
+32.0,46.552,,+ -7:12,,Baronti Alessandro,77,Cantina Tollo - Alexia Alluminio,",, 0:32",0,1999
+28.0,46.552,,+ -7:12,,Casagrande Francesco,78,Vini Caldirola - Sidermec,",, 0:32",0,1999
+21.0,46.552,,+ -7:12,,Nozal Isidro,79,O.N.C.E. - Deutsche Bank,",, 0:32",0,1999
+35.0,46.452,,+ -7:12,,Gianetti Mauro,80,Vini Caldirola - Sidermec,0:33 0:33,0,1999
+32.0,46.452,,+ -7:12,,Sciandri Maximilian,81,La Fran\xe7aise des Jeux,",, 0:33",0,1999
+27.0,46.352,,+ -7:12,,Loda Nicola,82,,0:34 0:34,0,1999
+31.0,46.352,,+ -7:12,,Cattai Stefano,83,Polti,",, 0:34",0,1999
+31.0,46.352,,+ -7:12,,Galletti Alessio,84,Saeco - Cannondale,",, 0:34",0,1999
+33.0,46.352,,+ -7:12,,Tebaldi Valerio,85,Mobilvetta Design - Northwave,",, 0:34",0,1999
+24.0,46.352,,+ -7:12,,Ca\xf1ada David,86,,",, 0:34",0,1999
+24.0,46.352,,+ -7:12,,Perque Franck,87,La Fran\xe7aise des Jeux,",, 0:34",0,1999
+27.0,46.253,,+ -7:12,,Colombo Gabriele,88,Cantina Tollo - Alexia Alluminio,0:35 0:35,0,1999
+26.0,46.253,,+ -7:12,,Morscher Harald,89,Saeco - Cannondale,",, 0:35",0,1999
+33.0,46.253,,+ -7:12,,Roscioli Fabio,90,Amica Chips - Costa de Almeria,",, 0:35",0,1999
+30.0,46.253,,+ -7:12,,De Pasquale Maurizio,91,,",, 0:35",0,1999
+24.0,46.253,,+ -7:12,,Giunti Massimo,92,Cantina Tollo - Alexia Alluminio,",, 0:35",0,1999
+26.0,46.253,,+ -7:12,,Murtas Emiliano,93,,",, 0:35",0,1999
+38.0,46.253,,+ -7:12,,Ugrumov Piotr,94,,",, 0:35",0,1999
+26.0,46.153999999999996,,+ -7:12,,Sidler Christian,95,,0:36 0:36,0,1999
+33.0,46.153999999999996,,+ -7:12,,Museeuw Johan,96,Mapei - Quickstep,",, 0:36",0,1999
+23.0,46.153999999999996,,+ -7:12,,Trentin Guido,97,Vini Caldirola - Sidermec,",, 0:36",0,1999
+26.0,46.153999999999996,,+ -7:12,,Serpellini Marco,98,Lampre - Daikin - Colnago,",, 0:36",0,1999
+26.0,46.055,,+ -7:12,,Zanetti Mauro,99,,0:37 0:37,0,1999
+24.0,46.055,,+ -7:12,,Bertoletti Simone,100,Lampre - Daikin - Colnago,",, 0:37",0,1999
+27.0,45.957,,+ -7:12,,Crepaldi Mirco,101,Polti,0:38 0:38,0,1999
+34.0,45.957,,+ -7:12,,Peeters Wilfried,102,Mapei - Quickstep,",, 0:38",0,1999
+28.0,45.957,,+ -7:12,,Gimondi Massimo,103,,",, 0:38",0,1999
+30.0,45.86,,+ -7:12,,Hundertmarck Kai,104,Team Telekom,0:39 0:39,0,1999
+23.0,45.86,,+ -7:12,,Haymoz Yvan,105,Post Swiss Team,",, 0:39",0,1999
+30.0,45.763000000000005,,+ -7:12,,Lupi Emanuele,106,,0:40 0:40,0,1999
+31.0,45.763000000000005,,+ -7:12,,Puttini Felice,107,Amica Chips - Costa de Almeria,",, 0:40",0,1999
+26.0,45.763000000000005,,+ -7:12,,Dellavedova Marco,108,Lampre - Daikin - Colnago,",, 0:40",0,1999
+30.0,45.763000000000005,,+ -7:12,,Michaelsen Lars,109,La Fran\xe7aise des Jeux,",, 0:40",0,1999
+23.0,45.666000000000004,,+ -7:12,,Giacomelli Sandro,110,,0:41 0:41,0,1999
+26.0,45.666000000000004,,+ -7:12,,Gohring Christoph,111,,",, 0:41",0,1999
+27.0,45.666000000000004,,+ -7:12,,Barnsley Chris,112,,",, 0:41",0,1999
+28.0,45.666000000000004,,+ -7:12,,Garcia Marcelino,113,,",, 0:41",0,1999
+29.0,45.666000000000004,,+ -7:12,,Bourquenoud Pierre,114,Post Swiss Team,",, 0:41",0,1999
+23.0,45.57,,+ -7:12,,Charriere Christian,115,,0:42 0:42,0,1999
+36.0,45.57,,+ -7:12,,Casagrande Stefano,116,,",, 0:42",0,1999
+28.0,45.57,,+ -7:12,,Patuelli Andrea,117,,",, 0:42",0,1999
+23.0,45.57,,+ -7:12,,Plouhinec Samuel,118,Cofidis,",, 0:42",0,1999
+29.0,45.474,,+ -7:12,,Manzoni Mario,119,Mobilvetta Design - Northwave,0:43 0:43,0,1999
+28.0,45.474,,+ -7:12,,Christen Josef,120,,",, 0:43",0,1999
+31.0,45.474,,+ -7:12,,Finco Carlo,121,,",, 0:43",0,1999
+24.0,45.474,,+ -7:12,,Pugaci Igor,122,Saeco - Cannondale,",, 0:43",0,1999
+29.0,45.378,,+ -7:12,,Lamour Claude,123,Cofidis,0:44 0:44,0,1999
+26.0,45.378,,+ -7:12,,Lelekin Sergue\xef,124,Mobilvetta Design - Northwave,",, 0:44",0,1999
+26.0,45.378,,+ -7:12,,Zumsteg Lukas,125,,",, 0:44",0,1999
+23.0,45.378,,+ -7:12,,Di Biase Moreno,126,Cantina Tollo - Alexia Alluminio,",, 0:44",0,1999
+27.0,45.283,,+ -7:12,,Tronca Amilcare,127,Amica Chips - Costa de Almeria,0:45 0:45,0,1999
+29.0,45.283,,+ -7:12,,Lombardi Giovanni,128,Team Telekom,",, 0:45",0,1999
+23.0,45.188,,+ -7:12,,Ongarato Alberto,129,,0:46 0:46,0,1999
+29.0,45.188,,+ -7:12,,Von Flue Daniel,130,,",, 0:46",0,1999
+27.0,45.188,,+ -7:12,,Beuchat Roger,131,,",, 0:46",0,1999
+25.0,45.093999999999994,,+ -7:12,,Mazzanti Luca,132,Cantina Tollo - Alexia Alluminio,0:47 0:47,0,1999
+28.0,45.0,,+ -7:12,,Zucchi Simone,133,Polti,0:48 0:48,0,1999
+26.0,45.0,,+ -7:12,,Krzeszowiec Artur,134,,",, 0:48",0,1999
+25.0,44.813,,+ -7:12,,Cannone Marco,135,,0:50 0:50,0,1999
+27.0,44.72,,+ -7:12,,Pretot Arnaud,136,Cofidis,0:51 0:51,0,1999
+29.0,44.72,,+ -7:12,,Goubert Stephane,137,Polti,",, 0:51",0,1999
+,44.72,,+ -7:12,,Delbove Jerome,138,,",, 0:51",0,1999
+23.0,44.536,,+ -7:12,,Loder Thierry,139,Cofidis,0:53 0:53,0,1999
+23.0,44.443999999999996,,+ -7:12,,Smirnov Maxim,140,,0:54 0:54,0,1999
+27.0,44.443999999999996,,+ -7:12,,Traversoni Mario,141,Saeco - Cannondale,",, 0:54",0,1999
+26.0,44.443999999999996,,+ -7:12,,Rokia Anthony,142,Cofidis,",, 0:54",0,1999
+24.0,44.353,,+ -7:12,,Atienza Daniel,143,Polti,0:55 0:55,0,1999
+31.0,44.082,,+ -7:12,,Verstrepen Johan,144,Lampre - Daikin - Colnago,0:58 0:58,0,1999
+33.0,44.082,,+ -7:12,,Spruch Zbigniew,145,Lampre - Daikin - Colnago,",, 0:58",0,1999
+27.0,43.992,,+ -7:12,,Leporatti Simone,146,,0:59 0:59,0,1999
+26.0,43.902,,+ -7:12,,Luttenberger Peter,147,O.N.C.E. - Deutsche Bank,1:00 1:00,0,1999
+27.0,43.725,,+ -7:12,,Baldinger Dirk,148,Team Telekom,1:02 1:02,0,1999
+25.0,43.636,,+ -7:12,,Zattoni Gilberto,149,,1:03 1:03,0,1999
+23.0,43.114,,+ -7:12,,Jones Timothy,150,,1:09 1:09,0,1999
+27.0,42.942,,+ -7:12,,Varocchi Alessandro,151,,1:11 1:11,0,1999
+24.0,42.688,,+ -7:12,,Galli Daniele,152,Amica Chips - Costa de Almeria,1:14 1:14,0,1999
+35.0,,3.0,+0:19,50.0,Richard Pascal,1,Mobilvetta Design - Northwave,4:46:05 4:46:05,1,1999
+28.0,,,+ -4:53:13,30.0,Casagrande Francesco,2,Vini Caldirola - Sidermec,0:01 0:01,1,1999
+30.0,,1.0,+0:00,18.0,Jalabert Laurent,3,O.N.C.E. - Deutsche Bank,",, 0:01",1,1999
+30.0,,4.0,+0:23,13.0,Dufaux Laurent,4,Saeco - Cannondale,",, 0:01",1,1999
+27.0,,10.0,+0:29,10.0,Simoni Gilberto,5,,0:02 0:02,1,1999
+27.0,,5.0,+0:23,7.0,Camenzind Oscar,6,Lampre - Daikin - Colnago,",, 0:02",1,1999
+28.0,,2.0,+0:18,4.0,Petito Roberto,7,Saeco - Cannondale,0:03 0:03,1,1999
+25.0,,,+ -4:53:13,3.0,De Paoli Daniele,8,Amica Chips - Costa de Almeria,",, 0:03",1,1999
+24.0,,,+ -4:53:13,2.0,Zberg Markus,9,Rabobank ProTeam,0:04 0:04,1,1999
+29.0,,8.0,+0:27,1.0,Meier Armin,10,Saeco - Cannondale,",, 0:04",1,1999
+30.0,,,+ -4:53:13,,Tonkov Pavel,11,Mapei - Quickstep,",, 0:04",1,1999
+28.0,,6.0,+0:24,,Zberg Beat,12,Rabobank ProTeam,0:06 0:06,1,1999
+25.0,,7.0,+0:27,,White Matthew,13,Vini Caldirola - Sidermec,0:08 0:08,1,1999
+35.0,,,+ -4:53:13,,Elli Alberto,14,Team Telekom,0:10 0:10,1,1999
+26.0,,,+ -4:53:13,,Merckx Axel,15,Mapei - Quickstep,0:13 0:13,1,1999
+28.0,,,+ -4:53:13,,Gasperoni Cristian,16,Cantina Tollo - Alexia Alluminio,",, 0:13",1,1999
+31.0,,,+ -4:53:13,,Meier Roland,17,Cofidis,",, 0:13",1,1999
+25.0,,9.0,+0:28,,Schnider Daniel,18,,",, 0:13",1,1999
+31.0,,,+ -4:53:13,,Puttini Felice,19,Amica Chips - Costa de Almeria,",, 0:13",1,1999
+23.0,,,+ -4:53:13,,Montgomery Sven,20,,",, 0:13",1,1999
+35.0,,,+ -4:53:13,,Gianetti Mauro,21,Vini Caldirola - Sidermec,0:15 0:15,1,1999
+26.0,,,+ -4:53:13,,Secchiari Francesco,22,Saeco - Cannondale,",, 0:15",1,1999
+26.0,,,+ -4:53:13,,Celestino Mirko,23,Polti,",, 0:15",1,1999
+24.0,,,+ -4:53:13,,Pugaci Igor,24,Saeco - Cannondale,0:17 0:17,1,1999
+28.0,,,+ -4:53:13,,Buschor Philipp,25,Post Swiss Team,0:18 0:18,1,1999
+23.0,,,+ -4:53:13,,Jones Timothy,26,,",, 0:18",1,1999
+33.0,,,+ -4:53:13,,Museeuw Johan,27,Mapei - Quickstep,",, 0:18",1,1999
+28.0,,,+ -4:53:13,,Missaglia Gabriele,28,Lampre - Daikin - Colnago,",, 0:18",1,1999
+,,,+ -4:53:13,,Fernandez Manuel,29,,",, 0:18",1,1999
+33.0,,,+ -4:53:13,,Ekimov Viatcheslav,30,Amica Chips - Costa de Almeria,",, 0:18",1,1999
+28.0,,,+ -4:53:13,,Wesemann Steffen,31,Team Telekom,0:20 0:20,1,1999
+26.0,,,+ -4:53:13,,Aebersold Niki,32,Rabobank ProTeam,",, 0:20",1,1999
+28.0,,,+ -4:53:13,,Valoti Paolo,33,Mobilvetta Design - Northwave,0:24 0:24,1,1999
+29.0,,,+ -4:53:13,,Zarrabeitia Mikel,34,O.N.C.E. - Deutsche Bank,0:30 0:30,1,1999
+26.0,,,+ -4:53:13,,Morscher Harald,35,Saeco - Cannondale,",, 0:30",1,1999
+27.0,,,+ -4:53:13,,Tronca Amilcare,36,Amica Chips - Costa de Almeria,",, 0:30",1,1999
+24.0,,,+ -4:53:13,,Atienza Daniel,37,Polti,",, 0:30",1,1999
+29.0,,,+ -4:53:13,,Hvastija Martin,38,,",, 0:30",1,1999
+29.0,,,+ -4:53:13,,Goubert Stephane,39,Polti,",, 0:30",1,1999
+25.0,,,+ -4:53:13,,Piovaccari Giusvan,40,Cantina Tollo - Alexia Alluminio,",, 0:30",1,1999
+31.0,,,+ -4:53:13,,Cattai Stefano,41,Polti,",, 0:30",1,1999
+26.0,,,+ -4:53:13,,Gohring Christoph,42,,0:36 0:36,1,1999
+26.0,,,+ -4:53:13,,Nardello Daniele,43,Mapei - Quickstep,",, 0:36",1,1999
+24.0,,,+ -4:53:13,,Commesso Salvatore,44,Saeco - Cannondale,0:44 0:44,1,1999
+23.0,,,+ -4:53:13,,Belohvosciks Raivis,45,Lampre - Daikin - Colnago,",, 0:44",1,1999
+30.0,,,+ -4:53:13,,Hundertmarck Kai,46,Team Telekom,",, 0:44",1,1999
+29.0,,,+ -4:53:13,,Guerini Giuseppe,47,Team Telekom,0:50 0:50,1,1999
+26.0,,,+ -4:53:13,,Dellavedova Marco,48,Lampre - Daikin - Colnago,",, 0:50",1,1999
+30.0,,,+ -4:53:13,,Faustini Stefano,49,Mobilvetta Design - Northwave,",, 0:50",1,1999
+24.0,,,+ -4:53:13,,Gwiazdowski Grzegorz,50,Cofidis,",, 0:50",1,1999
+29.0,,,+ -4:53:13,,Bourquenoud Pierre,51,Post Swiss Team,",, 0:50",1,1999
+34.0,,,+ -4:53:13,,Dierckxsens Ludo,52,Lampre - Daikin - Colnago,",, 0:50",1,1999
+27.0,,,+ -4:53:13,,Horner Chris,53,La Fran\xe7aise des Jeux,",, 0:50",1,1999
+28.0,,,+ -4:53:13,,Vetsch Patrick,54,,",, 0:50",1,1999
+27.0,,,+ -4:53:13,,Boogerd Michael,55,Rabobank ProTeam,",, 0:50",1,1999
+36.0,,,+ -4:53:13,,Martinello Silvio,56,Polti,",, 0:50",1,1999
+23.0,,,+ -4:53:13,,Haymoz Yvan,57,Post Swiss Team,",, 0:50",1,1999
+23.0,,,+ -4:53:13,,Charriere Christian,58,,",, 0:50",1,1999
+26.0,,,+ -4:53:13,,Serpellini Marco,59,Lampre - Daikin - Colnago,",, 0:50",1,1999
+25.0,,,+ -4:53:13,,Sgambelluri Roberto,60,Cantina Tollo - Alexia Alluminio,",, 0:50",1,1999
+25.0,,,+ -4:53:13,,Tosatto Matteo,61,,",, 0:50",1,1999
+34.0,,,+ -4:53:13,,Peeters Wilfried,62,Mapei - Quickstep,1:00 1:00,1,1999
+22.0,,,+ -4:53:13,,Jaksche Jorg,63,Team Telekom,",, 1:00",1,1999
+33.0,,,+ -4:53:13,,Jaermann Rolf,64,Post Swiss Team,1:05 1:05,1,1999
+26.0,,,+ -4:53:13,,Lelekin Sergue\xef,65,Mobilvetta Design - Northwave,1:08 1:08,1,1999
+38.0,,,+ -4:53:13,,Ugrumov Piotr,66,,1:18 1:18,1,1999
+31.0,,,+ -4:53:13,,Lelli Massimiliano,67,Cofidis,",, 1:18",1,1999
+31.0,,,+ -4:53:13,,Baldato Fabio,68,,",, 1:18",1,1999
+23.0,,,+ -4:53:13,,Smirnov Maxim,69,,1:22 1:22,1,1999
+21.0,,,+ -4:53:13,,Tessier Jean-Michel,70,La Fran\xe7aise des Jeux,",, 1:22",1,1999
+25.0,,,+ -4:53:13,,Puglioli Mirko,71,,",, 1:22",1,1999
+29.0,,,+ -4:53:13,,Lamour Claude,72,Cofidis,",, 1:22",1,1999
+27.0,,,+ -4:53:13,,Bertolini Alessandro,73,Mobilvetta Design - Northwave,",, 1:22",1,1999
+30.0,,,+ -4:53:13,,De Pasquale Maurizio,74,,1:28 1:28,1,1999
+28.0,,,+ -4:53:13,,Christen Josef,75,,1:36 1:36,1,1999
+25.0,,,+ -4:53:13,,Bouyer Franck,76,La Fran\xe7aise des Jeux,",, 1:36",1,1999
+26.0,,,+ -4:53:13,,Murtas Emiliano,77,,",, 1:36",1,1999
+31.0,,,+ -4:53:13,,Galletti Alessio,78,Saeco - Cannondale,",, 1:36",1,1999
+25.0,,,+ -4:53:13,,Sacchi Fabio,79,Polti,1:42 1:42,1,1999
+33.0,,,+ -4:53:13,,Tebaldi Valerio,80,Mobilvetta Design - Northwave,1:47 1:47,1,1999
+29.0,,,+ -4:53:13,,Von Flue Daniel,81,,1:51 1:51,1,1999
+24.0,,,+ -4:53:13,,Heule Christian,82,,",, 1:51",1,1999
+35.0,,,+ -4:53:13,,Riis Bjarne,83,Team Telekom,1:55 1:55,1,1999
+30.0,,,+ -4:53:13,,Gualdi Mirko,84,Mobilvetta Design - Northwave,",, 1:55",1,1999
+30.0,,,+ -4:53:13,,Cuesta \xcd\xf1igo,85,O.N.C.E. - Deutsche Bank,2:08 2:08,1,1999
+24.0,,,+ -4:53:13,,Perque Franck,86,La Fran\xe7aise des Jeux,2:14 2:14,1,1999
+30.0,,,+ -4:53:13,,Mengin Christophe,87,La Fran\xe7aise des Jeux,",, 2:14",1,1999
+30.0,,,+ -4:53:13,,Bortolami Gianluca,88,Vini Caldirola - Sidermec,",, 2:14",1,1999
+27.0,,,+ -4:53:13,,Barnsley Chris,89,,2:22 2:22,1,1999
+28.0,,,+ -4:53:13,,Gimondi Massimo,90,,",, 2:22",1,1999
+28.0,,,+ -4:53:13,,Honchar Serhiy,91,Vini Caldirola - Sidermec,2:28 2:28,1,1999
+30.0,,,+ -4:53:13,,den Bakker Maarten,92,Rabobank ProTeam,",, 2:28",1,1999
+23.0,,,+ -4:53:13,,Loder Thierry,93,Cofidis,",, 2:28",1,1999
+27.0,,,+ -4:53:13,,Loda Nicola,94,,2:48 2:48,1,1999
+30.0,,,+ -4:53:13,,Bramati Davide,95,Mapei - Quickstep,",, 2:48",1,1999
+29.0,,,+ -4:53:13,,Manzoni Mario,96,Mobilvetta Design - Northwave,",, 2:48",1,1999
+23.0,,,+ -4:53:13,,Di Biase Moreno,97,Cantina Tollo - Alexia Alluminio,",, 2:48",1,1999
+27.0,,,+ -4:53:13,,Ackermann Pierre,98,,2:59 2:59,1,1999
+26.0,,,+ -4:53:13,,Mondini Gianpaolo,99,Cantina Tollo - Alexia Alluminio,3:01 3:01,1,1999
+33.0,,,+ -4:53:13,,Spruch Zbigniew,100,Lampre - Daikin - Colnago,3:16 3:16,1,1999
+24.0,,,+ -4:53:13,,Bertoletti Simone,101,Lampre - Daikin - Colnago,",, 3:16",1,1999
+30.0,,,+ -4:53:13,,Wauters Marc,102,Rabobank ProTeam,",, 3:16",1,1999
+30.0,,,+ -4:53:13,,Leysen Bart,103,Mapei - Quickstep,",, 3:16",1,1999
+27.0,,,+ -4:53:13,,Beuchat Roger,104,,",, 3:16",1,1999
+30.0,,,+ -4:53:13,,Michaelsen Lars,105,La Fran\xe7aise des Jeux,",, 3:16",1,1999
+33.0,,,+ -4:53:13,,Roscioli Fabio,106,Amica Chips - Costa de Almeria,",, 3:16",1,1999
+31.0,,,+ -4:53:13,,Finco Carlo,107,,",, 3:16",1,1999
+23.0,,,+ -4:53:13,,Trentin Guido,108,Vini Caldirola - Sidermec,",, 3:16",1,1999
+27.0,,,+ -4:53:13,,Guesdon Fr\xe9d\xe9ric,109,La Fran\xe7aise des Jeux,",, 3:16",1,1999
+28.0,,,+ -4:53:13,,Patuelli Andrea,110,,",, 3:16",1,1999
+30.0,,,+ -4:53:13,,Lupi Emanuele,111,,",, 3:16",1,1999
+28.0,,,+ -4:53:13,,Dekker Erik,112,Rabobank ProTeam,3:39 3:39,1,1999
+36.0,,,+ -4:53:13,,Casagrande Stefano,113,,4:12 4:12,1,1999
+27.0,,,+ -4:53:13,,Steels Tom,114,Mapei - Quickstep,4:21 4:21,1,1999
+29.0,,,+ -4:53:13,,Themann Michael,115,,4:32 4:32,1,1999
+26.0,,,+ -4:53:13,,Zumsteg Lukas,116,,",, 4:32",1,1999
+23.0,,,+ -4:53:13,,Ongarato Alberto,117,,4:34 4:34,1,1999
+29.0,,,+ -4:53:13,,Lombardi Giovanni,118,Team Telekom,",, 4:34",1,1999
+27.0,,,+ -4:53:13,,Brasi Rossano,119,Polti,",, 4:34",1,1999
+25.0,,,+ -4:53:13,,Mazzanti Luca,120,Cantina Tollo - Alexia Alluminio,",, 4:34",1,1999
+23.0,,,+ -4:53:13,,Giacomelli Sandro,121,,",, 4:34",1,1999
+34.0,,,+ -4:53:13,,S\xf8rensen Rolf,122,Rabobank ProTeam,",, 4:34",1,1999
+27.0,,,+ -4:53:13,,Traversoni Mario,123,Saeco - Cannondale,",, 4:34",1,1999
+32.0,,,+ -4:53:13,,Baronti Alessandro,124,Cantina Tollo - Alexia Alluminio,",, 4:34",1,1999
+27.0,,,+ -4:53:13,,Leporatti Simone,125,,",, 4:34",1,1999
+27.0,,,+ -4:53:13,,Baldinger Dirk,126,Team Telekom,",, 4:34",1,1999
+32.0,,,+ -4:53:13,,Sciandri Maximilian,127,La Fran\xe7aise des Jeux,",, 4:34",1,1999
+27.0,,,+ -4:53:13,,Varocchi Alessandro,128,,",, 4:34",1,1999
+27.0,,,+ -4:53:13,,van Bon L\xe9on,129,Rabobank ProTeam,4:57 4:57,1,1999
+28.0,,,+ -4:53:13,,Pe\xf1a Miguel \xc1ngel,130,Banesto,6:37 6:37,1,1999
+27.0,,,+ -4:53:13,,Colombo Gabriele,131,Cantina Tollo - Alexia Alluminio,11:31 11:31,1,1999
+25.0,,,+ -4:53:13,,Cannone Marco,132,,",, 11:31",1,1999
+24.0,,,+ -4:53:13,,Giunti Massimo,133,Cantina Tollo - Alexia Alluminio,",, 11:31",1,1999
+28.0,,,+ -4:53:13,,Zucchi Simone,134,Polti,",, 11:31",1,1999
+24.0,,,+ -4:53:13,,Ca\xf1ada David,135,,",, 11:31",1,1999
+31.0,,,+ -4:53:13,,Verstrepen Johan,136,Lampre - Daikin - Colnago,",, 11:31",1,1999
+26.0,,,+ -4:53:13,,Rokia Anthony,137,Cofidis,",, 11:31",1,1999
+24.0,,,+ -4:53:13,,Galli Daniele,138,Amica Chips - Costa de Almeria,16:08 16:08,1,1999
+27.0,,,+ -4:53:13,,Crepaldi Mirco,139,Polti,",, 16:08",1,1999
+26.0,,,+ -4:53:13,,Krzeszowiec Artur,140,,16:30 16:30,1,1999
+21.0,,,+ -4:53:13,,Nozal Isidro,141,O.N.C.E. - Deutsche Bank,18:29 18:29,1,1999
+28.0,,,+ -4:53:13,,Garcia Marcelino,142,,",, 18:29",1,1999
+23.0,,,+ -4:53:13,,Plouhinec Samuel,143,Cofidis,21:16 21:16,1,1999
+26.0,,,+ -4:53:13,,Sidler Christian,144,,",, 21:16",1,1999
+22.0,,,+ -4:53:13,,Nazon Jean-Patrick,145,La Fran\xe7aise des Jeux,22:23 22:23,1,1999
+,,,+ -4:53:13,,Lejarreta Martin,146,,",, 22:23",1,1999
+25.0,,,+ -4:53:13,,Zattoni Gilberto,147,,23:01 23:01,1,1999
+36.0,,,+ - 10:37:11,50.0,Martinello Silvio,1,Polti,5:43:58 5:43:58,2,1999
+27.0,,,+ - 10:37:11,30.0,Traversoni Mario,2,Saeco - Cannondale,",, ,,",2,1999
+24.0,,7.0,+0:24,18.0,Zberg Markus,3,Rabobank ProTeam,",, ,,",2,1999
+31.0,,,+ - 10:37:11,13.0,Baldato Fabio,4,,",, ,,",2,1999
+29.0,,,+ - 10:37:11,10.0,Lombardi Giovanni,5,Team Telekom,",, ,,",2,1999
+25.0,,,+ - 10:37:11,7.0,Tosatto Matteo,6,,",, ,,",2,1999
+28.0,,,+ - 10:37:11,4.0,Missaglia Gabriele,7,Lampre - Daikin - Colnago,",, ,,",2,1999
+29.0,,,+ - 10:37:11,3.0,Von Flue Daniel,8,,",, ,,",2,1999
+29.0,,,+ - 10:37:11,2.0,Manzoni Mario,9,Mobilvetta Design - Northwave,",, ,,",2,1999
+28.0,,,+ - 10:37:11,1.0,Christen Josef,10,,",, ,,",2,1999
+30.0,,1.0,+0:00,,Jalabert Laurent,11,O.N.C.E. - Deutsche Bank,",, ,,",2,1999
+27.0,,4.0,+0:22,,Camenzind Oscar,12,Lampre - Daikin - Colnago,",, ,,",2,1999
+28.0,,2.0,+0:14,,Petito Roberto,13,Saeco - Cannondale,",, ,,",2,1999
+27.0,,,+ - 10:37:11,,Boogerd Michael,14,Rabobank ProTeam,",, ,,",2,1999
+28.0,,,+ - 10:37:11,,Vetsch Patrick,15,,",, ,,",2,1999
+30.0,,5.0,+0:23,,Dufaux Laurent,16,Saeco - Cannondale,",, ,,",2,1999
+24.0,,,+ - 10:37:11,,Commesso Salvatore,17,Saeco - Cannondale,",, ,,",2,1999
+30.0,,,+ - 10:37:11,,De Pasquale Maurizio,18,,",, ,,",2,1999
+33.0,,,+ - 10:37:11,,Roscioli Fabio,19,Amica Chips - Costa de Almeria,",, ,,",2,1999
+32.0,,,+ - 10:37:11,,Sciandri Maximilian,20,La Fran\xe7aise des Jeux,",, ,,",2,1999
+30.0,,,+ - 10:37:11,,Michaelsen Lars,21,La Fran\xe7aise des Jeux,",, ,,",2,1999
+26.0,,,+ - 10:37:11,,Merckx Axel,22,Mapei - Quickstep,",, ,,",2,1999
+25.0,,,+ - 10:37:11,,Sgambelluri Roberto,23,Cantina Tollo - Alexia Alluminio,",, ,,",2,1999
+35.0,,,+ - 10:37:11,,Gianetti Mauro,24,Vini Caldirola - Sidermec,",, ,,",2,1999
+29.0,,,+ - 10:37:11,,Zarrabeitia Mikel,25,O.N.C.E. - Deutsche Bank,",, ,,",2,1999
+28.0,,6.0,+0:23,,Zberg Beat,26,Rabobank ProTeam,",, ,,",2,1999
+26.0,,,+ - 10:37:11,,Gohring Christoph,27,,",, ,,",2,1999
+29.0,,8.0,+0:24,,Meier Armin,28,Saeco - Cannondale,",, ,,",2,1999
+27.0,,,+ - 10:37:11,,Steels Tom,29,Mapei - Quickstep,",, ,,",2,1999
+26.0,,,+ - 10:37:11,,Nardello Daniele,30,Mapei - Quickstep,",, ,,",2,1999
+23.0,,,+ - 10:37:11,,Belohvosciks Raivis,31,Lampre - Daikin - Colnago,",, ,,",2,1999
+28.0,,,+ - 10:37:11,,Casagrande Francesco,32,Vini Caldirola - Sidermec,",, ,,",2,1999
+23.0,,,+ - 10:37:11,,Di Biase Moreno,33,Cantina Tollo - Alexia Alluminio,",, ,,",2,1999
+34.0,,,+ - 10:37:11,,S\xf8rensen Rolf,34,Rabobank ProTeam,",, ,,",2,1999
+,,,+ - 10:37:11,,Fernandez Manuel,35,,",, ,,",2,1999
+28.0,,,+ - 10:37:11,,Valoti Paolo,36,Mobilvetta Design - Northwave,",, ,,",2,1999
+33.0,,,+ - 10:37:11,,Jaermann Rolf,37,Post Swiss Team,",, ,,",2,1999
+33.0,,,+ - 10:37:11,,Museeuw Johan,38,Mapei - Quickstep,",, ,,",2,1999
+23.0,,,+ - 10:37:11,,Montgomery Sven,39,,",, ,,",2,1999
+28.0,,,+ - 10:37:11,,Buschor Philipp,40,Post Swiss Team,",, ,,",2,1999
+34.0,,,+ - 10:37:11,,Dierckxsens Ludo,41,Lampre - Daikin - Colnago,",, ,,",2,1999
+25.0,,,+ - 10:37:11,,Piovaccari Giusvan,42,Cantina Tollo - Alexia Alluminio,",, ,,",2,1999
+27.0,,,+ - 10:37:11,,Guesdon Fr\xe9d\xe9ric,43,La Fran\xe7aise des Jeux,",, ,,",2,1999
+29.0,,,+ - 10:37:11,,Hvastija Martin,44,,",, ,,",2,1999
+35.0,,3.0,+0:19,,Richard Pascal,45,Mobilvetta Design - Northwave,",, ,,",2,1999
+29.0,,,+ - 10:37:11,,Guerini Giuseppe,46,Team Telekom,",, ,,",2,1999
+31.0,,,+ - 10:37:11,,Puttini Felice,47,Amica Chips - Costa de Almeria,",, ,,",2,1999
+24.0,,,+ - 10:37:11,,Heule Christian,48,,",, ,,",2,1999
+28.0,,,+ - 10:37:11,,Pe\xf1a Miguel \xc1ngel,49,Banesto,",, ,,",2,1999
+31.0,,,+ - 10:37:11,,Cattai Stefano,50,Polti,",, ,,",2,1999
+25.0,,,+ - 10:37:11,,De Paoli Daniele,51,Amica Chips - Costa de Almeria,",, ,,",2,1999
+31.0,,,+ - 10:37:11,,Meier Roland,52,Cofidis,",, ,,",2,1999
+29.0,,,+ - 10:37:11,,Lamour Claude,53,Cofidis,",, ,,",2,1999
+26.0,,,+ - 10:37:11,,Celestino Mirko,54,Polti,",, ,,",2,1999
+27.0,,,+ - 10:37:11,,Tronca Amilcare,55,Amica Chips - Costa de Almeria,",, ,,",2,1999
+26.0,,,+ - 10:37:11,,Aebersold Niki,56,Rabobank ProTeam,",, ,,",2,1999
+28.0,,,+ - 10:37:11,,Dekker Erik,57,Rabobank ProTeam,",, ,,",2,1999
+25.0,,9.0,+0:26,,Schnider Daniel,58,,",, ,,",2,1999
+26.0,,,+ - 10:37:11,,Lelekin Sergue\xef,59,Mobilvetta Design - Northwave,",, ,,",2,1999
+33.0,,,+ - 10:37:11,,Ekimov Viatcheslav,60,Amica Chips - Costa de Almeria,",, ,,",2,1999
+30.0,,,+ - 10:37:11,,Mengin Christophe,61,La Fran\xe7aise des Jeux,",, ,,",2,1999
+35.0,,,+ - 10:37:11,,Elli Alberto,62,Team Telekom,",, ,,",2,1999
+27.0,,10.0,+0:28,,Simoni Gilberto,63,,",, ,,",2,1999
+30.0,,,+ - 10:37:11,,Tonkov Pavel,64,Mapei - Quickstep,",, ,,",2,1999
+27.0,,,+ - 10:37:11,,Loda Nicola,65,,",, ,,",2,1999
+24.0,,,+ - 10:37:11,,Perque Franck,66,La Fran\xe7aise des Jeux,",, ,,",2,1999
+24.0,,,+ - 10:37:11,,Gwiazdowski Grzegorz,67,Cofidis,",, ,,",2,1999
+29.0,,,+ - 10:37:11,,Bourquenoud Pierre,68,Post Swiss Team,",, ,,",2,1999
+23.0,,,+ - 10:37:11,,Charriere Christian,69,,",, ,,",2,1999
+34.0,,,+ - 10:37:11,,Peeters Wilfried,70,Mapei - Quickstep,",, ,,",2,1999
+28.0,,,+ - 10:37:11,,Gasperoni Cristian,71,Cantina Tollo - Alexia Alluminio,",, ,,",2,1999
+25.0,,,+ - 10:37:11,,Puglioli Mirko,72,,",, ,,",2,1999
+25.0,,,+ - 10:37:11,,Sacchi Fabio,73,Polti,",, ,,",2,1999
+31.0,,,+ - 10:37:11,,Galletti Alessio,74,Saeco - Cannondale,",, ,,",2,1999
+35.0,,,+ - 10:37:11,,Riis Bjarne,75,Team Telekom,",, ,,",2,1999
+27.0,,,+ - 10:37:11,,Bertolini Alessandro,76,Mobilvetta Design - Northwave,",, ,,",2,1999
+28.0,,,+ - 10:37:11,,Zucchi Simone,77,Polti,",, ,,",2,1999
+30.0,,,+ - 10:37:11,,Gualdi Mirko,78,Mobilvetta Design - Northwave,",, ,,",2,1999
+26.0,,,+ - 10:37:11,,Dellavedova Marco,79,Lampre - Daikin - Colnago,0:31 0:31,2,1999
+38.0,,,+ - 10:37:11,,Ugrumov Piotr,80,,",, 0:31",2,1999
+26.0,,,+ - 10:37:11,,Secchiari Francesco,81,Saeco - Cannondale,",, 0:31",2,1999
+31.0,,,+ - 10:37:11,,Lelli Massimiliano,82,Cofidis,0:35 0:35,2,1999
+24.0,,,+ - 10:37:11,,Pugaci Igor,83,Saeco - Cannondale,",, 0:35",2,1999
+29.0,,,+ - 10:37:11,,Goubert Stephane,84,Polti,",, 0:35",2,1999
+25.0,,,+ - 10:37:11,,Bouyer Franck,85,La Fran\xe7aise des Jeux,",, 0:35",2,1999
+23.0,,,+ - 10:37:11,,Ongarato Alberto,86,,",, 0:35",2,1999
+21.0,,,+ - 10:37:11,,Tessier Jean-Michel,87,La Fran\xe7aise des Jeux,",, 0:35",2,1999
+23.0,,,+ - 10:37:11,,Smirnov Maxim,88,,",, 0:35",2,1999
+30.0,,,+ - 10:37:11,,den Bakker Maarten,89,Rabobank ProTeam,",, 0:35",2,1999
+30.0,,,+ - 10:37:11,,Cuesta \xcd\xf1igo,90,O.N.C.E. - Deutsche Bank,",, 0:35",2,1999
+28.0,,,+ - 10:37:11,,Wesemann Steffen,91,Team Telekom,",, 0:35",2,1999
+27.0,,,+ - 10:37:11,,Horner Chris,92,La Fran\xe7aise des Jeux,",, 0:35",2,1999
+23.0,,,+ - 10:37:11,,Haymoz Yvan,93,Post Swiss Team,",, 0:35",2,1999
+30.0,,,+ - 10:37:11,,Wauters Marc,94,Rabobank ProTeam,",, 0:35",2,1999
+23.0,,,+ - 10:37:11,,Giacomelli Sandro,95,,",, 0:35",2,1999
+30.0,,,+ - 10:37:11,,Hundertmarck Kai,96,Team Telekom,",, 0:35",2,1999
+24.0,,,+ - 10:37:11,,Giunti Massimo,97,Cantina Tollo - Alexia Alluminio,",, 0:35",2,1999
+23.0,,,+ - 10:37:11,,Trentin Guido,98,Vini Caldirola - Sidermec,",, 0:35",2,1999
+22.0,,,+ - 10:37:11,,Jaksche Jorg,99,Team Telekom,",, 0:35",2,1999
+25.0,,,+ - 10:37:11,,White Matthew,100,Vini Caldirola - Sidermec,",, 0:35",2,1999
+23.0,,,+ - 10:37:11,,Plouhinec Samuel,101,Cofidis,",, 0:35",2,1999
+26.0,,,+ - 10:37:11,,Krzeszowiec Artur,102,,",, 0:35",2,1999
+24.0,,,+ - 10:37:11,,Atienza Daniel,103,Polti,1:02 1:02,2,1999
+23.0,,,+ - 10:37:11,,Loder Thierry,104,Cofidis,",, 1:02",2,1999
+26.0,,,+ - 10:37:11,,Murtas Emiliano,105,,",, 1:02",2,1999
+36.0,,,+ - 10:37:11,,Casagrande Stefano,106,,",, 1:02",2,1999
+31.0,,,+ - 10:37:11,,Finco Carlo,107,,",, 1:02",2,1999
+25.0,,,+ - 10:37:11,,Mazzanti Luca,108,Cantina Tollo - Alexia Alluminio,1:18 1:18,2,1999
+32.0,,,+ - 10:37:11,,Baronti Alessandro,109,Cantina Tollo - Alexia Alluminio,",, 1:18",2,1999
+33.0,,,+ - 10:37:11,,Spruch Zbigniew,110,Lampre - Daikin - Colnago,",, 1:18",2,1999
+30.0,,,+ - 10:37:11,,Lupi Emanuele,111,,",, 1:18",2,1999
+30.0,,,+ - 10:37:11,,Bortolami Gianluca,112,Vini Caldirola - Sidermec,",, 1:18",2,1999
+30.0,,,+ - 10:37:11,,Faustini Stefano,113,Mobilvetta Design - Northwave,1:29 1:29,2,1999
+26.0,,,+ - 10:37:11,,Mondini Gianpaolo,114,Cantina Tollo - Alexia Alluminio,2:12 2:12,2,1999
+31.0,,,+ - 10:37:11,,Verstrepen Johan,115,Lampre - Daikin - Colnago,",, 2:12",2,1999
+27.0,,,+ - 10:37:11,,Ackermann Pierre,116,,2:46 2:46,2,1999
+29.0,,,+ - 10:37:11,,Themann Michael,117,,",, 2:46",2,1999
+26.0,,,+ - 10:37:11,,Rokia Anthony,118,Cofidis,",, 2:46",2,1999
+27.0,,,+ - 10:37:11,,Colombo Gabriele,119,Cantina Tollo - Alexia Alluminio,",, 2:46",2,1999
+26.0,,,+ - 10:37:11,,Sidler Christian,120,,",, 2:46",2,1999
+28.0,,,+ - 10:37:11,,Patuelli Andrea,121,,",, 2:46",2,1999
+28.0,,,+ - 10:37:11,,Garcia Marcelino,122,,",, 2:46",2,1999
+26.0,,,+ - 10:37:11,,Zumsteg Lukas,123,,",, 2:46",2,1999
+24.0,,,+ - 10:37:11,,Galli Daniele,124,Amica Chips - Costa de Almeria,",, 2:46",2,1999
+25.0,,,+ - 10:37:11,,Cannone Marco,125,,",, 2:46",2,1999
+30.0,,,+ - 10:37:11,,Bramati Davide,126,Mapei - Quickstep,",, 2:46",2,1999
+27.0,,,+ - 10:37:11,,Barnsley Chris,127,,",, 2:46",2,1999
+27.0,,,+ - 10:37:11,,Varocchi Alessandro,128,,4:17 4:17,2,1999
+27.0,,,+ - 10:37:11,,van Bon L\xe9on,129,Rabobank ProTeam,",, 4:17",2,1999
+24.0,,,+ - 10:37:11,,Bertoletti Simone,130,Lampre - Daikin - Colnago,4:26 4:26,2,1999
+27.0,,,+ - 10:37:11,,Crepaldi Mirco,131,Polti,",, 4:26",2,1999
+27.0,,,+ - 10:37:11,,Baldinger Dirk,132,Team Telekom,",, 4:26",2,1999
+27.0,,,+ - 10:37:11,,Brasi Rossano,133,Polti,",, 4:26",2,1999
+27.0,,,+ - 10:37:11,,Leporatti Simone,134,,",, 4:26",2,1999
+27.0,,,+ - 10:37:11,,Beuchat Roger,135,,",, 4:26",2,1999
+30.0,,,+ - 10:37:11,,Leysen Bart,136,Mapei - Quickstep,",, 4:26",2,1999
+26.0,,,+ - 10:37:11,,Serpellini Marco,137,Lampre - Daikin - Colnago,",, 4:26",2,1999
+21.0,,,+ - 10:37:11,,Nozal Isidro,138,O.N.C.E. - Deutsche Bank,5:20 5:20,2,1999
+24.0,,,+ - 10:37:11,,Ca\xf1ada David,139,,",, 5:20",2,1999
+33.0,,,+ - 10:37:11,,Tebaldi Valerio,140,Mobilvetta Design - Northwave,8:26 8:26,2,1999
+,,,+ - 10:37:11,,Lejarreta Martin,141,,",, 8:26",2,1999
+28.0,,2.0,+0:18,50.0,Missaglia Gabriele,1,Lampre - Daikin - Colnago,4:08:32 4:08:32,3,1999
+29.0,,5.0,+0:22,30.0,Zarrabeitia Mikel,2,O.N.C.E. - Deutsche Bank,0:03 0:03,3,1999
+27.0,,,+ - 14:46:06,18.0,Tronca Amilcare,3,Amica Chips - Costa de Almeria,0:08 0:08,3,1999
+29.0,,3.0,+0:20,13.0,Meier Armin,4,Saeco - Cannondale,0:19 0:19,3,1999
+27.0,,8.0,+0:28,10.0,Simoni Gilberto,5,,0:23 0:23,3,1999
+30.0,,6.0,+0:23,7.0,Dufaux Laurent,6,Saeco - Cannondale,",, 0:23",3,1999
+27.0,,4.0,+0:22,4.0,Camenzind Oscar,7,Lampre - Daikin - Colnago,",, 0:23",3,1999
+28.0,,10.0,+0:32,3.0,Casagrande Francesco,8,Vini Caldirola - Sidermec,",, 0:23",3,1999
+30.0,,1.0,+0:00,2.0,Jalabert Laurent,9,O.N.C.E. - Deutsche Bank,0:25 0:25,3,1999
+26.0,,,+ - 14:46:06,1.0,Celestino Mirko,10,Polti,0:31 0:31,3,1999
+35.0,,9.0,+0:31,,Richard Pascal,11,Mobilvetta Design - Northwave,0:35 0:35,3,1999
+28.0,,7.0,+0:26,,Petito Roberto,12,Saeco - Cannondale,",, 0:35",3,1999
+35.0,,,+ - 14:46:06,,Elli Alberto,13,Team Telekom,",, 0:35",3,1999
+28.0,,,+ - 14:46:06,,Gasperoni Cristian,14,Cantina Tollo - Alexia Alluminio,",, 0:35",3,1999
+25.0,,,+ - 14:46:06,,Sgambelluri Roberto,15,Cantina Tollo - Alexia Alluminio,",, 0:35",3,1999
+28.0,,,+ - 14:46:06,,Zberg Beat,16,Rabobank ProTeam,",, 0:35",3,1999
+23.0,,,+ - 14:46:06,,Montgomery Sven,17,,",, 0:35",3,1999
+24.0,,,+ - 14:46:06,,Atienza Daniel,18,Polti,0:41 0:41,3,1999
+26.0,,,+ - 14:46:06,,Gohring Christoph,19,,0:49 0:49,3,1999
+24.0,,,+ - 14:46:06,,Commesso Salvatore,20,Saeco - Cannondale,0:50 0:50,3,1999
+28.0,,,+ - 14:46:06,,Vetsch Patrick,21,,",, 0:50",3,1999
+31.0,,,+ - 14:46:06,,Meier Roland,22,Cofidis,",, 0:50",3,1999
+29.0,,,+ - 14:46:06,,Guerini Giuseppe,23,Team Telekom,",, 0:50",3,1999
+25.0,,,+ - 14:46:06,,Piovaccari Giusvan,24,Cantina Tollo - Alexia Alluminio,",, 0:50",3,1999
+27.0,,,+ - 14:46:06,,Boogerd Michael,25,Rabobank ProTeam,",, 0:50",3,1999
+30.0,,,+ - 14:46:06,,Tonkov Pavel,26,Mapei - Quickstep,",, 0:50",3,1999
+28.0,,,+ - 14:46:06,,Valoti Paolo,27,Mobilvetta Design - Northwave,",, 0:50",3,1999
+28.0,,,+ - 14:46:06,,Buschor Philipp,28,Post Swiss Team,",, 0:50",3,1999
+33.0,,,+ - 14:46:06,,Ekimov Viatcheslav,29,Amica Chips - Costa de Almeria,",, 0:50",3,1999
+31.0,,,+ - 14:46:06,,Puttini Felice,30,Amica Chips - Costa de Almeria,",, 0:50",3,1999
+,,,+ - 14:46:06,,Fernandez Manuel,31,,",, 0:50",3,1999
+26.0,,,+ - 14:46:06,,Merckx Axel,32,Mapei - Quickstep,",, 0:50",3,1999
+31.0,,,+ - 14:46:06,,Cattai Stefano,33,Polti,1:04 1:04,3,1999
+24.0,,,+ - 14:46:06,,Pugaci Igor,34,Saeco - Cannondale,1:12 1:12,3,1999
+26.0,,,+ - 14:46:06,,Nardello Daniele,35,Mapei - Quickstep,",, 1:12",3,1999
+25.0,,,+ - 14:46:06,,Schnider Daniel,36,,1:18 1:18,3,1999
+30.0,,,+ - 14:46:06,,Faustini Stefano,37,Mobilvetta Design - Northwave,1:28 1:28,3,1999
+33.0,,,+ - 14:46:06,,Museeuw Johan,38,Mapei - Quickstep,",, 1:28",3,1999
+35.0,,,+ - 14:46:06,,Gianetti Mauro,39,Vini Caldirola - Sidermec,2:13 2:13,3,1999
+30.0,,,+ - 14:46:06,,Hundertmarck Kai,40,Team Telekom,2:34 2:34,3,1999
+28.0,,,+ - 14:46:06,,Wesemann Steffen,41,Team Telekom,",, 2:34",3,1999
+25.0,,,+ - 14:46:06,,Tosatto Matteo,42,,3:06 3:06,3,1999
+30.0,,,+ - 14:46:06,,den Bakker Maarten,43,Rabobank ProTeam,3:26 3:26,3,1999
+24.0,,,+ - 14:46:06,,Giunti Massimo,44,Cantina Tollo - Alexia Alluminio,3:36 3:36,3,1999
+26.0,,,+ - 14:46:06,,Secchiari Francesco,45,Saeco - Cannondale,5:32 5:32,3,1999
+26.0,,,+ - 14:46:06,,Serpellini Marco,46,Lampre - Daikin - Colnago,",, 5:32",3,1999
+30.0,,,+ - 14:46:06,,Lupi Emanuele,47,,7:16 7:16,3,1999
+28.0,,,+ - 14:46:06,,Pe\xf1a Miguel \xc1ngel,48,Banesto,8:04 8:04,3,1999
+24.0,,,+ - 14:46:06,,Zberg Markus,49,Rabobank ProTeam,8:50 8:50,3,1999
+29.0,,,+ - 14:46:06,,Bourquenoud Pierre,50,Post Swiss Team,",, 8:50",3,1999
+23.0,,,+ - 14:46:06,,Smirnov Maxim,51,,",, 8:50",3,1999
+23.0,,,+ - 14:46:06,,Belohvosciks Raivis,52,Lampre - Daikin - Colnago,12:20 12:20,3,1999
+31.0,,,+ - 14:46:06,,Lelli Massimiliano,53,Cofidis,",, 12:20",3,1999
+29.0,,,+ - 14:46:06,,Von Flue Daniel,54,,",, 12:20",3,1999
+33.0,,,+ - 14:46:06,,Roscioli Fabio,55,Amica Chips - Costa de Almeria,",, 12:20",3,1999
+24.0,,,+ - 14:46:06,,Heule Christian,56,,",, 12:20",3,1999
+21.0,,,+ - 14:46:06,,Tessier Jean-Michel,57,La Fran\xe7aise des Jeux,",, 12:20",3,1999
+24.0,,,+ - 14:46:06,,Perque Franck,58,La Fran\xe7aise des Jeux,",, 12:20",3,1999
+29.0,,,+ - 14:46:06,,Lombardi Giovanni,59,Team Telekom,",, 12:20",3,1999
+26.0,,,+ - 14:46:06,,Dellavedova Marco,60,Lampre - Daikin - Colnago,",, 12:20",3,1999
+26.0,,,+ - 14:46:06,,Aebersold Niki,61,Rabobank ProTeam,",, 12:20",3,1999
+23.0,,,+ - 14:46:06,,Trentin Guido,62,Vini Caldirola - Sidermec,",, 12:20",3,1999
+26.0,,,+ - 14:46:06,,Murtas Emiliano,63,,",, 12:20",3,1999
+23.0,,,+ - 14:46:06,,Charriere Christian,64,,",, 12:20",3,1999
+38.0,,,+ - 14:46:06,,Ugrumov Piotr,65,,",, 12:20",3,1999
+22.0,,,+ - 14:46:06,,Jaksche Jorg,66,Team Telekom,",, 12:20",3,1999
+29.0,,,+ - 14:46:06,,Hvastija Martin,67,,",, 12:20",3,1999
+24.0,,,+ - 14:46:06,,Gwiazdowski Grzegorz,68,Cofidis,",, 12:20",3,1999
+30.0,,,+ - 14:46:06,,Cuesta \xcd\xf1igo,69,O.N.C.E. - Deutsche Bank,",, 12:20",3,1999
+31.0,,,+ - 14:46:06,,Baldato Fabio,70,,",, 12:20",3,1999
+23.0,,,+ - 14:46:06,,Giacomelli Sandro,71,,",, 12:20",3,1999
+25.0,,,+ - 14:46:06,,Puglioli Mirko,72,,",, 12:20",3,1999
+29.0,,,+ - 14:46:06,,Lamour Claude,73,Cofidis,",, 12:20",3,1999
+30.0,,,+ - 14:46:06,,Bramati Davide,74,Mapei - Quickstep,",, 12:20",3,1999
+29.0,,,+ - 14:46:06,,Goubert Stephane,75,Polti,",, 12:20",3,1999
+33.0,,,+ - 14:46:06,,Tebaldi Valerio,76,Mobilvetta Design - Northwave,",, 12:20",3,1999
+26.0,,,+ - 14:46:06,,Mondini Gianpaolo,77,Cantina Tollo - Alexia Alluminio,15:03 15:03,3,1999
+29.0,,,+ - 14:46:06,,Themann Michael,78,,",, 15:03",3,1999
+27.0,,,+ - 14:46:06,,Loda Nicola,79,,",, 15:03",3,1999
+28.0,,,+ - 14:46:06,,Christen Josef,80,,",, 15:03",3,1999
+31.0,,,+ - 14:46:06,,Finco Carlo,81,,",, 15:03",3,1999
+23.0,,,+ - 14:46:06,,Plouhinec Samuel,82,Cofidis,",, 15:03",3,1999
+34.0,,,+ - 14:46:06,,Dierckxsens Ludo,83,Lampre - Daikin - Colnago,",, 15:03",3,1999
+26.0,,,+ - 14:46:06,,Zumsteg Lukas,84,,",, 15:03",3,1999
+30.0,,,+ - 14:46:06,,Michaelsen Lars,85,La Fran\xe7aise des Jeux,",, 15:03",3,1999
+25.0,,,+ - 14:46:06,,Mazzanti Luca,86,Cantina Tollo - Alexia Alluminio,",, 15:03",3,1999
+24.0,,,+ - 14:46:06,,Ca\xf1ada David,87,,",, 15:03",3,1999
+34.0,,,+ - 14:46:06,,S\xf8rensen Rolf,88,Rabobank ProTeam,",, 15:03",3,1999
+30.0,,,+ - 14:46:06,,Gualdi Mirko,89,Mobilvetta Design - Northwave,",, 15:03",3,1999
+28.0,,,+ - 14:46:06,,Dekker Erik,90,Rabobank ProTeam,",, 15:03",3,1999
+30.0,,,+ - 14:46:06,,Wauters Marc,91,Rabobank ProTeam,",, 15:03",3,1999
+21.0,,,+ - 14:46:06,,Nozal Isidro,92,O.N.C.E. - Deutsche Bank,",, 15:03",3,1999
+34.0,,,+ - 14:46:06,,Peeters Wilfried,93,Mapei - Quickstep,",, 15:03",3,1999
+23.0,,,+ - 14:46:06,,Ongarato Alberto,94,,",, 15:03",3,1999
+25.0,,,+ - 14:46:06,,Sacchi Fabio,95,Polti,",, 15:03",3,1999
+28.0,,,+ - 14:46:06,,Zucchi Simone,96,Polti,",, 15:03",3,1999
+26.0,,,+ - 14:46:06,,Lelekin Sergue\xef,97,Mobilvetta Design - Northwave,",, 15:03",3,1999
+26.0,,,+ - 14:46:06,,Sidler Christian,98,,",, 15:03",3,1999
+23.0,,,+ - 14:46:06,,Loder Thierry,99,Cofidis,",, 15:03",3,1999
+32.0,,,+ - 14:46:06,,Baronti Alessandro,100,Cantina Tollo - Alexia Alluminio,",, 15:03",3,1999
+27.0,,,+ - 14:46:06,,Crepaldi Mirco,101,Polti,",, 15:03",3,1999
+25.0,,,+ - 14:46:06,,Cannone Marco,102,,",, 15:03",3,1999
+36.0,,,+ - 14:46:06,,Casagrande Stefano,103,,",, 15:03",3,1999
+33.0,,,+ - 14:46:06,,Spruch Zbigniew,104,Lampre - Daikin - Colnago,",, 15:03",3,1999
+30.0,,,+ - 14:46:06,,Mengin Christophe,105,La Fran\xe7aise des Jeux,",, 15:03",3,1999
+27.0,,,+ - 14:46:06,,Barnsley Chris,106,,",, 15:03",3,1999
+27.0,,,+ - 14:46:06,,Guesdon Fr\xe9d\xe9ric,107,La Fran\xe7aise des Jeux,",, 15:03",3,1999
+30.0,,,+ - 14:46:06,,De Pasquale Maurizio,108,,",, 15:03",3,1999
+27.0,,,+ - 14:46:06,,Steels Tom,109,Mapei - Quickstep,",, 15:03",3,1999
+24.0,,,+ - 14:46:06,,Bertoletti Simone,110,Lampre - Daikin - Colnago,",, 15:03",3,1999
+31.0,,,+ - 14:46:06,,Verstrepen Johan,111,Lampre - Daikin - Colnago,",, 15:03",3,1999
+31.0,,,+ - 14:46:06,,Galletti Alessio,112,Saeco - Cannondale,",, 15:03",3,1999
+28.0,,,+ - 14:46:06,,Garcia Marcelino,113,,",, 15:03",3,1999
+36.0,,,+ - 14:46:06,,Martinello Silvio,114,Polti,",, 15:03",3,1999
+23.0,,,+ - 14:46:06,,Haymoz Yvan,115,Post Swiss Team,",, 15:03",3,1999
+27.0,,,+ - 14:46:06,,Beuchat Roger,116,,",, 15:03",3,1999
+30.0,,,+ - 14:46:06,,Leysen Bart,117,Mapei - Quickstep,",, 15:03",3,1999
+27.0,,,+ - 14:46:06,,Bertolini Alessandro,118,Mobilvetta Design - Northwave,",, 15:03",3,1999
+27.0,,,+ - 14:46:06,,Ackermann Pierre,119,,",, 15:03",3,1999
+32.0,,,+ - 14:46:06,,Sciandri Maximilian,120,La Fran\xe7aise des Jeux,",, 15:03",3,1999
+23.0,,,+ - 14:46:06,,Di Biase Moreno,121,Cantina Tollo - Alexia Alluminio,",, 15:03",3,1999
+33.0,,,+ - 14:46:06,,Jaermann Rolf,122,Post Swiss Team,",, 15:03",3,1999
+27.0,,,+ - 14:46:06,,Traversoni Mario,123,Saeco - Cannondale,",, 15:03",3,1999
+27.0,,,+ - 14:46:06,,Brasi Rossano,124,Polti,",, 15:03",3,1999
+25.0,,,+ - 14:46:06,,White Matthew,125,Vini Caldirola - Sidermec,",, 15:03",3,1999
+27.0,,,+ - 14:46:06,,Colombo Gabriele,126,Cantina Tollo - Alexia Alluminio,",, 15:03",3,1999
+25.0,,,+ - 14:46:06,,Bouyer Franck,127,La Fran\xe7aise des Jeux,",, 15:03",3,1999
+26.0,,,+ - 14:46:06,,Krzeszowiec Artur,128,,",, 15:03",3,1999
+28.0,,,+ - 14:46:06,,Patuelli Andrea,129,,",, 15:03",3,1999
+26.0,,,+ - 14:46:06,,Rokia Anthony,130,Cofidis,",, 15:03",3,1999
+27.0,,,+ - 14:46:06,,van Bon L\xe9on,131,Rabobank ProTeam,",, 15:03",3,1999
+27.0,,,+ - 14:46:06,,Leporatti Simone,132,,",, 15:03",3,1999
+27.0,,,+ - 14:46:06,,Baldinger Dirk,133,Team Telekom,",, 15:03",3,1999
+27.0,,,+ - 14:46:06,,Varocchi Alessandro,134,,",, 15:03",3,1999
+27.0,,,+ - 14:46:06,,Horner Chris,135,La Fran\xe7aise des Jeux,",, 15:03",3,1999
+,,,+ - 14:46:06,,Lejarreta Martin,136,,",, 15:03",3,1999
+24.0,,,+ - 14:46:06,,Galli Daniele,137,Amica Chips - Costa de Almeria,16:14 16:14,3,1999
+27.0,,1.0,+0:00,50.0,Simoni Gilberto,1,,5:23:59 5:23:59,4,1999
+28.0,,2.0,+0:08,30.0,Casagrande Francesco,2,Vini Caldirola - Sidermec,",, ,,",4,1999
+30.0,,3.0,+0:25,18.0,Jalabert Laurent,3,O.N.C.E. - Deutsche Bank,0:47 0:47,4,1999
+27.0,,4.0,+0:51,13.0,Camenzind Oscar,4,Lampre - Daikin - Colnago,",, 0:47",4,1999
+30.0,,5.0,+0:52,10.0,Dufaux Laurent,5,Saeco - Cannondale,",, 0:47",4,1999
+25.0,,6.0,+2:25,7.0,Sgambelluri Roberto,6,Cantina Tollo - Alexia Alluminio,1:10 1:10,4,1999
+29.0,,8.0,+3:16,4.0,Guerini Giuseppe,7,Team Telekom,1:53 1:53,4,1999
+23.0,,7.0,+2:49,3.0,Montgomery Sven,8,,2:21 2:21,4,1999
+30.0,,,+ - 20:10:23,2.0,Tonkov Pavel,9,Mapei - Quickstep,3:09 3:09,4,1999
+28.0,,9.0,+3:42,1.0,Zberg Beat,10,Rabobank ProTeam,3:25 3:25,4,1999
+29.0,,10.0,+3:48,,Zarrabeitia Mikel,11,O.N.C.E. - Deutsche Bank,3:44 3:44,4,1999
+24.0,,,+ - 20:10:23,,Atienza Daniel,12,Polti,4:08 4:08,4,1999
+28.0,,,+ - 20:10:23,,Buschor Philipp,13,Post Swiss Team,",, 4:08",4,1999
+26.0,,,+ - 20:10:23,,Celestino Mirko,14,Polti,4:55 4:55,4,1999
+26.0,,,+ - 20:10:23,,Aebersold Niki,15,Rabobank ProTeam,5:41 5:41,4,1999
+,,,+ - 20:10:23,,Fernandez Manuel,16,,6:17 6:17,4,1999
+31.0,,,+ - 20:10:23,,Meier Roland,17,Cofidis,",, 6:17",4,1999
+28.0,,,+ - 20:10:23,,Gasperoni Cristian,18,Cantina Tollo - Alexia Alluminio,",, 6:17",4,1999
+25.0,,,+ - 20:10:23,,Piovaccari Giusvan,19,Cantina Tollo - Alexia Alluminio,",, 6:17",4,1999
+26.0,,,+ - 20:10:23,,Nardello Daniele,20,Mapei - Quickstep,6:44 6:44,4,1999
+29.0,,,+ - 20:10:23,,Meier Armin,21,Saeco - Cannondale,7:36 7:36,4,1999
+33.0,,,+ - 20:10:23,,Ekimov Viatcheslav,22,Amica Chips - Costa de Almeria,9:35 9:35,4,1999
+28.0,,,+ - 20:10:23,,Missaglia Gabriele,23,Lampre - Daikin - Colnago,",, 9:35",4,1999
+23.0,,,+ - 20:10:23,,Charriere Christian,24,,9:59 9:59,4,1999
+27.0,,,+ - 20:10:23,,Tronca Amilcare,25,Amica Chips - Costa de Almeria,",, 9:59",4,1999
+22.0,,,+ - 20:10:23,,Jaksche Jorg,26,Team Telekom,",, 9:59",4,1999
+27.0,,,+ - 20:10:23,,Boogerd Michael,27,Rabobank ProTeam,11:01 11:01,4,1999
+24.0,,,+ - 20:10:23,,Zberg Markus,28,Rabobank ProTeam,12:31 12:31,4,1999
+35.0,,,+ - 20:10:23,,Elli Alberto,29,Team Telekom,13:00 13:00,4,1999
+26.0,,,+ - 20:10:23,,Merckx Axel,30,Mapei - Quickstep,13:12 13:12,4,1999
+26.0,,,+ - 20:10:23,,Gohring Christoph,31,,14:15 14:15,4,1999
+31.0,,,+ - 20:10:23,,Cattai Stefano,32,Polti,",, 14:15",4,1999
+25.0,,,+ - 20:10:23,,Schnider Daniel,33,,",, 14:15",4,1999
+35.0,,,+ - 20:10:23,,Richard Pascal,34,Mobilvetta Design - Northwave,",, 14:15",4,1999
+24.0,,,+ - 20:10:23,,Commesso Salvatore,35,Saeco - Cannondale,",, 14:15",4,1999
+28.0,,,+ - 20:10:23,,Valoti Paolo,36,Mobilvetta Design - Northwave,",, 14:15",4,1999
+30.0,,,+ - 20:10:23,,Faustini Stefano,37,Mobilvetta Design - Northwave,",, 14:15",4,1999
+26.0,,,+ - 20:10:23,,Dellavedova Marco,38,Lampre - Daikin - Colnago,",, 14:15",4,1999
+31.0,,,+ - 20:10:23,,Puttini Felice,39,Amica Chips - Costa de Almeria,",, 14:15",4,1999
+29.0,,,+ - 20:10:23,,Bourquenoud Pierre,40,Post Swiss Team,",, 14:15",4,1999
+30.0,,,+ - 20:10:23,,Hundertmarck Kai,41,Team Telekom,",, 14:15",4,1999
+23.0,,,+ - 20:10:23,,Trentin Guido,42,Vini Caldirola - Sidermec,14:38 14:38,4,1999
+26.0,,,+ - 20:10:23,,Secchiari Francesco,43,Saeco - Cannondale,14:47 14:47,4,1999
+28.0,,,+ - 20:10:23,,Vetsch Patrick,44,,17:30 17:30,4,1999
+33.0,,,+ - 20:10:23,,Jaermann Rolf,45,Post Swiss Team,",, 17:30",4,1999
+31.0,,,+ - 20:10:23,,Lelli Massimiliano,46,Cofidis,18:05 18:05,4,1999
+28.0,,,+ - 20:10:23,,Petito Roberto,47,Saeco - Cannondale,",, 18:05",4,1999
+26.0,,,+ - 20:10:23,,Serpellini Marco,48,Lampre - Daikin - Colnago,21:21 21:21,4,1999
+30.0,,,+ - 20:10:23,,den Bakker Maarten,49,Rabobank ProTeam,",, 21:21",4,1999
+23.0,,,+ - 20:10:23,,Giacomelli Sandro,50,,22:26 22:26,4,1999
+31.0,,,+ - 20:10:23,,Galletti Alessio,51,Saeco - Cannondale,",, 22:26",4,1999
+27.0,,,+ - 20:10:23,,Colombo Gabriele,52,Cantina Tollo - Alexia Alluminio,",, 22:26",4,1999
+29.0,,,+ - 20:10:23,,Lombardi Giovanni,53,Team Telekom,",, 22:26",4,1999
+35.0,,,+ - 20:10:23,,Gianetti Mauro,54,Vini Caldirola - Sidermec,",, 22:26",4,1999
+34.0,,,+ - 20:10:23,,Dierckxsens Ludo,55,Lampre - Daikin - Colnago,",, 22:26",4,1999
+25.0,,,+ - 20:10:23,,Puglioli Mirko,56,,",, 22:26",4,1999
+30.0,,,+ - 20:10:23,,Wauters Marc,57,Rabobank ProTeam,",, 22:26",4,1999
+38.0,,,+ - 20:10:23,,Ugrumov Piotr,58,,",, 22:26",4,1999
+24.0,,,+ - 20:10:23,,Pugaci Igor,59,Saeco - Cannondale,",, 22:26",4,1999
+25.0,,,+ - 20:10:23,,Tosatto Matteo,60,,",, 22:26",4,1999
+27.0,,,+ - 20:10:23,,Bertolini Alessandro,61,Mobilvetta Design - Northwave,",, 22:26",4,1999
+30.0,,,+ - 20:10:23,,Lupi Emanuele,62,,",, 22:26",4,1999
+33.0,,,+ - 20:10:23,,Museeuw Johan,63,Mapei - Quickstep,23:35 23:35,4,1999
+30.0,,,+ - 20:10:23,,De Pasquale Maurizio,64,,23:53 23:53,4,1999
+29.0,,,+ - 20:10:23,,Hvastija Martin,65,,",, 23:53",4,1999
+34.0,,,+ - 20:10:23,,Peeters Wilfried,66,Mapei - Quickstep,",, 23:53",4,1999
+33.0,,,+ - 20:10:23,,Tebaldi Valerio,67,Mobilvetta Design - Northwave,",, 23:53",4,1999
+26.0,,,+ - 20:10:23,,Murtas Emiliano,68,,",, 23:53",4,1999
+27.0,,,+ - 20:10:23,,Beuchat Roger,69,,",, 23:53",4,1999
+24.0,,,+ - 20:10:23,,Giunti Massimo,70,Cantina Tollo - Alexia Alluminio,",, 23:53",4,1999
+24.0,,,+ - 20:10:23,,Gwiazdowski Grzegorz,71,Cofidis,",, 23:53",4,1999
+30.0,,,+ - 20:10:23,,Mengin Christophe,72,La Fran\xe7aise des Jeux,24:23 24:23,4,1999
+24.0,,,+ - 20:10:23,,Heule Christian,73,,24:26 24:26,4,1999
+24.0,,,+ - 20:10:23,,Perque Franck,74,La Fran\xe7aise des Jeux,24:56 24:56,4,1999
+30.0,,,+ - 20:10:23,,Cuesta \xcd\xf1igo,75,O.N.C.E. - Deutsche Bank,25:05 25:05,4,1999
+28.0,,,+ - 20:10:23,,Garcia Marcelino,76,,26:07 26:07,4,1999
+33.0,,,+ - 20:10:23,,Roscioli Fabio,77,Amica Chips - Costa de Almeria,28:50 28:50,4,1999
+21.0,,,+ - 20:10:23,,Nozal Isidro,78,O.N.C.E. - Deutsche Bank,31:28 31:28,4,1999
+29.0,,,+ - 20:10:23,,Goubert Stephane,79,Polti,34:50 34:50,4,1999
+26.0,,,+ - 20:10:23,,Mondini Gianpaolo,80,Cantina Tollo - Alexia Alluminio,35:40 35:40,4,1999
+30.0,,,+ - 20:10:23,,Gualdi Mirko,81,Mobilvetta Design - Northwave,",, 35:40",4,1999
+34.0,,,+ - 20:10:23,,S\xf8rensen Rolf,82,Rabobank ProTeam,",, 35:40",4,1999
+25.0,,,+ - 20:10:23,,Sacchi Fabio,83,Polti,",, 35:40",4,1999
+27.0,,,+ - 20:10:23,,Loda Nicola,84,,",, 35:40",4,1999
+33.0,,,+ - 20:10:23,,Spruch Zbigniew,85,Lampre - Daikin - Colnago,",, 35:40",4,1999
+28.0,,,+ - 20:10:23,,Wesemann Steffen,86,Team Telekom,",, 35:40",4,1999
+30.0,,,+ - 20:10:23,,Bramati Davide,87,Mapei - Quickstep,",, 35:40",4,1999
+31.0,,,+ - 20:10:23,,Baldato Fabio,88,,",, 35:40",4,1999
+28.0,,,+ - 20:10:23,,Pe\xf1a Miguel \xc1ngel,89,Banesto,",, 35:40",4,1999
+25.0,,,+ - 20:10:23,,Mazzanti Luca,90,Cantina Tollo - Alexia Alluminio,",, 35:40",4,1999
+27.0,,,+ - 20:10:23,,Brasi Rossano,91,Polti,",, 35:40",4,1999
+36.0,,,+ - 20:10:23,,Casagrande Stefano,92,,",, 35:40",4,1999
+24.0,,,+ - 20:10:23,,Bertoletti Simone,93,Lampre - Daikin - Colnago,",, 35:40",4,1999
+26.0,,,+ - 20:10:23,,Zumsteg Lukas,94,,",, 35:40",4,1999
+32.0,,,+ - 20:10:23,,Sciandri Maximilian,95,La Fran\xe7aise des Jeux,",, 35:40",4,1999
+23.0,,,+ - 20:10:23,,Haymoz Yvan,96,Post Swiss Team,",, 35:40",4,1999
+29.0,,,+ - 20:10:23,,Themann Michael,97,,",, 35:40",4,1999
+36.0,,,+ - 20:10:23,,Martinello Silvio,98,Polti,",, 35:40",4,1999
+26.0,,,+ - 20:10:23,,Sidler Christian,99,,",, 35:40",4,1999
+30.0,,,+ - 20:10:23,,Michaelsen Lars,100,La Fran\xe7aise des Jeux,",, 35:40",4,1999
+24.0,,,+ - 20:10:23,,Ca\xf1ada David,101,,",, 35:40",4,1999
+29.0,,,+ - 20:10:23,,Lamour Claude,102,Cofidis,",, 35:40",4,1999
+27.0,,,+ - 20:10:23,,Traversoni Mario,103,Saeco - Cannondale,",, 35:40",4,1999
+32.0,,,+ - 20:10:23,,Baronti Alessandro,104,Cantina Tollo - Alexia Alluminio,",, 35:40",4,1999
+23.0,,,+ - 20:10:23,,Plouhinec Samuel,105,Cofidis,",, 35:40",4,1999
+23.0,,,+ - 20:10:23,,Loder Thierry,106,Cofidis,",, 35:40",4,1999
+27.0,,,+ - 20:10:23,,Crepaldi Mirco,107,Polti,",, 35:40",4,1999
+27.0,,,+ - 20:10:23,,Steels Tom,108,Mapei - Quickstep,",, 35:40",4,1999
+27.0,,,+ - 20:10:23,,van Bon L\xe9on,109,Rabobank ProTeam,",, 35:40",4,1999
+27.0,,,+ - 20:10:23,,Leporatti Simone,110,,",, 35:40",4,1999
+27.0,,,+ - 20:10:23,,Guesdon Fr\xe9d\xe9ric,111,La Fran\xe7aise des Jeux,",, 35:40",4,1999
+28.0,,,+ - 20:10:23,,Patuelli Andrea,112,,",, 35:40",4,1999
+23.0,,,+ - 20:10:23,,Di Biase Moreno,113,Cantina Tollo - Alexia Alluminio,36:12 36:12,4,1999
+30.0,,,+ - 20:10:23,,Leysen Bart,114,Mapei - Quickstep,36:14 36:14,4,1999
+31.0,,,+ - 20:10:23,,Finco Carlo,115,,",, 36:14",4,1999
+27.0,,,+ - 20:10:23,,Varocchi Alessandro,116,,",, 36:14",4,1999
+,,,+ - 20:10:23,,Lejarreta Martin,117,,",, 36:14",4,1999
+28.0,,,+ - 20:10:23,,Christen Josef,118,,",, 36:14",4,1999
+23.0,,,+ - 20:10:23,,Smirnov Maxim,119,,",, 36:14",4,1999
+25.0,,,+ - 20:10:23,,White Matthew,120,Vini Caldirola - Sidermec,",, 36:14",4,1999
+26.0,,,+ - 20:10:23,,Lelekin Sergue\xef,121,Mobilvetta Design - Northwave,",, 36:14",4,1999
+27.0,,,+ - 20:10:23,,Barnsley Chris,122,,36:37 36:37,4,1999
+31.0,,,+ - 20:10:23,,Verstrepen Johan,123,Lampre - Daikin - Colnago,",, 36:37",4,1999
+28.0,,,+ - 20:10:23,,Zucchi Simone,124,Polti,",, 36:37",4,1999
+29.0,,,+ - 20:10:23,,Von Flue Daniel,125,,",, 36:37",4,1999
+27.0,,,+ - 20:10:23,,Ackermann Pierre,126,,",, 36:37",4,1999
+23.0,,,+ - 20:10:23,,Belohvosciks Raivis,127,Lampre - Daikin - Colnago,37:02 37:02,4,1999
+25.0,,,+ - 20:10:23,,Cannone Marco,128,,37:05 37:05,4,1999
+23.0,,,+ - 20:10:23,,Ongarato Alberto,129,,37:23 37:23,4,1999
+26.0,,,+ - 20:10:23,,Rokia Anthony,130,Cofidis,37:28 37:28,4,1999
+26.0,,,+ - 20:10:23,,Krzeszowiec Artur,131,,",, 37:28",4,1999
+28.0,,,+ - 20:10:23,,Dekker Erik,132,Rabobank ProTeam,37:47 37:47,4,1999
+25.0,,,+ - 20:10:23,,Bouyer Franck,133,La Fran\xe7aise des Jeux,40:04 40:04,4,1999
+33.0,48.133,,+ - 20:48:20,50.0,Ekimov Viatcheslav,1,Amica Chips - Costa de Almeria,36:09 36:09,5,1999
+28.0,47.411,,+ - 20:48:20,30.0,Wesemann Steffen,2,Team Telekom,0:33 0:33,5,1999
+29.0,46.836999999999996,,+ - 20:48:20,18.0,Hvastija Martin,3,,1:00 1:00,5,1999
+25.0,46.773999999999994,,+ - 20:48:20,13.0,White Matthew,4,Vini Caldirola - Sidermec,1:03 1:03,5,1999
+26.0,46.711000000000006,,+ - 20:48:20,10.0,Nardello Daniele,5,Mapei - Quickstep,1:06 1:06,5,1999
+28.0,46.711000000000006,,+ - 20:48:20,7.0,Petito Roberto,6,Saeco - Cannondale,",, 1:06",5,1999
+34.0,46.586000000000006,,+ - 20:48:20,4.0,Dierckxsens Ludo,7,Lampre - Daikin - Colnago,1:12 1:12,5,1999
+30.0,46.379,1.0,+0:00,3.0,Jalabert Laurent,8,O.N.C.E. - Deutsche Bank,1:22 1:22,5,1999
+23.0,46.215,,+ - 20:48:20,2.0,Belohvosciks Raivis,9,Lampre - Daikin - Colnago,1:30 1:30,5,1999
+26.0,46.195,,+ - 20:48:20,1.0,Serpellini Marco,10,Lampre - Daikin - Colnago,1:31 1:31,5,1999
+30.0,46.153999999999996,9.0,+3:40,,Tonkov Pavel,11,Mapei - Quickstep,1:33 1:33,5,1999
+22.0,46.133,,+ - 20:48:20,,Jaksche Jorg,12,Team Telekom,1:34 1:34,5,1999
+27.0,46.133,4.0,+0:38,,Camenzind Oscar,13,Lampre - Daikin - Colnago,",, 1:34",5,1999
+23.0,46.093,7.0,+2:37,,Montgomery Sven,14,,1:36 1:36,5,1999
+33.0,46.052,,+ - 20:48:20,,Roscioli Fabio,15,Amica Chips - Costa de Almeria,1:38 1:38,5,1999
+30.0,46.052,,+ - 20:48:20,,Wauters Marc,16,Rabobank ProTeam,",, 1:38",5,1999
+30.0,46.052,5.0,+0:43,,Dufaux Laurent,17,Saeco - Cannondale,",, 1:38",5,1999
+30.0,45.951,,+ - 20:48:20,,Gualdi Mirko,18,Mobilvetta Design - Northwave,1:43 1:43,5,1999
+28.0,45.87,,+ - 20:48:20,,Dekker Erik,19,Rabobank ProTeam,1:47 1:47,5,1999
+25.0,45.83,6.0,+2:26,,Sgambelluri Roberto,20,Cantina Tollo - Alexia Alluminio,1:49 1:49,5,1999
+27.0,45.81,2.0,+0:02,,Simoni Gilberto,21,,1:50 1:50,5,1999
+26.0,45.788999999999994,,+ - 20:48:20,,Merckx Axel,22,Mapei - Quickstep,1:51 1:51,5,1999
+28.0,45.769,3.0,+0:12,,Casagrande Francesco,23,Vini Caldirola - Sidermec,1:52 1:52,5,1999
+27.0,45.608999999999995,,+ - 20:48:20,,Ackermann Pierre,24,,2:00 2:00,5,1999
+28.0,45.608999999999995,,+ - 20:48:20,,Valoti Paolo,25,Mobilvetta Design - Northwave,",, 2:00",5,1999
+24.0,45.49,,+ - 20:48:20,,Bertoletti Simone,26,Lampre - Daikin - Colnago,2:06 2:06,5,1999
+29.0,45.451,8.0,+3:36,,Guerini Giuseppe,27,Team Telekom,2:08 2:08,5,1999
+28.0,45.352,10.0,+4:07,,Zberg Beat,28,Rabobank ProTeam,2:13 2:13,5,1999
+31.0,45.313,,+ - 20:48:20,,Lelli Massimiliano,29,Cofidis,2:15 2:15,5,1999
+,45.254,,+ - 20:48:20,,Fernandez Manuel,30,,2:18 2:18,5,1999
+25.0,45.195,,+ - 20:48:20,,Sacchi Fabio,31,Polti,2:21 2:21,5,1999
+30.0,45.195,,+ - 20:48:20,,De Pasquale Maurizio,32,,",, 2:21",5,1999
+29.0,45.156000000000006,,+ - 20:48:20,,Meier Armin,33,Saeco - Cannondale,2:23 2:23,5,1999
+25.0,45.078,,+ - 20:48:20,,Piovaccari Giusvan,34,Cantina Tollo - Alexia Alluminio,2:27 2:27,5,1999
+24.0,45.078,,+ - 20:48:20,,Gwiazdowski Grzegorz,35,Cofidis,",, 2:27",5,1999
+23.0,45.058,,+ - 20:48:20,,Smirnov Maxim,36,,2:28 2:28,5,1999
+29.0,45.038999999999994,,+ - 20:48:20,,Zarrabeitia Mikel,37,O.N.C.E. - Deutsche Bank,2:29 2:29,5,1999
+25.0,44.845,,+ - 20:48:20,,Tosatto Matteo,38,,2:39 2:39,5,1999
+28.0,44.826,,+ - 20:48:20,,Missaglia Gabriele,39,Lampre - Daikin - Colnago,2:40 2:40,5,1999
+25.0,44.788000000000004,,+ - 20:48:20,,Schnider Daniel,40,,2:42 2:42,5,1999
+38.0,44.711000000000006,,+ - 20:48:20,,Ugrumov Piotr,41,,2:46 2:46,5,1999
+30.0,44.673,,+ - 20:48:20,,Faustini Stefano,42,Mobilvetta Design - Northwave,2:48 2:48,5,1999
+31.0,44.596000000000004,,+ - 20:48:20,,Baldato Fabio,43,,2:52 2:52,5,1999
+28.0,44.558,,+ - 20:48:20,,Gasperoni Cristian,44,Cantina Tollo - Alexia Alluminio,2:54 2:54,5,1999
+35.0,44.52,,+ - 20:48:20,,Elli Alberto,45,Team Telekom,2:56 2:56,5,1999
+23.0,44.482,,+ - 20:48:20,,Giacomelli Sandro,46,,2:58 2:58,5,1999
+27.0,44.463,,+ - 20:48:20,,Colombo Gabriele,47,Cantina Tollo - Alexia Alluminio,2:59 2:59,5,1999
+24.0,44.426,,+ - 20:48:20,,Commesso Salvatore,48,Saeco - Cannondale,3:01 3:01,5,1999
+30.0,44.369,,+ - 20:48:20,,Hundertmarck Kai,49,Team Telekom,3:04 3:04,5,1999
+27.0,44.369,,+ - 20:48:20,,van Bon L\xe9on,50,Rabobank ProTeam,",, 3:04",5,1999
+36.0,44.312,,+ - 20:48:20,,Martinello Silvio,51,Polti,3:07 3:07,5,1999
+23.0,44.312,,+ - 20:48:20,,Charriere Christian,52,,",, 3:07",5,1999
+30.0,44.256,,+ - 20:48:20,,den Bakker Maarten,53,Rabobank ProTeam,3:10 3:10,5,1999
+28.0,44.236999999999995,,+ - 20:48:20,,Buschor Philipp,54,Post Swiss Team,3:11 3:11,5,1999
+27.0,44.236999999999995,,+ - 20:48:20,,Crepaldi Mirco,55,Polti,",, 3:11",5,1999
+31.0,44.218999999999994,,+ - 20:48:20,,Puttini Felice,56,Amica Chips - Costa de Almeria,3:12 3:12,5,1999
+33.0,44.162,,+ - 20:48:20,,Museeuw Johan,57,Mapei - Quickstep,3:15 3:15,5,1999
+24.0,44.162,,+ - 20:48:20,,Heule Christian,58,,",, 3:15",5,1999
+34.0,44.162,,+ - 20:48:20,,Peeters Wilfried,59,Mapei - Quickstep,",, 3:15",5,1999
+24.0,44.144,,+ - 20:48:20,,Perque Franck,60,La Fran\xe7aise des Jeux,3:16 3:16,5,1999
+28.0,44.106,,+ - 20:48:20,,Pe\xf1a Miguel \xc1ngel,61,Banesto,3:18 3:18,5,1999
+33.0,44.068999999999996,,+ - 20:48:20,,Tebaldi Valerio,62,Mobilvetta Design - Northwave,3:20 3:20,5,1999
+27.0,44.051,,+ - 20:48:20,,Brasi Rossano,63,Polti,3:21 3:21,5,1999
+24.0,44.051,,+ - 20:48:20,,Giunti Massimo,64,Cantina Tollo - Alexia Alluminio,",, 3:21",5,1999
+26.0,43.995,,+ - 20:48:20,,Celestino Mirko,65,Polti,3:24 3:24,5,1999
+21.0,43.995,,+ - 20:48:20,,Nozal Isidro,66,O.N.C.E. - Deutsche Bank,",, 3:24",5,1999
+26.0,43.976000000000006,,+ - 20:48:20,,Gohring Christoph,67,,3:25 3:25,5,1999
+25.0,43.93899999999999,,+ - 20:48:20,,Puglioli Mirko,68,,3:27 3:27,5,1999
+27.0,43.93899999999999,,+ - 20:48:20,,Boogerd Michael,69,Rabobank ProTeam,",, 3:27",5,1999
+29.0,43.88399999999999,,+ - 20:48:20,,Goubert Stephane,70,Polti,3:30 3:30,5,1999
+26.0,43.86600000000001,,+ - 20:48:20,,Mondini Gianpaolo,71,Cantina Tollo - Alexia Alluminio,3:31 3:31,5,1999
+29.0,43.847,,+ - 20:48:20,,Bourquenoud Pierre,72,Post Swiss Team,3:32 3:32,5,1999
+24.0,43.847,,+ - 20:48:20,,Atienza Daniel,73,Polti,",, 3:32",5,1999
+26.0,43.82899999999999,,+ - 20:48:20,,Sidler Christian,74,,3:33 3:33,5,1999
+31.0,43.82899999999999,,+ - 20:48:20,,Finco Carlo,75,,",, 3:33",5,1999
+31.0,43.7,,+ - 20:48:20,,Cattai Stefano,76,Polti,3:40 3:40,5,1999
+34.0,43.7,,+ - 20:48:20,,S\xf8rensen Rolf,77,Rabobank ProTeam,",, 3:40",5,1999
+,43.681999999999995,,+ - 20:48:20,,Lejarreta Martin,78,,3:41 3:41,5,1999
+26.0,43.663999999999994,,+ - 20:48:20,,Secchiari Francesco,79,Saeco - Cannondale,3:42 3:42,5,1999
+28.0,43.645,,+ - 20:48:20,,Zucchi Simone,80,Polti,3:43 3:43,5,1999
+30.0,43.645,,+ - 20:48:20,,Bramati Davide,81,Mapei - Quickstep,",, 3:43",5,1999
+27.0,43.626999999999995,,+ - 20:48:20,,Steels Tom,82,Mapei - Quickstep,3:44 3:44,5,1999
+27.0,43.536,,+ - 20:48:20,,Tronca Amilcare,83,Amica Chips - Costa de Almeria,3:49 3:49,5,1999
+26.0,43.482,,+ - 20:48:20,,Aebersold Niki,84,Rabobank ProTeam,3:52 3:52,5,1999
+30.0,43.464,,+ - 20:48:20,,Cuesta \xcd\xf1igo,85,O.N.C.E. - Deutsche Bank,3:53 3:53,5,1999
+35.0,43.428000000000004,,+ - 20:48:20,,Richard Pascal,86,Mobilvetta Design - Northwave,3:55 3:55,5,1999
+32.0,43.391999999999996,,+ - 20:48:20,,Baronti Alessandro,87,Cantina Tollo - Alexia Alluminio,3:57 3:57,5,1999
+26.0,43.302,,+ - 20:48:20,,Lelekin Sergue\xef,88,Mobilvetta Design - Northwave,4:02 4:02,5,1999
+23.0,43.302,,+ - 20:48:20,,Loder Thierry,89,Cofidis,",, 4:02",5,1999
+30.0,43.211999999999996,,+ - 20:48:20,,Lupi Emanuele,90,,4:07 4:07,5,1999
+23.0,43.211999999999996,,+ - 20:48:20,,Trentin Guido,91,Vini Caldirola - Sidermec,",, 4:07",5,1999
+23.0,43.14,,+ - 20:48:20,,Plouhinec Samuel,92,Cofidis,4:11 4:11,5,1999
+26.0,43.086999999999996,,+ - 20:48:20,,Dellavedova Marco,93,Lampre - Daikin - Colnago,4:14 4:14,5,1999
+24.0,43.052,,+ - 20:48:20,,Ca\xf1ada David,94,,4:16 4:16,5,1999
+24.0,42.998000000000005,,+ - 20:48:20,,Zberg Markus,95,Rabobank ProTeam,4:19 4:19,5,1999
+28.0,42.981,,+ - 20:48:20,,Vetsch Patrick,96,,4:20 4:20,5,1999
+29.0,42.928000000000004,,+ - 20:48:20,,Lamour Claude,97,Cofidis,4:23 4:23,5,1999
+23.0,42.857,,+ - 20:48:20,,Haymoz Yvan,98,Post Swiss Team,4:27 4:27,5,1999
+27.0,42.769,,+ - 20:48:20,,Loda Nicola,99,,4:32 4:32,5,1999
+27.0,42.717,,+ - 20:48:20,,Bertolini Alessandro,100,Mobilvetta Design - Northwave,4:35 4:35,5,1999
+32.0,42.63,,+ - 20:48:20,,Sciandri Maximilian,101,La Fran\xe7aise des Jeux,4:40 4:40,5,1999
+30.0,42.611999999999995,,+ - 20:48:20,,Leysen Bart,102,Mapei - Quickstep,4:41 4:41,5,1999
+27.0,42.577,,+ - 20:48:20,,Guesdon Fr\xe9d\xe9ric,103,La Fran\xe7aise des Jeux,4:43 4:43,5,1999
+31.0,42.56,,+ - 20:48:20,,Verstrepen Johan,104,Lampre - Daikin - Colnago,4:44 4:44,5,1999
+30.0,42.508,,+ - 20:48:20,,Mengin Christophe,105,La Fran\xe7aise des Jeux,4:47 4:47,5,1999
+30.0,42.353,,+ - 20:48:20,,Lombardi Giovanni,106,Team Telekom,4:56 4:56,5,1999
+35.0,42.336000000000006,,+ - 20:48:20,,Gianetti Mauro,107,Vini Caldirola - Sidermec,4:57 4:57,5,1999
+26.0,42.318999999999996,,+ - 20:48:20,,Zumsteg Lukas,108,,4:58 4:58,5,1999
+36.0,42.301,,+ - 20:48:20,,Casagrande Stefano,109,,4:59 4:59,5,1999
+28.0,42.233000000000004,,+ - 20:48:20,,Christen Josef,110,,5:03 5:03,5,1999
+29.0,42.165,,+ - 20:48:20,,Themann Michael,111,,5:07 5:07,5,1999
+31.0,42.165,,+ - 20:48:20,,Galletti Alessio,112,Saeco - Cannondale,",, 5:07",5,1999
+33.0,42.097,,+ - 20:48:20,,Jaermann Rolf,113,Post Swiss Team,5:11 5:11,5,1999
+24.0,42.097,,+ - 20:48:20,,Pugaci Igor,114,Saeco - Cannondale,",, 5:11",5,1999
+23.0,42.063,,+ - 20:48:20,,Di Biase Moreno,115,Cantina Tollo - Alexia Alluminio,5:13 5:13,5,1999
+26.0,42.012,,+ - 20:48:20,,Krzeszowiec Artur,116,,5:16 5:16,5,1999
+33.0,41.876999999999995,,+ - 20:48:20,,Spruch Zbigniew,117,Lampre - Daikin - Colnago,5:24 5:24,5,1999
+29.0,41.81,,+ - 20:48:20,,Von Flue Daniel,118,,5:28 5:28,5,1999
+30.0,41.793,,+ - 20:48:20,,Michaelsen Lars,119,La Fran\xe7aise des Jeux,5:29 5:29,5,1999
+27.0,41.727,,+ - 20:48:20,,Traversoni Mario,120,Saeco - Cannondale,5:33 5:33,5,1999
+25.0,41.727,,+ - 20:48:20,,Mazzanti Luca,121,Cantina Tollo - Alexia Alluminio,",, 5:33",5,1999
+26.0,41.693000000000005,,+ - 20:48:20,,Murtas Emiliano,122,,5:35 5:35,5,1999
+27.0,41.693000000000005,,+ - 20:48:20,,Barnsley Chris,123,,",, 5:35",5,1999
+27.0,41.56100000000001,,+ - 20:48:20,,Varocchi Alessandro,124,,5:43 5:43,5,1999
+25.0,41.544,,+ - 20:48:20,,Cannone Marco,125,,5:44 5:44,5,1999
+23.0,41.494,,+ - 20:48:20,,Ongarato Alberto,126,,5:47 5:47,5,1999
+25.0,41.379,,+ - 20:48:20,,Bouyer Franck,127,La Fran\xe7aise des Jeux,5:54 5:54,5,1999
+26.0,41.347,,+ - 20:48:20,,Rokia Anthony,128,Cofidis,5:56 5:56,5,1999
+28.0,41.07,,+ - 20:48:20,,Garcia Marcelino,129,,6:13 6:13,5,1999
+27.0,40.893,,+ - 20:48:20,,Beuchat Roger,130,,6:24 6:24,5,1999
+28.0,40.356,,+ - 20:48:20,,Patuelli Andrea,131,,6:58 6:58,5,1999
+27.0,40.262,,+ - 20:48:20,,Leporatti Simone,132,,7:04 7:04,5,1999
+25.0,,,+ - 24:38:17,50.0,White Matthew,1,Vini Caldirola - Sidermec,3:46:55 3:46:55,6,1999
+28.0,,,+ - 24:38:17,30.0,Petito Roberto,2,Saeco - Cannondale,0:06 0:06,6,1999
+28.0,,,+ - 24:38:17,18.0,Dekker Erik,3,Rabobank ProTeam,",, 0:06",6,1999
+28.0,,,+ - 24:38:17,13.0,Valoti Paolo,4,Mobilvetta Design - Northwave,0:07 0:07,6,1999
+30.0,,,+ - 24:38:17,10.0,Lombardi Giovanni,5,Team Telekom,0:14 0:14,6,1999
+34.0,,,+ - 24:38:17,7.0,Dierckxsens Ludo,6,Lampre - Daikin - Colnago,",, 0:14",6,1999
+24.0,,,+ - 24:38:17,4.0,Bertoletti Simone,7,Lampre - Daikin - Colnago,0:22 0:22,6,1999
+29.0,,6.0,+1:51,3.0,Zarrabeitia Mikel,8,O.N.C.E. - Deutsche Bank,0:24 0:24,6,1999
+35.0,,,+ - 24:38:17,2.0,Elli Alberto,9,Team Telekom,0:33 0:33,6,1999
+24.0,,,+ - 24:38:17,1.0,Heule Christian,10,,0:46 0:46,6,1999
+32.0,,,+ - 24:38:17,,Sciandri Maximilian,11,La Fran\xe7aise des Jeux,",, 0:46",6,1999
+30.0,,,+ - 24:38:17,,Faustini Stefano,12,Mobilvetta Design - Northwave,",, 0:46",6,1999
+28.0,,,+ - 24:38:17,,Vetsch Patrick,13,,3:02 3:02,6,1999
+33.0,,,+ - 24:38:17,,Roscioli Fabio,14,Amica Chips - Costa de Almeria,",, 3:02",6,1999
+33.0,,,+ - 24:38:17,,Ekimov Viatcheslav,15,Amica Chips - Costa de Almeria,",, 3:02",6,1999
+24.0,,,+ - 24:38:17,,Commesso Salvatore,16,Saeco - Cannondale,",, 3:02",6,1999
+26.0,,,+ - 24:38:17,,Gohring Christoph,17,,",, 3:02",6,1999
+30.0,,1.0,+0:00,,Jalabert Laurent,18,O.N.C.E. - Deutsche Bank,",, 3:02",6,1999
+24.0,,,+ - 24:38:17,,Giunti Massimo,19,Cantina Tollo - Alexia Alluminio,",, 3:02",6,1999
+27.0,,2.0,+0:02,,Simoni Gilberto,20,,",, 3:02",6,1999
+25.0,,,+ - 24:38:17,,Schnider Daniel,21,,",, 3:02",6,1999
+28.0,,3.0,+0:10,,Casagrande Francesco,22,Vini Caldirola - Sidermec,",, 3:02",6,1999
+25.0,,,+ - 24:38:17,,Sacchi Fabio,23,Polti,",, 3:02",6,1999
+30.0,,5.0,+0:43,,Dufaux Laurent,24,Saeco - Cannondale,",, 3:02",6,1999
+28.0,,,+ - 24:38:17,,Pe\xf1a Miguel \xc1ngel,25,Banesto,",, 3:02",6,1999
+27.0,,4.0,+0:35,,Camenzind Oscar,26,Lampre - Daikin - Colnago,",, 3:02",6,1999
+23.0,,,+ - 24:38:17,,Haymoz Yvan,27,Post Swiss Team,",, 3:02",6,1999
+29.0,,,+ - 24:38:17,,Lamour Claude,28,Cofidis,",, 3:02",6,1999
+27.0,,,+ - 24:38:17,,Tronca Amilcare,29,Amica Chips - Costa de Almeria,",, 3:02",6,1999
+29.0,,,+ - 24:38:17,,Meier Armin,30,Saeco - Cannondale,",, 3:02",6,1999
+26.0,,,+ - 24:38:17,,Dellavedova Marco,31,Lampre - Daikin - Colnago,",, 3:02",6,1999
+28.0,,,+ - 24:38:17,,Missaglia Gabriele,32,Lampre - Daikin - Colnago,",, 3:02",6,1999
+28.0,,,+ - 24:38:17,,Gasperoni Cristian,33,Cantina Tollo - Alexia Alluminio,",, 3:02",6,1999
+31.0,,,+ - 24:38:17,,Lelli Massimiliano,34,Cofidis,",, 3:02",6,1999
+27.0,,,+ - 24:38:17,,Boogerd Michael,35,Rabobank ProTeam,",, 3:02",6,1999
+30.0,,,+ - 24:38:17,,Mengin Christophe,36,La Fran\xe7aise des Jeux,",, 3:02",6,1999
+23.0,,8.0,+2:37,,Montgomery Sven,37,,",, 3:02",6,1999
+35.0,,,+ - 24:38:17,,Richard Pascal,38,Mobilvetta Design - Northwave,",, 3:02",6,1999
+30.0,,,+ - 24:38:17,,De Pasquale Maurizio,39,,",, 3:02",6,1999
+24.0,,,+ - 24:38:17,,Gwiazdowski Grzegorz,40,Cofidis,",, 3:02",6,1999
+28.0,,,+ - 24:38:17,,Zberg Beat,41,Rabobank ProTeam,",, 3:02",6,1999
+30.0,,10.0,+3:40,,Tonkov Pavel,42,Mapei - Quickstep,",, 3:02",6,1999
+,,,+ - 24:38:17,,Fernandez Manuel,43,,",, 3:02",6,1999
+26.0,,,+ - 24:38:17,,Celestino Mirko,44,Polti,",, 3:02",6,1999
+27.0,,,+ - 24:38:17,,Crepaldi Mirco,45,Polti,",, 3:02",6,1999
+31.0,,,+ - 24:38:17,,Cattai Stefano,46,Polti,",, 3:02",6,1999
+29.0,,,+ - 24:38:17,,Bourquenoud Pierre,47,Post Swiss Team,",, 3:02",6,1999
+24.0,,,+ - 24:38:17,,Zberg Markus,48,Rabobank ProTeam,",, 3:02",6,1999
+24.0,,,+ - 24:38:17,,Atienza Daniel,49,Polti,",, 3:02",6,1999
+28.0,,,+ - 24:38:17,,Buschor Philipp,50,Post Swiss Team,",, 3:02",6,1999
+30.0,,,+ - 24:38:17,,Hundertmarck Kai,51,Team Telekom,",, 3:02",6,1999
+29.0,,9.0,+3:36,,Guerini Giuseppe,52,Team Telekom,",, 3:02",6,1999
+31.0,,,+ - 24:38:17,,Puttini Felice,53,Amica Chips - Costa de Almeria,",, 3:02",6,1999
+33.0,,,+ - 24:38:17,,Tebaldi Valerio,54,Mobilvetta Design - Northwave,",, 3:02",6,1999
+27.0,,,+ - 24:38:17,,Loda Nicola,55,,",, 3:02",6,1999
+29.0,,,+ - 24:38:17,,Goubert Stephane,56,Polti,",, 3:02",6,1999
+26.0,,,+ - 24:38:17,,Serpellini Marco,57,Lampre - Daikin - Colnago,",, 3:02",6,1999
+26.0,,,+ - 24:38:17,,Aebersold Niki,58,Rabobank ProTeam,",, 3:02",6,1999
+26.0,,,+ - 24:38:17,,Nardello Daniele,59,Mapei - Quickstep,",, 3:02",6,1999
+27.0,,,+ - 24:38:17,,Beuchat Roger,60,,",, 3:02",6,1999
+27.0,,,+ - 24:38:17,,Bertolini Alessandro,61,Mobilvetta Design - Northwave,",, 3:02",6,1999
+25.0,,7.0,+2:26,,Sgambelluri Roberto,62,Cantina Tollo - Alexia Alluminio,",, 3:02",6,1999
+34.0,,,+ - 24:38:17,,Peeters Wilfried,63,Mapei - Quickstep,",, 3:02",6,1999
+23.0,,,+ - 24:38:17,,Smirnov Maxim,64,,",, 3:02",6,1999
+33.0,,,+ - 24:38:17,,Museeuw Johan,65,Mapei - Quickstep,",, 3:02",6,1999
+25.0,,,+ - 24:38:17,,Tosatto Matteo,66,,",, 3:02",6,1999
+30.0,,,+ - 24:38:17,,den Bakker Maarten,67,Rabobank ProTeam,",, 3:02",6,1999
+30.0,,,+ - 24:38:17,,Wauters Marc,68,Rabobank ProTeam,",, 3:02",6,1999
+26.0,,,+ - 24:38:17,,Secchiari Francesco,69,Saeco - Cannondale,",, 3:02",6,1999
+22.0,,,+ - 24:38:17,,Jaksche Jorg,70,Team Telekom,",, 3:02",6,1999
+23.0,,,+ - 24:38:17,,Loder Thierry,71,Cofidis,",, 3:02",6,1999
+28.0,,,+ - 24:38:17,,Wesemann Steffen,72,Team Telekom,",, 3:02",6,1999
+25.0,,,+ - 24:38:17,,Piovaccari Giusvan,73,Cantina Tollo - Alexia Alluminio,",, 3:02",6,1999
+28.0,,,+ - 24:38:17,,Garcia Marcelino,74,,",, 3:02",6,1999
+24.0,,,+ - 24:38:17,,Pugaci Igor,75,Saeco - Cannondale,",, 3:02",6,1999
+26.0,,,+ - 24:38:17,,Lelekin Sergue\xef,76,Mobilvetta Design - Northwave,3:45 3:45,6,1999
+27.0,,,+ - 24:38:17,,van Bon L\xe9on,77,Rabobank ProTeam,3:49 3:49,6,1999
+36.0,,,+ - 24:38:17,,Casagrande Stefano,78,,",, 3:49",6,1999
+30.0,,,+ - 24:38:17,,Cuesta \xcd\xf1igo,79,O.N.C.E. - Deutsche Bank,",, 3:49",6,1999
+35.0,,,+ - 24:38:17,,Gianetti Mauro,80,Vini Caldirola - Sidermec,4:13 4:13,6,1999
+26.0,,,+ - 24:38:17,,Murtas Emiliano,81,,",, 4:13",6,1999
+28.0,,,+ - 24:38:17,,Patuelli Andrea,82,,",, 4:13",6,1999
+27.0,,,+ - 24:38:17,,Varocchi Alessandro,83,,",, 4:13",6,1999
+23.0,,,+ - 24:38:17,,Plouhinec Samuel,84,Cofidis,4:24 4:24,6,1999
+21.0,,,+ - 24:38:17,,Nozal Isidro,85,O.N.C.E. - Deutsche Bank,",, 4:24",6,1999
+27.0,,,+ - 24:38:17,,Colombo Gabriele,86,Cantina Tollo - Alexia Alluminio,",, 4:24",6,1999
+23.0,,,+ - 24:38:17,,Trentin Guido,87,Vini Caldirola - Sidermec,",, 4:24",6,1999
+26.0,,,+ - 24:38:17,,Mondini Gianpaolo,88,Cantina Tollo - Alexia Alluminio,",, 4:24",6,1999
+34.0,,,+ - 24:38:17,,S\xf8rensen Rolf,89,Rabobank ProTeam,",, 4:24",6,1999
+27.0,,,+ - 24:38:17,,Zumsteg Lukas,90,,",, 4:24",6,1999
+33.0,,,+ - 24:38:17,,Spruch Zbigniew,91,Lampre - Daikin - Colnago,",, 4:24",6,1999
+27.0,,,+ - 24:38:17,,Guesdon Fr\xe9d\xe9ric,92,La Fran\xe7aise des Jeux,",, 4:24",6,1999
+27.0,,,+ - 24:38:17,,Brasi Rossano,93,Polti,5:45 5:45,6,1999
+36.0,,,+ - 24:38:17,,Martinello Silvio,94,Polti,",, 5:45",6,1999
+27.0,,,+ - 24:38:17,,Steels Tom,95,Mapei - Quickstep,",, 5:45",6,1999
+32.0,,,+ - 24:38:17,,Baronti Alessandro,96,Cantina Tollo - Alexia Alluminio,",, 5:45",6,1999
+38.0,,,+ - 24:38:17,,Ugrumov Piotr,97,,7:05 7:05,6,1999
+29.0,,,+ - 24:38:17,,Hvastija Martin,98,,8:06 8:06,6,1999
+31.0,,,+ - 24:38:17,,Baldato Fabio,99,,",, 8:06",6,1999
+30.0,,,+ - 24:38:17,,Lupi Emanuele,100,,",, 8:06",6,1999
+25.0,,,+ - 24:38:17,,Mazzanti Luca,101,Cantina Tollo - Alexia Alluminio,14:46 14:46,6,1999
+23.0,,,+ - 24:38:17,,Ongarato Alberto,102,,",, 14:46",6,1999
+23.0,,,+ - 24:38:17,,Belohvosciks Raivis,103,Lampre - Daikin - Colnago,",, 14:46",6,1999
+26.0,,,+ - 24:38:17,,Sidler Christian,104,,",, 14:46",6,1999
+29.0,,,+ - 24:38:17,,Themann Michael,105,,",, 14:46",6,1999
+31.0,,,+ - 24:38:17,,Finco Carlo,106,,",, 14:46",6,1999
+28.0,,,+ - 24:38:17,,Zucchi Simone,107,Polti,",, 14:46",6,1999
+28.0,,,+ - 24:38:17,,Christen Josef,108,,",, 14:46",6,1999
+25.0,,,+ - 24:38:17,,Puglioli Mirko,109,,",, 14:46",6,1999
+23.0,,,+ - 24:38:17,,Giacomelli Sandro,110,,",, 14:46",6,1999
+29.0,,,+ - 24:38:17,,Von Flue Daniel,111,,",, 14:46",6,1999
+30.0,,,+ - 24:38:17,,Bramati Davide,112,Mapei - Quickstep,",, 14:46",6,1999
+31.0,,,+ - 24:38:17,,Verstrepen Johan,113,Lampre - Daikin - Colnago,",, 14:46",6,1999
+30.0,,,+ - 24:38:17,,Leysen Bart,114,Mapei - Quickstep,",, 14:46",6,1999
+33.0,,,+ - 24:38:17,,Jaermann Rolf,115,Post Swiss Team,",, 14:46",6,1999
+27.0,,,+ - 24:38:17,,Traversoni Mario,116,Saeco - Cannondale,",, 14:46",6,1999
+,,,+ - 24:38:17,,Lejarreta Martin,117,,",, 14:46",6,1999
+24.0,,,+ - 24:38:17,,Perque Franck,118,La Fran\xe7aise des Jeux,",, 14:46",6,1999
+23.0,,,+ - 24:38:17,,Charriere Christian,119,,",, 14:46",6,1999
+23.0,,,+ - 24:38:17,,Di Biase Moreno,120,Cantina Tollo - Alexia Alluminio,",, 14:46",6,1999
+25.0,,,+ - 24:38:17,,Cannone Marco,121,,22:11 22:11,6,1999
+24.0,,,+ - 24:38:17,,Ca\xf1ada David,122,,",, 22:11",6,1999
+26.0,,,+ - 24:38:17,,Rokia Anthony,123,Cofidis,",, 22:11",6,1999
+27.0,,,+ - 24:38:17,,Leporatti Simone,124,,",, 22:11",6,1999
+27.0,,,+ - 24:38:17,,Barnsley Chris,125,,",, 22:11",6,1999
+26.0,,,+ - 24:38:17,,Krzeszowiec Artur,126,,",, 22:11",6,1999
+27.0,,,+ - 24:38:17,,Ackermann Pierre,127,,",, 22:11",6,1999
+27.0,,4.0,+0:25,50.0,Camenzind Oscar,1,Lampre - Daikin - Colnago,1:00:22 1:00:22,7,1999
+24.0,,,+ - 25:38:39,30.0,Zberg Markus,2,Rabobank ProTeam,",, ,,",7,1999
+28.0,,3.0,+0:06,18.0,Casagrande Francesco,3,Vini Caldirola - Sidermec,",, ,,",7,1999
+27.0,,2.0,+0:02,13.0,Simoni Gilberto,4,,",, ,,",7,1999
+31.0,,,+ - 25:38:39,10.0,Lelli Massimiliano,5,Cofidis,",, ,,",7,1999
+29.0,,,+ - 25:38:39,7.0,Meier Armin,6,Saeco - Cannondale,",, ,,",7,1999
+25.0,,,+ - 25:38:39,4.0,Tosatto Matteo,7,,",, ,,",7,1999
+30.0,,5.0,+0:43,3.0,Dufaux Laurent,8,Saeco - Cannondale,",, ,,",7,1999
+30.0,,1.0,+0:00,2.0,Jalabert Laurent,9,O.N.C.E. - Deutsche Bank,",, ,,",7,1999
+28.0,,,+ - 25:38:39,1.0,Gasperoni Cristian,10,Cantina Tollo - Alexia Alluminio,",, ,,",7,1999
+29.0,,9.0,+3:36,,Guerini Giuseppe,11,Team Telekom,",, ,,",7,1999
+25.0,,,+ - 25:38:39,,Sacchi Fabio,12,Polti,",, ,,",7,1999
+28.0,,,+ - 25:38:39,,Vetsch Patrick,13,,",, ,,",7,1999
+23.0,,8.0,+2:37,,Montgomery Sven,14,,",, ,,",7,1999
+30.0,,10.0,+3:40,,Tonkov Pavel,15,Mapei - Quickstep,",, ,,",7,1999
+29.0,,,+ - 25:38:39,,Goubert Stephane,16,Polti,",, ,,",7,1999
+35.0,,,+ - 25:38:39,,Richard Pascal,17,Mobilvetta Design - Northwave,",, ,,",7,1999
+28.0,,,+ - 25:38:39,,Zberg Beat,18,Rabobank ProTeam,",, ,,",7,1999
+26.0,,,+ - 25:38:39,,Aebersold Niki,19,Rabobank ProTeam,",, ,,",7,1999
+25.0,,7.0,+2:26,,Sgambelluri Roberto,20,Cantina Tollo - Alexia Alluminio,",, ,,",7,1999
+31.0,,,+ - 25:38:39,,Puttini Felice,21,Amica Chips - Costa de Almeria,",, ,,",7,1999
+26.0,,,+ - 25:38:39,,Celestino Mirko,22,Polti,",, ,,",7,1999
+28.0,,,+ - 25:38:39,,Buschor Philipp,23,Post Swiss Team,",, ,,",7,1999
+26.0,,,+ - 25:38:39,,Nardello Daniele,24,Mapei - Quickstep,",, ,,",7,1999
+33.0,,,+ - 25:38:39,,Ekimov Viatcheslav,25,Amica Chips - Costa de Almeria,",, ,,",7,1999
+33.0,,,+ - 25:38:39,,Museeuw Johan,26,Mapei - Quickstep,",, ,,",7,1999
+27.0,,,+ - 25:38:39,,Tronca Amilcare,27,Amica Chips - Costa de Almeria,",, ,,",7,1999
+28.0,,,+ - 25:38:39,,Missaglia Gabriele,28,Lampre - Daikin - Colnago,",, ,,",7,1999
+24.0,,,+ - 25:38:39,,Atienza Daniel,29,Polti,",, ,,",7,1999
+26.0,,,+ - 25:38:39,,Gohring Christoph,30,,",, ,,",7,1999
+25.0,,,+ - 25:38:39,,Schnider Daniel,31,,",, ,,",7,1999
+23.0,,,+ - 25:38:39,,Loder Thierry,32,Cofidis,",, ,,",7,1999
+30.0,,,+ - 25:38:39,,Faustini Stefano,33,Mobilvetta Design - Northwave,",, ,,",7,1999
+25.0,,,+ - 25:38:39,,Piovaccari Giusvan,34,Cantina Tollo - Alexia Alluminio,",, ,,",7,1999
+29.0,,6.0,+1:51,,Zarrabeitia Mikel,35,O.N.C.E. - Deutsche Bank,",, ,,",7,1999
+28.0,,,+ - 25:38:39,,Valoti Paolo,36,Mobilvetta Design - Northwave,",, ,,",7,1999
+24.0,,,+ - 25:38:39,,Commesso Salvatore,37,Saeco - Cannondale,",, ,,",7,1999
+31.0,,,+ - 25:38:39,,Cattai Stefano,38,Polti,",, ,,",7,1999
+30.0,,,+ - 25:38:39,,Mengin Christophe,39,La Fran\xe7aise des Jeux,0:12 0:12,7,1999
+34.0,,,+ - 25:38:39,,Peeters Wilfried,40,Mapei - Quickstep,",, 0:12",7,1999
+29.0,,,+ - 25:38:39,,Bourquenoud Pierre,41,Post Swiss Team,",, 0:12",7,1999
+26.0,,,+ - 25:38:39,,Serpellini Marco,42,Lampre - Daikin - Colnago,",, 0:12",7,1999
+38.0,,,+ - 25:38:39,,Ugrumov Piotr,43,,",, 0:12",7,1999
+26.0,,,+ - 25:38:39,,Secchiari Francesco,44,Saeco - Cannondale,",, 0:12",7,1999
+24.0,,,+ - 25:38:39,,Giunti Massimo,45,Cantina Tollo - Alexia Alluminio,",, 0:12",7,1999
+32.0,,,+ - 25:38:39,,Baronti Alessandro,46,Cantina Tollo - Alexia Alluminio,",, 0:12",7,1999
+28.0,,,+ - 25:38:39,,Petito Roberto,47,Saeco - Cannondale,",, 0:12",7,1999
+34.0,,,+ - 25:38:39,,Dierckxsens Ludo,48,Lampre - Daikin - Colnago,",, 0:12",7,1999
+30.0,,,+ - 25:38:39,,Wauters Marc,49,Rabobank ProTeam,",, 0:12",7,1999
+35.0,,,+ - 25:38:39,,Gianetti Mauro,50,Vini Caldirola - Sidermec,",, 0:12",7,1999
+27.0,,,+ - 25:38:39,,Boogerd Michael,51,Rabobank ProTeam,",, 0:12",7,1999
+35.0,,,+ - 25:38:39,,Elli Alberto,52,Team Telekom,",, 0:12",7,1999
+26.0,,,+ - 25:38:39,,Dellavedova Marco,53,Lampre - Daikin - Colnago,",, 0:12",7,1999
+24.0,,,+ - 25:38:39,,Pugaci Igor,54,Saeco - Cannondale,",, 0:12",7,1999
+22.0,,,+ - 25:38:39,,Jaksche Jorg,55,Team Telekom,",, 0:12",7,1999
+23.0,,,+ - 25:38:39,,Plouhinec Samuel,56,Cofidis,",, 0:12",7,1999
+34.0,,,+ - 25:38:39,,S\xf8rensen Rolf,57,Rabobank ProTeam,0:36 0:36,7,1999
+30.0,,,+ - 25:38:39,,Hundertmarck Kai,58,Team Telekom,0:41 0:41,7,1999
+23.0,,,+ - 25:38:39,,Belohvosciks Raivis,59,Lampre - Daikin - Colnago,",, 0:41",7,1999
+28.0,,,+ - 25:38:39,,Dekker Erik,60,Rabobank ProTeam,0:45 0:45,7,1999
+33.0,,,+ - 25:38:39,,Tebaldi Valerio,61,Mobilvetta Design - Northwave,",, 0:45",7,1999
+27.0,,,+ - 25:38:39,,Steels Tom,62,Mapei - Quickstep,0:50 0:50,7,1999
+27.0,,,+ - 25:38:39,,Colombo Gabriele,63,Cantina Tollo - Alexia Alluminio,",, 0:50",7,1999
+30.0,,,+ - 25:38:39,,den Bakker Maarten,64,Rabobank ProTeam,",, 0:50",7,1999
+27.0,,,+ - 25:38:39,,van Bon L\xe9on,65,Rabobank ProTeam,",, 0:50",7,1999
+30.0,,,+ - 25:38:39,,Bramati Davide,66,Mapei - Quickstep,",, 0:50",7,1999
+30.0,,,+ - 25:38:39,,Lombardi Giovanni,67,Team Telekom,",, 0:50",7,1999
+24.0,,,+ - 25:38:39,,Gwiazdowski Grzegorz,68,Cofidis,1:14 1:14,7,1999
+30.0,,,+ - 25:38:39,,De Pasquale Maurizio,69,,",, 1:14",7,1999
+27.0,,,+ - 25:38:39,,Zumsteg Lukas,70,,",, 1:14",7,1999
+36.0,,,+ - 25:38:39,,Casagrande Stefano,71,,",, 1:14",7,1999
+23.0,,,+ - 25:38:39,,Trentin Guido,72,Vini Caldirola - Sidermec,",, 1:14",7,1999
+28.0,,,+ - 25:38:39,,Garcia Marcelino,73,,",, 1:14",7,1999
+23.0,,,+ - 25:38:39,,Smirnov Maxim,74,,1:53 1:53,7,1999
+32.0,,,+ - 25:38:39,,Sciandri Maximilian,75,La Fran\xe7aise des Jeux,",, 1:53",7,1999
+24.0,,,+ - 25:38:39,,Heule Christian,76,,",, 1:53",7,1999
+26.0,,,+ - 25:38:39,,Mondini Gianpaolo,77,Cantina Tollo - Alexia Alluminio,",, 1:53",7,1999
+31.0,,,+ - 25:38:39,,Baldato Fabio,78,,",, 1:53",7,1999
+29.0,,,+ - 25:38:39,,Themann Michael,79,,",, 1:53",7,1999
+25.0,,,+ - 25:38:39,,Mazzanti Luca,80,Cantina Tollo - Alexia Alluminio,",, 1:53",7,1999
+27.0,,,+ - 25:38:39,,Crepaldi Mirco,81,Polti,",, 1:53",7,1999
+33.0,,,+ - 25:38:39,,Spruch Zbigniew,82,Lampre - Daikin - Colnago,",, 1:53",7,1999
+28.0,,,+ - 25:38:39,,Zucchi Simone,83,Polti,2:43 2:43,7,1999
+24.0,,,+ - 25:38:39,,Bertoletti Simone,84,Lampre - Daikin - Colnago,",, 2:43",7,1999
+27.0,,,+ - 25:38:39,,Traversoni Mario,85,Saeco - Cannondale,",, 2:43",7,1999
+29.0,,,+ - 25:38:39,,Von Flue Daniel,86,,",, 2:43",7,1999
+26.0,,,+ - 25:38:39,,Krzeszowiec Artur,87,,",, 2:43",7,1999
+36.0,,,+ - 25:38:39,,Martinello Silvio,88,Polti,",, 2:43",7,1999
+25.0,,,+ - 25:38:39,,Puglioli Mirko,89,,",, 2:43",7,1999
+27.0,,,+ - 25:38:39,,Brasi Rossano,90,Polti,",, 2:43",7,1999
+26.0,,,+ - 25:38:39,,Sidler Christian,91,,",, 2:43",7,1999
+23.0,,,+ - 25:38:39,,Ongarato Alberto,92,,3:19 3:19,7,1999
+29.0,,,+ - 25:38:39,,Hvastija Martin,93,,",, 3:19",7,1999
+27.0,,,+ - 25:38:39,,Loda Nicola,94,,",, 3:19",7,1999
+31.0,,,+ - 25:38:39,,Finco Carlo,95,,",, 3:19",7,1999
+25.0,,,+ - 25:38:39,,Cannone Marco,96,,",, 3:19",7,1999
+23.0,,,+ - 25:38:39,,Haymoz Yvan,97,Post Swiss Team,",, 3:19",7,1999
+30.0,,,+ - 25:38:39,,Lupi Emanuele,98,,",, 3:19",7,1999
+33.0,,,+ - 25:38:39,,Jaermann Rolf,99,Post Swiss Team,",, 3:19",7,1999
+27.0,,,+ - 25:38:39,,Beuchat Roger,100,,",, 3:19",7,1999
+26.0,,,+ - 25:38:39,,Lelekin Sergue\xef,101,Mobilvetta Design - Northwave,",, 3:19",7,1999
+26.0,,,+ - 25:38:39,,Murtas Emiliano,102,,",, 3:19",7,1999
+27.0,,,+ - 25:38:39,,Guesdon Fr\xe9d\xe9ric,103,La Fran\xe7aise des Jeux,",, 3:19",7,1999
+30.0,,,+ - 25:38:39,,Cuesta \xcd\xf1igo,104,O.N.C.E. - Deutsche Bank,",, 3:19",7,1999
+21.0,,,+ - 25:38:39,,Nozal Isidro,105,O.N.C.E. - Deutsche Bank,",, 3:19",7,1999
+24.0,,,+ - 25:38:39,,Ca\xf1ada David,106,,",, 3:19",7,1999
+33.0,,,+ - 25:38:39,,Roscioli Fabio,107,Amica Chips - Costa de Almeria,",, 3:19",7,1999
+27.0,,,+ - 25:38:39,,Barnsley Chris,108,,",, 3:19",7,1999
+23.0,,,+ - 25:38:39,,Di Biase Moreno,109,Cantina Tollo - Alexia Alluminio,",, 3:19",7,1999
+28.0,,,+ - 25:38:39,,Pe\xf1a Miguel \xc1ngel,110,Banesto,",, 3:19",7,1999
+29.0,,,+ - 25:38:39,,Lamour Claude,111,Cofidis,",, 3:19",7,1999
+28.0,,,+ - 25:38:39,,Patuelli Andrea,112,,",, 3:19",7,1999
+27.0,,,+ - 25:38:39,,Leporatti Simone,113,,",, 3:19",7,1999
+,,,+ - 25:38:39,,Lejarreta Martin,114,,",, 3:19",7,1999
+28.0,,,+ - 25:38:39,,Christen Josef,115,,",, 3:19",7,1999
+23.0,,,+ - 25:38:39,,Giacomelli Sandro,116,,",, 3:19",7,1999
+27.0,,,+ - 25:38:39,,Ackermann Pierre,117,,",, 3:19",7,1999
+27.0,,,+ - 25:38:39,,Varocchi Alessandro,118,,",, 3:19",7,1999
+30.0,,,+ - 25:38:39,,Leysen Bart,119,Mapei - Quickstep,",, 3:19",7,1999
+25.0,,,+ - 25:38:39,,White Matthew,120,Vini Caldirola - Sidermec,3:39 3:39,7,1999
+24.0,,,+ - 25:38:39,,Perque Franck,121,La Fran\xe7aise des Jeux,4:03 4:03,7,1999
+28.0,,,+ - 25:38:39,,Wesemann Steffen,122,Team Telekom,",, 4:03",7,1999
+26.0,,,+ - 25:38:39,,Rokia Anthony,123,Cofidis,",, 4:03",7,1999
+31.0,,,+ - 25:38:39,,Verstrepen Johan,124,Lampre - Daikin - Colnago,5:53 5:53,7,1999
+27.0,,,+ - 25:38:39,,Bertolini Alessandro,125,Mobilvetta Design - Northwave,7:10 7:10,7,1999
+28.0,,1.0,+0:00,50.0,Casagrande Francesco,1,Vini Caldirola - Sidermec,4:32:20 4:32:20,8,1999
+30.0,,4.0,+1:16,30.0,Dufaux Laurent,2,Saeco - Cannondale,0:35 0:35,8,1999
+29.0,,8.0,+4:21,18.0,Guerini Giuseppe,3,Team Telekom,0:45 0:45,8,1999
+30.0,,10.0,+4:32,13.0,Tonkov Pavel,4,Mapei - Quickstep,0:48 0:48,8,1999
+30.0,,2.0,+1:04,10.0,Jalabert Laurent,5,O.N.C.E. - Deutsche Bank,1:00 1:00,8,1999
+27.0,,3.0,+1:11,7.0,Simoni Gilberto,6,,1:05 1:05,8,1999
+28.0,,,+ - 30:10:55,4.0,Gasperoni Cristian,7,Cantina Tollo - Alexia Alluminio,1:16 1:16,8,1999
+29.0,,,+ - 30:10:55,3.0,Meier Armin,8,Saeco - Cannondale,",, 1:16",8,1999
+28.0,,,+ - 30:10:55,2.0,Buschor Philipp,9,Post Swiss Team,",, 1:16",8,1999
+23.0,,6.0,+3:57,1.0,Montgomery Sven,10,,",, 1:16",8,1999
+24.0,,,+ - 30:10:55,,Atienza Daniel,11,Polti,",, 1:16",8,1999
+27.0,,5.0,+1:45,,Camenzind Oscar,12,Lampre - Daikin - Colnago,",, 1:16",8,1999
+27.0,,,+ - 30:10:55,,Boogerd Michael,13,Rabobank ProTeam,1:51 1:51,8,1999
+25.0,,7.0,+4:21,,Sgambelluri Roberto,14,Cantina Tollo - Alexia Alluminio,",, 1:51",8,1999
+25.0,,,+ - 30:10:55,,Piovaccari Giusvan,15,Cantina Tollo - Alexia Alluminio,",, 1:51",8,1999
+26.0,,,+ - 30:10:55,,Celestino Mirko,16,Polti,1:55 1:55,8,1999
+33.0,,,+ - 30:10:55,,Ekimov Viatcheslav,17,Amica Chips - Costa de Almeria,2:34 2:34,8,1999
+29.0,,9.0,+4:29,,Zarrabeitia Mikel,18,O.N.C.E. - Deutsche Bank,",, 2:34",8,1999
+26.0,,,+ - 30:10:55,,Serpellini Marco,19,Lampre - Daikin - Colnago,",, 2:34",8,1999
+26.0,,,+ - 30:10:55,,Nardello Daniele,20,Mapei - Quickstep,",, 2:34",8,1999
+31.0,,,+ - 30:10:55,,Puttini Felice,21,Amica Chips - Costa de Almeria,2:43 2:43,8,1999
+28.0,,,+ - 30:10:55,,Zberg Beat,22,Rabobank ProTeam,3:17 3:17,8,1999
+22.0,,,+ - 30:10:55,,Jaksche Jorg,23,Team Telekom,",, 3:17",8,1999
+24.0,,,+ - 30:10:55,,Commesso Salvatore,24,Saeco - Cannondale,4:05 4:05,8,1999
+25.0,,,+ - 30:10:55,,Schnider Daniel,25,,4:32 4:32,8,1999
+35.0,,,+ - 30:10:55,,Gianetti Mauro,26,Vini Caldirola - Sidermec,5:22 5:22,8,1999
+31.0,,,+ - 30:10:55,,Lelli Massimiliano,27,Cofidis,",, 5:22",8,1999
+31.0,,,+ - 30:10:55,,Cattai Stefano,28,Polti,9:06 9:06,8,1999
+35.0,,,+ - 30:10:55,,Richard Pascal,29,Mobilvetta Design - Northwave,11:01 11:01,8,1999
+26.0,,,+ - 30:10:55,,Aebersold Niki,30,Rabobank ProTeam,",, 11:01",8,1999
+26.0,,,+ - 30:10:55,,Secchiari Francesco,31,Saeco - Cannondale,",, 11:01",8,1999
+28.0,,,+ - 30:10:55,,Vetsch Patrick,32,,",, 11:01",8,1999
+29.0,,,+ - 30:10:55,,Bourquenoud Pierre,33,Post Swiss Team,",, 11:01",8,1999
+26.0,,,+ - 30:10:55,,Gohring Christoph,34,,",, 11:01",8,1999
+24.0,,,+ - 30:10:55,,Zberg Markus,35,Rabobank ProTeam,",, 11:01",8,1999
+24.0,,,+ - 30:10:55,,Gwiazdowski Grzegorz,36,Cofidis,",, 11:01",8,1999
+23.0,,,+ - 30:10:55,,Trentin Guido,37,Vini Caldirola - Sidermec,",, 11:01",8,1999
+30.0,,,+ - 30:10:55,,den Bakker Maarten,38,Rabobank ProTeam,",, 11:01",8,1999
+29.0,,,+ - 30:10:55,,Goubert Stephane,39,Polti,",, 11:01",8,1999
+38.0,,,+ - 30:10:55,,Ugrumov Piotr,40,,",, 11:01",8,1999
+33.0,,,+ - 30:10:55,,Tebaldi Valerio,41,Mobilvetta Design - Northwave,",, 11:01",8,1999
+27.0,,,+ - 30:10:55,,Tronca Amilcare,42,Amica Chips - Costa de Almeria,",, 11:01",8,1999
+25.0,,,+ - 30:10:55,,Tosatto Matteo,43,,",, 11:01",8,1999
+24.0,,,+ - 30:10:55,,Pugaci Igor,44,Saeco - Cannondale,",, 11:01",8,1999
+27.0,,,+ - 30:10:55,,Guesdon Fr\xe9d\xe9ric,45,La Fran\xe7aise des Jeux,",, 11:01",8,1999
+25.0,,,+ - 30:10:55,,White Matthew,46,Vini Caldirola - Sidermec,",, 11:01",8,1999
+24.0,,,+ - 30:10:55,,Heule Christian,47,,",, 11:01",8,1999
+34.0,,,+ - 30:10:55,,S\xf8rensen Rolf,48,Rabobank ProTeam,13:23 13:23,8,1999
+27.0,,,+ - 30:10:55,,Colombo Gabriele,49,Cantina Tollo - Alexia Alluminio,14:28 14:28,8,1999
+28.0,,,+ - 30:10:55,,Wesemann Steffen,50,Team Telekom,15:10 15:10,8,1999
+28.0,,,+ - 30:10:55,,Pe\xf1a Miguel \xc1ngel,51,Banesto,",, 15:10",8,1999
+28.0,,,+ - 30:10:55,,Missaglia Gabriele,52,Lampre - Daikin - Colnago,15:40 15:40,8,1999
+28.0,,,+ - 30:10:55,,Valoti Paolo,53,Mobilvetta Design - Northwave,",, 15:40",8,1999
+35.0,,,+ - 30:10:55,,Elli Alberto,54,Team Telekom,",, 15:40",8,1999
+26.0,,,+ - 30:10:55,,Dellavedova Marco,55,Lampre - Daikin - Colnago,",, 15:40",8,1999
+23.0,,,+ - 30:10:55,,Haymoz Yvan,56,Post Swiss Team,",, 15:40",8,1999
+33.0,,,+ - 30:10:55,,Roscioli Fabio,57,Amica Chips - Costa de Almeria,17:09 17:09,8,1999
+34.0,,,+ - 30:10:55,,Dierckxsens Ludo,58,Lampre - Daikin - Colnago,",, 17:09",8,1999
+24.0,,,+ - 30:10:55,,Giunti Massimo,59,Cantina Tollo - Alexia Alluminio,",, 17:09",8,1999
+28.0,,,+ - 30:10:55,,Petito Roberto,60,Saeco - Cannondale,",, 17:09",8,1999
+27.0,,,+ - 30:10:55,,Zumsteg Lukas,61,,",, 17:09",8,1999
+25.0,,,+ - 30:10:55,,Sacchi Fabio,62,Polti,",, 17:09",8,1999
+30.0,,,+ - 30:10:55,,Hundertmarck Kai,63,Team Telekom,",, 17:09",8,1999
+30.0,,,+ - 30:10:55,,Lombardi Giovanni,64,Team Telekom,",, 17:09",8,1999
+23.0,,,+ - 30:10:55,,Smirnov Maxim,65,,",, 17:09",8,1999
+26.0,,,+ - 30:10:55,,Mondini Gianpaolo,66,Cantina Tollo - Alexia Alluminio,",, 17:09",8,1999
+26.0,,,+ - 30:10:55,,Lelekin Sergue\xef,67,Mobilvetta Design - Northwave,",, 17:09",8,1999
+30.0,,,+ - 30:10:55,,Cuesta \xcd\xf1igo,68,O.N.C.E. - Deutsche Bank,",, 17:09",8,1999
+33.0,,,+ - 30:10:55,,Museeuw Johan,69,Mapei - Quickstep,",, 17:09",8,1999
+30.0,,,+ - 30:10:55,,Wauters Marc,70,Rabobank ProTeam,",, 17:09",8,1999
+27.0,,,+ - 30:10:55,,Varocchi Alessandro,71,,",, 17:09",8,1999
+33.0,,,+ - 30:10:55,,Jaermann Rolf,72,Post Swiss Team,17:23 17:23,8,1999
+28.0,,,+ - 30:10:55,,Garcia Marcelino,73,,",, 17:23",8,1999
+29.0,,,+ - 30:10:55,,Hvastija Martin,74,,17:36 17:36,8,1999
+30.0,,,+ - 30:10:55,,Bramati Davide,75,Mapei - Quickstep,17:38 17:38,8,1999
+24.0,,,+ - 30:10:55,,Bertoletti Simone,76,Lampre - Daikin - Colnago,20:42 20:42,8,1999
+23.0,,,+ - 30:10:55,,Belohvosciks Raivis,77,Lampre - Daikin - Colnago,",, 20:42",8,1999
+28.0,,,+ - 30:10:55,,Christen Josef,78,,",, 20:42",8,1999
+36.0,,,+ - 30:10:55,,Martinello Silvio,79,Polti,",, 20:42",8,1999
+34.0,,,+ - 30:10:55,,Peeters Wilfried,80,Mapei - Quickstep,",, 20:42",8,1999
+31.0,,,+ - 30:10:55,,Finco Carlo,81,,",, 20:42",8,1999
+23.0,,,+ - 30:10:55,,Giacomelli Sandro,82,,",, 20:42",8,1999
+24.0,,,+ - 30:10:55,,Perque Franck,83,La Fran\xe7aise des Jeux,",, 20:42",8,1999
+29.0,,,+ - 30:10:55,,Lamour Claude,84,Cofidis,",, 20:42",8,1999
+27.0,,,+ - 30:10:55,,Steels Tom,85,Mapei - Quickstep,",, 20:42",8,1999
+27.0,,,+ - 30:10:55,,Brasi Rossano,86,Polti,",, 20:42",8,1999
+27.0,,,+ - 30:10:55,,Loda Nicola,87,,",, 20:42",8,1999
+30.0,,,+ - 30:10:55,,Leysen Bart,88,Mapei - Quickstep,",, 20:42",8,1999
+25.0,,,+ - 30:10:55,,Mazzanti Luca,89,Cantina Tollo - Alexia Alluminio,",, 20:42",8,1999
+32.0,,,+ - 30:10:55,,Baronti Alessandro,90,Cantina Tollo - Alexia Alluminio,",, 20:42",8,1999
+30.0,,,+ - 30:10:55,,De Pasquale Maurizio,91,,",, 20:42",8,1999
+,,,+ - 30:10:55,,Lejarreta Martin,92,,",, 20:42",8,1999
+30.0,,,+ - 30:10:55,,Mengin Christophe,93,La Fran\xe7aise des Jeux,",, 20:42",8,1999
+32.0,,,+ - 30:10:55,,Sciandri Maximilian,94,La Fran\xe7aise des Jeux,",, 20:42",8,1999
+29.0,,,+ - 30:10:55,,Von Flue Daniel,95,,21:05 21:05,8,1999
+27.0,,,+ - 30:10:55,,Barnsley Chris,96,,",, 21:05",8,1999
+27.0,,,+ - 30:10:55,,Crepaldi Mirco,97,Polti,21:52 21:52,8,1999
+29.0,,,+ - 30:10:55,,Themann Michael,98,,22:34 22:34,8,1999
+24.0,,,+ - 30:10:55,,Ca\xf1ada David,99,,",, 22:34",8,1999
+33.0,,,+ - 30:10:55,,Spruch Zbigniew,100,Lampre - Daikin - Colnago,",, 22:34",8,1999
+27.0,,,+ - 30:10:55,,Traversoni Mario,101,Saeco - Cannondale,",, 22:34",8,1999
+21.0,,,+ - 30:10:55,,Nozal Isidro,102,O.N.C.E. - Deutsche Bank,",, 22:34",8,1999
+36.0,,,+ - 30:10:55,,Casagrande Stefano,103,,",, 22:34",8,1999
+26.0,,,+ - 30:10:55,,Murtas Emiliano,104,,",, 22:34",8,1999
+28.0,,,+ - 30:10:55,,Zucchi Simone,105,Polti,",, 22:34",8,1999
+31.0,,,+ - 30:10:55,,Verstrepen Johan,106,Lampre - Daikin - Colnago,",, 22:34",8,1999
+23.0,,,+ - 30:10:55,,Di Biase Moreno,107,Cantina Tollo - Alexia Alluminio,",, 22:34",8,1999
+23.0,,,+ - 30:10:55,,Loder Thierry,108,Cofidis,",, 22:34",8,1999
+26.0,,,+ - 30:10:55,,Rokia Anthony,109,Cofidis,",, 22:34",8,1999
+26.0,,,+ - 30:10:55,,Sidler Christian,110,,",, 22:34",8,1999
+23.0,,,+ - 30:10:55,,Plouhinec Samuel,111,Cofidis,24:21 24:21,8,1999
+27.0,,,+ - 30:10:55,,Leporatti Simone,112,,25:40 25:40,8,1999
+28.0,,,+ - 30:10:55,,Patuelli Andrea,113,,",, 25:40",8,1999
+25.0,,,+ - 30:10:55,,Cannone Marco,114,,",, 25:40",8,1999
+25.0,,,+ - 30:10:55,,Puglioli Mirko,115,,",, 25:40",8,1999
+26.0,,,+ - 30:10:55,,Krzeszowiec Artur,116,,",, 25:40",8,1999
+30.0,,54.0,+1:01:13,50.0,De Pasquale Maurizio,1,,5:10:01 5:10:01,9,1999
+28.0,,31.0,+30:59,30.0,Vetsch Patrick,2,,",, ,,",9,1999
+26.0,,69.0,+1:16:13,18.0,Mondini Gianpaolo,3,Cantina Tollo - Alexia Alluminio,",, ,,",9,1999
+33.0,,59.0,+1:04:35,13.0,Roscioli Fabio,4,Amica Chips - Costa de Almeria,1:42 1:42,9,1999
+26.0,,67.0,+1:15:59,10.0,Lelekin Sergue\xef,5,Mobilvetta Design - Northwave,",, 1:42",9,1999
+27.0,,90.0,+1:36:19,7.0,Traversoni Mario,6,Saeco - Cannondale,1:44 1:44,9,1999
+36.0,,73.0,+1:18:47,4.0,Martinello Silvio,7,Polti,",, 1:44",9,1999
+24.0,,23.0,+20:55,3.0,Commesso Salvatore,8,Saeco - Cannondale,",, 1:44",9,1999
+27.0,,76.0,+1:20:17,2.0,Loda Nicola,9,,",, 1:44",9,1999
+36.0,,80.0,+1:23:52,1.0,Casagrande Stefano,10,,",, 1:44",9,1999
+28.0,,95.0,+1:42:22,,Zucchi Simone,11,Polti,",, 1:44",9,1999
+24.0,,35.0,+34:34,,Zberg Markus,12,Rabobank ProTeam,",, 1:44",9,1999
+24.0,,47.0,+50:40,,Heule Christian,13,,",, 1:44",9,1999
+25.0,,40.0,+37:59,,Tosatto Matteo,14,,",, 1:44",9,1999
+25.0,,88.0,+1:34:55,,Mazzanti Luca,15,Cantina Tollo - Alexia Alluminio,",, 1:44",9,1999
+24.0,,70.0,+1:17:29,,Perque Franck,16,La Fran\xe7aise des Jeux,",, 1:44",9,1999
+30.0,,50.0,+57:52,,Lombardi Giovanni,17,Team Telekom,",, 1:44",9,1999
+28.0,,85.0,+1:32:03,,Christen Josef,18,,",, 1:44",9,1999
+26.0,,30.0,+28:27,,Gohring Christoph,19,,",, 1:44",9,1999
+28.0,,63.0,+1:10:08,,Pe\xf1a Miguel \xc1ngel,20,Banesto,",, 1:44",9,1999
+34.0,,48.0,+52:04,,Dierckxsens Ludo,21,Lampre - Daikin - Colnago,",, 1:44",9,1999
+27.0,,5.0,+1:45,,Camenzind Oscar,22,Lampre - Daikin - Colnago,",, 1:44",9,1999
+29.0,,9.0,+4:29,,Zarrabeitia Mikel,23,O.N.C.E. - Deutsche Bank,",, 1:44",9,1999
+24.0,,46.0,+49:43,,Gwiazdowski Grzegorz,24,Cofidis,",, 1:44",9,1999
+23.0,,89.0,+1:35:17,,Di Biase Moreno,25,Cantina Tollo - Alexia Alluminio,",, 1:44",9,1999
+28.0,,1.0,+0:00,,Casagrande Francesco,26,Vini Caldirola - Sidermec,",, 1:44",9,1999
+34.0,,55.0,+1:02:24,,Peeters Wilfried,27,Mapei - Quickstep,",, 1:44",9,1999
+27.0,,3.0,+1:11,,Simoni Gilberto,28,,",, 1:44",9,1999
+35.0,,37.0,+34:48,,Gianetti Mauro,29,Vini Caldirola - Sidermec,",, 1:44",9,1999
+26.0,,13.0,+9:01,,Celestino Mirko,30,Polti,",, 1:44",9,1999
+25.0,,62.0,+1:09:50,,Sacchi Fabio,31,Polti,",, 1:44",9,1999
+30.0,,2.0,+1:04,,Jalabert Laurent,32,O.N.C.E. - Deutsche Bank,",, 1:44",9,1999
+29.0,,38.0,+37:01,,Bourquenoud Pierre,33,Post Swiss Team,",, 1:44",9,1999
+23.0,,44.0,+46:50,,Trentin Guido,34,Vini Caldirola - Sidermec,",, 1:44",9,1999
+35.0,,27.0,+27:40,,Richard Pascal,35,Mobilvetta Design - Northwave,",, 1:44",9,1999
+33.0,,19.0,+11:05,,Ekimov Viatcheslav,36,Amica Chips - Costa de Almeria,",, 1:44",9,1999
+27.0,,24.0,+23:47,,Tronca Amilcare,37,Amica Chips - Costa de Almeria,",, 1:44",9,1999
+31.0,,41.0,+38:05,,Lelli Massimiliano,38,Cofidis,",, 1:44",9,1999
+27.0,,20.0,+16:14,,Boogerd Michael,39,Rabobank ProTeam,",, 1:44",9,1999
+25.0,,17.0,+10:03,,Piovaccari Giusvan,40,Cantina Tollo - Alexia Alluminio,",, 1:44",9,1999
+28.0,,11.0,+7:28,,Zberg Beat,41,Rabobank ProTeam,",, 1:44",9,1999
+28.0,,29.0,+28:23,,Valoti Paolo,42,Mobilvetta Design - Northwave,",, 1:44",9,1999
+30.0,,4.0,+1:16,,Dufaux Laurent,43,Saeco - Cannondale,",, 1:44",9,1999
+28.0,,12.0,+7:49,,Buschor Philipp,44,Post Swiss Team,",, 1:44",9,1999
+29.0,,15.0,+9:34,,Meier Armin,45,Saeco - Cannondale,",, 1:44",9,1999
+31.0,,25.0,+26:48,,Cattai Stefano,46,Polti,",, 1:44",9,1999
+30.0,,81.0,+1:25:35,,Bramati Davide,47,Mapei - Quickstep,",, 1:44",9,1999
+23.0,,6.0,+3:57,,Montgomery Sven,48,,",, 1:44",9,1999
+24.0,,16.0,+9:44,,Atienza Daniel,49,Polti,",, 1:44",9,1999
+23.0,,66.0,+1:13:54,,Haymoz Yvan,50,Post Swiss Team,",, 1:44",9,1999
+26.0,,18.0,+10:09,,Nardello Daniele,51,Mapei - Quickstep,",, 1:44",9,1999
+29.0,,91.0,+1:37:30,,Themann Michael,52,,",, 1:44",9,1999
+28.0,,14.0,+9:24,,Gasperoni Cristian,53,Cantina Tollo - Alexia Alluminio,",, 1:44",9,1999
+26.0,,36.0,+34:41,,Serpellini Marco,54,Lampre - Daikin - Colnago,",, 1:44",9,1999
+31.0,,21.0,+19:33,,Puttini Felice,55,Amica Chips - Costa de Almeria,",, 1:44",9,1999
+29.0,,68.0,+1:16:09,,Lamour Claude,56,Cofidis,",, 1:44",9,1999
+24.0,,52.0,+58:33,,Giunti Massimo,57,Cantina Tollo - Alexia Alluminio,",, 1:44",9,1999
+33.0,,53.0,+59:46,,Tebaldi Valerio,58,Mobilvetta Design - Northwave,",, 1:44",9,1999
+25.0,,22.0,+20:45,,Schnider Daniel,59,,",, 1:44",9,1999
+30.0,,51.0,+58:11,,Wauters Marc,60,Rabobank ProTeam,",, 1:44",9,1999
+23.0,,94.0,+1:41:03,,Plouhinec Samuel,61,Cofidis,",, 1:44",9,1999
+25.0,,7.0,+4:21,,Sgambelluri Roberto,62,Cantina Tollo - Alexia Alluminio,",, 1:44",9,1999
+30.0,,10.0,+4:32,,Tonkov Pavel,63,Mapei - Quickstep,",, 1:44",9,1999
+29.0,,8.0,+4:21,,Guerini Giuseppe,64,Team Telekom,",, 1:44",9,1999
+32.0,,79.0,+1:22:20,,Baronti Alessandro,65,Cantina Tollo - Alexia Alluminio,",, 1:44",9,1999
+30.0,,39.0,+37:20,,Hundertmarck Kai,66,Team Telekom,",, 1:44",9,1999
+30.0,,58.0,+1:03:13,,Cuesta \xcd\xf1igo,67,O.N.C.E. - Deutsche Bank,",, 1:44",9,1999
+26.0,,32.0,+31:15,,Aebersold Niki,68,Rabobank ProTeam,",, 1:44",9,1999
+30.0,,43.0,+40:47,,den Bakker Maarten,69,Rabobank ProTeam,",, 1:44",9,1999
+27.0,,64.0,+1:12:27,,Guesdon Fr\xe9d\xe9ric,70,La Fran\xe7aise des Jeux,",, 1:44",9,1999
+28.0,,33.0,+31:53,,Petito Roberto,71,Saeco - Cannondale,",, 1:44",9,1999
+32.0,,72.0,+1:18:30,,Sciandri Maximilian,72,La Fran\xe7aise des Jeux,",, 1:44",9,1999
+33.0,,61.0,+1:09:26,,Jaermann Rolf,73,Post Swiss Team,",, 1:44",9,1999
+24.0,,42.0,+39:16,,Pugaci Igor,74,Saeco - Cannondale,",, 1:44",9,1999
+34.0,,65.0,+1:12:49,,S\xf8rensen Rolf,75,Rabobank ProTeam,",, 1:44",9,1999
+35.0,,28.0,+28:13,,Elli Alberto,76,Team Telekom,",, 1:44",9,1999
+26.0,,34.0,+34:00,,Secchiari Francesco,77,Saeco - Cannondale,",, 1:44",9,1999
+38.0,,49.0,+52:52,,Ugrumov Piotr,78,,",, 1:44",9,1999
+23.0,,75.0,+1:19:23,,Loder Thierry,79,Cofidis,",, 1:44",9,1999
+22.0,,26.0,+27:06,,Jaksche Jorg,80,Team Telekom,",, 1:44",9,1999
+25.0,,57.0,+1:02:49,,White Matthew,81,Vini Caldirola - Sidermec,2:10 2:10,9,1999
+23.0,,71.0,+1:17:56,,Giacomelli Sandro,82,Vini Caldirola - Sidermec,2:42 2:42,9,1999
+26.0,,45.0,+47:31,,Dellavedova Marco,83,Lampre - Daikin - Colnago,2:53 2:53,9,1999
+25.0,,74.0,+1:19:05,,Puglioli Mirko,84,,2:56 2:56,9,1999
+29.0,,84.0,+1:31:25,,Von Flue Daniel,85,,",, 2:56",9,1999
+28.0,,82.0,+1:26:48,,Garcia Marcelino,86,,",, 2:56",9,1999
+21.0,,93.0,+1:40:23,,Nozal Isidro,87,O.N.C.E. - Deutsche Bank,",, 2:56",9,1999
+27.0,,77.0,+1:22:10,,Zumsteg Lukas,88,,",, 2:56",9,1999
+24.0,,99.0,+1:56:18,,Ca\xf1ada David,89,,",, 2:56",9,1999
+31.0,,87.0,+1:34:28,,Finco Carlo,90,,",, 2:56",9,1999
+29.0,,56.0,+1:02:47,,Hvastija Martin,91,,",, 2:56",9,1999
+30.0,,60.0,+1:06:40,,Mengin Christophe,92,La Fran\xe7aise des Jeux,",, 2:56",9,1999
+28.0,,86.0,+1:33:28,,Patuelli Andrea,93,,",, 2:56",9,1999
+26.0,,100.0,+1:58:16,,Rokia Anthony,94,Cofidis,",, 2:56",9,1999
+26.0,,102.0,+2:01:51,,Krzeszowiec Artur,95,,",, 2:56",9,1999
+26.0,,97.0,+1:54:47,,Sidler Christian,96,,",, 2:56",9,1999
+27.0,,83.0,+1:29:51,,Brasi Rossano,97,Polti,4:22 4:22,9,1999
+27.0,,92.0,+1:39:09,,Crepaldi Mirco,98,Polti,",, 4:22",9,1999
+27.0,,98.0,+1:56:13,,Leporatti Simone,99,,",, 4:22",9,1999
+25.0,,101.0,+2:01:24,,Cannone Marco,100,,",, 4:22",9,1999
+24.0,,78.0,+1:22:12,,Bertoletti Simone,101,Lampre - Daikin - Colnago,",, 4:22",9,1999
+27.0,,96.0,+1:50:57,,Barnsley Chris,102,,8:25 8:25,9,1999

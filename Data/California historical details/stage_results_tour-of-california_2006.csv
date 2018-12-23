@@ -1,0 +1,945 @@
+Age,Avg,GC,GC-Time,Rider,Rnk,Team,Time,stage,year
+32.0,38.089,1.0,+0:00,Leipheimer Levi,1,Gerolsteiner,4:53 4:53,0,2006
+34.0,37.576,2.0,+0:05,Julich Bobby,2,CSC ProTeam,0:04 0:04,0,2006
+32.0,37.45,3.0,+0:06,Hincapie George,3,Discovery Channel,0:05 0:05,0,2006
+30.0,37.324,4.0,+0:06,Landis Floyd,4,Phonak Hearing Systems,0:06 0:06,0,2006
+27.0,36.954,5.0,+0:09,Zabriskie David,5,CSC ProTeam,0:09 0:09,0,2006
+24.0,36.954,6.0,+0:10,Cancellara Fabian,6,CSC ProTeam,",, 0:09",0,2006
+32.0,36.832,7.0,+0:10,McCartney Jason,7,Discovery Channel,0:10 0:10,0,2006
+25.0,36.832,8.0,+0:11,Roulston Hayden,8,Health Net Presented By Maxxis,",, 0:10",0,2006
+23.0,36.832,9.0,+0:11,Gusev Vladimir,9,Discovery Channel,",, 0:10",0,2006
+32.0,36.711,10.0,+0:11,Savoldelli Paolo,10,Discovery Channel,0:11 0:11,0,2006
+27.0,36.711,11.0,+0:12,Danielson Thomas,11,Discovery Channel,",, 0:11",0,2006
+29.0,36.59,12.0,+0:12,Evans Cadel,12,Davitamon - Lotto,0:12 0:12,0,2006
+28.0,36.471,13.0,+0:14,Hunter Robert,13,Phonak Hearing Systems,0:13 0:13,0,2006
+25.0,36.471,14.0,+0:14,Blackgrove Heath,14,,",, 0:13",0,2006
+32.0,36.352,15.0,+0:14,Rodriguez Fred,15,Davitamon - Lotto,0:14 0:14,0,2006
+27.0,36.352,16.0,+0:15,Jacques-Maynes Benjamin,16,,",, 0:14",0,2006
+37.0,36.117,17.0,+0:16,Fraser Gordon,17,Health Net Presented By Maxxis,0:16 0:16,0,2006
+32.0,36.117,18.0,+0:16,O'Grady Stuart,18,CSC ProTeam,",, 0:16",0,2006
+28.0,36.117,19.0,+0:17,Haselbacher Rene,19,Gerolsteiner,",, 0:16",0,2006
+23.0,36.0,20.0,+0:17,Pauriol R\xe9mi,20,Cr\xe9dit Agricole,0:17 0:17,0,2006
+22.0,36.0,21.0,+0:17,Ricco Riccardo,21,,",, 0:17",0,2006
+29.0,36.0,22.0,+0:17,Vande Velde Christian,22,CSC ProTeam,",, 0:17",0,2006
+30.0,36.0,23.0,+0:17,Baldwin Christopher,23,,",, 0:17",0,2006
+33.0,36.0,24.0,+0:17,Martin Perdiguero Miguel Angel,24,Phonak Hearing Systems,",, 0:17",0,2006
+31.0,36.0,25.0,+0:17,O'Neill Nathan,25,Health Net Presented By Maxxis,",, 0:17",0,2006
+30.0,36.0,26.0,+0:18,Barry Michael,26,Discovery Channel,",, 0:17",0,2006
+30.0,36.0,27.0,+0:18,Kroon Karsten,27,CSC ProTeam,",, 0:17",0,2006
+26.0,35.884,28.0,+0:19,Zajicek Philip,28,Navigators Insurance Cycling Team,0:18 0:18,0,2006
+33.0,35.769,29.0,+0:20,H\xf8j Frank,29,Gerolsteiner,0:19 0:19,0,2006
+27.0,35.769,30.0,+0:20,Kopp David,30,Gerolsteiner,",, 0:19",0,2006
+34.0,35.769,31.0,+0:20,Simoni Gilberto,31,Lampre-Fondital,",, 0:19",0,2006
+26.0,35.655,32.0,+0:21,Rogers Michael,32,T-Mobile Team,0:20 0:20,0,2006
+34.0,35.541,33.0,+0:21,Horner Chris,33,Saunier Duval - Prodir,0:21 0:21,0,2006
+40.0,35.541,34.0,+0:21,Ekimov Viatcheslav,34,Discovery Channel,",, 0:21",0,2006
+27.0,35.541,35.0,+0:21,O'Loughlin David,35,Navigators Insurance Cycling Team,",, 0:21",0,2006
+26.0,35.541,36.0,+0:22,Lang Sebastian,36,Gerolsteiner,",, 0:21",0,2006
+28.0,35.541,37.0,+0:22,Gil Fernandez Koldo,37,,",, 0:21",0,2006
+28.0,35.429,38.0,+0:22,Vogondy Nicolas,38,Cr\xe9dit Agricole,0:22 0:22,0,2006
+30.0,35.429,39.0,+0:22,Jufre Josep,39,Davitamon - Lotto,",, 0:22",0,2006
+26.0,35.429,40.0,+0:22,Pate Danny,40,Team TIAA-CREF,",, 0:22",0,2006
+23.0,35.429,41.0,+0:23,Raisin Saul,41,Cr\xe9dit Agricole,",, 0:22",0,2006
+28.0,35.316,42.0,+0:23,Jones Michael,42,Health Net Presented By Maxxis,0:23 0:23,0,2006
+,35.316,43.0,+0:23,Grabowski Zachary,43,,",, 0:23",0,2006
+28.0,35.316,44.0,+0:23,Kaggestad Mads,44,Cr\xe9dit Agricole,",, 0:23",0,2006
+22.0,35.316,45.0,+0:23,Brajkovi\u010d Janez,45,Discovery Channel,",, 0:23",0,2006
+30.0,35.316,46.0,+0:24,Walters Mark,46,Navigators Insurance Cycling Team,",, 0:23",0,2006
+24.0,35.205,47.0,+0:24,Wren Tyler,47,Jamis/Sutter Home Pro Cycling Team,0:24 0:24,0,2006
+28.0,35.205,48.0,+0:24,Johnson Tim,48,Health Net Presented By Maxxis,",, 0:24",0,2006
+33.0,35.205,49.0,+0:25,Moos Alexandre,49,Phonak Hearing Systems,",, 0:24",0,2006
+35.0,35.205,50.0,+0:25,Mccormack Mark,50,,",, 0:24",0,2006
+29.0,35.205,51.0,+0:25,Pinotti Marco,51,Saunier Duval - Prodir,",, 0:24",0,2006
+29.0,35.205,52.0,+0:25,Chadwick Glen,52,Navigators Insurance Cycling Team,",, 0:24",0,2006
+28.0,35.094,53.0,+0:25,Olson Aaron,53,,0:25 0:25,0,2006
+27.0,35.094,54.0,+0:26,Huff Charles Bradley,54,Team TIAA-CREF,",, 0:25",0,2006
+21.0,34.984,55.0,+0:26,Lewis Craig,55,,0:26 0:26,0,2006
+23.0,34.984,56.0,+0:26,Greipel Andr\xe9,56,T-Mobile Team,",, 0:26",0,2006
+25.0,34.984,57.0,+0:26,Mertens Pieter,57,Davitamon - Lotto,",, 0:26",0,2006
+24.0,34.984,58.0,+0:27,Rapinski Viktor,58,,",, 0:26",0,2006
+32.0,34.984,59.0,+0:27,Jalabert Nicolas,59,Phonak Hearing Systems,",, 0:26",0,2006
+36.0,34.984,60.0,+0:27,Moninger Scott,60,,",, 0:26",0,2006
+25.0,34.984,61.0,+0:27,Hiekmann Torsten,61,Gerolsteiner,",, 0:26",0,2006
+29.0,34.875,62.0,+0:27,Kobzarenko Valery,62,Navigators Insurance Cycling Team,0:27 0:27,0,2006
+25.0,34.875,63.0,+0:27,G\xf3mez Marchante Jose Angel,63,Saunier Duval - Prodir,",, 0:27",0,2006
+,34.875,64.0,+0:28,England Justin,64,,",, 0:27",0,2006
+20.0,34.875,65.0,+0:28,Tolleson Taylor,65,Team TIAA-CREF,",, 0:27",0,2006
+,34.766,66.0,+0:28,Herriot Todd,66,,0:28 0:28,0,2006
+29.0,34.766,67.0,+0:28,Jensen Brian,67,,",, 0:28",0,2006
+32.0,34.766,68.0,+0:29,Bajadali Andrew,68,,",, 0:28",0,2006
+24.0,34.658,69.0,+0:30,Mccarty Jonathan Patrick,69,Phonak Hearing Systems,0:29 0:29,0,2006
+32.0,34.551,70.0,+0:30,Korff Andre,70,T-Mobile Team,0:30 0:30,0,2006
+33.0,34.551,71.0,+0:31,Garcia Jose Manuel,71,,",, 0:30",0,2006
+32.0,34.551,72.0,+0:31,Pollack Olaf,72,T-Mobile Team,",, 0:30",0,2006
+29.0,34.551,73.0,+0:31,Henderson Gregory,73,Health Net Presented By Maxxis,",, 0:30",0,2006
+23.0,34.444,74.0,+0:32,Giling Bas,74,T-Mobile Team,0:31 0:31,0,2006
+25.0,34.338,75.0,+0:32,Creed Michael,75,Team TIAA-CREF,0:32 0:32,0,2006
+23.0,34.338,76.0,+0:32,Van Hecke Preben,76,Davitamon - Lotto,",, 0:32",0,2006
+22.0,34.338,77.0,+0:32,Marino Jean-Marc,77,Cr\xe9dit Agricole,",, 0:32",0,2006
+34.0,34.338,78.0,+0:33,Voigt Jens,78,CSC ProTeam,",, 0:32",0,2006
+25.0,34.338,79.0,+0:33,Lagutin Sergey,79,Navigators Insurance Cycling Team,",, 0:32",0,2006
+25.0,34.338,80.0,+0:33,Wegmann Fabian,80,Gerolsteiner,",, 0:32",0,2006
+23.0,34.233000000000004,81.0,+0:33,Portal S\xe9bastien,81,Cr\xe9dit Agricole,0:33 0:33,0,2006
+35.0,34.233000000000004,82.0,+0:33,Davidenko Vassili,82,Navigators Insurance Cycling Team,",, 0:33",0,2006
+24.0,34.233000000000004,83.0,+0:33,Kohl Bernhard,83,T-Mobile Team,",, 0:33",0,2006
+26.0,34.233000000000004,84.0,+0:34,Rice Matthew,84,,",, 0:33",0,2006
+25.0,34.128,85.0,+0:34,Manion Caleb,85,,0:34 0:34,0,2006
+27.0,34.128,86.0,+0:34,Frattini Davide,86,,",, 0:34",0,2006
+28.0,34.128,87.0,+0:35,Zampieri Steve,87,Phonak Hearing Systems,",, 0:34",0,2006
+23.0,34.024,88.0,+0:36,Friedman Michael,88,Team TIAA-CREF,0:35 0:35,0,2006
+,33.921,89.0,+0:36,Dietrich Michael,89,,0:36 0:36,0,2006
+23.0,33.921,90.0,+0:36,Krauss Sven,90,Gerolsteiner,",, 0:36",0,2006
+34.0,33.921,91.0,+0:36,Cruz Antonio,91,,",, 0:36",0,2006
+27.0,33.921,92.0,+0:36,Elmiger Martin,92,Phonak Hearing Systems,",, 0:36",0,2006
+26.0,33.921,93.0,+0:37,Wamsley Kyle,93,,",, 0:36",0,2006
+24.0,33.818000000000005,94.0,+0:37,Dockx Bart,94,Davitamon - Lotto,0:37 0:37,0,2006
+38.0,33.818000000000005,95.0,+0:38,Artacho Gustavo,95,,",, 0:37",0,2006
+32.0,33.818000000000005,96.0,+0:38,Perras Dominique,96,,",, 0:37",0,2006
+26.0,33.716,97.0,+0:38,Bak Lars Ytting,97,CSC ProTeam,0:38 0:38,0,2006
+25.0,33.514,98.0,+0:40,Haedo Juan Jose,98,,0:40 0:40,0,2006
+28.0,33.514,99.0,+0:41,Zwizanski Scott,99,,",, 0:40",0,2006
+22.0,33.413000000000004,100.0,+0:42,Euser Lucas,100,,0:41 0:41,0,2006
+22.0,33.214,101.0,+0:44,Reistad Nick,101,,0:43 0:43,0,2006
+23.0,33.116,102.0,+0:44,Patour Kilian,102,Cr\xe9dit Agricole,0:44 0:44,0,2006
+25.0,33.116,103.0,+0:45,Stewart Jackson,103,,",, 0:44",0,2006
+31.0,33.116,104.0,+0:45,Esparza Fausto Marcelino,104,,",, 0:44",0,2006
+36.0,33.116,105.0,+0:45,Sayers Mike,105,Health Net Presented By Maxxis,",, 0:44",0,2006
+26.0,33.116,106.0,+0:45,Brooks Benjamin,106,Navigators Insurance Cycling Team,",, 0:44",0,2006
+30.0,33.018,107.0,+0:45,Candelario Alex,107,,0:45 0:45,0,2006
+24.0,33.018,108.0,+0:45,Benitez Jos\xe9 Alberto,108,Saunier Duval - Prodir,",, 0:45",0,2006
+36.0,32.824,109.0,+0:48,Gonzalez Domingo,109,,0:47 0:47,0,2006
+19.0,32.536,110.0,+0:50,Peterson Tom,110,,0:50 0:50,0,2006
+23.0,32.536,111.0,+0:51,Gilbert Martin,111,,",, 0:50",0,2006
+31.0,32.442,112.0,+0:51,Friedick Mariano,112,,0:51 0:51,0,2006
+,32.442,113.0,+0:51,Albers Kirk,113,,",, 0:51",0,2006
+,32.348,114.0,+0:52,Jones Brice,114,,0:52 0:52,0,2006
+26.0,32.348,115.0,+0:52,Davis Scott,115,T-Mobile Team,",, 0:52",0,2006
+26.0,32.254,116.0,+0:54,Lopinto Peter,116,,0:53 0:53,0,2006
+27.0,32.161,117.0,+0:54,Aldape Antonio,117,,0:54 0:54,0,2006
+22.0,32.161,118.0,+0:54,Rabon Frantisek,118,T-Mobile Team,",, 0:54",0,2006
+,31.705,119.0,+0:59,Robinson David,119,,0:59 0:59,0,2006
+29.0,31.705,120.0,+0:59,Dominguez Ivan,120,,",, 0:59",0,2006
+27.0,31.705,121.0,+0:59,Lam Arquimedes,121,,",, 0:59",0,2006
+26.0,31.615,122.0,+1:01,Dionne Charles,122,,1:00 1:00,0,2006
+,31.261,123.0,+1:05,Hernandez Manuel,123,,1:04 1:04,0,2006
+28.0,30.829,124.0,+1:09,Ramos Florencio,124,,1:09 1:09,0,2006
+22.0,30.491999999999997,125.0,+1:13,Kaisen Olivier,125,Davitamon - Lotto,1:13 1:13,0,2006
+28.0,30.244,126.0,+1:16,Meza Miguel Angel,126,,1:16 1:16,0,2006
+31.0,29.445999999999998,127.0,+1:27,Zarate Jesus,127,,1:26 1:26,0,2006
+25.0,,69.0,+0:30,Haedo Juan Jose,1,,3:14:13 3:14:13,1,2006
+32.0,,47.0,+0:25,Pollack Olaf,2,T-Mobile Team,",, ,,",1,2006
+32.0,,13.0,+0:12,O'Grady Stuart,3,CSC ProTeam,",, ,,",1,2006
+27.0,,53.0,+0:26,Huff Charles Bradley,4,Team TIAA-CREF,",, ,,",1,2006
+32.0,,3.0,+0:06,Hincapie George,5,Discovery Channel,",, ,,",1,2006
+24.0,,57.0,+0:27,Rapinski Viktor,6,,",, ,,",1,2006
+28.0,,19.0,+0:17,Haselbacher Rene,7,Gerolsteiner,",, ,,",1,2006
+27.0,,88.0,+0:36,Elmiger Martin,8,Phonak Hearing Systems,",, ,,",1,2006
+34.0,,87.0,+0:36,Cruz Antonio,9,,",, ,,",1,2006
+34.0,,2.0,+0:05,Julich Bobby,10,CSC ProTeam,",, ,,",1,2006
+36.0,,99.0,+0:45,Sayers Mike,11,Health Net Presented By Maxxis,",, ,,",1,2006
+30.0,,101.0,+0:45,Candelario Alex,12,,",, ,,",1,2006
+26.0,,112.0,+1:01,Dionne Charles,13,,",, ,,",1,2006
+35.0,,49.0,+0:25,Mccormack Mark,14,,",, ,,",1,2006
+23.0,,9.0,+0:11,Gusev Vladimir,15,Discovery Channel,",, ,,",1,2006
+26.0,,89.0,+0:37,Wamsley Kyle,16,,",, ,,",1,2006
+33.0,,48.0,+0:25,Moos Alexandre,17,Phonak Hearing Systems,",, ,,",1,2006
+26.0,,108.0,+0:52,Davis Scott,18,T-Mobile Team,",, ,,",1,2006
+23.0,,55.0,+0:26,Greipel Andr\xe9,19,T-Mobile Team,",, ,,",1,2006
+25.0,,8.0,+0:11,Roulston Hayden,20,Health Net Presented By Maxxis,",, ,,",1,2006
+29.0,,61.0,+0:27,Kobzarenko Valery,21,Navigators Insurance Cycling Team,",, ,,",1,2006
+32.0,,1.0,+0:00,Leipheimer Levi,22,Gerolsteiner,",, ,,",1,2006
+26.0,,81.0,+0:34,Rice Matthew,23,,",, ,,",1,2006
+34.0,,33.0,+0:21,Horner Chris,24,Saunier Duval - Prodir,",, ,,",1,2006
+30.0,,26.0,+0:18,Barry Michael,25,Discovery Channel,",, ,,",1,2006
+26.0,,39.0,+0:22,Pate Danny,26,Team TIAA-CREF,",, ,,",1,2006
+32.0,,10.0,+0:11,Savoldelli Paolo,27,Discovery Channel,",, ,,",1,2006
+27.0,,5.0,+0:09,Zabriskie David,28,CSC ProTeam,",, ,,",1,2006
+29.0,,12.0,+0:12,Evans Cadel,29,Davitamon - Lotto,",, ,,",1,2006
+23.0,,73.0,+0:32,Giling Bas,30,T-Mobile Team,",, ,,",1,2006
+32.0,,58.0,+0:27,Jalabert Nicolas,31,Phonak Hearing Systems,",, ,,",1,2006
+23.0,,84.0,+0:36,Friedman Michael,32,Team TIAA-CREF,",, ,,",1,2006
+27.0,,17.0,+0:15,Jacques-Maynes Benjamin,33,,",, ,,",1,2006
+27.0,,30.0,+0:20,Kopp David,34,Gerolsteiner,",, ,,",1,2006
+23.0,,79.0,+0:33,Portal S\xe9bastien,35,Cr\xe9dit Agricole,",, ,,",1,2006
+27.0,,11.0,+0:12,Danielson Thomas,36,Discovery Channel,",, ,,",1,2006
+31.0,,98.0,+0:45,Esparza Fausto Marcelino,37,,",, ,,",1,2006
+34.0,,77.0,+0:33,Voigt Jens,38,CSC ProTeam,",, ,,",1,2006
+32.0,,70.0,+0:30,Korff Andre,39,T-Mobile Team,",, ,,",1,2006
+29.0,,22.0,+0:17,Vande Velde Christian,40,CSC ProTeam,",, ,,",1,2006
+22.0,,43.0,+0:23,Brajkovi\u010d Janez,41,Discovery Channel,",, ,,",1,2006
+24.0,,45.0,+0:24,Wren Tyler,42,Jamis/Sutter Home Pro Cycling Team,",, ,,",1,2006
+32.0,,92.0,+0:38,Perras Dominique,43,,",, ,,",1,2006
+26.0,,32.0,+0:21,Rogers Michael,44,T-Mobile Team,",, ,,",1,2006
+37.0,,18.0,+0:16,Fraser Gordon,45,Health Net Presented By Maxxis,",, ,,",1,2006
+28.0,,36.0,+0:22,Gil Fernandez Koldo,46,,",, ,,",1,2006
+23.0,,40.0,+0:23,Raisin Saul,47,Cr\xe9dit Agricole,",, ,,",1,2006
+,,107.0,+0:52,Jones Brice,48,,",, ,,",1,2006
+33.0,,23.0,+0:17,Martin Perdiguero Miguel Angel,49,Phonak Hearing Systems,",, ,,",1,2006
+30.0,,4.0,+0:06,Landis Floyd,50,Phonak Hearing Systems,",, ,,",1,2006
+20.0,,64.0,+0:28,Tolleson Taylor,51,Team TIAA-CREF,",, ,,",1,2006
+23.0,,20.0,+0:17,Pauriol R\xe9mi,52,Cr\xe9dit Agricole,",, ,,",1,2006
+23.0,,97.0,+0:44,Patour Kilian,53,Cr\xe9dit Agricole,",, ,,",1,2006
+40.0,,34.0,+0:21,Ekimov Viatcheslav,54,Discovery Channel,",, ,,",1,2006
+28.0,,42.0,+0:23,Kaggestad Mads,55,Cr\xe9dit Agricole,",, ,,",1,2006
+26.0,,93.0,+0:38,Bak Lars Ytting,56,CSC ProTeam,",, ,,",1,2006
+32.0,,7.0,+0:10,McCartney Jason,57,Discovery Channel,",, ,,",1,2006
+32.0,,67.0,+0:29,Bajadali Andrew,58,,",, ,,",1,2006
+25.0,,56.0,+0:26,Mertens Pieter,59,Davitamon - Lotto,",, ,,",1,2006
+24.0,,80.0,+0:33,Kohl Bernhard,60,T-Mobile Team,",, ,,",1,2006
+30.0,,44.0,+0:24,Walters Mark,61,Navigators Insurance Cycling Team,",, ,,",1,2006
+28.0,,14.0,+0:14,Hunter Robert,62,Phonak Hearing Systems,",, ,,",1,2006
+25.0,,60.0,+0:27,Hiekmann Torsten,63,Gerolsteiner,",, ,,",1,2006
+23.0,,104.0,+0:51,Gilbert Martin,64,,",, ,,",1,2006
+24.0,,68.0,+0:30,Mccarty Jonathan Patrick,65,Phonak Hearing Systems,",, ,,",1,2006
+28.0,,46.0,+0:24,Johnson Tim,66,Health Net Presented By Maxxis,",, ,,",1,2006
+31.0,,105.0,+0:51,Friedick Mariano,67,,",, ,,",1,2006
+,,63.0,+0:28,England Justin,68,,",, ,,",1,2006
+22.0,,96.0,+0:44,Reistad Nick,69,,",, ,,",1,2006
+22.0,,110.0,+0:54,Rabon Frantisek,70,T-Mobile Team,",, ,,",1,2006
+26.0,,28.0,+0:19,Zajicek Philip,71,Navigators Insurance Cycling Team,",, ,,",1,2006
+,,41.0,+0:23,Grabowski Zachary,72,,",, ,,",1,2006
+30.0,,27.0,+0:18,Kroon Karsten,73,CSC ProTeam,",, ,,",1,2006
+30.0,,38.0,+0:22,Jufre Josep,74,Davitamon - Lotto,",, ,,",1,2006
+25.0,,78.0,+0:33,Lagutin Sergey,75,Navigators Insurance Cycling Team,",, ,,",1,2006
+29.0,,50.0,+0:25,Pinotti Marco,76,Saunier Duval - Prodir,",, ,,",1,2006
+30.0,,24.0,+0:17,Baldwin Christopher,77,,",, ,,",1,2006
+,,65.0,+0:28,Herriot Todd,78,,",, ,,",1,2006
+29.0,,66.0,+0:28,Jensen Brian,79,,",, ,,",1,2006
+31.0,,25.0,+0:17,O'Neill Nathan,80,Health Net Presented By Maxxis,",, ,,",1,2006
+33.0,,71.0,+0:31,Garcia Jose Manuel,81,,",, ,,",1,2006
+23.0,,86.0,+0:36,Krauss Sven,82,Gerolsteiner,",, ,,",1,2006
+26.0,,109.0,+0:54,Lopinto Peter,83,,",, ,,",1,2006
+22.0,,21.0,+0:17,Ricco Riccardo,84,,",, ,,",1,2006
+36.0,,59.0,+0:27,Moninger Scott,85,,",, ,,",1,2006
+28.0,,83.0,+0:35,Zampieri Steve,86,Phonak Hearing Systems,",, ,,",1,2006
+24.0,,102.0,+0:45,Benitez Jos\xe9 Alberto,87,Saunier Duval - Prodir,",, ,,",1,2006
+25.0,,15.0,+0:14,Blackgrove Heath,88,,",, ,,",1,2006
+27.0,,111.0,+0:59,Lam Arquimedes,89,,",, ,,",1,2006
+32.0,,16.0,+0:14,Rodriguez Fred,90,Davitamon - Lotto,",, ,,",1,2006
+28.0,,52.0,+0:25,Olson Aaron,91,,",, ,,",1,2006
+26.0,,35.0,+0:22,Lang Sebastian,92,Gerolsteiner,",, ,,",1,2006
+25.0,,62.0,+0:27,G\xf3mez Marchante Jose Angel,93,Saunier Duval - Prodir,",, ,,",1,2006
+25.0,,74.0,+0:32,Creed Michael,94,Team TIAA-CREF,",, ,,",1,2006
+22.0,,95.0,+0:42,Euser Lucas,95,,",, ,,",1,2006
+19.0,,103.0,+0:50,Peterson Tom,96,,",, ,,",1,2006
+38.0,,91.0,+0:38,Artacho Gustavo,97,,",, ,,",1,2006
+29.0,,51.0,+0:25,Chadwick Glen,98,Navigators Insurance Cycling Team,",, ,,",1,2006
+23.0,,75.0,+0:32,Van Hecke Preben,99,Davitamon - Lotto,",, ,,",1,2006
+21.0,,54.0,+0:26,Lewis Craig,100,,",, ,,",1,2006
+33.0,,29.0,+0:20,H\xf8j Frank,101,Gerolsteiner,",, ,,",1,2006
+24.0,,90.0,+0:37,Dockx Bart,102,Davitamon - Lotto,",, ,,",1,2006
+28.0,,94.0,+0:41,Zwizanski Scott,103,,",, ,,",1,2006
+29.0,,72.0,+0:31,Henderson Gregory,104,Health Net Presented By Maxxis,",, ,,",1,2006
+28.0,,37.0,+0:22,Vogondy Nicolas,105,Cr\xe9dit Agricole,",, ,,",1,2006
+34.0,,31.0,+0:20,Simoni Gilberto,106,Lampre-Fondital,",, ,,",1,2006
+,,106.0,+0:51,Albers Kirk,107,,",, ,,",1,2006
+22.0,,76.0,+0:32,Marino Jean-Marc,108,Cr\xe9dit Agricole,",, ,,",1,2006
+25.0,,82.0,+0:34,Manion Caleb,109,,",, ,,",1,2006
+,,85.0,+0:36,Dietrich Michael,110,,",, ,,",1,2006
+26.0,,100.0,+0:45,Brooks Benjamin,111,Navigators Insurance Cycling Team,",, ,,",1,2006
+29.0,,114.0,+1:28,Dominguez Ivan,112,,0:29 0:29,1,2006
+27.0,,113.0,+1:03,O'Loughlin David,113,Navigators Insurance Cycling Team,0:42 0:42,1,2006
+35.0,,115.0,+1:29,Davidenko Vassili,114,Navigators Insurance Cycling Team,0:56 0:56,1,2006
+24.0,,6.0,+0:10,Cancellara Fabian,115,CSC ProTeam,",, 0:56",1,2006
+28.0,,116.0,+1:58,Jones Michael,116,Health Net Presented By Maxxis,1:35 1:35,1,2006
+25.0,,118.0,+3:39,Stewart Jackson,117,,2:54 2:54,1,2006
+27.0,,117.0,+3:28,Frattini Davide,118,,",, 2:54",1,2006
+,,119.0,+4:15,Robinson David,119,,3:16 3:16,1,2006
+36.0,,121.0,+7:45,Gonzalez Domingo,120,,6:57 6:57,1,2006
+28.0,,123.0,+8:06,Ramos Florencio,121,,",, 6:57",1,2006
+31.0,,124.0,+8:24,Zarate Jesus,122,,",, 6:57",1,2006
+27.0,,122.0,+7:51,Aldape Antonio,123,,",, 6:57",1,2006
+25.0,,120.0,+7:36,Wegmann Fabian,124,Gerolsteiner,7:03 7:03,1,2006
+22.0,,125.0,+9:24,Kaisen Olivier,125,Davitamon - Lotto,8:11 8:11,1,2006
+,,126.0,+12:50,Hernandez Manuel,126,,11:45 11:45,1,2006
+28.0,,127.0,+13:01,Meza Miguel Angel,127,,",, 11:45",1,2006
+32.0,,1.0,+0:00,Hincapie George,1,Discovery Channel,4:01:26 4:01:26,2,2006
+34.0,,7.0,+0:19,Horner Chris,2,Saunier Duval - Prodir,",, ,,",2,2006
+30.0,,11.0,+0:22,Jufre Josep,3,Davitamon - Lotto,",, ,,",2,2006
+32.0,,2.0,+0:04,Leipheimer Levi,4,Gerolsteiner,",, ,,",2,2006
+34.0,,3.0,+0:09,Julich Bobby,5,CSC ProTeam,",, ,,",2,2006
+29.0,,6.0,+0:16,Evans Cadel,6,Davitamon - Lotto,",, ,,",2,2006
+30.0,,4.0,+0:10,Landis Floyd,7,Phonak Hearing Systems,",, ,,",2,2006
+34.0,,13.0,+0:24,Simoni Gilberto,8,Lampre-Fondital,",, ,,",2,2006
+27.0,,5.0,+0:13,Zabriskie David,9,CSC ProTeam,",, ,,",2,2006
+28.0,,17.0,+0:26,Vogondy Nicolas,10,Cr\xe9dit Agricole,",, ,,",2,2006
+29.0,,9.0,+0:21,Vande Velde Christian,11,CSC ProTeam,",, ,,",2,2006
+30.0,,10.0,+0:22,Barry Michael,12,Discovery Channel,",, ,,",2,2006
+26.0,,14.0,+0:24,Zajicek Philip,13,Navigators Insurance Cycling Team,0:01 0:01,2,2006
+22.0,,15.0,+0:24,Ricco Riccardo,14,,0:03 0:03,2,2006
+25.0,,20.0,+0:35,G\xf3mez Marchante Jose Angel,15,Saunier Duval - Prodir,0:04 0:04,2,2006
+23.0,,16.0,+0:25,Pauriol R\xe9mi,16,Cr\xe9dit Agricole,",, 0:04",2,2006
+24.0,,21.0,+0:41,Kohl Bernhard,17,T-Mobile Team,",, 0:04",2,2006
+31.0,,18.0,+0:26,O'Neill Nathan,18,Health Net Presented By Maxxis,0:05 0:05,2,2006
+27.0,,8.0,+0:21,Danielson Thomas,19,Discovery Channel,",, 0:05",2,2006
+23.0,,19.0,+0:33,Raisin Saul,20,Cr\xe9dit Agricole,0:06 0:06,2,2006
+32.0,,12.0,+0:23,McCartney Jason,21,Discovery Channel,0:09 0:09,2,2006
+33.0,,22.0,+0:43,Moos Alexandre,22,Phonak Hearing Systems,0:14 0:14,2,2006
+22.0,,42.0,+4:04,Euser Lucas,23,,3:18 3:18,2,2006
+27.0,,61.0,+6:51,Frattini Davide,24,,3:19 3:19,2,2006
+25.0,,33.0,+3:50,Hiekmann Torsten,25,Gerolsteiner,",, 3:19",2,2006
+28.0,,43.0,+4:05,Gil Fernandez Koldo,26,,",, 3:19",2,2006
+27.0,,40.0,+3:59,Elmiger Martin,27,Phonak Hearing Systems,",, 3:19",2,2006
+30.0,,27.0,+3:42,Kroon Karsten,28,CSC ProTeam,3:20 3:20,2,2006
+25.0,,34.0,+3:50,Mertens Pieter,29,Davitamon - Lotto,",, 3:20",2,2006
+28.0,,29.0,+3:43,Kaggestad Mads,30,Cr\xe9dit Agricole,",, 3:20",2,2006
+27.0,,23.0,+3:35,Jacques-Maynes Benjamin,31,,",, 3:20",2,2006
+40.0,,30.0,+3:45,Ekimov Viatcheslav,32,Discovery Channel,",, 3:20",2,2006
+19.0,,44.0,+4:14,Peterson Tom,33,,",, 3:20",2,2006
+29.0,,35.0,+3:51,Kobzarenko Valery,34,Navigators Insurance Cycling Team,",, 3:20",2,2006
+28.0,,41.0,+4:00,Zampieri Steve,35,Phonak Hearing Systems,3:21 3:21,2,2006
+25.0,,26.0,+3:39,Blackgrove Heath,36,,",, 3:21",2,2006
+32.0,,24.0,+3:36,Savoldelli Paolo,37,Discovery Channel,",, 3:21",2,2006
+30.0,,28.0,+3:42,Baldwin Christopher,38,,",, 3:21",2,2006
+29.0,,32.0,+3:50,Chadwick Glen,39,Navigators Insurance Cycling Team,",, 3:21",2,2006
+26.0,,31.0,+3:47,Pate Danny,40,Team TIAA-CREF,",, 3:21",2,2006
+24.0,,39.0,+3:55,Mccarty Jonathan Patrick,41,Phonak Hearing Systems,",, 3:21",2,2006
+32.0,,36.0,+3:52,Jalabert Nicolas,42,Phonak Hearing Systems,",, 3:21",2,2006
+25.0,,25.0,+3:37,Roulston Hayden,43,Health Net Presented By Maxxis,3:22 3:22,2,2006
+25.0,,38.0,+3:54,Creed Michael,44,Team TIAA-CREF,",, 3:22",2,2006
+36.0,,37.0,+3:54,Moninger Scott,45,,3:23 3:23,2,2006
+20.0,,51.0,+5:50,Tolleson Taylor,46,Team TIAA-CREF,5:18 5:18,2,2006
+21.0,,49.0,+5:48,Lewis Craig,47,,",, 5:18",2,2006
+23.0,,50.0,+5:48,Greipel Andr\xe9,48,T-Mobile Team,",, 5:18",2,2006
+28.0,,62.0,+7:21,Jones Michael,49,Health Net Presented By Maxxis,5:19 5:19,2,2006
+29.0,,53.0,+5:51,Jensen Brian,50,,",, 5:19",2,2006
+26.0,,59.0,+6:15,Davis Scott,51,T-Mobile Team,",, 5:19",2,2006
+,,52.0,+5:51,Herriot Todd,52,,",, 5:19",2,2006
+32.0,,56.0,+6:01,Perras Dominique,53,,",, 5:19",2,2006
+29.0,,48.0,+5:48,Pinotti Marco,54,Saunier Duval - Prodir,",, 5:19",2,2006
+22.0,,47.0,+5:47,Brajkovi\u010d Janez,55,Discovery Channel,5:20 5:20,2,2006
+27.0,,60.0,+6:23,Lam Arquimedes,56,,",, 5:20",2,2006
+23.0,,45.0,+5:35,Gusev Vladimir,57,Discovery Channel,",, 5:20",2,2006
+34.0,,55.0,+6:00,Cruz Antonio,58,,",, 5:20",2,2006
+25.0,,54.0,+5:59,Manion Caleb,59,,5:21 5:21,2,2006
+24.0,,57.0,+6:02,Dockx Bart,60,Davitamon - Lotto,",, 5:21",2,2006
+27.0,,58.0,+6:06,O'Loughlin David,61,Navigators Insurance Cycling Team,",, 5:21",2,2006
+28.0,,46.0,+5:40,Hunter Robert,62,Phonak Hearing Systems,5:22 5:22,2,2006
+26.0,,79.0,+10:04,Wamsley Kyle,63,,9:23 9:23,2,2006
+23.0,,82.0,+10:11,Patour Kilian,64,Cr\xe9dit Agricole,",, 9:23",2,2006
+34.0,,74.0,+10:01,Voigt Jens,65,CSC ProTeam,9:24 9:24,2,2006
+24.0,,70.0,+9:52,Wren Tyler,66,Jamis/Sutter Home Pro Cycling Team,",, 9:24",2,2006
+30.0,,69.0,+9:52,Walters Mark,67,Navigators Insurance Cycling Team,",, 9:24",2,2006
+31.0,,83.0,+10:13,Esparza Fausto Marcelino,68,,",, 9:24",2,2006
+23.0,,76.0,+10:01,Portal S\xe9bastien,69,Cr\xe9dit Agricole,",, 9:24",2,2006
+31.0,,116.0,+17:53,Zarate Jesus,70,,9:25 9:25,2,2006
+33.0,,65.0,+9:46,Martin Perdiguero Miguel Angel,71,Phonak Hearing Systems,",, 9:25",2,2006
+23.0,,75.0,+10:01,Giling Bas,72,T-Mobile Team,",, 9:25",2,2006
+32.0,,64.0,+9:42,O'Grady Stuart,73,CSC ProTeam,9:26 9:26,2,2006
+24.0,,63.0,+9:40,Cancellara Fabian,74,CSC ProTeam,",, 9:26",2,2006
+26.0,,84.0,+10:15,Brooks Benjamin,75,Navigators Insurance Cycling Team,",, 9:26",2,2006
+32.0,,73.0,+10:00,Korff Andre,76,T-Mobile Team,",, 9:26",2,2006
+28.0,,81.0,+10:11,Zwizanski Scott,77,,",, 9:26",2,2006
+28.0,,66.0,+9:47,Haselbacher Rene,78,Gerolsteiner,",, 9:26",2,2006
+32.0,,72.0,+10:00,Bajadali Andrew,79,,9:27 9:27,2,2006
+26.0,,71.0,+9:53,Lang Sebastian,80,Gerolsteiner,",, 9:27",2,2006
+23.0,,78.0,+10:03,Van Hecke Preben,81,Davitamon - Lotto,",, 9:27",2,2006
+27.0,,67.0,+9:51,Kopp David,82,Gerolsteiner,",, 9:27",2,2006
+22.0,,77.0,+10:02,Marino Jean-Marc,83,Cr\xe9dit Agricole,9:28 9:28,2,2006
+25.0,,80.0,+10:05,Lagutin Sergey,84,Navigators Insurance Cycling Team,",, 9:28",2,2006
+33.0,,68.0,+9:52,H\xf8j Frank,85,Gerolsteiner,",, 9:28",2,2006
+36.0,,104.0,+15:07,Sayers Mike,86,Health Net Presented By Maxxis,14:18 14:18,2,2006
+23.0,,98.0,+14:58,Friedman Michael,87,Team TIAA-CREF,",, 14:18",2,2006
+25.0,,117.0,+17:58,Stewart Jackson,88,,",, 14:18",2,2006
+35.0,,115.0,+15:51,Davidenko Vassili,89,Navigators Insurance Cycling Team,",, 14:18",2,2006
+26.0,,110.0,+15:17,Lopinto Peter,90,,14:19 14:19,2,2006
+25.0,,118.0,+21:59,Wegmann Fabian,91,Gerolsteiner,",, 14:19",2,2006
+28.0,,88.0,+14:47,Johnson Tim,92,Health Net Presented By Maxxis,",, 14:19",2,2006
+22.0,,111.0,+15:17,Rabon Frantisek,93,T-Mobile Team,",, 14:19",2,2006
+,,108.0,+15:14,Albers Kirk,94,,",, 14:19",2,2006
+,,100.0,+14:59,Dietrich Michael,95,,",, 14:19",2,2006
+26.0,,114.0,+15:25,Dionne Charles,96,,14:20 14:20,2,2006
+,,93.0,+14:52,England Justin,97,,",, 14:20",2,2006
+23.0,,101.0,+15:00,Krauss Sven,98,Gerolsteiner,",, 14:20",2,2006
+24.0,,89.0,+14:51,Rapinski Viktor,99,,",, 14:20",2,2006
+24.0,,106.0,+15:09,Benitez Jos\xe9 Alberto,100,Saunier Duval - Prodir,",, 14:20",2,2006
+32.0,,85.0,+14:38,Rodriguez Fred,101,Davitamon - Lotto,14:21 14:21,2,2006
+31.0,,109.0,+15:16,Friedick Mariano,102,,",, 14:21",2,2006
+22.0,,105.0,+15:09,Reistad Nick,103,,",, 14:21",2,2006
+26.0,,87.0,+14:46,Rogers Michael,104,T-Mobile Team,",, 14:21",2,2006
+27.0,,91.0,+14:51,Huff Charles Bradley,105,Team TIAA-CREF,",, 14:21",2,2006
+32.0,,90.0,+14:51,Pollack Olaf,106,T-Mobile Team,14:22 14:22,2,2006
+37.0,,86.0,+14:42,Fraser Gordon,107,Health Net Presented By Maxxis,",, 14:22",2,2006
+,,112.0,+15:18,Jones Brice,108,,",, 14:22",2,2006
+26.0,,102.0,+15:01,Rice Matthew,109,,14:23 14:23,2,2006
+29.0,,97.0,+14:58,Henderson Gregory,110,Health Net Presented By Maxxis,",, 14:23",2,2006
+33.0,,96.0,+14:58,Garcia Jose Manuel,111,,",, 14:23",2,2006
+30.0,,107.0,+15:12,Candelario Alex,112,,",, 14:23",2,2006
+28.0,,94.0,+14:52,Olson Aaron,113,,",, 14:23",2,2006
+35.0,,95.0,+14:53,Mccormack Mark,114,,14:24 14:24,2,2006
+,,92.0,+14:51,Grabowski Zachary,115,,",, 14:24",2,2006
+23.0,,113.0,+15:19,Gilbert Martin,116,,",, 14:24",2,2006
+25.0,,99.0,+14:58,Haedo Juan Jose,117,,",, 14:24",2,2006
+26.0,,103.0,+15:06,Bak Lars Ytting,118,CSC ProTeam,",, 14:24",2,2006
+,,119.0,+22:29,Robinson David,119,,18:10 18:10,2,2006
+38.0,,120.0,+23:56,Artacho Gustavo,120,,23:14 23:14,2,2006
+36.0,,121.0,+32:08,Gonzalez Domingo,121,,24:19 24:19,2,2006
+28.0,,,+ -7:20:28,Meza Miguel Angel,DNF,,",, 24:19",2,2006
+29.0,,,+ -7:20:28,Dominguez Ivan,DNF,,",, 24:19",2,2006
+28.0,,,+ -7:20:28,Ramos Florencio,DNF,,",, 24:19",2,2006
+,,,+ -7:20:28,Hernandez Manuel,DNF,,",, 24:19",2,2006
+27.0,,,+ -7:20:28,Aldape Antonio,DNF,,",, 24:19",2,2006
+22.0,,,+ -7:20:28,Kaisen Olivier,HD,Davitamon - Lotto,",, 24:19",2,2006
+30.0,45.708999999999996,1.0,+0:00,Landis Floyd,1,Phonak Hearing Systems,35:58 35:58,3,2006
+27.0,45.18600000000001,2.0,+0:29,Zabriskie David,2,CSC ProTeam,0:25 0:25,3,2006
+34.0,45.0,3.0,+0:34,Julich Bobby,3,CSC ProTeam,0:34 0:34,3,2006
+32.0,44.573,4.0,+0:45,Hincapie George,4,Discovery Channel,0:55 0:55,3,2006
+31.0,44.553000000000004,5.0,+1:08,O'Neill Nathan,5,Health Net Presented By Maxxis,0:56 0:56,3,2006
+24.0,44.431999999999995,57.0,+10:30,Cancellara Fabian,6,CSC ProTeam,1:02 1:02,3,2006
+23.0,44.431999999999995,30.0,+6:26,Gusev Vladimir,7,Discovery Channel,",, 1:02",3,2006
+25.0,44.333,22.0,+4:31,Roulston Hayden,8,Health Net Presented By Maxxis,1:07 1:07,3,2006
+32.0,44.153999999999996,6.0,+1:10,Leipheimer Levi,9,Gerolsteiner,1:16 1:16,3,2006
+29.0,44.036,7.0,+1:29,Evans Cadel,10,Davitamon - Lotto,1:22 1:22,3,2006
+28.0,43.918,37.0,+6:55,Hunter Robert,11,Phonak Hearing Systems,1:28 1:28,3,2006
+27.0,43.646,8.0,+1:49,Danielson Thomas,12,Discovery Channel,1:42 1:42,3,2006
+29.0,43.626999999999995,9.0,+1:55,Vande Velde Christian,13,CSC ProTeam,1:43 1:43,3,2006
+32.0,43.607,10.0,+1:58,McCartney Jason,14,Discovery Channel,1:44 1:44,3,2006
+40.0,43.568999999999996,23.0,+5:20,Ekimov Viatcheslav,15,Discovery Channel,1:46 1:46,3,2006
+32.0,43.568999999999996,61.0,+11:16,O'Grady Stuart,16,CSC ProTeam,",, 1:46",3,2006
+24.0,43.55,12.0,+2:15,Kohl Bernhard,17,T-Mobile Team,1:47 1:47,3,2006
+28.0,43.358000000000004,11.0,+2:14,Vogondy Nicolas,18,Cr\xe9dit Agricole,1:57 1:57,3,2006
+22.0,43.301,39.0,+7:36,Brajkovi\u010d Janez,19,Discovery Channel,2:00 2:00,3,2006
+26.0,43.282,86.0,+16:52,Bak Lars Ytting,20,CSC ProTeam,2:01 2:01,3,2006
+34.0,43.206,63.0,+11:56,Voigt Jens,21,CSC ProTeam,2:05 2:05,3,2006
+34.0,43.168,13.0,+2:17,Horner Chris,22,Saunier Duval - Prodir,2:07 2:07,3,2006
+30.0,43.168,14.0,+2:20,Jufre Josep,23,Davitamon - Lotto,",, 2:07",3,2006
+34.0,43.093,42.0,+8:00,Cruz Antonio,24,,2:11 2:11,3,2006
+23.0,42.998999999999995,87.0,+17:04,Friedman Michael,25,Team TIAA-CREF,2:16 2:16,3,2006
+26.0,42.98,85.0,+16:51,Rogers Michael,26,T-Mobile Team,2:17 2:17,3,2006
+26.0,42.961999999999996,15.0,+2:32,Zajicek Philip,27,Navigators Insurance Cycling Team,2:18 2:18,3,2006
+25.0,42.868,25.0,+5:50,Blackgrove Heath,28,,2:23 2:23,3,2006
+26.0,42.794,64.0,+12:07,Lang Sebastian,29,Gerolsteiner,2:27 2:27,3,2006
+25.0,42.775,109.0,+20:17,Stewart Jackson,30,,2:28 2:28,3,2006
+33.0,42.757,89.0,+17:13,Garcia Jose Manuel,31,,2:29 2:29,3,2006
+29.0,42.701,44.0,+8:10,Pinotti Marco,32,Saunier Duval - Prodir,2:32 2:32,3,2006
+29.0,42.683,26.0,+6:11,Chadwick Glen,33,Navigators Insurance Cycling Team,2:33 2:33,3,2006
+25.0,42.646,66.0,+12:26,Lagutin Sergey,34,Navigators Insurance Cycling Team,2:35 2:35,3,2006
+23.0,42.536,16.0,+2:52,Pauriol R\xe9mi,35,Cr\xe9dit Agricole,2:41 2:41,3,2006
+32.0,42.516999999999996,88.0,+17:08,Rodriguez Fred,36,Davitamon - Lotto,2:42 2:42,3,2006
+30.0,42.498999999999995,27.0,+6:13,Baldwin Christopher,37,,2:43 2:43,3,2006
+30.0,42.498999999999995,17.0,+2:56,Barry Michael,38,Discovery Channel,",, 2:43",3,2006
+26.0,42.443999999999996,29.0,+6:21,Pate Danny,39,Team TIAA-CREF,2:46 2:46,3,2006
+33.0,42.408,19.0,+3:22,Moos Alexandre,40,Phonak Hearing Systems,2:48 2:48,3,2006
+31.0,42.335,92.0,+17:56,Friedick Mariano,41,,2:52 2:52,3,2006
+23.0,42.317,18.0,+3:11,Raisin Saul,42,Cr\xe9dit Agricole,2:53 2:53,3,2006
+27.0,42.262,28.0,+6:20,Jacques-Maynes Benjamin,43,,2:56 2:56,3,2006
+,42.262,48.0,+8:37,Herriot Todd,44,,",, 2:56",3,2006
+32.0,42.226000000000006,34.0,+6:38,Jalabert Nicolas,45,Phonak Hearing Systems,2:58 2:58,3,2006
+25.0,42.226000000000006,33.0,+6:37,Mertens Pieter,46,Davitamon - Lotto,",, 2:58",3,2006
+25.0,42.208,35.0,+6:39,Hiekmann Torsten,47,Gerolsteiner,2:59 2:59,3,2006
+30.0,42.208,31.0,+6:30,Kroon Karsten,48,CSC ProTeam,",, 2:59",3,2006
+25.0,42.19,20.0,+3:22,G\xf3mez Marchante Jose Angel,49,Saunier Duval - Prodir,3:00 3:00,3,2006
+35.0,42.172,97.0,+18:43,Davidenko Vassili,50,Navigators Insurance Cycling Team,3:01 3:01,3,2006
+32.0,42.082,90.0,+17:44,Pollack Olaf,51,T-Mobile Team,3:06 3:06,3,2006
+32.0,42.04600000000001,32.0,+6:32,Savoldelli Paolo,52,Discovery Channel,3:08 3:08,3,2006
+23.0,42.028,67.0,+12:59,Giling Bas,53,T-Mobile Team,3:09 3:09,3,2006
+29.0,42.028,36.0,+6:49,Kobzarenko Valery,54,Navigators Insurance Cycling Team,",, 3:09",3,2006
+23.0,41.957,69.0,+13:15,Patour Kilian,55,Cr\xe9dit Agricole,3:13 3:13,3,2006
+24.0,41.92100000000001,91.0,+17:55,Rapinski Viktor,56,,3:15 3:15,3,2006
+25.0,41.868,38.0,+6:59,Creed Michael,57,Team TIAA-CREF,3:18 3:18,3,2006
+27.0,41.868,51.0,+9:12,O'Loughlin David,58,Navigators Insurance Cycling Team,",, 3:18",3,2006
+28.0,41.778999999999996,93.0,+18:00,Johnson Tim,59,Health Net Presented By Maxxis,3:23 3:23,3,2006
+28.0,41.673,94.0,+18:07,Olson Aaron,60,,3:29 3:29,3,2006
+21.0,41.603,50.0,+9:12,Lewis Craig,61,,3:33 3:33,3,2006
+36.0,41.585,120.0,+35:33,Gonzalez Domingo,62,,3:34 3:34,3,2006
+22.0,41.498000000000005,70.0,+13:27,Marino Jean-Marc,63,Cr\xe9dit Agricole,3:39 3:39,3,2006
+37.0,41.445,95.0,+18:11,Fraser Gordon,64,Health Net Presented By Maxxis,3:42 3:42,3,2006
+20.0,41.341,53.0,+9:29,Tolleson Taylor,65,Team TIAA-CREF,3:48 3:48,3,2006
+28.0,41.288999999999994,72.0,+13:50,Zwizanski Scott,66,,3:51 3:51,3,2006
+29.0,41.255,96.0,+18:37,Henderson Gregory,67,Health Net Presented By Maxxis,3:53 3:53,3,2006
+29.0,41.22,54.0,+9:36,Jensen Brian,68,,3:55 3:55,3,2006
+22.0,41.169,21.0,+4:10,Ricco Riccardo,69,,3:58 3:58,3,2006
+27.0,41.083,71.0,+13:41,Kopp David,70,Gerolsteiner,4:03 4:03,3,2006
+28.0,41.083,60.0,+11:14,Jones Michael,71,Health Net Presented By Maxxis,",, 4:03",3,2006
+36.0,41.083,40.0,+7:43,Moninger Scott,72,,",, 4:03",3,2006
+28.0,40.998000000000005,43.0,+8:02,Gil Fernandez Koldo,73,,4:08 4:08,3,2006
+23.0,40.896,73.0,+14:05,Portal S\xe9bastien,74,Cr\xe9dit Agricole,4:14 4:14,3,2006
+24.0,40.845,55.0,+10:07,Dockx Bart,75,Davitamon - Lotto,4:17 4:17,3,2006
+26.0,40.828,59.0,+11:09,Davis Scott,76,T-Mobile Team,4:18 4:18,3,2006
+19.0,40.811,47.0,+8:22,Peterson Tom,77,,4:19 4:19,3,2006
+,40.76,98.0,+18:58,Grabowski Zachary,78,,4:22 4:22,3,2006
+25.0,40.727,117.0,+26:13,Wegmann Fabian,79,Gerolsteiner,4:24 4:24,3,2006
+30.0,40.727,74.0,+14:06,Walters Mark,80,Navigators Insurance Cycling Team,",, 4:24",3,2006
+35.0,40.71,99.0,+19:03,Mccormack Mark,81,,4:25 4:25,3,2006
+29.0,40.693000000000005,41.0,+7:58,Kaggestad Mads,82,Cr\xe9dit Agricole,4:26 4:26,3,2006
+31.0,40.676,78.0,+14:30,Esparza Fausto Marcelino,83,,4:27 4:27,3,2006
+24.0,40.643,75.0,+14:11,Wren Tyler,84,Jamis/Sutter Home Pro Cycling Team,4:29 4:29,3,2006
+,40.626,100.0,+19:11,England Justin,85,,4:30 4:30,3,2006
+27.0,40.609,45.0,+8:20,Elmiger Martin,86,Phonak Hearing Systems,4:31 4:31,3,2006
+32.0,40.559,56.0,+10:25,Perras Dominique,87,,4:34 4:34,3,2006
+33.0,40.543,76.0,+14:13,H\xf8j Frank,88,Gerolsteiner,4:35 4:35,3,2006
+22.0,40.493,103.0,+19:35,Reistad Nick,89,,4:38 4:38,3,2006
+26.0,40.493,79.0,+14:33,Wamsley Kyle,90,,",, 4:38",3,2006
+24.0,40.459,46.0,+8:22,Mccarty Jonathan Patrick,91,Phonak Hearing Systems,4:40 4:40,3,2006
+26.0,40.459,101.0,+19:27,Rice Matthew,92,,",, 4:40",3,2006
+33.0,40.426,77.0,+14:16,Martin Perdiguero Miguel Angel,93,Phonak Hearing Systems,4:42 4:42,3,2006
+32.0,40.311,80.0,+14:36,Bajadali Andrew,94,,4:49 4:49,3,2006
+27.0,40.260999999999996,102.0,+19:31,Huff Charles Bradley,95,Team TIAA-CREF,4:52 4:52,3,2006
+28.0,40.211999999999996,49.0,+8:43,Zampieri Steve,96,Phonak Hearing Systems,4:55 4:55,3,2006
+36.0,40.032,104.0,+20:04,Sayers Mike,97,Health Net Presented By Maxxis,5:06 5:06,3,2006
+23.0,39.935,107.0,+20:16,Gilbert Martin,98,,5:12 5:12,3,2006
+23.0,39.903,81.0,+15:04,Van Hecke Preben,99,Davitamon - Lotto,5:14 5:14,3,2006
+,39.855,105.0,+20:06,Dietrich Michael,100,,5:17 5:17,3,2006
+23.0,39.838,106.0,+20:06,Krauss Sven,101,Gerolsteiner,5:18 5:18,3,2006
+23.0,39.821999999999996,58.0,+10:58,Greipel Andr\xe9,102,T-Mobile Team,5:19 5:19,3,2006
+22.0,39.79,52.0,+9:16,Euser Lucas,103,,5:21 5:21,3,2006
+,39.758,110.0,+20:27,Albers Kirk,104,,5:23 5:23,3,2006
+34.0,39.71,24.0,+5:41,Simoni Gilberto,105,Lampre-Fondital,5:26 5:26,3,2006
+38.0,39.694,119.0,+29:14,Artacho Gustavo,106,,5:27 5:27,3,2006
+26.0,39.694,83.0,+15:30,Brooks Benjamin,107,Navigators Insurance Cycling Team,",, 5:27",3,2006
+,39.63,111.0,+20:36,Jones Brice,108,,5:31 5:31,3,2006
+25.0,39.599000000000004,108.0,+20:16,Haedo Juan Jose,109,,5:33 5:33,3,2006
+27.0,39.567,65.0,+12:16,Frattini Davide,110,,5:35 5:35,3,2006
+30.0,39.503,112.0,+20:37,Candelario Alex,111,,5:39 5:39,3,2006
+22.0,39.409,113.0,+20:52,Rabon Frantisek,112,T-Mobile Team,5:45 5:45,3,2006
+28.0,39.376999999999995,82.0,+15:22,Haselbacher Rene,113,Gerolsteiner,5:47 5:47,3,2006
+32.0,39.346,84.0,+15:37,Korff Andre,114,T-Mobile Team,5:49 5:49,3,2006
+31.0,39.299,116.0,+23:34,Zarate Jesus,115,,5:52 5:52,3,2006
+,39.251999999999995,118.0,+28:15,Robinson David,116,,5:55 5:55,3,2006
+26.0,39.126999999999995,114.0,+21:10,Lopinto Peter,117,,6:03 6:03,3,2006
+25.0,39.05,62.0,+11:55,Manion Caleb,118,,6:08 6:08,3,2006
+26.0,38.592,115.0,+21:52,Dionne Charles,119,,6:38 6:38,3,2006
+27.0,38.411,68.0,+13:02,Lam Arquimedes,120,,6:50 6:50,3,2006
+24.0,38.411,,+ -7:56:36,Benitez Jos\xe9 Alberto,DNS,Saunier Duval - Prodir,",, 6:50",3,2006
+25.0,,100.0,+20:16,Haedo Juan Jose,1,,4:41:02 4:41:02,4,2006
+32.0,,85.0,+17:08,Rodriguez Fred,2,Davitamon - Lotto,",, ,,",4,2006
+32.0,,79.0,+15:37,Korff Andre,3,T-Mobile Team,",, ,,",4,2006
+37.0,,90.0,+18:11,Fraser Gordon,4,Health Net Presented By Maxxis,",, ,,",4,2006
+30.0,,104.0,+20:37,Candelario Alex,5,,",, ,,",4,2006
+28.0,,78.0,+15:22,Haselbacher Rene,6,Gerolsteiner,",, ,,",4,2006
+32.0,,4.0,+0:45,Hincapie George,7,Discovery Channel,",, ,,",4,2006
+25.0,,101.0,+20:17,Stewart Jackson,8,,",, ,,",4,2006
+30.0,,14.0,+2:20,Jufre Josep,9,Davitamon - Lotto,",, ,,",4,2006
+29.0,,93.0,+18:37,Henderson Gregory,10,Health Net Presented By Maxxis,",, ,,",4,2006
+23.0,,74.0,+14:25,Portal S\xe9bastien,11,Cr\xe9dit Agricole,",, ,,",4,2006
+32.0,,60.0,+11:16,O'Grady Stuart,12,CSC ProTeam,",, ,,",4,2006
+27.0,,27.0,+6:20,Jacques-Maynes Benjamin,13,,",, ,,",4,2006
+31.0,,75.0,+14:30,Esparza Fausto Marcelino,14,,",, ,,",4,2006
+34.0,,3.0,+0:34,Julich Bobby,15,CSC ProTeam,",, ,,",4,2006
+26.0,,105.0,+21:52,Dionne Charles,16,,",, ,,",4,2006
+35.0,,94.0,+18:43,Davidenko Vassili,17,Navigators Insurance Cycling Team,",, ,,",4,2006
+,,102.0,+20:27,Albers Kirk,18,,",, ,,",4,2006
+35.0,,95.0,+19:03,Mccormack Mark,19,,",, ,,",4,2006
+30.0,,1.0,+0:00,Landis Floyd,20,Phonak Hearing Systems,",, ,,",4,2006
+29.0,,36.0,+6:49,Kobzarenko Valery,21,Navigators Insurance Cycling Team,",, ,,",4,2006
+25.0,,107.0,+26:13,Wegmann Fabian,22,Gerolsteiner,",, ,,",4,2006
+25.0,,64.0,+12:26,Lagutin Sergey,23,Navigators Insurance Cycling Team,",, ,,",4,2006
+24.0,,88.0,+17:55,Rapinski Viktor,24,,",, ,,",4,2006
+26.0,,28.0,+6:21,Pate Danny,25,Team TIAA-CREF,",, ,,",4,2006
+29.0,,7.0,+1:29,Evans Cadel,26,Davitamon - Lotto,",, ,,",4,2006
+29.0,,9.0,+1:55,Vande Velde Christian,27,CSC ProTeam,",, ,,",4,2006
+22.0,,38.0,+7:36,Brajkovi\u010d Janez,28,Discovery Channel,",, ,,",4,2006
+30.0,,71.0,+14:06,Walters Mark,29,Navigators Insurance Cycling Team,",, ,,",4,2006
+22.0,,97.0,+19:35,Reistad Nick,30,,",, ,,",4,2006
+30.0,,17.0,+2:56,Barry Michael,31,Discovery Channel,",, ,,",4,2006
+33.0,,72.0,+14:13,H\xf8j Frank,32,Gerolsteiner,",, ,,",4,2006
+19.0,,47.0,+8:22,Peterson Tom,33,,",, ,,",4,2006
+23.0,,84.0,+17:04,Friedman Michael,34,Team TIAA-CREF,",, ,,",4,2006
+27.0,,8.0,+1:49,Danielson Thomas,35,Discovery Channel,",, ,,",4,2006
+23.0,,67.0,+13:15,Patour Kilian,36,Cr\xe9dit Agricole,",, ,,",4,2006
+27.0,,2.0,+0:29,Zabriskie David,37,CSC ProTeam,",, ,,",4,2006
+,,103.0,+20:36,Jones Brice,38,,",, ,,",4,2006
+23.0,,99.0,+20:06,Krauss Sven,39,Gerolsteiner,",, ,,",4,2006
+34.0,,13.0,+2:17,Horner Chris,40,Saunier Duval - Prodir,",, ,,",4,2006
+28.0,,59.0,+11:14,Jones Michael,41,Health Net Presented By Maxxis,",, ,,",4,2006
+26.0,,82.0,+16:51,Rogers Michael,42,T-Mobile Team,",, ,,",4,2006
+34.0,,42.0,+8:00,Cruz Antonio,43,,",, ,,",4,2006
+28.0,,11.0,+2:14,Vogondy Nicolas,44,Cr\xe9dit Agricole,",, ,,",4,2006
+26.0,,15.0,+2:32,Zajicek Philip,45,Navigators Insurance Cycling Team,",, ,,",4,2006
+31.0,,5.0,+1:08,O'Neill Nathan,46,Health Net Presented By Maxxis,",, ,,",4,2006
+26.0,,83.0,+16:52,Bak Lars Ytting,47,CSC ProTeam,",, ,,",4,2006
+33.0,,73.0,+14:16,Martin Perdiguero Miguel Angel,48,Phonak Hearing Systems,",, ,,",4,2006
+32.0,,87.0,+17:44,Pollack Olaf,49,T-Mobile Team,",, ,,",4,2006
+29.0,,41.0,+7:58,Kaggestad Mads,50,Cr\xe9dit Agricole,",, ,,",4,2006
+40.0,,23.0,+5:20,Ekimov Viatcheslav,51,Discovery Channel,",, ,,",4,2006
+32.0,,32.0,+6:32,Savoldelli Paolo,52,Discovery Channel,",, ,,",4,2006
+24.0,,12.0,+2:15,Kohl Bernhard,53,T-Mobile Team,",, ,,",4,2006
+25.0,,33.0,+6:37,Mertens Pieter,54,Davitamon - Lotto,",, ,,",4,2006
+23.0,,18.0,+3:11,Raisin Saul,55,Cr\xe9dit Agricole,",, ,,",4,2006
+32.0,,6.0,+1:10,Leipheimer Levi,56,Gerolsteiner,",, ,,",4,2006
+30.0,,30.0,+6:30,Kroon Karsten,57,CSC ProTeam,",, ,,",4,2006
+33.0,,19.0,+3:22,Moos Alexandre,58,Phonak Hearing Systems,",, ,,",4,2006
+26.0,,63.0,+12:07,Lang Sebastian,59,Gerolsteiner,",, ,,",4,2006
+27.0,,45.0,+8:20,Elmiger Martin,60,Phonak Hearing Systems,",, ,,",4,2006
+27.0,,66.0,+13:02,Lam Arquimedes,61,,",, ,,",4,2006
+28.0,,43.0,+8:02,Gil Fernandez Koldo,62,,",, ,,",4,2006
+23.0,,16.0,+2:52,Pauriol R\xe9mi,63,Cr\xe9dit Agricole,",, ,,",4,2006
+23.0,,56.0,+10:58,Greipel Andr\xe9,64,T-Mobile Team,",, ,,",4,2006
+24.0,,46.0,+8:22,Mccarty Jonathan Patrick,65,Phonak Hearing Systems,",, ,,",4,2006
+25.0,,35.0,+6:39,Hiekmann Torsten,66,Gerolsteiner,",, ,,",4,2006
+,,96.0,+19:11,England Justin,67,,",, ,,",4,2006
+34.0,,62.0,+11:56,Voigt Jens,68,CSC ProTeam,",, ,,",4,2006
+30.0,,26.0,+6:13,Baldwin Christopher,69,,",, ,,",4,2006
+25.0,,24.0,+5:50,Blackgrove Heath,70,,",, ,,",4,2006
+32.0,,10.0,+1:58,McCartney Jason,71,Discovery Channel,",, ,,",4,2006
+25.0,,61.0,+11:55,Manion Caleb,72,,",, ,,",4,2006
+36.0,,39.0,+7:43,Moninger Scott,73,,",, ,,",4,2006
+29.0,,51.0,+9:36,Jensen Brian,74,,",, ,,",4,2006
+28.0,,89.0,+18:07,Olson Aaron,75,,",, ,,",4,2006
+29.0,,44.0,+8:10,Pinotti Marco,76,Saunier Duval - Prodir,",, ,,",4,2006
+25.0,,20.0,+3:22,G\xf3mez Marchante Jose Angel,77,Saunier Duval - Prodir,",, ,,",4,2006
+25.0,,22.0,+4:31,Roulston Hayden,78,Health Net Presented By Maxxis,",, ,,",4,2006
+28.0,,69.0,+13:50,Zwizanski Scott,79,,",, ,,",4,2006
+26.0,,58.0,+11:09,Davis Scott,80,T-Mobile Team,",, ,,",4,2006
+22.0,,21.0,+4:10,Ricco Riccardo,81,,",, ,,",4,2006
+32.0,,54.0,+10:25,Perras Dominique,82,,",, ,,",4,2006
+32.0,,34.0,+6:38,Jalabert Nicolas,83,Phonak Hearing Systems,",, ,,",4,2006
+36.0,,98.0,+20:04,Sayers Mike,84,Health Net Presented By Maxxis,",, ,,",4,2006
+22.0,,68.0,+13:48,Marino Jean-Marc,85,Cr\xe9dit Agricole,0:21 0:21,4,2006
+23.0,,29.0,+6:26,Gusev Vladimir,86,Discovery Channel,",, 0:21",4,2006
+31.0,,91.0,+18:17,Friedick Mariano,87,,",, 0:21",4,2006
+26.0,,80.0,+15:51,Brooks Benjamin,88,Navigators Insurance Cycling Team,",, 0:21",4,2006
+26.0,,77.0,+14:54,Wamsley Kyle,89,,",, 0:21",4,2006
+27.0,,65.0,+12:37,Frattini Davide,90,,",, 0:21",4,2006
+29.0,,31.0,+6:32,Chadwick Glen,91,Navigators Insurance Cycling Team,",, 0:21",4,2006
+31.0,,106.0,+23:55,Zarate Jesus,92,,",, 0:21",4,2006
+25.0,,37.0,+7:20,Creed Michael,93,Team TIAA-CREF,",, 0:21",4,2006
+21.0,,50.0,+9:33,Lewis Craig,94,,",, 0:21",4,2006
+28.0,,92.0,+18:21,Johnson Tim,95,Health Net Presented By Maxxis,",, 0:21",4,2006
+27.0,,70.0,+14:02,Kopp David,96,Gerolsteiner,",, 0:21",4,2006
+24.0,,55.0,+10:28,Dockx Bart,97,Davitamon - Lotto,",, 0:21",4,2006
+33.0,,86.0,+17:34,Garcia Jose Manuel,98,,",, 0:21",4,2006
+34.0,,25.0,+6:02,Simoni Gilberto,99,Lampre-Fondital,",, 0:21",4,2006
+28.0,,48.0,+9:04,Zampieri Steve,100,Phonak Hearing Systems,",, 0:21",4,2006
+22.0,,52.0,+9:37,Euser Lucas,101,,",, 0:21",4,2006
+24.0,,57.0,+11:08,Cancellara Fabian,102,CSC ProTeam,0:38 0:38,4,2006
+27.0,,53.0,+10:09,O'Loughlin David,103,Navigators Insurance Cycling Team,0:57 0:57,4,2006
+20.0,,49.0,+9:29,Tolleson Taylor,104,Team TIAA-CREF,",, 0:57",4,2006
+28.0,,40.0,+7:57,Hunter Robert,105,Phonak Hearing Systems,1:02 1:02,4,2006
+23.0,,81.0,+16:16,Van Hecke Preben,106,Davitamon - Lotto,1:12 1:12,4,2006
+32.0,,76.0,+14:36,Bajadali Andrew,107,,",, 1:12",4,2006
+24.0,,108.0,+29:57,Wren Tyler,108,Jamis/Sutter Home Pro Cycling Team,15:46 15:46,4,2006
+38.0,,109.0,+46:01,Artacho Gustavo,109,,16:47 16:47,4,2006
+,,,+ - 12:37:38,Dietrich Michael,DNF,,",, 16:47",4,2006
+36.0,,,+ - 12:37:38,Gonzalez Domingo,DNF,,",, 16:47",4,2006
+,,,+ - 12:37:38,Grabowski Zachary,DNF,,",, 16:47",4,2006
+,,,+ - 12:37:38,Herriot Todd,DNF,,",, 16:47",4,2006
+27.0,,,+ - 12:37:38,Huff Charles Bradley,DNF,Team TIAA-CREF,",, 16:47",4,2006
+,,,+ - 12:37:38,Robinson David,DNF,,",, 16:47",4,2006
+26.0,,,+ - 12:37:38,Lopinto Peter,DNF,,",, 16:47",4,2006
+22.0,,,+ - 12:37:38,Rabon Frantisek,HD,T-Mobile Team,",, 16:47",4,2006
+26.0,,,+ - 12:37:38,Rice Matthew,HD,,",, 16:47",4,2006
+23.0,,,+ - 12:37:38,Gilbert Martin,HD,,42:36 42:36,4,2006
+23.0,,,+ - 12:37:38,Giling Bas,HD,T-Mobile Team,29:38 29:38,4,2006
+32.0,,4.0,+0:45,Hincapie George,1,Discovery Channel,3:52:02 3:52:02,5,2006
+25.0,,89.0,+26:13,Wegmann Fabian,2,Gerolsteiner,",, ,,",5,2006
+34.0,,13.0,+2:17,Horner Chris,3,Saunier Duval - Prodir,",, ,,",5,2006
+30.0,,14.0,+2:20,Jufre Josep,4,Davitamon - Lotto,",, ,,",5,2006
+22.0,,21.0,+4:10,Ricco Riccardo,5,,",, ,,",5,2006
+26.0,,44.0,+12:07,Lang Sebastian,6,Gerolsteiner,",, ,,",5,2006
+25.0,,22.0,+4:31,Roulston Hayden,7,Health Net Presented By Maxxis,",, ,,",5,2006
+25.0,,45.0,+12:26,Lagutin Sergey,8,Navigators Insurance Cycling Team,",, ,,",5,2006
+26.0,,42.0,+11:09,Davis Scott,9,T-Mobile Team,",, ,,",5,2006
+27.0,,25.0,+6:20,Jacques-Maynes Benjamin,10,,",, ,,",5,2006
+29.0,,27.0,+6:49,Kobzarenko Valery,11,Navigators Insurance Cycling Team,",, ,,",5,2006
+33.0,,51.0,+14:16,Martin Perdiguero Miguel Angel,12,Phonak Hearing Systems,",, ,,",5,2006
+29.0,,9.0,+1:55,Vande Velde Christian,13,CSC ProTeam,",, ,,",5,2006
+34.0,,3.0,+0:34,Julich Bobby,14,CSC ProTeam,",, ,,",5,2006
+30.0,,24.0,+6:13,Baldwin Christopher,15,,",, ,,",5,2006
+28.0,,11.0,+2:14,Vogondy Nicolas,16,Cr\xe9dit Agricole,",, ,,",5,2006
+25.0,,20.0,+3:22,G\xf3mez Marchante Jose Angel,17,Saunier Duval - Prodir,",, ,,",5,2006
+30.0,,1.0,+0:00,Landis Floyd,18,Phonak Hearing Systems,",, ,,",5,2006
+33.0,,19.0,+3:22,Moos Alexandre,19,Phonak Hearing Systems,",, ,,",5,2006
+27.0,,2.0,+0:29,Zabriskie David,20,CSC ProTeam,",, ,,",5,2006
+24.0,,12.0,+2:15,Kohl Bernhard,21,T-Mobile Team,",, ,,",5,2006
+26.0,,15.0,+2:32,Zajicek Philip,22,Navigators Insurance Cycling Team,",, ,,",5,2006
+27.0,,8.0,+1:49,Danielson Thomas,23,Discovery Channel,",, ,,",5,2006
+29.0,,26.0,+6:32,Chadwick Glen,24,Navigators Insurance Cycling Team,",, ,,",5,2006
+34.0,,43.0,+11:56,Voigt Jens,25,CSC ProTeam,",, ,,",5,2006
+29.0,,7.0,+1:29,Evans Cadel,26,Davitamon - Lotto,",, ,,",5,2006
+31.0,,5.0,+1:08,O'Neill Nathan,27,Health Net Presented By Maxxis,",, ,,",5,2006
+32.0,,6.0,+1:10,Leipheimer Levi,28,Gerolsteiner,",, ,,",5,2006
+23.0,,18.0,+3:11,Raisin Saul,29,Cr\xe9dit Agricole,",, ,,",5,2006
+32.0,,10.0,+1:58,McCartney Jason,30,Discovery Channel,",, ,,",5,2006
+23.0,,16.0,+2:52,Pauriol R\xe9mi,31,Cr\xe9dit Agricole,",, ,,",5,2006
+28.0,,35.0,+8:02,Gil Fernandez Koldo,32,,",, ,,",5,2006
+22.0,,31.0,+7:36,Brajkovi\u010d Janez,33,Discovery Channel,",, ,,",5,2006
+30.0,,17.0,+2:56,Barry Michael,34,Discovery Channel,",, ,,",5,2006
+40.0,,23.0,+5:30,Ekimov Viatcheslav,35,Discovery Channel,0:10 0:10,5,2006
+32.0,,28.0,+6:52,Savoldelli Paolo,36,Discovery Channel,0:20 0:20,5,2006
+32.0,,60.0,+18:21,Rodriguez Fred,37,Davitamon - Lotto,1:13 1:13,5,2006
+29.0,,37.0,+9:11,Kaggestad Mads,38,Cr\xe9dit Agricole,",, 1:13",5,2006
+29.0,,39.0,+9:23,Pinotti Marco,39,Saunier Duval - Prodir,",, 1:13",5,2006
+23.0,,74.0,+21:19,Krauss Sven,40,Gerolsteiner,",, 1:13",5,2006
+36.0,,36.0,+8:56,Moninger Scott,41,,",, 1:13",5,2006
+32.0,,63.0,+18:57,Pollack Olaf,42,T-Mobile Team,",, 1:13",5,2006
+32.0,,56.0,+16:50,Korff Andre,43,T-Mobile Team,",, 1:13",5,2006
+25.0,,34.0,+7:52,Hiekmann Torsten,44,Gerolsteiner,",, 1:13",5,2006
+23.0,,32.0,+7:39,Gusev Vladimir,45,Discovery Channel,",, 1:13",5,2006
+19.0,,40.0,+9:35,Peterson Tom,46,,",, 1:13",5,2006
+26.0,,30.0,+7:34,Pate Danny,47,Team TIAA-CREF,",, 1:13",5,2006
+30.0,,33.0,+7:43,Kroon Karsten,48,CSC ProTeam,",, 1:13",5,2006
+32.0,,46.0,+12:29,O'Grady Stuart,49,CSC ProTeam,",, 1:13",5,2006
+34.0,,38.0,+9:13,Cruz Antonio,50,,",, 1:13",5,2006
+,,70.0,+20:24,England Justin,51,,",, 1:13",5,2006
+25.0,,29.0,+7:03,Blackgrove Heath,52,,",, 1:13",5,2006
+27.0,,50.0,+14:15,Lam Arquimedes,53,,",, 1:13",5,2006
+26.0,,59.0,+18:04,Rogers Michael,54,T-Mobile Team,",, 1:13",5,2006
+28.0,,41.0,+10:17,Zampieri Steve,55,Phonak Hearing Systems,",, 1:13",5,2006
+29.0,,48.0,+13:01,Jensen Brian,56,,3:25 3:25,5,2006
+24.0,,75.0,+21:20,Rapinski Viktor,57,,",, 3:25",5,2006
+23.0,,58.0,+17:50,Portal S\xe9bastien,58,Cr\xe9dit Agricole,",, 3:25",5,2006
+37.0,,76.0,+21:36,Fraser Gordon,59,Health Net Presented By Maxxis,",, 3:25",5,2006
+22.0,,52.0,+15:47,Euser Lucas,60,,6:10 6:10,5,2006
+28.0,,80.0,+24:31,Johnson Tim,61,Health Net Presented By Maxxis,",, 6:10",5,2006
+27.0,,62.0,+18:47,Frattini Davide,62,,",, 6:10",5,2006
+23.0,,66.0,+19:25,Patour Kilian,63,Cr\xe9dit Agricole,",, 6:10",5,2006
+32.0,,53.0,+16:35,Perras Dominique,64,,",, 6:10",5,2006
+25.0,,49.0,+13:30,Creed Michael,65,Team TIAA-CREF,",, 6:10",5,2006
+32.0,,72.0,+20:46,Bajadali Andrew,66,,",, 6:10",5,2006
+24.0,,54.0,+16:38,Dockx Bart,67,Davitamon - Lotto,",, 6:10",5,2006
+31.0,,100.0,+30:05,Zarate Jesus,68,,",, 6:10",5,2006
+22.0,,67.0,+19:58,Marino Jean-Marc,69,Cr\xe9dit Agricole,",, 6:10",5,2006
+32.0,,47.0,+12:48,Jalabert Nicolas,70,Phonak Hearing Systems,",, 6:10",5,2006
+26.0,,95.0,+28:16,Dionne Charles,71,,6:24 6:24,5,2006
+31.0,,82.0,+24:41,Friedick Mariano,72,,",, 6:24",5,2006
+30.0,,71.0,+20:30,Walters Mark,73,Navigators Insurance Cycling Team,",, 6:24",5,2006
+30.0,,91.0,+27:01,Candelario Alex,74,,",, 6:24",5,2006
+22.0,,87.0,+25:59,Reistad Nick,75,,",, 6:24",5,2006
+23.0,,57.0,+17:22,Greipel Andr\xe9,76,T-Mobile Team,",, 6:24",5,2006
+28.0,,78.0,+22:02,Jones Michael,77,Health Net Presented By Maxxis,10:48 10:48,5,2006
+28.0,,81.0,+24:38,Zwizanski Scott,78,,",, 10:48",5,2006
+33.0,,96.0,+28:22,Garcia Jose Manuel,79,,",, 10:48",5,2006
+31.0,,85.0,+25:18,Esparza Fausto Marcelino,80,,",, 10:48",5,2006
+24.0,,77.0,+21:56,Cancellara Fabian,81,CSC ProTeam,",, 10:48",5,2006
+27.0,,64.0,+19:08,Elmiger Martin,82,Phonak Hearing Systems,",, 10:48",5,2006
+25.0,,102.0,+31:04,Haedo Juan Jose,83,,",, 10:48",5,2006
+35.0,,99.0,+29:31,Davidenko Vassili,84,Navigators Insurance Cycling Team,",, 10:48",5,2006
+28.0,,97.0,+28:55,Olson Aaron,85,,",, 10:48",5,2006
+,,105.0,+31:24,Jones Brice,86,,",, 10:48",5,2006
+24.0,,107.0,+40:45,Wren Tyler,87,Jamis/Sutter Home Pro Cycling Team,",, 10:48",5,2006
+23.0,,94.0,+27:52,Friedman Michael,88,Team TIAA-CREF,",, 10:48",5,2006
+20.0,,68.0,+20:17,Tolleson Taylor,89,Team TIAA-CREF,",, 10:48",5,2006
+36.0,,101.0,+30:52,Sayers Mike,90,Health Net Presented By Maxxis,",, 10:48",5,2006
+29.0,,98.0,+29:25,Henderson Gregory,91,Health Net Presented By Maxxis,",, 10:48",5,2006
+21.0,,69.0,+20:21,Lewis Craig,92,,",, 10:48",5,2006
+34.0,,55.0,+16:50,Simoni Gilberto,93,Lampre-Fondital,",, 10:48",5,2006
+26.0,,90.0,+26:39,Brooks Benjamin,94,Navigators Insurance Cycling Team,",, 10:48",5,2006
+25.0,,79.0,+22:43,Manion Caleb,95,,",, 10:48",5,2006
+26.0,,86.0,+25:42,Wamsley Kyle,96,,",, 10:48",5,2006
+33.0,,84.0,+25:01,H\xf8j Frank,97,Gerolsteiner,",, 10:48",5,2006
+26.0,,93.0,+27:40,Bak Lars Ytting,98,CSC ProTeam,",, 10:48",5,2006
+23.0,,92.0,+27:04,Van Hecke Preben,99,Davitamon - Lotto,",, 10:48",5,2006
+28.0,,61.0,+18:45,Hunter Robert,100,Phonak Hearing Systems,",, 10:48",5,2006
+24.0,,65.0,+19:10,Mccarty Jonathan Patrick,101,Phonak Hearing Systems,",, 10:48",5,2006
+27.0,,73.0,+20:57,O'Loughlin David,102,Navigators Insurance Cycling Team,",, 10:48",5,2006
+,,104.0,+31:15,Albers Kirk,103,,",, 10:48",5,2006
+25.0,,103.0,+31:05,Stewart Jackson,104,,",, 10:48",5,2006
+27.0,,83.0,+24:50,Kopp David,105,Gerolsteiner,",, 10:48",5,2006
+28.0,,88.0,+26:10,Haselbacher Rene,106,Gerolsteiner,",, 10:48",5,2006
+35.0,,106.0,+32:05,Mccormack Mark,107,,13:02 13:02,5,2006
+22.0,,,+ - 16:29:40,Rabon Frantisek,DNF,T-Mobile Team,",, 13:02",5,2006
+23.0,,,+ - 16:29:40,Giling Bas,DNF,T-Mobile Team,",, 13:02",5,2006
+23.0,,,+ - 16:29:40,Gilbert Martin,DNF,,",, 13:02",5,2006
+26.0,,,+ - 16:29:40,Rice Matthew,DNF,,",, 13:02",5,2006
+25.0,,,+ - 16:29:40,Mertens Pieter,DNS,Davitamon - Lotto,",, 13:02",5,2006
+32.0,,,+0:00,Pollack Olaf,1,T-Mobile Team,3:26:39 3:26:39,6,2006
+22.0,,,+0:00,Ricco Riccardo,2,,",, ,,",6,2006
+32.0,,,+0:00,Rodriguez Fred,3,Davitamon - Lotto,",, ,,",6,2006
+37.0,,,+0:00,Fraser Gordon,4,Health Net Presented By Maxxis,",, ,,",6,2006
+25.0,,,+0:00,Wegmann Fabian,5,Gerolsteiner,",, ,,",6,2006
+27.0,,,+0:00,Kopp David,6,Gerolsteiner,",, ,,",6,2006
+28.0,,,+0:00,Haselbacher Rene,7,Gerolsteiner,",, ,,",6,2006
+23.0,,,+0:00,Greipel Andr\xe9,8,T-Mobile Team,",, ,,",6,2006
+32.0,,,+0:00,O'Grady Stuart,9,CSC ProTeam,",, ,,",6,2006
+33.0,,,+0:00,Moos Alexandre,10,Phonak Hearing Systems,",, ,,",6,2006
+30.0,,,+0:00,Barry Michael,11,Discovery Channel,",, ,,",6,2006
+30.0,,,+0:00,Candelario Alex,12,,",, ,,",6,2006
+32.0,,,+0:00,Hincapie George,13,Discovery Channel,",, ,,",6,2006
+35.0,,,+0:00,Mccormack Mark,14,,",, ,,",6,2006
+25.0,,,+0:00,Stewart Jackson,15,,",, ,,",6,2006
+20.0,,,+0:00,Tolleson Taylor,16,Team TIAA-CREF,",, ,,",6,2006
+23.0,,,+0:00,Gusev Vladimir,17,Discovery Channel,",, ,,",6,2006
+31.0,,,+0:00,Esparza Fausto Marcelino,18,,",, ,,",6,2006
+29.0,,,+0:00,Evans Cadel,19,Davitamon - Lotto,",, ,,",6,2006
+23.0,,,+0:00,Portal S\xe9bastien,20,Cr\xe9dit Agricole,",, ,,",6,2006
+26.0,,,+0:00,Dionne Charles,21,,",, ,,",6,2006
+34.0,,,+0:00,Julich Bobby,22,CSC ProTeam,",, ,,",6,2006
+28.0,,,+0:00,Vogondy Nicolas,23,Cr\xe9dit Agricole,",, ,,",6,2006
+31.0,,,+0:00,O'Neill Nathan,24,Health Net Presented By Maxxis,",, ,,",6,2006
+25.0,,,+0:00,Haedo Juan Jose,25,,",, ,,",6,2006
+24.0,,,+0:00,Rapinski Viktor,26,,",, ,,",6,2006
+27.0,,,+0:00,Zabriskie David,27,CSC ProTeam,",, ,,",6,2006
+26.0,,,+0:00,Brooks Benjamin,28,Navigators Insurance Cycling Team,",, ,,",6,2006
+27.0,,,+0:00,Elmiger Martin,29,Phonak Hearing Systems,",, ,,",6,2006
+33.0,,,+0:00,H\xf8j Frank,30,Gerolsteiner,",, ,,",6,2006
+25.0,,,+0:00,Lagutin Sergey,31,Navigators Insurance Cycling Team,",, ,,",6,2006
+24.0,,,+0:00,Cancellara Fabian,32,CSC ProTeam,",, ,,",6,2006
+30.0,,,+0:00,Jufre Josep,33,Davitamon - Lotto,",, ,,",6,2006
+29.0,,,+0:00,Henderson Gregory,34,Health Net Presented By Maxxis,",, ,,",6,2006
+32.0,,,+0:00,Korff Andre,35,T-Mobile Team,",, ,,",6,2006
+23.0,,,+0:00,Friedman Michael,36,Team TIAA-CREF,",, ,,",6,2006
+22.0,,,+0:00,Brajkovi\u010d Janez,37,Discovery Channel,",, ,,",6,2006
+29.0,,,+0:00,Kaggestad Mads,38,Cr\xe9dit Agricole,",, ,,",6,2006
+30.0,,,+0:00,Landis Floyd,39,Phonak Hearing Systems,",, ,,",6,2006
+29.0,,,+0:00,Vande Velde Christian,40,CSC ProTeam,",, ,,",6,2006
+32.0,,,+0:00,Jalabert Nicolas,41,Phonak Hearing Systems,",, ,,",6,2006
+25.0,,,+0:00,Roulston Hayden,42,Health Net Presented By Maxxis,",, ,,",6,2006
+29.0,,,+0:00,Kobzarenko Valery,43,Navigators Insurance Cycling Team,",, ,,",6,2006
+30.0,,,+0:00,Baldwin Christopher,44,,",, ,,",6,2006
+32.0,,,+0:00,Leipheimer Levi,45,Gerolsteiner,",, ,,",6,2006
+24.0,,,+0:00,Kohl Bernhard,46,T-Mobile Team,",, ,,",6,2006
+34.0,,,+0:00,Horner Chris,47,Saunier Duval - Prodir,",, ,,",6,2006
+40.0,,,+0:00,Ekimov Viatcheslav,48,Discovery Channel,",, ,,",6,2006
+26.0,,,+0:00,Zajicek Philip,49,Navigators Insurance Cycling Team,",, ,,",6,2006
+22.0,,,+0:00,Marino Jean-Marc,50,Cr\xe9dit Agricole,",, ,,",6,2006
+30.0,,,+0:00,Walters Mark,51,Navigators Insurance Cycling Team,",, ,,",6,2006
+27.0,,,+0:00,Danielson Thomas,52,Discovery Channel,",, ,,",6,2006
+19.0,,,+0:00,Peterson Tom,53,,",, ,,",6,2006
+32.0,,,+0:00,McCartney Jason,54,Discovery Channel,",, ,,",6,2006
+23.0,,,+0:00,Raisin Saul,55,Cr\xe9dit Agricole,",, ,,",6,2006
+34.0,,,+0:00,Cruz Antonio,56,,",, ,,",6,2006
+32.0,,,+0:00,Savoldelli Paolo,57,Discovery Channel,",, ,,",6,2006
+23.0,,,+0:00,Pauriol R\xe9mi,58,Cr\xe9dit Agricole,",, ,,",6,2006
+29.0,,,+0:00,Jensen Brian,59,,",, ,,",6,2006
+30.0,,,+0:00,Pinotti Marco,60,Saunier Duval - Prodir,",, ,,",6,2006
+22.0,,,+0:00,Reistad Nick,61,,",, ,,",6,2006
+23.0,,,+0:00,Patour Kilian,62,Cr\xe9dit Agricole,",, ,,",6,2006
+28.0,,,+0:00,Zampieri Steve,63,Phonak Hearing Systems,",, ,,",6,2006
+22.0,,,+0:00,Euser Lucas,64,,",, ,,",6,2006
+25.0,,,+0:00,Hiekmann Torsten,65,Gerolsteiner,",, ,,",6,2006
+31.0,,,+0:00,Friedick Mariano,66,,",, ,,",6,2006
+28.0,,,+0:00,Zwizanski Scott,67,,",, ,,",6,2006
+26.0,,,+0:00,Rogers Michael,68,T-Mobile Team,",, ,,",6,2006
+27.0,,,+0:00,Jacques-Maynes Benjamin,69,,",, ,,",6,2006
+36.0,,,+0:00,Moninger Scott,70,,",, ,,",6,2006
+23.0,,,+0:00,Krauss Sven,71,Gerolsteiner,",, ,,",6,2006
+32.0,,,+0:00,Perras Dominique,72,,",, ,,",6,2006
+26.0,,,+0:00,Lang Sebastian,73,Gerolsteiner,",, ,,",6,2006
+26.0,,,+0:00,Davis Scott,74,T-Mobile Team,",, ,,",6,2006
+29.0,,,+0:00,Chadwick Glen,75,Navigators Insurance Cycling Team,",, ,,",6,2006
+28.0,,,+0:00,Olson Aaron,76,,",, ,,",6,2006
+25.0,,,+0:00,G\xf3mez Marchante Jose Angel,77,Saunier Duval - Prodir,",, ,,",6,2006
+25.0,,,+0:00,Creed Michael,78,Team TIAA-CREF,",, ,,",6,2006
+27.0,,,+0:00,Frattini Davide,79,,",, ,,",6,2006
+,,,+0:00,England Justin,80,,",, ,,",6,2006
+33.0,,,+0:00,Garcia Jose Manuel,81,,",, ,,",6,2006
+21.0,,,+0:00,Lewis Craig,82,,",, ,,",6,2006
+28.0,,,+0:00,Gil Fernandez Koldo,83,,",, ,,",6,2006
+24.0,,,+0:00,Wren Tyler,84,Jamis/Sutter Home Pro Cycling Team,",, ,,",6,2006
+27.0,,,+0:00,Lam Arquimedes,85,,",, ,,",6,2006
+26.0,,,+0:00,Wamsley Kyle,86,,",, ,,",6,2006
+31.0,,,+0:00,Zarate Jesus,87,,",, ,,",6,2006
+26.0,,,+0:00,Pate Danny,88,Team TIAA-CREF,",, ,,",6,2006
+35.0,,,+0:00,Davidenko Vassili,89,Navigators Insurance Cycling Team,",, ,,",6,2006
+33.0,,,+0:00,Martin Perdiguero Miguel Angel,90,Phonak Hearing Systems,0:27 0:27,6,2006
+24.0,,,+0:00,Mccarty Jonathan Patrick,91,Phonak Hearing Systems,",, 0:27",6,2006
+25.0,,,+0:00,Manion Caleb,92,,",, 0:27",6,2006
+23.0,,,+0:00,Van Hecke Preben,93,Davitamon - Lotto,0:36 0:36,6,2006
+36.0,,,+0:00,Sayers Mike,94,Health Net Presented By Maxxis,",, 0:36",6,2006
+27.0,,,+0:00,O'Loughlin David,95,Navigators Insurance Cycling Team,",, 0:36",6,2006
+28.0,,,+0:00,Johnson Tim,96,Health Net Presented By Maxxis,",, 0:36",6,2006
+,,,+0:00,Jones Brice,97,,0:43 0:43,6,2006
+34.0,,,+0:00,Voigt Jens,98,CSC ProTeam,",, 0:43",6,2006
+24.0,,,+0:00,Dockx Bart,99,Davitamon - Lotto,",, 0:43",6,2006
+30.0,,,+0:00,Kroon Karsten,100,CSC ProTeam,",, 0:43",6,2006
+25.0,,,+0:00,Blackgrove Heath,101,,",, 0:43",6,2006
+28.0,,,+0:00,Hunter Robert,102,Phonak Hearing Systems,1:12 1:12,6,2006
+26.0,,,+0:00,Bak Lars Ytting,103,CSC ProTeam,1:17 1:17,6,2006
+28.0,,,+0:00,Jones Michael,DNF,Health Net Presented By Maxxis,",, 1:17",6,2006
+,,,+0:00,Albers Kirk,DNF,,",, 1:17",6,2006
+34.0,,,+0:00,Simoni Gilberto,DNS,Lampre-Fondital,",, 1:17",6,2006
+32.0,,,+0:00,Bajadali Andrew,DNS,,",, 1:17",6,2006
+32.0,,56.0,+18:57,Pollack Olaf,1,T-Mobile Team,2:50:27 2:50:27,7,2006
+25.0,,92.0,+31:04,Haedo Juan Jose,2,,",, ,,",7,2006
+23.0,,51.0,+17:22,Greipel Andr\xe9,3,T-Mobile Team,",, ,,",7,2006
+28.0,,79.0,+26:10,Haselbacher Rene,4,Gerolsteiner,",, ,,",7,2006
+31.0,,82.0,+27:01,Candelario Alex,5,,",, ,,",7,2006
+37.0,,67.0,+21:36,Fraser Gordon,6,Health Net Presented By Maxxis,",, ,,",7,2006
+23.0,,30.0,+7:39,Gusev Vladimir,7,Discovery Channel,",, ,,",7,2006
+32.0,,54.0,+18:21,Rodriguez Fred,8,Davitamon - Lotto,",, ,,",7,2006
+25.0,,41.0,+12:26,Lagutin Sergey,9,Navigators Insurance Cycling Team,",, ,,",7,2006
+32.0,,42.0,+12:29,O'Grady Stuart,10,CSC ProTeam,",, ,,",7,2006
+20.0,,61.0,+20:17,Tolleson Taylor,11,Team TIAA-CREF,",, ,,",7,2006
+24.0,,66.0,+21:20,Rapinski Viktor,12,,",, ,,",7,2006
+23.0,,52.0,+17:50,Portal S\xe9bastien,13,Cr\xe9dit Agricole,",, ,,",7,2006
+,,96.0,+32:07,Jones Brice,14,,",, ,,",7,2006
+35.0,,95.0,+32:05,Mccormack Mark,15,,",, ,,",7,2006
+32.0,,4.0,+0:45,Hincapie George,16,Discovery Channel,",, ,,",7,2006
+34.0,,36.0,+9:13,Cruz Antonio,17,,",, ,,",7,2006
+32.0,,44.0,+12:48,Jalabert Nicolas,18,Phonak Hearing Systems,",, ,,",7,2006
+26.0,,85.0,+28:16,Dionne Charles,19,,",, ,,",7,2006
+35.0,,90.0,+29:31,Davidenko Vassili,20,Navigators Insurance Cycling Team,",, ,,",7,2006
+31.0,,72.0,+24:41,Friedick Mariano,21,,",, ,,",7,2006
+31.0,,76.0,+25:18,Esparza Fausto Marcelino,22,,",, ,,",7,2006
+25.0,,93.0,+31:05,Stewart Jackson,23,,",, ,,",7,2006
+30.0,,1.0,+0:00,Landis Floyd,24,Phonak Hearing Systems,",, ,,",7,2006
+30.0,,14.0,+2:20,Jufre Josep,25,Davitamon - Lotto,",, ,,",7,2006
+22.0,,78.0,+25:59,Reistad Nick,26,,",, ,,",7,2006
+30.0,,16.0,+2:56,Barry Michael,27,Discovery Channel,",, ,,",7,2006
+27.0,,24.0,+6:20,Jacques-Maynes Benjamin,28,,",, ,,",7,2006
+33.0,,74.0,+25:01,H\xf8j Frank,29,Gerolsteiner,",, ,,",7,2006
+28.0,,11.0,+2:14,Vogondy Nicolas,30,Cr\xe9dit Agricole,",, ,,",7,2006
+27.0,,57.0,+19:08,Elmiger Martin,31,Phonak Hearing Systems,",, ,,",7,2006
+30.0,,23.0,+6:13,Baldwin Christopher,32,,",, ,,",7,2006
+34.0,,3.0,+0:34,Julich Bobby,33,CSC ProTeam,",, ,,",7,2006
+29.0,,35.0,+9:11,Kaggestad Mads,34,Cr\xe9dit Agricole,",, ,,",7,2006
+29.0,,26.0,+6:49,Kobzarenko Valery,35,Navigators Insurance Cycling Team,",, ,,",7,2006
+29.0,,9.0,+1:55,Vande Velde Christian,36,CSC ProTeam,",, ,,",7,2006
+23.0,,83.0,+27:52,Friedman Michael,37,Team TIAA-CREF,",, ,,",7,2006
+31.0,,5.0,+1:08,O'Neill Nathan,38,Health Net Presented By Maxxis,",, ,,",7,2006
+27.0,,2.0,+0:29,Zabriskie David,39,CSC ProTeam,",, ,,",7,2006
+32.0,,50.0,+16:50,Korff Andre,40,T-Mobile Team,",, ,,",7,2006
+32.0,,27.0,+6:52,Savoldelli Paolo,41,Discovery Channel,",, ,,",7,2006
+29.0,,7.0,+1:29,Evans Cadel,42,Davitamon - Lotto,",, ,,",7,2006
+33.0,,18.0,+3:22,Moos Alexandre,43,Phonak Hearing Systems,",, ,,",7,2006
+23.0,,15.0,+2:52,Pauriol R\xe9mi,44,Cr\xe9dit Agricole,",, ,,",7,2006
+27.0,,73.0,+24:50,Kopp David,45,Gerolsteiner,",, ,,",7,2006
+30.0,,64.0,+20:30,Walters Mark,46,Navigators Insurance Cycling Team,",, ,,",7,2006
+27.0,,8.0,+1:49,Danielson Thomas,47,Discovery Channel,",, ,,",7,2006
+23.0,,65.0,+21:19,Krauss Sven,48,Gerolsteiner,",, ,,",7,2006
+22.0,,29.0,+7:36,Brajkovi\u010d Janez,49,Discovery Channel,",, ,,",7,2006
+32.0,,10.0,+1:58,McCartney Jason,50,Discovery Channel,",, ,,",7,2006
+25.0,,21.0,+4:31,Roulston Hayden,51,Health Net Presented By Maxxis,",, ,,",7,2006
+24.0,,12.0,+2:15,Kohl Bernhard,52,T-Mobile Team,",, ,,",7,2006
+34.0,,13.0,+2:17,Horner Chris,53,Saunier Duval - Prodir,",, ,,",7,2006
+24.0,,68.0,+21:56,Cancellara Fabian,54,CSC ProTeam,",, ,,",7,2006
+40.0,,22.0,+5:30,Ekimov Viatcheslav,55,Discovery Channel,",, ,,",7,2006
+28.0,,39.0,+10:17,Zampieri Steve,56,Phonak Hearing Systems,",, ,,",7,2006
+22.0,,20.0,+4:10,Ricco Riccardo,57,,",, ,,",7,2006
+25.0,,31.0,+7:46,Blackgrove Heath,58,,",, ,,",7,2006
+28.0,,75.0,+25:07,Johnson Tim,59,Health Net Presented By Maxxis,",, ,,",7,2006
+32.0,,6.0,+1:10,Leipheimer Levi,60,Gerolsteiner,",, ,,",7,2006
+33.0,,47.0,+14:43,Martin Perdiguero Miguel Angel,61,Phonak Hearing Systems,",, ,,",7,2006
+24.0,,97.0,+40:45,Wren Tyler,62,Jamis/Sutter Home Pro Cycling Team,",, ,,",7,2006
+30.0,,33.0,+8:26,Kroon Karsten,63,CSC ProTeam,",, ,,",7,2006
+22.0,,60.0,+19:58,Marino Jean-Marc,64,Cr\xe9dit Agricole,",, ,,",7,2006
+36.0,,94.0,+31:28,Sayers Mike,65,Health Net Presented By Maxxis,",, ,,",7,2006
+26.0,,88.0,+28:57,Bak Lars Ytting,66,CSC ProTeam,",, ,,",7,2006
+34.0,,43.0,+12:39,Voigt Jens,67,CSC ProTeam,",, ,,",7,2006
+,,63.0,+20:24,England Justin,68,,",, ,,",7,2006
+28.0,,87.0,+28:55,Olson Aaron,69,,",, ,,",7,2006
+25.0,,19.0,+3:22,G\xf3mez Marchante Jose Angel,70,Saunier Duval - Prodir,",, ,,",7,2006
+36.0,,34.0,+8:56,Moninger Scott,71,,",, ,,",7,2006
+25.0,,80.0,+26:13,Wegmann Fabian,72,Gerolsteiner,",, ,,",7,2006
+27.0,,46.0,+14:15,Lam Arquimedes,73,,",, ,,",7,2006
+25.0,,69.0,+23:10,Manion Caleb,74,,",, ,,",7,2006
+19.0,,38.0,+9:35,Peterson Tom,75,,",, ,,",7,2006
+23.0,,58.0,+19:25,Patour Kilian,76,Cr\xe9dit Agricole,",, ,,",7,2006
+26.0,,40.0,+11:09,Davis Scott,77,T-Mobile Team,",, ,,",7,2006
+31.0,,91.0,+30:05,Zarate Jesus,78,,",, ,,",7,2006
+23.0,,17.0,+3:11,Raisin Saul,79,Cr\xe9dit Agricole,",, ,,",7,2006
+32.0,,48.0,+16:35,Perras Dominique,80,,",, ,,",7,2006
+30.0,,37.0,+9:23,Pinotti Marco,81,Saunier Duval - Prodir,",, ,,",7,2006
+29.0,,45.0,+13:01,Jensen Brian,82,,",, ,,",7,2006
+26.0,,77.0,+25:42,Wamsley Kyle,83,,",, ,,",7,2006
+29.0,,89.0,+29:25,Henderson Gregory,84,Health Net Presented By Maxxis,",, ,,",7,2006
+26.0,,53.0,+18:04,Rogers Michael,85,T-Mobile Team,",, ,,",7,2006
+29.0,,25.0,+6:32,Chadwick Glen,86,Navigators Insurance Cycling Team,",, ,,",7,2006
+33.0,,86.0,+28:22,Garcia Jose Manuel,87,,",, ,,",7,2006
+25.0,,32.0,+7:52,Hiekmann Torsten,88,Gerolsteiner,",, ,,",7,2006
+21.0,,62.0,+20:21,Lewis Craig,89,,",, ,,",7,2006
+28.0,,71.0,+24:38,Zwizanski Scott,90,,",, ,,",7,2006
+27.0,,55.0,+18:47,Frattini Davide,91,,",, ,,",7,2006
+24.0,,59.0,+19:37,Mccarty Jonathan Patrick,92,Phonak Hearing Systems,",, ,,",7,2006
+26.0,,28.0,+7:34,Pate Danny,93,Team TIAA-CREF,",, ,,",7,2006
+26.0,,81.0,+26:39,Brooks Benjamin,94,Navigators Insurance Cycling Team,",, ,,",7,2006
+23.0,,84.0,+28:03,Van Hecke Preben,95,Davitamon - Lotto,0:23 0:23,7,2006
+22.0,,49.0,+16:49,Euser Lucas,96,,1:02 1:02,7,2006
+27.0,,70.0,+23:24,O'Loughlin David,97,Navigators Insurance Cycling Team,1:51 1:51,7,2006
+25.0,,,+ - 22:46:46,Creed Michael,DNF,Team TIAA-CREF,",, 1:51",7,2006
+28.0,,,+ - 22:46:46,Hunter Robert,DNF,Phonak Hearing Systems,",, 1:51",7,2006
+24.0,,,+ - 22:46:46,Dockx Bart,DNF,Davitamon - Lotto,",, 1:51",7,2006
+26.0,,,+ - 22:46:46,Lang Sebastian,DNF,Gerolsteiner,",, 1:51",7,2006
+28.0,,,+ - 22:46:46,Gil Fernandez Koldo,DNF,,",, 1:51",7,2006
+26.0,,,+ - 22:46:46,Zajicek Philip,DNF,Navigators Insurance Cycling Team,",, 1:51",7,2006

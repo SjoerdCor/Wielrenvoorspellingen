@@ -1,0 +1,558 @@
+Age,BIB,GC,GC-Time,Pnt,Prev,Rider,Rnk,Team,Time,\u25bc\u25b2,stage,year
+23,43,1.0,+0:00,,,Cancellara Fabian,1,Fassa Bortolo,6:50 6:50,,0,2004
+23,103,28.0,+0:21,,,Boonen Tom,2,Quickstep - Davitamon,0:21 0:21,,0,2004
+25,7,29.0,+0:22,,,Noval Benjamin,3,US Postal Service,0:22 0:22,,0,2004
+23,75,30.0,+0:22,,,Karpets Vladimir,4,Illes Balears - Banesto,",, 0:22",,0,2004
+24,84,36.0,+0:23,,,Lang Sebastian,5,Gerolsteiner,0:23 0:23,,0,2004
+24,196,41.0,+0:24,,,Scarponi Michele,6,Domina Vacanze,0:24 0:24,,0,2004
+24,95,42.0,+0:24,,,Engoulvent Jimmy,7,Cofidis,",, 0:24",,0,2004
+23,165,43.0,+0:24,,,Eisel Bernhard,8,Fdjeux.com,",, 0:24",,0,2004
+25,121,52.0,+0:27,,,Chavanel Sylvain,9,Brioches La Boulang\xe8re,0:27 0:27,,0,2004
+25,146,55.0,+0:27,,,Krivtsov Yuriy,10,AG2R Pr\xe9voyance,",, 0:27",,0,2004
+23,149,63.0,+0:28,,,Scanlon Mark,11,AG2R Pr\xe9voyance,0:28 0:28,,0,2004
+25,32,66.0,+0:29,,,Cama\xf1o Iker,12,Euskaltel - Euskadi,0:29 0:29,,0,2004
+25,162,73.0,+0:30,,,Casar Sandy,13,Fdjeux.com,0:30 0:30,,0,2004
+24,142,78.0,+0:31,,,Astarloza Mikel,14,AG2R Pr\xe9voyance,0:31 0:31,,0,2004
+22,47,79.0,+0:31,,,Pozzato Filippo,15,Fassa Bortolo,",, 0:31",,0,2004
+24,126,82.0,+0:31,,,Pineau J\xe9rome,16,Brioches La Boulang\xe8re,",, 0:31",,0,2004
+24,94,87.0,+0:32,,,Edaleine Christophe,17,Cofidis,0:32 0:32,,0,2004
+25,58,90.0,+0:32,,,Joly S\xe9bastien,18,Cr\xe9dit Agricole,",, 0:32",,0,2004
+25,148,99.0,+0:35,,,Portal Nicolas,19,AG2R Pr\xe9voyance,0:35 0:35,,0,2004
+25,16,102.0,+0:36,,,Kessler Matthias,20,T-Mobile Team,0:36 0:36,,0,2004
+23,113,114.0,+0:38,,,Davis Allan,21,Liberty Seguros,0:38 0:38,,0,2004
+24,194,115.0,+0:38,,,Marinangeli Sergio,22,Domina Vacanze,",, 0:38",,0,2004
+24,88,117.0,+0:39,,,Wegmann Fabian,23,Gerolsteiner,0:39 0:39,,0,2004
+24,108,121.0,+0:40,,,Rogers Michael,24,Quickstep - Davitamon,0:40 0:40,,0,2004
+24,124,123.0,+0:40,,,Hary Maryan,25,Brioches La Boulang\xe8re,",, 0:40",,0,2004
+25,123,132.0,+0:41,,,Charteau Anthony,26,Brioches La Boulang\xe8re,0:41 0:41,,0,2004
+24,176,133.0,+0:41,,,Loosli David,27,Saeco,",, 0:41",,0,2004
+25,129,141.0,+0:42,,,Voeckler Thomas,28,Brioches La Boulang\xe8re,0:42 0:42,,0,2004
+23,143,144.0,+0:42,,,Dumoulin Samuel,29,AG2R Pr\xe9voyance,",, 0:42",,0,2004
+25,205,148.0,+0:42,,,Calzati Sylvain,30,R.a.g.t Semence - Mg Rover,",, 0:42",,0,2004
+23,43,1.0,+0:00,,1.0,Cancellara Fabian,1,Fassa Bortolo,4:47:11 4:47:11,-,1,2004
+23,165,19.0,+0:26,,8.0,Eisel Bernhard,2,Fdjeux.com,0:26 0:26,\u25b26,1,2004
+23,103,26.0,+0:27,,2.0,Boonen Tom,3,Quickstep - Davitamon,0:27 0:27,\u25bc1,1,2004
+25,7,32.0,+0:30,,3.0,Noval Benjamin,4,US Postal Service,0:30 0:30,\u25bc1,1,2004
+23,75,33.0,+0:30,,4.0,Karpets Vladimir,5,Illes Balears - Banesto,",, 0:30",\u25bc1,1,2004
+24,84,37.0,+0:31,,5.0,Lang Sebastian,6,Gerolsteiner,0:31 0:31,\u25bc1,1,2004
+24,196,42.0,+0:32,,6.0,Scarponi Michele,7,Domina Vacanze,0:32 0:32,\u25bc1,1,2004
+24,95,43.0,+0:32,,7.0,Engoulvent Jimmy,8,Cofidis,",, 0:32",\u25bc1,1,2004
+25,121,52.0,+0:35,,9.0,Chavanel Sylvain,9,Brioches La Boulang\xe8re,0:35 0:35,-,1,2004
+25,146,55.0,+0:35,,10.0,Krivtsov Yuriy,10,AG2R Pr\xe9voyance,",, 0:35",-,1,2004
+23,149,63.0,+0:36,,11.0,Scanlon Mark,11,AG2R Pr\xe9voyance,0:36 0:36,-,1,2004
+25,32,65.0,+0:37,,12.0,Cama\xf1o Iker,12,Euskaltel - Euskadi,0:37 0:37,-,1,2004
+25,162,72.0,+0:38,,13.0,Casar Sandy,13,Fdjeux.com,0:38 0:38,-,1,2004
+24,142,77.0,+0:39,,14.0,Astarloza Mikel,14,AG2R Pr\xe9voyance,0:39 0:39,-,1,2004
+22,47,78.0,+0:39,,15.0,Pozzato Filippo,15,Fassa Bortolo,",, 0:39",-,1,2004
+24,126,81.0,+0:39,,16.0,Pineau J\xe9rome,16,Brioches La Boulang\xe8re,",, 0:39",-,1,2004
+24,94,86.0,+0:40,,17.0,Edaleine Christophe,17,Cofidis,0:40 0:40,-,1,2004
+25,148,96.0,+0:43,,19.0,Portal Nicolas,18,AG2R Pr\xe9voyance,0:43 0:43,\u25b21,1,2004
+25,16,100.0,+0:44,,20.0,Kessler Matthias,19,T-Mobile Team,0:44 0:44,\u25b21,1,2004
+23,113,110.0,+0:46,,21.0,Davis Allan,20,Liberty Seguros,0:46 0:46,\u25b21,1,2004
+24,194,111.0,+0:46,,22.0,Marinangeli Sergio,21,Domina Vacanze,",, 0:46",\u25b21,1,2004
+24,88,113.0,+0:47,,23.0,Wegmann Fabian,22,Gerolsteiner,0:47 0:47,\u25b21,1,2004
+24,108,117.0,+0:48,,24.0,Rogers Michael,23,Quickstep - Davitamon,0:48 0:48,\u25b21,1,2004
+24,124,119.0,+0:48,,25.0,Hary Maryan,24,Brioches La Boulang\xe8re,",, 0:48",\u25b21,1,2004
+25,123,128.0,+0:49,,26.0,Charteau Anthony,25,Brioches La Boulang\xe8re,0:49 0:49,\u25b21,1,2004
+24,176,129.0,+0:49,,27.0,Loosli David,26,Saeco,",, 0:49",\u25b21,1,2004
+25,129,137.0,+0:50,,28.0,Voeckler Thomas,27,Brioches La Boulang\xe8re,0:50 0:50,\u25b21,1,2004
+23,143,140.0,+0:50,,29.0,Dumoulin Samuel,28,AG2R Pr\xe9voyance,",, 0:50",\u25b21,1,2004
+25,205,144.0,+0:50,,30.0,Calzati Sylvain,29,R.a.g.t Semence - Mg Rover,",, 0:50",\u25b21,1,2004
+25,58,181.0,+1:27,,18.0,Joly S\xe9bastien,30,Cr\xe9dit Agricole,1:27 1:27,\u25bc12,1,2004
+23,43,2.0,+0:08,,1.0,Cancellara Fabian,1,Fassa Bortolo,9:05:50 9:05:50,-,2,2004
+23,165,20.0,+0:34,,2.0,Eisel Bernhard,2,Fdjeux.com,0:26 0:26,-,2,2004
+23,103,27.0,+0:35,,3.0,Boonen Tom,3,Quickstep - Davitamon,0:27 0:27,-,2,2004
+24,94,28.0,+0:36,,17.0,Edaleine Christophe,4,Cofidis,0:28 0:28,\u25b213,2,2004
+24,126,32.0,+0:37,,16.0,Pineau J\xe9rome,5,Brioches La Boulang\xe8re,0:29 0:29,\u25b211,2,2004
+25,7,34.0,+0:38,,4.0,Noval Benjamin,6,US Postal Service,0:30 0:30,\u25bc2,2,2004
+23,75,35.0,+0:38,,5.0,Karpets Vladimir,7,Illes Balears - Banesto,",, 0:30",\u25bc2,2,2004
+23,149,36.0,+0:38,,11.0,Scanlon Mark,8,AG2R Pr\xe9voyance,",, 0:30",\u25b23,2,2004
+24,84,40.0,+0:39,,6.0,Lang Sebastian,9,Gerolsteiner,0:31 0:31,\u25bc3,2,2004
+24,196,46.0,+0:40,,7.0,Scarponi Michele,10,Domina Vacanze,0:32 0:32,\u25bc3,2,2004
+24,95,47.0,+0:40,,8.0,Engoulvent Jimmy,11,Cofidis,",, 0:32",\u25bc3,2,2004
+25,121,57.0,+0:43,,9.0,Chavanel Sylvain,12,Brioches La Boulang\xe8re,0:35 0:35,\u25bc3,2,2004
+25,146,60.0,+0:43,,10.0,Krivtsov Yuriy,13,AG2R Pr\xe9voyance,",, 0:35",\u25bc3,2,2004
+25,32,69.0,+0:45,,12.0,Cama\xf1o Iker,14,Euskaltel - Euskadi,0:37 0:37,\u25bc2,2,2004
+25,162,76.0,+0:46,,13.0,Casar Sandy,15,Fdjeux.com,0:38 0:38,\u25bc2,2,2004
+24,142,81.0,+0:47,,14.0,Astarloza Mikel,16,AG2R Pr\xe9voyance,0:39 0:39,\u25bc2,2,2004
+22,47,82.0,+0:47,,15.0,Pozzato Filippo,17,Fassa Bortolo,",, 0:39",\u25bc2,2,2004
+25,148,96.0,+0:51,,18.0,Portal Nicolas,18,AG2R Pr\xe9voyance,0:43 0:43,-,2,2004
+25,16,100.0,+0:52,,19.0,Kessler Matthias,19,T-Mobile Team,0:44 0:44,-,2,2004
+23,113,110.0,+0:54,,20.0,Davis Allan,20,Liberty Seguros,0:46 0:46,-,2,2004
+24,194,111.0,+0:54,,21.0,Marinangeli Sergio,21,Domina Vacanze,",, 0:46",-,2,2004
+24,88,113.0,+0:55,,22.0,Wegmann Fabian,22,Gerolsteiner,0:47 0:47,-,2,2004
+24,108,117.0,+0:56,,23.0,Rogers Michael,23,Quickstep - Davitamon,0:48 0:48,-,2,2004
+24,124,119.0,+0:56,,24.0,Hary Maryan,24,Brioches La Boulang\xe8re,",, 0:48",-,2,2004
+25,123,128.0,+0:57,,25.0,Charteau Anthony,25,Brioches La Boulang\xe8re,0:49 0:49,-,2,2004
+24,176,129.0,+0:57,,26.0,Loosli David,26,Saeco,",, 0:49",-,2,2004
+25,129,136.0,+0:58,,27.0,Voeckler Thomas,27,Brioches La Boulang\xe8re,0:50 0:50,-,2,2004
+23,143,140.0,+0:58,,28.0,Dumoulin Samuel,28,AG2R Pr\xe9voyance,",, 0:50",-,2,2004
+25,205,142.0,+0:58,,29.0,Calzati Sylvain,29,R.a.g.t Semence - Mg Rover,",, 0:50",-,2,2004
+25,58,177.0,+1:35,,30.0,Joly S\xe9bastien,30,Cr\xe9dit Agricole,1:02 1:02,-,2,2004
+23,43,2.0,+0:01,,1.0,Cancellara Fabian,1,Fassa Bortolo,13:42:35 13:42:35,-,3,2004
+23,103,13.0,+0:28,,3.0,Boonen Tom,2,Quickstep - Davitamon,0:27 0:27,\u25b21,3,2004
+24,196,24.0,+0:33,,10.0,Scarponi Michele,3,Domina Vacanze,0:32 0:32,\u25b27,3,2004
+24,126,26.0,+0:35,,5.0,Pineau J\xe9rome,4,Brioches La Boulang\xe8re,0:34 0:34,\u25b21,3,2004
+23,149,28.0,+0:36,,8.0,Scanlon Mark,5,AG2R Pr\xe9voyance,0:35 0:35,\u25b23,3,2004
+25,121,36.0,+0:41,,12.0,Chavanel Sylvain,6,Brioches La Boulang\xe8re,0:40 0:40,\u25b26,3,2004
+24,142,44.0,+0:45,,16.0,Astarloza Mikel,7,AG2R Pr\xe9voyance,0:44 0:44,\u25b29,3,2004
+25,16,55.0,+0:50,,19.0,Kessler Matthias,8,T-Mobile Team,0:49 0:49,\u25b211,3,2004
+24,84,63.0,+0:52,,9.0,Lang Sebastian,9,Gerolsteiner,0:51 0:51,-,3,2004
+25,129,70.0,+0:56,,27.0,Voeckler Thomas,10,Brioches La Boulang\xe8re,0:55 0:55,\u25b217,3,2004
+25,205,72.0,+0:56,,29.0,Calzati Sylvain,11,R.a.g.t Semence - Mg Rover,",, 0:55",\u25b218,3,2004
+22,47,75.0,+0:58,,17.0,Pozzato Filippo,12,Fassa Bortolo,0:57 0:57,\u25b25,3,2004
+23,165,96.0,+4:20,,2.0,Eisel Bernhard,13,Fdjeux.com,4:19 4:19,\u25bc11,3,2004
+24,94,99.0,+4:22,,4.0,Edaleine Christophe,14,Cofidis,4:21 4:21,\u25bc10,3,2004
+23,75,102.0,+4:24,,7.0,Karpets Vladimir,15,Illes Balears - Banesto,4:23 4:23,\u25bc8,3,2004
+24,95,104.0,+4:26,,11.0,Engoulvent Jimmy,16,Cofidis,4:25 4:25,\u25bc5,3,2004
+25,32,112.0,+4:31,,14.0,Cama\xf1o Iker,17,Euskaltel - Euskadi,4:30 4:30,\u25bc3,3,2004
+25,162,116.0,+4:32,,15.0,Casar Sandy,18,Fdjeux.com,4:31 4:31,\u25bc3,3,2004
+25,148,123.0,+4:37,,18.0,Portal Nicolas,19,AG2R Pr\xe9voyance,4:36 4:36,\u25bc1,3,2004
+23,113,128.0,+4:40,,20.0,Davis Allan,20,Liberty Seguros,4:39 4:39,-,3,2004
+24,194,129.0,+4:40,,21.0,Marinangeli Sergio,21,Domina Vacanze,",, 4:39",-,3,2004
+24,88,130.0,+4:41,,22.0,Wegmann Fabian,22,Gerolsteiner,4:40 4:40,-,3,2004
+24,108,132.0,+4:42,,23.0,Rogers Michael,23,Quickstep - Davitamon,4:41 4:41,-,3,2004
+25,123,135.0,+4:43,,25.0,Charteau Anthony,24,Brioches La Boulang\xe8re,4:42 4:42,\u25b21,3,2004
+24,176,136.0,+4:43,,26.0,Loosli David,25,Saeco,",, 4:42",\u25b21,3,2004
+23,143,142.0,+4:44,,28.0,Dumoulin Samuel,26,AG2R Pr\xe9voyance,4:43 4:43,\u25b22,3,2004
+25,7,152.0,+9:37,,6.0,Noval Benjamin,27,US Postal Service,9:36 9:36,\u25bc21,3,2004
+24,124,160.0,+9:55,,24.0,Hary Maryan,28,Brioches La Boulang\xe8re,9:54 9:54,\u25bc4,3,2004
+25,146,173.0,+12:05,,13.0,Krivtsov Yuriy,29,AG2R Pr\xe9voyance,12:04 12:04,\u25bc16,3,2004
+25,58,184.0,+16:41,,30.0,Joly S\xe9bastien,30,Cr\xe9dit Agricole,16:40 16:40,-,3,2004
+30,102,,,19.0,1.0,Bettini Paolo,1,Quickstep - Davitamon,,-,4,2004
+27,98,,,14.0,2.0,Tombak Janek,2,Cofidis,,-,4,2004
+32,69,,,9.0,3.0,Voigt Jens,3,CSC ProTeam,,-,4,2004
+29,153,,,7.0,4.0,de Groot Bram,4,Rabobank ProTeam,,-,4,2004
+24,126,,,3.0,5.0,Pineau J\xe9rome,5,Brioches La Boulang\xe8re,,-,4,2004
+30,127,,,3.0,6.0,Renier Franck,6,Brioches La Boulang\xe8re,,-,4,2004
+23,165,,,2.0,7.0,Eisel Bernhard,7,Fdjeux.com,,-,4,2004
+31,66,,,2.0,8.0,Piil Jakob,8,CSC ProTeam,,-,4,2004
+34,101,,,1.0,10.0,Virenque Richard,9,Quickstep - Davitamon,,\u25b21,4,2004
+35,167,,,1.0,9.0,Mengin Christophe,10,Fdjeux.com,,\u25bc1,4,2004
+26,93,,,1.0,11.0,Casper Jimmy,11,Cofidis,,-,4,2004
+25,129,1.0,+0:00,,9.0,Voeckler Thomas,1,Brioches La Boulang\xe8re,20:03:49 20:03:49,\u25b28,5,2004
+25,162,3.0,+4:06,,25.0,Casar Sandy,2,Fdjeux.com,4:06 4:06,\u25b223,5,2004
+25,16,28.0,+10:49,,1.0,Kessler Matthias,3,T-Mobile Team,10:49 10:49,\u25bc2,5,2004
+23,103,41.0,+11:37,,2.0,Boonen Tom,4,Quickstep - Davitamon,11:37 11:37,\u25bc2,5,2004
+23,43,49.0,+12:00,,3.0,Cancellara Fabian,5,Fassa Bortolo,12:00 12:00,\u25bc2,5,2004
+23,149,53.0,+12:05,,4.0,Scanlon Mark,6,AG2R Pr\xe9voyance,12:05 12:05,\u25bc2,5,2004
+24,142,55.0,+12:14,,5.0,Astarloza Mikel,7,AG2R Pr\xe9voyance,12:14 12:14,\u25bc2,5,2004
+24,126,57.0,+12:14,,6.0,Pineau J\xe9rome,8,Brioches La Boulang\xe8re,",, 12:14",\u25bc2,5,2004
+25,121,59.0,+12:20,,7.0,Chavanel Sylvain,9,Brioches La Boulang\xe8re,12:20 12:20,\u25bc2,5,2004
+24,196,60.0,+12:22,,8.0,Scarponi Michele,10,Domina Vacanze,12:22 12:22,\u25bc2,5,2004
+22,47,72.0,+12:57,,10.0,Pozzato Filippo,11,Fassa Bortolo,12:57 12:57,\u25bc1,5,2004
+25,205,76.0,+13:10,,11.0,Calzati Sylvain,12,R.a.g.t Semence - Mg Rover,13:10 13:10,\u25bc1,5,2004
+23,75,89.0,+14:13,,12.0,Karpets Vladimir,13,Illes Balears - Banesto,14:13 14:13,\u25bc1,5,2004
+23,113,99.0,+15:09,,13.0,Davis Allan,14,Liberty Seguros,15:09 15:09,\u25bc1,5,2004
+25,32,100.0,+15:10,,14.0,Cama\xf1o Iker,15,Euskaltel - Euskadi,15:10 15:10,\u25bc1,5,2004
+24,84,101.0,+15:10,,15.0,Lang Sebastian,16,Gerolsteiner,",, 15:10",\u25bc1,5,2004
+24,108,113.0,+15:51,,16.0,Rogers Michael,17,Quickstep - Davitamon,15:51 15:51,\u25bc1,5,2004
+25,123,122.0,+16:22,,18.0,Charteau Anthony,18,Brioches La Boulang\xe8re,16:22 16:22,-,5,2004
+24,194,123.0,+16:29,,19.0,Marinangeli Sergio,19,Domina Vacanze,16:29 16:29,-,5,2004
+24,94,124.0,+16:31,,20.0,Edaleine Christophe,20,Cofidis,16:31 16:31,-,5,2004
+24,88,126.0,+16:35,,21.0,Wegmann Fabian,21,Gerolsteiner,16:35 16:35,-,5,2004
+24,95,127.0,+16:35,,22.0,Engoulvent Jimmy,22,Cofidis,",, 16:35",-,5,2004
+24,176,128.0,+16:39,,23.0,Loosli David,23,Saeco,16:39 16:39,-,5,2004
+23,165,130.0,+16:39,,24.0,Eisel Bernhard,24,Fdjeux.com,",, 16:39",-,5,2004
+25,148,131.0,+16:43,,17.0,Portal Nicolas,25,AG2R Pr\xe9voyance,16:43 16:43,\u25bc8,5,2004
+23,143,140.0,+18:16,,26.0,Dumoulin Samuel,26,AG2R Pr\xe9voyance,18:16 18:16,-,5,2004
+25,146,167.0,+23:34,,27.0,Krivtsov Yuriy,27,AG2R Pr\xe9voyance,23:34 23:34,-,5,2004
+25,7,178.0,+32:12,,29.0,Noval Benjamin,28,US Postal Service,32:12 32:12,\u25b21,5,2004
+25,58,179.0,+34:38,,30.0,Joly S\xe9bastien,29,Cr\xe9dit Agricole,34:38 34:38,\u25b21,5,2004
+25,129,1.0,+0:00,,1.0,Voeckler Thomas,1,Brioches La Boulang\xe8re,24:37:30 24:37:30,-,6,2004
+25,162,3.0,+4:06,,2.0,Casar Sandy,2,Fdjeux.com,4:06 4:06,-,6,2004
+25,16,28.0,+10:49,,3.0,Kessler Matthias,3,T-Mobile Team,10:49 10:49,-,6,2004
+23,103,38.0,+11:17,,4.0,Boonen Tom,4,Quickstep - Davitamon,11:17 11:17,-,6,2004
+23,43,49.0,+12:00,,5.0,Cancellara Fabian,5,Fassa Bortolo,12:00 12:00,-,6,2004
+23,149,53.0,+12:05,,6.0,Scanlon Mark,6,AG2R Pr\xe9voyance,12:05 12:05,-,6,2004
+24,142,55.0,+12:14,,7.0,Astarloza Mikel,7,AG2R Pr\xe9voyance,12:14 12:14,-,6,2004
+24,126,57.0,+12:14,,8.0,Pineau J\xe9rome,8,Brioches La Boulang\xe8re,",, 12:14",-,6,2004
+25,121,59.0,+12:20,,9.0,Chavanel Sylvain,9,Brioches La Boulang\xe8re,12:20 12:20,-,6,2004
+24,196,60.0,+12:22,,10.0,Scarponi Michele,10,Domina Vacanze,12:22 12:22,-,6,2004
+22,47,72.0,+12:57,,11.0,Pozzato Filippo,11,Fassa Bortolo,12:57 12:57,-,6,2004
+25,205,76.0,+13:10,,12.0,Calzati Sylvain,12,R.a.g.t Semence - Mg Rover,13:10 13:10,-,6,2004
+23,75,88.0,+14:13,,13.0,Karpets Vladimir,13,Illes Balears - Banesto,14:13 14:13,-,6,2004
+23,113,98.0,+15:09,,14.0,Davis Allan,14,Liberty Seguros,15:09 15:09,-,6,2004
+25,32,99.0,+15:10,,15.0,Cama\xf1o Iker,15,Euskaltel - Euskadi,15:10 15:10,-,6,2004
+24,84,100.0,+15:10,,16.0,Lang Sebastian,16,Gerolsteiner,",, 15:10",-,6,2004
+24,108,111.0,+15:51,,17.0,Rogers Michael,17,Quickstep - Davitamon,15:51 15:51,-,6,2004
+25,123,119.0,+16:22,,18.0,Charteau Anthony,18,Brioches La Boulang\xe8re,16:22 16:22,-,6,2004
+24,194,120.0,+16:29,,19.0,Marinangeli Sergio,19,Domina Vacanze,16:29 16:29,-,6,2004
+24,94,121.0,+16:31,,20.0,Edaleine Christophe,20,Cofidis,16:31 16:31,-,6,2004
+24,88,123.0,+16:35,,21.0,Wegmann Fabian,21,Gerolsteiner,16:35 16:35,-,6,2004
+24,176,124.0,+16:39,,23.0,Loosli David,22,Saeco,16:39 16:39,\u25b21,6,2004
+23,165,126.0,+16:39,,24.0,Eisel Bernhard,23,Fdjeux.com,",, 16:39",\u25b21,6,2004
+25,148,128.0,+16:43,,25.0,Portal Nicolas,24,AG2R Pr\xe9voyance,16:43 16:43,\u25b21,6,2004
+24,95,130.0,+16:49,,22.0,Engoulvent Jimmy,25,Cofidis,16:49 16:49,\u25bc3,6,2004
+23,143,138.0,+18:16,,26.0,Dumoulin Samuel,26,AG2R Pr\xe9voyance,18:16 18:16,-,6,2004
+25,146,165.0,+23:34,,27.0,Krivtsov Yuriy,27,AG2R Pr\xe9voyance,23:34 23:34,-,6,2004
+25,7,176.0,+32:12,,28.0,Noval Benjamin,28,US Postal Service,32:12 32:12,-,6,2004
+25,58,177.0,+36:08,,29.0,Joly S\xe9bastien,29,Cr\xe9dit Agricole,36:08 36:08,-,6,2004
+25,129,1.0,+0:00,,1.0,Voeckler Thomas,1,Brioches La Boulang\xe8re,29:09:14 29:09:14,-,7,2004
+25,162,3.0,+4:06,,2.0,Casar Sandy,2,Fdjeux.com,4:06 4:06,-,7,2004
+25,16,28.0,+10:49,,3.0,Kessler Matthias,3,T-Mobile Team,10:49 10:49,-,7,2004
+23,103,37.0,+11:17,,4.0,Boonen Tom,4,Quickstep - Davitamon,11:17 11:17,-,7,2004
+23,43,46.0,+11:58,,5.0,Cancellara Fabian,5,Fassa Bortolo,11:58 11:58,-,7,2004
+23,149,50.0,+12:05,,6.0,Scanlon Mark,6,AG2R Pr\xe9voyance,12:05 12:05,-,7,2004
+24,142,52.0,+12:14,,7.0,Astarloza Mikel,7,AG2R Pr\xe9voyance,12:14 12:14,-,7,2004
+24,126,54.0,+12:14,,8.0,Pineau J\xe9rome,8,Brioches La Boulang\xe8re,",, 12:14",-,7,2004
+25,121,56.0,+12:20,,9.0,Chavanel Sylvain,9,Brioches La Boulang\xe8re,12:20 12:20,-,7,2004
+24,196,57.0,+12:22,,10.0,Scarponi Michele,10,Domina Vacanze,12:22 12:22,-,7,2004
+22,47,60.0,+12:27,,11.0,Pozzato Filippo,11,Fassa Bortolo,12:27 12:27,-,7,2004
+25,205,72.0,+13:10,,12.0,Calzati Sylvain,12,R.a.g.t Semence - Mg Rover,13:10 13:10,-,7,2004
+23,75,83.0,+14:13,,13.0,Karpets Vladimir,13,Illes Balears - Banesto,14:13 14:13,-,7,2004
+23,113,93.0,+15:09,,14.0,Davis Allan,14,Liberty Seguros,15:09 15:09,-,7,2004
+25,32,94.0,+15:10,,15.0,Cama\xf1o Iker,15,Euskaltel - Euskadi,15:10 15:10,-,7,2004
+24,84,95.0,+15:10,,16.0,Lang Sebastian,16,Gerolsteiner,",, 15:10",-,7,2004
+24,108,107.0,+15:51,,17.0,Rogers Michael,17,Quickstep - Davitamon,15:51 15:51,-,7,2004
+25,123,115.0,+16:22,,18.0,Charteau Anthony,18,Brioches La Boulang\xe8re,16:22 16:22,-,7,2004
+24,194,116.0,+16:29,,19.0,Marinangeli Sergio,19,Domina Vacanze,16:29 16:29,-,7,2004
+24,176,118.0,+16:39,,22.0,Loosli David,20,Saeco,16:39 16:39,\u25b22,7,2004
+25,148,121.0,+16:43,,24.0,Portal Nicolas,21,AG2R Pr\xe9voyance,16:43 16:43,\u25b23,7,2004
+24,95,122.0,+16:49,,25.0,Engoulvent Jimmy,22,Cofidis,16:49 16:49,\u25b23,7,2004
+24,94,129.0,+18:10,,20.0,Edaleine Christophe,23,Cofidis,18:10 18:10,\u25bc3,7,2004
+23,143,130.0,+18:16,,26.0,Dumoulin Samuel,24,AG2R Pr\xe9voyance,18:16 18:16,\u25b22,7,2004
+24,88,137.0,+20:48,,21.0,Wegmann Fabian,25,Gerolsteiner,20:48 20:48,\u25bc4,7,2004
+23,165,139.0,+20:52,,23.0,Eisel Bernhard,26,Fdjeux.com,20:52 20:52,\u25bc3,7,2004
+25,146,156.0,+23:34,,27.0,Krivtsov Yuriy,27,AG2R Pr\xe9voyance,23:34 23:34,-,7,2004
+25,7,172.0,+32:12,,28.0,Noval Benjamin,28,US Postal Service,32:12 32:12,-,7,2004
+25,58,176.0,+49:28,,29.0,Joly S\xe9bastien,29,Cr\xe9dit Agricole,49:28 49:28,-,7,2004
+25,129,1.0,+0:00,,1.0,Voeckler Thomas,1,Brioches La Boulang\xe8re,33:03:36 33:03:36,-,8,2004
+25,162,3.0,+4:06,,2.0,Casar Sandy,2,Fdjeux.com,4:06 4:06,-,8,2004
+25,16,26.0,+10:49,,3.0,Kessler Matthias,3,T-Mobile Team,10:49 10:49,-,8,2004
+23,103,35.0,+11:17,,4.0,Boonen Tom,4,Quickstep - Davitamon,11:17 11:17,-,8,2004
+24,126,48.0,+12:14,,8.0,Pineau J\xe9rome,5,Brioches La Boulang\xe8re,12:14 12:14,\u25b23,8,2004
+23,43,50.0,+12:19,,5.0,Cancellara Fabian,6,Fassa Bortolo,12:19 12:19,\u25bc1,8,2004
+24,196,51.0,+12:22,,10.0,Scarponi Michele,7,Domina Vacanze,12:22 12:22,\u25b23,8,2004
+23,149,55.0,+12:26,,6.0,Scanlon Mark,8,AG2R Pr\xe9voyance,12:26 12:26,\u25bc2,8,2004
+24,142,57.0,+12:35,,7.0,Astarloza Mikel,9,AG2R Pr\xe9voyance,12:35 12:35,\u25bc2,8,2004
+25,121,60.0,+12:41,,9.0,Chavanel Sylvain,10,Brioches La Boulang\xe8re,12:41 12:41,\u25bc1,8,2004
+22,47,62.0,+12:48,,11.0,Pozzato Filippo,11,Fassa Bortolo,12:48 12:48,-,8,2004
+25,205,70.0,+13:10,,12.0,Calzati Sylvain,12,R.a.g.t Semence - Mg Rover,13:10 13:10,-,8,2004
+23,75,80.0,+14:13,,13.0,Karpets Vladimir,13,Illes Balears - Banesto,14:13 14:13,-,8,2004
+23,113,92.0,+15:09,,14.0,Davis Allan,14,Liberty Seguros,15:09 15:09,-,8,2004
+25,32,93.0,+15:10,,15.0,Cama\xf1o Iker,15,Euskaltel - Euskadi,15:10 15:10,-,8,2004
+24,84,98.0,+15:31,,16.0,Lang Sebastian,16,Gerolsteiner,15:31 15:31,-,8,2004
+24,108,104.0,+15:51,,17.0,Rogers Michael,17,Quickstep - Davitamon,15:51 15:51,-,8,2004
+24,194,109.0,+16:29,,19.0,Marinangeli Sergio,18,Domina Vacanze,16:29 16:29,\u25b21,8,2004
+24,95,112.0,+16:49,,22.0,Engoulvent Jimmy,19,Cofidis,16:49 16:49,\u25b23,8,2004
+24,176,113.0,+17:00,,20.0,Loosli David,20,Saeco,17:00 17:00,-,8,2004
+25,148,114.0,+17:04,,21.0,Portal Nicolas,21,AG2R Pr\xe9voyance,17:04 17:04,-,8,2004
+25,123,125.0,+19:47,,18.0,Charteau Anthony,22,Brioches La Boulang\xe8re,19:47 19:47,\u25bc4,8,2004
+24,88,130.0,+20:48,,25.0,Wegmann Fabian,23,Gerolsteiner,20:48 20:48,\u25b22,8,2004
+24,94,138.0,+22:09,,23.0,Edaleine Christophe,24,Cofidis,22:09 22:09,\u25bc1,8,2004
+25,146,146.0,+23:34,,27.0,Krivtsov Yuriy,25,AG2R Pr\xe9voyance,23:34 23:34,\u25b22,8,2004
+23,165,151.0,+24:17,,26.0,Eisel Bernhard,26,Fdjeux.com,24:17 24:17,-,8,2004
+23,143,167.0,+29:07,,24.0,Dumoulin Samuel,27,AG2R Pr\xe9voyance,29:07 29:07,\u25bc3,8,2004
+25,7,171.0,+32:12,,28.0,Noval Benjamin,28,US Postal Service,32:12 32:12,-,8,2004
+25,58,176.0,+51:11,,29.0,Joly S\xe9bastien,29,Cr\xe9dit Agricole,51:11 51:11,-,8,2004
+25,129,1.0,+0:00,,1.0,Voeckler Thomas,1,Brioches La Boulang\xe8re,36:36:31 36:36:31,-,9,2004
+25,162,3.0,+4:06,,2.0,Casar Sandy,2,Fdjeux.com,4:06 4:06,-,9,2004
+25,16,25.0,+10:49,,3.0,Kessler Matthias,3,T-Mobile Team,10:49 10:49,-,9,2004
+23,103,33.0,+11:17,,4.0,Boonen Tom,4,Quickstep - Davitamon,11:17 11:17,-,9,2004
+24,126,45.0,+12:14,,5.0,Pineau J\xe9rome,5,Brioches La Boulang\xe8re,12:14 12:14,-,9,2004
+23,43,47.0,+12:19,,6.0,Cancellara Fabian,6,Fassa Bortolo,12:19 12:19,-,9,2004
+24,196,48.0,+12:22,,7.0,Scarponi Michele,7,Domina Vacanze,12:22 12:22,-,9,2004
+23,149,52.0,+12:26,,8.0,Scanlon Mark,8,AG2R Pr\xe9voyance,12:26 12:26,-,9,2004
+24,142,54.0,+12:35,,9.0,Astarloza Mikel,9,AG2R Pr\xe9voyance,12:35 12:35,-,9,2004
+25,121,57.0,+12:41,,10.0,Chavanel Sylvain,10,Brioches La Boulang\xe8re,12:41 12:41,-,9,2004
+22,47,59.0,+12:48,,11.0,Pozzato Filippo,11,Fassa Bortolo,12:48 12:48,-,9,2004
+25,205,66.0,+13:10,,12.0,Calzati Sylvain,12,R.a.g.t Semence - Mg Rover,13:10 13:10,-,9,2004
+23,75,77.0,+14:13,,13.0,Karpets Vladimir,13,Illes Balears - Banesto,14:13 14:13,-,9,2004
+23,113,89.0,+15:09,,14.0,Davis Allan,14,Liberty Seguros,15:09 15:09,-,9,2004
+25,32,90.0,+15:10,,15.0,Cama\xf1o Iker,15,Euskaltel - Euskadi,15:10 15:10,-,9,2004
+24,84,94.0,+15:31,,16.0,Lang Sebastian,16,Gerolsteiner,15:31 15:31,-,9,2004
+24,108,101.0,+15:51,,17.0,Rogers Michael,17,Quickstep - Davitamon,15:51 15:51,-,9,2004
+24,194,106.0,+16:29,,18.0,Marinangeli Sergio,18,Domina Vacanze,16:29 16:29,-,9,2004
+24,95,109.0,+16:49,,19.0,Engoulvent Jimmy,19,Cofidis,16:49 16:49,-,9,2004
+24,176,110.0,+17:00,,20.0,Loosli David,20,Saeco,17:00 17:00,-,9,2004
+25,148,111.0,+17:04,,21.0,Portal Nicolas,21,AG2R Pr\xe9voyance,17:04 17:04,-,9,2004
+24,88,126.0,+20:48,,23.0,Wegmann Fabian,22,Gerolsteiner,20:48 20:48,\u25b21,9,2004
+25,123,127.0,+20:50,,22.0,Charteau Anthony,23,Brioches La Boulang\xe8re,20:50 20:50,\u25bc1,9,2004
+24,94,134.0,+22:09,,24.0,Edaleine Christophe,24,Cofidis,22:09 22:09,-,9,2004
+25,146,142.0,+23:34,,25.0,Krivtsov Yuriy,25,AG2R Pr\xe9voyance,23:34 23:34,-,9,2004
+23,165,156.0,+27:00,,26.0,Eisel Bernhard,26,Fdjeux.com,27:00 27:00,-,9,2004
+25,7,165.0,+32:12,,28.0,Noval Benjamin,27,US Postal Service,32:12 32:12,\u25b21,9,2004
+25,58,172.0,+53:59,,29.0,Joly S\xe9bastien,28,Cr\xe9dit Agricole,53:59 53:59,\u25b21,9,2004
+25,129,1.0,+0:00,,1.0,Voeckler Thomas,1,Brioches La Boulang\xe8re,42:42:14 42:42:14,-,10,2004
+25,162,3.0,+4:13,,2.0,Casar Sandy,2,Fdjeux.com,4:13 4:13,-,10,2004
+24,196,33.0,+12:22,,7.0,Scarponi Michele,3,Domina Vacanze,12:22 12:22,\u25b24,10,2004
+25,121,36.0,+12:48,,10.0,Chavanel Sylvain,4,Brioches La Boulang\xe8re,12:48 12:48,\u25b26,10,2004
+24,126,39.0,+13:02,,5.0,Pineau J\xe9rome,5,Brioches La Boulang\xe8re,13:02 13:02,-,10,2004
+23,75,47.0,+14:20,,13.0,Karpets Vladimir,6,Illes Balears - Banesto,14:20 14:20,\u25b27,10,2004
+25,32,53.0,+15:35,,15.0,Cama\xf1o Iker,7,Euskaltel - Euskadi,15:35 15:35,\u25b28,10,2004
+24,108,55.0,+15:58,,17.0,Rogers Michael,8,Quickstep - Davitamon,15:58 15:58,\u25b29,10,2004
+24,194,57.0,+16:36,,18.0,Marinangeli Sergio,9,Domina Vacanze,16:36 16:36,\u25b29,10,2004
+24,176,66.0,+23:31,,20.0,Loosli David,10,Saeco,23:31 23:31,\u25b210,10,2004
+23,103,83.0,+30:22,,4.0,Boonen Tom,11,Quickstep - Davitamon,30:22 30:22,\u25bc7,10,2004
+25,16,85.0,+30:48,,3.0,Kessler Matthias,12,T-Mobile Team,30:48 30:48,\u25bc9,10,2004
+23,43,88.0,+31:24,,6.0,Cancellara Fabian,13,Fassa Bortolo,31:24 31:24,\u25bc7,10,2004
+23,149,90.0,+31:31,,8.0,Scanlon Mark,14,AG2R Pr\xe9voyance,31:31 31:31,\u25bc6,10,2004
+24,142,92.0,+31:40,,9.0,Astarloza Mikel,15,AG2R Pr\xe9voyance,31:40 31:40,\u25bc6,10,2004
+22,47,93.0,+31:53,,11.0,Pozzato Filippo,16,Fassa Bortolo,31:53 31:53,\u25bc5,10,2004
+25,205,97.0,+32:15,,12.0,Calzati Sylvain,17,R.a.g.t Semence - Mg Rover,32:15 32:15,\u25bc5,10,2004
+25,7,102.0,+32:57,,27.0,Noval Benjamin,18,US Postal Service,32:57 32:57,\u25b29,10,2004
+23,113,110.0,+34:14,,14.0,Davis Allan,19,Liberty Seguros,34:14 34:14,\u25bc5,10,2004
+24,84,114.0,+34:36,,16.0,Lang Sebastian,20,Gerolsteiner,34:36 34:36,\u25bc4,10,2004
+25,148,125.0,+36:09,,21.0,Portal Nicolas,21,AG2R Pr\xe9voyance,36:09 36:09,-,10,2004
+24,95,127.0,+36:42,,19.0,Engoulvent Jimmy,22,Cofidis,36:42 36:42,\u25bc3,10,2004
+24,88,134.0,+39:53,,22.0,Wegmann Fabian,23,Gerolsteiner,39:53 39:53,\u25bc1,10,2004
+25,123,135.0,+39:55,,23.0,Charteau Anthony,24,Brioches La Boulang\xe8re,39:55 39:55,\u25bc1,10,2004
+24,94,140.0,+41:14,,24.0,Edaleine Christophe,25,Cofidis,41:14 41:14,\u25bc1,10,2004
+25,146,145.0,+42:39,,25.0,Krivtsov Yuriy,26,AG2R Pr\xe9voyance,42:39 42:39,\u25bc1,10,2004
+23,165,156.0,+46:05,,26.0,Eisel Bernhard,27,Fdjeux.com,46:05 46:05,\u25bc1,10,2004
+25,58,169.0,+1:23:53,,28.0,Joly S\xe9bastien,28,Cr\xe9dit Agricole,1:23:53 1:23:53,-,10,2004
+25,129,1.0,+0:00,,1.0,Voeckler Thomas,1,Brioches La Boulang\xe8re,46:43:10 46:43:10,-,11,2004
+25,162,3.0,+4:13,,2.0,Casar Sandy,2,Fdjeux.com,4:13 4:13,-,11,2004
+24,196,33.0,+12:22,,3.0,Scarponi Michele,3,Domina Vacanze,12:22 12:22,-,11,2004
+25,121,39.0,+13:00,,4.0,Chavanel Sylvain,4,Brioches La Boulang\xe8re,13:00 13:00,-,11,2004
+24,126,40.0,+13:02,,5.0,Pineau J\xe9rome,5,Brioches La Boulang\xe8re,13:02 13:02,-,11,2004
+23,75,48.0,+14:41,,6.0,Karpets Vladimir,6,Illes Balears - Banesto,14:41 14:41,-,11,2004
+25,32,55.0,+15:56,,7.0,Cama\xf1o Iker,7,Euskaltel - Euskadi,15:56 15:56,-,11,2004
+24,108,56.0,+15:58,,8.0,Rogers Michael,8,Quickstep - Davitamon,15:58 15:58,-,11,2004
+24,194,59.0,+17:51,,9.0,Marinangeli Sergio,9,Domina Vacanze,17:51 17:51,-,11,2004
+24,176,68.0,+24:14,,10.0,Loosli David,10,Saeco,24:14 24:14,-,11,2004
+23,103,82.0,+31:05,,11.0,Boonen Tom,11,Quickstep - Davitamon,31:05 31:05,-,11,2004
+24,142,87.0,+32:01,,15.0,Astarloza Mikel,12,AG2R Pr\xe9voyance,32:01 32:01,\u25b23,11,2004
+23,149,88.0,+32:08,,14.0,Scanlon Mark,13,AG2R Pr\xe9voyance,32:08 32:08,\u25b21,11,2004
+22,47,91.0,+32:36,,16.0,Pozzato Filippo,14,Fassa Bortolo,32:36 32:36,\u25b22,11,2004
+23,43,92.0,+32:39,,13.0,Cancellara Fabian,15,Fassa Bortolo,32:39 32:39,\u25bc2,11,2004
+25,205,94.0,+32:52,,17.0,Calzati Sylvain,16,R.a.g.t Semence - Mg Rover,32:52 32:52,\u25b21,11,2004
+25,7,96.0,+33:14,,18.0,Noval Benjamin,17,US Postal Service,33:14 33:14,\u25b21,11,2004
+23,113,106.0,+34:35,,19.0,Davis Allan,18,Liberty Seguros,34:35 34:35,\u25b21,11,2004
+24,84,110.0,+34:57,,20.0,Lang Sebastian,19,Gerolsteiner,34:57 34:57,\u25b21,11,2004
+25,148,120.0,+36:30,,21.0,Portal Nicolas,20,AG2R Pr\xe9voyance,36:30 36:30,\u25b21,11,2004
+24,95,124.0,+37:25,,22.0,Engoulvent Jimmy,21,Cofidis,37:25 37:25,\u25b21,11,2004
+24,88,133.0,+41:08,,23.0,Wegmann Fabian,22,Gerolsteiner,41:08 41:08,\u25b21,11,2004
+25,123,134.0,+41:10,,24.0,Charteau Anthony,23,Brioches La Boulang\xe8re,41:10 41:10,\u25b21,11,2004
+25,146,142.0,+43:16,,26.0,Krivtsov Yuriy,24,AG2R Pr\xe9voyance,43:16 43:16,\u25b22,11,2004
+23,165,150.0,+46:26,,27.0,Eisel Bernhard,25,Fdjeux.com,46:26 46:26,\u25b22,11,2004
+24,94,159.0,+56:08,,25.0,Edaleine Christophe,26,Cofidis,56:08 56:08,\u25bc1,11,2004
+25,58,167.0,+1:25:08,,28.0,Joly S\xe9bastien,27,Cr\xe9dit Agricole,1:25:08 1:25:08,\u25b21,11,2004
+25,129,1.0,+0:00,,1.0,Voeckler Thomas,1,Brioches La Boulang\xe8re,51:51:07 51:51:07,-,12,2004
+25,162,3.0,+5:50,,2.0,Casar Sandy,2,Fdjeux.com,5:50 5:50,-,12,2004
+24,196,18.0,+9:25,,3.0,Scarponi Michele,3,Domina Vacanze,9:25 9:25,-,12,2004
+24,126,29.0,+11:46,,5.0,Pineau J\xe9rome,4,Brioches La Boulang\xe8re,11:46 11:46,\u25b21,12,2004
+23,75,34.0,+12:41,,6.0,Karpets Vladimir,5,Illes Balears - Banesto,12:41 12:41,\u25b21,12,2004
+25,121,36.0,+13:23,,4.0,Chavanel Sylvain,6,Brioches La Boulang\xe8re,13:23 13:23,\u25bc2,12,2004
+24,108,39.0,+14:29,,8.0,Rogers Michael,7,Quickstep - Davitamon,14:29 14:29,\u25b21,12,2004
+25,32,40.0,+16:24,,7.0,Cama\xf1o Iker,8,Euskaltel - Euskadi,16:24 16:24,\u25bc1,12,2004
+24,142,62.0,+33:40,,12.0,Astarloza Mikel,9,AG2R Pr\xe9voyance,33:40 33:40,\u25b23,12,2004
+24,194,74.0,+40:02,,9.0,Marinangeli Sergio,10,Domina Vacanze,40:02 40:02,\u25bc1,12,2004
+25,205,75.0,+40:57,,16.0,Calzati Sylvain,11,R.a.g.t Semence - Mg Rover,40:57 40:57,\u25b25,12,2004
+24,84,86.0,+46:06,,19.0,Lang Sebastian,12,Gerolsteiner,46:06 46:06,\u25b27,12,2004
+24,176,88.0,+46:57,,10.0,Loosli David,13,Saeco,46:57 46:57,\u25bc3,12,2004
+25,7,92.0,+47:48,,17.0,Noval Benjamin,14,US Postal Service,47:48 47:48,\u25b23,12,2004
+23,113,95.0,+49:09,,18.0,Davis Allan,15,Liberty Seguros,49:09 49:09,\u25b23,12,2004
+23,103,104.0,+53:16,,11.0,Boonen Tom,16,Quickstep - Davitamon,53:16 53:16,\u25bc5,12,2004
+23,149,108.0,+54:19,,13.0,Scanlon Mark,17,AG2R Pr\xe9voyance,54:19 54:19,\u25bc4,12,2004
+22,47,110.0,+54:47,,14.0,Pozzato Filippo,18,Fassa Bortolo,54:47 54:47,\u25bc4,12,2004
+23,43,111.0,+54:50,,15.0,Cancellara Fabian,19,Fassa Bortolo,54:50 54:50,\u25bc4,12,2004
+25,148,113.0,+55:26,,20.0,Portal Nicolas,20,AG2R Pr\xe9voyance,55:26 55:26,-,12,2004
+24,88,114.0,+55:42,,22.0,Wegmann Fabian,21,Gerolsteiner,55:42 55:42,\u25b21,12,2004
+24,95,131.0,+59:36,,21.0,Engoulvent Jimmy,22,Cofidis,59:36 59:36,\u25bc1,12,2004
+25,123,139.0,+1:03:21,,23.0,Charteau Anthony,23,Brioches La Boulang\xe8re,1:03:21 1:03:21,-,12,2004
+25,146,145.0,+1:05:27,,24.0,Krivtsov Yuriy,24,AG2R Pr\xe9voyance,1:05:27 1:05:27,-,12,2004
+23,165,153.0,+1:11:01,,25.0,Eisel Bernhard,25,Fdjeux.com,1:11:01 1:11:01,-,12,2004
+24,94,158.0,+1:18:19,,26.0,Edaleine Christophe,26,Cofidis,1:18:19 1:18:19,-,12,2004
+25,58,166.0,+1:47:30,,27.0,Joly S\xe9bastien,27,Cr\xe9dit Agricole,1:47:30 1:47:30,-,12,2004
+25,129,1.0,+0:00,,1.0,Voeckler Thomas,1,Brioches La Boulang\xe8re,58:00:27 58:00:27,-,13,2004
+25,162,10.0,+8:29,,2.0,Casar Sandy,2,Fdjeux.com,8:29 8:29,-,13,2004
+23,75,21.0,+14:05,,5.0,Karpets Vladimir,3,Illes Balears - Banesto,14:05 14:05,\u25b22,13,2004
+24,196,22.0,+14:22,,3.0,Scarponi Michele,4,Domina Vacanze,14:22 14:22,\u25bc1,13,2004
+24,126,24.0,+14:48,,4.0,Pineau J\xe9rome,5,Brioches La Boulang\xe8re,14:48 14:48,\u25bc1,13,2004
+25,121,25.0,+15:09,,6.0,Chavanel Sylvain,6,Brioches La Boulang\xe8re,15:09 15:09,-,13,2004
+24,108,26.0,+18:08,,7.0,Rogers Michael,7,Quickstep - Davitamon,18:08 18:08,-,13,2004
+25,32,28.0,+20:31,,8.0,Cama\xf1o Iker,8,Euskaltel - Euskadi,20:31 20:31,-,13,2004
+24,142,56.0,+49:15,,9.0,Astarloza Mikel,9,AG2R Pr\xe9voyance,49:15 49:15,-,13,2004
+25,7,73.0,+1:07:15,,14.0,Noval Benjamin,10,US Postal Service,1:07:15 1:07:15,\u25b24,13,2004
+24,84,78.0,+1:12:38,,12.0,Lang Sebastian,11,Gerolsteiner,1:12:38 1:12:38,\u25b21,13,2004
+23,113,86.0,+1:15:41,,15.0,Davis Allan,12,Liberty Seguros,1:15:41 1:15:41,\u25b23,13,2004
+25,148,87.0,+1:15:53,,20.0,Portal Nicolas,13,AG2R Pr\xe9voyance,1:15:53 1:15:53,\u25b27,13,2004
+25,205,93.0,+1:18:35,,11.0,Calzati Sylvain,14,R.a.g.t Semence - Mg Rover,1:18:35 1:18:35,\u25bc3,13,2004
+23,149,97.0,+1:20:51,,17.0,Scanlon Mark,15,AG2R Pr\xe9voyance,1:20:51 1:20:51,\u25b22,13,2004
+24,176,102.0,+1:24:35,,13.0,Loosli David,16,Saeco,1:24:35 1:24:35,\u25bc3,13,2004
+22,47,110.0,+1:27:45,,18.0,Pozzato Filippo,17,Fassa Bortolo,1:27:45 1:27:45,\u25b21,13,2004
+23,43,111.0,+1:27:48,,19.0,Cancellara Fabian,18,Fassa Bortolo,1:27:48 1:27:48,\u25b21,13,2004
+23,103,121.0,+1:30:54,,16.0,Boonen Tom,19,Quickstep - Davitamon,1:30:54 1:30:54,\u25bc3,13,2004
+25,146,123.0,+1:31:59,,24.0,Krivtsov Yuriy,20,AG2R Pr\xe9voyance,1:31:59 1:31:59,\u25b24,13,2004
+25,123,134.0,+1:36:19,,23.0,Charteau Anthony,21,Brioches La Boulang\xe8re,1:36:19 1:36:19,\u25b22,13,2004
+24,95,135.0,+1:37:14,,22.0,Engoulvent Jimmy,22,Cofidis,1:37:14 1:37:14,-,13,2004
+23,165,146.0,+1:43:59,,25.0,Eisel Bernhard,23,Fdjeux.com,1:43:59 1:43:59,\u25b22,13,2004
+24,94,155.0,+1:55:57,,26.0,Edaleine Christophe,24,Cofidis,1:55:57 1:55:57,\u25b22,13,2004
+25,58,160.0,+2:25:08,,27.0,Joly S\xe9bastien,25,Cr\xe9dit Agricole,2:25:08 2:25:08,\u25b22,13,2004
+25,129,1.0,+0:00,,1.0,Voeckler Thomas,1,Brioches La Boulang\xe8re,62:33:11 62:33:11,-,14,2004
+25,162,10.0,+8:29,,2.0,Casar Sandy,2,Fdjeux.com,8:29 8:29,-,14,2004
+23,75,20.0,+14:05,,3.0,Karpets Vladimir,3,Illes Balears - Banesto,14:05 14:05,-,14,2004
+24,196,22.0,+14:22,,4.0,Scarponi Michele,4,Domina Vacanze,14:22 14:22,-,14,2004
+24,126,24.0,+14:48,,5.0,Pineau J\xe9rome,5,Brioches La Boulang\xe8re,14:48 14:48,-,14,2004
+25,121,25.0,+15:09,,6.0,Chavanel Sylvain,6,Brioches La Boulang\xe8re,15:09 15:09,-,14,2004
+24,108,26.0,+18:08,,7.0,Rogers Michael,7,Quickstep - Davitamon,18:08 18:08,-,14,2004
+25,32,28.0,+20:31,,8.0,Cama\xf1o Iker,8,Euskaltel - Euskadi,20:31 20:31,-,14,2004
+24,142,56.0,+49:15,,9.0,Astarloza Mikel,9,AG2R Pr\xe9voyance,49:15 49:15,-,14,2004
+25,7,76.0,+1:07:15,,10.0,Noval Benjamin,10,US Postal Service,1:07:15 1:07:15,-,14,2004
+24,84,82.0,+1:12:38,,11.0,Lang Sebastian,11,Gerolsteiner,1:12:38 1:12:38,-,14,2004
+23,113,88.0,+1:15:41,,12.0,Davis Allan,12,Liberty Seguros,1:15:41 1:15:41,-,14,2004
+25,148,91.0,+1:17:03,,13.0,Portal Nicolas,13,AG2R Pr\xe9voyance,1:17:03 1:17:03,-,14,2004
+25,205,96.0,+1:19:59,,14.0,Calzati Sylvain,14,R.a.g.t Semence - Mg Rover,1:19:59 1:19:59,-,14,2004
+23,149,98.0,+1:20:51,,15.0,Scanlon Mark,15,AG2R Pr\xe9voyance,1:20:51 1:20:51,-,14,2004
+24,176,104.0,+1:24:35,,16.0,Loosli David,16,Saeco,1:24:35 1:24:35,-,14,2004
+22,47,111.0,+1:28:55,,17.0,Pozzato Filippo,17,Fassa Bortolo,1:28:55 1:28:55,-,14,2004
+23,43,113.0,+1:29:12,,18.0,Cancellara Fabian,18,Fassa Bortolo,1:29:12 1:29:12,-,14,2004
+25,146,123.0,+1:31:59,,20.0,Krivtsov Yuriy,19,AG2R Pr\xe9voyance,1:31:59 1:31:59,\u25b21,14,2004
+23,103,124.0,+1:32:04,,19.0,Boonen Tom,20,Quickstep - Davitamon,1:32:04 1:32:04,\u25bc1,14,2004
+24,95,134.0,+1:37:14,,22.0,Engoulvent Jimmy,21,Cofidis,1:37:14 1:37:14,\u25b21,14,2004
+25,123,135.0,+1:37:43,,21.0,Charteau Anthony,22,Brioches La Boulang\xe8re,1:37:43 1:37:43,\u25bc1,14,2004
+23,165,147.0,+1:45:23,,23.0,Eisel Bernhard,23,Fdjeux.com,1:45:23 1:45:23,-,14,2004
+24,94,155.0,+1:57:07,,24.0,Edaleine Christophe,24,Cofidis,1:57:07 1:57:07,-,14,2004
+25,58,160.0,+2:26:32,,25.0,Joly S\xe9bastien,25,Cr\xe9dit Agricole,2:26:32 2:26:32,-,14,2004
+25,129,9.0,+ 67:23:11,,1.0,Voeckler Thomas,1,Brioches La Boulang\xe8re,67:23:11 67:23:11,-,15,2004
+25,162,20.0,+ 67:30:52,,2.0,Casar Sandy,2,Fdjeux.com,7:41 7:41,-,15,2004
+23,75,21.0,+ 67:31:05,,3.0,Karpets Vladimir,3,Illes Balears - Banesto,7:54 7:54,-,15,2004
+25,32,24.0,+ 67:36:36,,8.0,Cama\xf1o Iker,4,Euskaltel - Euskadi,13:25 13:25,\u25b24,15,2004
+24,196,25.0,+ 67:36:55,,4.0,Scarponi Michele,5,Domina Vacanze,13:44 13:44,\u25bc1,15,2004
+25,121,26.0,+ 67:37:32,,6.0,Chavanel Sylvain,6,Brioches La Boulang\xe8re,14:21 14:21,-,15,2004
+24,126,27.0,+ 67:37:59,,5.0,Pineau J\xe9rome,7,Brioches La Boulang\xe8re,14:48 14:48,\u25bc2,15,2004
+24,108,28.0,+ 67:40:31,,7.0,Rogers Michael,8,Quickstep - Davitamon,17:20 17:20,\u25bc1,15,2004
+24,142,62.0,+ 68:26:45,,9.0,Astarloza Mikel,9,AG2R Pr\xe9voyance,1:03:34 1:03:34,-,15,2004
+25,7,73.0,+ 68:39:57,,10.0,Noval Benjamin,10,US Postal Service,1:16:46 1:16:46,-,15,2004
+25,205,74.0,+ 68:42:22,,14.0,Calzati Sylvain,11,R.a.g.t Semence - Mg Rover,1:19:11 1:19:11,\u25b23,15,2004
+24,84,75.0,+ 68:42:33,,11.0,Lang Sebastian,12,Gerolsteiner,1:19:22 1:19:22,\u25bc1,15,2004
+25,148,86.0,+ 68:54:33,,13.0,Portal Nicolas,13,AG2R Pr\xe9voyance,1:31:22 1:31:22,-,15,2004
+23,149,91.0,+ 68:58:21,,15.0,Scanlon Mark,14,AG2R Pr\xe9voyance,1:35:10 1:35:10,\u25b21,15,2004
+23,113,100.0,+ 69:01:59,,12.0,Davis Allan,15,Liberty Seguros,1:38:48 1:38:48,\u25bc3,15,2004
+25,146,111.0,+ 69:09:29,,19.0,Krivtsov Yuriy,16,AG2R Pr\xe9voyance,1:46:18 1:46:18,\u25b23,15,2004
+24,176,112.0,+ 69:10:53,,16.0,Loosli David,17,Saeco,1:47:42 1:47:42,\u25bc1,15,2004
+25,123,114.0,+ 69:12:38,,22.0,Charteau Anthony,18,Brioches La Boulang\xe8re,1:49:27 1:49:27,\u25b24,15,2004
+22,47,118.0,+ 69:15:13,,17.0,Pozzato Filippo,19,Fassa Bortolo,1:52:02 1:52:02,\u25bc2,15,2004
+23,43,119.0,+ 69:15:30,,18.0,Cancellara Fabian,20,Fassa Bortolo,1:52:19 1:52:19,\u25bc2,15,2004
+23,103,124.0,+ 69:18:22,,20.0,Boonen Tom,21,Quickstep - Davitamon,1:55:11 1:55:11,\u25bc1,15,2004
+24,95,137.0,+ 69:26:20,,21.0,Engoulvent Jimmy,22,Cofidis,2:03:09 2:03:09,\u25bc1,15,2004
+23,165,147.0,+ 69:31:41,,23.0,Eisel Bernhard,23,Fdjeux.com,2:08:30 2:08:30,-,15,2004
+24,94,153.0,+ 69:43:25,,24.0,Edaleine Christophe,24,Cofidis,2:20:14 2:20:14,-,15,2004
+25,58,158.0,+ 70:12:50,,25.0,Joly S\xe9bastien,25,Cr\xe9dit Agricole,2:49:39 2:49:39,-,15,2004
+25,129,14.0,+ 68:09:28,,1.0,Voeckler Thomas,1,Brioches La Boulang\xe8re,68:09:28 68:09:28,-,16,2004
+23,75,18.0,+ 68:13:01,,3.0,Karpets Vladimir,2,Illes Balears - Banesto,3:33 3:33,\u25b21,16,2004
+25,162,20.0,+ 68:13:52,,2.0,Casar Sandy,3,Fdjeux.com,4:24 4:24,\u25bc1,16,2004
+24,196,24.0,+ 68:20:29,,5.0,Scarponi Michele,4,Domina Vacanze,11:01 11:01,\u25b21,16,2004
+25,121,25.0,+ 68:20:56,,6.0,Chavanel Sylvain,5,Brioches La Boulang\xe8re,11:28 11:28,\u25b21,16,2004
+25,32,26.0,+ 68:21:04,,4.0,Cama\xf1o Iker,6,Euskaltel - Euskadi,11:36 11:36,\u25bc2,16,2004
+24,126,27.0,+ 68:22:23,,7.0,Pineau J\xe9rome,7,Brioches La Boulang\xe8re,12:55 12:55,-,16,2004
+24,108,28.0,+ 68:22:46,,8.0,Rogers Michael,8,Quickstep - Davitamon,13:18 13:18,-,16,2004
+24,142,62.0,+ 69:09:51,,9.0,Astarloza Mikel,9,AG2R Pr\xe9voyance,1:00:23 1:00:23,-,16,2004
+25,7,73.0,+ 69:23:58,,10.0,Noval Benjamin,10,US Postal Service,1:14:30 1:14:30,-,16,2004
+24,84,75.0,+ 69:29:18,,12.0,Lang Sebastian,11,Gerolsteiner,1:19:50 1:19:50,\u25b21,16,2004
+25,205,77.0,+ 69:30:56,,11.0,Calzati Sylvain,12,R.a.g.t Semence - Mg Rover,1:21:28 1:21:28,\u25bc1,16,2004
+25,148,87.0,+ 69:40:48,,13.0,Portal Nicolas,13,AG2R Pr\xe9voyance,1:31:20 1:31:20,-,16,2004
+23,149,92.0,+ 69:43:48,,14.0,Scanlon Mark,14,AG2R Pr\xe9voyance,1:34:20 1:34:20,-,16,2004
+23,113,103.0,+ 69:50:32,,15.0,Davis Allan,15,Liberty Seguros,1:41:04 1:41:04,-,16,2004
+25,146,108.0,+ 69:53:46,,16.0,Krivtsov Yuriy,16,AG2R Pr\xe9voyance,1:44:18 1:44:18,-,16,2004
+25,123,111.0,+ 69:56:37,,18.0,Charteau Anthony,17,Brioches La Boulang\xe8re,1:47:09 1:47:09,\u25b21,16,2004
+24,176,113.0,+ 69:58:13,,17.0,Loosli David,18,Saeco,1:48:45 1:48:45,\u25bc1,16,2004
+23,43,117.0,+ 70:01:05,,20.0,Cancellara Fabian,19,Fassa Bortolo,1:51:37 1:51:37,\u25b21,16,2004
+22,47,121.0,+ 70:03:13,,19.0,Pozzato Filippo,20,Fassa Bortolo,1:53:45 1:53:45,\u25bc1,16,2004
+23,103,124.0,+ 70:05:52,,21.0,Boonen Tom,21,Quickstep - Davitamon,1:56:24 1:56:24,-,16,2004
+24,95,141.0,+ 70:15:26,,22.0,Engoulvent Jimmy,22,Cofidis,2:05:58 2:05:58,-,16,2004
+23,165,146.0,+ 70:20:10,,23.0,Eisel Bernhard,23,Fdjeux.com,2:10:42 2:10:42,-,16,2004
+24,94,152.0,+ 70:30:54,,24.0,Edaleine Christophe,24,Cofidis,2:21:26 2:21:26,-,16,2004
+25,58,156.0,+ 70:59:57,,25.0,Joly S\xe9bastien,25,Cr\xe9dit Agricole,2:50:29 2:50:29,-,16,2004
+25,129,16.0,+ 74:26:08,,1.0,Voeckler Thomas,1,Brioches La Boulang\xe8re,74:26:08 74:26:08,-,17,2004
+23,75,18.0,+ 74:26:53,,2.0,Karpets Vladimir,2,Illes Balears - Banesto,0:45 0:45,-,17,2004
+25,162,19.0,+ 74:28:04,,3.0,Casar Sandy,3,Fdjeux.com,1:56 1:56,-,17,2004
+24,108,23.0,+ 74:39:26,,8.0,Rogers Michael,4,Quickstep - Davitamon,13:18 13:18,\u25b24,17,2004
+24,126,25.0,+ 74:41:34,,7.0,Pineau J\xe9rome,5,Brioches La Boulang\xe8re,15:26 15:26,\u25b22,17,2004
+25,32,27.0,+ 74:44:20,,6.0,Cama\xf1o Iker,6,Euskaltel - Euskadi,18:12 18:12,-,17,2004
+25,121,31.0,+ 74:53:37,,5.0,Chavanel Sylvain,7,Brioches La Boulang\xe8re,27:29 27:29,\u25bc2,17,2004
+24,196,32.0,+ 74:59:59,,4.0,Scarponi Michele,8,Domina Vacanze,33:51 33:51,\u25bc4,17,2004
+24,142,63.0,+ 75:49:21,,9.0,Astarloza Mikel,9,AG2R Pr\xe9voyance,1:23:13 1:23:13,-,17,2004
+25,7,68.0,+ 75:56:39,,10.0,Noval Benjamin,10,US Postal Service,1:30:31 1:30:31,-,17,2004
+25,205,72.0,+ 76:03:37,,12.0,Calzati Sylvain,11,R.a.g.t Semence - Mg Rover,1:37:29 1:37:29,\u25b21,17,2004
+25,148,73.0,+ 76:04:04,,13.0,Portal Nicolas,12,AG2R Pr\xe9voyance,1:37:56 1:37:56,\u25b21,17,2004
+24,84,80.0,+ 76:14:00,,11.0,Lang Sebastian,13,Gerolsteiner,1:47:52 1:47:52,\u25bc2,17,2004
+23,149,87.0,+ 76:23:08,,14.0,Scanlon Mark,14,AG2R Pr\xe9voyance,1:57:00 1:57:00,-,17,2004
+23,113,94.0,+ 76:30:02,,15.0,Davis Allan,15,Liberty Seguros,2:03:54 2:03:54,-,17,2004
+25,146,98.0,+ 76:33:06,,16.0,Krivtsov Yuriy,16,AG2R Pr\xe9voyance,2:06:58 2:06:58,-,17,2004
+25,123,103.0,+ 76:35:57,,17.0,Charteau Anthony,17,Brioches La Boulang\xe8re,2:09:49 2:09:49,-,17,2004
+24,176,105.0,+ 76:37:33,,18.0,Loosli David,18,Saeco,2:11:25 2:11:25,-,17,2004
+23,43,116.0,+ 76:48:21,,19.0,Cancellara Fabian,19,Fassa Bortolo,2:22:13 2:22:13,-,17,2004
+22,47,118.0,+ 76:50:29,,20.0,Pozzato Filippo,20,Fassa Bortolo,2:24:21 2:24:21,-,17,2004
+23,103,122.0,+ 76:53:08,,21.0,Boonen Tom,21,Quickstep - Davitamon,2:27:00 2:27:00,-,17,2004
+23,165,131.0,+ 76:59:30,,23.0,Eisel Bernhard,22,Fdjeux.com,2:33:22 2:33:22,\u25b21,17,2004
+24,95,139.0,+ 77:07:19,,22.0,Engoulvent Jimmy,23,Cofidis,2:41:11 2:41:11,\u25bc1,17,2004
+24,94,144.0,+ 77:18:10,,24.0,Edaleine Christophe,24,Cofidis,2:52:02 2:52:02,-,17,2004
+25,58,147.0,+ 77:47:20,,25.0,Joly S\xe9bastien,25,Cr\xe9dit Agricole,3:21:12 3:21:12,-,17,2004
+25,129,16.0,+ 78:41:40,,1.0,Voeckler Thomas,1,Brioches La Boulang\xe8re,78:41:40 78:41:40,-,18,2004
+23,75,18.0,+ 78:42:25,,2.0,Karpets Vladimir,2,Illes Balears - Banesto,0:45 0:45,-,18,2004
+25,162,19.0,+ 78:43:36,,3.0,Casar Sandy,3,Fdjeux.com,1:56 1:56,-,18,2004
+24,108,23.0,+ 78:54:58,,4.0,Rogers Michael,4,Quickstep - Davitamon,13:18 13:18,-,18,2004
+24,126,25.0,+ 78:57:06,,5.0,Pineau J\xe9rome,5,Brioches La Boulang\xe8re,15:26 15:26,-,18,2004
+25,32,27.0,+ 78:59:52,,6.0,Cama\xf1o Iker,6,Euskaltel - Euskadi,18:12 18:12,-,18,2004
+25,121,31.0,+ 79:09:09,,7.0,Chavanel Sylvain,7,Brioches La Boulang\xe8re,27:29 27:29,-,18,2004
+24,196,32.0,+ 79:15:31,,8.0,Scarponi Michele,8,Domina Vacanze,33:51 33:51,-,18,2004
+24,142,63.0,+ 80:04:53,,9.0,Astarloza Mikel,9,AG2R Pr\xe9voyance,1:23:13 1:23:13,-,18,2004
+25,7,68.0,+ 80:12:11,,10.0,Noval Benjamin,10,US Postal Service,1:30:31 1:30:31,-,18,2004
+25,205,72.0,+ 80:19:09,,11.0,Calzati Sylvain,11,R.a.g.t Semence - Mg Rover,1:37:29 1:37:29,-,18,2004
+25,148,73.0,+ 80:19:36,,12.0,Portal Nicolas,12,AG2R Pr\xe9voyance,1:37:56 1:37:56,-,18,2004
+24,84,80.0,+ 80:29:32,,13.0,Lang Sebastian,13,Gerolsteiner,1:47:52 1:47:52,-,18,2004
+23,149,90.0,+ 80:38:40,,14.0,Scanlon Mark,14,AG2R Pr\xe9voyance,1:57:00 1:57:00,-,18,2004
+23,113,98.0,+ 80:45:34,,15.0,Davis Allan,15,Liberty Seguros,2:03:54 2:03:54,-,18,2004
+25,146,101.0,+ 80:48:38,,16.0,Krivtsov Yuriy,16,AG2R Pr\xe9voyance,2:06:58 2:06:58,-,18,2004
+25,123,104.0,+ 80:51:29,,17.0,Charteau Anthony,17,Brioches La Boulang\xe8re,2:09:49 2:09:49,-,18,2004
+24,176,105.0,+ 80:53:05,,18.0,Loosli David,18,Saeco,2:11:25 2:11:25,-,18,2004
+23,43,116.0,+ 81:03:53,,19.0,Cancellara Fabian,19,Fassa Bortolo,2:22:13 2:22:13,-,18,2004
+22,47,118.0,+ 81:06:01,,20.0,Pozzato Filippo,20,Fassa Bortolo,2:24:21 2:24:21,-,18,2004
+23,103,122.0,+ 81:08:40,,21.0,Boonen Tom,21,Quickstep - Davitamon,2:27:00 2:27:00,-,18,2004
+23,165,131.0,+ 81:15:02,,22.0,Eisel Bernhard,22,Fdjeux.com,2:33:22 2:33:22,-,18,2004
+24,95,139.0,+ 81:22:51,,23.0,Engoulvent Jimmy,23,Cofidis,2:41:11 2:41:11,-,18,2004
+24,94,144.0,+ 81:33:42,,24.0,Edaleine Christophe,24,Cofidis,2:52:02 2:52:02,-,18,2004
+25,58,147.0,+ 81:51:24,,25.0,Joly S\xe9bastien,25,Cr\xe9dit Agricole,3:09:44 3:09:44,-,18,2004
+23,75,14.0,+ 79:52:47,,2.0,Karpets Vladimir,1,Illes Balears - Banesto,79:52:47 79:52:47,\u25b21,19,2004
+25,162,17.0,+ 79:56:29,,3.0,Casar Sandy,2,Fdjeux.com,3:42 3:42,\u25b21,19,2004
+25,129,19.0,+ 79:58:10,,1.0,Voeckler Thomas,3,Brioches La Boulang\xe8re,5:23 5:23,\u25bc2,19,2004
+24,108,23.0,+ 80:09:15,,4.0,Rogers Michael,4,Quickstep - Davitamon,16:28 16:28,-,19,2004
+25,32,27.0,+ 80:14:50,,6.0,Cama\xf1o Iker,5,Euskaltel - Euskadi,22:03 22:03,\u25b21,19,2004
+24,126,28.0,+ 80:15:00,,5.0,Pineau J\xe9rome,6,Brioches La Boulang\xe8re,22:13 22:13,\u25bc1,19,2004
+25,121,31.0,+ 80:22:00,,7.0,Chavanel Sylvain,7,Brioches La Boulang\xe8re,29:13 29:13,-,19,2004
+24,196,33.0,+ 80:29:59,,8.0,Scarponi Michele,8,Domina Vacanze,37:12 37:12,-,19,2004
+24,142,63.0,+ 81:22:40,,9.0,Astarloza Mikel,9,AG2R Pr\xe9voyance,1:29:53 1:29:53,-,19,2004
+25,7,66.0,+ 81:24:58,,10.0,Noval Benjamin,10,US Postal Service,1:32:11 1:32:11,-,19,2004
+25,205,72.0,+ 81:36:51,,11.0,Calzati Sylvain,11,R.a.g.t Semence - Mg Rover,1:44:04 1:44:04,-,19,2004
+25,148,73.0,+ 81:37:21,,12.0,Portal Nicolas,12,AG2R Pr\xe9voyance,1:44:34 1:44:34,-,19,2004
+24,84,79.0,+ 81:43:07,,13.0,Lang Sebastian,13,Gerolsteiner,1:50:20 1:50:20,-,19,2004
+23,149,90.0,+ 81:55:25,,14.0,Scanlon Mark,14,AG2R Pr\xe9voyance,2:02:38 2:02:38,-,19,2004
+25,146,96.0,+ 82:01:52,,16.0,Krivtsov Yuriy,15,AG2R Pr\xe9voyance,2:09:05 2:09:05,\u25b21,19,2004
+23,113,99.0,+ 82:03:52,,15.0,Davis Allan,16,Liberty Seguros,2:11:05 2:11:05,\u25bc1,19,2004
+25,123,104.0,+ 82:09:07,,17.0,Charteau Anthony,17,Brioches La Boulang\xe8re,2:16:20 2:16:20,-,19,2004
+24,176,106.0,+ 82:12:00,,18.0,Loosli David,18,Saeco,2:19:13 2:19:13,-,19,2004
+23,43,110.0,+ 82:16:18,,19.0,Cancellara Fabian,19,Fassa Bortolo,2:23:31 2:23:31,-,19,2004
+22,47,117.0,+ 82:22:31,,20.0,Pozzato Filippo,20,Fassa Bortolo,2:29:44 2:29:44,-,19,2004
+23,103,122.0,+ 82:27:03,,21.0,Boonen Tom,21,Quickstep - Davitamon,2:34:16 2:34:16,-,19,2004
+23,165,132.0,+ 82:33:01,,22.0,Eisel Bernhard,22,Fdjeux.com,2:40:14 2:40:14,-,19,2004
+24,95,139.0,+ 82:41:31,,23.0,Engoulvent Jimmy,23,Cofidis,2:48:44 2:48:44,-,19,2004
+24,94,141.0,+ 82:49:37,,24.0,Edaleine Christophe,24,Cofidis,2:56:50 2:56:50,-,19,2004
+25,58,147.0,+ 83:08:22,,25.0,Joly S\xe9bastien,25,Cr\xe9dit Agricole,3:15:35 3:15:35,-,19,2004
+23,75,13.0,+ 84:01:13,,1.0,Karpets Vladimir,1,Illes Balears - Banesto,84:01:13 84:01:13,-,20,2004
+25,162,16.0,+ 84:04:55,,2.0,Casar Sandy,2,Fdjeux.com,3:42 3:42,-,20,2004
+25,129,18.0,+ 84:07:14,,3.0,Voeckler Thomas,3,Brioches La Boulang\xe8re,6:01 6:01,-,20,2004
+24,108,22.0,+ 84:17:41,,4.0,Rogers Michael,4,Quickstep - Davitamon,16:28 16:28,-,20,2004
+25,32,26.0,+ 84:23:16,,5.0,Cama\xf1o Iker,5,Euskaltel - Euskadi,22:03 22:03,-,20,2004
+24,126,27.0,+ 84:23:45,,6.0,Pineau J\xe9rome,6,Brioches La Boulang\xe8re,22:32 22:32,-,20,2004
+25,121,30.0,+ 84:30:45,,7.0,Chavanel Sylvain,7,Brioches La Boulang\xe8re,29:32 29:32,-,20,2004
+24,196,32.0,+ 84:39:03,,8.0,Scarponi Michele,8,Domina Vacanze,37:50 37:50,-,20,2004
+24,142,62.0,+ 85:31:06,,9.0,Astarloza Mikel,9,AG2R Pr\xe9voyance,1:29:53 1:29:53,-,20,2004
+25,7,66.0,+ 85:33:43,,10.0,Noval Benjamin,10,US Postal Service,1:32:30 1:32:30,-,20,2004
+25,205,71.0,+ 85:45:36,,11.0,Calzati Sylvain,11,R.a.g.t Semence - Mg Rover,1:44:23 1:44:23,-,20,2004
+25,148,72.0,+ 85:45:47,,12.0,Portal Nicolas,12,AG2R Pr\xe9voyance,1:44:34 1:44:34,-,20,2004
+24,84,78.0,+ 85:51:33,,13.0,Lang Sebastian,13,Gerolsteiner,1:50:20 1:50:20,-,20,2004
+23,149,89.0,+ 86:03:51,,14.0,Scanlon Mark,14,AG2R Pr\xe9voyance,2:02:38 2:02:38,-,20,2004
+25,146,95.0,+ 86:10:18,,15.0,Krivtsov Yuriy,15,AG2R Pr\xe9voyance,2:09:05 2:09:05,-,20,2004
+23,113,98.0,+ 86:12:18,,16.0,Davis Allan,16,Liberty Seguros,2:11:05 2:11:05,-,20,2004
+25,123,103.0,+ 86:17:33,,17.0,Charteau Anthony,17,Brioches La Boulang\xe8re,2:16:20 2:16:20,-,20,2004
+24,176,105.0,+ 86:20:26,,18.0,Loosli David,18,Saeco,2:19:13 2:19:13,-,20,2004
+23,43,109.0,+ 86:24:44,,19.0,Cancellara Fabian,19,Fassa Bortolo,2:23:31 2:23:31,-,20,2004
+22,47,116.0,+ 86:30:57,,20.0,Pozzato Filippo,20,Fassa Bortolo,2:29:44 2:29:44,-,20,2004
+23,103,120.0,+ 86:35:09,,21.0,Boonen Tom,21,Quickstep - Davitamon,2:33:56 2:33:56,-,20,2004
+23,165,131.0,+ 86:41:46,,22.0,Eisel Bernhard,22,Fdjeux.com,2:40:33 2:40:33,-,20,2004
+24,95,138.0,+ 86:49:57,,23.0,Engoulvent Jimmy,23,Cofidis,2:48:44 2:48:44,-,20,2004
+24,94,141.0,+ 86:58:41,,24.0,Edaleine Christophe,24,Cofidis,2:57:28 2:57:28,-,20,2004
+25,58,146.0,+ 87:19:20,,25.0,Joly S\xe9bastien,25,Cr\xe9dit Agricole,3:18:07 3:18:07,-,20,2004

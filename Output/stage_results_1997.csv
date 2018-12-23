@@ -1,0 +1,397 @@
+Age,Avg,BIB,GC,GC-Time,Pnt,Rider,Rnk,Team,Time,stage,year
+28,52.56,91,1.0,+0:00,100.0,Boardman Christopher,1,GAN,8:20 8:20,0,1997
+23,52.351000000000006,8,2.0,+0:02,70.0,Ullrich Jan,2,Team Telekom,0:02 0:02,0,1997
+27,52.04,141,3.0,+0:05,50.0,Berzin Yewgeni,3,BATIK-DEL MONTE,0:05 0:05,0,1997
+36,52.04,61,4.0,+0:05,40.0,Rominger Tony,4,Cofidis,",, 0:05",0,1997
+29,52.04,39,5.0,+0:05,32.0,Z\xfclle Alex,5,O.N.C.E.,",, 0:05",0,1997
+31,51.833999999999996,198,6.0,+0:07,26.0,Meinert-Nielsen Peter,6,US Postal Service,0:07 0:07,0,1997
+32,51.528999999999996,128,7.0,+0:10,22.0,S\xf8rensen Rolf,7,Rabobank ProTeam,0:10 0:10,0,1997
+27,51.528999999999996,151,8.0,+0:10,18.0,Olano Abraham,8,Banesto,",, 0:10",0,1997
+29,51.428999999999995,13,9.0,+0:11,14.0,Brochard Laurent,9,Festina - Lotus,0:11 0:11,0,1997
+26,51.328,17,10.0,+0:12,10.0,Moreau Christophe,10,Festina - Lotus,0:12 0:12,0,1997
+25,51.228,76,11.0,+0:13,8.0,Peron Andrea,11,La Fran\xe7aise des Jeux,0:13 0:13,0,1997
+29,51.128,35,12.0,+0:14,6.0,Garmendia Aitor,12,O.N.C.E.,0:14 0:14,0,1997
+33,51.028999999999996,1,13.0,+0:15,4.0,Riis Bjarne,13,Team Telekom,0:15 0:15,0,1997
+27,50.93,41,14.0,+0:16,2.0,Bartoli Michele,14,MG Maglificio - Technogym,0:16 0:16,0,1997
+26,50.93,133,15.0,+0:16,1.0,Aus Lauri,15,Casino - C'est votre \xe9quipe,",, 0:16",0,1997
+26,50.832,124,16.0,+0:17,,Dekker Erik,16,Rabobank ProTeam,0:17 0:17,0,1997
+25,50.832,22,17.0,+0:17,,Camenzind Oscar,17,Mapei-GB,",, 0:17",0,1997
+27,50.832,81,18.0,+0:17,,Gontsjenkov Alexander,18,Roslotto-ZG Mobili,",, 0:17",0,1997
+33,50.733999999999995,123,19.0,+0:18,,Breukink Erik,19,Rabobank ProTeam,0:18 0:18,0,1997
+27,50.733999999999995,38,20.0,+0:18,,Zarrabeitia Mikel,20,O.N.C.E.,",, 0:18",0,1997
+22,50.733999999999995,29,21.0,+0:18,,Vandenbroucke Frank,21,Mapei-GB,",, 0:18",0,1997
+28,50.733999999999995,31,22.0,+0:18,,Jalabert Laurent,22,O.N.C.E.,",, 0:18",0,1997
+30,50.733999999999995,114,23.0,+0:18,,Cipollini Mario,23,Saeco,",, 0:18",0,1997
+32,50.636,5,24.0,+0:19,,Heppner Jens,24,Team Telekom,0:19 0:19,0,1997
+30,50.636,62,25.0,+0:19,,Andreu Frankie,25,Cofidis,",, 0:19",0,1997
+28,50.538000000000004,174,26.0,+0:20,,Cabello Francisco,26,Kelme - Costa Blanca,0:20 0:20,0,1997
+28,50.441,207,27.0,+0:21,,Maignan Gilles,27,La Mutuelle de Seine et Marne,0:21 0:21,0,1997
+26,50.441,105,28.0,+0:21,,Knaven Servais,28,TVM - Farm Frites,",, 0:21",0,1997
+24,50.441,64,29.0,+0:21,,Gaumont Philippe,29,Cofidis,",, 0:21",0,1997
+35,50.441,24,30.0,+0:21,,Jaskula Zenon,30,Mapei-GB,",, 0:21",0,1997
+34,50.345,192,31.0,+0:22,,Baffi Adriano,31,US Postal Service,0:22 0:22,0,1997
+29,50.345,167,32.0,+0:22,,Teteriouk Andrei,32,Lotto - Mobistar,",, 0:22",0,1997
+26,50.345,18,33.0,+0:22,,Rous Didier,33,Festina - Lotus,",, 0:22",0,1997
+28,50.345,14,34.0,+0:22,,Dufaux Laurent,34,Festina - Lotus,",, 0:22",0,1997
+29,50.345,109,35.0,+0:22,,Voskamp Bart,35,TVM - Farm Frites,",, 0:22",0,1997
+28,50.248999999999995,32,36.0,+0:23,,Cuesta \xcd\xf1igo,36,O.N.C.E.,0:23 0:23,0,1997
+27,50.248999999999995,108,37.0,+0:23,,van Petegem Peter,37,TVM - Farm Frites,",, 0:23",0,1997
+23,50.153,99,38.0,+0:24,,Vogels Henk,38,GAN,0:24 0:24,0,1997
+25,50.153,54,39.0,+0:24,,Crepaldi Mirco,39,Polti,",, 0:24",0,1997
+26,50.153,127,40.0,+0:24,,Nelissen Danny,40,Rabobank ProTeam,",, 0:24",0,1997
+27,50.153,132,41.0,+0:24,,Agnolutto Christophe,41,Casino - C'est votre \xe9quipe,",, 0:24",0,1997
+25,50.153,122,42.0,+0:24,,Boogerd Michael,42,Rabobank ProTeam,",, 0:24",0,1997
+25,50.153,178,43.0,+0:24,,Rodriguez Javier Pascual,43,Kelme - Costa Blanca,",, 0:24",0,1997
+33,50.056999999999995,131,44.0,+0:25,,Elli Alberto,44,Casino - C'est votre \xe9quipe,0:25 0:25,0,1997
+30,50.056999999999995,211,45.0,+0:25,,Lino Pascal,45,BigMat - Auber 93,",, 0:25",0,1997
+31,50.056999999999995,191,46.0,+0:25,,Ekimov Viatcheslav,46,US Postal Service,",, 0:25",0,1997
+26,50.056999999999995,189,47.0,+0:25,,Zberg Beat,47,Mercatone Uno,",, 0:25",0,1997
+25,50.056999999999995,193,48.0,+0:25,,Baranowski Dariusz,48,US Postal Service,",, 0:25",0,1997
+30,50.056999999999995,137,49.0,+0:25,,Kasputis Arturas,49,Casino - C'est votre \xe9quipe,",, 0:25",0,1997
+26,50.056999999999995,9,50.0,+0:25,,Zabel Erik,50,Team Telekom,",, 0:25",0,1997
+25,49.961999999999996,27,51.0,+0:26,,Steels Tom,51,Mapei-GB,0:26 0:26,0,1997
+32,49.961999999999996,183,52.0,+0:26,,Conti Roberto,52,Mercatone Uno,",, 0:26",0,1997
+26,49.961999999999996,172,53.0,+0:26,,Benitez Francisco,53,Kelme - Costa Blanca,",, 0:26",0,1997
+28,49.867,101,54.0,+0:27,,den Bakker Maarten,54,TVM - Farm Frites,0:27 0:27,0,1997
+24,49.867,25,55.0,+0:27,,Nardello Daniele,55,Mapei-GB,",, 0:27",0,1997
+24,49.867,196,56.0,+0:27,,Hincapie George,56,US Postal Service,",, 0:27",0,1997
+28,49.773,92,57.0,+0:28,,Moncassin Fr\xe9d\xe9ric,57,GAN,0:28 0:28,0,1997
+34,49.773,166,58.0,+0:28,,Tchmil Andrei,58,Lotto - Mobistar,",, 0:28",0,1997
+26,49.773,85,59.0,+0:28,,Padrnos Pavel,59,Roslotto-ZG Mobili,",, 0:28",0,1997
+31,49.678999999999995,152,60.0,+0:29,,Alonso Marino,60,Banesto,0:29 0:29,0,1997
+33,49.678999999999995,217,61.0,+0:29,,Lance Pascal,61,BigMat - Auber 93,",, 0:29",0,1997
+30,49.678999999999995,78,62.0,+0:29,,Sciandri Maximilian,62,La Fran\xe7aise des Jeux,",, 0:29",0,1997
+31,49.678999999999995,136,63.0,+0:29,,Jaermann Rolf,63,Casino - C'est votre \xe9quipe,",, 0:29",0,1997
+24,49.678999999999995,121,64.0,+0:29,,Luttenberger Peter,64,Rabobank ProTeam,",, 0:29",0,1997
+23,49.678999999999995,49,65.0,+0:29,,Tosatto Matteo,65,MG Maglificio - Technogym,",, 0:29",0,1997
+28,49.678999999999995,12,66.0,+0:29,,Bortolami Gianluca,66,Festina - Lotus,",, 0:29",0,1997
+29,49.678999999999995,134,67.0,+0:29,,Chanteur Pascal,67,Casino - C'est votre \xe9quipe,",, 0:29",0,1997
+28,49.678999999999995,125,68.0,+0:29,,Jonker Patrick,68,Rabobank ProTeam,",, 0:29",0,1997
+30,49.585,148,69.0,+0:30,,Pierobon Gianluca,69,BATIK-DEL MONTE,0:30 0:30,0,1997
+25,49.585,77,70.0,+0:30,,Rebellin Davide,70,La Fran\xe7aise des Jeux,",, 0:30",0,1997
+29,49.585,43,71.0,+0:30,,Finco Carlo,71,MG Maglificio - Technogym,",, 0:30",0,1997
+25,49.585,102,72.0,+0:30,,Blijlevens Jeroen,72,TVM - Farm Frites,",, 0:30",0,1997
+27,49.585,138,73.0,+0:30,,Kirsipuu Jaan,73,Casino - C'est votre \xe9quipe,",, 0:30",0,1997
+27,49.585,63,74.0,+0:30,,Desbiens Laurent,74,Cofidis,",, 0:30",0,1997
+37,49.492,176,75.0,+0:31,,Gonzalez Arsenio,75,Kelme - Costa Blanca,0:31 0:31,0,1997
+26,49.492,147,76.0,+0:31,,Odriozola Jon,76,BATIK-DEL MONTE,",, 0:31",0,1997
+31,49.492,28,77.0,+0:31,,Tafi Andrea,77,Mapei-GB,",, 0:31",0,1997
+26,49.398,83,78.0,+0:32,,Fincato Marco,78,Roslotto-ZG Mobili,0:32 0:32,0,1997
+28,49.306000000000004,169,79.0,+0:33,,Wauters Marc,79,Lotto - Mobistar,0:33 0:33,0,1997
+33,49.306000000000004,19,80.0,+0:33,,Stephens Neil,80,Festina - Lotus,",, 0:33",0,1997
+24,49.306000000000004,157,81.0,+0:33,,Garcia Jose Vicente,81,Banesto,",, 0:33",0,1997
+27,49.213,103,82.0,+0:34,,Hamburger Bo,82,TVM - Farm Frites,0:34 0:34,0,1997
+26,49.213,154,83.0,+0:34,,Beltran Manuel,83,Banesto,",, 0:34",0,1997
+30,49.121,3,84.0,+0:35,,Bolts Udo,84,Team Telekom,0:35 0:35,0,1997
+30,49.121,51,85.0,+0:35,,Leblanc Luc,85,Polti,",, 0:35",0,1997
+33,49.121,4,86.0,+0:35,,Henn Christian,86,Team Telekom,",, 0:35",0,1997
+27,49.121,144,87.0,+0:35,,Colombo Luca,87,BATIK-DEL MONTE,",, 0:35",0,1997
+26,49.121,7,88.0,+0:35,,Totschnig Georg,88,Team Telekom,",, 0:35",0,1997
+24,49.121,65,89.0,+0:35,,Jalabert Nicolas,89,Cofidis,",, 0:35",0,1997
+27,49.121,104,90.0,+0:35,,Hoffman Tristan,90,TVM - Farm Frites,",, 0:35",0,1997
+28,49.121,205,91.0,+0:35,,Fraser Gordon,91,La Mutuelle de Seine et Marne,",, 0:35",0,1997
+30,49.03,45,92.0,+0:36,,Lecchi Angelo,92,MG Maglificio - Technogym,0:36 0:36,0,1997
+25,49.03,86,93.0,+0:36,,Schmidt Torsten,93,Roslotto-ZG Mobili,",, 0:36",0,1997
+23,48.93899999999999,93,94.0,+0:37,,O'Grady Stuart,94,GAN,0:37 0:37,0,1997
+25,48.93899999999999,66,95.0,+0:37,,Julich Bobby,95,Cofidis,",, 0:37",0,1997
+27,48.93899999999999,88,96.0,+0:37,,Strazzer Massimo,96,Roslotto-ZG Mobili,",, 0:37",0,1997
+31,48.93899999999999,21,97.0,+0:37,,Museeuw Johan,97,Mapei-GB,",, 0:37",0,1997
+23,48.93899999999999,33,98.0,+0:37,,Etxebarria David,98,O.N.C.E.,",, 0:37",0,1997
+29,48.93899999999999,42,99.0,+0:37,,Baldato Fabio,99,MG Maglificio - Technogym,",, 0:37",0,1997
+32,48.93899999999999,26,100.0,+0:37,,Peeters Wilfried,100,Mapei-GB,",, 0:37",0,1997
+28,48.848,2,101.0,+0:38,,Aldag Rolf,101,Team Telekom,0:38 0:38,0,1997
+25,48.848,52,103.0,+0:38,,Brasi Rossano,102,Polti,",, 0:38",0,1997
+28,48.848,216,102.0,+0:38,,Gouvenou Thierry,103,BigMat - Auber 93,",, 0:38",0,1997
+26,48.848,215,104.0,+0:38,,Genty Laurent,104,BigMat - Auber 93,",, 0:38",0,1997
+22,48.848,84,105.0,+0:38,,Kokorine Vitali,105,Roslotto-ZG Mobili,",, 0:38",0,1997
+26,48.848,113,106.0,+0:38,,Casagrande Francesco,106,Saeco,",, 0:38",0,1997
+32,48.848,44,107.0,+0:38,,Fontanelli Fabiano,107,MG Maglificio - Technogym,",, 0:38",0,1997
+29,48.848,171,108.0,+0:38,,Escartin Fernando,108,Kelme - Costa Blanca,",, 0:38",0,1997
+27,48.757,181,109.0,+0:39,,Pantani Marco,109,Mercatone Uno,0:39 0:39,0,1997
+33,48.757,79,110.0,+0:39,,Vanzella Flavio,110,La Fran\xe7aise des Jeux,",, 0:39",0,1997
+26,48.757,112,111.0,+0:39,,Buschor Philipp,111,Saeco,",, 0:39",0,1997
+30,48.757,37,112.0,+0:39,,Sierra Roberto,112,O.N.C.E.,",, 0:39",0,1997
+27,48.667,159,113.0,+0:40,,Sergio Rodrigues Orlando,113,Banesto,0:40 0:40,0,1997
+28,48.667,56,114.0,+0:40,,Gualdi Mirko,114,Polti,",, 0:40",0,1997
+28,48.667,6,115.0,+0:40,,Lombardi Giovanni,115,Team Telekom,",, 0:40",0,1997
+26,48.667,73,116.0,+0:40,,Heulot Stephane,116,La Fran\xe7aise des Jeux,",, 0:40",0,1997
+32,48.667,197,117.0,+0:40,,Jemison Marty,117,US Postal Service,",, 0:40",0,1997
+34,48.577,143,118.0,+0:41,,Cenghialta Bruno,118,BATIK-DEL MONTE,0:41 0:41,0,1997
+27,48.577,199,119.0,+0:41,,Robin Jean-Cyril,119,US Postal Service,",, 0:41",0,1997
+27,48.486999999999995,57,120.0,+0:42,,Guerini Giuseppe,120,Polti,0:42 0:42,0,1997
+33,48.486999999999995,107,121.0,+0:42,,Skibby Jesper,121,TVM - Farm Frites,",, 0:42",0,1997
+33,48.486999999999995,94,122.0,+0:42,,Poli Eros,122,GAN,",, 0:42",0,1997
+30,48.486999999999995,173,123.0,+0:42,,Buenahora Hernan,123,Kelme - Costa Blanca,",, 0:42",0,1997
+27,48.486999999999995,179,124.0,+0:42,,Vidal Jos\xe9 Angel,124,Kelme - Costa Blanca,",, 0:42",0,1997
+34,48.398,214,125.0,+0:43,,Bourguignon Thierry,125,BigMat - Auber 93,0:43 0:43,0,1997
+26,48.398,213,126.0,+0:43,,Auger Ludovic,126,BigMat - Auber 93,",, 0:43",0,1997
+26,48.398,34,127.0,+0:43,,Garcia Marcelino,127,O.N.C.E.,",, 0:43",0,1997
+28,48.398,111,128.0,+0:43,,Gotti Ivan,128,Saeco,",, 0:43",0,1997
+30,48.398,161,129.0,+0:43,,Madouas Laurent,129,Lotto - Mobistar,",, 0:43",0,1997
+33,48.309,208,130.0,+0:44,,Pillon Laurent,130,La Mutuelle de Seine et Marne,0:44 0:44,0,1997
+26,48.309,158,131.0,+0:44,,Jimenez Jose Maria,131,Banesto,",, 0:44",0,1997
+26,48.309,195,132.0,+0:44,,Hamilton Tyler,132,US Postal Service,",, 0:44",0,1997
+32,48.309,139,133.0,+0:44,,Saligari Marco,133,Casino - C'est votre \xe9quipe,",, 0:44",0,1997
+27,48.309,11,134.0,+0:44,,Virenque Richard,134,Festina - Lotus,",, 0:44",0,1997
+26,48.309,115,135.0,+0:44,,Fagnini Gian-matteo,135,Saeco,",, 0:44",0,1997
+26,48.309,149,136.0,+0:44,,Tartaggia Giuseppe,136,BATIK-DEL MONTE,",, 0:44",0,1997
+25,48.309,168,137.0,+0:44,,Van Hyfte Paul,137,Lotto - Mobistar,",, 0:44",0,1997
+32,48.309,187,138.0,+0:44,,Siboni Marcello,138,Mercatone Uno,",, 0:44",0,1997
+31,48.22,36,139.0,+0:45,,Mauleon Francisco Javier,139,O.N.C.E.,0:45 0:45,0,1997
+24,48.22,53,140.0,+0:45,,Chaurreau I\xf1igo,140,Polti,",, 0:45",0,1997
+28,48.22,74,141.0,+0:45,,Mengin Christophe,141,La Fran\xe7aise des Jeux,",, 0:45",0,1997
+26,48.22,142,142.0,+0:45,,Brognara Andrea,142,BATIK-DEL MONTE,",, 0:45",0,1997
+25,48.22,72,143.0,+0:45,,Guesdon Fr\xe9d\xe9ric,143,La Fran\xe7aise des Jeux,",, 0:45",0,1997
+28,48.132,82,144.0,+0:46,,Djavanian Viatcheslav,144,Roslotto-ZG Mobili,0:46 0:46,0,1997
+23,48.132,218,145.0,+0:46,,Morin Anthony,145,BigMat - Auber 93,",, 0:46",0,1997
+29,48.132,47,146.0,+0:46,,Scinto Luca,146,MG Maglificio - Technogym,",, 0:46",0,1997
+25,48.132,16,147.0,+0:46,,Laukka Joona,147,Festina - Lotus,",, 0:46",0,1997
+23,48.044,165,148.0,+0:47,,Salmon Benoit,148,Lotto - Mobistar,0:47 0:47,0,1997
+29,48.044,119,149.0,+0:47,,Lelli Massimiliano,149,Saeco,",, 0:47",0,1997
+26,47.956,153,150.0,+0:48,,Arrieta Jose Luis,150,Banesto,0:48 0:48,0,1997
+23,47.956,155,151.0,+0:48,,Blanco Santiago,151,Banesto,",, 0:48",0,1997
+29,47.956,58,152.0,+0:48,,Utchakov Serhiy,152,Polti,",, 0:48",0,1997
+24,47.869,175,153.0,+0:49,,De Los Angeles Juan Jos\xe9,153,Kelme - Costa Blanca,0:49 0:49,0,1997
+26,47.869,87,154.0,+0:49,,Sgnaolin Daniele,154,Roslotto-ZG Mobili,",, 0:49",0,1997
+26,47.869,202,155.0,+0:49,,Anti Jean-francois,155,La Mutuelle de Seine et Marne,",, 0:49",0,1997
+27,47.869,146,156.0,+0:49,,Minali Nicola,156,BATIK-DEL MONTE,",, 0:49",0,1997
+24,47.782,67,157.0,+0:50,,Livingston Kevin,157,Cofidis,0:50 0:50,0,1997
+35,47.782,186,159.0,+0:50,,Podenzana Massimo,158,Mercatone Uno,",, 0:50",0,1997
+27,47.782,203,158.0,+0:50,,Cueff Stiphane,159,La Mutuelle de Seine et Marne,",, 0:50",0,1997
+26,47.782,194,160.0,+0:50,,Derame Pascal,160,US Postal Service,",, 0:50",0,1997
+25,47.782,95,161.0,+0:50,,Pretot Arnaud,161,GAN,",, 0:50",0,1997
+23,47.782,68,163.0,+0:50,,Rinero Christophe,162,Cofidis,",, 0:50",0,1997
+28,47.782,97,162.0,+0:50,,Simon Fran\xe7ois,163,GAN,",, 0:50",0,1997
+31,47.782,96,164.0,+0:50,,Rue Gerard,164,GAN,",, 0:50",0,1997
+32,47.782,15,165.0,+0:50,,Herv\xe9 Pascal,165,Festina - Lotus,",, 0:50",0,1997
+24,47.695,106,166.0,+0:51,,Roux Laurent,166,TVM - Farm Frites,0:51 0:51,0,1997
+26,47.695,204,167.0,+0:51,,Delrieu David,167,La Mutuelle de Seine et Marne,",, 0:51",0,1997
+25,47.695,46,168.0,+0:51,,Loda Nicola,168,MG Maglificio - Technogym,",, 0:51",0,1997
+26,47.695,98,169.0,+0:51,,Vasseur C\xe9dric,169,GAN,",, 0:51",0,1997
+25,47.608999999999995,135,170.0,+0:52,,Gougot Fabrice,170,Casino - C'est votre \xe9quipe,0:52 0:52,0,1997
+27,52.56,182,171.0,+0:53,,Artunghi Marco,171,Mercatone Uno,0:00 0:00,0,1997
+25,47.437,188,172.0,+0:54,,Traversoni Mario,172,Mercatone Uno,0:54 0:54,0,1997
+34,47.351000000000006,89,173.0,+0:55,,Zen Marco,173,Roslotto-ZG Mobili,0:55 0:55,0,1997
+29,47.266000000000005,201,174.0,+0:56,,Dojwa Jean-philippe,174,La Mutuelle de Seine et Marne,0:56 0:56,0,1997
+32,47.266000000000005,184,175.0,+0:56,,Pellicioli Oscar,175,Mercatone Uno,",, 0:56",0,1997
+24,47.266000000000005,156,176.0,+0:56,,Casero Angel Luis,176,Banesto,",, 0:56",0,1997
+24,47.181000000000004,69,177.0,+0:57,,Saugrain Cyril,177,Cofidis,0:57 0:57,0,1997
+30,47.181000000000004,55,178.0,+0:57,,De Vries Gerrit,178,Polti,",, 0:57",0,1997
+28,47.097,163,179.0,+0:58,,Farazijn Peter,179,Lotto - Mobistar,0:58 0:58,0,1997
+25,47.097,126,180.0,+0:58,,McEwen Robbie,180,Rabobank ProTeam,",, 0:58",0,1997
+30,47.097,145,181.0,+0:58,,Frattini Francesco,181,BATIK-DEL MONTE,",, 0:58",0,1997
+27,47.013000000000005,219,182.0,+0:59,,Talmant Gilles,182,BigMat - Auber 93,0:59 0:59,0,1997
+30,47.013000000000005,177,183.0,+0:59,,Gonzalez Chepe,183,Kelme - Costa Blanca,",, 0:59",0,1997
+27,47.013000000000005,206,184.0,+0:59,,Lamour Claude,184,La Mutuelle de Seine et Marne,",, 0:59",0,1997
+33,46.845,162,185.0,+1:01,,Abduzhaparov Djamolidine,185,Lotto - Mobistar,1:01 1:01,0,1997
+23,46.596000000000004,75,186.0,+1:04,,Nazon Damien,186,La Fran\xe7aise des Jeux,1:04 1:04,0,1997
+23,46.596000000000004,23,187.0,+1:04,,Fois Valentino,187,Mapei-GB,",, 1:04",0,1997
+26,46.596000000000004,209,188.0,+1:04,,Rault Dominique,188,La Mutuelle de Seine et Marne,",, 1:04",0,1997
+33,46.513000000000005,71,189.0,+1:05,,Gianetti Mauro,189,La Fran\xe7aise des Jeux,1:05 1:05,0,1997
+23,46.431000000000004,117,190.0,+1:06,,Frigo Dario,190,Saeco,1:06 1:06,0,1997
+25,46.349,48,191.0,+1:07,,Simoni Gilberto,191,MG Maglificio - Technogym,1:07 1:07,0,1997
+30,46.349,212,192.0,+1:07,,Arroyo Miguel,192,BigMat - Auber 93,",, 1:07",0,1997
+23,46.268,185,193.0,+1:08,,Piovaccari Giusvan,193,Mercatone Uno,1:08 1:08,0,1997
+31,45.943999999999996,118,194.0,+1:12,,Furlan Giorgio,194,Saeco,1:12 1:12,0,1997
+26,45.625,164,195.0,+1:16,,Planckaert Jo,195,Lotto - Mobistar,1:16 1:16,0,1997
+26,45.625,116,196.0,+1:16,,Fornaciari Paolo,196,Saeco,",, 1:16",0,1997
+25,45.467,129,197.0,+1:18,,van Bon L\xe9on,197,Rabobank ProTeam,1:18 1:18,0,1997
+24,45.0,59,198.0,+1:24,,Valoti Gianluca,198,Polti,1:24 1:24,0,1997
+30,,114,1.0,+0:00,100.0,Cipollini Mario,1,Saeco,4:39:59 4:39:59,1,1997
+25,,27,6.0,+0:24,70.0,Steels Tom,2,Mapei-GB,",, ,,",1,1997
+28,,92,14.0,+0:30,50.0,Moncassin Fr\xe9d\xe9ric,3,GAN,",, ,,",1,1997
+26,,9,20.0,+0:35,40.0,Zabel Erik,4,Team Telekom,",, ,,",1,1997
+25,,126,64.0,+1:08,32.0,McEwen Robbie,5,Rabobank ProTeam,",, ,,",1,1997
+24,,65,34.0,+0:45,26.0,Jalabert Nicolas,6,Cofidis,",, ,,",1,1997
+28,,205,35.0,+0:45,22.0,Fraser Gordon,7,La Mutuelle de Seine et Marne,",, ,,",1,1997
+27,,146,53.0,+0:59,18.0,Minali Nicola,8,BATIK-DEL MONTE,",, ,,",1,1997
+28,,97,57.0,+1:00,14.0,Simon Fran\xe7ois,9,GAN,",, ,,",1,1997
+25,,188,52.0,+0:58,10.0,Traversoni Mario,10,Mercatone Uno,",, ,,",1,1997
+27,,88,37.0,+0:47,8.0,Strazzer Massimo,11,Roslotto-ZG Mobili,",, ,,",1,1997
+25,,102,15.0,+0:30,6.0,Blijlevens Jeroen,12,TVM - Farm Frites,",, ,,",1,1997
+34,,192,17.0,+0:32,4.0,Baffi Adriano,13,US Postal Service,",, ,,",1,1997
+23,,33,38.0,+0:47,2.0,Etxebarria David,14,O.N.C.E.,",, ,,",1,1997
+27,,159,42.0,+0:50,1.0,Sergio Rodrigues Orlando,15,Banesto,",, ,,",1,1997
+30,,62,13.0,+0:29,,Andreu Frankie,16,Cofidis,",, ,,",1,1997
+27,,151,5.0,+0:20,,Olano Abraham,17,Banesto,",, ,,",1,1997
+24,,196,23.0,+0:37,,Hincapie George,18,US Postal Service,",, ,,",1,1997
+29,,42,39.0,+0:47,,Baldato Fabio,19,MG Maglificio - Technogym,",, ,,",1,1997
+23,,68,58.0,+1:00,,Rinero Christophe,20,Cofidis,",, ,,",1,1997
+30,,211,19.0,+0:35,,Lino Pascal,21,BigMat - Auber 93,",, ,,",1,1997
+28,,31,11.0,+0:28,,Jalabert Laurent,22,O.N.C.E.,",, ,,",1,1997
+26,,124,8.0,+0:27,,Dekker Erik,23,Rabobank ProTeam,",, ,,",1,1997
+22,,29,10.0,+0:28,,Vandenbroucke Frank,24,Mapei-GB,",, ,,",1,1997
+25,,46,60.0,+1:01,,Loda Nicola,25,MG Maglificio - Technogym,",, ,,",1,1997
+25,,95,56.0,+1:00,,Pretot Arnaud,26,GAN,",, ,,",1,1997
+34,,143,44.0,+0:51,,Cenghialta Bruno,27,BATIK-DEL MONTE,",, ,,",1,1997
+26,,83,29.0,+0:42,,Fincato Marco,28,Roslotto-ZG Mobili,",, ,,",1,1997
+26,,127,18.0,+0:34,,Nelissen Danny,29,Rabobank ProTeam,",, ,,",1,1997
+25,,77,26.0,+0:40,,Rebellin Davide,30,La Fran\xe7aise des Jeux,",, ,,",1,1997
+31,,28,28.0,+0:41,,Tafi Andrea,31,Mapei-GB,",, ,,",1,1997
+33,,94,47.0,+0:52,,Poli Eros,32,GAN,",, ,,",1,1997
+31,,96,59.0,+1:00,,Rue Gerard,33,GAN,",, ,,",1,1997
+26,,147,27.0,+0:41,,Odriozola Jon,34,BATIK-DEL MONTE,",, ,,",1,1997
+28,,91,2.0,+0:10,,Boardman Christopher,35,GAN,",, ,,",1,1997
+26,,194,55.0,+1:00,,Derame Pascal,36,US Postal Service,",, ,,",1,1997
+25,,22,9.0,+0:27,,Camenzind Oscar,37,Mapei-GB,",, ,,",1,1997
+30,,161,48.0,+0:53,,Madouas Laurent,38,Lotto - Mobistar,",, ,,",1,1997
+27,,11,49.0,+0:54,,Virenque Richard,39,Festina - Lotus,",, ,,",1,1997
+25,,135,62.0,+1:02,,Gougot Fabrice,40,Casino - C'est votre \xe9quipe,",, ,,",1,1997
+24,,121,24.0,+0:39,,Luttenberger Peter,41,Rabobank ProTeam,",, ,,",1,1997
+28,,6,43.0,+0:50,,Lombardi Giovanni,42,Team Telekom,",, ,,",1,1997
+32,,44,41.0,+0:48,,Fontanelli Fabiano,43,MG Maglificio - Technogym,",, ,,",1,1997
+23,,8,3.0,+0:12,,Ullrich Jan,44,Team Telekom,",, ,,",1,1997
+27,,57,46.0,+0:52,,Guerini Giuseppe,45,Polti,",, ,,",1,1997
+26,,115,50.0,+0:54,,Fagnini Gian-matteo,46,Saeco,",, ,,",1,1997
+28,,101,21.0,+0:37,,den Bakker Maarten,47,TVM - Farm Frites,",, ,,",1,1997
+27,,203,54.0,+1:00,,Cueff Stiphane,48,La Mutuelle de Seine et Marne,",, ,,",1,1997
+30,,3,32.0,+0:45,,Bolts Udo,49,Team Telekom,",, ,,",1,1997
+32,,5,12.0,+0:29,,Heppner Jens,50,Team Telekom,",, ,,",1,1997
+26,,98,61.0,+1:01,,Vasseur C\xe9dric,51,GAN,",, ,,",1,1997
+27,,199,45.0,+0:51,,Robin Jean-Cyril,52,US Postal Service,",, ,,",1,1997
+34,,89,63.0,+1:05,,Zen Marco,53,Roslotto-ZG Mobili,",, ,,",1,1997
+36,,61,4.0,+0:15,,Rominger Tony,54,Cofidis,",, ,,",1,1997
+23,,49,25.0,+0:39,,Tosatto Matteo,55,MG Maglificio - Technogym,",, ,,",1,1997
+24,,25,22.0,+0:37,,Nardello Daniele,56,Mapei-GB,",, ,,",1,1997
+26,,142,51.0,+0:55,,Brognara Andrea,57,BATIK-DEL MONTE,",, ,,",1,1997
+24,,157,31.0,+0:43,,Garcia Jose Vicente,58,Banesto,",, ,,",1,1997
+30,,137,16.0,+0:31,,Kasputis Arturas,59,Casino - C'est votre \xe9quipe,",, ,,",1,1997
+26,,105,7.0,+0:25,,Knaven Servais,60,TVM - Farm Frites,",, ,,",1,1997
+27,,144,30.0,+0:43,,Colombo Luca,61,BATIK-DEL MONTE,",, ,,",1,1997
+23,,93,36.0,+0:47,,O'Grady Stuart,62,GAN,",, ,,",1,1997
+26,,7,33.0,+0:45,,Totschnig Georg,63,Team Telekom,",, ,,",1,1997
+32,,26,40.0,+0:47,,Peeters Wilfried,64,Mapei-GB,",, ,,",1,1997
+32,,139,101.0,+1:52,,Saligari Marco,65,Casino - C'est votre \xe9quipe,0:58 0:58,1,1997
+26,,149,102.0,+1:52,,Tartaggia Giuseppe,66,BATIK-DEL MONTE,",, 0:58",1,1997
+32,,197,96.0,+1:48,,Jemison Marty,67,US Postal Service,",, 0:58",1,1997
+28,,2,87.0,+1:46,,Aldag Rolf,68,Team Telekom,",, 0:58",1,1997
+28,,14,71.0,+1:30,,Dufaux Laurent,69,Festina - Lotus,",, 0:58",1,1997
+31,,118,138.0,+2:20,,Furlan Giorgio,70,Saeco,",, 0:58",1,1997
+26,,164,143.0,+2:24,,Planckaert Jo,71,Lotto - Mobistar,",, 0:58",1,1997
+24,,53,103.0,+1:53,,Chaurreau I\xf1igo,72,Polti,",, 0:58",1,1997
+26,,113,91.0,+1:46,,Casagrande Francesco,73,Saeco,",, 0:58",1,1997
+26,,195,100.0,+1:52,,Hamilton Tyler,74,US Postal Service,",, 0:58",1,1997
+25,,86,85.0,+1:44,,Schmidt Torsten,75,Roslotto-ZG Mobili,",, 0:58",1,1997
+30,,173,97.0,+1:50,,Buenahora Hernan,76,Kelme - Costa Blanca,",, 0:58",1,1997
+25,,66,86.0,+1:45,,Julich Bobby,77,Cofidis,",, 0:58",1,1997
+27,,141,65.0,+1:13,,Berzin Yewgeni,78,BATIK-DEL MONTE,",, 0:58",1,1997
+25,,122,74.0,+1:32,,Boogerd Michael,79,Rabobank ProTeam,",, 0:58",1,1997
+30,,145,123.0,+2:06,,Frattini Francesco,80,BATIK-DEL MONTE,",, 0:58",1,1997
+26,,154,84.0,+1:42,,Beltran Manuel,81,Banesto,",, 0:58",1,1997
+26,,204,114.0,+1:59,,Delrieu David,82,La Mutuelle de Seine et Marne,",, 0:58",1,1997
+26,,215,89.0,+1:46,,Genty Laurent,83,BigMat - Auber 93,",, 0:58",1,1997
+30,,55,118.0,+2:05,,De Vries Gerrit,84,Polti,",, 0:58",1,1997
+33,,131,75.0,+1:33,,Elli Alberto,85,Casino - C'est votre \xe9quipe,",, 0:58",1,1997
+33,,1,67.0,+1:23,,Riis Bjarne,86,Team Telekom,",, 0:58",1,1997
+24,,156,117.0,+2:04,,Casero Angel Luis,87,Banesto,",, 0:58",1,1997
+30,,177,124.0,+2:07,,Gonzalez Chepe,88,Kelme - Costa Blanca,",, 0:58",1,1997
+28,,125,83.0,+1:37,,Jonker Patrick,89,Rabobank ProTeam,",, 0:58",1,1997
+31,,152,81.0,+1:37,,Alonso Marino,90,Banesto,",, 0:58",1,1997
+28,,111,99.0,+1:51,,Gotti Ivan,91,Saeco,",, 0:58",1,1997
+29,,171,92.0,+1:46,,Escartin Fernando,92,Kelme - Costa Blanca,",, 0:58",1,1997
+27,,38,68.0,+1:26,,Zarrabeitia Mikel,93,O.N.C.E.,",, 0:58",1,1997
+23,,99,73.0,+1:32,,Vogels Henk,94,GAN,",, 0:58",1,1997
+26,,189,77.0,+1:33,,Zberg Beat,95,Mercatone Uno,",, 0:58",1,1997
+26,,202,111.0,+1:57,,Anti Jean-francois,96,La Mutuelle de Seine et Marne,",, 0:58",1,1997
+28,,207,69.0,+1:29,,Maignan Gilles,97,La Mutuelle de Seine et Marne,",, 0:58",1,1997
+31,,191,76.0,+1:33,,Ekimov Viatcheslav,98,US Postal Service,",, 0:58",1,1997
+29,,119,108.0,+1:55,,Lelli Massimiliano,99,Saeco,",, 0:58",1,1997
+23,,218,106.0,+1:54,,Morin Anthony,100,BigMat - Auber 93,",, 0:58",1,1997
+26,,172,79.0,+1:34,,Benitez Francisco,101,Kelme - Costa Blanca,",, 0:58",1,1997
+27,,181,93.0,+1:47,,Pantani Marco,102,Mercatone Uno,",, 0:58",1,1997
+26,,87,110.0,+1:57,,Sgnaolin Daniele,103,Roslotto-ZG Mobili,",, 0:58",1,1997
+34,,166,80.0,+1:36,,Tchmil Andrei,104,Lotto - Mobistar,",, 0:58",1,1997
+31,,198,66.0,+1:15,,Meinert-Nielsen Peter,105,US Postal Service,",, 0:58",1,1997
+24,,106,113.0,+1:59,,Roux Laurent,106,TVM - Farm Frites,",, 0:58",1,1997
+33,,79,94.0,+1:47,,Vanzella Flavio,107,La Fran\xe7aise des Jeux,",, 0:58",1,1997
+28,,82,105.0,+1:54,,Djavanian Viatcheslav,108,Roslotto-ZG Mobili,",, 0:58",1,1997
+29,,167,70.0,+1:30,,Teteriouk Andrei,109,Lotto - Mobistar,",, 0:58",1,1997
+32,,183,78.0,+1:34,,Conti Roberto,110,Mercatone Uno,",, 0:58",1,1997
+22,,84,90.0,+1:46,,Kokorine Vitali,111,Roslotto-ZG Mobili,",, 0:58",1,1997
+30,,78,82.0,+1:37,,Sciandri Maximilian,112,La Fran\xe7aise des Jeux,",, 0:58",1,1997
+25,,52,88.0,+1:46,,Brasi Rossano,113,Polti,",, 0:58",1,1997
+28,,163,121.0,+2:06,,Farazijn Peter,114,Lotto - Mobistar,",, 0:58",1,1997
+26,,73,95.0,+1:48,,Heulot Stephane,115,La Fran\xe7aise des Jeux,",, 0:58",1,1997
+28,,74,104.0,+1:53,,Mengin Christophe,116,La Fran\xe7aise des Jeux,",, 0:58",1,1997
+27,,108,72.0,+1:31,,van Petegem Peter,117,TVM - Farm Frites,",, 0:58",1,1997
+29,,47,107.0,+1:54,,Scinto Luca,118,MG Maglificio - Technogym,",, 0:58",1,1997
+28,,56,145.0,+2:25,,Gualdi Mirko,119,Polti,1:35 1:35,1,1997
+32,,184,161.0,+2:41,,Pellicioli Oscar,120,Mercatone Uno,",, 1:35",1,1997
+33,,71,165.0,+2:50,,Gianetti Mauro,121,La Fran\xe7aise des Jeux,",, 1:35",1,1997
+26,,18,125.0,+2:07,,Rous Didier,122,Festina - Lotus,",, 1:35",1,1997
+24,,59,170.0,+3:09,,Valoti Gianluca,123,Polti,",, 1:35",1,1997
+33,,107,146.0,+2:27,,Skibby Jesper,124,TVM - Farm Frites,",, 1:35",1,1997
+30,,51,137.0,+2:20,,Leblanc Luc,125,Polti,",, 1:35",1,1997
+29,,39,98.0,+1:50,,Z\xfclle Alex,126,O.N.C.E.,",, 1:35",1,1997
+32,,187,151.0,+2:29,,Siboni Marcello,127,Mercatone Uno,",, 1:35",1,1997
+31,,36,152.0,+2:30,,Mauleon Francisco Javier,128,O.N.C.E.,",, 1:35",1,1997
+29,,134,133.0,+2:14,,Chanteur Pascal,129,Casino - C'est votre \xe9quipe,",, 1:35",1,1997
+27,,103,136.0,+2:19,,Hamburger Bo,130,TVM - Farm Frites,",, 1:35",1,1997
+27,,81,115.0,+2:02,,Gontsjenkov Alexander,131,Roslotto-ZG Mobili,",, 1:35",1,1997
+25,,193,130.0,+2:10,,Baranowski Dariusz,132,US Postal Service,",, 1:35",1,1997
+25,,16,153.0,+2:31,,Laukka Joona,133,Festina - Lotus,",, 1:35",1,1997
+30,,37,144.0,+2:24,,Sierra Roberto,134,O.N.C.E.,",, 1:35",1,1997
+26,,85,131.0,+2:13,,Padrnos Pavel,135,Roslotto-ZG Mobili,",, 1:35",1,1997
+28,,32,127.0,+2:08,,Cuesta \xcd\xf1igo,136,O.N.C.E.,",, 1:35",1,1997
+24,,67,158.0,+2:35,,Livingston Kevin,137,Cofidis,",, 1:35",1,1997
+26,,158,149.0,+2:29,,Jimenez Jose Maria,138,Banesto,",, 1:35",1,1997
+27,,182,160.0,+2:38,,Artunghi Marco,139,Mercatone Uno,",, 1:35",1,1997
+29,,35,112.0,+1:59,,Garmendia Aitor,140,O.N.C.E.,",, 1:35",1,1997
+23,,185,168.0,+2:53,,Piovaccari Giusvan,141,Mercatone Uno,",, 1:35",1,1997
+35,,24,122.0,+2:06,,Jaskula Zenon,142,Mapei-GB,",, 1:35",1,1997
+35,,186,159.0,+2:35,,Podenzana Massimo,143,Mercatone Uno,",, 1:35",1,1997
+33,,208,148.0,+2:29,,Pillon Laurent,144,La Mutuelle de Seine et Marne,",, 1:35",1,1997
+29,,58,156.0,+2:33,,Utchakov Serhiy,145,Polti,",, 1:35",1,1997
+33,,123,116.0,+2:03,,Breukink Erik,146,Rabobank ProTeam,",, 1:35",1,1997
+23,,155,155.0,+2:33,,Blanco Santiago,147,Banesto,",, 1:35",1,1997
+25,,168,150.0,+2:29,,Van Hyfte Paul,148,Lotto - Mobistar,",, 1:35",1,1997
+24,,69,162.0,+2:42,,Saugrain Cyril,149,Cofidis,",, 1:35",1,1997
+29,,109,126.0,+2:07,,Voskamp Bart,150,TVM - Farm Frites,",, 1:35",1,1997
+27,,104,139.0,+2:20,,Hoffman Tristan,151,TVM - Farm Frites,0:00 0:00,1,1997
+27,,63,135.0,+2:15,,Desbiens Laurent,152,Cofidis,",, 0:00",1,1997
+33,,217,132.0,+2:14,,Lance Pascal,153,BigMat - Auber 93,",, 0:00",1,1997
+26,,209,163.0,+2:49,,Rault Dominique,154,La Mutuelle de Seine et Marne,",, 0:00",1,1997
+25,,48,167.0,+2:52,,Simoni Gilberto,155,MG Maglificio - Technogym,",, 0:00",1,1997
+29,,13,109.0,+1:56,,Brochard Laurent,156,Festina - Lotus,",, 0:00",1,1997
+23,,165,154.0,+2:32,,Salmon Benoit,157,Lotto - Mobistar,",, 0:00",1,1997
+25,,129,169.0,+3:03,,van Bon L\xe9on,158,Rabobank ProTeam,",, 0:00",1,1997
+31,,21,141.0,+2:22,,Museeuw Johan,159,Mapei-GB,",, 0:00",1,1997
+24,,64,120.0,+2:06,,Gaumont Philippe,160,Cofidis,",, 0:00",1,1997
+27,,132,128.0,+2:09,,Agnolutto Christophe,161,Casino - C'est votre \xe9quipe,",, 0:00",1,1997
+26,,213,147.0,+2:28,,Auger Ludovic,162,BigMat - Auber 93,",, 0:00",1,1997
+23,,117,166.0,+2:51,,Frigo Dario,163,Saeco,",, 0:00",1,1997
+29,,43,134.0,+2:15,,Finco Carlo,164,MG Maglificio - Technogym,",, 0:00",1,1997
+30,,45,140.0,+2:21,,Lecchi Angelo,165,MG Maglificio - Technogym,",, 0:00",1,1997
+24,,175,157.0,+2:34,,De Los Angeles Juan Jos\xe9,166,Kelme - Costa Blanca,",, 0:00",1,1997
+25,,178,129.0,+2:09,,Rodriguez Javier Pascual,167,Kelme - Costa Blanca,",, 0:00",1,1997
+28,,174,119.0,+2:05,,Cabello Francisco,168,Kelme - Costa Blanca,1:35 1:35,1,1997
+25,,54,142.0,+2:23,,Crepaldi Mirco,169,Polti,1:49 1:49,1,1997
+25,,76,164.0,+2:50,,Peron Andrea,170,La Fran\xe7aise des Jeux,2:27 2:27,1,1997
+23,,23,182.0,+5:22,,Fois Valentino,171,Mapei-GB,4:08 4:08,1,1997
+34,,214,175.0,+5:01,,Bourguignon Thierry,172,BigMat - Auber 93,",, 4:08",1,1997
+29,,201,187.0,+5:35,,Dojwa Jean-philippe,173,La Mutuelle de Seine et Marne,4:29 4:29,1,1997
+28,,216,180.0,+5:17,,Gouvenou Thierry,174,BigMat - Auber 93,",, 4:29",1,1997
+26,,34,183.0,+5:22,,Garcia Marcelino,175,O.N.C.E.,",, 4:29",1,1997
+30,,212,189.0,+5:46,,Arroyo Miguel,176,BigMat - Auber 93,",, 4:29",1,1997
+32,,128,171.0,+4:49,,S\xf8rensen Rolf,177,Rabobank ProTeam,",, 4:29",1,1997
+26,,133,174.0,+4:55,,Aus Lauri,178,Casino - C'est votre \xe9quipe,",, 4:29",1,1997
+26,,153,184.0,+5:27,,Arrieta Jose Luis,179,Banesto,",, 4:29",1,1997
+33,,19,178.0,+5:12,,Stephens Neil,180,Festina - Lotus,",, 4:29",1,1997
+27,,179,181.0,+5:21,,Vidal Jos\xe9 Angel,181,Kelme - Costa Blanca,",, 4:29",1,1997
+32,,15,185.0,+5:29,,Herv\xe9 Pascal,182,Festina - Lotus,",, 4:29",1,1997
+31,,136,176.0,+5:08,,Jaermann Rolf,183,Casino - C'est votre \xe9quipe,",, 4:29",1,1997
+26,,17,172.0,+4:51,,Moreau Christophe,184,Festina - Lotus,",, 4:29",1,1997
+33,,4,179.0,+5:14,,Henn Christian,185,Team Telekom,",, 4:29",1,1997
+26,,116,190.0,+5:55,,Fornaciari Paolo,186,Saeco,",, 4:29",1,1997
+28,,12,177.0,+5:08,,Bortolami Gianluca,187,Festina - Lotus,",, 4:29",1,1997
+27,,206,188.0,+5:38,,Lamour Claude,188,La Mutuelle de Seine et Marne,",, 4:29",1,1997
+27,,41,173.0,+4:55,,Bartoli Michele,189,MG Maglificio - Technogym,",, 4:29",1,1997
+30,,148,186.0,+5:35,,Pierobon Gianluca,190,BATIK-DEL MONTE,4:55 4:55,1,1997
+26,,112,191.0,+8:06,,Buschor Philipp,191,Saeco,7:17 7:17,1,1997
+25,,72,194.0,+8:30,,Guesdon Fr\xe9d\xe9ric,192,La Fran\xe7aise des Jeux,7:35 7:35,1,1997
+28,,169,193.0,+8:30,,Wauters Marc,193,Lotto - Mobistar,7:47 7:47,1,1997
+33,,162,195.0,+8:58,,Abduzhaparov Djamolidine,194,Lotto - Mobistar,",, 7:47",1,1997
+37,,176,192.0,+8:28,,Gonzalez Arsenio,195,Kelme - Costa Blanca,",, 7:47",1,1997
+23,,75,196.0,+10:32,,Nazon Damien,196,La Fran\xe7aise des Jeux,9:18 9:18,1,1997
+27,,138,197.0,+12:50,,Kirsipuu Jaan,197,Casino - C'est votre \xe9quipe,12:10 12:10,1,1997
+27,,219,,+ -4:48:09,,Talmant Gilles,DNF,BigMat - Auber 93,-4:39:59 -4:39:59,1,1997

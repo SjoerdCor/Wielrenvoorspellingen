@@ -1,0 +1,746 @@
+Age,BIB,Pnt,Prev,Rider,Rnk,Team,\u25bc\u25b2,stage,year
+30,102,13.0,,Bettini Paolo,1,Quickstep - Davitamon,,1,2004
+27,98,12.0,,Tombak Janek,2,Cofidis,,1,2004
+32,69,4.0,,Voigt Jens,3,CSC ProTeam,,1,2004
+30,127,3.0,,Renier Franck,4,Brioches La Boulang\xe8re,,1,2004
+23,165,2.0,,Eisel Bernhard,5,Fdjeux.com,,1,2004
+30,102,16.0,1.0,Bettini Paolo,1,Quickstep - Davitamon,-,2,2004
+27,98,14.0,2.0,Tombak Janek,2,Cofidis,-,2,2004
+32,69,4.0,3.0,Voigt Jens,3,CSC ProTeam,-,2,2004
+24,126,3.0,,Pineau J\xe9rome,4,Brioches La Boulang\xe8re,-,2,2004
+30,127,3.0,4.0,Renier Franck,5,Brioches La Boulang\xe8re,\u25bc1,2,2004
+23,165,2.0,5.0,Eisel Bernhard,6,Fdjeux.com,\u25bc1,2,2004
+31,66,2.0,,Piil Jakob,7,CSC ProTeam,-,2,2004
+26,93,1.0,,Casper Jimmy,8,Cofidis,-,2,2004
+35,167,1.0,,Mengin Christophe,9,Fdjeux.com,-,2,2004
+30,102,19.0,1.0,Bettini Paolo,1,Quickstep - Davitamon,-,3,2004
+27,98,14.0,2.0,Tombak Janek,2,Cofidis,-,3,2004
+32,69,9.0,3.0,Voigt Jens,3,CSC ProTeam,-,3,2004
+29,153,7.0,,de Groot Bram,4,Rabobank ProTeam,-,3,2004
+24,126,3.0,4.0,Pineau J\xe9rome,5,Brioches La Boulang\xe8re,\u25bc1,3,2004
+30,127,3.0,5.0,Renier Franck,6,Brioches La Boulang\xe8re,\u25bc1,3,2004
+23,165,2.0,6.0,Eisel Bernhard,7,Fdjeux.com,\u25bc1,3,2004
+31,66,2.0,7.0,Piil Jakob,8,CSC ProTeam,\u25bc1,3,2004
+35,167,1.0,9.0,Mengin Christophe,9,Fdjeux.com,-,3,2004
+34,101,1.0,,Virenque Richard,10,Quickstep - Davitamon,-,3,2004
+26,93,1.0,8.0,Casper Jimmy,11,Cofidis,\u25bc3,3,2004
+30,102,19.0,1.0,Bettini Paolo,1,Quickstep - Davitamon,-,5,2004
+27,98,14.0,2.0,Tombak Janek,2,Cofidis,-,5,2004
+32,69,9.0,3.0,Voigt Jens,3,CSC ProTeam,-,5,2004
+29,153,7.0,4.0,de Groot Bram,4,Rabobank ProTeam,-,5,2004
+25,162,3.0,,Casar Sandy,5,Fdjeux.com,-,5,2004
+24,126,3.0,5.0,Pineau J\xe9rome,6,Brioches La Boulang\xe8re,\u25bc1,5,2004
+30,127,3.0,6.0,Renier Franck,7,Brioches La Boulang\xe8re,\u25bc1,5,2004
+25,129,2.0,,Voeckler Thomas,8,Brioches La Boulang\xe8re,-,5,2004
+31,66,2.0,8.0,Piil Jakob,9,CSC ProTeam,\u25bc1,5,2004
+23,165,2.0,7.0,Eisel Bernhard,10,Fdjeux.com,\u25bc3,5,2004
+29,131,1.0,,B\xe4ckstedt Magnus,11,Alessio - Bianchi,-,5,2004
+34,101,1.0,9.0,Virenque Richard,12,Quickstep - Davitamon,\u25bc3,5,2004
+35,167,1.0,10.0,Mengin Christophe,13,Fdjeux.com,\u25bc3,5,2004
+26,93,1.0,11.0,Casper Jimmy,14,Cofidis,\u25bc3,5,2004
+30,102,19.0,1.0,Bettini Paolo,1,Quickstep - Davitamon,-,6,2004
+27,98,14.0,2.0,Tombak Janek,2,Cofidis,-,6,2004
+32,69,9.0,3.0,Voigt Jens,3,CSC ProTeam,-,6,2004
+29,153,7.0,4.0,de Groot Bram,4,Rabobank ProTeam,-,6,2004
+25,162,3.0,5.0,Casar Sandy,5,Fdjeux.com,-,6,2004
+24,126,3.0,6.0,Pineau J\xe9rome,6,Brioches La Boulang\xe8re,-,6,2004
+30,127,3.0,7.0,Renier Franck,7,Brioches La Boulang\xe8re,-,6,2004
+25,129,2.0,8.0,Voeckler Thomas,8,Brioches La Boulang\xe8re,-,6,2004
+31,66,2.0,9.0,Piil Jakob,9,CSC ProTeam,-,6,2004
+23,165,2.0,10.0,Eisel Bernhard,10,Fdjeux.com,-,6,2004
+29,131,1.0,11.0,B\xe4ckstedt Magnus,11,Alessio - Bianchi,-,6,2004
+34,101,1.0,12.0,Virenque Richard,12,Quickstep - Davitamon,-,6,2004
+35,167,1.0,13.0,Mengin Christophe,13,Fdjeux.com,-,6,2004
+26,93,1.0,14.0,Casper Jimmy,14,Cofidis,-,6,2004
+30,102,20.0,1.0,Bettini Paolo,1,Quickstep - Davitamon,-,7,2004
+27,98,14.0,2.0,Tombak Janek,2,Cofidis,-,7,2004
+32,69,9.0,3.0,Voigt Jens,3,CSC ProTeam,-,7,2004
+29,153,7.0,4.0,de Groot Bram,4,Rabobank ProTeam,-,7,2004
+33,154,7.0,,Dekker Erik,5,Rabobank ProTeam,-,7,2004
+24,126,6.0,6.0,Pineau J\xe9rome,6,Brioches La Boulang\xe8re,-,7,2004
+31,184,5.0,,Marichal Thierry,7,Lotto - Domo,-,7,2004
+25,162,3.0,5.0,Casar Sandy,8,Fdjeux.com,\u25bc3,7,2004
+30,127,3.0,7.0,Renier Franck,9,Brioches La Boulang\xe8re,\u25bc2,7,2004
+25,129,2.0,8.0,Voeckler Thomas,10,Brioches La Boulang\xe8re,\u25bc2,7,2004
+31,66,2.0,9.0,Piil Jakob,11,CSC ProTeam,\u25bc2,7,2004
+23,165,2.0,10.0,Eisel Bernhard,12,Fdjeux.com,\u25bc2,7,2004
+29,131,1.0,11.0,B\xe4ckstedt Magnus,13,Alessio - Bianchi,\u25bc2,7,2004
+34,101,1.0,12.0,Virenque Richard,14,Quickstep - Davitamon,\u25bc2,7,2004
+35,167,1.0,13.0,Mengin Christophe,15,Fdjeux.com,\u25bc2,7,2004
+26,93,1.0,14.0,Casper Jimmy,16,Cofidis,\u25bc2,7,2004
+30,102,20.0,1.0,Bettini Paolo,1,Quickstep - Davitamon,-,8,2004
+27,98,14.0,2.0,Tombak Janek,2,Cofidis,-,8,2004
+26,87,12.0,,Scholz Ronny,3,Gerolsteiner,-,8,2004
+32,69,9.0,3.0,Voigt Jens,4,CSC ProTeam,\u25bc1,8,2004
+31,66,9.0,11.0,Piil Jakob,5,CSC ProTeam,\u25b26,8,2004
+30,48,8.0,,Tosatto Matteo,6,Fassa Bortolo,-,8,2004
+29,153,7.0,4.0,de Groot Bram,7,Rabobank ProTeam,\u25bc3,8,2004
+33,154,7.0,5.0,Dekker Erik,8,Rabobank ProTeam,\u25bc3,8,2004
+24,126,6.0,6.0,Pineau J\xe9rome,9,Brioches La Boulang\xe8re,\u25bc3,8,2004
+31,184,5.0,7.0,Marichal Thierry,10,Lotto - Domo,\u25bc3,8,2004
+25,162,3.0,8.0,Casar Sandy,11,Fdjeux.com,\u25bc3,8,2004
+30,127,3.0,9.0,Renier Franck,12,Brioches La Boulang\xe8re,\u25bc3,8,2004
+25,129,2.0,10.0,Voeckler Thomas,13,Brioches La Boulang\xe8re,\u25bc3,8,2004
+23,165,2.0,12.0,Eisel Bernhard,14,Fdjeux.com,\u25bc2,8,2004
+34,101,2.0,14.0,Virenque Richard,15,Quickstep - Davitamon,\u25bc1,8,2004
+29,131,1.0,13.0,B\xe4ckstedt Magnus,16,Alessio - Bianchi,\u25bc3,8,2004
+35,167,1.0,15.0,Mengin Christophe,17,Fdjeux.com,\u25bc2,8,2004
+26,93,1.0,16.0,Casper Jimmy,18,Cofidis,\u25bc2,8,2004
+30,102,20.0,1.0,Bettini Paolo,1,Quickstep - Davitamon,-,9,2004
+27,98,14.0,2.0,Tombak Janek,2,Cofidis,-,9,2004
+26,87,12.0,3.0,Scholz Ronny,3,Gerolsteiner,-,9,2004
+32,69,9.0,4.0,Voigt Jens,4,CSC ProTeam,-,9,2004
+31,66,9.0,5.0,Piil Jakob,5,CSC ProTeam,-,9,2004
+30,48,8.0,6.0,Tosatto Matteo,6,Fassa Bortolo,-,9,2004
+29,153,7.0,7.0,de Groot Bram,7,Rabobank ProTeam,-,9,2004
+33,154,7.0,8.0,Dekker Erik,8,Rabobank ProTeam,-,9,2004
+24,126,6.0,9.0,Pineau J\xe9rome,9,Brioches La Boulang\xe8re,-,9,2004
+34,101,5.0,15.0,Virenque Richard,10,Quickstep - Davitamon,\u25b25,9,2004
+31,184,5.0,10.0,Marichal Thierry,11,Lotto - Domo,\u25bc1,9,2004
+25,162,3.0,11.0,Casar Sandy,12,Fdjeux.com,\u25bc1,9,2004
+27,36,3.0,,Landaluze Inigo,13,Euskaltel - Euskadi,-,9,2004
+30,127,3.0,12.0,Renier Franck,14,Brioches La Boulang\xe8re,\u25bc2,9,2004
+25,129,2.0,13.0,Voeckler Thomas,15,Brioches La Boulang\xe8re,\u25bc2,9,2004
+26,31,2.0,,Mayo Iban,16,Euskaltel - Euskadi,-,9,2004
+23,165,2.0,14.0,Eisel Bernhard,17,Fdjeux.com,\u25bc3,9,2004
+32,198,2.0,,Simeoni Filippo,18,Domina Vacanze,-,9,2004
+29,131,1.0,16.0,B\xe4ckstedt Magnus,19,Alessio - Bianchi,\u25bc3,9,2004
+30,114,1.0,,Gonzalez De Galdeano Igor,20,Liberty Seguros,-,9,2004
+35,167,1.0,17.0,Mengin Christophe,21,Fdjeux.com,\u25bc4,9,2004
+28,155,1.0,,Kroon Karsten,22,Rabobank ProTeam,-,9,2004
+26,93,1.0,18.0,Casper Jimmy,23,Cofidis,\u25bc5,9,2004
+34,101,73.0,10.0,Virenque Richard,1,Quickstep - Davitamon,\u25b29,10,2004
+31,185,57.0,,Merckx Axel,2,Lotto - Domo,-,10,2004
+30,102,36.0,1.0,Bettini Paolo,3,Quickstep - Davitamon,\u25bc2,10,2004
+33,51,27.0,,Moreau Christophe,4,Cr\xe9dit Agricole,-,10,2004
+28,71,21.0,,Mancebo Francisco,5,Illes Balears - Banesto,-,10,2004
+26,107,16.0,,Mercado Juan Miguel,6,Quickstep - Davitamon,-,10,2004
+27,98,14.0,2.0,Tombak Janek,7,Cofidis,\u25bc5,10,2004
+26,87,12.0,3.0,Scholz Ronny,8,Gerolsteiner,\u25bc5,10,2004
+26,76,11.0,,Menchov Denis,9,Illes Balears - Banesto,-,10,2004
+28,6,10.0,,Landis Floyd,10,US Postal Service,-,10,2004
+25,129,10.0,15.0,Voeckler Thomas,11,Brioches La Boulang\xe8re,\u25b24,10,2004
+32,69,9.0,4.0,Voigt Jens,12,CSC ProTeam,\u25bc8,10,2004
+31,66,9.0,5.0,Piil Jakob,13,CSC ProTeam,\u25bc8,10,2004
+30,48,8.0,6.0,Tosatto Matteo,14,Fassa Bortolo,\u25bc8,10,2004
+29,153,7.0,7.0,de Groot Bram,15,Rabobank ProTeam,\u25bc8,10,2004
+33,154,7.0,8.0,Dekker Erik,16,Rabobank ProTeam,\u25bc8,10,2004
+30,11,7.0,,Ullrich Jan,17,T-Mobile Team,-,10,2004
+24,126,6.0,9.0,Pineau J\xe9rome,18,Brioches La Boulang\xe8re,\u25bc9,10,2004
+30,158,6.0,,Rasmussen Michael,19,Rabobank ProTeam,-,10,2004
+31,122,6.0,,Beneteau Walter,20,Brioches La Boulang\xe8re,-,10,2004
+32,1,,,Armstrong Lance,21*,US Postal Service,-,10,2004
+35,105,5.0,,Dufaux Laurent,22,Quickstep - Davitamon,-,10,2004
+31,184,5.0,11.0,Marichal Thierry,23,Lotto - Domo,\u25bc12,10,2004
+25,162,3.0,12.0,Casar Sandy,24,Fdjeux.com,\u25bc12,10,2004
+27,36,3.0,13.0,Landaluze Inigo,25,Euskaltel - Euskadi,\u25bc12,10,2004
+30,127,3.0,14.0,Renier Franck,26,Brioches La Boulang\xe8re,\u25bc12,10,2004
+26,31,2.0,16.0,Mayo Iban,27,Euskaltel - Euskadi,\u25bc11,10,2004
+23,165,2.0,17.0,Eisel Bernhard,28,Fdjeux.com,\u25bc11,10,2004
+32,198,2.0,18.0,Simeoni Filippo,29,Domina Vacanze,\u25bc11,10,2004
+30,114,1.0,20.0,Gonzalez De Galdeano Igor,30,Liberty Seguros,\u25bc10,10,2004
+25,121,1.0,,Chavanel Sylvain,31,Brioches La Boulang\xe8re,-,10,2004
+24,108,1.0,,Rogers Michael,32,Quickstep - Davitamon,-,10,2004
+29,131,1.0,19.0,B\xe4ckstedt Magnus,33,Alessio - Bianchi,\u25bc14,10,2004
+35,167,1.0,21.0,Mengin Christophe,34,Fdjeux.com,\u25bc13,10,2004
+28,155,1.0,22.0,Kroon Karsten,35,Rabobank ProTeam,\u25bc13,10,2004
+26,93,1.0,23.0,Casper Jimmy,36,Cofidis,\u25bc13,10,2004
+34,101,84.0,1,Virenque Richard,1,Quickstep - Davitamon,-,11,2004
+31,185,57.0,2,Merckx Axel,2,Lotto - Domo,-,11,2004
+30,102,36.0,3,Bettini Paolo,3,Quickstep - Davitamon,-,11,2004
+33,51,30.0,4,Moreau Christophe,4,Cr\xe9dit Agricole,-,11,2004
+28,71,21.0,5,Mancebo Francisco,5,Illes Balears - Banesto,-,11,2004
+26,107,18.0,6,Mercado Juan Miguel,6,Quickstep - Davitamon,-,11,2004
+29,97,16.0,,Moncouti\xe9 David,7,Cofidis,-,11,2004
+27,98,14.0,7,Tombak Janek,8,Cofidis,\u25bc1,11,2004
+26,37,14.0,,Martinez Egoi,9,Euskaltel - Euskadi,-,11,2004
+26,87,12.0,8,Scholz Ronny,10,Gerolsteiner,\u25bc2,11,2004
+26,76,11.0,9,Menchov Denis,11,Illes Balears - Banesto,\u25bc2,11,2004
+35,105,11.0,22,Dufaux Laurent,12,Quickstep - Davitamon,\u25b210,11,2004
+26,44,11.0,,Flecha Juan Antonio,13,Fassa Bortolo,-,11,2004
+28,6,10.0,10,Landis Floyd,14,US Postal Service,\u25bc4,11,2004
+25,129,10.0,11,Voeckler Thomas,15,Brioches La Boulang\xe8re,\u25bc4,11,2004
+32,69,9.0,12,Voigt Jens,16,CSC ProTeam,\u25bc4,11,2004
+31,66,9.0,13,Piil Jakob,17,CSC ProTeam,\u25bc4,11,2004
+30,48,8.0,14,Tosatto Matteo,18,Fassa Bortolo,\u25bc4,11,2004
+29,153,7.0,15,de Groot Bram,19,Rabobank ProTeam,\u25bc4,11,2004
+33,154,7.0,16,Dekker Erik,20,Rabobank ProTeam,\u25bc4,11,2004
+30,11,7.0,17,Ullrich Jan,21,T-Mobile Team,\u25bc4,11,2004
+24,126,6.0,18,Pineau J\xe9rome,22,Brioches La Boulang\xe8re,\u25bc4,11,2004
+30,158,6.0,19,Rasmussen Michael,23,Rabobank ProTeam,\u25bc4,11,2004
+31,122,6.0,20,Beneteau Walter,24,Brioches La Boulang\xe8re,\u25bc4,11,2004
+32,1,,21*,Armstrong Lance,25*,US Postal Service,-,11,2004
+30,201,5.0,,Rinero Christophe,26,R.a.g.t Semence - Mg Rover,-,11,2004
+31,184,5.0,23,Marichal Thierry,27,Lotto - Domo,\u25bc4,11,2004
+25,162,3.0,24,Casar Sandy,28,Fdjeux.com,\u25bc4,11,2004
+27,36,3.0,25,Landaluze Inigo,29,Euskaltel - Euskadi,\u25bc4,11,2004
+24,88,3.0,,Wegmann Fabian,30,Gerolsteiner,-,11,2004
+30,127,3.0,26,Renier Franck,31,Brioches La Boulang\xe8re,\u25bc5,11,2004
+26,31,2.0,27,Mayo Iban,32,Euskaltel - Euskadi,\u25bc5,11,2004
+23,165,2.0,28,Eisel Bernhard,33,Fdjeux.com,\u25bc5,11,2004
+32,198,2.0,29,Simeoni Filippo,34,Domina Vacanze,\u25bc5,11,2004
+34,63,1.0,,Bartoli Michele,35,CSC ProTeam,-,11,2004
+30,114,1.0,30,Gonzalez De Galdeano Igor,36,Liberty Seguros,\u25bc6,11,2004
+25,121,1.0,31,Chavanel Sylvain,37,Brioches La Boulang\xe8re,\u25bc6,11,2004
+24,108,1.0,32,Rogers Michael,38,Quickstep - Davitamon,\u25bc6,11,2004
+35,167,1.0,34,Mengin Christophe,39,Fdjeux.com,\u25bc5,11,2004
+28,155,1.0,35,Kroon Karsten,40,Rabobank ProTeam,\u25bc5,11,2004
+25,146,1.0,,Krivtsov Yuriy,41,AG2R Pr\xe9voyance,-,11,2004
+26,93,1.0,36,Casper Jimmy,42,Cofidis,\u25bc6,11,2004
+34,101,95.0,1,Virenque Richard,1,Quickstep - Davitamon,-,12,2004
+31,185,57.0,2,Merckx Axel,2,Lotto - Domo,-,12,2004
+33,51,43.0,4,Moreau Christophe,3,Cr\xe9dit Agricole,\u25b21,12,2004
+28,71,39.0,5,Mancebo Francisco,4,Illes Balears - Banesto,\u25b21,12,2004
+30,102,36.0,3,Bettini Paolo,5,Quickstep - Davitamon,\u25bc2,12,2004
+32,1,,25*,Armstrong Lance,6*,US Postal Service,-,12,2004
+26,61,30.0,,Basso Ivan,7,CSC ProTeam,-,12,2004
+26,76,23.0,11,Menchov Denis,8,Illes Balears - Banesto,\u25b23,12,2004
+29,17,22.0,,Kl\xf6den Andr\xe9as,9,T-Mobile Team,-,12,2004
+30,158,21.0,23,Rasmussen Michael,10,Rabobank ProTeam,\u25b213,12,2004
+28,6,18.0,14,Landis Floyd,11,US Postal Service,\u25b23,12,2004
+26,107,18.0,6,Mercado Juan Miguel,12,Quickstep - Davitamon,\u25bc6,12,2004
+29,97,16.0,7,Moncouti\xe9 David,13,Cofidis,\u25bc6,12,2004
+29,67,16.0,,Sastre Carlos,14,CSC ProTeam,-,12,2004
+27,98,14.0,8,Tombak Janek,15,Cofidis,\u25bc7,12,2004
+26,27,14.0,,Pereiro Oscar,16,Phonak Hearing Systems,-,12,2004
+26,37,14.0,9,Martinez Egoi,17,Euskaltel - Euskadi,\u25bc8,12,2004
+26,87,12.0,10,Scholz Ronny,18,Gerolsteiner,\u25bc8,12,2004
+35,105,11.0,12,Dufaux Laurent,19,Quickstep - Davitamon,\u25bc7,12,2004
+26,44,11.0,13,Flecha Juan Antonio,20,Fassa Bortolo,\u25bc7,12,2004
+24,196,10.0,,Scarponi Michele,21,Domina Vacanze,-,12,2004
+25,129,10.0,15,Voeckler Thomas,22,Brioches La Boulang\xe8re,\u25bc7,12,2004
+32,69,9.0,16,Voigt Jens,23,CSC ProTeam,\u25bc7,12,2004
+31,66,9.0,17,Piil Jakob,24,CSC ProTeam,\u25bc7,12,2004
+33,81,9.0,,Totschnig Georg,25,Gerolsteiner,-,12,2004
+30,48,8.0,18,Tosatto Matteo,26,Fassa Bortolo,\u25bc8,12,2004
+29,153,7.0,19,de Groot Bram,27,Rabobank ProTeam,\u25bc8,12,2004
+33,154,7.0,20,Dekker Erik,28,Rabobank ProTeam,\u25bc8,12,2004
+30,11,7.0,21,Ullrich Jan,29,T-Mobile Team,\u25bc8,12,2004
+31,5,,,Hincapie George,30*,US Postal Service,-,12,2004
+24,126,6.0,22,Pineau J\xe9rome,31,Brioches La Boulang\xe8re,\u25bc9,12,2004
+31,9,6.0,,Rubiera Jos\xe9 Luis,32,US Postal Service,-,12,2004
+31,122,6.0,24,Beneteau Walter,33,Brioches La Boulang\xe8re,\u25bc9,12,2004
+30,201,5.0,26,Rinero Christophe,34,R.a.g.t Semence - Mg Rover,\u25bc8,12,2004
+31,184,5.0,27,Marichal Thierry,35,Lotto - Domo,\u25bc8,12,2004
+25,162,3.0,28,Casar Sandy,36,Fdjeux.com,\u25bc8,12,2004
+27,36,3.0,29,Landaluze Inigo,37,Euskaltel - Euskadi,\u25bc8,12,2004
+24,88,3.0,30,Wegmann Fabian,38,Gerolsteiner,\u25bc8,12,2004
+30,127,3.0,31,Renier Franck,39,Brioches La Boulang\xe8re,\u25bc8,12,2004
+26,31,2.0,32,Mayo Iban,40,Euskaltel - Euskadi,\u25bc8,12,2004
+32,198,2.0,34,Simeoni Filippo,41,Domina Vacanze,\u25bc7,12,2004
+23,165,2.0,33,Eisel Bernhard,42,Fdjeux.com,\u25bc9,12,2004
+30,114,1.0,36,Gonzalez De Galdeano Igor,43,Liberty Seguros,\u25bc7,12,2004
+34,63,1.0,35,Bartoli Michele,44,CSC ProTeam,\u25bc9,12,2004
+25,121,1.0,37,Chavanel Sylvain,45,Brioches La Boulang\xe8re,\u25bc8,12,2004
+24,108,1.0,38,Rogers Michael,46,Quickstep - Davitamon,\u25bc8,12,2004
+35,167,1.0,39,Mengin Christophe,47,Fdjeux.com,\u25bc8,12,2004
+28,155,1.0,40,Kroon Karsten,48,Rabobank ProTeam,\u25bc8,12,2004
+25,146,1.0,41,Krivtsov Yuriy,49,AG2R Pr\xe9voyance,\u25bc8,12,2004
+26,93,1.0,42,Casper Jimmy,50,Cofidis,\u25bc8,12,2004
+34,101,128.0,1,Virenque Richard,1,Quickstep - Davitamon,-,13,2004
+33,51,78.0,3,Moreau Christophe,2,Cr\xe9dit Agricole,\u25b21,13,2004
+28,71,77.0,4,Mancebo Francisco,3,Illes Balears - Banesto,\u25b21,13,2004
+32,1,,6*,Armstrong Lance,4*,US Postal Service,-,13,2004
+30,158,72.0,10,Rasmussen Michael,5,Rabobank ProTeam,\u25b25,13,2004
+26,61,66.0,7,Basso Ivan,6,CSC ProTeam,\u25b21,13,2004
+31,185,57.0,2,Merckx Axel,7,Lotto - Domo,\u25bc5,13,2004
+32,69,56.0,23,Voigt Jens,8,CSC ProTeam,\u25b215,13,2004
+25,121,53.0,45,Chavanel Sylvain,9,Brioches La Boulang\xe8re,\u25b236,13,2004
+29,17,50.0,9,Kl\xf6den Andr\xe9as,10,T-Mobile Team,\u25bc1,13,2004
+30,102,42.0,5,Bettini Paolo,11,Quickstep - Davitamon,\u25bc6,13,2004
+33,81,41.0,25,Totschnig Georg,12,Gerolsteiner,\u25b213,13,2004
+30,11,27.0,29,Ullrich Jan,13,T-Mobile Team,\u25b216,13,2004
+28,6,24.0,11,Landis Floyd,14,US Postal Service,\u25bc3,13,2004
+29,97,22.0,13,Moncouti\xe9 David,15,Cofidis,\u25bc2,13,2004
+26,107,18.0,12,Mercado Juan Miguel,16,Quickstep - Davitamon,\u25bc4,13,2004
+35,105,17.0,19,Dufaux Laurent,17,Quickstep - Davitamon,\u25b22,13,2004
+30,2,16.0,,Azevedo Jos\xe9 Bento Carvalho,18,US Postal Service,-,13,2004
+29,67,16.0,14,Sastre Carlos,19,CSC ProTeam,\u25bc5,13,2004
+27,98,14.0,15,Tombak Janek,20,Cofidis,\u25bc5,13,2004
+26,27,14.0,16,Pereiro Oscar,21,Phonak Hearing Systems,\u25bc5,13,2004
+26,37,14.0,17,Martinez Egoi,22,Euskaltel - Euskadi,\u25bc5,13,2004
+26,87,12.0,18,Scholz Ronny,23,Gerolsteiner,\u25bc5,13,2004
+28,134,12.0,,Caucchioli Pietro,24,Alessio - Bianchi,-,13,2004
+31,5,,30*,Hincapie George,25*,US Postal Service,-,13,2004
+26,44,11.0,20,Flecha Juan Antonio,26,Fassa Bortolo,\u25bc6,13,2004
+32,171,10.0,,Simoni Gilberto,27,Saeco,-,13,2004
+24,196,10.0,21,Scarponi Michele,28,Domina Vacanze,\u25bc7,13,2004
+25,129,10.0,22,Voeckler Thomas,29,Brioches La Boulang\xe8re,\u25bc7,13,2004
+33,3,10.0,,Beltran Manuel,30,US Postal Service,-,13,2004
+31,66,9.0,24,Piil Jakob,31,CSC ProTeam,\u25bc7,13,2004
+30,48,8.0,26,Tosatto Matteo,32,Fassa Bortolo,\u25bc6,13,2004
+29,153,7.0,27,de Groot Bram,33,Rabobank ProTeam,\u25bc6,13,2004
+33,154,7.0,28,Dekker Erik,34,Rabobank ProTeam,\u25bc6,13,2004
+24,126,6.0,31,Pineau J\xe9rome,35,Brioches La Boulang\xe8re,\u25bc4,13,2004
+31,9,6.0,32,Rubiera Jos\xe9 Luis,36,US Postal Service,\u25bc4,13,2004
+31,122,6.0,33,Beneteau Walter,37,Brioches La Boulang\xe8re,\u25bc4,13,2004
+30,201,5.0,34,Rinero Christophe,38,R.a.g.t Semence - Mg Rover,\u25bc4,13,2004
+31,184,5.0,35,Marichal Thierry,39,Lotto - Domo,\u25bc4,13,2004
+25,162,3.0,36,Casar Sandy,40,Fdjeux.com,\u25bc4,13,2004
+27,36,3.0,37,Landaluze Inigo,41,Euskaltel - Euskadi,\u25bc4,13,2004
+30,127,3.0,39,Renier Franck,42,Brioches La Boulang\xe8re,\u25bc3,13,2004
+26,31,2.0,40,Mayo Iban,43,Euskaltel - Euskadi,\u25bc3,13,2004
+32,198,2.0,41,Simeoni Filippo,44,Domina Vacanze,\u25bc3,13,2004
+23,165,2.0,42,Eisel Bernhard,45,Fdjeux.com,\u25bc3,13,2004
+24,108,1.0,46,Rogers Michael,46,Quickstep - Davitamon,-,13,2004
+34,63,1.0,44,Bartoli Michele,47,CSC ProTeam,\u25bc3,13,2004
+30,114,1.0,43,Gonzalez De Galdeano Igor,48,Liberty Seguros,\u25bc5,13,2004
+25,7,1.0,,Noval Benjamin,49,US Postal Service,-,13,2004
+35,167,1.0,47,Mengin Christophe,50,Fdjeux.com,\u25bc3,13,2004
+25,146,1.0,49,Krivtsov Yuriy,51,AG2R Pr\xe9voyance,\u25bc2,13,2004
+28,155,1.0,48,Kroon Karsten,52,Rabobank ProTeam,\u25bc4,13,2004
+26,93,1.0,50,Casper Jimmy,53,Cofidis,\u25bc3,13,2004
+34,101,128.0,1,Virenque Richard,1,Quickstep - Davitamon,-,14,2004
+33,51,78.0,2,Moreau Christophe,2,Cr\xe9dit Agricole,-,14,2004
+28,71,77.0,3,Mancebo Francisco,3,Illes Balears - Banesto,-,14,2004
+32,1,,4*,Armstrong Lance,4*,US Postal Service,-,14,2004
+30,158,72.0,5,Rasmussen Michael,5,Rabobank ProTeam,-,14,2004
+26,61,66.0,6,Basso Ivan,6,CSC ProTeam,-,14,2004
+31,185,57.0,7,Merckx Axel,7,Lotto - Domo,-,14,2004
+32,69,56.0,8,Voigt Jens,8,CSC ProTeam,-,14,2004
+25,121,53.0,9,Chavanel Sylvain,9,Brioches La Boulang\xe8re,-,14,2004
+29,17,50.0,10,Kl\xf6den Andr\xe9as,10,T-Mobile Team,-,14,2004
+30,102,42.0,11,Bettini Paolo,11,Quickstep - Davitamon,-,14,2004
+33,81,41.0,12,Totschnig Georg,12,Gerolsteiner,-,14,2004
+30,11,27.0,13,Ullrich Jan,13,T-Mobile Team,-,14,2004
+28,6,24.0,14,Landis Floyd,14,US Postal Service,-,14,2004
+29,97,22.0,15,Moncouti\xe9 David,15,Cofidis,-,14,2004
+26,107,18.0,16,Mercado Juan Miguel,16,Quickstep - Davitamon,-,14,2004
+35,105,17.0,17,Dufaux Laurent,17,Quickstep - Davitamon,-,14,2004
+30,2,16.0,18,Azevedo Jos\xe9 Bento Carvalho,18,US Postal Service,-,14,2004
+29,67,16.0,19,Sastre Carlos,19,CSC ProTeam,-,14,2004
+27,98,14.0,20,Tombak Janek,20,Cofidis,-,14,2004
+26,27,14.0,21,Pereiro Oscar,21,Phonak Hearing Systems,-,14,2004
+26,37,14.0,22,Martinez Egoi,22,Euskaltel - Euskadi,-,14,2004
+26,87,12.0,23,Scholz Ronny,23,Gerolsteiner,-,14,2004
+28,134,12.0,24,Caucchioli Pietro,24,Alessio - Bianchi,-,14,2004
+31,5,,25*,Hincapie George,25*,US Postal Service,-,14,2004
+26,44,11.0,26,Flecha Juan Antonio,26,Fassa Bortolo,-,14,2004
+32,171,10.0,27,Simoni Gilberto,27,Saeco,-,14,2004
+24,196,10.0,28,Scarponi Michele,28,Domina Vacanze,-,14,2004
+25,129,10.0,29,Voeckler Thomas,29,Brioches La Boulang\xe8re,-,14,2004
+33,3,10.0,30,Beltran Manuel,30,US Postal Service,-,14,2004
+31,66,9.0,31,Piil Jakob,31,CSC ProTeam,-,14,2004
+30,48,8.0,32,Tosatto Matteo,32,Fassa Bortolo,-,14,2004
+29,153,7.0,33,de Groot Bram,33,Rabobank ProTeam,-,14,2004
+33,154,7.0,34,Dekker Erik,34,Rabobank ProTeam,-,14,2004
+24,126,6.0,35,Pineau J\xe9rome,35,Brioches La Boulang\xe8re,-,14,2004
+31,9,6.0,36,Rubiera Jos\xe9 Luis,36,US Postal Service,-,14,2004
+31,122,6.0,37,Beneteau Walter,37,Brioches La Boulang\xe8re,-,14,2004
+30,201,5.0,38,Rinero Christophe,38,R.a.g.t Semence - Mg Rover,-,14,2004
+31,184,5.0,39,Marichal Thierry,39,Lotto - Domo,-,14,2004
+25,162,3.0,40,Casar Sandy,40,Fdjeux.com,-,14,2004
+27,36,3.0,41,Landaluze Inigo,41,Euskaltel - Euskadi,-,14,2004
+30,127,3.0,42,Renier Franck,42,Brioches La Boulang\xe8re,-,14,2004
+26,31,2.0,43,Mayo Iban,43,Euskaltel - Euskadi,-,14,2004
+32,198,2.0,44,Simeoni Filippo,44,Domina Vacanze,-,14,2004
+23,165,2.0,45,Eisel Bernhard,45,Fdjeux.com,-,14,2004
+24,108,1.0,46,Rogers Michael,46,Quickstep - Davitamon,-,14,2004
+30,114,1.0,48,Gonzalez De Galdeano Igor,47,Liberty Seguros,\u25b21,14,2004
+34,63,1.0,47,Bartoli Michele,48,CSC ProTeam,\u25bc1,14,2004
+35,167,1.0,50,Mengin Christophe,49,Fdjeux.com,\u25b21,14,2004
+25,7,1.0,49,Noval Benjamin,50,US Postal Service,\u25bc1,14,2004
+25,146,1.0,51,Krivtsov Yuriy,51,AG2R Pr\xe9voyance,-,14,2004
+28,155,1.0,52,Kroon Karsten,52,Rabobank ProTeam,-,14,2004
+26,93,1.0,53,Casper Jimmy,53,Cofidis,-,14,2004
+34,101,177.0,1,Virenque Richard,1,Quickstep - Davitamon,-,15,2004
+32,1,,4*,Armstrong Lance,2*,US Postal Service,-,15,2004
+30,158,95.0,5,Rasmussen Michael,3,Rabobank ProTeam,\u25b22,15,2004
+26,61,91.0,6,Basso Ivan,4,CSC ProTeam,\u25b22,15,2004
+33,51,78.0,2,Moreau Christophe,5,Cr\xe9dit Agricole,\u25bc3,15,2004
+28,71,77.0,3,Mancebo Francisco,6,Illes Balears - Banesto,\u25bc3,15,2004
+32,69,71.0,8,Voigt Jens,7,CSC ProTeam,\u25b21,15,2004
+31,185,65.0,7,Merckx Axel,8,Lotto - Domo,\u25bc1,15,2004
+29,17,64.0,10,Kl\xf6den Andr\xe9as,9,T-Mobile Team,\u25b21,15,2004
+30,11,57.0,13,Ullrich Jan,10,T-Mobile Team,\u25b23,15,2004
+25,121,53.0,9,Chavanel Sylvain,11,Brioches La Boulang\xe8re,\u25bc2,15,2004
+30,102,42.0,11,Bettini Paolo,12,Quickstep - Davitamon,\u25bc1,15,2004
+33,81,41.0,12,Totschnig Georg,13,Gerolsteiner,\u25bc1,15,2004
+30,2,25.0,18,Azevedo Jos\xe9 Bento Carvalho,14,US Postal Service,\u25b24,15,2004
+29,67,24.0,19,Sastre Carlos,15,CSC ProTeam,\u25b24,15,2004
+28,6,24.0,14,Landis Floyd,16,US Postal Service,\u25bc2,15,2004
+29,97,22.0,15,Moncouti\xe9 David,17,Cofidis,\u25bc2,15,2004
+36,141,20.0,,Brochard Laurent,18,AG2R Pr\xe9voyance,-,15,2004
+26,107,18.0,16,Mercado Juan Miguel,19,Quickstep - Davitamon,\u25bc3,15,2004
+35,105,17.0,17,Dufaux Laurent,20,Quickstep - Davitamon,\u25bc3,15,2004
+30,23,15.0,,Gonzalez Santos,21,Phonak Hearing Systems,-,15,2004
+27,98,14.0,20,Tombak Janek,22,Cofidis,\u25bc2,15,2004
+26,27,14.0,21,Pereiro Oscar,23,Phonak Hearing Systems,\u25bc2,15,2004
+26,37,14.0,22,Martinez Egoi,24,Euskaltel - Euskadi,\u25bc2,15,2004
+26,87,12.0,23,Scholz Ronny,25,Gerolsteiner,\u25bc2,15,2004
+28,134,12.0,24,Caucchioli Pietro,26,Alessio - Bianchi,\u25bc2,15,2004
+30,151,12.0,,Leipheimer Levi,27,Rabobank ProTeam,-,15,2004
+31,5,,25*,Hincapie George,28*,US Postal Service,-,15,2004
+26,44,11.0,26,Flecha Juan Antonio,29,Fassa Bortolo,\u25bc3,15,2004
+32,171,10.0,27,Simoni Gilberto,30,Saeco,\u25bc3,15,2004
+24,196,10.0,28,Scarponi Michele,31,Domina Vacanze,\u25bc3,15,2004
+25,129,10.0,29,Voeckler Thomas,32,Brioches La Boulang\xe8re,\u25bc3,15,2004
+33,3,10.0,30,Beltran Manuel,33,US Postal Service,\u25bc3,15,2004
+28,118,8.0,,Vande Velde Christian,34,Liberty Seguros,-,15,2004
+30,48,8.0,32,Tosatto Matteo,35,Fassa Bortolo,\u25bc3,15,2004
+29,153,7.0,33,de Groot Bram,36,Rabobank ProTeam,\u25bc3,15,2004
+33,154,7.0,34,Dekker Erik,37,Rabobank ProTeam,\u25bc3,15,2004
+24,126,6.0,35,Pineau J\xe9rome,38,Brioches La Boulang\xe8re,\u25bc3,15,2004
+31,9,6.0,36,Rubiera Jos\xe9 Luis,39,US Postal Service,\u25bc3,15,2004
+31,122,6.0,37,Beneteau Walter,40,Brioches La Boulang\xe8re,\u25bc3,15,2004
+30,201,5.0,38,Rinero Christophe,41,R.a.g.t Semence - Mg Rover,\u25bc3,15,2004
+31,73,5.0,,Garcia Jose Vicente,42,Illes Balears - Banesto,-,15,2004
+25,123,5.0,,Charteau Anthony,43,Brioches La Boulang\xe8re,-,15,2004
+31,184,5.0,39,Marichal Thierry,44,Lotto - Domo,\u25bc5,15,2004
+25,162,3.0,40,Casar Sandy,45,Fdjeux.com,\u25bc5,15,2004
+27,36,3.0,41,Landaluze Inigo,46,Euskaltel - Euskadi,\u25bc5,15,2004
+29,45,3.0,,Gonzalez Jimenez Aitor,47,Fassa Bortolo,-,15,2004
+31,13,3.0,,Botero Santiago,48,T-Mobile Team,-,15,2004
+30,127,3.0,42,Renier Franck,49,Brioches La Boulang\xe8re,\u25bc7,15,2004
+30,25,2.0,,Gutierrez Jose Enrique,50,Phonak Hearing Systems,-,15,2004
+31,117,2.0,,Serrano Marcos Antonio,51,Liberty Seguros,-,15,2004
+32,198,2.0,44,Simeoni Filippo,52,Domina Vacanze,\u25bc8,15,2004
+23,165,2.0,45,Eisel Bernhard,53,Fdjeux.com,\u25bc8,15,2004
+23,75,1.0,,Karpets Vladimir,54,Illes Balears - Banesto,-,15,2004
+24,108,1.0,46,Rogers Michael,55,Quickstep - Davitamon,\u25bc9,15,2004
+30,114,1.0,47,Gonzalez De Galdeano Igor,56,Liberty Seguros,\u25bc9,15,2004
+34,63,1.0,48,Bartoli Michele,57,CSC ProTeam,\u25bc9,15,2004
+34,168,1.0,,Robin Jean-Cyril,58,Fdjeux.com,-,15,2004
+25,7,1.0,50,Noval Benjamin,59,US Postal Service,\u25bc9,15,2004
+35,167,1.0,49,Mengin Christophe,60,Fdjeux.com,\u25bc11,15,2004
+25,146,1.0,51,Krivtsov Yuriy,61,AG2R Pr\xe9voyance,\u25bc10,15,2004
+28,155,1.0,52,Kroon Karsten,62,Rabobank ProTeam,\u25bc10,15,2004
+26,93,1.0,53,Casper Jimmy,63,Cofidis,\u25bc10,15,2004
+34,101,177.0,1,Virenque Richard,1,Quickstep - Davitamon,-,16,2004
+32,1,,2*,Armstrong Lance,2*,US Postal Service,-,16,2004
+26,61,101.0,4,Basso Ivan,3,CSC ProTeam,\u25b21,16,2004
+29,17,96.0,9,Kl\xf6den Andr\xe9as,4,T-Mobile Team,\u25b25,16,2004
+30,158,95.0,3,Rasmussen Michael,5,Rabobank ProTeam,\u25bc2,16,2004
+30,11,93.0,10,Ullrich Jan,6,T-Mobile Team,\u25b24,16,2004
+33,51,78.0,5,Moreau Christophe,7,Cr\xe9dit Agricole,\u25bc2,16,2004
+28,71,77.0,6,Mancebo Francisco,8,Illes Balears - Banesto,\u25bc2,16,2004
+32,69,71.0,7,Voigt Jens,9,CSC ProTeam,\u25bc2,16,2004
+31,185,65.0,8,Merckx Axel,10,Lotto - Domo,\u25bc2,16,2004
+25,121,53.0,11,Chavanel Sylvain,11,Brioches La Boulang\xe8re,-,16,2004
+30,2,53.0,14,Azevedo Jos\xe9 Bento Carvalho,12,US Postal Service,\u25b22,16,2004
+30,102,42.0,12,Bettini Paolo,13,Quickstep - Davitamon,\u25bc1,16,2004
+33,81,41.0,13,Totschnig Georg,14,Gerolsteiner,\u25bc1,16,2004
+29,97,36.0,17,Moncouti\xe9 David,15,Cofidis,\u25b22,16,2004
+29,67,36.0,15,Sastre Carlos,16,CSC ProTeam,\u25bc1,16,2004
+30,23,31.0,21,Gonzalez Santos,17,Phonak Hearing Systems,\u25b24,16,2004
+34,14,24.0,,Guerini Giuseppe,18,T-Mobile Team,-,16,2004
+28,6,24.0,16,Landis Floyd,19,US Postal Service,\u25bc3,16,2004
+23,75,21.0,54,Karpets Vladimir,20,Illes Balears - Banesto,\u25b234,16,2004
+36,141,20.0,18,Brochard Laurent,21,AG2R Pr\xe9voyance,\u25bc3,16,2004
+26,107,18.0,19,Mercado Juan Miguel,22,Quickstep - Davitamon,\u25bc3,16,2004
+35,105,17.0,20,Dufaux Laurent,23,Quickstep - Davitamon,\u25bc3,16,2004
+27,98,14.0,22,Tombak Janek,24,Cofidis,\u25bc2,16,2004
+26,27,14.0,23,Pereiro Oscar,25,Phonak Hearing Systems,\u25bc2,16,2004
+26,37,14.0,24,Martinez Egoi,26,Euskaltel - Euskadi,\u25bc2,16,2004
+26,87,12.0,25,Scholz Ronny,27,Gerolsteiner,\u25bc2,16,2004
+28,134,12.0,26,Caucchioli Pietro,28,Alessio - Bianchi,\u25bc2,16,2004
+30,151,12.0,27,Leipheimer Levi,29,Rabobank ProTeam,\u25bc2,16,2004
+31,5,,28*,Hincapie George,30*,US Postal Service,-,16,2004
+26,44,11.0,29,Flecha Juan Antonio,31,Fassa Bortolo,\u25bc2,16,2004
+32,171,10.0,30,Simoni Gilberto,32,Saeco,\u25bc2,16,2004
+24,196,10.0,31,Scarponi Michele,33,Domina Vacanze,\u25bc2,16,2004
+25,129,10.0,32,Voeckler Thomas,34,Brioches La Boulang\xe8re,\u25bc2,16,2004
+33,3,10.0,33,Beltran Manuel,35,US Postal Service,\u25bc2,16,2004
+28,118,8.0,34,Vande Velde Christian,36,Liberty Seguros,\u25bc2,16,2004
+30,48,8.0,35,Tosatto Matteo,37,Fassa Bortolo,\u25bc2,16,2004
+29,153,7.0,36,de Groot Bram,38,Rabobank ProTeam,\u25bc2,16,2004
+33,154,7.0,37,Dekker Erik,39,Rabobank ProTeam,\u25bc2,16,2004
+24,126,6.0,38,Pineau J\xe9rome,40,Brioches La Boulang\xe8re,\u25bc2,16,2004
+31,9,6.0,39,Rubiera Jos\xe9 Luis,41,US Postal Service,\u25bc2,16,2004
+31,122,6.0,40,Beneteau Walter,42,Brioches La Boulang\xe8re,\u25bc2,16,2004
+30,201,5.0,41,Rinero Christophe,43,R.a.g.t Semence - Mg Rover,\u25bc2,16,2004
+31,73,5.0,42,Garcia Jose Vicente,44,Illes Balears - Banesto,\u25bc2,16,2004
+25,123,5.0,43,Charteau Anthony,45,Brioches La Boulang\xe8re,\u25bc2,16,2004
+31,184,5.0,44,Marichal Thierry,46,Lotto - Domo,\u25bc2,16,2004
+25,162,3.0,45,Casar Sandy,47,Fdjeux.com,\u25bc2,16,2004
+27,36,3.0,46,Landaluze Inigo,48,Euskaltel - Euskadi,\u25bc2,16,2004
+29,45,3.0,47,Gonzalez Jimenez Aitor,49,Fassa Bortolo,\u25bc2,16,2004
+31,13,3.0,48,Botero Santiago,50,T-Mobile Team,\u25bc2,16,2004
+30,127,3.0,49,Renier Franck,51,Brioches La Boulang\xe8re,\u25bc2,16,2004
+30,25,2.0,50,Gutierrez Jose Enrique,52,Phonak Hearing Systems,\u25bc2,16,2004
+31,117,2.0,51,Serrano Marcos Antonio,53,Liberty Seguros,\u25bc2,16,2004
+32,198,2.0,52,Simeoni Filippo,54,Domina Vacanze,\u25bc2,16,2004
+23,165,2.0,53,Eisel Bernhard,55,Fdjeux.com,\u25bc2,16,2004
+24,108,1.0,55,Rogers Michael,56,Quickstep - Davitamon,\u25bc1,16,2004
+30,114,1.0,56,Gonzalez De Galdeano Igor,57,Liberty Seguros,\u25bc1,16,2004
+34,63,1.0,57,Bartoli Michele,58,CSC ProTeam,\u25bc1,16,2004
+34,168,1.0,58,Robin Jean-Cyril,59,Fdjeux.com,\u25bc1,16,2004
+25,7,1.0,59,Noval Benjamin,60,US Postal Service,\u25bc1,16,2004
+35,167,1.0,60,Mengin Christophe,61,Fdjeux.com,\u25bc1,16,2004
+25,146,1.0,61,Krivtsov Yuriy,62,AG2R Pr\xe9voyance,\u25bc1,16,2004
+28,155,1.0,62,Kroon Karsten,63,Rabobank ProTeam,\u25bc1,16,2004
+26,93,1.0,63,Casper Jimmy,64,Cofidis,\u25bc1,16,2004
+34,101,226.0,1,Virenque Richard,1,Quickstep - Davitamon,-,17,2004
+32,1,,2*,Armstrong Lance,2*,US Postal Service,-,17,2004
+26,61,119.0,3,Basso Ivan,3,CSC ProTeam,-,17,2004
+30,11,115.0,6,Ullrich Jan,4,T-Mobile Team,\u25b22,17,2004
+29,17,112.0,4,Kl\xf6den Andr\xe9as,5,T-Mobile Team,\u25bc1,17,2004
+33,51,112.0,7,Moreau Christophe,6,Cr\xe9dit Agricole,\u25b21,17,2004
+30,158,109.0,5,Rasmussen Michael,7,Rabobank ProTeam,\u25bc2,17,2004
+28,71,77.0,8,Mancebo Francisco,8,Illes Balears - Banesto,-,17,2004
+32,69,71.0,9,Voigt Jens,9,CSC ProTeam,-,17,2004
+30,2,71.0,12,Azevedo Jos\xe9 Bento Carvalho,10,US Postal Service,\u25b22,17,2004
+31,185,65.0,10,Merckx Axel,11,Lotto - Domo,\u25bc1,17,2004
+32,171,64.0,32,Simoni Gilberto,12,Saeco,\u25b220,17,2004
+28,6,55.0,19,Landis Floyd,13,US Postal Service,\u25b26,17,2004
+30,102,54.0,13,Bettini Paolo,14,Quickstep - Davitamon,\u25bc1,17,2004
+25,121,53.0,11,Chavanel Sylvain,15,Brioches La Boulang\xe8re,\u25bc4,17,2004
+29,67,50.0,16,Sastre Carlos,16,CSC ProTeam,-,17,2004
+33,81,41.0,14,Totschnig Georg,17,Gerolsteiner,\u25bc3,17,2004
+35,12,38.0,,Aldag Rolf,18,T-Mobile Team,-,17,2004
+29,97,36.0,15,Moncouti\xe9 David,19,Cofidis,\u25bc4,17,2004
+28,208,33.0,,Martin Ludovic,20,R.a.g.t Semence - Mg Rover,-,17,2004
+30,23,31.0,17,Gonzalez Santos,21,Phonak Hearing Systems,\u25bc4,17,2004
+32,198,25.0,54,Simeoni Filippo,22,Domina Vacanze,\u25b232,17,2004
+34,14,24.0,18,Guerini Giuseppe,23,T-Mobile Team,\u25bc5,17,2004
+23,75,21.0,20,Karpets Vladimir,24,Illes Balears - Banesto,\u25bc4,17,2004
+36,141,20.0,21,Brochard Laurent,25,AG2R Pr\xe9voyance,\u25bc4,17,2004
+26,107,18.0,22,Mercado Juan Miguel,26,Quickstep - Davitamon,\u25bc4,17,2004
+35,105,17.0,23,Dufaux Laurent,27,Quickstep - Davitamon,\u25bc4,17,2004
+33,3,15.0,35,Beltran Manuel,28,US Postal Service,\u25b27,17,2004
+26,27,14.0,25,Pereiro Oscar,29,Phonak Hearing Systems,\u25bc4,17,2004
+26,37,14.0,26,Martinez Egoi,30,Euskaltel - Euskadi,\u25bc4,17,2004
+31,9,13.0,41,Rubiera Jos\xe9 Luis,31,US Postal Service,\u25b210,17,2004
+26,87,12.0,27,Scholz Ronny,32,Gerolsteiner,\u25bc5,17,2004
+30,151,12.0,29,Leipheimer Levi,33,Rabobank ProTeam,\u25bc4,17,2004
+28,134,12.0,28,Caucchioli Pietro,34,Alessio - Bianchi,\u25bc6,17,2004
+31,5,,30*,Hincapie George,35*,US Postal Service,-,17,2004
+26,44,11.0,31,Flecha Juan Antonio,36,Fassa Bortolo,\u25bc5,17,2004
+24,196,10.0,33,Scarponi Michele,37,Domina Vacanze,\u25bc4,17,2004
+29,15,10.0,,Ivanov Serguei,38,T-Mobile Team,-,17,2004
+25,129,10.0,34,Voeckler Thomas,39,Brioches La Boulang\xe8re,\u25bc5,17,2004
+28,118,8.0,36,Vande Velde Christian,40,Liberty Seguros,\u25bc4,17,2004
+30,48,8.0,37,Tosatto Matteo,41,Fassa Bortolo,\u25bc4,17,2004
+29,153,7.0,38,de Groot Bram,42,Rabobank ProTeam,\u25bc4,17,2004
+33,154,7.0,39,Dekker Erik,43,Rabobank ProTeam,\u25bc4,17,2004
+24,142,7.0,,Astarloza Mikel,44,AG2R Pr\xe9voyance,-,17,2004
+24,126,6.0,40,Pineau J\xe9rome,45,Brioches La Boulang\xe8re,\u25bc5,17,2004
+31,122,6.0,42,Beneteau Walter,46,Brioches La Boulang\xe8re,\u25bc4,17,2004
+27,35,5.0,,Flores Iker,47,Euskaltel - Euskadi,-,17,2004
+30,201,5.0,43,Rinero Christophe,48,R.a.g.t Semence - Mg Rover,\u25bc5,17,2004
+31,73,5.0,44,Garcia Jose Vicente,49,Illes Balears - Banesto,\u25bc5,17,2004
+25,123,5.0,45,Charteau Anthony,50,Brioches La Boulang\xe8re,\u25bc5,17,2004
+31,184,5.0,46,Marichal Thierry,51,Lotto - Domo,\u25bc5,17,2004
+25,162,3.0,47,Casar Sandy,52,Fdjeux.com,\u25bc5,17,2004
+27,36,3.0,48,Landaluze Inigo,53,Euskaltel - Euskadi,\u25bc5,17,2004
+29,45,3.0,49,Gonzalez Jimenez Aitor,54,Fassa Bortolo,\u25bc5,17,2004
+31,13,3.0,50,Botero Santiago,55,T-Mobile Team,\u25bc5,17,2004
+30,127,3.0,51,Renier Franck,56,Brioches La Boulang\xe8re,\u25bc5,17,2004
+30,25,2.0,52,Gutierrez Jose Enrique,57,Phonak Hearing Systems,\u25bc5,17,2004
+31,117,2.0,53,Serrano Marcos Antonio,58,Liberty Seguros,\u25bc5,17,2004
+23,165,2.0,55,Eisel Bernhard,59,Fdjeux.com,\u25bc4,17,2004
+24,108,1.0,56,Rogers Michael,60,Quickstep - Davitamon,\u25bc4,17,2004
+30,114,1.0,57,Gonzalez De Galdeano Igor,61,Liberty Seguros,\u25bc4,17,2004
+34,168,1.0,59,Robin Jean-Cyril,62,Fdjeux.com,\u25bc3,17,2004
+25,7,1.0,60,Noval Benjamin,63,US Postal Service,\u25bc3,17,2004
+35,167,1.0,61,Mengin Christophe,64,Fdjeux.com,\u25bc3,17,2004
+25,146,1.0,62,Krivtsov Yuriy,65,AG2R Pr\xe9voyance,\u25bc3,17,2004
+28,155,1.0,63,Kroon Karsten,66,Rabobank ProTeam,\u25bc3,17,2004
+26,93,1.0,64,Casper Jimmy,67,Cofidis,\u25bc3,17,2004
+34,101,226.0,1,Virenque Richard,1,Quickstep - Davitamon,-,18,2004
+32,1,,2*,Armstrong Lance,2*,US Postal Service,-,18,2004
+26,61,119.0,3,Basso Ivan,3,CSC ProTeam,-,18,2004
+30,158,119.0,7,Rasmussen Michael,4,Rabobank ProTeam,\u25b23,18,2004
+30,11,115.0,4,Ullrich Jan,5,T-Mobile Team,\u25bc1,18,2004
+29,17,112.0,5,Kl\xf6den Andr\xe9as,6,T-Mobile Team,\u25bc1,18,2004
+33,51,112.0,6,Moreau Christophe,7,Cr\xe9dit Agricole,\u25bc1,18,2004
+28,71,77.0,8,Mancebo Francisco,8,Illes Balears - Banesto,-,18,2004
+32,69,71.0,9,Voigt Jens,9,CSC ProTeam,-,18,2004
+31,185,65.0,11,Merckx Axel,10,Lotto - Domo,\u25b21,18,2004
+32,171,64.0,12,Simoni Gilberto,11,Saeco,\u25b21,18,2004
+30,2,59.0,10,Azevedo Jos\xe9 Bento Carvalho,12,US Postal Service,\u25bc2,18,2004
+28,6,55.0,13,Landis Floyd,13,US Postal Service,-,18,2004
+30,102,54.0,14,Bettini Paolo,14,Quickstep - Davitamon,-,18,2004
+25,121,53.0,15,Chavanel Sylvain,15,Brioches La Boulang\xe8re,-,18,2004
+33,81,53.0,17,Totschnig Georg,16,Gerolsteiner,\u25b21,18,2004
+29,67,50.0,16,Sastre Carlos,17,CSC ProTeam,\u25bc1,18,2004
+26,107,39.0,26,Mercado Juan Miguel,18,Quickstep - Davitamon,\u25b28,18,2004
+35,12,38.0,18,Aldag Rolf,19,T-Mobile Team,\u25bc1,18,2004
+29,97,36.0,19,Moncouti\xe9 David,20,Cofidis,\u25bc1,18,2004
+28,208,33.0,20,Martin Ludovic,21,R.a.g.t Semence - Mg Rover,\u25bc1,18,2004
+30,23,31.0,21,Gonzalez Santos,22,Phonak Hearing Systems,\u25bc1,18,2004
+32,198,25.0,22,Simeoni Filippo,23,Domina Vacanze,\u25bc1,18,2004
+34,14,24.0,23,Guerini Giuseppe,24,T-Mobile Team,\u25bc1,18,2004
+23,75,21.0,24,Karpets Vladimir,25,Illes Balears - Banesto,\u25bc1,18,2004
+26,44,21.0,36,Flecha Juan Antonio,26,Fassa Bortolo,\u25b210,18,2004
+36,141,20.0,25,Brochard Laurent,27,AG2R Pr\xe9voyance,\u25bc2,18,2004
+35,105,17.0,27,Dufaux Laurent,28,Quickstep - Davitamon,\u25bc1,18,2004
+31,73,16.0,49,Garcia Jose Vicente,29,Illes Balears - Banesto,\u25b220,18,2004
+33,3,15.0,28,Beltran Manuel,30,US Postal Service,\u25bc2,18,2004
+27,96,14.0,,Fofonov Dimitri,31,Cofidis,-,18,2004
+26,27,14.0,29,Pereiro Oscar,32,Phonak Hearing Systems,\u25bc3,18,2004
+26,37,14.0,30,Martinez Egoi,33,Euskaltel - Euskadi,\u25bc3,18,2004
+31,9,13.0,31,Rubiera Jos\xe9 Luis,34,US Postal Service,\u25bc3,18,2004
+26,87,12.0,32,Scholz Ronny,35,Gerolsteiner,\u25bc3,18,2004
+30,151,12.0,33,Leipheimer Levi,36,Rabobank ProTeam,\u25bc3,18,2004
+28,134,12.0,34,Caucchioli Pietro,37,Alessio - Bianchi,\u25bc3,18,2004
+31,5,,35*,Hincapie George,38*,US Postal Service,-,18,2004
+30,156,12.0,,Lotz Marc,39,Rabobank ProTeam,-,18,2004
+24,196,10.0,37,Scarponi Michele,40,Domina Vacanze,\u25bc3,18,2004
+25,129,10.0,39,Voeckler Thomas,41,Brioches La Boulang\xe8re,\u25bc2,18,2004
+25,58,9.0,,Joly S\xe9bastien,42,Cr\xe9dit Agricole,-,18,2004
+28,118,8.0,40,Vande Velde Christian,43,Liberty Seguros,\u25bc3,18,2004
+30,48,8.0,41,Tosatto Matteo,44,Fassa Bortolo,\u25bc3,18,2004
+29,153,7.0,42,de Groot Bram,45,Rabobank ProTeam,\u25bc3,18,2004
+33,154,7.0,43,Dekker Erik,46,Rabobank ProTeam,\u25bc3,18,2004
+24,142,7.0,44,Astarloza Mikel,47,AG2R Pr\xe9voyance,\u25bc3,18,2004
+24,126,6.0,45,Pineau J\xe9rome,48,Brioches La Boulang\xe8re,\u25bc3,18,2004
+31,122,6.0,46,Beneteau Walter,49,Brioches La Boulang\xe8re,\u25bc3,18,2004
+27,35,5.0,47,Flores Iker,50,Euskaltel - Euskadi,\u25bc3,18,2004
+30,201,5.0,48,Rinero Christophe,51,R.a.g.t Semence - Mg Rover,\u25bc3,18,2004
+25,123,5.0,50,Charteau Anthony,52,Brioches La Boulang\xe8re,\u25bc2,18,2004
+31,184,5.0,51,Marichal Thierry,53,Lotto - Domo,\u25bc2,18,2004
+25,162,3.0,52,Casar Sandy,54,Fdjeux.com,\u25bc2,18,2004
+27,36,3.0,53,Landaluze Inigo,55,Euskaltel - Euskadi,\u25bc2,18,2004
+29,45,3.0,54,Gonzalez Jimenez Aitor,56,Fassa Bortolo,\u25bc2,18,2004
+31,13,3.0,55,Botero Santiago,57,T-Mobile Team,\u25bc2,18,2004
+30,127,3.0,56,Renier Franck,58,Brioches La Boulang\xe8re,\u25bc2,18,2004
+30,25,2.0,57,Gutierrez Jose Enrique,59,Phonak Hearing Systems,\u25bc2,18,2004
+31,117,2.0,58,Serrano Marcos Antonio,60,Liberty Seguros,\u25bc2,18,2004
+23,165,2.0,59,Eisel Bernhard,61,Fdjeux.com,\u25bc2,18,2004
+24,108,1.0,60,Rogers Michael,62,Quickstep - Davitamon,\u25bc2,18,2004
+30,114,1.0,61,Gonzalez De Galdeano Igor,63,Liberty Seguros,\u25bc2,18,2004
+34,168,1.0,62,Robin Jean-Cyril,64,Fdjeux.com,\u25bc2,18,2004
+25,7,1.0,63,Noval Benjamin,65,US Postal Service,\u25bc2,18,2004
+35,167,1.0,64,Mengin Christophe,66,Fdjeux.com,\u25bc2,18,2004
+25,146,1.0,65,Krivtsov Yuriy,67,AG2R Pr\xe9voyance,\u25bc2,18,2004
+28,155,1.0,66,Kroon Karsten,68,Rabobank ProTeam,\u25bc2,18,2004
+26,93,1.0,67,Casper Jimmy,69,Cofidis,\u25bc2,18,2004
+34,101,226.0,1,Virenque Richard,1,Quickstep - Davitamon,-,19,2004
+32,1,,2*,Armstrong Lance,2*,US Postal Service,-,19,2004
+26,61,119.0,3,Basso Ivan,3,CSC ProTeam,-,19,2004
+30,158,119.0,4,Rasmussen Michael,4,Rabobank ProTeam,-,19,2004
+30,11,115.0,5,Ullrich Jan,5,T-Mobile Team,-,19,2004
+29,17,112.0,6,Kl\xf6den Andr\xe9as,6,T-Mobile Team,-,19,2004
+33,51,112.0,7,Moreau Christophe,7,Cr\xe9dit Agricole,-,19,2004
+28,71,77.0,8,Mancebo Francisco,8,Illes Balears - Banesto,-,19,2004
+32,69,71.0,9,Voigt Jens,9,CSC ProTeam,-,19,2004
+31,185,65.0,10,Merckx Axel,10,Lotto - Domo,-,19,2004
+32,171,64.0,11,Simoni Gilberto,11,Saeco,-,19,2004
+30,2,59.0,12,Azevedo Jos\xe9 Bento Carvalho,12,US Postal Service,-,19,2004
+28,6,55.0,13,Landis Floyd,13,US Postal Service,-,19,2004
+30,102,54.0,14,Bettini Paolo,14,Quickstep - Davitamon,-,19,2004
+25,121,53.0,15,Chavanel Sylvain,15,Brioches La Boulang\xe8re,-,19,2004
+33,81,53.0,16,Totschnig Georg,16,Gerolsteiner,-,19,2004
+29,67,50.0,17,Sastre Carlos,17,CSC ProTeam,-,19,2004
+26,107,39.0,18,Mercado Juan Miguel,18,Quickstep - Davitamon,-,19,2004
+35,12,38.0,19,Aldag Rolf,19,T-Mobile Team,-,19,2004
+29,97,36.0,20,Moncouti\xe9 David,20,Cofidis,-,19,2004
+28,208,33.0,21,Martin Ludovic,21,R.a.g.t Semence - Mg Rover,-,19,2004
+30,23,31.0,22,Gonzalez Santos,22,Phonak Hearing Systems,-,19,2004
+32,198,25.0,23,Simeoni Filippo,23,Domina Vacanze,-,19,2004
+34,14,24.0,24,Guerini Giuseppe,24,T-Mobile Team,-,19,2004
+23,75,21.0,25,Karpets Vladimir,25,Illes Balears - Banesto,-,19,2004
+26,44,21.0,26,Flecha Juan Antonio,26,Fassa Bortolo,-,19,2004
+36,141,20.0,27,Brochard Laurent,27,AG2R Pr\xe9voyance,-,19,2004
+35,105,17.0,28,Dufaux Laurent,28,Quickstep - Davitamon,-,19,2004
+31,73,16.0,29,Garcia Jose Vicente,29,Illes Balears - Banesto,-,19,2004
+33,3,15.0,30,Beltran Manuel,30,US Postal Service,-,19,2004
+27,96,14.0,31,Fofonov Dimitri,31,Cofidis,-,19,2004
+26,27,14.0,32,Pereiro Oscar,32,Phonak Hearing Systems,-,19,2004
+26,37,14.0,33,Martinez Egoi,33,Euskaltel - Euskadi,-,19,2004
+31,9,13.0,34,Rubiera Jos\xe9 Luis,34,US Postal Service,-,19,2004
+26,87,12.0,35,Scholz Ronny,35,Gerolsteiner,-,19,2004
+30,151,12.0,36,Leipheimer Levi,36,Rabobank ProTeam,-,19,2004
+28,134,12.0,37,Caucchioli Pietro,37,Alessio - Bianchi,-,19,2004
+31,5,,38*,Hincapie George,38*,US Postal Service,-,19,2004
+30,156,12.0,39,Lotz Marc,39,Rabobank ProTeam,-,19,2004
+24,196,10.0,40,Scarponi Michele,40,Domina Vacanze,-,19,2004
+25,129,10.0,41,Voeckler Thomas,41,Brioches La Boulang\xe8re,-,19,2004
+25,58,9.0,42,Joly S\xe9bastien,42,Cr\xe9dit Agricole,-,19,2004
+28,118,8.0,43,Vande Velde Christian,43,Liberty Seguros,-,19,2004
+30,48,8.0,44,Tosatto Matteo,44,Fassa Bortolo,-,19,2004
+29,153,7.0,45,de Groot Bram,45,Rabobank ProTeam,-,19,2004
+33,154,7.0,46,Dekker Erik,46,Rabobank ProTeam,-,19,2004
+24,142,7.0,47,Astarloza Mikel,47,AG2R Pr\xe9voyance,-,19,2004
+24,126,6.0,48,Pineau J\xe9rome,48,Brioches La Boulang\xe8re,-,19,2004
+31,122,6.0,49,Beneteau Walter,49,Brioches La Boulang\xe8re,-,19,2004
+27,35,5.0,50,Flores Iker,50,Euskaltel - Euskadi,-,19,2004
+30,201,5.0,51,Rinero Christophe,51,R.a.g.t Semence - Mg Rover,-,19,2004
+25,123,5.0,52,Charteau Anthony,52,Brioches La Boulang\xe8re,-,19,2004
+31,184,5.0,53,Marichal Thierry,53,Lotto - Domo,-,19,2004
+25,162,3.0,54,Casar Sandy,54,Fdjeux.com,-,19,2004
+27,36,3.0,55,Landaluze Inigo,55,Euskaltel - Euskadi,-,19,2004
+29,45,3.0,56,Gonzalez Jimenez Aitor,56,Fassa Bortolo,-,19,2004
+31,13,3.0,57,Botero Santiago,57,T-Mobile Team,-,19,2004
+30,127,3.0,58,Renier Franck,58,Brioches La Boulang\xe8re,-,19,2004
+30,25,2.0,59,Gutierrez Jose Enrique,59,Phonak Hearing Systems,-,19,2004
+31,117,2.0,60,Serrano Marcos Antonio,60,Liberty Seguros,-,19,2004
+23,165,2.0,61,Eisel Bernhard,61,Fdjeux.com,-,19,2004
+24,108,1.0,62,Rogers Michael,62,Quickstep - Davitamon,-,19,2004
+30,114,1.0,63,Gonzalez De Galdeano Igor,63,Liberty Seguros,-,19,2004
+34,168,1.0,64,Robin Jean-Cyril,64,Fdjeux.com,-,19,2004
+25,7,1.0,65,Noval Benjamin,65,US Postal Service,-,19,2004
+35,167,1.0,66,Mengin Christophe,66,Fdjeux.com,-,19,2004
+25,146,1.0,67,Krivtsov Yuriy,67,AG2R Pr\xe9voyance,-,19,2004
+28,155,1.0,68,Kroon Karsten,68,Rabobank ProTeam,-,19,2004
+26,93,1.0,69,Casper Jimmy,69,Cofidis,-,19,2004
+34,101,226.0,1,Virenque Richard,1,Quickstep - Davitamon,-,20,2004
+32,1,,2*,Armstrong Lance,2*,US Postal Service,-,20,2004
+30,158,119.0,4,Rasmussen Michael,3,Rabobank ProTeam,\u25b21,20,2004
+26,61,119.0,3,Basso Ivan,4,CSC ProTeam,\u25bc1,20,2004
+33,51,115.0,7,Moreau Christophe,5,Cr\xe9dit Agricole,\u25b22,20,2004
+30,11,115.0,5,Ullrich Jan,6,T-Mobile Team,\u25bc1,20,2004
+29,17,112.0,6,Kl\xf6den Andr\xe9as,7,T-Mobile Team,\u25bc1,20,2004
+28,71,77.0,8,Mancebo Francisco,8,Illes Balears - Banesto,-,20,2004
+32,69,71.0,9,Voigt Jens,9,CSC ProTeam,-,20,2004
+31,185,65.0,10,Merckx Axel,10,Lotto - Domo,-,20,2004
+32,171,64.0,11,Simoni Gilberto,11,Saeco,-,20,2004
+30,2,61.0,12,Azevedo Jos\xe9 Bento Carvalho,12,US Postal Service,-,20,2004
+28,6,55.0,13,Landis Floyd,13,US Postal Service,-,20,2004
+30,102,54.0,14,Bettini Paolo,14,Quickstep - Davitamon,-,20,2004
+25,121,53.0,15,Chavanel Sylvain,15,Brioches La Boulang\xe8re,-,20,2004
+33,81,53.0,16,Totschnig Georg,16,Gerolsteiner,-,20,2004
+29,67,50.0,17,Sastre Carlos,17,CSC ProTeam,-,20,2004
+26,107,39.0,18,Mercado Juan Miguel,18,Quickstep - Davitamon,-,20,2004
+35,12,38.0,19,Aldag Rolf,19,T-Mobile Team,-,20,2004
+29,97,36.0,20,Moncouti\xe9 David,20,Cofidis,-,20,2004
+28,208,33.0,21,Martin Ludovic,21,R.a.g.t Semence - Mg Rover,-,20,2004
+30,23,31.0,22,Gonzalez Santos,22,Phonak Hearing Systems,-,20,2004
+32,198,25.0,23,Simeoni Filippo,23,Domina Vacanze,-,20,2004
+34,14,24.0,24,Guerini Giuseppe,24,T-Mobile Team,-,20,2004
+23,75,21.0,25,Karpets Vladimir,25,Illes Balears - Banesto,-,20,2004
+26,44,21.0,26,Flecha Juan Antonio,26,Fassa Bortolo,-,20,2004
+36,141,20.0,27,Brochard Laurent,27,AG2R Pr\xe9voyance,-,20,2004
+35,105,17.0,28,Dufaux Laurent,28,Quickstep - Davitamon,-,20,2004
+31,73,16.0,29,Garcia Jose Vicente,29,Illes Balears - Banesto,-,20,2004
+33,3,15.0,30,Beltran Manuel,30,US Postal Service,-,20,2004
+27,96,14.0,31,Fofonov Dimitri,31,Cofidis,-,20,2004
+26,27,14.0,32,Pereiro Oscar,32,Phonak Hearing Systems,-,20,2004
+26,37,14.0,33,Martinez Egoi,33,Euskaltel - Euskadi,-,20,2004
+31,9,13.0,34,Rubiera Jos\xe9 Luis,34,US Postal Service,-,20,2004
+31,5,,38*,Hincapie George,35*,US Postal Service,-,20,2004
+26,87,12.0,35,Scholz Ronny,36,Gerolsteiner,\u25bc1,20,2004
+30,151,12.0,36,Leipheimer Levi,37,Rabobank ProTeam,\u25bc1,20,2004
+28,134,12.0,37,Caucchioli Pietro,38,Alessio - Bianchi,\u25bc1,20,2004
+30,156,12.0,39,Lotz Marc,39,Rabobank ProTeam,-,20,2004
+24,196,10.0,40,Scarponi Michele,40,Domina Vacanze,-,20,2004
+25,129,10.0,41,Voeckler Thomas,41,Brioches La Boulang\xe8re,-,20,2004
+25,58,9.0,42,Joly S\xe9bastien,42,Cr\xe9dit Agricole,-,20,2004
+28,118,8.0,43,Vande Velde Christian,43,Liberty Seguros,-,20,2004
+30,48,8.0,44,Tosatto Matteo,44,Fassa Bortolo,-,20,2004
+29,153,7.0,45,de Groot Bram,45,Rabobank ProTeam,-,20,2004
+33,154,7.0,46,Dekker Erik,46,Rabobank ProTeam,-,20,2004
+24,142,7.0,47,Astarloza Mikel,47,AG2R Pr\xe9voyance,-,20,2004
+24,126,6.0,48,Pineau J\xe9rome,48,Brioches La Boulang\xe8re,-,20,2004
+31,122,6.0,49,Beneteau Walter,49,Brioches La Boulang\xe8re,-,20,2004
+27,35,5.0,50,Flores Iker,50,Euskaltel - Euskadi,-,20,2004
+30,201,5.0,51,Rinero Christophe,51,R.a.g.t Semence - Mg Rover,-,20,2004
+25,123,5.0,52,Charteau Anthony,52,Brioches La Boulang\xe8re,-,20,2004
+31,184,5.0,53,Marichal Thierry,53,Lotto - Domo,-,20,2004
+25,162,3.0,54,Casar Sandy,54,Fdjeux.com,-,20,2004
+27,36,3.0,55,Landaluze Inigo,55,Euskaltel - Euskadi,-,20,2004
+29,45,3.0,56,Gonzalez Jimenez Aitor,56,Fassa Bortolo,-,20,2004
+31,13,3.0,57,Botero Santiago,57,T-Mobile Team,-,20,2004
+30,127,3.0,58,Renier Franck,58,Brioches La Boulang\xe8re,-,20,2004
+30,25,2.0,59,Gutierrez Jose Enrique,59,Phonak Hearing Systems,-,20,2004
+31,117,2.0,60,Serrano Marcos Antonio,60,Liberty Seguros,-,20,2004
+23,165,2.0,61,Eisel Bernhard,61,Fdjeux.com,-,20,2004
+24,108,1.0,62,Rogers Michael,62,Quickstep - Davitamon,-,20,2004
+30,114,1.0,63,Gonzalez De Galdeano Igor,63,Liberty Seguros,-,20,2004
+34,168,1.0,64,Robin Jean-Cyril,64,Fdjeux.com,-,20,2004
+25,7,1.0,65,Noval Benjamin,65,US Postal Service,-,20,2004
+35,167,1.0,66,Mengin Christophe,66,Fdjeux.com,-,20,2004
+25,146,1.0,67,Krivtsov Yuriy,67,AG2R Pr\xe9voyance,-,20,2004
+28,155,1.0,68,Kroon Karsten,68,Rabobank ProTeam,-,20,2004
+26,93,1.0,69,Casper Jimmy,69,Cofidis,-,20,2004

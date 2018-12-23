@@ -1,0 +1,186 @@
+Age,BIB,Pnt,Prev,Rider,Rnk,Team,\u25bc\u25b2,stage,year
+33,21,10,,Contador Alberto,1,Tinkoff,,0,2016
+31,11,8,,Porte Richie,2,BMC Racing Team,,0,2016
+31,1,6,,Froome Christopher,3,Team Sky,,0,2016
+29,41,4,,Martin Daniel,4,Etixx - Quick Step,,0,2016
+23,42,2,,Alaphilippe Julian,5,Etixx - Quick Step,,0,2016
+28,5,1,,Poels Wout,6,Team Sky,,0,2016
+33,21,10,1.0,Contador Alberto,1,Tinkoff,-,1,2016
+31,11,8,2.0,Porte Richie,2,BMC Racing Team,-,1,2016
+31,1,6,3.0,Froome Christopher,3,Team Sky,-,1,2016
+29,41,4,4.0,Martin Daniel,4,Etixx - Quick Step,-,1,2016
+26,182,3,,Backaert Frederik,5,Wanty - Groupe Gobert,-,1,2016
+23,42,2,5.0,Alaphilippe Julian,6,Etixx - Quick Step,\u25bc1,1,2016
+29,72,1,,Docker Mitchell,7,Orica GreenEDGE,-,1,2016
+28,5,1,6.0,Poels Wout,8,Team Sky,\u25bc2,1,2016
+33,21,10,1.0,Contador Alberto,1,Tinkoff,-,2,2016
+31,11,8,2.0,Porte Richie,2,BMC Racing Team,-,2,2016
+27,118,7,,Teklehaimanot Daniel,3,Team Dimension Data,-,2,2016
+23,67,6,,Gougeard Alexis,4,AG2R La Mondiale,-,2,2016
+31,1,6,3.0,Froome Christopher,5,Team Sky,\u25bc2,2,2016
+35,195,5,,Huzarski Bartosz,6,Bora - Argon 18,-,2,2016
+29,41,4,4.0,Martin Daniel,7,Etixx - Quick Step,\u25bc3,2,2016
+23,142,4,,Calmejane Lilian,8,Direct Energie,-,2,2016
+26,182,3,5.0,Backaert Frederik,9,Wanty - Groupe Gobert,\u25bc4,2,2016
+25,133,2,,Herrada Jes\xfas,10,Movistar Team,-,2,2016
+23,42,2,6.0,Alaphilippe Julian,11,Etixx - Quick Step,\u25bc5,2,2016
+32,116,2,,Pauwels Serge,12,Team Dimension Data,-,2,2016
+29,72,1,7.0,Docker Mitchell,13,Orica GreenEDGE,\u25bc6,2,2016
+28,91,1,,Gallopin Tony,14,Lotto Soudal,-,2,2016
+31,145,1,,Jeandesboz Fabrice,15,Direct Energie,-,2,2016
+28,5,1,8.0,Poels Wout,16,Team Sky,\u25bc8,2,2016
+33,21,10,1.0,Contador Alberto,1,Tinkoff,-,3,2016
+31,11,8,2.0,Porte Richie,2,BMC Racing Team,-,3,2016
+27,118,7,3.0,Teklehaimanot Daniel,3,Team Dimension Data,-,3,2016
+23,67,6,4.0,Gougeard Alexis,4,AG2R La Mondiale,-,3,2016
+31,1,6,5.0,Froome Christopher,5,Team Sky,-,3,2016
+31,45,5,,Martin Tony,6,Etixx - Quick Step,-,3,2016
+35,195,5,6.0,Huzarski Bartosz,7,Bora - Argon 18,\u25bc1,3,2016
+29,41,4,7.0,Martin Daniel,8,Etixx - Quick Step,\u25bc1,3,2016
+23,142,4,8.0,Calmejane Lilian,9,Direct Energie,\u25bc1,3,2016
+26,182,3,9.0,Backaert Frederik,10,Wanty - Groupe Gobert,\u25bc1,3,2016
+25,51,3,,Aru Fabio,11,Astana Pro Team,-,3,2016
+25,133,2,10.0,Herrada Jes\xfas,12,Movistar Team,\u25bc2,3,2016
+23,42,2,11.0,Alaphilippe Julian,13,Etixx - Quick Step,\u25bc2,3,2016
+29,151,2,,Rolland Pierre,14,Cannondale Pro Cycling Team,-,3,2016
+32,116,2,12.0,Pauwels Serge,15,Team Dimension Data,\u25bc3,3,2016
+29,94,1,,De Gendt Thomas,16,Lotto Soudal,-,3,2016
+32,46,1,,Terpstra Niki,17,Etixx - Quick Step,-,3,2016
+28,91,1,14.0,Gallopin Tony,18,Lotto Soudal,\u25bc4,3,2016
+31,145,1,15.0,Jeandesboz Fabrice,19,Direct Energie,\u25bc4,3,2016
+28,5,1,16.0,Poels Wout,20,Team Sky,\u25bc4,3,2016
+24,204,1,,Grmay Tsgabu,21,Lampre - Merida,-,3,2016
+33,21,10,1.0,Contador Alberto,1,Tinkoff,-,4,2016
+31,11,8,2.0,Porte Richie,2,BMC Racing Team,-,4,2016
+27,118,7,3.0,Teklehaimanot Daniel,3,Team Dimension Data,-,4,2016
+23,67,6,4.0,Gougeard Alexis,4,AG2R La Mondiale,-,4,2016
+31,1,6,5.0,Froome Christopher,5,Team Sky,-,4,2016
+31,45,5,6.0,Martin Tony,6,Etixx - Quick Step,-,4,2016
+35,195,5,7.0,Huzarski Bartosz,7,Bora - Argon 18,-,4,2016
+29,41,4,8.0,Martin Daniel,8,Etixx - Quick Step,-,4,2016
+23,142,4,9.0,Calmejane Lilian,9,Direct Energie,-,4,2016
+26,182,3,10.0,Backaert Frederik,10,Wanty - Groupe Gobert,-,4,2016
+25,51,3,11.0,Aru Fabio,11,Astana Pro Team,-,4,2016
+25,133,2,12.0,Herrada Jes\xfas,12,Movistar Team,-,4,2016
+23,42,2,13.0,Alaphilippe Julian,13,Etixx - Quick Step,-,4,2016
+29,151,2,14.0,Rolland Pierre,14,Cannondale Pro Cycling Team,-,4,2016
+32,116,2,15.0,Pauwels Serge,15,Team Dimension Data,-,4,2016
+37,188,1,,Veuchelen Frederik,16,Wanty - Groupe Gobert,-,4,2016
+28,146,1,,Nauleau Bryan,17,Direct Energie,-,4,2016
+29,94,1,16.0,De Gendt Thomas,18,Lotto Soudal,\u25bc2,4,2016
+32,46,1,17.0,Terpstra Niki,19,Etixx - Quick Step,\u25bc2,4,2016
+28,91,1,18.0,Gallopin Tony,20,Lotto Soudal,\u25bc2,4,2016
+31,145,1,19.0,Jeandesboz Fabrice,21,Direct Energie,\u25bc2,4,2016
+28,5,1,20.0,Poels Wout,22,Team Sky,\u25bc2,4,2016
+24,204,1,21.0,Grmay Tsgabu,23,Lampre - Merida,\u25bc2,4,2016
+27,118,22,3.0,Teklehaimanot Daniel,1,Team Dimension Data,\u25b22,5,2016
+24,204,13,23.0,Grmay Tsgabu,2,Lampre - Merida,\u25b221,5,2016
+31,1,11,5.0,Froome Christopher,3,Team Sky,\u25b22,5,2016
+31,11,11,2.0,Porte Richie,4,BMC Racing Team,\u25bc2,5,2016
+33,21,10,1.0,Contador Alberto,5,Tinkoff,\u25bc4,5,2016
+36,141,7,,Voeckler Thomas,6,Direct Energie,-,5,2016
+28,5,6,22.0,Poels Wout,7,Team Sky,\u25b215,5,2016
+29,41,6,8.0,Martin Daniel,8,Etixx - Quick Step,-,5,2016
+31,45,5,6.0,Martin Tony,9,Etixx - Quick Step,\u25bc3,5,2016
+35,195,5,7.0,Huzarski Bartosz,10,Bora - Argon 18,\u25bc3,5,2016
+23,142,4,9.0,Calmejane Lilian,11,Direct Energie,\u25bc2,5,2016
+26,182,3,10.0,Backaert Frederik,12,Wanty - Groupe Gobert,\u25bc2,5,2016
+25,51,3,11.0,Aru Fabio,13,Astana Pro Team,\u25bc2,5,2016
+27,187,3,,Thurau Bjorn,14,Wanty - Groupe Gobert,-,5,2016
+25,133,2,12.0,Herrada Jes\xfas,15,Movistar Team,\u25bc3,5,2016
+32,53,2,,Grivko Andrei,16,Astana Pro Team,-,5,2016
+23,42,2,13.0,Alaphilippe Julian,17,Etixx - Quick Step,\u25bc4,5,2016
+29,151,2,14.0,Rolland Pierre,18,Cannondale Pro Cycling Team,\u25bc4,5,2016
+30,62,2,,Bakelants Jan,19,AG2R La Mondiale,-,5,2016
+32,116,2,15.0,Pauwels Serge,20,Team Dimension Data,\u25bc5,5,2016
+37,188,1,16.0,Veuchelen Frederik,21,Wanty - Groupe Gobert,\u25bc5,5,2016
+29,94,1,18.0,De Gendt Thomas,22,Lotto Soudal,\u25bc4,5,2016
+28,146,1,17.0,Nauleau Bryan,23,Direct Energie,\u25bc6,5,2016
+32,46,1,19.0,Terpstra Niki,24,Etixx - Quick Step,\u25bc5,5,2016
+23,78,1,,Yates Adam,25,Orica GreenEDGE,-,5,2016
+30,16,1,,Hermans Ben,26,BMC Racing Team,-,5,2016
+27,35,1,,Reichenbach Sebastien,27,FDJ,-,5,2016
+31,145,1,21.0,Jeandesboz Fabrice,28,Direct Energie,\u25bc7,5,2016
+34,181,1,,Gasparotto Enrico,29,Wanty - Groupe Gobert,-,5,2016
+28,91,1,20.0,Gallopin Tony,30,Lotto Soudal,\u25bc10,5,2016
+29,112,1,,Boasson Hagen Edvald,31,Team Dimension Data,-,5,2016
+26,31,37,,Pinot Thibaut,1,FDJ,-,6,2016
+27,118,37,1.0,Teklehaimanot Daniel,2,Team Dimension Data,\u25bc1,6,2016
+24,204,30,2.0,Grmay Tsgabu,3,Lampre - Merida,\u25bc1,6,2016
+30,63,16,,Ch\xe9rel Micka\xebl,4,AG2R La Mondiale,-,6,2016
+32,116,16,20.0,Pauwels Serge,5,Team Dimension Data,\u25b215,6,2016
+31,1,15,3.0,Froome Christopher,6,Team Sky,\u25bc3,6,2016
+25,61,14,,Bardet Romain,7,AG2R La Mondiale,-,6,2016
+29,41,12,8.0,Martin Daniel,8,Etixx - Quick Step,-,6,2016
+33,21,11,5.0,Contador Alberto,9,Tinkoff,\u25bc4,6,2016
+31,11,11,4.0,Porte Richie,10,BMC Racing Team,\u25bc6,6,2016
+30,62,10,19.0,Bakelants Jan,11,AG2R La Mondiale,\u25b28,6,2016
+22,98,10,,Vervaeke Louis,12,Lotto Soudal,-,6,2016
+36,141,9,6.0,Voeckler Thomas,13,Direct Energie,\u25bc7,6,2016
+26,161,9,,Bennett George,14,Team LottoNL-Jumbo,-,6,2016
+28,5,6,7.0,Poels Wout,15,Team Sky,\u25bc8,6,2016
+31,45,5,9.0,Martin Tony,16,Etixx - Quick Step,\u25bc7,6,2016
+30,16,5,26.0,Hermans Ben,17,BMC Racing Team,\u25b29,6,2016
+29,24,5,,Ki\u0161erlovski Robert,18,Tinkoff,-,6,2016
+35,195,5,10.0,Huzarski Bartosz,19,Bora - Argon 18,\u25bc9,6,2016
+23,142,4,11.0,Calmejane Lilian,20,Direct Energie,\u25bc9,6,2016
+26,182,3,12.0,Backaert Frederik,21,Wanty - Groupe Gobert,\u25bc9,6,2016
+30,25,3,,Kreuziger Roman,22,Tinkoff,-,6,2016
+25,51,3,13.0,Aru Fabio,23,Astana Pro Team,\u25bc10,6,2016
+27,187,3,14.0,Thurau Bjorn,24,Wanty - Groupe Gobert,\u25bc10,6,2016
+31,75,3,,Impey Daryl,25,Orica GreenEDGE,-,6,2016
+25,133,2,15.0,Herrada Jes\xfas,26,Movistar Team,\u25bc11,6,2016
+32,53,2,16.0,Grivko Andrei,27,Astana Pro Team,\u25bc11,6,2016
+24,42,2,17.0,Alaphilippe Julian,28,Etixx - Quick Step,\u25bc11,6,2016
+24,201,2,,Meintjes Louis,29,Lampre - Merida,-,6,2016
+29,151,2,18.0,Rolland Pierre,30,Cannondale Pro Cycling Team,\u25bc12,6,2016
+29,94,1,22.0,De Gendt Thomas,31,Lotto Soudal,\u25bc9,6,2016
+37,188,1,21.0,Veuchelen Frederik,32,Wanty - Groupe Gobert,\u25bc11,6,2016
+28,146,1,23.0,Nauleau Bryan,33,Direct Energie,\u25bc10,6,2016
+32,46,1,24.0,Terpstra Niki,34,Etixx - Quick Step,\u25bc10,6,2016
+23,78,1,25.0,Yates Adam,35,Orica GreenEDGE,\u25bc10,6,2016
+27,35,1,27.0,Reichenbach Sebastien,36,FDJ,\u25bc9,6,2016
+28,91,1,30.0,Gallopin Tony,37,Lotto Soudal,\u25bc7,6,2016
+31,145,1,28.0,Jeandesboz Fabrice,38,Direct Energie,\u25bc10,6,2016
+34,181,1,29.0,Gasparotto Enrico,39,Wanty - Groupe Gobert,\u25bc10,6,2016
+29,112,1,31.0,Boasson Hagen Edvald,40,Team Dimension Data,\u25bc9,6,2016
+27,118,44,2.0,Teklehaimanot Daniel,1,Team Dimension Data,\u25b21,7,2016
+24,204,39,3.0,Grmay Tsgabu,2,Lampre - Merida,\u25b21,7,2016
+26,31,37,1.0,Pinot Thibaut,3,FDJ,\u25bc2,7,2016
+35,113,22,,Cummings Stephen,4,Team Dimension Data,-,7,2016
+25,61,22,7.0,Bardet Romain,5,AG2R La Mondiale,\u25b22,7,2016
+31,1,21,6.0,Froome Christopher,6,Team Sky,-,7,2016
+30,63,16,4.0,Ch\xe9rel Micka\xebl,7,AG2R La Mondiale,\u25bc3,7,2016
+32,116,16,5.0,Pauwels Serge,8,Team Dimension Data,\u25bc3,7,2016
+31,11,15,10.0,Porte Richie,9,BMC Racing Team,\u25b21,7,2016
+29,41,14,8.0,Martin Daniel,10,Etixx - Quick Step,\u25bc2,7,2016
+33,21,13,9.0,Contador Alberto,11,Tinkoff,\u25bc2,7,2016
+30,62,10,11.0,Bakelants Jan,12,AG2R La Mondiale,\u25bc1,7,2016
+36,141,9,13.0,Voeckler Thomas,13,Direct Energie,-,7,2016
+26,161,9,14.0,Bennett George,14,Team LottoNL-Jumbo,-,7,2016
+28,5,6,15.0,Poels Wout,15,Team Sky,-,7,2016
+29,24,6,18.0,Ki\u0161erlovski Robert,16,Tinkoff,\u25b22,7,2016
+32,106,5,,Navarro Daniel,17,"Cofidis, Solutions Cr\xe9dits",-,7,2016
+31,45,5,16.0,Martin Tony,18,Etixx - Quick Step,\u25bc2,7,2016
+30,16,5,17.0,Hermans Ben,19,BMC Racing Team,\u25bc2,7,2016
+25,133,4,26.0,Herrada Jes\xfas,20,Movistar Team,\u25b26,7,2016
+33,87,4,,Van den Broeck Jurgen,21,Team Katusha,-,7,2016
+26,182,3,21.0,Backaert Frederik,22,Wanty - Groupe Gobert,\u25bc1,7,2016
+30,25,3,22.0,Kreuziger Roman,23,Tinkoff,\u25bc1,7,2016
+29,171,3,,Coppel J\xe9rome,24,IAM Cycling,-,7,2016
+25,51,3,23.0,Aru Fabio,25,Astana Pro Team,\u25bc2,7,2016
+31,75,3,25.0,Impey Daryl,26,Orica GreenEDGE,\u25bc1,7,2016
+32,53,2,27.0,Grivko Andrei,27,Astana Pro Team,-,7,2016
+32,37,2,,Roy J\xe9r\xe9my,28,FDJ,-,7,2016
+24,42,2,28.0,Alaphilippe Julian,29,Etixx - Quick Step,\u25bc1,7,2016
+24,201,2,29.0,Meintjes Louis,30,Lampre - Merida,\u25bc1,7,2016
+29,151,2,30.0,Rolland Pierre,31,Cannondale Pro Cycling Team,\u25bc1,7,2016
+23,55,2,,Lutsenko Alexey,32,Astana Pro Team,-,7,2016
+29,94,1,31.0,De Gendt Thomas,33,Lotto Soudal,\u25bc2,7,2016
+37,188,1,32.0,Veuchelen Frederik,34,Wanty - Groupe Gobert,\u25bc2,7,2016
+23,78,1,35.0,Yates Adam,35,Orica GreenEDGE,-,7,2016
+31,52,1,,Cataldo Dario,36,Astana Pro Team,-,7,2016
+28,91,1,37.0,Gallopin Tony,37,Lotto Soudal,-,7,2016
+27,35,1,36.0,Reichenbach Sebastien,38,FDJ,\u25bc2,7,2016
+29,112,1,40.0,Boasson Hagen Edvald,39,Team Dimension Data,\u25b21,7,2016
+31,145,1,38.0,Jeandesboz Fabrice,40,Direct Energie,\u25bc2,7,2016

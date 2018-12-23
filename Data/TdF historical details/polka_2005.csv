@@ -1,0 +1,985 @@
+Age,BIB,Pnt,Prev,Rider,Rnk,Team,\u25bc\u25b2,stage,year
+34,53,6.0,,Dekker Erik,1,Rabobank ProTeam,,2,2005
+26,149,5.0,,Voeckler Thomas,2,Bouygues Telecom,,2,2005
+26,82,4.0,,Bertogliati Rubens,3,Saunier Duval - Prodir,,2,2005
+25,167,3.0,,Wegmann Fabian,4,Gerolsteiner,,2,2005
+30,83,2.0,,Ca\xf1ada David,5,Saunier Duval - Prodir,,2,2005
+26,208,2.0,,Portal Nicolas,6,AG2R Pr\xe9voyance,,2,2005
+37,143,1.0,,Brochard Laurent,7,Bouygues Telecom,,2,2005
+26,203,1.0,,Calzati Sylvain,8,AG2R Pr\xe9voyance,,2,2005
+34,53,6.0,1.0,Dekker Erik,1,Rabobank ProTeam,-,3,2005
+26,149,5.0,2.0,Voeckler Thomas,2,Bouygues Telecom,-,3,2005
+26,82,4.0,3.0,Bertogliati Rubens,3,Saunier Duval - Prodir,-,3,2005
+25,167,3.0,4.0,Wegmann Fabian,4,Gerolsteiner,-,3,2005
+30,83,2.0,5.0,Ca\xf1ada David,5,Saunier Duval - Prodir,-,3,2005
+26,208,2.0,6.0,Portal Nicolas,6,AG2R Pr\xe9voyance,-,3,2005
+37,143,1.0,7.0,Brochard Laurent,7,Bouygues Telecom,-,3,2005
+26,203,1.0,8.0,Calzati Sylvain,8,AG2R Pr\xe9voyance,-,3,2005
+34,53,6.0,1.0,Dekker Erik,1,Rabobank ProTeam,-,5,2005
+26,149,5.0,2.0,Voeckler Thomas,2,Bouygues Telecom,-,5,2005
+26,82,4.0,3.0,Bertogliati Rubens,3,Saunier Duval - Prodir,-,5,2005
+28,102,3.0,,Bodrogi Laszlo,4,Cr\xe9dit Agricole,-,5,2005
+25,167,3.0,4.0,Wegmann Fabian,5,Gerolsteiner,\u25bc1,5,2005
+28,114,2.0,,Carlstr\xf6m Kjell,6,Liquigas,-,5,2005
+30,83,2.0,5.0,Ca\xf1ada David,7,Saunier Duval - Prodir,\u25bc2,5,2005
+26,208,2.0,6.0,Portal Nicolas,8,AG2R Pr\xe9voyance,\u25bc2,5,2005
+37,143,1.0,7.0,Brochard Laurent,9,Bouygues Telecom,\u25bc2,5,2005
+30,153,1.0,,Commesso Salvatore,10,Lampre-Caffita,-,5,2005
+26,203,1.0,8.0,Calzati Sylvain,11,AG2R Pr\xe9voyance,\u25bc3,5,2005
+29,54,7.0,,Kroon Karsten,1,Rabobank ProTeam,-,6,2005
+30,122,7.0,,Auge St\xe9phane,2,Cofidis,-,6,2005
+34,53,6.0,1.0,Dekker Erik,3,Rabobank ProTeam,\u25bc2,6,2005
+36,178,6.0,,Mengin Christophe,4,Fran\xe7aise des Jeux,-,6,2005
+26,149,5.0,2.0,Voeckler Thomas,5,Bouygues Telecom,\u25bc3,6,2005
+26,82,4.0,3.0,Bertogliati Rubens,6,Saunier Duval - Prodir,\u25bc3,6,2005
+25,167,3.0,5.0,Wegmann Fabian,7,Gerolsteiner,\u25bc2,6,2005
+28,102,3.0,4.0,Bodrogi Laszlo,8,Cr\xe9dit Agricole,\u25bc4,6,2005
+30,116,3.0,,Gerosa Mauro,9,Liquigas,-,6,2005
+30,83,2.0,7.0,Ca\xf1ada David,10,Saunier Duval - Prodir,\u25bc3,6,2005
+28,114,2.0,6.0,Carlstr\xf6m Kjell,11,Liquigas,\u25bc5,6,2005
+26,208,2.0,8.0,Portal Nicolas,12,AG2R Pr\xe9voyance,\u25bc4,6,2005
+37,143,1.0,9.0,Brochard Laurent,13,Bouygues Telecom,\u25bc4,6,2005
+30,153,1.0,10.0,Commesso Salvatore,14,Lampre-Caffita,\u25bc4,6,2005
+35,109,1.0,,Kirsipuu Jaan,15,Cr\xe9dit Agricole,-,6,2005
+26,203,1.0,11.0,Calzati Sylvain,16,AG2R Pr\xe9voyance,\u25bc5,6,2005
+25,167,10.0,7.0,Wegmann Fabian,1,Gerolsteiner,\u25b26,7,2005
+30,122,8.0,2.0,Auge St\xe9phane,2,Cofidis,-,7,2005
+29,54,7.0,1.0,Kroon Karsten,3,Rabobank ProTeam,\u25bc2,7,2005
+26,149,7.0,5.0,Voeckler Thomas,4,Bouygues Telecom,\u25b21,7,2005
+34,53,6.0,3.0,Dekker Erik,5,Rabobank ProTeam,\u25bc2,7,2005
+36,178,6.0,4.0,Mengin Christophe,6,Fran\xe7aise des Jeux,\u25bc2,7,2005
+26,82,5.0,6.0,Bertogliati Rubens,7,Saunier Duval - Prodir,\u25bc1,7,2005
+28,102,3.0,8.0,Bodrogi Laszlo,8,Cr\xe9dit Agricole,-,7,2005
+27,166,3.0,,Scholz Ronny,9,Gerolsteiner,-,7,2005
+30,116,3.0,9.0,Gerosa Mauro,10,Liquigas,\u25bc1,7,2005
+30,83,2.0,10.0,Ca\xf1ada David,11,Saunier Duval - Prodir,\u25bc1,7,2005
+34,169,2.0,,Zberg Beat,12,Gerolsteiner,-,7,2005
+28,114,2.0,11.0,Carlstr\xf6m Kjell,13,Liquigas,\u25bc2,7,2005
+26,208,2.0,12.0,Portal Nicolas,14,AG2R Pr\xe9voyance,\u25bc2,7,2005
+37,143,1.0,13.0,Brochard Laurent,15,Bouygues Telecom,\u25bc2,7,2005
+30,153,1.0,14.0,Commesso Salvatore,16,Lampre-Caffita,\u25bc2,7,2005
+35,109,1.0,15.0,Kirsipuu Jaan,17,Cr\xe9dit Agricole,\u25bc2,7,2005
+26,203,1.0,16.0,Calzati Sylvain,18,AG2R Pr\xe9voyance,\u25bc2,7,2005
+31,57,32.0,,Rasmussen Michael,1,Rabobank ProTeam,-,8,2005
+30,14,20.0,,Kl\xf6den Andr\xe9as,2,T-Mobile Team,-,8,2005
+24,59,18.0,,Weening Pieter,3,Rabobank ProTeam,-,8,2005
+32,61,14.0,,Botero Santiago,4,Phonak Hearing Systems,-,8,2005
+31,11,12.0,,Ullrich Jan,5,T-Mobile Team,-,8,2005
+25,167,10.0,1.0,Wegmann Fabian,6,Gerolsteiner,\u25bc5,8,2005
+33,23,10.0,,Julich Bobby,7,CSC ProTeam,-,8,2005
+25,108,10.0,,Kashechkin Andrey,8,Cr\xe9dit Agricole,-,8,2005
+30,122,8.0,2.0,Auge St\xe9phane,9,Cofidis,\u25bc7,8,2005
+33,28,8.0,,Voigt Jens,10,CSC ProTeam,-,8,2005
+29,54,7.0,3.0,Kroon Karsten,11,Rabobank ProTeam,\u25bc8,8,2005
+26,149,7.0,4.0,Voeckler Thomas,12,Bouygues Telecom,\u25bc8,8,2005
+34,53,6.0,5.0,Dekker Erik,13,Rabobank ProTeam,\u25bc8,8,2005
+32,4,,,Hincapie George,14*,Discovery Channel,-,8,2005
+26,82,5.0,7.0,Bertogliati Rubens,15,Saunier Duval - Prodir,\u25bc8,8,2005
+28,102,3.0,8.0,Bodrogi Laszlo,16,Cr\xe9dit Agricole,\u25bc8,8,2005
+27,166,3.0,9.0,Scholz Ronny,17,Gerolsteiner,\u25bc8,8,2005
+30,116,3.0,10.0,Gerosa Mauro,18,Liquigas,\u25bc8,8,2005
+34,169,2.0,12.0,Zberg Beat,19,Gerolsteiner,\u25bc7,8,2005
+30,83,2.0,11.0,Ca\xf1ada David,20,Saunier Duval - Prodir,\u25bc9,8,2005
+28,114,2.0,13.0,Carlstr\xf6m Kjell,21,Liquigas,\u25bc8,8,2005
+26,208,2.0,14.0,Portal Nicolas,22,AG2R Pr\xe9voyance,\u25bc8,8,2005
+37,143,1.0,15.0,Brochard Laurent,23,Bouygues Telecom,\u25bc8,8,2005
+30,153,1.0,16.0,Commesso Salvatore,24,Lampre-Caffita,\u25bc8,8,2005
+35,109,1.0,17.0,Kirsipuu Jaan,25,Cr\xe9dit Agricole,\u25bc8,8,2005
+31,57,88.0,1,Rasmussen Michael,1,Rabobank ProTeam,-,9,2005
+34,101,40.0,,Moreau Christophe,2,Cr\xe9dit Agricole,-,9,2005
+33,28,37.0,10,Voigt Jens,3,CSC ProTeam,\u25b27,9,2005
+30,115,34.0,,Cioni Dario,4,Liquigas,-,9,2005
+30,14,20.0,2,Kl\xf6den Andr\xe9as,5,T-Mobile Team,\u25bc3,9,2005
+32,67,20.0,,Moos Alexandre,6,Phonak Hearing Systems,-,9,2005
+28,99,18.0,,Vicioso \xc1ngel,7,Liberty Seguros - W\xfcrth Team,-,9,2005
+24,59,18.0,3,Weening Pieter,8,Rabobank ProTeam,\u25bc5,9,2005
+32,61,17.0,4,Botero Santiago,9,Phonak Hearing Systems,\u25bc5,9,2005
+28,197,17.0,,Landaluze Inigo,10,Euskaltel - Euskadi,-,9,2005
+28,39,13.0,,Zandio Xabier,11,Illes Balears - Caisse d'Epargne,-,9,2005
+31,11,12.0,5,Ullrich Jan,12,T-Mobile Team,\u25bc7,9,2005
+25,167,10.0,6,Wegmann Fabian,13,Gerolsteiner,\u25bc7,9,2005
+33,23,10.0,7,Julich Bobby,14,CSC ProTeam,\u25bc7,9,2005
+25,108,10.0,8,Kashechkin Andrey,15,Cr\xe9dit Agricole,\u25bc7,9,2005
+30,122,8.0,9,Auge St\xe9phane,16,Cofidis,\u25bc7,9,2005
+29,54,7.0,11,Kroon Karsten,17,Rabobank ProTeam,\u25bc6,9,2005
+26,149,7.0,12,Voeckler Thomas,18,Bouygues Telecom,\u25bc6,9,2005
+34,53,6.0,13,Dekker Erik,19,Rabobank ProTeam,\u25bc6,9,2005
+32,4,,14*,Hincapie George,20*,Discovery Channel,-,9,2005
+26,82,5.0,15,Bertogliati Rubens,21,Saunier Duval - Prodir,\u25bc6,9,2005
+28,102,3.0,16,Bodrogi Laszlo,22,Cr\xe9dit Agricole,\u25bc6,9,2005
+27,166,3.0,17,Scholz Ronny,23,Gerolsteiner,\u25bc6,9,2005
+30,116,3.0,18,Gerosa Mauro,24,Liquigas,\u25bc6,9,2005
+33,52,2.0,,Boogerd Michael,25*,Rabobank ProTeam,-,9,2005
+34,169,2.0,19,Zberg Beat,26,Gerolsteiner,\u25bc7,9,2005
+30,83,2.0,20,Ca\xf1ada David,27,Saunier Duval - Prodir,\u25bc7,9,2005
+28,114,2.0,21,Carlstr\xf6m Kjell,28,Liquigas,\u25bc7,9,2005
+26,208,2.0,22,Portal Nicolas,29,AG2R Pr\xe9voyance,\u25bc7,9,2005
+31,111,2.0,,Garzelli Stefano,30,Liquigas,-,9,2005
+37,143,1.0,23,Brochard Laurent,31,Bouygues Telecom,\u25bc8,9,2005
+30,153,1.0,24,Commesso Salvatore,32,Lampre-Caffita,\u25bc8,9,2005
+31,57,110.0,1,Rasmussen Michael,1,Rabobank ProTeam,-,10,2005
+34,101,40.0,2,Moreau Christophe,2,Cr\xe9dit Agricole,-,10,2005
+33,28,37.0,3,Voigt Jens,3,CSC ProTeam,-,10,2005
+30,115,34.0,4,Cioni Dario,4,Liquigas,-,10,2005
+25,38,30.0,,Valverde Alejandro,5,Illes Balears - Caisse d'Epargne,-,10,2005
+33,1,,,Armstrong Lance,6*,Discovery Channel,-,10,2005
+30,14,20.0,5,Kl\xf6den Andr\xe9as,7,T-Mobile Team,\u25bc2,10,2005
+32,67,20.0,6,Moos Alexandre,8,Phonak Hearing Systems,\u25bc2,10,2005
+29,31,18.0,,Mancebo Francisco,9,Illes Balears - Caisse d'Epargne,-,10,2005
+28,99,18.0,7,Vicioso \xc1ngel,10,Liberty Seguros - W\xfcrth Team,\u25bc3,10,2005
+24,59,18.0,8,Weening Pieter,11,Rabobank ProTeam,\u25bc3,10,2005
+32,61,17.0,9,Botero Santiago,12,Phonak Hearing Systems,\u25bc3,10,2005
+28,197,17.0,10,Landaluze Inigo,13,Euskaltel - Euskadi,\u25bc3,10,2005
+37,143,16.0,31,Brochard Laurent,14,Bouygues Telecom,\u25b217,10,2005
+27,21,16.0,,Basso Ivan,15,CSC ProTeam,-,10,2005
+31,164,,,Leipheimer Levi,16*,Gerolsteiner,-,10,2005
+24,56,13.0,,Posthuma Joost,17,Rabobank ProTeam,-,10,2005
+28,39,13.0,11,Zandio Xabier,18,Illes Balears - Caisse d'Epargne,\u25bc7,10,2005
+31,11,12.0,12,Ullrich Jan,19,T-Mobile Team,\u25bc7,10,2005
+31,151,12.0,,Mazzoleni Eddy,20,Lampre-Caffita,-,10,2005
+26,207,11.0,,Krivtsov Yuriy,21,AG2R Pr\xe9voyance,-,10,2005
+25,167,10.0,13,Wegmann Fabian,22,Gerolsteiner,\u25bc9,10,2005
+28,44,10.0,,Evans Cadel,23,Davitamon - Lotto,-,10,2005
+33,23,10.0,14,Julich Bobby,24,CSC ProTeam,\u25bc10,10,2005
+25,108,10.0,15,Kashechkin Andrey,25,Cr\xe9dit Agricole,\u25bc10,10,2005
+21,97,9.0,,Sanchez Luis Leon,26,Liberty Seguros - W\xfcrth Team,-,10,2005
+30,122,8.0,16,Auge St\xe9phane,27,Cofidis,\u25bc11,10,2005
+23,74,8.0,,Facci Mauro,28,Fassa Bortolo,-,10,2005
+29,54,7.0,17,Kroon Karsten,29,Rabobank ProTeam,\u25bc12,10,2005
+26,149,7.0,18,Voeckler Thomas,30,Bouygues Telecom,\u25bc12,10,2005
+36,152,7.0,,Bortolami Gianluca,31,Lampre-Caffita,-,10,2005
+34,53,6.0,19,Dekker Erik,32,Rabobank ProTeam,\u25bc13,10,2005
+28,196,6.0,,Isasi Inaki,33,Euskaltel - Euskadi,-,10,2005
+32,4,,20*,Hincapie George,34*,Discovery Channel,-,10,2005
+28,96,5.0,,Jaksche Jorg,35,Liberty Seguros - W\xfcrth Team,-,10,2005
+26,82,5.0,21,Bertogliati Rubens,36,Saunier Duval - Prodir,\u25bc15,10,2005
+28,102,3.0,22,Bodrogi Laszlo,37,Cr\xe9dit Agricole,\u25bc15,10,2005
+27,166,3.0,23,Scholz Ronny,38,Gerolsteiner,\u25bc15,10,2005
+30,116,3.0,24,Gerosa Mauro,39,Liquigas,\u25bc15,10,2005
+33,52,2.0,25*,Boogerd Michael,40*,Rabobank ProTeam,-,10,2005
+34,169,2.0,26,Zberg Beat,41,Gerolsteiner,\u25bc15,10,2005
+30,83,2.0,27,Ca\xf1ada David,42,Saunier Duval - Prodir,\u25bc15,10,2005
+28,114,2.0,28,Carlstr\xf6m Kjell,43,Liquigas,\u25bc15,10,2005
+26,208,2.0,29,Portal Nicolas,44,AG2R Pr\xe9voyance,\u25bc15,10,2005
+31,111,2.0,30,Garzelli Stefano,45,Liquigas,\u25bc15,10,2005
+30,153,1.0,32,Commesso Salvatore,46,Lampre-Caffita,\u25bc14,10,2005
+31,57,160.0,1,Rasmussen Michael,1,Rabobank ProTeam,-,11,2005
+34,101,89.0,2,Moreau Christophe,2,Cr\xe9dit Agricole,-,11,2005
+32,61,88.0,12,Botero Santiago,3,Phonak Hearing Systems,\u25b29,11,2005
+31,19,71.0,,Vinokourov Alexandre,4,T-Mobile Team,-,11,2005
+33,1,,6*,Armstrong Lance,5*,Discovery Channel,-,11,2005
+30,115,34.0,4,Cioni Dario,6,Liquigas,\u25bc2,11,2005
+25,38,30.0,5,Valverde Alejandro,7,Illes Balears - Caisse d'Epargne,\u25bc2,11,2005
+31,2,30.0,,Azevedo Jos\xe9 Bento Carvalho,8,Discovery Channel,-,11,2005
+27,68,27.0,,Pereiro Oscar,9,Phonak Hearing Systems,-,11,2005
+32,9,25.0,,Savoldelli Paolo,10,Discovery Channel,-,11,2005
+30,14,20.0,7,Kl\xf6den Andr\xe9as,11,T-Mobile Team,\u25bc4,11,2005
+28,44,20.0,23,Evans Cadel,12,Davitamon - Lotto,\u25b211,11,2005
+32,67,20.0,8,Moos Alexandre,13,Phonak Hearing Systems,\u25bc5,11,2005
+29,31,18.0,9,Mancebo Francisco,14,Illes Balears - Caisse d'Epargne,\u25bc5,11,2005
+28,99,18.0,10,Vicioso \xc1ngel,15,Liberty Seguros - W\xfcrth Team,\u25bc5,11,2005
+24,59,18.0,11,Weening Pieter,16,Rabobank ProTeam,\u25bc5,11,2005
+28,96,17.0,35,Jaksche Jorg,17,Liberty Seguros - W\xfcrth Team,\u25b218,11,2005
+28,197,17.0,13,Landaluze Inigo,18,Euskaltel - Euskadi,\u25bc5,11,2005
+37,143,16.0,14,Brochard Laurent,19,Bouygues Telecom,\u25bc5,11,2005
+27,21,16.0,15,Basso Ivan,20,CSC ProTeam,\u25bc5,11,2005
+25,7,16.0,,Popovych Yaroslav,21,Discovery Channel,-,11,2005
+31,164,,16*,Leipheimer Levi,22*,Gerolsteiner,-,11,2005
+27,198,14.0,,Martinez Egoi,23,Euskaltel - Euskadi,-,11,2005
+34,3,14.0,,Beltran Manuel,24,Discovery Channel,-,11,2005
+32,8,14.0,,Rubiera Jos\xe9 Luis,25,Discovery Channel,-,11,2005
+24,56,13.0,17,Posthuma Joost,26,Rabobank ProTeam,\u25bc9,11,2005
+28,39,13.0,18,Zandio Xabier,27,Illes Balears - Caisse d'Epargne,\u25bc9,11,2005
+31,11,12.0,19,Ullrich Jan,28,T-Mobile Team,\u25bc9,11,2005
+31,151,12.0,20,Mazzoleni Eddy,29,Lampre-Caffita,\u25bc9,11,2005
+26,207,11.0,21,Krivtsov Yuriy,30,AG2R Pr\xe9voyance,\u25bc9,11,2005
+32,4,,34*,Hincapie George,31*,Discovery Channel,-,11,2005
+25,167,10.0,22,Wegmann Fabian,32,Gerolsteiner,\u25bc10,11,2005
+33,23,10.0,24,Julich Bobby,33,CSC ProTeam,\u25bc9,11,2005
+25,108,10.0,25,Kashechkin Andrey,34,Cr\xe9dit Agricole,\u25bc9,11,2005
+21,97,9.0,26,Sanchez Luis Leon,35,Liberty Seguros - W\xfcrth Team,\u25bc9,11,2005
+30,122,8.0,27,Auge St\xe9phane,36,Cofidis,\u25bc9,11,2005
+23,74,8.0,28,Facci Mauro,37,Fassa Bortolo,\u25bc9,11,2005
+29,54,7.0,29,Kroon Karsten,38,Rabobank ProTeam,\u25bc9,11,2005
+26,149,7.0,30,Voeckler Thomas,39,Bouygues Telecom,\u25bc9,11,2005
+36,152,7.0,31,Bortolami Gianluca,40,Lampre-Caffita,\u25bc9,11,2005
+34,53,6.0,32,Dekker Erik,41,Rabobank ProTeam,\u25bc9,11,2005
+28,196,6.0,33,Isasi Inaki,42,Euskaltel - Euskadi,\u25bc9,11,2005
+26,82,5.0,36,Bertogliati Rubens,43,Saunier Duval - Prodir,\u25bc7,11,2005
+28,102,3.0,37,Bodrogi Laszlo,44,Cr\xe9dit Agricole,\u25bc7,11,2005
+27,166,3.0,38,Scholz Ronny,45,Gerolsteiner,\u25bc7,11,2005
+30,116,3.0,39,Gerosa Mauro,46,Liquigas,\u25bc7,11,2005
+33,52,2.0,40*,Boogerd Michael,47*,Rabobank ProTeam,-,11,2005
+34,169,2.0,41,Zberg Beat,48,Gerolsteiner,\u25bc7,11,2005
+30,83,2.0,42,Ca\xf1ada David,49,Saunier Duval - Prodir,\u25bc7,11,2005
+28,114,2.0,43,Carlstr\xf6m Kjell,50,Liquigas,\u25bc7,11,2005
+26,208,2.0,44,Portal Nicolas,51,AG2R Pr\xe9voyance,\u25bc7,11,2005
+31,111,2.0,45,Garzelli Stefano,52,Liquigas,\u25bc7,11,2005
+30,153,1.0,46,Commesso Salvatore,53,Lampre-Caffita,\u25bc7,11,2005
+31,57,160.0,1,Rasmussen Michael,1,Rabobank ProTeam,-,12,2005
+34,101,89.0,2,Moreau Christophe,2,Cr\xe9dit Agricole,-,12,2005
+32,61,88.0,3,Botero Santiago,3,Phonak Hearing Systems,-,12,2005
+31,19,71.0,4,Vinokourov Alexandre,4,T-Mobile Team,-,12,2005
+33,1,,5*,Armstrong Lance,5*,Discovery Channel,-,12,2005
+30,115,34.0,6,Cioni Dario,6,Liquigas,-,12,2005
+25,38,30.0,7,Valverde Alejandro,7,Illes Balears - Caisse d'Epargne,-,12,2005
+31,2,30.0,8,Azevedo Jos\xe9 Bento Carvalho,8,Discovery Channel,-,12,2005
+27,68,27.0,9,Pereiro Oscar,9,Phonak Hearing Systems,-,12,2005
+32,9,25.0,10,Savoldelli Paolo,10,Discovery Channel,-,12,2005
+29,81,24.0,,Garate Juan Manuel,11,Saunier Duval - Prodir,-,12,2005
+30,14,20.0,11,Kl\xf6den Andr\xe9as,12,T-Mobile Team,\u25bc1,12,2005
+28,44,20.0,12,Evans Cadel,13,Davitamon - Lotto,\u25bc1,12,2005
+32,67,20.0,13,Moos Alexandre,14,Phonak Hearing Systems,\u25bc1,12,2005
+29,31,18.0,14,Mancebo Francisco,15,Illes Balears - Caisse d'Epargne,\u25bc1,12,2005
+28,99,18.0,15,Vicioso \xc1ngel,16,Liberty Seguros - W\xfcrth Team,\u25bc1,12,2005
+24,59,18.0,16,Weening Pieter,17,Rabobank ProTeam,\u25bc1,12,2005
+28,96,17.0,17,Jaksche Jorg,18,Liberty Seguros - W\xfcrth Team,\u25bc1,12,2005
+28,197,17.0,18,Landaluze Inigo,19,Euskaltel - Euskadi,\u25bc1,12,2005
+32,45,17.0,,Merckx Axel,20,Davitamon - Lotto,-,12,2005
+37,143,16.0,19,Brochard Laurent,21,Bouygues Telecom,\u25bc2,12,2005
+27,21,16.0,20,Basso Ivan,22,CSC ProTeam,\u25bc2,12,2005
+25,7,16.0,21,Popovych Yaroslav,23,Discovery Channel,\u25bc2,12,2005
+26,172,15.0,,Casar Sandy,24,Fran\xe7aise des Jeux,-,12,2005
+27,198,15.0,23,Martinez Egoi,25,Euskaltel - Euskadi,\u25bc2,12,2005
+31,164,,22*,Leipheimer Levi,26*,Gerolsteiner,-,12,2005
+32,8,14.0,25,Rubiera Jos\xe9 Luis,27,Discovery Channel,\u25bc2,12,2005
+30,126,13.0,,Moncouti\xe9 David,28,Cofidis,-,12,2005
+24,56,13.0,26,Posthuma Joost,29,Rabobank ProTeam,\u25bc3,12,2005
+28,39,13.0,27,Zandio Xabier,30,Illes Balears - Caisse d'Epargne,\u25bc3,12,2005
+34,32,13.0,,Arrieta Jose Luis,31,Illes Balears - Caisse d'Epargne,-,12,2005
+31,11,12.0,28,Ullrich Jan,32,T-Mobile Team,\u25bc4,12,2005
+31,151,12.0,29,Mazzoleni Eddy,33,Lampre-Caffita,\u25bc4,12,2005
+31,104,12.0,,Halgand Patrice,34,Cr\xe9dit Agricole,-,12,2005
+26,207,11.0,30,Krivtsov Yuriy,35,AG2R Pr\xe9voyance,\u25bc5,12,2005
+32,4,,31*,Hincapie George,36*,Discovery Channel,-,12,2005
+25,167,10.0,32,Wegmann Fabian,37,Gerolsteiner,\u25bc5,12,2005
+33,23,10.0,33,Julich Bobby,38,CSC ProTeam,\u25bc5,12,2005
+25,108,10.0,34,Kashechkin Andrey,39,Cr\xe9dit Agricole,\u25bc5,12,2005
+21,97,9.0,35,Sanchez Luis Leon,40,Liberty Seguros - W\xfcrth Team,\u25bc5,12,2005
+30,122,8.0,36,Auge St\xe9phane,41,Cofidis,\u25bc5,12,2005
+31,121,8.0,,O'Grady Stuart,42,Cofidis,-,12,2005
+23,74,8.0,37,Facci Mauro,43,Fassa Bortolo,\u25bc6,12,2005
+29,54,7.0,38,Kroon Karsten,44,Rabobank ProTeam,\u25bc6,12,2005
+26,149,7.0,39,Voeckler Thomas,45,Bouygues Telecom,\u25bc6,12,2005
+36,152,7.0,40,Bortolami Gianluca,46,Lampre-Caffita,\u25bc6,12,2005
+33,52,6.0,47*,Boogerd Michael,47*,Rabobank ProTeam,-,12,2005
+34,53,6.0,41,Dekker Erik,48,Rabobank ProTeam,\u25bc7,12,2005
+28,196,6.0,42,Isasi Inaki,49,Euskaltel - Euskadi,\u25bc7,12,2005
+26,82,6.0,43,Bertogliati Rubens,50,Saunier Duval - Prodir,\u25bc7,12,2005
+28,102,5.0,44,Bodrogi Laszlo,51,Cr\xe9dit Agricole,\u25bc7,12,2005
+27,166,3.0,45,Scholz Ronny,52,Gerolsteiner,\u25bc7,12,2005
+26,144,3.0,,Fedrigo Pierrick,53,Bouygues Telecom,-,12,2005
+31,111,3.0,52,Garzelli Stefano,54,Liquigas,\u25bc2,12,2005
+30,116,3.0,46,Gerosa Mauro,55,Liquigas,\u25bc9,12,2005
+34,169,3.0,48,Zberg Beat,56,Gerolsteiner,\u25bc8,12,2005
+30,83,2.0,49,Ca\xf1ada David,57,Saunier Duval - Prodir,\u25bc8,12,2005
+28,114,2.0,50,Carlstr\xf6m Kjell,58,Liquigas,\u25bc8,12,2005
+26,208,2.0,51,Portal Nicolas,59,AG2R Pr\xe9voyance,\u25bc8,12,2005
+30,153,2.0,53,Commesso Salvatore,60,Lampre-Caffita,\u25bc7,12,2005
+31,57,160.0,1,Rasmussen Michael,1,Rabobank ProTeam,-,13,2005
+34,101,89.0,2,Moreau Christophe,2,Cr\xe9dit Agricole,-,13,2005
+32,61,88.0,3,Botero Santiago,3,Phonak Hearing Systems,-,13,2005
+31,19,71.0,4,Vinokourov Alexandre,4,T-Mobile Team,-,13,2005
+33,1,,5*,Armstrong Lance,5*,Discovery Channel,-,13,2005
+30,115,34.0,6,Cioni Dario,6,Liquigas,-,13,2005
+31,2,30.0,8,Azevedo Jos\xe9 Bento Carvalho,7,Discovery Channel,\u25b21,13,2005
+27,68,27.0,9,Pereiro Oscar,8,Phonak Hearing Systems,\u25b21,13,2005
+32,9,25.0,10,Savoldelli Paolo,9,Discovery Channel,\u25b21,13,2005
+29,81,24.0,11,Garate Juan Manuel,10,Saunier Duval - Prodir,\u25b21,13,2005
+30,14,20.0,12,Kl\xf6den Andr\xe9as,11,T-Mobile Team,\u25b21,13,2005
+28,44,20.0,13,Evans Cadel,12,Davitamon - Lotto,\u25b21,13,2005
+32,67,20.0,14,Moos Alexandre,13,Phonak Hearing Systems,\u25b21,13,2005
+29,31,18.0,15,Mancebo Francisco,14,Illes Balears - Caisse d'Epargne,\u25b21,13,2005
+28,99,18.0,16,Vicioso \xc1ngel,15,Liberty Seguros - W\xfcrth Team,\u25b21,13,2005
+24,59,18.0,17,Weening Pieter,16,Rabobank ProTeam,\u25b21,13,2005
+28,96,17.0,18,Jaksche Jorg,17,Liberty Seguros - W\xfcrth Team,\u25b21,13,2005
+28,197,17.0,19,Landaluze Inigo,18,Euskaltel - Euskadi,\u25b21,13,2005
+32,45,17.0,20,Merckx Axel,19,Davitamon - Lotto,\u25b21,13,2005
+37,143,16.0,21,Brochard Laurent,20,Bouygues Telecom,\u25b21,13,2005
+27,21,16.0,22,Basso Ivan,21,CSC ProTeam,\u25b21,13,2005
+25,7,16.0,23,Popovych Yaroslav,22,Discovery Channel,\u25b21,13,2005
+26,172,15.0,24,Casar Sandy,23,Fran\xe7aise des Jeux,\u25b21,13,2005
+27,198,15.0,25,Martinez Egoi,24,Euskaltel - Euskadi,\u25b21,13,2005
+31,164,,26*,Leipheimer Levi,25*,Gerolsteiner,-,13,2005
+32,8,14.0,27,Rubiera Jos\xe9 Luis,26,Discovery Channel,\u25b21,13,2005
+30,126,13.0,28,Moncouti\xe9 David,27,Cofidis,\u25b21,13,2005
+24,56,13.0,29,Posthuma Joost,28,Rabobank ProTeam,\u25b21,13,2005
+28,39,13.0,30,Zandio Xabier,29,Illes Balears - Caisse d'Epargne,\u25b21,13,2005
+34,32,13.0,31,Arrieta Jose Luis,30,Illes Balears - Caisse d'Epargne,\u25b21,13,2005
+31,11,12.0,32,Ullrich Jan,31,T-Mobile Team,\u25b21,13,2005
+31,151,12.0,33,Mazzoleni Eddy,32,Lampre-Caffita,\u25b21,13,2005
+31,104,12.0,34,Halgand Patrice,33,Cr\xe9dit Agricole,\u25b21,13,2005
+26,207,11.0,35,Krivtsov Yuriy,34,AG2R Pr\xe9voyance,\u25b21,13,2005
+32,4,,36*,Hincapie George,35*,Discovery Channel,-,13,2005
+25,167,10.0,37,Wegmann Fabian,36,Gerolsteiner,\u25b21,13,2005
+33,23,10.0,38,Julich Bobby,37,CSC ProTeam,\u25b21,13,2005
+25,108,10.0,39,Kashechkin Andrey,38,Cr\xe9dit Agricole,\u25b21,13,2005
+21,97,9.0,40,Sanchez Luis Leon,39,Liberty Seguros - W\xfcrth Team,\u25b21,13,2005
+30,122,8.0,41,Auge St\xe9phane,40,Cofidis,\u25b21,13,2005
+31,121,8.0,42,O'Grady Stuart,41,Cofidis,\u25b21,13,2005
+23,74,8.0,43,Facci Mauro,42,Fassa Bortolo,\u25b21,13,2005
+29,54,7.0,44,Kroon Karsten,43,Rabobank ProTeam,\u25b21,13,2005
+26,149,7.0,45,Voeckler Thomas,44,Bouygues Telecom,\u25b21,13,2005
+36,152,7.0,46,Bortolami Gianluca,45,Lampre-Caffita,\u25b21,13,2005
+33,52,6.0,47*,Boogerd Michael,46*,Rabobank ProTeam,-,13,2005
+34,53,6.0,48,Dekker Erik,47,Rabobank ProTeam,\u25b21,13,2005
+28,196,6.0,49,Isasi Inaki,48,Euskaltel - Euskadi,\u25b21,13,2005
+26,82,6.0,50,Bertogliati Rubens,49,Saunier Duval - Prodir,\u25b21,13,2005
+33,86,5.0,,Horner Chris,50,Saunier Duval - Prodir,-,13,2005
+28,102,3.0,51,Bodrogi Laszlo,51,Cr\xe9dit Agricole,-,13,2005
+27,166,3.0,52,Scholz Ronny,52,Gerolsteiner,-,13,2005
+26,144,3.0,53,Fedrigo Pierrick,53,Bouygues Telecom,-,13,2005
+31,111,3.0,54,Garzelli Stefano,54,Liquigas,-,13,2005
+30,116,3.0,55,Gerosa Mauro,55,Liquigas,-,13,2005
+34,169,3.0,56,Zberg Beat,56,Gerolsteiner,-,13,2005
+30,83,2.0,57,Ca\xf1ada David,57,Saunier Duval - Prodir,-,13,2005
+30,174,2.0,,Da Cruz Carlos,58,Fran\xe7aise des Jeux,-,13,2005
+28,114,2.0,58,Carlstr\xf6m Kjell,59,Liquigas,\u25bc1,13,2005
+26,208,2.0,59,Portal Nicolas,60,AG2R Pr\xe9voyance,\u25bc1,13,2005
+30,209,2.0,,Turpin Ludovic,61,AG2R Pr\xe9voyance,-,13,2005
+30,153,1.0,60,Commesso Salvatore,62,Lampre-Caffita,\u25bc2,13,2005
+31,57,175.0,1,Rasmussen Michael,1,Rabobank ProTeam,-,14,2005
+34,101,89.0,2,Moreau Christophe,2,Cr\xe9dit Agricole,-,14,2005
+32,61,88.0,3,Botero Santiago,3,Phonak Hearing Systems,-,14,2005
+33,1,,5*,Armstrong Lance,4*,Discovery Channel,-,14,2005
+31,19,71.0,4,Vinokourov Alexandre,5,T-Mobile Team,\u25bc1,14,2005
+34,161,53.0,,Totschnig Georg,6,Gerolsteiner,-,14,2005
+27,21,45.0,21,Basso Ivan,7,CSC ProTeam,\u25b214,14,2005
+31,11,44.0,31,Ullrich Jan,8,T-Mobile Team,\u25b223,14,2005
+29,81,36.0,10,Garate Juan Manuel,9,Saunier Duval - Prodir,\u25b21,14,2005
+31,164,,25*,Leipheimer Levi,10*,Gerolsteiner,-,14,2005
+29,31,36.0,14,Mancebo Francisco,11,Illes Balears - Caisse d'Epargne,\u25b23,14,2005
+30,115,34.0,6,Cioni Dario,12,Liquigas,\u25bc6,14,2005
+31,2,30.0,7,Azevedo Jos\xe9 Bento Carvalho,13,Discovery Channel,\u25bc6,14,2005
+29,66,28.0,,Landis Floyd,14,Phonak Hearing Systems,-,14,2005
+27,68,27.0,8,Pereiro Oscar,15,Phonak Hearing Systems,\u25bc7,14,2005
+32,9,25.0,9,Savoldelli Paolo,16,Discovery Channel,\u25bc7,14,2005
+32,111,24.0,54,Garzelli Stefano,17,Liquigas,\u25b237,14,2005
+30,14,20.0,11,Kl\xf6den Andr\xe9as,18,T-Mobile Team,\u25bc7,14,2005
+28,44,20.0,12,Evans Cadel,19,Davitamon - Lotto,\u25bc7,14,2005
+32,67,20.0,13,Moos Alexandre,20,Phonak Hearing Systems,\u25bc7,14,2005
+32,142,19.0,,Beneteau Walter,21,Bouygues Telecom,-,14,2005
+28,99,18.0,15,Vicioso \xc1ngel,22,Liberty Seguros - W\xfcrth Team,\u25bc7,14,2005
+24,59,18.0,16,Weening Pieter,23,Rabobank ProTeam,\u25bc7,14,2005
+28,96,17.0,17,Jaksche Jorg,24,Liberty Seguros - W\xfcrth Team,\u25bc7,14,2005
+28,197,17.0,18,Landaluze Inigo,25,Euskaltel - Euskadi,\u25bc7,14,2005
+32,45,17.0,19,Merckx Axel,26,Davitamon - Lotto,\u25bc7,14,2005
+37,143,16.0,20,Brochard Laurent,27,Bouygues Telecom,\u25bc7,14,2005
+25,7,16.0,22,Popovych Yaroslav,28,Discovery Channel,\u25bc6,14,2005
+26,172,15.0,23,Casar Sandy,29,Fran\xe7aise des Jeux,\u25bc6,14,2005
+27,198,15.0,24,Martinez Egoi,30,Euskaltel - Euskadi,\u25bc6,14,2005
+26,207,14.0,34,Krivtsov Yuriy,31,AG2R Pr\xe9voyance,\u25b23,14,2005
+32,8,14.0,26,Rubiera Jos\xe9 Luis,32,Discovery Channel,\u25bc6,14,2005
+30,126,13.0,27,Moncouti\xe9 David,33,Cofidis,\u25bc6,14,2005
+24,56,13.0,28,Posthuma Joost,34,Rabobank ProTeam,\u25bc6,14,2005
+28,39,13.0,29,Zandio Xabier,35,Illes Balears - Caisse d'Epargne,\u25bc6,14,2005
+34,32,13.0,30,Arrieta Jose Luis,36,Illes Balears - Caisse d'Epargne,\u25bc6,14,2005
+31,151,12.0,32,Mazzoleni Eddy,37,Lampre-Caffita,\u25bc5,14,2005
+31,104,12.0,33,Halgand Patrice,38,Cr\xe9dit Agricole,\u25bc5,14,2005
+32,4,,35*,Hincapie George,39*,Discovery Channel,-,14,2005
+25,167,10.0,36,Wegmann Fabian,40,Gerolsteiner,\u25bc4,14,2005
+33,23,10.0,37,Julich Bobby,41,CSC ProTeam,\u25bc4,14,2005
+25,108,10.0,38,Kashechkin Andrey,42,Cr\xe9dit Agricole,\u25bc4,14,2005
+21,97,9.0,39,Sanchez Luis Leon,43,Liberty Seguros - W\xfcrth Team,\u25bc4,14,2005
+30,122,8.0,40,Auge St\xe9phane,44,Cofidis,\u25bc4,14,2005
+31,121,8.0,41,O'Grady Stuart,45,Cofidis,\u25bc4,14,2005
+23,74,8.0,42,Facci Mauro,46,Fassa Bortolo,\u25bc4,14,2005
+29,54,7.0,43,Kroon Karsten,47,Rabobank ProTeam,\u25bc4,14,2005
+26,149,7.0,44,Voeckler Thomas,48,Bouygues Telecom,\u25bc4,14,2005
+36,152,7.0,45,Bortolami Gianluca,49,Lampre-Caffita,\u25bc4,14,2005
+33,52,6.0,46*,Boogerd Michael,50*,Rabobank ProTeam,-,14,2005
+34,53,6.0,47,Dekker Erik,51,Rabobank ProTeam,\u25bc4,14,2005
+28,196,6.0,48,Isasi Inaki,52,Euskaltel - Euskadi,\u25bc4,14,2005
+26,82,6.0,49,Bertogliati Rubens,53,Saunier Duval - Prodir,\u25bc4,14,2005
+21,185,5.0,,Grivko Andrei,54,Domina Vacanze,-,14,2005
+33,86,4.0,50,Horner Chris,55,Saunier Duval - Prodir,\u25bc5,14,2005
+28,102,3.0,51,Bodrogi Laszlo,56,Cr\xe9dit Agricole,\u25bc5,14,2005
+27,166,3.0,52,Scholz Ronny,57,Gerolsteiner,\u25bc5,14,2005
+26,144,3.0,53,Fedrigo Pierrick,58,Bouygues Telecom,\u25bc5,14,2005
+30,116,3.0,55,Gerosa Mauro,59,Liquigas,\u25bc4,14,2005
+30,83,3.0,57,Ca\xf1ada David,60,Saunier Duval - Prodir,\u25bc3,14,2005
+34,169,2.0,56,Zberg Beat,61,Gerolsteiner,\u25bc5,14,2005
+30,174,2.0,58,Da Cruz Carlos,62,Fran\xe7aise des Jeux,\u25bc4,14,2005
+28,114,2.0,59,Carlstr\xf6m Kjell,63,Liquigas,\u25bc4,14,2005
+26,208,2.0,60,Portal Nicolas,64,AG2R Pr\xe9voyance,\u25bc4,14,2005
+30,209,2.0,61,Turpin Ludovic,65,AG2R Pr\xe9voyance,\u25bc4,14,2005
+30,153,1.0,62,Commesso Salvatore,66,Lampre-Caffita,\u25bc4,14,2005
+31,57,185.0,1,Rasmussen Michael,1,Rabobank ProTeam,-,15,2005
+27,68,114.0,15,Pereiro Oscar,2,Phonak Hearing Systems,\u25b213,15,2005
+33,1,,4*,Armstrong Lance,3*,Discovery Channel,-,15,2005
+33,52,90.0,50*,Boogerd Michael,4*,Rabobank ProTeam,-,15,2005
+34,101,90.0,2,Moreau Christophe,5,Cr\xe9dit Agricole,\u25bc3,15,2005
+32,61,89.0,3,Botero Santiago,6,Phonak Hearing Systems,\u25bc3,15,2005
+37,143,88.0,27,Brochard Laurent,7,Bouygues Telecom,\u25b220,15,2005
+32,4,,39*,Hincapie George,8*,Discovery Channel,-,15,2005
+29,103,74.0,,Caucchioli Pietro,9,Cr\xe9dit Agricole,-,15,2005
+31,19,73.0,5,Vinokourov Alexandre,10,T-Mobile Team,\u25bc5,15,2005
+27,21,71.0,7,Basso Ivan,11,CSC ProTeam,\u25bc4,15,2005
+31,11,65.0,8,Ullrich Jan,12,T-Mobile Team,\u25bc4,15,2005
+34,161,56.0,6,Totschnig Georg,13,Gerolsteiner,\u25bc7,15,2005
+28,17,53.0,,Sevilla Oscar,14,T-Mobile Team,-,15,2005
+29,54,44.0,47,Kroon Karsten,15,Rabobank ProTeam,\u25b232,15,2005
+29,81,41.0,9,Garate Juan Manuel,16,Saunier Duval - Prodir,\u25bc7,15,2005
+29,31,36.0,11,Mancebo Francisco,17,Illes Balears - Caisse d'Epargne,\u25bc6,15,2005
+31,164,,10*,Leipheimer Levi,18*,Gerolsteiner,-,15,2005
+30,115,36.0,12,Cioni Dario,19,Liquigas,\u25bc7,15,2005
+34,53,34.0,51,Dekker Erik,20,Rabobank ProTeam,\u25b231,15,2005
+31,2,31.0,13,Azevedo Jos\xe9 Bento Carvalho,21,Discovery Channel,\u25bc8,15,2005
+29,66,30.0,14,Landis Floyd,22,Phonak Hearing Systems,\u25bc8,15,2005
+24,94,28.0,,Davis Allan,23,Liberty Seguros - W\xfcrth Team,-,15,2005
+32,9,26.0,16,Savoldelli Paolo,24,Discovery Channel,\u25bc8,15,2005
+32,111,25.0,17,Garzelli Stefano,25,Liquigas,\u25bc8,15,2005
+30,14,24.0,18,Kl\xf6den Andr\xe9as,26,T-Mobile Team,\u25bc8,15,2005
+28,44,20.0,19,Evans Cadel,27,Davitamon - Lotto,\u25bc8,15,2005
+32,67,20.0,20,Moos Alexandre,28,Phonak Hearing Systems,\u25bc8,15,2005
+32,142,20.0,21,Beneteau Walter,29,Bouygues Telecom,\u25bc8,15,2005
+28,99,19.0,22,Vicioso \xc1ngel,30,Liberty Seguros - W\xfcrth Team,\u25bc8,15,2005
+24,59,18.0,23,Weening Pieter,31,Rabobank ProTeam,\u25bc8,15,2005
+28,96,18.0,24,Jaksche Jorg,32,Liberty Seguros - W\xfcrth Team,\u25bc8,15,2005
+28,197,17.0,25,Landaluze Inigo,33,Euskaltel - Euskadi,\u25bc8,15,2005
+32,45,17.0,26,Merckx Axel,34,Davitamon - Lotto,\u25bc8,15,2005
+25,7,17.0,28,Popovych Yaroslav,35,Discovery Channel,\u25bc7,15,2005
+26,172,16.0,29,Casar Sandy,36,Fran\xe7aise des Jeux,\u25bc7,15,2005
+27,198,15.0,30,Martinez Egoi,37,Euskaltel - Euskadi,\u25bc7,15,2005
+26,192,15.0,,Cama\xf1o Iker,38,Euskaltel - Euskadi,-,15,2005
+26,207,15.0,31,Krivtsov Yuriy,39,AG2R Pr\xe9voyance,\u25bc8,15,2005
+32,8,14.0,32,Rubiera Jos\xe9 Luis,40,Discovery Channel,\u25bc8,15,2005
+30,126,14.0,33,Moncouti\xe9 David,41,Cofidis,\u25bc8,15,2005
+24,56,13.0,34,Posthuma Joost,42,Rabobank ProTeam,\u25bc8,15,2005
+28,39,13.0,35,Zandio Xabier,43,Illes Balears - Caisse d'Epargne,\u25bc8,15,2005
+34,32,13.0,36,Arrieta Jose Luis,44,Illes Balears - Caisse d'Epargne,\u25bc8,15,2005
+31,151,13.0,37,Mazzoleni Eddy,45,Lampre-Caffita,\u25bc8,15,2005
+31,104,12.0,38,Halgand Patrice,46,Cr\xe9dit Agricole,\u25bc8,15,2005
+25,167,12.0,40,Wegmann Fabian,47,Gerolsteiner,\u25bc7,15,2005
+33,23,10.0,41,Julich Bobby,48,CSC ProTeam,\u25bc7,15,2005
+25,108,10.0,42,Kashechkin Andrey,49,Cr\xe9dit Agricole,\u25bc7,15,2005
+26,82,10.0,53,Bertogliati Rubens,50,Saunier Duval - Prodir,\u25b23,15,2005
+21,97,10.0,43,Sanchez Luis Leon,51,Liberty Seguros - W\xfcrth Team,\u25bc8,15,2005
+30,122,9.0,44,Auge St\xe9phane,52,Cofidis,\u25bc8,15,2005
+31,121,8.0,45,O'Grady Stuart,53,Cofidis,\u25bc8,15,2005
+23,74,8.0,46,Facci Mauro,54,Fassa Bortolo,\u25bc8,15,2005
+26,149,8.0,48,Voeckler Thomas,55,Bouygues Telecom,\u25bc7,15,2005
+36,152,7.0,49,Bortolami Gianluca,56,Lampre-Caffita,\u25bc7,15,2005
+28,196,7.0,52,Isasi Inaki,57,Euskaltel - Euskadi,\u25bc5,15,2005
+21,185,6.0,54,Grivko Andrei,58,Domina Vacanze,\u25bc4,15,2005
+33,86,4.0,55,Horner Chris,59,Saunier Duval - Prodir,\u25bc4,15,2005
+28,102,3.0,56,Bodrogi Laszlo,60,Cr\xe9dit Agricole,\u25bc4,15,2005
+26,144,3.0,58,Fedrigo Pierrick,61,Bouygues Telecom,\u25bc3,15,2005
+27,166,3.0,57,Scholz Ronny,62,Gerolsteiner,\u25bc5,15,2005
+30,116,3.0,59,Gerosa Mauro,63,Liquigas,\u25bc4,15,2005
+30,83,3.0,60,Ca\xf1ada David,64,Saunier Duval - Prodir,\u25bc4,15,2005
+34,169,2.0,61,Zberg Beat,65,Gerolsteiner,\u25bc4,15,2005
+30,174,2.0,62,Da Cruz Carlos,66,Fran\xe7aise des Jeux,\u25bc4,15,2005
+28,114,2.0,63,Carlstr\xf6m Kjell,67,Liquigas,\u25bc4,15,2005
+26,208,2.0,64,Portal Nicolas,68,AG2R Pr\xe9voyance,\u25bc4,15,2005
+30,209,2.0,65,Turpin Ludovic,69,AG2R Pr\xe9voyance,\u25bc4,15,2005
+30,153,1.0,66,Commesso Salvatore,70,Lampre-Caffita,\u25bc4,15,2005
+31,57,185.0,1,Rasmussen Michael,1,Rabobank ProTeam,-,16,2005
+27,68,135.0,2,Pereiro Oscar,2,Phonak Hearing Systems,-,16,2005
+33,1,,3*,Armstrong Lance,3*,Discovery Channel,-,16,2005
+33,52,90.0,4*,Boogerd Michael,4*,Rabobank ProTeam,-,16,2005
+34,101,90.0,5,Moreau Christophe,5,Cr\xe9dit Agricole,-,16,2005
+32,61,89.0,6,Botero Santiago,6,Phonak Hearing Systems,-,16,2005
+37,143,88.0,7,Brochard Laurent,7,Bouygues Telecom,-,16,2005
+32,4,,8*,Hincapie George,8*,Discovery Channel,-,16,2005
+29,103,74.0,9,Caucchioli Pietro,9,Cr\xe9dit Agricole,-,16,2005
+31,19,73.0,10,Vinokourov Alexandre,10,T-Mobile Team,-,16,2005
+27,21,71.0,11,Basso Ivan,11,CSC ProTeam,-,16,2005
+31,11,65.0,12,Ullrich Jan,12,T-Mobile Team,-,16,2005
+34,161,56.0,13,Totschnig Georg,13,Gerolsteiner,-,16,2005
+28,44,53.0,27,Evans Cadel,14,Davitamon - Lotto,\u25b213,16,2005
+28,17,50.0,14,Sevilla Oscar,15,T-Mobile Team,\u25bc1,16,2005
+29,54,44.0,15,Kroon Karsten,16,Rabobank ProTeam,\u25bc1,16,2005
+28,39,41.0,43,Zandio Xabier,17,Illes Balears - Caisse d'Epargne,\u25b226,16,2005
+29,81,39.0,16,Garate Juan Manuel,18,Saunier Duval - Prodir,\u25bc2,16,2005
+29,31,36.0,17,Mancebo Francisco,19,Illes Balears - Caisse d'Epargne,\u25bc2,16,2005
+31,164,,18*,Leipheimer Levi,20*,Gerolsteiner,-,16,2005
+30,115,36.0,19,Cioni Dario,21,Liquigas,\u25bc2,16,2005
+34,53,34.0,20,Dekker Erik,22,Rabobank ProTeam,\u25bc2,16,2005
+31,2,31.0,21,Azevedo Jos\xe9 Bento Carvalho,23,Discovery Channel,\u25bc2,16,2005
+29,187,30.0,,Ludewig Jorg,24,Domina Vacanze,-,16,2005
+29,66,28.0,22,Landis Floyd,25,Phonak Hearing Systems,\u25bc3,16,2005
+31,151,28.0,45,Mazzoleni Eddy,26,Lampre-Caffita,\u25b219,16,2005
+24,94,28.0,23,Davis Allan,27,Liberty Seguros - W\xfcrth Team,\u25bc4,16,2005
+32,9,26.0,24,Savoldelli Paolo,28,Discovery Channel,\u25bc4,16,2005
+32,111,25.0,25,Garzelli Stefano,29,Liquigas,\u25bc4,16,2005
+30,14,24.0,26,Kl\xf6den Andr\xe9as,30,T-Mobile Team,\u25bc4,16,2005
+32,67,20.0,28,Moos Alexandre,31,Phonak Hearing Systems,\u25bc3,16,2005
+25,145,20.0,,Geslin Anthony,32,Bouygues Telecom,-,16,2005
+32,142,19.0,29,Beneteau Walter,33,Bouygues Telecom,\u25bc4,16,2005
+28,99,19.0,30,Vicioso \xc1ngel,34,Liberty Seguros - W\xfcrth Team,\u25bc4,16,2005
+24,59,18.0,31,Weening Pieter,35,Rabobank ProTeam,\u25bc4,16,2005
+28,96,18.0,32,Jaksche Jorg,36,Liberty Seguros - W\xfcrth Team,\u25bc4,16,2005
+23,176,17.0,,Gilbert Philippe,37,Fran\xe7aise des Jeux,-,16,2005
+28,197,17.0,33,Landaluze Inigo,38,Euskaltel - Euskadi,\u25bc5,16,2005
+32,45,17.0,34,Merckx Axel,39,Davitamon - Lotto,\u25bc5,16,2005
+25,7,17.0,35,Popovych Yaroslav,40,Discovery Channel,\u25bc5,16,2005
+26,172,16.0,36,Casar Sandy,41,Fran\xe7aise des Jeux,\u25bc5,16,2005
+27,198,15.0,37,Martinez Egoi,42,Euskaltel - Euskadi,\u25bc5,16,2005
+26,192,15.0,38,Cama\xf1o Iker,43,Euskaltel - Euskadi,\u25bc5,16,2005
+26,207,15.0,39,Krivtsov Yuriy,44,AG2R Pr\xe9voyance,\u25bc5,16,2005
+32,8,14.0,40,Rubiera Jos\xe9 Luis,45,Discovery Channel,\u25bc5,16,2005
+30,126,14.0,41,Moncouti\xe9 David,46,Cofidis,\u25bc5,16,2005
+24,56,13.0,42,Posthuma Joost,47,Rabobank ProTeam,\u25bc5,16,2005
+34,32,13.0,44,Arrieta Jose Luis,48,Illes Balears - Caisse d'Epargne,\u25bc4,16,2005
+32,98,13.0,,Serrano Marcos Antonio,49,Liberty Seguros - W\xfcrth Team,-,16,2005
+31,104,12.0,46,Halgand Patrice,50,Cr\xe9dit Agricole,\u25bc4,16,2005
+25,167,12.0,47,Wegmann Fabian,51,Gerolsteiner,\u25bc4,16,2005
+33,86,10.0,59,Horner Chris,52,Saunier Duval - Prodir,\u25b27,16,2005
+33,23,10.0,48,Julich Bobby,53,CSC ProTeam,\u25bc5,16,2005
+25,108,10.0,49,Kashechkin Andrey,54,Cr\xe9dit Agricole,\u25bc5,16,2005
+26,82,10.0,50,Bertogliati Rubens,55,Saunier Duval - Prodir,\u25bc5,16,2005
+25,147,10.0,,Pineau J\xe9rome,56,Bouygues Telecom,-,16,2005
+21,97,9.0,51,Sanchez Luis Leon,57,Liberty Seguros - W\xfcrth Team,\u25bc6,16,2005
+30,122,9.0,52,Auge St\xe9phane,58,Cofidis,\u25bc6,16,2005
+31,121,8.0,53,O'Grady Stuart,59,Cofidis,\u25bc6,16,2005
+23,74,8.0,54,Facci Mauro,60,Fassa Bortolo,\u25bc6,16,2005
+30,209,8.0,69,Turpin Ludovic,61,AG2R Pr\xe9voyance,\u25b28,16,2005
+26,149,8.0,55,Voeckler Thomas,62,Bouygues Telecom,\u25bc7,16,2005
+27,75,7.0,,Flecha Juan Antonio,63,Fassa Bortolo,-,16,2005
+34,128,7.0,,Vasseur C\xe9dric,64,Cofidis,-,16,2005
+28,196,6.0,57,Isasi Inaki,65,Euskaltel - Euskadi,\u25bc8,16,2005
+21,185,6.0,58,Grivko Andrei,66,Domina Vacanze,\u25bc8,16,2005
+28,102,4.0,60,Bodrogi Laszlo,67,Cr\xe9dit Agricole,\u25bc7,16,2005
+26,144,3.0,61,Fedrigo Pierrick,68,Bouygues Telecom,\u25bc7,16,2005
+27,166,3.0,62,Scholz Ronny,69,Gerolsteiner,\u25bc7,16,2005
+30,116,3.0,63,Gerosa Mauro,70,Liquigas,\u25bc7,16,2005
+30,83,3.0,64,Ca\xf1ada David,71,Saunier Duval - Prodir,\u25bc7,16,2005
+34,169,2.0,65,Zberg Beat,72,Gerolsteiner,\u25bc7,16,2005
+30,174,2.0,66,Da Cruz Carlos,73,Fran\xe7aise des Jeux,\u25bc7,16,2005
+28,114,2.0,67,Carlstr\xf6m Kjell,74,Liquigas,\u25bc7,16,2005
+26,208,2.0,68,Portal Nicolas,75,AG2R Pr\xe9voyance,\u25bc7,16,2005
+30,153,2.0,70,Commesso Salvatore,76,Lampre-Caffita,\u25bc6,16,2005
+31,46,1.0,,Rodriguez Fred,77,Davitamon - Lotto,-,16,2005
+31,57,185.0,1,Rasmussen Michael,1,Rabobank ProTeam,-,17,2005
+27,68,135.0,2,Pereiro Oscar,2,Phonak Hearing Systems,-,17,2005
+33,1,,3*,Armstrong Lance,3*,Discovery Channel,-,17,2005
+33,52,90.0,4*,Boogerd Michael,4*,Rabobank ProTeam,-,17,2005
+34,101,90.0,5,Moreau Christophe,5,Cr\xe9dit Agricole,-,17,2005
+32,61,89.0,6,Botero Santiago,6,Phonak Hearing Systems,-,17,2005
+37,143,88.0,7,Brochard Laurent,7,Bouygues Telecom,-,17,2005
+32,4,,8*,Hincapie George,8*,Discovery Channel,-,17,2005
+29,103,74.0,9,Caucchioli Pietro,9,Cr\xe9dit Agricole,-,17,2005
+31,19,73.0,10,Vinokourov Alexandre,10,T-Mobile Team,-,17,2005
+27,21,72.0,11,Basso Ivan,11,CSC ProTeam,-,17,2005
+31,11,65.0,12,Ullrich Jan,12,T-Mobile Team,-,17,2005
+34,161,56.0,13,Totschnig Georg,13,Gerolsteiner,-,17,2005
+28,44,53.0,14,Evans Cadel,14,Davitamon - Lotto,-,17,2005
+28,17,50.0,15,Sevilla Oscar,15,T-Mobile Team,-,17,2005
+29,54,44.0,16,Kroon Karsten,16,Rabobank ProTeam,-,17,2005
+28,39,41.0,17,Zandio Xabier,17,Illes Balears - Caisse d'Epargne,-,17,2005
+29,81,39.0,18,Garate Juan Manuel,18,Saunier Duval - Prodir,-,17,2005
+29,31,36.0,19,Mancebo Francisco,19,Illes Balears - Caisse d'Epargne,-,17,2005
+31,164,,20*,Leipheimer Levi,20*,Gerolsteiner,-,17,2005
+30,115,36.0,21,Cioni Dario,21,Liquigas,-,17,2005
+34,53,34.0,22,Dekker Erik,22,Rabobank ProTeam,-,17,2005
+31,2,31.0,23,Azevedo Jos\xe9 Bento Carvalho,23,Discovery Channel,-,17,2005
+32,9,30.0,28,Savoldelli Paolo,24,Discovery Channel,\u25b24,17,2005
+29,187,29.0,24,Ludewig Jorg,25,Domina Vacanze,\u25bc1,17,2005
+29,66,28.0,25,Landis Floyd,26,Phonak Hearing Systems,\u25bc1,17,2005
+31,151,28.0,26,Mazzoleni Eddy,27,Lampre-Caffita,\u25bc1,17,2005
+24,94,28.0,27,Davis Allan,28,Liberty Seguros - W\xfcrth Team,\u25bc1,17,2005
+32,111,26.0,29,Garzelli Stefano,29,Liquigas,-,17,2005
+32,67,24.0,31,Moos Alexandre,30,Phonak Hearing Systems,\u25b21,17,2005
+25,145,23.0,32,Geslin Anthony,31,Bouygues Telecom,\u25b21,17,2005
+32,142,19.0,33,Beneteau Walter,32,Bouygues Telecom,\u25b21,17,2005
+28,99,19.0,34,Vicioso \xc1ngel,33,Liberty Seguros - W\xfcrth Team,\u25b21,17,2005
+24,59,18.0,35,Weening Pieter,34,Rabobank ProTeam,\u25b21,17,2005
+28,96,18.0,36,Jaksche Jorg,35,Liberty Seguros - W\xfcrth Team,\u25b21,17,2005
+23,176,17.0,37,Gilbert Philippe,36,Fran\xe7aise des Jeux,\u25b21,17,2005
+28,197,17.0,38,Landaluze Inigo,37,Euskaltel - Euskadi,\u25b21,17,2005
+32,45,17.0,39,Merckx Axel,38,Davitamon - Lotto,\u25b21,17,2005
+25,7,17.0,40,Popovych Yaroslav,39,Discovery Channel,\u25b21,17,2005
+26,172,16.0,41,Casar Sandy,40,Fran\xe7aise des Jeux,\u25b21,17,2005
+27,198,15.0,42,Martinez Egoi,41,Euskaltel - Euskadi,\u25b21,17,2005
+26,192,15.0,43,Cama\xf1o Iker,42,Euskaltel - Euskadi,\u25b21,17,2005
+33,23,15.0,53,Julich Bobby,43,CSC ProTeam,\u25b210,17,2005
+26,207,14.0,44,Krivtsov Yuriy,44,AG2R Pr\xe9voyance,-,17,2005
+32,8,14.0,45,Rubiera Jos\xe9 Luis,45,Discovery Channel,-,17,2005
+30,126,14.0,46,Moncouti\xe9 David,46,Cofidis,-,17,2005
+24,56,13.0,47,Posthuma Joost,47,Rabobank ProTeam,-,17,2005
+34,32,13.0,48,Arrieta Jose Luis,48,Illes Balears - Caisse d'Epargne,-,17,2005
+32,98,13.0,49,Serrano Marcos Antonio,49,Liberty Seguros - W\xfcrth Team,-,17,2005
+31,104,12.0,50,Halgand Patrice,50,Cr\xe9dit Agricole,-,17,2005
+25,167,12.0,51,Wegmann Fabian,51,Gerolsteiner,-,17,2005
+21,185,10.0,66,Grivko Andrei,52,Domina Vacanze,\u25b214,17,2005
+33,86,10.0,52,Horner Chris,53,Saunier Duval - Prodir,\u25bc1,17,2005
+25,108,10.0,54,Kashechkin Andrey,54,Cr\xe9dit Agricole,-,17,2005
+26,82,10.0,55,Bertogliati Rubens,55,Saunier Duval - Prodir,-,17,2005
+25,147,10.0,56,Pineau J\xe9rome,56,Bouygues Telecom,-,17,2005
+21,97,9.0,57,Sanchez Luis Leon,57,Liberty Seguros - W\xfcrth Team,-,17,2005
+30,122,9.0,58,Auge St\xe9phane,58,Cofidis,-,17,2005
+31,121,8.0,59,O'Grady Stuart,59,Cofidis,-,17,2005
+23,74,8.0,60,Facci Mauro,60,Fassa Bortolo,-,17,2005
+30,209,8.0,61,Turpin Ludovic,61,AG2R Pr\xe9voyance,-,17,2005
+26,149,8.0,62,Voeckler Thomas,62,Bouygues Telecom,-,17,2005
+27,75,7.0,63,Flecha Juan Antonio,63,Fassa Bortolo,-,17,2005
+34,128,7.0,64,Vasseur C\xe9dric,64,Cofidis,-,17,2005
+28,196,6.0,65,Isasi Inaki,65,Euskaltel - Euskadi,-,17,2005
+30,174,6.0,73,Da Cruz Carlos,66,Fran\xe7aise des Jeux,\u25b27,17,2005
+28,102,4.0,67,Bodrogi Laszlo,67,Cr\xe9dit Agricole,-,17,2005
+26,144,3.0,68,Fedrigo Pierrick,68,Bouygues Telecom,-,17,2005
+27,166,3.0,69,Scholz Ronny,69,Gerolsteiner,-,17,2005
+31,105,3.0,,Hinault S\xe9bastien,70,Cr\xe9dit Agricole,-,17,2005
+24,204,3.0,,Dumoulin Samuel,71,AG2R Pr\xe9voyance,-,17,2005
+30,116,3.0,70,Gerosa Mauro,72,Liquigas,\u25bc2,17,2005
+30,83,3.0,71,Ca\xf1ada David,73,Saunier Duval - Prodir,\u25bc2,17,2005
+31,92,2.0,,Beloki Joseba,74,Liberty Seguros - W\xfcrth Team,-,17,2005
+30,22,2.0,,Arvesen Kurt-Asle,75,CSC ProTeam,-,17,2005
+34,169,2.0,72,Zberg Beat,76,Gerolsteiner,\u25bc4,17,2005
+28,114,2.0,74,Carlstr\xf6m Kjell,77,Liquigas,\u25bc3,17,2005
+26,208,2.0,75,Portal Nicolas,78,AG2R Pr\xe9voyance,\u25bc3,17,2005
+30,153,2.0,76,Commesso Salvatore,79,Lampre-Caffita,\u25bc3,17,2005
+29,157,1.0,,Righi Daniele,80,Lampre-Caffita,-,17,2005
+25,205,1.0,,Gerrans Simon,81,AG2R Pr\xe9voyance,-,17,2005
+31,46,1.0,77,Rodriguez Fred,82,Davitamon - Lotto,\u25bc5,17,2005
+31,57,185.0,1,Rasmussen Michael,1,Rabobank ProTeam,-,18,2005
+27,68,135.0,2,Pereiro Oscar,2,Phonak Hearing Systems,-,18,2005
+33,1,,3*,Armstrong Lance,3*,Discovery Channel,-,18,2005
+33,52,90.0,4*,Boogerd Michael,4*,Rabobank ProTeam,-,18,2005
+34,101,90.0,5,Moreau Christophe,5,Cr\xe9dit Agricole,-,18,2005
+32,61,89.0,6,Botero Santiago,6,Phonak Hearing Systems,-,18,2005
+37,143,88.0,7,Brochard Laurent,7,Bouygues Telecom,-,18,2005
+32,4,,8*,Hincapie George,8*,Discovery Channel,-,18,2005
+29,103,74.0,9,Caucchioli Pietro,9,Cr\xe9dit Agricole,-,18,2005
+31,19,73.0,10,Vinokourov Alexandre,10,T-Mobile Team,-,18,2005
+27,21,72.0,11,Basso Ivan,11,CSC ProTeam,-,18,2005
+28,39,65.0,17,Zandio Xabier,12,Illes Balears - Caisse d'Epargne,\u25b25,18,2005
+31,11,63.0,12,Ullrich Jan,13,T-Mobile Team,\u25bc1,18,2005
+34,161,56.0,13,Totschnig Georg,14,Gerolsteiner,\u25bc1,18,2005
+28,44,53.0,14,Evans Cadel,15,Davitamon - Lotto,\u25bc1,18,2005
+28,17,50.0,15,Sevilla Oscar,16,T-Mobile Team,\u25bc1,18,2005
+32,45,44.0,38,Merckx Axel,17,Davitamon - Lotto,\u25b221,18,2005
+29,54,43.0,16,Kroon Karsten,18,Rabobank ProTeam,\u25bc2,18,2005
+32,98,41.0,49,Serrano Marcos Antonio,19,Liberty Seguros - W\xfcrth Team,\u25b230,18,2005
+29,81,41.0,18,Garate Juan Manuel,20,Saunier Duval - Prodir,\u25bc2,18,2005
+29,31,36.0,19,Mancebo Francisco,21,Illes Balears - Caisse d'Epargne,\u25bc2,18,2005
+31,164,,20*,Leipheimer Levi,22*,Gerolsteiner,-,18,2005
+30,115,36.0,21,Cioni Dario,23,Liquigas,\u25bc2,18,2005
+34,53,34.0,22,Dekker Erik,24,Rabobank ProTeam,\u25bc2,18,2005
+31,2,31.0,23,Azevedo Jos\xe9 Bento Carvalho,25,Discovery Channel,\u25bc2,18,2005
+32,9,30.0,24,Savoldelli Paolo,26,Discovery Channel,\u25bc2,18,2005
+34,128,29.0,64,Vasseur C\xe9dric,27,Cofidis,\u25b237,18,2005
+29,187,29.0,25,Ludewig Jorg,28,Domina Vacanze,\u25bc3,18,2005
+29,66,28.0,26,Landis Floyd,29,Phonak Hearing Systems,\u25bc3,18,2005
+31,151,28.0,27,Mazzoleni Eddy,30,Lampre-Caffita,\u25bc3,18,2005
+24,94,28.0,28,Davis Allan,31,Liberty Seguros - W\xfcrth Team,\u25bc3,18,2005
+32,111,26.0,29,Garzelli Stefano,32,Liquigas,\u25bc3,18,2005
+32,67,24.0,30,Moos Alexandre,33,Phonak Hearing Systems,\u25bc3,18,2005
+26,149,23.0,62,Voeckler Thomas,34,Bouygues Telecom,\u25b228,18,2005
+25,145,20.0,31,Geslin Anthony,35,Bouygues Telecom,\u25bc4,18,2005
+32,142,19.0,32,Beneteau Walter,36,Bouygues Telecom,\u25bc4,18,2005
+30,174,19.0,66,Da Cruz Carlos,37,Fran\xe7aise des Jeux,\u25b229,18,2005
+28,99,18.0,33,Vicioso \xc1ngel,38,Liberty Seguros - W\xfcrth Team,\u25bc5,18,2005
+24,59,18.0,34,Weening Pieter,39,Rabobank ProTeam,\u25bc5,18,2005
+28,96,18.0,35,Jaksche Jorg,40,Liberty Seguros - W\xfcrth Team,\u25bc5,18,2005
+23,176,17.0,36,Gilbert Philippe,41,Fran\xe7aise des Jeux,\u25bc5,18,2005
+28,197,17.0,37,Landaluze Inigo,42,Euskaltel - Euskadi,\u25bc5,18,2005
+25,7,17.0,39,Popovych Yaroslav,43,Discovery Channel,\u25bc4,18,2005
+26,172,16.0,40,Casar Sandy,44,Fran\xe7aise des Jeux,\u25bc4,18,2005
+27,198,15.0,41,Martinez Egoi,45,Euskaltel - Euskadi,\u25bc4,18,2005
+26,192,15.0,42,Cama\xf1o Iker,46,Euskaltel - Euskadi,\u25bc4,18,2005
+33,23,15.0,43,Julich Bobby,47,CSC ProTeam,\u25bc4,18,2005
+26,207,14.0,44,Krivtsov Yuriy,48,AG2R Pr\xe9voyance,\u25bc4,18,2005
+27,119,14.0,,Pellizotti Franco,49,Liquigas,-,18,2005
+32,8,14.0,45,Rubiera Jos\xe9 Luis,50,Discovery Channel,\u25bc5,18,2005
+30,126,14.0,46,Moncouti\xe9 David,51,Cofidis,\u25bc5,18,2005
+24,56,13.0,47,Posthuma Joost,52,Rabobank ProTeam,\u25bc5,18,2005
+34,32,13.0,48,Arrieta Jose Luis,53,Illes Balears - Caisse d'Epargne,\u25bc5,18,2005
+31,104,13.0,50,Halgand Patrice,54,Cr\xe9dit Agricole,\u25bc4,18,2005
+26,13,12.0,,Kessler Matthias,55,T-Mobile Team,-,18,2005
+25,167,11.0,51,Wegmann Fabian,56,Gerolsteiner,\u25bc5,18,2005
+21,185,10.0,52,Grivko Andrei,57,Domina Vacanze,\u25bc5,18,2005
+33,86,10.0,53,Horner Chris,58,Saunier Duval - Prodir,\u25bc5,18,2005
+25,108,10.0,54,Kashechkin Andrey,59,Cr\xe9dit Agricole,\u25bc5,18,2005
+26,82,10.0,55,Bertogliati Rubens,60,Saunier Duval - Prodir,\u25bc5,18,2005
+25,147,10.0,56,Pineau J\xe9rome,61,Bouygues Telecom,\u25bc5,18,2005
+21,97,9.0,57,Sanchez Luis Leon,62,Liberty Seguros - W\xfcrth Team,\u25bc5,18,2005
+30,122,9.0,58,Auge St\xe9phane,63,Cofidis,\u25bc5,18,2005
+31,121,8.0,59,O'Grady Stuart,64,Cofidis,\u25bc5,18,2005
+23,74,8.0,60,Facci Mauro,65,Fassa Bortolo,\u25bc5,18,2005
+30,209,8.0,61,Turpin Ludovic,66,AG2R Pr\xe9voyance,\u25bc5,18,2005
+27,75,8.0,63,Flecha Juan Antonio,67,Fassa Bortolo,\u25bc4,18,2005
+28,25,7.0,,Roberts Luke,68,CSC ProTeam,-,18,2005
+28,196,7.0,65,Isasi Inaki,69,Euskaltel - Euskadi,\u25bc4,18,2005
+28,102,6.0,67,Bodrogi Laszlo,70,Cr\xe9dit Agricole,\u25bc3,18,2005
+26,144,3.0,68,Fedrigo Pierrick,71,Bouygues Telecom,\u25bc3,18,2005
+27,166,3.0,69,Scholz Ronny,72,Gerolsteiner,\u25bc3,18,2005
+31,105,3.0,70,Hinault S\xe9bastien,73,Cr\xe9dit Agricole,\u25bc3,18,2005
+24,204,3.0,71,Dumoulin Samuel,74,AG2R Pr\xe9voyance,\u25bc3,18,2005
+30,116,3.0,72,Gerosa Mauro,75,Liquigas,\u25bc3,18,2005
+30,83,3.0,73,Ca\xf1ada David,76,Saunier Duval - Prodir,\u25bc3,18,2005
+31,92,2.0,74,Beloki Joseba,77,Liberty Seguros - W\xfcrth Team,\u25bc3,18,2005
+30,22,2.0,75,Arvesen Kurt-Asle,78,CSC ProTeam,\u25bc3,18,2005
+34,169,2.0,76,Zberg Beat,79,Gerolsteiner,\u25bc3,18,2005
+28,114,2.0,77,Carlstr\xf6m Kjell,80,Liquigas,\u25bc3,18,2005
+26,208,2.0,78,Portal Nicolas,81,AG2R Pr\xe9voyance,\u25bc3,18,2005
+30,153,2.0,79,Commesso Salvatore,82,Lampre-Caffita,\u25bc3,18,2005
+29,157,1.0,80,Righi Daniele,83,Lampre-Caffita,\u25bc3,18,2005
+25,205,1.0,81,Gerrans Simon,84,AG2R Pr\xe9voyance,\u25bc3,18,2005
+31,46,1.0,82,Rodriguez Fred,85,Davitamon - Lotto,\u25bc3,18,2005
+31,57,185.0,1,Rasmussen Michael,1,Rabobank ProTeam,-,19,2005
+27,68,155.0,2,Pereiro Oscar,2,Phonak Hearing Systems,-,19,2005
+34,101,92.0,5,Moreau Christophe,3,Cr\xe9dit Agricole,\u25b22,19,2005
+33,1,,3*,Armstrong Lance,4*,Discovery Channel,-,19,2005
+33,52,90.0,4*,Boogerd Michael,5*,Rabobank ProTeam,-,19,2005
+32,61,90.0,6,Botero Santiago,6,Phonak Hearing Systems,-,19,2005
+37,143,88.0,7,Brochard Laurent,7,Bouygues Telecom,-,19,2005
+32,4,,8*,Hincapie George,8*,Discovery Channel,-,19,2005
+29,103,74.0,9,Caucchioli Pietro,9,Cr\xe9dit Agricole,-,19,2005
+31,19,73.0,10,Vinokourov Alexandre,10,T-Mobile Team,-,19,2005
+27,21,72.0,11,Basso Ivan,11,CSC ProTeam,-,19,2005
+28,39,65.0,12,Zandio Xabier,12,Illes Balears - Caisse d'Epargne,-,19,2005
+31,11,63.0,13,Ullrich Jan,13,T-Mobile Team,-,19,2005
+34,161,56.0,14,Totschnig Georg,14,Gerolsteiner,-,19,2005
+28,44,53.0,15,Evans Cadel,15,Davitamon - Lotto,-,19,2005
+28,17,50.0,16,Sevilla Oscar,16,T-Mobile Team,-,19,2005
+32,45,44.0,17,Merckx Axel,17,Davitamon - Lotto,-,19,2005
+29,54,43.0,18,Kroon Karsten,18,Rabobank ProTeam,-,19,2005
+32,98,41.0,19,Serrano Marcos Antonio,19,Liberty Seguros - W\xfcrth Team,-,19,2005
+29,81,41.0,20,Garate Juan Manuel,20,Saunier Duval - Prodir,-,19,2005
+29,31,36.0,21,Mancebo Francisco,21,Illes Balears - Caisse d'Epargne,-,19,2005
+31,164,,22*,Leipheimer Levi,22*,Gerolsteiner,-,19,2005
+30,115,36.0,23,Cioni Dario,23,Liquigas,-,19,2005
+34,53,34.0,24,Dekker Erik,24,Rabobank ProTeam,-,19,2005
+31,2,31.0,25,Azevedo Jos\xe9 Bento Carvalho,25,Discovery Channel,-,19,2005
+32,9,30.0,26,Savoldelli Paolo,26,Discovery Channel,-,19,2005
+34,128,29.0,27,Vasseur C\xe9dric,27,Cofidis,-,19,2005
+29,187,29.0,28,Ludewig Jorg,28,Domina Vacanze,-,19,2005
+29,66,28.0,29,Landis Floyd,29,Phonak Hearing Systems,-,19,2005
+31,151,28.0,30,Mazzoleni Eddy,30,Lampre-Caffita,-,19,2005
+24,94,28.0,31,Davis Allan,31,Liberty Seguros - W\xfcrth Team,-,19,2005
+26,172,26.0,44,Casar Sandy,32,Fran\xe7aise des Jeux,\u25b212,19,2005
+27,119,26.0,49,Pellizotti Franco,33,Liquigas,\u25b216,19,2005
+24,59,25.0,39,Weening Pieter,34,Rabobank ProTeam,\u25b25,19,2005
+32,111,24.0,32,Garzelli Stefano,35,Liquigas,\u25bc3,19,2005
+32,67,24.0,33,Moos Alexandre,36,Phonak Hearing Systems,\u25bc3,19,2005
+26,149,23.0,34,Voeckler Thomas,37,Bouygues Telecom,\u25bc3,19,2005
+25,145,20.0,35,Geslin Anthony,38,Bouygues Telecom,\u25bc3,19,2005
+32,142,19.0,36,Beneteau Walter,39,Bouygues Telecom,\u25bc3,19,2005
+30,174,19.0,37,Da Cruz Carlos,40,Fran\xe7aise des Jeux,\u25bc3,19,2005
+28,99,18.0,38,Vicioso \xc1ngel,41,Liberty Seguros - W\xfcrth Team,\u25bc3,19,2005
+28,96,18.0,40,Jaksche Jorg,42,Liberty Seguros - W\xfcrth Team,\u25bc2,19,2005
+23,176,17.0,41,Gilbert Philippe,43,Fran\xe7aise des Jeux,\u25bc2,19,2005
+28,197,17.0,42,Landaluze Inigo,44,Euskaltel - Euskadi,\u25bc2,19,2005
+25,7,17.0,43,Popovych Yaroslav,45,Discovery Channel,\u25bc2,19,2005
+27,198,16.0,45,Martinez Egoi,46,Euskaltel - Euskadi,\u25bc1,19,2005
+26,192,15.0,46,Cama\xf1o Iker,47,Euskaltel - Euskadi,\u25bc1,19,2005
+33,23,15.0,47,Julich Bobby,48,CSC ProTeam,\u25bc1,19,2005
+26,207,14.0,48,Krivtsov Yuriy,49,AG2R Pr\xe9voyance,\u25bc1,19,2005
+32,8,14.0,50,Rubiera Jos\xe9 Luis,50,Discovery Channel,-,19,2005
+35,12,14.0,,Guerini Giuseppe,51,T-Mobile Team,-,19,2005
+30,126,14.0,51,Moncouti\xe9 David,52,Cofidis,\u25bc1,19,2005
+24,56,13.0,52,Posthuma Joost,53,Rabobank ProTeam,\u25bc1,19,2005
+34,32,13.0,53,Arrieta Jose Luis,54,Illes Balears - Caisse d'Epargne,\u25bc1,19,2005
+31,104,13.0,54,Halgand Patrice,55,Cr\xe9dit Agricole,\u25bc1,19,2005
+26,13,12.0,55,Kessler Matthias,56,T-Mobile Team,\u25bc1,19,2005
+25,167,11.0,56,Wegmann Fabian,57,Gerolsteiner,\u25bc1,19,2005
+21,185,10.0,57,Grivko Andrei,58,Domina Vacanze,\u25bc1,19,2005
+33,86,10.0,58,Horner Chris,59,Saunier Duval - Prodir,\u25bc1,19,2005
+25,108,10.0,59,Kashechkin Andrey,60,Cr\xe9dit Agricole,\u25bc1,19,2005
+26,82,10.0,60,Bertogliati Rubens,61,Saunier Duval - Prodir,\u25bc1,19,2005
+25,147,10.0,61,Pineau J\xe9rome,62,Bouygues Telecom,\u25bc1,19,2005
+21,97,9.0,62,Sanchez Luis Leon,63,Liberty Seguros - W\xfcrth Team,\u25bc1,19,2005
+30,122,9.0,63,Auge St\xe9phane,64,Cofidis,\u25bc1,19,2005
+31,121,8.0,64,O'Grady Stuart,65,Cofidis,\u25bc1,19,2005
+23,74,8.0,65,Facci Mauro,66,Fassa Bortolo,\u25bc1,19,2005
+30,209,8.0,66,Turpin Ludovic,67,AG2R Pr\xe9voyance,\u25bc1,19,2005
+27,75,8.0,67,Flecha Juan Antonio,68,Fassa Bortolo,\u25bc1,19,2005
+28,25,7.0,68,Roberts Luke,69,CSC ProTeam,\u25bc1,19,2005
+28,196,7.0,69,Isasi Inaki,70,Euskaltel - Euskadi,\u25bc1,19,2005
+30,62,6.0,,Grabsch Bert,71,Phonak Hearing Systems,-,19,2005
+27,166,5.0,72,Scholz Ronny,72,Gerolsteiner,-,19,2005
+28,102,5.0,70,Bodrogi Laszlo,73,Cr\xe9dit Agricole,\u25bc3,19,2005
+26,144,3.0,71,Fedrigo Pierrick,74,Bouygues Telecom,\u25bc3,19,2005
+31,105,3.0,73,Hinault S\xe9bastien,75,Cr\xe9dit Agricole,\u25bc2,19,2005
+24,204,3.0,74,Dumoulin Samuel,76,AG2R Pr\xe9voyance,\u25bc2,19,2005
+30,116,3.0,75,Gerosa Mauro,77,Liquigas,\u25bc2,19,2005
+30,83,3.0,76,Ca\xf1ada David,78,Saunier Duval - Prodir,\u25bc2,19,2005
+31,92,2.0,77,Beloki Joseba,79,Liberty Seguros - W\xfcrth Team,\u25bc2,19,2005
+30,22,2.0,78,Arvesen Kurt-Asle,80,CSC ProTeam,\u25bc2,19,2005
+34,169,2.0,79,Zberg Beat,81,Gerolsteiner,\u25bc2,19,2005
+28,114,2.0,80,Carlstr\xf6m Kjell,82,Liquigas,\u25bc2,19,2005
+26,208,2.0,81,Portal Nicolas,83,AG2R Pr\xe9voyance,\u25bc2,19,2005
+30,153,2.0,82,Commesso Salvatore,84,Lampre-Caffita,\u25bc2,19,2005
+29,171,1.0,,McGee Bradley,85,Fran\xe7aise des Jeux,-,19,2005
+29,157,1.0,83,Righi Daniele,86,Lampre-Caffita,\u25bc3,19,2005
+25,205,1.0,84,Gerrans Simon,87,AG2R Pr\xe9voyance,\u25bc3,19,2005
+31,46,1.0,85,Rodriguez Fred,88,Davitamon - Lotto,\u25bc3,19,2005
+31,57,185.0,1,Rasmussen Michael,1,Rabobank ProTeam,-,20,2005
+27,68,155.0,2,Pereiro Oscar,2,Phonak Hearing Systems,-,20,2005
+33,1,,4*,Armstrong Lance,3*,Discovery Channel,-,20,2005
+34,101,92.0,3,Moreau Christophe,4,Cr\xe9dit Agricole,\u25bc1,20,2005
+33,52,90.0,5*,Boogerd Michael,5*,Rabobank ProTeam,-,20,2005
+32,61,90.0,6,Botero Santiago,6,Phonak Hearing Systems,-,20,2005
+31,19,88.0,10,Vinokourov Alexandre,7,T-Mobile Team,\u25b23,20,2005
+37,143,75.0,7,Brochard Laurent,8,Bouygues Telecom,\u25bc1,20,2005
+32,4,,8*,Hincapie George,9*,Discovery Channel,-,20,2005
+29,103,74.0,9,Caucchioli Pietro,10,Cr\xe9dit Agricole,\u25bc1,20,2005
+27,21,73.0,11,Basso Ivan,11,CSC ProTeam,-,20,2005
+28,39,65.0,12,Zandio Xabier,12,Illes Balears - Caisse d'Epargne,-,20,2005
+31,11,63.0,13,Ullrich Jan,13,T-Mobile Team,-,20,2005
+34,161,58.0,14,Totschnig Georg,14,Gerolsteiner,-,20,2005
+28,44,53.0,15,Evans Cadel,15,Davitamon - Lotto,-,20,2005
+28,17,51.0,16,Sevilla Oscar,16,T-Mobile Team,-,20,2005
+32,45,44.0,17,Merckx Axel,17,Davitamon - Lotto,-,20,2005
+29,54,43.0,18,Kroon Karsten,18,Rabobank ProTeam,-,20,2005
+32,98,41.0,19,Serrano Marcos Antonio,19,Liberty Seguros - W\xfcrth Team,-,20,2005
+29,81,41.0,20,Garate Juan Manuel,20,Saunier Duval - Prodir,-,20,2005
+29,31,36.0,21,Mancebo Francisco,21,Illes Balears - Caisse d'Epargne,-,20,2005
+31,164,,22*,Leipheimer Levi,22*,Gerolsteiner,-,20,2005
+30,115,36.0,23,Cioni Dario,23,Liquigas,-,20,2005
+34,53,34.0,24,Dekker Erik,24,Rabobank ProTeam,-,20,2005
+31,2,31.0,25,Azevedo Jos\xe9 Bento Carvalho,25,Discovery Channel,-,20,2005
+32,9,30.0,26,Savoldelli Paolo,26,Discovery Channel,-,20,2005
+34,128,29.0,27,Vasseur C\xe9dric,27,Cofidis,-,20,2005
+29,187,29.0,28,Ludewig Jorg,28,Domina Vacanze,-,20,2005
+29,66,28.0,29,Landis Floyd,29,Phonak Hearing Systems,-,20,2005
+31,151,28.0,30,Mazzoleni Eddy,30,Lampre-Caffita,-,20,2005
+24,94,28.0,31,Davis Allan,31,Liberty Seguros - W\xfcrth Team,-,20,2005
+26,172,26.0,32,Casar Sandy,32,Fran\xe7aise des Jeux,-,20,2005
+27,119,26.0,33,Pellizotti Franco,33,Liquigas,-,20,2005
+24,59,25.0,34,Weening Pieter,34,Rabobank ProTeam,-,20,2005
+32,111,24.0,35,Garzelli Stefano,35,Liquigas,-,20,2005
+32,67,24.0,36,Moos Alexandre,36,Phonak Hearing Systems,-,20,2005
+26,149,23.0,37,Voeckler Thomas,37,Bouygues Telecom,-,20,2005
+25,145,20.0,38,Geslin Anthony,38,Bouygues Telecom,-,20,2005
+32,142,19.0,39,Beneteau Walter,39,Bouygues Telecom,-,20,2005
+30,174,19.0,40,Da Cruz Carlos,40,Fran\xe7aise des Jeux,-,20,2005
+28,99,18.0,41,Vicioso \xc1ngel,41,Liberty Seguros - W\xfcrth Team,-,20,2005
+29,96,18.0,42,Jaksche Jorg,42,Liberty Seguros - W\xfcrth Team,-,20,2005
+23,176,17.0,43,Gilbert Philippe,43,Fran\xe7aise des Jeux,-,20,2005
+28,197,17.0,44,Landaluze Inigo,44,Euskaltel - Euskadi,-,20,2005
+25,7,17.0,45,Popovych Yaroslav,45,Discovery Channel,-,20,2005
+27,198,16.0,46,Martinez Egoi,46,Euskaltel - Euskadi,-,20,2005
+26,192,15.0,47,Cama\xf1o Iker,47,Euskaltel - Euskadi,-,20,2005
+33,23,15.0,48,Julich Bobby,48,CSC ProTeam,-,20,2005
+26,207,14.0,49,Krivtsov Yuriy,49,AG2R Pr\xe9voyance,-,20,2005
+32,8,14.0,50,Rubiera Jos\xe9 Luis,50,Discovery Channel,-,20,2005
+35,12,14.0,51,Guerini Giuseppe,51,T-Mobile Team,-,20,2005
+30,126,14.0,52,Moncouti\xe9 David,52,Cofidis,-,20,2005
+24,56,13.0,53,Posthuma Joost,53,Rabobank ProTeam,-,20,2005
+34,32,13.0,54,Arrieta Jose Luis,54,Illes Balears - Caisse d'Epargne,-,20,2005
+31,104,13.0,55,Halgand Patrice,55,Cr\xe9dit Agricole,-,20,2005
+26,13,12.0,56,Kessler Matthias,56,T-Mobile Team,-,20,2005
+25,167,11.0,57,Wegmann Fabian,57,Gerolsteiner,-,20,2005
+21,185,10.0,58,Grivko Andrei,58,Domina Vacanze,-,20,2005
+33,86,10.0,59,Horner Chris,59,Saunier Duval - Prodir,-,20,2005
+25,108,10.0,60,Kashechkin Andrey,60,Cr\xe9dit Agricole,-,20,2005
+26,82,10.0,61,Bertogliati Rubens,61,Saunier Duval - Prodir,-,20,2005
+25,147,10.0,62,Pineau J\xe9rome,62,Bouygues Telecom,-,20,2005
+21,97,9.0,63,Sanchez Luis Leon,63,Liberty Seguros - W\xfcrth Team,-,20,2005
+30,122,9.0,64,Auge St\xe9phane,64,Cofidis,-,20,2005
+31,121,8.0,65,O'Grady Stuart,65,Cofidis,-,20,2005
+23,74,8.0,66,Facci Mauro,66,Fassa Bortolo,-,20,2005
+30,209,8.0,67,Turpin Ludovic,67,AG2R Pr\xe9voyance,-,20,2005
+27,75,8.0,68,Flecha Juan Antonio,68,Fassa Bortolo,-,20,2005
+28,25,7.0,69,Roberts Luke,69,CSC ProTeam,-,20,2005
+28,196,7.0,70,Isasi Inaki,70,Euskaltel - Euskadi,-,20,2005
+30,62,6.0,71,Grabsch Bert,71,Phonak Hearing Systems,-,20,2005
+27,166,5.0,72,Scholz Ronny,72,Gerolsteiner,-,20,2005
+28,102,5.0,73,Bodrogi Laszlo,73,Cr\xe9dit Agricole,-,20,2005
+26,144,3.0,74,Fedrigo Pierrick,74,Bouygues Telecom,-,20,2005
+31,105,3.0,75,Hinault S\xe9bastien,75,Cr\xe9dit Agricole,-,20,2005
+24,204,3.0,76,Dumoulin Samuel,76,AG2R Pr\xe9voyance,-,20,2005
+30,116,3.0,77,Gerosa Mauro,77,Liquigas,-,20,2005
+30,83,3.0,78,Ca\xf1ada David,78,Saunier Duval - Prodir,-,20,2005
+31,92,2.0,79,Beloki Joseba,79,Liberty Seguros - W\xfcrth Team,-,20,2005
+30,22,2.0,80,Arvesen Kurt-Asle,80,CSC ProTeam,-,20,2005
+34,169,2.0,81,Zberg Beat,81,Gerolsteiner,-,20,2005
+28,114,2.0,82,Carlstr\xf6m Kjell,82,Liquigas,-,20,2005
+26,208,2.0,83,Portal Nicolas,83,AG2R Pr\xe9voyance,-,20,2005
+30,153,2.0,84,Commesso Salvatore,84,Lampre-Caffita,-,20,2005
+29,171,1.0,85,McGee Bradley,85,Fran\xe7aise des Jeux,-,20,2005
+29,157,1.0,86,Righi Daniele,86,Lampre-Caffita,-,20,2005
+25,205,1.0,87,Gerrans Simon,87,AG2R Pr\xe9voyance,-,20,2005
+31,46,1.0,88,Rodriguez Fred,88,Davitamon - Lotto,-,20,2005
+31,57,185.0,1,Rasmussen Michael,1,Rabobank ProTeam,-,21,2005
+27,68,155.0,2,Pereiro Oscar,2,Phonak Hearing Systems,-,21,2005
+33,1,,3*,Armstrong Lance,3*,Discovery Channel,-,21,2005
+34,101,93.0,4,Moreau Christophe,4,Cr\xe9dit Agricole,-,21,2005
+33,52,90.0,5*,Boogerd Michael,5*,Rabobank ProTeam,-,21,2005
+32,61,90.0,6,Botero Santiago,6,Phonak Hearing Systems,-,21,2005
+31,19,88.0,7,Vinokourov Alexandre,7,T-Mobile Team,-,21,2005
+37,143,75.0,8,Brochard Laurent,8,Bouygues Telecom,-,21,2005
+32,4,,9*,Hincapie George,9*,Discovery Channel,-,21,2005
+29,103,74.0,10,Caucchioli Pietro,10,Cr\xe9dit Agricole,-,21,2005
+27,21,73.0,11,Basso Ivan,11,CSC ProTeam,-,21,2005
+28,39,65.0,12,Zandio Xabier,12,Illes Balears - Caisse d'Epargne,-,21,2005
+31,11,63.0,13,Ullrich Jan,13,T-Mobile Team,-,21,2005
+34,161,58.0,14,Totschnig Georg,14,Gerolsteiner,-,21,2005
+28,44,53.0,15,Evans Cadel,15,Davitamon - Lotto,-,21,2005
+28,17,51.0,16,Sevilla Oscar,16,T-Mobile Team,-,21,2005
+32,45,44.0,17,Merckx Axel,17,Davitamon - Lotto,-,21,2005
+29,54,43.0,18,Kroon Karsten,18,Rabobank ProTeam,-,21,2005
+32,98,41.0,19,Serrano Marcos Antonio,19,Liberty Seguros - W\xfcrth Team,-,21,2005
+29,81,41.0,20,Garate Juan Manuel,20,Saunier Duval - Prodir,-,21,2005
+29,31,36.0,21,Mancebo Francisco,21,Illes Balears - Caisse d'Epargne,-,21,2005
+31,164,,22*,Leipheimer Levi,22*,Gerolsteiner,-,21,2005
+30,115,36.0,23,Cioni Dario,23,Liquigas,-,21,2005
+34,53,34.0,24,Dekker Erik,24,Rabobank ProTeam,-,21,2005
+31,2,31.0,25,Azevedo Jos\xe9 Bento Carvalho,25,Discovery Channel,-,21,2005
+32,9,30.0,26,Savoldelli Paolo,26,Discovery Channel,-,21,2005
+34,128,29.0,27,Vasseur C\xe9dric,27,Cofidis,-,21,2005
+29,187,29.0,28,Ludewig Jorg,28,Domina Vacanze,-,21,2005
+29,66,28.0,29,Landis Floyd,29,Phonak Hearing Systems,-,21,2005
+31,151,28.0,30,Mazzoleni Eddy,30,Lampre-Caffita,-,21,2005
+24,94,28.0,31,Davis Allan,31,Liberty Seguros - W\xfcrth Team,-,21,2005
+26,172,26.0,32,Casar Sandy,32,Fran\xe7aise des Jeux,-,21,2005
+27,119,26.0,33,Pellizotti Franco,33,Liquigas,-,21,2005
+24,59,25.0,34,Weening Pieter,34,Rabobank ProTeam,-,21,2005
+32,111,24.0,35,Garzelli Stefano,35,Liquigas,-,21,2005
+32,67,24.0,36,Moos Alexandre,36,Phonak Hearing Systems,-,21,2005
+26,149,23.0,37,Voeckler Thomas,37,Bouygues Telecom,-,21,2005
+25,145,20.0,38,Geslin Anthony,38,Bouygues Telecom,-,21,2005
+32,142,19.0,39,Beneteau Walter,39,Bouygues Telecom,-,21,2005
+30,174,19.0,40,Da Cruz Carlos,40,Fran\xe7aise des Jeux,-,21,2005
+28,99,18.0,41,Vicioso \xc1ngel,41,Liberty Seguros - W\xfcrth Team,-,21,2005
+29,96,18.0,42,Jaksche Jorg,42,Liberty Seguros - W\xfcrth Team,-,21,2005
+23,176,17.0,43,Gilbert Philippe,43,Fran\xe7aise des Jeux,-,21,2005
+28,197,17.0,44,Landaluze Inigo,44,Euskaltel - Euskadi,-,21,2005
+25,7,17.0,45,Popovych Yaroslav,45,Discovery Channel,-,21,2005
+27,198,16.0,46,Martinez Egoi,46,Euskaltel - Euskadi,-,21,2005
+26,192,15.0,47,Cama\xf1o Iker,47,Euskaltel - Euskadi,-,21,2005
+33,23,15.0,48,Julich Bobby,48,CSC ProTeam,-,21,2005
+26,207,14.0,49,Krivtsov Yuriy,49,AG2R Pr\xe9voyance,-,21,2005
+32,8,14.0,50,Rubiera Jos\xe9 Luis,50,Discovery Channel,-,21,2005
+35,12,14.0,51,Guerini Giuseppe,51,T-Mobile Team,-,21,2005
+30,126,14.0,52,Moncouti\xe9 David,52,Cofidis,-,21,2005
+24,56,13.0,53,Posthuma Joost,53,Rabobank ProTeam,-,21,2005
+34,32,13.0,54,Arrieta Jose Luis,54,Illes Balears - Caisse d'Epargne,-,21,2005
+31,104,13.0,55,Halgand Patrice,55,Cr\xe9dit Agricole,-,21,2005
+26,13,12.0,56,Kessler Matthias,56,T-Mobile Team,-,21,2005
+25,167,11.0,57,Wegmann Fabian,57,Gerolsteiner,-,21,2005
+21,185,10.0,58,Grivko Andrei,58,Domina Vacanze,-,21,2005
+33,86,10.0,59,Horner Chris,59,Saunier Duval - Prodir,-,21,2005
+25,108,10.0,60,Kashechkin Andrey,60,Cr\xe9dit Agricole,-,21,2005
+26,82,10.0,61,Bertogliati Rubens,61,Saunier Duval - Prodir,-,21,2005
+25,147,10.0,62,Pineau J\xe9rome,62,Bouygues Telecom,-,21,2005
+21,97,9.0,63,Sanchez Luis Leon,63,Liberty Seguros - W\xfcrth Team,-,21,2005
+30,122,9.0,64,Auge St\xe9phane,64,Cofidis,-,21,2005
+31,121,8.0,65,O'Grady Stuart,65,Cofidis,-,21,2005
+23,74,8.0,66,Facci Mauro,66,Fassa Bortolo,-,21,2005
+30,209,8.0,67,Turpin Ludovic,67,AG2R Pr\xe9voyance,-,21,2005
+27,75,8.0,68,Flecha Juan Antonio,68,Fassa Bortolo,-,21,2005
+28,25,7.0,69,Roberts Luke,69,CSC ProTeam,-,21,2005
+28,196,7.0,70,Isasi Inaki,70,Euskaltel - Euskadi,-,21,2005
+30,62,6.0,71,Grabsch Bert,71,Phonak Hearing Systems,-,21,2005
+27,166,5.0,72,Scholz Ronny,72,Gerolsteiner,-,21,2005
+28,102,5.0,73,Bodrogi Laszlo,73,Cr\xe9dit Agricole,-,21,2005
+26,144,3.0,74,Fedrigo Pierrick,74,Bouygues Telecom,-,21,2005
+31,105,3.0,75,Hinault S\xe9bastien,75,Cr\xe9dit Agricole,-,21,2005
+24,204,3.0,76,Dumoulin Samuel,76,AG2R Pr\xe9voyance,-,21,2005
+30,116,3.0,77,Gerosa Mauro,77,Liquigas,-,21,2005
+30,83,3.0,78,Ca\xf1ada David,78,Saunier Duval - Prodir,-,21,2005
+31,92,2.0,79,Beloki Joseba,79,Liberty Seguros - W\xfcrth Team,-,21,2005
+30,22,2.0,80,Arvesen Kurt-Asle,80,CSC ProTeam,-,21,2005
+34,169,2.0,81,Zberg Beat,81,Gerolsteiner,-,21,2005
+28,114,2.0,82,Carlstr\xf6m Kjell,82,Liquigas,-,21,2005
+31,168,2.0,,Wrolich Peter,83,Gerolsteiner,-,21,2005
+26,208,2.0,83,Portal Nicolas,84,AG2R Pr\xe9voyance,\u25bc1,21,2005
+30,153,2.0,84,Commesso Salvatore,85,Lampre-Caffita,\u25bc1,21,2005
+29,171,1.0,85,McGee Bradley,86,Fran\xe7aise des Jeux,\u25bc1,21,2005
+29,157,1.0,86,Righi Daniele,87,Lampre-Caffita,\u25bc1,21,2005
+25,205,1.0,87,Gerrans Simon,88,AG2R Pr\xe9voyance,\u25bc1,21,2005
+31,46,1.0,88,Rodriguez Fred,89,Davitamon - Lotto,\u25bc1,21,2005

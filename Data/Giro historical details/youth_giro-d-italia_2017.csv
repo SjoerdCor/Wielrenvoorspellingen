@@ -1,0 +1,892 @@
+Age,BIB,GC,GC-Time,Prev,Rider,Rnk,Team,Time,\u25bc\u25b2,stage,year
+25,58,1,+0:00,,P\xf6stlberger Lukas,1,BORA - hansgrohe,5:13:25 5:13:25,,1,2017
+22,123,2,+0:04,,Ewan Caleb,2,ORICA-Scott,0:04 0:04,,1,2017
+25,199,8,+0:10,,Stuyven Jasper,3,Trek - Segafredo,0:10 0:10,,1,2017
+22,145,9,+0:10,,Gibbons Ryan,4,Team Dimension Data,",, 0:10",,1,2017
+22,182,11,+0:10,,Bauhaus Phil,5,Team Sunweb,",, 0:10",,1,2017
+23,56,12,+0:10,,M\xfchlberger Gregor,6,BORA - hansgrohe,",, 0:10",,1,2017
+22,135,13,+0:10,,Gaviria Fernando,7,Quick-Step Floors,",, 0:10",,1,2017
+24,131,16,+0:10,,Jungels Bob,8,Quick-Step Floors,",, 0:10",,1,2017
+23,216,17,+0:10,,Mareczko Jakub,9,Wilier Triestina - Selle Italia,",, 0:10",,1,2017
+24,121,28,+0:10,,Yates Adam,10,ORICA-Scott,",, 0:10",,1,2017
+24,209,36,+0:10,,Polanc Jan,11,UAE Team Emirates,",, 0:10",,1,2017
+25,97,42,+0:10,,Savitskiy Ivan,12,Gazprom-RusVelo,",, 0:10",,1,2017
+24,208,44,+0:10,,Petilli Simone,13,UAE Team Emirates,",, 0:10",,1,2017
+23,7,46,+0:10,,Pibernik Luka,14,Bahrain Merida Pro Cycling Team,",, 0:10",,1,2017
+24,64,54,+0:10,,Formolo Davide,15,Cannondale-Drapac Pro Cycling Team,",, 0:10",,1,2017
+23,73,56,+0:10,,Grossschartner Felix,16,CCC Sprandi Polkowice,",, 0:10",,1,2017
+23,18,60,+0:10,,Jauregui Quentin,17,AG2R La Mondiale,",, 0:10",,1,2017
+25,13,61,+0:10,,Bidard Fran\xe7ois,18,AG2R La Mondiale,",, 0:10",,1,2017
+24,14,64,+0:10,,Chevrier Cl\xe9ment,19,AG2R La Mondiale,",, 0:10",,1,2017
+21,133,66,+0:10,,De Plus Laurens,20,Quick-Step Floors,",, 0:10",,1,2017
+24,202,68,+0:10,,Conti Valerio,21,UAE Team Emirates,",, 0:10",,1,2017
+23,137,69,+0:10,,Martinelli Davide,22,Quick-Step Floors,",, 0:10",,1,2017
+23,103,85,+0:28,,de Buyst Jasper,23,Lotto Soudal,0:28 0:28,,1,2017
+22,207,95,+0:28,,Ravasi Edward,24,UAE Team Emirates,",, 0:28",,1,2017
+23,175,106,+0:28,,Henao Sebasti\xe1n,25,Team Sky,",, 0:28",,1,2017
+22,206,117,+0:28,,Mohoric Matej,26,UAE Team Emirates,",, 0:28",,1,2017
+21,78,119,+0:28,,Schlegel Michal,27,CCC Sprandi Polkowice,",, 0:28",,1,2017
+23,122,123,+0:28,,Edmondson Alexander,28,ORICA-Scott,",, 0:28",,1,2017
+25,48,126,+0:44,,Teuns Dylan,29,BMC Racing Team,0:44 0:44,,1,2017
+25,93,129,+0:44,,Foliforov Alexander,30,Gazprom-RusVelo,",, 0:44",,1,2017
+22,218,132,+0:44,,Rodr\xedguez Cristian,31,Wilier Triestina - Selle Italia,",, 0:44",,1,2017
+23,33,137,+1:19,,Andreetta Simone,32,Bardiani - CSF,1:19 1:19,,1,2017
+23,212,139,+1:19,,Amezqueta Julen,33,Wilier Triestina - Selle Italia,",, 1:19",,1,2017
+22,36,143,+1:19,,Ciccone Giulio,34,Bardiani - CSF,",, 1:19",,1,2017
+25,193,150,+1:19,,Bernard Julien,35,Trek - Segafredo,",, 1:19",,1,2017
+21,38,152,+1:19,,Rota Lorenzo,36,Bardiani - CSF,",, 1:19",,1,2017
+21,217,153,+1:19,,Martinez Daniel Felipe,37,Wilier Triestina - Selle Italia,",, 1:19",,1,2017
+22,62,156,+1:19,,Carthy Hugh,38,Cannondale-Drapac Pro Cycling Team,",, 1:19",,1,2017
+24,129,166,+1:19,,Verona Carlos,39,ORICA-Scott,",, 1:19",,1,2017
+22,158,174,+1:19,,Mamykin Matvey,40,Team Katusha - Alpecin,",, 1:19",,1,2017
+24,186,178,+1:19,,Lunke Sindre Skj\xf8stad,41,Team Sunweb,",, 1:19",,1,2017
+20,32,179,+1:19,,Albanese Vincenzo,42,Bardiani - CSF,",, 1:19",,1,2017
+25,98,183,+2:28,,Shalunov Evgeny,43,Gazprom-RusVelo,2:28 2:28,,1,2017
+21,197,192,+5:31,,Pedersen Mads,44,Trek - Segafredo,5:31 5:31,,1,2017
+25,47,195,+9:58,,Senni Manuel,45,BMC Racing Team,9:58 9:58,,1,2017
+25,58,2,+0:04,1.0,P\xf6stlberger Lukas,1,BORA - hansgrohe,11:18:43 11:18:43,-,2,2017
+22,123,3,+0:08,2.0,Ewan Caleb,2,ORICA-Scott,0:04 0:04,-,2,2017
+25,199,5,+0:10,3.0,Stuyven Jasper,3,Trek - Segafredo,0:06 0:06,-,2,2017
+22,145,8,+0:14,4.0,Gibbons Ryan,4,Team Dimension Data,0:10 0:10,-,2,2017
+22,135,9,+0:14,7.0,Gaviria Fernando,5,Quick-Step Floors,",, 0:10",\u25b22,2,2017
+24,121,17,+0:14,10.0,Yates Adam,6,ORICA-Scott,",, 0:10",\u25b24,2,2017
+24,131,24,+0:14,8.0,Jungels Bob,7,Quick-Step Floors,",, 0:10",\u25b21,2,2017
+23,7,30,+0:14,14.0,Pibernik Luka,8,Bahrain Merida Pro Cycling Team,",, 0:10",\u25b26,2,2017
+23,56,37,+0:14,6.0,M\xfchlberger Gregor,9,BORA - hansgrohe,",, 0:10",\u25bc3,2,2017
+25,13,39,+0:14,18.0,Bidard Fran\xe7ois,10,AG2R La Mondiale,",, 0:10",\u25b28,2,2017
+24,64,41,+0:14,15.0,Formolo Davide,11,Cannondale-Drapac Pro Cycling Team,",, 0:10",\u25b24,2,2017
+23,137,42,+0:14,22.0,Martinelli Davide,12,Quick-Step Floors,",, 0:10",\u25b210,2,2017
+24,208,43,+0:14,13.0,Petilli Simone,13,UAE Team Emirates,",, 0:10",-,2,2017
+24,202,50,+0:14,21.0,Conti Valerio,14,UAE Team Emirates,",, 0:10",\u25b27,2,2017
+24,14,53,+0:14,19.0,Chevrier Cl\xe9ment,15,AG2R La Mondiale,",, 0:10",\u25b24,2,2017
+23,73,54,+0:14,16.0,Grossschartner Felix,16,CCC Sprandi Polkowice,",, 0:10",-,2,2017
+21,133,55,+0:14,20.0,De Plus Laurens,17,Quick-Step Floors,",, 0:10",\u25b23,2,2017
+23,122,66,+0:32,28.0,Edmondson Alexander,18,ORICA-Scott,0:28 0:28,\u25b210,2,2017
+22,206,75,+0:32,26.0,Mohoric Matej,19,UAE Team Emirates,",, 0:28",\u25b27,2,2017
+23,103,83,+0:32,23.0,de Buyst Jasper,20,Lotto Soudal,",, 0:28",\u25b23,2,2017
+21,78,88,+0:32,27.0,Schlegel Michal,21,CCC Sprandi Polkowice,",, 0:28",\u25b26,2,2017
+25,209,92,+0:38,11.0,Polanc Jan,22,UAE Team Emirates,0:34 0:34,\u25bc11,2,2017
+22,218,98,+0:48,31.0,Rodr\xedguez Cristian,23,Wilier Triestina - Selle Italia,0:44 0:44,\u25b28,2,2017
+23,175,104,+0:56,25.0,Henao Sebasti\xe1n,24,Team Sky,0:52 0:52,\u25b21,2,2017
+25,48,108,+1:12,29.0,Teuns Dylan,25,BMC Racing Team,1:08 1:08,\u25b24,2,2017
+23,212,112,+1:23,33.0,Amezqueta Julen,26,Wilier Triestina - Selle Italia,1:19 1:19,\u25b27,2,2017
+20,32,131,+1:47,42.0,Albanese Vincenzo,27,Bardiani - CSF,1:43 1:43,\u25b215,2,2017
+23,216,133,+1:51,9.0,Mareczko Jakub,28,Wilier Triestina - Selle Italia,1:47 1:47,\u25bc19,2,2017
+23,18,140,+3:12,17.0,Jauregui Quentin,29,AG2R La Mondiale,3:08 3:08,\u25bc12,2,2017
+22,207,142,+3:30,24.0,Ravasi Edward,30,UAE Team Emirates,3:26 3:26,\u25bc6,2,2017
+25,93,146,+3:46,30.0,Foliforov Alexander,31,Gazprom-RusVelo,3:42 3:42,\u25bc1,2,2017
+25,97,148,+4:08,12.0,Savitskiy Ivan,32,Gazprom-RusVelo,4:04 4:04,\u25bc20,2,2017
+25,193,151,+4:21,35.0,Bernard Julien,33,Trek - Segafredo,4:17 4:17,\u25b22,2,2017
+22,36,152,+4:21,34.0,Ciccone Giulio,34,Bardiani - CSF,",, 4:17",-,2,2017
+21,217,153,+4:21,37.0,Martinez Daniel Felipe,35,Wilier Triestina - Selle Italia,",, 4:17",\u25b22,2,2017
+22,62,154,+4:21,38.0,Carthy Hugh,36,Cannondale-Drapac Pro Cycling Team,",, 4:17",\u25b22,2,2017
+21,38,156,+4:21,36.0,Rota Lorenzo,37,Bardiani - CSF,",, 4:17",\u25bc1,2,2017
+24,129,160,+4:21,39.0,Verona Carlos,38,ORICA-Scott,",, 4:17",\u25b21,2,2017
+24,186,162,+4:21,41.0,Lunke Sindre Skj\xf8stad,39,Team Sunweb,",, 4:17",\u25b22,2,2017
+22,158,172,+4:45,40.0,Mamykin Matvey,40,Team Katusha - Alpecin,4:41 4:41,-,2,2017
+21,197,180,+6:15,44.0,Pedersen Mads,41,Trek - Segafredo,6:11 6:11,\u25b23,2,2017
+25,98,181,+6:25,43.0,Shalunov Evgeny,42,Gazprom-RusVelo,6:21 6:21,\u25b21,2,2017
+22,182,182,+8:00,5.0,Bauhaus Phil,43,Team Sunweb,7:56 7:56,\u25bc38,2,2017
+23,33,186,+12:16,32.0,Andreetta Simone,44,Bardiani - CSF,12:12 12:12,\u25bc12,2,2017
+25,47,195,+20:55,45.0,Senni Manuel,45,BMC Racing Team,20:51 20:51,-,2,2017
+22,135,1,+0:00,5.0,Gaviria Fernando,1,Quick-Step Floors,14:45:16 14:45:16,\u25b24,3,2017
+25,58,3,+0:13,1.0,P\xf6stlberger Lukas,2,BORA - hansgrohe,0:13 0:13,\u25bc1,3,2017
+24,131,4,+0:13,7.0,Jungels Bob,3,Quick-Step Floors,",, 0:13",\u25b24,3,2017
+22,123,6,+0:17,2.0,Ewan Caleb,4,ORICA-Scott,0:17 0:17,\u25bc2,3,2017
+22,145,8,+0:23,4.0,Gibbons Ryan,5,Team Dimension Data,0:23 0:23,\u25bc1,3,2017
+24,121,13,+0:23,6.0,Yates Adam,6,ORICA-Scott,",, 0:23",-,3,2017
+23,56,30,+0:23,9.0,M\xfchlberger Gregor,7,BORA - hansgrohe,",, 0:23",\u25b22,3,2017
+24,64,31,+0:23,11.0,Formolo Davide,8,Cannondale-Drapac Pro Cycling Team,",, 0:23",\u25b23,3,2017
+21,133,33,+0:23,17.0,De Plus Laurens,9,Quick-Step Floors,",, 0:23",\u25b28,3,2017
+22,206,42,+0:41,19.0,Mohoric Matej,10,UAE Team Emirates,0:41 0:41,\u25b29,3,2017
+25,199,50,+1:23,3.0,Stuyven Jasper,11,Trek - Segafredo,1:23 1:23,\u25bc8,3,2017
+24,208,57,+1:27,13.0,Petilli Simone,12,UAE Team Emirates,1:27 1:27,\u25b21,3,2017
+23,7,58,+1:27,8.0,Pibernik Luka,13,Bahrain Merida Pro Cycling Team,",, 1:27",\u25bc5,3,2017
+23,137,59,+1:27,12.0,Martinelli Davide,14,Quick-Step Floors,",, 1:27",\u25bc2,3,2017
+24,202,60,+1:27,14.0,Conti Valerio,15,UAE Team Emirates,",, 1:27",\u25bc1,3,2017
+25,13,62,+1:27,10.0,Bidard Fran\xe7ois,16,AG2R La Mondiale,",, 1:27",\u25bc6,3,2017
+23,73,64,+1:27,16.0,Grossschartner Felix,17,CCC Sprandi Polkowice,",, 1:27",\u25bc1,3,2017
+23,103,77,+1:45,20.0,de Buyst Jasper,18,Lotto Soudal,1:45 1:45,\u25b22,3,2017
+25,209,82,+1:51,22.0,Polanc Jan,19,UAE Team Emirates,1:51 1:51,\u25b23,3,2017
+23,122,85,+1:57,18.0,Edmondson Alexander,20,ORICA-Scott,1:57 1:57,\u25bc2,3,2017
+24,14,91,+2:36,15.0,Chevrier Cl\xe9ment,21,AG2R La Mondiale,2:36 2:36,\u25bc6,3,2017
+23,216,101,+3:04,28.0,Mareczko Jakub,22,Wilier Triestina - Selle Italia,3:04 3:04,\u25b26,3,2017
+20,32,103,+3:11,27.0,Albanese Vincenzo,23,Bardiani - CSF,3:11 3:11,\u25b24,3,2017
+23,175,107,+3:18,24.0,Henao Sebasti\xe1n,24,Team Sky,3:18 3:18,-,3,2017
+25,48,116,+3:52,25.0,Teuns Dylan,25,BMC Racing Team,3:52 3:52,-,3,2017
+25,97,124,+4:17,32.0,Savitskiy Ivan,26,Gazprom-RusVelo,4:17 4:17,\u25b26,3,2017
+23,18,130,+5:34,29.0,Jauregui Quentin,27,AG2R La Mondiale,5:34 5:34,\u25b22,3,2017
+21,78,135,+5:50,21.0,Schlegel Michal,28,CCC Sprandi Polkowice,5:50 5:50,\u25bc7,3,2017
+22,218,139,+6:06,23.0,Rodr\xedguez Cristian,29,Wilier Triestina - Selle Italia,6:06 6:06,\u25bc6,3,2017
+23,212,143,+6:41,26.0,Amezqueta Julen,30,Wilier Triestina - Selle Italia,6:41 6:41,\u25bc4,3,2017
+22,158,153,+7:07,40.0,Mamykin Matvey,31,Team Katusha - Alpecin,7:07 7:07,\u25b29,3,2017
+22,182,154,+8:09,43.0,Bauhaus Phil,32,Team Sunweb,8:09 8:09,\u25b211,3,2017
+22,207,157,+8:48,30.0,Ravasi Edward,33,UAE Team Emirates,8:48 8:48,\u25bc3,3,2017
+25,93,159,+9:04,31.0,Foliforov Alexander,34,Gazprom-RusVelo,9:04 9:04,\u25bc3,3,2017
+22,36,161,+9:39,34.0,Ciccone Giulio,35,Bardiani - CSF,9:39 9:39,\u25bc1,3,2017
+25,193,162,+9:39,33.0,Bernard Julien,36,Trek - Segafredo,",, 9:39",\u25bc3,3,2017
+21,217,165,+9:39,35.0,Martinez Daniel Felipe,37,Wilier Triestina - Selle Italia,",, 9:39",\u25bc2,3,2017
+22,62,167,+9:39,36.0,Carthy Hugh,38,Cannondale-Drapac Pro Cycling Team,",, 9:39",\u25bc2,3,2017
+24,186,169,+9:39,39.0,Lunke Sindre Skj\xf8stad,39,Team Sunweb,",, 9:39",-,3,2017
+24,129,170,+9:39,38.0,Verona Carlos,40,ORICA-Scott,",, 9:39",\u25bc2,3,2017
+21,38,176,+9:49,37.0,Rota Lorenzo,41,Bardiani - CSF,9:49 9:49,\u25bc4,3,2017
+21,197,181,+11:33,41.0,Pedersen Mads,42,Trek - Segafredo,11:33 11:33,\u25bc1,3,2017
+25,98,182,+11:43,42.0,Shalunov Evgeny,43,Gazprom-RusVelo,11:43 11:43,\u25bc1,3,2017
+23,33,189,+17:34,44.0,Andreetta Simone,44,Bardiani - CSF,17:34 17:34,-,3,2017
+25,47,195,+26:13,45.0,Senni Manuel,45,BMC Racing Team,26:13 26:13,-,3,2017
+24,131,1,+0:00,3.0,Jungels Bob,1,Quick-Step Floors,19:41:56 19:41:56,\u25b22,4,2017
+24,121,3,+0:10,6.0,Yates Adam,2,ORICA-Scott,0:10 0:10,\u25b24,4,2017
+24,64,13,+0:10,8.0,Formolo Davide,3,Cannondale-Drapac Pro Cycling Team,",, 0:10",\u25b25,4,2017
+25,209,19,+0:58,19.0,Polanc Jan,4,UAE Team Emirates,0:58 0:58,\u25b215,4,2017
+24,208,20,+1:14,12.0,Petilli Simone,5,UAE Team Emirates,1:14 1:14,\u25b27,4,2017
+24,202,24,+1:50,15.0,Conti Valerio,6,UAE Team Emirates,1:50 1:50,\u25b29,4,2017
+22,218,40,+6:55,29.0,Rodr\xedguez Cristian,7,Wilier Triestina - Selle Italia,6:55 6:55,\u25b222,4,2017
+21,133,42,+7:09,9.0,De Plus Laurens,8,Quick-Step Floors,7:09 7:09,\u25b21,4,2017
+22,62,47,+9:26,38.0,Carthy Hugh,9,Cannondale-Drapac Pro Cycling Team,9:26 9:26,\u25b229,4,2017
+23,175,51,+10:25,24.0,Henao Sebasti\xe1n,10,Team Sky,10:25 10:25,\u25b214,4,2017
+23,56,54,+10:26,7.0,M\xfchlberger Gregor,11,BORA - hansgrohe,10:26 10:26,\u25bc4,4,2017
+25,93,64,+13:19,34.0,Foliforov Alexander,12,Gazprom-RusVelo,13:19 13:19,\u25b222,4,2017
+24,129,65,+13:31,40.0,Verona Carlos,13,ORICA-Scott,13:31 13:31,\u25b227,4,2017
+25,13,72,+14:17,16.0,Bidard Fran\xe7ois,14,AG2R La Mondiale,14:17 14:17,\u25b22,4,2017
+25,193,83,+16:46,36.0,Bernard Julien,15,Trek - Segafredo,16:46 16:46,\u25b221,4,2017
+25,48,88,+18:26,25.0,Teuns Dylan,16,BMC Racing Team,18:26 18:26,\u25b29,4,2017
+23,18,93,+19:36,27.0,Jauregui Quentin,17,AG2R La Mondiale,19:36 19:36,\u25b210,4,2017
+24,186,94,+19:42,39.0,Lunke Sindre Skj\xf8stad,18,Team Sunweb,19:42 19:42,\u25b221,4,2017
+22,158,97,+20:31,31.0,Mamykin Matvey,19,Team Katusha - Alpecin,20:31 20:31,\u25b212,4,2017
+25,58,99,+21:14,2.0,P\xf6stlberger Lukas,20,BORA - hansgrohe,21:14 21:14,\u25bc18,4,2017
+22,207,100,+21:38,33.0,Ravasi Edward,21,UAE Team Emirates,21:38 21:38,\u25b212,4,2017
+21,78,102,+22:02,28.0,Schlegel Michal,22,CCC Sprandi Polkowice,22:02 22:02,\u25b26,4,2017
+25,199,103,+22:24,11.0,Stuyven Jasper,23,Trek - Segafredo,22:24 22:24,\u25bc12,4,2017
+22,206,106,+22:51,10.0,Mohoric Matej,24,UAE Team Emirates,22:51 22:51,\u25bc14,4,2017
+23,7,109,+23:37,13.0,Pibernik Luka,25,Bahrain Merida Pro Cycling Team,23:37 23:37,\u25bc12,4,2017
+22,135,117,+24:55,1.0,Gaviria Fernando,26,Quick-Step Floors,24:55 24:55,\u25bc25,4,2017
+22,145,120,+25:18,5.0,Gibbons Ryan,27,Team Dimension Data,25:18 25:18,\u25bc22,4,2017
+23,73,128,+26:22,17.0,Grossschartner Felix,28,CCC Sprandi Polkowice,26:22 26:22,\u25bc11,4,2017
+23,103,133,+26:40,18.0,de Buyst Jasper,29,Lotto Soudal,26:40 26:40,\u25bc11,4,2017
+22,123,135,+27:04,4.0,Ewan Caleb,30,ORICA-Scott,27:04 27:04,\u25bc26,4,2017
+24,14,137,+27:31,21.0,Chevrier Cl\xe9ment,31,AG2R La Mondiale,27:31 27:31,\u25bc10,4,2017
+23,137,143,+28:07,14.0,Martinelli Davide,32,Quick-Step Floors,28:07 28:07,\u25bc18,4,2017
+23,122,145,+28:09,20.0,Edmondson Alexander,33,ORICA-Scott,28:09 28:09,\u25bc13,4,2017
+23,212,149,+28:51,30.0,Amezqueta Julen,34,Wilier Triestina - Selle Italia,28:51 28:51,\u25bc4,4,2017
+20,32,151,+29:23,23.0,Albanese Vincenzo,35,Bardiani - CSF,29:23 29:23,\u25bc12,4,2017
+25,97,157,+31:13,26.0,Savitskiy Ivan,36,Gazprom-RusVelo,31:13 31:13,\u25bc10,4,2017
+22,36,162,+31:49,35.0,Ciccone Giulio,37,Bardiani - CSF,31:49 31:49,\u25bc2,4,2017
+21,217,163,+31:49,37.0,Martinez Daniel Felipe,38,Wilier Triestina - Selle Italia,",, 31:49",\u25bc1,4,2017
+23,216,171,+33:00,22.0,Mareczko Jakub,39,Wilier Triestina - Selle Italia,33:00 33:00,\u25bc17,4,2017
+21,197,172,+33:43,42.0,Pedersen Mads,40,Trek - Segafredo,33:43 33:43,\u25b22,4,2017
+22,182,174,+34:10,32.0,Bauhaus Phil,41,Team Sunweb,34:10 34:10,\u25bc9,4,2017
+21,38,177,+34:44,41.0,Rota Lorenzo,42,Bardiani - CSF,34:44 34:44,\u25bc1,4,2017
+25,98,179,+36:38,43.0,Shalunov Evgeny,43,Gazprom-RusVelo,36:38 36:38,-,4,2017
+23,33,182,+39:44,44.0,Andreetta Simone,44,Bardiani - CSF,39:44 39:44,-,4,2017
+25,47,190,+48:23,45.0,Senni Manuel,45,BMC Racing Team,48:23 48:23,-,4,2017
+24,131,1,+0:00,1.0,Jungels Bob,1,Quick-Step Floors,23:22:07 23:22:07,-,5,2017
+24,121,3,+0:10,2.0,Yates Adam,2,ORICA-Scott,0:10 0:10,-,5,2017
+24,64,13,+0:10,3.0,Formolo Davide,3,Cannondale-Drapac Pro Cycling Team,",, 0:10",-,5,2017
+25,209,19,+0:58,4.0,Polanc Jan,4,UAE Team Emirates,0:58 0:58,-,5,2017
+24,208,20,+1:14,5.0,Petilli Simone,5,UAE Team Emirates,1:14 1:14,-,5,2017
+24,202,24,+1:50,6.0,Conti Valerio,6,UAE Team Emirates,1:50 1:50,-,5,2017
+22,218,40,+6:55,7.0,Rodr\xedguez Cristian,7,Wilier Triestina - Selle Italia,6:55 6:55,-,5,2017
+21,133,41,+7:09,8.0,De Plus Laurens,8,Quick-Step Floors,7:09 7:09,-,5,2017
+22,62,46,+9:46,9.0,Carthy Hugh,9,Cannondale-Drapac Pro Cycling Team,9:46 9:46,-,5,2017
+23,175,50,+10:25,10.0,Henao Sebasti\xe1n,10,Team Sky,10:25 10:25,-,5,2017
+23,56,58,+11:54,11.0,M\xfchlberger Gregor,11,BORA - hansgrohe,11:54 11:54,-,5,2017
+25,93,63,+13:19,12.0,Foliforov Alexander,12,Gazprom-RusVelo,13:19 13:19,-,5,2017
+25,13,69,+14:17,14.0,Bidard Fran\xe7ois,13,AG2R La Mondiale,14:17 14:17,\u25b21,5,2017
+24,129,79,+16:37,13.0,Verona Carlos,14,ORICA-Scott,16:37 16:37,\u25bc1,5,2017
+25,193,83,+17:06,15.0,Bernard Julien,15,Trek - Segafredo,17:06 17:06,-,5,2017
+23,18,91,+19:36,17.0,Jauregui Quentin,16,AG2R La Mondiale,19:36 19:36,\u25b21,5,2017
+24,186,92,+20:02,18.0,Lunke Sindre Skj\xf8stad,17,Team Sunweb,20:02 20:02,\u25b21,5,2017
+22,158,95,+20:51,19.0,Mamykin Matvey,18,Team Katusha - Alpecin,20:51 20:51,\u25b21,5,2017
+25,58,96,+21:14,20.0,P\xf6stlberger Lukas,19,BORA - hansgrohe,21:14 21:14,\u25b21,5,2017
+22,207,97,+21:38,21.0,Ravasi Edward,20,UAE Team Emirates,21:38 21:38,\u25b21,5,2017
+21,78,99,+22:22,22.0,Schlegel Michal,21,CCC Sprandi Polkowice,22:22 22:22,\u25b21,5,2017
+25,199,100,+22:24,23.0,Stuyven Jasper,22,Trek - Segafredo,22:24 22:24,\u25b21,5,2017
+22,206,103,+22:51,24.0,Mohoric Matej,23,UAE Team Emirates,22:51 22:51,\u25b21,5,2017
+23,7,107,+23:57,25.0,Pibernik Luka,24,Bahrain Merida Pro Cycling Team,23:57 23:57,\u25b21,5,2017
+22,135,111,+24:44,26.0,Gaviria Fernando,25,Quick-Step Floors,24:44 24:44,\u25b21,5,2017
+22,145,116,+25:18,27.0,Gibbons Ryan,26,Team Dimension Data,25:18 25:18,\u25b21,5,2017
+25,48,118,+25:27,16.0,Teuns Dylan,27,BMC Racing Team,25:27 25:27,\u25bc11,5,2017
+23,73,124,+26:22,28.0,Grossschartner Felix,28,CCC Sprandi Polkowice,26:22 26:22,-,5,2017
+23,103,127,+26:40,29.0,de Buyst Jasper,29,Lotto Soudal,26:40 26:40,-,5,2017
+22,123,132,+27:04,30.0,Ewan Caleb,30,ORICA-Scott,27:04 27:04,-,5,2017
+24,14,135,+27:31,31.0,Chevrier Cl\xe9ment,31,AG2R La Mondiale,27:31 27:31,-,5,2017
+23,122,140,+28:09,33.0,Edmondson Alexander,32,ORICA-Scott,28:09 28:09,\u25b21,5,2017
+23,137,142,+28:23,32.0,Martinelli Davide,33,Quick-Step Floors,28:23 28:23,\u25bc1,5,2017
+20,32,147,+29:23,35.0,Albanese Vincenzo,34,Bardiani - CSF,29:23 29:23,\u25b21,5,2017
+23,212,151,+30:19,34.0,Amezqueta Julen,35,Wilier Triestina - Selle Italia,30:19 30:19,\u25bc1,5,2017
+25,97,154,+31:13,36.0,Savitskiy Ivan,36,Gazprom-RusVelo,31:13 31:13,-,5,2017
+22,36,158,+32:09,37.0,Ciccone Giulio,37,Bardiani - CSF,32:09 32:09,-,5,2017
+23,216,162,+32:54,39.0,Mareczko Jakub,38,Wilier Triestina - Selle Italia,32:54 32:54,\u25b21,5,2017
+21,217,164,+33:17,38.0,Martinez Daniel Felipe,39,Wilier Triestina - Selle Italia,33:17 33:17,\u25bc1,5,2017
+22,182,167,+34:10,41.0,Bauhaus Phil,40,Team Sunweb,34:10 34:10,\u25b21,5,2017
+21,197,172,+35:11,40.0,Pedersen Mads,41,Trek - Segafredo,35:11 35:11,\u25bc1,5,2017
+25,98,179,+40:03,43.0,Shalunov Evgeny,42,Gazprom-RusVelo,40:03 40:03,\u25b21,5,2017
+21,38,181,+41:45,42.0,Rota Lorenzo,43,Bardiani - CSF,41:45 41:45,\u25bc1,5,2017
+23,33,185,+46:45,44.0,Andreetta Simone,44,Bardiani - CSF,46:45 46:45,-,5,2017
+25,47,187,+48:43,45.0,Senni Manuel,45,BMC Racing Team,48:43 48:43,-,5,2017
+24,131,1,+0:00,1.0,Jungels Bob,1,Quick-Step Floors,28:20:47 28:20:47,-,6,2017
+24,121,3,+0:10,2.0,Yates Adam,2,ORICA-Scott,0:10 0:10,-,6,2017
+24,64,13,+0:10,3.0,Formolo Davide,3,Cannondale-Drapac Pro Cycling Team,",, 0:10",-,6,2017
+25,209,19,+1:09,4.0,Polanc Jan,4,UAE Team Emirates,1:09 1:09,-,6,2017
+24,208,20,+1:25,5.0,Petilli Simone,5,UAE Team Emirates,1:25 1:25,-,6,2017
+24,202,24,+2:10,6.0,Conti Valerio,6,UAE Team Emirates,2:10 2:10,-,6,2017
+21,133,40,+7:09,8.0,De Plus Laurens,7,Quick-Step Floors,7:09 7:09,\u25b21,6,2017
+22,218,41,+7:32,7.0,Rodr\xedguez Cristian,8,Wilier Triestina - Selle Italia,7:32 7:32,\u25bc1,6,2017
+23,56,46,+10:26,11.0,M\xfchlberger Gregor,9,BORA - hansgrohe,10:26 10:26,\u25b22,6,2017
+23,175,50,+12:10,10.0,Henao Sebasti\xe1n,10,Team Sky,12:10 12:10,-,6,2017
+25,93,56,+14:08,12.0,Foliforov Alexander,11,Gazprom-RusVelo,14:08 14:08,\u25b21,6,2017
+25,13,59,+14:47,13.0,Bidard Fran\xe7ois,12,AG2R La Mondiale,14:47 14:47,\u25b21,6,2017
+25,193,76,+18:04,15.0,Bernard Julien,13,Trek - Segafredo,18:04 18:04,\u25b22,6,2017
+25,58,84,+20:43,19.0,P\xf6stlberger Lukas,14,BORA - hansgrohe,20:43 20:43,\u25b25,6,2017
+25,199,85,+21:36,22.0,Stuyven Jasper,15,Trek - Segafredo,21:36 21:36,\u25b27,6,2017
+24,129,86,+22:01,14.0,Verona Carlos,16,ORICA-Scott,22:01 22:01,\u25bc2,6,2017
+22,62,88,+22:50,9.0,Carthy Hugh,17,Cannondale-Drapac Pro Cycling Team,22:50 22:50,\u25bc8,6,2017
+21,78,90,+24:22,21.0,Schlegel Michal,18,CCC Sprandi Polkowice,24:22 24:22,\u25b23,6,2017
+25,48,92,+25:27,27.0,Teuns Dylan,19,BMC Racing Team,25:27 25:27,\u25b28,6,2017
+22,145,97,+26:47,26.0,Gibbons Ryan,20,Team Dimension Data,26:47 26:47,\u25b26,6,2017
+22,207,98,+27:02,20.0,Ravasi Edward,21,UAE Team Emirates,27:02 27:02,\u25bc1,6,2017
+23,7,102,+27:45,24.0,Pibernik Luka,22,Bahrain Merida Pro Cycling Team,27:45 27:45,\u25b22,6,2017
+24,14,103,+28:08,31.0,Chevrier Cl\xe9ment,23,AG2R La Mondiale,28:08 28:08,\u25b28,6,2017
+22,206,104,+28:15,23.0,Mohoric Matej,24,UAE Team Emirates,28:15 28:15,\u25bc1,6,2017
+23,73,105,+28:29,28.0,Grossschartner Felix,25,CCC Sprandi Polkowice,28:29 28:29,\u25b23,6,2017
+22,135,107,+28:41,25.0,Gaviria Fernando,26,Quick-Step Floors,28:41 28:41,\u25bc1,6,2017
+23,18,112,+29:11,16.0,Jauregui Quentin,27,AG2R La Mondiale,29:11 29:11,\u25bc11,6,2017
+24,186,116,+29:37,17.0,Lunke Sindre Skj\xf8stad,28,Team Sunweb,29:37 29:37,\u25bc11,6,2017
+22,158,117,+30:00,18.0,Mamykin Matvey,29,Team Katusha - Alpecin,30:00 30:00,\u25bc11,6,2017
+23,103,124,+32:04,29.0,de Buyst Jasper,30,Lotto Soudal,32:04 32:04,\u25bc1,6,2017
+22,36,145,+37:33,37.0,Ciccone Giulio,31,Bardiani - CSF,37:33 37:33,\u25b26,6,2017
+21,197,151,+40:21,41.0,Pedersen Mads,32,Trek - Segafredo,40:21 40:21,\u25b29,6,2017
+22,123,152,+40:25,30.0,Ewan Caleb,33,ORICA-Scott,40:25 40:25,\u25bc3,6,2017
+23,122,155,+41:13,32.0,Edmondson Alexander,34,ORICA-Scott,41:13 41:13,\u25bc2,6,2017
+23,137,157,+41:27,33.0,Martinelli Davide,35,Quick-Step Floors,41:27 41:27,\u25bc2,6,2017
+21,38,160,+42:22,43.0,Rota Lorenzo,36,Bardiani - CSF,42:22 42:22,\u25b27,6,2017
+20,32,162,+42:27,34.0,Albanese Vincenzo,37,Bardiani - CSF,42:27 42:27,\u25bc3,6,2017
+23,212,165,+43:23,35.0,Amezqueta Julen,38,Wilier Triestina - Selle Italia,43:23 43:23,\u25bc3,6,2017
+25,97,166,+44:17,36.0,Savitskiy Ivan,39,Gazprom-RusVelo,44:17 44:17,\u25bc3,6,2017
+23,216,170,+45:58,38.0,Mareczko Jakub,40,Wilier Triestina - Selle Italia,45:58 45:58,\u25bc2,6,2017
+21,217,171,+46:21,39.0,Martinez Daniel Felipe,41,Wilier Triestina - Selle Italia,46:21 46:21,\u25bc2,6,2017
+23,33,172,+46:31,44.0,Andreetta Simone,42,Bardiani - CSF,46:31 46:31,\u25b22,6,2017
+22,182,173,+47:14,40.0,Bauhaus Phil,43,Team Sunweb,47:14 47:14,\u25bc3,6,2017
+25,98,183,+53:07,42.0,Shalunov Evgeny,44,Gazprom-RusVelo,53:07 53:07,\u25bc2,6,2017
+25,47,187,+1:01:47,45.0,Senni Manuel,45,BMC Racing Team,1:01:47 1:01:47,-,6,2017
+24,131,1,+0:00,1.0,Jungels Bob,1,Quick-Step Floors,33:56:07 33:56:07,-,7,2017
+24,121,3,+0:10,2.0,Yates Adam,2,ORICA-Scott,0:10 0:10,-,7,2017
+24,64,13,+0:10,3.0,Formolo Davide,3,Cannondale-Drapac Pro Cycling Team,",, 0:10",-,7,2017
+25,209,19,+1:18,4.0,Polanc Jan,4,UAE Team Emirates,1:18 1:18,-,7,2017
+24,208,21,+1:34,5.0,Petilli Simone,5,UAE Team Emirates,1:34 1:34,-,7,2017
+24,202,24,+2:10,6.0,Conti Valerio,6,UAE Team Emirates,2:10 2:10,-,7,2017
+21,133,38,+7:18,7.0,De Plus Laurens,7,Quick-Step Floors,7:18 7:18,-,7,2017
+22,218,40,+7:47,8.0,Rodr\xedguez Cristian,8,Wilier Triestina - Selle Italia,7:47 7:47,-,7,2017
+23,56,46,+10:35,9.0,M\xfchlberger Gregor,9,BORA - hansgrohe,10:35 10:35,-,7,2017
+23,175,50,+12:25,10.0,Henao Sebasti\xe1n,10,Team Sky,12:25 12:25,-,7,2017
+25,93,55,+14:23,11.0,Foliforov Alexander,11,Gazprom-RusVelo,14:23 14:23,-,7,2017
+25,13,57,+14:47,12.0,Bidard Fran\xe7ois,12,AG2R La Mondiale,14:47 14:47,-,7,2017
+25,193,72,+18:34,13.0,Bernard Julien,13,Trek - Segafredo,18:34 18:34,-,7,2017
+25,58,83,+20:58,14.0,P\xf6stlberger Lukas,14,BORA - hansgrohe,20:58 20:58,-,7,2017
+25,199,85,+21:34,15.0,Stuyven Jasper,15,Trek - Segafredo,21:34 21:34,-,7,2017
+22,62,87,+24:20,17.0,Carthy Hugh,16,Cannondale-Drapac Pro Cycling Team,24:20 24:20,\u25b21,7,2017
+21,78,89,+24:52,18.0,Schlegel Michal,17,CCC Sprandi Polkowice,24:52 24:52,\u25b21,7,2017
+24,129,90,+25:06,16.0,Verona Carlos,18,ORICA-Scott,25:06 25:06,\u25bc2,7,2017
+22,145,92,+26:45,20.0,Gibbons Ryan,19,Team Dimension Data,26:45 26:45,\u25b21,7,2017
+25,48,97,+27:30,19.0,Teuns Dylan,20,BMC Racing Team,27:30 27:30,\u25bc1,7,2017
+24,14,100,+28:23,23.0,Chevrier Cl\xe9ment,21,AG2R La Mondiale,28:23 28:23,\u25b22,7,2017
+22,206,101,+28:30,24.0,Mohoric Matej,22,UAE Team Emirates,28:30 28:30,\u25b22,7,2017
+22,135,102,+28:32,26.0,Gaviria Fernando,23,Quick-Step Floors,28:32 28:32,\u25b23,7,2017
+22,207,106,+29:05,21.0,Ravasi Edward,24,UAE Team Emirates,29:05 29:05,\u25bc3,7,2017
+23,7,109,+29:25,22.0,Pibernik Luka,25,Bahrain Merida Pro Cycling Team,29:25 29:25,\u25bc3,7,2017
+24,186,111,+30:07,28.0,Lunke Sindre Skj\xf8stad,26,Team Sunweb,30:07 30:07,\u25b22,7,2017
+23,73,114,+30:32,25.0,Grossschartner Felix,27,CCC Sprandi Polkowice,30:32 30:32,\u25bc2,7,2017
+23,18,117,+31:14,27.0,Jauregui Quentin,28,AG2R La Mondiale,31:14 31:14,\u25bc1,7,2017
+23,103,121,+32:19,30.0,de Buyst Jasper,29,Lotto Soudal,32:19 32:19,\u25b21,7,2017
+22,158,127,+33:44,29.0,Mamykin Matvey,30,Team Katusha - Alpecin,33:44 33:44,\u25bc1,7,2017
+22,123,147,+40:13,33.0,Ewan Caleb,31,ORICA-Scott,40:13 40:13,\u25b22,7,2017
+23,137,151,+41:27,35.0,Martinelli Davide,32,Quick-Step Floors,41:27 41:27,\u25b23,7,2017
+23,122,153,+41:40,34.0,Edmondson Alexander,33,ORICA-Scott,41:40 41:40,\u25b21,7,2017
+21,197,155,+42:24,32.0,Pedersen Mads,34,Trek - Segafredo,42:24 42:24,\u25bc2,7,2017
+20,32,156,+42:27,37.0,Albanese Vincenzo,35,Bardiani - CSF,42:27 42:27,\u25b22,7,2017
+22,36,163,+44:10,31.0,Ciccone Giulio,36,Bardiani - CSF,44:10 44:10,\u25bc5,7,2017
+23,212,166,+45:26,38.0,Amezqueta Julen,37,Wilier Triestina - Selle Italia,45:26 45:26,\u25b21,7,2017
+25,97,164,+44:17,39.0,Savitskiy Ivan,38,Gazprom-RusVelo,45:57 45:57,\u25b21,7,2017
+23,216,167,+46:13,40.0,Mareczko Jakub,39,Wilier Triestina - Selle Italia,46:13 46:13,\u25b21,7,2017
+22,182,168,+47:14,43.0,Bauhaus Phil,40,Team Sunweb,47:14 47:14,\u25b23,7,2017
+21,217,172,+49:02,41.0,Martinez Daniel Felipe,41,Wilier Triestina - Selle Italia,49:02 49:02,-,7,2017
+21,38,174,+49:59,36.0,Rota Lorenzo,42,Bardiani - CSF,49:59 49:59,\u25bc6,7,2017
+23,33,178,+53:08,42.0,Andreetta Simone,43,Bardiani - CSF,53:08 53:08,\u25bc1,7,2017
+25,98,181,+55:10,44.0,Shalunov Evgeny,44,Gazprom-RusVelo,55:10 55:10,-,7,2017
+25,47,185,+1:03:50,45.0,Senni Manuel,45,BMC Racing Team,1:03:50 1:03:50,-,7,2017
+24,131,1,+0:00,1.0,Jungels Bob,1,Quick-Step Floors,38:21:18 38:21:18,-,8,2017
+24,121,3,+0:10,2.0,Yates Adam,2,ORICA-Scott,0:10 0:10,-,8,2017
+24,64,13,+0:10,3.0,Formolo Davide,3,Cannondale-Drapac Pro Cycling Team,",, 0:10",-,8,2017
+25,209,19,+1:18,4.0,Polanc Jan,4,UAE Team Emirates,1:18 1:18,-,8,2017
+24,208,21,+1:34,5.0,Petilli Simone,5,UAE Team Emirates,1:34 1:34,-,8,2017
+24,202,23,+1:55,6.0,Conti Valerio,6,UAE Team Emirates,1:55 1:55,-,8,2017
+21,133,34,+7:18,7.0,De Plus Laurens,7,Quick-Step Floors,7:18 7:18,-,8,2017
+22,218,36,+8:13,8.0,Rodr\xedguez Cristian,8,Wilier Triestina - Selle Italia,8:13 8:13,-,8,2017
+23,56,43,+10:45,9.0,M\xfchlberger Gregor,9,BORA - hansgrohe,10:45 10:45,-,8,2017
+23,175,60,+19:12,10.0,Henao Sebasti\xe1n,10,Team Sky,19:12 19:12,-,8,2017
+25,13,64,+21:34,12.0,Bidard Fran\xe7ois,11,AG2R La Mondiale,21:34 21:34,\u25b21,8,2017
+25,193,66,+23:07,13.0,Bernard Julien,12,Trek - Segafredo,23:07 23:07,\u25b21,8,2017
+25,93,69,+24:37,11.0,Foliforov Alexander,13,Gazprom-RusVelo,24:37 24:37,\u25bc2,8,2017
+25,58,76,+26:30,14.0,P\xf6stlberger Lukas,14,BORA - hansgrohe,26:30 26:30,-,8,2017
+25,48,79,+27:30,20.0,Teuns Dylan,15,BMC Racing Team,27:30 27:30,\u25b25,8,2017
+22,62,80,+27:31,16.0,Carthy Hugh,16,Cannondale-Drapac Pro Cycling Team,27:31 27:31,-,8,2017
+25,199,85,+28:14,15.0,Stuyven Jasper,17,Trek - Segafredo,28:14 28:14,\u25bc2,8,2017
+24,14,91,+32:56,21.0,Chevrier Cl\xe9ment,18,AG2R La Mondiale,32:56 32:56,\u25b23,8,2017
+21,78,94,+34:17,17.0,Schlegel Michal,19,CCC Sprandi Polkowice,34:17 34:17,\u25bc2,8,2017
+22,207,98,+35:52,24.0,Ravasi Edward,20,UAE Team Emirates,35:52 35:52,\u25b24,8,2017
+23,7,100,+36:12,25.0,Pibernik Luka,21,Bahrain Merida Pro Cycling Team,36:12 36:12,\u25b24,8,2017
+22,145,101,+36:59,19.0,Gibbons Ryan,22,Team Dimension Data,36:59 36:59,\u25bc3,8,2017
+24,129,105,+37:56,18.0,Verona Carlos,23,ORICA-Scott,37:56 37:56,\u25bc5,8,2017
+22,206,110,+39:14,22.0,Mohoric Matej,24,UAE Team Emirates,39:14 39:14,\u25bc2,8,2017
+22,135,111,+39:16,23.0,Gaviria Fernando,25,Quick-Step Floors,39:16 39:16,\u25bc2,8,2017
+24,186,114,+40:21,26.0,Lunke Sindre Skj\xf8stad,26,Team Sunweb,40:21 40:21,-,8,2017
+23,18,117,+40:39,28.0,Jauregui Quentin,27,AG2R La Mondiale,40:39 40:39,\u25b21,8,2017
+23,73,118,+40:46,27.0,Grossschartner Felix,28,CCC Sprandi Polkowice,40:46 40:46,\u25bc1,8,2017
+23,103,123,+42:33,29.0,de Buyst Jasper,29,Lotto Soudal,42:33 42:33,-,8,2017
+22,158,128,+43:58,30.0,Mamykin Matvey,30,Team Katusha - Alpecin,43:58 43:58,-,8,2017
+23,137,152,+51:41,32.0,Martinelli Davide,31,Quick-Step Floors,51:41 51:41,\u25b21,8,2017
+21,197,153,+51:49,34.0,Pedersen Mads,32,Trek - Segafredo,51:49 51:49,\u25b22,8,2017
+23,122,155,+52:24,33.0,Edmondson Alexander,33,ORICA-Scott,52:24 52:24,-,8,2017
+22,123,158,+53:38,31.0,Ewan Caleb,34,ORICA-Scott,53:38 53:38,\u25bc3,8,2017
+23,212,159,+54:13,37.0,Amezqueta Julen,35,Wilier Triestina - Selle Italia,54:13 54:13,\u25b22,8,2017
+20,32,162,+55:17,35.0,Albanese Vincenzo,36,Bardiani - CSF,55:17 55:17,\u25bc1,8,2017
+23,216,165,+56:27,39.0,Mareczko Jakub,37,Wilier Triestina - Selle Italia,56:27 56:27,\u25b22,8,2017
+22,36,166,+57:15,36.0,Ciccone Giulio,38,Bardiani - CSF,57:15 57:15,\u25bc2,8,2017
+22,182,168,+57:28,40.0,Bauhaus Phil,39,Team Sunweb,57:28 57:28,\u25b21,8,2017
+21,217,173,+1:02:07,41.0,Martinez Daniel Felipe,40,Wilier Triestina - Selle Italia,1:02:07 1:02:07,\u25b21,8,2017
+25,97,175,+1:02:54,38.0,Savitskiy Ivan,41,Gazprom-RusVelo,1:02:54 1:02:54,\u25bc3,8,2017
+21,38,176,+1:03:12,42.0,Rota Lorenzo,42,Bardiani - CSF,1:03:12 1:03:12,-,8,2017
+25,98,178,+1:05:24,44.0,Shalunov Evgeny,43,Gazprom-RusVelo,1:05:24 1:05:24,\u25b21,8,2017
+23,33,181,+1:06:25,43.0,Andreetta Simone,44,Bardiani - CSF,1:06:25 1:06:25,\u25bc1,8,2017
+25,47,185,+1:14:04,45.0,Senni Manuel,45,BMC Racing Team,1:14:04 1:14:04,-,8,2017
+24,64,8,+2:45,3.0,Formolo Davide,1,Cannondale-Drapac Pro Cycling Team,42:08:54 42:08:54,\u25b22,9,2017
+24,131,12,+3:30,1.0,Jungels Bob,2,Quick-Step Floors,0:45 0:45,\u25bc1,9,2017
+25,209,15,+4:46,4.0,Polanc Jan,3,UAE Team Emirates,2:01 2:01,\u25b21,9,2017
+24,121,16,+4:49,2.0,Yates Adam,4,ORICA-Scott,2:04 2:04,\u25bc2,9,2017
+24,208,21,+8:24,5.0,Petilli Simone,5,UAE Team Emirates,5:39 5:39,-,9,2017
+24,202,23,+8:45,6.0,Conti Valerio,6,UAE Team Emirates,6:00 6:00,-,9,2017
+22,218,27,+12:52,8.0,Rodr\xedguez Cristian,7,Wilier Triestina - Selle Italia,10:07 10:07,\u25b21,9,2017
+21,133,32,+16:50,7.0,De Plus Laurens,8,Quick-Step Floors,14:05 14:05,\u25bc1,9,2017
+25,13,46,+28:35,11.0,Bidard Fran\xe7ois,9,AG2R La Mondiale,25:50 25:50,\u25b22,9,2017
+25,93,52,+31:57,13.0,Foliforov Alexander,10,Gazprom-RusVelo,29:12 29:12,\u25b23,9,2017
+25,193,58,+34:17,12.0,Bernard Julien,11,Trek - Segafredo,31:32 31:32,\u25b21,9,2017
+23,175,62,+35:44,10.0,Henao Sebasti\xe1n,12,Team Sky,32:59 32:59,\u25bc2,9,2017
+22,62,64,+35:47,16.0,Carthy Hugh,13,Cannondale-Drapac Pro Cycling Team,33:02 33:02,\u25b23,9,2017
+23,56,66,+37:22,9.0,M\xfchlberger Gregor,14,BORA - hansgrohe,34:37 34:37,\u25bc5,9,2017
+21,78,73,+41:07,19.0,Schlegel Michal,15,CCC Sprandi Polkowice,38:22 38:22,\u25b24,9,2017
+25,48,82,+48:57,15.0,Teuns Dylan,16,BMC Racing Team,46:12 46:12,\u25bc1,9,2017
+24,14,84,+49:28,18.0,Chevrier Cl\xe9ment,17,AG2R La Mondiale,46:43 46:43,\u25b21,9,2017
+23,73,85,+50:18,28.0,Grossschartner Felix,18,CCC Sprandi Polkowice,47:33 47:33,\u25b210,9,2017
+24,129,87,+51:14,23.0,Verona Carlos,19,ORICA-Scott,48:29 48:29,\u25b24,9,2017
+25,58,91,+53:07,14.0,P\xf6stlberger Lukas,20,BORA - hansgrohe,50:22 50:22,\u25bc6,9,2017
+22,207,92,+53:09,20.0,Ravasi Edward,21,UAE Team Emirates,50:24 50:24,\u25bc1,9,2017
+25,199,95,+54:51,17.0,Stuyven Jasper,22,Trek - Segafredo,52:06 52:06,\u25bc5,9,2017
+23,7,99,+58:18,21.0,Pibernik Luka,23,Bahrain Merida Pro Cycling Team,55:33 55:33,\u25bc2,9,2017
+22,158,108,+1:02:04,30.0,Mamykin Matvey,24,Team Katusha - Alpecin,59:19 59:19,\u25b26,9,2017
+22,145,110,+1:03:36,22.0,Gibbons Ryan,25,Team Dimension Data,1:00:51 1:00:51,\u25bc3,9,2017
+22,36,112,+1:05:13,38.0,Ciccone Giulio,26,Bardiani - CSF,1:02:28 1:02:28,\u25b212,9,2017
+23,18,115,+1:05:34,27.0,Jauregui Quentin,27,AG2R La Mondiale,1:02:49 1:02:49,-,9,2017
+22,206,116,+1:05:51,24.0,Mohoric Matej,28,UAE Team Emirates,1:03:06 1:03:06,\u25bc4,9,2017
+22,135,117,+1:05:53,25.0,Gaviria Fernando,29,Quick-Step Floors,1:03:08 1:03:08,\u25bc4,9,2017
+24,186,122,+1:06:58,26.0,Lunke Sindre Skj\xf8stad,30,Team Sunweb,1:04:13 1:04:13,\u25bc4,9,2017
+23,103,127,+1:09:10,29.0,de Buyst Jasper,31,Lotto Soudal,1:06:25 1:06:25,\u25bc2,9,2017
+21,197,135,+1:11:59,32.0,Pedersen Mads,32,Trek - Segafredo,1:09:14 1:09:14,-,9,2017
+23,212,147,+1:15:16,35.0,Amezqueta Julen,33,Wilier Triestina - Selle Italia,1:12:31 1:12:31,\u25b22,9,2017
+22,123,157,+1:20:15,34.0,Ewan Caleb,34,ORICA-Scott,1:17:30 1:17:30,-,9,2017
+23,122,158,+1:20:20,33.0,Edmondson Alexander,35,ORICA-Scott,1:17:35 1:17:35,\u25bc2,9,2017
+20,32,164,+1:22:25,36.0,Albanese Vincenzo,36,Bardiani - CSF,1:19:40 1:19:40,-,9,2017
+23,137,165,+1:22:49,31.0,Martinelli Davide,37,Quick-Step Floors,1:20:04 1:20:04,\u25bc6,9,2017
+25,47,169,+1:26:05,45.0,Senni Manuel,38,BMC Racing Team,1:23:20 1:23:20,\u25b27,9,2017
+22,182,173,+1:28:36,39.0,Bauhaus Phil,39,Team Sunweb,1:25:51 1:25:51,-,9,2017
+21,217,174,+1:28:44,40.0,Martinez Daniel Felipe,40,Wilier Triestina - Selle Italia,1:25:59 1:25:59,-,9,2017
+21,38,176,+1:29:49,42.0,Rota Lorenzo,41,Bardiani - CSF,1:27:04 1:27:04,\u25b21,9,2017
+25,98,177,+1:30:19,43.0,Shalunov Evgeny,42,Gazprom-RusVelo,1:27:34 1:27:34,\u25b21,9,2017
+23,216,178,+1:30:32,37.0,Mareczko Jakub,43,Wilier Triestina - Selle Italia,1:27:47 1:27:47,\u25bc6,9,2017
+25,97,181,+1:34:26,41.0,Savitskiy Ivan,44,Gazprom-RusVelo,1:31:41 1:31:41,\u25bc3,9,2017
+23,33,184,+1:37:33,44.0,Andreetta Simone,45,Bardiani - CSF,1:34:48 1:34:48,\u25bc1,9,2017
+24,131,6,+3:56,2.0,Jungels Bob,1,Quick-Step Floors,43:01:12 43:01:12,\u25b21,10,2017
+24,64,13,+6:19,1.0,Formolo Davide,2,Cannondale-Drapac Pro Cycling Team,2:23 2:23,\u25bc1,10,2017
+25,209,14,+6:51,3.0,Polanc Jan,3,UAE Team Emirates,2:55 2:55,-,10,2017
+24,121,16,+6:58,4.0,Yates Adam,4,ORICA-Scott,3:02 3:02,-,10,2017
+24,208,21,+15:00,5.0,Petilli Simone,5,UAE Team Emirates,11:04 11:04,-,10,2017
+22,218,26,+17:37,7.0,Rodr\xedguez Cristian,6,Wilier Triestina - Selle Italia,13:41 13:41,\u25b21,10,2017
+24,202,28,+18:51,6.0,Conti Valerio,7,UAE Team Emirates,14:55 14:55,\u25bc1,10,2017
+21,133,34,+22:08,8.0,De Plus Laurens,8,Quick-Step Floors,18:12 18:12,-,10,2017
+25,13,51,+36:34,9.0,Bidard Fran\xe7ois,9,AG2R La Mondiale,32:38 32:38,-,10,2017
+25,93,53,+37:37,10.0,Foliforov Alexander,10,Gazprom-RusVelo,33:41 33:41,-,10,2017
+25,193,55,+39:11,11.0,Bernard Julien,11,Trek - Segafredo,35:15 35:15,-,10,2017
+23,175,62,+40:20,12.0,Henao Sebasti\xe1n,12,Team Sky,36:24 36:24,-,10,2017
+22,62,66,+43:07,13.0,Carthy Hugh,13,Cannondale-Drapac Pro Cycling Team,39:11 39:11,-,10,2017
+21,78,69,+44:44,15.0,Schlegel Michal,14,CCC Sprandi Polkowice,40:48 40:48,\u25b21,10,2017
+23,56,72,+45:09,14.0,M\xfchlberger Gregor,15,BORA - hansgrohe,41:13 41:13,\u25bc1,10,2017
+23,73,82,+52:44,18.0,Grossschartner Felix,16,CCC Sprandi Polkowice,48:48 48:48,\u25b22,10,2017
+25,48,84,+56:33,16.0,Teuns Dylan,17,BMC Racing Team,52:37 52:37,\u25bc1,10,2017
+24,14,85,+56:55,17.0,Chevrier Cl\xe9ment,18,AG2R La Mondiale,52:59 52:59,\u25bc1,10,2017
+24,129,88,+58:04,19.0,Verona Carlos,19,ORICA-Scott,54:08 54:08,-,10,2017
+25,58,91,+1:00:28,20.0,P\xf6stlberger Lukas,20,BORA - hansgrohe,56:32 56:32,-,10,2017
+22,207,93,+1:01:15,21.0,Ravasi Edward,21,UAE Team Emirates,57:19 57:19,-,10,2017
+25,199,96,+1:02:52,22.0,Stuyven Jasper,22,Trek - Segafredo,58:56 58:56,-,10,2017
+23,7,99,+1:04:28,23.0,Pibernik Luka,23,Bahrain Merida Pro Cycling Team,1:00:32 1:00:32,-,10,2017
+22,145,109,+1:08:46,25.0,Gibbons Ryan,24,Team Dimension Data,1:04:50 1:04:50,\u25b21,10,2017
+22,158,110,+1:09:49,24.0,Mamykin Matvey,25,Team Katusha - Alpecin,1:05:53 1:05:53,\u25bc1,10,2017
+23,18,114,+1:11:48,27.0,Jauregui Quentin,26,AG2R La Mondiale,1:07:52 1:07:52,\u25b21,10,2017
+22,135,118,+1:12:23,29.0,Gaviria Fernando,27,Quick-Step Floors,1:08:27 1:08:27,\u25b22,10,2017
+24,186,123,+1:13:52,30.0,Lunke Sindre Skj\xf8stad,28,Team Sunweb,1:09:56 1:09:56,\u25b22,10,2017
+23,103,129,+1:15:44,31.0,de Buyst Jasper,29,Lotto Soudal,1:11:48 1:11:48,\u25b22,10,2017
+22,36,130,+1:16:03,26.0,Ciccone Giulio,30,Bardiani - CSF,1:12:07 1:12:07,\u25bc4,10,2017
+22,206,132,+1:16:25,28.0,Mohoric Matej,31,UAE Team Emirates,1:12:29 1:12:29,\u25bc3,10,2017
+21,197,142,+1:19:47,32.0,Pedersen Mads,32,Trek - Segafredo,1:15:51 1:15:51,-,10,2017
+23,212,150,+1:23:25,33.0,Amezqueta Julen,33,Wilier Triestina - Selle Italia,1:19:29 1:19:29,-,10,2017
+23,122,154,+1:25:16,35.0,Edmondson Alexander,34,ORICA-Scott,1:21:20 1:21:20,\u25b21,10,2017
+23,137,164,+1:31:13,37.0,Martinelli Davide,35,Quick-Step Floors,1:27:17 1:27:17,\u25b22,10,2017
+22,123,167,+1:32:41,34.0,Ewan Caleb,36,ORICA-Scott,1:28:45 1:28:45,\u25bc2,10,2017
+25,47,168,+1:32:52,38.0,Senni Manuel,37,BMC Racing Team,1:28:56 1:28:56,\u25b21,10,2017
+20,32,169,+1:33:36,36.0,Albanese Vincenzo,38,Bardiani - CSF,1:29:40 1:29:40,\u25bc2,10,2017
+21,217,171,+1:34:30,40.0,Martinez Daniel Felipe,39,Wilier Triestina - Selle Italia,1:30:34 1:30:34,\u25b21,10,2017
+25,98,173,+1:35:44,42.0,Shalunov Evgeny,40,Gazprom-RusVelo,1:31:48 1:31:48,\u25b22,10,2017
+22,182,176,+1:37:13,39.0,Bauhaus Phil,41,Team Sunweb,1:33:17 1:33:17,\u25bc2,10,2017
+21,38,178,+1:40:09,41.0,Rota Lorenzo,42,Bardiani - CSF,1:36:13 1:36:13,\u25bc1,10,2017
+23,216,179,+1:41:08,43.0,Mareczko Jakub,43,Wilier Triestina - Selle Italia,1:37:12 1:37:12,-,10,2017
+25,97,180,+1:42:29,44.0,Savitskiy Ivan,44,Gazprom-RusVelo,1:38:33 1:38:33,-,10,2017
+23,33,185,+1:48:06,45.0,Andreetta Simone,45,Bardiani - CSF,1:44:10 1:44:10,-,10,2017
+24,131,7,+3:56,1.0,Jungels Bob,1,Quick-Step Floors,47:26:03 47:26:03,-,11,2017
+24,64,13,+6:19,2.0,Formolo Davide,2,Cannondale-Drapac Pro Cycling Team,2:23 2:23,-,11,2017
+24,121,16,+6:58,4.0,Yates Adam,3,ORICA-Scott,3:02 3:02,\u25b21,11,2017
+25,209,18,+7:39,3.0,Polanc Jan,4,UAE Team Emirates,3:43 3:43,\u25bc1,11,2017
+24,208,20,+13:23,5.0,Petilli Simone,5,UAE Team Emirates,9:27 9:27,-,11,2017
+22,218,26,+20:27,6.0,Rodr\xedguez Cristian,6,Wilier Triestina - Selle Italia,16:31 16:31,-,11,2017
+21,133,27,+20:34,8.0,De Plus Laurens,7,Quick-Step Floors,16:38 16:38,\u25b21,11,2017
+25,93,49,+40:27,10.0,Foliforov Alexander,8,Gazprom-RusVelo,36:31 36:31,\u25b22,11,2017
+24,202,52,+43:12,7.0,Conti Valerio,9,UAE Team Emirates,39:16 39:16,\u25bc2,11,2017
+25,193,57,+47:00,11.0,Bernard Julien,10,Trek - Segafredo,43:04 43:04,\u25b21,11,2017
+21,78,59,+47:34,14.0,Schlegel Michal,11,CCC Sprandi Polkowice,43:38 43:38,\u25b23,11,2017
+23,175,60,+48:09,12.0,Henao Sebasti\xe1n,12,Team Sky,44:13 44:13,-,11,2017
+25,13,61,+49:22,9.0,Bidard Fran\xe7ois,13,AG2R La Mondiale,45:26 45:26,\u25bc4,11,2017
+23,56,68,+54:28,15.0,M\xfchlberger Gregor,14,BORA - hansgrohe,50:32 50:32,\u25b21,11,2017
+24,129,77,+1:00:54,19.0,Verona Carlos,15,ORICA-Scott,56:58 56:58,\u25b24,11,2017
+22,62,79,+1:02:50,13.0,Carthy Hugh,16,Cannondale-Drapac Pro Cycling Team,58:54 58:54,\u25bc3,11,2017
+22,207,84,+1:06:44,21.0,Ravasi Edward,17,UAE Team Emirates,1:02:48 1:02:48,\u25b24,11,2017
+23,73,86,+1:07:25,16.0,Grossschartner Felix,18,CCC Sprandi Polkowice,1:03:29 1:03:29,\u25bc2,11,2017
+24,14,88,+1:09:43,18.0,Chevrier Cl\xe9ment,19,AG2R La Mondiale,1:05:47 1:05:47,\u25bc1,11,2017
+23,18,92,+1:14:38,26.0,Jauregui Quentin,20,AG2R La Mondiale,1:10:42 1:10:42,\u25b26,11,2017
+22,158,95,+1:17:38,25.0,Mamykin Matvey,21,Team Katusha - Alpecin,1:13:42 1:13:42,\u25b24,11,2017
+25,48,98,+1:20:54,17.0,Teuns Dylan,22,BMC Racing Team,1:16:58 1:16:58,\u25bc5,11,2017
+25,58,102,+1:24:49,20.0,P\xf6stlberger Lukas,23,BORA - hansgrohe,1:20:53 1:20:53,\u25bc3,11,2017
+25,199,110,+1:27:13,22.0,Stuyven Jasper,24,Trek - Segafredo,1:23:17 1:23:17,\u25bc2,11,2017
+24,186,113,+1:28:33,28.0,Lunke Sindre Skj\xf8stad,25,Team Sunweb,1:24:37 1:24:37,\u25b23,11,2017
+23,7,114,+1:28:49,23.0,Pibernik Luka,26,Bahrain Merida Pro Cycling Team,1:24:53 1:24:53,\u25bc3,11,2017
+22,145,120,+1:33:07,24.0,Gibbons Ryan,27,Team Dimension Data,1:29:11 1:29:11,\u25bc3,11,2017
+25,47,123,+1:35:42,37.0,Senni Manuel,28,BMC Racing Team,1:31:46 1:31:46,\u25b29,11,2017
+22,135,125,+1:36:44,27.0,Gaviria Fernando,29,Quick-Step Floors,1:32:48 1:32:48,\u25bc2,11,2017
+23,103,133,+1:40:05,29.0,de Buyst Jasper,30,Lotto Soudal,1:36:09 1:36:09,\u25bc1,11,2017
+22,36,134,+1:40:24,30.0,Ciccone Giulio,31,Bardiani - CSF,1:36:28 1:36:28,\u25bc1,11,2017
+22,206,135,+1:40:46,31.0,Mohoric Matej,32,UAE Team Emirates,1:36:50 1:36:50,\u25bc1,11,2017
+21,197,145,+1:44:08,32.0,Pedersen Mads,33,Trek - Segafredo,1:40:12 1:40:12,\u25bc1,11,2017
+23,212,161,+1:52:51,33.0,Amezqueta Julen,34,Wilier Triestina - Selle Italia,1:48:55 1:48:55,\u25bc1,11,2017
+23,122,164,+1:54:42,34.0,Edmondson Alexander,35,ORICA-Scott,1:50:46 1:50:46,\u25bc1,11,2017
+23,137,165,+1:55:34,35.0,Martinelli Davide,36,Quick-Step Floors,1:51:38 1:51:38,\u25bc1,11,2017
+20,32,168,+1:57:57,38.0,Albanese Vincenzo,37,Bardiani - CSF,1:54:01 1:54:01,\u25b21,11,2017
+25,98,169,+2:00:05,40.0,Shalunov Evgeny,38,Gazprom-RusVelo,1:56:09 1:56:09,\u25b22,11,2017
+22,123,172,+2:02:07,36.0,Ewan Caleb,39,ORICA-Scott,1:58:11 1:58:11,\u25bc3,11,2017
+21,217,173,+2:03:56,39.0,Martinez Daniel Felipe,40,Wilier Triestina - Selle Italia,2:00:00 2:00:00,\u25bc1,11,2017
+21,38,175,+2:04:30,42.0,Rota Lorenzo,41,Bardiani - CSF,2:00:34 2:00:34,\u25b21,11,2017
+22,182,176,+2:06:39,41.0,Bauhaus Phil,42,Team Sunweb,2:02:43 2:02:43,\u25bc1,11,2017
+23,216,179,+2:10:34,43.0,Mareczko Jakub,43,Wilier Triestina - Selle Italia,2:06:38 2:06:38,-,11,2017
+25,97,181,+2:11:55,44.0,Savitskiy Ivan,44,Gazprom-RusVelo,2:07:59 2:07:59,-,11,2017
+23,33,182,+2:12:27,45.0,Andreetta Simone,45,Bardiani - CSF,2:08:31 2:08:31,-,11,2017
+24,131,7,+3:56,1.0,Jungels Bob,1,Quick-Step Floors,52:45:04 52:45:04,-,12,2017
+24,64,13,+6:19,2.0,Formolo Davide,2,Cannondale-Drapac Pro Cycling Team,2:23 2:23,-,12,2017
+24,121,16,+6:52,3.0,Yates Adam,3,ORICA-Scott,2:56 2:56,-,12,2017
+25,209,18,+7:39,4.0,Polanc Jan,4,UAE Team Emirates,3:43 3:43,-,12,2017
+24,208,20,+13:23,5.0,Petilli Simone,5,UAE Team Emirates,9:27 9:27,-,12,2017
+22,218,25,+20:27,6.0,Rodr\xedguez Cristian,6,Wilier Triestina - Selle Italia,16:31 16:31,-,12,2017
+21,133,26,+20:34,7.0,De Plus Laurens,7,Quick-Step Floors,16:38 16:38,-,12,2017
+25,93,48,+42:03,8.0,Foliforov Alexander,8,Gazprom-RusVelo,38:07 38:07,-,12,2017
+24,202,53,+44:48,9.0,Conti Valerio,9,UAE Team Emirates,40:52 40:52,-,12,2017
+21,78,58,+47:59,11.0,Schlegel Michal,10,CCC Sprandi Polkowice,44:03 44:03,\u25b21,12,2017
+25,193,59,+48:36,10.0,Bernard Julien,11,Trek - Segafredo,44:40 44:40,\u25bc1,12,2017
+25,13,60,+49:22,13.0,Bidard Fran\xe7ois,12,AG2R La Mondiale,45:26 45:26,\u25b21,12,2017
+23,175,61,+49:45,12.0,Henao Sebasti\xe1n,13,Team Sky,45:49 45:49,\u25bc1,12,2017
+23,56,69,+55:20,14.0,M\xfchlberger Gregor,14,BORA - hansgrohe,51:24 51:24,-,12,2017
+22,62,78,+1:04:26,16.0,Carthy Hugh,15,Cannondale-Drapac Pro Cycling Team,1:00:30 1:00:30,\u25b21,12,2017
+24,129,80,+1:05:42,15.0,Verona Carlos,16,ORICA-Scott,1:01:46 1:01:46,\u25bc1,12,2017
+24,14,85,+1:09:43,19.0,Chevrier Cl\xe9ment,17,AG2R La Mondiale,1:05:47 1:05:47,\u25b22,12,2017
+23,73,86,+1:09:45,18.0,Grossschartner Felix,18,CCC Sprandi Polkowice,1:05:49 1:05:49,-,12,2017
+22,207,87,+1:10:12,17.0,Ravasi Edward,19,UAE Team Emirates,1:06:16 1:06:16,\u25bc2,12,2017
+23,18,93,+1:16:14,20.0,Jauregui Quentin,20,AG2R La Mondiale,1:12:18 1:12:18,-,12,2017
+22,158,95,+1:17:38,21.0,Mamykin Matvey,21,Team Katusha - Alpecin,1:13:42 1:13:42,-,12,2017
+25,48,98,+1:22:30,22.0,Teuns Dylan,22,BMC Racing Team,1:18:34 1:18:34,-,12,2017
+25,58,100,+1:24:49,23.0,P\xf6stlberger Lukas,23,BORA - hansgrohe,1:20:53 1:20:53,-,12,2017
+25,199,107,+1:27:07,24.0,Stuyven Jasper,24,Trek - Segafredo,1:23:11 1:23:11,-,12,2017
+23,7,111,+1:28:49,26.0,Pibernik Luka,25,Bahrain Merida Pro Cycling Team,1:24:53 1:24:53,\u25b21,12,2017
+24,186,114,+1:30:09,25.0,Lunke Sindre Skj\xf8stad,26,Team Sunweb,1:26:13 1:26:13,\u25bc1,12,2017
+22,145,120,+1:33:01,27.0,Gibbons Ryan,27,Team Dimension Data,1:29:05 1:29:05,-,12,2017
+22,135,123,+1:36:28,29.0,Gaviria Fernando,28,Quick-Step Floors,1:32:32 1:32:32,\u25b21,12,2017
+25,47,125,+1:37:18,28.0,Senni Manuel,29,BMC Racing Team,1:33:22 1:33:22,\u25bc1,12,2017
+23,103,130,+1:40:05,30.0,de Buyst Jasper,30,Lotto Soudal,1:36:09 1:36:09,-,12,2017
+22,206,133,+1:40:46,32.0,Mohoric Matej,31,UAE Team Emirates,1:36:50 1:36:50,\u25b21,12,2017
+22,36,138,+1:42:00,31.0,Ciccone Giulio,32,Bardiani - CSF,1:38:04 1:38:04,\u25bc1,12,2017
+21,197,145,+1:45:44,33.0,Pedersen Mads,33,Trek - Segafredo,1:41:48 1:41:48,-,12,2017
+23,212,163,+1:54:27,34.0,Amezqueta Julen,34,Wilier Triestina - Selle Italia,1:50:31 1:50:31,-,12,2017
+23,122,164,+1:55:14,35.0,Edmondson Alexander,35,ORICA-Scott,1:51:18 1:51:18,-,12,2017
+23,137,165,+1:55:46,36.0,Martinelli Davide,36,Quick-Step Floors,1:51:50 1:51:50,-,12,2017
+20,32,167,+1:57:57,37.0,Albanese Vincenzo,37,Bardiani - CSF,1:54:01 1:54:01,-,12,2017
+22,123,170,+2:02:07,39.0,Ewan Caleb,38,ORICA-Scott,1:58:11 1:58:11,\u25b21,12,2017
+25,98,171,+2:02:32,38.0,Shalunov Evgeny,39,Gazprom-RusVelo,1:58:36 1:58:36,\u25bc1,12,2017
+21,217,173,+2:06:07,40.0,Martinez Daniel Felipe,40,Wilier Triestina - Selle Italia,2:02:11 2:02:11,-,12,2017
+22,182,174,+2:06:33,42.0,Bauhaus Phil,41,Team Sunweb,2:02:37 2:02:37,\u25b21,12,2017
+21,38,177,+2:09:10,41.0,Rota Lorenzo,42,Bardiani - CSF,2:05:14 2:05:14,\u25bc1,12,2017
+23,216,178,+2:10:22,43.0,Mareczko Jakub,43,Wilier Triestina - Selle Italia,2:06:26 2:06:26,-,12,2017
+25,97,180,+2:11:55,44.0,Savitskiy Ivan,44,Gazprom-RusVelo,2:07:59 2:07:59,-,12,2017
+23,33,183,+2:15:08,45.0,Andreetta Simone,45,Bardiani - CSF,2:11:12 2:11:12,-,12,2017
+24,131,7,+3:56,1.0,Jungels Bob,1,Quick-Step Floors,56:32:49 56:32:49,-,13,2017
+24,64,13,+6:19,2.0,Formolo Davide,2,Cannondale-Drapac Pro Cycling Team,2:23 2:23,-,13,2017
+24,121,15,+6:52,3.0,Yates Adam,3,ORICA-Scott,2:56 2:56,-,13,2017
+25,209,17,+7:39,4.0,Polanc Jan,4,UAE Team Emirates,3:43 3:43,-,13,2017
+24,208,19,+13:23,5.0,Petilli Simone,5,UAE Team Emirates,9:27 9:27,-,13,2017
+22,218,24,+20:27,6.0,Rodr\xedguez Cristian,6,Wilier Triestina - Selle Italia,16:31 16:31,-,13,2017
+21,133,25,+20:34,7.0,De Plus Laurens,7,Quick-Step Floors,16:38 16:38,-,13,2017
+25,93,50,+45:12,8.0,Foliforov Alexander,8,Gazprom-RusVelo,41:16 41:16,-,13,2017
+24,202,51,+45:54,9.0,Conti Valerio,9,UAE Team Emirates,41:58 41:58,-,13,2017
+25,13,56,+49:22,12.0,Bidard Fran\xe7ois,10,AG2R La Mondiale,45:26 45:26,\u25b22,13,2017
+21,78,57,+49:29,10.0,Schlegel Michal,11,CCC Sprandi Polkowice,45:33 45:33,\u25bc1,13,2017
+25,193,58,+49:31,11.0,Bernard Julien,12,Trek - Segafredo,45:35 45:35,\u25bc1,13,2017
+23,175,60,+50:51,13.0,Henao Sebasti\xe1n,13,Team Sky,46:55 46:55,-,13,2017
+23,56,67,+55:20,14.0,M\xfchlberger Gregor,14,BORA - hansgrohe,51:24 51:24,-,13,2017
+22,62,80,+1:07:35,15.0,Carthy Hugh,15,Cannondale-Drapac Pro Cycling Team,1:03:39 1:03:39,-,13,2017
+24,129,81,+1:08:51,16.0,Verona Carlos,16,ORICA-Scott,1:04:55 1:04:55,-,13,2017
+24,14,82,+1:09:43,17.0,Chevrier Cl\xe9ment,17,AG2R La Mondiale,1:05:47 1:05:47,-,13,2017
+23,73,84,+1:11:52,18.0,Grossschartner Felix,18,CCC Sprandi Polkowice,1:07:56 1:07:56,-,13,2017
+22,207,87,+1:13:21,19.0,Ravasi Edward,19,UAE Team Emirates,1:09:25 1:09:25,-,13,2017
+23,18,90,+1:16:14,20.0,Jauregui Quentin,20,AG2R La Mondiale,1:12:18 1:12:18,-,13,2017
+25,58,97,+1:24:49,23.0,P\xf6stlberger Lukas,21,BORA - hansgrohe,1:20:53 1:20:53,\u25b22,13,2017
+22,158,99,+1:25:07,21.0,Mamykin Matvey,22,Team Katusha - Alpecin,1:21:11 1:21:11,\u25bc1,13,2017
+25,48,101,+1:25:39,22.0,Teuns Dylan,23,BMC Racing Team,1:21:43 1:21:43,\u25bc1,13,2017
+25,199,103,+1:27:03,24.0,Stuyven Jasper,24,Trek - Segafredo,1:23:07 1:23:07,-,13,2017
+23,7,109,+1:28:49,25.0,Pibernik Luka,25,Bahrain Merida Pro Cycling Team,1:24:53 1:24:53,-,13,2017
+24,186,113,+1:30:38,26.0,Lunke Sindre Skj\xf8stad,26,Team Sunweb,1:26:42 1:26:42,-,13,2017
+22,145,118,+1:33:01,27.0,Gibbons Ryan,27,Team Dimension Data,1:29:05 1:29:05,-,13,2017
+22,135,121,+1:36:18,28.0,Gaviria Fernando,28,Quick-Step Floors,1:32:22 1:32:22,-,13,2017
+25,47,124,+1:37:47,29.0,Senni Manuel,29,BMC Racing Team,1:33:51 1:33:51,-,13,2017
+23,103,127,+1:40:05,30.0,de Buyst Jasper,30,Lotto Soudal,1:36:09 1:36:09,-,13,2017
+22,206,129,+1:40:44,31.0,Mohoric Matej,31,UAE Team Emirates,1:36:48 1:36:48,-,13,2017
+22,36,139,+1:43:30,32.0,Ciccone Giulio,32,Bardiani - CSF,1:39:34 1:39:34,-,13,2017
+21,197,149,+1:48:53,33.0,Pedersen Mads,33,Trek - Segafredo,1:44:57 1:44:57,-,13,2017
+23,122,160,+1:55:30,35.0,Edmondson Alexander,34,ORICA-Scott,1:51:34 1:51:34,\u25b21,13,2017
+23,137,161,+1:55:46,36.0,Martinelli Davide,35,Quick-Step Floors,1:51:50 1:51:50,\u25b21,13,2017
+23,212,164,+1:57:36,34.0,Amezqueta Julen,36,Wilier Triestina - Selle Italia,1:53:40 1:53:40,\u25bc2,13,2017
+20,32,165,+1:57:56,37.0,Albanese Vincenzo,37,Bardiani - CSF,1:54:00 1:54:00,-,13,2017
+22,123,169,+2:02:07,38.0,Ewan Caleb,38,ORICA-Scott,1:58:11 1:58:11,-,13,2017
+25,98,170,+2:02:32,39.0,Shalunov Evgeny,39,Gazprom-RusVelo,1:58:36 1:58:36,-,13,2017
+22,182,172,+2:06:33,41.0,Bauhaus Phil,40,Team Sunweb,2:02:37 2:02:37,\u25b21,13,2017
+23,216,174,+2:10:22,43.0,Mareczko Jakub,41,Wilier Triestina - Selle Italia,2:06:26 2:06:26,\u25b22,13,2017
+25,97,176,+2:11:55,44.0,Savitskiy Ivan,42,Gazprom-RusVelo,2:07:59 2:07:59,\u25b22,13,2017
+21,217,178,+2:13:34,40.0,Martinez Daniel Felipe,43,Wilier Triestina - Selle Italia,2:09:38 2:09:38,\u25bc3,13,2017
+21,38,179,+2:16:37,42.0,Rota Lorenzo,44,Bardiani - CSF,2:12:41 2:12:41,\u25bc2,13,2017
+23,33,181,+2:17:15,45.0,Andreetta Simone,45,Bardiani - CSF,2:13:19 2:13:19,-,13,2017
+24,131,9,+5:28,1.0,Jungels Bob,1,Quick-Step Floors,59:36:45 59:36:45,-,14,2017
+24,121,13,+7:43,3.0,Yates Adam,2,ORICA-Scott,2:15 2:15,\u25b21,14,2017
+24,64,14,+7:55,2.0,Formolo Davide,3,Cannondale-Drapac Pro Cycling Team,2:27 2:27,\u25bc1,14,2017
+25,209,16,+9:11,4.0,Polanc Jan,4,UAE Team Emirates,3:43 3:43,-,14,2017
+24,208,19,+16:02,5.0,Petilli Simone,5,UAE Team Emirates,10:34 10:34,-,14,2017
+21,133,22,+22:06,7.0,De Plus Laurens,6,Quick-Step Floors,16:38 16:38,\u25b21,14,2017
+22,218,25,+23:08,6.0,Rodr\xedguez Cristian,7,Wilier Triestina - Selle Italia,17:40 17:40,\u25bc1,14,2017
+25,93,50,+52:18,8.0,Foliforov Alexander,8,Gazprom-RusVelo,46:50 46:50,-,14,2017
+21,78,52,+52:40,11.0,Schlegel Michal,9,CCC Sprandi Polkowice,47:12 47:12,\u25b22,14,2017
+23,175,55,+53:05,13.0,Henao Sebasti\xe1n,10,Team Sky,47:37 47:37,\u25b23,14,2017
+25,193,56,+53:16,12.0,Bernard Julien,11,Trek - Segafredo,47:48 47:48,\u25b21,14,2017
+25,13,60,+57:13,10.0,Bidard Fran\xe7ois,12,AG2R La Mondiale,51:45 51:45,\u25bc2,14,2017
+24,202,64,+1:00:42,9.0,Conti Valerio,13,UAE Team Emirates,55:14 55:14,\u25bc4,14,2017
+23,56,66,+1:04:41,14.0,M\xfchlberger Gregor,14,BORA - hansgrohe,59:13 59:13,-,14,2017
+22,62,72,+1:10:21,15.0,Carthy Hugh,15,Cannondale-Drapac Pro Cycling Team,1:04:53 1:04:53,-,14,2017
+24,14,79,+1:16:06,17.0,Chevrier Cl\xe9ment,16,AG2R La Mondiale,1:10:38 1:10:38,\u25b21,14,2017
+24,129,80,+1:16:42,16.0,Verona Carlos,17,ORICA-Scott,1:11:14 1:11:14,\u25bc1,14,2017
+23,18,84,+1:19:59,20.0,Jauregui Quentin,18,AG2R La Mondiale,1:14:31 1:14:31,\u25b22,14,2017
+22,207,87,+1:22:42,19.0,Ravasi Edward,19,UAE Team Emirates,1:17:14 1:17:14,-,14,2017
+23,73,90,+1:24:35,18.0,Grossschartner Felix,20,CCC Sprandi Polkowice,1:19:07 1:19:07,\u25bc2,14,2017
+25,48,93,+1:28:44,23.0,Teuns Dylan,21,BMC Racing Team,1:23:16 1:23:16,\u25b22,14,2017
+22,158,96,+1:31:30,22.0,Mamykin Matvey,22,Team Katusha - Alpecin,1:26:02 1:26:02,-,14,2017
+23,7,101,+1:38:10,25.0,Pibernik Luka,23,Bahrain Merida Pro Cycling Team,1:32:42 1:32:42,\u25b22,14,2017
+25,58,103,+1:39:14,21.0,P\xf6stlberger Lukas,24,BORA - hansgrohe,1:33:46 1:33:46,\u25bc3,14,2017
+25,47,109,+1:41:02,29.0,Senni Manuel,25,BMC Racing Team,1:35:34 1:35:34,\u25b24,14,2017
+24,186,111,+1:41:16,26.0,Lunke Sindre Skj\xf8stad,26,Team Sunweb,1:35:48 1:35:48,-,14,2017
+25,199,112,+1:41:51,24.0,Stuyven Jasper,27,Trek - Segafredo,1:36:23 1:36:23,\u25bc3,14,2017
+22,145,114,+1:42:22,27.0,Gibbons Ryan,28,Team Dimension Data,1:36:54 1:36:54,\u25bc1,14,2017
+22,135,123,+1:49:28,28.0,Gaviria Fernando,29,Quick-Step Floors,1:44:00 1:44:00,\u25bc1,14,2017
+23,103,126,+1:51:32,30.0,de Buyst Jasper,30,Lotto Soudal,1:46:04 1:46:04,-,14,2017
+22,206,128,+1:53:27,31.0,Mohoric Matej,31,UAE Team Emirates,1:47:59 1:47:59,-,14,2017
+22,36,137,+1:56:40,32.0,Ciccone Giulio,32,Bardiani - CSF,1:51:12 1:51:12,-,14,2017
+23,212,148,+2:02:01,36.0,Amezqueta Julen,33,Wilier Triestina - Selle Italia,1:56:33 1:56:33,\u25b23,14,2017
+21,197,150,+2:03:41,33.0,Pedersen Mads,34,Trek - Segafredo,1:58:13 1:58:13,\u25bc1,14,2017
+23,122,161,+2:10:18,34.0,Edmondson Alexander,35,ORICA-Scott,2:04:50 2:04:50,\u25bc1,14,2017
+23,137,162,+2:10:34,35.0,Martinelli Davide,36,Quick-Step Floors,2:05:06 2:05:06,\u25bc1,14,2017
+20,32,164,+2:14:07,37.0,Albanese Vincenzo,37,Bardiani - CSF,2:08:39 2:08:39,-,14,2017
+25,98,166,+2:15:23,39.0,Shalunov Evgeny,38,Gazprom-RusVelo,2:09:55 2:09:55,\u25b21,14,2017
+22,123,168,+2:16:55,38.0,Ewan Caleb,39,ORICA-Scott,2:11:27 2:11:27,\u25bc1,14,2017
+22,182,171,+2:22:48,40.0,Bauhaus Phil,40,Team Sunweb,2:17:20 2:17:20,-,14,2017
+21,217,174,+2:26:43,43.0,Martinez Daniel Felipe,41,Wilier Triestina - Selle Italia,2:21:15 2:21:15,\u25b22,14,2017
+25,97,175,+2:26:43,42.0,Savitskiy Ivan,42,Gazprom-RusVelo,",, 2:21:15",-,14,2017
+21,38,178,+2:31:25,44.0,Rota Lorenzo,43,Bardiani - CSF,2:25:57 2:25:57,\u25b21,14,2017
+23,33,179,+2:32:03,45.0,Andreetta Simone,44,Bardiani - CSF,2:26:35 2:26:35,\u25b21,14,2017
+24,131,8,+5:18,1.0,Jungels Bob,1,Quick-Step Floors,63:53:26 63:53:26,-,15,2017
+24,121,11,+7:43,2.0,Yates Adam,2,ORICA-Scott,2:25 2:25,-,15,2017
+24,64,12,+8:09,3.0,Formolo Davide,3,Cannondale-Drapac Pro Cycling Team,2:51 2:51,-,15,2017
+25,209,14,+9:11,4.0,Polanc Jan,4,UAE Team Emirates,3:53 3:53,-,15,2017
+21,133,21,+22:31,6.0,De Plus Laurens,5,Quick-Step Floors,17:13 17:13,\u25b21,15,2017
+24,208,24,+26:06,5.0,Petilli Simone,6,UAE Team Emirates,20:48 20:48,\u25bc1,15,2017
+22,218,26,+26:49,7.0,Rodr\xedguez Cristian,7,Wilier Triestina - Selle Italia,21:31 21:31,-,15,2017
+23,175,44,+54:35,10.0,Henao Sebasti\xe1n,8,Team Sky,49:17 49:17,\u25b22,15,2017
+21,78,48,+56:21,9.0,Schlegel Michal,9,CCC Sprandi Polkowice,51:03 51:03,-,15,2017
+25,193,50,+57:39,11.0,Bernard Julien,10,Trek - Segafredo,52:21 52:21,\u25b21,15,2017
+25,13,52,+1:01:36,12.0,Bidard Fran\xe7ois,11,AG2R La Mondiale,56:18 56:18,\u25b21,15,2017
+24,202,55,+1:02:36,13.0,Conti Valerio,12,UAE Team Emirates,57:18 57:18,\u25b21,15,2017
+25,93,59,+1:05:22,8.0,Foliforov Alexander,13,Gazprom-RusVelo,1:00:04 1:00:04,\u25bc5,15,2017
+23,56,70,+1:17:45,14.0,M\xfchlberger Gregor,14,BORA - hansgrohe,1:12:27 1:12:27,-,15,2017
+24,129,74,+1:21:26,17.0,Verona Carlos,15,ORICA-Scott,1:16:08 1:16:08,\u25b22,15,2017
+24,14,77,+1:29:10,16.0,Chevrier Cl\xe9ment,16,AG2R La Mondiale,1:23:52 1:23:52,-,15,2017
+22,62,78,+1:29:26,15.0,Carthy Hugh,17,Cannondale-Drapac Pro Cycling Team,1:24:08 1:24:08,\u25bc2,15,2017
+25,48,83,+1:37:38,21.0,Teuns Dylan,18,BMC Racing Team,1:32:20 1:32:20,\u25b23,15,2017
+23,18,85,+1:39:04,18.0,Jauregui Quentin,19,AG2R La Mondiale,1:33:46 1:33:46,\u25bc1,15,2017
+22,207,86,+1:39:31,19.0,Ravasi Edward,20,UAE Team Emirates,1:34:13 1:34:13,\u25bc1,15,2017
+23,73,91,+1:43:40,20.0,Grossschartner Felix,21,CCC Sprandi Polkowice,1:38:22 1:38:22,\u25bc1,15,2017
+22,158,92,+1:44:34,22.0,Mamykin Matvey,22,Team Katusha - Alpecin,1:39:16 1:39:16,-,15,2017
+25,199,101,+1:54:55,27.0,Stuyven Jasper,23,Trek - Segafredo,1:49:37 1:49:37,\u25b24,15,2017
+23,7,102,+1:54:59,23.0,Pibernik Luka,24,Bahrain Merida Pro Cycling Team,1:49:41 1:49:41,\u25bc1,15,2017
+25,58,105,+1:59:35,24.0,P\xf6stlberger Lukas,25,BORA - hansgrohe,1:54:17 1:54:17,\u25bc1,15,2017
+25,47,109,+2:00:07,25.0,Senni Manuel,26,BMC Racing Team,1:54:49 1:54:49,\u25bc1,15,2017
+24,186,111,+2:00:21,26.0,Lunke Sindre Skj\xf8stad,27,Team Sunweb,1:55:03 1:55:03,\u25bc1,15,2017
+22,145,113,+2:01:27,28.0,Gibbons Ryan,28,Team Dimension Data,1:56:09 1:56:09,-,15,2017
+22,36,119,+2:05:34,32.0,Ciccone Giulio,29,Bardiani - CSF,2:00:16 2:00:16,\u25b23,15,2017
+22,135,120,+2:06:14,29.0,Gaviria Fernando,30,Quick-Step Floors,2:00:56 2:00:56,\u25bc1,15,2017
+23,103,125,+2:08:21,30.0,de Buyst Jasper,31,Lotto Soudal,2:03:03 2:03:03,\u25bc1,15,2017
+22,206,130,+2:12:32,31.0,Mohoric Matej,32,UAE Team Emirates,2:07:14 2:07:14,\u25bc1,15,2017
+23,212,134,+2:13:54,33.0,Amezqueta Julen,33,Wilier Triestina - Selle Italia,2:08:36 2:08:36,-,15,2017
+21,197,151,+2:24:02,34.0,Pedersen Mads,34,Trek - Segafredo,2:18:44 2:18:44,-,15,2017
+23,137,155,+2:27:23,36.0,Martinelli Davide,35,Quick-Step Floors,2:22:05 2:22:05,\u25b21,15,2017
+25,98,157,+2:28:27,38.0,Shalunov Evgeny,36,Gazprom-RusVelo,2:23:09 2:23:09,\u25b22,15,2017
+23,122,161,+2:32:20,35.0,Edmondson Alexander,37,ORICA-Scott,2:27:02 2:27:02,\u25bc2,15,2017
+20,32,162,+2:33:12,37.0,Albanese Vincenzo,38,Bardiani - CSF,2:27:54 2:27:54,\u25bc1,15,2017
+22,182,167,+2:41:53,40.0,Bauhaus Phil,39,Team Sunweb,2:36:35 2:36:35,\u25b21,15,2017
+21,217,170,+2:43:32,41.0,Martinez Daniel Felipe,40,Wilier Triestina - Selle Italia,2:38:14 2:38:14,\u25b21,15,2017
+21,38,173,+2:50:30,43.0,Rota Lorenzo,41,Bardiani - CSF,2:45:12 2:45:12,\u25b22,15,2017
+23,33,174,+2:51:08,44.0,Andreetta Simone,42,Bardiani - CSF,2:45:50 2:45:50,\u25b22,15,2017
+24,131,8,+4:35,1.0,Jungels Bob,1,Quick-Step Floors,70:19:23 70:19:23,-,16,2017
+24,121,10,+7:00,2.0,Yates Adam,2,ORICA-Scott,2:25 2:25,-,16,2017
+24,64,11,+7:17,3.0,Formolo Davide,3,Cannondale-Drapac Pro Cycling Team,2:42 2:42,-,16,2017
+25,209,13,+12:13,4.0,Polanc Jan,4,UAE Team Emirates,7:38 7:38,-,16,2017
+24,208,20,+29:07,6.0,Petilli Simone,5,UAE Team Emirates,24:32 24:32,\u25b21,16,2017
+21,133,25,+42:40,5.0,De Plus Laurens,6,Quick-Step Floors,38:05 38:05,\u25bc1,16,2017
+21,78,36,+1:07:33,9.0,Schlegel Michal,7,CCC Sprandi Polkowice,1:02:58 1:02:58,\u25b22,16,2017
+22,218,41,+1:12:23,7.0,Rodr\xedguez Cristian,8,Wilier Triestina - Selle Italia,1:07:48 1:07:48,\u25bc1,16,2017
+25,13,48,+1:21:09,11.0,Bidard Fran\xe7ois,9,AG2R La Mondiale,1:16:34 1:16:34,\u25b22,16,2017
+23,56,49,+1:22:08,14.0,M\xfchlberger Gregor,10,BORA - hansgrohe,1:17:33 1:17:33,\u25b24,16,2017
+23,175,50,+1:22:24,8.0,Henao Sebasti\xe1n,11,Team Sky,1:17:49 1:17:49,\u25bc3,16,2017
+25,93,53,+1:27:37,13.0,Foliforov Alexander,12,Gazprom-RusVelo,1:23:02 1:23:02,\u25b21,16,2017
+25,193,54,+1:28:29,10.0,Bernard Julien,13,Trek - Segafredo,1:23:54 1:23:54,\u25bc3,16,2017
+24,202,65,+1:40:44,12.0,Conti Valerio,14,UAE Team Emirates,1:36:09 1:36:09,\u25bc2,16,2017
+24,129,68,+1:52:16,15.0,Verona Carlos,15,ORICA-Scott,1:47:41 1:47:41,-,16,2017
+23,73,78,+2:06:25,21.0,Grossschartner Felix,16,CCC Sprandi Polkowice,2:01:50 2:01:50,\u25b25,16,2017
+22,207,81,+2:11:57,20.0,Ravasi Edward,17,UAE Team Emirates,2:07:22 2:07:22,\u25b23,16,2017
+24,14,82,+2:14:14,16.0,Chevrier Cl\xe9ment,18,AG2R La Mondiale,2:09:39 2:09:39,\u25bc2,16,2017
+22,62,83,+2:14:30,17.0,Carthy Hugh,19,Cannondale-Drapac Pro Cycling Team,2:09:55 2:09:55,\u25bc2,16,2017
+22,158,85,+2:15:34,22.0,Mamykin Matvey,20,Team Katusha - Alpecin,2:10:59 2:10:59,\u25b22,16,2017
+25,48,86,+2:15:46,18.0,Teuns Dylan,21,BMC Racing Team,2:11:11 2:11:11,\u25bc3,16,2017
+25,47,88,+2:20:16,26.0,Senni Manuel,22,BMC Racing Team,2:15:41 2:15:41,\u25b24,16,2017
+23,18,93,+2:24:08,19.0,Jauregui Quentin,23,AG2R La Mondiale,2:19:33 2:19:33,\u25bc4,16,2017
+24,186,103,+2:38:29,27.0,Lunke Sindre Skj\xf8stad,24,Team Sunweb,2:33:54 2:33:54,\u25b23,16,2017
+25,199,105,+2:39:59,23.0,Stuyven Jasper,25,Trek - Segafredo,2:35:24 2:35:24,\u25bc2,16,2017
+23,7,107,+2:44:02,24.0,Pibernik Luka,26,Bahrain Merida Pro Cycling Team,2:39:27 2:39:27,\u25bc2,16,2017
+25,58,108,+2:44:25,25.0,P\xf6stlberger Lukas,27,BORA - hansgrohe,2:39:50 2:39:50,\u25bc2,16,2017
+23,212,109,+2:44:44,33.0,Amezqueta Julen,28,Wilier Triestina - Selle Italia,2:40:09 2:40:09,\u25b25,16,2017
+22,36,118,+2:50:24,29.0,Ciccone Giulio,29,Bardiani - CSF,2:45:49 2:45:49,-,16,2017
+23,103,123,+2:53:25,31.0,de Buyst Jasper,30,Lotto Soudal,2:48:50 2:48:50,\u25b21,16,2017
+22,135,125,+2:55:17,30.0,Gaviria Fernando,31,Quick-Step Floors,2:50:42 2:50:42,\u25bc1,16,2017
+22,206,129,+2:57:36,32.0,Mohoric Matej,32,UAE Team Emirates,2:53:01 2:53:01,-,16,2017
+21,217,139,+3:04:47,40.0,Martinez Daniel Felipe,33,Wilier Triestina - Selle Italia,3:00:12 3:00:12,\u25b27,16,2017
+21,197,146,+3:09:06,34.0,Pedersen Mads,34,Trek - Segafredo,3:04:31 3:04:31,-,16,2017
+23,137,151,+3:16:26,35.0,Martinelli Davide,35,Quick-Step Floors,3:11:51 3:11:51,-,16,2017
+25,98,154,+3:17:30,36.0,Shalunov Evgeny,36,Gazprom-RusVelo,3:12:55 3:12:55,-,16,2017
+22,182,160,+3:31:06,39.0,Bauhaus Phil,37,Team Sunweb,3:26:31 3:26:31,\u25b22,16,2017
+22,38,164,+3:40:27,41.0,Rota Lorenzo,38,Bardiani - CSF,3:35:52 3:35:52,\u25b23,16,2017
+23,33,165,+3:41:05,42.0,Andreetta Simone,39,Bardiani - CSF,3:36:30 3:36:30,\u25b23,16,2017
+24,131,8,+4:35,1.0,Jungels Bob,1,Quick-Step Floors,76:10:13 76:10:13,-,17,2017
+25,209,10,+6:33,4.0,Polanc Jan,2,UAE Team Emirates,1:58 1:58,\u25b22,17,2017
+24,121,11,+7:00,2.0,Yates Adam,3,ORICA-Scott,2:25 2:25,\u25bc1,17,2017
+24,64,13,+7:17,3.0,Formolo Davide,4,Cannondale-Drapac Pro Cycling Team,2:42 2:42,\u25bc1,17,2017
+24,208,20,+29:07,5.0,Petilli Simone,5,UAE Team Emirates,24:32 24:32,-,17,2017
+21,133,23,+35:13,6.0,De Plus Laurens,6,Quick-Step Floors,30:38 30:38,-,17,2017
+21,78,36,+1:07:33,7.0,Schlegel Michal,7,CCC Sprandi Polkowice,1:02:58 1:02:58,-,17,2017
+22,218,41,+1:12:23,8.0,Rodr\xedguez Cristian,8,Wilier Triestina - Selle Italia,1:07:48 1:07:48,-,17,2017
+25,193,46,+1:20:59,13.0,Bernard Julien,9,Trek - Segafredo,1:16:24 1:16:24,\u25b24,17,2017
+25,13,47,+1:21:09,9.0,Bidard Fran\xe7ois,10,AG2R La Mondiale,1:16:34 1:16:34,\u25bc1,17,2017
+23,56,48,+1:22:08,10.0,M\xfchlberger Gregor,11,BORA - hansgrohe,1:17:33 1:17:33,\u25bc1,17,2017
+23,175,49,+1:22:24,11.0,Henao Sebasti\xe1n,12,Team Sky,1:17:49 1:17:49,\u25bc1,17,2017
+25,93,54,+1:27:37,12.0,Foliforov Alexander,13,Gazprom-RusVelo,1:23:02 1:23:02,\u25bc1,17,2017
+24,202,59,+1:33:52,14.0,Conti Valerio,14,UAE Team Emirates,1:29:17 1:29:17,-,17,2017
+24,129,68,+1:52:16,15.0,Verona Carlos,15,ORICA-Scott,1:47:41 1:47:41,-,17,2017
+23,73,74,+1:58:54,16.0,Grossschartner Felix,16,CCC Sprandi Polkowice,1:54:19 1:54:19,-,17,2017
+22,207,82,+2:14:03,17.0,Ravasi Edward,17,UAE Team Emirates,2:09:28 2:09:28,-,17,2017
+24,14,83,+2:14:14,18.0,Chevrier Cl\xe9ment,18,AG2R La Mondiale,2:09:39 2:09:39,-,17,2017
+22,62,84,+2:14:30,19.0,Carthy Hugh,19,Cannondale-Drapac Pro Cycling Team,2:09:55 2:09:55,-,17,2017
+25,48,86,+2:15:46,21.0,Teuns Dylan,20,BMC Racing Team,2:11:11 2:11:11,\u25b21,17,2017
+25,47,89,+2:20:16,22.0,Senni Manuel,21,BMC Racing Team,2:15:41 2:15:41,\u25b21,17,2017
+23,18,94,+2:24:08,23.0,Jauregui Quentin,22,AG2R La Mondiale,2:19:33 2:19:33,\u25b21,17,2017
+22,158,96,+2:27:00,20.0,Mamykin Matvey,23,Team Katusha - Alpecin,2:22:25 2:22:25,\u25bc3,17,2017
+23,212,101,+2:37:14,28.0,Amezqueta Julen,24,Wilier Triestina - Selle Italia,2:32:39 2:32:39,\u25b24,17,2017
+25,199,103,+2:39:59,25.0,Stuyven Jasper,25,Trek - Segafredo,2:35:24 2:35:24,-,17,2017
+23,7,108,+2:44:02,26.0,Pibernik Luka,26,Bahrain Merida Pro Cycling Team,2:39:27 2:39:27,-,17,2017
+25,58,110,+2:46:31,27.0,P\xf6stlberger Lukas,27,BORA - hansgrohe,2:41:56 2:41:56,-,17,2017
+22,36,114,+2:50:24,29.0,Ciccone Giulio,28,Bardiani - CSF,2:45:49 2:45:49,\u25b21,17,2017
+24,186,116,+2:51:22,24.0,Lunke Sindre Skj\xf8stad,29,Team Sunweb,2:46:47 2:46:47,\u25bc5,17,2017
+23,103,123,+2:54:45,30.0,de Buyst Jasper,30,Lotto Soudal,2:50:10 2:50:10,-,17,2017
+22,135,127,+2:58:27,31.0,Gaviria Fernando,31,Quick-Step Floors,2:53:52 2:53:52,-,17,2017
+22,206,134,+3:02:44,32.0,Mohoric Matej,32,UAE Team Emirates,2:58:09 2:58:09,-,17,2017
+21,197,143,+3:09:06,34.0,Pedersen Mads,33,Trek - Segafredo,3:04:31 3:04:31,\u25b21,17,2017
+25,98,148,+3:19:36,36.0,Shalunov Evgeny,34,Gazprom-RusVelo,3:15:01 3:15:01,\u25b22,17,2017
+23,137,155,+3:31:16,35.0,Martinelli Davide,35,Quick-Step Floors,3:26:41 3:26:41,-,17,2017
+23,33,159,+3:41:05,39.0,Andreetta Simone,36,Bardiani - CSF,3:36:30 3:36:30,\u25b23,17,2017
+22,38,162,+3:53:23,38.0,Rota Lorenzo,37,Bardiani - CSF,3:48:48 3:48:48,\u25b21,17,2017
+24,121,9,+7:06,3.0,Yates Adam,1,ORICA-Scott,80:07:54 80:07:54,\u25b22,18,2017
+24,131,10,+7:34,1.0,Jungels Bob,2,Quick-Step Floors,0:28 0:28,\u25bc1,18,2017
+24,64,11,+7:59,4.0,Formolo Davide,3,Cannondale-Drapac Pro Cycling Team,0:53 0:53,\u25b21,18,2017
+25,209,13,+12:24,2.0,Polanc Jan,4,UAE Team Emirates,5:18 5:18,\u25bc2,18,2017
+24,208,26,+1:00:58,5.0,Petilli Simone,5,UAE Team Emirates,53:52 53:52,-,18,2017
+21,133,29,+1:07:04,6.0,De Plus Laurens,6,Quick-Step Floors,59:58 59:58,-,18,2017
+23,56,40,+1:31:18,11.0,M\xfchlberger Gregor,7,BORA - hansgrohe,1:24:12 1:24:12,\u25b24,18,2017
+25,93,41,+1:33:28,13.0,Foliforov Alexander,8,Gazprom-RusVelo,1:26:22 1:26:22,\u25b25,18,2017
+21,78,45,+1:39:24,7.0,Schlegel Michal,9,CCC Sprandi Polkowice,1:32:18 1:32:18,\u25bc2,18,2017
+23,175,46,+1:40:06,12.0,Henao Sebasti\xe1n,10,Team Sky,1:33:00 1:33:00,\u25b22,18,2017
+22,218,47,+1:44:14,8.0,Rodr\xedguez Cristian,11,Wilier Triestina - Selle Italia,1:37:08 1:37:08,\u25bc3,18,2017
+25,193,50,+1:52:50,9.0,Bernard Julien,12,Trek - Segafredo,1:45:44 1:45:44,\u25bc3,18,2017
+25,13,51,+1:53:00,10.0,Bidard Fran\xe7ois,13,AG2R La Mondiale,1:45:54 1:45:54,\u25bc3,18,2017
+24,202,65,+2:08:41,14.0,Conti Valerio,14,UAE Team Emirates,2:01:35 2:01:35,-,18,2017
+24,129,66,+2:09:58,15.0,Verona Carlos,15,ORICA-Scott,2:02:52 2:02:52,-,18,2017
+23,73,74,+2:30:45,16.0,Grossschartner Felix,16,CCC Sprandi Polkowice,2:23:39 2:23:39,-,18,2017
+24,14,84,+2:46:05,18.0,Chevrier Cl\xe9ment,17,AG2R La Mondiale,2:38:59 2:38:59,\u25b21,18,2017
+22,62,85,+2:46:21,19.0,Carthy Hugh,18,Cannondale-Drapac Pro Cycling Team,2:39:15 2:39:15,\u25b21,18,2017
+25,48,86,+2:47:37,20.0,Teuns Dylan,19,BMC Racing Team,2:40:31 2:40:31,\u25b21,18,2017
+22,207,87,+2:48:52,17.0,Ravasi Edward,20,UAE Team Emirates,2:41:46 2:41:46,\u25bc3,18,2017
+25,47,92,+2:55:05,21.0,Senni Manuel,21,BMC Racing Team,2:47:59 2:47:59,-,18,2017
+23,18,93,+2:55:59,22.0,Jauregui Quentin,22,AG2R La Mondiale,2:48:53 2:48:53,-,18,2017
+25,199,94,+2:57:30,25.0,Stuyven Jasper,23,Trek - Segafredo,2:50:24 2:50:24,\u25b22,18,2017
+22,158,97,+3:01:49,23.0,Mamykin Matvey,24,Team Katusha - Alpecin,2:54:43 2:54:43,\u25bc1,18,2017
+23,212,100,+3:09:05,24.0,Amezqueta Julen,25,Wilier Triestina - Selle Italia,3:01:59 3:01:59,\u25bc1,18,2017
+23,7,105,+3:15:53,26.0,Pibernik Luka,26,Bahrain Merida Pro Cycling Team,3:08:47 3:08:47,-,18,2017
+25,58,111,+3:21:20,27.0,P\xf6stlberger Lukas,27,BORA - hansgrohe,3:14:14 3:14:14,-,18,2017
+22,36,112,+3:22:15,28.0,Ciccone Giulio,28,Bardiani - CSF,3:15:09 3:15:09,-,18,2017
+24,186,114,+3:23:13,29.0,Lunke Sindre Skj\xf8stad,29,Team Sunweb,3:16:07 3:16:07,-,18,2017
+22,135,128,+3:33:16,31.0,Gaviria Fernando,30,Quick-Step Floors,3:26:10 3:26:10,\u25b21,18,2017
+22,206,135,+3:37:33,32.0,Mohoric Matej,31,UAE Team Emirates,3:30:27 3:30:27,\u25b21,18,2017
+21,197,138,+3:40:57,33.0,Pedersen Mads,32,Trek - Segafredo,3:33:51 3:33:51,\u25b21,18,2017
+25,98,147,+3:51:27,34.0,Shalunov Evgeny,33,Gazprom-RusVelo,3:44:21 3:44:21,\u25b21,18,2017
+23,137,155,+4:06:05,35.0,Martinelli Davide,34,Quick-Step Floors,3:58:59 3:58:59,\u25b21,18,2017
+23,33,158,+4:15:54,36.0,Andreetta Simone,35,Bardiani - CSF,4:08:48 4:08:48,\u25b21,18,2017
+22,38,161,+4:28:12,37.0,Rota Lorenzo,36,Bardiani - CSF,4:21:06 4:21:06,\u25b21,18,2017
+24,121,8,+6:35,1.0,Yates Adam,1,ORICA-Scott,85:09:15 85:09:15,-,19,2017
+24,131,9,+7:03,2.0,Jungels Bob,2,Quick-Step Floors,0:28 0:28,-,19,2017
+24,64,11,+8:37,3.0,Formolo Davide,3,Cannondale-Drapac Pro Cycling Team,2:02 2:02,-,19,2017
+25,209,12,+14:13,4.0,Polanc Jan,4,UAE Team Emirates,7:38 7:38,-,19,2017
+21,133,27,+1:09:59,6.0,De Plus Laurens,5,Quick-Step Floors,1:03:24 1:03:24,\u25b21,19,2017
+24,208,29,+1:20:17,5.0,Petilli Simone,6,UAE Team Emirates,1:13:42 1:13:42,\u25bc1,19,2017
+23,175,38,+1:34:20,10.0,Henao Sebasti\xe1n,7,Team Sky,1:27:45 1:27:45,\u25b23,19,2017
+23,56,39,+1:34:34,7.0,M\xfchlberger Gregor,8,BORA - hansgrohe,1:27:59 1:27:59,\u25bc1,19,2017
+25,93,42,+1:40:41,8.0,Foliforov Alexander,9,Gazprom-RusVelo,1:34:06 1:34:06,\u25bc1,19,2017
+25,13,48,+1:57:24,13.0,Bidard Fran\xe7ois,10,AG2R La Mondiale,1:50:49 1:50:49,\u25b23,19,2017
+25,193,49,+1:57:57,12.0,Bernard Julien,11,Trek - Segafredo,1:51:22 1:51:22,\u25b21,19,2017
+21,78,50,+1:58:43,9.0,Schlegel Michal,12,CCC Sprandi Polkowice,1:52:08 1:52:08,\u25bc3,19,2017
+22,218,51,+1:58:45,11.0,Rodr\xedguez Cristian,13,Wilier Triestina - Selle Italia,1:52:10 1:52:10,\u25bc2,19,2017
+24,129,65,+2:24:29,15.0,Verona Carlos,14,ORICA-Scott,2:17:54 2:17:54,\u25b21,19,2017
+24,202,67,+2:28:00,14.0,Conti Valerio,15,UAE Team Emirates,2:21:25 2:21:25,\u25bc1,19,2017
+24,14,74,+2:48:11,17.0,Chevrier Cl\xe9ment,16,AG2R La Mondiale,2:41:36 2:41:36,\u25b21,19,2017
+23,73,79,+2:50:04,16.0,Grossschartner Felix,17,CCC Sprandi Polkowice,2:43:29 2:43:29,\u25bc1,19,2017
+23,18,84,+3:01:06,22.0,Jauregui Quentin,18,AG2R La Mondiale,2:54:31 2:54:31,\u25b24,19,2017
+22,62,86,+3:05:40,18.0,Carthy Hugh,19,Cannondale-Drapac Pro Cycling Team,2:59:05 2:59:05,\u25bc1,19,2017
+25,48,87,+3:06:56,19.0,Teuns Dylan,20,BMC Racing Team,3:00:21 3:00:21,\u25bc1,19,2017
+22,207,89,+3:08:11,20.0,Ravasi Edward,21,UAE Team Emirates,3:01:36 3:01:36,\u25bc1,19,2017
+25,47,90,+3:09:36,21.0,Senni Manuel,22,BMC Racing Team,3:03:01 3:03:01,\u25bc1,19,2017
+22,158,93,+3:13:56,24.0,Mamykin Matvey,23,Team Katusha - Alpecin,3:07:21 3:07:21,\u25b21,19,2017
+25,199,98,+3:18:32,23.0,Stuyven Jasper,24,Trek - Segafredo,3:11:57 3:11:57,\u25bc1,19,2017
+23,212,100,+3:28:24,25.0,Amezqueta Julen,25,Wilier Triestina - Selle Italia,3:21:49 3:21:49,-,19,2017
+23,7,102,+3:30:29,26.0,Pibernik Luka,26,Bahrain Merida Pro Cycling Team,3:23:54 3:23:54,-,19,2017
+22,36,104,+3:32:49,28.0,Ciccone Giulio,27,Bardiani - CSF,3:26:14 3:26:14,\u25b21,19,2017
+25,58,112,+3:40:39,27.0,P\xf6stlberger Lukas,28,BORA - hansgrohe,3:34:04 3:34:04,\u25bc1,19,2017
+24,186,115,+3:42:32,29.0,Lunke Sindre Skj\xf8stad,29,Team Sunweb,3:35:57 3:35:57,-,19,2017
+25,98,123,+3:46:26,33.0,Shalunov Evgeny,30,Gazprom-RusVelo,3:39:51 3:39:51,\u25b23,19,2017
+22,135,130,+3:52:35,30.0,Gaviria Fernando,31,Quick-Step Floors,3:46:00 3:46:00,\u25bc1,19,2017
+22,206,135,+3:56:52,31.0,Mohoric Matej,32,UAE Team Emirates,3:50:17 3:50:17,\u25bc1,19,2017
+21,197,140,+4:01:59,32.0,Pedersen Mads,33,Trek - Segafredo,3:55:24 3:55:24,\u25bc1,19,2017
+22,38,153,+4:24:25,36.0,Rota Lorenzo,34,Bardiani - CSF,4:17:50 4:17:50,\u25b22,19,2017
+23,137,156,+4:27:07,34.0,Martinelli Davide,35,Quick-Step Floors,4:20:32 4:20:32,\u25bc1,19,2017
+23,33,159,+4:32:43,35.0,Andreetta Simone,36,Bardiani - CSF,4:26:08 4:26:08,\u25bc1,19,2017
+24,121,8,+6:50,1.0,Yates Adam,1,ORICA-Scott,90:07:28 90:07:28,-,20,2017
+24,131,9,+7:18,2.0,Jungels Bob,2,Quick-Step Floors,0:28 0:28,-,20,2017
+24,64,10,+12:55,3.0,Formolo Davide,3,Cannondale-Drapac Pro Cycling Team,6:05 6:05,-,20,2017
+25,209,11,+16:48,4.0,Polanc Jan,4,UAE Team Emirates,9:58 9:58,-,20,2017
+21,133,24,+1:17:53,5.0,De Plus Laurens,5,Quick-Step Floors,1:11:03 1:11:03,-,20,2017
+24,208,26,+1:26:58,6.0,Petilli Simone,6,UAE Team Emirates,1:20:08 1:20:08,-,20,2017
+23,175,33,+1:42:14,7.0,Henao Sebasti\xe1n,7,Team Sky,1:35:24 1:35:24,-,20,2017
+25,13,39,+2:05:18,10.0,Bidard Fran\xe7ois,8,AG2R La Mondiale,1:58:28 1:58:28,\u25b22,20,2017
+25,93,40,+2:06:34,9.0,Foliforov Alexander,9,Gazprom-RusVelo,1:59:44 1:59:44,-,20,2017
+23,56,41,+2:10:31,8.0,M\xfchlberger Gregor,10,BORA - hansgrohe,2:03:41 2:03:41,\u25bc2,20,2017
+25,193,42,+2:12:47,11.0,Bernard Julien,11,Trek - Segafredo,2:05:57 2:05:57,-,20,2017
+21,78,44,+2:15:29,12.0,Schlegel Michal,12,CCC Sprandi Polkowice,2:08:39 2:08:39,-,20,2017
+22,218,52,+2:24:38,13.0,Rodr\xedguez Cristian,13,Wilier Triestina - Selle Italia,2:17:48 2:17:48,-,20,2017
+24,129,57,+2:32:23,14.0,Verona Carlos,14,ORICA-Scott,2:25:33 2:25:33,-,20,2017
+24,202,68,+3:03:57,15.0,Conti Valerio,15,UAE Team Emirates,2:57:07 2:57:07,-,20,2017
+25,48,76,+3:13:37,20.0,Teuns Dylan,16,BMC Racing Team,3:06:47 3:06:47,\u25b24,20,2017
+23,73,78,+3:15:57,17.0,Grossschartner Felix,17,CCC Sprandi Polkowice,3:09:07 3:09:07,-,20,2017
+25,47,79,+3:22:08,22.0,Senni Manuel,18,BMC Racing Team,3:15:18 3:15:18,\u25b24,20,2017
+24,14,80,+3:24:08,16.0,Chevrier Cl\xe9ment,19,AG2R La Mondiale,3:17:18 3:17:18,\u25bc3,20,2017
+22,207,83,+3:24:57,21.0,Ravasi Edward,20,UAE Team Emirates,3:18:07 3:18:07,\u25b21,20,2017
+22,158,85,+3:28:46,23.0,Mamykin Matvey,21,Team Katusha - Alpecin,3:21:56 3:21:56,\u25b22,20,2017
+23,18,90,+3:37:03,18.0,Jauregui Quentin,22,AG2R La Mondiale,3:30:13 3:30:13,\u25bc4,20,2017
+22,62,91,+3:41:37,19.0,Carthy Hugh,23,Cannondale-Drapac Pro Cycling Team,3:34:47 3:34:47,\u25bc4,20,2017
+22,36,94,+3:45:21,27.0,Ciccone Giulio,24,Bardiani - CSF,3:38:31 3:38:31,\u25b23,20,2017
+23,212,98,+3:54:17,25.0,Amezqueta Julen,25,Wilier Triestina - Selle Italia,3:47:27 3:47:27,-,20,2017
+25,199,99,+3:54:29,24.0,Stuyven Jasper,26,Trek - Segafredo,3:47:39 3:47:39,\u25bc2,20,2017
+23,7,100,+3:56:22,26.0,Pibernik Luka,27,Bahrain Merida Pro Cycling Team,3:49:32 3:49:32,\u25bc1,20,2017
+25,58,115,+4:16:36,28.0,P\xf6stlberger Lukas,28,BORA - hansgrohe,4:09:46 4:09:46,-,20,2017
+24,186,118,+4:18:29,29.0,Lunke Sindre Skj\xf8stad,29,Team Sunweb,4:11:39 4:11:39,-,20,2017
+25,98,124,+4:22:23,30.0,Shalunov Evgeny,30,Gazprom-RusVelo,4:15:33 4:15:33,-,20,2017
+22,135,130,+4:28:32,31.0,Gaviria Fernando,31,Quick-Step Floors,4:21:42 4:21:42,-,20,2017
+22,206,136,+4:32:49,32.0,Mohoric Matej,32,UAE Team Emirates,4:25:59 4:25:59,-,20,2017
+21,197,141,+4:37:56,33.0,Pedersen Mads,33,Trek - Segafredo,4:31:06 4:31:06,-,20,2017
+22,38,151,+5:00:22,34.0,Rota Lorenzo,34,Bardiani - CSF,4:53:32 4:53:32,-,20,2017
+23,137,154,+5:03:04,35.0,Martinelli Davide,35,Quick-Step Floors,4:56:14 4:56:14,-,20,2017
+23,33,157,+5:08:40,36.0,Andreetta Simone,36,Bardiani - CSF,5:01:50 5:01:50,-,20,2017
+24,131,8,+7:04,2.0,Jungels Bob,1,Quick-Step Floors,90:41:58 90:41:58,\u25b21,21,2017
+24,121,9,+8:10,1.0,Yates Adam,2,ORICA-Scott,1:06 1:06,\u25bc1,21,2017
+24,64,10,+15:17,3.0,Formolo Davide,3,Cannondale-Drapac Pro Cycling Team,8:13 8:13,-,21,2017
+25,209,11,+18:06,4.0,Polanc Jan,4,UAE Team Emirates,11:02 11:02,-,21,2017
+21,133,24,+1:20:00,5.0,De Plus Laurens,5,Quick-Step Floors,1:12:56 1:12:56,-,21,2017
+24,208,26,+1:29:34,6.0,Petilli Simone,6,UAE Team Emirates,1:22:30 1:22:30,-,21,2017
+23,175,33,+1:44:04,7.0,Henao Sebasti\xe1n,7,Team Sky,1:37:00 1:37:00,-,21,2017
+25,13,39,+2:09:03,8.0,Bidard Fran\xe7ois,8,AG2R La Mondiale,2:01:59 2:01:59,-,21,2017
+25,93,40,+2:09:30,9.0,Foliforov Alexander,9,Gazprom-RusVelo,2:02:26 2:02:26,-,21,2017
+23,56,41,+2:12:34,10.0,M\xfchlberger Gregor,10,BORA - hansgrohe,2:05:30 2:05:30,-,21,2017
+25,193,42,+2:14:18,11.0,Bernard Julien,11,Trek - Segafredo,2:07:14 2:07:14,-,21,2017
+21,78,45,+2:18:19,12.0,Schlegel Michal,12,CCC Sprandi Polkowice,2:11:15 2:11:15,-,21,2017
+22,218,52,+2:27:56,13.0,Rodr\xedguez Cristian,13,Wilier Triestina - Selle Italia,2:20:52 2:20:52,-,21,2017
+24,129,57,+2:34:13,14.0,Verona Carlos,14,ORICA-Scott,2:27:09 2:27:09,-,21,2017
+24,202,68,+3:05:10,15.0,Conti Valerio,15,UAE Team Emirates,2:58:06 2:58:06,-,21,2017
+25,48,75,+3:15:44,16.0,Teuns Dylan,16,BMC Racing Team,3:08:40 3:08:40,-,21,2017
+23,73,78,+3:19:04,17.0,Grossschartner Felix,17,CCC Sprandi Polkowice,3:12:00 3:12:00,-,21,2017
+25,47,79,+3:23:35,18.0,Senni Manuel,18,BMC Racing Team,3:16:31 3:16:31,-,21,2017
+22,207,80,+3:26:47,20.0,Ravasi Edward,19,UAE Team Emirates,3:19:43 3:19:43,\u25b21,21,2017
+24,14,81,+3:27:08,19.0,Chevrier Cl\xe9ment,20,AG2R La Mondiale,3:20:04 3:20:04,\u25bc1,21,2017
+22,158,87,+3:33:28,21.0,Mamykin Matvey,21,Team Katusha - Alpecin,3:26:24 3:26:24,-,21,2017
+23,18,90,+3:41:19,22.0,Jauregui Quentin,22,AG2R La Mondiale,3:34:15 3:34:15,-,21,2017
+22,62,92,+3:46:09,23.0,Carthy Hugh,23,Cannondale-Drapac Pro Cycling Team,3:39:05 3:39:05,-,21,2017
+22,36,95,+3:49:24,24.0,Ciccone Giulio,24,Bardiani - CSF,3:42:20 3:42:20,-,21,2017
+25,199,98,+3:54:52,26.0,Stuyven Jasper,25,Trek - Segafredo,3:47:48 3:47:48,\u25b21,21,2017
+23,212,99,+3:56:48,25.0,Amezqueta Julen,26,Wilier Triestina - Selle Italia,3:49:44 3:49:44,\u25bc1,21,2017
+23,7,100,+3:58:19,27.0,Pibernik Luka,27,Bahrain Merida Pro Cycling Team,3:51:15 3:51:15,-,21,2017
+25,58,114,+4:17:05,28.0,P\xf6stlberger Lukas,28,BORA - hansgrohe,4:10:01 4:10:01,-,21,2017
+24,186,120,+4:22:58,29.0,Lunke Sindre Skj\xf8stad,29,Team Sunweb,4:15:54 4:15:54,-,21,2017
+25,98,123,+4:23:42,30.0,Shalunov Evgeny,30,Gazprom-RusVelo,4:16:38 4:16:38,-,21,2017
+22,135,129,+4:30:27,31.0,Gaviria Fernando,31,Quick-Step Floors,4:23:23 4:23:23,-,21,2017
+22,206,135,+4:34:06,32.0,Mohoric Matej,32,UAE Team Emirates,4:27:02 4:27:02,-,21,2017
+21,197,138,+4:37:52,33.0,Pedersen Mads,33,Trek - Segafredo,4:30:48 4:30:48,-,21,2017
+22,38,151,+5:04:57,34.0,Rota Lorenzo,34,Bardiani - CSF,4:57:53 4:57:53,-,21,2017
+23,137,153,+5:06:02,35.0,Martinelli Davide,35,Quick-Step Floors,4:58:58 4:58:58,-,21,2017
+23,33,156,+5:14:16,36.0,Andreetta Simone,36,Bardiani - CSF,5:07:12 5:07:12,-,21,2017

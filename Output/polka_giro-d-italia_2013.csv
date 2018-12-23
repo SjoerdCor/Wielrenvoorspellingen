@@ -1,0 +1,766 @@
+Age,BIB,Pnt,Prev,Rider,Rnk,Team,\u25bc\u25b2,stage,year
+30,149,3.0,,Visconti Giovanni,1,Movistar Team,,1,2013
+29,79,3.0,,Wurf Cameron,2,Cannondale Pro Cycling Team,,1,2013
+25,16,3.0,,Bonnafond Guillaume,3,AG2R La Mondiale,,1,2013
+24,45,2.0,,Canola Marco,4,Bardiani Valvole - CSF Inox,,1,2013
+25,213,1.0,,Keizer Martijn,5,Vacansoleil - DCM,,1,2013
+23,219,9.0,,Wauters Willem,1,Vacansoleil - DCM,-,3,2013
+30,149,8.0,1.0,Visconti Giovanni,2,Movistar Team,\u25bc1,3,2013
+26,203,5.0,,Boaro Manuele,3,Team Saxo - Tinkoff,-,3,2013
+29,79,3.0,2.0,Wurf Cameron,4,Cannondale Pro Cycling Team,\u25bc2,3,2013
+27,229,3.0,,Taborre Fabio,5,Vini Fantini,-,3,2013
+25,16,3.0,3.0,Bonnafond Guillaume,6,AG2R La Mondiale,\u25bc3,3,2013
+22,33,3.0,,Aru Fabio,7,Astana Pro Team,-,3,2013
+28,32,2.0,,Agnoli Valerio,8,Astana Pro Team,-,3,2013
+28,26,2.0,,Rodriguez Jackson,9,Androni Giocattoli - Venezuela,-,3,2013
+24,45,2.0,4.0,Canola Marco,10,Bardiani Valvole - CSF Inox,\u25bc6,3,2013
+25,213,1.0,5.0,Keizer Martijn,11,Vacansoleil - DCM,\u25bc6,3,2013
+24,88,1.0,,Pantano Jarlinson,12,Team Colombia,-,3,2013
+30,149,13.0,2.0,Visconti Giovanni,1,Movistar Team,\u25b21,4,2013
+23,219,9.0,1.0,Wauters Willem,2,Vacansoleil - DCM,\u25bc1,4,2013
+29,83,9.0,,Chalapud Robinson,3,Team Colombia,-,4,2013
+26,48,5.0,,Pirazzi Stefano,4,Bardiani Valvole - CSF Inox,-,4,2013
+26,203,5.0,3.0,Boaro Manuele,5,Team Saxo - Tinkoff,\u25bc2,4,2013
+37,224,5.0,,Di Luca Danilo,6,Vini Fantini,-,4,2013
+29,79,3.0,4.0,Wurf Cameron,7,Cannondale Pro Cycling Team,\u25bc3,4,2013
+27,229,3.0,5.0,Taborre Fabio,8,Vini Fantini,\u25bc3,4,2013
+26,195,3.0,,Gretsch Patrick,9,Team Argos - Shimano,-,4,2013
+25,16,3.0,6.0,Bonnafond Guillaume,10,AG2R La Mondiale,\u25bc4,4,2013
+22,33,3.0,7.0,Aru Fabio,11,Astana Pro Team,\u25bc4,4,2013
+26,35,2.0,,Kangert Tanel,12,Astana Pro Team,-,4,2013
+28,26,2.0,9.0,Rodriguez Jackson,13,Androni Giocattoli - Venezuela,\u25bc4,4,2013
+28,32,2.0,8.0,Agnoli Valerio,14,Astana Pro Team,\u25bc6,4,2013
+24,45,2.0,10.0,Canola Marco,15,Bardiani Valvole - CSF Inox,\u25bc5,4,2013
+28,31,1.0,,Nibali Vincenzo,16,Astana Pro Team,-,4,2013
+32,169,1.0,,Weening Pieter,17,Orica GreenEDGE,-,4,2013
+25,213,1.0,11.0,Keizer Martijn,18,Vacansoleil - DCM,\u25bc7,4,2013
+24,88,1.0,12.0,Pantano Jarlinson,19,Team Colombia,\u25bc7,4,2013
+30,149,14.0,1.0,Visconti Giovanni,1,Movistar Team,-,5,2013
+26,48,11.0,4.0,Pirazzi Stefano,2,Bardiani Valvole - CSF Inox,\u25b22,5,2013
+29,83,9.0,3.0,Chalapud Robinson,3,Team Colombia,-,5,2013
+23,219,9.0,2.0,Wauters Willem,4,Vacansoleil - DCM,\u25bc2,5,2013
+37,224,5.0,6.0,Di Luca Danilo,5,Vini Fantini,\u25b21,5,2013
+26,203,5.0,5.0,Boaro Manuele,6,Team Saxo - Tinkoff,\u25bc1,5,2013
+29,79,3.0,7.0,Wurf Cameron,7,Cannondale Pro Cycling Team,-,5,2013
+22,33,3.0,11.0,Aru Fabio,8,Astana Pro Team,\u25b23,5,2013
+25,16,3.0,10.0,Bonnafond Guillaume,9,AG2R La Mondiale,\u25b21,5,2013
+26,195,3.0,9.0,Gretsch Patrick,10,Team Argos - Shimano,\u25bc1,5,2013
+27,229,3.0,8.0,Taborre Fabio,11,Vini Fantini,\u25bc3,5,2013
+26,35,2.0,12.0,Kangert Tanel,12,Astana Pro Team,-,5,2013
+25,18,2.0,,Gastauer Ben,13,AG2R La Mondiale,-,5,2013
+28,26,2.0,13.0,Rodriguez Jackson,14,Androni Giocattoli - Venezuela,\u25bc1,5,2013
+28,32,2.0,14.0,Agnoli Valerio,15,Astana Pro Team,\u25bc1,5,2013
+24,45,2.0,15.0,Canola Marco,16,Bardiani Valvole - CSF Inox,\u25bc1,5,2013
+25,133,2.0,,Bulgac Brian,17,Lotto Belisol Team,-,5,2013
+28,31,1.0,16.0,Nibali Vincenzo,18,Astana Pro Team,\u25bc2,5,2013
+25,183,1.0,,Henao Sergio Luis,19,Sky Procycling,-,5,2013
+32,169,1.0,17.0,Weening Pieter,20,Orica GreenEDGE,\u25bc3,5,2013
+24,88,1.0,19.0,Pantano Jarlinson,21,Team Colombia,\u25bc2,5,2013
+25,213,1.0,18.0,Keizer Martijn,22,Vacansoleil - DCM,\u25bc4,5,2013
+28,74,1.0,,Marangoni Alan,23,Cannondale Pro Cycling Team,-,5,2013
+30,149,14.0,1.0,Visconti Giovanni,1,Movistar Team,-,6,2013
+26,48,11.0,2.0,Pirazzi Stefano,2,Bardiani Valvole - CSF Inox,-,6,2013
+29,83,9.0,3.0,Chalapud Robinson,3,Team Colombia,-,6,2013
+23,219,9.0,4.0,Wauters Willem,4,Vacansoleil - DCM,-,6,2013
+37,224,5.0,5.0,Di Luca Danilo,5,Vini Fantini,-,6,2013
+26,203,5.0,6.0,Boaro Manuele,6,Team Saxo - Tinkoff,-,6,2013
+29,79,3.0,7.0,Wurf Cameron,7,Cannondale Pro Cycling Team,-,6,2013
+22,33,3.0,8.0,Aru Fabio,8,Astana Pro Team,-,6,2013
+25,16,3.0,9.0,Bonnafond Guillaume,9,AG2R La Mondiale,-,6,2013
+26,195,3.0,10.0,Gretsch Patrick,10,Team Argos - Shimano,-,6,2013
+27,229,3.0,11.0,Taborre Fabio,11,Vini Fantini,-,6,2013
+26,35,2.0,12.0,Kangert Tanel,12,Astana Pro Team,-,6,2013
+25,18,2.0,13.0,Gastauer Ben,13,AG2R La Mondiale,-,6,2013
+28,26,2.0,14.0,Rodriguez Jackson,14,Androni Giocattoli - Venezuela,-,6,2013
+28,32,2.0,15.0,Agnoli Valerio,15,Astana Pro Team,-,6,2013
+24,45,2.0,16.0,Canola Marco,16,Bardiani Valvole - CSF Inox,-,6,2013
+25,133,2.0,17.0,Bulgac Brian,17,Lotto Belisol Team,-,6,2013
+28,31,1.0,18.0,Nibali Vincenzo,18,Astana Pro Team,-,6,2013
+25,183,1.0,19.0,Henao Sergio Luis,19,Sky Procycling,-,6,2013
+32,169,1.0,20.0,Weening Pieter,20,Orica GreenEDGE,-,6,2013
+24,88,1.0,21.0,Pantano Jarlinson,21,Team Colombia,-,6,2013
+25,213,1.0,22.0,Keizer Martijn,22,Vacansoleil - DCM,-,6,2013
+28,74,1.0,23.0,Marangoni Alan,23,Cannondale Pro Cycling Team,-,6,2013
+30,149,14.0,1.0,Visconti Giovanni,1,Movistar Team,-,7,2013
+32,29,13.0,,Sella Emanuele,2,Androni Giocattoli - Venezuela,-,7,2013
+26,48,12.0,2.0,Pirazzi Stefano,3,Bardiani Valvole - CSF Inox,\u25bc1,7,2013
+31,137,12.0,,Hansen Adam,4,Lotto Belisol Team,-,7,2013
+29,83,9.0,3.0,Chalapud Robinson,5,Team Colombia,\u25bc2,7,2013
+23,219,9.0,4.0,Wauters Willem,6,Vacansoleil - DCM,\u25bc2,7,2013
+37,224,5.0,5.0,Di Luca Danilo,7,Vini Fantini,\u25bc2,7,2013
+26,203,5.0,6.0,Boaro Manuele,8,Team Saxo - Tinkoff,\u25bc2,7,2013
+29,79,3.0,7.0,Wurf Cameron,9,Cannondale Pro Cycling Team,\u25bc2,7,2013
+22,33,3.0,8.0,Aru Fabio,10,Astana Pro Team,\u25bc2,7,2013
+25,16,3.0,9.0,Bonnafond Guillaume,11,AG2R La Mondiale,\u25bc2,7,2013
+30,107,3.0,,Rollin Dominique,12,FDJ.fr,-,7,2013
+27,229,3.0,11.0,Taborre Fabio,13,Vini Fantini,\u25bc2,7,2013
+26,195,3.0,10.0,Gretsch Patrick,14,Team Argos - Shimano,\u25bc4,7,2013
+24,215,3.0,,Ligthart Pim,15,Vacansoleil - DCM,-,7,2013
+26,35,2.0,12.0,Kangert Tanel,16,Astana Pro Team,\u25bc4,7,2013
+28,26,2.0,14.0,Rodriguez Jackson,17,Androni Giocattoli - Venezuela,\u25bc3,7,2013
+25,18,2.0,13.0,Gastauer Ben,18,AG2R La Mondiale,\u25bc5,7,2013
+28,32,2.0,15.0,Agnoli Valerio,19,Astana Pro Team,\u25bc4,7,2013
+24,45,2.0,16.0,Canola Marco,20,Bardiani Valvole - CSF Inox,\u25bc4,7,2013
+32,96,2.0,,Tamouridis Ioannis,21,Euskaltel - Euskadi,-,7,2013
+25,133,2.0,17.0,Bulgac Brian,22,Lotto Belisol Team,\u25bc5,7,2013
+28,31,1.0,18.0,Nibali Vincenzo,23,Astana Pro Team,\u25bc5,7,2013
+32,169,1.0,20.0,Weening Pieter,24,Orica GreenEDGE,\u25bc4,7,2013
+25,183,1.0,19.0,Henao Sergio Luis,25,Sky Procycling,\u25bc6,7,2013
+24,88,1.0,21.0,Pantano Jarlinson,26,Team Colombia,\u25bc5,7,2013
+25,213,1.0,22.0,Keizer Martijn,27,Vacansoleil - DCM,\u25bc5,7,2013
+28,74,1.0,23.0,Marangoni Alan,28,Cannondale Pro Cycling Team,\u25bc5,7,2013
+30,149,14.0,1.0,Visconti Giovanni,1,Movistar Team,-,8,2013
+32,29,13.0,2.0,Sella Emanuele,2,Androni Giocattoli - Venezuela,-,8,2013
+26,48,12.0,3.0,Pirazzi Stefano,3,Bardiani Valvole - CSF Inox,-,8,2013
+32,137,12.0,4.0,Hansen Adam,4,Lotto Belisol Team,-,8,2013
+29,83,9.0,5.0,Chalapud Robinson,5,Team Colombia,-,8,2013
+23,219,9.0,6.0,Wauters Willem,6,Vacansoleil - DCM,-,8,2013
+37,224,5.0,7.0,Di Luca Danilo,7,Vini Fantini,-,8,2013
+26,203,5.0,8.0,Boaro Manuele,8,Team Saxo - Tinkoff,-,8,2013
+29,79,3.0,9.0,Wurf Cameron,9,Cannondale Pro Cycling Team,-,8,2013
+22,33,3.0,10.0,Aru Fabio,10,Astana Pro Team,-,8,2013
+25,16,3.0,11.0,Bonnafond Guillaume,11,AG2R La Mondiale,-,8,2013
+30,107,3.0,12.0,Rollin Dominique,12,FDJ.fr,-,8,2013
+27,229,3.0,13.0,Taborre Fabio,13,Vini Fantini,-,8,2013
+26,195,3.0,14.0,Gretsch Patrick,14,Team Argos - Shimano,-,8,2013
+24,215,3.0,15.0,Ligthart Pim,15,Vacansoleil - DCM,-,8,2013
+26,35,2.0,16.0,Kangert Tanel,16,Astana Pro Team,-,8,2013
+28,26,2.0,17.0,Rodriguez Jackson,17,Androni Giocattoli - Venezuela,-,8,2013
+25,18,2.0,18.0,Gastauer Ben,18,AG2R La Mondiale,-,8,2013
+28,32,2.0,19.0,Agnoli Valerio,19,Astana Pro Team,-,8,2013
+24,45,2.0,20.0,Canola Marco,20,Bardiani Valvole - CSF Inox,-,8,2013
+32,96,2.0,21.0,Tamouridis Ioannis,21,Euskaltel - Euskadi,-,8,2013
+25,133,2.0,22.0,Bulgac Brian,22,Lotto Belisol Team,-,8,2013
+28,31,1.0,23.0,Nibali Vincenzo,23,Astana Pro Team,-,8,2013
+25,183,1.0,25.0,Henao Sergio Luis,24,Sky Procycling,\u25b21,8,2013
+32,169,1.0,24.0,Weening Pieter,25,Orica GreenEDGE,\u25bc1,8,2013
+24,88,1.0,26.0,Pantano Jarlinson,26,Team Colombia,-,8,2013
+25,213,1.0,27.0,Keizer Martijn,27,Vacansoleil - DCM,-,8,2013
+28,74,1.0,28.0,Marangoni Alan,28,Cannondale Pro Cycling Team,-,8,2013
+26,48,38.0,3.0,Pirazzi Stefano,1,Bardiani Valvole - CSF Inox,\u25b22,9,2013
+29,83,23.0,5.0,Chalapud Robinson,2,Team Colombia,\u25b23,9,2013
+30,149,16.0,1.0,Visconti Giovanni,3,Movistar Team,\u25bc2,9,2013
+28,112,13.0,,Belkov Maxim,4,Team Katusha,-,9,2013
+32,29,13.0,2.0,Sella Emanuele,5,Androni Giocattoli - Venezuela,\u25bc3,9,2013
+32,137,12.0,4.0,Hansen Adam,6,Lotto Belisol Team,\u25bc2,9,2013
+23,219,9.0,6.0,Wauters Willem,7,Vacansoleil - DCM,\u25bc1,9,2013
+24,88,9.0,26.0,Pantano Jarlinson,8,Team Colombia,\u25b218,9,2013
+26,203,5.0,8.0,Boaro Manuele,9,Team Saxo - Tinkoff,\u25bc1,9,2013
+37,224,5.0,7.0,Di Luca Danilo,10,Vini Fantini,\u25bc3,9,2013
+29,79,3.0,9.0,Wurf Cameron,11,Cannondale Pro Cycling Team,\u25bc2,9,2013
+30,107,3.0,12.0,Rollin Dominique,12,FDJ.fr,-,9,2013
+24,215,3.0,15.0,Ligthart Pim,13,Vacansoleil - DCM,\u25b22,9,2013
+27,229,3.0,13.0,Taborre Fabio,14,Vini Fantini,\u25bc1,9,2013
+26,195,3.0,14.0,Gretsch Patrick,15,Team Argos - Shimano,\u25bc1,9,2013
+25,16,3.0,11.0,Bonnafond Guillaume,16,AG2R La Mondiale,\u25bc5,9,2013
+22,33,3.0,10.0,Aru Fabio,17,Astana Pro Team,\u25bc7,9,2013
+26,35,2.0,16.0,Kangert Tanel,18,Astana Pro Team,\u25bc2,9,2013
+25,18,2.0,18.0,Gastauer Ben,19,AG2R La Mondiale,\u25bc1,9,2013
+28,26,2.0,17.0,Rodriguez Jackson,20,Androni Giocattoli - Venezuela,\u25bc3,9,2013
+22,197,2.0,,Ludvigsson Tobias,21,Team Argos - Shimano,-,9,2013
+25,133,2.0,22.0,Bulgac Brian,22,Lotto Belisol Team,-,9,2013
+28,32,2.0,19.0,Agnoli Valerio,23,Astana Pro Team,\u25bc4,9,2013
+32,96,2.0,21.0,Tamouridis Ioannis,24,Euskaltel - Euskadi,\u25bc3,9,2013
+24,45,2.0,20.0,Canola Marco,25,Bardiani Valvole - CSF Inox,\u25bc5,9,2013
+28,31,1.0,23.0,Nibali Vincenzo,26,Astana Pro Team,\u25bc3,9,2013
+25,183,1.0,24.0,Henao Sergio Luis,27,Sky Procycling,\u25bc3,9,2013
+37,54,1.0,,Garate Juan Manuel,28,Blanco Pro Cycling Team,-,9,2013
+28,74,1.0,28.0,Marangoni Alan,29,Cannondale Pro Cycling Team,\u25bc1,9,2013
+25,213,1.0,27.0,Keizer Martijn,30,Vacansoleil - DCM,\u25bc3,9,2013
+32,169,1.0,25.0,Weening Pieter,31,Orica GreenEDGE,\u25bc6,9,2013
+26,48,38.0,1.0,Pirazzi Stefano,1,Bardiani Valvole - CSF Inox,-,10,2013
+29,83,23.0,2.0,Chalapud Robinson,2,Team Colombia,-,10,2013
+28,26,17.0,20.0,Rodriguez Jackson,3,Androni Giocattoli - Venezuela,\u25b217,10,2013
+30,149,16.0,3.0,Visconti Giovanni,4,Movistar Team,\u25bc1,10,2013
+26,188,15.0,,Uran Rigoberto,5,Sky Procycling,-,10,2013
+28,112,13.0,4.0,Belkov Maxim,6,Team Katusha,\u25bc2,10,2013
+32,29,13.0,5.0,Sella Emanuele,7,Androni Giocattoli - Venezuela,\u25bc2,10,2013
+32,137,12.0,6.0,Hansen Adam,8,Lotto Belisol Team,\u25bc2,10,2013
+24,88,12.0,8.0,Pantano Jarlinson,9,Team Colombia,\u25bc1,10,2013
+23,219,9.0,7.0,Wauters Willem,10,Vacansoleil - DCM,\u25bc3,10,2013
+27,174,9.0,,Machado Tiago,11,RadioShack - Leopard,-,10,2013
+23,15,9.0,,Betancur Carlos,12,AG2R La Mondiale,-,10,2013
+28,31,6.0,26.0,Nibali Vincenzo,13,Astana Pro Team,\u25b213,10,2013
+26,203,5.0,9.0,Boaro Manuele,14,Team Saxo - Tinkoff,\u25bc5,10,2013
+29,155,5.0,,Pauwels Serge,15,Omega Pharma - Quick-Step,-,10,2013
+37,224,5.0,10.0,Di Luca Danilo,16,Vini Fantini,\u25bc6,10,2013
+29,79,3.0,11.0,Wurf Cameron,17,Cannondale Pro Cycling Team,\u25bc6,10,2013
+28,228,,,Santambrogio Mauro,18*,Vini Fantini,-,10,2013
+28,225,3.0,,Gatto Oscar,18,Vini Fantini,-,10,2013
+26,195,3.0,15.0,Gretsch Patrick,19,Team Argos - Shimano,\u25bc4,10,2013
+30,107,3.0,12.0,Rollin Dominique,20,FDJ.fr,\u25bc8,10,2013
+24,215,3.0,13.0,Ligthart Pim,21,Vacansoleil - DCM,\u25bc8,10,2013
+25,16,3.0,16.0,Bonnafond Guillaume,22,AG2R La Mondiale,\u25bc6,10,2013
+22,33,3.0,17.0,Aru Fabio,23,Astana Pro Team,\u25bc6,10,2013
+36,61,3.0,,Evans Cadel,24,BMC Racing Team,-,10,2013
+32,96,2.0,24.0,Tamouridis Ioannis,25,Euskaltel - Euskadi,\u25bc1,10,2013
+37,54,2.0,28.0,Garate Juan Manuel,26,Blanco Pro Cycling Team,\u25b22,10,2013
+25,133,2.0,22.0,Bulgac Brian,27,Lotto Belisol Team,\u25bc5,10,2013
+26,35,2.0,18.0,Kangert Tanel,28,Astana Pro Team,\u25bc10,10,2013
+25,18,2.0,19.0,Gastauer Ben,29,AG2R La Mondiale,\u25bc10,10,2013
+28,32,2.0,23.0,Agnoli Valerio,30,Astana Pro Team,\u25bc7,10,2013
+34,207,2.0,,Petrov Evgeni,31,Team Saxo - Tinkoff,-,10,2013
+22,197,2.0,21.0,Ludvigsson Tobias,32,Team Argos - Shimano,\u25bc11,10,2013
+24,45,2.0,25.0,Canola Marco,33,Bardiani Valvole - CSF Inox,\u25bc8,10,2013
+23,201,2.0,,Majka Rafa\u0142,34,Team Saxo - Tinkoff,-,10,2013
+25,213,1.0,30.0,Keizer Martijn,35,Vacansoleil - DCM,\u25bc5,10,2013
+28,74,1.0,29.0,Marangoni Alan,36,Cannondale Pro Cycling Team,\u25bc7,10,2013
+25,183,1.0,27.0,Henao Sergio Luis,37,Sky Procycling,\u25bc10,10,2013
+32,169,1.0,31.0,Weening Pieter,38,Orica GreenEDGE,\u25bc7,10,2013
+26,48,46.0,1,Pirazzi Stefano,1,Bardiani Valvole - CSF Inox,-,11,2013
+28,26,26.0,3,Rodriguez Jackson,2,Androni Giocattoli - Venezuela,\u25b21,11,2013
+29,83,23.0,2,Chalapud Robinson,3,Team Colombia,\u25bc1,11,2013
+30,149,16.0,4,Visconti Giovanni,4,Movistar Team,-,11,2013
+26,188,15.0,5,Uran Rigoberto,5,Sky Procycling,-,11,2013
+32,29,13.0,7,Sella Emanuele,6,Androni Giocattoli - Venezuela,\u25b21,11,2013
+28,112,13.0,6,Belkov Maxim,7,Team Katusha,\u25bc1,11,2013
+32,137,12.0,8,Hansen Adam,8,Lotto Belisol Team,-,11,2013
+24,88,12.0,9,Pantano Jarlinson,9,Team Colombia,-,11,2013
+23,219,9.0,10,Wauters Willem,10,Vacansoleil - DCM,-,11,2013
+25,7,9.0,,Navardauskas Ramunas,11,Garmin Sharp,-,11,2013
+27,174,9.0,11,Machado Tiago,12,RadioShack - Leopard,\u25bc1,11,2013
+23,15,9.0,12,Betancur Carlos,13,AG2R La Mondiale,\u25bc1,11,2013
+28,31,6.0,13,Nibali Vincenzo,14,Astana Pro Team,\u25bc1,11,2013
+25,16,6.0,22,Bonnafond Guillaume,15,AG2R La Mondiale,\u25b27,11,2013
+29,155,6.0,15,Pauwels Serge,16,Omega Pharma - Quick-Step,\u25bc1,11,2013
+26,66,5.0,,Oss Daniel,17,BMC Racing Team,-,11,2013
+37,224,5.0,16,Di Luca Danilo,18,Vini Fantini,\u25bc2,11,2013
+26,203,5.0,14,Boaro Manuele,19,Team Saxo - Tinkoff,\u25bc5,11,2013
+29,79,3.0,17,Wurf Cameron,20,Cannondale Pro Cycling Team,\u25bc3,11,2013
+28,228,,18*,Santambrogio Mauro,21*,Vini Fantini,-,11,2013
+28,225,3.0,18,Gatto Oscar,21,Vini Fantini,\u25bc3,11,2013
+24,215,3.0,21,Ligthart Pim,22,Vacansoleil - DCM,\u25bc1,11,2013
+26,195,3.0,19,Gretsch Patrick,23,Team Argos - Shimano,\u25bc4,11,2013
+22,33,3.0,23,Aru Fabio,24,Astana Pro Team,\u25bc1,11,2013
+30,107,3.0,20,Rollin Dominique,25,FDJ.fr,\u25bc5,11,2013
+36,61,3.0,24,Evans Cadel,26,BMC Racing Team,\u25bc2,11,2013
+32,96,2.0,25,Tamouridis Ioannis,27,Euskaltel - Euskadi,\u25bc2,11,2013
+37,54,2.0,26,Garate Juan Manuel,28,Blanco Pro Cycling Team,\u25bc2,11,2013
+35,58,2.0,,Tjallingii Maarten,29,Blanco Pro Cycling Team,-,11,2013
+26,35,2.0,28,Kangert Tanel,30,Astana Pro Team,\u25bc2,11,2013
+25,18,2.0,29,Gastauer Ben,31,AG2R La Mondiale,\u25bc2,11,2013
+28,32,2.0,30,Agnoli Valerio,32,Astana Pro Team,\u25bc2,11,2013
+22,197,2.0,32,Ludvigsson Tobias,33,Team Argos - Shimano,\u25bc1,11,2013
+25,133,2.0,27,Bulgac Brian,34,Lotto Belisol Team,\u25bc7,11,2013
+23,186,2.0,,Puccio Salvatore,35,Sky Procycling,-,11,2013
+34,207,2.0,31,Petrov Evgeni,36,Team Saxo - Tinkoff,\u25bc5,11,2013
+26,77,2.0,,Sarmiento Jose Cayetano,37,Cannondale Pro Cycling Team,-,11,2013
+24,45,2.0,33,Canola Marco,38,Bardiani Valvole - CSF Inox,\u25bc5,11,2013
+28,74,2.0,36,Marangoni Alan,39,Cannondale Pro Cycling Team,\u25bc3,11,2013
+32,169,1.0,38,Weening Pieter,40,Orica GreenEDGE,\u25bc2,11,2013
+25,213,1.0,35,Keizer Martijn,41,Vacansoleil - DCM,\u25bc6,11,2013
+25,183,1.0,37,Henao Sergio Luis,42,Sky Procycling,\u25bc5,11,2013
+23,201,1.0,34,Majka Rafa\u0142,43,Team Saxo - Tinkoff,\u25bc9,11,2013
+31,113,1.0,,Brutt Pavel,44,Team Katusha,-,11,2013
+29,57,1.0,,Martens Paul,45,Blanco Pro Cycling Team,-,11,2013
+26,48,46.0,1,Pirazzi Stefano,1,Bardiani Valvole - CSF Inox,-,12,2013
+28,26,26.0,2,Rodriguez Jackson,2,Androni Giocattoli - Venezuela,-,12,2013
+29,83,23.0,3,Chalapud Robinson,3,Team Colombia,-,12,2013
+28,112,18.0,7,Belkov Maxim,4,Team Katusha,\u25b23,12,2013
+30,149,16.0,4,Visconti Giovanni,5,Movistar Team,\u25bc1,12,2013
+26,188,15.0,5,Uran Rigoberto,6,Sky Procycling,\u25bc1,12,2013
+32,29,13.0,6,Sella Emanuele,7,Androni Giocattoli - Venezuela,\u25bc1,12,2013
+32,137,12.0,8,Hansen Adam,8,Lotto Belisol Team,-,12,2013
+24,88,12.0,9,Pantano Jarlinson,9,Team Colombia,-,12,2013
+25,7,9.0,11,Navardauskas Ramunas,10,Garmin Sharp,\u25b21,12,2013
+23,219,9.0,10,Wauters Willem,11,Vacansoleil - DCM,\u25bc1,12,2013
+23,15,9.0,13,Betancur Carlos,12,AG2R La Mondiale,\u25b21,12,2013
+27,174,9.0,12,Machado Tiago,13,RadioShack - Leopard,\u25bc1,12,2013
+28,31,6.0,14,Nibali Vincenzo,14,Astana Pro Team,-,12,2013
+29,155,6.0,16,Pauwels Serge,15,Omega Pharma - Quick-Step,\u25b21,12,2013
+25,16,6.0,15,Bonnafond Guillaume,16,AG2R La Mondiale,\u25bc1,12,2013
+37,224,5.0,18,Di Luca Danilo,17,Vini Fantini,\u25b21,12,2013
+26,203,5.0,19,Boaro Manuele,18,Team Saxo - Tinkoff,\u25b21,12,2013
+26,66,5.0,17,Oss Daniel,19,BMC Racing Team,\u25bc2,12,2013
+29,211,4.0,,Marcato Marco,20,Vacansoleil - DCM,-,12,2013
+29,79,3.0,20,Wurf Cameron,21,Cannondale Pro Cycling Team,\u25bc1,12,2013
+28,228,,21*,Santambrogio Mauro,22*,Vini Fantini,-,12,2013
+23,23,3.0,,Felline Fabio,22,Androni Giocattoli - Venezuela,-,12,2013
+22,33,3.0,24,Aru Fabio,23,Astana Pro Team,\u25b21,12,2013
+26,195,3.0,23,Gretsch Patrick,24,Team Argos - Shimano,\u25bc1,12,2013
+30,107,3.0,25,Rollin Dominique,25,FDJ.fr,-,12,2013
+28,225,3.0,21,Gatto Oscar,26,Vini Fantini,\u25bc5,12,2013
+24,215,3.0,22,Ligthart Pim,27,Vacansoleil - DCM,\u25bc5,12,2013
+36,61,3.0,26,Evans Cadel,28,BMC Racing Team,\u25bc2,12,2013
+26,35,2.0,30,Kangert Tanel,29,Astana Pro Team,\u25b21,12,2013
+34,207,2.0,36,Petrov Evgeni,30,Team Saxo - Tinkoff,\u25b26,12,2013
+37,54,2.0,28,Garate Juan Manuel,31,Blanco Pro Cycling Team,\u25bc3,12,2013
+28,32,2.0,32,Agnoli Valerio,32,Astana Pro Team,-,12,2013
+26,77,2.0,37,Sarmiento Jose Cayetano,33,Cannondale Pro Cycling Team,\u25b24,12,2013
+25,18,2.0,31,Gastauer Ben,34,AG2R La Mondiale,\u25bc3,12,2013
+23,186,2.0,35,Puccio Salvatore,35,Sky Procycling,-,12,2013
+35,58,2.0,29,Tjallingii Maarten,36,Blanco Pro Cycling Team,\u25bc7,12,2013
+22,197,2.0,33,Ludvigsson Tobias,37,Team Argos - Shimano,\u25bc4,12,2013
+32,96,2.0,27,Tamouridis Ioannis,38,Euskaltel - Euskadi,\u25bc11,12,2013
+24,45,2.0,38,Canola Marco,39,Bardiani Valvole - CSF Inox,\u25bc1,12,2013
+25,133,2.0,34,Bulgac Brian,40,Lotto Belisol Team,\u25bc6,12,2013
+23,201,2.0,43,Majka Rafa\u0142,41,Team Saxo - Tinkoff,\u25b22,12,2013
+25,183,1.0,42,Henao Sergio Luis,42,Sky Procycling,-,12,2013
+32,169,1.0,40,Weening Pieter,43,Orica GreenEDGE,\u25bc3,12,2013
+29,57,1.0,45,Martens Paul,44,Blanco Pro Cycling Team,\u25b21,12,2013
+25,213,1.0,41,Keizer Martijn,45,Vacansoleil - DCM,\u25bc4,12,2013
+31,113,1.0,44,Brutt Pavel,46,Team Katusha,\u25bc2,12,2013
+28,74,1.0,39,Marangoni Alan,47,Cannondale Pro Cycling Team,\u25bc8,12,2013
+26,48,46.0,1,Pirazzi Stefano,1,Bardiani Valvole - CSF Inox,-,13,2013
+28,26,26.0,2,Rodriguez Jackson,2,Androni Giocattoli - Venezuela,-,13,2013
+29,83,23.0,3,Chalapud Robinson,3,Team Colombia,-,13,2013
+28,112,18.0,4,Belkov Maxim,4,Team Katusha,-,13,2013
+30,149,16.0,5,Visconti Giovanni,5,Movistar Team,-,13,2013
+26,188,15.0,6,Uran Rigoberto,6,Sky Procycling,-,13,2013
+32,29,13.0,7,Sella Emanuele,7,Androni Giocattoli - Venezuela,-,13,2013
+32,137,12.0,8,Hansen Adam,8,Lotto Belisol Team,-,13,2013
+24,88,12.0,9,Pantano Jarlinson,9,Team Colombia,-,13,2013
+25,7,9.0,10,Navardauskas Ramunas,10,Garmin Sharp,-,13,2013
+23,219,9.0,11,Wauters Willem,11,Vacansoleil - DCM,-,13,2013
+23,15,9.0,12,Betancur Carlos,12,AG2R La Mondiale,-,13,2013
+27,174,9.0,13,Machado Tiago,13,RadioShack - Leopard,-,13,2013
+28,31,6.0,14,Nibali Vincenzo,14,Astana Pro Team,-,13,2013
+29,155,6.0,15,Pauwels Serge,15,Omega Pharma - Quick-Step,-,13,2013
+25,16,6.0,16,Bonnafond Guillaume,16,AG2R La Mondiale,-,13,2013
+37,224,5.0,17,Di Luca Danilo,17,Vini Fantini,-,13,2013
+26,203,5.0,18,Boaro Manuele,18,Team Saxo - Tinkoff,-,13,2013
+26,66,5.0,19,Oss Daniel,19,BMC Racing Team,-,13,2013
+29,211,4.0,20,Marcato Marco,20,Vacansoleil - DCM,-,13,2013
+29,79,3.0,21,Wurf Cameron,21,Cannondale Pro Cycling Team,-,13,2013
+28,228,,22*,Santambrogio Mauro,22*,Vini Fantini,-,13,2013
+23,23,3.0,22,Felline Fabio,22,Androni Giocattoli - Venezuela,-,13,2013
+22,33,3.0,23,Aru Fabio,23,Astana Pro Team,-,13,2013
+26,195,3.0,24,Gretsch Patrick,24,Team Argos - Shimano,-,13,2013
+30,107,3.0,25,Rollin Dominique,25,FDJ.fr,-,13,2013
+28,225,3.0,26,Gatto Oscar,26,Vini Fantini,-,13,2013
+24,215,3.0,27,Ligthart Pim,27,Vacansoleil - DCM,-,13,2013
+36,61,3.0,28,Evans Cadel,28,BMC Racing Team,-,13,2013
+26,35,2.0,29,Kangert Tanel,29,Astana Pro Team,-,13,2013
+34,207,2.0,30,Petrov Evgeni,30,Team Saxo - Tinkoff,-,13,2013
+37,54,2.0,31,Garate Juan Manuel,31,Blanco Pro Cycling Team,-,13,2013
+28,32,2.0,32,Agnoli Valerio,32,Astana Pro Team,-,13,2013
+26,77,2.0,33,Sarmiento Jose Cayetano,33,Cannondale Pro Cycling Team,-,13,2013
+25,18,2.0,34,Gastauer Ben,34,AG2R La Mondiale,-,13,2013
+23,186,2.0,35,Puccio Salvatore,35,Sky Procycling,-,13,2013
+35,58,2.0,36,Tjallingii Maarten,36,Blanco Pro Cycling Team,-,13,2013
+22,197,2.0,37,Ludvigsson Tobias,37,Team Argos - Shimano,-,13,2013
+32,96,2.0,38,Tamouridis Ioannis,38,Euskaltel - Euskadi,-,13,2013
+24,45,2.0,39,Canola Marco,39,Bardiani Valvole - CSF Inox,-,13,2013
+25,133,2.0,40,Bulgac Brian,40,Lotto Belisol Team,-,13,2013
+23,201,2.0,41,Majka Rafa\u0142,41,Team Saxo - Tinkoff,-,13,2013
+25,183,1.0,42,Henao Sergio Luis,42,Sky Procycling,-,13,2013
+32,169,1.0,43,Weening Pieter,43,Orica GreenEDGE,-,13,2013
+29,57,1.0,44,Martens Paul,44,Blanco Pro Cycling Team,-,13,2013
+25,213,1.0,45,Keizer Martijn,45,Vacansoleil - DCM,-,13,2013
+31,113,1.0,46,Brutt Pavel,46,Team Katusha,-,13,2013
+28,74,1.0,47,Marangoni Alan,47,Cannondale Pro Cycling Team,-,13,2013
+26,48,47.0,1,Pirazzi Stefano,1,Bardiani Valvole - CSF Inox,-,14,2013
+28,26,26.0,2,Rodriguez Jackson,2,Androni Giocattoli - Venezuela,-,14,2013
+29,83,23.0,3,Chalapud Robinson,3,Team Colombia,-,14,2013
+28,228,,22*,Santambrogio Mauro,4*,Vini Fantini,-,14,2013
+28,112,18.0,4,Belkov Maxim,4,Team Katusha,-,14,2013
+26,188,18.0,6,Uran Rigoberto,5,Sky Procycling,\u25b21,14,2013
+30,149,17.0,5,Visconti Giovanni,6,Movistar Team,\u25bc1,14,2013
+28,31,16.0,14,Nibali Vincenzo,7,Astana Pro Team,\u25b27,14,2013
+23,15,15.0,12,Betancur Carlos,8,AG2R La Mondiale,\u25b24,14,2013
+32,29,14.0,7,Sella Emanuele,9,Androni Giocattoli - Venezuela,\u25bc2,14,2013
+32,137,13.0,8,Hansen Adam,10,Lotto Belisol Team,\u25bc2,14,2013
+24,88,12.0,9,Pantano Jarlinson,11,Team Colombia,\u25bc2,14,2013
+25,7,12.0,10,Navardauskas Ramunas,12,Garmin Sharp,\u25bc2,14,2013
+23,219,9.0,11,Wauters Willem,13,Vacansoleil - DCM,\u25bc2,14,2013
+27,174,9.0,13,Machado Tiago,14,RadioShack - Leopard,\u25bc1,14,2013
+29,155,9.0,15,Pauwels Serge,15,Omega Pharma - Quick-Step,-,14,2013
+25,16,6.0,16,Bonnafond Guillaume,16,AG2R La Mondiale,-,14,2013
+23,43,6.0,,Boem Nicola,17,Bardiani Valvole - CSF Inox,-,14,2013
+37,224,5.0,17,Di Luca Danilo,18,Vini Fantini,\u25bc1,14,2013
+26,203,5.0,18,Boaro Manuele,19,Team Saxo - Tinkoff,\u25bc1,14,2013
+26,66,5.0,19,Oss Daniel,20,BMC Racing Team,\u25bc1,14,2013
+29,211,5.0,20,Marcato Marco,21,Vacansoleil - DCM,\u25bc1,14,2013
+29,79,4.0,21,Wurf Cameron,22,Cannondale Pro Cycling Team,\u25bc1,14,2013
+36,61,3.0,28,Evans Cadel,23,BMC Racing Team,\u25b25,14,2013
+35,91,3.0,,S\xe1nchez Samuel,24,Euskaltel - Euskadi,-,14,2013
+23,23,3.0,22,Felline Fabio,25,Androni Giocattoli - Venezuela,\u25bc3,14,2013
+22,33,3.0,23,Aru Fabio,26,Astana Pro Team,\u25bc3,14,2013
+30,107,3.0,25,Rollin Dominique,27,FDJ.fr,\u25bc2,14,2013
+28,225,3.0,26,Gatto Oscar,28,Vini Fantini,\u25bc2,14,2013
+26,195,3.0,24,Gretsch Patrick,29,Team Argos - Shimano,\u25bc5,14,2013
+33,131,3.0,,Bak Lars Ytting,30,Lotto Belisol Team,-,14,2013
+24,215,3.0,27,Ligthart Pim,31,Vacansoleil - DCM,\u25bc4,14,2013
+26,35,3.0,29,Kangert Tanel,32,Astana Pro Team,\u25bc3,14,2013
+34,207,2.0,30,Petrov Evgeni,33,Team Saxo - Tinkoff,\u25bc3,14,2013
+37,54,2.0,31,Garate Juan Manuel,34,Blanco Pro Cycling Team,\u25bc3,14,2013
+28,32,2.0,32,Agnoli Valerio,35,Astana Pro Team,\u25bc3,14,2013
+25,18,2.0,34,Gastauer Ben,36,AG2R La Mondiale,\u25bc2,14,2013
+26,77,2.0,33,Sarmiento Jose Cayetano,37,Cannondale Pro Cycling Team,\u25bc4,14,2013
+23,186,2.0,35,Puccio Salvatore,38,Sky Procycling,\u25bc3,14,2013
+37,147,2.0,,Lastras Pablo,39,Movistar Team,-,14,2013
+35,58,2.0,36,Tjallingii Maarten,40,Blanco Pro Cycling Team,\u25bc4,14,2013
+22,197,2.0,37,Ludvigsson Tobias,41,Team Argos - Shimano,\u25bc4,14,2013
+24,45,2.0,39,Canola Marco,42,Bardiani Valvole - CSF Inox,\u25bc3,14,2013
+32,96,2.0,38,Tamouridis Ioannis,43,Euskaltel - Euskadi,\u25bc5,14,2013
+25,133,2.0,40,Bulgac Brian,44,Lotto Belisol Team,\u25bc4,14,2013
+23,201,2.0,41,Majka Rafa\u0142,45,Team Saxo - Tinkoff,\u25bc4,14,2013
+25,183,1.0,42,Henao Sergio Luis,46,Sky Procycling,\u25bc4,14,2013
+32,169,1.0,43,Weening Pieter,47,Orica GreenEDGE,\u25bc4,14,2013
+29,57,1.0,44,Martens Paul,48,Blanco Pro Cycling Team,\u25bc4,14,2013
+25,213,1.0,45,Keizer Martijn,49,Vacansoleil - DCM,\u25bc4,14,2013
+31,113,1.0,46,Brutt Pavel,50,Team Katusha,\u25bc4,14,2013
+28,74,1.0,47,Marangoni Alan,51,Cannondale Pro Cycling Team,\u25bc4,14,2013
+26,48,65.0,1,Pirazzi Stefano,1,Bardiani Valvole - CSF Inox,-,15,2013
+30,149,42.0,6,Visconti Giovanni,2,Movistar Team,\u25b24,15,2013
+29,83,28.0,3,Chalapud Robinson,3,Team Colombia,-,15,2013
+28,26,26.0,2,Rodriguez Jackson,4,Androni Giocattoli - Venezuela,\u25bc2,15,2013
+23,15,23.0,8,Betancur Carlos,5,AG2R La Mondiale,\u25b23,15,2013
+28,228,,4*,Santambrogio Mauro,6*,Vini Fantini,-,15,2013
+28,112,18.0,4,Belkov Maxim,6,Team Katusha,\u25bc2,15,2013
+26,188,18.0,5,Uran Rigoberto,7,Sky Procycling,\u25bc2,15,2013
+28,31,17.0,7,Nibali Vincenzo,8,Astana Pro Team,\u25bc1,15,2013
+32,29,15.0,9,Sella Emanuele,9,Androni Giocattoli - Venezuela,-,15,2013
+32,137,13.0,10,Hansen Adam,10,Lotto Belisol Team,-,15,2013
+24,88,12.0,11,Pantano Jarlinson,11,Team Colombia,-,15,2013
+25,7,12.0,12,Navardauskas Ramunas,12,Garmin Sharp,-,15,2013
+23,219,9.0,13,Wauters Willem,13,Vacansoleil - DCM,-,15,2013
+27,174,9.0,14,Machado Tiago,14,RadioShack - Leopard,-,15,2013
+32,169,9.0,47,Weening Pieter,15,Orica GreenEDGE,\u25b232,15,2013
+22,44,9.0,,Bongiorno Francesco Manuel,16,Bardiani Valvole - CSF Inox,-,15,2013
+29,155,9.0,15,Pauwels Serge,17,Omega Pharma - Quick-Step,\u25bc2,15,2013
+25,16,6.0,16,Bonnafond Guillaume,18,AG2R La Mondiale,\u25bc2,15,2013
+23,43,6.0,17,Boem Nicola,19,Bardiani Valvole - CSF Inox,\u25bc2,15,2013
+33,125,5.0,,Niemiec Przemyslaw,20,Lampre - Merida,-,15,2013
+37,224,5.0,18,Di Luca Danilo,21,Vini Fantini,\u25bc3,15,2013
+26,203,5.0,19,Boaro Manuele,22,Team Saxo - Tinkoff,\u25bc3,15,2013
+26,66,5.0,20,Oss Daniel,23,BMC Racing Team,\u25bc3,15,2013
+29,211,5.0,21,Marcato Marco,24,Vacansoleil - DCM,\u25bc3,15,2013
+23,201,4.0,45,Majka Rafa\u0142,25,Team Saxo - Tinkoff,\u25b220,15,2013
+29,79,4.0,22,Wurf Cameron,26,Cannondale Pro Cycling Team,\u25bc4,15,2013
+36,61,3.0,23,Evans Cadel,27,BMC Racing Team,\u25bc4,15,2013
+35,91,3.0,24,S\xe1nchez Samuel,28,Euskaltel - Euskadi,\u25bc4,15,2013
+23,23,3.0,25,Felline Fabio,29,Androni Giocattoli - Venezuela,\u25bc4,15,2013
+25,227,3.0,,Rabottini Matteo,30,Vini Fantini,-,15,2013
+22,33,3.0,26,Aru Fabio,31,Astana Pro Team,\u25bc5,15,2013
+30,107,3.0,27,Rollin Dominique,32,FDJ.fr,\u25bc5,15,2013
+28,225,3.0,28,Gatto Oscar,33,Vini Fantini,\u25bc5,15,2013
+26,195,3.0,29,Gretsch Patrick,34,Team Argos - Shimano,\u25bc5,15,2013
+33,131,3.0,30,Bak Lars Ytting,35,Lotto Belisol Team,\u25bc5,15,2013
+24,215,3.0,31,Ligthart Pim,36,Vacansoleil - DCM,\u25bc5,15,2013
+26,35,3.0,32,Kangert Tanel,37,Astana Pro Team,\u25bc5,15,2013
+34,207,2.0,33,Petrov Evgeni,38,Team Saxo - Tinkoff,\u25bc5,15,2013
+26,84,2.0,,Duarte Fabio,39,Team Colombia,-,15,2013
+37,54,2.0,34,Garate Juan Manuel,40,Blanco Pro Cycling Team,\u25bc6,15,2013
+28,32,2.0,35,Agnoli Valerio,41,Astana Pro Team,\u25bc6,15,2013
+25,18,2.0,36,Gastauer Ben,42,AG2R La Mondiale,\u25bc6,15,2013
+26,77,2.0,37,Sarmiento Jose Cayetano,43,Cannondale Pro Cycling Team,\u25bc6,15,2013
+23,186,2.0,38,Puccio Salvatore,44,Sky Procycling,\u25bc6,15,2013
+37,147,2.0,39,Lastras Pablo,45,Movistar Team,\u25bc6,15,2013
+35,58,2.0,40,Tjallingii Maarten,46,Blanco Pro Cycling Team,\u25bc6,15,2013
+22,197,2.0,41,Ludvigsson Tobias,47,Team Argos - Shimano,\u25bc6,15,2013
+24,45,2.0,42,Canola Marco,48,Bardiani Valvole - CSF Inox,\u25bc6,15,2013
+32,96,2.0,43,Tamouridis Ioannis,49,Euskaltel - Euskadi,\u25bc6,15,2013
+25,133,2.0,44,Bulgac Brian,50,Lotto Belisol Team,\u25bc6,15,2013
+33,121,2.0,,Scarponi Michele,51,Lampre - Merida,-,15,2013
+25,183,1.0,46,Henao Sergio Luis,52,Sky Procycling,\u25bc6,15,2013
+28,28,1.0,,Rubiano Miguel Angel,53,Androni Giocattoli - Venezuela,-,15,2013
+29,57,1.0,48,Martens Paul,54,Blanco Pro Cycling Team,\u25bc6,15,2013
+25,213,1.0,49,Keizer Martijn,55,Vacansoleil - DCM,\u25bc6,15,2013
+31,113,1.0,50,Brutt Pavel,56,Team Katusha,\u25bc6,15,2013
+28,74,1.0,51,Marangoni Alan,57,Cannondale Pro Cycling Team,\u25bc6,15,2013
+26,48,79.0,1,Pirazzi Stefano,1,Bardiani Valvole - CSF Inox,-,16,2013
+30,149,42.0,2,Visconti Giovanni,2,Movistar Team,-,16,2013
+28,26,41.0,4,Rodriguez Jackson,3,Androni Giocattoli - Venezuela,\u25b21,16,2013
+23,15,32.0,5,Betancur Carlos,4,AG2R La Mondiale,\u25b21,16,2013
+29,83,28.0,3,Chalapud Robinson,5,Team Colombia,\u25bc2,16,2013
+28,228,,6*,Santambrogio Mauro,6*,Vini Fantini,-,16,2013
+28,112,18.0,6,Belkov Maxim,6,Team Katusha,-,16,2013
+26,188,18.0,7,Uran Rigoberto,7,Sky Procycling,-,16,2013
+28,31,17.0,8,Nibali Vincenzo,8,Astana Pro Team,-,16,2013
+32,29,15.0,9,Sella Emanuele,9,Androni Giocattoli - Venezuela,-,16,2013
+32,137,13.0,10,Hansen Adam,10,Lotto Belisol Team,-,16,2013
+24,88,12.0,11,Pantano Jarlinson,11,Team Colombia,-,16,2013
+25,7,12.0,12,Navardauskas Ramunas,12,Garmin Sharp,-,16,2013
+23,219,9.0,13,Wauters Willem,13,Vacansoleil - DCM,-,16,2013
+27,174,9.0,14,Machado Tiago,14,RadioShack - Leopard,-,16,2013
+32,169,9.0,15,Weening Pieter,15,Orica GreenEDGE,-,16,2013
+22,44,9.0,16,Bongiorno Francesco Manuel,16,Bardiani Valvole - CSF Inox,-,16,2013
+23,201,9.0,25,Majka Rafa\u0142,17,Team Saxo - Tinkoff,\u25b28,16,2013
+29,155,6.0,17,Pauwels Serge,18,Omega Pharma - Quick-Step,\u25bc1,16,2013
+25,16,6.0,18,Bonnafond Guillaume,19,AG2R La Mondiale,\u25bc1,16,2013
+23,43,6.0,19,Boem Nicola,20,Bardiani Valvole - CSF Inox,\u25bc1,16,2013
+33,125,5.0,20,Niemiec Przemyslaw,21,Lampre - Merida,\u25bc1,16,2013
+37,224,5.0,21,Di Luca Danilo,22,Vini Fantini,\u25bc1,16,2013
+34,128,5.0,,Serpa Jose Rodolfo,23,Lampre - Merida,-,16,2013
+26,203,5.0,22,Boaro Manuele,24,Team Saxo - Tinkoff,\u25bc2,16,2013
+26,66,5.0,23,Oss Daniel,25,BMC Racing Team,\u25bc2,16,2013
+29,211,5.0,24,Marcato Marco,26,Vacansoleil - DCM,\u25bc2,16,2013
+33,121,4.0,51,Scarponi Michele,27,Lampre - Merida,\u25b224,16,2013
+29,79,4.0,26,Wurf Cameron,28,Cannondale Pro Cycling Team,\u25bc2,16,2013
+36,61,3.0,27,Evans Cadel,29,BMC Racing Team,\u25bc2,16,2013
+26,35,3.0,37,Kangert Tanel,30,Astana Pro Team,\u25b27,16,2013
+35,91,3.0,28,S\xe1nchez Samuel,31,Euskaltel - Euskadi,\u25bc3,16,2013
+23,23,3.0,29,Felline Fabio,32,Androni Giocattoli - Venezuela,\u25bc3,16,2013
+25,227,3.0,30,Rabottini Matteo,33,Vini Fantini,\u25bc3,16,2013
+22,33,3.0,31,Aru Fabio,34,Astana Pro Team,\u25bc3,16,2013
+30,107,3.0,32,Rollin Dominique,35,FDJ.fr,\u25bc3,16,2013
+26,195,3.0,34,Gretsch Patrick,36,Team Argos - Shimano,\u25bc2,16,2013
+33,131,3.0,35,Bak Lars Ytting,37,Lotto Belisol Team,\u25bc2,16,2013
+28,225,3.0,33,Gatto Oscar,38,Vini Fantini,\u25bc5,16,2013
+24,215,3.0,36,Ligthart Pim,39,Vacansoleil - DCM,\u25bc3,16,2013
+34,207,3.0,38,Petrov Evgeni,40,Team Saxo - Tinkoff,\u25bc2,16,2013
+26,84,2.0,39,Duarte Fabio,41,Team Colombia,\u25bc2,16,2013
+37,54,2.0,40,Garate Juan Manuel,42,Blanco Pro Cycling Team,\u25bc2,16,2013
+28,32,2.0,41,Agnoli Valerio,43,Astana Pro Team,\u25bc2,16,2013
+25,18,2.0,42,Gastauer Ben,44,AG2R La Mondiale,\u25bc2,16,2013
+23,186,2.0,44,Puccio Salvatore,45,Sky Procycling,\u25bc1,16,2013
+26,77,2.0,43,Sarmiento Jose Cayetano,46,Cannondale Pro Cycling Team,\u25bc3,16,2013
+37,147,2.0,45,Lastras Pablo,47,Movistar Team,\u25bc2,16,2013
+22,197,2.0,47,Ludvigsson Tobias,48,Team Argos - Shimano,\u25bc1,16,2013
+35,58,2.0,46,Tjallingii Maarten,49,Blanco Pro Cycling Team,\u25bc3,16,2013
+24,45,2.0,48,Canola Marco,50,Bardiani Valvole - CSF Inox,\u25bc2,16,2013
+25,133,2.0,50,Bulgac Brian,51,Lotto Belisol Team,\u25bc1,16,2013
+32,96,2.0,49,Tamouridis Ioannis,52,Euskaltel - Euskadi,\u25bc3,16,2013
+25,183,2.0,52,Henao Sergio Luis,53,Sky Procycling,\u25bc1,16,2013
+28,28,1.0,53,Rubiano Miguel Angel,54,Androni Giocattoli - Venezuela,\u25bc1,16,2013
+29,57,1.0,54,Martens Paul,55,Blanco Pro Cycling Team,\u25bc1,16,2013
+25,213,1.0,55,Keizer Martijn,56,Vacansoleil - DCM,\u25bc1,16,2013
+31,113,1.0,56,Brutt Pavel,57,Team Katusha,\u25bc1,16,2013
+28,74,1.0,57,Marangoni Alan,58,Cannondale Pro Cycling Team,\u25bc1,16,2013
+26,48,79.0,1,Pirazzi Stefano,1,Bardiani Valvole - CSF Inox,-,17,2013
+30,149,45.0,2,Visconti Giovanni,2,Movistar Team,-,17,2013
+28,26,41.0,3,Rodriguez Jackson,3,Androni Giocattoli - Venezuela,-,17,2013
+23,15,32.0,4,Betancur Carlos,4,AG2R La Mondiale,-,17,2013
+29,83,31.0,5,Chalapud Robinson,5,Team Colombia,-,17,2013
+28,228,,6*,Santambrogio Mauro,6*,Vini Fantini,-,17,2013
+28,112,18.0,6,Belkov Maxim,6,Team Katusha,-,17,2013
+26,188,18.0,7,Uran Rigoberto,7,Sky Procycling,-,17,2013
+28,31,17.0,8,Nibali Vincenzo,8,Astana Pro Team,-,17,2013
+32,29,15.0,9,Sella Emanuele,9,Androni Giocattoli - Venezuela,-,17,2013
+32,137,13.0,10,Hansen Adam,10,Lotto Belisol Team,-,17,2013
+24,88,12.0,11,Pantano Jarlinson,11,Team Colombia,-,17,2013
+25,7,12.0,12,Navardauskas Ramunas,12,Garmin Sharp,-,17,2013
+23,219,9.0,13,Wauters Willem,13,Vacansoleil - DCM,-,17,2013
+27,174,9.0,14,Machado Tiago,14,RadioShack - Leopard,-,17,2013
+32,169,9.0,15,Weening Pieter,15,Orica GreenEDGE,-,17,2013
+22,44,9.0,16,Bongiorno Francesco Manuel,16,Bardiani Valvole - CSF Inox,-,17,2013
+23,201,9.0,17,Majka Rafa\u0142,17,Team Saxo - Tinkoff,-,17,2013
+37,224,6.0,22,Di Luca Danilo,18,Vini Fantini,\u25b24,17,2013
+29,155,6.0,18,Pauwels Serge,19,Omega Pharma - Quick-Step,\u25bc1,17,2013
+25,16,6.0,19,Bonnafond Guillaume,20,AG2R La Mondiale,\u25bc1,17,2013
+23,43,6.0,20,Boem Nicola,21,Bardiani Valvole - CSF Inox,\u25bc1,17,2013
+33,125,5.0,21,Niemiec Przemyslaw,22,Lampre - Merida,\u25bc1,17,2013
+34,128,5.0,23,Serpa Jose Rodolfo,23,Lampre - Merida,-,17,2013
+26,203,5.0,24,Boaro Manuele,24,Team Saxo - Tinkoff,-,17,2013
+26,66,5.0,25,Oss Daniel,25,BMC Racing Team,-,17,2013
+29,211,5.0,26,Marcato Marco,26,Vacansoleil - DCM,-,17,2013
+33,121,4.0,27,Scarponi Michele,27,Lampre - Merida,-,17,2013
+26,35,4.0,30,Kangert Tanel,28,Astana Pro Team,\u25b22,17,2013
+29,79,4.0,28,Wurf Cameron,29,Cannondale Pro Cycling Team,\u25bc1,17,2013
+36,61,3.0,29,Evans Cadel,30,BMC Racing Team,\u25bc1,17,2013
+35,91,3.0,31,S\xe1nchez Samuel,31,Euskaltel - Euskadi,-,17,2013
+23,23,3.0,32,Felline Fabio,32,Androni Giocattoli - Venezuela,-,17,2013
+22,33,3.0,34,Aru Fabio,33,Astana Pro Team,\u25b21,17,2013
+28,28,3.0,54,Rubiano Miguel Angel,34,Androni Giocattoli - Venezuela,\u25b220,17,2013
+25,227,3.0,33,Rabottini Matteo,35,Vini Fantini,\u25bc2,17,2013
+26,195,3.0,36,Gretsch Patrick,36,Team Argos - Shimano,-,17,2013
+30,107,3.0,35,Rollin Dominique,37,FDJ.fr,\u25bc2,17,2013
+28,225,3.0,38,Gatto Oscar,38,Vini Fantini,-,17,2013
+33,131,3.0,37,Bak Lars Ytting,39,Lotto Belisol Team,\u25bc2,17,2013
+24,215,3.0,39,Ligthart Pim,40,Vacansoleil - DCM,\u25bc1,17,2013
+34,207,3.0,40,Petrov Evgeni,41,Team Saxo - Tinkoff,\u25bc1,17,2013
+26,84,2.0,41,Duarte Fabio,42,Team Colombia,\u25bc1,17,2013
+37,54,2.0,42,Garate Juan Manuel,43,Blanco Pro Cycling Team,\u25bc1,17,2013
+28,32,2.0,43,Agnoli Valerio,44,Astana Pro Team,\u25bc1,17,2013
+25,18,2.0,44,Gastauer Ben,45,AG2R La Mondiale,\u25bc1,17,2013
+23,186,2.0,45,Puccio Salvatore,46,Sky Procycling,\u25bc1,17,2013
+34,98,2.0,,Verdugo Gorka,47,Euskaltel - Euskadi,-,17,2013
+37,147,2.0,47,Lastras Pablo,48,Movistar Team,\u25bc1,17,2013
+26,77,2.0,46,Sarmiento Jose Cayetano,49,Cannondale Pro Cycling Team,\u25bc3,17,2013
+22,197,2.0,48,Ludvigsson Tobias,50,Team Argos - Shimano,\u25bc2,17,2013
+35,58,2.0,49,Tjallingii Maarten,51,Blanco Pro Cycling Team,\u25bc2,17,2013
+24,45,2.0,50,Canola Marco,52,Bardiani Valvole - CSF Inox,\u25bc2,17,2013
+25,133,2.0,51,Bulgac Brian,53,Lotto Belisol Team,\u25bc2,17,2013
+32,96,2.0,52,Tamouridis Ioannis,54,Euskaltel - Euskadi,\u25bc2,17,2013
+25,183,2.0,53,Henao Sergio Luis,55,Sky Procycling,\u25bc2,17,2013
+29,57,1.0,55,Martens Paul,56,Blanco Pro Cycling Team,\u25bc1,17,2013
+25,213,1.0,56,Keizer Martijn,57,Vacansoleil - DCM,\u25bc1,17,2013
+31,113,1.0,57,Brutt Pavel,58,Team Katusha,\u25bc1,17,2013
+28,74,1.0,58,Marangoni Alan,59,Cannondale Pro Cycling Team,\u25bc1,17,2013
+26,48,79.0,1,Pirazzi Stefano,1,Bardiani Valvole - CSF Inox,-,18,2013
+30,149,45.0,2,Visconti Giovanni,2,Movistar Team,-,18,2013
+28,26,41.0,3,Rodriguez Jackson,3,Androni Giocattoli - Venezuela,-,18,2013
+23,15,32.0,4,Betancur Carlos,4,AG2R La Mondiale,-,18,2013
+29,83,31.0,5,Chalapud Robinson,5,Team Colombia,-,18,2013
+28,228,,6*,Santambrogio Mauro,6*,Vini Fantini,-,18,2013
+28,112,18.0,6,Belkov Maxim,6,Team Katusha,-,18,2013
+26,188,18.0,7,Uran Rigoberto,7,Sky Procycling,-,18,2013
+28,31,17.0,8,Nibali Vincenzo,8,Astana Pro Team,-,18,2013
+32,29,15.0,9,Sella Emanuele,9,Androni Giocattoli - Venezuela,-,18,2013
+32,137,13.0,10,Hansen Adam,10,Lotto Belisol Team,-,18,2013
+24,88,12.0,11,Pantano Jarlinson,11,Team Colombia,-,18,2013
+25,7,12.0,12,Navardauskas Ramunas,12,Garmin Sharp,-,18,2013
+23,219,9.0,13,Wauters Willem,13,Vacansoleil - DCM,-,18,2013
+27,174,9.0,14,Machado Tiago,14,RadioShack - Leopard,-,18,2013
+32,169,9.0,15,Weening Pieter,15,Orica GreenEDGE,-,18,2013
+22,44,9.0,16,Bongiorno Francesco Manuel,16,Bardiani Valvole - CSF Inox,-,18,2013
+23,201,9.0,17,Majka Rafa\u0142,17,Team Saxo - Tinkoff,-,18,2013
+37,224,6.0,18,Di Luca Danilo,18,Vini Fantini,-,18,2013
+29,155,6.0,19,Pauwels Serge,19,Omega Pharma - Quick-Step,-,18,2013
+25,16,6.0,20,Bonnafond Guillaume,20,AG2R La Mondiale,-,18,2013
+23,43,6.0,21,Boem Nicola,21,Bardiani Valvole - CSF Inox,-,18,2013
+33,125,5.0,22,Niemiec Przemyslaw,22,Lampre - Merida,-,18,2013
+34,128,5.0,23,Serpa Jose Rodolfo,23,Lampre - Merida,-,18,2013
+26,203,5.0,24,Boaro Manuele,24,Team Saxo - Tinkoff,-,18,2013
+26,66,5.0,25,Oss Daniel,25,BMC Racing Team,-,18,2013
+29,211,5.0,26,Marcato Marco,26,Vacansoleil - DCM,-,18,2013
+33,121,4.0,27,Scarponi Michele,27,Lampre - Merida,-,18,2013
+26,35,4.0,28,Kangert Tanel,28,Astana Pro Team,-,18,2013
+29,79,4.0,29,Wurf Cameron,29,Cannondale Pro Cycling Team,-,18,2013
+36,61,3.0,30,Evans Cadel,30,BMC Racing Team,-,18,2013
+35,91,3.0,31,S\xe1nchez Samuel,31,Euskaltel - Euskadi,-,18,2013
+23,23,3.0,32,Felline Fabio,32,Androni Giocattoli - Venezuela,-,18,2013
+22,33,3.0,33,Aru Fabio,33,Astana Pro Team,-,18,2013
+28,28,3.0,34,Rubiano Miguel Angel,34,Androni Giocattoli - Venezuela,-,18,2013
+25,227,3.0,35,Rabottini Matteo,35,Vini Fantini,-,18,2013
+26,195,3.0,36,Gretsch Patrick,36,Team Argos - Shimano,-,18,2013
+30,107,3.0,37,Rollin Dominique,37,FDJ.fr,-,18,2013
+28,225,3.0,38,Gatto Oscar,38,Vini Fantini,-,18,2013
+33,131,3.0,39,Bak Lars Ytting,39,Lotto Belisol Team,-,18,2013
+24,215,3.0,40,Ligthart Pim,40,Vacansoleil - DCM,-,18,2013
+34,207,3.0,41,Petrov Evgeni,41,Team Saxo - Tinkoff,-,18,2013
+26,84,2.0,42,Duarte Fabio,42,Team Colombia,-,18,2013
+37,54,2.0,43,Garate Juan Manuel,43,Blanco Pro Cycling Team,-,18,2013
+28,32,2.0,44,Agnoli Valerio,44,Astana Pro Team,-,18,2013
+25,18,2.0,45,Gastauer Ben,45,AG2R La Mondiale,-,18,2013
+23,186,2.0,46,Puccio Salvatore,46,Sky Procycling,-,18,2013
+34,98,2.0,47,Verdugo Gorka,47,Euskaltel - Euskadi,-,18,2013
+37,147,2.0,48,Lastras Pablo,48,Movistar Team,-,18,2013
+26,77,2.0,49,Sarmiento Jose Cayetano,49,Cannondale Pro Cycling Team,-,18,2013
+22,197,2.0,50,Ludvigsson Tobias,50,Team Argos - Shimano,-,18,2013
+35,58,2.0,51,Tjallingii Maarten,51,Blanco Pro Cycling Team,-,18,2013
+24,45,2.0,52,Canola Marco,52,Bardiani Valvole - CSF Inox,-,18,2013
+25,133,2.0,53,Bulgac Brian,53,Lotto Belisol Team,-,18,2013
+32,96,2.0,54,Tamouridis Ioannis,54,Euskaltel - Euskadi,-,18,2013
+25,183,2.0,55,Henao Sergio Luis,55,Sky Procycling,-,18,2013
+29,57,1.0,56,Martens Paul,56,Blanco Pro Cycling Team,-,18,2013
+25,213,1.0,57,Keizer Martijn,57,Vacansoleil - DCM,-,18,2013
+31,113,1.0,58,Brutt Pavel,58,Team Katusha,-,18,2013
+28,74,1.0,59,Marangoni Alan,59,Cannondale Pro Cycling Team,-,18,2013
+26,48,82.0,1,Pirazzi Stefano,1,Bardiani Valvole - CSF Inox,-,20,2013
+28,31,45.0,8,Nibali Vincenzo,2,Astana Pro Team,\u25b26,20,2013
+30,149,45.0,2,Visconti Giovanni,3,Movistar Team,\u25bc1,20,2013
+28,26,41.0,3,Rodriguez Jackson,4,Androni Giocattoli - Venezuela,\u25bc1,20,2013
+23,15,37.0,4,Betancur Carlos,5,AG2R La Mondiale,\u25bc1,20,2013
+29,83,31.0,5,Chalapud Robinson,6,Team Colombia,\u25bc1,20,2013
+26,188,26.0,7,Uran Rigoberto,7,Sky Procycling,-,20,2013
+28,228,,6*,Santambrogio Mauro,8*,Vini Fantini,-,20,2013
+26,84,18.0,42,Duarte Fabio,8,Team Colombia,\u25b234,20,2013
+32,169,17.0,15,Weening Pieter,9,Orica GreenEDGE,\u25b26,20,2013
+32,29,14.0,9,Sella Emanuele,10,Androni Giocattoli - Venezuela,\u25bc1,20,2013
+32,137,13.0,10,Hansen Adam,11,Lotto Belisol Team,\u25bc1,20,2013
+24,88,12.0,11,Pantano Jarlinson,12,Team Colombia,\u25bc1,20,2013
+31,113,12.0,58,Brutt Pavel,13,Team Katusha,\u25b245,20,2013
+25,7,10.0,12,Navardauskas Ramunas,14,Garmin Sharp,\u25bc2,20,2013
+23,219,9.0,13,Wauters Willem,15,Vacansoleil - DCM,\u25bc2,20,2013
+22,44,9.0,16,Bongiorno Francesco Manuel,16,Bardiani Valvole - CSF Inox,-,20,2013
+27,174,9.0,14,Machado Tiago,17,RadioShack - Leopard,\u25bc3,20,2013
+35,91,9.0,31,S\xe1nchez Samuel,18,Euskaltel - Euskadi,\u25b213,20,2013
+23,201,8.0,17,Majka Rafa\u0142,19,Team Saxo - Tinkoff,\u25bc2,20,2013
+33,121,7.0,27,Scarponi Michele,20,Lampre - Merida,\u25b27,20,2013
+25,16,6.0,20,Bonnafond Guillaume,21,AG2R La Mondiale,\u25bc1,20,2013
+22,33,6.0,33,Aru Fabio,22,Astana Pro Team,\u25b211,20,2013
+29,155,6.0,19,Pauwels Serge,23,Omega Pharma - Quick-Step,\u25bc4,20,2013
+23,43,6.0,21,Boem Nicola,24,Bardiani Valvole - CSF Inox,\u25bc3,20,2013
+33,125,5.0,22,Niemiec Przemyslaw,25,Lampre - Merida,\u25bc3,20,2013
+34,128,5.0,23,Serpa Jose Rodolfo,26,Lampre - Merida,\u25bc3,20,2013
+26,203,5.0,24,Boaro Manuele,27,Team Saxo - Tinkoff,\u25bc3,20,2013
+26,66,5.0,25,Oss Daniel,28,BMC Racing Team,\u25bc3,20,2013
+29,211,5.0,26,Marcato Marco,29,Vacansoleil - DCM,\u25bc3,20,2013
+26,35,4.0,28,Kangert Tanel,30,Astana Pro Team,\u25bc2,20,2013
+29,79,4.0,29,Wurf Cameron,31,Cannondale Pro Cycling Team,\u25bc2,20,2013
+36,61,3.0,30,Evans Cadel,32,BMC Racing Team,\u25bc2,20,2013
+25,71,3.0,,Caruso Damiano,33,Cannondale Pro Cycling Team,-,20,2013
+23,23,3.0,32,Felline Fabio,34,Androni Giocattoli - Venezuela,\u25bc2,20,2013
+28,28,3.0,34,Rubiano Miguel Angel,35,Androni Giocattoli - Venezuela,\u25bc1,20,2013
+33,131,3.0,39,Bak Lars Ytting,36,Lotto Belisol Team,\u25b23,20,2013
+30,107,3.0,37,Rollin Dominique,37,FDJ.fr,-,20,2013
+24,215,3.0,40,Ligthart Pim,38,Vacansoleil - DCM,\u25b22,20,2013
+26,195,3.0,36,Gretsch Patrick,39,Team Argos - Shimano,\u25bc3,20,2013
+28,225,3.0,38,Gatto Oscar,40,Vini Fantini,\u25bc2,20,2013
+25,227,3.0,35,Rabottini Matteo,41,Vini Fantini,\u25bc6,20,2013
+24,45,3.0,52,Canola Marco,42,Bardiani Valvole - CSF Inox,\u25b210,20,2013
+22,197,2.0,50,Ludvigsson Tobias,43,Team Argos - Shimano,\u25b27,20,2013
+23,186,2.0,46,Puccio Salvatore,44,Sky Procycling,\u25b22,20,2013
+35,207,2.0,41,Petrov Evgeni,45,Team Saxo - Tinkoff,\u25bc4,20,2013
+25,152,2.0,,Brambilla Gianluca,46,Omega Pharma - Quick-Step,-,20,2013
+26,77,2.0,49,Sarmiento Jose Cayetano,47,Cannondale Pro Cycling Team,\u25b22,20,2013
+35,58,2.0,51,Tjallingii Maarten,48,Blanco Pro Cycling Team,\u25b23,20,2013
+25,133,2.0,53,Bulgac Brian,49,Lotto Belisol Team,\u25b24,20,2013
+37,147,2.0,48,Lastras Pablo,50,Movistar Team,\u25bc2,20,2013
+32,96,2.0,54,Tamouridis Ioannis,51,Euskaltel - Euskadi,\u25b23,20,2013
+34,98,2.0,47,Verdugo Gorka,52,Euskaltel - Euskadi,\u25bc5,20,2013
+35,21,2.0,,Pellizotti Franco,53,Androni Giocattoli - Venezuela,-,20,2013
+25,18,2.0,45,Gastauer Ben,54,AG2R La Mondiale,\u25bc9,20,2013
+37,54,2.0,43,Garate Juan Manuel,55,Blanco Pro Cycling Team,\u25bc12,20,2013
+28,32,2.0,44,Agnoli Valerio,56,Astana Pro Team,\u25bc12,20,2013
+30,11,2.0,,Pozzovivo Domenico,57,AG2R La Mondiale,-,20,2013
+29,57,1.0,56,Martens Paul,58,Blanco Pro Cycling Team,\u25bc2,20,2013
+25,183,1.0,55,Henao Sergio Luis,59,Sky Procycling,\u25bc4,20,2013
+26,141,1.0,,Capecchi Eros,60,Movistar Team,-,20,2013
+28,74,1.0,59,Marangoni Alan,61,Cannondale Pro Cycling Team,\u25bc2,20,2013
+25,213,1.0,57,Keizer Martijn,62,Vacansoleil - DCM,\u25bc5,20,2013
+26,48,82.0,1,Pirazzi Stefano,1,Bardiani Valvole - CSF Inox,-,21,2013
+28,31,45.0,2,Nibali Vincenzo,2,Astana Pro Team,-,21,2013
+30,149,45.0,3,Visconti Giovanni,3,Movistar Team,-,21,2013
+28,26,41.0,4,Rodriguez Jackson,4,Androni Giocattoli - Venezuela,-,21,2013
+23,15,37.0,5,Betancur Carlos,5,AG2R La Mondiale,-,21,2013
+29,83,31.0,6,Chalapud Robinson,6,Team Colombia,-,21,2013
+26,188,26.0,7,Uran Rigoberto,7,Sky Procycling,-,21,2013
+28,228,,8*,Santambrogio Mauro,8*,Vini Fantini,-,21,2013
+26,84,18.0,8,Duarte Fabio,8,Team Colombia,-,21,2013
+32,169,17.0,9,Weening Pieter,9,Orica GreenEDGE,-,21,2013
+32,29,14.0,10,Sella Emanuele,10,Androni Giocattoli - Venezuela,-,21,2013
+32,137,13.0,11,Hansen Adam,11,Lotto Belisol Team,-,21,2013
+24,88,12.0,12,Pantano Jarlinson,12,Team Colombia,-,21,2013
+31,113,12.0,13,Brutt Pavel,13,Team Katusha,-,21,2013
+25,7,10.0,14,Navardauskas Ramunas,14,Garmin Sharp,-,21,2013
+23,219,9.0,15,Wauters Willem,15,Vacansoleil - DCM,-,21,2013
+22,44,9.0,16,Bongiorno Francesco Manuel,16,Bardiani Valvole - CSF Inox,-,21,2013
+27,174,9.0,17,Machado Tiago,17,RadioShack - Leopard,-,21,2013
+35,91,9.0,18,S\xe1nchez Samuel,18,Euskaltel - Euskadi,-,21,2013
+23,201,8.0,19,Majka Rafa\u0142,19,Team Saxo - Tinkoff,-,21,2013
+33,121,7.0,20,Scarponi Michele,20,Lampre - Merida,-,21,2013
+25,16,6.0,21,Bonnafond Guillaume,21,AG2R La Mondiale,-,21,2013
+22,33,6.0,22,Aru Fabio,22,Astana Pro Team,-,21,2013
+29,155,6.0,23,Pauwels Serge,23,Omega Pharma - Quick-Step,-,21,2013
+23,43,6.0,24,Boem Nicola,24,Bardiani Valvole - CSF Inox,-,21,2013
+33,125,5.0,25,Niemiec Przemyslaw,25,Lampre - Merida,-,21,2013
+34,128,5.0,26,Serpa Jose Rodolfo,26,Lampre - Merida,-,21,2013
+26,203,5.0,27,Boaro Manuele,27,Team Saxo - Tinkoff,-,21,2013
+26,66,5.0,28,Oss Daniel,28,BMC Racing Team,-,21,2013
+29,211,5.0,29,Marcato Marco,29,Vacansoleil - DCM,-,21,2013
+26,35,4.0,30,Kangert Tanel,30,Astana Pro Team,-,21,2013
+29,79,4.0,31,Wurf Cameron,31,Cannondale Pro Cycling Team,-,21,2013
+36,61,3.0,32,Evans Cadel,32,BMC Racing Team,-,21,2013
+25,71,3.0,33,Caruso Damiano,33,Cannondale Pro Cycling Team,-,21,2013
+23,23,3.0,34,Felline Fabio,34,Androni Giocattoli - Venezuela,-,21,2013
+28,28,3.0,35,Rubiano Miguel Angel,35,Androni Giocattoli - Venezuela,-,21,2013
+33,131,3.0,36,Bak Lars Ytting,36,Lotto Belisol Team,-,21,2013
+30,107,3.0,37,Rollin Dominique,37,FDJ.fr,-,21,2013
+24,215,3.0,38,Ligthart Pim,38,Vacansoleil - DCM,-,21,2013
+26,195,3.0,39,Gretsch Patrick,39,Team Argos - Shimano,-,21,2013
+28,225,3.0,40,Gatto Oscar,40,Vini Fantini,-,21,2013
+25,227,3.0,41,Rabottini Matteo,41,Vini Fantini,-,21,2013
+24,45,3.0,42,Canola Marco,42,Bardiani Valvole - CSF Inox,-,21,2013
+22,197,2.0,43,Ludvigsson Tobias,43,Team Argos - Shimano,-,21,2013
+23,186,2.0,44,Puccio Salvatore,44,Sky Procycling,-,21,2013
+35,207,2.0,45,Petrov Evgeni,45,Team Saxo - Tinkoff,-,21,2013
+25,152,2.0,46,Brambilla Gianluca,46,Omega Pharma - Quick-Step,-,21,2013
+26,77,2.0,47,Sarmiento Jose Cayetano,47,Cannondale Pro Cycling Team,-,21,2013
+35,58,2.0,48,Tjallingii Maarten,48,Blanco Pro Cycling Team,-,21,2013
+25,133,2.0,49,Bulgac Brian,49,Lotto Belisol Team,-,21,2013
+37,147,2.0,50,Lastras Pablo,50,Movistar Team,-,21,2013
+32,96,2.0,51,Tamouridis Ioannis,51,Euskaltel - Euskadi,-,21,2013
+34,98,2.0,52,Verdugo Gorka,52,Euskaltel - Euskadi,-,21,2013
+35,21,2.0,53,Pellizotti Franco,53,Androni Giocattoli - Venezuela,-,21,2013
+25,18,2.0,54,Gastauer Ben,54,AG2R La Mondiale,-,21,2013
+37,54,2.0,55,Garate Juan Manuel,55,Blanco Pro Cycling Team,-,21,2013
+28,32,2.0,56,Agnoli Valerio,56,Astana Pro Team,-,21,2013
+30,11,2.0,57,Pozzovivo Domenico,57,AG2R La Mondiale,-,21,2013
+29,57,1.0,58,Martens Paul,58,Blanco Pro Cycling Team,-,21,2013
+25,183,1.0,59,Henao Sergio Luis,59,Sky Procycling,-,21,2013
+26,141,1.0,60,Capecchi Eros,60,Movistar Team,-,21,2013
+28,74,1.0,61,Marangoni Alan,61,Cannondale Pro Cycling Team,-,21,2013
+25,213,1.0,62,Keizer Martijn,62,Vacansoleil - DCM,-,21,2013

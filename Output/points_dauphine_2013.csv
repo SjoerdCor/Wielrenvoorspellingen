@@ -1,0 +1,287 @@
+Age,BIB,Pnt,Prev,Rider,Rnk,Team,\u25bc\u25b2,stage,year
+25,148,20,,Veilleux David,1,Team Europcar,,1,2013
+27,155,12,,Meersman Gianni,2,Omega Pharma - Quick-Step,,1,2013
+23,55,10,,Slagter Tom-Jelte,3,Blanco Pro Cycling Team,,1,2013
+28,6,8,,Porte Richie,4,Sky Procycling,,1,2013
+28,1,6,,Froome Christopher,5,Sky Procycling,,1,2013
+24,176,5,,Madrazo \xc1ngel,6,Movistar Team,,1,2013
+28,31,4,,Fuglsang Jakob,7,Astana Pro Team,,1,2013
+24,194,3,,Damuseau Thomas,8,Team Argos - Shimano,,1,2013
+33,171,3,,Valverde Alejandro,9,Movistar Team,,1,2013
+25,64,2,,Gallopin Tony,10,RadioShack - Leopard,,1,2013
+25,211,1,,K\xf6nig Leopold,11,Team NetApp \u2013 Endura,,1,2013
+25,104,1,,Garcia Ricardo,12,Euskaltel - Euskadi,,1,2013
+27,155,24,2.0,Meersman Gianni,1,Omega Pharma - Quick-Step,\u25b21,2,2013
+25,148,20,1.0,Veilleux David,2,Team Europcar,\u25bc1,2,2013
+24,168,15,,Viviani Elia,3,Cannondale Pro Cycling Team,-,2,2013
+25,64,12,10.0,Gallopin Tony,4,RadioShack - Leopard,\u25b26,2,2013
+23,55,10,3.0,Slagter Tom-Jelte,5,Blanco Pro Cycling Team,\u25bc2,2,2013
+28,6,8,4.0,Porte Richie,6,Sky Procycling,\u25bc2,2,2013
+24,197,8,,Janse van Rensburg Reinardt,7,Team Argos - Shimano,-,2,2013
+28,1,6,5.0,Froome Christopher,8,Sky Procycling,\u25bc3,2,2013
+32,135,6,,Geslin Anthony,9,FDJ.fr,-,2,2013
+28,215,5,,Mendes Jos\xe9,10,Team NetApp \u2013 Endura,-,2,2013
+24,176,5,6.0,Madrazo \xc1ngel,11,Movistar Team,\u25bc5,2,2013
+24,204,5,,Fonseca Armindo,12,Bretagne - S\xe9ch\xe9 Environnement,-,2,2013
+24,194,4,8.0,Damuseau Thomas,13,Team Argos - Shimano,\u25bc5,2,2013
+28,31,4,7.0,Fuglsang Jakob,14,Astana Pro Team,\u25bc7,2,2013
+34,56,4,,Tankink Bram,15,Blanco Pro Cycling Team,-,2,2013
+28,205,3,,Gerard Arnaud,16,Bretagne - S\xe9ch\xe9 Environnement,-,2,2013
+21,191,3,,Barguil Warren,17,Team Argos - Shimano,-,2,2013
+33,171,3,9.0,Valverde Alejandro,18,Movistar Team,\u25bc9,2,2013
+35,183,2,,Flecha Juan Antonio,19,Vacansoleil - DCM,-,2,2013
+25,211,1,11.0,K\xf6nig Leopold,20,Team NetApp \u2013 Endura,\u25bc9,2,2013
+26,77,1,,Sulzberger Wesley,21,Orica GreenEDGE,-,2,2013
+25,104,1,12.0,Garcia Ricardo,22,Euskaltel - Euskadi,\u25bc10,2,2013
+27,155,34,1.0,Meersman Gianni,1,Omega Pharma - Quick-Step,-,3,2013
+24,168,21,3.0,Viviani Elia,2,Cannondale Pro Cycling Team,\u25b21,3,2013
+25,148,20,2.0,Veilleux David,3,Team Europcar,\u25bc1,3,2013
+26,2,15,,Boasson Hagen Edvald,4,Sky Procycling,-,3,2013
+24,197,13,7.0,Janse van Rensburg Reinardt,5,Team Argos - Shimano,\u25b22,3,2013
+25,64,12,4.0,Gallopin Tony,6,RadioShack - Leopard,\u25bc2,3,2013
+22,75,12,,Matthews Michael,7,Orica GreenEDGE,-,3,2013
+23,55,10,5.0,Slagter Tom-Jelte,8,Blanco Pro Cycling Team,\u25bc3,3,2013
+28,6,8,6.0,Porte Richie,9,Sky Procycling,\u25bc3,3,2013
+35,41,8,,Hushovd Thor,10,BMC Racing Team,-,3,2013
+35,183,7,19.0,Flecha Juan Antonio,11,Vacansoleil - DCM,\u25b28,3,2013
+28,1,6,8.0,Froome Christopher,12,Sky Procycling,\u25bc4,3,2013
+32,135,6,9.0,Geslin Anthony,13,FDJ.fr,\u25bc4,3,2013
+28,215,5,10.0,Mendes Jos\xe9,14,Team NetApp \u2013 Endura,\u25bc4,3,2013
+24,176,5,11.0,Madrazo \xc1ngel,15,Movistar Team,\u25bc4,3,2013
+24,204,5,12.0,Fonseca Armindo,16,Bretagne - S\xe9ch\xe9 Environnement,\u25bc4,3,2013
+28,31,4,14.0,Fuglsang Jakob,17,Astana Pro Team,\u25bc3,3,2013
+34,56,4,15.0,Tankink Bram,18,Blanco Pro Cycling Team,\u25bc3,3,2013
+24,194,4,13.0,Damuseau Thomas,19,Team Argos - Shimano,\u25bc6,3,2013
+22,132,4,,Bouhanni Nacer,20,FDJ.fr,-,3,2013
+33,171,3,18.0,Valverde Alejandro,21,Movistar Team,\u25bc3,3,2013
+21,191,3,17.0,Barguil Warren,22,Team Argos - Shimano,\u25bc5,3,2013
+27,217,3,,Voss Paul,23,Team NetApp \u2013 Endura,-,3,2013
+28,205,3,16.0,Gerard Arnaud,24,Bretagne - S\xe9ch\xe9 Environnement,\u25bc8,3,2013
+30,72,3,,Beppu Fumiyuki,25,Orica GreenEDGE,-,3,2013
+33,151,2,,Chavanel Sylvain,26,Omega Pharma - Quick-Step,-,3,2013
+26,77,1,21.0,Sulzberger Wesley,27,Orica GreenEDGE,\u25bc6,3,2013
+28,33,1,,Gavazzi Francesco,28,Astana Pro Team,-,3,2013
+25,211,1,20.0,K\xf6nig Leopold,29,Team NetApp \u2013 Endura,\u25bc9,3,2013
+25,104,1,22.0,Garcia Ricardo,30,Euskaltel - Euskadi,\u25bc8,3,2013
+25,23,1,,Cordeel Sander,31,Lotto Belisol Team,-,3,2013
+27,155,34,1.0,Meersman Gianni,1,Omega Pharma - Quick-Step,-,4,2013
+24,168,21,2.0,Viviani Elia,2,Cannondale Pro Cycling Team,-,4,2013
+25,148,20,3.0,Veilleux David,3,Team Europcar,-,4,2013
+26,2,20,4.0,Boasson Hagen Edvald,4,Sky Procycling,-,4,2013
+28,1,16,12.0,Froome Christopher,5,Sky Procycling,\u25b27,4,2013
+28,154,15,,Martin Tony,6,Omega Pharma - Quick-Step,-,4,2013
+24,197,13,5.0,Janse van Rensburg Reinardt,7,Team Argos - Shimano,\u25bc2,4,2013
+23,113,12,,Dennis Rohan,8,Garmin Sharp,-,4,2013
+28,6,12,9.0,Porte Richie,9,Sky Procycling,-,4,2013
+25,64,12,6.0,Gallopin Tony,10,RadioShack - Leopard,\u25bc4,4,2013
+22,75,12,7.0,Matthews Michael,11,Orica GreenEDGE,\u25bc4,4,2013
+23,55,10,8.0,Slagter Tom-Jelte,12,Blanco Pro Cycling Team,\u25bc4,4,2013
+26,173,8,,Castroviejo Jonathan,13,Movistar Team,-,4,2013
+35,41,8,10.0,Hushovd Thor,14,BMC Racing Team,\u25bc4,4,2013
+35,183,7,11.0,Flecha Juan Antonio,15,Vacansoleil - DCM,\u25bc4,4,2013
+23,152,6,,Kwiatkowski Michal,16,Omega Pharma - Quick-Step,-,4,2013
+32,135,6,13.0,Geslin Anthony,17,FDJ.fr,\u25bc4,4,2013
+28,215,5,14.0,Mendes Jos\xe9,18,Team NetApp \u2013 Endura,\u25bc4,4,2013
+24,176,5,15.0,Madrazo \xc1ngel,19,Movistar Team,\u25bc4,4,2013
+24,204,5,16.0,Fonseca Armindo,20,Bretagne - S\xe9ch\xe9 Environnement,\u25bc4,4,2013
+28,31,4,17.0,Fuglsang Jakob,21,Astana Pro Team,\u25bc4,4,2013
+34,56,4,18.0,Tankink Bram,22,Blanco Pro Cycling Team,\u25bc4,4,2013
+24,194,4,19.0,Damuseau Thomas,23,Team Argos - Shimano,\u25bc4,4,2013
+22,132,4,20.0,Bouhanni Nacer,24,FDJ.fr,\u25bc4,4,2013
+33,171,3,21.0,Valverde Alejandro,25,Movistar Team,\u25bc4,4,2013
+21,191,3,22.0,Barguil Warren,26,Team Argos - Shimano,\u25bc4,4,2013
+27,217,3,23.0,Voss Paul,27,Team NetApp \u2013 Endura,\u25bc4,4,2013
+28,205,3,24.0,Gerard Arnaud,28,Bretagne - S\xe9ch\xe9 Environnement,\u25bc4,4,2013
+28,212,3,,B\xe1rta Jan,29,Team NetApp \u2013 Endura,-,4,2013
+30,72,3,25.0,Beppu Fumiyuki,30,Orica GreenEDGE,\u25bc5,4,2013
+33,151,2,26.0,Chavanel Sylvain,31,Omega Pharma - Quick-Step,\u25bc5,4,2013
+37,45,2,,Pinotti Marco,32,BMC Racing Team,-,4,2013
+27,8,1,,Thomas Geraint,33,Sky Procycling,-,4,2013
+25,211,1,29.0,K\xf6nig Leopold,34,Team NetApp \u2013 Endura,\u25bc5,4,2013
+28,33,1,28.0,Gavazzi Francesco,35,Astana Pro Team,\u25bc7,4,2013
+26,77,1,27.0,Sulzberger Wesley,36,Orica GreenEDGE,\u25bc9,4,2013
+25,104,1,30.0,Garcia Ricardo,37,Euskaltel - Euskadi,\u25bc7,4,2013
+25,23,1,31.0,Cordeel Sander,38,Lotto Belisol Team,\u25bc7,4,2013
+27,155,34,1.0,Meersman Gianni,1,Omega Pharma - Quick-Step,-,5,2013
+28,1,31,5.0,Froome Christopher,2,Sky Procycling,\u25b23,5,2013
+24,168,21,2.0,Viviani Elia,3,Cannondale Pro Cycling Team,\u25bc1,5,2013
+25,148,20,3.0,Veilleux David,4,Team Europcar,\u25bc1,5,2013
+26,2,20,4.0,Boasson Hagen Edvald,5,Sky Procycling,\u25bc1,5,2013
+28,154,15,6.0,Martin Tony,6,Omega Pharma - Quick-Step,-,5,2013
+28,6,14,9.0,Porte Richie,7,Sky Procycling,\u25b22,5,2013
+28,62,13,,Busche Matthew,8,RadioShack - Leopard,-,5,2013
+24,197,13,7.0,Janse van Rensburg Reinardt,9,Team Argos - Shimano,\u25bc2,5,2013
+30,11,12,,Contador Alberto,10,Team Saxo - Tinkoff,-,5,2013
+22,75,12,11.0,Matthews Michael,11,Orica GreenEDGE,-,5,2013
+25,64,12,10.0,Gallopin Tony,12,RadioShack - Leopard,\u25bc2,5,2013
+23,113,12,8.0,Dennis Rohan,13,Garmin Sharp,\u25bc5,5,2013
+33,171,11,25.0,Valverde Alejandro,14,Movistar Team,\u25b211,5,2013
+23,55,10,12.0,Slagter Tom-Jelte,15,Blanco Pro Cycling Team,\u25bc3,5,2013
+35,41,8,14.0,Hushovd Thor,16,BMC Racing Team,\u25bc2,5,2013
+26,173,8,13.0,Castroviejo Jonathan,17,Movistar Team,\u25bc4,5,2013
+35,183,7,15.0,Flecha Juan Antonio,18,Vacansoleil - DCM,\u25bc3,5,2013
+33,16,6,,Rogers Michael,19,Team Saxo - Tinkoff,-,5,2013
+23,152,6,16.0,Kwiatkowski Michal,20,Omega Pharma - Quick-Step,\u25bc4,5,2013
+32,135,6,17.0,Geslin Anthony,21,FDJ.fr,\u25bc4,5,2013
+28,215,5,18.0,Mendes Jos\xe9,22,Team NetApp \u2013 Endura,\u25bc4,5,2013
+29,156,5,,Rabon Frantisek,23,Omega Pharma - Quick-Step,-,5,2013
+24,194,5,23.0,Damuseau Thomas,24,Team Argos - Shimano,\u25bc1,5,2013
+24,204,5,20.0,Fonseca Armindo,25,Bretagne - S\xe9ch\xe9 Environnement,\u25bc5,5,2013
+31,88,5,,Moreno Daniel,26,Team Katusha,-,5,2013
+24,176,5,19.0,Madrazo \xc1ngel,27,Movistar Team,\u25bc8,5,2013
+28,31,5,21.0,Fuglsang Jakob,28,Astana Pro Team,\u25bc7,5,2013
+34,56,4,22.0,Tankink Bram,29,Blanco Pro Cycling Team,\u25bc7,5,2013
+26,97,4,,Taaram\xe4e Rein,30,"Cofidis, Solutions Cr\xe9dits",-,5,2013
+22,132,4,24.0,Bouhanni Nacer,31,FDJ.fr,\u25bc7,5,2013
+30,72,3,30.0,Beppu Fumiyuki,32,Orica GreenEDGE,\u25bc2,5,2013
+28,205,3,28.0,Gerard Arnaud,33,Bretagne - S\xe9ch\xe9 Environnement,\u25bc5,5,2013
+21,191,3,26.0,Barguil Warren,34,Team Argos - Shimano,\u25bc8,5,2013
+29,96,3,,Navarro Daniel,35,"Cofidis, Solutions Cr\xe9dits",-,5,2013
+28,212,3,29.0,B\xe1rta Jan,36,Team NetApp \u2013 Endura,\u25bc7,5,2013
+27,217,3,27.0,Voss Paul,37,Team NetApp \u2013 Endura,\u25bc10,5,2013
+33,151,2,31.0,Chavanel Sylvain,38,Omega Pharma - Quick-Step,\u25bc7,5,2013
+37,45,2,32.0,Pinotti Marco,39,BMC Racing Team,\u25bc7,5,2013
+25,23,1,38.0,Cordeel Sander,40,Lotto Belisol Team,\u25bc2,5,2013
+25,104,1,37.0,Garcia Ricardo,41,Euskaltel - Euskadi,\u25bc4,5,2013
+25,211,1,34.0,K\xf6nig Leopold,42,Team NetApp \u2013 Endura,\u25bc8,5,2013
+27,8,1,33.0,Thomas Geraint,43,Sky Procycling,\u25bc10,5,2013
+28,33,1,35.0,Gavazzi Francesco,44,Astana Pro Team,\u25bc9,5,2013
+26,77,1,36.0,Sulzberger Wesley,45,Orica GreenEDGE,\u25bc9,5,2013
+27,155,44,1.0,Meersman Gianni,1,Omega Pharma - Quick-Step,-,6,2013
+28,1,31,2.0,Froome Christopher,2,Sky Procycling,-,6,2013
+26,2,26,5.0,Boasson Hagen Edvald,3,Sky Procycling,\u25b22,6,2013
+24,168,21,3.0,Viviani Elia,4,Cannondale Pro Cycling Team,\u25bc1,6,2013
+25,148,20,4.0,Veilleux David,5,Team Europcar,\u25bc1,6,2013
+33,141,15,,Voeckler Thomas,6,Team Europcar,-,6,2013
+28,154,15,6.0,Martin Tony,7,Omega Pharma - Quick-Step,\u25bc1,6,2013
+28,6,14,7.0,Porte Richie,8,Sky Procycling,\u25bc1,6,2013
+28,62,13,8.0,Busche Matthew,9,RadioShack - Leopard,\u25bc1,6,2013
+23,113,12,13.0,Dennis Rohan,10,Garmin Sharp,\u25b23,6,2013
+30,11,12,10.0,Contador Alberto,11,Team Saxo - Tinkoff,\u25bc1,6,2013
+27,175,12,,Herrada Jos\xe9,12,Movistar Team,-,6,2013
+25,64,12,12.0,Gallopin Tony,13,RadioShack - Leopard,\u25bc1,6,2013
+22,75,12,11.0,Matthews Michael,14,Orica GreenEDGE,\u25bc3,6,2013
+33,171,11,14.0,Valverde Alejandro,15,Movistar Team,\u25bc1,6,2013
+26,37,10,,Seeldraeyers Kevin,16,Astana Pro Team,-,6,2013
+23,55,10,15.0,Slagter Tom-Jelte,17,Blanco Pro Cycling Team,\u25bc2,6,2013
+25,38,8,,Silin Egor,18,Astana Pro Team,-,6,2013
+26,173,8,17.0,Castroviejo Jonathan,19,Movistar Team,\u25bc2,6,2013
+35,41,8,16.0,Hushovd Thor,20,BMC Racing Team,\u25bc4,6,2013
+35,183,7,18.0,Flecha Juan Antonio,21,Vacansoleil - DCM,\u25bc3,6,2013
+23,152,7,20.0,Kwiatkowski Michal,22,Omega Pharma - Quick-Step,\u25bc2,6,2013
+33,16,6,19.0,Rogers Michael,23,Team Saxo - Tinkoff,\u25bc4,6,2013
+32,135,6,21.0,Geslin Anthony,24,FDJ.fr,\u25bc3,6,2013
+28,215,5,22.0,Mendes Jos\xe9,25,Team NetApp \u2013 Endura,\u25bc3,6,2013
+29,156,5,23.0,Rabon Frantisek,26,Omega Pharma - Quick-Step,\u25bc3,6,2013
+31,88,5,26.0,Moreno Daniel,27,Team Katusha,\u25bc1,6,2013
+28,31,5,28.0,Fuglsang Jakob,28,Astana Pro Team,-,6,2013
+24,176,5,27.0,Madrazo \xc1ngel,29,Movistar Team,\u25bc2,6,2013
+28,33,5,44.0,Gavazzi Francesco,30,Astana Pro Team,\u25b214,6,2013
+33,151,5,38.0,Chavanel Sylvain,31,Omega Pharma - Quick-Step,\u25b27,6,2013
+28,205,5,33.0,Gerard Arnaud,32,Bretagne - S\xe9ch\xe9 Environnement,\u25b21,6,2013
+24,204,5,25.0,Fonseca Armindo,33,Bretagne - S\xe9ch\xe9 Environnement,\u25bc8,6,2013
+24,194,5,24.0,Damuseau Thomas,34,Team Argos - Shimano,\u25bc10,6,2013
+26,97,4,30.0,Taaram\xe4e Rein,35,"Cofidis, Solutions Cr\xe9dits",\u25bc5,6,2013
+34,56,4,29.0,Tankink Bram,36,Blanco Pro Cycling Team,\u25bc7,6,2013
+26,77,4,45.0,Sulzberger Wesley,37,Orica GreenEDGE,\u25b28,6,2013
+22,132,4,31.0,Bouhanni Nacer,38,FDJ.fr,\u25bc7,6,2013
+29,96,3,35.0,Navarro Daniel,39,"Cofidis, Solutions Cr\xe9dits",\u25bc4,6,2013
+21,191,3,34.0,Barguil Warren,40,Team Argos - Shimano,\u25bc6,6,2013
+27,217,3,37.0,Voss Paul,41,Team NetApp \u2013 Endura,\u25bc4,6,2013
+28,212,3,36.0,B\xe1rta Jan,42,Team NetApp \u2013 Endura,\u25bc6,6,2013
+30,72,3,32.0,Beppu Fumiyuki,43,Orica GreenEDGE,\u25bc11,6,2013
+37,45,2,39.0,Pinotti Marco,44,BMC Racing Team,\u25bc5,6,2013
+25,211,1,42.0,K\xf6nig Leopold,45,Team NetApp \u2013 Endura,\u25bc3,6,2013
+27,8,1,43.0,Thomas Geraint,46,Sky Procycling,\u25bc3,6,2013
+25,23,1,40.0,Cordeel Sander,47,Lotto Belisol Team,\u25bc7,6,2013
+27,153,1,,Maes Nikolas,48,Omega Pharma - Quick-Step,-,6,2013
+25,104,1,41.0,Garcia Ricardo,49,Euskaltel - Euskadi,\u25bc8,6,2013
+27,155,44,1.0,Meersman Gianni,1,Omega Pharma - Quick-Step,-,7,2013
+28,1,35,2.0,Froome Christopher,2,Sky Procycling,-,7,2013
+26,2,26,3.0,Boasson Hagen Edvald,3,Sky Procycling,-,7,2013
+28,6,24,8.0,Porte Richie,4,Sky Procycling,\u25b24,7,2013
+25,148,20,5.0,Veilleux David,5,Team Europcar,-,7,2013
+28,31,17,28.0,Fuglsang Jakob,6,Astana Pro Team,\u25b222,7,2013
+33,171,16,15.0,Valverde Alejandro,7,Movistar Team,\u25b28,7,2013
+35,101,15,,S\xe1nchez Samuel,8,Euskaltel - Euskadi,-,7,2013
+33,141,15,6.0,Voeckler Thomas,9,Team Europcar,\u25bc3,7,2013
+28,154,15,7.0,Martin Tony,10,Omega Pharma - Quick-Step,\u25bc3,7,2013
+28,62,13,9.0,Busche Matthew,11,RadioShack - Leopard,\u25bc2,7,2013
+31,88,13,27.0,Moreno Daniel,12,Team Katusha,\u25b215,7,2013
+30,11,13,11.0,Contador Alberto,13,Team Saxo - Tinkoff,\u25bc2,7,2013
+23,113,12,10.0,Dennis Rohan,14,Garmin Sharp,\u25bc4,7,2013
+25,64,12,13.0,Gallopin Tony,15,RadioShack - Leopard,\u25bc2,7,2013
+22,75,12,14.0,Matthews Michael,16,Orica GreenEDGE,\u25bc2,7,2013
+27,175,12,12.0,Herrada Jos\xe9,17,Movistar Team,\u25bc5,7,2013
+26,37,10,16.0,Seeldraeyers Kevin,18,Astana Pro Team,\u25bc2,7,2013
+23,55,10,17.0,Slagter Tom-Jelte,19,Blanco Pro Cycling Team,\u25bc2,7,2013
+33,16,8,23.0,Rogers Michael,20,Team Saxo - Tinkoff,\u25b23,7,2013
+35,41,8,20.0,Hushovd Thor,21,BMC Racing Team,\u25bc1,7,2013
+26,173,8,19.0,Castroviejo Jonathan,22,Movistar Team,\u25bc3,7,2013
+25,38,8,18.0,Silin Egor,23,Astana Pro Team,\u25bc5,7,2013
+35,183,7,21.0,Flecha Juan Antonio,24,Vacansoleil - DCM,\u25bc3,7,2013
+23,152,7,22.0,Kwiatkowski Michal,25,Omega Pharma - Quick-Step,\u25bc3,7,2013
+29,96,6,39.0,Navarro Daniel,26,"Cofidis, Solutions Cr\xe9dits",\u25b213,7,2013
+30,52,6,,Clement Stef,27,Blanco Pro Cycling Team,-,7,2013
+32,135,6,24.0,Geslin Anthony,28,FDJ.fr,\u25bc4,7,2013
+30,21,5,,Van den Broeck Jurgen,29,Lotto Belisol Team,-,7,2013
+28,215,5,25.0,Mendes Jos\xe9,30,Team NetApp \u2013 Endura,\u25bc5,7,2013
+24,194,5,34.0,Damuseau Thomas,31,Team Argos - Shimano,\u25b23,7,2013
+28,205,5,32.0,Gerard Arnaud,32,Bretagne - S\xe9ch\xe9 Environnement,-,7,2013
+33,151,5,31.0,Chavanel Sylvain,33,Omega Pharma - Quick-Step,\u25bc2,7,2013
+24,176,5,29.0,Madrazo \xc1ngel,34,Movistar Team,\u25bc5,7,2013
+28,33,5,30.0,Gavazzi Francesco,35,Astana Pro Team,\u25bc5,7,2013
+24,204,5,33.0,Fonseca Armindo,36,Bretagne - S\xe9ch\xe9 Environnement,\u25bc3,7,2013
+26,97,4,35.0,Taaram\xe4e Rein,37,"Cofidis, Solutions Cr\xe9dits",\u25bc2,7,2013
+34,56,4,36.0,Tankink Bram,38,Blanco Pro Cycling Team,\u25bc2,7,2013
+26,77,4,37.0,Sulzberger Wesley,39,Orica GreenEDGE,\u25bc2,7,2013
+22,132,4,38.0,Bouhanni Nacer,40,FDJ.fr,\u25bc2,7,2013
+28,212,3,42.0,B\xe1rta Jan,41,Team NetApp \u2013 Endura,\u25b21,7,2013
+21,191,3,40.0,Barguil Warren,42,Team Argos - Shimano,\u25bc2,7,2013
+27,8,1,46.0,Thomas Geraint,43,Sky Procycling,\u25b23,7,2013
+27,153,1,48.0,Maes Nikolas,44,Omega Pharma - Quick-Step,\u25b24,7,2013
+24,213,1,,de la Cruz David,45,Team NetApp \u2013 Endura,-,7,2013
+25,23,1,47.0,Cordeel Sander,46,Lotto Belisol Team,\u25b21,7,2013
+25,104,1,49.0,Garcia Ricardo,47,Euskaltel - Euskadi,\u25b22,7,2013
+27,155,49,1.0,Meersman Gianni,1,Omega Pharma - Quick-Step,-,8,2013
+28,1,47,2.0,Froome Christopher,2,Sky Procycling,-,8,2013
+28,6,32,4.0,Porte Richie,3,Sky Procycling,\u25b21,8,2013
+26,2,26,3.0,Boasson Hagen Edvald,4,Sky Procycling,\u25bc1,8,2013
+28,31,23,6.0,Fuglsang Jakob,5,Astana Pro Team,\u25b21,8,2013
+33,171,21,7.0,Valverde Alejandro,6,Movistar Team,\u25b21,8,2013
+25,148,20,5.0,Veilleux David,7,Team Europcar,\u25bc2,8,2013
+31,88,16,12.0,Moreno Daniel,8,Team Katusha,\u25b24,8,2013
+35,101,15,8.0,S\xe1nchez Samuel,9,Euskaltel - Euskadi,\u25bc1,8,2013
+27,163,15,,De Marchi Alessandro,10,Cannondale Pro Cycling Team,-,8,2013
+23,113,13,14.0,Dennis Rohan,11,Garmin Sharp,\u25b23,8,2013
+30,11,13,13.0,Contador Alberto,12,Team Saxo - Tinkoff,\u25b21,8,2013
+28,62,13,11.0,Busche Matthew,13,RadioShack - Leopard,\u25bc2,8,2013
+25,64,12,15.0,Gallopin Tony,14,RadioShack - Leopard,\u25b21,8,2013
+22,75,12,16.0,Matthews Michael,15,Orica GreenEDGE,\u25b21,8,2013
+35,183,10,24.0,Flecha Juan Antonio,16,Vacansoleil - DCM,\u25b28,8,2013
+24,111,10,,Talansky Andrew,17,Garmin Sharp,-,8,2013
+26,37,10,18.0,Seeldraeyers Kevin,18,Astana Pro Team,-,8,2013
+29,96,8,26.0,Navarro Daniel,19,"Cofidis, Solutions Cr\xe9dits",\u25b27,8,2013
+33,16,8,20.0,Rogers Michael,20,Team Saxo - Tinkoff,-,8,2013
+25,38,8,23.0,Silin Egor,21,Astana Pro Team,\u25b22,8,2013
+26,173,8,22.0,Castroviejo Jonathan,22,Movistar Team,-,8,2013
+30,52,6,27.0,Clement Stef,23,Blanco Pro Cycling Team,\u25b24,8,2013
+33,135,6,28.0,Geslin Anthony,24,FDJ.fr,\u25b24,8,2013
+30,21,5,29.0,Van den Broeck Jurgen,25,Lotto Belisol Team,\u25b24,8,2013
+28,215,5,30.0,Mendes Jos\xe9,26,Team NetApp \u2013 Endura,\u25b24,8,2013
+24,176,5,34.0,Madrazo \xc1ngel,27,Movistar Team,\u25b27,8,2013
+28,33,5,35.0,Gavazzi Francesco,28,Astana Pro Team,\u25b27,8,2013
+28,205,5,32.0,Gerard Arnaud,29,Bretagne - S\xe9ch\xe9 Environnement,\u25b23,8,2013
+24,194,5,31.0,Damuseau Thomas,30,Team Argos - Shimano,\u25b21,8,2013
+24,204,5,36.0,Fonseca Armindo,31,Bretagne - S\xe9ch\xe9 Environnement,\u25b25,8,2013
+34,81,4,,Rodr\xedguez Joaquim,32,Team Katusha,-,8,2013
+26,77,4,39.0,Sulzberger Wesley,33,Orica GreenEDGE,\u25b26,8,2013
+26,97,4,37.0,Taaram\xe4e Rein,34,"Cofidis, Solutions Cr\xe9dits",\u25b23,8,2013
+34,56,4,38.0,Tankink Bram,35,Blanco Pro Cycling Team,\u25b23,8,2013
+21,191,3,42.0,Barguil Warren,36,Team Argos - Shimano,\u25b26,8,2013
+28,212,3,41.0,B\xe1rta Jan,37,Team NetApp \u2013 Endura,\u25b24,8,2013
+27,8,1,43.0,Thomas Geraint,38,Sky Procycling,\u25b25,8,2013
+26,166,1,,Sarmiento Jose Cayetano,39,Cannondale Pro Cycling Team,-,8,2013
+25,23,1,46.0,Cordeel Sander,40,Lotto Belisol Team,\u25b26,8,2013
+25,104,1,47.0,Garcia Ricardo,41,Euskaltel - Euskadi,\u25b26,8,2013
+24,76,2,,Meyer Travis,42,Orica GreenEDGE,-,8,2013

@@ -1,0 +1,929 @@
+Age,BIB,Pnt,Prev,Rider,Rnk,Team,\u25bc\u25b2,stage,year
+36,48,6,,Tjallingii Maarten,1,Belkin-Pro Cycling Team,,2,2014
+22,136,3,,Fedi Andrea,2,Neri Sottoli,,2,2014
+24,78,2,,Romero Jeffry,3,Team Colombia,,2,2014
+28,116,1,,Arm\xe9e Sander,4,Lotto Belisol,,2,2014
+36,48,12,1.0,Tjallingii Maarten,1,Belkin-Pro Cycling Team,-,3,2014
+22,136,3,2.0,Fedi Andrea,2,Neri Sottoli,-,3,2014
+21,24,2,,Godoy Yonder,3,Androni Giocattoli - Venezuela,-,3,2014
+29,79,2,,Rubiano Miguel Angel,4,Team Colombia,-,3,2014
+24,78,2,3.0,Romero Jeffry,5,Team Colombia,\u25bc2,3,2014
+25,114,2,,Dockx Gert,6,Lotto Belisol,-,3,2014
+28,116,1,4.0,Arm\xe9e Sander,7,Lotto Belisol,\u25bc3,3,2014
+36,48,12,1.0,Tjallingii Maarten,1,Belkin-Pro Cycling Team,-,4,2014
+22,136,3,2.0,Fedi Andrea,2,Neri Sottoli,-,4,2014
+21,24,2,3.0,Godoy Yonder,3,Androni Giocattoli - Venezuela,-,4,2014
+29,79,2,4.0,Rubiano Miguel Angel,4,Team Colombia,-,4,2014
+24,78,2,5.0,Romero Jeffry,5,Team Colombia,-,4,2014
+25,114,2,6.0,Dockx Gert,6,Lotto Belisol,-,4,2014
+28,116,1,7.0,Arm\xe9e Sander,7,Lotto Belisol,-,4,2014
+36,48,12,1.0,Tjallingii Maarten,1,Belkin-Pro Cycling Team,-,5,2014
+29,79,9,4.0,Rubiano Miguel Angel,2,Team Colombia,\u25b22,5,2014
+24,138,4,,Monsalve Yonathan,3,Neri Sottoli,-,5,2014
+24,109,3,,Ulissi Diego,4,Lampre - Merida,-,5,2014
+37,188,3,,Vicioso \xc1ngel,5,Team Katusha,-,5,2014
+22,136,3,2.0,Fedi Andrea,6,Neri Sottoli,\u25bc4,5,2014
+37,51,2,,Evans Cadel,7,BMC Racing Team,-,5,2014
+35,181,2,,Rodr\xedguez Joaquim,8,Team Katusha,-,5,2014
+21,24,2,3.0,Godoy Yonder,9,Androni Giocattoli - Venezuela,\u25bc6,5,2014
+24,78,2,5.0,Romero Jeffry,10,Team Colombia,\u25bc5,5,2014
+33,99,2,,Wegmann Fabian,11,Garmin Sharp,-,5,2014
+25,114,2,6.0,Dockx Gert,12,Lotto Belisol,\u25bc6,5,2014
+34,1,1,,Scarponi Michele,13,Astana Pro Team,-,5,2014
+25,213,1,,Arredondo Juli\xe1n David,14,Trek Factory Racing,-,5,2014
+25,169,1,,Thurau Bjorn,15,Team Europcar,-,5,2014
+23,155,14,,Matthews Michael,1,Orica GreenEDGE,-,6,2014
+36,48,12,1.0,Tjallingii Maarten,2,Belkin-Pro Cycling Team,\u25bc1,6,2014
+29,79,9,2.0,Rubiano Miguel Angel,3,Team Colombia,\u25bc1,6,2014
+23,118,9,,Wellens Tim,4,Lotto Belisol,-,6,2014
+37,51,8,7.0,Evans Cadel,5,BMC Racing Team,\u25b22,6,2014
+26,131,4,,Rabottini Matteo,6,Neri Sottoli,-,6,2014
+24,138,4,3.0,Monsalve Yonathan,7,Neri Sottoli,\u25bc4,6,2014
+24,109,3,4.0,Ulissi Diego,8,Lampre - Merida,\u25bc4,6,2014
+27,72,3,,Torres Rodolfo Andres,9,Team Colombia,-,6,2014
+30,151,2,,Santaromita Ivan,10,Orica GreenEDGE,-,6,2014
+22,136,3,6.0,Fedi Andrea,11,Neri Sottoli,\u25bc5,6,2014
+35,181,2,8.0,Rodr\xedguez Joaquim,12,Team Katusha,\u25bc4,6,2014
+21,24,2,9.0,Godoy Yonder,13,Androni Giocattoli - Venezuela,\u25bc4,6,2014
+24,39,2,,Zardini Edoardo,14,Bardiani - CSF Pro Team,-,6,2014
+24,78,2,10.0,Romero Jeffry,15,Team Colombia,\u25bc5,6,2014
+33,99,2,11.0,Wegmann Fabian,16,Garmin Sharp,\u25bc5,6,2014
+25,114,2,12.0,Dockx Gert,17,Lotto Belisol,\u25bc5,6,2014
+31,55,1,,Morabito Steve,18,BMC Racing Team,-,6,2014
+34,1,1,13.0,Scarponi Michele,19,Astana Pro Team,\u25bc6,6,2014
+25,169,1,15.0,Thurau Bjorn,20,Team Europcar,\u25bc5,6,2014
+28,116,1,,Arm\xe9e Sander,21,Lotto Belisol,-,6,2014
+25,213,1,14.0,Arredondo Juli\xe1n David,22,Trek Factory Racing,\u25bc8,6,2014
+29,26,1,,Bandiera Marco,23,Androni Giocattoli - Venezuela,-,6,2014
+23,155,14,1.0,Matthews Michael,1,Orica GreenEDGE,-,7,2014
+36,48,12,2.0,Tjallingii Maarten,2,Belkin-Pro Cycling Team,-,7,2014
+30,74,9,,Chalapud Robinson,3,Team Colombia,-,7,2014
+29,79,9,3.0,Rubiano Miguel Angel,4,Team Colombia,\u25bc1,7,2014
+23,118,9,4.0,Wellens Tim,5,Lotto Belisol,\u25bc1,7,2014
+37,51,8,5.0,Evans Cadel,6,BMC Racing Team,\u25bc1,7,2014
+25,169,6,20.0,Thurau Bjorn,7,Team Europcar,\u25b213,7,2014
+26,131,4,6.0,Rabottini Matteo,8,Neri Sottoli,\u25bc2,7,2014
+24,138,4,7.0,Monsalve Yonathan,9,Neri Sottoli,\u25bc2,7,2014
+24,109,3,8.0,Ulissi Diego,10,Lampre - Merida,\u25bc2,7,2014
+27,72,3,9.0,Torres Rodolfo Andres,11,Team Colombia,\u25bc2,7,2014
+25,96,3,,Haas Nathan,12,Garmin Sharp,-,7,2014
+22,136,3,11.0,Fedi Andrea,13,Neri Sottoli,\u25bc2,7,2014
+30,151,2,10.0,Santaromita Ivan,14,Orica GreenEDGE,\u25bc4,7,2014
+25,101,2,,Anacona Winner,15,Lampre - Merida,-,7,2014
+21,24,2,13.0,Godoy Yonder,16,Androni Giocattoli - Venezuela,\u25bc3,7,2014
+24,39,2,14.0,Zardini Edoardo,17,Bardiani - CSF Pro Team,\u25bc3,7,2014
+33,99,2,16.0,Wegmann Fabian,18,Garmin Sharp,\u25bc2,7,2014
+24,78,2,15.0,Romero Jeffry,19,Team Colombia,\u25bc4,7,2014
+25,114,2,17.0,Dockx Gert,20,Lotto Belisol,\u25bc3,7,2014
+31,55,1,18.0,Morabito Steve,21,BMC Racing Team,\u25bc3,7,2014
+34,1,1,19.0,Scarponi Michele,22,Astana Pro Team,\u25bc3,7,2014
+28,126,1,,Herrada Jos\xe9,23,Movistar Team,-,7,2014
+28,116,1,21.0,Arm\xe9e Sander,24,Lotto Belisol,\u25bc3,7,2014
+25,213,1,22.0,Arredondo Juli\xe1n David,25,Trek Factory Racing,\u25bc3,7,2014
+29,26,1,23.0,Bandiera Marco,26,Androni Giocattoli - Venezuela,\u25bc3,7,2014
+25,213,47,25.0,Arredondo Juli\xe1n David,1,Trek Factory Racing,\u25b224,8,2014
+24,109,35,10.0,Ulissi Diego,2,Lampre - Merida,\u25b28,8,2014
+27,31,26,,Pirazzi Stefano,3,Bardiani - CSF Pro Team,-,8,2014
+27,211,20,,Ki\u0161erlovski Robert,4,Trek Factory Racing,-,8,2014
+37,51,15,6.0,Evans Cadel,5,BMC Racing Team,\u25b21,8,2014
+23,155,14,1.0,Matthews Michael,6,Orica GreenEDGE,\u25bc5,8,2014
+23,41,14,,Kelderman Wilco,7,Belkin-Pro Cycling Team,-,8,2014
+30,167,14,,Quemeneur Perrig,8,Team Europcar,-,8,2014
+36,48,12,2.0,Tjallingii Maarten,9,Belkin-Pro Cycling Team,\u25bc7,8,2014
+24,121,10,,Quintana Nairo,10,Movistar Team,-,8,2014
+28,77,10,,Quintero Carlos,11,Team Colombia,-,8,2014
+30,74,9,3.0,Chalapud Robinson,12,Team Colombia,\u25bc9,8,2014
+29,79,9,4.0,Rubiano Miguel Angel,13,Team Colombia,\u25bc9,8,2014
+27,161,9,,Rolland Pierre,14,Team Europcar,-,8,2014
+23,118,9,5.0,Wellens Tim,15,Lotto Belisol,\u25bc10,8,2014
+27,192,7,,Boasson Hagen Edvald,16,Team Sky,-,8,2014
+25,169,6,7.0,Thurau Bjorn,17,Team Europcar,\u25bc10,8,2014
+31,11,5,,Pozzovivo Domenico,18,AG2R La Mondiale,-,8,2014
+27,141,4,,Uran Rigoberto,19,Omega Pharma - Quick-Step,-,8,2014
+26,131,4,8.0,Rabottini Matteo,20,Neri Sottoli,\u25bc12,8,2014
+33,16,4,,Dupont Hubert,21,AG2R La Mondiale,-,8,2014
+23,103,4,,Cattaneo Mattia,22,Lampre - Merida,-,8,2014
+24,138,4,9.0,Monsalve Yonathan,23,Neri Sottoli,\u25bc14,8,2014
+27,72,3,11.0,Torres Rodolfo Andres,24,Team Colombia,\u25bc13,8,2014
+25,96,3,12.0,Haas Nathan,25,Garmin Sharp,\u25bc13,8,2014
+25,19,3,,Vuillermoz Alexis,26,AG2R La Mondiale,-,8,2014
+22,136,3,13.0,Fedi Andrea,27,Neri Sottoli,\u25bc14,8,2014
+30,151,2,14.0,Santaromita Ivan,28,Orica GreenEDGE,\u25bc14,8,2014
+21,24,2,16.0,Godoy Yonder,29,Androni Giocattoli - Venezuela,\u25bc13,8,2014
+25,101,2,15.0,Anacona Winner,30,Lampre - Merida,\u25bc15,8,2014
+24,39,2,17.0,Zardini Edoardo,31,Bardiani - CSF Pro Team,\u25bc14,8,2014
+33,99,2,18.0,Wegmann Fabian,32,Garmin Sharp,\u25bc14,8,2014
+25,114,2,20.0,Dockx Gert,33,Lotto Belisol,\u25bc13,8,2014
+24,78,5,19.0,Romero Jeffry,34,Team Colombia,\u25bc15,8,2014
+24,203,1,,Majka Rafa\u0142,35,Tinkoff - Saxo,-,8,2014
+31,55,1,21.0,Morabito Steve,36,BMC Racing Team,\u25bc15,8,2014
+28,126,1,23.0,Herrada Jos\xe9,37,Movistar Team,\u25bc14,8,2014
+34,1,1,22.0,Scarponi Michele,38,Astana Pro Team,\u25bc16,8,2014
+28,116,1,24.0,Arm\xe9e Sander,39,Lotto Belisol,\u25bc15,8,2014
+29,26,1,26.0,Bandiera Marco,40,Androni Giocattoli - Venezuela,\u25bc14,8,2014
+25,213,47,1.0,Arredondo Juli\xe1n David,1,Trek Factory Racing,-,9,2014
+24,109,39,2.0,Ulissi Diego,2,Lampre - Merida,-,9,2014
+27,31,26,3.0,Pirazzi Stefano,3,Bardiani - CSF Pro Team,-,9,2014
+27,211,20,4.0,Ki\u0161erlovski Robert,4,Trek Factory Racing,-,9,2014
+37,51,15,5.0,Evans Cadel,5,BMC Racing Team,-,9,2014
+23,41,15,7.0,Kelderman Wilco,6,Belkin-Pro Cycling Team,\u25b21,9,2014
+33,159,14,,Weening Pieter,7,Orica GreenEDGE,-,9,2014
+23,155,14,6.0,Matthews Michael,8,Orica GreenEDGE,\u25bc2,9,2014
+30,167,14,8.0,Quemeneur Perrig,9,Team Europcar,\u25bc1,9,2014
+36,48,12,9.0,Tjallingii Maarten,10,Belkin-Pro Cycling Team,\u25bc1,9,2014
+26,165,12,,Malacarne Davide,11,Team Europcar,-,9,2014
+24,138,11,23.0,Monsalve Yonathan,12,Neri Sottoli,\u25b211,9,2014
+31,11,11,18.0,Pozzovivo Domenico,13,AG2R La Mondiale,\u25b25,9,2014
+24,121,10,10.0,Quintana Nairo,14,Movistar Team,\u25bc4,9,2014
+28,77,10,11.0,Quintero Carlos,15,Team Colombia,\u25bc4,9,2014
+29,79,9,13.0,Rubiano Miguel Angel,16,Team Colombia,\u25bc3,9,2014
+30,74,9,12.0,Chalapud Robinson,17,Team Colombia,\u25bc5,9,2014
+27,161,9,14.0,Rolland Pierre,18,Team Europcar,\u25bc4,9,2014
+23,118,9,15.0,Wellens Tim,19,Lotto Belisol,\u25bc4,9,2014
+27,192,7,16.0,Boasson Hagen Edvald,20,Team Sky,\u25bc4,9,2014
+27,141,6,19.0,Uran Rigoberto,21,Omega Pharma - Quick-Step,\u25bc2,9,2014
+25,169,6,17.0,Thurau Bjorn,22,Team Europcar,\u25bc5,9,2014
+31,189,6,,Vorganov Eduard,23,Team Katusha,-,9,2014
+26,131,4,20.0,Rabottini Matteo,24,Neri Sottoli,\u25bc4,9,2014
+33,16,4,21.0,Dupont Hubert,25,AG2R La Mondiale,\u25bc4,9,2014
+23,103,4,22.0,Cattaneo Mattia,26,Lampre - Merida,\u25bc4,9,2014
+27,72,3,24.0,Torres Rodolfo Andres,27,Team Colombia,\u25bc3,9,2014
+29,47,3,,Tanner David,28,Belkin-Pro Cycling Team,-,9,2014
+25,96,3,25.0,Haas Nathan,29,Garmin Sharp,\u25bc4,9,2014
+25,19,3,26.0,Vuillermoz Alexis,30,AG2R La Mondiale,\u25bc4,9,2014
+22,136,3,27.0,Fedi Andrea,31,Neri Sottoli,\u25bc4,9,2014
+30,151,2,28.0,Santaromita Ivan,32,Orica GreenEDGE,\u25bc4,9,2014
+21,24,2,29.0,Godoy Yonder,33,Androni Giocattoli - Venezuela,\u25bc4,9,2014
+25,101,2,30.0,Anacona Winner,34,Lampre - Merida,\u25bc4,9,2014
+33,99,2,32.0,Wegmann Fabian,35,Garmin Sharp,\u25bc3,9,2014
+24,39,2,31.0,Zardini Edoardo,36,Bardiani - CSF Pro Team,\u25bc5,9,2014
+25,114,2,33.0,Dockx Gert,37,Lotto Belisol,\u25bc4,9,2014
+24,78,2,34.0,Romero Jeffry,38,Team Colombia,\u25bc4,9,2014
+24,203,1,35.0,Majka Rafa\u0142,39,Tinkoff - Saxo,\u25bc4,9,2014
+31,55,1,36.0,Morabito Steve,40,BMC Racing Team,\u25bc4,9,2014
+28,126,1,37.0,Herrada Jos\xe9,41,Movistar Team,\u25bc4,9,2014
+34,1,1,38.0,Scarponi Michele,42,Astana Pro Team,\u25bc4,9,2014
+28,116,1,39.0,Arm\xe9e Sander,43,Lotto Belisol,\u25bc4,9,2014
+34,75,1,,Duque Leonardo,44,Team Colombia,-,9,2014
+29,26,1,40.0,Bandiera Marco,45,Androni Giocattoli - Venezuela,\u25bc5,9,2014
+25,213,47,1.0,Arredondo Juli\xe1n David,1,Trek Factory Racing,-,10,2014
+24,109,39,2.0,Ulissi Diego,2,Lampre - Merida,-,10,2014
+27,31,26,3.0,Pirazzi Stefano,3,Bardiani - CSF Pro Team,-,10,2014
+27,211,20,4.0,Ki\u0161erlovski Robert,4,Trek Factory Racing,-,10,2014
+37,51,15,5.0,Evans Cadel,5,BMC Racing Team,-,10,2014
+23,41,15,6.0,Kelderman Wilco,6,Belkin-Pro Cycling Team,-,10,2014
+33,159,14,7.0,Weening Pieter,7,Orica GreenEDGE,-,10,2014
+23,155,14,8.0,Matthews Michael,8,Orica GreenEDGE,-,10,2014
+30,167,14,9.0,Quemeneur Perrig,9,Team Europcar,-,10,2014
+36,48,12,10.0,Tjallingii Maarten,10,Belkin-Pro Cycling Team,-,10,2014
+26,165,12,11.0,Malacarne Davide,11,Team Europcar,-,10,2014
+24,138,11,12.0,Monsalve Yonathan,12,Neri Sottoli,-,10,2014
+31,11,11,13.0,Pozzovivo Domenico,13,AG2R La Mondiale,-,10,2014
+24,121,10,14.0,Quintana Nairo,14,Movistar Team,-,10,2014
+28,77,10,15.0,Quintero Carlos,15,Team Colombia,-,10,2014
+29,79,9,16.0,Rubiano Miguel Angel,16,Team Colombia,-,10,2014
+30,74,9,17.0,Chalapud Robinson,17,Team Colombia,-,10,2014
+27,161,9,18.0,Rolland Pierre,18,Team Europcar,-,10,2014
+23,118,9,19.0,Wellens Tim,19,Lotto Belisol,-,10,2014
+27,192,7,20.0,Boasson Hagen Edvald,20,Team Sky,-,10,2014
+27,141,6,21.0,Uran Rigoberto,21,Omega Pharma - Quick-Step,-,10,2014
+25,169,6,22.0,Thurau Bjorn,22,Team Europcar,-,10,2014
+31,189,6,23.0,Vorganov Eduard,23,Team Katusha,-,10,2014
+26,131,4,24.0,Rabottini Matteo,24,Neri Sottoli,-,10,2014
+33,16,4,25.0,Dupont Hubert,25,AG2R La Mondiale,-,10,2014
+23,103,4,26.0,Cattaneo Mattia,26,Lampre - Merida,-,10,2014
+27,72,3,27.0,Torres Rodolfo Andres,27,Team Colombia,-,10,2014
+29,47,3,28.0,Tanner David,28,Belkin-Pro Cycling Team,-,10,2014
+25,96,3,29.0,Haas Nathan,29,Garmin Sharp,-,10,2014
+25,19,3,30.0,Vuillermoz Alexis,30,AG2R La Mondiale,-,10,2014
+22,136,3,31.0,Fedi Andrea,31,Neri Sottoli,-,10,2014
+30,151,2,32.0,Santaromita Ivan,32,Orica GreenEDGE,-,10,2014
+21,24,2,33.0,Godoy Yonder,33,Androni Giocattoli - Venezuela,-,10,2014
+25,101,2,34.0,Anacona Winner,34,Lampre - Merida,-,10,2014
+33,99,2,35.0,Wegmann Fabian,35,Garmin Sharp,-,10,2014
+24,39,2,36.0,Zardini Edoardo,36,Bardiani - CSF Pro Team,-,10,2014
+25,114,2,37.0,Dockx Gert,37,Lotto Belisol,-,10,2014
+24,78,2,38.0,Romero Jeffry,38,Team Colombia,-,10,2014
+24,203,1,39.0,Majka Rafa\u0142,39,Tinkoff - Saxo,-,10,2014
+31,55,1,40.0,Morabito Steve,40,BMC Racing Team,-,10,2014
+28,126,1,41.0,Herrada Jos\xe9,41,Movistar Team,-,10,2014
+34,1,1,42.0,Scarponi Michele,42,Astana Pro Team,-,10,2014
+28,116,1,43.0,Arm\xe9e Sander,43,Lotto Belisol,-,10,2014
+34,75,1,44.0,Duque Leonardo,44,Team Colombia,-,10,2014
+29,26,4,45.0,Bandiera Marco,45,Androni Giocattoli - Venezuela,-,10,2014
+25,213,75,1.0,Arredondo Juli\xe1n David,1,Trek Factory Racing,-,11,2014
+24,109,39,2.0,Ulissi Diego,2,Lampre - Merida,-,11,2014
+27,31,26,3.0,Pirazzi Stefano,3,Bardiani - CSF Pro Team,-,11,2014
+27,211,20,4.0,Ki\u0161erlovski Robert,4,Trek Factory Racing,-,11,2014
+37,51,15,5.0,Evans Cadel,5,BMC Racing Team,-,11,2014
+23,41,15,6.0,Kelderman Wilco,6,Belkin-Pro Cycling Team,-,11,2014
+25,169,15,22.0,Thurau Bjorn,7,Team Europcar,\u25b215,11,2014
+33,159,14,7.0,Weening Pieter,8,Orica GreenEDGE,\u25bc1,11,2014
+30,167,14,9.0,Quemeneur Perrig,9,Team Europcar,-,11,2014
+36,48,12,10.0,Tjallingii Maarten,10,Belkin-Pro Cycling Team,-,11,2014
+26,165,12,11.0,Malacarne Davide,11,Team Europcar,-,11,2014
+24,138,11,12.0,Monsalve Yonathan,12,Neri Sottoli,-,11,2014
+31,11,11,13.0,Pozzovivo Domenico,13,AG2R La Mondiale,-,11,2014
+27,161,11,18.0,Rolland Pierre,14,Team Europcar,\u25b24,11,2014
+24,121,10,14.0,Quintana Nairo,15,Movistar Team,\u25bc1,11,2014
+28,77,10,15.0,Quintero Carlos,16,Team Colombia,\u25bc1,11,2014
+30,74,9,17.0,Chalapud Robinson,17,Team Colombia,-,11,2014
+29,79,9,16.0,Rubiano Miguel Angel,18,Team Colombia,\u25bc2,11,2014
+23,176,9,,Preidler Georg,19,Team Giant - Shimano,-,11,2014
+23,118,9,19.0,Wellens Tim,20,Lotto Belisol,\u25bc1,11,2014
+27,192,7,20.0,Boasson Hagen Edvald,21,Team Sky,\u25bc1,11,2014
+27,141,6,21.0,Uran Rigoberto,22,Omega Pharma - Quick-Step,\u25bc1,11,2014
+36,21,6,,Pellizotti Franco,23,Androni Giocattoli - Venezuela,-,11,2014
+29,201,6,,Roche Nicolas,24,Tinkoff - Saxo,-,11,2014
+31,189,6,23.0,Vorganov Eduard,25,Team Katusha,\u25bc2,11,2014
+26,131,4,24.0,Rabottini Matteo,26,Neri Sottoli,\u25bc2,11,2014
+33,16,4,25.0,Dupont Hubert,27,AG2R La Mondiale,\u25bc2,11,2014
+32,185,4,,Losada Alberto,28,Team Katusha,-,11,2014
+23,34,4,,Bongiorno Francesco Manuel,29,Bardiani - CSF Pro Team,-,11,2014
+23,103,4,26.0,Cattaneo Mattia,30,Lampre - Merida,\u25bc4,11,2014
+27,72,3,27.0,Torres Rodolfo Andres,31,Team Colombia,\u25bc4,11,2014
+29,47,3,28.0,Tanner David,32,Belkin-Pro Cycling Team,\u25bc4,11,2014
+25,96,3,29.0,Haas Nathan,33,Garmin Sharp,\u25bc4,11,2014
+25,19,3,30.0,Vuillermoz Alexis,34,AG2R La Mondiale,\u25bc4,11,2014
+24,39,3,36.0,Zardini Edoardo,35,Bardiani - CSF Pro Team,\u25b21,11,2014
+22,136,3,31.0,Fedi Andrea,36,Neri Sottoli,\u25bc5,11,2014
+30,151,2,32.0,Santaromita Ivan,37,Orica GreenEDGE,\u25bc5,11,2014
+26,206,2,,Rovny Ivan,38,Tinkoff - Saxo,-,11,2014
+21,24,2,33.0,Godoy Yonder,39,Androni Giocattoli - Venezuela,\u25bc6,11,2014
+25,101,2,34.0,Anacona Winner,40,Lampre - Merida,\u25bc6,11,2014
+25,114,2,37.0,Dockx Gert,41,Lotto Belisol,\u25bc4,11,2014
+24,78,2,38.0,Romero Jeffry,42,Team Colombia,\u25bc4,11,2014
+24,203,1,39.0,Majka Rafa\u0142,43,Tinkoff - Saxo,\u25bc4,11,2014
+31,55,1,40.0,Morabito Steve,44,BMC Racing Team,\u25bc4,11,2014
+28,126,1,41.0,Herrada Jos\xe9,45,Movistar Team,\u25bc4,11,2014
+28,116,1,43.0,Arm\xe9e Sander,46,Lotto Belisol,\u25bc3,11,2014
+34,1,1,42.0,Scarponi Michele,47,Astana Pro Team,\u25bc5,11,2014
+34,75,1,44.0,Duque Leonardo,48,Team Colombia,\u25bc4,11,2014
+30,193,1,,Deignan Philip,49,Team Sky,-,11,2014
+29,26,4,45.0,Bandiera Marco,50,Androni Giocattoli - Venezuela,\u25bc5,11,2014
+25,213,75,1.0,Arredondo Juli\xe1n David,1,Trek Factory Racing,-,12,2014
+24,109,39,2.0,Ulissi Diego,2,Lampre - Merida,-,12,2014
+27,31,26,3.0,Pirazzi Stefano,3,Bardiani - CSF Pro Team,-,12,2014
+27,211,20,4.0,Ki\u0161erlovski Robert,4,Trek Factory Racing,-,12,2014
+37,51,15,5.0,Evans Cadel,5,BMC Racing Team,-,12,2014
+23,41,15,6.0,Kelderman Wilco,6,Belkin-Pro Cycling Team,-,12,2014
+25,169,15,7.0,Thurau Bjorn,7,Team Europcar,-,12,2014
+33,159,14,8.0,Weening Pieter,8,Orica GreenEDGE,-,12,2014
+31,11,14,13.0,Pozzovivo Domenico,9,AG2R La Mondiale,\u25b24,12,2014
+30,167,14,9.0,Quemeneur Perrig,10,Team Europcar,\u25bc1,12,2014
+36,48,12,10.0,Tjallingii Maarten,11,Belkin-Pro Cycling Team,\u25bc1,12,2014
+26,165,12,11.0,Malacarne Davide,12,Team Europcar,\u25bc1,12,2014
+24,138,11,12.0,Monsalve Yonathan,13,Neri Sottoli,\u25bc1,12,2014
+27,161,11,14.0,Rolland Pierre,14,Team Europcar,-,12,2014
+24,121,10,15.0,Quintana Nairo,15,Movistar Team,-,12,2014
+28,77,10,16.0,Quintero Carlos,16,Team Colombia,-,12,2014
+30,74,9,17.0,Chalapud Robinson,17,Team Colombia,-,12,2014
+29,79,9,18.0,Rubiano Miguel Angel,18,Team Colombia,-,12,2014
+23,176,9,19.0,Preidler Georg,19,Team Giant - Shimano,-,12,2014
+23,118,9,20.0,Wellens Tim,20,Lotto Belisol,-,12,2014
+27,141,8,22.0,Uran Rigoberto,21,Omega Pharma - Quick-Step,\u25b21,12,2014
+27,192,7,21.0,Boasson Hagen Edvald,22,Team Sky,\u25bc1,12,2014
+36,21,6,23.0,Pellizotti Franco,23,Androni Giocattoli - Venezuela,-,12,2014
+29,201,6,24.0,Roche Nicolas,24,Tinkoff - Saxo,-,12,2014
+31,189,6,25.0,Vorganov Eduard,25,Team Katusha,-,12,2014
+26,131,4,26.0,Rabottini Matteo,26,Neri Sottoli,-,12,2014
+33,16,4,27.0,Dupont Hubert,27,AG2R La Mondiale,-,12,2014
+32,185,4,28.0,Losada Alberto,28,Team Katusha,-,12,2014
+23,34,4,29.0,Bongiorno Francesco Manuel,29,Bardiani - CSF Pro Team,-,12,2014
+23,103,4,30.0,Cattaneo Mattia,30,Lampre - Merida,-,12,2014
+27,72,3,31.0,Torres Rodolfo Andres,31,Team Colombia,-,12,2014
+29,47,3,32.0,Tanner David,32,Belkin-Pro Cycling Team,-,12,2014
+25,96,3,33.0,Haas Nathan,33,Garmin Sharp,-,12,2014
+25,19,3,34.0,Vuillermoz Alexis,34,AG2R La Mondiale,-,12,2014
+24,39,3,35.0,Zardini Edoardo,35,Bardiani - CSF Pro Team,-,12,2014
+22,136,3,36.0,Fedi Andrea,36,Neri Sottoli,-,12,2014
+30,151,2,37.0,Santaromita Ivan,37,Orica GreenEDGE,-,12,2014
+26,206,2,38.0,Rovny Ivan,38,Tinkoff - Saxo,-,12,2014
+21,24,2,39.0,Godoy Yonder,39,Androni Giocattoli - Venezuela,-,12,2014
+25,101,2,40.0,Anacona Winner,40,Lampre - Merida,-,12,2014
+25,114,2,41.0,Dockx Gert,41,Lotto Belisol,-,12,2014
+24,78,2,42.0,Romero Jeffry,42,Team Colombia,-,12,2014
+24,203,1,43.0,Majka Rafa\u0142,43,Tinkoff - Saxo,-,12,2014
+23,3,1,,Aru Fabio,44,Astana Pro Team,-,12,2014
+31,55,1,44.0,Morabito Steve,45,BMC Racing Team,\u25bc1,12,2014
+28,126,1,45.0,Herrada Jos\xe9,46,Movistar Team,\u25bc1,12,2014
+28,116,1,46.0,Arm\xe9e Sander,47,Lotto Belisol,\u25bc1,12,2014
+34,1,1,47.0,Scarponi Michele,48,Astana Pro Team,\u25bc1,12,2014
+34,75,1,48.0,Duque Leonardo,49,Team Colombia,\u25bc1,12,2014
+30,193,1,49.0,Deignan Philip,50,Team Sky,\u25bc1,12,2014
+29,26,5,50.0,Bandiera Marco,51,Androni Giocattoli - Venezuela,\u25bc1,12,2014
+25,213,75,1.0,Arredondo Juli\xe1n David,1,Trek Factory Racing,-,13,2014
+24,109,39,2.0,Ulissi Diego,2,Lampre - Merida,-,13,2014
+27,31,26,3.0,Pirazzi Stefano,3,Bardiani - CSF Pro Team,-,13,2014
+27,211,20,4.0,Ki\u0161erlovski Robert,4,Trek Factory Racing,-,13,2014
+37,51,15,5.0,Evans Cadel,5,BMC Racing Team,-,13,2014
+23,41,15,6.0,Kelderman Wilco,6,Belkin-Pro Cycling Team,-,13,2014
+25,169,15,7.0,Thurau Bjorn,7,Team Europcar,-,13,2014
+33,159,14,8.0,Weening Pieter,8,Orica GreenEDGE,-,13,2014
+31,11,14,9.0,Pozzovivo Domenico,9,AG2R La Mondiale,-,13,2014
+30,167,14,10.0,Quemeneur Perrig,10,Team Europcar,-,13,2014
+36,48,12,11.0,Tjallingii Maarten,11,Belkin-Pro Cycling Team,-,13,2014
+26,165,12,12.0,Malacarne Davide,12,Team Europcar,-,13,2014
+24,138,11,13.0,Monsalve Yonathan,13,Neri Sottoli,-,13,2014
+27,161,11,14.0,Rolland Pierre,14,Team Europcar,-,13,2014
+24,121,10,15.0,Quintana Nairo,15,Movistar Team,-,13,2014
+28,77,10,16.0,Quintero Carlos,16,Team Colombia,-,13,2014
+29,79,9,18.0,Rubiano Miguel Angel,17,Team Colombia,\u25b21,13,2014
+30,74,9,17.0,Chalapud Robinson,18,Team Colombia,\u25bc1,13,2014
+23,176,9,19.0,Preidler Georg,19,Team Giant - Shimano,-,13,2014
+23,118,9,20.0,Wellens Tim,20,Lotto Belisol,-,13,2014
+27,141,8,21.0,Uran Rigoberto,21,Omega Pharma - Quick-Step,-,13,2014
+27,192,7,22.0,Boasson Hagen Edvald,22,Team Sky,-,13,2014
+36,21,6,23.0,Pellizotti Franco,23,Androni Giocattoli - Venezuela,-,13,2014
+29,201,6,24.0,Roche Nicolas,24,Tinkoff - Saxo,-,13,2014
+31,189,6,25.0,Vorganov Eduard,25,Team Katusha,-,13,2014
+26,131,4,26.0,Rabottini Matteo,26,Neri Sottoli,-,13,2014
+33,16,4,27.0,Dupont Hubert,27,AG2R La Mondiale,-,13,2014
+32,185,4,28.0,Losada Alberto,28,Team Katusha,-,13,2014
+23,34,4,29.0,Bongiorno Francesco Manuel,29,Bardiani - CSF Pro Team,-,13,2014
+23,103,4,30.0,Cattaneo Mattia,30,Lampre - Merida,-,13,2014
+27,72,3,31.0,Torres Rodolfo Andres,31,Team Colombia,-,13,2014
+25,35,3,,Canola Marco,32,Bardiani - CSF Pro Team,-,13,2014
+29,47,3,32.0,Tanner David,33,Belkin-Pro Cycling Team,\u25bc1,13,2014
+25,96,3,33.0,Haas Nathan,34,Garmin Sharp,\u25bc1,13,2014
+25,19,3,34.0,Vuillermoz Alexis,35,AG2R La Mondiale,\u25bc1,13,2014
+24,39,3,35.0,Zardini Edoardo,36,Bardiani - CSF Pro Team,\u25bc1,13,2014
+22,136,3,36.0,Fedi Andrea,37,Neri Sottoli,\u25bc1,13,2014
+30,151,2,37.0,Santaromita Ivan,38,Orica GreenEDGE,\u25bc1,13,2014
+26,206,2,38.0,Rovny Ivan,39,Tinkoff - Saxo,\u25bc1,13,2014
+29,27,2,,Rodriguez Jackson,40,Androni Giocattoli - Venezuela,-,13,2014
+21,24,2,39.0,Godoy Yonder,41,Androni Giocattoli - Venezuela,\u25bc2,13,2014
+25,101,2,40.0,Anacona Winner,42,Lampre - Merida,\u25bc2,13,2014
+25,114,2,41.0,Dockx Gert,43,Lotto Belisol,\u25bc2,13,2014
+24,78,2,42.0,Romero Jeffry,44,Team Colombia,\u25bc2,13,2014
+24,203,1,43.0,Majka Rafa\u0142,45,Tinkoff - Saxo,\u25bc2,13,2014
+23,3,1,44.0,Aru Fabio,46,Astana Pro Team,\u25bc2,13,2014
+31,55,1,45.0,Morabito Steve,47,BMC Racing Team,\u25bc2,13,2014
+28,126,1,46.0,Herrada Jos\xe9,48,Movistar Team,\u25bc2,13,2014
+28,116,1,47.0,Arm\xe9e Sander,49,Lotto Belisol,\u25bc2,13,2014
+34,75,1,49.0,Duque Leonardo,50,Team Colombia,\u25bc1,13,2014
+34,1,1,48.0,Scarponi Michele,51,Astana Pro Team,\u25bc3,13,2014
+30,193,1,50.0,Deignan Philip,52,Team Sky,\u25bc2,13,2014
+23,163,1,,Tulik Angelo,53,Team Europcar,-,13,2014
+29,26,1,51.0,Bandiera Marco,54,Androni Giocattoli - Venezuela,\u25bc3,13,2014
+25,213,75,1.0,Arredondo Juli\xe1n David,1,Trek Factory Racing,-,14,2014
+23,118,57,20.0,Wellens Tim,2,Lotto Belisol,\u25b218,14,2014
+24,109,39,2.0,Ulissi Diego,3,Lampre - Merida,\u25bc1,14,2014
+24,138,39,13.0,Monsalve Yonathan,4,Neri Sottoli,\u25b29,14,2014
+24,32,32,,Battaglin Enrico,5,Bardiani - CSF Pro Team,-,14,2014
+29,201,27,24.0,Roche Nicolas,6,Tinkoff - Saxo,\u25b218,14,2014
+27,31,26,3.0,Pirazzi Stefano,7,Bardiani - CSF Pro Team,\u25bc4,14,2014
+29,191,22,,Cataldo Dario,8,Team Sky,-,14,2014
+27,211,20,4.0,Ki\u0161erlovski Robert,9,Trek Factory Racing,\u25bc5,14,2014
+27,192,17,22.0,Boasson Hagen Edvald,10,Team Sky,\u25b212,14,2014
+37,51,15,5.0,Evans Cadel,11,BMC Racing Team,\u25bc6,14,2014
+23,41,15,6.0,Kelderman Wilco,12,Belkin-Pro Cycling Team,\u25bc6,14,2014
+25,169,15,7.0,Thurau Bjorn,13,Team Europcar,\u25bc6,14,2014
+30,167,15,10.0,Quemeneur Perrig,14,Team Europcar,\u25bc4,14,2014
+31,11,14,9.0,Pozzovivo Domenico,15,AG2R La Mondiale,\u25bc6,14,2014
+25,76,14,,Pantano Jarlinson,16,Team Colombia,-,14,2014
+33,64,14,,Longo Borghini Paolo,17,Cannondale,-,14,2014
+36,48,12,11.0,Tjallingii Maarten,18,Belkin-Pro Cycling Team,\u25bc7,14,2014
+26,165,12,12.0,Malacarne Davide,19,Team Europcar,\u25bc7,14,2014
+27,161,11,14.0,Rolland Pierre,20,Team Europcar,\u25bc6,14,2014
+24,121,10,15.0,Quintana Nairo,21,Movistar Team,\u25bc6,14,2014
+22,107,10,,Polanc Jan,22,Lampre - Merida,-,14,2014
+28,77,10,16.0,Quintero Carlos,23,Team Colombia,\u25bc7,14,2014
+30,74,9,18.0,Chalapud Robinson,24,Team Colombia,\u25bc6,14,2014
+29,79,9,17.0,Rubiano Miguel Angel,25,Team Colombia,\u25bc8,14,2014
+23,176,9,19.0,Preidler Georg,26,Team Giant - Shimano,\u25bc7,14,2014
+27,141,8,21.0,Uran Rigoberto,27,Omega Pharma - Quick-Step,\u25bc6,14,2014
+30,151,8,38.0,Santaromita Ivan,28,Orica GreenEDGE,\u25b210,14,2014
+29,2,7,,Agnoli Valerio,29,Astana Pro Team,-,14,2014
+36,21,6,23.0,Pellizotti Franco,30,Androni Giocattoli - Venezuela,\u25bc7,14,2014
+31,189,6,25.0,Vorganov Eduard,31,Team Katusha,\u25bc6,14,2014
+23,103,5,30.0,Cattaneo Mattia,32,Lampre - Merida,\u25bc2,14,2014
+26,131,4,26.0,Rabottini Matteo,33,Neri Sottoli,\u25bc7,14,2014
+33,16,4,27.0,Dupont Hubert,34,AG2R La Mondiale,\u25bc7,14,2014
+32,185,4,28.0,Losada Alberto,35,Team Katusha,\u25bc7,14,2014
+23,15,4,,Domont Axel,36,AG2R La Mondiale,-,14,2014
+23,34,4,29.0,Bongiorno Francesco Manuel,37,Bardiani - CSF Pro Team,\u25bc8,14,2014
+28,178,4,,Timmer Albert,38,Team Giant - Shimano,-,14,2014
+40,215,4,,Hondo Danilo,39,Trek Factory Racing,-,14,2014
+27,72,3,31.0,Torres Rodolfo Andres,40,Team Colombia,\u25bc9,14,2014
+25,96,3,34.0,Haas Nathan,41,Garmin Sharp,\u25bc7,14,2014
+25,35,3,32.0,Canola Marco,42,Bardiani - CSF Pro Team,\u25bc10,14,2014
+29,47,3,33.0,Tanner David,43,Belkin-Pro Cycling Team,\u25bc10,14,2014
+25,19,3,35.0,Vuillermoz Alexis,44,AG2R La Mondiale,\u25bc9,14,2014
+33,29,3,,Sella Emanuele,45,Androni Giocattoli - Venezuela,-,14,2014
+24,39,3,36.0,Zardini Edoardo,46,Bardiani - CSF Pro Team,\u25bc10,14,2014
+22,136,3,37.0,Fedi Andrea,47,Neri Sottoli,\u25bc10,14,2014
+26,206,2,39.0,Rovny Ivan,48,Tinkoff - Saxo,\u25bc9,14,2014
+29,27,2,40.0,Rodriguez Jackson,49,Androni Giocattoli - Venezuela,\u25bc9,14,2014
+21,24,2,41.0,Godoy Yonder,50,Androni Giocattoli - Venezuela,\u25bc9,14,2014
+25,101,2,42.0,Anacona Winner,51,Lampre - Merida,\u25bc9,14,2014
+25,114,2,43.0,Dockx Gert,52,Lotto Belisol,\u25bc9,14,2014
+24,78,2,44.0,Romero Jeffry,53,Team Colombia,\u25bc9,14,2014
+24,203,1,45.0,Majka Rafa\u0142,54,Tinkoff - Saxo,\u25bc9,14,2014
+23,3,1,46.0,Aru Fabio,55,Astana Pro Team,\u25bc9,14,2014
+31,55,1,47.0,Morabito Steve,56,BMC Racing Team,\u25bc9,14,2014
+28,126,1,48.0,Herrada Jos\xe9,57,Movistar Team,\u25bc9,14,2014
+28,116,1,49.0,Arm\xe9e Sander,58,Lotto Belisol,\u25bc9,14,2014
+34,1,1,51.0,Scarponi Michele,59,Astana Pro Team,\u25bc8,14,2014
+34,75,1,50.0,Duque Leonardo,60,Team Colombia,\u25bc10,14,2014
+30,193,1,52.0,Deignan Philip,61,Team Sky,\u25bc9,14,2014
+29,23,1,,Frapporti Marco,62,Androni Giocattoli - Venezuela,-,14,2014
+23,163,1,53.0,Tulik Angelo,63,Team Europcar,\u25bc10,14,2014
+29,26,1,54.0,Bandiera Marco,64,Androni Giocattoli - Venezuela,\u25bc10,14,2014
+25,213,75,1.0,Arredondo Juli\xe1n David,1,Trek Factory Racing,-,15,2014
+23,118,57,2.0,Wellens Tim,2,Lotto Belisol,-,15,2014
+24,109,39,3.0,Ulissi Diego,3,Lampre - Merida,-,15,2014
+24,138,39,4.0,Monsalve Yonathan,4,Neri Sottoli,-,15,2014
+23,3,33,55.0,Aru Fabio,5,Astana Pro Team,\u25b250,15,2014
+24,32,32,5.0,Battaglin Enrico,6,Bardiani - CSF Pro Team,\u25bc1,15,2014
+29,201,27,6.0,Roche Nicolas,7,Tinkoff - Saxo,\u25bc1,15,2014
+27,31,26,7.0,Pirazzi Stefano,8,Bardiani - CSF Pro Team,\u25bc1,15,2014
+24,121,24,21.0,Quintana Nairo,9,Movistar Team,\u25b212,15,2014
+29,191,22,8.0,Cataldo Dario,10,Team Sky,\u25bc2,15,2014
+27,161,21,20.0,Rolland Pierre,11,Team Europcar,\u25b29,15,2014
+27,211,20,9.0,Ki\u0161erlovski Robert,12,Trek Factory Racing,\u25bc3,15,2014
+27,71,20,,Duarte Fabio,13,Team Colombia,-,15,2014
+27,192,17,10.0,Boasson Hagen Edvald,14,Team Sky,\u25bc4,15,2014
+27,141,15,27.0,Uran Rigoberto,15,Omega Pharma - Quick-Step,\u25b212,15,2014
+37,51,15,11.0,Evans Cadel,16,BMC Racing Team,\u25bc5,15,2014
+23,41,15,12.0,Kelderman Wilco,17,Belkin-Pro Cycling Team,\u25bc5,15,2014
+25,169,15,13.0,Thurau Bjorn,18,Team Europcar,\u25bc5,15,2014
+30,167,15,14.0,Quemeneur Perrig,19,Team Europcar,\u25bc5,15,2014
+31,11,14,15.0,Pozzovivo Domenico,20,AG2R La Mondiale,\u25bc5,15,2014
+25,76,14,16.0,Pantano Jarlinson,21,Team Colombia,\u25bc5,15,2014
+33,64,14,17.0,Longo Borghini Paolo,22,Cannondale,\u25bc5,15,2014
+36,48,12,18.0,Tjallingii Maarten,23,Belkin-Pro Cycling Team,\u25bc5,15,2014
+26,165,12,19.0,Malacarne Davide,24,Team Europcar,\u25bc5,15,2014
+22,107,10,22.0,Polanc Jan,25,Lampre - Merida,\u25bc3,15,2014
+28,77,10,23.0,Quintero Carlos,26,Team Colombia,\u25bc3,15,2014
+30,74,9,24.0,Chalapud Robinson,27,Team Colombia,\u25bc3,15,2014
+29,79,9,25.0,Rubiano Miguel Angel,28,Team Colombia,\u25bc3,15,2014
+23,176,9,26.0,Preidler Georg,29,Team Giant - Shimano,\u25bc3,15,2014
+36,21,8,30.0,Pellizotti Franco,30,Androni Giocattoli - Venezuela,-,15,2014
+30,151,8,28.0,Santaromita Ivan,31,Orica GreenEDGE,\u25bc3,15,2014
+29,2,7,29.0,Agnoli Valerio,32,Astana Pro Team,\u25bc3,15,2014
+31,189,6,31.0,Vorganov Eduard,33,Team Katusha,\u25bc2,15,2014
+24,203,5,54.0,Majka Rafa\u0142,34,Tinkoff - Saxo,\u25b220,15,2014
+23,103,5,32.0,Cattaneo Mattia,35,Lampre - Merida,\u25bc3,15,2014
+26,131,4,33.0,Rabottini Matteo,36,Neri Sottoli,\u25bc3,15,2014
+33,16,4,34.0,Dupont Hubert,37,AG2R La Mondiale,\u25bc3,15,2014
+32,185,4,35.0,Losada Alberto,38,Team Katusha,\u25bc3,15,2014
+23,15,4,36.0,Domont Axel,39,AG2R La Mondiale,\u25bc3,15,2014
+23,34,4,37.0,Bongiorno Francesco Manuel,40,Bardiani - CSF Pro Team,\u25bc3,15,2014
+28,178,4,38.0,Timmer Albert,41,Team Giant - Shimano,\u25bc3,15,2014
+40,215,4,39.0,Hondo Danilo,42,Trek Factory Racing,\u25bc3,15,2014
+27,72,3,40.0,Torres Rodolfo Andres,43,Team Colombia,\u25bc3,15,2014
+25,96,3,41.0,Haas Nathan,44,Garmin Sharp,\u25bc3,15,2014
+29,47,3,43.0,Tanner David,45,Belkin-Pro Cycling Team,\u25bc2,15,2014
+25,35,3,42.0,Canola Marco,46,Bardiani - CSF Pro Team,\u25bc4,15,2014
+25,19,3,44.0,Vuillermoz Alexis,47,AG2R La Mondiale,\u25bc3,15,2014
+33,29,3,45.0,Sella Emanuele,48,Androni Giocattoli - Venezuela,\u25bc3,15,2014
+24,39,3,46.0,Zardini Edoardo,49,Bardiani - CSF Pro Team,\u25bc3,15,2014
+22,136,3,47.0,Fedi Andrea,50,Neri Sottoli,\u25bc3,15,2014
+26,206,2,48.0,Rovny Ivan,51,Tinkoff - Saxo,\u25bc3,15,2014
+29,27,2,49.0,Rodriguez Jackson,52,Androni Giocattoli - Venezuela,\u25bc3,15,2014
+21,24,2,50.0,Godoy Yonder,53,Androni Giocattoli - Venezuela,\u25bc3,15,2014
+25,101,2,51.0,Anacona Winner,54,Lampre - Merida,\u25bc3,15,2014
+25,114,2,52.0,Dockx Gert,55,Lotto Belisol,\u25bc3,15,2014
+24,78,2,53.0,Romero Jeffry,56,Team Colombia,\u25bc3,15,2014
+31,55,1,56.0,Morabito Steve,57,BMC Racing Team,\u25bc1,15,2014
+28,126,1,57.0,Herrada Jos\xe9,58,Movistar Team,\u25bc1,15,2014
+32,186,1,,Moreno Daniel,59,Team Katusha,-,15,2014
+28,116,1,58.0,Arm\xe9e Sander,60,Lotto Belisol,\u25bc2,15,2014
+34,1,1,59.0,Scarponi Michele,61,Astana Pro Team,\u25bc2,15,2014
+30,193,1,61.0,Deignan Philip,62,Team Sky,\u25bc1,15,2014
+34,75,1,60.0,Duque Leonardo,63,Team Colombia,\u25bc3,15,2014
+29,23,1,62.0,Frapporti Marco,64,Androni Giocattoli - Venezuela,\u25bc2,15,2014
+23,163,1,63.0,Tulik Angelo,65,Team Europcar,\u25bc2,15,2014
+29,26,1,64.0,Bandiera Marco,66,Androni Giocattoli - Venezuela,\u25bc2,15,2014
+25,213,95,1.0,Arredondo Juli\xe1n David,1,Trek Factory Racing,-,16,2014
+30,74,69,27.0,Chalapud Robinson,2,Team Colombia,\u25b225,16,2014
+29,191,62,10.0,Cataldo Dario,3,Team Sky,\u25b27,16,2014
+23,118,57,2.0,Wellens Tim,4,Lotto Belisol,\u25bc2,16,2014
+24,121,56,9.0,Quintana Nairo,5,Movistar Team,\u25b24,16,2014
+25,76,43,21.0,Pantano Jarlinson,6,Team Colombia,\u25b215,16,2014
+24,109,39,3.0,Ulissi Diego,7,Lampre - Merida,\u25bc4,16,2014
+24,138,39,4.0,Monsalve Yonathan,8,Neri Sottoli,\u25bc4,16,2014
+23,3,37,5.0,Aru Fabio,9,Astana Pro Team,\u25bc4,16,2014
+27,161,36,11.0,Rolland Pierre,10,Team Europcar,\u25b21,16,2014
+24,32,32,6.0,Battaglin Enrico,11,Bardiani - CSF Pro Team,\u25bc5,16,2014
+29,201,27,7.0,Roche Nicolas,12,Tinkoff - Saxo,\u25bc5,16,2014
+27,31,26,8.0,Pirazzi Stefano,13,Bardiani - CSF Pro Team,\u25bc5,16,2014
+23,41,25,17.0,Kelderman Wilco,14,Belkin-Pro Cycling Team,\u25b23,16,2014
+33,16,25,37.0,Dupont Hubert,15,AG2R La Mondiale,\u25b222,16,2014
+31,11,21,20.0,Pozzovivo Domenico,16,AG2R La Mondiale,\u25b24,16,2014
+33,91,21,,Hesjedal Ryder,17,Garmin Sharp,-,16,2014
+27,211,20,12.0,Ki\u0161erlovski Robert,18,Trek Factory Racing,\u25bc6,16,2014
+27,71,20,13.0,Duarte Fabio,19,Team Colombia,\u25bc6,16,2014
+27,141,15,15.0,Uran Rigoberto,20,Omega Pharma - Quick-Step,\u25bc5,16,2014
+37,51,15,16.0,Evans Cadel,21,BMC Racing Team,\u25bc5,16,2014
+30,167,15,19.0,Quemeneur Perrig,22,Team Europcar,\u25bc3,16,2014
+33,64,14,22.0,Longo Borghini Paolo,23,Cannondale,\u25bc1,16,2014
+36,48,12,23.0,Tjallingii Maarten,24,Belkin-Pro Cycling Team,\u25bc1,16,2014
+26,165,12,24.0,Malacarne Davide,25,Team Europcar,\u25bc1,16,2014
+26,131,11,36.0,Rabottini Matteo,26,Neri Sottoli,\u25b210,16,2014
+26,85,10,,Geniez Alexandre,27,FDJ.fr,-,16,2014
+22,107,10,25.0,Polanc Jan,28,Lampre - Merida,\u25bc3,16,2014
+28,77,10,26.0,Quintero Carlos,29,Team Colombia,\u25bc3,16,2014
+26,199,10,,Swift Ben,30,Team Sky,-,16,2014
+29,79,9,28.0,Rubiano Miguel Angel,31,Team Colombia,\u25bc3,16,2014
+23,176,9,29.0,Preidler Georg,32,Team Giant - Shimano,\u25bc3,16,2014
+36,21,8,30.0,Pellizotti Franco,33,Androni Giocattoli - Venezuela,\u25bc3,16,2014
+32,185,8,38.0,Losada Alberto,34,Team Katusha,\u25b24,16,2014
+30,151,8,31.0,Santaromita Ivan,35,Orica GreenEDGE,\u25bc4,16,2014
+24,203,7,34.0,Majka Rafa\u0142,36,Tinkoff - Saxo,\u25bc2,16,2014
+25,19,7,47.0,Vuillermoz Alexis,37,AG2R La Mondiale,\u25b210,16,2014
+29,2,7,32.0,Agnoli Valerio,38,Astana Pro Team,\u25bc6,16,2014
+25,28,7,,Rosa Diego,39,Androni Giocattoli - Venezuela,-,16,2014
+31,189,6,33.0,Vorganov Eduard,40,Team Katusha,\u25bc7,16,2014
+23,103,5,35.0,Cattaneo Mattia,41,Lampre - Merida,\u25bc6,16,2014
+23,15,4,39.0,Domont Axel,42,AG2R La Mondiale,\u25bc3,16,2014
+23,34,4,40.0,Bongiorno Francesco Manuel,43,Bardiani - CSF Pro Team,\u25bc3,16,2014
+28,178,4,41.0,Timmer Albert,44,Team Giant - Shimano,\u25bc3,16,2014
+40,215,4,42.0,Hondo Danilo,45,Trek Factory Racing,\u25bc3,16,2014
+27,72,3,43.0,Torres Rodolfo Andres,46,Team Colombia,\u25bc3,16,2014
+25,96,3,44.0,Haas Nathan,47,Garmin Sharp,\u25bc3,16,2014
+29,47,3,45.0,Tanner David,48,Belkin-Pro Cycling Team,\u25bc3,16,2014
+25,35,3,46.0,Canola Marco,49,Bardiani - CSF Pro Team,\u25bc3,16,2014
+24,39,3,49.0,Zardini Edoardo,50,Bardiani - CSF Pro Team,\u25bc1,16,2014
+33,29,3,48.0,Sella Emanuele,51,Androni Giocattoli - Venezuela,\u25bc3,16,2014
+22,136,3,50.0,Fedi Andrea,52,Neri Sottoli,\u25bc2,16,2014
+34,106,2,,Niemiec Przemyslaw,53,Lampre - Merida,-,16,2014
+26,206,2,51.0,Rovny Ivan,54,Tinkoff - Saxo,\u25bc3,16,2014
+25,101,2,54.0,Anacona Winner,55,Lampre - Merida,\u25bc1,16,2014
+27,124,2,,Capecchi Eros,56,Movistar Team,-,16,2014
+21,24,2,53.0,Godoy Yonder,57,Androni Giocattoli - Venezuela,\u25bc4,16,2014
+29,27,2,52.0,Rodriguez Jackson,58,Androni Giocattoli - Venezuela,\u25bc6,16,2014
+25,114,2,55.0,Dockx Gert,59,Lotto Belisol,\u25bc4,16,2014
+24,78,2,56.0,Romero Jeffry,60,Team Colombia,\u25bc4,16,2014
+28,126,1,58.0,Herrada Jos\xe9,61,Movistar Team,\u25bc3,16,2014
+31,55,1,57.0,Morabito Steve,62,BMC Racing Team,\u25bc5,16,2014
+20,195,1,,Henao Sebasti\xe1n,63,Team Sky,-,16,2014
+32,186,1,59.0,Moreno Daniel,64,Team Katusha,\u25bc5,16,2014
+28,116,1,60.0,Arm\xe9e Sander,65,Lotto Belisol,\u25bc5,16,2014
+30,193,1,62.0,Deignan Philip,66,Team Sky,\u25bc4,16,2014
+34,75,1,63.0,Duque Leonardo,67,Team Colombia,\u25bc4,16,2014
+29,23,1,64.0,Frapporti Marco,68,Androni Giocattoli - Venezuela,\u25bc4,16,2014
+23,163,1,65.0,Tulik Angelo,69,Team Europcar,\u25bc4,16,2014
+29,26,1,66.0,Bandiera Marco,70,Androni Giocattoli - Venezuela,\u25bc4,16,2014
+25,213,95,1.0,Arredondo Juli\xe1n David,1,Trek Factory Racing,-,17,2014
+30,74,69,2.0,Chalapud Robinson,2,Team Colombia,-,17,2014
+23,118,63,4.0,Wellens Tim,3,Lotto Belisol,\u25b21,17,2014
+29,191,62,3.0,Cataldo Dario,4,Team Sky,\u25bc1,17,2014
+24,121,56,5.0,Quintana Nairo,5,Movistar Team,-,17,2014
+25,76,43,6.0,Pantano Jarlinson,6,Team Colombia,-,17,2014
+24,109,39,7.0,Ulissi Diego,7,Lampre - Merida,-,17,2014
+24,138,39,8.0,Monsalve Yonathan,8,Neri Sottoli,-,17,2014
+23,3,37,9.0,Aru Fabio,9,Astana Pro Team,-,17,2014
+27,161,36,10.0,Rolland Pierre,10,Team Europcar,-,17,2014
+24,32,32,11.0,Battaglin Enrico,11,Bardiani - CSF Pro Team,-,17,2014
+27,31,30,13.0,Pirazzi Stefano,12,Bardiani - CSF Pro Team,\u25b21,17,2014
+29,201,27,12.0,Roche Nicolas,13,Tinkoff - Saxo,\u25bc1,17,2014
+23,41,25,14.0,Kelderman Wilco,14,Belkin-Pro Cycling Team,-,17,2014
+33,16,25,15.0,Dupont Hubert,15,AG2R La Mondiale,-,17,2014
+31,11,21,16.0,Pozzovivo Domenico,16,AG2R La Mondiale,-,17,2014
+33,91,21,17.0,Hesjedal Ryder,17,Garmin Sharp,-,17,2014
+27,211,20,18.0,Ki\u0161erlovski Robert,18,Trek Factory Racing,-,17,2014
+27,71,20,19.0,Duarte Fabio,19,Team Colombia,-,17,2014
+27,141,15,20.0,Uran Rigoberto,20,Omega Pharma - Quick-Step,-,17,2014
+37,51,15,21.0,Evans Cadel,21,BMC Racing Team,-,17,2014
+30,167,15,22.0,Quemeneur Perrig,22,Team Europcar,-,17,2014
+26,165,14,25.0,Malacarne Davide,23,Team Europcar,\u25b22,17,2014
+33,64,14,23.0,Longo Borghini Paolo,24,Cannondale,\u25bc1,17,2014
+36,48,12,24.0,Tjallingii Maarten,25,Belkin-Pro Cycling Team,\u25bc1,17,2014
+26,131,11,26.0,Rabottini Matteo,26,Neri Sottoli,-,17,2014
+26,85,10,27.0,Geniez Alexandre,27,FDJ.fr,-,17,2014
+22,107,10,28.0,Polanc Jan,28,Lampre - Merida,-,17,2014
+28,77,10,29.0,Quintero Carlos,29,Team Colombia,-,17,2014
+26,199,10,30.0,Swift Ben,30,Team Sky,-,17,2014
+29,79,9,31.0,Rubiano Miguel Angel,31,Team Colombia,-,17,2014
+23,176,9,32.0,Preidler Georg,32,Team Giant - Shimano,-,17,2014
+36,21,8,33.0,Pellizotti Franco,33,Androni Giocattoli - Venezuela,-,17,2014
+32,185,8,34.0,Losada Alberto,34,Team Katusha,-,17,2014
+30,151,8,35.0,Santaromita Ivan,35,Orica GreenEDGE,-,17,2014
+24,203,7,36.0,Majka Rafa\u0142,36,Tinkoff - Saxo,-,17,2014
+25,19,7,37.0,Vuillermoz Alexis,37,AG2R La Mondiale,-,17,2014
+29,2,7,38.0,Agnoli Valerio,38,Astana Pro Team,-,17,2014
+25,28,7,39.0,Rosa Diego,39,Androni Giocattoli - Venezuela,-,17,2014
+31,189,6,40.0,Vorganov Eduard,40,Team Katusha,-,17,2014
+27,143,5,,De Gendt Thomas,41,Omega Pharma - Quick-Step,-,17,2014
+23,103,5,41.0,Cattaneo Mattia,42,Lampre - Merida,\u25bc1,17,2014
+23,15,4,42.0,Domont Axel,43,AG2R La Mondiale,\u25bc1,17,2014
+23,34,4,43.0,Bongiorno Francesco Manuel,44,Bardiani - CSF Pro Team,\u25bc1,17,2014
+28,178,4,44.0,Timmer Albert,45,Team Giant - Shimano,\u25bc1,17,2014
+40,215,4,45.0,Hondo Danilo,46,Trek Factory Racing,\u25bc1,17,2014
+27,72,3,46.0,Torres Rodolfo Andres,47,Team Colombia,\u25bc1,17,2014
+25,35,3,49.0,Canola Marco,48,Bardiani - CSF Pro Team,\u25b21,17,2014
+25,96,3,47.0,Haas Nathan,49,Garmin Sharp,\u25bc2,17,2014
+29,47,3,48.0,Tanner David,50,Belkin-Pro Cycling Team,\u25bc2,17,2014
+24,39,3,50.0,Zardini Edoardo,51,Bardiani - CSF Pro Team,\u25bc1,17,2014
+33,29,3,51.0,Sella Emanuele,52,Androni Giocattoli - Venezuela,\u25bc1,17,2014
+22,136,3,52.0,Fedi Andrea,53,Neri Sottoli,\u25bc1,17,2014
+34,106,2,53.0,Niemiec Przemyslaw,54,Lampre - Merida,\u25bc1,17,2014
+26,206,2,54.0,Rovny Ivan,55,Tinkoff - Saxo,\u25bc1,17,2014
+25,101,2,55.0,Anacona Winner,56,Lampre - Merida,\u25bc1,17,2014
+27,124,2,56.0,Capecchi Eros,57,Movistar Team,\u25bc1,17,2014
+21,24,2,57.0,Godoy Yonder,58,Androni Giocattoli - Venezuela,\u25bc1,17,2014
+29,27,2,58.0,Rodriguez Jackson,59,Androni Giocattoli - Venezuela,\u25bc1,17,2014
+25,114,2,59.0,Dockx Gert,60,Lotto Belisol,\u25bc1,17,2014
+24,78,2,60.0,Romero Jeffry,61,Team Colombia,\u25bc1,17,2014
+28,126,1,61.0,Herrada Jos\xe9,62,Movistar Team,\u25bc1,17,2014
+31,55,1,62.0,Morabito Steve,63,BMC Racing Team,\u25bc1,17,2014
+20,195,1,63.0,Henao Sebasti\xe1n,64,Team Sky,\u25bc1,17,2014
+30,193,1,66.0,Deignan Philip,65,Team Sky,\u25b21,17,2014
+32,186,1,64.0,Moreno Daniel,66,Team Katusha,\u25bc2,17,2014
+28,116,1,65.0,Arm\xe9e Sander,67,Lotto Belisol,\u25bc2,17,2014
+34,75,1,67.0,Duque Leonardo,68,Team Colombia,\u25bc1,17,2014
+29,23,1,68.0,Frapporti Marco,69,Androni Giocattoli - Venezuela,\u25bc1,17,2014
+29,62,1,,Gatto Oscar,70,Cannondale,-,17,2014
+23,163,1,69.0,Tulik Angelo,71,Team Europcar,\u25bc2,17,2014
+29,26,1,70.0,Bandiera Marco,72,Androni Giocattoli - Venezuela,\u25bc2,17,2014
+25,213,173,1.0,Arredondo Juli\xe1n David,1,Trek Factory Racing,-,18,2014
+29,191,87,4.0,Cataldo Dario,2,Team Sky,\u25b22,18,2014
+23,118,79,3.0,Wellens Tim,3,Lotto Belisol,-,18,2014
+30,74,69,2.0,Chalapud Robinson,4,Team Colombia,\u25bc2,18,2014
+24,121,56,5.0,Quintana Nairo,5,Movistar Team,-,18,2014
+25,76,43,6.0,Pantano Jarlinson,6,Team Colombia,-,18,2014
+27,71,41,19.0,Duarte Fabio,7,Team Colombia,\u25b212,18,2014
+24,138,39,8.0,Monsalve Yonathan,8,Neri Sottoli,-,18,2014
+23,3,37,9.0,Aru Fabio,9,Astana Pro Team,-,18,2014
+27,161,36,10.0,Rolland Pierre,10,Team Europcar,-,18,2014
+30,193,35,65.0,Deignan Philip,11,Team Sky,\u25b254,18,2014
+24,32,32,11.0,Battaglin Enrico,12,Bardiani - CSF Pro Team,\u25bc1,18,2014
+27,31,30,12.0,Pirazzi Stefano,13,Bardiani - CSF Pro Team,\u25bc1,18,2014
+29,201,27,13.0,Roche Nicolas,14,Tinkoff - Saxo,\u25bc1,18,2014
+23,41,25,14.0,Kelderman Wilco,15,Belkin-Pro Cycling Team,\u25bc1,18,2014
+33,16,25,15.0,Dupont Hubert,16,AG2R La Mondiale,\u25bc1,18,2014
+31,11,21,16.0,Pozzovivo Domenico,17,AG2R La Mondiale,\u25bc1,18,2014
+33,91,21,17.0,Hesjedal Ryder,18,Garmin Sharp,\u25bc1,18,2014
+27,143,20,41.0,De Gendt Thomas,19,Omega Pharma - Quick-Step,\u25b222,18,2014
+27,211,20,18.0,Ki\u0161erlovski Robert,20,Trek Factory Racing,\u25bc2,18,2014
+36,21,18,33.0,Pellizotti Franco,21,Androni Giocattoli - Venezuela,\u25b212,18,2014
+27,141,15,20.0,Uran Rigoberto,22,Omega Pharma - Quick-Step,\u25bc2,18,2014
+37,51,15,21.0,Evans Cadel,23,BMC Racing Team,\u25bc2,18,2014
+30,167,15,22.0,Quemeneur Perrig,24,Team Europcar,\u25bc2,18,2014
+26,165,14,23.0,Malacarne Davide,25,Team Europcar,\u25bc2,18,2014
+33,64,14,24.0,Longo Borghini Paolo,26,Cannondale,\u25bc2,18,2014
+36,48,12,25.0,Tjallingii Maarten,27,Belkin-Pro Cycling Team,\u25bc2,18,2014
+26,131,11,26.0,Rabottini Matteo,28,Neri Sottoli,\u25bc2,18,2014
+26,85,10,27.0,Geniez Alexandre,29,FDJ.fr,\u25bc2,18,2014
+22,107,10,28.0,Polanc Jan,30,Lampre - Merida,\u25bc2,18,2014
+24,39,10,51.0,Zardini Edoardo,31,Bardiani - CSF Pro Team,\u25b220,18,2014
+28,77,10,29.0,Quintero Carlos,32,Team Colombia,\u25bc3,18,2014
+26,199,10,30.0,Swift Ben,33,Team Sky,\u25bc3,18,2014
+29,79,9,31.0,Rubiano Miguel Angel,34,Team Colombia,\u25bc3,18,2014
+23,176,9,32.0,Preidler Georg,35,Team Giant - Shimano,\u25bc3,18,2014
+32,185,8,34.0,Losada Alberto,36,Team Katusha,\u25bc2,18,2014
+24,203,7,36.0,Majka Rafa\u0142,37,Tinkoff - Saxo,\u25bc1,18,2014
+25,19,7,37.0,Vuillermoz Alexis,38,AG2R La Mondiale,\u25bc1,18,2014
+29,2,7,38.0,Agnoli Valerio,39,Astana Pro Team,\u25bc1,18,2014
+36,61,6,,Basso Ivan,40,Cannondale,-,18,2014
+26,206,6,55.0,Rovny Ivan,41,Tinkoff - Saxo,\u25b214,18,2014
+31,189,6,40.0,Vorganov Eduard,42,Team Katusha,\u25bc2,18,2014
+23,103,5,42.0,Cattaneo Mattia,43,Lampre - Merida,\u25bc1,18,2014
+33,29,4,52.0,Sella Emanuele,44,Androni Giocattoli - Venezuela,\u25b28,18,2014
+23,15,4,43.0,Domont Axel,45,AG2R La Mondiale,\u25bc2,18,2014
+23,34,4,44.0,Bongiorno Francesco Manuel,46,Bardiani - CSF Pro Team,\u25bc2,18,2014
+28,178,4,45.0,Timmer Albert,47,Team Giant - Shimano,\u25bc2,18,2014
+40,215,4,46.0,Hondo Danilo,48,Trek Factory Racing,\u25bc2,18,2014
+27,72,3,47.0,Torres Rodolfo Andres,49,Team Colombia,\u25bc2,18,2014
+25,96,3,49.0,Haas Nathan,50,Garmin Sharp,\u25bc1,18,2014
+25,35,3,48.0,Canola Marco,51,Bardiani - CSF Pro Team,\u25bc3,18,2014
+29,47,3,50.0,Tanner David,52,Belkin-Pro Cycling Team,\u25bc2,18,2014
+23,136,3,53.0,Fedi Andrea,53,Neri Sottoli,-,18,2014
+34,106,2,54.0,Niemiec Przemyslaw,54,Lampre - Merida,-,18,2014
+25,101,2,56.0,Anacona Winner,55,Lampre - Merida,\u25b21,18,2014
+21,24,2,58.0,Godoy Yonder,56,Androni Giocattoli - Venezuela,\u25b22,18,2014
+27,124,2,57.0,Capecchi Eros,57,Movistar Team,-,18,2014
+29,27,2,59.0,Rodriguez Jackson,58,Androni Giocattoli - Venezuela,\u25b21,18,2014
+25,114,2,60.0,Dockx Gert,59,Lotto Belisol,\u25b21,18,2014
+24,78,2,61.0,Romero Jeffry,60,Team Colombia,\u25b21,18,2014
+31,55,1,63.0,Morabito Steve,61,BMC Racing Team,\u25b22,18,2014
+28,126,1,62.0,Herrada Jos\xe9,62,Movistar Team,-,18,2014
+20,195,1,64.0,Henao Sebasti\xe1n,63,Team Sky,\u25b21,18,2014
+32,186,1,66.0,Moreno Daniel,64,Team Katusha,\u25b22,18,2014
+28,116,1,67.0,Arm\xe9e Sander,65,Lotto Belisol,\u25b22,18,2014
+34,75,1,68.0,Duque Leonardo,66,Team Colombia,\u25b22,18,2014
+29,23,1,69.0,Frapporti Marco,67,Androni Giocattoli - Venezuela,\u25b22,18,2014
+29,62,1,70.0,Gatto Oscar,68,Cannondale,\u25b22,18,2014
+23,163,1,71.0,Tulik Angelo,69,Team Europcar,\u25b22,18,2014
+29,26,1,72.0,Bandiera Marco,70,Androni Giocattoli - Venezuela,\u25b22,18,2014
+25,213,173,1.0,Arredondo Juli\xe1n David,1,Trek Factory Racing,-,19,2014
+29,191,86,2.0,Cataldo Dario,2,Team Sky,-,19,2014
+23,118,79,3.0,Wellens Tim,3,Lotto Belisol,-,19,2014
+30,74,69,4.0,Chalapud Robinson,4,Team Colombia,-,19,2014
+24,121,56,5.0,Quintana Nairo,5,Movistar Team,-,19,2014
+25,76,43,6.0,Pantano Jarlinson,6,Team Colombia,-,19,2014
+27,71,41,7.0,Duarte Fabio,7,Team Colombia,-,19,2014
+24,138,39,8.0,Monsalve Yonathan,8,Neri Sottoli,-,19,2014
+23,3,37,9.0,Aru Fabio,9,Astana Pro Team,-,19,2014
+27,161,36,10.0,Rolland Pierre,10,Team Europcar,-,19,2014
+30,193,35,11.0,Deignan Philip,11,Team Sky,-,19,2014
+24,32,32,12.0,Battaglin Enrico,12,Bardiani - CSF Pro Team,-,19,2014
+27,31,30,13.0,Pirazzi Stefano,13,Bardiani - CSF Pro Team,-,19,2014
+29,201,27,14.0,Roche Nicolas,14,Tinkoff - Saxo,-,19,2014
+23,41,25,15.0,Kelderman Wilco,15,Belkin-Pro Cycling Team,-,19,2014
+33,16,25,16.0,Dupont Hubert,16,AG2R La Mondiale,-,19,2014
+31,11,21,17.0,Pozzovivo Domenico,17,AG2R La Mondiale,-,19,2014
+33,91,21,18.0,Hesjedal Ryder,18,Garmin Sharp,-,19,2014
+27,143,20,19.0,De Gendt Thomas,19,Omega Pharma - Quick-Step,-,19,2014
+27,211,20,20.0,Ki\u0161erlovski Robert,20,Trek Factory Racing,-,19,2014
+36,21,18,21.0,Pellizotti Franco,21,Androni Giocattoli - Venezuela,-,19,2014
+27,141,15,22.0,Uran Rigoberto,22,Omega Pharma - Quick-Step,-,19,2014
+37,51,15,23.0,Evans Cadel,23,BMC Racing Team,-,19,2014
+30,167,15,24.0,Quemeneur Perrig,24,Team Europcar,-,19,2014
+26,165,14,25.0,Malacarne Davide,25,Team Europcar,-,19,2014
+33,64,14,26.0,Longo Borghini Paolo,26,Cannondale,-,19,2014
+36,48,12,27.0,Tjallingii Maarten,27,Belkin-Pro Cycling Team,-,19,2014
+26,131,11,28.0,Rabottini Matteo,28,Neri Sottoli,-,19,2014
+26,85,10,29.0,Geniez Alexandre,29,FDJ.fr,-,19,2014
+22,107,10,30.0,Polanc Jan,30,Lampre - Merida,-,19,2014
+24,39,10,31.0,Zardini Edoardo,31,Bardiani - CSF Pro Team,-,19,2014
+28,77,10,32.0,Quintero Carlos,32,Team Colombia,-,19,2014
+26,199,10,33.0,Swift Ben,33,Team Sky,-,19,2014
+29,79,9,34.0,Rubiano Miguel Angel,34,Team Colombia,-,19,2014
+23,176,9,35.0,Preidler Georg,35,Team Giant - Shimano,-,19,2014
+32,185,8,36.0,Losada Alberto,36,Team Katusha,-,19,2014
+24,203,7,37.0,Majka Rafa\u0142,37,Tinkoff - Saxo,-,19,2014
+25,19,7,38.0,Vuillermoz Alexis,38,AG2R La Mondiale,-,19,2014
+29,2,7,39.0,Agnoli Valerio,39,Astana Pro Team,-,19,2014
+36,61,6,40.0,Basso Ivan,40,Cannondale,-,19,2014
+26,206,6,41.0,Rovny Ivan,41,Tinkoff - Saxo,-,19,2014
+31,189,6,42.0,Vorganov Eduard,42,Team Katusha,-,19,2014
+23,103,5,43.0,Cattaneo Mattia,43,Lampre - Merida,-,19,2014
+33,29,4,44.0,Sella Emanuele,44,Androni Giocattoli - Venezuela,-,19,2014
+23,15,4,45.0,Domont Axel,45,AG2R La Mondiale,-,19,2014
+23,34,4,46.0,Bongiorno Francesco Manuel,46,Bardiani - CSF Pro Team,-,19,2014
+28,178,4,47.0,Timmer Albert,47,Team Giant - Shimano,-,19,2014
+40,215,4,48.0,Hondo Danilo,48,Trek Factory Racing,-,19,2014
+27,72,3,49.0,Torres Rodolfo Andres,49,Team Colombia,-,19,2014
+25,96,3,50.0,Haas Nathan,50,Garmin Sharp,-,19,2014
+25,35,3,51.0,Canola Marco,51,Bardiani - CSF Pro Team,-,19,2014
+29,47,3,52.0,Tanner David,52,Belkin-Pro Cycling Team,-,19,2014
+23,136,3,53.0,Fedi Andrea,53,Neri Sottoli,-,19,2014
+34,106,2,54.0,Niemiec Przemyslaw,54,Lampre - Merida,-,19,2014
+25,101,2,55.0,Anacona Winner,55,Lampre - Merida,-,19,2014
+21,24,2,56.0,Godoy Yonder,56,Androni Giocattoli - Venezuela,-,19,2014
+27,124,2,57.0,Capecchi Eros,57,Movistar Team,-,19,2014
+29,27,2,58.0,Rodriguez Jackson,58,Androni Giocattoli - Venezuela,-,19,2014
+25,114,2,59.0,Dockx Gert,59,Lotto Belisol,-,19,2014
+24,78,2,60.0,Romero Jeffry,60,Team Colombia,-,19,2014
+31,55,1,61.0,Morabito Steve,61,BMC Racing Team,-,19,2014
+28,126,1,62.0,Herrada Jos\xe9,62,Movistar Team,-,19,2014
+20,195,1,63.0,Henao Sebasti\xe1n,63,Team Sky,-,19,2014
+32,186,1,64.0,Moreno Daniel,64,Team Katusha,-,19,2014
+28,116,1,65.0,Arm\xe9e Sander,65,Lotto Belisol,-,19,2014
+34,75,1,66.0,Duque Leonardo,66,Team Colombia,-,19,2014
+29,23,1,67.0,Frapporti Marco,67,Androni Giocattoli - Venezuela,-,19,2014
+29,62,1,68.0,Gatto Oscar,68,Cannondale,-,19,2014
+23,163,1,69.0,Tulik Angelo,69,Team Europcar,-,19,2014
+29,26,1,70.0,Bandiera Marco,70,Androni Giocattoli - Venezuela,-,19,2014
+25,213,173,1.0,Arredondo Juli\xe1n David,1,Trek Factory Racing,-,20,2014
+29,191,132,2.0,Cataldo Dario,2,Team Sky,-,20,2014
+24,121,88,5.0,Quintana Nairo,3,Movistar Team,\u25b22,20,2014
+23,118,79,3.0,Wellens Tim,4,Lotto Belisol,\u25bc1,20,2014
+30,74,73,4.0,Chalapud Robinson,5,Team Colombia,\u25bc1,20,2014
+24,138,68,8.0,Monsalve Yonathan,6,Neri Sottoli,\u25b22,20,2014
+23,3,57,9.0,Aru Fabio,7,Astana Pro Team,\u25b22,20,2014
+27,161,46,10.0,Rolland Pierre,8,Team Europcar,\u25b22,20,2014
+25,76,43,6.0,Pantano Jarlinson,9,Team Colombia,\u25bc3,20,2014
+36,21,42,21.0,Pellizotti Franco,10,Androni Giocattoli - Venezuela,\u25b211,20,2014
+27,71,41,7.0,Duarte Fabio,11,Team Colombia,\u25bc4,20,2014
+29,201,37,14.0,Roche Nicolas,12,Tinkoff - Saxo,\u25b22,20,2014
+30,193,35,11.0,Deignan Philip,13,Team Sky,\u25bc2,20,2014
+34,209,33,,Rogers Michael,14,Tinkoff - Saxo,-,20,2014
+24,32,32,12.0,Battaglin Enrico,15,Bardiani - CSF Pro Team,\u25bc3,20,2014
+27,31,30,13.0,Pirazzi Stefano,16,Bardiani - CSF Pro Team,\u25bc3,20,2014
+27,141,29,22.0,Uran Rigoberto,17,Omega Pharma - Quick-Step,\u25b25,20,2014
+31,11,28,17.0,Pozzovivo Domenico,18,AG2R La Mondiale,\u25bc1,20,2014
+23,34,26,46.0,Bongiorno Francesco Manuel,19,Bardiani - CSF Pro Team,\u25b227,20,2014
+23,41,25,15.0,Kelderman Wilco,20,Belkin-Pro Cycling Team,\u25bc5,20,2014
+33,16,25,16.0,Dupont Hubert,21,AG2R La Mondiale,\u25bc5,20,2014
+33,91,21,18.0,Hesjedal Ryder,22,Garmin Sharp,\u25bc4,20,2014
+27,143,20,19.0,De Gendt Thomas,23,Omega Pharma - Quick-Step,\u25bc4,20,2014
+27,211,20,20.0,Ki\u0161erlovski Robert,24,Trek Factory Racing,\u25bc4,20,2014
+23,176,19,35.0,Preidler Georg,25,Team Giant - Shimano,\u25b210,20,2014
+30,52,19,,Bookwalter Brent,26,BMC Racing Team,-,20,2014
+37,51,15,23.0,Evans Cadel,27,BMC Racing Team,\u25bc4,20,2014
+30,167,15,24.0,Quemeneur Perrig,28,Team Europcar,\u25bc4,20,2014
+26,165,14,25.0,Malacarne Davide,29,Team Europcar,\u25bc4,20,2014
+29,182,14,,Belkov Maxim,30,Team Katusha,-,20,2014
+33,64,14,26.0,Longo Borghini Paolo,31,Cannondale,\u25bc5,20,2014
+36,48,12,27.0,Tjallingii Maarten,32,Belkin-Pro Cycling Team,\u25bc5,20,2014
+26,131,11,28.0,Rabottini Matteo,33,Neri Sottoli,\u25bc5,20,2014
+23,15,11,45.0,Domont Axel,34,AG2R La Mondiale,\u25b211,20,2014
+26,85,10,29.0,Geniez Alexandre,35,FDJ.fr,\u25bc6,20,2014
+22,107,10,30.0,Polanc Jan,36,Lampre - Merida,\u25bc6,20,2014
+24,39,10,31.0,Zardini Edoardo,37,Bardiani - CSF Pro Team,\u25bc6,20,2014
+26,199,10,33.0,Swift Ben,38,Team Sky,\u25bc5,20,2014
+28,77,10,32.0,Quintero Carlos,39,Team Colombia,\u25bc7,20,2014
+29,79,9,34.0,Rubiano Miguel Angel,40,Team Colombia,\u25bc6,20,2014
+24,203,9,37.0,Majka Rafa\u0142,41,Tinkoff - Saxo,\u25bc4,20,2014
+32,185,8,36.0,Losada Alberto,42,Team Katusha,\u25bc6,20,2014
+25,19,7,38.0,Vuillermoz Alexis,43,AG2R La Mondiale,\u25bc5,20,2014
+29,2,7,39.0,Agnoli Valerio,44,Astana Pro Team,\u25bc5,20,2014
+36,61,6,40.0,Basso Ivan,45,Cannondale,\u25bc5,20,2014
+26,206,6,41.0,Rovny Ivan,46,Tinkoff - Saxo,\u25bc5,20,2014
+31,189,6,42.0,Vorganov Eduard,47,Team Katusha,\u25bc5,20,2014
+23,103,5,43.0,Cattaneo Mattia,48,Lampre - Merida,\u25bc5,20,2014
+33,29,4,44.0,Sella Emanuele,49,Androni Giocattoli - Venezuela,\u25bc5,20,2014
+28,178,4,47.0,Timmer Albert,50,Team Giant - Shimano,\u25bc3,20,2014
+40,215,4,48.0,Hondo Danilo,51,Trek Factory Racing,\u25bc3,20,2014
+27,72,3,49.0,Torres Rodolfo Andres,52,Team Colombia,\u25bc3,20,2014
+25,96,3,50.0,Haas Nathan,53,Garmin Sharp,\u25bc3,20,2014
+25,35,3,51.0,Canola Marco,54,Bardiani - CSF Pro Team,\u25bc3,20,2014
+29,47,3,52.0,Tanner David,55,Belkin-Pro Cycling Team,\u25bc3,20,2014
+23,136,3,53.0,Fedi Andrea,56,Neri Sottoli,\u25bc3,20,2014
+31,111,2,,Monfort Maxime,57,Lotto Belisol,-,20,2014
+20,195,2,63.0,Henao Sebasti\xe1n,58,Team Sky,\u25b25,20,2014
+34,106,2,54.0,Niemiec Przemyslaw,59,Lampre - Merida,\u25bc5,20,2014
+25,101,2,55.0,Anacona Winner,60,Lampre - Merida,\u25bc5,20,2014
+21,24,2,56.0,Godoy Yonder,61,Androni Giocattoli - Venezuela,\u25bc5,20,2014
+27,124,2,57.0,Capecchi Eros,62,Movistar Team,\u25bc5,20,2014
+29,27,2,58.0,Rodriguez Jackson,63,Androni Giocattoli - Venezuela,\u25bc5,20,2014
+25,114,2,59.0,Dockx Gert,64,Lotto Belisol,\u25bc5,20,2014
+24,78,2,60.0,Romero Jeffry,65,Team Colombia,\u25bc5,20,2014
+28,126,1,62.0,Herrada Jos\xe9,66,Movistar Team,\u25bc4,20,2014
+31,55,1,61.0,Morabito Steve,67,BMC Racing Team,\u25bc6,20,2014
+32,186,1,64.0,Moreno Daniel,68,Team Katusha,\u25bc4,20,2014
+28,116,1,65.0,Arm\xe9e Sander,69,Lotto Belisol,\u25bc4,20,2014
+34,75,1,66.0,Duque Leonardo,70,Team Colombia,\u25bc4,20,2014
+29,23,1,67.0,Frapporti Marco,71,Androni Giocattoli - Venezuela,\u25bc4,20,2014
+29,62,1,68.0,Gatto Oscar,72,Cannondale,\u25bc4,20,2014
+23,163,1,69.0,Tulik Angelo,73,Team Europcar,\u25bc4,20,2014
+29,26,1,70.0,Bandiera Marco,74,Androni Giocattoli - Venezuela,\u25bc4,20,2014
+25,213,173,1.0,Arredondo Juli\xe1n David,1,Trek Factory Racing,-,21,2014
+29,191,132,2.0,Cataldo Dario,2,Team Sky,-,21,2014
+24,121,88,3.0,Quintana Nairo,3,Movistar Team,-,21,2014
+23,118,79,4.0,Wellens Tim,4,Lotto Belisol,-,21,2014
+30,74,73,5.0,Chalapud Robinson,5,Team Colombia,-,21,2014
+24,138,68,6.0,Monsalve Yonathan,6,Neri Sottoli,-,21,2014
+23,3,57,7.0,Aru Fabio,7,Astana Pro Team,-,21,2014
+27,161,46,8.0,Rolland Pierre,8,Team Europcar,-,21,2014
+25,76,43,9.0,Pantano Jarlinson,9,Team Colombia,-,21,2014
+36,21,42,10.0,Pellizotti Franco,10,Androni Giocattoli - Venezuela,-,21,2014
+27,71,41,11.0,Duarte Fabio,11,Team Colombia,-,21,2014
+29,201,37,12.0,Roche Nicolas,12,Tinkoff - Saxo,-,21,2014
+30,193,35,13.0,Deignan Philip,13,Team Sky,-,21,2014
+34,209,33,14.0,Rogers Michael,14,Tinkoff - Saxo,-,21,2014
+24,32,32,15.0,Battaglin Enrico,15,Bardiani - CSF Pro Team,-,21,2014
+27,31,30,16.0,Pirazzi Stefano,16,Bardiani - CSF Pro Team,-,21,2014
+27,141,29,17.0,Uran Rigoberto,17,Omega Pharma - Quick-Step,-,21,2014
+31,11,28,18.0,Pozzovivo Domenico,18,AG2R La Mondiale,-,21,2014
+23,34,26,19.0,Bongiorno Francesco Manuel,19,Bardiani - CSF Pro Team,-,21,2014
+23,41,25,20.0,Kelderman Wilco,20,Belkin-Pro Cycling Team,-,21,2014
+33,16,25,21.0,Dupont Hubert,21,AG2R La Mondiale,-,21,2014
+33,91,21,22.0,Hesjedal Ryder,22,Garmin Sharp,-,21,2014
+27,143,20,23.0,De Gendt Thomas,23,Omega Pharma - Quick-Step,-,21,2014
+27,211,20,24.0,Ki\u0161erlovski Robert,24,Trek Factory Racing,-,21,2014
+23,176,19,25.0,Preidler Georg,25,Team Giant - Shimano,-,21,2014
+30,52,19,26.0,Bookwalter Brent,26,BMC Racing Team,-,21,2014
+36,48,15,32.0,Tjallingii Maarten,27,Belkin-Pro Cycling Team,\u25b25,21,2014
+37,51,15,27.0,Evans Cadel,28,BMC Racing Team,\u25bc1,21,2014
+30,167,15,28.0,Quemeneur Perrig,29,Team Europcar,\u25bc1,21,2014
+26,165,14,29.0,Malacarne Davide,30,Team Europcar,\u25bc1,21,2014
+29,182,14,30.0,Belkov Maxim,31,Team Katusha,\u25bc1,21,2014
+33,64,14,31.0,Longo Borghini Paolo,32,Cannondale,\u25bc1,21,2014
+26,131,11,33.0,Rabottini Matteo,33,Neri Sottoli,-,21,2014
+23,15,11,34.0,Domont Axel,34,AG2R La Mondiale,-,21,2014
+26,85,10,35.0,Geniez Alexandre,35,FDJ.fr,-,21,2014
+22,107,10,36.0,Polanc Jan,36,Lampre - Merida,-,21,2014
+24,39,10,37.0,Zardini Edoardo,37,Bardiani - CSF Pro Team,-,21,2014
+26,199,10,38.0,Swift Ben,38,Team Sky,-,21,2014
+28,77,10,39.0,Quintero Carlos,39,Team Colombia,-,21,2014
+29,79,9,40.0,Rubiano Miguel Angel,40,Team Colombia,-,21,2014
+24,203,9,41.0,Majka Rafa\u0142,41,Tinkoff - Saxo,-,21,2014
+32,185,8,42.0,Losada Alberto,42,Team Katusha,-,21,2014
+26,19,7,43.0,Vuillermoz Alexis,43,AG2R La Mondiale,-,21,2014
+29,2,7,44.0,Agnoli Valerio,44,Astana Pro Team,-,21,2014
+36,61,6,45.0,Basso Ivan,45,Cannondale,-,21,2014
+26,206,6,46.0,Rovny Ivan,46,Tinkoff - Saxo,-,21,2014
+31,189,6,47.0,Vorganov Eduard,47,Team Katusha,-,21,2014
+23,103,5,48.0,Cattaneo Mattia,48,Lampre - Merida,-,21,2014
+33,29,4,49.0,Sella Emanuele,49,Androni Giocattoli - Venezuela,-,21,2014
+28,178,4,50.0,Timmer Albert,50,Team Giant - Shimano,-,21,2014
+40,215,4,51.0,Hondo Danilo,51,Trek Factory Racing,-,21,2014
+27,72,3,52.0,Torres Rodolfo Andres,52,Team Colombia,-,21,2014
+25,96,3,53.0,Haas Nathan,53,Garmin Sharp,-,21,2014
+25,35,3,54.0,Canola Marco,54,Bardiani - CSF Pro Team,-,21,2014
+29,47,3,55.0,Tanner David,55,Belkin-Pro Cycling Team,-,21,2014
+23,136,3,56.0,Fedi Andrea,56,Neri Sottoli,-,21,2014
+31,111,2,57.0,Monfort Maxime,57,Lotto Belisol,-,21,2014
+20,195,2,58.0,Henao Sebasti\xe1n,58,Team Sky,-,21,2014
+28,126,2,66.0,Herrada Jos\xe9,59,Movistar Team,\u25b27,21,2014
+34,106,2,59.0,Niemiec Przemyslaw,60,Lampre - Merida,\u25bc1,21,2014
+25,101,2,60.0,Anacona Winner,61,Lampre - Merida,\u25bc1,21,2014
+21,24,2,61.0,Godoy Yonder,62,Androni Giocattoli - Venezuela,\u25bc1,21,2014
+27,124,2,62.0,Capecchi Eros,63,Movistar Team,\u25bc1,21,2014
+29,27,2,63.0,Rodriguez Jackson,64,Androni Giocattoli - Venezuela,\u25bc1,21,2014
+25,114,2,64.0,Dockx Gert,65,Lotto Belisol,\u25bc1,21,2014
+24,78,2,65.0,Romero Jeffry,66,Team Colombia,\u25bc1,21,2014
+37,158,2,,Tuft Svein,67,Orica GreenEDGE,-,21,2014
+31,55,1,67.0,Morabito Steve,68,BMC Racing Team,\u25bc1,21,2014
+32,186,1,68.0,Moreno Daniel,69,Team Katusha,\u25bc1,21,2014
+28,116,1,69.0,Arm\xe9e Sander,70,Lotto Belisol,\u25bc1,21,2014
+34,75,1,70.0,Duque Leonardo,71,Team Colombia,\u25bc1,21,2014
+29,23,1,71.0,Frapporti Marco,72,Androni Giocattoli - Venezuela,\u25bc1,21,2014
+29,62,1,72.0,Gatto Oscar,73,Cannondale,\u25bc1,21,2014
+23,163,1,73.0,Tulik Angelo,74,Team Europcar,\u25bc1,21,2014
+29,26,1,74.0,Bandiera Marco,75,Androni Giocattoli - Venezuela,\u25bc1,21,2014

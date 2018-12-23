@@ -1,0 +1,895 @@
+Age,BIB,GC,GC-Time,Pnt,Prev,Rider,Rnk,Team,Time,Time won/lost,UCI,\u25bc\u25b2,stage,year
+29,6,1,+0:00,,,Terpstra Niki,1,Omega Pharma - Quick-Step,3:13:26 3:13:26,+0:00,10.0,,1,2014
+28,26,2,+0:09,,,Roelandts Jurgen,2,Lotto Belisol,0:09 0:09,+0:09,,,1,2014
+27,36,3,+0:12,,,Schar Michael,3,BMC Racing Team,0:12 0:12,+0:12,,,1,2014
+35,103,4,+0:17,,,Elmiger Martin,4,IAM Cycling,0:17 0:17,+0:17,,,1,2014
+26,81,5,+0:21,,,Kristoff Alexander,5,Team Katusha,0:21 0:21,+0:21,,,1,2014
+23,131,6,+0:22,,,Bennett Sam,6,Team NetApp \u2013 Endura,0:22 0:22,+0:22,,,1,2014
+22,7,7,+0:23,,,van Keirsbulck Guillaume,7,Omega Pharma - Quick-Step,0:23 0:23,+0:23,,,1,2014
+33,1,8,+0:23,,,Boonen Tom,8,Omega Pharma - Quick-Step,",, 0:23",+0:23,,,1,2014
+22,45,9,+0:23,,,Markus Barry,9,Belkin-Pro Cycling Team,",, 0:23",+0:23,,,1,2014
+22,51,10,+0:23,,,D\xe9mare Arnaud,10,FDJ.fr,",, 0:23",+0:23,,,1,2014
+25,151,11,+0:23,,,van Staeyen Michael,11,Topsport Vlaanderen - Baloise,",, 0:23",+0:23,,,1,2014
+31,27,12,+0:23,,,Sieberg Marcel,12,Lotto Belisol,",, 0:23",+0:23,,,1,2014
+28,128,13,+0:23,,,M\xf8rk\xf8v Michael,13,Tinkoff - Saxo,",, 0:23",+0:23,,,1,2014
+27,115,14,+0:23,,,Kruopis Aidis,14,Orica GreenEDGE,",, 0:23",+0:23,,,1,2014
+29,68,15,+0:23,,,Sutton Chris,15,Team Sky,",, 0:23",+0:23,,,1,2014
+31,78,16,+0:23,,,Westra Lieuwe,16,Astana Pro Team,",, 0:23",+0:23,,,1,2014
+28,37,17,+0:23,,,Van Avermaet Greg,17,BMC Racing Team,",, 0:23",+0:23,,,1,2014
+27,58,18,+0:23,,,Offredo Yoann,18,FDJ.fr,",, 0:23",+0:23,,,1,2014
+28,182,19,+0:23,,,Chtioui Rafa\xe2,19,Skydive Dubai Pro Cycling Team,",, 0:23",+0:23,,,1,2014
+29,162,20,+0:23,,,Bazzana Alessandro,20,UnitedHealthcare Pro Cycling Team,",, 0:23",+0:23,,,1,2014
+24,86,21,+0:23,,,Selig R\xfcdiger,21,Team Katusha,",, 0:23",+0:23,,,1,2014
+27,152,22,+0:23,,,Jacobs Pieter,22,Topsport Vlaanderen - Baloise,",, 0:23",+0:23,,,1,2014
+33,5,23,+0:23,,,Steegmans Gert,23,Omega Pharma - Quick-Step,",, 0:23",+0:23,,,1,2014
+31,21,24,+0:23,,,Greipel Andr\xe9,24,Lotto Belisol,",, 0:23",+0:23,,,1,2014
+23,2,25,+0:23,,,Fenn Andrew,25,Omega Pharma - Quick-Step,",, 0:23",+0:23,,,1,2014
+33,117,26,+0:23,,,Mouris Jens,26,Orica GreenEDGE,",, 0:23",+0:23,,,1,2014
+28,41,27,+0:23,,,Boom Lars,27,Belkin-Pro Cycling Team,",, 0:23",+0:23,,,1,2014
+29,97,28,+0:23,,,Marangoni Alan,28,Cannondale,",, 0:23",+0:23,,,1,2014
+35,112,29,+0:23,,,Hayman Mathew,29,Orica GreenEDGE,",, 0:23",+0:23,,,1,2014
+31,3,30,+0:23,,,Keisse Iljo,30,Omega Pharma - Quick-Step,",, 0:23",+0:23,,,1,2014
+25,153,31,+0:23,,,Salomein Jarl,31,Topsport Vlaanderen - Baloise,",, 0:23",+0:23,,,1,2014
+24,158,32,+0:23,,,Wallays Jelle,32,Topsport Vlaanderen - Baloise,",, 0:23",+0:23,,,1,2014
+27,4,33,+0:23,,,Maes Nikolas,33,Omega Pharma - Quick-Step,",, 0:23",+0:23,,,1,2014
+30,32,34,+0:23,,,Burghardt Marcus,34,BMC Racing Team,",, 0:23",+0:23,,,1,2014
+29,8,35,+0:23,,,Vandenbergh Stijn,35,Omega Pharma - Quick-Step,",, 0:23",+0:23,,,1,2014
+28,53,36,+0:23,,,Delage Micka\xebl,36,FDJ.fr,",, 0:23",+0:23,,,1,2014
+29,55,37,+0:23,,,Ladagnous Matthieu,37,FDJ.fr,",, 0:23",+0:23,,,1,2014
+28,142,38,+0:23,,,Bagdonas Gediminas,38,AG2R La Mondiale,",, 0:23",+0:23,,,1,2014
+26,67,39,+0:23,,,Stannard Ian,39,Team Sky,",, 0:23",+0:23,,,1,2014
+22,157,40,+0:23,,,Waeytens Zico,40,Topsport Vlaanderen - Baloise,",, 0:23",+0:23,,,1,2014
+31,31,41,+0:23,,,Gilbert Philippe,41,BMC Racing Team,",, 0:23",+0:23,,,1,2014
+28,34,42,+0:23,,,Kohler Martin,42,BMC Racing Team,",, 0:23",+0:23,,,1,2014
+24,71,43,+0:23,,,Guardini Andrea,43,Astana Pro Team,",, 0:23",+0:23,,,1,2014
+32,11,44,+0:23,,,Cancellara Fabian,44,Trek Factory Racing,",, 0:23",+0:23,,,1,2014
+23,56,45,+0:23,,,Le Bon Johan,45,FDJ.fr,",, 0:23",+0:23,,,1,2014
+29,141,46,+0:23,,,Turgot S\xe9bastien,46,AG2R La Mondiale,",, 0:23",+0:23,,,1,2014
+34,13,47,+0:23,,,Irizar Markel,47,Trek Factory Racing,",, 0:23",+0:23,,,1,2014
+26,132,48,+0:23,,,Dempster Zakkari,48,Team NetApp \u2013 Endura,",, 0:23",+0:23,,,1,2014
+26,74,49,+0:23,,,Guarnieri Jacopo,49,Astana Pro Team,",, 0:23",+0:23,,,1,2014
+34,22,50,+0:23,,,Bak Lars Ytting,50,Lotto Belisol,",, 0:23",+0:23,,,1,2014
+23,33,51,+0:23,,,Dillier Silvan,51,BMC Racing Team,",, 0:23",+0:23,,,1,2014
+37,65,52,+0:23,,,Rasch Gabriel,52,Team Sky,",, 0:23",+0:23,,,1,2014
+38,126,53,+0:23,,,Kroon Karsten,53,Tinkoff - Saxo,",, 0:23",+0:23,,,1,2014
+29,123,54,+0:23,,,Breschel Matti,54,Tinkoff - Saxo,",, 0:23",+0:23,,,1,2014
+25,24,55,+0:23,,,Dockx Gert,55,Lotto Belisol,",, 0:23",+0:23,,,1,2014
+29,93,56,+0:23,,,Gatto Oscar,56,Cannondale,",, 0:23",+0:23,,,1,2014
+34,116,57,+0:23,,,Lancaster Brett,57,Orica GreenEDGE,",, 0:23",+0:23,,,1,2014
+26,23,58,+0:23,,,Boeckmans Kris,58,Lotto Belisol,",, 0:23",+0:23,,,1,2014
+27,104,59,+1:00,,,Goddaert Kristof,59,IAM Cycling,1:00 1:00,+1:00,,,1,2014
+31,147,60,+1:00,,,Mondory Lloyd,60,AG2R La Mondiale,",, 1:00",+1:00,,,1,2014
+29,167,61,+1:03,,,Murphy John,61,UnitedHealthcare Pro Cycling Team,1:03 1:03,+1:03,,,1,2014
+28,38,62,+1:25,,,Wyss Danilo,62,BMC Racing Team,1:25 1:25,+1:25,,,1,2014
+25,25,63,+1:25,,,Ligthart Pim,63,Lotto Belisol,",, 1:25",+1:25,,,1,2014
+25,133,64,+1:25,,,Jarc Bla\u017e,64,Team NetApp \u2013 Endura,",, 1:25",+1:25,,,1,2014
+25,127,65,+1:25,,,Kump Marko,65,Tinkoff - Saxo,",, 1:25",+1:25,,,1,2014
+34,14,66,+1:53,,,Popovych Yaroslav,66,Trek Factory Racing,1:53 1:53,+1:53,,,1,2014
+28,47,67,+1:53,,,van Emden Jos,67,Belkin-Pro Cycling Team,",, 1:53",+1:53,,,1,2014
+30,48,68,+1:53,,,Wagner Robert,68,Belkin-Pro Cycling Team,",, 1:53",+1:53,,,1,2014
+34,63,69,+2:03,,,Pate Danny,69,Team Sky,2:03 2:03,+2:03,,,1,2014
+23,66,70,+2:03,,,Rowe Luke,70,Team Sky,",, 2:03",+2:03,,,1,2014
+24,113,71,+2:03,,,Howard Leigh,71,Orica GreenEDGE,",, 2:03",+2:03,,,1,2014
+23,137,72,+2:03,,,Thwaites Scott,72,Team NetApp \u2013 Endura,",, 2:03",+2:03,,,1,2014
+23,136,73,+2:21,,,Schwarzmann Michael,73,Team NetApp \u2013 Endura,2:21 2:21,+2:21,,,1,2014
+32,57,74,+2:31,,,Mangel Laurent,74,FDJ.fr,2:31 2:31,+2:31,,,1,2014
+26,156,75,+2:31,,,Vanspeybrouck Pieter,75,Topsport Vlaanderen - Baloise,",, 2:31",+2:31,,,1,2014
+34,77,76,+2:38,,,Muravyev Dmitriy,76,Astana Pro Team,2:38 2:38,+2:38,,,1,2014
+25,114,77,+2:40,,,Keukeleire Jens,77,Orica GreenEDGE,2:40 2:40,+2:40,,,1,2014
+29,101,78,+4:22,,,Haussler Heinrich,78,IAM Cycling,4:22 4:22,+4:22,,,1,2014
+22,82,79,+4:27,,,Haller Marco,79,Team Katusha,4:27 4:27,+4:27,,,1,2014
+36,46,80,+4:56,,,Tjallingii Maarten,80,Belkin-Pro Cycling Team,4:56 4:56,+4:56,,,1,2014
+34,44,81,+4:56,,,Brown Graeme,81,Belkin-Pro Cycling Team,",, 4:56",+4:56,,,1,2014
+22,98,82,+10:35,,,Villella Davide,82,Cannondale,10:35 10:35,+10:35,,,1,2014
+24,88,83,+10:35,,,Tsatevich Alexey,83,Team Katusha,",, 10:35",+10:35,,,1,2014
+33,52,84,+10:35,,,Boucher David,84,FDJ.fr,",, 10:35",+10:35,,,1,2014
+31,155,85,+10:35,,,Van Hecke Preben,85,Topsport Vlaanderen - Baloise,",, 10:35",+10:35,,,1,2014
+26,122,86,+10:35,,,Boaro Manuele,86,Tinkoff - Saxo,",, 10:35",+10:35,,,1,2014
+22,94,87,+10:35,,,Koch Michel,87,Cannondale,",, 10:35",+10:35,,,1,2014
+32,62,88,+10:35,,,Knees Christian,88,Team Sky,",, 10:35",+10:35,,,1,2014
+25,17,89,+10:35,,,Sergent Jesse,89,Trek Factory Racing,",, 10:35",+10:35,,,1,2014
+34,84,90,+10:35,,,Kuchynski Aliaksandr,90,Team Katusha,",, 10:35",+10:35,,,1,2014
+34,12,91,+10:35,,,Devolder Stijn,91,Trek Factory Racing,",, 10:35",+10:35,,,1,2014
+26,175,92,+10:35,,,Colonna Paolo,92,Bardiani - CSF Pro Team,",, 10:35",+10:35,,,1,2014
+29,72,93,+10:35,,,Agnoli Valerio,93,Astana Pro Team,",, 10:35",+10:35,,,1,2014
+34,165,94,+10:35,,,Jones Chris,94,UnitedHealthcare Pro Cycling Team,",, 10:35",+10:35,,,1,2014
+36,118,95,+10:35,,,Tuft Svein,95,Orica GreenEDGE,",, 10:35",+10:35,,,1,2014
+34,54,96,+10:35,,,Fischer Murilo Antonio,96,FDJ.fr,",, 10:35",+10:35,,,1,2014
+27,95,97,+10:35,,,Koren Kristijan,97,Cannondale,",, 10:35",+10:35,,,1,2014
+25,91,98,+10:35,,,Viviani Elia,98,Cannondale,",, 10:35",+10:35,,,1,2014
+33,73,99,+10:35,,,Bozic Borut,99,Astana Pro Team,",, 10:35",+10:35,,,1,2014
+36,161,100,+10:35,,,F\xf6rster Robert,100,UnitedHealthcare Pro Cycling Team,",, 10:35",+10:35,,,1,2014
+27,168,101,+10:35,,,Reijnen Kiel,101,UnitedHealthcare Pro Cycling Team,",, 10:35",+10:35,,,1,2014
+33,16,102,+10:35,,,Roulston Hayden,102,Trek Factory Racing,",, 10:35",+10:35,,,1,2014
+24,85,103,+10:35,,,Kuznetsov Viacheslav,103,Team Katusha,",, 10:35",+10:35,,,1,2014
+32,61,104,+10:35,,,Eisel Bernhard,104,Team Sky,",, 10:35",+10:35,,,1,2014
+27,83,105,+10:35,,,Isaychev Vladimir,105,Team Katusha,",, 10:35",+10:35,,,1,2014
+24,64,106,+10:35,,,Puccio Salvatore,106,Team Sky,",, 10:35",+10:35,,,1,2014
+26,87,107,+10:35,,,Smukulis Gatis,107,Team Katusha,",, 10:35",+10:35,,,1,2014
+31,163,108,+10:35,,,Hanson Ken,108,UnitedHealthcare Pro Cycling Team,",, 10:35",+10:35,,,1,2014
+22,35,109,+10:35,,,Lander Sebastian,109,BMC Racing Team,",, 10:35",+10:35,,,1,2014
+23,188,110,+10:35,,,Haddi Soufiane,110,Skydive Dubai Pro Cycling Team,",, 10:35",+10:35,,,1,2014
+31,184,111,+10:35,,,Jelloul Adil,111,Skydive Dubai Pro Cycling Team,",, 10:35",+10:35,,,1,2014
+23,146,112,+10:35,,,Houle Hugo,112,AG2R La Mondiale,",, 10:35",+10:35,,,1,2014
+24,42,113,+10:35,,,Bol Jetse,113,Belkin-Pro Cycling Team,",, 10:35",+10:35,,,1,2014
+30,43,114,+10:35,,,Bos Theo,114,Belkin-Pro Cycling Team,",, 10:35",+10:35,,,1,2014
+25,108,115,+10:35,,,Pelucchi Matteo,115,IAM Cycling,",, 10:35",+10:35,,,1,2014
+24,172,116,+10:35,,,Boem Nicola,116,Bardiani - CSF Pro Team,",, 10:35",+10:35,,,1,2014
+25,176,117,+10:35,,,Fortin Filippo,117,Bardiani - CSF Pro Team,",, 10:35",+10:35,,,1,2014
+27,144,118,+10:35,,,Gaudin Damien,118,AG2R La Mondiale,",, 10:35",+10:35,,,1,2014
+24,171,119,+10:35,,,Battaglin Enrico,119,Bardiani - CSF Pro Team,",, 10:35",+10:35,,,1,2014
+27,28,120,+10:35,,,van Genechten Jonas,120,Lotto Belisol,",, 10:35",+10:35,,,1,2014
+25,174,121,+10:35,,,Coledan Marco,121,Bardiani - CSF Pro Team,",, 10:35",+10:35,,,1,2014
+27,138,122,+10:35,,,Voss Paul,122,Team NetApp \u2013 Endura,",, 10:35",+10:35,,,1,2014
+30,134,123,+10:35,,,Schillinger Andreas,123,Team NetApp \u2013 Endura,",, 10:35",+10:35,,,1,2014
+33,96,124,+10:35,,,Longo Borghini Paolo,124,Cannondale,",, 10:35",+10:35,,,1,2014
+25,173,125,+10:35,,,Canola Marco,125,Bardiani - CSF Pro Team,",, 10:35",+10:35,,,1,2014
+33,121,126,+10:35,,,Bennati Daniele,126,Tinkoff - Saxo,",, 10:35",+10:35,,,1,2014
+27,186,127,+10:35,,,Pliuschin Alexandr,127,Skydive Dubai Pro Cycling Team,",, 10:35",+10:35,,,1,2014
+27,92,128,+10:35,,,De Marchi Alessandro,128,Cannondale,",, 10:35",+10:35,,,1,2014
+30,181,129,+10:35,,,Haedo Lucas Sebastian,129,Skydive Dubai Pro Cycling Team,",, 10:35",+10:35,,,1,2014
+21,18,130,+10:35,,,Stuyven Jasper,130,Trek Factory Racing,",, 10:35",+10:35,,,1,2014
+34,15,131,+10:35,,,Rast Gregory,131,Trek Factory Racing,",, 10:35",+10:35,,,1,2014
+24,154,132,+10:35,,,Sprengers Thomas,132,Topsport Vlaanderen - Baloise,",, 10:35",+10:35,,,1,2014
+30,166,133,+10:35,,,Maaskant Martijn,133,UnitedHealthcare Pro Cycling Team,",, 10:35",+10:35,,,1,2014
+23,178,134,+10:35,,,Ruffoni Nicola,134,Bardiani - CSF Pro Team,",, 10:35",+10:35,,,1,2014
+37,185,135,+17:10,,,Mancebo Francisco,135,Skydive Dubai Pro Cycling Team,17:10 17:10,+17:10,,,1,2014
+24,75,136,+17:10,,,Huffman Evan,136,Astana Pro Team,",, 17:10",+17:10,,,1,2014
+23,102,137,+17:10,,,Aregger Marcel,137,IAM Cycling,",, 17:10",+17:10,,,1,2014
+29,106,138,+17:10,,,Ista Kevyn,138,IAM Cycling,",, 17:10",+17:10,,,1,2014
+24,124,139,+17:10,,,Juul-Jensen Christopher,139,Tinkoff - Saxo,",, 17:10",+17:10,,,1,2014
+25,135,140,+17:10,,,Schorn Daniel,140,Team NetApp \u2013 Endura,",, 17:10",+17:10,,,1,2014
+22,111,141,+17:10,,,Hepburn Michael,141,Orica GreenEDGE,",, 17:10",+17:10,,,1,2014
+27,107,142,+17:10,,,Klemme Dominic,142,IAM Cycling,",, 17:10",+17:10,,,1,2014
+29,164,143,+17:10,,,Ile\u0161i\u010d Aldo Ino,143,UnitedHealthcare Pro Cycling Team,",, 17:10",+17:10,,,1,2014
+39,105,144,+17:10,,,Hinault S\xe9bastien,144,IAM Cycling,",, 17:10",+17:10,,,1,2014
+24,183,145,+17:10,,,Hasnaoui Maher,145,Skydive Dubai Pro Cycling Team,",, 17:10",+17:10,,,1,2014
+26,143,146,+17:10,,,Gastauer Ben,146,AG2R La Mondiale,",, 17:10",+17:10,,,1,2014
+26,145,147,+17:10,,,Gretsch Patrick,147,AG2R La Mondiale,",, 17:10",+17:10,,,1,2014
+29,76,148,+17:10,,,Iglinskiy Valentin,148,Astana Pro Team,",, 17:10",+17:10,,,1,2014
+33,148,149,+17:10,,,Riblon Christophe,149,AG2R La Mondiale,",, 17:10",+17:10,,,1,2014
+21,125,150,+17:10,,,Kol\xe1\u0159 Michael,150,Tinkoff - Saxo,",, 17:10",+17:10,,,1,2014
+30,187,151,+17:10,,,Pujol Oscar,151,Skydive Dubai Pro Cycling Team,",, 17:10",+17:10,,,1,2014
+24,177,152,+17:10,,,Locatelli Stefano,152,Bardiani - CSF Pro Team,",, 17:10",+17:10,,,1,2014
+29,6,1,+0:00,,1.0,Terpstra Niki,1,Omega Pharma - Quick-Step,6:43:30 6:43:30,+0:00,10.0,-,2,2014
+28,26,2,+0:05,,2.0,Roelandts Jurgen,2,Lotto Belisol,0:05 0:05,+-1:56,,-,2,2014
+33,1,3,+0:14,,8.0,Boonen Tom,3,Omega Pharma - Quick-Step,0:14 0:14,+-1:51,,\u25b25,2,2014
+28,128,4,+0:20,,13.0,M\xf8rk\xf8v Michael,4,Tinkoff - Saxo,0:20 0:20,+-1:57,,\u25b29,2,2014
+31,27,5,+0:26,,12.0,Sieberg Marcel,5,Lotto Belisol,0:26 0:26,+0:03,,\u25b27,2,2014
+23,2,6,+0:26,,25.0,Fenn Andrew,6,Omega Pharma - Quick-Step,",, 0:26",+0:03,,\u25b219,2,2014
+26,67,7,+0:26,,39.0,Stannard Ian,7,Team Sky,",, 0:26",+0:03,,\u25b232,2,2014
+29,123,8,+0:26,,54.0,Breschel Matti,8,Tinkoff - Saxo,",, 0:26",+0:03,,\u25b246,2,2014
+28,41,9,+0:31,,27.0,Boom Lars,9,Belkin-Pro Cycling Team,0:31 0:31,+0:08,,\u25b218,2,2014
+38,126,10,+0:31,,53.0,Kroon Karsten,10,Tinkoff - Saxo,",, 0:31",+0:08,,\u25b243,2,2014
+27,4,11,+0:34,,33.0,Maes Nikolas,11,Omega Pharma - Quick-Step,0:34 0:34,+0:11,,\u25b222,2,2014
+22,7,12,+0:40,,7.0,van Keirsbulck Guillaume,12,Omega Pharma - Quick-Step,0:40 0:40,+0:17,,\u25bc5,2,2014
+29,8,13,+0:40,,35.0,Vandenbergh Stijn,13,Omega Pharma - Quick-Step,",, 0:40",+0:17,,\u25b222,2,2014
+27,36,14,+1:03,,3.0,Schar Michael,14,BMC Racing Team,1:03 1:03,+0:51,,\u25bc11,2,2014
+27,115,15,+1:13,,14.0,Kruopis Aidis,15,Orica GreenEDGE,1:13 1:13,+0:50,,\u25bc1,2,2014
+22,51,16,+1:14,,10.0,D\xe9mare Arnaud,16,FDJ.fr,1:14 1:14,+0:51,,\u25bc6,2,2014
+25,151,17,+1:14,,11.0,van Staeyen Michael,17,Topsport Vlaanderen - Baloise,",, 1:14",+0:51,,\u25bc6,2,2014
+24,86,18,+1:14,,21.0,Selig R\xfcdiger,18,Team Katusha,",, 1:14",+0:51,,\u25b23,2,2014
+31,21,19,+1:14,,24.0,Greipel Andr\xe9,19,Lotto Belisol,",, 1:14",+0:51,,\u25b25,2,2014
+22,45,20,+1:14,,9.0,Markus Barry,20,Belkin-Pro Cycling Team,",, 1:14",+0:51,,\u25bc11,2,2014
+31,3,21,+1:14,,30.0,Keisse Iljo,21,Omega Pharma - Quick-Step,",, 1:14",+0:51,,\u25b29,2,2014
+35,112,22,+1:14,,29.0,Hayman Mathew,22,Orica GreenEDGE,",, 1:14",+0:51,,\u25b27,2,2014
+29,97,23,+1:14,,28.0,Marangoni Alan,23,Cannondale,",, 1:14",+0:51,,\u25b25,2,2014
+28,53,24,+1:14,,36.0,Delage Micka\xebl,24,FDJ.fr,",, 1:14",+0:51,,\u25b212,2,2014
+24,158,25,+1:14,,32.0,Wallays Jelle,25,Topsport Vlaanderen - Baloise,",, 1:14",+0:51,,\u25b27,2,2014
+33,5,26,+1:14,,23.0,Steegmans Gert,26,Omega Pharma - Quick-Step,",, 1:14",+0:51,,\u25bc3,2,2014
+34,22,27,+1:14,,50.0,Bak Lars Ytting,27,Lotto Belisol,",, 1:14",+0:51,,\u25b223,2,2014
+31,31,28,+1:14,,41.0,Gilbert Philippe,28,BMC Racing Team,",, 1:14",+0:51,,\u25b213,2,2014
+28,34,29,+1:14,,42.0,Kohler Martin,29,BMC Racing Team,",, 1:14",+0:51,,\u25b213,2,2014
+27,156,30,+1:14,,75.0,Vanspeybrouck Pieter,30,Topsport Vlaanderen - Baloise,",, 1:14",+-2:43,,\u25b245,2,2014
+26,74,31,+1:14,,49.0,Guarnieri Jacopo,31,Astana Pro Team,",, 1:14",+0:51,,\u25b218,2,2014
+31,147,32,+1:51,,60.0,Mondory Lloyd,32,AG2R La Mondiale,1:51 1:51,+0:51,,\u25b228,2,2014
+34,14,33,+2:03,,66.0,Popovych Yaroslav,33,Trek Factory Racing,2:03 2:03,+0:10,,\u25b233,2,2014
+25,133,34,+2:16,,64.0,Jarc Bla\u017e,34,Team NetApp \u2013 Endura,2:16 2:16,+0:51,,\u25b230,2,2014
+23,66,35,+2:24,,70.0,Rowe Luke,35,Team Sky,2:24 2:24,+0:21,,\u25b235,2,2014
+30,48,36,+2:44,,68.0,Wagner Robert,36,Belkin-Pro Cycling Team,2:44 2:44,+0:51,,\u25b232,2,2014
+28,47,37,+2:44,,67.0,van Emden Jos,37,Belkin-Pro Cycling Team,",, 2:44",+0:51,,\u25b230,2,2014
+35,103,38,+2:48,,4.0,Elmiger Martin,38,IAM Cycling,2:48 2:48,+2:31,,\u25bc34,2,2014
+26,81,39,+2:52,,5.0,Kristoff Alexander,39,Team Katusha,2:52 2:52,+2:31,,\u25bc34,2,2014
+28,37,40,+2:54,,17.0,Van Avermaet Greg,40,BMC Racing Team,2:54 2:54,+2:31,,\u25bc23,2,2014
+29,68,41,+2:54,,15.0,Sutton Chris,41,Team Sky,",, 2:54",+2:31,,\u25bc26,2,2014
+30,32,42,+2:54,,34.0,Burghardt Marcus,42,BMC Racing Team,",, 2:54",+2:31,,\u25bc8,2,2014
+22,157,43,+2:54,,40.0,Waeytens Zico,43,Topsport Vlaanderen - Baloise,",, 2:54",+2:31,,\u25bc3,2,2014
+23,33,44,+2:54,,51.0,Dillier Silvan,44,BMC Racing Team,",, 2:54",+2:31,,\u25b27,2,2014
+26,132,45,+2:54,,48.0,Dempster Zakkari,45,Team NetApp \u2013 Endura,",, 2:54",+2:31,,\u25b23,2,2014
+37,65,46,+2:54,,52.0,Rasch Gabriel,46,Team Sky,",, 2:54",+2:31,,\u25b26,2,2014
+27,104,47,+3:31,,59.0,Goddaert Kristof,47,IAM Cycling,3:31 3:31,+2:31,,\u25b212,2,2014
+25,114,48,+3:31,,77.0,Keukeleire Jens,48,Orica GreenEDGE,",, 3:31",+0:51,,\u25b229,2,2014
+25,127,49,+3:56,,65.0,Kump Marko,49,Tinkoff - Saxo,3:56 3:56,+2:31,,\u25b216,2,2014
+25,25,50,+3:56,,63.0,Ligthart Pim,50,Lotto Belisol,",, 3:56",+2:31,,\u25b213,2,2014
+36,46,51,+5:47,,80.0,Tjallingii Maarten,51,Belkin-Pro Cycling Team,5:47 5:47,+0:51,,\u25b229,2,2014
+26,23,52,+5:55,,58.0,Boeckmans Kris,52,Lotto Belisol,5:55 5:55,+5:32,,\u25b26,2,2014
+29,101,53,+7:12,,78.0,Haussler Heinrich,53,IAM Cycling,7:12 7:12,+2:50,,\u25b225,2,2014
+23,131,54,+7:32,,6.0,Bennett Sam,54,Team NetApp \u2013 Endura,7:32 7:32,+7:10,,\u25bc48,2,2014
+28,182,55,+7:33,,19.0,Chtioui Rafa\xe2,55,Skydive Dubai Pro Cycling Team,7:33 7:33,+7:10,,\u25bc36,2,2014
+27,58,56,+7:33,,18.0,Offredo Yoann,56,FDJ.fr,",, 7:33",+7:10,,\u25bc38,2,2014
+27,152,57,+7:33,,22.0,Jacobs Pieter,57,Topsport Vlaanderen - Baloise,",, 7:33",+7:10,,\u25bc35,2,2014
+28,142,58,+7:33,,38.0,Bagdonas Gediminas,58,AG2R La Mondiale,",, 7:33",+7:10,,\u25bc20,2,2014
+24,71,59,+7:33,,43.0,Guardini Andrea,59,Astana Pro Team,",, 7:33",+7:10,,\u25bc16,2,2014
+25,153,60,+7:33,,31.0,Salomein Jarl,60,Topsport Vlaanderen - Baloise,",, 7:33",+7:10,,\u25bc29,2,2014
+34,13,61,+7:33,,47.0,Irizar Markel,61,Trek Factory Racing,",, 7:33",+7:10,,\u25bc14,2,2014
+31,78,62,+7:33,,16.0,Westra Lieuwe,62,Astana Pro Team,",, 7:33",+7:10,,\u25bc46,2,2014
+29,55,63,+7:33,,37.0,Ladagnous Matthieu,63,FDJ.fr,",, 7:33",+7:10,,\u25bc26,2,2014
+29,162,64,+7:33,,20.0,Bazzana Alessandro,64,UnitedHealthcare Pro Cycling Team,",, 7:33",+7:10,,\u25bc44,2,2014
+29,141,65,+7:33,,46.0,Turgot S\xe9bastien,65,AG2R La Mondiale,",, 7:33",+7:10,,\u25bc19,2,2014
+32,11,66,+7:33,,44.0,Cancellara Fabian,66,Trek Factory Racing,",, 7:33",+7:10,,\u25bc22,2,2014
+23,56,67,+7:33,,45.0,Le Bon Johan,67,FDJ.fr,",, 7:33",+7:10,,\u25bc22,2,2014
+33,117,68,+7:33,,26.0,Mouris Jens,68,Orica GreenEDGE,",, 7:33",+7:10,,\u25bc42,2,2014
+29,93,69,+7:33,,56.0,Gatto Oscar,69,Cannondale,",, 7:33",+7:10,,\u25bc13,2,2014
+25,24,70,+7:33,,55.0,Dockx Gert,70,Lotto Belisol,",, 7:33",+7:10,,\u25bc15,2,2014
+34,116,71,+7:33,,57.0,Lancaster Brett,71,Orica GreenEDGE,",, 7:33",+7:10,,\u25bc14,2,2014
+29,167,72,+8:13,,61.0,Murphy John,72,UnitedHealthcare Pro Cycling Team,8:13 8:13,+7:10,,\u25bc11,2,2014
+28,38,73,+8:35,,62.0,Wyss Danilo,73,BMC Racing Team,8:35 8:35,+7:10,,\u25bc11,2,2014
+24,113,74,+9:13,,71.0,Howard Leigh,74,Orica GreenEDGE,9:13 9:13,+7:10,,\u25bc3,2,2014
+23,137,75,+9:13,,72.0,Thwaites Scott,75,Team NetApp \u2013 Endura,",, 9:13",+7:10,,\u25bc3,2,2014
+34,63,76,+9:13,,69.0,Pate Danny,76,Team Sky,",, 9:13",+7:10,,\u25bc7,2,2014
+23,136,77,+9:31,,73.0,Schwarzmann Michael,77,Team NetApp \u2013 Endura,9:31 9:31,+7:10,,\u25bc4,2,2014
+32,57,78,+9:41,,74.0,Mangel Laurent,78,FDJ.fr,9:41 9:41,+7:10,,\u25bc4,2,2014
+34,77,79,+9:48,,76.0,Muravyev Dmitriy,79,Astana Pro Team,9:48 9:48,+7:10,,\u25bc3,2,2014
+32,61,80,+10:52,,104.0,Eisel Bernhard,80,Team Sky,10:52 10:52,+0:17,,\u25b224,2,2014
+26,87,81,+10:56,,107.0,Smukulis Gatis,81,Team Katusha,10:56 10:56,+0:21,,\u25b226,2,2014
+25,174,82,+11:26,,121.0,Coledan Marco,82,Bardiani - CSF Pro Team,11:26 11:26,+0:51,,\u25b239,2,2014
+24,85,83,+11:26,,103.0,Kuznetsov Viacheslav,83,Team Katusha,",, 11:26",+0:51,,\u25b220,2,2014
+30,134,84,+11:26,,123.0,Schillinger Andreas,84,Team NetApp \u2013 Endura,",, 11:26",+0:51,,\u25b239,2,2014
+30,166,85,+11:26,,133.0,Maaskant Martijn,85,UnitedHealthcare Pro Cycling Team,",, 11:26",+0:51,,\u25b248,2,2014
+21,18,86,+11:26,,130.0,Stuyven Jasper,86,Trek Factory Racing,",, 11:26",+0:51,,\u25b244,2,2014
+33,121,87,+11:26,,126.0,Bennati Daniele,87,Tinkoff - Saxo,",, 11:26",+0:51,,\u25b239,2,2014
+22,82,88,+11:37,,79.0,Haller Marco,88,Team Katusha,11:37 11:37,+7:10,,\u25bc9,2,2014
+34,44,89,+11:42,,81.0,Brown Graeme,89,Belkin-Pro Cycling Team,11:42 11:42,+6:46,,\u25bc8,2,2014
+24,88,90,+13:06,,83.0,Tsatevich Alexey,90,Team Katusha,13:06 13:06,+2:31,,\u25bc7,2,2014
+31,155,91,+13:06,,85.0,Van Hecke Preben,91,Topsport Vlaanderen - Baloise,",, 13:06",+2:31,,\u25bc6,2,2014
+34,165,92,+13:06,,94.0,Jones Chris,92,UnitedHealthcare Pro Cycling Team,",, 13:06",+2:31,,\u25b22,2,2014
+22,35,93,+13:06,,109.0,Lander Sebastian,93,BMC Racing Team,",, 13:06",+2:31,,\u25b216,2,2014
+27,83,94,+13:06,,105.0,Isaychev Vladimir,94,Team Katusha,",, 13:06",+2:31,,\u25b211,2,2014
+33,96,95,+13:06,,124.0,Longo Borghini Paolo,95,Cannondale,",, 13:06",+2:31,,\u25b229,2,2014
+27,138,96,+13:06,,122.0,Voss Paul,96,Team NetApp \u2013 Endura,",, 13:06",+2:31,,\u25b226,2,2014
+25,176,97,+13:06,,117.0,Fortin Filippo,97,Bardiani - CSF Pro Team,",, 13:06",+2:31,,\u25b220,2,2014
+25,173,98,+17:21,,125.0,Canola Marco,98,Bardiani - CSF Pro Team,17:21 17:21,+6:46,,\u25b227,2,2014
+24,124,99,+17:31,,139.0,Juul-Jensen Christopher,99,Tinkoff - Saxo,17:31 17:31,+0:21,,\u25b240,2,2014
+32,62,100,+17:45,,88.0,Knees Christian,100,Team Sky,17:45 17:45,+7:10,,\u25bc12,2,2014
+34,84,101,+17:45,,90.0,Kuchynski Aliaksandr,101,Team Katusha,",, 17:45",+7:10,,\u25bc11,2,2014
+26,122,102,+17:45,,86.0,Boaro Manuele,102,Tinkoff - Saxo,",, 17:45",+7:10,,\u25bc16,2,2014
+26,175,103,+17:45,,92.0,Colonna Paolo,103,Bardiani - CSF Pro Team,",, 17:45",+7:10,,\u25bc11,2,2014
+29,72,104,+17:45,,93.0,Agnoli Valerio,104,Astana Pro Team,",, 17:45",+7:10,,\u25bc11,2,2014
+25,17,105,+17:45,,89.0,Sergent Jesse,105,Trek Factory Racing,",, 17:45",+7:10,,\u25bc16,2,2014
+22,94,106,+17:45,,87.0,Koch Michel,106,Cannondale,",, 17:45",+7:10,,\u25bc19,2,2014
+23,188,107,+17:45,,110.0,Haddi Soufiane,107,Skydive Dubai Pro Cycling Team,",, 17:45",+7:10,,\u25b23,2,2014
+22,98,108,+17:45,,82.0,Villella Davide,108,Cannondale,",, 17:45",+7:10,,\u25bc26,2,2014
+31,184,109,+17:45,,111.0,Jelloul Adil,109,Skydive Dubai Pro Cycling Team,",, 17:45",+7:10,,\u25b22,2,2014
+34,12,110,+17:45,,91.0,Devolder Stijn,110,Trek Factory Racing,",, 17:45",+7:10,,\u25bc19,2,2014
+36,161,111,+17:45,,100.0,F\xf6rster Robert,111,UnitedHealthcare Pro Cycling Team,",, 17:45",+7:10,,\u25bc11,2,2014
+30,181,112,+17:45,,129.0,Haedo Lucas Sebastian,112,Skydive Dubai Pro Cycling Team,",, 17:45",+7:10,,\u25b217,2,2014
+25,91,113,+17:45,,98.0,Viviani Elia,113,Cannondale,",, 17:45",+7:10,,\u25bc15,2,2014
+27,95,114,+17:45,,97.0,Koren Kristijan,114,Cannondale,",, 17:45",+7:10,,\u25bc17,2,2014
+27,186,115,+17:45,,127.0,Pliuschin Alexandr,115,Skydive Dubai Pro Cycling Team,",, 17:45",+7:10,,\u25b212,2,2014
+27,28,116,+17:45,,120.0,van Genechten Jonas,116,Lotto Belisol,",, 17:45",+7:10,,\u25b24,2,2014
+33,16,117,+17:45,,102.0,Roulston Hayden,117,Trek Factory Racing,",, 17:45",+7:10,,\u25bc15,2,2014
+33,73,118,+17:45,,99.0,Bozic Borut,118,Astana Pro Team,",, 17:45",+7:10,,\u25bc19,2,2014
+34,54,119,+17:45,,96.0,Fischer Murilo Antonio,119,FDJ.fr,",, 17:45",+7:10,,\u25bc23,2,2014
+25,108,120,+17:45,,115.0,Pelucchi Matteo,120,IAM Cycling,",, 17:45",+7:10,,\u25bc5,2,2014
+23,178,121,+17:45,,134.0,Ruffoni Nicola,121,Bardiani - CSF Pro Team,",, 17:45",+7:10,,\u25b213,2,2014
+24,64,122,+17:45,,106.0,Puccio Salvatore,122,Team Sky,",, 17:45",+7:10,,\u25bc16,2,2014
+27,144,123,+17:45,,118.0,Gaudin Damien,123,AG2R La Mondiale,",, 17:45",+7:10,,\u25bc5,2,2014
+24,154,124,+17:45,,132.0,Sprengers Thomas,124,Topsport Vlaanderen - Baloise,",, 17:45",+7:10,,\u25b28,2,2014
+24,42,125,+17:45,,113.0,Bol Jetse,125,Belkin-Pro Cycling Team,",, 17:45",+7:10,,\u25bc12,2,2014
+31,163,126,+17:45,,108.0,Hanson Ken,126,UnitedHealthcare Pro Cycling Team,",, 17:45",+7:10,,\u25bc18,2,2014
+36,118,127,+17:45,,95.0,Tuft Svein,127,Orica GreenEDGE,",, 17:45",+7:10,,\u25bc32,2,2014
+27,168,128,+17:45,,101.0,Reijnen Kiel,128,UnitedHealthcare Pro Cycling Team,",, 17:45",+7:10,,\u25bc27,2,2014
+24,172,129,+17:45,,116.0,Boem Nicola,129,Bardiani - CSF Pro Team,",, 17:45",+7:10,,\u25bc13,2,2014
+23,146,130,+17:45,,112.0,Houle Hugo,130,AG2R La Mondiale,",, 17:45",+7:10,,\u25bc18,2,2014
+24,171,131,+17:45,,119.0,Battaglin Enrico,131,Bardiani - CSF Pro Team,",, 17:45",+7:10,,\u25bc12,2,2014
+27,92,132,+17:45,,128.0,De Marchi Alessandro,132,Cannondale,",, 17:45",+7:10,,\u25bc4,2,2014
+34,15,133,+17:45,,131.0,Rast Gregory,133,Trek Factory Racing,",, 17:45",+7:10,,\u25bc2,2,2014
+25,135,134,+19:41,,140.0,Schorn Daniel,134,Team NetApp \u2013 Endura,19:41 19:41,+2:31,,\u25b26,2,2014
+39,105,135,+19:41,,144.0,Hinault S\xe9bastien,135,IAM Cycling,",, 19:41",+2:31,,\u25b29,2,2014
+30,43,136,+20:58,,114.0,Bos Theo,136,Belkin-Pro Cycling Team,20:58 20:58,+10:23,,\u25bc22,2,2014
+37,185,137,+24:20,,135.0,Mancebo Francisco,137,Skydive Dubai Pro Cycling Team,24:20 24:20,+7:10,,\u25bc2,2,2014
+26,145,138,+24:20,,147.0,Gretsch Patrick,138,AG2R La Mondiale,",, 24:20",+7:10,,\u25b29,2,2014
+29,76,139,+24:20,,148.0,Iglinskiy Valentin,139,Astana Pro Team,",, 24:20",+7:10,,\u25b29,2,2014
+22,111,140,+24:20,,141.0,Hepburn Michael,140,Orica GreenEDGE,",, 24:20",+7:10,,\u25b21,2,2014
+24,75,141,+24:20,,136.0,Huffman Evan,141,Astana Pro Team,",, 24:20",+7:10,,\u25bc5,2,2014
+27,107,142,+24:20,,142.0,Klemme Dominic,142,IAM Cycling,",, 24:20",+7:10,,-,2,2014
+21,125,143,+24:20,,150.0,Kol\xe1\u0159 Michael,143,Tinkoff - Saxo,",, 24:20",+7:10,,\u25b27,2,2014
+24,183,144,+24:20,,145.0,Hasnaoui Maher,144,Skydive Dubai Pro Cycling Team,",, 24:20",+7:10,,\u25b21,2,2014
+26,143,145,+24:20,,146.0,Gastauer Ben,145,AG2R La Mondiale,",, 24:20",+7:10,,\u25b21,2,2014
+29,164,146,+24:20,,143.0,Ile\u0161i\u010d Aldo Ino,146,UnitedHealthcare Pro Cycling Team,",, 24:20",+7:10,,\u25bc3,2,2014
+33,148,147,+24:20,,149.0,Riblon Christophe,147,AG2R La Mondiale,",, 24:20",+7:10,,\u25b22,2,2014
+29,106,148,+24:20,,138.0,Ista Kevyn,148,IAM Cycling,",, 24:20",+7:10,,\u25bc10,2,2014
+23,102,149,+24:20,,137.0,Aregger Marcel,149,IAM Cycling,",, 24:20",+7:10,,\u25bc12,2,2014
+24,177,150,+24:20,,152.0,Locatelli Stefano,150,Bardiani - CSF Pro Team,",, 24:20",+7:10,,\u25b22,2,2014
+30,187,151,+24:20,,151.0,Pujol Oscar,151,Skydive Dubai Pro Cycling Team,",, 24:20",+7:10,,-,2,2014
+29,6,1,+0:00,,1.0,Terpstra Niki,1,Omega Pharma - Quick-Step,6:57:06 6:57:06,+0:00,10.0,-,3,2014
+28,26,2,+0:21,,2.0,Roelandts Jurgen,2,Lotto Belisol,0:21 0:21,+0:16,,-,3,2014
+28,41,3,+0:24,,9.0,Boom Lars,3,Belkin-Pro Cycling Team,0:24 0:24,+-1:53,,\u25b26,3,2014
+33,1,4,+0:28,,3.0,Boonen Tom,4,Omega Pharma - Quick-Step,0:28 0:28,+0:14,,\u25bc1,3,2014
+26,67,5,+0:35,,7.0,Stannard Ian,5,Team Sky,0:35 0:35,+0:09,,\u25b22,3,2014
+22,7,6,+0:45,,12.0,van Keirsbulck Guillaume,6,Omega Pharma - Quick-Step,0:45 0:45,+0:05,,\u25b26,3,2014
+28,128,7,+0:49,,4.0,M\xf8rk\xf8v Michael,7,Tinkoff - Saxo,0:49 0:49,+0:29,,\u25bc3,3,2014
+31,27,8,+0:49,,5.0,Sieberg Marcel,8,Lotto Belisol,",, 0:49",+0:23,,\u25bc3,3,2014
+29,8,9,+0:58,,13.0,Vandenbergh Stijn,9,Omega Pharma - Quick-Step,0:58 0:58,+0:18,,\u25b24,3,2014
+23,2,10,+1:06,,6.0,Fenn Andrew,10,Omega Pharma - Quick-Step,1:06 1:06,+0:40,,\u25bc4,3,2014
+38,126,11,+1:20,,10.0,Kroon Karsten,11,Tinkoff - Saxo,1:20 1:20,+0:49,,\u25bc1,3,2014
+31,31,12,+1:21,,28.0,Gilbert Philippe,12,BMC Racing Team,1:21 1:21,+0:07,,\u25b216,3,2014
+33,5,13,+1:23,,26.0,Steegmans Gert,13,Omega Pharma - Quick-Step,1:23 1:23,+0:09,,\u25b213,3,2014
+27,4,14,+1:25,,11.0,Maes Nikolas,14,Omega Pharma - Quick-Step,1:25 1:25,+0:51,,\u25bc3,3,2014
+22,51,15,+1:32,,16.0,D\xe9mare Arnaud,15,FDJ.fr,1:32 1:32,+0:18,,\u25b21,3,2014
+27,36,16,+1:34,,14.0,Schar Michael,16,BMC Racing Team,1:34 1:34,+0:31,,\u25bc2,3,2014
+31,21,17,+1:37,,19.0,Greipel Andr\xe9,17,Lotto Belisol,1:37 1:37,+0:23,,\u25b22,3,2014
+34,22,18,+1:42,,27.0,Bak Lars Ytting,18,Lotto Belisol,1:42 1:42,+0:28,,\u25b29,3,2014
+31,3,19,+1:43,,21.0,Keisse Iljo,19,Omega Pharma - Quick-Step,1:43 1:43,+0:29,,\u25b22,3,2014
+29,123,20,+1:46,,8.0,Breschel Matti,20,Tinkoff - Saxo,1:46 1:46,+1:20,,\u25bc12,3,2014
+29,97,21,+1:47,,23.0,Marangoni Alan,21,Cannondale,1:47 1:47,+0:33,,\u25b22,3,2014
+28,34,22,+1:53,,29.0,Kohler Martin,22,BMC Racing Team,1:53 1:53,+0:39,,\u25b27,3,2014
+26,74,23,+1:57,,31.0,Guarnieri Jacopo,23,Astana Pro Team,1:57 1:57,+0:43,,\u25b28,3,2014
+35,112,24,+2:00,,22.0,Hayman Mathew,24,Orica GreenEDGE,2:00 2:00,+0:46,,\u25bc2,3,2014
+24,158,25,+2:03,,25.0,Wallays Jelle,25,Topsport Vlaanderen - Baloise,2:03 2:03,+0:49,,-,3,2014
+27,115,26,+2:05,,15.0,Kruopis Aidis,26,Orica GreenEDGE,2:05 2:05,+0:52,,\u25bc11,3,2014
+28,53,27,+2:06,,24.0,Delage Micka\xebl,27,FDJ.fr,2:06 2:06,+0:52,,\u25bc3,3,2014
+22,45,28,+2:07,,20.0,Markus Barry,28,Belkin-Pro Cycling Team,2:07 2:07,+0:53,,\u25bc8,3,2014
+24,86,29,+2:15,,18.0,Selig R\xfcdiger,29,Team Katusha,2:15 2:15,+1:01,,\u25bc11,3,2014
+27,156,30,+2:23,,30.0,Vanspeybrouck Pieter,30,Topsport Vlaanderen - Baloise,2:23 2:23,+1:09,,-,3,2014
+25,133,31,+2:46,,34.0,Jarc Bla\u017e,31,Team NetApp \u2013 Endura,2:46 2:46,+0:30,,\u25b23,3,2014
+35,103,32,+2:50,,38.0,Elmiger Martin,32,IAM Cycling,2:50 2:50,+0:02,,\u25b26,3,2014
+28,47,33,+2:54,,37.0,van Emden Jos,33,Belkin-Pro Cycling Team,2:54 2:54,+0:10,,\u25b24,3,2014
+23,66,34,+2:56,,35.0,Rowe Luke,34,Team Sky,2:56 2:56,+0:32,,\u25b21,3,2014
+31,147,35,+2:57,,32.0,Mondory Lloyd,35,AG2R La Mondiale,2:57 2:57,+1:06,,\u25bc3,3,2014
+25,151,36,+2:58,,17.0,van Staeyen Michael,36,Topsport Vlaanderen - Baloise,2:58 2:58,+1:44,,\u25bc19,3,2014
+28,37,37,+3:09,,40.0,Van Avermaet Greg,37,BMC Racing Team,3:09 3:09,+0:15,,\u25b23,3,2014
+23,33,38,+3:09,,44.0,Dillier Silvan,38,BMC Racing Team,",, 3:09",+0:15,,\u25b26,3,2014
+34,14,39,+3:16,,33.0,Popovych Yaroslav,39,Trek Factory Racing,3:16 3:16,+1:13,,\u25bc6,3,2014
+26,81,40,+3:26,,39.0,Kristoff Alexander,40,Team Katusha,3:26 3:26,+0:34,,\u25bc1,3,2014
+30,48,41,+3:30,,36.0,Wagner Robert,41,Belkin-Pro Cycling Team,3:30 3:30,+0:46,,\u25bc5,3,2014
+22,157,42,+3:52,,43.0,Waeytens Zico,42,Topsport Vlaanderen - Baloise,3:52 3:52,+0:58,,\u25b21,3,2014
+26,132,43,+3:58,,45.0,Dempster Zakkari,43,Team NetApp \u2013 Endura,3:58 3:58,+1:04,,\u25b22,3,2014
+27,104,44,+3:59,,47.0,Goddaert Kristof,44,IAM Cycling,3:59 3:59,+0:28,,\u25b23,3,2014
+37,65,45,+4:01,,46.0,Rasch Gabriel,45,Team Sky,4:01 4:01,+1:07,,\u25b21,3,2014
+30,32,46,+4:07,,42.0,Burghardt Marcus,46,BMC Racing Team,4:07 4:07,+1:13,,\u25bc4,3,2014
+25,114,47,+4:27,,48.0,Keukeleire Jens,47,Orica GreenEDGE,4:27 4:27,+0:56,,\u25b21,3,2014
+29,68,48,+4:30,,41.0,Sutton Chris,48,Team Sky,4:30 4:30,+1:36,,\u25bc7,3,2014
+25,25,49,+4:32,,50.0,Ligthart Pim,49,Lotto Belisol,4:32 4:32,+0:36,,\u25b21,3,2014
+25,127,50,+4:58,,49.0,Kump Marko,50,Tinkoff - Saxo,4:58 4:58,+1:02,,\u25bc1,3,2014
+36,46,51,+6:11,,51.0,Tjallingii Maarten,51,Belkin-Pro Cycling Team,6:11 6:11,+0:24,,-,3,2014
+26,23,52,+6:46,,52.0,Boeckmans Kris,52,Lotto Belisol,6:46 6:46,+0:51,,-,3,2014
+32,11,53,+7:31,,66.0,Cancellara Fabian,53,Trek Factory Racing,7:31 7:31,+-1:58,,\u25b213,3,2014
+33,117,54,+7:41,,68.0,Mouris Jens,54,Orica GreenEDGE,7:41 7:41,+0:08,,\u25b214,3,2014
+29,101,55,+7:45,,53.0,Haussler Heinrich,55,IAM Cycling,7:45 7:45,+0:33,,\u25bc2,3,2014
+34,116,56,+7:47,,71.0,Lancaster Brett,56,Orica GreenEDGE,7:47 7:47,+0:14,,\u25b215,3,2014
+34,13,57,+7:48,,61.0,Irizar Markel,57,Trek Factory Racing,7:48 7:48,+0:15,,\u25b24,3,2014
+31,78,58,+8:02,,62.0,Westra Lieuwe,58,Astana Pro Team,8:02 8:02,+0:29,,\u25b24,3,2014
+27,58,59,+8:13,,56.0,Offredo Yoann,59,FDJ.fr,8:13 8:13,+0:40,,\u25bc3,3,2014
+28,142,60,+8:17,,58.0,Bagdonas Gediminas,60,AG2R La Mondiale,8:17 8:17,+0:44,,\u25bc2,3,2014
+29,141,61,+8:28,,65.0,Turgot S\xe9bastien,61,AG2R La Mondiale,8:28 8:28,+0:55,,\u25b24,3,2014
+25,153,62,+8:33,,60.0,Salomein Jarl,62,Topsport Vlaanderen - Baloise,8:33 8:33,+1:00,,\u25bc2,3,2014
+28,182,63,+8:35,,55.0,Chtioui Rafa\xe2,63,Skydive Dubai Pro Cycling Team,8:35 8:35,+1:02,,\u25bc8,3,2014
+27,152,64,+8:38,,57.0,Jacobs Pieter,64,Topsport Vlaanderen - Baloise,8:38 8:38,+1:05,,\u25bc7,3,2014
+29,162,65,+8:55,,64.0,Bazzana Alessandro,65,UnitedHealthcare Pro Cycling Team,8:55 8:55,+1:22,,\u25bc1,3,2014
+29,93,66,+8:56,,69.0,Gatto Oscar,66,Cannondale,8:56 8:56,+1:23,,\u25b23,3,2014
+24,71,67,+9:02,,59.0,Guardini Andrea,67,Astana Pro Team,9:02 9:02,+1:29,,\u25bc8,3,2014
+23,131,68,+9:04,,54.0,Bennett Sam,68,Team NetApp \u2013 Endura,9:04 9:04,+1:32,,\u25bc14,3,2014
+29,167,69,+9:04,,72.0,Murphy John,69,UnitedHealthcare Pro Cycling Team,",, 9:04",+0:51,,\u25b23,3,2014
+28,38,70,+9:14,,73.0,Wyss Danilo,70,BMC Racing Team,9:14 9:14,+0:39,,\u25b23,3,2014
+25,24,71,+9:31,,70.0,Dockx Gert,71,Lotto Belisol,9:31 9:31,+1:58,,\u25bc1,3,2014
+24,113,72,+9:43,,74.0,Howard Leigh,72,Orica GreenEDGE,9:43 9:43,+0:30,,\u25b22,3,2014
+34,63,73,+9:59,,76.0,Pate Danny,73,Team Sky,9:59 9:59,+0:46,,\u25b23,3,2014
+23,137,74,+10:26,,75.0,Thwaites Scott,74,Team NetApp \u2013 Endura,10:26 10:26,+1:13,,\u25b21,3,2014
+32,57,75,+10:29,,78.0,Mangel Laurent,75,FDJ.fr,10:29 10:29,+0:48,,\u25b23,3,2014
+23,136,76,+10:49,,77.0,Schwarzmann Michael,76,Team NetApp \u2013 Endura,10:49 10:49,+1:18,,\u25b21,3,2014
+26,87,77,+11:17,,81.0,Smukulis Gatis,77,Team Katusha,11:17 11:17,+0:21,,\u25b24,3,2014
+34,77,78,+11:22,,79.0,Muravyev Dmitriy,78,Astana Pro Team,11:22 11:22,+1:34,,\u25b21,3,2014
+33,121,79,+11:24,,87.0,Bennati Daniele,79,Tinkoff - Saxo,11:24 11:24,+-1:58,,\u25b28,3,2014
+25,174,80,+11:57,,82.0,Coledan Marco,80,Bardiani - CSF Pro Team,11:57 11:57,+0:31,,\u25b22,3,2014
+32,61,81,+12:05,,80.0,Eisel Bernhard,81,Team Sky,12:05 12:05,+1:13,,\u25bc1,3,2014
+24,85,82,+12:19,,83.0,Kuznetsov Viacheslav,82,Team Katusha,12:19 12:19,+0:53,,\u25b21,3,2014
+30,166,83,+12:27,,85.0,Maaskant Martijn,83,UnitedHealthcare Pro Cycling Team,12:27 12:27,+1:01,,\u25b22,3,2014
+30,134,84,+12:31,,84.0,Schillinger Andreas,84,Team NetApp \u2013 Endura,12:31 12:31,+1:05,,-,3,2014
+21,18,85,+12:34,,86.0,Stuyven Jasper,85,Trek Factory Racing,12:34 12:34,+1:08,,\u25b21,3,2014
+22,82,86,+12:56,,88.0,Haller Marco,86,Team Katusha,12:56 12:56,+1:19,,\u25b22,3,2014
+34,44,87,+13:06,,89.0,Brown Graeme,87,Belkin-Pro Cycling Team,13:06 13:06,+1:24,,\u25b22,3,2014
+27,83,88,+13:46,,94.0,Isaychev Vladimir,88,Team Katusha,13:46 13:46,+0:40,,\u25b26,3,2014
+25,176,89,+13:48,,97.0,Fortin Filippo,89,Bardiani - CSF Pro Team,13:48 13:48,+0:42,,\u25b28,3,2014
+27,138,90,+13:55,,96.0,Voss Paul,90,Team NetApp \u2013 Endura,13:55 13:55,+0:49,,\u25b26,3,2014
+31,155,91,+14:10,,91.0,Van Hecke Preben,91,Topsport Vlaanderen - Baloise,14:10 14:10,+1:04,,-,3,2014
+24,88,92,+14:14,,90.0,Tsatevich Alexey,92,Team Katusha,14:14 14:14,+1:08,,\u25bc2,3,2014
+33,96,93,+14:15,,95.0,Longo Borghini Paolo,93,Cannondale,14:15 14:15,+1:09,,\u25b22,3,2014
+34,165,94,+14:42,,92.0,Jones Chris,94,UnitedHealthcare Pro Cycling Team,14:42 14:42,+1:36,,\u25bc2,3,2014
+22,35,95,+14:48,,93.0,Lander Sebastian,95,BMC Racing Team,14:48 14:48,+1:42,,\u25bc2,3,2014
+25,17,96,+17:56,,105.0,Sergent Jesse,96,Trek Factory Racing,17:56 17:56,+0:11,,\u25b29,3,2014
+26,122,97,+18:01,,102.0,Boaro Manuele,97,Tinkoff - Saxo,18:01 18:01,+0:16,,\u25b25,3,2014
+24,124,98,+18:03,,99.0,Juul-Jensen Christopher,98,Tinkoff - Saxo,18:03 18:03,+0:32,,\u25b21,3,2014
+27,144,99,+18:14,,123.0,Gaudin Damien,99,AG2R La Mondiale,18:14 18:14,+0:29,,\u25b224,3,2014
+27,186,100,+18:15,,115.0,Pliuschin Alexandr,100,Skydive Dubai Pro Cycling Team,18:15 18:15,+0:30,,\u25b215,3,2014
+27,92,101,+18:16,,132.0,De Marchi Alessandro,101,Cannondale,18:16 18:16,+0:31,,\u25b231,3,2014
+36,118,102,+18:18,,127.0,Tuft Svein,102,Orica GreenEDGE,18:18 18:18,+0:33,,\u25b225,3,2014
+25,173,103,+18:21,,98.0,Canola Marco,103,Bardiani - CSF Pro Team,18:21 18:21,+1:00,,\u25bc5,3,2014
+27,95,104,+18:21,,114.0,Koren Kristijan,104,Cannondale,",, 18:21",+0:36,,\u25b210,3,2014
+34,12,105,+18:23,,110.0,Devolder Stijn,105,Trek Factory Racing,18:23 18:23,+0:38,,\u25b25,3,2014
+22,94,106,+18:26,,106.0,Koch Michel,106,Cannondale,18:26 18:26,+0:41,,-,3,2014
+24,64,107,+18:26,,122.0,Puccio Salvatore,107,Team Sky,",, 18:26",+0:41,,\u25b215,3,2014
+32,62,108,+18:30,,100.0,Knees Christian,108,Team Sky,18:30 18:30,+0:45,,\u25bc8,3,2014
+33,16,109,+18:32,,117.0,Roulston Hayden,109,Trek Factory Racing,18:32 18:32,+0:47,,\u25b28,3,2014
+22,98,110,+18:33,,108.0,Villella Davide,110,Cannondale,18:33 18:33,+0:48,,\u25bc2,3,2014
+34,84,111,+18:36,,101.0,Kuchynski Aliaksandr,111,Team Katusha,18:36 18:36,+0:51,,\u25bc10,3,2014
+34,54,112,+18:46,,119.0,Fischer Murilo Antonio,112,FDJ.fr,18:46 18:46,+1:01,,\u25b27,3,2014
+25,91,113,+18:46,,113.0,Viviani Elia,113,Cannondale,",, 18:46",+1:01,,-,3,2014
+27,28,114,+18:50,,116.0,van Genechten Jonas,114,Lotto Belisol,18:50 18:50,+1:05,,\u25b22,3,2014
+23,146,115,+18:50,,130.0,Houle Hugo,115,AG2R La Mondiale,",, 18:50",+1:05,,\u25b215,3,2014
+25,108,116,+18:54,,120.0,Pelucchi Matteo,116,IAM Cycling,18:54 18:54,+1:09,,\u25b24,3,2014
+23,188,117,+18:54,,107.0,Haddi Soufiane,117,Skydive Dubai Pro Cycling Team,",, 18:54",+1:09,,\u25bc10,3,2014
+24,154,118,+18:57,,124.0,Sprengers Thomas,118,Topsport Vlaanderen - Baloise,18:57 18:57,+1:12,,\u25b26,3,2014
+34,15,119,+18:58,,133.0,Rast Gregory,119,Trek Factory Racing,18:58 18:58,+1:13,,\u25b214,3,2014
+24,42,120,+19:02,,125.0,Bol Jetse,120,Belkin-Pro Cycling Team,19:02 19:02,+1:17,,\u25b25,3,2014
+24,171,121,+19:02,,131.0,Battaglin Enrico,121,Bardiani - CSF Pro Team,",, 19:02",+1:17,,\u25b210,3,2014
+26,175,122,+19:03,,103.0,Colonna Paolo,122,Bardiani - CSF Pro Team,19:03 19:03,+1:18,,\u25bc19,3,2014
+24,172,123,+19:06,,129.0,Boem Nicola,123,Bardiani - CSF Pro Team,19:06 19:06,+1:21,,\u25b26,3,2014
+29,72,124,+19:14,,104.0,Agnoli Valerio,124,Astana Pro Team,19:14 19:14,+1:29,,\u25bc20,3,2014
+27,168,125,+19:15,,128.0,Reijnen Kiel,125,UnitedHealthcare Pro Cycling Team,19:15 19:15,+1:30,,\u25b23,3,2014
+36,161,126,+19:16,,111.0,F\xf6rster Robert,126,UnitedHealthcare Pro Cycling Team,19:16 19:16,+1:31,,\u25bc15,3,2014
+30,181,127,+19:19,,112.0,Haedo Lucas Sebastian,127,Skydive Dubai Pro Cycling Team,19:19 19:19,+1:34,,\u25bc15,3,2014
+33,73,128,+19:26,,118.0,Bozic Borut,128,Astana Pro Team,19:26 19:26,+1:41,,\u25bc10,3,2014
+31,184,129,+19:27,,109.0,Jelloul Adil,129,Skydive Dubai Pro Cycling Team,19:27 19:27,+1:42,,\u25bc20,3,2014
+23,178,130,+19:36,,121.0,Ruffoni Nicola,130,Bardiani - CSF Pro Team,19:36 19:36,+1:51,,\u25bc9,3,2014
+31,163,131,+19:54,,126.0,Hanson Ken,131,UnitedHealthcare Pro Cycling Team,19:54 19:54,+2:09,,\u25bc5,3,2014
+25,135,132,+20:35,,134.0,Schorn Daniel,132,Team NetApp \u2013 Endura,20:35 20:35,+0:54,,\u25b22,3,2014
+40,105,133,+20:58,,135.0,Hinault S\xe9bastien,133,IAM Cycling,20:58 20:58,+1:17,,\u25b22,3,2014
+30,43,134,+22:49,,136.0,Bos Theo,134,Belkin-Pro Cycling Team,22:49 22:49,+1:51,,\u25b22,3,2014
+22,111,135,+24:12,,140.0,Hepburn Michael,135,Orica GreenEDGE,24:12 24:12,+-1:52,,\u25b25,3,2014
+26,143,136,+24:54,,145.0,Gastauer Ben,136,AG2R La Mondiale,24:54 24:54,+0:34,,\u25b29,3,2014
+24,75,137,+24:55,,141.0,Huffman Evan,137,Astana Pro Team,24:55 24:55,+0:35,,\u25b24,3,2014
+26,145,138,+25:01,,138.0,Gretsch Patrick,138,AG2R La Mondiale,25:01 25:01,+0:41,,-,3,2014
+27,107,139,+25:02,,142.0,Klemme Dominic,139,IAM Cycling,25:02 25:02,+0:42,,\u25b23,3,2014
+37,185,140,+25:10,,137.0,Mancebo Francisco,140,Skydive Dubai Pro Cycling Team,25:10 25:10,+0:50,,\u25bc3,3,2014
+29,106,141,+25:19,,148.0,Ista Kevyn,141,IAM Cycling,25:19 25:19,+0:59,,\u25b27,3,2014
+24,183,142,+25:29,,144.0,Hasnaoui Maher,142,Skydive Dubai Pro Cycling Team,25:29 25:29,+1:09,,\u25b22,3,2014
+23,102,143,+25:29,,149.0,Aregger Marcel,143,IAM Cycling,",, 25:29",+1:09,,\u25b26,3,2014
+21,125,144,+25:29,,143.0,Kol\xe1\u0159 Michael,144,Tinkoff - Saxo,",, 25:29",+1:09,,\u25bc1,3,2014
+33,148,145,+25:33,,147.0,Riblon Christophe,145,AG2R La Mondiale,25:33 25:33,+1:13,,\u25b22,3,2014
+29,76,146,+25:43,,139.0,Iglinskiy Valentin,146,Astana Pro Team,25:43 25:43,+1:23,,\u25bc7,3,2014
+29,164,147,+26:02,,146.0,Ile\u0161i\u010d Aldo Ino,147,UnitedHealthcare Pro Cycling Team,26:02 26:02,+1:42,,\u25bc1,3,2014
+24,177,148,+26:08,,150.0,Locatelli Stefano,148,Bardiani - CSF Pro Team,26:08 26:08,+1:48,,\u25b22,3,2014
+30,187,149,+26:36,,151.0,Pujol Oscar,149,Skydive Dubai Pro Cycling Team,26:36 26:36,+2:16,,\u25b22,3,2014
+29,6,1,+0:00,,1.0,Terpstra Niki,1,Omega Pharma - Quick-Step,9:19:38 9:19:38,+0:00,10.0,-,4,2014
+33,1,2,+0:17,,4.0,Boonen Tom,2,Omega Pharma - Quick-Step,0:17 0:17,+-1:49,,\u25b22,4,2014
+28,26,3,+0:20,,2.0,Roelandts Jurgen,3,Lotto Belisol,0:20 0:20,+-1:59,,\u25bc1,4,2014
+26,67,4,+0:37,,5.0,Stannard Ian,4,Team Sky,0:37 0:37,+0:02,,\u25b21,4,2014
+22,7,5,+0:47,,6.0,van Keirsbulck Guillaume,5,Omega Pharma - Quick-Step,0:47 0:47,+0:02,,\u25b21,4,2014
+28,128,6,+0:48,,7.0,M\xf8rk\xf8v Michael,6,Tinkoff - Saxo,0:48 0:48,+-1:59,,\u25b21,4,2014
+31,27,7,+0:51,,8.0,Sieberg Marcel,7,Lotto Belisol,0:51 0:51,+0:02,,\u25b21,4,2014
+29,8,8,+1:00,,9.0,Vandenbergh Stijn,8,Omega Pharma - Quick-Step,1:00 1:00,+0:02,,\u25b21,4,2014
+23,2,9,+1:08,,10.0,Fenn Andrew,9,Omega Pharma - Quick-Step,1:08 1:08,+0:02,,\u25b21,4,2014
+38,126,10,+1:21,,11.0,Kroon Karsten,10,Tinkoff - Saxo,1:21 1:21,+0:01,,\u25b21,4,2014
+31,31,11,+1:23,,12.0,Gilbert Philippe,11,BMC Racing Team,1:23 1:23,+0:02,,\u25b21,4,2014
+33,5,12,+1:25,,13.0,Steegmans Gert,12,Omega Pharma - Quick-Step,1:25 1:25,+0:02,,\u25b21,4,2014
+27,4,13,+1:27,,14.0,Maes Nikolas,13,Omega Pharma - Quick-Step,1:27 1:27,+0:02,,\u25b21,4,2014
+31,21,14,+1:33,,17.0,Greipel Andr\xe9,14,Lotto Belisol,1:33 1:33,+-1:56,,\u25b23,4,2014
+22,51,15,+1:34,,15.0,D\xe9mare Arnaud,15,FDJ.fr,1:34 1:34,+0:02,,-,4,2014
+27,36,16,+1:36,,16.0,Schar Michael,16,BMC Racing Team,1:36 1:36,+0:02,,-,4,2014
+34,22,17,+1:44,,18.0,Bak Lars Ytting,17,Lotto Belisol,1:44 1:44,+0:02,,\u25b21,4,2014
+29,123,18,+1:48,,20.0,Breschel Matti,18,Tinkoff - Saxo,1:48 1:48,+0:02,,\u25b22,4,2014
+29,97,19,+1:49,,21.0,Marangoni Alan,19,Cannondale,1:49 1:49,+0:02,,\u25b22,4,2014
+28,34,20,+1:55,,22.0,Kohler Martin,20,BMC Racing Team,1:55 1:55,+0:02,,\u25b22,4,2014
+26,74,21,+1:59,,23.0,Guarnieri Jacopo,21,Astana Pro Team,1:59 1:59,+0:02,,\u25b22,4,2014
+35,112,22,+2:02,,24.0,Hayman Mathew,22,Orica GreenEDGE,2:02 2:02,+0:02,,\u25b22,4,2014
+22,45,23,+2:05,,28.0,Markus Barry,23,Belkin-Pro Cycling Team,2:05 2:05,+-1:58,,\u25b25,4,2014
+27,115,24,+2:07,,26.0,Kruopis Aidis,24,Orica GreenEDGE,2:07 2:07,+0:02,,\u25b22,4,2014
+31,3,25,+2:14,,19.0,Keisse Iljo,25,Omega Pharma - Quick-Step,2:14 2:14,+0:31,,\u25bc6,4,2014
+24,86,26,+2:17,,29.0,Selig R\xfcdiger,26,Team Katusha,2:17 2:17,+0:02,,\u25b23,4,2014
+27,156,27,+2:25,,30.0,Vanspeybrouck Pieter,27,Topsport Vlaanderen - Baloise,2:25 2:25,+0:02,,\u25b23,4,2014
+25,133,28,+2:48,,31.0,Jarc Bla\u017e,28,Team NetApp \u2013 Endura,2:48 2:48,+0:02,,\u25b23,4,2014
+35,103,29,+2:52,,32.0,Elmiger Martin,29,IAM Cycling,2:52 2:52,+0:02,,\u25b23,4,2014
+28,47,30,+2:56,,33.0,van Emden Jos,30,Belkin-Pro Cycling Team,2:56 2:56,+0:02,,\u25b23,4,2014
+25,151,31,+3:00,,36.0,van Staeyen Michael,31,Topsport Vlaanderen - Baloise,3:00 3:00,+0:02,,\u25b25,4,2014
+28,37,32,+3:11,,37.0,Van Avermaet Greg,32,BMC Racing Team,3:11 3:11,+0:02,,\u25b25,4,2014
+23,33,33,+3:11,,38.0,Dillier Silvan,33,BMC Racing Team,",, 3:11",+0:02,,\u25b25,4,2014
+34,14,34,+3:18,,39.0,Popovych Yaroslav,34,Trek Factory Racing,3:18 3:18,+0:02,,\u25b25,4,2014
+26,81,35,+3:28,,40.0,Kristoff Alexander,35,Team Katusha,3:28 3:28,+0:02,,\u25b25,4,2014
+30,48,36,+3:43,,41.0,Wagner Robert,36,Belkin-Pro Cycling Team,3:43 3:43,+0:13,,\u25b25,4,2014
+28,41,37,+3:51,,3.0,Boom Lars,37,Belkin-Pro Cycling Team,3:51 3:51,+3:27,,\u25bc34,4,2014
+26,132,38,+4:00,,43.0,Dempster Zakkari,38,Team NetApp \u2013 Endura,4:00 4:00,+0:02,,\u25b25,4,2014
+27,104,39,+4:01,,44.0,Goddaert Kristof,39,IAM Cycling,4:01 4:01,+0:02,,\u25b25,4,2014
+37,65,40,+4:03,,45.0,Rasch Gabriel,40,Team Sky,4:03 4:03,+0:02,,\u25b25,4,2014
+30,32,41,+4:09,,46.0,Burghardt Marcus,41,BMC Racing Team,4:09 4:09,+0:02,,\u25b25,4,2014
+22,157,42,+4:23,,42.0,Waeytens Zico,42,Topsport Vlaanderen - Baloise,4:23 4:23,+0:31,,-,4,2014
+23,66,43,+4:30,,34.0,Rowe Luke,43,Team Sky,4:30 4:30,+1:34,,\u25bc9,4,2014
+29,68,44,+4:32,,48.0,Sutton Chris,44,Team Sky,4:32 4:32,+0:02,,\u25b24,4,2014
+25,114,45,+4:42,,47.0,Keukeleire Jens,45,Orica GreenEDGE,4:42 4:42,+0:15,,\u25b22,4,2014
+25,127,46,+5:00,,50.0,Kump Marko,46,Tinkoff - Saxo,5:00 5:00,+0:02,,\u25b24,4,2014
+25,25,47,+5:06,,49.0,Ligthart Pim,47,Lotto Belisol,5:06 5:06,+0:34,,\u25b22,4,2014
+34,13,48,+7:50,,57.0,Irizar Markel,48,Trek Factory Racing,7:50 7:50,+0:02,,\u25b29,4,2014
+26,23,49,+8:13,,52.0,Boeckmans Kris,49,Lotto Belisol,8:13 8:13,+1:27,,\u25b23,4,2014
+36,46,50,+8:14,,51.0,Tjallingii Maarten,50,Belkin-Pro Cycling Team,8:14 8:14,+2:03,,\u25b21,4,2014
+27,58,51,+8:15,,59.0,Offredo Yoann,51,FDJ.fr,8:15 8:15,+0:02,,\u25b28,4,2014
+28,142,52,+8:19,,60.0,Bagdonas Gediminas,52,AG2R La Mondiale,8:19 8:19,+0:02,,\u25b28,4,2014
+29,141,53,+8:30,,61.0,Turgot S\xe9bastien,53,AG2R La Mondiale,8:30 8:30,+0:02,,\u25b28,4,2014
+25,153,54,+8:35,,62.0,Salomein Jarl,54,Topsport Vlaanderen - Baloise,8:35 8:35,+0:02,,\u25b28,4,2014
+27,152,55,+8:40,,64.0,Jacobs Pieter,55,Topsport Vlaanderen - Baloise,8:40 8:40,+0:02,,\u25b29,4,2014
+29,101,56,+8:47,,55.0,Haussler Heinrich,56,IAM Cycling,8:47 8:47,+1:02,,\u25bc1,4,2014
+29,162,57,+8:57,,65.0,Bazzana Alessandro,57,UnitedHealthcare Pro Cycling Team,8:57 8:57,+0:02,,\u25b28,4,2014
+29,93,58,+8:58,,66.0,Gatto Oscar,58,Cannondale,8:58 8:58,+0:02,,\u25b28,4,2014
+34,116,59,+9:00,,56.0,Lancaster Brett,59,Orica GreenEDGE,9:00 9:00,+1:13,,\u25bc3,4,2014
+24,71,60,+9:04,,67.0,Guardini Andrea,60,Astana Pro Team,9:04 9:04,+0:02,,\u25b27,4,2014
+23,131,61,+9:06,,68.0,Bennett Sam,61,Team NetApp \u2013 Endura,9:06 9:06,+0:02,,\u25b27,4,2014
+24,158,62,+9:07,,25.0,Wallays Jelle,62,Topsport Vlaanderen - Baloise,9:07 9:07,+7:04,,\u25bc37,4,2014
+28,53,63,+9:10,,27.0,Delage Micka\xebl,63,FDJ.fr,9:10 9:10,+7:04,,\u25bc36,4,2014
+28,38,64,+9:16,,70.0,Wyss Danilo,64,BMC Racing Team,9:16 9:16,+0:02,,\u25b26,4,2014
+25,24,65,+9:33,,71.0,Dockx Gert,65,Lotto Belisol,9:33 9:33,+0:02,,\u25b26,4,2014
+31,147,66,+10:01,,35.0,Mondory Lloyd,66,AG2R La Mondiale,10:01 10:01,+7:04,,\u25bc31,4,2014
+32,11,67,+10:58,,53.0,Cancellara Fabian,67,Trek Factory Racing,10:58 10:58,+3:27,,\u25bc14,4,2014
+25,174,68,+11:59,,80.0,Coledan Marco,68,Bardiani - CSF Pro Team,11:59 11:59,+0:02,,\u25b212,4,2014
+24,137,69,+12:00,,74.0,Thwaites Scott,69,Team NetApp \u2013 Endura,12:00 12:00,+1:34,,\u25b25,4,2014
+32,61,70,+12:07,,81.0,Eisel Bernhard,70,Team Sky,12:07 12:07,+0:02,,\u25b211,4,2014
+21,18,71,+12:36,,85.0,Stuyven Jasper,71,Trek Factory Racing,12:36 12:36,+0:02,,\u25b214,4,2014
+33,121,72,+12:41,,79.0,Bennati Daniele,72,Tinkoff - Saxo,12:41 12:41,+1:17,,\u25b27,4,2014
+24,85,73,+12:53,,82.0,Kuznetsov Viacheslav,73,Team Katusha,12:53 12:53,+0:34,,\u25b29,4,2014
+30,166,74,+13:09,,83.0,Maaskant Martijn,74,UnitedHealthcare Pro Cycling Team,13:09 13:09,+0:42,,\u25b29,4,2014
+34,44,75,+13:40,,87.0,Brown Graeme,75,Belkin-Pro Cycling Team,13:40 13:40,+0:34,,\u25b212,4,2014
+27,83,76,+13:48,,88.0,Isaychev Vladimir,76,Team Katusha,13:48 13:48,+0:02,,\u25b212,4,2014
+25,176,77,+13:50,,89.0,Fortin Filippo,77,Bardiani - CSF Pro Team,13:50 13:50,+0:02,,\u25b212,4,2014
+24,88,78,+14:16,,92.0,Tsatevich Alexey,78,Team Katusha,14:16 14:16,+0:02,,\u25b214,4,2014
+33,96,79,+14:17,,93.0,Longo Borghini Paolo,79,Cannondale,14:17 14:17,+0:02,,\u25b214,4,2014
+33,117,80,+14:45,,54.0,Mouris Jens,80,Orica GreenEDGE,14:45 14:45,+7:04,,\u25bc26,4,2014
+31,78,81,+15:06,,58.0,Westra Lieuwe,81,Astana Pro Team,15:06 15:06,+7:04,,\u25bc23,4,2014
+34,165,82,+15:16,,94.0,Jones Chris,82,UnitedHealthcare Pro Cycling Team,15:16 15:16,+0:34,,\u25b212,4,2014
+27,138,83,+15:29,,90.0,Voss Paul,83,Team NetApp \u2013 Endura,15:29 15:29,+1:34,,\u25b27,4,2014
+28,182,84,+15:39,,63.0,Chtioui Rafa\xe2,84,Skydive Dubai Pro Cycling Team,15:39 15:39,+7:04,,\u25bc21,4,2014
+29,167,85,+16:08,,69.0,Murphy John,85,UnitedHealthcare Pro Cycling Team,16:08 16:08,+7:04,,\u25bc16,4,2014
+24,113,86,+16:47,,72.0,Howard Leigh,86,Orica GreenEDGE,16:47 16:47,+7:04,,\u25bc14,4,2014
+34,63,87,+17:03,,73.0,Pate Danny,87,Team Sky,17:03 17:03,+7:04,,\u25bc14,4,2014
+32,57,88,+17:33,,75.0,Mangel Laurent,88,FDJ.fr,17:33 17:33,+7:04,,\u25bc13,4,2014
+23,136,89,+17:53,,76.0,Schwarzmann Michael,89,Team NetApp \u2013 Endura,17:53 17:53,+7:04,,\u25bc13,4,2014
+25,17,90,+17:58,,96.0,Sergent Jesse,90,Trek Factory Racing,17:58 17:58,+0:02,,\u25b26,4,2014
+26,87,91,+18:21,,77.0,Smukulis Gatis,91,Team Katusha,18:21 18:21,+7:04,,\u25bc14,4,2014
+27,95,92,+18:23,,104.0,Koren Kristijan,92,Cannondale,18:23 18:23,+0:02,,\u25b212,4,2014
+34,77,93,+18:26,,78.0,Muravyev Dmitriy,93,Astana Pro Team,18:26 18:26,+7:04,,\u25bc15,4,2014
+22,94,94,+18:28,,106.0,Koch Michel,94,Cannondale,18:28 18:28,+0:02,,\u25b212,4,2014
+24,64,95,+18:28,,107.0,Puccio Salvatore,95,Team Sky,",, 18:28",+0:02,,\u25b212,4,2014
+25,108,96,+18:56,,116.0,Pelucchi Matteo,96,IAM Cycling,18:56 18:56,+0:02,,\u25b220,4,2014
+24,154,97,+18:59,,118.0,Sprengers Thomas,97,Topsport Vlaanderen - Baloise,18:59 18:59,+0:02,,\u25b221,4,2014
+34,84,98,+19:02,,111.0,Kuchynski Aliaksandr,98,Team Katusha,19:02 19:02,+0:26,,\u25b213,4,2014
+24,42,99,+19:04,,120.0,Bol Jetse,99,Belkin-Pro Cycling Team,19:04 19:04,+0:02,,\u25b221,4,2014
+27,28,100,+19:16,,114.0,van Genechten Jonas,100,Lotto Belisol,19:16 19:16,+0:26,,\u25b214,4,2014
+36,161,101,+19:18,,126.0,F\xf6rster Robert,101,UnitedHealthcare Pro Cycling Team,19:18 19:18,+0:02,,\u25b225,4,2014
+34,54,102,+19:20,,112.0,Fischer Murilo Antonio,102,FDJ.fr,19:20 19:20,+0:34,,\u25b210,4,2014
+30,181,103,+19:21,,127.0,Haedo Lucas Sebastian,103,Skydive Dubai Pro Cycling Team,19:21 19:21,+0:02,,\u25b224,4,2014
+30,134,104,+19:35,,84.0,Schillinger Andreas,104,Team NetApp \u2013 Endura,19:35 19:35,+7:04,,\u25bc20,4,2014
+22,82,105,+20:00,,86.0,Haller Marco,105,Team Katusha,20:00 20:00,+7:04,,\u25bc19,4,2014
+31,155,106,+21:14,,91.0,Van Hecke Preben,106,Topsport Vlaanderen - Baloise,21:14 21:14,+7:04,,\u25bc15,4,2014
+24,124,107,+21:30,,98.0,Juul-Jensen Christopher,107,Tinkoff - Saxo,21:30 21:30,+3:27,,\u25bc9,4,2014
+22,35,108,+21:52,,95.0,Lander Sebastian,108,BMC Racing Team,21:52 21:52,+7:04,,\u25bc13,4,2014
+33,73,109,+22:04,,128.0,Bozic Borut,109,Astana Pro Team,22:04 22:04,+2:38,,\u25b219,4,2014
+40,105,110,+22:34,,133.0,Hinault S\xe9bastien,110,IAM Cycling,22:34 22:34,+1:36,,\u25b223,4,2014
+30,43,111,+23:02,,134.0,Bos Theo,111,Belkin-Pro Cycling Team,23:02 23:02,+0:13,,\u25b223,4,2014
+25,135,112,+24:02,,132.0,Schorn Daniel,112,Team NetApp \u2013 Endura,24:02 24:02,+3:27,,\u25b220,4,2014
+26,122,113,+25:05,,97.0,Boaro Manuele,113,Tinkoff - Saxo,25:05 25:05,+7:04,,\u25bc16,4,2014
+27,186,114,+25:19,,100.0,Pliuschin Alexandr,114,Skydive Dubai Pro Cycling Team,25:19 25:19,+7:04,,\u25bc14,4,2014
+27,92,115,+25:20,,101.0,De Marchi Alessandro,115,Cannondale,25:20 25:20,+7:04,,\u25bc14,4,2014
+36,118,116,+25:22,,102.0,Tuft Svein,116,Orica GreenEDGE,25:22 25:22,+7:04,,\u25bc14,4,2014
+25,173,117,+25:25,,103.0,Canola Marco,117,Bardiani - CSF Pro Team,25:25 25:25,+7:04,,\u25bc14,4,2014
+34,12,118,+25:27,,105.0,Devolder Stijn,118,Trek Factory Racing,25:27 25:27,+7:04,,\u25bc13,4,2014
+27,144,119,+25:30,,99.0,Gaudin Damien,119,AG2R La Mondiale,25:30 25:30,+7:16,,\u25bc20,4,2014
+32,62,120,+25:34,,108.0,Knees Christian,120,Team Sky,25:34 25:34,+7:04,,\u25bc12,4,2014
+33,16,121,+25:36,,109.0,Roulston Hayden,121,Trek Factory Racing,25:36 25:36,+7:04,,\u25bc12,4,2014
+22,98,122,+25:37,,110.0,Villella Davide,122,Cannondale,25:37 25:37,+7:04,,\u25bc12,4,2014
+22,111,123,+25:37,,135.0,Hepburn Michael,123,Orica GreenEDGE,",, 25:37",+1:25,,\u25b212,4,2014
+25,91,124,+25:50,,113.0,Viviani Elia,124,Cannondale,25:50 25:50,+7:04,,\u25bc11,4,2014
+23,146,125,+25:54,,115.0,Houle Hugo,125,AG2R La Mondiale,25:54 25:54,+7:04,,\u25bc10,4,2014
+23,188,126,+25:58,,117.0,Haddi Soufiane,126,Skydive Dubai Pro Cycling Team,25:58 25:58,+7:04,,\u25bc9,4,2014
+34,15,127,+26:02,,119.0,Rast Gregory,127,Trek Factory Racing,26:02 26:02,+7:04,,\u25bc8,4,2014
+24,171,128,+26:06,,121.0,Battaglin Enrico,128,Bardiani - CSF Pro Team,26:06 26:06,+7:04,,\u25bc7,4,2014
+26,175,129,+26:07,,122.0,Colonna Paolo,129,Bardiani - CSF Pro Team,26:07 26:07,+7:04,,\u25bc7,4,2014
+24,172,130,+26:10,,123.0,Boem Nicola,130,Bardiani - CSF Pro Team,26:10 26:10,+7:04,,\u25bc7,4,2014
+29,72,131,+26:18,,124.0,Agnoli Valerio,131,Astana Pro Team,26:18 26:18,+7:04,,\u25bc7,4,2014
+31,184,132,+26:31,,129.0,Jelloul Adil,132,Skydive Dubai Pro Cycling Team,26:31 26:31,+7:04,,\u25bc3,4,2014
+23,178,133,+26:40,,130.0,Ruffoni Nicola,133,Bardiani - CSF Pro Team,26:40 26:40,+7:04,,\u25bc3,4,2014
+29,106,134,+26:55,,141.0,Ista Kevyn,134,IAM Cycling,26:55 26:55,+1:36,,\u25b27,4,2014
+31,163,135,+26:58,,131.0,Hanson Ken,135,UnitedHealthcare Pro Cycling Team,26:58 26:58,+7:04,,\u25bc4,4,2014
+26,143,136,+31:58,,136.0,Gastauer Ben,136,AG2R La Mondiale,31:58 31:58,+7:04,,-,4,2014
+24,75,137,+31:59,,137.0,Huffman Evan,137,Astana Pro Team,31:59 31:59,+7:04,,-,4,2014
+26,145,138,+32:05,,138.0,Gretsch Patrick,138,AG2R La Mondiale,32:05 32:05,+7:04,,-,4,2014
+27,107,139,+32:06,,139.0,Klemme Dominic,139,IAM Cycling,32:06 32:06,+7:04,,-,4,2014
+37,185,140,+32:14,,140.0,Mancebo Francisco,140,Skydive Dubai Pro Cycling Team,32:14 32:14,+7:04,,-,4,2014
+24,183,141,+32:33,,142.0,Hasnaoui Maher,141,Skydive Dubai Pro Cycling Team,32:33 32:33,+7:04,,\u25b21,4,2014
+23,102,142,+32:33,,143.0,Aregger Marcel,142,IAM Cycling,",, 32:33",+7:04,,\u25b21,4,2014
+21,125,143,+32:33,,144.0,Kol\xe1\u0159 Michael,143,Tinkoff - Saxo,",, 32:33",+7:04,,\u25b21,4,2014
+33,148,144,+32:37,,145.0,Riblon Christophe,144,AG2R La Mondiale,32:37 32:37,+7:04,,\u25b21,4,2014
+29,76,145,+32:47,,146.0,Iglinskiy Valentin,145,Astana Pro Team,32:47 32:47,+7:04,,\u25b21,4,2014
+29,164,146,+33:06,,147.0,Ile\u0161i\u010d Aldo Ino,146,UnitedHealthcare Pro Cycling Team,33:06 33:06,+7:04,,\u25b21,4,2014
+24,177,147,+33:12,,148.0,Locatelli Stefano,147,Bardiani - CSF Pro Team,33:12 33:12,+7:04,,\u25b21,4,2014
+30,187,148,+33:40,,149.0,Pujol Oscar,148,Skydive Dubai Pro Cycling Team,33:40 33:40,+7:04,,\u25b21,4,2014
+29,6,1,+0:00,,1.0,Terpstra Niki,1,Omega Pharma - Quick-Step,13:08:31 13:08:31,+0:00,10.0,-,5,2014
+33,1,2,+0:17,,2.0,Boonen Tom,2,Omega Pharma - Quick-Step,0:17 0:17,+0:00,,-,5,2014
+28,26,3,+0:20,,3.0,Roelandts Jurgen,3,Lotto Belisol,0:20 0:20,+0:00,,-,5,2014
+26,67,4,+0:37,,4.0,Stannard Ian,4,Team Sky,0:37 0:37,+0:00,,-,5,2014
+28,128,5,+0:48,,6.0,M\xf8rk\xf8v Michael,5,Tinkoff - Saxo,0:48 0:48,+0:00,,\u25b21,5,2014
+31,27,6,+0:56,,7.0,Sieberg Marcel,6,Lotto Belisol,0:56 0:56,+0:05,,\u25b21,5,2014
+22,7,7,+0:57,,5.0,van Keirsbulck Guillaume,7,Omega Pharma - Quick-Step,0:57 0:57,+0:10,,\u25bc2,5,2014
+29,8,8,+1:05,,8.0,Vandenbergh Stijn,8,Omega Pharma - Quick-Step,1:05 1:05,+0:05,,-,5,2014
+23,2,9,+1:18,,9.0,Fenn Andrew,9,Omega Pharma - Quick-Step,1:18 1:18,+0:10,,-,5,2014
+31,21,10,+1:23,,14.0,Greipel Andr\xe9,10,Lotto Belisol,1:23 1:23,+-1:50,,\u25b24,5,2014
+38,126,11,+1:31,,10.0,Kroon Karsten,11,Tinkoff - Saxo,1:31 1:31,+0:10,,\u25bc1,5,2014
+27,4,12,+1:32,,13.0,Maes Nikolas,12,Omega Pharma - Quick-Step,1:32 1:32,+0:05,,\u25b21,5,2014
+31,31,13,+1:33,,11.0,Gilbert Philippe,13,BMC Racing Team,1:33 1:33,+0:10,,\u25bc2,5,2014
+33,5,14,+1:35,,12.0,Steegmans Gert,14,Omega Pharma - Quick-Step,1:35 1:35,+0:10,,\u25bc2,5,2014
+27,36,15,+1:46,,16.0,Schar Michael,15,BMC Racing Team,1:46 1:46,+0:10,,\u25b21,5,2014
+22,51,16,+1:53,,15.0,D\xe9mare Arnaud,16,FDJ.fr,1:53 1:53,+0:19,,\u25bc1,5,2014
+34,22,17,+1:54,,17.0,Bak Lars Ytting,17,Lotto Belisol,1:54 1:54,+0:10,,-,5,2014
+26,74,18,+1:59,,21.0,Guarnieri Jacopo,18,Astana Pro Team,1:59 1:59,+0:00,,\u25b23,5,2014
+29,97,19,+1:59,,19.0,Marangoni Alan,19,Cannondale,",, 1:59",+0:10,,-,5,2014
+27,115,20,+2:01,,24.0,Kruopis Aidis,20,Orica GreenEDGE,2:01 2:01,+-1:54,,\u25b24,5,2014
+28,34,21,+2:05,,20.0,Kohler Martin,21,BMC Racing Team,2:05 2:05,+0:10,,\u25bc1,5,2014
+22,45,22,+2:05,,23.0,Markus Barry,22,Belkin-Pro Cycling Team,",, 2:05",+0:00,,\u25b21,5,2014
+29,123,23,+2:07,,18.0,Breschel Matti,23,Tinkoff - Saxo,2:07 2:07,+0:19,,\u25bc5,5,2014
+35,112,24,+2:07,,22.0,Hayman Mathew,24,Orica GreenEDGE,",, 2:07",+0:05,,\u25bc2,5,2014
+27,156,25,+2:30,,27.0,Vanspeybrouck Pieter,25,Topsport Vlaanderen - Baloise,2:30 2:30,+0:05,,\u25b22,5,2014
+25,151,26,+3:00,,31.0,van Staeyen Michael,26,Topsport Vlaanderen - Baloise,3:00 3:00,+0:00,,\u25b25,5,2014
+35,103,27,+3:11,,29.0,Elmiger Martin,27,IAM Cycling,3:11 3:11,+0:19,,\u25b22,5,2014
+23,33,28,+3:21,,33.0,Dillier Silvan,28,BMC Racing Team,3:21 3:21,+0:10,,\u25b25,5,2014
+31,3,29,+3:32,,25.0,Keisse Iljo,29,Omega Pharma - Quick-Step,3:32 3:32,+1:18,,\u25bc4,5,2014
+24,86,30,+3:35,,26.0,Selig R\xfcdiger,30,Team Katusha,3:35 3:35,+1:18,,\u25bc4,5,2014
+28,37,31,+3:42,,32.0,Van Avermaet Greg,31,BMC Racing Team,3:42 3:42,+0:31,,\u25b21,5,2014
+34,14,32,+3:49,,34.0,Popovych Yaroslav,32,Trek Factory Racing,3:49 3:49,+0:31,,\u25b22,5,2014
+30,48,33,+3:53,,36.0,Wagner Robert,33,Belkin-Pro Cycling Team,3:53 3:53,+0:10,,\u25b23,5,2014
+25,133,34,+4:01,,28.0,Jarc Bla\u017e,34,Team NetApp \u2013 Endura,4:01 4:01,+1:13,,\u25bc6,5,2014
+26,132,35,+4:05,,38.0,Dempster Zakkari,35,Team NetApp \u2013 Endura,4:05 4:05,+0:05,,\u25b23,5,2014
+27,104,36,+4:11,,39.0,Goddaert Kristof,36,IAM Cycling,4:11 4:11,+0:10,,\u25b23,5,2014
+37,65,37,+4:13,,40.0,Rasch Gabriel,37,Team Sky,4:13 4:13,+0:10,,\u25b23,5,2014
+28,47,38,+4:14,,30.0,van Emden Jos,38,Belkin-Pro Cycling Team,4:14 4:14,+1:18,,\u25bc8,5,2014
+28,41,39,+4:18,,37.0,Boom Lars,39,Belkin-Pro Cycling Team,4:18 4:18,+0:27,,\u25bc2,5,2014
+26,81,40,+4:20,,35.0,Kristoff Alexander,40,Team Katusha,4:20 4:20,+0:52,,\u25bc5,5,2014
+22,157,41,+4:33,,42.0,Waeytens Zico,41,Topsport Vlaanderen - Baloise,4:33 4:33,+0:10,,\u25b21,5,2014
+29,68,42,+4:37,,44.0,Sutton Chris,42,Team Sky,4:37 4:37,+0:05,,\u25b22,5,2014
+30,32,43,+4:40,,41.0,Burghardt Marcus,43,BMC Racing Team,4:40 4:40,+0:31,,\u25bc2,5,2014
+25,127,44,+5:00,,46.0,Kump Marko,44,Tinkoff - Saxo,5:00 5:00,+0:00,,\u25b22,5,2014
+23,66,45,+5:48,,43.0,Rowe Luke,45,Team Sky,5:48 5:48,+1:18,,\u25bc2,5,2014
+25,114,46,+6:00,,45.0,Keukeleire Jens,46,Orica GreenEDGE,6:00 6:00,+1:18,,\u25bc1,5,2014
+25,25,47,+6:24,,47.0,Ligthart Pim,47,Lotto Belisol,6:24 6:24,+1:18,,-,5,2014
+34,13,48,+8:20,,48.0,Irizar Markel,48,Trek Factory Racing,8:20 8:20,+0:30,,-,5,2014
+27,58,49,+8:25,,51.0,Offredo Yoann,49,FDJ.fr,8:25 8:25,+0:10,,\u25b22,5,2014
+28,142,50,+8:38,,52.0,Bagdonas Gediminas,50,AG2R La Mondiale,8:38 8:38,+0:19,,\u25b22,5,2014
+36,46,51,+8:45,,50.0,Tjallingii Maarten,51,Belkin-Pro Cycling Team,8:45 8:45,+0:31,,\u25bc1,5,2014
+23,131,52,+9:06,,61.0,Bennett Sam,52,Team NetApp \u2013 Endura,9:06 9:06,+0:00,,\u25b29,5,2014
+25,153,53,+9:06,,54.0,Salomein Jarl,53,Topsport Vlaanderen - Baloise,",, 9:06",+0:31,,\u25b21,5,2014
+27,152,54,+9:07,,55.0,Jacobs Pieter,54,Topsport Vlaanderen - Baloise,9:07 9:07,+0:27,,\u25b21,5,2014
+29,93,55,+9:08,,58.0,Gatto Oscar,55,Cannondale,9:08 9:08,+0:10,,\u25b23,5,2014
+24,71,56,+9:14,,60.0,Guardini Andrea,56,Astana Pro Team,9:14 9:14,+0:10,,\u25b24,5,2014
+29,141,57,+9:19,,53.0,Turgot S\xe9bastien,57,AG2R La Mondiale,9:19 9:19,+0:49,,\u25bc4,5,2014
+29,162,58,+9:28,,57.0,Bazzana Alessandro,58,UnitedHealthcare Pro Cycling Team,9:28 9:28,+0:31,,\u25bc1,5,2014
+34,116,59,+9:31,,59.0,Lancaster Brett,59,Orica GreenEDGE,9:31 9:31,+0:31,,-,5,2014
+27,23,60,+9:31,,49.0,Boeckmans Kris,60,Lotto Belisol,",, 9:31",+1:18,,\u25bc11,5,2014
+28,53,61,+9:41,,63.0,Delage Micka\xebl,61,FDJ.fr,9:41 9:41,+0:31,,\u25b22,5,2014
+28,38,62,+9:47,,64.0,Wyss Danilo,62,BMC Racing Team,9:47 9:47,+0:31,,\u25b22,5,2014
+29,101,63,+10:05,,56.0,Haussler Heinrich,63,IAM Cycling,10:05 10:05,+1:18,,\u25bc7,5,2014
+31,147,64,+10:11,,66.0,Mondory Lloyd,64,AG2R La Mondiale,10:11 10:11,+0:10,,\u25b22,5,2014
+24,158,65,+10:25,,62.0,Wallays Jelle,65,Topsport Vlaanderen - Baloise,10:25 10:25,+1:18,,\u25bc3,5,2014
+25,24,66,+10:51,,65.0,Dockx Gert,66,Lotto Belisol,10:51 10:51,+1:18,,\u25bc1,5,2014
+25,174,67,+12:04,,68.0,Coledan Marco,67,Bardiani - CSF Pro Team,12:04 12:04,+0:05,,\u25b21,5,2014
+32,11,68,+12:16,,67.0,Cancellara Fabian,68,Trek Factory Racing,12:16 12:16,+1:18,,\u25bc1,5,2014
+32,61,69,+12:38,,70.0,Eisel Bernhard,69,Team Sky,12:38 12:38,+0:31,,\u25b21,5,2014
+33,121,70,+12:41,,72.0,Bennati Daniele,70,Tinkoff - Saxo,12:41 12:41,+0:00,,\u25b22,5,2014
+21,18,71,+12:41,,71.0,Stuyven Jasper,71,Trek Factory Racing,",, 12:41",+0:05,,-,5,2014
+24,85,72,+13:03,,73.0,Kuznetsov Viacheslav,72,Team Katusha,13:03 13:03,+0:10,,\u25b21,5,2014
+30,166,73,+13:09,,74.0,Maaskant Martijn,73,UnitedHealthcare Pro Cycling Team,13:09 13:09,+0:00,,\u25b21,5,2014
+24,137,74,+13:18,,69.0,Thwaites Scott,74,Team NetApp \u2013 Endura,13:18 13:18,+1:18,,\u25bc5,5,2014
+25,176,75,+13:50,,77.0,Fortin Filippo,75,Bardiani - CSF Pro Team,13:50 13:50,+0:00,,\u25b22,5,2014
+24,88,76,+14:26,,78.0,Tsatevich Alexey,76,Team Katusha,14:26 14:26,+0:10,,\u25b22,5,2014
+27,83,77,+14:36,,76.0,Isaychev Vladimir,77,Team Katusha,14:36 14:36,+0:48,,\u25bc1,5,2014
+33,96,78,+15:35,,79.0,Longo Borghini Paolo,78,Cannondale,15:35 15:35,+1:18,,\u25b21,5,2014
+33,117,79,+16:03,,80.0,Mouris Jens,79,Orica GreenEDGE,16:03 16:03,+1:18,,\u25b21,5,2014
+29,167,80,+16:18,,85.0,Murphy John,80,UnitedHealthcare Pro Cycling Team,16:18 16:18,+0:10,,\u25b25,5,2014
+31,78,81,+16:24,,81.0,Westra Lieuwe,81,Astana Pro Team,16:24 16:24,+1:18,,-,5,2014
+28,182,82,+16:27,,84.0,Chtioui Rafa\xe2,82,Skydive Dubai Pro Cycling Team,16:27 16:27,+0:48,,\u25b22,5,2014
+34,165,83,+16:34,,82.0,Jones Chris,83,UnitedHealthcare Pro Cycling Team,16:34 16:34,+1:18,,\u25bc1,5,2014
+27,138,84,+16:47,,83.0,Voss Paul,84,Team NetApp \u2013 Endura,16:47 16:47,+1:18,,\u25bc1,5,2014
+34,44,85,+17:33,,75.0,Brown Graeme,85,Belkin-Pro Cycling Team,17:33 17:33,+3:53,,\u25bc10,5,2014
+24,113,86,+18:05,,86.0,Howard Leigh,86,Orica GreenEDGE,18:05 18:05,+1:18,,-,5,2014
+34,63,87,+18:21,,87.0,Pate Danny,87,Team Sky,18:21 18:21,+1:18,,-,5,2014
+25,17,88,+18:29,,90.0,Sergent Jesse,88,Trek Factory Racing,18:29 18:29,+0:31,,\u25b22,5,2014
+23,136,89,+18:45,,89.0,Schwarzmann Michael,89,Team NetApp \u2013 Endura,18:45 18:45,+0:52,,-,5,2014
+26,87,90,+18:52,,91.0,Smukulis Gatis,90,Team Katusha,18:52 18:52,+0:31,,\u25b21,5,2014
+27,95,91,+18:54,,92.0,Koren Kristijan,91,Cannondale,18:54 18:54,+0:31,,\u25b21,5,2014
+25,108,92,+18:56,,96.0,Pelucchi Matteo,92,IAM Cycling,18:56 18:56,+0:00,,\u25b24,5,2014
+34,84,93,+19:12,,98.0,Kuchynski Aliaksandr,93,Team Katusha,19:12 19:12,+0:10,,\u25b25,5,2014
+24,64,94,+19:33,,95.0,Puccio Salvatore,94,Team Sky,19:33 19:33,+1:05,,\u25b21,5,2014
+36,161,95,+19:37,,101.0,F\xf6rster Robert,95,UnitedHealthcare Pro Cycling Team,19:37 19:37,+0:19,,\u25b26,5,2014
+34,77,96,+19:44,,93.0,Muravyev Dmitriy,96,Astana Pro Team,19:44 19:44,+1:18,,\u25bc3,5,2014
+22,94,97,+19:46,,94.0,Koch Michel,97,Cannondale,19:46 19:46,+1:18,,\u25bc3,5,2014
+27,28,98,+19:47,,100.0,van Genechten Jonas,98,Lotto Belisol,19:47 19:47,+0:31,,\u25b22,5,2014
+30,181,99,+19:52,,103.0,Haedo Lucas Sebastian,99,Skydive Dubai Pro Cycling Team,19:52 19:52,+0:31,,\u25b24,5,2014
+24,154,100,+20:17,,97.0,Sprengers Thomas,100,Topsport Vlaanderen - Baloise,20:17 20:17,+1:18,,\u25bc3,5,2014
+24,42,101,+20:22,,99.0,Bol Jetse,101,Belkin-Pro Cycling Team,20:22 20:22,+1:18,,\u25bc2,5,2014
+30,134,102,+20:27,,104.0,Schillinger Andreas,102,Team NetApp \u2013 Endura,20:27 20:27,+0:52,,\u25b22,5,2014
+22,82,103,+20:45,,105.0,Haller Marco,103,Team Katusha,20:45 20:45,+0:45,,\u25b22,5,2014
+32,57,104,+21:26,,88.0,Mangel Laurent,104,FDJ.fr,21:26 21:26,+3:53,,\u25bc16,5,2014
+22,35,105,+22:02,,108.0,Lander Sebastian,105,BMC Racing Team,22:02 22:02,+0:10,,\u25b23,5,2014
+31,155,106,+22:03,,106.0,Van Hecke Preben,106,Topsport Vlaanderen - Baloise,22:03 22:03,+0:49,,-,5,2014
+24,124,107,+22:48,,107.0,Juul-Jensen Christopher,107,Tinkoff - Saxo,22:48 22:48,+1:18,,-,5,2014
+30,43,108,+22:58,,111.0,Bos Theo,108,Belkin-Pro Cycling Team,22:58 22:58,+-1:56,,\u25b23,5,2014
+34,54,109,+23:13,,102.0,Fischer Murilo Antonio,109,FDJ.fr,23:13 23:13,+3:53,,\u25bc7,5,2014
+33,73,110,+23:22,,109.0,Bozic Borut,110,Astana Pro Team,23:22 23:22,+1:18,,\u25bc1,5,2014
+40,105,111,+23:52,,110.0,Hinault S\xe9bastien,111,IAM Cycling,23:52 23:52,+1:18,,\u25bc1,5,2014
+25,135,112,+24:48,,112.0,Schorn Daniel,112,Team NetApp \u2013 Endura,24:48 24:48,+0:46,,-,5,2014
+27,186,113,+25:29,,114.0,Pliuschin Alexandr,113,Skydive Dubai Pro Cycling Team,25:29 25:29,+0:10,,\u25b21,5,2014
+25,91,114,+25:50,,124.0,Viviani Elia,114,Cannondale,25:50 25:50,+0:00,,\u25b210,5,2014
+23,146,115,+26:04,,125.0,Houle Hugo,115,AG2R La Mondiale,26:04 26:04,+0:10,,\u25b210,5,2014
+25,173,116,+26:14,,117.0,Canola Marco,116,Bardiani - CSF Pro Team,26:14 26:14,+0:49,,\u25b21,5,2014
+23,188,117,+26:25,,126.0,Haddi Soufiane,117,Skydive Dubai Pro Cycling Team,26:25 26:25,+0:27,,\u25b29,5,2014
+34,15,118,+26:33,,127.0,Rast Gregory,118,Trek Factory Racing,26:33 26:33,+0:31,,\u25b29,5,2014
+26,175,119,+26:38,,129.0,Colonna Paolo,119,Bardiani - CSF Pro Team,26:38 26:38,+0:31,,\u25b210,5,2014
+36,118,120,+26:40,,116.0,Tuft Svein,120,Orica GreenEDGE,26:40 26:40,+1:18,,\u25bc4,5,2014
+23,178,121,+26:40,,133.0,Ruffoni Nicola,121,Bardiani - CSF Pro Team,",, 26:40",+0:00,,\u25b212,5,2014
+31,184,122,+26:41,,132.0,Jelloul Adil,122,Skydive Dubai Pro Cycling Team,26:41 26:41,+0:10,,\u25b210,5,2014
+34,12,123,+26:44,,118.0,Devolder Stijn,123,Trek Factory Racing,26:44 26:44,+1:17,,\u25bc5,5,2014
+32,62,124,+26:52,,120.0,Knees Christian,124,Team Sky,26:52 26:52,+1:18,,\u25bc4,5,2014
+33,16,125,+26:54,,121.0,Roulston Hayden,125,Trek Factory Racing,26:54 26:54,+1:18,,\u25bc4,5,2014
+24,172,126,+26:55,,130.0,Boem Nicola,126,Bardiani - CSF Pro Team,26:55 26:55,+0:45,,\u25b24,5,2014
+31,163,127,+27:03,,135.0,Hanson Ken,127,UnitedHealthcare Pro Cycling Team,27:03 27:03,+0:05,,\u25b28,5,2014
+27,144,128,+27:15,,119.0,Gaudin Damien,128,AG2R La Mondiale,27:15 27:15,+1:45,,\u25bc9,5,2014
+24,171,129,+27:24,,128.0,Battaglin Enrico,129,Bardiani - CSF Pro Team,27:24 27:24,+1:18,,\u25bc1,5,2014
+22,111,130,+27:37,,123.0,Hepburn Michael,130,Orica GreenEDGE,27:37 27:37,+2:00,,\u25bc7,5,2014
+29,106,131,+28:13,,134.0,Ista Kevyn,131,IAM Cycling,28:13 28:13,+1:18,,\u25b23,5,2014
+27,92,132,+28:17,,115.0,De Marchi Alessandro,132,Cannondale,28:17 28:17,+2:57,,\u25bc17,5,2014
+22,98,133,+28:34,,122.0,Villella Davide,133,Cannondale,28:34 28:34,+2:57,,\u25bc11,5,2014
+26,122,134,+28:58,,113.0,Boaro Manuele,134,Tinkoff - Saxo,28:58 28:58,+3:53,,\u25bc21,5,2014
+29,72,135,+30:11,,131.0,Agnoli Valerio,135,Astana Pro Team,30:11 30:11,+3:53,,\u25bc4,5,2014
+37,185,136,+32:59,,140.0,Mancebo Francisco,136,Skydive Dubai Pro Cycling Team,32:59 32:59,+0:45,,\u25b24,5,2014
+21,125,137,+33:04,,143.0,Kol\xe1\u0159 Michael,137,Tinkoff - Saxo,33:04 33:04,+0:31,,\u25b26,5,2014
+29,76,138,+33:06,,145.0,Iglinskiy Valentin,138,Astana Pro Team,33:06 33:06,+0:19,,\u25b27,5,2014
+26,143,139,+33:16,,136.0,Gastauer Ben,139,AG2R La Mondiale,33:16 33:16,+1:18,,\u25bc3,5,2014
+24,75,140,+33:17,,137.0,Huffman Evan,140,Astana Pro Team,33:17 33:17,+1:18,,\u25bc3,5,2014
+26,145,141,+33:19,,138.0,Gretsch Patrick,141,AG2R La Mondiale,33:19 33:19,+1:14,,\u25bc3,5,2014
+27,107,142,+33:24,,139.0,Klemme Dominic,142,IAM Cycling,33:24 33:24,+1:18,,\u25bc3,5,2014
+23,102,143,+33:51,,142.0,Aregger Marcel,143,IAM Cycling,33:51 33:51,+1:18,,\u25bc1,5,2014
+29,164,144,+34:19,,146.0,Ile\u0161i\u010d Aldo Ino,144,UnitedHealthcare Pro Cycling Team,34:19 34:19,+1:13,,\u25b22,5,2014
+33,148,145,+34:22,,144.0,Riblon Christophe,145,AG2R La Mondiale,34:22 34:22,+1:45,,\u25bc1,5,2014
+30,187,146,+34:28,,148.0,Pujol Oscar,146,Skydive Dubai Pro Cycling Team,34:28 34:28,+0:48,,\u25b22,5,2014
+24,183,147,+36:26,,141.0,Hasnaoui Maher,147,Skydive Dubai Pro Cycling Team,36:26 36:26,+3:53,,\u25bc6,5,2014
+29,6,1,+0:00,150.0,1.0,Terpstra Niki,1,Omega Pharma - Quick-Step,15:53:37 15:53:37,+0:00,100.0,-,6,2014
+33,1,2,+0:17,110.0,2.0,Boonen Tom,2,Omega Pharma - Quick-Step,0:17 0:17,+0:00,70.0,-,6,2014
+28,26,3,+0:20,90.0,3.0,Roelandts Jurgen,3,Lotto Belisol,0:20 0:20,+0:00,40.0,-,6,2014
+26,67,4,+0:37,80.0,4.0,Stannard Ian,4,Team Sky,0:37 0:37,+0:00,30.0,-,6,2014
+28,128,5,+0:48,70.0,5.0,M\xf8rk\xf8v Michael,5,Tinkoff - Saxo,0:48 0:48,+0:00,25.0,-,6,2014
+31,27,6,+0:56,60.0,6.0,Sieberg Marcel,6,Lotto Belisol,0:56 0:56,+0:00,20.0,-,6,2014
+23,7,7,+0:57,55.0,7.0,van Keirsbulck Guillaume,7,Omega Pharma - Quick-Step,0:57 0:57,+0:00,15.0,-,6,2014
+29,8,8,+1:05,50.0,8.0,Vandenbergh Stijn,8,Omega Pharma - Quick-Step,1:05 1:05,+0:00,10.0,-,6,2014
+23,2,9,+1:18,45.0,9.0,Fenn Andrew,9,Omega Pharma - Quick-Step,1:18 1:18,+0:00,9.0,-,6,2014
+31,21,10,+1:23,40.0,10.0,Greipel Andr\xe9,10,Lotto Belisol,1:23 1:23,+0:00,8.0,-,6,2014
+38,126,11,+1:31,36.0,11.0,Kroon Karsten,11,Tinkoff - Saxo,1:31 1:31,+0:00,7.0,-,6,2014
+27,4,12,+1:32,32.0,12.0,Maes Nikolas,12,Omega Pharma - Quick-Step,1:32 1:32,+0:00,6.0,-,6,2014
+31,31,13,+1:33,28.0,13.0,Gilbert Philippe,13,BMC Racing Team,1:33 1:33,+0:00,5.0,-,6,2014
+33,5,14,+1:35,24.0,14.0,Steegmans Gert,14,Omega Pharma - Quick-Step,1:35 1:35,+0:00,4.0,-,6,2014
+22,51,15,+1:43,20.0,16.0,D\xe9mare Arnaud,15,FDJ.fr,1:43 1:43,+-1:50,3.0,\u25b21,6,2014
+27,36,16,+1:46,16.0,15.0,Schar Michael,16,BMC Racing Team,1:46 1:46,+0:00,,\u25bc1,6,2014
+34,22,17,+1:54,14.0,17.0,Bak Lars Ytting,17,Lotto Belisol,1:54 1:54,+0:00,,-,6,2014
+26,74,18,+1:59,12.0,18.0,Guarnieri Jacopo,18,Astana Pro Team,1:59 1:59,+0:00,,-,6,2014
+29,97,19,+1:59,10.0,19.0,Marangoni Alan,19,Cannondale,",, 1:59",+0:00,,-,6,2014
+27,115,20,+2:01,8.0,20.0,Kruopis Aidis,20,Orica GreenEDGE,2:01 2:01,+0:00,,-,6,2014
+28,34,21,+2:05,6.0,21.0,Kohler Martin,21,BMC Racing Team,2:05 2:05,+0:00,,-,6,2014
+22,45,22,+2:05,4.0,22.0,Markus Barry,22,Belkin-Pro Cycling Team,",, 2:05",+0:00,,-,6,2014
+29,123,23,+2:07,3.0,23.0,Breschel Matti,23,Tinkoff - Saxo,2:07 2:07,+0:00,,-,6,2014
+35,112,24,+2:07,2.0,24.0,Hayman Mathew,24,Orica GreenEDGE,",, 2:07",+0:00,,-,6,2014
+27,156,25,+2:30,1.0,25.0,Vanspeybrouck Pieter,25,Topsport Vlaanderen - Baloise,2:30 2:30,+0:00,,-,6,2014
+25,151,26,+3:00,,26.0,van Staeyen Michael,26,Topsport Vlaanderen - Baloise,3:00 3:00,+0:00,,-,6,2014
+35,103,27,+3:11,,27.0,Elmiger Martin,27,IAM Cycling,3:11 3:11,+0:00,,-,6,2014
+23,33,28,+3:21,,28.0,Dillier Silvan,28,BMC Racing Team,3:21 3:21,+0:00,,-,6,2014
+31,3,29,+3:32,,29.0,Keisse Iljo,29,Omega Pharma - Quick-Step,3:32 3:32,+0:00,,-,6,2014
+24,86,30,+3:35,,30.0,Selig R\xfcdiger,30,Team Katusha,3:35 3:35,+0:00,,-,6,2014
+28,37,31,+3:42,,31.0,Van Avermaet Greg,31,BMC Racing Team,3:42 3:42,+0:00,,-,6,2014
+34,14,32,+3:49,,32.0,Popovych Yaroslav,32,Trek Factory Racing,3:49 3:49,+0:00,,-,6,2014
+26,132,33,+4:05,,35.0,Dempster Zakkari,33,Team NetApp \u2013 Endura,4:05 4:05,+0:00,,\u25b22,6,2014
+27,104,34,+4:11,,36.0,Goddaert Kristof,34,IAM Cycling,4:11 4:11,+0:00,,\u25b22,6,2014
+37,65,35,+4:13,,37.0,Rasch Gabriel,35,Team Sky,4:13 4:13,+0:00,,\u25b22,6,2014
+28,41,36,+4:18,,39.0,Boom Lars,36,Belkin-Pro Cycling Team,4:18 4:18,+0:00,,\u25b23,6,2014
+26,81,37,+4:20,,40.0,Kristoff Alexander,37,Team Katusha,4:20 4:20,+0:00,,\u25b23,6,2014
+22,157,38,+4:33,,41.0,Waeytens Zico,38,Topsport Vlaanderen - Baloise,4:33 4:33,+0:00,,\u25b23,6,2014
+30,48,39,+4:36,,33.0,Wagner Robert,39,Belkin-Pro Cycling Team,4:36 4:36,+0:43,,\u25bc6,6,2014
+29,68,40,+4:37,,42.0,Sutton Chris,40,Team Sky,4:37 4:37,+0:00,,\u25b22,6,2014
+25,133,41,+4:56,,34.0,Jarc Bla\u017e,41,Team NetApp \u2013 Endura,4:56 4:56,+0:55,,\u25bc7,6,2014
+25,127,42,+5:00,,44.0,Kump Marko,42,Tinkoff - Saxo,5:00 5:00,+0:00,,\u25b22,6,2014
+30,32,43,+5:15,,43.0,Burghardt Marcus,43,BMC Racing Team,5:15 5:15,+0:35,,-,6,2014
+28,47,44,+5:51,,38.0,van Emden Jos,44,Belkin-Pro Cycling Team,5:51 5:51,+1:37,,\u25bc6,6,2014
+25,114,45,+6:00,,46.0,Keukeleire Jens,45,Orica GreenEDGE,6:00 6:00,+0:00,,\u25b21,6,2014
+25,25,46,+7:07,,47.0,Ligthart Pim,46,Lotto Belisol,7:07 7:07,+0:43,,\u25b21,6,2014
+23,66,47,+7:25,,45.0,Rowe Luke,47,Team Sky,7:25 7:25,+1:37,,\u25bc2,6,2014
+34,13,48,+8:20,,48.0,Irizar Markel,48,Trek Factory Racing,8:20 8:20,+0:00,,-,6,2014
+27,58,49,+8:25,,49.0,Offredo Yoann,49,FDJ.fr,8:25 8:25,+0:00,,-,6,2014
+28,142,50,+8:38,,50.0,Bagdonas Gediminas,50,AG2R La Mondiale,8:38 8:38,+0:00,,-,6,2014
+36,46,51,+8:45,,51.0,Tjallingii Maarten,51,Belkin-Pro Cycling Team,8:45 8:45,+0:00,,-,6,2014
+23,131,52,+9:06,,52.0,Bennett Sam,52,Team NetApp \u2013 Endura,9:06 9:06,+0:00,,-,6,2014
+25,153,53,+9:06,,53.0,Salomein Jarl,53,Topsport Vlaanderen - Baloise,",, 9:06",+0:00,,-,6,2014
+27,152,54,+9:07,,54.0,Jacobs Pieter,54,Topsport Vlaanderen - Baloise,9:07 9:07,+0:00,,-,6,2014
+24,71,55,+9:14,,56.0,Guardini Andrea,55,Astana Pro Team,9:14 9:14,+0:00,,\u25b21,6,2014
+29,141,56,+9:19,,57.0,Turgot S\xe9bastien,56,AG2R La Mondiale,9:19 9:19,+0:00,,\u25b21,6,2014
+34,116,57,+9:31,,59.0,Lancaster Brett,57,Orica GreenEDGE,9:31 9:31,+0:00,,\u25b22,6,2014
+28,53,58,+9:41,,61.0,Delage Micka\xebl,58,FDJ.fr,9:41 9:41,+0:00,,\u25b23,6,2014
+28,38,59,+9:47,,62.0,Wyss Danilo,59,BMC Racing Team,9:47 9:47,+0:00,,\u25b23,6,2014
+29,162,60,+9:48,,58.0,Bazzana Alessandro,60,UnitedHealthcare Pro Cycling Team,9:48 9:48,+0:20,,\u25bc2,6,2014
+31,147,61,+10:11,,64.0,Mondory Lloyd,61,AG2R La Mondiale,10:11 10:11,+0:00,,\u25b23,6,2014
+29,101,62,+10:22,,63.0,Haussler Heinrich,62,IAM Cycling,10:22 10:22,+0:17,,\u25b21,6,2014
+24,158,63,+10:25,,65.0,Wallays Jelle,63,Topsport Vlaanderen - Baloise,10:25 10:25,+0:00,,\u25b22,6,2014
+25,24,64,+10:51,,66.0,Dockx Gert,64,Lotto Belisol,10:51 10:51,+0:00,,\u25b22,6,2014
+29,93,65,+11:41,,55.0,Gatto Oscar,65,Cannondale,11:41 11:41,+2:33,,\u25bc10,6,2014
+25,174,66,+12:04,,67.0,Coledan Marco,66,Bardiani - CSF Pro Team,12:04 12:04,+0:00,,\u25b21,6,2014
+32,11,67,+12:16,,68.0,Cancellara Fabian,67,Trek Factory Racing,12:16 12:16,+0:00,,\u25b21,6,2014
+32,61,68,+12:34,,69.0,Eisel Bernhard,68,Team Sky,12:34 12:34,+-1:56,,\u25b21,6,2014
+33,121,69,+12:35,,70.0,Bennati Daniele,69,Tinkoff - Saxo,12:35 12:35,+-1:54,,\u25b21,6,2014
+21,18,70,+12:41,,71.0,Stuyven Jasper,70,Trek Factory Racing,12:41 12:41,+0:00,,\u25b21,6,2014
+24,85,71,+13:03,,72.0,Kuznetsov Viacheslav,71,Team Katusha,13:03 13:03,+0:00,,\u25b21,6,2014
+30,166,72,+13:09,,73.0,Maaskant Martijn,72,UnitedHealthcare Pro Cycling Team,13:09 13:09,+0:00,,\u25b21,6,2014
+25,176,73,+13:50,,75.0,Fortin Filippo,73,Bardiani - CSF Pro Team,13:50 13:50,+0:00,,\u25b22,6,2014
+24,88,74,+14:26,,76.0,Tsatevich Alexey,74,Team Katusha,14:26 14:26,+0:00,,\u25b22,6,2014
+27,23,75,+15:06,,60.0,Boeckmans Kris,75,Lotto Belisol,15:06 15:06,+5:35,,\u25bc15,6,2014
+33,96,76,+15:35,,78.0,Longo Borghini Paolo,76,Cannondale,15:35 15:35,+0:00,,\u25b22,6,2014
+24,137,77,+16:11,,74.0,Thwaites Scott,77,Team NetApp \u2013 Endura,16:11 16:11,+2:53,,\u25bc3,6,2014
+29,167,78,+16:18,,80.0,Murphy John,78,UnitedHealthcare Pro Cycling Team,16:18 16:18,+0:00,,\u25b22,6,2014
+28,182,79,+16:24,,82.0,Chtioui Rafa\xe2,79,Skydive Dubai Pro Cycling Team,16:24 16:24,+-1:57,,\u25b23,6,2014
+27,83,80,+16:31,,77.0,Isaychev Vladimir,80,Team Katusha,16:31 16:31,+1:55,,\u25bc3,6,2014
+34,165,81,+16:34,,83.0,Jones Chris,81,UnitedHealthcare Pro Cycling Team,16:34 16:34,+0:00,,\u25b22,6,2014
+33,117,82,+17:22,,79.0,Mouris Jens,82,Orica GreenEDGE,17:22 17:22,+1:19,,\u25bc3,6,2014
+27,138,83,+17:42,,84.0,Voss Paul,83,Team NetApp \u2013 Endura,17:42 17:42,+0:55,,\u25b21,6,2014
+31,78,84,+17:46,,81.0,Westra Lieuwe,84,Astana Pro Team,17:46 17:46,+1:22,,\u25bc3,6,2014
+24,113,85,+18:05,,86.0,Howard Leigh,85,Orica GreenEDGE,18:05 18:05,+0:00,,\u25b21,6,2014
+34,44,86,+18:16,,85.0,Brown Graeme,86,Belkin-Pro Cycling Team,18:16 18:16,+0:43,,\u25bc1,6,2014
+34,63,87,+18:21,,87.0,Pate Danny,87,Team Sky,18:21 18:21,+0:00,,-,6,2014
+25,17,88,+18:49,,88.0,Sergent Jesse,88,Trek Factory Racing,18:49 18:49,+0:20,,-,6,2014
+26,87,89,+18:52,,90.0,Smukulis Gatis,89,Team Katusha,18:52 18:52,+0:00,,\u25b21,6,2014
+27,95,90,+18:54,,91.0,Koren Kristijan,90,Cannondale,18:54 18:54,+0:00,,\u25b21,6,2014
+25,108,91,+18:56,,92.0,Pelucchi Matteo,91,IAM Cycling,18:56 18:56,+0:00,,\u25b21,6,2014
+24,64,92,+19:33,,94.0,Puccio Salvatore,92,Team Sky,19:33 19:33,+0:00,,\u25b22,6,2014
+36,161,93,+19:37,,95.0,F\xf6rster Robert,93,UnitedHealthcare Pro Cycling Team,19:37 19:37,+0:00,,\u25b22,6,2014
+34,77,94,+19:44,,96.0,Muravyev Dmitriy,94,Astana Pro Team,19:44 19:44,+0:00,,\u25b22,6,2014
+22,94,95,+19:46,,97.0,Koch Michel,95,Cannondale,19:46 19:46,+0:00,,\u25b22,6,2014
+30,181,96,+19:52,,99.0,Haedo Lucas Sebastian,96,Skydive Dubai Pro Cycling Team,19:52 19:52,+0:00,,\u25b23,6,2014
+27,28,97,+20:04,,98.0,van Genechten Jonas,97,Lotto Belisol,20:04 20:04,+0:17,,\u25b21,6,2014
+24,154,98,+20:17,,100.0,Sprengers Thomas,98,Topsport Vlaanderen - Baloise,20:17 20:17,+0:00,,\u25b22,6,2014
+23,136,99,+20:22,,89.0,Schwarzmann Michael,99,Team NetApp \u2013 Endura,20:22 20:22,+1:37,,\u25bc10,6,2014
+22,82,100,+20:45,,103.0,Haller Marco,100,Team Katusha,20:45 20:45,+0:00,,\u25b23,6,2014
+34,84,101,+21:07,,93.0,Kuchynski Aliaksandr,101,Team Katusha,21:07 21:07,+1:55,,\u25bc8,6,2014
+30,134,102,+21:22,,102.0,Schillinger Andreas,102,Team NetApp \u2013 Endura,21:22 21:22,+0:55,,-,6,2014
+24,42,103,+21:41,,101.0,Bol Jetse,103,Belkin-Pro Cycling Team,21:41 21:41,+1:19,,\u25bc2,6,2014
+22,35,104,+22:02,,105.0,Lander Sebastian,104,BMC Racing Team,22:02 22:02,+0:00,,\u25b21,6,2014
+31,155,105,+22:03,,106.0,Van Hecke Preben,105,Topsport Vlaanderen - Baloise,22:03 22:03,+0:00,,\u25b21,6,2014
+32,57,106,+22:18,,104.0,Mangel Laurent,106,FDJ.fr,22:18 22:18,+0:52,,\u25bc2,6,2014
+24,124,107,+22:48,,107.0,Juul-Jensen Christopher,107,Tinkoff - Saxo,22:48 22:48,+0:00,,-,6,2014
+30,43,108,+22:58,,108.0,Bos Theo,108,Belkin-Pro Cycling Team,22:58 22:58,+0:00,,-,6,2014
+34,54,109,+23:13,,109.0,Fischer Murilo Antonio,109,FDJ.fr,23:13 23:13,+0:00,,-,6,2014
+40,105,110,+24:08,,111.0,Hinault S\xe9bastien,110,IAM Cycling,24:08 24:08,+0:16,,\u25b21,6,2014
+33,73,111,+24:13,,110.0,Bozic Borut,111,Astana Pro Team,24:13 24:13,+0:51,,\u25bc1,6,2014
+25,135,112,+24:48,,112.0,Schorn Daniel,112,Team NetApp \u2013 Endura,24:48 24:48,+0:00,,-,6,2014
+27,186,113,+25:29,,113.0,Pliuschin Alexandr,113,Skydive Dubai Pro Cycling Team,25:29 25:29,+0:00,,-,6,2014
+25,91,114,+25:50,,114.0,Viviani Elia,114,Cannondale,25:50 25:50,+0:00,,-,6,2014
+23,146,115,+26:04,,115.0,Houle Hugo,115,AG2R La Mondiale,26:04 26:04,+0:00,,-,6,2014
+23,188,116,+26:25,,117.0,Haddi Soufiane,116,Skydive Dubai Pro Cycling Team,26:25 26:25,+0:00,,\u25b21,6,2014
+34,15,117,+26:33,,118.0,Rast Gregory,117,Trek Factory Racing,26:33 26:33,+0:00,,\u25b21,6,2014
+23,178,118,+26:40,,121.0,Ruffoni Nicola,118,Bardiani - CSF Pro Team,26:40 26:40,+0:00,,\u25b23,6,2014
+31,184,119,+26:41,,122.0,Jelloul Adil,119,Skydive Dubai Pro Cycling Team,26:41 26:41,+0:00,,\u25b23,6,2014
+34,12,120,+26:44,,123.0,Devolder Stijn,120,Trek Factory Racing,26:44 26:44,+0:00,,\u25b23,6,2014
+33,16,121,+26:54,,125.0,Roulston Hayden,121,Trek Factory Racing,26:54 26:54,+0:00,,\u25b24,6,2014
+26,175,122,+26:55,,119.0,Colonna Paolo,122,Bardiani - CSF Pro Team,26:55 26:55,+0:17,,\u25bc3,6,2014
+31,163,123,+27:03,,127.0,Hanson Ken,123,UnitedHealthcare Pro Cycling Team,27:03 27:03,+0:00,,\u25b24,6,2014
+32,62,124,+27:18,,124.0,Knees Christian,124,Team Sky,27:18 27:18,+0:26,,-,6,2014
+24,171,125,+27:24,,129.0,Battaglin Enrico,125,Bardiani - CSF Pro Team,27:24 27:24,+0:00,,\u25b24,6,2014
+25,173,126,+27:28,,116.0,Canola Marco,126,Bardiani - CSF Pro Team,27:28 27:28,+1:14,,\u25bc10,6,2014
+36,118,127,+27:59,,120.0,Tuft Svein,127,Orica GreenEDGE,27:59 27:59,+1:19,,\u25bc7,6,2014
+24,172,128,+28:09,,126.0,Boem Nicola,128,Bardiani - CSF Pro Team,28:09 28:09,+1:14,,\u25bc2,6,2014
+29,106,129,+28:13,,131.0,Ista Kevyn,129,IAM Cycling,28:13 28:13,+0:00,,\u25b22,6,2014
+27,144,130,+28:28,,128.0,Gaudin Damien,130,AG2R La Mondiale,28:28 28:28,+1:13,,\u25bc2,6,2014
+22,98,131,+28:34,,133.0,Villella Davide,131,Cannondale,28:34 28:34,+0:00,,\u25b22,6,2014
+26,122,132,+29:36,,134.0,Boaro Manuele,132,Tinkoff - Saxo,29:36 29:36,+0:38,,\u25b22,6,2014
+29,72,133,+30:11,,135.0,Agnoli Valerio,133,Astana Pro Team,30:11 30:11,+0:00,,\u25b22,6,2014
+22,111,134,+30:30,,130.0,Hepburn Michael,134,Orica GreenEDGE,30:30 30:30,+2:53,,\u25bc4,6,2014
+27,92,135,+30:52,,132.0,De Marchi Alessandro,135,Cannondale,30:52 30:52,+2:35,,\u25bc3,6,2014
+37,185,136,+32:59,,136.0,Mancebo Francisco,136,Skydive Dubai Pro Cycling Team,32:59 32:59,+0:00,,-,6,2014
+29,76,137,+33:06,,138.0,Iglinskiy Valentin,137,Astana Pro Team,33:06 33:06,+0:00,,\u25b21,6,2014
+26,143,138,+33:16,,139.0,Gastauer Ben,138,AG2R La Mondiale,33:16 33:16,+0:00,,\u25b21,6,2014
+24,75,139,+33:17,,140.0,Huffman Evan,139,Astana Pro Team,33:17 33:17,+0:00,,\u25b21,6,2014
+26,145,140,+33:19,,141.0,Gretsch Patrick,140,AG2R La Mondiale,33:19 33:19,+0:00,,\u25b21,6,2014
+23,102,141,+33:51,,143.0,Aregger Marcel,141,IAM Cycling,33:51 33:51,+0:00,,\u25b22,6,2014
+29,164,142,+34:19,,144.0,Ile\u0161i\u010d Aldo Ino,142,UnitedHealthcare Pro Cycling Team,34:19 34:19,+0:00,,\u25b22,6,2014
+33,148,143,+35:35,,145.0,Riblon Christophe,143,AG2R La Mondiale,35:35 35:35,+1:13,,\u25b22,6,2014
+30,187,144,+35:38,,146.0,Pujol Oscar,144,Skydive Dubai Pro Cycling Team,35:38 35:38,+1:10,,\u25b22,6,2014
+27,107,145,+35:41,,142.0,Klemme Dominic,145,IAM Cycling,35:41 35:41,+2:17,,\u25bc3,6,2014
+24,183,146,+36:26,,147.0,Hasnaoui Maher,146,Skydive Dubai Pro Cycling Team,36:26 36:26,+0:00,,\u25b21,6,2014
+21,125,147,+38:39,,137.0,Kol\xe1\u0159 Michael,147,Tinkoff - Saxo,38:39 38:39,+5:35,,\u25bc10,6,2014

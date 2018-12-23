@@ -1,0 +1,818 @@
+Age,Avg,GC,GC-Time,Pnt,Rider,Rnk,Team,Time,stage,year
+26.0,0.848,1.0,+0:00,30.0,McGee Bradley,1,La Fran\xe7aise des Jeux,4:14:39 4:14:39,0,2002
+23.0,0.843,2.0,+0:01,18.0,Cooke Baden,2,La Fran\xe7aise des Jeux,1:34 1:34,0,2002
+29.0,0.841,3.0,+0:02,12.0,Kjaergaard Steffen,3,US Postal Service,2:07 2:07,0,2002
+22.0,0.836,4.0,+0:03,7.0,Chavanel Sylvain,4,Bonjour,3:37 3:37,0,2002
+30.0,0.833,5.0,+0:04,4.0,Armstrong Lance,5,US Postal Service,4:38 4:38,0,2002
+30.0,0.8320000000000001,6.0,+0:04,3.0,Mattan Nico,6,Cofidis,4:54 4:54,0,2002
+29.0,0.831,7.0,+0:05,2.0,Asmaker Olivier,7,CSC ProTeam - Tiscali,5:23 5:23,0,2002
+33.0,0.831,8.0,+0:05,1.0,Seigneur Eddy,8,Jean Delatour,5:26 5:26,0,2002
+35.0,0.8320000000000001,9.0,+0:05,,Durand Jacky,9,La Fran\xe7aise des Jeux,5:01 5:01,0,2002
+31.0,0.8290000000000001,10.0,+0:05,,Rous Didier,10,Bonjour,5:45 5:45,0,2002
+25.0,0.8290000000000001,11.0,+0:05,,Millar David,11,Cofidis,5:47 5:47,0,2002
+25.0,0.8290000000000001,12.0,+0:06,,Sevilla Oscar,12,Kelme - Costa Blanca,6:01 6:01,0,2002
+27.0,0.8270000000000001,13.0,+0:06,,Gutierrez Jose Enrique,13,Kelme - Costa Blanca,6:29 6:29,0,2002
+22.0,0.826,14.0,+0:06,,Edaleine Christophe,14,Jean Delatour,6:42 6:42,0,2002
+28.0,0.825,15.0,+0:07,,Tauler Toni,15,Kelme - Costa Blanca,7:03 7:03,0,2002
+36.0,0.8240000000000001,16.0,+0:07,,Ekimov Viatcheslav,16,US Postal Service,7:26 7:26,0,2002
+33.0,0.823,17.0,+0:07,,Jalabert Laurent,17,CSC ProTeam - Tiscali,7:54 7:54,0,2002
+29.0,0.821,18.0,+0:08,,Beneteau Walter,18,Bonjour,8:30 8:30,0,2002
+22.0,0.82,19.0,+0:08,,Astarloza Mikel,19,AG2R Pr\xe9voyance,8:45 8:45,0,2002
+29.0,0.8190000000000001,20.0,+0:08,,Rubiera Jos\xe9 Luis,20,US Postal Service,8:58 8:58,0,2002
+28.0,0.8190000000000001,21.0,+0:08,,Bouyer Franck,21,Bonjour,8:59 8:59,0,2002
+26.0,0.818,22.0,+0:09,,van Dijk Stefan,22,Lotto - Adecco,9:19 9:19,0,2002
+22.0,0.818,23.0,+0:09,,Plaza Rub\xe9n,23,Ibanesto.com,9:22 9:22,0,2002
+25.0,0.818,24.0,+0:09,,Zubeldia Haimar,24,Euskaltel - Euskadi,9:25 9:25,0,2002
+29.0,0.8190000000000001,25.0,+0:09,,Botero Santiago,25,Kelme - Costa Blanca,9:04 9:04,0,2002
+24.0,0.8190000000000001,26.0,+0:09,,S\xe1nchez Samuel,26,Euskaltel - Euskadi,",, 9:04",0,2002
+27.0,0.818,27.0,+0:09,,Morin Anthony,27,Cr\xe9dit Agricole,9:16 9:16,0,2002
+31.0,0.818,28.0,+0:09,,Heulot Stephane,28,BigMat - Auber 93,9:17 9:17,0,2002
+28.0,0.818,29.0,+0:09,,Halgand Patrice,29,Jean Delatour,9:20 9:20,0,2002
+26.0,0.8170000000000001,30.0,+0:09,,Joachim Benoit,30,US Postal Service,9:41 9:41,0,2002
+27.0,0.816,31.0,+0:10,,Pe\xf1a Victor Hugo,31,US Postal Service,10:02 10:02,0,2002
+24.0,0.8140000000000001,32.0,+0:10,,Laurent Christophe,32,Jean Delatour,10:39 10:39,0,2002
+31.0,0.816,33.0,+0:10,,Vasseur C\xe9dric,33,Cofidis,10:09 10:09,0,2002
+30.0,0.815,34.0,+0:10,,Guesdon Fr\xe9d\xe9ric,34,La Fran\xe7aise des Jeux,10:22 10:22,0,2002
+25.0,0.815,35.0,+0:10,,Lefevre Laurent,35,Jean Delatour,",, 10:22",0,2002
+31.0,0.813,36.0,+0:11,,Padrnos Pavel,36,US Postal Service,11:08 11:08,0,2002
+30.0,0.812,37.0,+0:11,,Sivakov Alexei,37,BigMat - Auber 93,11:20 11:20,0,2002
+29.0,0.812,38.0,+0:11,,Etxebarria Unai,38,Euskaltel - Euskadi,11:24 11:24,0,2002
+28.0,0.812,39.0,+0:11,,Renier Franck,39,Bonjour,11:31 11:31,0,2002
+33.0,0.813,40.0,+0:11,,Simon Fran\xe7ois,40,Bonjour,11:04 11:04,0,2002
+29.0,0.8109999999999999,41.0,+0:11,,Jalabert Nicolas,41,CSC ProTeam - Tiscali,11:32 11:32,0,2002
+30.0,0.81,42.0,+0:11,,Peron Andrea,42,CSC ProTeam - Tiscali,11:58 11:58,0,2002
+28.0,0.81,43.0,+0:11,,Moerenhout Koos,43,Domo - Farm Frites,12:00 12:00,0,2002
+21.0,0.809,44.0,+0:12,,Van Impe Kevin,44,Lotto - Adecco,12:13 12:13,0,2002
+27.0,0.809,45.0,+0:12,,Bruseghin Marzio,45,Ibanesto.com,12:28 12:28,0,2002
+28.0,0.809,46.0,+0:12,,Mikhailov Guennady,46,Lotto - Adecco,12:30 12:30,0,2002
+26.0,0.81,47.0,+0:12,,Landis Floyd,47,US Postal Service,12:03 12:03,0,2002
+29.0,0.809,48.0,+0:12,,Baranowski Dariusz,48,Ibanesto.com,12:16 12:16,0,2002
+30.0,0.809,49.0,+0:12,,van de Wouwer Kurt,49,Lotto - Adecco,12:26 12:26,0,2002
+28.0,0.809,50.0,+0:12,,Pichon Mickael,50,Bonjour,12:28 12:28,0,2002
+24.0,0.807,51.0,+0:12,,Talabardon S\xe9bastien,51,BigMat - Auber 93,12:52 12:52,0,2002
+27.0,0.807,52.0,+0:12,,Jenner Christopher,52,Cr\xe9dit Agricole,12:58 12:58,0,2002
+21.0,0.8059999999999999,53.0,+0:13,,van Goolen Jurgen,53,Domo - Farm Frites,13:15 13:15,0,2002
+25.0,0.805,54.0,+0:13,,Arrizabalaga Gorka,54,Euskaltel - Euskadi,13:32 13:32,0,2002
+32.0,0.805,55.0,+0:13,,Baguet Serge,55,Lotto - Adecco,13:33 13:33,0,2002
+23.0,0.805,56.0,+0:13,,Casar Sandy,56,La Fran\xe7aise des Jeux,13:37 13:37,0,2002
+28.0,0.807,57.0,+0:13,,Latasa lasa David,57,Ibanesto.com,13:02 13:02,0,2002
+27.0,0.8059999999999999,58.0,+0:13,,S\xf8rensen Nicki,58,CSC ProTeam - Tiscali,13:13 13:13,0,2002
+21.0,0.8059999999999999,59.0,+0:13,,Bodo Thomas,59,La Fran\xe7aise des Jeux,13:30 13:30,0,2002
+28.0,0.805,60.0,+0:13,,Vaughters Jonathan,60,Cr\xe9dit Agricole,13:32 13:32,0,2002
+26.0,0.805,61.0,+0:13,,Grux Alexandre,61,AG2R Pr\xe9voyance,13:50 13:50,0,2002
+26.0,0.804,62.0,+0:13,,Verbrugghe Ief,62,Lotto - Adecco,13:52 13:52,0,2002
+22.0,0.804,63.0,+0:13,,Kashechkin Andrey,63,Domo - Farm Frites,13:57 13:57,0,2002
+27.0,0.8029999999999999,64.0,+0:14,,Turpin Ludovic,64,AG2R Pr\xe9voyance,14:27 14:27,0,2002
+31.0,0.8029999999999999,65.0,+0:14,,Solaun Cesar,65,Euskaltel - Euskadi,14:17 14:17,0,2002
+25.0,0.8029999999999999,66.0,+0:14,,Poilvet Benoit,66,Cr\xe9dit Agricole,14:20 14:20,0,2002
+29.0,0.8029999999999999,67.0,+0:14,,Chaurreau I\xf1igo,67,AG2R Pr\xe9voyance,14:29 14:29,0,2002
+27.0,0.8,68.0,+0:15,,Dessel Cyril,68,Jean Delatour,15:17 15:17,0,2002
+25.0,0.7979999999999999,69.0,+0:15,,Cretskens Wilfried,69,Domo - Farm Frites,15:53 15:53,0,2002
+25.0,0.7979999999999999,70.0,+0:15,,Flores Iker,70,Euskaltel - Euskadi,15:55 15:55,0,2002
+30.0,0.797,71.0,+0:16,,Bernard J\xe9r\xf4me,71,Jean Delatour,16:12 16:12,0,2002
+23.0,0.797,72.0,+0:16,,Portal Nicolas,72,AG2R Pr\xe9voyance,16:21 16:21,0,2002
+32.0,0.7979999999999999,73.0,+0:16,,Virenque Richard,73,Domo - Farm Frites,16:09 16:09,0,2002
+33.0,0.797,74.0,+0:16,,Garc\xeda Felix Manuel,74,BigMat - Auber 93,16:13 16:13,0,2002
+27.0,0.797,75.0,+0:16,,Botcharov Alexandre,75,AG2R Pr\xe9voyance,16:17 16:17,0,2002
+27.0,0.797,76.0,+0:16,,Moncouti\xe9 David,76,Cofidis,16:29 16:29,0,2002
+23.0,0.795,77.0,+0:17,,Charteau Anthony,77,Bonjour,17:00 17:00,0,2002
+31.0,0.794,78.0,+0:17,,Moreau Christophe,78,Cr\xe9dit Agricole,17:22 17:22,0,2002
+24.0,0.792,79.0,+0:18,,Vogondy Nicolas,79,La Fran\xe7aise des Jeux,18:09 18:09,0,2002
+24.0,0.792,80.0,+0:18,,Gonzalez Gorka,80,Euskaltel - Euskadi,18:10 18:10,0,2002
+24.0,0.7909999999999999,81.0,+0:18,,Menchov Denis,81,Ibanesto.com,18:16 18:16,0,2002
+25.0,0.7909999999999999,82.0,+0:18,,Rodriguez Alexis,82,Kelme - Costa Blanca,18:18 18:18,0,2002
+28.0,0.7909999999999999,83.0,+0:18,,Kivilev Andrei,83,Cofidis,18:32 18:32,0,2002
+31.0,0.79,84.0,+0:18,,Brozyna Tomasz,84,Ibanesto.com,18:48 18:48,0,2002
+32.0,0.7879999999999999,85.0,+0:19,,Goubert Stephane,85,Jean Delatour,19:19 19:19,0,2002
+28.0,0.7879999999999999,86.0,+0:19,,Hinault S\xe9bastien,86,Cr\xe9dit Agricole,19:36 19:36,0,2002
+26.0,0.789,87.0,+0:19,,Trentin Guido,87,Cofidis,19:03 19:03,0,2002
+34.0,0.789,88.0,+0:19,,Lelli Massimiliano,88,Cofidis,19:16 19:16,0,2002
+24.0,0.7879999999999999,89.0,+0:19,,Lamouller Lo\xefc,89,BigMat - Auber 93,19:20 19:20,0,2002
+25.0,0.7879999999999999,90.0,+0:19,,Brandt Christophe,90,Lotto - Adecco,19:32 19:32,0,2002
+29.0,0.787,91.0,+0:19,,Oriol Christophe,91,AG2R Pr\xe9voyance,19:43 19:43,0,2002
+26.0,0.7859999999999999,92.0,+0:20,,Javier Vila Francisco,92,Ibanesto.com,20:06 20:06,0,2002
+28.0,0.7859999999999999,93.0,+0:20,,Rasmussen Michael,93,CSC ProTeam - Tiscali,20:10 20:10,0,2002
+26.0,0.782,94.0,+0:21,,Kintana Aitor,94,BigMat - Auber 93,21:27 21:27,0,2002
+32.0,0.782,95.0,+0:21,,Robin Jean-Cyril,95,La Fran\xe7aise des Jeux,",, 21:27",0,2002
+26.0,0.782,96.0,+0:21,,Martin Ludovic,96,Cr\xe9dit Agricole,21:36 21:36,0,2002
+23.0,0.782,97.0,+0:21,,Tankink Bram,97,Domo - Farm Frites,21:37 21:37,0,2002
+26.0,0.7809999999999999,98.0,+0:21,,Osa Unai,98,Ibanesto.com,21:50 21:50,0,2002
+32.0,0.78,99.0,+0:22,,Jan Xavier,99,BigMat - Auber 93,22:18 22:18,0,2002
+30.0,0.78,100.0,+0:22,,Bessy Fr\xe9d\xe9ric,100,Cr\xe9dit Agricole,22:14 22:14,0,2002
+26.0,0.777,101.0,+0:23,,Lopez Joaquin,101,Kelme - Costa Blanca,23:14 23:14,0,2002
+24.0,0.777,102.0,+0:23,,Gutierrez Ignacio,102,Kelme - Costa Blanca,23:30 23:30,0,2002
+26.0,0.774,103.0,+0:24,,Diaz Ruben,103,,24:35 24:35,0,2002
+26.0,0.773,104.0,+0:24,,Estadieu Laurent,104,AG2R Pr\xe9voyance,24:43 24:43,0,2002
+24.0,0.772,105.0,+0:25,,Perez Santiago,105,Kelme - Costa Blanca,25:12 25:12,0,2002
+32.0,0.7709999999999999,106.0,+0:25,,Lamour Claude,106,Cofidis,25:24 25:24,0,2002
+31.0,0.77,107.0,+0:25,,Garcia Marcelino,107,CSC ProTeam - Tiscali,25:59 25:59,0,2002
+31.0,0.77,108.0,+0:26,,Cerezo Francisco,108,,26:00 26:00,0,2002
+30.0,0.759,109.0,+0:29,,Lebreton Lylian,109,BigMat - Auber 93,29:59 29:59,0,2002
+26.0,0.758,110.0,+0:30,,De Wolf Steve,110,Domo - Farm Frites,30:18 30:18,0,2002
+35.0,,1.0,+0:00,30.0,Durand Jacky,1,La Fran\xe7aise des Jeux,4:38:19 4:38:19,1,2002
+25.0,,2.0,+0:19,18.0,Rodriguez Alexis,2,Kelme - Costa Blanca,",, ,,",1,2002
+26.0,,7.0,+0:49,12.0,van Dijk Stefan,3,Lotto - Adecco,0:34 0:34,1,2002
+33.0,,41.0,+0:56,7.0,Simon Fran\xe7ois,4,Bonjour,",, 0:34",1,2002
+23.0,,4.0,+0:46,4.0,Cooke Baden,5,La Fran\xe7aise des Jeux,",, 0:34",1,2002
+28.0,,46.0,+0:57,3.0,Mikhailov Guennady,6,Lotto - Adecco,",, 0:34",1,2002
+30.0,,9.0,+0:49,2.0,Mattan Nico,7,Cofidis,",, 0:34",1,2002
+30.0,,38.0,+0:56,1.0,Sivakov Alexei,8,BigMat - Auber 93,",, 0:34",1,2002
+32.0,,73.0,+1:01,,Virenque Richard,9,Domo - Farm Frites,",, 0:34",1,2002
+26.0,,3.0,+0:45,,McGee Bradley,10,La Fran\xe7aise des Jeux,",, 0:34",1,2002
+28.0,,84.0,+1:04,,Hinault S\xe9bastien,11,Cr\xe9dit Agricole,",, 0:34",1,2002
+27.0,,15.0,+0:51,,Gutierrez Jose Enrique,12,Kelme - Costa Blanca,",, 0:34",1,2002
+36.0,,18.0,+0:52,,Ekimov Viatcheslav,13,US Postal Service,",, 0:34",1,2002
+22.0,,63.0,+0:58,,Kashechkin Andrey,14,Domo - Farm Frites,",, 0:34",1,2002
+26.0,,47.0,+0:57,,Landis Floyd,15,US Postal Service,",, 0:34",1,2002
+26.0,,96.0,+1:06,,Osa Unai,16,Ibanesto.com,",, 0:34",1,2002
+22.0,,25.0,+0:54,,Plaza Rub\xe9n,17,Ibanesto.com,",, 0:34",1,2002
+25.0,,14.0,+0:51,,Sevilla Oscar,18,Kelme - Costa Blanca,",, 0:34",1,2002
+23.0,,72.0,+1:01,,Portal Nicolas,19,AG2R Pr\xe9voyance,",, 0:34",1,2002
+29.0,,42.0,+0:56,,Jalabert Nicolas,20,CSC ProTeam - Tiscali,",, 0:34",1,2002
+22.0,,16.0,+0:51,,Edaleine Christophe,21,Jean Delatour,",, 0:34",1,2002
+26.0,,61.0,+0:58,,Grux Alexandre,22,AG2R Pr\xe9voyance,",, 0:34",1,2002
+31.0,,77.0,+1:02,,Moreau Christophe,23,Cr\xe9dit Agricole,",, 0:34",1,2002
+32.0,,55.0,+0:58,,Baguet Serge,24,Lotto - Adecco,",, 0:34",1,2002
+32.0,,83.0,+1:04,,Goubert Stephane,25,Jean Delatour,",, 0:34",1,2002
+26.0,,31.0,+0:54,,Joachim Benoit,26,US Postal Service,",, 0:34",1,2002
+25.0,,69.0,+1:00,,Cretskens Wilfried,27,Domo - Farm Frites,",, 0:34",1,2002
+23.0,,95.0,+1:06,,Tankink Bram,28,Domo - Farm Frites,",, 0:34",1,2002
+29.0,,67.0,+0:59,,Chaurreau I\xf1igo,29,AG2R Pr\xe9voyance,",, 0:34",1,2002
+31.0,,34.0,+0:55,,Vasseur C\xe9dric,30,Cofidis,",, 0:34",1,2002
+31.0,,37.0,+0:56,,Padrnos Pavel,31,US Postal Service,",, 0:34",1,2002
+31.0,,102.0,+1:11,,Cerezo Francisco,32,,",, 0:34",1,2002
+22.0,,22.0,+0:53,,Astarloza Mikel,33,AG2R Pr\xe9voyance,",, 0:34",1,2002
+30.0,,8.0,+0:49,,Armstrong Lance,34,US Postal Service,",, 0:34",1,2002
+29.0,,20.0,+0:53,,Beneteau Walter,35,Bonjour,",, 0:34",1,2002
+29.0,,89.0,+1:04,,Oriol Christophe,36,AG2R Pr\xe9voyance,",, 0:34",1,2002
+23.0,,56.0,+0:58,,Casar Sandy,37,La Fran\xe7aise des Jeux,",, 0:34",1,2002
+24.0,,27.0,+0:54,,S\xe1nchez Samuel,38,Euskaltel - Euskadi,",, 0:34",1,2002
+28.0,,40.0,+0:56,,Renier Franck,39,Bonjour,",, 0:34",1,2002
+31.0,,12.0,+0:50,,Rous Didier,40,Bonjour,",, 0:34",1,2002
+28.0,,21.0,+0:53,,Halgand Patrice,41,Jean Delatour,",, 0:34",1,2002
+28.0,,81.0,+1:03,,Kivilev Andrei,42,Cofidis,",, 0:34",1,2002
+26.0,,62.0,+0:58,,Verbrugghe Ief,43,Lotto - Adecco,",, 0:34",1,2002
+29.0,,39.0,+0:56,,Etxebarria Unai,44,Euskaltel - Euskadi,",, 0:34",1,2002
+33.0,,19.0,+0:52,,Jalabert Laurent,45,CSC ProTeam - Tiscali,",, 0:34",1,2002
+24.0,,51.0,+0:57,,Talabardon S\xe9bastien,46,BigMat - Auber 93,",, 0:34",1,2002
+25.0,,70.0,+1:00,,Flores Iker,47,Euskaltel - Euskadi,",, 0:34",1,2002
+21.0,,53.0,+0:58,,van Goolen Jurgen,48,Domo - Farm Frites,",, 0:34",1,2002
+24.0,,33.0,+0:55,,Laurent Christophe,49,Jean Delatour,",, 0:34",1,2002
+27.0,,45.0,+0:57,,Bruseghin Marzio,50,Ibanesto.com,",, 0:34",1,2002
+26.0,,104.0,+1:15,,De Wolf Steve,51,Domo - Farm Frites,",, 0:34",1,2002
+31.0,,30.0,+0:54,,Heulot Stephane,52,BigMat - Auber 93,",, 0:34",1,2002
+28.0,,44.0,+0:56,,Moerenhout Koos,53,Domo - Farm Frites,",, 0:34",1,2002
+24.0,,87.0,+1:04,,Lamouller Lo\xefc,54,BigMat - Auber 93,",, 0:34",1,2002
+31.0,,65.0,+0:59,,Solaun Cesar,55,Euskaltel - Euskadi,",, 0:34",1,2002
+27.0,,29.0,+0:54,,Morin Anthony,56,Cr\xe9dit Agricole,",, 0:34",1,2002
+29.0,,23.0,+0:53,,Rubiera Jos\xe9 Luis,57,US Postal Service,",, 0:34",1,2002
+25.0,,13.0,+0:50,,Millar David,58,Cofidis,",, 0:34",1,2002
+27.0,,68.0,+1:00,,Dessel Cyril,59,Jean Delatour,",, 0:34",1,2002
+32.0,,92.0,+1:06,,Robin Jean-Cyril,60,La Fran\xe7aise des Jeux,",, 0:34",1,2002
+30.0,,43.0,+0:56,,Peron Andrea,61,CSC ProTeam - Tiscali,",, 0:34",1,2002
+33.0,,74.0,+1:01,,Garc\xeda Felix Manuel,62,BigMat - Auber 93,",, 0:34",1,2002
+29.0,,5.0,+0:47,,Kjaergaard Steffen,63,US Postal Service,",, 0:34",1,2002
+24.0,,80.0,+1:03,,Menchov Denis,64,Ibanesto.com,",, 0:34",1,2002
+26.0,,94.0,+1:06,,Martin Ludovic,65,Cr\xe9dit Agricole,",, 0:34",1,2002
+24.0,,100.0,+1:10,,Perez Santiago,66,Kelme - Costa Blanca,",, 0:34",1,2002
+30.0,,35.0,+0:55,,Guesdon Fr\xe9d\xe9ric,67,La Fran\xe7aise des Jeux,",, 0:34",1,2002
+27.0,,75.0,+1:01,,Botcharov Alexandre,68,AG2R Pr\xe9voyance,",, 0:34",1,2002
+24.0,,78.0,+1:03,,Vogondy Nicolas,69,La Fran\xe7aise des Jeux,",, 0:34",1,2002
+27.0,,52.0,+0:57,,Jenner Christopher,70,Cr\xe9dit Agricole,",, 0:34",1,2002
+30.0,,49.0,+0:57,,van de Wouwer Kurt,71,Lotto - Adecco,",, 0:34",1,2002
+26.0,,90.0,+1:05,,Javier Vila Francisco,72,Ibanesto.com,",, 0:34",1,2002
+27.0,,58.0,+0:58,,S\xf8rensen Nicki,73,CSC ProTeam - Tiscali,",, 0:34",1,2002
+31.0,,82.0,+1:03,,Brozyna Tomasz,74,Ibanesto.com,",, 0:34",1,2002
+25.0,,36.0,+0:55,,Lefevre Laurent,75,Jean Delatour,",, 0:34",1,2002
+29.0,,48.0,+0:57,,Baranowski Dariusz,76,Ibanesto.com,",, 0:34",1,2002
+24.0,,79.0,+1:03,,Gonzalez Gorka,77,Euskaltel - Euskadi,",, 0:34",1,2002
+25.0,,54.0,+0:58,,Arrizabalaga Gorka,78,Euskaltel - Euskadi,",, 0:34",1,2002
+28.0,,57.0,+0:58,,Latasa lasa David,79,Ibanesto.com,",, 0:34",1,2002
+25.0,,26.0,+0:54,,Zubeldia Haimar,80,Euskaltel - Euskadi,",, 0:34",1,2002
+34.0,,86.0,+1:04,,Lelli Massimiliano,81,Cofidis,",, 0:34",1,2002
+30.0,,98.0,+1:07,,Bessy Fr\xe9d\xe9ric,82,Cr\xe9dit Agricole,",, 0:34",1,2002
+27.0,,32.0,+0:55,,Pe\xf1a Victor Hugo,83,US Postal Service,",, 0:34",1,2002
+30.0,,71.0,+1:01,,Bernard J\xe9r\xf4me,84,Jean Delatour,",, 0:34",1,2002
+27.0,,76.0,+1:01,,Moncouti\xe9 David,85,Cofidis,",, 0:34",1,2002
+26.0,,93.0,+1:06,,Kintana Aitor,86,BigMat - Auber 93,",, 0:34",1,2002
+29.0,,60.0,+0:58,,Vaughters Jonathan,87,Cr\xe9dit Agricole,",, 0:34",1,2002
+25.0,,66.0,+0:59,,Poilvet Benoit,88,Cr\xe9dit Agricole,",, 0:34",1,2002
+32.0,,97.0,+1:07,,Jan Xavier,89,BigMat - Auber 93,",, 0:34",1,2002
+30.0,,103.0,+1:14,,Lebreton Lylian,90,BigMat - Auber 93,",, 0:34",1,2002
+28.0,,24.0,+0:53,,Bouyer Franck,91,Bonjour,",, 0:34",1,2002
+,,,+ -4:42:22,,Gracia Marcelino,92,,",, 0:34",1,2002
+22.0,,6.0,+0:48,,Chavanel Sylvain,93,Bonjour,",, 0:34",1,2002
+29.0,,10.0,+0:50,,Asmaker Olivier,94,CSC ProTeam - Tiscali,",, 0:34",1,2002
+33.0,,11.0,+0:50,,Seigneur Eddy,95,Jean Delatour,",, 0:34",1,2002
+28.0,,17.0,+0:52,,Tauler Toni,96,Kelme - Costa Blanca,",, 0:34",1,2002
+25.0,,88.0,+1:04,,Brandt Christophe,97,Lotto - Adecco,",, 0:34",1,2002
+29.0,,28.0,+0:54,,Botero Santiago,98,Kelme - Costa Blanca,",, 0:34",1,2002
+27.0,,64.0,+0:59,,Turpin Ludovic,99,AG2R Pr\xe9voyance,",, 0:34",1,2002
+28.0,,91.0,+1:05,,Rasmussen Michael,100,CSC ProTeam - Tiscali,",, 0:34",1,2002
+26.0,,85.0,+1:04,,Trentin Guido,101,Cofidis,",, 0:34",1,2002
+28.0,,50.0,+0:57,,Pichon Mickael,102,Bonjour,",, 0:34",1,2002
+26.0,,99.0,+1:09,,Estadieu Laurent,103,AG2R Pr\xe9voyance,",, 0:34",1,2002
+21.0,,59.0,+0:58,,Bodo Thomas,104,La Fran\xe7aise des Jeux,",, 0:34",1,2002
+26.0,,105.0,+3:39,,Lopez Joaquin,105,Kelme - Costa Blanca,3:05 3:05,1,2002
+21.0,,106.0,+3:44,,Van Impe Kevin,106,Lotto - Adecco,3:21 3:21,1,2002
+32.0,,108.0,+5:12,,Lamour Claude,107,Cofidis,4:36 4:36,1,2002
+26.0,,107.0,+5:11,,Diaz Ruben,108,,",, 4:36",1,2002
+24.0,,110.0,+7:13,,Gutierrez Ignacio,109,Kelme - Costa Blanca,6:39 6:39,1,2002
+23.0,,109.0,+7:07,,Charteau Anthony,110,Bonjour,",, 6:39",1,2002
+24.0,,1.0,+0:00,30.0,Menchov Denis,1,Ibanesto.com,4:20:25 4:20:25,2,2002
+26.0,,2.0,+0:05,18.0,Kintana Aitor,2,BigMat - Auber 93,0:02 0:02,2,2002
+26.0,,3.0,+0:10,12.0,Osa Unai,3,Ibanesto.com,0:07 0:07,2,2002
+33.0,,4.0,+0:11,7.0,Garc\xeda Felix Manuel,4,BigMat - Auber 93,0:13 0:13,2,2002
+28.0,,7.0,+0:37,4.0,Kivilev Andrei,5,Cofidis,0:37 0:37,2,2002
+25.0,,6.0,+0:28,3.0,Zubeldia Haimar,6,Euskaltel - Euskadi,",, 0:37",2,2002
+30.0,,5.0,+0:23,2.0,Armstrong Lance,7,US Postal Service,",, 0:37",2,2002
+31.0,,8.0,+0:39,1.0,Moreau Christophe,8,Cr\xe9dit Agricole,0:40 0:40,2,2002
+25.0,,9.0,+0:41,,Sevilla Oscar,9,Kelme - Costa Blanca,0:53 0:53,2,2002
+26.0,,10.0,+1:36,,Landis Floyd,10,US Postal Service,1:42 1:42,2,2002
+32.0,,12.0,+1:44,,Virenque Richard,11,Domo - Farm Frites,1:46 1:46,2,2002
+24.0,,13.0,+1:46,,Vogondy Nicolas,12,La Fran\xe7aise des Jeux,",, 1:46",2,2002
+27.0,,15.0,+1:48,,Moncouti\xe9 David,13,Cofidis,1:50 1:50,2,2002
+25.0,,11.0,+1:41,,Millar David,14,Cofidis,1:54 1:54,2,2002
+30.0,,14.0,+1:48,,van de Wouwer Kurt,15,Lotto - Adecco,",, 1:54",2,2002
+31.0,,17.0,+2:18,,Garcia Marcelino,16,CSC ProTeam - Tiscali,2:11 2:11,2,2002
+27.0,,16.0,+2:15,,Bruseghin Marzio,17,Ibanesto.com,2:21 2:21,2,2002
+32.0,,18.0,+2:22,,Goubert Stephane,18,Jean Delatour,",, 2:21",2,2002
+27.0,,20.0,+2:25,,Botcharov Alexandre,19,AG2R Pr\xe9voyance,2:27 2:27,2,2002
+29.0,,19.0,+2:23,,Chaurreau I\xf1igo,20,AG2R Pr\xe9voyance,",, 2:27",2,2002
+33.0,,21.0,+3:27,,Jalabert Laurent,21,CSC ProTeam - Tiscali,3:38 3:38,2,2002
+29.0,,22.0,+4:05,,Rubiera Jos\xe9 Luis,22,US Postal Service,4:15 4:15,2,2002
+36.0,,23.0,+4:19,,Ekimov Viatcheslav,23,US Postal Service,4:30 4:30,2,2002
+31.0,,24.0,+4:24,,Heulot Stephane,24,BigMat - Auber 93,4:33 4:33,2,2002
+31.0,,25.0,+4:33,,Brozyna Tomasz,25,Ibanesto.com,",, 4:33",2,2002
+25.0,,26.0,+4:38,,Arrizabalaga Gorka,26,Euskaltel - Euskadi,4:43 4:43,2,2002
+25.0,,27.0,+4:38,,Lefevre Laurent,27,Jean Delatour,4:46 4:46,2,2002
+27.0,,28.0,+4:57,,Dessel Cyril,28,Jean Delatour,5:00 5:00,2,2002
+29.0,,29.0,+5:38,,Oriol Christophe,29,AG2R Pr\xe9voyance,5:37 5:37,2,2002
+27.0,,30.0,+5:46,,S\xf8rensen Nicki,30,CSC ProTeam - Tiscali,5:51 5:51,2,2002
+22.0,,31.0,+5:53,,Astarloza Mikel,31,AG2R Pr\xe9voyance,6:03 6:03,2,2002
+28.0,,32.0,+6:47,,Mikhailov Guennady,32,Lotto - Adecco,6:53 6:53,2,2002
+30.0,,33.0,+6:47,,Peron Andrea,33,CSC ProTeam - Tiscali,6:54 6:54,2,2002
+29.0,,34.0,+6:49,,Vaughters Jonathan,34,Cr\xe9dit Agricole,",, 6:54",2,2002
+32.0,,35.0,+7:28,,Jan Xavier,35,BigMat - Auber 93,7:24 7:24,2,2002
+24.0,,36.0,+7:38,,Talabardon S\xe9bastien,36,BigMat - Auber 93,7:44 7:44,2,2002
+31.0,,37.0,+7:53,,Vasseur C\xe9dric,37,Cofidis,8:01 8:01,2,2002
+32.0,,40.0,+8:04,,Robin Jean-Cyril,38,La Fran\xe7aise des Jeux,",, 8:01",2,2002
+34.0,,39.0,+8:02,,Lelli Massimiliano,39,Cofidis,",, 8:01",2,2002
+24.0,,38.0,+8:01,,Gonzalez Gorka,40,Euskaltel - Euskadi,",, 8:01",2,2002
+23.0,,41.0,+8:05,,Casar Sandy,41,La Fran\xe7aise des Jeux,8:10 8:10,2,2002
+29.0,,42.0,+8:11,,Beneteau Walter,42,Bonjour,8:21 8:21,2,2002
+22.0,,43.0,+8:20,,Edaleine Christophe,43,Jean Delatour,8:32 8:32,2,2002
+26.0,,48.0,+8:46,,De Wolf Steve,44,Domo - Farm Frites,8:34 8:34,2,2002
+28.0,,47.0,+8:36,,Rasmussen Michael,45,CSC ProTeam - Tiscali,",, 8:34",2,2002
+26.0,,46.0,+8:35,,Trentin Guido,46,Cofidis,",, 8:34",2,2002
+27.0,,45.0,+8:25,,Morin Anthony,47,Cr\xe9dit Agricole,",, 8:34",2,2002
+24.0,,44.0,+8:25,,S\xe1nchez Samuel,48,Euskaltel - Euskadi,",, 8:34",2,2002
+25.0,,49.0,+9:10,,Poilvet Benoit,49,Cr\xe9dit Agricole,9:13 9:13,2,2002
+22.0,,50.0,+9:15,,Kashechkin Andrey,50,Domo - Farm Frites,9:20 9:20,2,2002
+26.0,,51.0,+9:30,,Martin Ludovic,51,Cr\xe9dit Agricole,9:27 9:27,2,2002
+29.0,,52.0,+9:46,,Jalabert Nicolas,52,CSC ProTeam - Tiscali,9:53 9:53,2,2002
+28.0,,53.0,+10:00,,Halgand Patrice,53,Jean Delatour,10:10 10:10,2,2002
+31.0,,54.0,+10:19,,Cerezo Francisco,54,,10:11 10:11,2,2002
+21.0,,56.0,+10:55,,van Goolen Jurgen,55,Domo - Farm Frites,11:00 11:00,2,2002
+27.0,,55.0,+10:50,,Gutierrez Jose Enrique,56,Kelme - Costa Blanca,11:02 11:02,2,2002
+24.0,,58.0,+11:07,,Lamouller Lo\xefc,57,BigMat - Auber 93,11:06 11:06,2,2002
+29.0,,57.0,+11:04,,Baranowski Dariusz,58,Ibanesto.com,11:10 11:10,2,2002
+28.0,,59.0,+11:21,,Hinault S\xe9bastien,59,Cr\xe9dit Agricole,11:20 11:20,2,2002
+30.0,,61.0,+11:51,,Bessy Fr\xe9d\xe9ric,60,Cr\xe9dit Agricole,11:47 11:47,2,2002
+24.0,,60.0,+11:39,,Laurent Christophe,61,Jean Delatour,",, 11:47",2,2002
+26.0,,62.0,+13:13,,Joachim Benoit,62,US Postal Service,13:22 13:22,2,2002
+26.0,,65.0,+13:44,,Estadieu Laurent,63,AG2R Pr\xe9voyance,13:38 13:38,2,2002
+32.0,,63.0,+13:37,,Baguet Serge,64,Lotto - Adecco,13:42 13:42,2,2002
+26.0,,66.0,+13:45,,Grux Alexandre,65,AG2R Pr\xe9voyance,13:50 13:50,2,2002
+26.0,,64.0,+13:44,,McGee Bradley,66,La Fran\xe7aise des Jeux,14:02 14:02,2,2002
+30.0,,68.0,+14:47,,Lebreton Lylian,67,BigMat - Auber 93,14:36 14:36,2,2002
+29.0,,67.0,+14:29,,Etxebarria Unai,68,Euskaltel - Euskadi,",, 14:36",2,2002
+29.0,,69.0,+14:57,,Botero Santiago,69,Kelme - Costa Blanca,15:06 15:06,2,2002
+24.0,,70.0,+15:13,,Perez Santiago,70,Kelme - Costa Blanca,",, 15:06",2,2002
+25.0,,71.0,+15:17,,Brandt Christophe,71,Lotto - Adecco,15:16 15:16,2,2002
+30.0,,72.0,+15:34,,Bernard J\xe9r\xf4me,72,Jean Delatour,15:36 15:36,2,2002
+23.0,,73.0,+15:57,,Tankink Bram,73,Domo - Farm Frites,15:54 15:54,2,2002
+28.0,,74.0,+16:00,,Latasa lasa David,74,Ibanesto.com,16:05 16:05,2,2002
+31.0,,76.0,+16:23,,Rous Didier,75,Bonjour,16:36 16:36,2,2002
+23.0,,104.0,+22:40,,Charteau Anthony,76,Bonjour,",, 16:36",2,2002
+26.0,,84.0,+16:31,,Verbrugghe Ief,77,Lotto - Adecco,",, 16:36",2,2002
+23.0,,86.0,+16:34,,Portal Nicolas,78,AG2R Pr\xe9voyance,",, 16:36",2,2002
+28.0,,77.0,+16:26,,Bouyer Franck,79,Bonjour,",, 16:36",2,2002
+30.0,,79.0,+16:28,,Guesdon Fr\xe9d\xe9ric,80,La Fran\xe7aise des Jeux,",, 16:36",2,2002
+27.0,,78.0,+16:28,,Pe\xf1a Victor Hugo,81,US Postal Service,",, 16:36",2,2002
+28.0,,81.0,+16:30,,Pichon Mickael,82,Bonjour,",, 16:36",2,2002
+28.0,,80.0,+16:29,,Renier Franck,83,Bonjour,",, 16:36",2,2002
+27.0,,85.0,+16:32,,Turpin Ludovic,84,AG2R Pr\xe9voyance,",, 16:36",2,2002
+23.0,,75.0,+16:19,,Cooke Baden,85,La Fran\xe7aise des Jeux,",, 16:36",2,2002
+27.0,,82.0,+16:30,,Jenner Christopher,86,Cr\xe9dit Agricole,",, 16:36",2,2002
+21.0,,83.0,+16:31,,Bodo Thomas,87,La Fran\xe7aise des Jeux,",, 16:36",2,2002
+25.0,,87.0,+16:38,,Flores Iker,88,Euskaltel - Euskadi,16:41 16:41,2,2002
+28.0,,88.0,+16:55,,Tauler Toni,89,Kelme - Costa Blanca,17:06 17:06,2,2002
+22.0,,89.0,+17:55,,Plaza Rub\xe9n,90,Ibanesto.com,18:04 18:04,2,2002
+26.0,,90.0,+18:06,,Javier Vila Francisco,91,Ibanesto.com,",, 18:04",2,2002
+30.0,,91.0,+18:10,,Mattan Nico,92,Cofidis,18:24 18:24,2,2002
+26.0,,105.0,+22:46,,Diaz Ruben,93,,18:38 18:38,2,2002
+31.0,,92.0,+18:56,,Padrnos Pavel,94,US Postal Service,19:03 19:03,2,2002
+28.0,,93.0,+19:19,,Moerenhout Koos,95,Domo - Farm Frites,19:26 19:26,2,2002
+31.0,,94.0,+20:17,,Solaun Cesar,96,Euskaltel - Euskadi,20:21 20:21,2,2002
+29.0,,95.0,+20:29,,Asmaker Olivier,97,CSC ProTeam - Tiscali,20:42 20:42,2,2002
+29.0,,97.0,+21:38,,Kjaergaard Steffen,98,US Postal Service,21:54 21:54,2,2002
+25.0,,102.0,+21:51,,Cretskens Wilfried,99,Domo - Farm Frites,",, 21:54",2,2002
+35.0,,96.0,+20:51,,Durand Jacky,100,La Fran\xe7aise des Jeux,",, 21:54",2,2002
+33.0,,101.0,+21:47,,Simon Fran\xe7ois,101,Bonjour,",, 21:54",2,2002
+33.0,,100.0,+21:41,,Seigneur Eddy,102,Jean Delatour,",, 21:54",2,2002
+26.0,,99.0,+21:40,,van Dijk Stefan,103,Lotto - Adecco,",, 21:54",2,2002
+22.0,,98.0,+21:39,,Chavanel Sylvain,104,Bonjour,",, 21:54",2,2002
+32.0,,106.0,+26:03,,Lamour Claude,105,Cofidis,",, 21:54",2,2002
+30.0,,103.0,+22:25,,Sivakov Alexei,106,BigMat - Auber 93,22:32 22:32,2,2002
+21.0,,108.0,+30:57,,Van Impe Kevin,107,Lotto - Adecco,28:16 28:16,2,2002
+25.0,,107.0,+30:04,,Rodriguez Alexis,108,Kelme - Costa Blanca,30:48 30:48,2,2002
+26.0,,109.0,+35:40,,Lopez Joaquin,109,Kelme - Costa Blanca,33:04 33:04,2,2002
+24.0,,110.0,+41:17,,Gutierrez Ignacio,110,Kelme - Costa Blanca,35:07 35:07,2,2002
+29.0,46.857,50.0,+13:52,30.0,Botero Santiago,1,Kelme - Costa Blanca,52:30 52:30,3,2002
+30.0,46.24100000000001,1.0,+0:00,18.0,Armstrong Lance,2,US Postal Service,0:42 0:42,3,2002
+25.0,45.29,2.0,+1:12,12.0,Zubeldia Haimar,3,Euskaltel - Euskadi,1:49 1:49,3,2002
+26.0,44.973,53.0,+14:52,7.0,McGee Bradley,4,La Fran\xe7aise des Jeux,2:12 2:12,3,2002
+31.0,44.821999999999996,64.0,+17:41,4.0,Rous Didier,5,Bonjour,2:23 2:23,3,2002
+25.0,44.727,7.0,+3:07,3.0,Millar David,6,Cofidis,2:30 2:30,3,2002
+29.0,44.606,25.0,+8:24,2.0,Vaughters Jonathan,7,Cr\xe9dit Agricole,2:39 2:39,3,2002
+27.0,44.565,10.0,+3:52,1.0,Bruseghin Marzio,8,Ibanesto.com,2:42 2:42,3,2002
+31.0,44.538000000000004,4.0,+2:18,,Moreau Christophe,9,Cr\xe9dit Agricole,2:44 2:44,3,2002
+27.0,44.458,66.0,+18:14,,Pe\xf1a Victor Hugo,10,US Postal Service,2:50 2:50,3,2002
+27.0,44.364,33.0,+10:18,,Morin Anthony,11,Cr\xe9dit Agricole,2:57 2:57,3,2002
+28.0,44.351000000000006,70.0,+18:49,,Tauler Toni,12,Kelme - Costa Blanca,2:58 2:58,3,2002
+24.0,44.284,3.0,+1:59,,Menchov Denis,13,Ibanesto.com,3:03 3:03,3,2002
+25.0,44.047,5.0,+2:57,,Sevilla Oscar,14,Kelme - Costa Blanca,3:21 3:21,3,2002
+30.0,44.02,27.0,+9:06,,Peron Andrea,15,CSC ProTeam - Tiscali,3:23 3:23,3,2002
+35.0,43.994,91.0,+23:11,,Durand Jacky,16,La Fran\xe7aise des Jeux,3:25 3:25,3,2002
+26.0,43.994,11.0,+3:56,,Landis Floyd,17,US Postal Service,",, 3:25",3,2002
+25.0,43.902,21.0,+7:06,,Lefevre Laurent,18,Jean Delatour,3:32 3:32,3,2002
+21.0,43.707,49.0,+13:38,,van Goolen Jurgen,19,Domo - Farm Frites,3:47 3:47,3,2002
+29.0,43.681999999999995,15.0,+5:07,,Chaurreau I\xf1igo,20,AG2R Pr\xe9voyance,3:49 3:49,3,2002
+28.0,43.669,9.0,+3:22,,Kivilev Andrei,21,Cofidis,3:50 3:50,3,2002
+32.0,43.669,13.0,+4:29,,Virenque Richard,22,Domo - Farm Frites,",, 3:50",3,2002
+30.0,43.501000000000005,68.0,+18:33,,Bernard J\xe9r\xf4me,23,Jean Delatour,4:03 4:03,3,2002
+23.0,43.476000000000006,72.0,+19:35,,Portal Nicolas,24,AG2R Pr\xe9voyance,4:05 4:05,3,2002
+26.0,43.463,6.0,+3:07,,Kintana Aitor,25,BigMat - Auber 93,4:06 4:06,3,2002
+30.0,43.45,14.0,+4:51,,van de Wouwer Kurt,26,Lotto - Adecco,4:07 4:07,3,2002
+33.0,43.425,8.0,+3:15,,Garc\xeda Felix Manuel,27,BigMat - Auber 93,4:09 4:09,3,2002
+30.0,43.361000000000004,97.0,+25:35,,Sivakov Alexei,28,BigMat - Auber 93,4:14 4:14,3,2002
+31.0,43.25899999999999,35.0,+11:10,,Vasseur C\xe9dric,29,Cofidis,4:22 4:22,3,2002
+36.0,43.196000000000005,23.0,+7:42,,Ekimov Viatcheslav,30,US Postal Service,4:27 4:27,3,2002
+33.0,43.17100000000001,96.0,+25:05,,Seigneur Eddy,31,Jean Delatour,4:29 4:29,3,2002
+32.0,43.133,18.0,+5:49,,Goubert Stephane,32,Jean Delatour,4:32 4:32,3,2002
+25.0,43.12,42.0,+12:38,,Poilvet Benoit,33,Cr\xe9dit Agricole,4:33 4:33,3,2002
+33.0,43.12,20.0,+6:56,,Jalabert Laurent,34,CSC ProTeam - Tiscali,",, 4:33",3,2002
+24.0,43.095,16.0,+5:16,,Vogondy Nicolas,35,La Fran\xe7aise des Jeux,4:35 4:35,3,2002
+30.0,43.082,85.0,+21:41,,Mattan Nico,36,Cofidis,4:36 4:36,3,2002
+27.0,43.02,17.0,+5:25,,Moncouti\xe9 David,37,Cofidis,4:41 4:41,3,2002
+34.0,42.994,37.0,+11:41,,Lelli Massimiliano,38,Cofidis,4:43 4:43,3,2002
+22.0,42.931999999999995,47.0,+12:58,,Kashechkin Andrey,39,Domo - Farm Frites,4:48 4:48,3,2002
+27.0,42.82,12.0,+4:03,,Osa Unai,40,Ibanesto.com,4:57 4:57,3,2002
+31.0,42.806999999999995,89.0,+22:50,,Padrnos Pavel,41,US Postal Service,4:58 4:58,3,2002
+22.0,42.795,86.0,+21:49,,Plaza Rub\xe9n,42,Ibanesto.com,4:59 4:59,3,2002
+26.0,42.783,61.0,+17:08,,Joachim Benoit,43,US Postal Service,5:00 5:00,3,2002
+26.0,42.77,65.0,+17:41,,Grux Alexandre,44,AG2R Pr\xe9voyance,5:01 5:01,3,2002
+29.0,42.77,67.0,+18:25,,Etxebarria Unai,45,Euskaltel - Euskadi,",, 5:01",3,2002
+28.0,42.77,51.0,+13:57,,Halgand Patrice,46,Jean Delatour,",, 5:01",3,2002
+32.0,42.758,63.0,+17:34,,Baguet Serge,47,Lotto - Adecco,5:02 5:02,3,2002
+26.0,42.758,40.0,+12:33,,Trentin Guido,48,Cofidis,",, 5:02",3,2002
+31.0,42.758,24.0,+8:22,,Heulot Stephane,49,BigMat - Auber 93,",, 5:02",3,2002
+24.0,42.696000000000005,36.0,+11:40,,Talabardon S\xe9bastien,50,BigMat - Auber 93,5:07 5:07,3,2002
+28.0,42.684,73.0,+20:04,,Latasa lasa David,51,Ibanesto.com,5:08 5:08,3,2002
+28.0,42.63399999999999,76.0,+20:38,,Pichon Mickael,52,Bonjour,5:12 5:12,3,2002
+32.0,42.622,39.0,+12:12,,Robin Jean-Cyril,53,La Fran\xe7aise des Jeux,5:13 5:13,3,2002
+27.0,42.622,54.0,+14:58,,Gutierrez Jose Enrique,54,Kelme - Costa Blanca,",, 5:13",3,2002
+29.0,42.597,31.0,+9:48,,Oriol Christophe,55,AG2R Pr\xe9voyance,5:15 5:15,3,2002
+25.0,42.585,79.0,+20:49,,Flores Iker,56,Euskaltel - Euskadi,5:16 5:16,3,2002
+28.0,42.585,77.0,+20:41,,Renier Franck,57,Bonjour,",, 5:16",3,2002
+24.0,42.56100000000001,43.0,+12:39,,S\xe1nchez Samuel,58,Euskaltel - Euskadi,5:18 5:18,3,2002
+33.0,42.498999999999995,98.0,+26:06,,Simon Fran\xe7ois,59,Bonjour,5:23 5:23,3,2002
+31.0,42.438,26.0,+8:56,,Brozyna Tomasz,60,Ibanesto.com,5:28 5:28,3,2002
+22.0,42.426,32.0,+10:17,,Astarloza Mikel,61,AG2R Pr\xe9voyance,5:29 5:29,3,2002
+22.0,42.402,45.0,+12:46,,Edaleine Christophe,62,Jean Delatour,5:31 5:31,3,2002
+28.0,42.376999999999995,94.0,+23:47,,Moerenhout Koos,63,Domo - Farm Frites,5:33 5:33,3,2002
+27.0,42.365,28.0,+9:26,,Dessel Cyril,64,Jean Delatour,5:34 5:34,3,2002
+30.0,42.365,80.0,+20:58,,Guesdon Fr\xe9d\xe9ric,65,La Fran\xe7aise des Jeux,",, 5:34",3,2002
+31.0,42.353,19.0,+6:49,,Garcia Marcelino,66,CSC ProTeam - Tiscali,5:35 5:35,3,2002
+29.0,42.341,44.0,+12:43,,Beneteau Walter,67,Bonjour,5:36 5:36,3,2002
+25.0,42.303999999999995,100.0,+26:26,,Cretskens Wilfried,68,Domo - Farm Frites,5:39 5:39,3,2002
+29.0,42.292,99.0,+26:13,,Kjaergaard Steffen,69,US Postal Service,5:40 5:40,3,2002
+27.0,42.268,83.0,+21:10,,Turpin Ludovic,70,AG2R Pr\xe9voyance,5:42 5:42,3,2002
+30.0,42.183,58.0,+16:35,,Bessy Fr\xe9d\xe9ric,71,Cr\xe9dit Agricole,5:49 5:49,3,2002
+31.0,42.183,95.0,+25:02,,Solaun Cesar,72,Euskaltel - Euskadi,",, 5:49",3,2002
+27.0,42.17100000000001,22.0,+7:10,,Botcharov Alexandre,73,AG2R Pr\xe9voyance,5:50 5:50,3,2002
+29.0,42.17100000000001,56.0,+15:50,,Baranowski Dariusz,74,Ibanesto.com,",, 5:50",3,2002
+26.0,42.159,108.0,+40:27,,Lopez Joaquin,75,Kelme - Costa Blanca,5:51 5:51,3,2002
+23.0,42.147,46.0,+12:53,,Casar Sandy,76,La Fran\xe7aise des Jeux,5:52 5:52,3,2002
+25.0,42.123000000000005,29.0,+9:28,,Arrizabalaga Gorka,77,Euskaltel - Euskadi,5:54 5:54,3,2002
+27.0,42.123000000000005,34.0,+10:36,,S\xf8rensen Nicki,78,CSC ProTeam - Tiscali,",, 5:54",3,2002
+28.0,42.027,84.0,+21:23,,Bouyer Franck,79,Bonjour,6:02 6:02,3,2002
+32.0,41.931999999999995,41.0,+12:34,,Jan Xavier,80,BigMat - Auber 93,6:10 6:10,3,2002
+23.0,41.92,81.0,+21:04,,Tankink Bram,81,Domo - Farm Frites,6:11 6:11,3,2002
+24.0,41.836999999999996,59.0,+16:52,,Laurent Christophe,82,Jean Delatour,6:18 6:18,3,2002
+28.0,41.825,38.0,+12:01,,Mikhailov Guennady,83,Lotto - Adecco,6:19 6:19,3,2002
+32.0,41.813,105.0,+31:18,,Lamour Claude,84,Cofidis,6:20 6:20,3,2002
+26.0,41.73,71.0,+19:07,,Estadieu Laurent,85,AG2R Pr\xe9voyance,6:27 6:27,3,2002
+24.0,41.707,48.0,+13:25,,Gonzalez Gorka,86,Euskaltel - Euskadi,6:29 6:29,3,2002
+21.0,41.636,87.0,+22:01,,Bodo Thomas,87,La Fran\xe7aise des Jeux,6:35 6:35,3,2002
+24.0,41.636,78.0,+20:43,,Perez Santiago,88,Kelme - Costa Blanca,",, 6:35",3,2002
+29.0,41.589,30.0,+9:40,,Rubiera Jos\xe9 Luis,89,US Postal Service,6:39 6:39,3,2002
+21.0,41.566,107.0,+36:33,,Van Impe Kevin,90,Lotto - Adecco,6:41 6:41,3,2002
+30.0,41.531000000000006,74.0,+20:26,,Lebreton Lylian,91,BigMat - Auber 93,6:44 6:44,3,2002
+28.0,41.531000000000006,60.0,+17:01,,Hinault S\xe9bastien,92,Cr\xe9dit Agricole,",, 6:44",3,2002
+26.0,41.519,93.0,+23:47,,Javier Vila Francisco,93,Ibanesto.com,6:45 6:45,3,2002
+26.0,41.483999999999995,55.0,+15:14,,Martin Ludovic,94,Cr\xe9dit Agricole,6:48 6:48,3,2002
+26.0,41.472,103.0,+28:30,,Diaz Ruben,95,,6:49 6:49,3,2002
+25.0,41.449,106.0,+35:50,,Rodriguez Alexis,96,Kelme - Costa Blanca,6:51 6:51,3,2002
+25.0,41.426,82.0,+21:05,,Brandt Christophe,97,Lotto - Adecco,6:53 6:53,3,2002
+26.0,41.426,88.0,+22:19,,Verbrugghe Ief,98,Lotto - Adecco,",, 6:53",3,2002
+28.0,41.31,52.0,+14:35,,Rasmussen Michael,99,CSC ProTeam - Tiscali,7:03 7:03,3,2002
+29.0,41.172,101.0,+26:39,,Asmaker Olivier,100,CSC ProTeam - Tiscali,7:15 7:15,3,2002
+24.0,41.16,62.0,+17:18,,Lamouller Lo\xefc,101,BigMat - Auber 93,7:16 7:16,3,2002
+26.0,41.126000000000005,102.0,+27:55,,van Dijk Stefan,102,Lotto - Adecco,7:19 7:19,3,2002
+23.0,40.92,90.0,+22:52,,Cooke Baden,103,La Fran\xe7aise des Jeux,7:37 7:37,3,2002
+23.0,40.819,104.0,+29:21,,Charteau Anthony,104,Bonjour,7:46 7:46,3,2002
+27.0,40.773,92.0,+23:15,,Jenner Christopher,105,Cr\xe9dit Agricole,7:50 7:50,3,2002
+26.0,40.339,57.0,+16:11,,De Wolf Steve,106,Domo - Farm Frites,8:29 8:29,3,2002
+24.0,40.306,109.0,+48:45,,Gutierrez Ignacio,107,Kelme - Costa Blanca,8:32 8:32,3,2002
+31.0,39.774,69.0,+18:36,,Cerezo Francisco,108,,9:21 9:21,3,2002
+29.0,38.278,75.0,+20:28,,Jalabert Nicolas,109,CSC ProTeam - Tiscali,11:46 11:46,3,2002
+28.0,,26.0,+9:58,30.0,Halgand Patrice,1,Jean Delatour,5:09:36 5:09:36,4,2002
+31.0,,14.0,+4:42,18.0,Heulot Stephane,2,BigMat - Auber 93,0:19 0:19,4,2002
+30.0,,35.0,+12:55,12.0,Bessy Fr\xe9d\xe9ric,3,Cr\xe9dit Agricole,",, 0:19",4,2002
+26.0,,2.0,+0:16,7.0,Landis Floyd,4,US Postal Service,",, 0:19",4,2002
+28.0,,52.0,+21:12,4.0,Moerenhout Koos,5,Domo - Farm Frites,1:24 1:24,4,2002
+21.0,,45.0,+19:26,3.0,Bodo Thomas,6,La Fran\xe7aise des Jeux,",, 1:24",4,2002
+29.0,,22.0,+7:13,2.0,Oriol Christophe,7,AG2R Pr\xe9voyance,",, 1:24",4,2002
+27.0,,24.0,+9:40,1.0,S\xf8rensen Nicki,8,CSC ProTeam - Tiscali,3:03 3:03,4,2002
+23.0,,56.0,+22:52,,Cooke Baden,9,La Fran\xe7aise des Jeux,3:59 3:59,4,2002
+32.0,,13.0,+4:29,,Virenque Richard,10,Domo - Farm Frites,",, 3:59",4,2002
+31.0,,5.0,+2:18,,Moreau Christophe,11,Cr\xe9dit Agricole,",, 3:59",4,2002
+28.0,,31.0,+12:01,,Mikhailov Guennady,12,Lotto - Adecco,",, 3:59",4,2002
+25.0,,20.0,+7:06,,Lefevre Laurent,13,Jean Delatour,",, 3:59",4,2002
+31.0,,29.0,+11:10,,Vasseur C\xe9dric,14,Cofidis,",, 3:59",4,2002
+29.0,,33.0,+12:43,,Beneteau Walter,15,Bonjour,",, 3:59",4,2002
+23.0,,47.0,+19:35,,Portal Nicolas,16,AG2R Pr\xe9voyance,",, 3:59",4,2002
+27.0,,38.0,+14:58,,Gutierrez Jose Enrique,17,Kelme - Costa Blanca,",, 3:59",4,2002
+27.0,,12.0,+4:03,,Osa Unai,18,Ibanesto.com,",, 3:59",4,2002
+25.0,,6.0,+2:57,,Sevilla Oscar,19,Kelme - Costa Blanca,",, 3:59",4,2002
+24.0,,4.0,+1:59,,Menchov Denis,20,Ibanesto.com,",, 3:59",4,2002
+28.0,,50.0,+20:04,,Latasa lasa David,21,Ibanesto.com,",, 3:59",4,2002
+28.0,,10.0,+3:22,,Kivilev Andrei,22,Cofidis,",, 3:59",4,2002
+33.0,,9.0,+3:15,,Garc\xeda Felix Manuel,23,BigMat - Auber 93,",, 3:59",4,2002
+29.0,,25.0,+9:40,,Rubiera Jos\xe9 Luis,24,US Postal Service,",, 3:59",4,2002
+30.0,,1.0,+0:00,,Armstrong Lance,25,US Postal Service,",, 3:59",4,2002
+27.0,,21.0,+7:10,,Botcharov Alexandre,26,AG2R Pr\xe9voyance,",, 3:59",4,2002
+29.0,,15.0,+5:07,,Chaurreau I\xf1igo,27,AG2R Pr\xe9voyance,",, 3:59",4,2002
+26.0,,7.0,+3:07,,Kintana Aitor,28,BigMat - Auber 93,",, 3:59",4,2002
+24.0,,16.0,+5:16,,Vogondy Nicolas,29,La Fran\xe7aise des Jeux,",, 3:59",4,2002
+24.0,,30.0,+11:40,,Talabardon S\xe9bastien,30,BigMat - Auber 93,",, 3:59",4,2002
+25.0,,3.0,+1:12,,Zubeldia Haimar,31,Euskaltel - Euskadi,",, 3:59",4,2002
+27.0,,11.0,+3:52,,Bruseghin Marzio,32,Ibanesto.com,",, 3:59",4,2002
+25.0,,8.0,+3:07,,Millar David,33,Cofidis,",, 3:59",4,2002
+29.0,,40.0,+15:50,,Baranowski Dariusz,34,Ibanesto.com,",, 3:59",4,2002
+32.0,,18.0,+5:49,,Goubert Stephane,35,Jean Delatour,",, 3:59",4,2002
+32.0,,32.0,+12:12,,Robin Jean-Cyril,36,La Fran\xe7aise des Jeux,",, 3:59",4,2002
+27.0,,17.0,+5:25,,Moncouti\xe9 David,37,Cofidis,",, 3:59",4,2002
+29.0,,23.0,+8:24,,Vaughters Jonathan,38,Cr\xe9dit Agricole,",, 3:59",4,2002
+24.0,,36.0,+13:32,,Gonzalez Gorka,39,Euskaltel - Euskadi,4:06 4:06,4,2002
+34.0,,34.0,+12:45,,Lelli Massimiliano,40,Cofidis,5:03 5:03,4,2002
+30.0,,19.0,+5:55,,van de Wouwer Kurt,41,Lotto - Adecco,",, 5:03",4,2002
+26.0,,42.0,+17:15,,De Wolf Steve,42,Domo - Farm Frites,",, 5:03",4,2002
+33.0,,70.0,+27:10,,Simon Fran\xe7ois,43,Bonjour,",, 5:03",4,2002
+24.0,,54.0,+21:47,,Perez Santiago,44,Kelme - Costa Blanca,",, 5:03",4,2002
+27.0,,69.0,+26:21,,Jenner Christopher,45,Cr\xe9dit Agricole,7:05 7:05,4,2002
+36.0,,28.0,+10:48,,Ekimov Viatcheslav,46,US Postal Service,",, 7:05",4,2002
+27.0,,63.0,+24:16,,Turpin Ludovic,47,AG2R Pr\xe9voyance,",, 7:05",4,2002
+28.0,,55.0,+21:55,,Tauler Toni,48,Kelme - Costa Blanca,",, 7:05",4,2002
+25.0,,62.0,+23:55,,Flores Iker,49,Euskaltel - Euskadi,",, 7:05",4,2002
+31.0,,27.0,+10:36,,Garcia Marcelino,50,CSC ProTeam - Tiscali,7:46 7:46,4,2002
+24.0,,41.0,+16:26,,S\xe1nchez Samuel,51,Euskaltel - Euskadi,",, 7:46",4,2002
+30.0,,67.0,+25:29,,Mattan Nico,52,Cofidis,7:47 7:47,4,2002
+23.0,,91.0,+33:13,,Charteau Anthony,53,Bonjour,7:51 7:51,4,2002
+22.0,,39.0,+15:11,,Astarloza Mikel,54,AG2R Pr\xe9voyance,8:53 8:53,4,2002
+24.0,,53.0,+21:46,,Laurent Christophe,55,Jean Delatour,",, 8:53",4,2002
+25.0,,37.0,+14:22,,Arrizabalaga Gorka,56,Euskaltel - Euskadi,",, 8:53",4,2002
+26.0,,43.0,+17:27,,Trentin Guido,57,Cofidis,",, 8:53",4,2002
+30.0,,81.0,+30:57,,Lebreton Lylian,58,BigMat - Auber 93,14:30 14:30,4,2002
+22.0,,61.0,+23:29,,Kashechkin Andrey,59,Domo - Farm Frites,",, 14:30",4,2002
+26.0,,72.0,+27:39,,Joachim Benoit,60,US Postal Service,",, 14:30",4,2002
+31.0,,75.0,+28:12,,Rous Didier,61,Bonjour,",, 14:30",4,2002
+30.0,,85.0,+31:29,,Guesdon Fr\xe9d\xe9ric,62,La Fran\xe7aise des Jeux,",, 14:30",4,2002
+29.0,,64.0,+24:23,,Botero Santiago,63,Kelme - Costa Blanca,",, 14:30",4,2002
+27.0,,77.0,+28:45,,Pe\xf1a Victor Hugo,64,US Postal Service,",, 14:30",4,2002
+26.0,,100.0,+38:26,,van Dijk Stefan,65,Lotto - Adecco,",, 14:30",4,2002
+23.0,,86.0,+31:35,,Tankink Bram,66,Domo - Farm Frites,",, 14:30",4,2002
+27.0,,51.0,+20:49,,Morin Anthony,67,Cr\xe9dit Agricole,",, 14:30",4,2002
+31.0,,92.0,+33:21,,Padrnos Pavel,68,US Postal Service,",, 14:30",4,2002
+28.0,,71.0,+27:32,,Hinault S\xe9bastien,69,Cr\xe9dit Agricole,",, 14:30",4,2002
+27.0,,49.0,+19:57,,Dessel Cyril,70,Jean Delatour,",, 14:30",4,2002
+22.0,,59.0,+23:17,,Edaleine Christophe,71,Jean Delatour,",, 14:30",4,2002
+35.0,,93.0,+33:42,,Durand Jacky,72,La Fran\xe7aise des Jeux,",, 14:30",4,2002
+28.0,,88.0,+31:54,,Bouyer Franck,73,Bonjour,",, 14:30",4,2002
+28.0,,84.0,+31:12,,Renier Franck,74,Bonjour,",, 14:30",4,2002
+32.0,,57.0,+23:05,,Jan Xavier,75,BigMat - Auber 93,",, 14:30",4,2002
+26.0,,94.0,+34:18,,Javier Vila Francisco,76,Ibanesto.com,",, 14:30",4,2002
+25.0,,99.0,+36:57,,Cretskens Wilfried,77,Domo - Farm Frites,",, 14:30",4,2002
+26.0,,68.0,+25:45,,Martin Ludovic,78,Cr\xe9dit Agricole,",, 14:30",4,2002
+25.0,,87.0,+31:36,,Brandt Christophe,79,Lotto - Adecco,",, 14:30",4,2002
+26.0,,90.0,+32:50,,Verbrugghe Ief,80,Lotto - Adecco,",, 14:30",4,2002
+32.0,,74.0,+28:05,,Baguet Serge,81,Lotto - Adecco,",, 14:30",4,2002
+31.0,,46.0,+19:27,,Brozyna Tomasz,82,Ibanesto.com,",, 14:30",4,2002
+32.0,,103.0,+41:49,,Lamour Claude,83,Cofidis,",, 14:30",4,2002
+25.0,,58.0,+23:09,,Poilvet Benoit,84,Cr\xe9dit Agricole,",, 14:30",4,2002
+21.0,,104.0,+47:04,,Van Impe Kevin,85,Lotto - Adecco,",, 14:30",4,2002
+30.0,,48.0,+19:37,,Peron Andrea,86,CSC ProTeam - Tiscali,",, 14:30",4,2002
+31.0,,79.0,+29:07,,Cerezo Francisco,87,,",, 14:30",4,2002
+26.0,,80.0,+29:38,,Estadieu Laurent,88,AG2R Pr\xe9voyance,",, 14:30",4,2002
+29.0,,82.0,+30:59,,Jalabert Nicolas,89,CSC ProTeam - Tiscali,",, 14:30",4,2002
+33.0,,95.0,+35:36,,Seigneur Eddy,90,Jean Delatour,",, 14:30",4,2002
+26.0,,66.0,+25:23,,McGee Bradley,91,La Fran\xe7aise des Jeux,",, 14:30",4,2002
+33.0,,44.0,+17:27,,Jalabert Laurent,92,CSC ProTeam - Tiscali,",, 14:30",4,2002
+24.0,,73.0,+27:49,,Lamouller Lo\xefc,93,BigMat - Auber 93,",, 14:30",4,2002
+22.0,,89.0,+32:20,,Plaza Rub\xe9n,94,Ibanesto.com,",, 14:30",4,2002
+26.0,,76.0,+28:12,,Grux Alexandre,95,AG2R Pr\xe9voyance,",, 14:30",4,2002
+30.0,,97.0,+36:06,,Sivakov Alexei,96,BigMat - Auber 93,",, 14:30",4,2002
+29.0,,98.0,+36:44,,Kjaergaard Steffen,97,US Postal Service,",, 14:30",4,2002
+28.0,,65.0,+25:06,,Rasmussen Michael,98,CSC ProTeam - Tiscali,",, 14:30",4,2002
+28.0,,83.0,+31:09,,Pichon Mickael,99,Bonjour,",, 14:30",4,2002
+23.0,,60.0,+23:24,,Casar Sandy,100,La Fran\xe7aise des Jeux,",, 14:30",4,2002
+30.0,,78.0,+29:04,,Bernard J\xe9r\xf4me,101,Jean Delatour,",, 14:30",4,2002
+25.0,,106.0,+49:32,,Rodriguez Alexis,102,Kelme - Costa Blanca,17:41 17:41,4,2002
+29.0,,101.0,+40:21,,Asmaker Olivier,103,CSC ProTeam - Tiscali,",, 17:41",4,2002
+26.0,,108.0,+54:09,,Lopez Joaquin,104,Kelme - Costa Blanca,",, 17:41",4,2002
+21.0,,96.0,+35:46,,van Goolen Jurgen,105,Domo - Farm Frites,26:07 26:07,4,2002
+29.0,,102.0,+40:33,,Etxebarria Unai,106,Euskaltel - Euskadi,",, 26:07",4,2002
+31.0,,105.0,+47:10,,Solaun Cesar,107,Euskaltel - Euskadi,",, 26:07",4,2002
+26.0,,107.0,+50:38,,Diaz Ruben,108,,",, 26:07",4,2002
+30.0,,60.0,+22:16,30.0,Guesdon Fr\xe9d\xe9ric,1,La Fran\xe7aise des Jeux,5:07:59 5:07:59,5,2002
+29.0,,43.0,+15:10,18.0,Botero Santiago,2,Kelme - Costa Blanca,",, ,,",5,2002
+33.0,,25.0,+8:14,12.0,Jalabert Laurent,3,CSC ProTeam - Tiscali,",, ,,",5,2002
+27.0,,42.0,+15:03,7.0,Turpin Ludovic,4,AG2R Pr\xe9voyance,",, ,,",5,2002
+26.0,,67.0,+25:05,4.0,Javier Vila Francisco,5,Ibanesto.com,",, ,,",5,2002
+22.0,,46.0,+15:58,3.0,Edaleine Christophe,6,Jean Delatour,1:54 1:54,5,2002
+33.0,,53.0,+19:51,2.0,Simon Fran\xe7ois,7,Bonjour,",, 1:54",5,2002
+29.0,,66.0,+23:40,1.0,Jalabert Nicolas,8,CSC ProTeam - Tiscali,",, 1:54",5,2002
+27.0,,39.0,+13:30,,Morin Anthony,9,Cr\xe9dit Agricole,",, 1:54",5,2002
+26.0,,30.0,+10:10,,Trentin Guido,10,Cofidis,1:56 1:56,5,2002
+25.0,,21.0,+7:05,,Arrizabalaga Gorka,11,Euskaltel - Euskadi,",, 1:56",5,2002
+24.0,,13.0,+4:23,,Talabardon S\xe9bastien,12,BigMat - Auber 93,",, 1:56",5,2002
+35.0,,90.0,+33:42,,Durand Jacky,13,La Fran\xe7aise des Jeux,9:13 9:13,5,2002
+28.0,,73.0,+27:32,,Hinault S\xe9bastien,14,Cr\xe9dit Agricole,",, 9:13",5,2002
+21.0,,91.0,+35:46,,van Goolen Jurgen,15,Domo - Farm Frites,",, 9:13",5,2002
+36.0,,32.0,+10:48,,Ekimov Viatcheslav,16,US Postal Service,",, 9:13",5,2002
+32.0,,75.0,+28:05,,Baguet Serge,17,Lotto - Adecco,",, 9:13",5,2002
+30.0,,92.0,+36:06,,Sivakov Alexei,18,BigMat - Auber 93,",, 9:13",5,2002
+31.0,,5.0,+2:18,,Moreau Christophe,19,Cr\xe9dit Agricole,",, 9:13",5,2002
+24.0,,4.0,+1:59,,Menchov Denis,20,Ibanesto.com,",, 9:13",5,2002
+26.0,,87.0,+32:50,,Verbrugghe Ief,21,Lotto - Adecco,",, 9:13",5,2002
+27.0,,72.0,+26:21,,Jenner Christopher,22,Cr\xe9dit Agricole,",, 9:13",5,2002
+26.0,,71.0,+25:45,,Martin Ludovic,23,Cr\xe9dit Agricole,",, 9:13",5,2002
+22.0,,44.0,+15:11,,Astarloza Mikel,24,AG2R Pr\xe9voyance,",, 9:13",5,2002
+29.0,,24.0,+7:13,,Oriol Christophe,25,AG2R Pr\xe9voyance,",, 9:13",5,2002
+32.0,,95.0,+41:59,,Lamour Claude,26,Cofidis,",, 9:13",5,2002
+23.0,,51.0,+19:35,,Portal Nicolas,27,AG2R Pr\xe9voyance,",, 9:13",5,2002
+25.0,,85.0,+31:36,,Brandt Christophe,28,Lotto - Adecco,",, 9:13",5,2002
+32.0,,14.0,+4:29,,Virenque Richard,29,Domo - Farm Frites,",, 9:13",5,2002
+29.0,,16.0,+5:07,,Chaurreau I\xf1igo,30,AG2R Pr\xe9voyance,",, 9:13",5,2002
+21.0,,49.0,+19:26,,Bodo Thomas,31,La Fran\xe7aise des Jeux,",, 9:13",5,2002
+26.0,,2.0,+0:16,,Landis Floyd,32,US Postal Service,",, 9:13",5,2002
+30.0,,1.0,+0:00,,Armstrong Lance,33,US Postal Service,",, 9:13",5,2002
+32.0,,35.0,+12:12,,Robin Jean-Cyril,34,La Fran\xe7aise des Jeux,",, 9:13",5,2002
+24.0,,40.0,+13:32,,Gonzalez Gorka,35,Euskaltel - Euskadi,",, 9:13",5,2002
+30.0,,20.0,+5:55,,van de Wouwer Kurt,36,Lotto - Adecco,",, 9:13",5,2002
+23.0,,64.0,+23:24,,Casar Sandy,37,La Fran\xe7aise des Jeux,",, 9:13",5,2002
+22.0,,65.0,+23:29,,Kashechkin Andrey,38,Domo - Farm Frites,",, 9:13",5,2002
+25.0,,3.0,+1:12,,Zubeldia Haimar,39,Euskaltel - Euskadi,",, 9:13",5,2002
+30.0,,38.0,+12:55,,Bessy Fr\xe9d\xe9ric,40,Cr\xe9dit Agricole,",, 9:13",5,2002
+25.0,,6.0,+2:57,,Sevilla Oscar,41,Kelme - Costa Blanca,",, 9:13",5,2002
+23.0,,84.0,+31:35,,Tankink Bram,42,Domo - Farm Frites,",, 9:13",5,2002
+29.0,,28.0,+9:40,,Rubiera Jos\xe9 Luis,43,US Postal Service,",, 9:13",5,2002
+31.0,,89.0,+33:21,,Padrnos Pavel,44,US Postal Service,",, 9:13",5,2002
+26.0,,77.0,+28:12,,Grux Alexandre,45,AG2R Pr\xe9voyance,",, 9:13",5,2002
+22.0,,86.0,+32:30,,Plaza Rub\xe9n,46,Ibanesto.com,",, 9:13",5,2002
+29.0,,93.0,+36:44,,Kjaergaard Steffen,47,US Postal Service,",, 9:13",5,2002
+24.0,,17.0,+5:16,,Vogondy Nicolas,48,La Fran\xe7aise des Jeux,",, 9:13",5,2002
+24.0,,57.0,+21:46,,Laurent Christophe,49,Jean Delatour,",, 9:13",5,2002
+27.0,,12.0,+4:03,,Osa Unai,50,Ibanesto.com,",, 9:13",5,2002
+27.0,,11.0,+3:52,,Bruseghin Marzio,51,Ibanesto.com,",, 9:13",5,2002
+28.0,,29.0,+9:58,,Halgand Patrice,52,Jean Delatour,",, 9:13",5,2002
+26.0,,7.0,+3:07,,Kintana Aitor,53,BigMat - Auber 93,",, 9:13",5,2002
+27.0,,41.0,+14:58,,Gutierrez Jose Enrique,54,Kelme - Costa Blanca,",, 9:13",5,2002
+27.0,,27.0,+9:40,,S\xf8rensen Nicki,55,CSC ProTeam - Tiscali,",, 9:13",5,2002
+30.0,,81.0,+30:57,,Lebreton Lylian,56,BigMat - Auber 93,",, 9:13",5,2002
+29.0,,45.0,+15:50,,Baranowski Dariusz,57,Ibanesto.com,",, 9:13",5,2002
+26.0,,74.0,+27:39,,Joachim Benoit,58,US Postal Service,",, 9:13",5,2002
+33.0,,9.0,+3:15,,Garc\xeda Felix Manuel,59,BigMat - Auber 93,",, 9:13",5,2002
+26.0,,48.0,+17:15,,De Wolf Steve,60,Domo - Farm Frites,",, 9:13",5,2002
+25.0,,63.0,+23:09,,Poilvet Benoit,61,Cr\xe9dit Agricole,",, 9:13",5,2002
+26.0,,80.0,+29:38,,Estadieu Laurent,62,AG2R Pr\xe9voyance,",, 9:13",5,2002
+23.0,,61.0,+22:52,,Cooke Baden,63,La Fran\xe7aise des Jeux,",, 9:13",5,2002
+27.0,,78.0,+28:45,,Pe\xf1a Victor Hugo,64,US Postal Service,",, 9:13",5,2002
+32.0,,62.0,+23:05,,Jan Xavier,65,BigMat - Auber 93,",, 9:13",5,2002
+28.0,,59.0,+21:55,,Tauler Toni,66,Kelme - Costa Blanca,",, 9:13",5,2002
+30.0,,52.0,+19:37,,Peron Andrea,67,CSC ProTeam - Tiscali,",, 9:13",5,2002
+31.0,,15.0,+4:42,,Heulot Stephane,68,BigMat - Auber 93,",, 9:13",5,2002
+32.0,,19.0,+5:49,,Goubert Stephane,69,Jean Delatour,",, 9:13",5,2002
+25.0,,22.0,+7:06,,Lefevre Laurent,70,Jean Delatour,",, 9:13",5,2002
+27.0,,54.0,+19:57,,Dessel Cyril,71,Jean Delatour,",, 9:13",5,2002
+28.0,,56.0,+21:12,,Moerenhout Koos,72,Domo - Farm Frites,",, 9:13",5,2002
+31.0,,76.0,+28:12,,Rous Didier,73,Bonjour,",, 9:13",5,2002
+28.0,,83.0,+31:12,,Renier Franck,74,Bonjour,",, 9:13",5,2002
+25.0,,8.0,+3:07,,Millar David,75,Cofidis,",, 9:13",5,2002
+29.0,,26.0,+8:24,,Vaughters Jonathan,76,Cr\xe9dit Agricole,",, 9:13",5,2002
+26.0,,69.0,+25:23,,McGee Bradley,77,La Fran\xe7aise des Jeux,",, 9:13",5,2002
+29.0,,36.0,+12:43,,Beneteau Walter,78,Bonjour,",, 9:13",5,2002
+28.0,,10.0,+3:22,,Kivilev Andrei,79,Cofidis,",, 9:13",5,2002
+31.0,,50.0,+19:27,,Brozyna Tomasz,80,Ibanesto.com,",, 9:13",5,2002
+30.0,,79.0,+29:04,,Bernard J\xe9r\xf4me,81,Jean Delatour,",, 9:13",5,2002
+31.0,,31.0,+10:36,,Garcia Marcelino,82,CSC ProTeam - Tiscali,",, 9:13",5,2002
+24.0,,58.0,+21:47,,Perez Santiago,83,Kelme - Costa Blanca,",, 9:13",5,2002
+24.0,,47.0,+16:26,,S\xe1nchez Samuel,84,Euskaltel - Euskadi,",, 9:13",5,2002
+27.0,,18.0,+5:25,,Moncouti\xe9 David,85,Cofidis,",, 9:13",5,2002
+30.0,,70.0,+25:29,,Mattan Nico,86,Cofidis,",, 9:13",5,2002
+27.0,,23.0,+7:10,,Botcharov Alexandre,87,AG2R Pr\xe9voyance,",, 9:13",5,2002
+28.0,,68.0,+25:06,,Rasmussen Michael,88,CSC ProTeam - Tiscali,",, 9:13",5,2002
+26.0,,99.0,+54:09,,Lopez Joaquin,89,Kelme - Costa Blanca,",, 9:13",5,2002
+31.0,,33.0,+11:10,,Vasseur C\xe9dric,90,Cofidis,",, 9:13",5,2002
+34.0,,37.0,+12:55,,Lelli Massimiliano,91,Cofidis,",, 9:13",5,2002
+29.0,,94.0,+40:33,,Etxebarria Unai,92,Euskaltel - Euskadi,",, 9:13",5,2002
+28.0,,55.0,+20:04,,Latasa lasa David,93,Ibanesto.com,",, 9:13",5,2002
+23.0,,88.0,+33:13,,Charteau Anthony,94,Bonjour,",, 9:13",5,2002
+28.0,,82.0,+31:09,,Pichon Mickael,95,Bonjour,",, 9:13",5,2002
+28.0,,34.0,+12:01,,Mikhailov Guennady,96,Lotto - Adecco,",, 9:13",5,2002
+26.0,,97.0,+51:20,,Diaz Ruben,97,,9:55 9:55,5,2002
+33.0,,96.0,+46:22,,Seigneur Eddy,98,Jean Delatour,19:59 19:59,5,2002
+29.0,,98.0,+51:47,,Asmaker Olivier,99,CSC ProTeam - Tiscali,",, 19:59",5,2002
+30.0,,1.0,+0:00,30.0,Armstrong Lance,1,US Postal Service,4:26:42 4:26:42,6,2002
+31.0,,3.0,+2:24,18.0,Moreau Christophe,2,Cr\xe9dit Agricole,0:06 0:06,6,2002
+28.0,,5.0,+3:28,12.0,Kivilev Andrei,3,Cofidis,",, 0:06",6,2002
+25.0,,4.0,+2:44,7.0,Zubeldia Haimar,4,Euskaltel - Euskadi,1:32 1:32,6,2002
+32.0,,9.0,+6:11,4.0,Virenque Richard,5,Domo - Farm Frites,1:42 1:42,6,2002
+28.0,,8.0,+5:34,3.0,Bruseghin Marzio,6,Ibanesto.com,",, 1:42",6,2002
+24.0,,6.0,+3:46,2.0,Menchov Denis,7,Ibanesto.com,1:47 1:47,6,2002
+26.0,,2.0,+2:03,1.0,Landis Floyd,8,US Postal Service,",, 1:47",6,2002
+27.0,,14.0,+8:59,,Botcharov Alexandre,9,AG2R Pr\xe9voyance,1:49 1:49,6,2002
+25.0,,13.0,+8:59,,Lefevre Laurent,10,Jean Delatour,1:53 1:53,6,2002
+27.0,,11.0,+7:18,,Moncouti\xe9 David,11,Cofidis,",, 1:53",6,2002
+24.0,,10.0,+7:09,,Vogondy Nicolas,12,La Fran\xe7aise des Jeux,",, 1:53",6,2002
+26.0,,7.0,+5:09,,Kintana Aitor,13,BigMat - Auber 93,2:02 2:02,6,2002
+33.0,,12.0,+7:21,,Garc\xeda Felix Manuel,14,BigMat - Auber 93,4:06 4:06,6,2002
+29.0,,15.0,+9:13,,Chaurreau I\xf1igo,15,AG2R Pr\xe9voyance,",, 4:06",6,2002
+24.0,,16.0,+9:19,,Talabardon S\xe9bastien,16,BigMat - Auber 93,4:56 4:56,6,2002
+32.0,,17.0,+11:10,,Goubert Stephane,17,Jean Delatour,5:21 5:21,6,2002
+32.0,,22.0,+17:33,,Robin Jean-Cyril,18,La Fran\xe7aise des Jeux,",, 5:21",6,2002
+29.0,,20.0,+12:34,,Oriol Christophe,19,AG2R Pr\xe9voyance,",, 5:21",6,2002
+28.0,,37.0,+30:31,,Rasmussen Michael,20,CSC ProTeam - Tiscali,5:25 5:25,6,2002
+28.0,,24.0,+18:12,,Mikhailov Guennady,21,Lotto - Adecco,6:11 6:11,6,2002
+30.0,,19.0,+12:06,,van de Wouwer Kurt,22,Lotto - Adecco,",, 6:11",6,2002
+31.0,,21.0,+17:21,,Vasseur C\xe9dric,23,Cofidis,",, 6:11",6,2002
+23.0,,33.0,+26:10,,Portal Nicolas,24,AG2R Pr\xe9voyance,6:35 6:35,6,2002
+30.0,,34.0,+26:16,,Peron Andrea,25,CSC ProTeam - Tiscali,6:39 6:39,6,2002
+27.0,,18.0,+11:38,,Osa Unai,26,Ibanesto.com,7:35 7:35,6,2002
+28.0,,23.0,+18:01,,Halgand Patrice,27,Jean Delatour,8:03 8:03,6,2002
+26.0,,31.0,+25:18,,De Wolf Steve,28,Domo - Farm Frites,",, 8:03",6,2002
+29.0,,27.0,+23:58,,Baranowski Dariusz,29,Ibanesto.com,8:08 8:08,6,2002
+21.0,,36.0,+28:30,,Bodo Thomas,30,La Fran\xe7aise des Jeux,9:04 9:04,6,2002
+24.0,,32.0,+25:56,,S\xe1nchez Samuel,31,Euskaltel - Euskadi,9:30 9:30,6,2002
+27.0,,30.0,+25:17,,Turpin Ludovic,32,AG2R Pr\xe9voyance,10:14 10:14,6,2002
+31.0,,50.0,+39:26,,Rous Didier,33,Bonjour,11:14 11:14,6,2002
+24.0,,41.0,+33:00,,Laurent Christophe,34,Jean Delatour,",, 11:14",6,2002
+34.0,,29.0,+24:19,,Lelli Massimiliano,35,Cofidis,11:24 11:24,6,2002
+29.0,,25.0,+21:45,,Vaughters Jonathan,36,Cr\xe9dit Agricole,13:21 13:21,6,2002
+36.0,,28.0,+24:09,,Ekimov Viatcheslav,37,US Postal Service,",, 13:21",6,2002
+27.0,,55.0,+42:06,,Pe\xf1a Victor Hugo,38,US Postal Service,",, 13:21",6,2002
+31.0,,40.0,+32:48,,Brozyna Tomasz,39,Ibanesto.com,",, 13:21",6,2002
+28.0,,43.0,+33:25,,Latasa lasa David,40,Ibanesto.com,",, 13:21",6,2002
+26.0,,52.0,+40:14,,McGee Bradley,41,La Fran\xe7aise des Jeux,14:51 14:51,6,2002
+23.0,,49.0,+38:15,,Casar Sandy,42,La Fran\xe7aise des Jeux,",, 14:51",6,2002
+28.0,,46.0,+36:03,,Moerenhout Koos,43,Domo - Farm Frites,",, 14:51",6,2002
+25.0,,26.0,+21:56,,Arrizabalaga Gorka,44,Euskaltel - Euskadi,",, 14:51",6,2002
+32.0,,53.0,+40:38,,Jan Xavier,45,BigMat - Auber 93,17:33 17:33,6,2002
+27.0,,39.0,+32:46,,Gutierrez Jose Enrique,46,Kelme - Costa Blanca,17:48 17:48,6,2002
+29.0,,44.0,+33:38,,Botero Santiago,47,Kelme - Costa Blanca,",, 17:48",6,2002
+26.0,,59.0,+46:09,,Martin Ludovic,48,Cr\xe9dit Agricole,20:24 20:24,6,2002
+30.0,,61.0,+49:28,,Bernard J\xe9r\xf4me,49,Jean Delatour,",, 20:24",6,2002
+26.0,,63.0,+50:15,,Joachim Benoit,50,US Postal Service,22:36 22:36,6,2002
+29.0,,38.0,+32:16,,Rubiera Jos\xe9 Luis,51,US Postal Service,",, 22:36",6,2002
+28.0,,56.0,+44:31,,Tauler Toni,52,Kelme - Costa Blanca,",, 22:36",6,2002
+25.0,,35.0,+26:53,,Millar David,53,Cofidis,23:46 23:46,6,2002
+29.0,,81.0,+1:05:18,,Etxebarria Unai,54,Euskaltel - Euskadi,24:45 24:45,6,2002
+33.0,,42.0,+33:05,,Jalabert Laurent,55,CSC ProTeam - Tiscali,24:51 24:51,6,2002
+29.0,,47.0,+37:34,,Beneteau Walter,56,Bonjour,",, 24:51",6,2002
+23.0,,72.0,+56:26,,Tankink Bram,57,Domo - Farm Frites,",, 24:51",6,2002
+22.0,,54.0,+40:49,,Edaleine Christophe,58,Jean Delatour,",, 24:51",6,2002
+30.0,,48.0,+37:46,,Bessy Fr\xe9d\xe9ric,59,Cr\xe9dit Agricole,",, 24:51",6,2002
+33.0,,57.0,+44:42,,Simon Fran\xe7ois,60,Bonjour,",, 24:51",6,2002
+27.0,,64.0,+51:12,,Jenner Christopher,61,Cr\xe9dit Agricole,",, 24:51",6,2002
+25.0,,60.0,+48:00,,Poilvet Benoit,62,Cr\xe9dit Agricole,",, 24:51",6,2002
+26.0,,62.0,+49:56,,Javier Vila Francisco,63,Ibanesto.com,",, 24:51",6,2002
+26.0,,45.0,+35:01,,Trentin Guido,64,Cofidis,",, 24:51",6,2002
+28.0,,71.0,+56:03,,Renier Franck,65,Bonjour,",, 24:51",6,2002
+32.0,,66.0,+53:06,,Baguet Serge,66,Lotto - Adecco,",, 24:51",6,2002
+30.0,,70.0,+55:48,,Lebreton Lylian,67,BigMat - Auber 93,",, 24:51",6,2002
+25.0,,73.0,+56:27,,Brandt Christophe,68,Lotto - Adecco,",, 24:51",6,2002
+31.0,,74.0,+58:12,,Padrnos Pavel,69,US Postal Service,",, 24:51",6,2002
+22.0,,51.0,+40:02,,Astarloza Mikel,70,AG2R Pr\xe9voyance,",, 24:51",6,2002
+29.0,,78.0,+1:04:02,,Kjaergaard Steffen,71,US Postal Service,27:18 27:18,6,2002
+30.0,,80.0,+1:04:18,,Sivakov Alexei,72,BigMat - Auber 93,28:12 28:12,6,2002
+22.0,,65.0,+51:59,,Kashechkin Andrey,73,Domo - Farm Frites,28:30 28:30,6,2002
+21.0,,79.0,+1:04:16,,van Goolen Jurgen,74,Domo - Farm Frites,",, 28:30",6,2002
+30.0,,67.0,+53:52,,Guesdon Fr\xe9d\xe9ric,75,La Fran\xe7aise des Jeux,31:36 31:36,6,2002
+27.0,,58.0,+45:06,,Morin Anthony,76,Cr\xe9dit Agricole,",, 31:36",6,2002
+32.0,,84.0,+1:13:35,,Lamour Claude,77,Cofidis,",, 31:36",6,2002
+23.0,,68.0,+54:28,,Cooke Baden,78,La Fran\xe7aise des Jeux,",, 31:36",6,2002
+29.0,,69.0,+55:21,,Jalabert Nicolas,79,CSC ProTeam - Tiscali,31:41 31:41,6,2002
+26.0,,76.0,+1:01:49,,Estadieu Laurent,80,AG2R Pr\xe9voyance,32:11 32:11,6,2002
+26.0,,85.0,+1:26:04,,Diaz de Cerio Ruben,81,Euskaltel - Euskadi,34:44 34:44,6,2002
+28.0,,77.0,+1:02:27,,Hinault S\xe9bastien,82,Cr\xe9dit Agricole,34:55 34:55,6,2002
+35.0,,83.0,+1:09:48,,Durand Jacky,83,La Fran\xe7aise des Jeux,36:06 36:06,6,2002
+30.0,,75.0,+1:01:35,,Mattan Nico,84,Cofidis,",, 36:06",6,2002
+26.0,,86.0,+1:30:15,,Lopez Joaquin,85,Kelme - Costa Blanca,",, 36:06",6,2002
+26.0,,82.0,+1:06:31,,Grux Alexandre,86,AG2R Pr\xe9voyance,38:19 38:19,6,2002
+27.0,,36.0,+27:35,30.0,Gutierrez Jose Enrique,1,Kelme - Costa Blanca,3:38:45 3:38:45,7,2002
+29.0,,13.0,+7:23,18.0,Oriol Christophe,2,AG2R Pr\xe9voyance,",, ,,",7,2002
+26.0,,46.0,+35:38,12.0,McGee Bradley,3,La Fran\xe7aise des Jeux,0:35 0:35,7,2002
+30.0,,59.0,+44:59,7.0,Bernard J\xe9r\xf4me,4,Jean Delatour,0:42 0:42,7,2002
+28.0,,21.0,+14:07,4.0,Halgand Patrice,5,Jean Delatour,1:17 1:17,7,2002
+29.0,,38.0,+29:46,3.0,Botero Santiago,6,Kelme - Costa Blanca,1:19 1:19,7,2002
+26.0,,56.0,+43:40,2.0,Martin Ludovic,7,Cr\xe9dit Agricole,2:42 2:42,7,2002
+32.0,,51.0,+38:31,1.0,Jan Xavier,8,BigMat - Auber 93,3:04 3:04,7,2002
+25.0,,30.0,+25:01,,Millar David,9,Cofidis,3:19 3:19,7,2002
+28.0,,40.0,+31:33,,Latasa lasa David,10,Ibanesto.com,",, 3:19",7,2002
+23.0,,67.0,+54:28,,Cooke Baden,11,La Fran\xe7aise des Jeux,5:11 5:11,7,2002
+32.0,,66.0,+53:06,,Baguet Serge,12,Lotto - Adecco,",, 5:11",7,2002
+28.0,,77.0,+1:02:27,,Hinault S\xe9bastien,13,Cr\xe9dit Agricole,",, 5:11",7,2002
+32.0,,9.0,+6:11,,Virenque Richard,14,Domo - Farm Frites,",, 5:11",7,2002
+34.0,,29.0,+24:19,,Lelli Massimiliano,15,Cofidis,",, 5:11",7,2002
+24.0,,43.0,+33:00,,Laurent Christophe,16,Jean Delatour,",, 5:11",7,2002
+21.0,,78.0,+1:04:16,,van Goolen Jurgen,17,Domo - Farm Frites,",, 5:11",7,2002
+28.0,,5.0,+3:28,,Kivilev Andrei,18,Cofidis,",, 5:11",7,2002
+33.0,,58.0,+44:42,,Simon Fran\xe7ois,19,Bonjour,",, 5:11",7,2002
+31.0,,3.0,+2:24,,Moreau Christophe,20,Cr\xe9dit Agricole,",, 5:11",7,2002
+27.0,,55.0,+42:06,,Pe\xf1a Victor Hugo,21,US Postal Service,",, 5:11",7,2002
+30.0,,79.0,+1:04:18,,Sivakov Alexei,22,BigMat - Auber 93,",, 5:11",7,2002
+25.0,,14.0,+8:59,,Lefevre Laurent,23,Jean Delatour,",, 5:11",7,2002
+26.0,,82.0,+1:06:31,,Grux Alexandre,24,AG2R Pr\xe9voyance,",, 5:11",7,2002
+32.0,,18.0,+11:10,,Goubert Stephane,25,Jean Delatour,",, 5:11",7,2002
+24.0,,10.0,+7:09,,Vogondy Nicolas,26,La Fran\xe7aise des Jeux,",, 5:11",7,2002
+29.0,,69.0,+55:21,,Jalabert Nicolas,27,CSC ProTeam - Tiscali,",, 5:11",7,2002
+27.0,,11.0,+7:18,,Moncouti\xe9 David,28,Cofidis,",, 5:11",7,2002
+32.0,,23.0,+17:33,,Robin Jean-Cyril,29,La Fran\xe7aise des Jeux,",, 5:11",7,2002
+29.0,,16.0,+9:13,,Chaurreau I\xf1igo,30,AG2R Pr\xe9voyance,",, 5:11",7,2002
+22.0,,54.0,+40:49,,Edaleine Christophe,31,Jean Delatour,",, 5:11",7,2002
+30.0,,49.0,+37:46,,Bessy Fr\xe9d\xe9ric,32,Cr\xe9dit Agricole,",, 5:11",7,2002
+33.0,,12.0,+7:21,,Garc\xeda Felix Manuel,33,BigMat - Auber 93,",, 5:11",7,2002
+23.0,,34.0,+26:10,,Portal Nicolas,34,AG2R Pr\xe9voyance,",, 5:11",7,2002
+26.0,,2.0,+2:03,,Landis Floyd,35,US Postal Service,",, 5:11",7,2002
+24.0,,17.0,+9:19,,Talabardon S\xe9bastien,36,BigMat - Auber 93,",, 5:11",7,2002
+30.0,,1.0,+0:00,,Armstrong Lance,37,US Postal Service,",, 5:11",7,2002
+36.0,,28.0,+24:09,,Ekimov Viatcheslav,38,US Postal Service,",, 5:11",7,2002
+28.0,,24.0,+18:12,,Mikhailov Guennady,39,Lotto - Adecco,",, 5:11",7,2002
+23.0,,50.0,+38:15,,Casar Sandy,40,La Fran\xe7aise des Jeux,",, 5:11",7,2002
+32.0,,84.0,+1:13:35,,Lamour Claude,41,Cofidis,",, 5:11",7,2002
+28.0,,8.0,+5:34,,Bruseghin Marzio,42,Ibanesto.com,",, 5:11",7,2002
+27.0,,19.0,+11:38,,Osa Unai,43,Ibanesto.com,",, 5:11",7,2002
+24.0,,6.0,+3:46,,Menchov Denis,44,Ibanesto.com,",, 5:11",7,2002
+25.0,,73.0,+56:27,,Brandt Christophe,45,Lotto - Adecco,",, 5:11",7,2002
+27.0,,15.0,+8:59,,Botcharov Alexandre,46,AG2R Pr\xe9voyance,",, 5:11",7,2002
+26.0,,7.0,+5:09,,Kintana Aitor,47,BigMat - Auber 93,",, 5:11",7,2002
+26.0,,45.0,+35:01,,Trentin Guido,48,Cofidis,",, 5:11",7,2002
+25.0,,4.0,+2:44,,Zubeldia Haimar,49,Euskaltel - Euskadi,",, 5:11",7,2002
+30.0,,20.0,+12:06,,van de Wouwer Kurt,50,Lotto - Adecco,",, 5:11",7,2002
+27.0,,31.0,+25:17,,Turpin Ludovic,51,AG2R Pr\xe9voyance,",, 5:11",7,2002
+31.0,,22.0,+17:21,,Vasseur C\xe9dric,52,Cofidis,",, 5:11",7,2002
+28.0,,47.0,+36:03,,Moerenhout Koos,53,Domo - Farm Frites,",, 5:11",7,2002
+29.0,,27.0,+23:58,,Baranowski Dariusz,54,Ibanesto.com,",, 5:11",7,2002
+27.0,,64.0,+51:12,,Jenner Christopher,55,Cr\xe9dit Agricole,",, 5:11",7,2002
+28.0,,57.0,+44:31,,Tauler Toni,56,Kelme - Costa Blanca,",, 5:11",7,2002
+30.0,,75.0,+1:01:35,,Mattan Nico,57,Cofidis,",, 5:11",7,2002
+31.0,,52.0,+39:26,,Rous Didier,58,Bonjour,",, 5:11",7,2002
+29.0,,48.0,+37:34,,Beneteau Walter,59,Bonjour,",, 5:11",7,2002
+22.0,,53.0,+40:02,,Astarloza Mikel,60,AG2R Pr\xe9voyance,",, 5:11",7,2002
+24.0,,33.0,+25:56,,S\xe1nchez Samuel,61,Euskaltel - Euskadi,",, 5:11",7,2002
+31.0,,42.0,+32:48,,Brozyna Tomasz,62,Ibanesto.com,",, 5:11",7,2002
+22.0,,65.0,+51:59,,Kashechkin Andrey,63,Domo - Farm Frites,",, 5:11",7,2002
+33.0,,44.0,+33:05,,Jalabert Laurent,64,CSC ProTeam - Tiscali,",, 5:11",7,2002
+26.0,,63.0,+50:15,,Joachim Benoit,65,US Postal Service,",, 5:11",7,2002
+25.0,,26.0,+21:56,,Arrizabalaga Gorka,66,Euskaltel - Euskadi,",, 5:11",7,2002
+29.0,,41.0,+32:16,,Rubiera Jos\xe9 Luis,67,US Postal Service,",, 5:11",7,2002
+31.0,,74.0,+58:12,,Padrnos Pavel,68,US Postal Service,",, 5:11",7,2002
+29.0,,25.0,+21:45,,Vaughters Jonathan,69,Cr\xe9dit Agricole,",, 5:11",7,2002
+27.0,,60.0,+45:06,,Morin Anthony,70,Cr\xe9dit Agricole,",, 5:11",7,2002
+25.0,,61.0,+48:00,,Poilvet Benoit,71,Cr\xe9dit Agricole,",, 5:11",7,2002
+28.0,,39.0,+30:31,,Rasmussen Michael,72,CSC ProTeam - Tiscali,",, 5:11",7,2002
+28.0,,70.0,+56:03,,Renier Franck,73,Bonjour,",, 5:11",7,2002
+26.0,,32.0,+25:18,,De Wolf Steve,74,Domo - Farm Frites,",, 5:11",7,2002
+26.0,,62.0,+49:56,,Javier Vila Francisco,75,Ibanesto.com,",, 5:11",7,2002
+23.0,,72.0,+56:26,,Tankink Bram,76,Domo - Farm Frites,",, 5:11",7,2002
+29.0,,81.0,+1:05:18,,Etxebarria Unai,77,Euskaltel - Euskadi,",, 5:11",7,2002
+30.0,,35.0,+26:35,,Peron Andrea,78,CSC ProTeam - Tiscali,5:30 5:30,7,2002
+21.0,,37.0,+28:56,,Bodo Thomas,79,La Fran\xe7aise des Jeux,5:37 5:37,7,2002
+29.0,,80.0,+1:04:28,,Kjaergaard Steffen,80,US Postal Service,",, 5:37",7,2002
+30.0,,71.0,+56:14,,Lebreton Lylian,81,BigMat - Auber 93,",, 5:37",7,2002
+26.0,,76.0,+1:02:19,,Estadieu Laurent,82,AG2R Pr\xe9voyance,5:41 5:41,7,2002
+26.0,,85.0,+1:26:47,,Diaz Ruben,83,,5:54 5:54,7,2002
+30.0,,68.0,+54:51,,Guesdon Fr\xe9d\xe9ric,84,La Fran\xe7aise des Jeux,6:10 6:10,7,2002
+35.0,,83.0,+1:10:47,,Durand Jacky,85,La Fran\xe7aise des Jeux,",, 6:10",7,2002

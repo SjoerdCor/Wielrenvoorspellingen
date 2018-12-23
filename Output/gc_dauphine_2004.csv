@@ -1,0 +1,524 @@
+Age,GC,GC-Time,Pnt,Rider,Rnk,Team,Time,Time won/lost,stage,year
+26,1,+0:00,,Mayo Iban,1,Euskaltel - Euskadi,6:11:38 6:11:38,+0:00,1,2004
+33,2,+0:01,,Hamilton Tyler,2,Phonak Hearing Systems,0:01 0:01,+0:01,1,2004
+32,3,+0:02,,Armstrong Lance,3,US Postal Service,0:02 0:02,+0:02,1,2004
+26,4,+0:02,,Pereiro Oscar,4,Phonak Hearing Systems,",, 0:02",+0:02,1,2004
+24,5,+0:06,,Rogers Michael,5,Quickstep - Davitamon,0:06 0:06,+0:06,1,2004
+27,6,+0:06,,Sevilla Oscar,6,Phonak Hearing Systems,",, 0:06",+0:06,1,2004
+29,7,+0:08,,Dessel Cyril,7,Phonak Hearing Systems,0:08 0:08,+0:08,1,2004
+29,8,+0:09,,Gutierrez Jose Enrique,8,Phonak Hearing Systems,0:09 0:09,+0:09,1,2004
+26,9,+0:10,,Hushovd Thor,9,Cr\xe9dit Agricole,0:10 0:10,+0:10,1,2004
+30,10,+0:10,,O'Grady Stuart,10,Cofidis,",, 0:10",+0:10,1,2004
+27,11,+0:10,,Lefevre Laurent,11,Brioches La Boulang\xe8re,",, 0:10",+0:10,1,2004
+30,12,+0:12,,Leipheimer Levi,12,Rabobank ProTeam,0:12 0:12,+0:12,1,2004
+30,13,+0:13,,Hincapie George,13,US Postal Service,0:13 0:13,+0:13,1,2004
+27,14,+0:13,,Jaksche Jorg,14,CSC ProTeam,",, 0:13",+0:13,1,2004
+24,15,+0:13,,Astarloza Mikel,15,AG2R Pr\xe9voyance,",, 0:13",+0:13,1,2004
+27,16,+0:14,,Landaluze Inigo,16,Euskaltel - Euskadi,0:14 0:14,+0:14,1,2004
+30,17,+0:14,,Rasmussen Michael,17,Rabobank ProTeam,",, 0:14",+0:14,1,2004
+20,18,+0:19,,L\xf6fkvist Thomas,18,Fdjeux.com,0:19 0:19,+0:19,1,2004
+29,19,+0:20,,Moncouti\xe9 David,19,Cofidis,0:20 0:20,+0:20,1,2004
+30,20,+0:20,,Gonzalez Santos,20,Phonak Hearing Systems,",, 0:20",+0:20,1,2004
+35,21,+0:20,,Dufaux Laurent,21,Quickstep - Davitamon,",, 0:20",+0:20,1,2004
+33,22,+0:22,,Moreau Christophe,22,Cr\xe9dit Agricole,0:22 0:22,+0:22,1,2004
+25,23,+0:22,,Krivtsov Yuriy,23,AG2R Pr\xe9voyance,",, 0:22",+0:22,1,2004
+28,24,+0:23,,Grabsch Bert,24,Phonak Hearing Systems,0:23 0:23,+0:23,1,2004
+30,25,+0:23,,Azevedo Jos\xe9 Bento Carvalho,25,US Postal Service,",, 0:23",+0:23,1,2004
+24,26,+0:24,,Voeckler Thomas,26,Brioches La Boulang\xe8re,0:24 0:24,+0:24,1,2004
+27,27,+0:24,,Flores Iker,27,Euskaltel - Euskadi,",, 0:24",+0:24,1,2004
+29,28,+0:24,,Sastre Carlos,28,CSC ProTeam,",, 0:24",+0:24,1,2004
+25,29,+0:24,,Fedrigo Pierrick,29,Cr\xe9dit Agricole,",, 0:24",+0:24,1,2004
+33,30,+0:24,,Dekker Erik,30,Rabobank ProTeam,",, 0:24",+0:24,1,2004
+25,31,+0:24,,Cama\xf1o Iker,31,Euskaltel - Euskadi,",, 0:24",+0:24,1,2004
+25,32,+0:27,,Casar Sandy,32,Fdjeux.com,0:27 0:27,+0:27,1,2004
+26,33,+0:29,,Martinez Egoi,33,Euskaltel - Euskadi,0:29 0:29,+0:29,1,2004
+38,34,+0:29,,Ekimov Viatcheslav,34,US Postal Service,",, 0:29",+0:29,1,2004
+26,35,+0:31,,Basso Ivan,35,CSC ProTeam,0:31 0:31,+0:31,1,2004
+25,36,+0:32,,Portal Nicolas,36,AG2R Pr\xe9voyance,0:32 0:32,+0:32,1,2004
+24,37,+0:33,,Calzati Sylvain,37,R.a.g.t Semence - Mg Rover,0:33 0:33,+0:33,1,2004
+30,38,+0:33,,Pichon Mickael,38,Brioches La Boulang\xe8re,",, 0:33",+0:33,1,2004
+24,39,+0:34,,Pineau J\xe9rome,39,Brioches La Boulang\xe8re,0:34 0:34,+0:34,1,2004
+25,40,+0:35,,Cooke Baden,40,Fdjeux.com,0:35 0:35,+0:35,1,2004
+23,41,+0:35,,Le M\xe9vel Christophe,41,Cr\xe9dit Agricole,",, 0:35",+0:35,1,2004
+34,42,+0:35,,Goubert Stephane,42,AG2R Pr\xe9voyance,",, 0:35",+0:35,1,2004
+30,43,+0:36,,Halgand Patrice,43,Cr\xe9dit Agricole,0:36 0:36,+0:36,1,2004
+32,44,+0:37,,Bessy Fr\xe9d\xe9ric,44,Cofidis,0:37 0:37,+0:37,1,2004
+25,45,+0:38,,Mercado Juan Miguel,45,Quickstep - Davitamon,0:38 0:38,+0:38,1,2004
+35,46,+0:38,,Seigneur Eddy,46,R.a.g.t Semence - Mg Rover,",, 0:38",+0:38,1,2004
+30,47,+0:39,,Salmon Benoit,47,Cr\xe9dit Agricole,0:39 0:39,+0:39,1,2004
+26,48,+0:40,,Silloniz Josu,48,Euskaltel - Euskadi,0:40 0:40,+0:40,1,2004
+34,49,+0:40,,Virenque Richard,49,Quickstep - Davitamon,",, 0:40",+0:40,1,2004
+30,50,+0:40,,Lotz Marc,50,Rabobank ProTeam,",, 0:40",+0:40,1,2004
+31,51,+0:41,,Beneteau Walter,51,Brioches La Boulang\xe8re,0:41 0:41,+0:41,1,2004
+23,52,+0:41,,Dumoulin Samuel,52,AG2R Pr\xe9voyance,",, 0:41",+0:41,1,2004
+28,53,+0:43,,Martin Ludovic,53,R.a.g.t Semence - Mg Rover,0:43 0:43,+0:43,1,2004
+31,54,+0:43,,Jalabert Nicolas,54,Phonak Hearing Systems,",, 0:43",+0:43,1,2004
+27,55,+0:43,,Calvente Corbas Manuel,55,CSC ProTeam,",, 0:43",+0:43,1,2004
+32,56,+0:44,,Guesdon Fr\xe9d\xe9ric,56,Fdjeux.com,0:44 0:44,+0:44,1,2004
+25,57,+0:44,,Noval Benjamin,57,US Postal Service,",, 0:44",+0:44,1,2004
+30,58,+0:44,,Renier Franck,58,Brioches La Boulang\xe8re,",, 0:44",+0:44,1,2004
+29,59,+0:45,,Horrillo Pedro,59,Quickstep - Davitamon,0:45 0:45,+0:45,1,2004
+32,60,+0:45,,Peron Andrea,60,CSC ProTeam,",, 0:45",+0:45,1,2004
+29,61,+0:45,,Pe\xf1a Victor Hugo,61,US Postal Service,",, 0:45",+0:45,1,2004
+29,62,+0:46,,S\xf8rensen Nicki,62,CSC ProTeam,0:46 0:46,+0:46,1,2004
+27,63,+0:46,,Isasi Inaki,63,Euskaltel - Euskadi,",, 0:46",+0:46,1,2004
+29,64,+0:47,,Botcharov Alexandre,64,Cr\xe9dit Agricole,0:47 0:47,+0:47,1,2004
+24,65,+0:47,,Nuyens Nick,65,Quickstep - Davitamon,",, 0:47",+0:47,1,2004
+28,66,+0:50,,Landis Floyd,66,US Postal Service,0:50 0:50,+0:50,1,2004
+25,67,+0:52,,Pecharroman Jos\xe9 Antonio,67,Quickstep - Davitamon,0:52 0:52,+0:52,1,2004
+31,68,+0:53,,Chaurreau I\xf1igo,68,AG2R Pr\xe9voyance,0:53 0:53,+0:53,1,2004
+23,69,+0:54,,Geslin Anthony,69,Brioches La Boulang\xe8re,0:54 0:54,+0:54,1,2004
+23,70,+0:54,,Eisel Bernhard,70,Fdjeux.com,",, 0:54",+0:54,1,2004
+24,71,+0:54,,Hary Maryan,71,Brioches La Boulang\xe8re,",, 0:54",+0:54,1,2004
+22,72,+0:55,,De Weert Kevin,72,Rabobank ProTeam,0:55 0:55,+0:55,1,2004
+28,73,+0:56,,Auger Guillaume,73,R.a.g.t Semence - Mg Rover,0:56 0:56,+0:56,1,2004
+24,74,+0:56,,Muravyev Dmitriy,74,Cr\xe9dit Agricole,",, 0:56",+0:56,1,2004
+33,75,+0:56,,Beltran Manuel,75,US Postal Service,",, 0:56",+0:56,1,2004
+34,76,+0:57,,Robin Jean-Cyril,76,Fdjeux.com,0:57 0:57,+0:57,1,2004
+25,77,+0:58,,Flickinger Andy,77,AG2R Pr\xe9voyance,0:58 0:58,+0:58,1,2004
+28,78,+0:58,,Freire Oscar,78,Rabobank ProTeam,",, 0:58",+0:58,1,2004
+34,79,+1:00,,Bartoli Michele,79,CSC ProTeam,1:00 1:00,+1:00,1,2004
+26,80,+1:01,,Inaudi Nicolas,80,AG2R Pr\xe9voyance,1:01 1:01,+1:01,1,2004
+25,81,+1:01,,Albizu lizaso Joseba,81,Euskaltel - Euskadi,",, 1:01",+1:01,1,2004
+27,82,+1:06,,Reynaud Nicolas,82,R.a.g.t Semence - Mg Rover,1:06 1:06,+1:06,1,2004
+34,83,+1:06,,Bourquenoud Pierre,83,R.a.g.t Semence - Mg Rover,",, 1:06",+1:06,1,2004
+24,84,+1:07,,Edaleine Christophe,84,Cofidis,1:07 1:07,+1:07,1,2004
+34,85,+1:09,,Bouvard Gilles,85,R.a.g.t Semence - Mg Rover,1:09 1:09,+1:09,1,2004
+27,86,+1:10,,Millar David,86,Cofidis,1:10 1:10,+1:10,1,2004
+29,87,+1:12,,Da Cruz Carlos,87,Fdjeux.com,1:12 1:12,+1:12,1,2004
+29,88,+1:18,,de Groot Bram,88,Rabobank ProTeam,1:18 1:18,+1:18,1,2004
+27,89,+1:19,,Tombak Janek,89,Cofidis,1:19 1:19,+1:19,1,2004
+28,90,+1:23,,Kroon Karsten,90,Rabobank ProTeam,1:23 1:23,+1:23,1,2004
+35,91,+1:33,,Mengin Christophe,91,Fdjeux.com,1:33 1:33,+1:33,1,2004
+30,92,+1:37,,White Matthew,92,Cofidis,1:37 1:37,+1:37,1,2004
+26,93,+1:39,,Laurent Christophe,93,R.a.g.t Semence - Mg Rover,1:39 1:39,+1:39,1,2004
+26,94,+2:08,,Amorison Fr\xe9d\xe9ric,94,Quickstep - Davitamon,2:08 2:08,+2:08,1,2004
+26,95,+4:26,,Casper Jimmy,95,Cofidis,4:26 4:26,+4:26,1,2004
+29,1,+0:00,,Gutierrez Jose Enrique,1,Phonak Hearing Systems,10:48:21 10:48:21,+0:00,2,2004
+26,2,+0:08,,Mayo Iban,2,Euskaltel - Euskadi,0:08 0:08,+0:08,2,2004
+33,3,+0:09,,Hamilton Tyler,3,Phonak Hearing Systems,0:09 0:09,+0:09,2,2004
+32,4,+0:10,,Armstrong Lance,4,US Postal Service,0:10 0:10,+0:10,2,2004
+26,5,+0:10,,Pereiro Oscar,5,Phonak Hearing Systems,",, 0:10",+0:10,2,2004
+29,6,+0:10,,Dessel Cyril,6,Phonak Hearing Systems,",, 0:10",+0:10,2,2004
+30,7,+0:14,,O'Grady Stuart,7,Cofidis,0:14 0:14,+0:14,2,2004
+27,8,+0:14,,Sevilla Oscar,8,Phonak Hearing Systems,",, 0:14",+0:14,2,2004
+27,9,+0:18,,Lefevre Laurent,9,Brioches La Boulang\xe8re,0:18 0:18,+0:18,2,2004
+30,10,+0:20,,Leipheimer Levi,10,Rabobank ProTeam,0:20 0:20,+0:20,2,2004
+24,11,+0:21,,Astarloza Mikel,11,AG2R Pr\xe9voyance,0:21 0:21,+0:21,2,2004
+27,12,+0:22,,Landaluze Inigo,12,Euskaltel - Euskadi,0:22 0:22,+0:22,2,2004
+30,13,+0:22,,Rasmussen Michael,13,Rabobank ProTeam,",, 0:22",+0:22,2,2004
+20,14,+0:27,,L\xf6fkvist Thomas,14,Fdjeux.com,0:27 0:27,+0:27,2,2004
+29,15,+0:28,,Moncouti\xe9 David,15,Cofidis,0:28 0:28,+0:28,2,2004
+30,16,+0:28,,Gonzalez Santos,16,Phonak Hearing Systems,",, 0:28",+0:28,2,2004
+35,17,+0:28,,Dufaux Laurent,17,Quickstep - Davitamon,",, 0:28",+0:28,2,2004
+33,18,+0:30,,Moreau Christophe,18,Cr\xe9dit Agricole,0:30 0:30,+0:30,2,2004
+30,19,+0:31,,Azevedo Jos\xe9 Bento Carvalho,19,US Postal Service,0:31 0:31,+0:31,2,2004
+24,20,+0:32,,Voeckler Thomas,20,Brioches La Boulang\xe8re,0:32 0:32,+0:32,2,2004
+29,21,+0:32,,Sastre Carlos,21,CSC ProTeam,",, 0:32",+0:32,2,2004
+25,22,+0:32,,Cama\xf1o Iker,22,Euskaltel - Euskadi,",, 0:32",+0:32,2,2004
+25,23,+0:35,,Casar Sandy,23,Fdjeux.com,0:35 0:35,+0:35,2,2004
+26,24,+0:37,,Martinez Egoi,24,Euskaltel - Euskadi,0:37 0:37,+0:37,2,2004
+24,25,+0:41,,Calzati Sylvain,25,R.a.g.t Semence - Mg Rover,0:41 0:41,+0:41,2,2004
+30,26,+0:41,,Pichon Mickael,26,Brioches La Boulang\xe8re,",, 0:41",+0:41,2,2004
+24,27,+0:42,,Pineau J\xe9rome,27,Brioches La Boulang\xe8re,0:42 0:42,+0:42,2,2004
+34,28,+0:43,,Goubert Stephane,28,AG2R Pr\xe9voyance,0:43 0:43,+0:43,2,2004
+25,29,+0:46,,Mercado Juan Miguel,29,Quickstep - Davitamon,0:46 0:46,+0:46,2,2004
+30,30,+0:47,,Salmon Benoit,30,Cr\xe9dit Agricole,0:47 0:47,+0:47,2,2004
+34,31,+0:48,,Virenque Richard,31,Quickstep - Davitamon,0:48 0:48,+0:48,2,2004
+31,32,+0:49,,Beneteau Walter,32,Brioches La Boulang\xe8re,0:49 0:49,+0:49,2,2004
+28,33,+0:51,,Martin Ludovic,33,R.a.g.t Semence - Mg Rover,0:51 0:51,+0:51,2,2004
+27,34,+0:51,,Calvente Corbas Manuel,34,CSC ProTeam,",, 0:51",+0:51,2,2004
+32,35,+0:52,,Guesdon Fr\xe9d\xe9ric,35,Fdjeux.com,0:52 0:52,+0:52,2,2004
+25,36,+0:52,,Noval Benjamin,36,US Postal Service,",, 0:52",+0:52,2,2004
+32,37,+0:53,,Peron Andrea,37,CSC ProTeam,0:53 0:53,+0:53,2,2004
+29,38,+0:55,,Botcharov Alexandre,38,Cr\xe9dit Agricole,0:55 0:55,+0:55,2,2004
+28,39,+0:58,,Landis Floyd,39,US Postal Service,0:58 0:58,+0:58,2,2004
+25,40,+1:00,,Pecharroman Jos\xe9 Antonio,40,Quickstep - Davitamon,1:00 1:00,+1:00,2,2004
+31,41,+1:01,,Chaurreau I\xf1igo,41,AG2R Pr\xe9voyance,1:01 1:01,+1:01,2,2004
+33,42,+1:04,,Beltran Manuel,42,US Postal Service,1:04 1:04,+1:04,2,2004
+34,43,+1:05,,Robin Jean-Cyril,43,Fdjeux.com,1:05 1:05,+1:05,2,2004
+29,44,+4:24,,Pe\xf1a Victor Hugo,44,US Postal Service,4:24 4:24,+4:24,2,2004
+25,45,+4:45,,Portal Nicolas,45,AG2R Pr\xe9voyance,4:45 4:45,+4:45,2,2004
+24,46,+5:22,,Rogers Michael,46,Quickstep - Davitamon,5:22 5:22,+5:22,2,2004
+31,47,+5:59,,Jalabert Nicolas,47,Phonak Hearing Systems,5:59 5:59,+5:59,2,2004
+30,48,+6:00,,Renier Franck,48,Brioches La Boulang\xe8re,6:00 6:00,+6:00,2,2004
+24,49,+6:10,,Hary Maryan,49,Brioches La Boulang\xe8re,6:10 6:10,+6:10,2,2004
+26,50,+7:43,,Basso Ivan,50,CSC ProTeam,7:43 7:43,+7:43,2,2004
+32,51,+7:49,,Bessy Fr\xe9d\xe9ric,51,Cofidis,7:49 7:49,+7:49,2,2004
+23,52,+8:01,,Geslin Anthony,52,Brioches La Boulang\xe8re,8:01 8:01,+8:01,2,2004
+24,53,+8:19,,Edaleine Christophe,53,Cofidis,8:19 8:19,+8:19,2,2004
+30,54,+8:24,,Hincapie George,54,US Postal Service,8:24 8:24,+8:24,2,2004
+27,55,+8:24,,Jaksche Jorg,55,CSC ProTeam,",, 8:24",+8:24,2,2004
+25,56,+8:33,,Krivtsov Yuriy,56,AG2R Pr\xe9voyance,8:33 8:33,+8:33,2,2004
+28,57,+8:34,,Grabsch Bert,57,Phonak Hearing Systems,8:34 8:34,+8:34,2,2004
+27,58,+8:35,,Flores Iker,58,Euskaltel - Euskadi,8:35 8:35,+8:35,2,2004
+25,59,+8:35,,Fedrigo Pierrick,59,Cr\xe9dit Agricole,",, 8:35",+8:35,2,2004
+25,60,+8:46,,Cooke Baden,60,Fdjeux.com,8:46 8:46,+8:46,2,2004
+30,61,+8:47,,Halgand Patrice,61,Cr\xe9dit Agricole,8:47 8:47,+8:47,2,2004
+30,62,+8:51,,Lotz Marc,62,Rabobank ProTeam,8:51 8:51,+8:51,2,2004
+29,63,+8:56,,Horrillo Pedro,63,Quickstep - Davitamon,8:56 8:56,+8:56,2,2004
+24,64,+9:07,,Muravyev Dmitriy,64,Cr\xe9dit Agricole,9:07 9:07,+9:07,2,2004
+34,65,+9:11,,Bartoli Michele,65,CSC ProTeam,9:11 9:11,+9:11,2,2004
+34,66,+9:20,,Bouvard Gilles,66,R.a.g.t Semence - Mg Rover,9:20 9:20,+9:20,2,2004
+27,67,+9:21,,Millar David,67,Cofidis,9:21 9:21,+9:21,2,2004
+29,68,+9:23,,Da Cruz Carlos,68,Fdjeux.com,9:23 9:23,+9:23,2,2004
+35,69,+9:44,,Mengin Christophe,69,Fdjeux.com,9:44 9:44,+9:44,2,2004
+26,70,+9:50,,Laurent Christophe,70,R.a.g.t Semence - Mg Rover,9:50 9:50,+9:50,2,2004
+33,71,+17:48,,Dekker Erik,71,Rabobank ProTeam,17:48 17:48,+17:48,2,2004
+38,72,+17:53,,Ekimov Viatcheslav,72,US Postal Service,17:53 17:53,+17:53,2,2004
+35,73,+18:02,,Seigneur Eddy,73,R.a.g.t Semence - Mg Rover,18:02 18:02,+18:02,2,2004
+29,74,+18:10,,S\xf8rensen Nicki,74,CSC ProTeam,18:10 18:10,+18:10,2,2004
+23,75,+18:18,,Eisel Bernhard,75,Fdjeux.com,18:18 18:18,+18:18,2,2004
+22,76,+18:19,,De Weert Kevin,76,Rabobank ProTeam,18:19 18:19,+18:19,2,2004
+28,77,+18:19,,Auger Guillaume,77,R.a.g.t Semence - Mg Rover,",, 18:19",+18:19,2,2004
+25,78,+18:21,,Flickinger Andy,78,AG2R Pr\xe9voyance,18:21 18:21,+18:21,2,2004
+26,79,+18:25,,Inaudi Nicolas,79,AG2R Pr\xe9voyance,18:25 18:25,+18:25,2,2004
+34,80,+18:30,,Bourquenoud Pierre,80,R.a.g.t Semence - Mg Rover,18:30 18:30,+18:30,2,2004
+28,81,+18:42,,Kroon Karsten,81,Rabobank ProTeam,18:42 18:42,+18:42,2,2004
+27,82,+18:43,,Tombak Janek,82,Cofidis,18:43 18:43,+18:43,2,2004
+30,83,+19:01,,White Matthew,83,Cofidis,19:01 19:01,+19:01,2,2004
+29,84,+19:13,,de Groot Bram,84,Rabobank ProTeam,19:13 19:13,+19:13,2,2004
+26,85,+19:32,,Amorison Fr\xe9d\xe9ric,85,Quickstep - Davitamon,19:32 19:32,+19:32,2,2004
+26,86,+21:01,,Hushovd Thor,86,Cr\xe9dit Agricole,21:01 21:01,+21:01,2,2004
+23,87,+21:26,,Le M\xe9vel Christophe,87,Cr\xe9dit Agricole,21:26 21:26,+21:26,2,2004
+23,88,+21:32,,Dumoulin Samuel,88,AG2R Pr\xe9voyance,21:32 21:32,+21:32,2,2004
+27,89,+21:37,,Isasi Inaki,89,Euskaltel - Euskadi,21:37 21:37,+21:37,2,2004
+24,90,+21:38,,Nuyens Nick,90,Quickstep - Davitamon,21:38 21:38,+21:38,2,2004
+28,91,+21:49,,Freire Oscar,91,Rabobank ProTeam,21:49 21:49,+21:49,2,2004
+25,92,+21:52,,Albizu lizaso Joseba,92,Euskaltel - Euskadi,21:52 21:52,+21:52,2,2004
+27,93,+21:57,,Reynaud Nicolas,93,R.a.g.t Semence - Mg Rover,21:57 21:57,+21:57,2,2004
+26,94,+25:17,,Casper Jimmy,94,Cofidis,25:17 25:17,+25:17,2,2004
+26,95,+30:14,,Silloniz Josu,95,Euskaltel - Euskadi,30:14 30:14,+30:14,2,2004
+29,1,+0:00,,Gutierrez Jose Enrique,1,Phonak Hearing Systems,15:31:52 15:31:52,+0:00,3,2004
+26,2,+0:08,,Mayo Iban,2,Euskaltel - Euskadi,0:08 0:08,+0:08,3,2004
+33,3,+0:09,,Hamilton Tyler,3,Phonak Hearing Systems,0:09 0:09,+0:09,3,2004
+32,4,+0:10,,Armstrong Lance,4,US Postal Service,0:10 0:10,+0:10,3,2004
+26,5,+0:10,,Pereiro Oscar,5,Phonak Hearing Systems,",, 0:10",+0:10,3,2004
+29,6,+0:10,,Dessel Cyril,6,Phonak Hearing Systems,",, 0:10",+0:10,3,2004
+30,7,+0:14,,O'Grady Stuart,7,Cofidis,0:14 0:14,+0:14,3,2004
+27,8,+0:18,,Lefevre Laurent,8,Brioches La Boulang\xe8re,0:18 0:18,+0:18,3,2004
+27,9,+0:19,,Sevilla Oscar,9,Phonak Hearing Systems,0:19 0:19,+0:19,3,2004
+30,10,+0:20,,Leipheimer Levi,10,Rabobank ProTeam,0:20 0:20,+0:20,3,2004
+30,11,+0:22,,Rasmussen Michael,11,Rabobank ProTeam,0:22 0:22,+0:22,3,2004
+24,12,+0:27,,Astarloza Mikel,12,AG2R Pr\xe9voyance,0:27 0:27,+0:27,3,2004
+27,13,+0:28,,Landaluze Inigo,13,Euskaltel - Euskadi,0:28 0:28,+0:28,3,2004
+35,14,+0:28,,Dufaux Laurent,14,Quickstep - Davitamon,",, 0:28",+0:28,3,2004
+33,15,+0:30,,Moreau Christophe,15,Cr\xe9dit Agricole,0:30 0:30,+0:30,3,2004
+24,16,+0:32,,Voeckler Thomas,16,Brioches La Boulang\xe8re,0:32 0:32,+0:32,3,2004
+29,17,+0:32,,Sastre Carlos,17,CSC ProTeam,",, 0:32",+0:32,3,2004
+29,18,+0:34,,Moncouti\xe9 David,18,Cofidis,0:34 0:34,+0:34,3,2004
+30,19,+0:34,,Gonzalez Santos,19,Phonak Hearing Systems,",, 0:34",+0:34,3,2004
+30,20,+0:36,,Azevedo Jos\xe9 Bento Carvalho,20,US Postal Service,0:36 0:36,+0:36,3,2004
+26,21,+0:37,,Martinez Egoi,21,Euskaltel - Euskadi,0:37 0:37,+0:37,3,2004
+25,22,+0:38,,Cama\xf1o Iker,22,Euskaltel - Euskadi,0:38 0:38,+0:38,3,2004
+25,23,+0:41,,Casar Sandy,23,Fdjeux.com,0:41 0:41,+0:41,3,2004
+20,24,+0:42,,L\xf6fkvist Thomas,24,Fdjeux.com,0:42 0:42,+0:42,3,2004
+24,25,+0:47,,Calzati Sylvain,25,R.a.g.t Semence - Mg Rover,0:47 0:47,+0:47,3,2004
+34,26,+0:49,,Goubert Stephane,26,AG2R Pr\xe9voyance,0:49 0:49,+0:49,3,2004
+25,27,+0:52,,Noval Benjamin,27,US Postal Service,0:52 0:52,+0:52,3,2004
+25,28,+0:52,,Mercado Juan Miguel,28,Quickstep - Davitamon,",, 0:52",+0:52,3,2004
+30,29,+0:53,,Salmon Benoit,29,Cr\xe9dit Agricole,0:53 0:53,+0:53,3,2004
+34,30,+0:54,,Virenque Richard,30,Quickstep - Davitamon,0:54 0:54,+0:54,3,2004
+31,31,+0:55,,Beneteau Walter,31,Brioches La Boulang\xe8re,0:55 0:55,+0:55,3,2004
+28,32,+0:57,,Martin Ludovic,32,R.a.g.t Semence - Mg Rover,0:57 0:57,+0:57,3,2004
+28,33,+0:58,,Landis Floyd,33,US Postal Service,0:58 0:58,+0:58,3,2004
+29,34,+1:01,,Botcharov Alexandre,34,Cr\xe9dit Agricole,1:01 1:01,+1:01,3,2004
+25,35,+1:06,,Pecharroman Jos\xe9 Antonio,35,Quickstep - Davitamon,1:06 1:06,+1:06,3,2004
+32,36,+1:07,,Guesdon Fr\xe9d\xe9ric,36,Fdjeux.com,1:07 1:07,+1:07,3,2004
+33,37,+1:09,,Beltran Manuel,37,US Postal Service,1:09 1:09,+1:09,3,2004
+34,38,+1:11,,Robin Jean-Cyril,38,Fdjeux.com,1:11 1:11,+1:11,3,2004
+31,39,+1:18,,Chaurreau I\xf1igo,39,AG2R Pr\xe9voyance,1:18 1:18,+1:18,3,2004
+32,40,+1:23,,Peron Andrea,40,CSC ProTeam,1:23 1:23,+1:23,3,2004
+24,41,+1:35,,Pineau J\xe9rome,41,Brioches La Boulang\xe8re,1:35 1:35,+1:35,3,2004
+25,42,+2:56,,Portal Nicolas,42,AG2R Pr\xe9voyance,2:56 2:56,+2:56,3,2004
+29,43,+4:41,,Pe\xf1a Victor Hugo,43,US Postal Service,4:41 4:41,+4:41,3,2004
+24,44,+5:28,,Rogers Michael,44,Quickstep - Davitamon,5:28 5:28,+5:28,3,2004
+24,45,+6:16,,Hary Maryan,45,Brioches La Boulang\xe8re,6:16 6:16,+6:16,3,2004
+27,46,+7:37,,Flores Iker,46,Euskaltel - Euskadi,7:37 7:37,+7:37,3,2004
+32,47,+7:55,,Bessy Fr\xe9d\xe9ric,47,Cofidis,7:55 7:55,+7:55,3,2004
+26,48,+8:00,,Basso Ivan,48,CSC ProTeam,8:00 8:00,+8:00,3,2004
+30,49,+8:08,,Renier Franck,49,Brioches La Boulang\xe8re,8:08 8:08,+8:08,3,2004
+24,50,+8:24,,Geslin Anthony,50,Brioches La Boulang\xe8re,8:24 8:24,+8:24,3,2004
+30,51,+8:41,,Hincapie George,51,US Postal Service,8:41 8:41,+8:41,3,2004
+25,52,+8:46,,Cooke Baden,52,Fdjeux.com,8:46 8:46,+8:46,3,2004
+24,53,+8:49,,Edaleine Christophe,53,Cofidis,8:49 8:49,+8:49,3,2004
+25,54,+8:56,,Krivtsov Yuriy,54,AG2R Pr\xe9voyance,8:56 8:56,+8:56,3,2004
+29,55,+9:02,,Horrillo Pedro,55,Quickstep - Davitamon,9:02 9:02,+9:02,3,2004
+30,56,+9:04,,Halgand Patrice,56,Cr\xe9dit Agricole,9:04 9:04,+9:04,3,2004
+25,57,+9:05,,Fedrigo Pierrick,57,Cr\xe9dit Agricole,9:05 9:05,+9:05,3,2004
+27,58,+9:11,,Jaksche Jorg,58,CSC ProTeam,9:11 9:11,+9:11,3,2004
+30,59,+9:21,,Lotz Marc,59,Rabobank ProTeam,9:21 9:21,+9:21,3,2004
+34,60,+9:26,,Bouvard Gilles,60,R.a.g.t Semence - Mg Rover,9:26 9:26,+9:26,3,2004
+31,61,+9:36,,Jalabert Nicolas,61,Phonak Hearing Systems,9:36 9:36,+9:36,3,2004
+27,62,+9:39,,Calvente Corbas Manuel,62,CSC ProTeam,9:39 9:39,+9:39,3,2004
+34,63,+9:58,,Bartoli Michele,63,CSC ProTeam,9:58 9:58,+9:58,3,2004
+29,64,+10:10,,Da Cruz Carlos,64,Fdjeux.com,10:10 10:10,+10:10,3,2004
+35,65,+10:23,,Mengin Christophe,65,Fdjeux.com,10:23 10:23,+10:23,3,2004
+26,66,+10:29,,Laurent Christophe,66,R.a.g.t Semence - Mg Rover,10:29 10:29,+10:29,3,2004
+24,67,+10:39,,Muravyev Dmitriy,67,Cr\xe9dit Agricole,10:39 10:39,+10:39,3,2004
+28,68,+10:58,,Grabsch Bert,68,Phonak Hearing Systems,10:58 10:58,+10:58,3,2004
+27,69,+11:29,,Millar David,69,Cofidis,11:29 11:29,+11:29,3,2004
+27,70,+17:45,,Tombak Janek,70,Cofidis,17:45 17:45,+17:45,3,2004
+29,71,+18:27,,S\xf8rensen Nicki,71,CSC ProTeam,18:27 18:27,+18:27,3,2004
+22,72,+18:49,,De Weert Kevin,72,Rabobank ProTeam,18:49 18:49,+18:49,3,2004
+34,73,+18:53,,Bourquenoud Pierre,73,R.a.g.t Semence - Mg Rover,18:53 18:53,+18:53,3,2004
+25,74,+19:00,,Flickinger Andy,74,AG2R Pr\xe9voyance,19:00 19:00,+19:00,3,2004
+26,75,+19:04,,Inaudi Nicolas,75,AG2R Pr\xe9voyance,19:04 19:04,+19:04,3,2004
+38,76,+19:11,,Ekimov Viatcheslav,76,US Postal Service,19:11 19:11,+19:11,3,2004
+23,77,+19:11,,Eisel Bernhard,77,Fdjeux.com,",, 19:11",+19:11,3,2004
+28,78,+19:25,,Auger Guillaume,78,R.a.g.t Semence - Mg Rover,19:25 19:25,+19:25,3,2004
+30,79,+20:07,,White Matthew,79,Cofidis,20:07 20:07,+20:07,3,2004
+33,80,+20:23,,Dekker Erik,80,Rabobank ProTeam,20:23 20:23,+20:23,3,2004
+29,81,+21:07,,de Groot Bram,81,Rabobank ProTeam,21:07 21:07,+21:07,3,2004
+26,82,+21:10,,Amorison Fr\xe9d\xe9ric,82,Quickstep - Davitamon,21:10 21:10,+21:10,3,2004
+27,83,+22:07,,Isasi Inaki,83,Euskaltel - Euskadi,22:07 22:07,+22:07,3,2004
+25,84,+22:22,,Albizu lizaso Joseba,84,Euskaltel - Euskadi,22:22 22:22,+22:22,3,2004
+23,85,+22:44,,Le M\xe9vel Christophe,85,Cr\xe9dit Agricole,22:44 22:44,+22:44,3,2004
+27,86,+23:35,,Reynaud Nicolas,86,R.a.g.t Semence - Mg Rover,23:35 23:35,+23:35,3,2004
+28,87,+25:04,,Freire Oscar,87,Rabobank ProTeam,25:04 25:04,+25:04,3,2004
+35,88,+29:29,,Seigneur Eddy,88,R.a.g.t Semence - Mg Rover,29:29 29:29,+29:29,3,2004
+28,89,+30:09,,Kroon Karsten,89,Rabobank ProTeam,30:09 30:09,+30:09,3,2004
+26,90,+30:55,,Casper Jimmy,90,Cofidis,30:55 30:55,+30:55,3,2004
+26,91,+31:34,,Hushovd Thor,91,Cr\xe9dit Agricole,31:34 31:34,+31:34,3,2004
+24,92,+32:11,,Nuyens Nick,92,Quickstep - Davitamon,32:11 32:11,+32:11,3,2004
+26,93,+33:51,,Silloniz Josu,93,Euskaltel - Euskadi,33:51 33:51,+33:51,3,2004
+26,1,+0:00,,Mayo Iban,1,Euskaltel - Euskadi,16:27:51 16:27:51,+0:00,4,2004
+33,2,+0:36,,Hamilton Tyler,2,Phonak Hearing Systems,0:36 0:36,+0:36,4,2004
+27,3,+1:14,,Sevilla Oscar,3,Phonak Hearing Systems,1:14 1:14,+1:14,4,2004
+32,4,+2:00,,Armstrong Lance,4,US Postal Service,2:00 2:00,+2:00,4,2004
+25,5,+2:32,,Mercado Juan Miguel,5,Quickstep - Davitamon,2:32 2:32,+2:32,4,2004
+29,6,+2:36,,Gutierrez Jose Enrique,6,Phonak Hearing Systems,2:36 2:36,+2:36,4,2004
+27,7,+2:43,,Landaluze Inigo,7,Euskaltel - Euskadi,2:43 2:43,+2:43,4,2004
+30,8,+3:33,,Leipheimer Levi,8,Rabobank ProTeam,3:33 3:33,+3:33,4,2004
+30,9,+3:47,,Rasmussen Michael,9,Rabobank ProTeam,3:47 3:47,+3:47,4,2004
+26,10,+3:58,,Pereiro Oscar,10,Phonak Hearing Systems,3:58 3:58,+3:58,4,2004
+29,11,+4:05,,Dessel Cyril,11,Phonak Hearing Systems,4:05 4:05,+4:05,4,2004
+34,12,+4:17,,Goubert Stephane,12,AG2R Pr\xe9voyance,4:17 4:17,+4:17,4,2004
+29,13,+4:25,,Moncouti\xe9 David,13,Cofidis,4:25 4:25,+4:25,4,2004
+30,14,+4:46,,Azevedo Jos\xe9 Bento Carvalho,14,US Postal Service,4:46 4:46,+4:46,4,2004
+33,15,+4:59,,Moreau Christophe,15,Cr\xe9dit Agricole,4:59 4:59,+4:59,4,2004
+28,16,+4:59,,Landis Floyd,16,US Postal Service,",, 4:59",+4:59,4,2004
+29,17,+5:33,,Sastre Carlos,17,CSC ProTeam,5:33 5:33,+5:33,4,2004
+25,18,+6:01,,Cama\xf1o Iker,18,Euskaltel - Euskadi,6:01 6:01,+6:01,4,2004
+25,19,+6:02,,Casar Sandy,19,Fdjeux.com,6:02 6:02,+6:02,4,2004
+34,20,+6:37,,Robin Jean-Cyril,20,Fdjeux.com,6:37 6:37,+6:37,4,2004
+20,21,+6:39,,L\xf6fkvist Thomas,21,Fdjeux.com,6:39 6:39,+6:39,4,2004
+24,22,+6:43,,Astarloza Mikel,22,AG2R Pr\xe9voyance,6:43 6:43,+6:43,4,2004
+26,23,+7:12,,Martinez Egoi,23,Euskaltel - Euskadi,7:12 7:12,+7:12,4,2004
+24,24,+7:12,,Voeckler Thomas,24,Brioches La Boulang\xe8re,",, 7:12",+7:12,4,2004
+35,25,+7:24,,Dufaux Laurent,25,Quickstep - Davitamon,7:24 7:24,+7:24,4,2004
+30,26,+7:34,,Salmon Benoit,26,Cr\xe9dit Agricole,7:34 7:34,+7:34,4,2004
+33,27,+7:56,,Beltran Manuel,27,US Postal Service,7:56 7:56,+7:56,4,2004
+27,28,+8:10,,Lefevre Laurent,28,Brioches La Boulang\xe8re,8:10 8:10,+8:10,4,2004
+29,29,+8:16,,Botcharov Alexandre,29,Cr\xe9dit Agricole,8:16 8:16,+8:16,4,2004
+31,30,+8:18,,Chaurreau I\xf1igo,30,AG2R Pr\xe9voyance,8:18 8:18,+8:18,4,2004
+28,31,+8:26,,Martin Ludovic,31,R.a.g.t Semence - Mg Rover,8:26 8:26,+8:26,4,2004
+25,32,+8:42,,Noval Benjamin,32,US Postal Service,8:42 8:42,+8:42,4,2004
+30,33,+9:22,,O'Grady Stuart,33,Cofidis,9:22 9:22,+9:22,4,2004
+30,34,+9:54,,Gonzalez Santos,34,Phonak Hearing Systems,9:54 9:54,+9:54,4,2004
+26,35,+10:01,,Pecharroman Jos\xe9 Antonio,35,Quickstep - Davitamon,10:01 10:01,+10:01,4,2004
+29,36,+10:03,,Pe\xf1a Victor Hugo,36,US Postal Service,10:03 10:03,+10:03,4,2004
+24,37,+10:05,,Rogers Michael,37,Quickstep - Davitamon,10:05 10:05,+10:05,4,2004
+34,38,+10:14,,Virenque Richard,38,Quickstep - Davitamon,10:14 10:14,+10:14,4,2004
+25,39,+10:46,,Portal Nicolas,39,AG2R Pr\xe9voyance,10:46 10:46,+10:46,4,2004
+32,40,+11:07,,Peron Andrea,40,CSC ProTeam,11:07 11:07,+11:07,4,2004
+32,41,+11:52,,Guesdon Fr\xe9d\xe9ric,41,Fdjeux.com,11:52 11:52,+11:52,4,2004
+24,42,+12:07,,Pineau J\xe9rome,42,Brioches La Boulang\xe8re,12:07 12:07,+12:07,4,2004
+31,43,+13:15,,Beneteau Walter,43,Brioches La Boulang\xe8re,13:15 13:15,+13:15,4,2004
+27,44,+13:21,,Flores Iker,44,Euskaltel - Euskadi,13:21 13:21,+13:21,4,2004
+26,45,+14:36,,Basso Ivan,45,CSC ProTeam,14:36 14:36,+14:36,4,2004
+25,46,+14:42,,Fedrigo Pierrick,46,Cr\xe9dit Agricole,14:42 14:42,+14:42,4,2004
+25,47,+15:14,,Krivtsov Yuriy,47,AG2R Pr\xe9voyance,15:14 15:14,+15:14,4,2004
+24,48,+15:24,,Hary Maryan,48,Brioches La Boulang\xe8re,15:24 15:24,+15:24,4,2004
+30,49,+15:36,,Hincapie George,49,US Postal Service,15:36 15:36,+15:36,4,2004
+27,50,+16:41,,Calvente Corbas Manuel,50,CSC ProTeam,16:41 16:41,+16:41,4,2004
+32,51,+17:10,,Bessy Fr\xe9d\xe9ric,51,Cofidis,17:10 17:10,+17:10,4,2004
+27,52,+17:37,,Jaksche Jorg,52,CSC ProTeam,17:37 17:37,+17:37,4,2004
+24,53,+18:01,,Muravyev Dmitriy,53,Cr\xe9dit Agricole,18:01 18:01,+18:01,4,2004
+30,54,+18:10,,Halgand Patrice,54,Cr\xe9dit Agricole,18:10 18:10,+18:10,4,2004
+24,55,+18:25,,Geslin Anthony,55,Brioches La Boulang\xe8re,18:25 18:25,+18:25,4,2004
+31,56,+19:55,,Jalabert Nicolas,56,Phonak Hearing Systems,19:55 19:55,+19:55,4,2004
+35,57,+19:58,,Mengin Christophe,57,Fdjeux.com,19:58 19:58,+19:58,4,2004
+30,58,+20:06,,Renier Franck,58,Brioches La Boulang\xe8re,20:06 20:06,+20:06,4,2004
+34,59,+20:10,,Bouvard Gilles,59,R.a.g.t Semence - Mg Rover,20:10 20:10,+20:10,4,2004
+24,60,+20:32,,Edaleine Christophe,60,Cofidis,20:32 20:32,+20:32,4,2004
+25,61,+21:09,,Cooke Baden,61,Fdjeux.com,21:09 21:09,+21:09,4,2004
+29,62,+21:28,,Da Cruz Carlos,62,Fdjeux.com,21:28 21:28,+21:28,4,2004
+30,63,+21:39,,Lotz Marc,63,Rabobank ProTeam,21:39 21:39,+21:39,4,2004
+28,64,+21:58,,Grabsch Bert,64,Phonak Hearing Systems,21:58 21:58,+21:58,4,2004
+29,65,+21:58,,Horrillo Pedro,65,Quickstep - Davitamon,",, 21:58",+21:58,4,2004
+34,66,+22:45,,Bartoli Michele,66,CSC ProTeam,22:45 22:45,+22:45,4,2004
+26,67,+23:01,,Laurent Christophe,67,R.a.g.t Semence - Mg Rover,23:01 23:01,+23:01,4,2004
+27,68,+23:37,,Millar David,68,Cofidis,23:37 23:37,+23:37,4,2004
+27,69,+28:18,,Tombak Janek,69,Cofidis,28:18 28:18,+28:18,4,2004
+34,70,+28:31,,Bourquenoud Pierre,70,R.a.g.t Semence - Mg Rover,28:31 28:31,+28:31,4,2004
+38,71,+28:35,,Ekimov Viatcheslav,71,US Postal Service,28:35 28:35,+28:35,4,2004
+33,72,+29:26,,Dekker Erik,72,Rabobank ProTeam,29:26 29:26,+29:26,4,2004
+25,73,+29:57,,Albizu lizaso Joseba,73,Euskaltel - Euskadi,29:57 29:57,+29:57,4,2004
+29,74,+30:01,,S\xf8rensen Nicki,74,CSC ProTeam,30:01 30:01,+30:01,4,2004
+23,75,+30:11,,Eisel Bernhard,75,Fdjeux.com,30:11 30:11,+30:11,4,2004
+22,76,+30:15,,De Weert Kevin,76,Rabobank ProTeam,30:15 30:15,+30:15,4,2004
+23,77,+30:50,,Le M\xe9vel Christophe,77,Cr\xe9dit Agricole,30:50 30:50,+30:50,4,2004
+27,78,+31:14,,Isasi Inaki,78,Euskaltel - Euskadi,31:14 31:14,+31:14,4,2004
+29,79,+32:24,,de Groot Bram,79,Rabobank ProTeam,32:24 32:24,+32:24,4,2004
+25,80,+32:45,,Flickinger Andy,80,AG2R Pr\xe9voyance,32:45 32:45,+32:45,4,2004
+30,81,+33:00,,White Matthew,81,Cofidis,33:00 33:00,+33:00,4,2004
+28,82,+33:05,,Auger Guillaume,82,R.a.g.t Semence - Mg Rover,33:05 33:05,+33:05,4,2004
+27,83,+34:20,,Reynaud Nicolas,83,R.a.g.t Semence - Mg Rover,34:20 34:20,+34:20,4,2004
+35,84,+41:18,,Seigneur Eddy,84,R.a.g.t Semence - Mg Rover,41:18 41:18,+41:18,4,2004
+24,85,+43:11,,Nuyens Nick,85,Quickstep - Davitamon,43:11 43:11,+43:11,4,2004
+26,86,+44:41,,Hushovd Thor,86,Cr\xe9dit Agricole,44:41 44:41,+44:41,4,2004
+26,87,+46:32,,Silloniz Josu,87,Euskaltel - Euskadi,46:32 46:32,+46:32,4,2004
+26,1,+0:00,,Mayo Iban,1,Euskaltel - Euskadi,23:58:51 23:58:51,+0:00,6,2004
+33,2,+0:36,,Hamilton Tyler,2,Phonak Hearing Systems,0:36 0:36,+0:36,6,2004
+27,3,+1:14,,Sevilla Oscar,3,Phonak Hearing Systems,1:14 1:14,+1:14,6,2004
+32,4,+2:00,,Armstrong Lance,4,US Postal Service,2:00 2:00,+2:00,6,2004
+25,5,+2:32,,Mercado Juan Miguel,5,Quickstep - Davitamon,2:32 2:32,+2:32,6,2004
+29,6,+2:36,,Gutierrez Jose Enrique,6,Phonak Hearing Systems,2:36 2:36,+2:36,6,2004
+30,7,+2:39,,Rasmussen Michael,7,Rabobank ProTeam,2:39 2:39,+2:39,6,2004
+27,8,+2:43,,Landaluze Inigo,8,Euskaltel - Euskadi,2:43 2:43,+2:43,6,2004
+30,9,+3:33,,Leipheimer Levi,9,Rabobank ProTeam,3:33 3:33,+3:33,6,2004
+26,10,+3:58,,Pereiro Oscar,10,Phonak Hearing Systems,3:58 3:58,+3:58,6,2004
+34,11,+4:17,,Goubert Stephane,11,AG2R Pr\xe9voyance,4:17 4:17,+4:17,6,2004
+29,12,+4:25,,Moncouti\xe9 David,12,Cofidis,4:25 4:25,+4:25,6,2004
+30,13,+4:46,,Azevedo Jos\xe9 Bento Carvalho,13,US Postal Service,4:46 4:46,+4:46,6,2004
+28,14,+4:59,,Landis Floyd,14,US Postal Service,4:59 4:59,+4:59,6,2004
+29,15,+5:33,,Sastre Carlos,15,CSC ProTeam,5:33 5:33,+5:33,6,2004
+20,16,+6:39,,L\xf6fkvist Thomas,16,Fdjeux.com,6:39 6:39,+6:39,6,2004
+26,17,+7:12,,Martinez Egoi,17,Euskaltel - Euskadi,7:12 7:12,+7:12,6,2004
+24,18,+7:12,,Voeckler Thomas,18,Brioches La Boulang\xe8re,",, 7:12",+7:12,6,2004
+33,19,+7:56,,Beltran Manuel,19,US Postal Service,7:56 7:56,+7:56,6,2004
+29,20,+8:16,,Botcharov Alexandre,20,Cr\xe9dit Agricole,8:16 8:16,+8:16,6,2004
+25,21,+10:02,,Cama\xf1o Iker,21,Euskaltel - Euskadi,10:02 10:02,+10:02,6,2004
+34,22,+10:14,,Virenque Richard,22,Quickstep - Davitamon,10:14 10:14,+10:14,6,2004
+34,23,+11:27,,Robin Jean-Cyril,23,Fdjeux.com,11:27 11:27,+11:27,6,2004
+35,24,+12:14,,Dufaux Laurent,24,Quickstep - Davitamon,12:14 12:14,+12:14,6,2004
+26,25,+13:13,,Basso Ivan,25,CSC ProTeam,13:13 13:13,+13:13,6,2004
+29,26,+13:31,,Dessel Cyril,26,Phonak Hearing Systems,13:31 13:31,+13:31,6,2004
+25,27,+14:39,,Noval Benjamin,27,US Postal Service,14:39 14:39,+14:39,6,2004
+29,28,+16:33,,Pe\xf1a Victor Hugo,28,US Postal Service,16:33 16:33,+16:33,6,2004
+30,29,+17:00,,Salmon Benoit,29,Cr\xe9dit Agricole,17:00 17:00,+17:00,6,2004
+28,30,+17:52,,Martin Ludovic,30,R.a.g.t Semence - Mg Rover,17:52 17:52,+17:52,6,2004
+30,31,+17:53,,O'Grady Stuart,31,Cofidis,17:53 17:53,+17:53,6,2004
+30,32,+18:50,,Hincapie George,32,US Postal Service,18:50 18:50,+18:50,6,2004
+24,33,+18:52,,Astarloza Mikel,33,AG2R Pr\xe9voyance,18:52 18:52,+18:52,6,2004
+25,34,+20:12,,Portal Nicolas,34,AG2R Pr\xe9voyance,20:12 20:12,+20:12,6,2004
+32,35,+20:33,,Peron Andrea,35,CSC ProTeam,20:33 20:33,+20:33,6,2004
+25,36,+20:45,,Casar Sandy,36,Fdjeux.com,20:45 20:45,+20:45,6,2004
+32,37,+21:11,,Bessy Fr\xe9d\xe9ric,37,Cofidis,21:11 21:11,+21:11,6,2004
+24,38,+22:11,,Pineau J\xe9rome,38,Brioches La Boulang\xe8re,22:11 22:11,+22:11,6,2004
+27,39,+22:47,,Flores Iker,39,Euskaltel - Euskadi,22:47 22:47,+22:47,6,2004
+31,40,+23:01,,Chaurreau I\xf1igo,40,AG2R Pr\xe9voyance,23:01 23:01,+23:01,6,2004
+27,41,+23:43,,Lefevre Laurent,41,Brioches La Boulang\xe8re,23:43 23:43,+23:43,6,2004
+30,42,+24:07,,Halgand Patrice,42,Cr\xe9dit Agricole,24:07 24:07,+24:07,6,2004
+26,43,+24:44,,Pecharroman Jos\xe9 Antonio,43,Quickstep - Davitamon,24:44 24:44,+24:44,6,2004
+30,44,+25:27,,Gonzalez Santos,44,Phonak Hearing Systems,25:27 25:27,+25:27,6,2004
+27,45,+26:07,,Calvente Corbas Manuel,45,CSC ProTeam,26:07 26:07,+26:07,6,2004
+24,46,+26:54,,Rogers Michael,46,Quickstep - Davitamon,26:54 26:54,+26:54,6,2004
+25,47,+27:44,,Krivtsov Yuriy,47,AG2R Pr\xe9voyance,27:44 27:44,+27:44,6,2004
+32,48,+28:41,,Guesdon Fr\xe9d\xe9ric,48,Fdjeux.com,28:41 28:41,+28:41,6,2004
+31,49,+28:48,,Beneteau Walter,49,Brioches La Boulang\xe8re,28:48 28:48,+28:48,6,2004
+34,50,+29:36,,Bouvard Gilles,50,R.a.g.t Semence - Mg Rover,29:36 29:36,+29:36,6,2004
+24,51,+30:57,,Hary Maryan,51,Brioches La Boulang\xe8re,30:57 30:57,+30:57,6,2004
+34,52,+32:11,,Bartoli Michele,52,CSC ProTeam,32:11 32:11,+32:11,6,2004
+31,53,+32:46,,Jalabert Nicolas,53,Phonak Hearing Systems,32:46 32:46,+32:46,6,2004
+24,54,+33:08,,Geslin Anthony,54,Brioches La Boulang\xe8re,33:08 33:08,+33:08,6,2004
+25,55,+33:19,,Cooke Baden,55,Fdjeux.com,33:19 33:19,+33:19,6,2004
+27,56,+34:26,,Jaksche Jorg,56,CSC ProTeam,34:26 34:26,+34:26,6,2004
+35,57,+34:41,,Mengin Christophe,57,Fdjeux.com,34:41 34:41,+34:41,6,2004
+30,58,+34:49,,Renier Franck,58,Brioches La Boulang\xe8re,34:49 34:49,+34:49,6,2004
+24,59,+34:50,,Muravyev Dmitriy,59,Cr\xe9dit Agricole,34:50 34:50,+34:50,6,2004
+30,60,+36:32,,Lotz Marc,60,Rabobank ProTeam,36:32 36:32,+36:32,6,2004
+29,61,+37:31,,Horrillo Pedro,61,Quickstep - Davitamon,37:31 37:31,+37:31,6,2004
+34,62,+37:57,,Bourquenoud Pierre,62,R.a.g.t Semence - Mg Rover,37:57 37:57,+37:57,6,2004
+38,63,+38:01,,Ekimov Viatcheslav,63,US Postal Service,38:01 38:01,+38:01,6,2004
+29,64,+38:17,,Da Cruz Carlos,64,Fdjeux.com,38:17 38:17,+38:17,6,2004
+26,65,+38:44,,Laurent Christophe,65,R.a.g.t Semence - Mg Rover,38:44 38:44,+38:44,6,2004
+28,66,+38:47,,Grabsch Bert,66,Phonak Hearing Systems,38:47 38:47,+38:47,6,2004
+27,67,+39:10,,Millar David,67,Cofidis,39:10 39:10,+39:10,6,2004
+30,68,+42:41,,White Matthew,68,Cofidis,42:41 42:41,+42:41,6,2004
+27,69,+43:51,,Tombak Janek,69,Cofidis,43:51 43:51,+43:51,6,2004
+29,70,+44:04,,de Groot Bram,70,Rabobank ProTeam,44:04 44:04,+44:04,6,2004
+33,71,+44:09,,Dekker Erik,71,Rabobank ProTeam,44:09 44:09,+44:09,6,2004
+29,72,+44:44,,S\xf8rensen Nicki,72,CSC ProTeam,44:44 44:44,+44:44,6,2004
+22,73,+45:48,,De Weert Kevin,73,Rabobank ProTeam,45:48 45:48,+45:48,6,2004
+23,74,+47:00,,Eisel Bernhard,74,Fdjeux.com,47:00 47:00,+47:00,6,2004
+25,75,+47:28,,Flickinger Andy,75,AG2R Pr\xe9voyance,47:28 47:28,+47:28,6,2004
+23,76,+47:39,,Le M\xe9vel Christophe,76,Cr\xe9dit Agricole,47:39 47:39,+47:39,6,2004
+27,77,+49:53,,Reynaud Nicolas,77,R.a.g.t Semence - Mg Rover,49:53 49:53,+49:53,6,2004
+26,78,+50:38,,Hushovd Thor,78,Cr\xe9dit Agricole,50:38 50:38,+50:38,6,2004
+25,79,+52:21,,Albizu lizaso Joseba,79,Euskaltel - Euskadi,52:21 52:21,+52:21,6,2004
+27,80,+53:38,,Isasi Inaki,80,Euskaltel - Euskadi,53:38 53:38,+53:38,6,2004
+24,81,+1:00:00,,Nuyens Nick,81,Quickstep - Davitamon,1:00:00 1:00:00,+60:00,6,2004
+26,82,+1:08:56,,Silloniz Josu,82,Euskaltel - Euskadi,1:08:56 1:08:56,+68:56,6,2004
+26,1,+0:00,150.0,Mayo Iban,1,Euskaltel - Euskadi,29:27:15 29:27:15,+0:00,7,2004
+33,2,+0:36,110.0,Hamilton Tyler,2,Phonak Hearing Systems,0:36 0:36,+0:36,7,2004
+27,3,+1:14,90.0,Sevilla Oscar,3,Phonak Hearing Systems,1:14 1:14,+1:14,7,2004
+32,4,+2:00,80.0,Armstrong Lance,4,US Postal Service,2:00 2:00,+2:00,7,2004
+25,5,+2:32,70.0,Mercado Juan Miguel,5,Quickstep - Davitamon,2:32 2:32,+2:32,7,2004
+29,6,+2:36,60.0,Gutierrez Jose Enrique,6,Phonak Hearing Systems,2:36 2:36,+2:36,7,2004
+30,7,+2:39,55.0,Rasmussen Michael,7,Rabobank ProTeam,2:39 2:39,+2:39,7,2004
+30,8,+3:33,50.0,Leipheimer Levi,8,Rabobank ProTeam,3:33 3:33,+3:33,7,2004
+26,9,+3:58,45.0,Pereiro Oscar,9,Phonak Hearing Systems,3:58 3:58,+3:58,7,2004
+27,10,+4:02,40.0,Landaluze Inigo,10,Euskaltel - Euskadi,4:02 4:02,+4:02,7,2004
+29,11,+4:25,36.0,Moncouti\xe9 David,11,Cofidis,4:25 4:25,+4:25,7,2004
+30,12,+4:46,32.0,Azevedo Jos\xe9 Bento Carvalho,12,US Postal Service,4:46 4:46,+4:46,7,2004
+34,13,+5:36,28.0,Goubert Stephane,13,AG2R Pr\xe9voyance,5:36 5:36,+5:36,7,2004
+29,14,+5:41,24.0,Sastre Carlos,14,CSC ProTeam,5:41 5:41,+5:41,7,2004
+28,15,+6:18,20.0,Landis Floyd,15,US Postal Service,6:18 6:18,+6:18,7,2004
+26,16,+7:12,16.0,Martinez Egoi,16,Euskaltel - Euskadi,7:12 7:12,+7:12,7,2004
+20,17,+8:07,14.0,L\xf6fkvist Thomas,17,Fdjeux.com,8:07 8:07,+8:07,7,2004
+33,18,+9:15,12.0,Beltran Manuel,18,US Postal Service,9:15 9:15,+9:15,7,2004
+24,19,+10:41,10.0,Voeckler Thomas,19,Brioches La Boulang\xe8re,10:41 10:41,+10:41,7,2004
+29,20,+10:50,8.0,Botcharov Alexandre,20,Cr\xe9dit Agricole,10:50 10:50,+10:50,7,2004
+30,21,+11:09,6.0,O'Grady Stuart,21,Cofidis,11:09 11:09,+11:09,7,2004
+25,22,+11:30,4.0,Cama\xf1o Iker,22,Euskaltel - Euskadi,11:30 11:30,+11:30,7,2004
+34,23,+11:33,3.0,Virenque Richard,23,Quickstep - Davitamon,11:33 11:33,+11:33,7,2004
+34,24,+14:01,2.0,Robin Jean-Cyril,24,Fdjeux.com,14:01 14:01,+14:01,7,2004
+25,25,+14:20,1.0,Casar Sandy,25,Fdjeux.com,14:20 14:20,+14:20,7,2004
+29,26,+14:50,,Dessel Cyril,26,Phonak Hearing Systems,14:50 14:50,+14:50,7,2004
+35,27,+15:43,,Dufaux Laurent,27,Quickstep - Davitamon,15:43 15:43,+15:43,7,2004
+25,28,+16:44,,Noval Benjamin,28,US Postal Service,16:44 16:44,+16:44,7,2004
+29,29,+18:38,,Pe\xf1a Victor Hugo,29,US Postal Service,18:38 18:38,+18:38,7,2004
+30,30,+19:34,,Salmon Benoit,30,Cr\xe9dit Agricole,19:34 19:34,+19:34,7,2004
+28,31,+21:21,,Martin Ludovic,31,R.a.g.t Semence - Mg Rover,21:21 21:21,+21:21,7,2004
+30,32,+21:24,,Hincapie George,32,US Postal Service,21:24 21:24,+21:24,7,2004
+32,33,+23:07,,Peron Andrea,33,CSC ProTeam,23:07 23:07,+23:07,7,2004
+32,34,+23:45,,Bessy Fr\xe9d\xe9ric,34,Cofidis,23:45 23:45,+23:45,7,2004
+24,35,+25:00,,Astarloza Mikel,35,AG2R Pr\xe9voyance,25:00 25:00,+25:00,7,2004
+27,36,+25:21,,Flores Iker,36,Euskaltel - Euskadi,25:21 25:21,+25:21,7,2004
+27,37,+26:17,,Lefevre Laurent,37,Brioches La Boulang\xe8re,26:17 26:17,+26:17,7,2004
+27,38,+27:26,,Calvente Corbas Manuel,38,CSC ProTeam,27:26 27:26,+27:26,7,2004
+30,39,+27:36,,Halgand Patrice,39,Cr\xe9dit Agricole,27:36 27:36,+27:36,7,2004
+30,40,+28:01,,Gonzalez Santos,40,Phonak Hearing Systems,28:01 28:01,+28:01,7,2004
+24,41,+28:13,,Rogers Michael,41,Quickstep - Davitamon,28:13 28:13,+28:13,7,2004
+25,42,+28:34,,Portal Nicolas,42,AG2R Pr\xe9voyance,28:34 28:34,+28:34,7,2004
+31,43,+29:51,,Chaurreau I\xf1igo,43,AG2R Pr\xe9voyance,29:51 29:51,+29:51,7,2004
+25,44,+30:18,,Krivtsov Yuriy,44,AG2R Pr\xe9voyance,30:18 30:18,+30:18,7,2004
+24,45,+31:19,,Geslin Anthony,45,Brioches La Boulang\xe8re,31:19 31:19,+31:19,7,2004
+24,46,+31:20,,Muravyev Dmitriy,46,Cr\xe9dit Agricole,31:20 31:20,+31:20,7,2004
+31,47,+32:17,,Beneteau Walter,47,Brioches La Boulang\xe8re,32:17 32:17,+32:17,7,2004
+26,48,+33:06,,Pecharroman Jos\xe9 Antonio,48,Quickstep - Davitamon,33:06 33:06,+33:06,7,2004
+29,49,+34:01,,Horrillo Pedro,49,Quickstep - Davitamon,34:01 34:01,+34:01,7,2004
+35,50,+37:15,,Mengin Christophe,50,Fdjeux.com,37:15 37:15,+37:15,7,2004
+24,51,+37:47,,Hary Maryan,51,Brioches La Boulang\xe8re,37:47 37:47,+37:47,7,2004
+32,52,+37:54,,Guesdon Fr\xe9d\xe9ric,52,Fdjeux.com,37:54 37:54,+37:54,7,2004
+30,53,+38:18,,Renier Franck,53,Brioches La Boulang\xe8re,38:18 38:18,+38:18,7,2004
+34,54,+38:19,,Bartoli Michele,54,CSC ProTeam,38:19 38:19,+38:19,7,2004
+34,55,+38:49,,Bouvard Gilles,55,R.a.g.t Semence - Mg Rover,38:49 38:49,+38:49,7,2004
+38,56,+40:35,,Ekimov Viatcheslav,56,US Postal Service,40:35 40:35,+40:35,7,2004
+25,57,+41:41,,Cooke Baden,57,Fdjeux.com,41:41 41:41,+41:41,7,2004
+30,58,+42:40,,Lotz Marc,58,Rabobank ProTeam,42:40 42:40,+42:40,7,2004
+34,59,+44:47,,Bourquenoud Pierre,59,R.a.g.t Semence - Mg Rover,44:47 44:47,+44:47,7,2004
+29,60,+47:18,,S\xf8rensen Nicki,60,CSC ProTeam,47:18 47:18,+47:18,7,2004
+26,61,+47:57,,Laurent Christophe,61,R.a.g.t Semence - Mg Rover,47:57 47:57,+47:57,7,2004
+27,62,+48:02,,Reynaud Nicolas,62,R.a.g.t Semence - Mg Rover,48:02 48:02,+48:02,7,2004
+27,63,+50:41,,Tombak Janek,63,Cofidis,50:41 50:41,+50:41,7,2004
+30,64,+51:03,,White Matthew,64,Cofidis,51:03 51:03,+51:03,7,2004
+23,65,+51:08,,Le M\xe9vel Christophe,65,Cr\xe9dit Agricole,51:08 51:08,+51:08,7,2004
+29,66,+52:26,,de Groot Bram,66,Rabobank ProTeam,52:26 52:26,+52:26,7,2004
+33,67,+52:31,,Dekker Erik,67,Rabobank ProTeam,52:31 52:31,+52:31,7,2004
+22,68,+54:10,,De Weert Kevin,68,Rabobank ProTeam,54:10 54:10,+54:10,7,2004
+25,69,+1:13:53,,Albizu lizaso Joseba,69,Euskaltel - Euskadi,1:13:53 1:13:53,+73:53,7,2004
+27,70,+1:15:10,,Isasi Inaki,70,Euskaltel - Euskadi,1:15:10 1:15:10,+75:10,7,2004
+26,71,+1:30:28,,Silloniz Josu,71,Euskaltel - Euskadi,1:30:28 1:30:28,+90:28,7,2004

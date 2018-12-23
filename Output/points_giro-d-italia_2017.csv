@@ -1,0 +1,1728 @@
+Age,BIB,Pnt,Prev,Rider,Rnk,Team,UCI,\u25bc\u25b2,stage,year
+25,58,50,,P\xf6stlberger Lukas,1,BORA - hansgrohe,,,1,2017
+22,123,35,,Ewan Caleb,2,ORICA-Scott,,,1,2017
+28,148,32,,Teklehaimanot Daniel,3,Team Dimension Data,,,1,2017
+27,219,28,,Zhupa Eugert,4,Wilier Triestina - Selle Italia,,,1,2017
+34,100,25,,Greipel Andr\xe9,5,Lotto Soudal,,,1,2017
+35,92,18,,Brutt Pavel,6,Gazprom-RusVelo,,,1,2017
+28,196,18,,Nizzolo Giacomo,7,Trek - Segafredo,,,1,2017
+26,147,18,,Sbaragli Kristian,8,Team Dimension Data,,,1,2017
+29,205,14,,Modolo Sacha,9,UAE Team Emirates,,,1,2017
+33,72,12,,Bialoblocki Marcin,10,CCC Sprandi Polkowice,,,1,2017
+25,199,10,,Stuyven Jasper,11,Trek - Segafredo,,,1,2017
+29,52,10,,Benedetti Cesare,12,BORA - hansgrohe,,,1,2017
+22,145,8,,Gibbons Ryan,13,Team Dimension Data,,,1,2017
+26,53,7,,Bennett Sam,14,BORA - hansgrohe,,,1,2017
+22,182,6,,Bauhaus Phil,15,Team Sunweb,,,1,2017
+23,56,5,,M\xfchlberger Gregor,16,BORA - hansgrohe,,,1,2017
+22,135,4,,Gaviria Fernando,17,Quick-Step Floors,,,1,2017
+27,162,3,,Battaglin Enrico,18,Team LottoNL-Jumbo,,,1,2017
+27,156,2,,Kuznetsov Viacheslav,19,Team Katusha - Alpecin,,,1,2017
+28,141,2,,Haas Nathan,20,Team Dimension Data,,,1,2017
+39,128,2,,Tuft Svein,21,ORICA-Scott,,,1,2017
+24,131,1,,Jungels Bob,22,Quick-Step Floors,,,1,2017
+37,101,1,,Bak Lars Ytting,23,Lotto Soudal,,,1,2017
+28,139,1,,Serry Pieter,24,Quick-Step Floors,,,1,2017
+34,100,75,5.0,Greipel Andr\xe9,1,Lotto Soudal,,\u25b24,2,2017
+28,148,72,3.0,Teklehaimanot Daniel,2,Team Dimension Data,,\u25b21,2,2017
+25,58,51,1.0,P\xf6stlberger Lukas,3,BORA - hansgrohe,,\u25bc2,2,2017
+22,123,42,2.0,Ewan Caleb,4,ORICA-Scott,,\u25bc2,2,2017
+26,147,38,8.0,Sbaragli Kristian,5,Team Dimension Data,,\u25b23,2,2017
+34,203,35,,Ferrari Roberto,6,UAE Team Emirates,,-,2,2017
+25,199,35,11.0,Stuyven Jasper,7,Trek - Segafredo,,\u25b24,2,2017
+27,219,28,4.0,Zhupa Eugert,8,Wilier Triestina - Selle Italia,,\u25bc4,2,2017
+22,135,22,17.0,Gaviria Fernando,9,Quick-Step Floors,,\u25b28,2,2017
+26,215,20,,Koshevoy Ilia,10,Wilier Triestina - Selle Italia,,-,2,2017
+35,92,18,6.0,Brutt Pavel,11,Gazprom-RusVelo,,\u25bc5,2,2017
+22,145,18,13.0,Gibbons Ryan,12,Team Dimension Data,,\u25b21,2,2017
+28,196,18,7.0,Nizzolo Giacomo,13,Trek - Segafredo,,\u25bc6,2,2017
+23,33,18,,Andreetta Simone,14,Bardiani - CSF,,-,2,2017
+27,162,15,18.0,Battaglin Enrico,15,Team LottoNL-Jumbo,,\u25b23,2,2017
+29,205,14,9.0,Modolo Sacha,16,UAE Team Emirates,,\u25bc7,2,2017
+25,98,12,,Shalunov Evgeny,17,Gazprom-RusVelo,,-,2,2017
+33,72,12,10.0,Bialoblocki Marcin,18,CCC Sprandi Polkowice,,\u25bc8,2,2017
+29,52,11,12.0,Benedetti Cesare,19,BORA - hansgrohe,,\u25bc7,2,2017
+27,74,10,,Owsian Lukasz,20,CCC Sprandi Polkowice,,-,2,2017
+30,179,8,,Thomas Geraint,21,Team Sky,,-,2,2017
+26,53,7,14.0,Bennett Sam,22,BORA - hansgrohe,,\u25bc8,2,2017
+30,201,6,,Costa Rui,23,UAE Team Emirates,,-,2,2017
+22,182,6,15.0,Bauhaus Phil,24,Team Sunweb,,\u25bc9,2,2017
+33,19,5,,Montaguti Matteo,25,AG2R La Mondiale,,-,2,2017
+23,56,5,16.0,M\xfchlberger Gregor,26,BORA - hansgrohe,,\u25bc10,2,2017
+25,68,4,,Villella Davide,27,Cannondale-Drapac Pro Cycling Team,,-,2,2017
+32,1,3,,Nibali Vincenzo,28,Bahrain Merida Pro Cycling Team,,-,2,2017
+32,51,3,,B\xe1rta Jan,29,BORA - hansgrohe,,-,2,2017
+28,141,2,20.0,Haas Nathan,30,Team Dimension Data,,\u25bc10,2,2017
+34,138,2,,Richeze Ariel Maximiliano,31,Quick-Step Floors,,-,2,2017
+34,142,2,,Anton Igor,32,Team Dimension Data,,-,2,2017
+27,156,2,19.0,Kuznetsov Viacheslav,33,Team Katusha - Alpecin,,\u25bc14,2,2017
+39,128,2,21.0,Tuft Svein,34,ORICA-Scott,,\u25bc13,2,2017
+24,131,1,22.0,Jungels Bob,35,Quick-Step Floors,,\u25bc13,2,2017
+37,101,1,23.0,Bak Lars Ytting,36,Lotto Soudal,,\u25bc13,2,2017
+28,139,1,24.0,Serry Pieter,37,Quick-Step Floors,,\u25bc13,2,2017
+34,100,81,1.0,Greipel Andr\xe9,1,Lotto Soudal,,-,3,2017
+28,148,74,2.0,Teklehaimanot Daniel,2,Team Dimension Data,,-,3,2017
+22,135,72,9.0,Gaviria Fernando,3,Quick-Step Floors,,\u25b26,3,2017
+26,147,64,5.0,Sbaragli Kristian,4,Team Dimension Data,,\u25b21,3,2017
+27,219,60,8.0,Zhupa Eugert,5,Wilier Triestina - Selle Italia,,\u25b23,3,2017
+25,58,51,3.0,P\xf6stlberger Lukas,6,BORA - hansgrohe,,\u25bc3,3,2017
+22,123,50,4.0,Ewan Caleb,7,ORICA-Scott,,\u25bc3,3,2017
+25,199,43,7.0,Stuyven Jasper,8,Trek - Segafredo,,\u25bc1,3,2017
+28,196,43,13.0,Nizzolo Giacomo,9,Trek - Segafredo,,\u25b24,3,2017
+34,203,38,6.0,Ferrari Roberto,10,UAE Team Emirates,,\u25bc4,3,2017
+28,59,35,,Selig R\xfcdiger,11,BORA - hansgrohe,,-,3,2017
+28,141,24,30.0,Haas Nathan,12,Team Dimension Data,,\u25b218,3,2017
+29,205,21,16.0,Modolo Sacha,13,UAE Team Emirates,,\u25b23,3,2017
+22,145,20,12.0,Gibbons Ryan,14,Team Dimension Data,,\u25bc2,3,2017
+29,96,20,,Rovny Ivan,15,Gazprom-RusVelo,,-,3,2017
+26,215,20,10.0,Koshevoy Ilia,16,Wilier Triestina - Selle Italia,,\u25bc6,3,2017
+35,92,18,11.0,Brutt Pavel,17,Gazprom-RusVelo,,\u25bc6,3,2017
+23,33,18,14.0,Andreetta Simone,18,Bardiani - CSF,,\u25bc4,3,2017
+34,138,16,31.0,Richeze Ariel Maximiliano,19,Quick-Step Floors,,\u25b212,3,2017
+27,162,15,15.0,Battaglin Enrico,20,Team LottoNL-Jumbo,,\u25bc5,3,2017
+27,79,14,,Tratnik Jan,21,CCC Sprandi Polkowice,,-,3,2017
+34,8,12,,Siutsou Kanstantsin,22,Bahrain Merida Pro Cycling Team,,-,3,2017
+25,98,12,17.0,Shalunov Evgeny,23,Gazprom-RusVelo,,\u25bc6,3,2017
+33,72,12,18.0,Bialoblocki Marcin,24,CCC Sprandi Polkowice,,\u25bc6,3,2017
+24,131,11,35.0,Jungels Bob,25,Quick-Step Floors,,\u25b210,3,2017
+22,182,11,24.0,Bauhaus Phil,26,Team Sunweb,,\u25bc2,3,2017
+29,52,11,19.0,Benedetti Cesare,27,BORA - hansgrohe,,\u25bc8,3,2017
+27,74,10,20.0,Owsian Lukasz,28,CCC Sprandi Polkowice,,\u25bc8,3,2017
+30,179,8,21.0,Thomas Geraint,29,Team Sky,,\u25bc8,3,2017
+26,53,7,22.0,Bennett Sam,30,BORA - hansgrohe,,\u25bc8,3,2017
+30,201,6,23.0,Costa Rui,31,UAE Team Emirates,,\u25bc8,3,2017
+27,156,6,33.0,Kuznetsov Viacheslav,32,Team Katusha - Alpecin,,\u25b21,3,2017
+33,19,5,25.0,Montaguti Matteo,33,AG2R La Mondiale,,\u25bc8,3,2017
+23,56,5,26.0,M\xfchlberger Gregor,34,BORA - hansgrohe,,\u25bc8,3,2017
+25,68,4,27.0,Villella Davide,35,Cannondale-Drapac Pro Cycling Team,,\u25bc8,3,2017
+26,149,4,,Van Zyl Johann,36,Team Dimension Data,,-,3,2017
+32,1,3,28.0,Nibali Vincenzo,37,Bahrain Merida Pro Cycling Team,,\u25bc9,3,2017
+32,51,3,29.0,B\xe1rta Jan,38,BORA - hansgrohe,,\u25bc9,3,2017
+30,76,2,,Ponzi Simone,39,CCC Sprandi Polkowice,,-,3,2017
+39,128,2,34.0,Tuft Svein,40,ORICA-Scott,,\u25bc6,3,2017
+34,142,2,32.0,Anton Igor,41,Team Dimension Data,,\u25bc9,3,2017
+25,54,1,,Konrad Patrick,42,BORA - hansgrohe,,-,3,2017
+37,101,1,36.0,Bak Lars Ytting,43,Lotto Soudal,,\u25bc7,3,2017
+28,139,1,37.0,Serry Pieter,44,Quick-Step Floors,,\u25bc7,3,2017
+34,100,81,1.0,Greipel Andr\xe9,1,Lotto Soudal,,-,4,2017
+28,148,74,2.0,Teklehaimanot Daniel,2,Team Dimension Data,,-,4,2017
+22,135,72,3.0,Gaviria Fernando,3,Quick-Step Floors,,-,4,2017
+27,147,64,4.0,Sbaragli Kristian,4,Team Dimension Data,,-,4,2017
+27,219,60,5.0,Zhupa Eugert,5,Wilier Triestina - Selle Italia,,-,4,2017
+25,58,51,6.0,P\xf6stlberger Lukas,6,BORA - hansgrohe,,-,4,2017
+22,123,50,7.0,Ewan Caleb,7,ORICA-Scott,,-,4,2017
+25,199,43,8.0,Stuyven Jasper,8,Trek - Segafredo,,-,4,2017
+28,196,43,9.0,Nizzolo Giacomo,9,Trek - Segafredo,,-,4,2017
+34,203,38,10.0,Ferrari Roberto,10,UAE Team Emirates,,-,4,2017
+28,59,35,11.0,Selig R\xfcdiger,11,BORA - hansgrohe,,-,4,2017
+35,92,34,17.0,Brutt Pavel,12,Gazprom-RusVelo,,\u25b25,4,2017
+28,141,24,12.0,Haas Nathan,13,Team Dimension Data,,\u25bc1,4,2017
+29,205,21,13.0,Modolo Sacha,14,UAE Team Emirates,,\u25bc1,4,2017
+25,209,20,,Polanc Jan,15,UAE Team Emirates,,-,4,2017
+22,145,20,14.0,Gibbons Ryan,16,Team Dimension Data,,\u25bc2,4,2017
+29,96,20,15.0,Rovny Ivan,17,Gazprom-RusVelo,,\u25bc2,4,2017
+26,215,20,16.0,Koshevoy Ilia,18,Wilier Triestina - Selle Italia,,\u25bc2,4,2017
+23,33,18,18.0,Andreetta Simone,19,Bardiani - CSF,,\u25bc1,4,2017
+30,179,17,29.0,Thomas Geraint,20,Team Sky,,\u25b29,4,2017
+34,138,16,19.0,Richeze Ariel Maximiliano,21,Quick-Step Floors,,\u25bc2,4,2017
+24,131,15,25.0,Jungels Bob,22,Quick-Step Floors,,\u25b23,4,2017
+27,162,15,20.0,Battaglin Enrico,23,Team LottoNL-Jumbo,,\u25bc3,4,2017
+27,79,14,21.0,Tratnik Jan,24,CCC Sprandi Polkowice,,\u25bc3,4,2017
+27,151,12,,Zakarin Ilnur,25,Team Katusha - Alpecin,,-,4,2017
+34,8,12,22.0,Siutsou Kanstantsin,26,Bahrain Merida Pro Cycling Team,,\u25bc4,4,2017
+25,98,12,23.0,Shalunov Evgeny,27,Gazprom-RusVelo,,\u25bc4,4,2017
+33,72,12,24.0,Bialoblocki Marcin,28,CCC Sprandi Polkowice,,\u25bc4,4,2017
+29,52,11,27.0,Benedetti Cesare,29,BORA - hansgrohe,,\u25bc2,4,2017
+22,182,11,26.0,Bauhaus Phil,30,Team Sunweb,,\u25bc4,4,2017
+27,74,10,28.0,Owsian Lukasz,31,CCC Sprandi Polkowice,,\u25bc3,4,2017
+26,81,7,,Pinot Thibaut,32,FDJ,,-,4,2017
+26,53,7,30.0,Bennett Sam,33,BORA - hansgrohe,,\u25bc3,4,2017
+30,201,6,31.0,Costa Rui,34,UAE Team Emirates,,\u25bc3,4,2017
+32,22,6,,Cataldo Dario,35,Astana Pro Team,,-,4,2017
+27,156,6,32.0,Kuznetsov Viacheslav,36,Team Katusha - Alpecin,,\u25bc4,4,2017
+26,181,5,,Dumoulin Tom,37,Team Sunweb,,-,4,2017
+33,19,5,33.0,Montaguti Matteo,38,AG2R La Mondiale,,\u25bc5,4,2017
+23,56,5,34.0,M\xfchlberger Gregor,39,BORA - hansgrohe,,\u25bc5,4,2017
+29,146,5,,Janse van Rensburg Jacques,40,Team Dimension Data,,-,4,2017
+32,1,4,37.0,Nibali Vincenzo,41,Bahrain Merida Pro Cycling Team,,\u25bc4,4,2017
+25,68,4,35.0,Villella Davide,42,Cannondale-Drapac Pro Cycling Team,,\u25bc7,4,2017
+26,149,4,36.0,Van Zyl Johann,43,Team Dimension Data,,\u25bc7,4,2017
+24,121,3,,Yates Adam,44,ORICA-Scott,,-,4,2017
+32,51,3,38.0,B\xe1rta Jan,45,BORA - hansgrohe,,\u25bc7,4,2017
+30,191,2,,Mollema Bauke,46,Trek - Segafredo,,-,4,2017
+34,142,2,41.0,Anton Igor,47,Team Dimension Data,,\u25bc6,4,2017
+30,76,2,39.0,Ponzi Simone,48,CCC Sprandi Polkowice,,\u25bc9,4,2017
+40,128,2,40.0,Tuft Svein,49,ORICA-Scott,,\u25bc9,4,2017
+25,54,1,42.0,Konrad Patrick,50,BORA - hansgrohe,,\u25bc8,4,2017
+37,101,1,43.0,Bak Lars Ytting,51,Lotto Soudal,,\u25bc8,4,2017
+28,139,1,44.0,Serry Pieter,52,Quick-Step Floors,,\u25bc8,4,2017
+22,135,138,3.0,Gaviria Fernando,1,Quick-Step Floors,,\u25b22,5,2017
+34,100,99,1.0,Greipel Andr\xe9,2,Lotto Soudal,,\u25bc1,5,2017
+27,147,76,4.0,Sbaragli Kristian,3,Team Dimension Data,,\u25b21,5,2017
+28,148,74,2.0,Teklehaimanot Daniel,4,Team Dimension Data,,\u25bc2,5,2017
+25,199,62,8.0,Stuyven Jasper,5,Trek - Segafredo,,\u25b23,5,2017
+27,219,60,5.0,Zhupa Eugert,6,Wilier Triestina - Selle Italia,,\u25bc1,5,2017
+25,58,51,6.0,P\xf6stlberger Lukas,7,BORA - hansgrohe,,\u25bc1,5,2017
+22,123,50,7.0,Ewan Caleb,8,ORICA-Scott,,\u25bc1,5,2017
+34,203,46,10.0,Ferrari Roberto,9,UAE Team Emirates,,\u25b21,5,2017
+28,196,43,9.0,Nizzolo Giacomo,10,Trek - Segafredo,,\u25bc1,5,2017
+30,75,40,,Paterski Maciej,11,CCC Sprandi Polkowice,,-,5,2017
+25,98,36,27.0,Shalunov Evgeny,12,Gazprom-RusVelo,,\u25b215,5,2017
+28,59,35,11.0,Selig R\xfcdiger,13,BORA - hansgrohe,,\u25bc2,5,2017
+23,216,35,,Mareczko Jakub,14,Wilier Triestina - Selle Italia,,-,5,2017
+35,92,34,12.0,Brutt Pavel,15,Gazprom-RusVelo,,\u25bc3,5,2017
+26,53,32,33.0,Bennett Sam,16,BORA - hansgrohe,,\u25b217,5,2017
+22,145,30,16.0,Gibbons Ryan,17,Team Dimension Data,,\u25bc1,5,2017
+22,182,25,30.0,Bauhaus Phil,18,Team Sunweb,,\u25b212,5,2017
+28,141,24,13.0,Haas Nathan,19,Team Dimension Data,,\u25bc6,5,2017
+27,162,21,23.0,Battaglin Enrico,20,Team LottoNL-Jumbo,,\u25b23,5,2017
+29,205,21,14.0,Modolo Sacha,21,UAE Team Emirates,,\u25bc7,5,2017
+34,138,21,21.0,Richeze Ariel Maximiliano,22,Quick-Step Floors,,\u25bc1,5,2017
+25,209,20,15.0,Polanc Jan,23,UAE Team Emirates,,\u25bc8,5,2017
+29,96,20,17.0,Rovny Ivan,24,Gazprom-RusVelo,,\u25bc7,5,2017
+26,215,20,18.0,Koshevoy Ilia,25,Wilier Triestina - Selle Italia,,\u25bc7,5,2017
+23,33,18,19.0,Andreetta Simone,26,Bardiani - CSF,,\u25bc7,5,2017
+30,179,17,20.0,Thomas Geraint,27,Team Sky,,\u25bc7,5,2017
+27,79,16,24.0,Tratnik Jan,28,CCC Sprandi Polkowice,,\u25bc4,5,2017
+24,131,15,22.0,Jungels Bob,29,Quick-Step Floors,,\u25bc7,5,2017
+27,151,12,25.0,Zakarin Ilnur,30,Team Katusha - Alpecin,,\u25bc5,5,2017
+34,8,12,26.0,Siutsou Kanstantsin,31,Bahrain Merida Pro Cycling Team,,\u25bc5,5,2017
+33,72,12,28.0,Bialoblocki Marcin,32,CCC Sprandi Polkowice,,\u25bc4,5,2017
+27,156,11,36.0,Kuznetsov Viacheslav,33,Team Katusha - Alpecin,,\u25b23,5,2017
+29,52,11,29.0,Benedetti Cesare,34,BORA - hansgrohe,,\u25bc5,5,2017
+27,74,10,31.0,Owsian Lukasz,35,CCC Sprandi Polkowice,,\u25bc4,5,2017
+26,81,7,32.0,Pinot Thibaut,36,FDJ,,\u25bc4,5,2017
+24,121,6,44.0,Yates Adam,37,ORICA-Scott,,\u25b27,5,2017
+30,201,6,34.0,Costa Rui,38,UAE Team Emirates,,\u25bc4,5,2017
+32,22,6,35.0,Cataldo Dario,39,Astana Pro Team,,\u25bc4,5,2017
+33,19,6,38.0,Montaguti Matteo,40,AG2R La Mondiale,,\u25bc2,5,2017
+26,181,5,37.0,Dumoulin Tom,41,Team Sunweb,,\u25bc4,5,2017
+23,56,5,39.0,M\xfchlberger Gregor,42,BORA - hansgrohe,,\u25bc3,5,2017
+29,146,5,40.0,Janse van Rensburg Jacques,43,Team Dimension Data,,\u25bc3,5,2017
+32,1,4,41.0,Nibali Vincenzo,44,Bahrain Merida Pro Cycling Team,,\u25bc3,5,2017
+25,68,4,42.0,Villella Davide,45,Cannondale-Drapac Pro Cycling Team,,\u25bc3,5,2017
+32,2,4,,Agnoli Valerio,46,Bahrain Merida Pro Cycling Team,,-,5,2017
+27,99,4,,Tsatevich Alexey,47,Gazprom-RusVelo,,-,5,2017
+26,149,4,43.0,Van Zyl Johann,48,Team Dimension Data,,\u25bc5,5,2017
+30,132,3,,Capecchi Eros,49,Quick-Step Floors,,-,5,2017
+34,136,3,,Keisse Iljo,50,Quick-Step Floors,,-,5,2017
+28,139,3,52.0,Serry Pieter,51,Quick-Step Floors,,\u25b21,5,2017
+32,51,3,45.0,B\xe1rta Jan,52,BORA - hansgrohe,,\u25bc7,5,2017
+30,191,2,46.0,Mollema Bauke,53,Trek - Segafredo,,\u25bc7,5,2017
+34,142,2,47.0,Anton Igor,54,Team Dimension Data,,\u25bc7,5,2017
+30,76,2,48.0,Ponzi Simone,55,CCC Sprandi Polkowice,,\u25bc7,5,2017
+30,104,2,,De Clercq Bart,56,Lotto Soudal,,-,5,2017
+40,128,2,49.0,Tuft Svein,57,ORICA-Scott,,\u25bc8,5,2017
+25,54,1,50.0,Konrad Patrick,58,BORA - hansgrohe,,\u25bc8,5,2017
+37,101,1,51.0,Bak Lars Ytting,59,Lotto Soudal,,\u25bc8,5,2017
+27,125,1,,Juul-Jensen Christopher,60,ORICA-Scott,,-,5,2017
+22,135,140,1.0,Gaviria Fernando,1,Quick-Step Floors,,-,6,2017
+25,199,137,5.0,Stuyven Jasper,2,Trek - Segafredo,,\u25b23,6,2017
+34,100,105,2.0,Greipel Andr\xe9,3,Lotto Soudal,,\u25bc1,6,2017
+25,58,92,7.0,P\xf6stlberger Lukas,4,BORA - hansgrohe,,\u25b23,6,2017
+27,147,76,3.0,Sbaragli Kristian,5,Team Dimension Data,,\u25bc2,6,2017
+28,148,74,4.0,Teklehaimanot Daniel,6,Team Dimension Data,,\u25bc2,6,2017
+26,43,68,,Dillier Silvan,7,BMC Racing Team,,-,6,2017
+27,219,60,6.0,Zhupa Eugert,8,Wilier Triestina - Selle Italia,,\u25bc2,6,2017
+23,33,52,26.0,Andreetta Simone,9,Bardiani - CSF,,\u25b217,6,2017
+22,123,50,8.0,Ewan Caleb,10,ORICA-Scott,,\u25bc2,6,2017
+34,203,46,9.0,Ferrari Roberto,11,UAE Team Emirates,,\u25bc2,6,2017
+28,196,43,10.0,Nizzolo Giacomo,12,Trek - Segafredo,,\u25bc2,6,2017
+30,75,40,11.0,Paterski Maciej,13,CCC Sprandi Polkowice,,\u25bc2,6,2017
+25,98,36,12.0,Shalunov Evgeny,14,Gazprom-RusVelo,,\u25bc2,6,2017
+28,59,35,13.0,Selig R\xfcdiger,15,BORA - hansgrohe,,\u25bc2,6,2017
+23,216,35,14.0,Mareczko Jakub,16,Wilier Triestina - Selle Italia,,\u25bc2,6,2017
+35,92,34,15.0,Brutt Pavel,17,Gazprom-RusVelo,,\u25bc2,6,2017
+26,53,32,16.0,Bennett Sam,18,BORA - hansgrohe,,\u25bc2,6,2017
+22,145,30,17.0,Gibbons Ryan,19,Team Dimension Data,,\u25bc2,6,2017
+22,182,25,18.0,Bauhaus Phil,20,Team Sunweb,,\u25bc2,6,2017
+28,141,24,19.0,Haas Nathan,21,Team Dimension Data,,\u25bc2,6,2017
+24,131,23,29.0,Jungels Bob,22,Quick-Step Floors,,\u25b27,6,2017
+30,179,23,27.0,Thomas Geraint,23,Team Sky,,\u25b24,6,2017
+34,138,22,22.0,Richeze Ariel Maximiliano,24,Quick-Step Floors,,\u25bc2,6,2017
+27,162,21,20.0,Battaglin Enrico,25,Team LottoNL-Jumbo,,\u25bc5,6,2017
+29,205,21,21.0,Modolo Sacha,26,UAE Team Emirates,,\u25bc5,6,2017
+25,209,20,23.0,Polanc Jan,27,UAE Team Emirates,,\u25bc4,6,2017
+29,96,20,24.0,Rovny Ivan,28,Gazprom-RusVelo,,\u25bc4,6,2017
+26,215,20,25.0,Koshevoy Ilia,29,Wilier Triestina - Selle Italia,,\u25bc4,6,2017
+24,121,18,37.0,Yates Adam,30,ORICA-Scott,,\u25b27,6,2017
+27,79,16,28.0,Tratnik Jan,31,CCC Sprandi Polkowice,,\u25bc3,6,2017
+30,69,14,,Woods Michael,32,Cannondale-Drapac Pro Cycling Team,,-,6,2017
+27,151,12,30.0,Zakarin Ilnur,33,Team Katusha - Alpecin,,\u25bc3,6,2017
+34,8,12,31.0,Siutsou Kanstantsin,34,Bahrain Merida Pro Cycling Team,,\u25bc3,6,2017
+33,72,12,32.0,Bialoblocki Marcin,35,CCC Sprandi Polkowice,,\u25bc3,6,2017
+27,156,11,33.0,Kuznetsov Viacheslav,36,Team Katusha - Alpecin,,\u25bc3,6,2017
+29,52,11,34.0,Benedetti Cesare,37,BORA - hansgrohe,,\u25bc3,6,2017
+26,185,10,,Kelderman Wilco,38,Team Sunweb,,-,6,2017
+27,74,10,35.0,Owsian Lukasz,39,CCC Sprandi Polkowice,,\u25bc4,6,2017
+21,197,10,,Pedersen Mads,40,Trek - Segafredo,,-,6,2017
+30,191,9,53.0,Mollema Bauke,41,Trek - Segafredo,,\u25b212,6,2017
+32,1,8,44.0,Nibali Vincenzo,42,Bahrain Merida Pro Cycling Team,,\u25b22,6,2017
+26,181,8,41.0,Dumoulin Tom,43,Team Sunweb,,\u25bc2,6,2017
+26,81,7,36.0,Pinot Thibaut,44,FDJ,,\u25bc8,6,2017
+30,201,6,38.0,Costa Rui,45,UAE Team Emirates,,\u25bc7,6,2017
+32,22,6,39.0,Cataldo Dario,46,Astana Pro Team,,\u25bc7,6,2017
+33,19,6,40.0,Montaguti Matteo,47,AG2R La Mondiale,,\u25bc7,6,2017
+27,111,5,,Quintana Nairo,48,Movistar Team,,-,6,2017
+23,56,5,42.0,M\xfchlberger Gregor,49,BORA - hansgrohe,,\u25bc7,6,2017
+29,146,5,43.0,Janse van Rensburg Jacques,50,Team Dimension Data,,\u25bc7,6,2017
+25,68,4,45.0,Villella Davide,51,Cannondale-Drapac Pro Cycling Team,,\u25bc6,6,2017
+32,2,4,46.0,Agnoli Valerio,52,Bahrain Merida Pro Cycling Team,,\u25bc6,6,2017
+27,99,4,47.0,Tsatevich Alexey,53,Gazprom-RusVelo,,\u25bc6,6,2017
+26,149,4,48.0,Van Zyl Johann,54,Team Dimension Data,,\u25bc6,6,2017
+30,132,3,49.0,Capecchi Eros,55,Quick-Step Floors,,\u25bc6,6,2017
+34,136,3,50.0,Keisse Iljo,56,Quick-Step Floors,,\u25bc6,6,2017
+28,139,3,51.0,Serry Pieter,57,Quick-Step Floors,,\u25bc6,6,2017
+32,51,3,52.0,B\xe1rta Jan,58,BORA - hansgrohe,,\u25bc6,6,2017
+29,161,2,,Kruijswijk Steven,59,Team LottoNL-Jumbo,,-,6,2017
+34,142,2,54.0,Anton Igor,60,Team Dimension Data,,\u25bc6,6,2017
+30,76,2,55.0,Ponzi Simone,61,CCC Sprandi Polkowice,,\u25bc6,6,2017
+30,104,2,56.0,De Clercq Bart,62,Lotto Soudal,,\u25bc6,6,2017
+23,103,2,,de Buyst Jasper,63,Lotto Soudal,,-,6,2017
+40,128,2,57.0,Tuft Svein,64,ORICA-Scott,,\u25bc7,6,2017
+30,112,1,,Amador Andrey,65,Movistar Team,,-,6,2017
+25,54,1,58.0,Konrad Patrick,66,BORA - hansgrohe,,\u25bc8,6,2017
+35,49,1,,Ventoso Francisco,67,BMC Racing Team,,-,6,2017
+37,101,1,59.0,Bak Lars Ytting,68,Lotto Soudal,,\u25bc9,6,2017
+27,125,1,60.0,Juul-Jensen Christopher,69,ORICA-Scott,,\u25bc9,6,2017
+22,135,191,1.0,Gaviria Fernando,1,Quick-Step Floors,,-,7,2017
+25,199,160,2.0,Stuyven Jasper,2,Trek - Segafredo,,-,7,2017
+34,100,129,3.0,Greipel Andr\xe9,3,Lotto Soudal,,-,7,2017
+22,123,100,10.0,Ewan Caleb,4,ORICA-Scott,,\u25b26,7,2017
+25,58,92,4.0,P\xf6stlberger Lukas,5,BORA - hansgrohe,,\u25bc1,7,2017
+28,148,78,6.0,Teklehaimanot Daniel,6,Team Dimension Data,,-,7,2017
+27,147,76,5.0,Sbaragli Kristian,7,Team Dimension Data,,\u25bc2,7,2017
+26,43,68,7.0,Dillier Silvan,8,BMC Racing Team,,\u25bc1,7,2017
+27,219,60,8.0,Zhupa Eugert,9,Wilier Triestina - Selle Italia,,\u25bc1,7,2017
+26,53,57,18.0,Bennett Sam,10,BORA - hansgrohe,,\u25b28,7,2017
+23,33,52,9.0,Andreetta Simone,11,Bardiani - CSF,,\u25bc2,7,2017
+34,203,46,11.0,Ferrari Roberto,12,UAE Team Emirates,,\u25bc1,7,2017
+28,59,43,15.0,Selig R\xfcdiger,13,BORA - hansgrohe,,\u25b22,7,2017
+28,196,43,12.0,Nizzolo Giacomo,14,Trek - Segafredo,,\u25bc2,7,2017
+22,145,42,19.0,Gibbons Ryan,15,Team Dimension Data,,\u25b24,7,2017
+30,75,40,13.0,Paterski Maciej,16,CCC Sprandi Polkowice,,\u25bc3,7,2017
+33,94,40,,Kozonchuk Dmitry,17,Gazprom-RusVelo,,-,7,2017
+25,98,36,14.0,Shalunov Evgeny,18,Gazprom-RusVelo,,\u25bc4,7,2017
+23,216,35,16.0,Mareczko Jakub,19,Wilier Triestina - Selle Italia,,\u25bc3,7,2017
+35,92,34,17.0,Brutt Pavel,20,Gazprom-RusVelo,,\u25bc3,7,2017
+27,162,31,25.0,Battaglin Enrico,21,Team LottoNL-Jumbo,,\u25b24,7,2017
+34,138,28,24.0,Richeze Ariel Maximiliano,22,Quick-Step Floors,,\u25b22,7,2017
+30,179,27,23.0,Thomas Geraint,23,Team Sky,,-,7,2017
+22,182,25,20.0,Bauhaus Phil,24,Team Sunweb,,\u25bc4,7,2017
+28,141,24,21.0,Haas Nathan,25,Team Dimension Data,,\u25bc4,7,2017
+25,214,24,,Fonzi Giuseppe,26,Wilier Triestina - Selle Italia,,-,7,2017
+24,131,23,22.0,Jungels Bob,27,Quick-Step Floors,,\u25bc5,7,2017
+29,205,23,26.0,Modolo Sacha,28,UAE Team Emirates,,\u25bc2,7,2017
+25,209,20,27.0,Polanc Jan,29,UAE Team Emirates,,\u25bc2,7,2017
+29,96,20,28.0,Rovny Ivan,30,Gazprom-RusVelo,,\u25bc2,7,2017
+26,215,20,29.0,Koshevoy Ilia,31,Wilier Triestina - Selle Italia,,\u25bc2,7,2017
+24,121,19,30.0,Yates Adam,32,ORICA-Scott,,\u25bc2,7,2017
+27,79,16,31.0,Tratnik Jan,33,CCC Sprandi Polkowice,,\u25bc2,7,2017
+32,1,14,42.0,Nibali Vincenzo,34,Bahrain Merida Pro Cycling Team,,\u25b28,7,2017
+30,69,14,32.0,Woods Michael,35,Cannondale-Drapac Pro Cycling Team,,\u25bc3,7,2017
+26,181,13,43.0,Dumoulin Tom,36,Team Sunweb,,\u25b27,7,2017
+27,151,12,33.0,Zakarin Ilnur,37,Team Katusha - Alpecin,,\u25bc4,7,2017
+34,8,12,34.0,Siutsou Kanstantsin,38,Bahrain Merida Pro Cycling Team,,\u25bc4,7,2017
+33,72,12,35.0,Bialoblocki Marcin,39,CCC Sprandi Polkowice,,\u25bc4,7,2017
+27,156,11,36.0,Kuznetsov Viacheslav,40,Team Katusha - Alpecin,,\u25bc4,7,2017
+27,99,11,53.0,Tsatevich Alexey,41,Gazprom-RusVelo,,\u25b212,7,2017
+29,52,11,37.0,Benedetti Cesare,42,BORA - hansgrohe,,\u25bc5,7,2017
+26,185,10,38.0,Kelderman Wilco,43,Team Sunweb,,\u25bc5,7,2017
+27,74,10,39.0,Owsian Lukasz,44,CCC Sprandi Polkowice,,\u25bc5,7,2017
+21,197,10,40.0,Pedersen Mads,45,Trek - Segafredo,,\u25bc5,7,2017
+30,191,9,41.0,Mollema Bauke,46,Trek - Segafredo,,\u25bc5,7,2017
+26,81,7,44.0,Pinot Thibaut,47,FDJ,,\u25bc3,7,2017
+30,201,6,45.0,Costa Rui,48,UAE Team Emirates,,\u25bc3,7,2017
+32,22,6,46.0,Cataldo Dario,49,Astana Pro Team,,\u25bc3,7,2017
+33,19,6,47.0,Montaguti Matteo,50,AG2R La Mondiale,,\u25bc3,7,2017
+27,111,5,48.0,Quintana Nairo,51,Movistar Team,,\u25bc3,7,2017
+23,56,5,49.0,M\xfchlberger Gregor,52,BORA - hansgrohe,,\u25bc3,7,2017
+29,146,5,50.0,Janse van Rensburg Jacques,53,Team Dimension Data,,\u25bc3,7,2017
+25,68,4,51.0,Villella Davide,54,Cannondale-Drapac Pro Cycling Team,,\u25bc3,7,2017
+30,104,4,62.0,De Clercq Bart,55,Lotto Soudal,,\u25b27,7,2017
+32,2,4,52.0,Agnoli Valerio,56,Bahrain Merida Pro Cycling Team,,\u25bc4,7,2017
+26,149,4,54.0,Van Zyl Johann,57,Team Dimension Data,,\u25bc3,7,2017
+32,194,3,,Didier Laurent,58,Trek - Segafredo,,-,7,2017
+27,177,3,,Puccio Salvatore,59,Team Sky,,-,7,2017
+30,132,3,55.0,Capecchi Eros,60,Quick-Step Floors,,\u25bc5,7,2017
+34,136,3,56.0,Keisse Iljo,61,Quick-Step Floors,,\u25bc5,7,2017
+32,51,3,58.0,B\xe1rta Jan,62,BORA - hansgrohe,,\u25bc4,7,2017
+28,139,3,57.0,Serry Pieter,63,Quick-Step Floors,,\u25bc6,7,2017
+29,161,2,59.0,Kruijswijk Steven,64,Team LottoNL-Jumbo,,\u25bc5,7,2017
+34,142,2,60.0,Anton Igor,65,Team Dimension Data,,\u25bc5,7,2017
+30,76,2,61.0,Ponzi Simone,66,CCC Sprandi Polkowice,,\u25bc5,7,2017
+23,103,2,63.0,de Buyst Jasper,67,Lotto Soudal,,\u25bc4,7,2017
+27,125,2,69.0,Juul-Jensen Christopher,68,ORICA-Scott,,\u25b21,7,2017
+40,128,2,64.0,Tuft Svein,69,ORICA-Scott,,\u25bc5,7,2017
+30,112,1,65.0,Amador Andrey,70,Movistar Team,,\u25bc5,7,2017
+25,54,1,66.0,Konrad Patrick,71,BORA - hansgrohe,,\u25bc5,7,2017
+35,49,1,67.0,Ventoso Francisco,72,BMC Racing Team,,\u25bc5,7,2017
+33,134,1,,Devenyns Dries,73,Quick-Step Floors,,-,7,2017
+37,101,1,68.0,Bak Lars Ytting,74,Lotto Soudal,,\u25bc6,7,2017
+22,135,191,1.0,Gaviria Fernando,1,Quick-Step Floors,,-,8,2017
+25,199,160,2.0,Stuyven Jasper,2,Trek - Segafredo,,-,8,2017
+34,100,129,3.0,Greipel Andr\xe9,3,Lotto Soudal,,-,8,2017
+22,123,100,4.0,Ewan Caleb,4,ORICA-Scott,,-,8,2017
+25,58,98,5.0,P\xf6stlberger Lukas,5,BORA - hansgrohe,,-,8,2017
+28,148,78,6.0,Teklehaimanot Daniel,6,Team Dimension Data,,-,8,2017
+27,147,76,7.0,Sbaragli Kristian,7,Team Dimension Data,,-,8,2017
+26,43,68,8.0,Dillier Silvan,8,BMC Racing Team,,-,8,2017
+27,219,60,9.0,Zhupa Eugert,9,Wilier Triestina - Selle Italia,,-,8,2017
+26,53,57,10.0,Bennett Sam,10,BORA - hansgrohe,,-,8,2017
+23,33,52,11.0,Andreetta Simone,11,Bardiani - CSF,,-,8,2017
+34,203,46,12.0,Ferrari Roberto,12,UAE Team Emirates,,-,8,2017
+28,59,43,13.0,Selig R\xfcdiger,13,BORA - hansgrohe,,-,8,2017
+28,196,43,14.0,Nizzolo Giacomo,14,Trek - Segafredo,,-,8,2017
+22,145,42,15.0,Gibbons Ryan,15,Team Dimension Data,,-,8,2017
+30,75,40,16.0,Paterski Maciej,16,CCC Sprandi Polkowice,,-,8,2017
+33,94,40,17.0,Kozonchuk Dmitry,17,Gazprom-RusVelo,,-,8,2017
+27,162,39,21.0,Battaglin Enrico,18,Team LottoNL-Jumbo,,\u25b23,8,2017
+25,98,36,18.0,Shalunov Evgeny,19,Gazprom-RusVelo,,\u25bc1,8,2017
+23,216,35,19.0,Mareczko Jakub,20,Wilier Triestina - Selle Italia,,\u25bc1,8,2017
+35,92,34,20.0,Brutt Pavel,21,Gazprom-RusVelo,,\u25bc1,8,2017
+34,138,28,22.0,Richeze Ariel Maximiliano,22,Quick-Step Floors,,-,8,2017
+29,117,27,,Izagirre Gorka,23,Movistar Team,,-,8,2017
+30,179,27,23.0,Thomas Geraint,24,Team Sky,,\u25bc1,8,2017
+22,182,25,24.0,Bauhaus Phil,25,Team Sunweb,,\u25bc1,8,2017
+24,131,24,27.0,Jungels Bob,26,Quick-Step Floors,,\u25b21,8,2017
+28,141,24,25.0,Haas Nathan,27,Team Dimension Data,,\u25bc2,8,2017
+25,214,24,26.0,Fonzi Giuseppe,28,Wilier Triestina - Selle Italia,,\u25bc2,8,2017
+29,205,23,28.0,Modolo Sacha,29,UAE Team Emirates,,\u25bc1,8,2017
+24,121,22,32.0,Yates Adam,30,ORICA-Scott,,\u25b22,8,2017
+34,9,21,,Visconti Giovanni,31,Bahrain Merida Pro Cycling Team,,-,8,2017
+25,209,20,29.0,Polanc Jan,32,UAE Team Emirates,,\u25bc3,8,2017
+30,69,20,35.0,Woods Michael,33,Cannondale-Drapac Pro Cycling Team,,\u25b22,8,2017
+29,96,20,30.0,Rovny Ivan,34,Gazprom-RusVelo,,\u25bc4,8,2017
+26,215,20,31.0,Koshevoy Ilia,35,Wilier Triestina - Selle Italia,,\u25bc4,8,2017
+33,27,19,,Sanchez Luis Leon,36,Astana Pro Team,,-,8,2017
+32,1,18,34.0,Nibali Vincenzo,37,Bahrain Merida Pro Cycling Team,,\u25bc3,8,2017
+27,79,16,33.0,Tratnik Jan,38,CCC Sprandi Polkowice,,\u25bc5,8,2017
+27,156,14,40.0,Kuznetsov Viacheslav,39,Team Katusha - Alpecin,,\u25b21,8,2017
+34,136,13,61.0,Keisse Iljo,40,Quick-Step Floors,,\u25b221,8,2017
+26,181,13,36.0,Dumoulin Tom,41,Team Sunweb,,\u25bc5,8,2017
+26,81,12,47.0,Pinot Thibaut,42,FDJ,,\u25b25,8,2017
+27,151,12,37.0,Zakarin Ilnur,43,Team Katusha - Alpecin,,\u25bc6,8,2017
+34,8,12,38.0,Siutsou Kanstantsin,44,Bahrain Merida Pro Cycling Team,,\u25bc6,8,2017
+33,72,12,39.0,Bialoblocki Marcin,45,CCC Sprandi Polkowice,,\u25bc6,8,2017
+29,52,11,42.0,Benedetti Cesare,46,BORA - hansgrohe,,\u25bc4,8,2017
+27,99,11,41.0,Tsatevich Alexey,47,Gazprom-RusVelo,,\u25bc6,8,2017
+24,202,10,,Conti Valerio,48,UAE Team Emirates,,-,8,2017
+26,185,10,43.0,Kelderman Wilco,49,Team Sunweb,,\u25bc6,8,2017
+27,74,10,44.0,Owsian Lukasz,50,CCC Sprandi Polkowice,,\u25bc6,8,2017
+21,197,10,45.0,Pedersen Mads,51,Trek - Segafredo,,\u25bc6,8,2017
+30,191,9,46.0,Mollema Bauke,52,Trek - Segafredo,,\u25bc6,8,2017
+30,201,6,48.0,Costa Rui,53,UAE Team Emirates,,\u25bc5,8,2017
+32,22,6,49.0,Cataldo Dario,54,Astana Pro Team,,\u25bc5,8,2017
+33,19,6,50.0,Montaguti Matteo,55,AG2R La Mondiale,,\u25bc5,8,2017
+23,56,6,52.0,M\xfchlberger Gregor,56,BORA - hansgrohe,,\u25bc4,8,2017
+27,111,5,51.0,Quintana Nairo,57,Movistar Team,,\u25bc6,8,2017
+29,146,5,53.0,Janse van Rensburg Jacques,58,Team Dimension Data,,\u25bc5,8,2017
+29,161,4,64.0,Kruijswijk Steven,59,Team LottoNL-Jumbo,,\u25b25,8,2017
+25,68,4,54.0,Villella Davide,60,Cannondale-Drapac Pro Cycling Team,,\u25bc6,8,2017
+30,104,4,55.0,De Clercq Bart,61,Lotto Soudal,,\u25bc6,8,2017
+32,2,4,56.0,Agnoli Valerio,62,Bahrain Merida Pro Cycling Team,,\u25bc6,8,2017
+26,149,4,57.0,Van Zyl Johann,63,Team Dimension Data,,\u25bc6,8,2017
+27,177,3,59.0,Puccio Salvatore,64,Team Sky,,\u25bc5,8,2017
+32,194,3,58.0,Didier Laurent,65,Trek - Segafredo,,\u25bc7,8,2017
+30,132,3,60.0,Capecchi Eros,66,Quick-Step Floors,,\u25bc6,8,2017
+32,51,3,62.0,B\xe1rta Jan,67,BORA - hansgrohe,,\u25bc5,8,2017
+28,139,3,63.0,Serry Pieter,68,Quick-Step Floors,,\u25bc5,8,2017
+34,142,2,65.0,Anton Igor,69,Team Dimension Data,,\u25bc4,8,2017
+30,76,2,66.0,Ponzi Simone,70,CCC Sprandi Polkowice,,\u25bc4,8,2017
+23,103,2,67.0,de Buyst Jasper,71,Lotto Soudal,,\u25bc4,8,2017
+27,125,2,68.0,Juul-Jensen Christopher,72,ORICA-Scott,,\u25bc4,8,2017
+40,128,2,69.0,Tuft Svein,73,ORICA-Scott,,\u25bc4,8,2017
+20,32,2,,Albanese Vincenzo,74,Bardiani - CSF,,-,8,2017
+30,112,1,70.0,Amador Andrey,75,Movistar Team,,\u25bc5,8,2017
+25,54,1,71.0,Konrad Patrick,76,BORA - hansgrohe,,\u25bc5,8,2017
+35,49,1,72.0,Ventoso Francisco,77,BMC Racing Team,,\u25bc5,8,2017
+37,101,1,74.0,Bak Lars Ytting,78,Lotto Soudal,,\u25bc4,8,2017
+33,134,1,73.0,Devenyns Dries,79,Quick-Step Floors,,\u25bc6,8,2017
+22,135,191,1.0,Gaviria Fernando,1,Quick-Step Floors,,-,9,2017
+25,199,160,2.0,Stuyven Jasper,2,Trek - Segafredo,,-,9,2017
+34,100,129,3.0,Greipel Andr\xe9,3,Lotto Soudal,,-,9,2017
+22,123,100,4.0,Ewan Caleb,4,ORICA-Scott,,-,9,2017
+25,58,98,5.0,P\xf6stlberger Lukas,5,BORA - hansgrohe,,-,9,2017
+28,148,78,6.0,Teklehaimanot Daniel,6,Team Dimension Data,,-,9,2017
+27,147,76,7.0,Sbaragli Kristian,7,Team Dimension Data,,-,9,2017
+26,43,68,8.0,Dillier Silvan,8,BMC Racing Team,,-,9,2017
+27,219,60,9.0,Zhupa Eugert,9,Wilier Triestina - Selle Italia,,-,9,2017
+26,53,57,10.0,Bennett Sam,10,BORA - hansgrohe,,-,9,2017
+23,33,52,11.0,Andreetta Simone,11,Bardiani - CSF,,-,9,2017
+34,203,46,12.0,Ferrari Roberto,12,UAE Team Emirates,,-,9,2017
+28,59,43,13.0,Selig R\xfcdiger,13,BORA - hansgrohe,,-,9,2017
+28,196,43,14.0,Nizzolo Giacomo,14,Trek - Segafredo,,-,9,2017
+22,145,42,15.0,Gibbons Ryan,15,Team Dimension Data,,-,9,2017
+30,75,40,16.0,Paterski Maciej,16,CCC Sprandi Polkowice,,-,9,2017
+33,94,40,17.0,Kozonchuk Dmitry,17,Gazprom-RusVelo,,-,9,2017
+27,162,39,18.0,Battaglin Enrico,18,Team LottoNL-Jumbo,,-,9,2017
+25,98,36,19.0,Shalunov Evgeny,19,Gazprom-RusVelo,,-,9,2017
+23,216,35,20.0,Mareczko Jakub,20,Wilier Triestina - Selle Italia,,-,9,2017
+35,92,34,21.0,Brutt Pavel,21,Gazprom-RusVelo,,-,9,2017
+34,138,28,22.0,Richeze Ariel Maximiliano,22,Quick-Step Floors,,-,9,2017
+29,117,27,23.0,Izagirre Gorka,23,Movistar Team,,-,9,2017
+33,27,27,36.0,Sanchez Luis Leon,24,Astana Pro Team,,\u25b212,9,2017
+30,179,27,24.0,Thomas Geraint,25,Team Sky,,\u25bc1,9,2017
+22,182,25,25.0,Bauhaus Phil,26,Team Sunweb,,\u25bc1,9,2017
+26,81,24,42.0,Pinot Thibaut,27,FDJ,,\u25b215,9,2017
+32,1,24,37.0,Nibali Vincenzo,28,Bahrain Merida Pro Cycling Team,,\u25b29,9,2017
+24,131,24,26.0,Jungels Bob,29,Quick-Step Floors,,\u25bc3,9,2017
+28,141,24,27.0,Haas Nathan,30,Team Dimension Data,,\u25bc3,9,2017
+25,214,24,28.0,Fonzi Giuseppe,31,Wilier Triestina - Selle Italia,,\u25bc3,9,2017
+29,205,23,29.0,Modolo Sacha,32,UAE Team Emirates,,\u25bc3,9,2017
+26,181,22,41.0,Dumoulin Tom,33,Team Sunweb,,\u25b28,9,2017
+24,121,22,30.0,Yates Adam,34,ORICA-Scott,,\u25bc4,9,2017
+34,9,21,31.0,Visconti Giovanni,35,Bahrain Merida Pro Cycling Team,,\u25bc4,9,2017
+27,111,20,57.0,Quintana Nairo,36,Movistar Team,,\u25b221,9,2017
+25,209,20,32.0,Polanc Jan,37,UAE Team Emirates,,\u25bc5,9,2017
+30,69,20,33.0,Woods Michael,38,Cannondale-Drapac Pro Cycling Team,,\u25bc5,9,2017
+29,96,20,34.0,Rovny Ivan,39,Gazprom-RusVelo,,\u25bc5,9,2017
+26,215,20,35.0,Koshevoy Ilia,40,Wilier Triestina - Selle Italia,,\u25bc5,9,2017
+27,99,19,47.0,Tsatevich Alexey,41,Gazprom-RusVelo,,\u25b26,9,2017
+30,191,16,52.0,Mollema Bauke,42,Trek - Segafredo,,\u25b210,9,2017
+27,79,16,38.0,Tratnik Jan,43,CCC Sprandi Polkowice,,\u25bc5,9,2017
+27,151,15,43.0,Zakarin Ilnur,44,Team Katusha - Alpecin,,\u25bc1,9,2017
+27,156,14,39.0,Kuznetsov Viacheslav,45,Team Katusha - Alpecin,,\u25bc6,9,2017
+34,136,13,40.0,Keisse Iljo,46,Quick-Step Floors,,\u25bc6,9,2017
+34,8,12,44.0,Siutsou Kanstantsin,47,Bahrain Merida Pro Cycling Team,,\u25bc3,9,2017
+33,72,12,45.0,Bialoblocki Marcin,48,CCC Sprandi Polkowice,,\u25bc3,9,2017
+29,52,11,46.0,Benedetti Cesare,49,BORA - hansgrohe,,\u25bc3,9,2017
+24,202,10,48.0,Conti Valerio,50,UAE Team Emirates,,\u25bc2,9,2017
+26,185,10,49.0,Kelderman Wilco,51,Team Sunweb,,\u25bc2,9,2017
+27,74,10,50.0,Owsian Lukasz,52,CCC Sprandi Polkowice,,\u25bc2,9,2017
+21,197,10,51.0,Pedersen Mads,53,Trek - Segafredo,,\u25bc2,9,2017
+26,144,8,,Fraile Omar,54,Team Dimension Data,,-,9,2017
+32,22,6,54.0,Cataldo Dario,55,Astana Pro Team,,\u25bc1,9,2017
+30,201,6,53.0,Costa Rui,56,UAE Team Emirates,,\u25bc3,9,2017
+33,19,6,55.0,Montaguti Matteo,57,AG2R La Mondiale,,\u25bc2,9,2017
+23,56,6,56.0,M\xfchlberger Gregor,58,BORA - hansgrohe,,\u25bc2,9,2017
+34,11,5,,Pozzovivo Domenico,59,AG2R La Mondiale,,-,9,2017
+29,146,5,58.0,Janse van Rensburg Jacques,60,Team Dimension Data,,\u25bc2,9,2017
+29,161,4,59.0,Kruijswijk Steven,61,Team LottoNL-Jumbo,,\u25bc2,9,2017
+30,26,4,,Kangert Tanel,62,Astana Pro Team,,-,9,2017
+30,104,4,61.0,De Clercq Bart,63,Lotto Soudal,,\u25bc2,9,2017
+32,2,4,62.0,Agnoli Valerio,64,Bahrain Merida Pro Cycling Team,,\u25bc2,9,2017
+25,68,4,60.0,Villella Davide,65,Cannondale-Drapac Pro Cycling Team,,\u25bc5,9,2017
+26,149,4,63.0,Van Zyl Johann,66,Team Dimension Data,,\u25bc3,9,2017
+27,177,3,64.0,Puccio Salvatore,67,Team Sky,,\u25bc3,9,2017
+30,132,3,66.0,Capecchi Eros,68,Quick-Step Floors,,\u25bc2,9,2017
+32,194,3,65.0,Didier Laurent,69,Trek - Segafredo,,\u25bc4,9,2017
+28,139,3,68.0,Serry Pieter,70,Quick-Step Floors,,\u25bc2,9,2017
+32,51,3,67.0,B\xe1rta Jan,71,BORA - hansgrohe,,\u25bc4,9,2017
+27,87,2,,Reichenbach Sebastien,72,FDJ,,-,9,2017
+34,142,2,69.0,Anton Igor,73,Team Dimension Data,,\u25bc4,9,2017
+30,76,2,70.0,Ponzi Simone,74,CCC Sprandi Polkowice,,\u25bc4,9,2017
+23,103,2,71.0,de Buyst Jasper,75,Lotto Soudal,,\u25bc4,9,2017
+27,125,2,72.0,Juul-Jensen Christopher,76,ORICA-Scott,,\u25bc4,9,2017
+40,128,2,73.0,Tuft Svein,77,ORICA-Scott,,\u25bc4,9,2017
+20,32,2,74.0,Albanese Vincenzo,78,Bardiani - CSF,,\u25bc4,9,2017
+24,64,1,,Formolo Davide,79,Cannondale-Drapac Pro Cycling Team,,-,9,2017
+30,112,1,75.0,Amador Andrey,80,Movistar Team,,\u25bc5,9,2017
+25,54,1,76.0,Konrad Patrick,81,BORA - hansgrohe,,\u25bc5,9,2017
+35,49,1,77.0,Ventoso Francisco,82,BMC Racing Team,,\u25bc5,9,2017
+37,101,1,78.0,Bak Lars Ytting,83,Lotto Soudal,,\u25bc5,9,2017
+33,134,1,79.0,Devenyns Dries,84,Quick-Step Floors,,\u25bc5,9,2017
+29,213,1,,Busato Matteo,85,Wilier Triestina - Selle Italia,,-,9,2017
+33,204,1,,Marcato Marco,86,UAE Team Emirates,,-,9,2017
+22,135,191,1.0,Gaviria Fernando,1,Quick-Step Floors,,-,10,2017
+25,199,160,2.0,Stuyven Jasper,2,Trek - Segafredo,,-,10,2017
+34,100,129,3.0,Greipel Andr\xe9,3,Lotto Soudal,,-,10,2017
+22,123,100,4.0,Ewan Caleb,4,ORICA-Scott,,-,10,2017
+25,58,98,5.0,P\xf6stlberger Lukas,5,BORA - hansgrohe,,-,10,2017
+28,148,78,6.0,Teklehaimanot Daniel,6,Team Dimension Data,,-,10,2017
+27,147,76,7.0,Sbaragli Kristian,7,Team Dimension Data,,-,10,2017
+26,43,68,8.0,Dillier Silvan,8,BMC Racing Team,,-,10,2017
+27,219,60,9.0,Zhupa Eugert,9,Wilier Triestina - Selle Italia,,-,10,2017
+26,53,57,10.0,Bennett Sam,10,BORA - hansgrohe,,-,10,2017
+23,33,52,11.0,Andreetta Simone,11,Bardiani - CSF,,-,10,2017
+34,203,46,12.0,Ferrari Roberto,12,UAE Team Emirates,,-,10,2017
+28,59,43,13.0,Selig R\xfcdiger,13,BORA - hansgrohe,,-,10,2017
+28,196,43,14.0,Nizzolo Giacomo,14,Trek - Segafredo,,-,10,2017
+22,145,42,15.0,Gibbons Ryan,15,Team Dimension Data,,-,10,2017
+30,75,40,16.0,Paterski Maciej,16,CCC Sprandi Polkowice,,-,10,2017
+33,94,40,17.0,Kozonchuk Dmitry,17,Gazprom-RusVelo,,-,10,2017
+30,179,39,25.0,Thomas Geraint,18,Team Sky,,\u25b27,10,2017
+27,162,39,18.0,Battaglin Enrico,19,Team LottoNL-Jumbo,,\u25bc1,10,2017
+26,181,37,33.0,Dumoulin Tom,20,Team Sunweb,,\u25b213,10,2017
+25,98,36,19.0,Shalunov Evgeny,21,Gazprom-RusVelo,,\u25bc2,10,2017
+23,216,35,20.0,Mareczko Jakub,22,Wilier Triestina - Selle Italia,,\u25bc2,10,2017
+35,92,34,21.0,Brutt Pavel,23,Gazprom-RusVelo,,\u25bc2,10,2017
+33,27,34,24.0,Sanchez Luis Leon,24,Astana Pro Team,,-,10,2017
+24,131,33,29.0,Jungels Bob,25,Quick-Step Floors,,\u25b24,10,2017
+32,1,29,28.0,Nibali Vincenzo,26,Bahrain Merida Pro Cycling Team,,\u25b22,10,2017
+34,138,28,22.0,Richeze Ariel Maximiliano,27,Quick-Step Floors,,\u25bc5,10,2017
+29,117,27,23.0,Izagirre Gorka,28,Movistar Team,,\u25bc5,10,2017
+22,182,25,26.0,Bauhaus Phil,29,Team Sunweb,,\u25bc3,10,2017
+26,81,24,27.0,Pinot Thibaut,30,FDJ,,\u25bc3,10,2017
+28,141,24,30.0,Haas Nathan,31,Team Dimension Data,,\u25bc1,10,2017
+25,214,24,31.0,Fonzi Giuseppe,32,Wilier Triestina - Selle Italia,,\u25bc1,10,2017
+29,205,23,32.0,Modolo Sacha,33,UAE Team Emirates,,\u25bc1,10,2017
+24,121,22,34.0,Yates Adam,34,ORICA-Scott,,-,10,2017
+34,9,21,35.0,Visconti Giovanni,35,Bahrain Merida Pro Cycling Team,,-,10,2017
+27,111,20,36.0,Quintana Nairo,36,Movistar Team,,-,10,2017
+25,209,20,37.0,Polanc Jan,37,UAE Team Emirates,,-,10,2017
+30,69,20,38.0,Woods Michael,38,Cannondale-Drapac Pro Cycling Team,,-,10,2017
+29,96,20,39.0,Rovny Ivan,39,Gazprom-RusVelo,,-,10,2017
+26,215,20,40.0,Koshevoy Ilia,40,Wilier Triestina - Selle Italia,,-,10,2017
+27,99,19,41.0,Tsatevich Alexey,41,Gazprom-RusVelo,,-,10,2017
+30,191,17,42.0,Mollema Bauke,42,Trek - Segafredo,,-,10,2017
+27,79,16,43.0,Tratnik Jan,43,CCC Sprandi Polkowice,,-,10,2017
+27,151,15,44.0,Zakarin Ilnur,44,Team Katusha - Alpecin,,-,10,2017
+27,156,14,45.0,Kuznetsov Viacheslav,45,Team Katusha - Alpecin,,-,10,2017
+34,136,13,46.0,Keisse Iljo,46,Quick-Step Floors,,-,10,2017
+34,8,12,47.0,Siutsou Kanstantsin,47,Bahrain Merida Pro Cycling Team,,-,10,2017
+33,72,12,48.0,Bialoblocki Marcin,48,CCC Sprandi Polkowice,,-,10,2017
+29,52,11,49.0,Benedetti Cesare,49,BORA - hansgrohe,,-,10,2017
+24,202,10,50.0,Conti Valerio,50,UAE Team Emirates,,-,10,2017
+27,74,10,52.0,Owsian Lukasz,51,CCC Sprandi Polkowice,,\u25b21,10,2017
+21,197,10,53.0,Pedersen Mads,52,Trek - Segafredo,,\u25b21,10,2017
+26,144,8,54.0,Fraile Omar,53,Team Dimension Data,,\u25b21,10,2017
+32,22,6,55.0,Cataldo Dario,54,Astana Pro Team,,\u25b21,10,2017
+30,201,6,56.0,Costa Rui,55,UAE Team Emirates,,\u25b21,10,2017
+33,19,6,57.0,Montaguti Matteo,56,AG2R La Mondiale,,\u25b21,10,2017
+23,56,6,58.0,M\xfchlberger Gregor,57,BORA - hansgrohe,,\u25b21,10,2017
+35,176,6,,Kiryienka Vasil,58,Team Sky,,-,10,2017
+34,11,5,59.0,Pozzovivo Domenico,59,AG2R La Mondiale,,-,10,2017
+29,146,5,60.0,Janse van Rensburg Jacques,60,Team Dimension Data,,-,10,2017
+29,161,4,61.0,Kruijswijk Steven,61,Team LottoNL-Jumbo,,-,10,2017
+30,26,4,62.0,Kangert Tanel,62,Astana Pro Team,,-,10,2017
+34,109,4,,Monfort Maxime,63,Lotto Soudal,,-,10,2017
+30,104,4,63.0,De Clercq Bart,64,Lotto Soudal,,\u25bc1,10,2017
+25,68,4,65.0,Villella Davide,65,Cannondale-Drapac Pro Cycling Team,,-,10,2017
+32,2,4,64.0,Agnoli Valerio,66,Bahrain Merida Pro Cycling Team,,\u25bc2,10,2017
+26,149,4,66.0,Van Zyl Johann,67,Team Dimension Data,,\u25bc1,10,2017
+30,112,3,80.0,Amador Andrey,68,Movistar Team,,\u25b212,10,2017
+27,177,3,67.0,Puccio Salvatore,69,Team Sky,,\u25bc2,10,2017
+30,132,3,68.0,Capecchi Eros,70,Quick-Step Floors,,\u25bc2,10,2017
+32,194,3,69.0,Didier Laurent,71,Trek - Segafredo,,\u25bc2,10,2017
+32,169,3,,van Emden Jos,72,Team LottoNL-Jumbo,,-,10,2017
+28,139,3,70.0,Serry Pieter,73,Quick-Step Floors,,\u25bc3,10,2017
+32,51,3,71.0,B\xe1rta Jan,74,BORA - hansgrohe,,\u25bc3,10,2017
+27,87,2,72.0,Reichenbach Sebastien,75,FDJ,,\u25bc3,10,2017
+34,142,2,73.0,Anton Igor,76,Team Dimension Data,,\u25bc3,10,2017
+30,76,2,74.0,Ponzi Simone,77,CCC Sprandi Polkowice,,\u25bc3,10,2017
+23,103,2,75.0,de Buyst Jasper,78,Lotto Soudal,,\u25bc3,10,2017
+27,125,2,76.0,Juul-Jensen Christopher,79,ORICA-Scott,,\u25bc3,10,2017
+40,128,2,77.0,Tuft Svein,80,ORICA-Scott,,\u25bc3,10,2017
+20,32,2,78.0,Albanese Vincenzo,81,Bardiani - CSF,,\u25bc3,10,2017
+24,64,1,79.0,Formolo Davide,82,Cannondale-Drapac Pro Cycling Team,,\u25bc3,10,2017
+25,54,1,81.0,Konrad Patrick,83,BORA - hansgrohe,,\u25bc2,10,2017
+35,49,1,82.0,Ventoso Francisco,84,BMC Racing Team,,\u25bc2,10,2017
+37,101,1,83.0,Bak Lars Ytting,85,Lotto Soudal,,\u25bc2,10,2017
+33,134,1,84.0,Devenyns Dries,86,Quick-Step Floors,,\u25bc2,10,2017
+29,213,1,85.0,Busato Matteo,87,Wilier Triestina - Selle Italia,,\u25bc2,10,2017
+33,204,1,86.0,Marcato Marco,88,UAE Team Emirates,,\u25bc2,10,2017
+22,135,191,1.0,Gaviria Fernando,1,Quick-Step Floors,,-,11,2017
+25,199,160,2.0,Stuyven Jasper,2,Trek - Segafredo,,-,11,2017
+34,100,129,3.0,Greipel Andr\xe9,3,Lotto Soudal,,-,11,2017
+22,123,100,4.0,Ewan Caleb,4,ORICA-Scott,,-,11,2017
+25,58,98,5.0,P\xf6stlberger Lukas,5,BORA - hansgrohe,,-,11,2017
+28,148,78,6.0,Teklehaimanot Daniel,6,Team Dimension Data,,-,11,2017
+27,147,76,7.0,Sbaragli Kristian,7,Team Dimension Data,,-,11,2017
+26,43,68,8.0,Dillier Silvan,8,BMC Racing Team,,-,11,2017
+27,219,60,9.0,Zhupa Eugert,9,Wilier Triestina - Selle Italia,,-,11,2017
+26,53,57,10.0,Bennett Sam,10,BORA - hansgrohe,,-,11,2017
+23,33,52,11.0,Andreetta Simone,11,Bardiani - CSF,,-,11,2017
+34,203,46,12.0,Ferrari Roberto,12,UAE Team Emirates,,-,11,2017
+28,59,43,13.0,Selig R\xfcdiger,13,BORA - hansgrohe,,-,11,2017
+22,145,42,15.0,Gibbons Ryan,14,Team Dimension Data,,\u25b21,11,2017
+30,75,40,16.0,Paterski Maciej,15,CCC Sprandi Polkowice,,\u25b21,11,2017
+33,94,40,17.0,Kozonchuk Dmitry,16,Gazprom-RusVelo,,\u25b21,11,2017
+30,179,39,18.0,Thomas Geraint,17,Team Sky,,\u25b21,11,2017
+27,162,39,19.0,Battaglin Enrico,18,Team LottoNL-Jumbo,,\u25b21,11,2017
+26,181,37,20.0,Dumoulin Tom,19,Team Sunweb,,\u25b21,11,2017
+25,98,36,21.0,Shalunov Evgeny,20,Gazprom-RusVelo,,\u25b21,11,2017
+23,216,35,22.0,Mareczko Jakub,21,Wilier Triestina - Selle Italia,,\u25b21,11,2017
+35,92,34,23.0,Brutt Pavel,22,Gazprom-RusVelo,,\u25b21,11,2017
+33,27,34,24.0,Sanchez Luis Leon,23,Astana Pro Team,,\u25b21,11,2017
+24,131,33,25.0,Jungels Bob,24,Quick-Step Floors,,\u25b21,11,2017
+32,1,29,26.0,Nibali Vincenzo,25,Bahrain Merida Pro Cycling Team,,\u25b21,11,2017
+34,138,28,27.0,Richeze Ariel Maximiliano,26,Quick-Step Floors,,\u25b21,11,2017
+26,144,27,53.0,Fraile Omar,27,Team Dimension Data,,\u25b226,11,2017
+29,117,27,28.0,Izagirre Gorka,28,Movistar Team,,-,11,2017
+34,9,27,35.0,Visconti Giovanni,29,Bahrain Merida Pro Cycling Team,,\u25b26,11,2017
+22,182,25,29.0,Bauhaus Phil,30,Team Sunweb,,\u25bc1,11,2017
+26,81,24,30.0,Pinot Thibaut,31,FDJ,,\u25bc1,11,2017
+25,214,24,32.0,Fonzi Giuseppe,32,Wilier Triestina - Selle Italia,,-,11,2017
+29,205,23,33.0,Modolo Sacha,33,UAE Team Emirates,,-,11,2017
+24,121,22,34.0,Yates Adam,34,ORICA-Scott,,-,11,2017
+27,111,20,36.0,Quintana Nairo,35,Movistar Team,,\u25b21,11,2017
+25,209,20,37.0,Polanc Jan,36,UAE Team Emirates,,\u25b21,11,2017
+30,69,20,38.0,Woods Michael,37,Cannondale-Drapac Pro Cycling Team,,\u25b21,11,2017
+29,96,20,39.0,Rovny Ivan,38,Gazprom-RusVelo,,\u25b21,11,2017
+26,215,20,40.0,Koshevoy Ilia,39,Wilier Triestina - Selle Italia,,\u25b21,11,2017
+27,99,19,41.0,Tsatevich Alexey,40,Gazprom-RusVelo,,\u25b21,11,2017
+30,201,18,55.0,Costa Rui,41,UAE Team Emirates,,\u25b214,11,2017
+30,191,17,42.0,Mollema Bauke,42,Trek - Segafredo,,-,11,2017
+27,79,16,43.0,Tratnik Jan,43,CCC Sprandi Polkowice,,-,11,2017
+27,151,15,44.0,Zakarin Ilnur,44,Team Katusha - Alpecin,,-,11,2017
+27,156,14,45.0,Kuznetsov Viacheslav,45,Team Katusha - Alpecin,,-,11,2017
+34,136,13,46.0,Keisse Iljo,46,Quick-Step Floors,,-,11,2017
+34,8,12,47.0,Siutsou Kanstantsin,47,Bahrain Merida Pro Cycling Team,,-,11,2017
+33,72,12,48.0,Bialoblocki Marcin,48,CCC Sprandi Polkowice,,-,11,2017
+30,26,11,62.0,Kangert Tanel,49,Astana Pro Team,,\u25b213,11,2017
+29,52,11,49.0,Benedetti Cesare,50,BORA - hansgrohe,,\u25bc1,11,2017
+24,202,10,50.0,Conti Valerio,51,UAE Team Emirates,,\u25bc1,11,2017
+34,142,10,76.0,Anton Igor,52,Team Dimension Data,,\u25b224,11,2017
+32,22,10,54.0,Cataldo Dario,53,Astana Pro Team,,\u25b21,11,2017
+27,74,10,51.0,Owsian Lukasz,54,CCC Sprandi Polkowice,,\u25bc3,11,2017
+21,197,10,52.0,Pedersen Mads,55,Trek - Segafredo,,\u25bc3,11,2017
+30,61,9,,Rolland Pierre,56,Cannondale-Drapac Pro Cycling Team,,-,11,2017
+27,171,8,,Landa Mikel,57,Team Sky,,-,11,2017
+34,109,6,63.0,Monfort Maxime,58,Lotto Soudal,,\u25b25,11,2017
+33,19,6,56.0,Montaguti Matteo,59,AG2R La Mondiale,,\u25bc3,11,2017
+23,56,6,57.0,M\xfchlberger Gregor,60,BORA - hansgrohe,,\u25bc3,11,2017
+35,176,6,58.0,Kiryienka Vasil,61,Team Sky,,\u25bc3,11,2017
+34,11,5,59.0,Pozzovivo Domenico,62,AG2R La Mondiale,,\u25bc3,11,2017
+30,44,5,,Hermans Ben,63,BMC Racing Team,,-,11,2017
+29,146,5,60.0,Janse van Rensburg Jacques,64,Team Dimension Data,,\u25bc4,11,2017
+29,161,4,61.0,Kruijswijk Steven,65,Team LottoNL-Jumbo,,\u25bc4,11,2017
+30,104,4,64.0,De Clercq Bart,66,Lotto Soudal,,\u25bc2,11,2017
+25,68,4,65.0,Villella Davide,67,Cannondale-Drapac Pro Cycling Team,,\u25bc2,11,2017
+32,2,4,66.0,Agnoli Valerio,68,Bahrain Merida Pro Cycling Team,,\u25bc2,11,2017
+26,149,4,67.0,Van Zyl Johann,69,Team Dimension Data,,\u25bc2,11,2017
+30,112,3,68.0,Amador Andrey,70,Movistar Team,,\u25bc2,11,2017
+24,208,3,,Petilli Simone,71,UAE Team Emirates,,-,11,2017
+30,132,3,70.0,Capecchi Eros,72,Quick-Step Floors,,\u25bc2,11,2017
+27,177,3,69.0,Puccio Salvatore,73,Team Sky,,\u25bc4,11,2017
+32,169,3,72.0,van Emden Jos,74,Team LottoNL-Jumbo,,\u25bc2,11,2017
+28,139,3,73.0,Serry Pieter,75,Quick-Step Floors,,\u25bc2,11,2017
+32,51,3,74.0,B\xe1rta Jan,76,BORA - hansgrohe,,\u25bc2,11,2017
+27,87,2,75.0,Reichenbach Sebastien,77,FDJ,,\u25bc2,11,2017
+27,125,2,79.0,Juul-Jensen Christopher,78,ORICA-Scott,,\u25b21,11,2017
+30,76,2,77.0,Ponzi Simone,79,CCC Sprandi Polkowice,,\u25bc2,11,2017
+23,103,2,78.0,de Buyst Jasper,80,Lotto Soudal,,\u25bc2,11,2017
+40,128,2,80.0,Tuft Svein,81,ORICA-Scott,,\u25bc1,11,2017
+20,32,2,81.0,Albanese Vincenzo,82,Bardiani - CSF,,\u25bc1,11,2017
+24,64,1,82.0,Formolo Davide,83,Cannondale-Drapac Pro Cycling Team,,\u25bc1,11,2017
+36,15,1,,Dupont Hubert,84,AG2R La Mondiale,,-,11,2017
+21,133,1,,De Plus Laurens,85,Quick-Step Floors,,-,11,2017
+25,54,1,83.0,Konrad Patrick,86,BORA - hansgrohe,,\u25bc3,11,2017
+33,107,1,,Marczynski Tomasz,87,Lotto Soudal,,-,11,2017
+33,134,1,86.0,Devenyns Dries,88,Quick-Step Floors,,\u25bc2,11,2017
+35,49,1,84.0,Ventoso Francisco,89,BMC Racing Team,,\u25bc5,11,2017
+29,213,1,87.0,Busato Matteo,90,Wilier Triestina - Selle Italia,,\u25bc3,11,2017
+37,101,1,85.0,Bak Lars Ytting,91,Lotto Soudal,,\u25bc6,11,2017
+33,204,1,88.0,Marcato Marco,92,UAE Team Emirates,,\u25bc4,11,2017
+22,135,247,1.0,Gaviria Fernando,1,Quick-Step Floors,,-,12,2017
+25,199,167,2.0,Stuyven Jasper,2,Trek - Segafredo,,-,12,2017
+34,100,137,3.0,Greipel Andr\xe9,3,Lotto Soudal,,-,12,2017
+22,123,100,4.0,Ewan Caleb,4,ORICA-Scott,,-,12,2017
+25,58,98,5.0,P\xf6stlberger Lukas,5,BORA - hansgrohe,,-,12,2017
+26,53,82,10.0,Bennett Sam,6,BORA - hansgrohe,,\u25b24,12,2017
+28,148,78,6.0,Teklehaimanot Daniel,7,Team Dimension Data,,\u25bc1,12,2017
+27,147,76,7.0,Sbaragli Kristian,8,Team Dimension Data,,\u25bc1,12,2017
+23,216,70,21.0,Mareczko Jakub,9,Wilier Triestina - Selle Italia,,\u25b212,12,2017
+26,43,68,8.0,Dillier Silvan,10,BMC Racing Team,,\u25bc2,12,2017
+27,219,60,9.0,Zhupa Eugert,11,Wilier Triestina - Selle Italia,,\u25bc2,12,2017
+22,145,54,14.0,Gibbons Ryan,12,Team Dimension Data,,\u25b22,12,2017
+34,203,52,12.0,Ferrari Roberto,13,UAE Team Emirates,,\u25bc1,12,2017
+23,33,52,11.0,Andreetta Simone,14,Bardiani - CSF,,\u25bc3,12,2017
+34,138,46,26.0,Richeze Ariel Maximiliano,15,Quick-Step Floors,,\u25b211,12,2017
+28,59,44,13.0,Selig R\xfcdiger,16,BORA - hansgrohe,,\u25bc3,12,2017
+22,182,43,30.0,Bauhaus Phil,17,Team Sunweb,,\u25b213,12,2017
+30,75,42,15.0,Paterski Maciej,18,CCC Sprandi Polkowice,,\u25bc3,12,2017
+33,94,40,16.0,Kozonchuk Dmitry,19,Gazprom-RusVelo,,\u25bc3,12,2017
+30,179,39,17.0,Thomas Geraint,20,Team Sky,,\u25bc3,12,2017
+27,162,39,18.0,Battaglin Enrico,21,Team LottoNL-Jumbo,,\u25bc3,12,2017
+26,181,37,19.0,Dumoulin Tom,22,Team Sunweb,,\u25bc3,12,2017
+25,98,36,20.0,Shalunov Evgeny,23,Gazprom-RusVelo,,\u25bc3,12,2017
+35,92,34,22.0,Brutt Pavel,24,Gazprom-RusVelo,,\u25bc2,12,2017
+33,27,34,23.0,Sanchez Luis Leon,25,Astana Pro Team,,\u25bc2,12,2017
+33,204,33,92.0,Marcato Marco,26,UAE Team Emirates,,\u25b266,12,2017
+24,131,33,24.0,Jungels Bob,27,Quick-Step Floors,,\u25bc3,12,2017
+29,205,33,33.0,Modolo Sacha,28,UAE Team Emirates,,\u25b25,12,2017
+25,37,32,,Maestri Mirco,29,Bardiani - CSF,,-,12,2017
+32,1,29,25.0,Nibali Vincenzo,30,Bahrain Merida Pro Cycling Team,,\u25bc5,12,2017
+26,144,27,27.0,Fraile Omar,31,Team Dimension Data,,\u25bc4,12,2017
+29,117,27,28.0,Izagirre Gorka,32,Movistar Team,,\u25bc4,12,2017
+34,9,27,29.0,Visconti Giovanni,33,Bahrain Merida Pro Cycling Team,,\u25bc4,12,2017
+26,81,24,31.0,Pinot Thibaut,34,FDJ,,\u25bc3,12,2017
+25,214,24,32.0,Fonzi Giuseppe,35,Wilier Triestina - Selle Italia,,\u25bc3,12,2017
+24,121,22,34.0,Yates Adam,36,ORICA-Scott,,\u25bc2,12,2017
+27,99,22,40.0,Tsatevich Alexey,37,Gazprom-RusVelo,,\u25b23,12,2017
+27,111,20,35.0,Quintana Nairo,38,Movistar Team,,\u25bc3,12,2017
+25,209,20,36.0,Polanc Jan,39,UAE Team Emirates,,\u25bc3,12,2017
+30,69,20,37.0,Woods Michael,40,Cannondale-Drapac Pro Cycling Team,,\u25bc3,12,2017
+29,96,20,38.0,Rovny Ivan,41,Gazprom-RusVelo,,\u25bc3,12,2017
+26,215,20,39.0,Koshevoy Ilia,42,Wilier Triestina - Selle Italia,,\u25bc3,12,2017
+30,201,18,41.0,Costa Rui,43,UAE Team Emirates,,\u25bc2,12,2017
+27,156,18,45.0,Kuznetsov Viacheslav,44,Team Katusha - Alpecin,,\u25b21,12,2017
+30,191,17,42.0,Mollema Bauke,45,Trek - Segafredo,,\u25bc3,12,2017
+34,136,16,46.0,Keisse Iljo,46,Quick-Step Floors,,-,12,2017
+34,91,16,,Firsanov Sergey,47,Gazprom-RusVelo,,-,12,2017
+27,79,16,43.0,Tratnik Jan,48,CCC Sprandi Polkowice,,\u25bc5,12,2017
+27,151,15,44.0,Zakarin Ilnur,49,Team Katusha - Alpecin,,\u25bc5,12,2017
+34,8,12,47.0,Siutsou Kanstantsin,50,Bahrain Merida Pro Cycling Team,,\u25bc3,12,2017
+33,72,12,48.0,Bialoblocki Marcin,51,CCC Sprandi Polkowice,,\u25bc3,12,2017
+30,26,11,49.0,Kangert Tanel,52,Astana Pro Team,,\u25bc3,12,2017
+29,52,11,50.0,Benedetti Cesare,53,BORA - hansgrohe,,\u25bc3,12,2017
+24,202,10,51.0,Conti Valerio,54,UAE Team Emirates,,\u25bc3,12,2017
+34,142,10,52.0,Anton Igor,55,Team Dimension Data,,\u25bc3,12,2017
+32,22,10,53.0,Cataldo Dario,56,Astana Pro Team,,\u25bc3,12,2017
+27,74,10,54.0,Owsian Lukasz,57,CCC Sprandi Polkowice,,\u25bc3,12,2017
+21,197,10,55.0,Pedersen Mads,58,Trek - Segafredo,,\u25bc3,12,2017
+30,61,9,56.0,Rolland Pierre,59,Cannondale-Drapac Pro Cycling Team,,\u25bc3,12,2017
+27,171,8,57.0,Landa Mikel,60,Team Sky,,\u25bc3,12,2017
+34,109,6,58.0,Monfort Maxime,61,Lotto Soudal,,\u25bc3,12,2017
+33,19,6,59.0,Montaguti Matteo,62,AG2R La Mondiale,,\u25bc3,12,2017
+23,56,6,60.0,M\xfchlberger Gregor,63,BORA - hansgrohe,,\u25bc3,12,2017
+35,176,6,61.0,Kiryienka Vasil,64,Team Sky,,\u25bc3,12,2017
+34,11,5,62.0,Pozzovivo Domenico,65,AG2R La Mondiale,,\u25bc3,12,2017
+30,44,5,63.0,Hermans Ben,66,BMC Racing Team,,\u25bc3,12,2017
+29,146,5,64.0,Janse van Rensburg Jacques,67,Team Dimension Data,,\u25bc3,12,2017
+27,34,5,,Barbin Enrico,68,Bardiani - CSF,,-,12,2017
+29,161,4,65.0,Kruijswijk Steven,69,Team LottoNL-Jumbo,,\u25bc4,12,2017
+30,132,4,72.0,Capecchi Eros,70,Quick-Step Floors,,\u25b22,12,2017
+30,104,4,66.0,De Clercq Bart,71,Lotto Soudal,,\u25bc5,12,2017
+25,68,4,67.0,Villella Davide,72,Cannondale-Drapac Pro Cycling Team,,\u25bc5,12,2017
+32,2,4,68.0,Agnoli Valerio,73,Bahrain Merida Pro Cycling Team,,\u25bc5,12,2017
+26,149,4,69.0,Van Zyl Johann,74,Team Dimension Data,,\u25bc5,12,2017
+30,112,3,70.0,Amador Andrey,75,Movistar Team,,\u25bc5,12,2017
+24,208,3,71.0,Petilli Simone,76,UAE Team Emirates,,\u25bc5,12,2017
+27,177,3,73.0,Puccio Salvatore,77,Team Sky,,\u25bc4,12,2017
+32,169,3,74.0,van Emden Jos,78,Team LottoNL-Jumbo,,\u25bc4,12,2017
+28,139,3,75.0,Serry Pieter,79,Quick-Step Floors,,\u25bc4,12,2017
+32,51,3,76.0,B\xe1rta Jan,80,BORA - hansgrohe,,\u25bc4,12,2017
+27,87,2,77.0,Reichenbach Sebastien,81,FDJ,,\u25bc4,12,2017
+30,76,2,79.0,Ponzi Simone,82,CCC Sprandi Polkowice,,\u25bc3,12,2017
+23,103,2,80.0,de Buyst Jasper,83,Lotto Soudal,,\u25bc3,12,2017
+27,125,2,78.0,Juul-Jensen Christopher,84,ORICA-Scott,,\u25bc6,12,2017
+40,128,2,81.0,Tuft Svein,85,ORICA-Scott,,\u25bc4,12,2017
+23,137,2,,Martinelli Davide,86,Quick-Step Floors,,-,12,2017
+20,32,2,82.0,Albanese Vincenzo,87,Bardiani - CSF,,\u25bc5,12,2017
+24,64,1,83.0,Formolo Davide,88,Cannondale-Drapac Pro Cycling Team,,\u25bc5,12,2017
+36,15,1,84.0,Dupont Hubert,89,AG2R La Mondiale,,\u25bc5,12,2017
+21,133,1,85.0,De Plus Laurens,90,Quick-Step Floors,,\u25bc5,12,2017
+25,54,1,86.0,Konrad Patrick,91,BORA - hansgrohe,,\u25bc5,12,2017
+33,107,1,87.0,Marczynski Tomasz,92,Lotto Soudal,,\u25bc5,12,2017
+33,134,1,88.0,Devenyns Dries,93,Quick-Step Floors,,\u25bc5,12,2017
+35,49,1,89.0,Ventoso Francisco,94,BMC Racing Team,,\u25bc5,12,2017
+29,213,1,90.0,Busato Matteo,95,Wilier Triestina - Selle Italia,,\u25bc5,12,2017
+37,101,1,91.0,Bak Lars Ytting,96,Lotto Soudal,,\u25bc5,12,2017
+22,135,315,1.0,Gaviria Fernando,1,Quick-Step Floors,,-,13,2017
+25,199,192,2.0,Stuyven Jasper,2,Trek - Segafredo,,-,13,2017
+34,100,144,3.0,Greipel Andr\xe9,3,Lotto Soudal,,-,13,2017
+26,53,117,6.0,Bennett Sam,4,BORA - hansgrohe,,\u25b22,13,2017
+22,123,108,4.0,Ewan Caleb,5,ORICA-Scott,,\u25bc1,13,2017
+25,58,98,5.0,P\xf6stlberger Lukas,6,BORA - hansgrohe,,\u25bc1,13,2017
+28,148,86,7.0,Teklehaimanot Daniel,7,Team Dimension Data,,-,13,2017
+27,147,76,8.0,Sbaragli Kristian,8,Team Dimension Data,,-,13,2017
+23,216,73,9.0,Mareczko Jakub,9,Wilier Triestina - Selle Italia,,-,13,2017
+34,203,70,13.0,Ferrari Roberto,10,UAE Team Emirates,,\u25b23,13,2017
+26,43,68,10.0,Dillier Silvan,11,BMC Racing Team,,\u25bc1,13,2017
+22,145,68,12.0,Gibbons Ryan,12,Team Dimension Data,,-,13,2017
+35,92,66,24.0,Brutt Pavel,13,Gazprom-RusVelo,,\u25b211,13,2017
+27,219,60,11.0,Zhupa Eugert,14,Wilier Triestina - Selle Italia,,\u25bc3,13,2017
+28,59,56,16.0,Selig R\xfcdiger,15,BORA - hansgrohe,,\u25b21,13,2017
+23,33,52,14.0,Andreetta Simone,16,Bardiani - CSF,,\u25bc2,13,2017
+34,138,50,15.0,Richeze Ariel Maximiliano,17,Quick-Step Floors,,\u25bc2,13,2017
+22,182,48,17.0,Bauhaus Phil,18,Team Sunweb,,\u25bc1,13,2017
+29,205,43,28.0,Modolo Sacha,19,UAE Team Emirates,,\u25b29,13,2017
+30,75,42,18.0,Paterski Maciej,20,CCC Sprandi Polkowice,,\u25bc2,13,2017
+33,94,40,19.0,Kozonchuk Dmitry,21,Gazprom-RusVelo,,\u25bc2,13,2017
+27,162,39,21.0,Battaglin Enrico,22,Team LottoNL-Jumbo,,\u25bc1,13,2017
+26,181,37,22.0,Dumoulin Tom,23,Team Sunweb,,\u25bc1,13,2017
+25,98,36,23.0,Shalunov Evgeny,24,Gazprom-RusVelo,,\u25bc1,13,2017
+33,27,34,25.0,Sanchez Luis Leon,25,Astana Pro Team,,-,13,2017
+33,204,33,26.0,Marcato Marco,26,UAE Team Emirates,,-,13,2017
+24,131,33,27.0,Jungels Bob,27,Quick-Step Floors,,-,13,2017
+25,37,32,29.0,Maestri Mirco,28,Bardiani - CSF,,\u25b21,13,2017
+20,32,30,87.0,Albanese Vincenzo,29,Bardiani - CSF,,\u25b258,13,2017
+32,1,29,30.0,Nibali Vincenzo,30,Bahrain Merida Pro Cycling Team,,-,13,2017
+26,144,27,31.0,Fraile Omar,31,Team Dimension Data,,-,13,2017
+29,117,27,32.0,Izagirre Gorka,32,Movistar Team,,-,13,2017
+34,9,27,33.0,Visconti Giovanni,33,Bahrain Merida Pro Cycling Team,,-,13,2017
+26,81,24,34.0,Pinot Thibaut,34,FDJ,,-,13,2017
+27,156,24,44.0,Kuznetsov Viacheslav,35,Team Katusha - Alpecin,,\u25b29,13,2017
+25,214,24,35.0,Fonzi Giuseppe,36,Wilier Triestina - Selle Italia,,\u25bc1,13,2017
+24,121,22,36.0,Yates Adam,37,ORICA-Scott,,\u25bc1,13,2017
+27,99,22,37.0,Tsatevich Alexey,38,Gazprom-RusVelo,,\u25bc1,13,2017
+26,215,21,42.0,Koshevoy Ilia,39,Wilier Triestina - Selle Italia,,\u25b23,13,2017
+27,111,20,38.0,Quintana Nairo,40,Movistar Team,,\u25bc2,13,2017
+25,209,20,39.0,Polanc Jan,41,UAE Team Emirates,,\u25bc2,13,2017
+34,136,20,46.0,Keisse Iljo,42,Quick-Step Floors,,\u25b24,13,2017
+30,69,20,40.0,Woods Michael,43,Cannondale-Drapac Pro Cycling Team,,\u25bc3,13,2017
+29,96,20,41.0,Rovny Ivan,44,Gazprom-RusVelo,,\u25bc3,13,2017
+22,206,20,,Mohoric Matej,45,UAE Team Emirates,,-,13,2017
+30,201,18,43.0,Costa Rui,46,UAE Team Emirates,,\u25bc3,13,2017
+30,191,17,45.0,Mollema Bauke,47,Trek - Segafredo,,\u25bc2,13,2017
+34,91,16,47.0,Firsanov Sergey,48,Gazprom-RusVelo,,\u25bc1,13,2017
+27,79,16,48.0,Tratnik Jan,49,CCC Sprandi Polkowice,,\u25bc1,13,2017
+27,151,15,49.0,Zakarin Ilnur,50,Team Katusha - Alpecin,,\u25bc1,13,2017
+34,8,12,50.0,Siutsou Kanstantsin,51,Bahrain Merida Pro Cycling Team,,\u25bc1,13,2017
+33,72,12,51.0,Bialoblocki Marcin,52,CCC Sprandi Polkowice,,\u25bc1,13,2017
+24,202,11,54.0,Conti Valerio,53,UAE Team Emirates,,\u25b21,13,2017
+30,26,11,52.0,Kangert Tanel,54,Astana Pro Team,,\u25bc2,13,2017
+29,52,11,53.0,Benedetti Cesare,55,BORA - hansgrohe,,\u25bc2,13,2017
+34,142,10,55.0,Anton Igor,56,Team Dimension Data,,\u25bc1,13,2017
+32,22,10,56.0,Cataldo Dario,57,Astana Pro Team,,\u25bc1,13,2017
+27,74,10,57.0,Owsian Lukasz,58,CCC Sprandi Polkowice,,\u25bc1,13,2017
+21,197,10,58.0,Pedersen Mads,59,Trek - Segafredo,,\u25bc1,13,2017
+28,139,10,79.0,Serry Pieter,60,Quick-Step Floors,,\u25b219,13,2017
+30,61,9,59.0,Rolland Pierre,61,Cannondale-Drapac Pro Cycling Team,,\u25bc2,13,2017
+27,171,8,60.0,Landa Mikel,62,Team Sky,,\u25bc2,13,2017
+34,109,6,61.0,Monfort Maxime,63,Lotto Soudal,,\u25bc2,13,2017
+33,19,6,62.0,Montaguti Matteo,64,AG2R La Mondiale,,\u25bc2,13,2017
+23,56,6,63.0,M\xfchlberger Gregor,65,BORA - hansgrohe,,\u25bc2,13,2017
+35,176,6,64.0,Kiryienka Vasil,66,Team Sky,,\u25bc2,13,2017
+34,11,5,65.0,Pozzovivo Domenico,67,AG2R La Mondiale,,\u25bc2,13,2017
+30,44,5,66.0,Hermans Ben,68,BMC Racing Team,,\u25bc2,13,2017
+29,146,5,67.0,Janse van Rensburg Jacques,69,Team Dimension Data,,\u25bc2,13,2017
+27,34,5,68.0,Barbin Enrico,70,Bardiani - CSF,,\u25bc2,13,2017
+29,161,4,69.0,Kruijswijk Steven,71,Team LottoNL-Jumbo,,\u25bc2,13,2017
+30,132,4,70.0,Capecchi Eros,72,Quick-Step Floors,,\u25bc2,13,2017
+30,104,4,71.0,De Clercq Bart,73,Lotto Soudal,,\u25bc2,13,2017
+25,68,4,72.0,Villella Davide,74,Cannondale-Drapac Pro Cycling Team,,\u25bc2,13,2017
+32,2,4,73.0,Agnoli Valerio,75,Bahrain Merida Pro Cycling Team,,\u25bc2,13,2017
+27,125,4,84.0,Juul-Jensen Christopher,76,ORICA-Scott,,\u25b28,13,2017
+26,149,4,74.0,Van Zyl Johann,77,Team Dimension Data,,\u25bc3,13,2017
+30,112,3,75.0,Amador Andrey,78,Movistar Team,,\u25bc3,13,2017
+24,208,3,76.0,Petilli Simone,79,UAE Team Emirates,,\u25bc3,13,2017
+32,55,3,,Mendes Jos\xe9,80,BORA - hansgrohe,,-,13,2017
+27,177,3,77.0,Puccio Salvatore,81,Team Sky,,\u25bc4,13,2017
+32,169,3,78.0,van Emden Jos,82,Team LottoNL-Jumbo,,\u25bc4,13,2017
+32,51,3,80.0,B\xe1rta Jan,83,BORA - hansgrohe,,\u25bc3,13,2017
+27,87,2,81.0,Reichenbach Sebastien,84,FDJ,,\u25bc3,13,2017
+30,76,2,82.0,Ponzi Simone,85,CCC Sprandi Polkowice,,\u25bc3,13,2017
+23,103,2,83.0,de Buyst Jasper,86,Lotto Soudal,,\u25bc3,13,2017
+40,128,2,85.0,Tuft Svein,87,ORICA-Scott,,\u25bc2,13,2017
+23,137,2,86.0,Martinelli Davide,88,Quick-Step Floors,,\u25bc2,13,2017
+25,97,2,,Savitskiy Ivan,89,Gazprom-RusVelo,,-,13,2017
+21,217,2,,Martinez Daniel Felipe,90,Wilier Triestina - Selle Italia,,-,13,2017
+25,102,2,,de Bie Sean,91,Lotto Soudal,,-,13,2017
+24,64,1,88.0,Formolo Davide,92,Cannondale-Drapac Pro Cycling Team,,\u25bc4,13,2017
+36,15,1,89.0,Dupont Hubert,93,AG2R La Mondiale,,\u25bc4,13,2017
+21,133,1,90.0,De Plus Laurens,94,Quick-Step Floors,,\u25bc4,13,2017
+25,54,1,91.0,Konrad Patrick,95,BORA - hansgrohe,,\u25bc4,13,2017
+33,107,1,92.0,Marczynski Tomasz,96,Lotto Soudal,,\u25bc4,13,2017
+33,134,1,93.0,Devenyns Dries,97,Quick-Step Floors,,\u25bc4,13,2017
+35,49,1,94.0,Ventoso Francisco,98,BMC Racing Team,,\u25bc4,13,2017
+29,213,1,95.0,Busato Matteo,99,Wilier Triestina - Selle Italia,,\u25bc4,13,2017
+37,101,1,96.0,Bak Lars Ytting,100,Lotto Soudal,,\u25bc4,13,2017
+28,126,1,,Mezgec Luka,101,ORICA-Scott,,-,13,2017
+22,135,315,1.0,Gaviria Fernando,1,Quick-Step Floors,,-,14,2017
+25,199,192,2.0,Stuyven Jasper,2,Trek - Segafredo,,-,14,2017
+26,53,117,4.0,Bennett Sam,3,BORA - hansgrohe,,\u25b21,14,2017
+22,123,112,5.0,Ewan Caleb,4,ORICA-Scott,,\u25b21,14,2017
+25,58,98,6.0,P\xf6stlberger Lukas,5,BORA - hansgrohe,,\u25b21,14,2017
+28,148,86,7.0,Teklehaimanot Daniel,6,Team Dimension Data,,\u25b21,14,2017
+27,147,76,8.0,Sbaragli Kristian,7,Team Dimension Data,,\u25b21,14,2017
+34,203,70,10.0,Ferrari Roberto,8,UAE Team Emirates,,\u25b22,14,2017
+26,43,68,11.0,Dillier Silvan,9,BMC Racing Team,,\u25b22,14,2017
+22,145,68,12.0,Gibbons Ryan,10,Team Dimension Data,,\u25b22,14,2017
+35,92,66,13.0,Brutt Pavel,11,Gazprom-RusVelo,,\u25b22,14,2017
+26,181,62,23.0,Dumoulin Tom,12,Team Sunweb,,\u25b211,14,2017
+27,219,60,14.0,Zhupa Eugert,13,Wilier Triestina - Selle Italia,,\u25b21,14,2017
+28,59,56,15.0,Selig R\xfcdiger,14,BORA - hansgrohe,,\u25b21,14,2017
+23,33,52,16.0,Andreetta Simone,15,Bardiani - CSF,,\u25b21,14,2017
+34,138,50,17.0,Richeze Ariel Maximiliano,16,Quick-Step Floors,,\u25b21,14,2017
+22,182,48,18.0,Bauhaus Phil,17,Team Sunweb,,\u25b21,14,2017
+29,205,43,19.0,Modolo Sacha,18,UAE Team Emirates,,\u25b21,14,2017
+30,75,42,20.0,Paterski Maciej,19,CCC Sprandi Polkowice,,\u25b21,14,2017
+33,94,40,21.0,Kozonchuk Dmitry,20,Gazprom-RusVelo,,\u25b21,14,2017
+27,162,39,22.0,Battaglin Enrico,21,Team LottoNL-Jumbo,,\u25b21,14,2017
+25,98,36,24.0,Shalunov Evgeny,22,Gazprom-RusVelo,,\u25b22,14,2017
+33,27,34,25.0,Sanchez Luis Leon,23,Astana Pro Team,,\u25b22,14,2017
+33,204,33,26.0,Marcato Marco,24,UAE Team Emirates,,\u25b22,14,2017
+32,1,33,30.0,Nibali Vincenzo,25,Bahrain Merida Pro Cycling Team,,\u25b25,14,2017
+27,151,33,50.0,Zakarin Ilnur,26,Team Katusha - Alpecin,,\u25b224,14,2017
+24,131,33,27.0,Jungels Bob,27,Quick-Step Floors,,-,14,2017
+25,37,32,28.0,Maestri Mirco,28,Bardiani - CSF,,-,14,2017
+20,32,30,29.0,Albanese Vincenzo,29,Bardiani - CSF,,-,14,2017
+26,81,30,34.0,Pinot Thibaut,30,FDJ,,\u25b24,14,2017
+27,111,28,40.0,Quintana Nairo,31,Movistar Team,,\u25b29,14,2017
+26,144,27,31.0,Fraile Omar,32,Team Dimension Data,,\u25bc1,14,2017
+29,117,27,32.0,Izagirre Gorka,33,Movistar Team,,\u25bc1,14,2017
+24,121,27,37.0,Yates Adam,34,ORICA-Scott,,\u25b23,14,2017
+34,9,27,33.0,Visconti Giovanni,35,Bahrain Merida Pro Cycling Team,,\u25bc2,14,2017
+27,156,24,35.0,Kuznetsov Viacheslav,36,Team Katusha - Alpecin,,\u25bc1,14,2017
+25,214,24,36.0,Fonzi Giuseppe,37,Wilier Triestina - Selle Italia,,\u25bc1,14,2017
+27,99,22,38.0,Tsatevich Alexey,38,Gazprom-RusVelo,,-,14,2017
+26,215,21,39.0,Koshevoy Ilia,39,Wilier Triestina - Selle Italia,,-,14,2017
+25,209,20,41.0,Polanc Jan,40,UAE Team Emirates,,\u25b21,14,2017
+36,95,20,,Lagutin Sergey,41,Gazprom-RusVelo,,-,14,2017
+27,171,20,62.0,Landa Mikel,42,Team Sky,,\u25b220,14,2017
+34,136,20,42.0,Keisse Iljo,43,Quick-Step Floors,,\u25bc1,14,2017
+30,69,20,43.0,Woods Michael,44,Cannondale-Drapac Pro Cycling Team,,\u25bc1,14,2017
+29,96,20,44.0,Rovny Ivan,45,Gazprom-RusVelo,,\u25bc1,14,2017
+22,206,20,45.0,Mohoric Matej,46,UAE Team Emirates,,\u25bc1,14,2017
+30,201,18,46.0,Costa Rui,47,UAE Team Emirates,,\u25bc1,14,2017
+30,191,17,47.0,Mollema Bauke,48,Trek - Segafredo,,\u25bc1,14,2017
+34,91,16,48.0,Firsanov Sergey,49,Gazprom-RusVelo,,\u25bc1,14,2017
+27,79,16,49.0,Tratnik Jan,50,CCC Sprandi Polkowice,,\u25bc1,14,2017
+30,26,12,54.0,Kangert Tanel,51,Astana Pro Team,,\u25b23,14,2017
+34,8,12,51.0,Siutsou Kanstantsin,52,Bahrain Merida Pro Cycling Team,,\u25bc1,14,2017
+26,143,12,,Berhane Natnael,53,Team Dimension Data,,-,14,2017
+33,72,12,52.0,Bialoblocki Marcin,54,CCC Sprandi Polkowice,,\u25bc2,14,2017
+24,202,11,53.0,Conti Valerio,55,UAE Team Emirates,,\u25bc2,14,2017
+29,52,11,55.0,Benedetti Cesare,56,BORA - hansgrohe,,\u25bc1,14,2017
+34,142,10,56.0,Anton Igor,57,Team Dimension Data,,\u25bc1,14,2017
+32,22,10,57.0,Cataldo Dario,58,Astana Pro Team,,\u25bc1,14,2017
+27,74,10,58.0,Owsian Lukasz,59,CCC Sprandi Polkowice,,\u25bc1,14,2017
+21,197,10,59.0,Pedersen Mads,60,Trek - Segafredo,,\u25bc1,14,2017
+28,139,10,60.0,Serry Pieter,61,Quick-Step Floors,,\u25bc1,14,2017
+30,61,9,61.0,Rolland Pierre,62,Cannondale-Drapac Pro Cycling Team,,\u25bc1,14,2017
+21,217,8,90.0,Martinez Daniel Felipe,63,Wilier Triestina - Selle Italia,,\u25b227,14,2017
+29,161,6,71.0,Kruijswijk Steven,64,Team LottoNL-Jumbo,,\u25b27,14,2017
+34,109,6,63.0,Monfort Maxime,65,Lotto Soudal,,\u25bc2,14,2017
+33,19,6,64.0,Montaguti Matteo,66,AG2R La Mondiale,,\u25bc2,14,2017
+23,56,6,65.0,M\xfchlberger Gregor,67,BORA - hansgrohe,,\u25bc2,14,2017
+35,176,6,66.0,Kiryienka Vasil,68,Team Sky,,\u25bc2,14,2017
+34,11,5,67.0,Pozzovivo Domenico,69,AG2R La Mondiale,,\u25bc2,14,2017
+30,44,5,68.0,Hermans Ben,70,BMC Racing Team,,\u25bc2,14,2017
+29,146,5,69.0,Janse van Rensburg Jacques,71,Team Dimension Data,,\u25bc2,14,2017
+27,34,5,70.0,Barbin Enrico,72,Bardiani - CSF,,\u25bc2,14,2017
+30,132,4,72.0,Capecchi Eros,73,Quick-Step Floors,,\u25bc1,14,2017
+30,104,4,73.0,De Clercq Bart,74,Lotto Soudal,,\u25bc1,14,2017
+25,68,4,74.0,Villella Davide,75,Cannondale-Drapac Pro Cycling Team,,\u25bc1,14,2017
+32,2,4,75.0,Agnoli Valerio,76,Bahrain Merida Pro Cycling Team,,\u25bc1,14,2017
+27,125,4,76.0,Juul-Jensen Christopher,77,ORICA-Scott,,\u25bc1,14,2017
+26,149,4,77.0,Van Zyl Johann,78,Team Dimension Data,,\u25bc1,14,2017
+30,112,3,78.0,Amador Andrey,79,Movistar Team,,\u25bc1,14,2017
+24,208,3,79.0,Petilli Simone,80,UAE Team Emirates,,\u25bc1,14,2017
+39,6,3,,Pellizotti Franco,81,Bahrain Merida Pro Cycling Team,,-,14,2017
+32,55,3,80.0,Mendes Jos\xe9,82,BORA - hansgrohe,,\u25bc2,14,2017
+27,177,3,81.0,Puccio Salvatore,83,Team Sky,,\u25bc2,14,2017
+32,169,3,82.0,van Emden Jos,84,Team LottoNL-Jumbo,,\u25bc2,14,2017
+32,51,3,83.0,B\xe1rta Jan,85,BORA - hansgrohe,,\u25bc2,14,2017
+27,87,2,84.0,Reichenbach Sebastien,86,FDJ,,\u25bc2,14,2017
+35,89,2,,Vaugrenard Benoit,87,FDJ,,-,14,2017
+23,103,2,86.0,de Buyst Jasper,88,Lotto Soudal,,\u25bc2,14,2017
+30,76,2,85.0,Ponzi Simone,89,CCC Sprandi Polkowice,,\u25bc4,14,2017
+40,128,2,87.0,Tuft Svein,90,ORICA-Scott,,\u25bc3,14,2017
+23,137,2,88.0,Martinelli Davide,91,Quick-Step Floors,,\u25bc3,14,2017
+25,97,2,89.0,Savitskiy Ivan,92,Gazprom-RusVelo,,\u25bc3,14,2017
+25,102,2,91.0,de Bie Sean,93,Lotto Soudal,,\u25bc2,14,2017
+24,64,1,92.0,Formolo Davide,94,Cannondale-Drapac Pro Cycling Team,,\u25bc2,14,2017
+21,133,1,94.0,De Plus Laurens,95,Quick-Step Floors,,\u25bc1,14,2017
+36,15,1,93.0,Dupont Hubert,96,AG2R La Mondiale,,\u25bc3,14,2017
+25,54,1,95.0,Konrad Patrick,97,BORA - hansgrohe,,\u25bc2,14,2017
+33,107,1,96.0,Marczynski Tomasz,98,Lotto Soudal,,\u25bc2,14,2017
+33,134,1,97.0,Devenyns Dries,99,Quick-Step Floors,,\u25bc2,14,2017
+35,49,1,98.0,Ventoso Francisco,100,BMC Racing Team,,\u25bc2,14,2017
+29,213,1,99.0,Busato Matteo,101,Wilier Triestina - Selle Italia,,\u25bc2,14,2017
+37,101,1,100.0,Bak Lars Ytting,102,Lotto Soudal,,\u25bc2,14,2017
+28,126,1,101.0,Mezgec Luka,103,ORICA-Scott,,\u25bc2,14,2017
+22,135,325,1.0,Gaviria Fernando,1,Quick-Step Floors,,-,15,2017
+25,199,192,2.0,Stuyven Jasper,2,Trek - Segafredo,,-,15,2017
+26,53,117,3.0,Bennett Sam,3,BORA - hansgrohe,,-,15,2017
+25,58,98,5.0,P\xf6stlberger Lukas,4,BORA - hansgrohe,,\u25b21,15,2017
+28,148,86,6.0,Teklehaimanot Daniel,5,Team Dimension Data,,\u25b21,15,2017
+27,147,76,7.0,Sbaragli Kristian,6,Team Dimension Data,,\u25b21,15,2017
+27,219,70,13.0,Zhupa Eugert,7,Wilier Triestina - Selle Italia,,\u25b26,15,2017
+34,203,70,8.0,Ferrari Roberto,8,UAE Team Emirates,,-,15,2017
+26,43,68,9.0,Dillier Silvan,9,BMC Racing Team,,-,15,2017
+22,145,68,10.0,Gibbons Ryan,10,Team Dimension Data,,-,15,2017
+35,92,66,11.0,Brutt Pavel,11,Gazprom-RusVelo,,-,15,2017
+26,181,65,12.0,Dumoulin Tom,12,Team Sunweb,,-,15,2017
+24,131,58,27.0,Jungels Bob,13,Quick-Step Floors,,\u25b214,15,2017
+23,33,52,15.0,Andreetta Simone,14,Bardiani - CSF,,\u25b21,15,2017
+34,138,50,16.0,Richeze Ariel Maximiliano,15,Quick-Step Floors,,\u25b21,15,2017
+22,182,48,17.0,Bauhaus Phil,16,Team Sunweb,,\u25b21,15,2017
+27,111,46,31.0,Quintana Nairo,17,Movistar Team,,\u25b214,15,2017
+29,205,43,18.0,Modolo Sacha,18,UAE Team Emirates,,-,15,2017
+30,75,42,19.0,Paterski Maciej,19,CCC Sprandi Polkowice,,-,15,2017
+26,81,42,30.0,Pinot Thibaut,20,FDJ,,\u25b210,15,2017
+33,94,40,20.0,Kozonchuk Dmitry,21,Gazprom-RusVelo,,\u25bc1,15,2017
+27,162,40,21.0,Battaglin Enrico,22,Team LottoNL-Jumbo,,\u25bc1,15,2017
+32,1,37,25.0,Nibali Vincenzo,23,Bahrain Merida Pro Cycling Team,,\u25b22,15,2017
+25,98,36,22.0,Shalunov Evgeny,24,Gazprom-RusVelo,,\u25bc2,15,2017
+27,151,35,26.0,Zakarin Ilnur,25,Team Katusha - Alpecin,,\u25b21,15,2017
+24,121,35,34.0,Yates Adam,26,ORICA-Scott,,\u25b28,15,2017
+33,27,34,23.0,Sanchez Luis Leon,27,Astana Pro Team,,\u25bc4,15,2017
+33,204,33,24.0,Marcato Marco,28,UAE Team Emirates,,\u25bc4,15,2017
+25,37,32,28.0,Maestri Mirco,29,Bardiani - CSF,,\u25bc1,15,2017
+20,32,30,29.0,Albanese Vincenzo,30,Bardiani - CSF,,\u25bc1,15,2017
+26,144,27,32.0,Fraile Omar,31,Team Dimension Data,,\u25b21,15,2017
+29,117,27,33.0,Izagirre Gorka,32,Movistar Team,,\u25b21,15,2017
+34,9,27,35.0,Visconti Giovanni,33,Bahrain Merida Pro Cycling Team,,\u25b22,15,2017
+27,156,24,36.0,Kuznetsov Viacheslav,34,Team Katusha - Alpecin,,\u25b22,15,2017
+25,214,24,37.0,Fonzi Giuseppe,35,Wilier Triestina - Selle Italia,,\u25b22,15,2017
+27,99,22,38.0,Tsatevich Alexey,36,Gazprom-RusVelo,,\u25b22,15,2017
+26,215,21,39.0,Koshevoy Ilia,37,Wilier Triestina - Selle Italia,,\u25b22,15,2017
+25,209,20,40.0,Polanc Jan,38,UAE Team Emirates,,\u25b22,15,2017
+36,95,20,41.0,Lagutin Sergey,39,Gazprom-RusVelo,,\u25b22,15,2017
+27,171,20,42.0,Landa Mikel,40,Team Sky,,\u25b22,15,2017
+34,136,20,43.0,Keisse Iljo,41,Quick-Step Floors,,\u25b22,15,2017
+30,69,20,44.0,Woods Michael,42,Cannondale-Drapac Pro Cycling Team,,\u25b22,15,2017
+29,96,20,45.0,Rovny Ivan,43,Gazprom-RusVelo,,\u25b22,15,2017
+22,206,20,46.0,Mohoric Matej,44,UAE Team Emirates,,\u25b22,15,2017
+30,191,18,48.0,Mollema Bauke,45,Trek - Segafredo,,\u25b23,15,2017
+30,201,18,47.0,Costa Rui,46,UAE Team Emirates,,\u25b21,15,2017
+34,91,16,49.0,Firsanov Sergey,47,Gazprom-RusVelo,,\u25b22,15,2017
+27,79,16,50.0,Tratnik Jan,48,CCC Sprandi Polkowice,,\u25b22,15,2017
+34,8,12,52.0,Siutsou Kanstantsin,49,Bahrain Merida Pro Cycling Team,,\u25b23,15,2017
+26,143,12,53.0,Berhane Natnael,50,Team Dimension Data,,\u25b23,15,2017
+33,72,12,54.0,Bialoblocki Marcin,51,CCC Sprandi Polkowice,,\u25b23,15,2017
+24,202,11,55.0,Conti Valerio,52,UAE Team Emirates,,\u25b23,15,2017
+34,11,11,69.0,Pozzovivo Domenico,53,AG2R La Mondiale,,\u25b216,15,2017
+27,34,11,72.0,Barbin Enrico,54,Bardiani - CSF,,\u25b218,15,2017
+29,52,11,56.0,Benedetti Cesare,55,BORA - hansgrohe,,\u25b21,15,2017
+34,142,10,57.0,Anton Igor,56,Team Dimension Data,,\u25b21,15,2017
+32,22,10,58.0,Cataldo Dario,57,Astana Pro Team,,\u25b21,15,2017
+27,74,10,59.0,Owsian Lukasz,58,CCC Sprandi Polkowice,,\u25b21,15,2017
+28,139,10,61.0,Serry Pieter,59,Quick-Step Floors,,\u25b22,15,2017
+21,197,10,60.0,Pedersen Mads,60,Trek - Segafredo,,-,15,2017
+30,61,9,62.0,Rolland Pierre,61,Cannondale-Drapac Pro Cycling Team,,\u25b21,15,2017
+32,51,9,85.0,B\xe1rta Jan,62,BORA - hansgrohe,,\u25b223,15,2017
+21,217,8,63.0,Martinez Daniel Felipe,63,Wilier Triestina - Selle Italia,,-,15,2017
+29,161,6,64.0,Kruijswijk Steven,64,Team LottoNL-Jumbo,,-,15,2017
+34,109,6,65.0,Monfort Maxime,65,Lotto Soudal,,-,15,2017
+25,54,6,97.0,Konrad Patrick,66,BORA - hansgrohe,,\u25b231,15,2017
+24,208,6,80.0,Petilli Simone,67,UAE Team Emirates,,\u25b213,15,2017
+33,19,6,66.0,Montaguti Matteo,68,AG2R La Mondiale,,\u25bc2,15,2017
+23,56,6,67.0,M\xfchlberger Gregor,69,BORA - hansgrohe,,\u25bc2,15,2017
+35,176,6,68.0,Kiryienka Vasil,70,Team Sky,,\u25bc2,15,2017
+30,44,5,70.0,Hermans Ben,71,BMC Racing Team,,\u25bc1,15,2017
+29,146,5,71.0,Janse van Rensburg Jacques,72,Team Dimension Data,,\u25bc1,15,2017
+30,132,4,73.0,Capecchi Eros,73,Quick-Step Floors,,-,15,2017
+25,68,4,75.0,Villella Davide,74,Cannondale-Drapac Pro Cycling Team,,\u25b21,15,2017
+32,2,4,76.0,Agnoli Valerio,75,Bahrain Merida Pro Cycling Team,,\u25b21,15,2017
+27,125,4,77.0,Juul-Jensen Christopher,76,ORICA-Scott,,\u25b21,15,2017
+26,149,4,78.0,Van Zyl Johann,77,Team Dimension Data,,\u25b21,15,2017
+30,112,3,79.0,Amador Andrey,78,Movistar Team,,\u25b21,15,2017
+39,6,3,81.0,Pellizotti Franco,79,Bahrain Merida Pro Cycling Team,,\u25b22,15,2017
+32,55,3,82.0,Mendes Jos\xe9,80,BORA - hansgrohe,,\u25b22,15,2017
+27,177,3,83.0,Puccio Salvatore,81,Team Sky,,\u25b22,15,2017
+32,169,3,84.0,van Emden Jos,82,Team LottoNL-Jumbo,,\u25b22,15,2017
+25,106,3,,Hofland Moreno,83,Lotto Soudal,,-,15,2017
+27,87,2,86.0,Reichenbach Sebastien,84,FDJ,,\u25b22,15,2017
+27,85,2,,Molard Rudy,85,FDJ,,-,15,2017
+33,88,2,,Roy J\xe9r\xe9my,86,FDJ,,-,15,2017
+33,134,2,99.0,Devenyns Dries,87,Quick-Step Floors,,\u25b212,15,2017
+35,89,2,87.0,Vaugrenard Benoit,88,FDJ,,\u25bc1,15,2017
+30,76,2,89.0,Ponzi Simone,89,CCC Sprandi Polkowice,,-,15,2017
+23,103,2,88.0,de Buyst Jasper,90,Lotto Soudal,,\u25bc2,15,2017
+23,137,2,91.0,Martinelli Davide,91,Quick-Step Floors,,-,15,2017
+40,128,2,90.0,Tuft Svein,92,ORICA-Scott,,\u25bc2,15,2017
+25,102,2,93.0,de Bie Sean,93,Lotto Soudal,,-,15,2017
+24,64,1,94.0,Formolo Davide,94,Cannondale-Drapac Pro Cycling Team,,-,15,2017
+21,133,1,95.0,De Plus Laurens,95,Quick-Step Floors,,-,15,2017
+36,15,1,96.0,Dupont Hubert,96,AG2R La Mondiale,,-,15,2017
+33,107,1,98.0,Marczynski Tomasz,97,Lotto Soudal,,\u25b21,15,2017
+35,49,1,100.0,Ventoso Francisco,98,BMC Racing Team,,\u25b22,15,2017
+29,213,1,101.0,Busato Matteo,99,Wilier Triestina - Selle Italia,,\u25b22,15,2017
+37,101,1,102.0,Bak Lars Ytting,100,Lotto Soudal,,\u25b22,15,2017
+28,126,1,103.0,Mezgec Luka,101,ORICA-Scott,,\u25b22,15,2017
+22,135,325,1.0,Gaviria Fernando,1,Quick-Step Floors,,-,16,2017
+25,199,192,2.0,Stuyven Jasper,2,Trek - Segafredo,,-,16,2017
+26,53,117,3.0,Bennett Sam,3,BORA - hansgrohe,,-,16,2017
+25,58,98,4.0,P\xf6stlberger Lukas,4,BORA - hansgrohe,,-,16,2017
+28,148,86,5.0,Teklehaimanot Daniel,5,Team Dimension Data,,-,16,2017
+27,147,76,6.0,Sbaragli Kristian,6,Team Dimension Data,,-,16,2017
+27,219,70,7.0,Zhupa Eugert,7,Wilier Triestina - Selle Italia,,-,16,2017
+34,203,70,8.0,Ferrari Roberto,8,UAE Team Emirates,,-,16,2017
+26,43,68,9.0,Dillier Silvan,9,BMC Racing Team,,-,16,2017
+35,92,66,11.0,Brutt Pavel,10,Gazprom-RusVelo,,\u25b21,16,2017
+26,181,65,12.0,Dumoulin Tom,11,Team Sunweb,,\u25b21,16,2017
+24,131,61,13.0,Jungels Bob,12,Quick-Step Floors,,\u25b21,16,2017
+27,111,55,17.0,Quintana Nairo,13,Movistar Team,,\u25b24,16,2017
+32,1,52,23.0,Nibali Vincenzo,14,Bahrain Merida Pro Cycling Team,,\u25b29,16,2017
+23,33,52,14.0,Andreetta Simone,15,Bardiani - CSF,,\u25bc1,16,2017
+34,138,50,15.0,Richeze Ariel Maximiliano,16,Quick-Step Floors,,\u25bc1,16,2017
+26,81,43,20.0,Pinot Thibaut,17,FDJ,,\u25b23,16,2017
+29,205,43,18.0,Modolo Sacha,18,UAE Team Emirates,,-,16,2017
+22,182,43,16.0,Bauhaus Phil,19,Team Sunweb,,\u25bc3,16,2017
+30,75,42,19.0,Paterski Maciej,20,CCC Sprandi Polkowice,,\u25bc1,16,2017
+27,151,41,25.0,Zakarin Ilnur,21,Team Katusha - Alpecin,,\u25b24,16,2017
+33,94,40,21.0,Kozonchuk Dmitry,22,Gazprom-RusVelo,,\u25bc1,16,2017
+27,162,40,22.0,Battaglin Enrico,23,Team LottoNL-Jumbo,,\u25bc1,16,2017
+24,121,37,26.0,Yates Adam,24,ORICA-Scott,,\u25b22,16,2017
+27,171,36,40.0,Landa Mikel,25,Team Sky,,\u25b215,16,2017
+25,98,36,24.0,Shalunov Evgeny,26,Gazprom-RusVelo,,\u25bc2,16,2017
+33,27,34,27.0,Sanchez Luis Leon,27,Astana Pro Team,,-,16,2017
+33,204,33,28.0,Marcato Marco,28,UAE Team Emirates,,-,16,2017
+25,37,32,29.0,Maestri Mirco,29,Bardiani - CSF,,-,16,2017
+26,144,27,31.0,Fraile Omar,30,Team Dimension Data,,\u25b21,16,2017
+29,117,27,32.0,Izagirre Gorka,31,Movistar Team,,\u25b21,16,2017
+34,9,27,33.0,Visconti Giovanni,32,Bahrain Merida Pro Cycling Team,,\u25b21,16,2017
+27,156,24,34.0,Kuznetsov Viacheslav,33,Team Katusha - Alpecin,,\u25b21,16,2017
+25,214,24,35.0,Fonzi Giuseppe,34,Wilier Triestina - Selle Italia,,\u25b21,16,2017
+30,191,22,45.0,Mollema Bauke,35,Trek - Segafredo,,\u25b210,16,2017
+27,99,22,36.0,Tsatevich Alexey,36,Gazprom-RusVelo,,-,16,2017
+26,215,21,37.0,Koshevoy Ilia,37,Wilier Triestina - Selle Italia,,-,16,2017
+34,136,20,41.0,Keisse Iljo,38,Quick-Step Floors,,\u25b23,16,2017
+30,69,20,42.0,Woods Michael,39,Cannondale-Drapac Pro Cycling Team,,\u25b23,16,2017
+29,96,20,43.0,Rovny Ivan,40,Gazprom-RusVelo,,\u25b23,16,2017
+22,206,20,44.0,Mohoric Matej,41,UAE Team Emirates,,\u25b23,16,2017
+34,11,18,53.0,Pozzovivo Domenico,42,AG2R La Mondiale,,\u25b211,16,2017
+30,201,18,46.0,Costa Rui,43,UAE Team Emirates,,\u25b23,16,2017
+34,91,16,47.0,Firsanov Sergey,44,Gazprom-RusVelo,,\u25b23,16,2017
+27,79,16,48.0,Tratnik Jan,45,CCC Sprandi Polkowice,,\u25b23,16,2017
+25,209,15,38.0,Polanc Jan,46,UAE Team Emirates,,\u25bc8,16,2017
+36,95,15,39.0,Lagutin Sergey,47,Gazprom-RusVelo,,\u25bc8,16,2017
+34,8,12,49.0,Siutsou Kanstantsin,48,Bahrain Merida Pro Cycling Team,,\u25b21,16,2017
+26,143,12,50.0,Berhane Natnael,49,Team Dimension Data,,\u25b21,16,2017
+33,72,12,51.0,Bialoblocki Marcin,50,CCC Sprandi Polkowice,,\u25b21,16,2017
+34,142,11,56.0,Anton Igor,51,Team Dimension Data,,\u25b25,16,2017
+24,202,11,52.0,Conti Valerio,52,UAE Team Emirates,,-,16,2017
+29,52,11,55.0,Benedetti Cesare,53,BORA - hansgrohe,,\u25b22,16,2017
+27,34,11,54.0,Barbin Enrico,54,Bardiani - CSF,,-,16,2017
+32,22,10,57.0,Cataldo Dario,55,Astana Pro Team,,\u25b22,16,2017
+27,74,10,58.0,Owsian Lukasz,56,CCC Sprandi Polkowice,,\u25b22,16,2017
+28,139,10,59.0,Serry Pieter,57,Quick-Step Floors,,\u25b22,16,2017
+21,197,10,60.0,Pedersen Mads,58,Trek - Segafredo,,\u25b22,16,2017
+30,61,9,61.0,Rolland Pierre,59,Cannondale-Drapac Pro Cycling Team,,\u25b22,16,2017
+32,51,9,62.0,B\xe1rta Jan,60,BORA - hansgrohe,,\u25b22,16,2017
+33,172,8,,Deignan Philip,61,Team Sky,,-,16,2017
+29,161,6,64.0,Kruijswijk Steven,62,Team LottoNL-Jumbo,,\u25b22,16,2017
+24,64,6,94.0,Formolo Davide,63,Cannondale-Drapac Pro Cycling Team,,\u25b231,16,2017
+34,109,6,65.0,Monfort Maxime,64,Lotto Soudal,,\u25b21,16,2017
+25,54,6,66.0,Konrad Patrick,65,BORA - hansgrohe,,\u25b21,16,2017
+24,208,6,67.0,Petilli Simone,66,UAE Team Emirates,,\u25b21,16,2017
+23,56,6,69.0,M\xfchlberger Gregor,67,BORA - hansgrohe,,\u25b22,16,2017
+33,19,6,68.0,Montaguti Matteo,68,AG2R La Mondiale,,-,16,2017
+35,176,6,70.0,Kiryienka Vasil,69,Team Sky,,\u25b21,16,2017
+29,146,5,72.0,Janse van Rensburg Jacques,70,Team Dimension Data,,\u25b22,16,2017
+30,132,4,73.0,Capecchi Eros,71,Quick-Step Floors,,\u25b22,16,2017
+25,68,4,74.0,Villella Davide,72,Cannondale-Drapac Pro Cycling Team,,\u25b22,16,2017
+32,2,4,75.0,Agnoli Valerio,73,Bahrain Merida Pro Cycling Team,,\u25b22,16,2017
+27,125,4,76.0,Juul-Jensen Christopher,74,ORICA-Scott,,\u25b22,16,2017
+26,149,4,77.0,Van Zyl Johann,75,Team Dimension Data,,\u25b22,16,2017
+30,112,3,78.0,Amador Andrey,76,Movistar Team,,\u25b22,16,2017
+39,6,3,79.0,Pellizotti Franco,77,Bahrain Merida Pro Cycling Team,,\u25b22,16,2017
+32,55,3,80.0,Mendes Jos\xe9,78,BORA - hansgrohe,,\u25b22,16,2017
+27,177,3,81.0,Puccio Salvatore,79,Team Sky,,\u25b22,16,2017
+32,169,3,82.0,van Emden Jos,80,Team LottoNL-Jumbo,,\u25b22,16,2017
+21,217,3,63.0,Martinez Daniel Felipe,81,Wilier Triestina - Selle Italia,,\u25bc18,16,2017
+25,106,3,83.0,Hofland Moreno,82,Lotto Soudal,,\u25b21,16,2017
+27,87,2,84.0,Reichenbach Sebastien,83,FDJ,,\u25b21,16,2017
+27,85,2,85.0,Molard Rudy,84,FDJ,,\u25b21,16,2017
+33,88,2,86.0,Roy J\xe9r\xe9my,85,FDJ,,\u25b21,16,2017
+33,134,2,87.0,Devenyns Dries,86,Quick-Step Floors,,\u25b21,16,2017
+35,89,2,88.0,Vaugrenard Benoit,87,FDJ,,\u25b21,16,2017
+30,76,2,89.0,Ponzi Simone,88,CCC Sprandi Polkowice,,\u25b21,16,2017
+23,103,2,90.0,de Buyst Jasper,89,Lotto Soudal,,\u25b21,16,2017
+40,128,2,92.0,Tuft Svein,90,ORICA-Scott,,\u25b22,16,2017
+23,137,2,91.0,Martinelli Davide,91,Quick-Step Floors,,-,16,2017
+36,15,1,96.0,Dupont Hubert,92,AG2R La Mondiale,,\u25b24,16,2017
+21,133,1,95.0,De Plus Laurens,93,Quick-Step Floors,,\u25b22,16,2017
+35,49,1,98.0,Ventoso Francisco,94,BMC Racing Team,,\u25b24,16,2017
+29,213,1,99.0,Busato Matteo,95,Wilier Triestina - Selle Italia,,\u25b24,16,2017
+37,101,1,100.0,Bak Lars Ytting,96,Lotto Soudal,,\u25b24,16,2017
+32,152,1,,Belkov Maxim,97,Team Katusha - Alpecin,,-,16,2017
+28,126,1,101.0,Mezgec Luka,98,ORICA-Scott,,\u25b23,16,2017
+22,135,325,1.0,Gaviria Fernando,1,Quick-Step Floors,,-,17,2017
+25,199,192,2.0,Stuyven Jasper,2,Trek - Segafredo,,-,17,2017
+26,53,117,3.0,Bennett Sam,3,BORA - hansgrohe,,-,17,2017
+25,58,98,4.0,P\xf6stlberger Lukas,4,BORA - hansgrohe,,-,17,2017
+28,148,96,5.0,Teklehaimanot Daniel,5,Team Dimension Data,,-,17,2017
+35,92,76,10.0,Brutt Pavel,6,Gazprom-RusVelo,,\u25b24,17,2017
+27,147,76,6.0,Sbaragli Kristian,7,Team Dimension Data,,\u25bc1,17,2017
+27,219,70,7.0,Zhupa Eugert,8,Wilier Triestina - Selle Italia,,\u25bc1,17,2017
+34,203,70,8.0,Ferrari Roberto,9,UAE Team Emirates,,\u25bc1,17,2017
+26,43,68,9.0,Dillier Silvan,10,BMC Racing Team,,\u25bc1,17,2017
+26,181,65,11.0,Dumoulin Tom,11,Team Sunweb,,-,17,2017
+24,131,61,12.0,Jungels Bob,12,Quick-Step Floors,,-,17,2017
+27,111,55,13.0,Quintana Nairo,13,Movistar Team,,-,17,2017
+32,1,52,14.0,Nibali Vincenzo,14,Bahrain Merida Pro Cycling Team,,-,17,2017
+23,33,52,15.0,Andreetta Simone,15,Bardiani - CSF,,-,17,2017
+34,138,50,16.0,Richeze Ariel Maximiliano,16,Quick-Step Floors,,-,17,2017
+26,81,43,17.0,Pinot Thibaut,17,FDJ,,-,17,2017
+30,75,42,20.0,Paterski Maciej,18,CCC Sprandi Polkowice,,\u25b22,17,2017
+27,151,41,21.0,Zakarin Ilnur,19,Team Katusha - Alpecin,,\u25b22,17,2017
+33,94,40,22.0,Kozonchuk Dmitry,20,Gazprom-RusVelo,,\u25b22,17,2017
+27,162,40,23.0,Battaglin Enrico,21,Team LottoNL-Jumbo,,\u25b22,17,2017
+29,117,39,31.0,Izagirre Gorka,22,Movistar Team,,\u25b29,17,2017
+24,121,37,24.0,Yates Adam,23,ORICA-Scott,,\u25b21,17,2017
+27,171,36,25.0,Landa Mikel,24,Team Sky,,\u25b21,17,2017
+30,201,36,43.0,Costa Rui,25,UAE Team Emirates,,\u25b218,17,2017
+25,98,36,26.0,Shalunov Evgeny,26,Gazprom-RusVelo,,-,17,2017
+30,61,34,59.0,Rolland Pierre,27,Cannondale-Drapac Pro Cycling Team,,\u25b232,17,2017
+33,27,34,27.0,Sanchez Luis Leon,28,Astana Pro Team,,\u25bc1,17,2017
+33,204,33,28.0,Marcato Marco,29,UAE Team Emirates,,\u25bc1,17,2017
+25,37,32,29.0,Maestri Mirco,30,Bardiani - CSF,,\u25bc1,17,2017
+22,206,32,41.0,Mohoric Matej,31,UAE Team Emirates,,\u25b210,17,2017
+26,144,30,30.0,Fraile Omar,32,Team Dimension Data,,\u25bc2,17,2017
+34,9,27,32.0,Visconti Giovanni,33,Bahrain Merida Pro Cycling Team,,\u25bc1,17,2017
+27,156,24,33.0,Kuznetsov Viacheslav,34,Team Katusha - Alpecin,,\u25bc1,17,2017
+25,214,24,34.0,Fonzi Giuseppe,35,Wilier Triestina - Selle Italia,,\u25bc1,17,2017
+30,191,22,35.0,Mollema Bauke,36,Trek - Segafredo,,\u25bc1,17,2017
+30,69,22,39.0,Woods Michael,37,Cannondale-Drapac Pro Cycling Team,,\u25b22,17,2017
+27,99,22,36.0,Tsatevich Alexey,38,Gazprom-RusVelo,,\u25bc2,17,2017
+26,215,21,37.0,Koshevoy Ilia,39,Wilier Triestina - Selle Italia,,\u25bc2,17,2017
+34,136,20,38.0,Keisse Iljo,40,Quick-Step Floors,,\u25bc2,17,2017
+29,96,20,40.0,Rovny Ivan,41,Gazprom-RusVelo,,\u25bc1,17,2017
+34,11,18,42.0,Pozzovivo Domenico,42,AG2R La Mondiale,,-,17,2017
+34,91,16,44.0,Firsanov Sergey,43,Gazprom-RusVelo,,\u25b21,17,2017
+27,79,16,45.0,Tratnik Jan,44,CCC Sprandi Polkowice,,\u25b21,17,2017
+25,209,15,46.0,Polanc Jan,45,UAE Team Emirates,,\u25b21,17,2017
+36,95,15,47.0,Lagutin Sergey,46,Gazprom-RusVelo,,\u25b21,17,2017
+34,8,12,48.0,Siutsou Kanstantsin,47,Bahrain Merida Pro Cycling Team,,\u25b21,17,2017
+26,143,12,49.0,Berhane Natnael,48,Team Dimension Data,,\u25b21,17,2017
+27,34,12,54.0,Barbin Enrico,49,Bardiani - CSF,,\u25b25,17,2017
+33,72,12,50.0,Bialoblocki Marcin,50,CCC Sprandi Polkowice,,-,17,2017
+34,142,11,51.0,Anton Igor,51,Team Dimension Data,,-,17,2017
+24,202,11,52.0,Conti Valerio,52,UAE Team Emirates,,-,17,2017
+29,52,11,53.0,Benedetti Cesare,53,BORA - hansgrohe,,-,17,2017
+32,22,10,55.0,Cataldo Dario,54,Astana Pro Team,,\u25b21,17,2017
+27,74,10,56.0,Owsian Lukasz,55,CCC Sprandi Polkowice,,\u25b21,17,2017
+28,139,10,57.0,Serry Pieter,56,Quick-Step Floors,,\u25b21,17,2017
+21,197,10,58.0,Pedersen Mads,57,Trek - Segafredo,,\u25b21,17,2017
+32,51,9,60.0,B\xe1rta Jan,58,BORA - hansgrohe,,\u25b22,17,2017
+33,172,8,61.0,Deignan Philip,59,Team Sky,,\u25b22,17,2017
+33,134,8,86.0,Devenyns Dries,60,Quick-Step Floors,,\u25b226,17,2017
+35,119,8,,Sutherland Rory,61,Movistar Team,,-,17,2017
+23,73,7,,Grossschartner Felix,62,CCC Sprandi Polkowice,,-,17,2017
+29,213,7,95.0,Busato Matteo,63,Wilier Triestina - Selle Italia,,\u25b232,17,2017
+29,161,6,62.0,Kruijswijk Steven,64,Team LottoNL-Jumbo,,\u25bc2,17,2017
+34,109,6,64.0,Monfort Maxime,65,Lotto Soudal,,\u25bc1,17,2017
+24,64,6,63.0,Formolo Davide,66,Cannondale-Drapac Pro Cycling Team,,\u25bc3,17,2017
+25,54,6,65.0,Konrad Patrick,67,BORA - hansgrohe,,\u25bc2,17,2017
+24,208,6,66.0,Petilli Simone,68,UAE Team Emirates,,\u25bc2,17,2017
+23,56,6,67.0,M\xfchlberger Gregor,69,BORA - hansgrohe,,\u25bc2,17,2017
+33,19,6,68.0,Montaguti Matteo,70,AG2R La Mondiale,,\u25bc2,17,2017
+27,177,6,79.0,Puccio Salvatore,71,Team Sky,,\u25b28,17,2017
+33,88,6,85.0,Roy J\xe9r\xe9my,72,FDJ,,\u25b213,17,2017
+35,176,6,69.0,Kiryienka Vasil,73,Team Sky,,\u25bc4,17,2017
+29,146,5,70.0,Janse van Rensburg Jacques,74,Team Dimension Data,,\u25bc4,17,2017
+30,132,4,71.0,Capecchi Eros,75,Quick-Step Floors,,\u25bc4,17,2017
+25,68,4,72.0,Villella Davide,76,Cannondale-Drapac Pro Cycling Team,,\u25bc4,17,2017
+32,2,4,73.0,Agnoli Valerio,77,Bahrain Merida Pro Cycling Team,,\u25bc4,17,2017
+27,125,4,74.0,Juul-Jensen Christopher,78,ORICA-Scott,,\u25bc4,17,2017
+26,149,4,75.0,Van Zyl Johann,79,Team Dimension Data,,\u25bc4,17,2017
+30,112,3,76.0,Amador Andrey,80,Movistar Team,,\u25bc4,17,2017
+39,6,3,77.0,Pellizotti Franco,81,Bahrain Merida Pro Cycling Team,,\u25bc4,17,2017
+32,55,3,78.0,Mendes Jos\xe9,82,BORA - hansgrohe,,\u25bc4,17,2017
+32,169,3,80.0,van Emden Jos,83,Team LottoNL-Jumbo,,\u25bc3,17,2017
+25,106,3,82.0,Hofland Moreno,84,Lotto Soudal,,\u25bc2,17,2017
+27,87,2,83.0,Reichenbach Sebastien,85,FDJ,,\u25bc2,17,2017
+27,85,2,84.0,Molard Rudy,86,FDJ,,\u25bc2,17,2017
+35,89,2,87.0,Vaugrenard Benoit,87,FDJ,,-,17,2017
+30,76,2,88.0,Ponzi Simone,88,CCC Sprandi Polkowice,,-,17,2017
+23,103,2,89.0,de Buyst Jasper,89,Lotto Soudal,,-,17,2017
+40,128,2,90.0,Tuft Svein,90,ORICA-Scott,,-,17,2017
+23,137,2,91.0,Martinelli Davide,91,Quick-Step Floors,,-,17,2017
+36,15,1,92.0,Dupont Hubert,92,AG2R La Mondiale,,-,17,2017
+21,133,1,93.0,De Plus Laurens,93,Quick-Step Floors,,-,17,2017
+25,193,1,,Bernard Julien,94,Trek - Segafredo,,-,17,2017
+35,49,1,94.0,Ventoso Francisco,95,BMC Racing Team,,\u25bc1,17,2017
+37,101,1,96.0,Bak Lars Ytting,96,Lotto Soudal,,-,17,2017
+32,152,1,97.0,Belkov Maxim,97,Team Katusha - Alpecin,,-,17,2017
+28,126,1,98.0,Mezgec Luka,98,ORICA-Scott,,-,17,2017
+22,135,325,1.0,Gaviria Fernando,1,Quick-Step Floors,,-,18,2017
+25,199,192,2.0,Stuyven Jasper,2,Trek - Segafredo,,-,18,2017
+26,53,117,3.0,Bennett Sam,3,BORA - hansgrohe,,-,18,2017
+25,58,98,4.0,P\xf6stlberger Lukas,4,BORA - hansgrohe,,-,18,2017
+28,148,96,5.0,Teklehaimanot Daniel,5,Team Dimension Data,,-,18,2017
+35,92,76,6.0,Brutt Pavel,6,Gazprom-RusVelo,,-,18,2017
+27,147,76,7.0,Sbaragli Kristian,7,Team Dimension Data,,-,18,2017
+27,219,70,8.0,Zhupa Eugert,8,Wilier Triestina - Selle Italia,,-,18,2017
+34,203,70,9.0,Ferrari Roberto,9,UAE Team Emirates,,-,18,2017
+26,43,68,10.0,Dillier Silvan,10,BMC Racing Team,,-,18,2017
+26,181,67,11.0,Dumoulin Tom,11,Team Sunweb,,-,18,2017
+27,111,56,13.0,Quintana Nairo,12,Movistar Team,,\u25b21,18,2017
+24,131,56,12.0,Jungels Bob,13,Quick-Step Floors,,\u25bc1,18,2017
+32,1,52,14.0,Nibali Vincenzo,14,Bahrain Merida Pro Cycling Team,,-,18,2017
+26,81,52,17.0,Pinot Thibaut,15,FDJ,,\u25b22,18,2017
+23,33,52,15.0,Andreetta Simone,16,Bardiani - CSF,,\u25bc1,18,2017
+34,138,50,16.0,Richeze Ariel Maximiliano,17,Quick-Step Floors,,\u25bc1,18,2017
+27,171,48,24.0,Landa Mikel,18,Team Sky,,\u25b26,18,2017
+27,151,46,19.0,Zakarin Ilnur,19,Team Katusha - Alpecin,,-,18,2017
+30,75,42,18.0,Paterski Maciej,20,CCC Sprandi Polkowice,,\u25bc2,18,2017
+33,94,40,20.0,Kozonchuk Dmitry,21,Gazprom-RusVelo,,\u25bc1,18,2017
+27,162,40,21.0,Battaglin Enrico,22,Team LottoNL-Jumbo,,\u25bc1,18,2017
+24,121,37,23.0,Yates Adam,23,ORICA-Scott,,-,18,2017
+30,201,36,25.0,Costa Rui,24,UAE Team Emirates,,\u25b21,18,2017
+25,98,36,26.0,Shalunov Evgeny,25,Gazprom-RusVelo,,\u25b21,18,2017
+29,117,34,22.0,Izagirre Gorka,26,Movistar Team,,\u25bc4,18,2017
+30,61,34,27.0,Rolland Pierre,27,Cannondale-Drapac Pro Cycling Team,,-,18,2017
+33,27,34,28.0,Sanchez Luis Leon,28,Astana Pro Team,,-,18,2017
+33,204,33,29.0,Marcato Marco,29,UAE Team Emirates,,-,18,2017
+25,37,32,30.0,Maestri Mirco,30,Bardiani - CSF,,-,18,2017
+22,206,32,31.0,Mohoric Matej,31,UAE Team Emirates,,-,18,2017
+26,144,30,32.0,Fraile Omar,32,Team Dimension Data,,-,18,2017
+34,9,27,33.0,Visconti Giovanni,33,Bahrain Merida Pro Cycling Team,,-,18,2017
+34,11,25,42.0,Pozzovivo Domenico,34,AG2R La Mondiale,,\u25b28,18,2017
+30,191,25,36.0,Mollema Bauke,35,Trek - Segafredo,,\u25b21,18,2017
+27,156,24,34.0,Kuznetsov Viacheslav,36,Team Katusha - Alpecin,,\u25bc2,18,2017
+25,214,24,35.0,Fonzi Giuseppe,37,Wilier Triestina - Selle Italia,,\u25bc2,18,2017
+30,69,22,37.0,Woods Michael,38,Cannondale-Drapac Pro Cycling Team,,\u25bc1,18,2017
+27,99,22,38.0,Tsatevich Alexey,39,Gazprom-RusVelo,,\u25bc1,18,2017
+26,215,21,39.0,Koshevoy Ilia,40,Wilier Triestina - Selle Italia,,\u25bc1,18,2017
+34,136,20,40.0,Keisse Iljo,41,Quick-Step Floors,,\u25bc1,18,2017
+29,96,20,41.0,Rovny Ivan,42,Gazprom-RusVelo,,\u25bc1,18,2017
+26,143,16,48.0,Berhane Natnael,43,Team Dimension Data,,\u25b25,18,2017
+34,91,16,43.0,Firsanov Sergey,44,Gazprom-RusVelo,,\u25bc1,18,2017
+27,79,16,44.0,Tratnik Jan,45,CCC Sprandi Polkowice,,\u25bc1,18,2017
+25,209,15,45.0,Polanc Jan,46,UAE Team Emirates,,\u25bc1,18,2017
+28,41,15,,van Garderen Tejay,47,BMC Racing Team,,-,18,2017
+36,95,15,46.0,Lagutin Sergey,48,Gazprom-RusVelo,,\u25bc2,18,2017
+34,8,12,47.0,Siutsou Kanstantsin,49,Bahrain Merida Pro Cycling Team,,\u25bc2,18,2017
+27,34,12,49.0,Barbin Enrico,50,Bardiani - CSF,,\u25bc1,18,2017
+33,72,12,50.0,Bialoblocki Marcin,51,CCC Sprandi Polkowice,,\u25bc1,18,2017
+34,142,11,51.0,Anton Igor,52,Team Dimension Data,,\u25bc1,18,2017
+24,202,11,52.0,Conti Valerio,53,UAE Team Emirates,,\u25bc1,18,2017
+29,52,11,53.0,Benedetti Cesare,54,BORA - hansgrohe,,\u25bc1,18,2017
+29,161,10,64.0,Kruijswijk Steven,55,Team LottoNL-Jumbo,,\u25b29,18,2017
+32,22,10,54.0,Cataldo Dario,56,Astana Pro Team,,\u25bc2,18,2017
+27,74,10,55.0,Owsian Lukasz,57,CCC Sprandi Polkowice,,\u25bc2,18,2017
+28,139,10,56.0,Serry Pieter,58,Quick-Step Floors,,\u25bc2,18,2017
+21,197,10,57.0,Pedersen Mads,59,Trek - Segafredo,,\u25bc2,18,2017
+33,172,9,59.0,Deignan Philip,60,Team Sky,,\u25bc1,18,2017
+32,51,9,58.0,B\xe1rta Jan,61,BORA - hansgrohe,,\u25bc3,18,2017
+28,178,8,,Rosa Diego,62,Team Sky,,-,18,2017
+30,3,8,,Boaro Manuele,63,Bahrain Merida Pro Cycling Team,,-,18,2017
+33,134,8,60.0,Devenyns Dries,64,Quick-Step Floors,,\u25bc4,18,2017
+35,119,8,61.0,Sutherland Rory,65,Movistar Team,,\u25bc4,18,2017
+23,73,7,62.0,Grossschartner Felix,66,CCC Sprandi Polkowice,,\u25bc4,18,2017
+29,213,7,63.0,Busato Matteo,67,Wilier Triestina - Selle Italia,,\u25bc4,18,2017
+24,64,6,66.0,Formolo Davide,68,Cannondale-Drapac Pro Cycling Team,,\u25bc2,18,2017
+34,109,6,65.0,Monfort Maxime,69,Lotto Soudal,,\u25bc4,18,2017
+26,71,6,,Hirt Jan,70,CCC Sprandi Polkowice,,-,18,2017
+25,54,6,67.0,Konrad Patrick,71,BORA - hansgrohe,,\u25bc4,18,2017
+24,208,6,68.0,Petilli Simone,72,UAE Team Emirates,,\u25bc4,18,2017
+23,56,6,69.0,M\xfchlberger Gregor,73,BORA - hansgrohe,,\u25bc4,18,2017
+33,19,6,70.0,Montaguti Matteo,74,AG2R La Mondiale,,\u25bc4,18,2017
+27,177,6,71.0,Puccio Salvatore,75,Team Sky,,\u25bc4,18,2017
+33,88,6,72.0,Roy J\xe9r\xe9my,76,FDJ,,\u25bc4,18,2017
+35,176,6,73.0,Kiryienka Vasil,77,Team Sky,,\u25bc4,18,2017
+29,146,5,74.0,Janse van Rensburg Jacques,78,Team Dimension Data,,\u25bc4,18,2017
+30,132,4,75.0,Capecchi Eros,79,Quick-Step Floors,,\u25bc4,18,2017
+25,68,4,76.0,Villella Davide,80,Cannondale-Drapac Pro Cycling Team,,\u25bc4,18,2017
+32,2,4,77.0,Agnoli Valerio,81,Bahrain Merida Pro Cycling Team,,\u25bc4,18,2017
+27,125,4,78.0,Juul-Jensen Christopher,82,ORICA-Scott,,\u25bc4,18,2017
+26,149,4,79.0,Van Zyl Johann,83,Team Dimension Data,,\u25bc4,18,2017
+30,112,3,80.0,Amador Andrey,84,Movistar Team,,\u25bc4,18,2017
+39,6,3,81.0,Pellizotti Franco,85,Bahrain Merida Pro Cycling Team,,\u25bc4,18,2017
+32,55,3,82.0,Mendes Jos\xe9,86,BORA - hansgrohe,,\u25bc4,18,2017
+32,169,3,83.0,van Emden Jos,87,Team LottoNL-Jumbo,,\u25bc4,18,2017
+25,106,3,84.0,Hofland Moreno,88,Lotto Soudal,,\u25bc4,18,2017
+27,87,2,85.0,Reichenbach Sebastien,89,FDJ,,\u25bc4,18,2017
+27,85,2,86.0,Molard Rudy,90,FDJ,,\u25bc4,18,2017
+35,89,2,87.0,Vaugrenard Benoit,91,FDJ,,\u25bc4,18,2017
+30,76,2,88.0,Ponzi Simone,92,CCC Sprandi Polkowice,,\u25bc4,18,2017
+40,128,2,90.0,Tuft Svein,93,ORICA-Scott,,\u25bc3,18,2017
+23,137,2,91.0,Martinelli Davide,94,Quick-Step Floors,,\u25bc3,18,2017
+36,15,1,92.0,Dupont Hubert,95,AG2R La Mondiale,,\u25bc3,18,2017
+21,133,1,93.0,De Plus Laurens,96,Quick-Step Floors,,\u25bc3,18,2017
+25,193,1,94.0,Bernard Julien,97,Trek - Segafredo,,\u25bc3,18,2017
+27,46,1,,Rosskopf Joey,98,BMC Racing Team,,-,18,2017
+35,49,1,95.0,Ventoso Francisco,99,BMC Racing Team,,\u25bc4,18,2017
+37,101,1,96.0,Bak Lars Ytting,100,Lotto Soudal,,\u25bc4,18,2017
+28,126,1,98.0,Mezgec Luka,101,ORICA-Scott,,\u25bc3,18,2017
+32,152,1,97.0,Belkov Maxim,102,Team Katusha - Alpecin,,\u25bc5,18,2017
+22,135,325,1.0,Gaviria Fernando,1,Quick-Step Floors,,-,19,2017
+25,199,192,2.0,Stuyven Jasper,2,Trek - Segafredo,,-,19,2017
+26,53,117,3.0,Bennett Sam,3,BORA - hansgrohe,,-,19,2017
+28,148,100,5.0,Teklehaimanot Daniel,4,Team Dimension Data,,\u25b21,19,2017
+25,58,98,4.0,P\xf6stlberger Lukas,5,BORA - hansgrohe,,\u25bc1,19,2017
+35,92,76,6.0,Brutt Pavel,6,Gazprom-RusVelo,,-,19,2017
+27,147,76,7.0,Sbaragli Kristian,7,Team Dimension Data,,-,19,2017
+27,219,70,8.0,Zhupa Eugert,8,Wilier Triestina - Selle Italia,,-,19,2017
+34,203,70,9.0,Ferrari Roberto,9,UAE Team Emirates,,-,19,2017
+26,43,68,10.0,Dillier Silvan,10,BMC Racing Team,,-,19,2017
+26,181,67,11.0,Dumoulin Tom,11,Team Sunweb,,-,19,2017
+27,171,63,18.0,Landa Mikel,12,Team Sky,,\u25b26,19,2017
+27,111,56,12.0,Quintana Nairo,13,Movistar Team,,\u25bc1,19,2017
+24,131,56,13.0,Jungels Bob,14,Quick-Step Floors,,\u25bc1,19,2017
+32,1,52,14.0,Nibali Vincenzo,15,Bahrain Merida Pro Cycling Team,,\u25bc1,19,2017
+26,81,52,15.0,Pinot Thibaut,16,FDJ,,\u25bc1,19,2017
+23,33,52,16.0,Andreetta Simone,17,Bardiani - CSF,,\u25bc1,19,2017
+34,138,50,17.0,Richeze Ariel Maximiliano,18,Quick-Step Floors,,\u25bc1,19,2017
+30,201,48,24.0,Costa Rui,19,UAE Team Emirates,,\u25b25,19,2017
+30,61,47,27.0,Rolland Pierre,20,Cannondale-Drapac Pro Cycling Team,,\u25b27,19,2017
+27,151,46,19.0,Zakarin Ilnur,21,Team Katusha - Alpecin,,\u25bc2,19,2017
+30,75,42,20.0,Paterski Maciej,22,CCC Sprandi Polkowice,,\u25bc2,19,2017
+25,98,41,25.0,Shalunov Evgeny,23,Gazprom-RusVelo,,\u25b22,19,2017
+33,94,40,21.0,Kozonchuk Dmitry,24,Gazprom-RusVelo,,\u25bc3,19,2017
+27,162,40,22.0,Battaglin Enrico,25,Team LottoNL-Jumbo,,\u25bc3,19,2017
+33,27,38,28.0,Sanchez Luis Leon,26,Astana Pro Team,,\u25b22,19,2017
+24,121,37,23.0,Yates Adam,27,ORICA-Scott,,\u25bc4,19,2017
+29,117,34,26.0,Izagirre Gorka,28,Movistar Team,,\u25bc2,19,2017
+33,204,33,29.0,Marcato Marco,29,UAE Team Emirates,,-,19,2017
+25,37,32,30.0,Maestri Mirco,30,Bardiani - CSF,,-,19,2017
+22,206,32,31.0,Mohoric Matej,31,UAE Team Emirates,,-,19,2017
+26,144,30,32.0,Fraile Omar,32,Team Dimension Data,,-,19,2017
+34,9,27,33.0,Visconti Giovanni,33,Bahrain Merida Pro Cycling Team,,-,19,2017
+34,11,25,34.0,Pozzovivo Domenico,34,AG2R La Mondiale,,-,19,2017
+30,191,25,35.0,Mollema Bauke,35,Trek - Segafredo,,-,19,2017
+27,156,24,36.0,Kuznetsov Viacheslav,36,Team Katusha - Alpecin,,-,19,2017
+25,214,24,37.0,Fonzi Giuseppe,37,Wilier Triestina - Selle Italia,,-,19,2017
+30,69,22,38.0,Woods Michael,38,Cannondale-Drapac Pro Cycling Team,,-,19,2017
+27,99,22,39.0,Tsatevich Alexey,39,Gazprom-RusVelo,,-,19,2017
+26,215,22,40.0,Koshevoy Ilia,40,Wilier Triestina - Selle Italia,,-,19,2017
+34,136,20,41.0,Keisse Iljo,41,Quick-Step Floors,,-,19,2017
+29,96,20,42.0,Rovny Ivan,42,Gazprom-RusVelo,,-,19,2017
+33,134,16,64.0,Devenyns Dries,43,Quick-Step Floors,,\u25b221,19,2017
+26,143,16,43.0,Berhane Natnael,44,Team Dimension Data,,\u25bc1,19,2017
+34,91,16,44.0,Firsanov Sergey,45,Gazprom-RusVelo,,\u25bc1,19,2017
+27,79,16,45.0,Tratnik Jan,46,CCC Sprandi Polkowice,,\u25bc1,19,2017
+25,209,15,46.0,Polanc Jan,47,UAE Team Emirates,,\u25bc1,19,2017
+28,41,15,47.0,van Garderen Tejay,48,BMC Racing Team,,\u25bc1,19,2017
+36,95,15,48.0,Lagutin Sergey,49,Gazprom-RusVelo,,\u25bc1,19,2017
+30,132,12,79.0,Capecchi Eros,50,Quick-Step Floors,,\u25b229,19,2017
+34,8,12,49.0,Siutsou Kanstantsin,51,Bahrain Merida Pro Cycling Team,,\u25bc2,19,2017
+27,34,12,50.0,Barbin Enrico,52,Bardiani - CSF,,\u25bc2,19,2017
+33,72,12,51.0,Bialoblocki Marcin,53,CCC Sprandi Polkowice,,\u25bc2,19,2017
+34,142,11,52.0,Anton Igor,54,Team Dimension Data,,\u25bc2,19,2017
+24,202,11,53.0,Conti Valerio,55,UAE Team Emirates,,\u25bc2,19,2017
+29,52,11,54.0,Benedetti Cesare,56,BORA - hansgrohe,,\u25bc2,19,2017
+29,161,10,55.0,Kruijswijk Steven,57,Team LottoNL-Jumbo,,\u25bc2,19,2017
+32,22,10,56.0,Cataldo Dario,58,Astana Pro Team,,\u25bc2,19,2017
+27,74,10,57.0,Owsian Lukasz,59,CCC Sprandi Polkowice,,\u25bc2,19,2017
+28,139,10,58.0,Serry Pieter,60,Quick-Step Floors,,\u25bc2,19,2017
+21,197,10,59.0,Pedersen Mads,61,Trek - Segafredo,,\u25bc2,19,2017
+33,172,9,60.0,Deignan Philip,62,Team Sky,,\u25bc2,19,2017
+32,51,9,61.0,B\xe1rta Jan,63,BORA - hansgrohe,,\u25bc2,19,2017
+28,178,8,62.0,Rosa Diego,64,Team Sky,,\u25bc2,19,2017
+30,3,8,63.0,Boaro Manuele,65,Bahrain Merida Pro Cycling Team,,\u25bc2,19,2017
+35,119,8,65.0,Sutherland Rory,66,Movistar Team,,\u25bc1,19,2017
+23,56,7,73.0,M\xfchlberger Gregor,67,BORA - hansgrohe,,\u25b26,19,2017
+27,23,7,,Bilbao Pello,68,Astana Pro Team,,-,19,2017
+23,73,7,66.0,Grossschartner Felix,69,CCC Sprandi Polkowice,,\u25bc3,19,2017
+24,64,6,68.0,Formolo Davide,70,Cannondale-Drapac Pro Cycling Team,,\u25bc2,19,2017
+34,109,6,69.0,Monfort Maxime,71,Lotto Soudal,,\u25bc2,19,2017
+26,71,6,70.0,Hirt Jan,72,CCC Sprandi Polkowice,,\u25bc2,19,2017
+25,54,6,71.0,Konrad Patrick,73,BORA - hansgrohe,,\u25bc2,19,2017
+24,208,6,72.0,Petilli Simone,74,UAE Team Emirates,,\u25bc2,19,2017
+23,175,6,,Henao Sebasti\xe1n,75,Team Sky,,-,19,2017
+33,19,6,74.0,Montaguti Matteo,76,AG2R La Mondiale,,\u25bc2,19,2017
+33,88,6,76.0,Roy J\xe9r\xe9my,77,FDJ,,\u25bc1,19,2017
+27,177,6,75.0,Puccio Salvatore,78,Team Sky,,\u25bc3,19,2017
+35,176,6,77.0,Kiryienka Vasil,79,Team Sky,,\u25bc2,19,2017
+29,146,5,78.0,Janse van Rensburg Jacques,80,Team Dimension Data,,\u25bc2,19,2017
+29,213,5,67.0,Busato Matteo,81,Wilier Triestina - Selle Italia,,\u25bc14,19,2017
+25,68,4,80.0,Villella Davide,82,Cannondale-Drapac Pro Cycling Team,,\u25bc2,19,2017
+32,2,4,81.0,Agnoli Valerio,83,Bahrain Merida Pro Cycling Team,,\u25bc2,19,2017
+27,125,4,82.0,Juul-Jensen Christopher,84,ORICA-Scott,,\u25bc2,19,2017
+26,149,4,83.0,Van Zyl Johann,85,Team Dimension Data,,\u25bc2,19,2017
+30,112,3,84.0,Amador Andrey,86,Movistar Team,,\u25bc2,19,2017
+39,6,3,85.0,Pellizotti Franco,87,Bahrain Merida Pro Cycling Team,,\u25bc2,19,2017
+32,55,3,86.0,Mendes Jos\xe9,88,BORA - hansgrohe,,\u25bc2,19,2017
+32,169,3,87.0,van Emden Jos,89,Team LottoNL-Jumbo,,\u25bc2,19,2017
+25,106,3,88.0,Hofland Moreno,90,Lotto Soudal,,\u25bc2,19,2017
+27,87,2,89.0,Reichenbach Sebastien,91,FDJ,,\u25bc2,19,2017
+27,85,2,90.0,Molard Rudy,92,FDJ,,\u25bc2,19,2017
+35,89,2,91.0,Vaugrenard Benoit,93,FDJ,,\u25bc2,19,2017
+30,76,2,92.0,Ponzi Simone,94,CCC Sprandi Polkowice,,\u25bc2,19,2017
+40,128,2,93.0,Tuft Svein,95,ORICA-Scott,,\u25bc2,19,2017
+22,38,2,,Rota Lorenzo,96,Bardiani - CSF,,-,19,2017
+23,137,2,94.0,Martinelli Davide,97,Quick-Step Floors,,\u25bc3,19,2017
+36,15,1,95.0,Dupont Hubert,98,AG2R La Mondiale,,\u25bc3,19,2017
+21,133,1,96.0,De Plus Laurens,99,Quick-Step Floors,,\u25bc3,19,2017
+25,193,1,97.0,Bernard Julien,100,Trek - Segafredo,,\u25bc3,19,2017
+27,46,1,98.0,Rosskopf Joey,101,BMC Racing Team,,\u25bc3,19,2017
+35,49,1,99.0,Ventoso Francisco,102,BMC Racing Team,,\u25bc3,19,2017
+37,101,1,100.0,Bak Lars Ytting,103,Lotto Soudal,,\u25bc3,19,2017
+28,126,1,101.0,Mezgec Luka,104,ORICA-Scott,,\u25bc3,19,2017
+32,152,1,102.0,Belkov Maxim,105,Team Katusha - Alpecin,,\u25bc3,19,2017
+27,35,1,,Boem Nicola,106,Bardiani - CSF,,-,19,2017
+22,135,325,1.0,Gaviria Fernando,1,Quick-Step Floors,,-,20,2017
+25,199,192,2.0,Stuyven Jasper,2,Trek - Segafredo,,-,20,2017
+26,53,117,3.0,Bennett Sam,3,BORA - hansgrohe,,-,20,2017
+28,148,100,4.0,Teklehaimanot Daniel,4,Team Dimension Data,,-,20,2017
+25,58,98,5.0,P\xf6stlberger Lukas,5,BORA - hansgrohe,,-,20,2017
+35,92,76,6.0,Brutt Pavel,6,Gazprom-RusVelo,,-,20,2017
+27,147,76,7.0,Sbaragli Kristian,7,Team Dimension Data,,-,20,2017
+27,219,70,8.0,Zhupa Eugert,8,Wilier Triestina - Selle Italia,,-,20,2017
+34,203,70,9.0,Ferrari Roberto,9,UAE Team Emirates,,-,20,2017
+26,181,68,11.0,Dumoulin Tom,10,Team Sunweb,,\u25b21,20,2017
+26,43,68,10.0,Dillier Silvan,11,BMC Racing Team,,\u25bc1,20,2017
+26,81,67,16.0,Pinot Thibaut,12,FDJ,,\u25b24,20,2017
+27,171,63,12.0,Landa Mikel,13,Team Sky,,\u25bc1,20,2017
+27,111,62,13.0,Quintana Nairo,14,Movistar Team,,\u25bc1,20,2017
+32,1,61,15.0,Nibali Vincenzo,15,Bahrain Merida Pro Cycling Team,,-,20,2017
+24,131,61,14.0,Jungels Bob,16,Quick-Step Floors,,\u25bc2,20,2017
+27,151,58,21.0,Zakarin Ilnur,17,Team Katusha - Alpecin,,\u25b24,20,2017
+23,33,52,17.0,Andreetta Simone,18,Bardiani - CSF,,\u25bc1,20,2017
+34,138,50,18.0,Richeze Ariel Maximiliano,19,Quick-Step Floors,,\u25bc1,20,2017
+30,201,48,19.0,Costa Rui,20,UAE Team Emirates,,\u25bc1,20,2017
+30,61,47,20.0,Rolland Pierre,21,Cannondale-Drapac Pro Cycling Team,,\u25bc1,20,2017
+30,75,42,22.0,Paterski Maciej,22,CCC Sprandi Polkowice,,-,20,2017
+24,121,41,27.0,Yates Adam,23,ORICA-Scott,,\u25b24,20,2017
+25,98,41,23.0,Shalunov Evgeny,24,Gazprom-RusVelo,,\u25bc1,20,2017
+33,94,40,24.0,Kozonchuk Dmitry,25,Gazprom-RusVelo,,\u25bc1,20,2017
+27,162,40,25.0,Battaglin Enrico,26,Team LottoNL-Jumbo,,\u25bc1,20,2017
+33,27,38,26.0,Sanchez Luis Leon,27,Astana Pro Team,,\u25bc1,20,2017
+29,117,34,28.0,Izagirre Gorka,28,Movistar Team,,-,20,2017
+33,204,33,29.0,Marcato Marco,29,UAE Team Emirates,,-,20,2017
+25,37,32,30.0,Maestri Mirco,30,Bardiani - CSF,,-,20,2017
+34,11,32,34.0,Pozzovivo Domenico,31,AG2R La Mondiale,,\u25b23,20,2017
+22,206,32,31.0,Mohoric Matej,32,UAE Team Emirates,,\u25bc1,20,2017
+26,144,30,32.0,Fraile Omar,33,Team Dimension Data,,\u25bc1,20,2017
+30,191,27,35.0,Mollema Bauke,34,Trek - Segafredo,,\u25b21,20,2017
+27,156,24,36.0,Kuznetsov Viacheslav,35,Team Katusha - Alpecin,,\u25b21,20,2017
+25,214,24,37.0,Fonzi Giuseppe,36,Wilier Triestina - Selle Italia,,\u25b21,20,2017
+30,69,22,38.0,Woods Michael,37,Cannondale-Drapac Pro Cycling Team,,\u25b21,20,2017
+27,99,22,39.0,Tsatevich Alexey,38,Gazprom-RusVelo,,\u25b21,20,2017
+26,215,22,40.0,Koshevoy Ilia,39,Wilier Triestina - Selle Italia,,\u25b21,20,2017
+33,134,20,43.0,Devenyns Dries,40,Quick-Step Floors,,\u25b23,20,2017
+34,136,20,41.0,Keisse Iljo,41,Quick-Step Floors,,-,20,2017
+29,96,20,42.0,Rovny Ivan,42,Gazprom-RusVelo,,-,20,2017
+26,143,16,44.0,Berhane Natnael,43,Team Dimension Data,,\u25b21,20,2017
+34,91,16,45.0,Firsanov Sergey,44,Gazprom-RusVelo,,\u25b21,20,2017
+27,79,16,46.0,Tratnik Jan,45,CCC Sprandi Polkowice,,\u25b21,20,2017
+25,209,15,47.0,Polanc Jan,46,UAE Team Emirates,,\u25b21,20,2017
+28,41,15,48.0,van Garderen Tejay,47,BMC Racing Team,,\u25b21,20,2017
+36,95,15,49.0,Lagutin Sergey,48,Gazprom-RusVelo,,\u25b21,20,2017
+30,132,12,50.0,Capecchi Eros,49,Quick-Step Floors,,\u25b21,20,2017
+34,8,12,51.0,Siutsou Kanstantsin,50,Bahrain Merida Pro Cycling Team,,\u25b21,20,2017
+27,34,12,52.0,Barbin Enrico,51,Bardiani - CSF,,\u25b21,20,2017
+33,72,12,53.0,Bialoblocki Marcin,52,CCC Sprandi Polkowice,,\u25b21,20,2017
+34,142,11,54.0,Anton Igor,53,Team Dimension Data,,\u25b21,20,2017
+24,202,11,55.0,Conti Valerio,54,UAE Team Emirates,,\u25b21,20,2017
+29,52,11,56.0,Benedetti Cesare,55,BORA - hansgrohe,,\u25b21,20,2017
+32,22,10,58.0,Cataldo Dario,56,Astana Pro Team,,\u25b22,20,2017
+27,74,10,59.0,Owsian Lukasz,57,CCC Sprandi Polkowice,,\u25b22,20,2017
+28,139,10,60.0,Serry Pieter,58,Quick-Step Floors,,\u25b22,20,2017
+21,197,10,61.0,Pedersen Mads,59,Trek - Segafredo,,\u25b22,20,2017
+33,172,9,62.0,Deignan Philip,60,Team Sky,,\u25b22,20,2017
+32,83,9,,Ladagnous Matthieu,61,FDJ,,-,20,2017
+32,51,9,63.0,B\xe1rta Jan,62,BORA - hansgrohe,,\u25b21,20,2017
+28,178,8,64.0,Rosa Diego,63,Team Sky,,\u25b21,20,2017
+30,3,8,65.0,Boaro Manuele,64,Bahrain Merida Pro Cycling Team,,\u25b21,20,2017
+25,48,8,,Teuns Dylan,65,BMC Racing Team,,-,20,2017
+35,119,8,66.0,Sutherland Rory,66,Movistar Team,,-,20,2017
+23,56,7,67.0,M\xfchlberger Gregor,67,BORA - hansgrohe,,-,20,2017
+27,23,7,68.0,Bilbao Pello,68,Astana Pro Team,,-,20,2017
+23,73,7,69.0,Grossschartner Felix,69,CCC Sprandi Polkowice,,-,20,2017
+24,64,6,70.0,Formolo Davide,70,Cannondale-Drapac Pro Cycling Team,,-,20,2017
+26,71,6,72.0,Hirt Jan,71,CCC Sprandi Polkowice,,\u25b21,20,2017
+34,109,6,71.0,Monfort Maxime,72,Lotto Soudal,,\u25bc1,20,2017
+25,54,6,73.0,Konrad Patrick,73,BORA - hansgrohe,,-,20,2017
+24,208,6,74.0,Petilli Simone,74,UAE Team Emirates,,-,20,2017
+23,175,6,75.0,Henao Sebasti\xe1n,75,Team Sky,,-,20,2017
+33,19,6,76.0,Montaguti Matteo,76,AG2R La Mondiale,,-,20,2017
+33,88,6,77.0,Roy J\xe9r\xe9my,77,FDJ,,-,20,2017
+27,177,6,78.0,Puccio Salvatore,78,Team Sky,,-,20,2017
+35,176,6,79.0,Kiryienka Vasil,79,Team Sky,,-,20,2017
+27,87,5,91.0,Reichenbach Sebastien,80,FDJ,,\u25b211,20,2017
+29,146,5,80.0,Janse van Rensburg Jacques,81,Team Dimension Data,,\u25bc1,20,2017
+29,213,5,81.0,Busato Matteo,82,Wilier Triestina - Selle Italia,,\u25bc1,20,2017
+25,68,4,82.0,Villella Davide,83,Cannondale-Drapac Pro Cycling Team,,\u25bc1,20,2017
+35,211,4,,Pozzato Filippo,84,Wilier Triestina - Selle Italia,,-,20,2017
+32,2,4,83.0,Agnoli Valerio,85,Bahrain Merida Pro Cycling Team,,\u25bc2,20,2017
+27,125,4,84.0,Juul-Jensen Christopher,86,ORICA-Scott,,\u25bc2,20,2017
+26,149,4,85.0,Van Zyl Johann,87,Team Dimension Data,,\u25bc2,20,2017
+30,112,3,86.0,Amador Andrey,88,Movistar Team,,\u25bc2,20,2017
+39,6,3,87.0,Pellizotti Franco,89,Bahrain Merida Pro Cycling Team,,\u25bc2,20,2017
+32,55,3,88.0,Mendes Jos\xe9,90,BORA - hansgrohe,,\u25bc2,20,2017
+32,169,3,89.0,van Emden Jos,91,Team LottoNL-Jumbo,,\u25bc2,20,2017
+25,106,3,90.0,Hofland Moreno,92,Lotto Soudal,,\u25bc2,20,2017
+27,85,2,92.0,Molard Rudy,93,FDJ,,\u25bc1,20,2017
+35,89,2,93.0,Vaugrenard Benoit,94,FDJ,,\u25bc1,20,2017
+30,76,2,94.0,Ponzi Simone,95,CCC Sprandi Polkowice,,\u25bc1,20,2017
+40,128,2,95.0,Tuft Svein,96,ORICA-Scott,,\u25bc1,20,2017
+22,38,2,96.0,Rota Lorenzo,97,Bardiani - CSF,,\u25bc1,20,2017
+23,137,2,97.0,Martinelli Davide,98,Quick-Step Floors,,\u25bc1,20,2017
+36,15,1,98.0,Dupont Hubert,99,AG2R La Mondiale,,\u25bc1,20,2017
+21,133,1,99.0,De Plus Laurens,100,Quick-Step Floors,,\u25bc1,20,2017
+25,193,1,100.0,Bernard Julien,101,Trek - Segafredo,,\u25bc1,20,2017
+27,46,1,101.0,Rosskopf Joey,102,BMC Racing Team,,\u25bc1,20,2017
+27,67,1,,Slagter Tom-Jelte,103,Cannondale-Drapac Pro Cycling Team,,-,20,2017
+35,49,1,102.0,Ventoso Francisco,104,BMC Racing Team,,\u25bc2,20,2017
+28,126,1,104.0,Mezgec Luka,105,ORICA-Scott,,\u25bc1,20,2017
+37,101,1,103.0,Bak Lars Ytting,106,Lotto Soudal,,\u25bc3,20,2017
+32,152,1,105.0,Belkov Maxim,107,Team Katusha - Alpecin,,\u25bc2,20,2017
+27,35,1,106.0,Boem Nicola,108,Bardiani - CSF,,\u25bc2,20,2017
+22,135,325,1.0,Gaviria Fernando,1,Quick-Step Floors,100.0,-,21,2017
+25,199,192,2.0,Stuyven Jasper,2,Trek - Segafredo,40.0,-,21,2017
+26,53,117,3.0,Bennett Sam,3,BORA - hansgrohe,20.0,-,21,2017
+28,148,100,4.0,Teklehaimanot Daniel,4,Team Dimension Data,,-,21,2017
+25,58,98,5.0,P\xf6stlberger Lukas,5,BORA - hansgrohe,,-,21,2017
+26,181,80,10.0,Dumoulin Tom,6,Team Sunweb,,\u25b24,21,2017
+35,92,76,6.0,Brutt Pavel,7,Gazprom-RusVelo,,\u25bc1,21,2017
+27,147,76,7.0,Sbaragli Kristian,8,Team Dimension Data,,\u25bc1,21,2017
+27,219,70,8.0,Zhupa Eugert,9,Wilier Triestina - Selle Italia,,\u25bc1,21,2017
+34,203,70,9.0,Ferrari Roberto,10,UAE Team Emirates,,\u25bc1,21,2017
+26,43,68,11.0,Dillier Silvan,11,BMC Racing Team,,-,21,2017
+26,81,67,12.0,Pinot Thibaut,12,FDJ,,-,21,2017
+24,131,64,16.0,Jungels Bob,13,Quick-Step Floors,,\u25b23,21,2017
+27,171,63,13.0,Landa Mikel,14,Team Sky,,\u25bc1,21,2017
+27,111,62,14.0,Quintana Nairo,15,Movistar Team,,\u25bc1,21,2017
+32,1,61,15.0,Nibali Vincenzo,16,Bahrain Merida Pro Cycling Team,,\u25bc1,21,2017
+27,151,58,17.0,Zakarin Ilnur,17,Team Katusha - Alpecin,,-,21,2017
+23,33,52,18.0,Andreetta Simone,18,Bardiani - CSF,,-,21,2017
+34,138,50,19.0,Richeze Ariel Maximiliano,19,Quick-Step Floors,,-,21,2017
+30,201,48,20.0,Costa Rui,20,UAE Team Emirates,,-,21,2017
+30,61,47,21.0,Rolland Pierre,21,Cannondale-Drapac Pro Cycling Team,,-,21,2017
+30,75,42,22.0,Paterski Maciej,22,CCC Sprandi Polkowice,,-,21,2017
+24,121,41,23.0,Yates Adam,23,ORICA-Scott,,-,21,2017
+25,98,41,24.0,Shalunov Evgeny,24,Gazprom-RusVelo,,-,21,2017
+33,94,40,25.0,Kozonchuk Dmitry,25,Gazprom-RusVelo,,-,21,2017
+27,162,40,26.0,Battaglin Enrico,26,Team LottoNL-Jumbo,,-,21,2017
+33,27,38,27.0,Sanchez Luis Leon,27,Astana Pro Team,,-,21,2017
+29,117,34,28.0,Izagirre Gorka,28,Movistar Team,,-,21,2017
+33,204,33,29.0,Marcato Marco,29,UAE Team Emirates,,-,21,2017
+25,37,32,30.0,Maestri Mirco,30,Bardiani - CSF,,-,21,2017
+34,11,32,31.0,Pozzovivo Domenico,31,AG2R La Mondiale,,-,21,2017
+22,206,32,32.0,Mohoric Matej,32,UAE Team Emirates,,-,21,2017
+26,144,30,33.0,Fraile Omar,33,Team Dimension Data,,-,21,2017
+30,191,27,34.0,Mollema Bauke,34,Trek - Segafredo,,-,21,2017
+27,156,24,35.0,Kuznetsov Viacheslav,35,Team Katusha - Alpecin,,-,21,2017
+25,214,24,36.0,Fonzi Giuseppe,36,Wilier Triestina - Selle Italia,,-,21,2017
+30,69,22,37.0,Woods Michael,37,Cannondale-Drapac Pro Cycling Team,,-,21,2017
+27,99,22,38.0,Tsatevich Alexey,38,Gazprom-RusVelo,,-,21,2017
+26,215,22,39.0,Koshevoy Ilia,39,Wilier Triestina - Selle Italia,,-,21,2017
+33,134,20,40.0,Devenyns Dries,40,Quick-Step Floors,,-,21,2017
+34,136,20,41.0,Keisse Iljo,41,Quick-Step Floors,,-,21,2017
+29,96,20,42.0,Rovny Ivan,42,Gazprom-RusVelo,,-,21,2017
+32,169,18,91.0,van Emden Jos,43,Team LottoNL-Jumbo,,\u25b248,21,2017
+27,79,18,45.0,Tratnik Jan,44,CCC Sprandi Polkowice,,\u25b21,21,2017
+26,143,16,43.0,Berhane Natnael,45,Team Dimension Data,,\u25bc2,21,2017
+34,91,16,44.0,Firsanov Sergey,46,Gazprom-RusVelo,,\u25bc2,21,2017
+28,41,15,47.0,van Garderen Tejay,47,BMC Racing Team,,-,21,2017
+36,95,15,48.0,Lagutin Sergey,48,Gazprom-RusVelo,,-,21,2017
+32,51,14,62.0,B\xe1rta Jan,49,BORA - hansgrohe,,\u25b213,21,2017
+35,176,13,79.0,Kiryienka Vasil,50,Team Sky,,\u25b229,21,2017
+30,132,12,49.0,Capecchi Eros,51,Quick-Step Floors,,\u25bc2,21,2017
+34,8,12,50.0,Siutsou Kanstantsin,52,Bahrain Merida Pro Cycling Team,,\u25bc2,21,2017
+27,34,12,51.0,Barbin Enrico,53,Bardiani - CSF,,\u25bc2,21,2017
+33,72,12,52.0,Bialoblocki Marcin,54,CCC Sprandi Polkowice,,\u25bc2,21,2017
+34,142,11,53.0,Anton Igor,55,Team Dimension Data,,\u25bc2,21,2017
+24,202,11,54.0,Conti Valerio,56,UAE Team Emirates,,\u25bc2,21,2017
+29,52,11,55.0,Benedetti Cesare,57,BORA - hansgrohe,,\u25bc2,21,2017
+25,209,10,46.0,Polanc Jan,58,UAE Team Emirates,,\u25bc12,21,2017
+32,22,10,56.0,Cataldo Dario,59,Astana Pro Team,,\u25bc3,21,2017
+27,74,10,57.0,Owsian Lukasz,60,CCC Sprandi Polkowice,,\u25bc3,21,2017
+28,139,10,58.0,Serry Pieter,61,Quick-Step Floors,,\u25bc3,21,2017
+21,197,10,59.0,Pedersen Mads,62,Trek - Segafredo,,\u25bc3,21,2017
+33,172,9,60.0,Deignan Philip,63,Team Sky,,\u25bc3,21,2017
+32,83,9,61.0,Ladagnous Matthieu,64,FDJ,,\u25bc3,21,2017
+37,45,9,,Quinziato Manuel,65,BMC Racing Team,,-,21,2017
+28,178,8,63.0,Rosa Diego,66,Team Sky,,\u25bc3,21,2017
+30,3,8,64.0,Boaro Manuele,67,Bahrain Merida Pro Cycling Team,,\u25bc3,21,2017
+25,48,8,65.0,Teuns Dylan,68,BMC Racing Team,,\u25bc3,21,2017
+35,119,8,66.0,Sutherland Rory,69,Movistar Team,,\u25bc3,21,2017
+23,56,7,67.0,M\xfchlberger Gregor,70,BORA - hansgrohe,,\u25bc3,21,2017
+27,23,7,68.0,Bilbao Pello,71,Astana Pro Team,,\u25bc3,21,2017
+27,46,7,102.0,Rosskopf Joey,72,BMC Racing Team,,\u25b230,21,2017
+23,73,7,69.0,Grossschartner Felix,73,CCC Sprandi Polkowice,,\u25bc4,21,2017
+24,64,6,70.0,Formolo Davide,74,Cannondale-Drapac Pro Cycling Team,,\u25bc4,21,2017
+26,71,6,71.0,Hirt Jan,75,CCC Sprandi Polkowice,,\u25bc4,21,2017
+34,109,6,72.0,Monfort Maxime,76,Lotto Soudal,,\u25bc4,21,2017
+25,54,6,73.0,Konrad Patrick,77,BORA - hansgrohe,,\u25bc4,21,2017
+24,208,6,74.0,Petilli Simone,78,UAE Team Emirates,,\u25bc4,21,2017
+23,175,6,75.0,Henao Sebasti\xe1n,79,Team Sky,,\u25bc4,21,2017
+33,19,6,76.0,Montaguti Matteo,80,AG2R La Mondiale,,\u25bc4,21,2017
+33,88,6,77.0,Roy J\xe9r\xe9my,81,FDJ,,\u25bc4,21,2017
+27,177,6,78.0,Puccio Salvatore,82,Team Sky,,\u25bc4,21,2017
+28,87,5,80.0,Reichenbach Sebastien,83,FDJ,,\u25bc3,21,2017
+29,146,5,81.0,Janse van Rensburg Jacques,84,Team Dimension Data,,\u25bc3,21,2017
+29,213,5,82.0,Busato Matteo,85,Wilier Triestina - Selle Italia,,\u25bc3,21,2017
+30,112,4,88.0,Amador Andrey,86,Movistar Team,,\u25b22,21,2017
+26,187,4,,Preidler Georg,87,Team Sunweb,,-,21,2017
+25,68,4,83.0,Villella Davide,88,Cannondale-Drapac Pro Cycling Team,,\u25bc5,21,2017
+35,211,4,84.0,Pozzato Filippo,89,Wilier Triestina - Selle Italia,,\u25bc5,21,2017
+27,125,4,86.0,Juul-Jensen Christopher,90,ORICA-Scott,,\u25bc4,21,2017
+32,2,4,85.0,Agnoli Valerio,91,Bahrain Merida Pro Cycling Team,,\u25bc6,21,2017
+26,149,4,87.0,Van Zyl Johann,92,Team Dimension Data,,\u25bc5,21,2017
+39,6,3,89.0,Pellizotti Franco,93,Bahrain Merida Pro Cycling Team,,\u25bc4,21,2017
+32,55,3,90.0,Mendes Jos\xe9,94,BORA - hansgrohe,,\u25bc4,21,2017
+25,106,3,92.0,Hofland Moreno,95,Lotto Soudal,,\u25bc3,21,2017
+27,85,2,93.0,Molard Rudy,96,FDJ,,\u25bc3,21,2017
+35,89,2,94.0,Vaugrenard Benoit,97,FDJ,,\u25bc3,21,2017
+30,76,2,95.0,Ponzi Simone,98,CCC Sprandi Polkowice,,\u25bc3,21,2017
+40,128,2,96.0,Tuft Svein,99,ORICA-Scott,,\u25bc3,21,2017
+22,38,2,97.0,Rota Lorenzo,100,Bardiani - CSF,,\u25bc3,21,2017
+23,137,2,98.0,Martinelli Davide,101,Quick-Step Floors,,\u25bc3,21,2017
+36,15,1,99.0,Dupont Hubert,102,AG2R La Mondiale,,\u25bc3,21,2017
+21,133,1,100.0,De Plus Laurens,103,Quick-Step Floors,,\u25bc3,21,2017
+25,193,1,101.0,Bernard Julien,104,Trek - Segafredo,,\u25bc3,21,2017
+27,67,1,103.0,Slagter Tom-Jelte,105,Cannondale-Drapac Pro Cycling Team,,\u25bc2,21,2017
+35,49,1,104.0,Ventoso Francisco,106,BMC Racing Team,,\u25bc2,21,2017
+28,126,1,105.0,Mezgec Luka,107,ORICA-Scott,,\u25bc2,21,2017
+32,152,1,107.0,Belkov Maxim,108,Team Katusha - Alpecin,,\u25bc1,21,2017
+27,35,1,108.0,Boem Nicola,109,Bardiani - CSF,,\u25bc1,21,2017

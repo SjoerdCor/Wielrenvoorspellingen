@@ -1,0 +1,207 @@
+Age,BIB,Pnt,Prev,Rider,Rnk,Team,\u25bc\u25b2,stage,year
+30.0,125.0,6,,Routley Will,1,Optum p/b Kelly Benefit Strategies,,1,2014
+34.0,142.0,5,,Cooke Matt,2,Jamis - Hagens Berman,,1,2014
+23.0,92.0,4,,Bolivar Isaac,3,UnitedHealthcare Pro Cycling Team,,1,2014
+19.0,156.0,3,,Geoghegan Hart Tao,4,Bissell Development Team,,1,2014
+20.0,115.0,1,,Planet Charles,5,Team Novo Nordisk,,1,2014
+30.0,125.0,6,1.0,Routley Will,1,Optum p/b Kelly Benefit Strategies,-,2,2014
+34.0,142.0,5,2.0,Cooke Matt,2,Jamis - Hagens Berman,-,2,2014
+23.0,92.0,4,3.0,Bolivar Isaac,3,UnitedHealthcare Pro Cycling Team,-,2,2014
+19.0,156.0,3,4.0,Geoghegan Hart Tao,4,Bissell Development Team,-,2,2014
+20.0,115.0,1,5.0,Planet Charles,5,Team Novo Nordisk,-,2,2014
+30.0,125.0,18,1.0,Routley Will,1,Optum p/b Kelly Benefit Strategies,-,3,2014
+23.0,13.0,12,,Dennis Rohan,2,Garmin Sharp,-,3,2014
+28.0,104.0,10,,Machado Tiago,3,Team NetApp \u2013 Endura,-,3,2014
+24.0,147.0,10,,Squire Rob,4,Jamis - Hagens Berman,-,3,2014
+22.0,81.0,8,,Craddock Lawson,5,Team Giant - Shimano,-,3,2014
+29.0,93.0,8,,Clarke Jonathan,6,UnitedHealthcare Pro Cycling Team,-,3,2014
+21.0,57.0,7,,Yates Adam,7,Orica GreenEDGE,-,3,2014
+22.0,133.0,7,,Lemus Luis,8,Jelly Belly p/b Maxxis,-,3,2014
+28.0,11.0,6,,Acevedo Janier Alexis,9,Garmin Sharp,-,3,2014
+25.0,113.0,6,,Lozano David,10,Team Novo Nordisk,-,3,2014
+25.0,124.0,5,,Jones Carter,11,Optum p/b Kelly Benefit Strategies,-,3,2014
+34.0,142.0,5,2.0,Cooke Matt,12,Jamis - Hagens Berman,\u25bc10,3,2014
+21.0,158.0,5,,Zepuntke Ruben,13,Bissell Development Team,-,3,2014
+26.0,1.0,4,,Stetina Peter,14,BMC Racing Team,-,3,2014
+23.0,92.0,4,3.0,Bolivar Isaac,15,UnitedHealthcare Pro Cycling Team,\u25bc12,3,2014
+32.0,78.0,4,,Wynants Maarten,16,Belkin-Pro Cycling Team,-,3,2014
+24.0,52.0,3,,Chaves Johan Esteban,17,Orica GreenEDGE,-,3,2014
+28.0,108.0,3,,Voss Paul,18,Team NetApp \u2013 Endura,-,3,2014
+19.0,156.0,3,4.0,Geoghegan Hart Tao,19,Bissell Development Team,\u25bc15,3,2014
+34.0,41.0,2,,Wiggins Bradley,20,Team Sky,-,3,2014
+24.0,48.0,2,,Rowe Luke,21,Team Sky,-,3,2014
+29.0,31.0,1,,Busche Matthew,22,Trek Factory Racing,-,3,2014
+20.0,115.0,1,5.0,Planet Charles,23,Team Novo Nordisk,\u25bc18,3,2014
+23.0,42.0,1,,Boswell Ian,24,Team Sky,-,3,2014
+30.0,125.0,32,1.0,Routley Will,1,Optum p/b Kelly Benefit Strategies,-,4,2014
+29.0,93.0,13,6.0,Clarke Jonathan,2,UnitedHealthcare Pro Cycling Team,\u25b24,4,2014
+34.0,142.0,13,12.0,Cooke Matt,3,Jamis - Hagens Berman,\u25b29,4,2014
+23.0,13.0,12,2.0,Dennis Rohan,4,Garmin Sharp,\u25bc2,4,2014
+28.0,104.0,10,3.0,Machado Tiago,5,Team NetApp \u2013 Endura,\u25bc2,4,2014
+24.0,147.0,10,4.0,Squire Rob,6,Jamis - Hagens Berman,\u25bc2,4,2014
+34.0,95.0,9,,Jones Chris,7,UnitedHealthcare Pro Cycling Team,-,4,2014
+22.0,81.0,8,5.0,Craddock Lawson,8,Team Giant - Shimano,\u25bc3,4,2014
+21.0,57.0,7,7.0,Yates Adam,9,Orica GreenEDGE,\u25bc2,4,2014
+22.0,133.0,7,8.0,Lemus Luis,10,Jelly Belly p/b Maxxis,\u25bc2,4,2014
+28.0,11.0,6,9.0,Acevedo Janier Alexis,11,Garmin Sharp,\u25bc2,4,2014
+25.0,113.0,6,10.0,Lozano David,12,Team Novo Nordisk,\u25bc2,4,2014
+25.0,124.0,5,11.0,Jones Carter,13,Optum p/b Kelly Benefit Strategies,\u25bc2,4,2014
+21.0,158.0,5,13.0,Zepuntke Ruben,14,Bissell Development Team,\u25bc1,4,2014
+26.0,1.0,4,14.0,Stetina Peter,15,BMC Racing Team,\u25bc1,4,2014
+32.0,78.0,4,16.0,Wynants Maarten,16,Belkin-Pro Cycling Team,-,4,2014
+23.0,92.0,4,15.0,Bolivar Isaac,17,UnitedHealthcare Pro Cycling Team,\u25bc2,4,2014
+24.0,52.0,3,17.0,Chaves Johan Esteban,18,Orica GreenEDGE,\u25bc1,4,2014
+28.0,108.0,3,18.0,Voss Paul,19,Team NetApp \u2013 Endura,\u25bc1,4,2014
+19.0,156.0,3,19.0,Geoghegan Hart Tao,20,Bissell Development Team,\u25bc1,4,2014
+34.0,41.0,2,20.0,Wiggins Bradley,21,Team Sky,\u25bc1,4,2014
+19.0,154.0,2,,Daniel Gregory,22,Bissell Development Team,-,4,2014
+24.0,48.0,2,21.0,Rowe Luke,23,Team Sky,\u25bc2,4,2014
+29.0,31.0,1,22.0,Busche Matthew,24,Trek Factory Racing,\u25bc2,4,2014
+22.0,118.0,1,,De Mesmaeker Kevin,25,Team Novo Nordisk,-,4,2014
+23.0,42.0,1,24.0,Boswell Ian,26,Team Sky,\u25bc2,4,2014
+20.0,115.0,1,23.0,Planet Charles,27,Team Novo Nordisk,\u25bc4,4,2014
+30.0,125.0,42,1.0,Routley Will,1,Optum p/b Kelly Benefit Strategies,-,5,2014
+23.0,13.0,16,4.0,Dennis Rohan,2,Garmin Sharp,\u25b22,5,2014
+29.0,93.0,13,2.0,Clarke Jonathan,3,UnitedHealthcare Pro Cycling Team,\u25bc1,5,2014
+34.0,142.0,13,3.0,Cooke Matt,4,Jamis - Hagens Berman,\u25bc1,5,2014
+28.0,104.0,10,5.0,Machado Tiago,5,Team NetApp \u2013 Endura,-,5,2014
+24.0,147.0,10,6.0,Squire Rob,6,Jamis - Hagens Berman,-,5,2014
+34.0,95.0,9,7.0,Jones Chris,7,UnitedHealthcare Pro Cycling Team,-,5,2014
+21.0,153.0,9,,Chevrier Cl\xe9ment,8,Bissell Development Team,-,5,2014
+22.0,81.0,8,8.0,Craddock Lawson,9,Team Giant - Shimano,\u25bc1,5,2014
+34.0,41.0,7,21.0,Wiggins Bradley,10,Team Sky,\u25b211,5,2014
+35.0,47.0,7,,Pate Danny,11,Team Sky,-,5,2014
+21.0,57.0,7,9.0,Yates Adam,12,Orica GreenEDGE,\u25bc3,5,2014
+22.0,133.0,7,10.0,Lemus Luis,13,Jelly Belly p/b Maxxis,\u25bc3,5,2014
+25.0,113.0,6,12.0,Lozano David,14,Team Novo Nordisk,\u25bc2,5,2014
+26.0,1.0,6,15.0,Stetina Peter,15,BMC Racing Team,-,5,2014
+21.0,45.0,6,,Edmondson Joshua,16,Team Sky,-,5,2014
+28.0,11.0,6,11.0,Acevedo Janier Alexis,17,Garmin Sharp,\u25bc6,5,2014
+21.0,158.0,5,14.0,Zepuntke Ruben,18,Bissell Development Team,\u25bc4,5,2014
+25.0,124.0,5,13.0,Jones Carter,19,Optum p/b Kelly Benefit Strategies,\u25bc6,5,2014
+23.0,92.0,4,17.0,Bolivar Isaac,20,UnitedHealthcare Pro Cycling Team,\u25bc3,5,2014
+32.0,78.0,4,16.0,Wynants Maarten,21,Belkin-Pro Cycling Team,\u25bc5,5,2014
+24.0,52.0,3,18.0,Chaves Johan Esteban,22,Orica GreenEDGE,\u25bc4,5,2014
+19.0,156.0,3,20.0,Geoghegan Hart Tao,23,Bissell Development Team,\u25bc3,5,2014
+28.0,108.0,3,19.0,Voss Paul,24,Team NetApp \u2013 Endura,\u25bc5,5,2014
+24.0,48.0,2,23.0,Rowe Luke,25,Team Sky,\u25bc2,5,2014
+19.0,154.0,2,22.0,Daniel Gregory,26,Bissell Development Team,\u25bc4,5,2014
+22.0,118.0,1,25.0,De Mesmaeker Kevin,27,Team Novo Nordisk,\u25bc2,5,2014
+23.0,42.0,1,26.0,Boswell Ian,28,Team Sky,\u25bc2,5,2014
+29.0,31.0,1,24.0,Busche Matthew,29,Trek Factory Racing,\u25bc5,5,2014
+20.0,115.0,1,27.0,Planet Charles,30,Team Novo Nordisk,\u25bc3,5,2014
+30.0,125.0,42,1.0,Routley Will,1,Optum p/b Kelly Benefit Strategies,-,6,2014
+24.0,52.0,24,22.0,Chaves Johan Esteban,2,Orica GreenEDGE,\u25b220,6,2014
+34.0,95.0,23,7.0,Jones Chris,3,UnitedHealthcare Pro Cycling Team,\u25b24,6,2014
+23.0,13.0,21,2.0,Dennis Rohan,4,Garmin Sharp,\u25bc2,6,2014
+25.0,102.0,15,,de la Cruz David,5,Team NetApp \u2013 Endura,-,6,2014
+21.0,57.0,14,12.0,Yates Adam,6,Orica GreenEDGE,\u25b26,6,2014
+34.0,41.0,13,10.0,Wiggins Bradley,7,Team Sky,\u25b23,6,2014
+36.0,12.0,13,,Danielson Thomas,8,Garmin Sharp,-,6,2014
+34.0,142.0,13,4.0,Cooke Matt,9,Jamis - Hagens Berman,\u25bc5,6,2014
+29.0,93.0,13,3.0,Clarke Jonathan,10,UnitedHealthcare Pro Cycling Team,\u25bc7,6,2014
+26.0,1.0,11,15.0,Stetina Peter,11,BMC Racing Team,\u25b24,6,2014
+28.0,104.0,10,5.0,Machado Tiago,12,Team NetApp \u2013 Endura,\u25bc7,6,2014
+24.0,147.0,10,6.0,Squire Rob,13,Jamis - Hagens Berman,\u25bc7,6,2014
+22.0,81.0,9,9.0,Craddock Lawson,14,Team Giant - Shimano,\u25bc5,6,2014
+21.0,153.0,9,8.0,Chevrier Cl\xe9ment,15,Bissell Development Team,\u25bc7,6,2014
+35.0,47.0,7,11.0,Pate Danny,16,Team Sky,\u25bc5,6,2014
+22.0,133.0,7,13.0,Lemus Luis,17,Jelly Belly p/b Maxxis,\u25bc4,6,2014
+28.0,11.0,6,17.0,Acevedo Janier Alexis,18,Garmin Sharp,\u25bc1,6,2014
+24.0,72.0,6,,Bobridge Jack,19,Belkin-Pro Cycling Team,-,6,2014
+21.0,45.0,6,16.0,Edmondson Joshua,20,Team Sky,\u25bc4,6,2014
+25.0,113.0,6,14.0,Lozano David,21,Team Novo Nordisk,\u25bc7,6,2014
+25.0,124.0,5,19.0,Jones Carter,22,Optum p/b Kelly Benefit Strategies,\u25bc3,6,2014
+21.0,158.0,5,18.0,Zepuntke Ruben,23,Bissell Development Team,\u25bc5,6,2014
+32.0,78.0,4,21.0,Wynants Maarten,24,Belkin-Pro Cycling Team,\u25bc3,6,2014
+23.0,92.0,4,20.0,Bolivar Isaac,25,UnitedHealthcare Pro Cycling Team,\u25bc5,6,2014
+28.0,108.0,3,24.0,Voss Paul,26,Team NetApp \u2013 Endura,\u25bc2,6,2014
+19.0,156.0,3,23.0,Geoghegan Hart Tao,27,Bissell Development Team,\u25bc4,6,2014
+24.0,67.0,2,,Bennett George,28,Cannondale,-,6,2014
+19.0,154.0,2,26.0,Daniel Gregory,29,Bissell Development Team,\u25bc3,6,2014
+30.0,111.0,2,,Megias Javier,30,Team Novo Nordisk,-,6,2014
+24.0,48.0,2,25.0,Rowe Luke,31,Team Sky,\u25bc6,6,2014
+29.0,31.0,1,29.0,Busche Matthew,32,Trek Factory Racing,\u25bc3,6,2014
+20.0,115.0,1,30.0,Planet Charles,33,Team Novo Nordisk,\u25bc3,6,2014
+22.0,118.0,1,27.0,De Mesmaeker Kevin,34,Team Novo Nordisk,\u25bc7,6,2014
+23.0,42.0,1,28.0,Boswell Ian,35,Team Sky,\u25bc7,6,2014
+30.0,125.0,42,1.0,Routley Will,1,Optum p/b Kelly Benefit Strategies,-,7,2014
+24.0,52.0,24,2.0,Chaves Johan Esteban,2,Orica GreenEDGE,-,7,2014
+34.0,95.0,23,3.0,Jones Chris,3,UnitedHealthcare Pro Cycling Team,-,7,2014
+23.0,13.0,21,4.0,Dennis Rohan,4,Garmin Sharp,-,7,2014
+23.0,92.0,17,25.0,Bolivar Isaac,5,UnitedHealthcare Pro Cycling Team,\u25b220,7,2014
+25.0,102.0,15,5.0,de la Cruz David,6,Team NetApp \u2013 Endura,\u25bc1,7,2014
+21.0,57.0,14,6.0,Yates Adam,7,Orica GreenEDGE,\u25bc1,7,2014
+22.0,133.0,13,17.0,Lemus Luis,8,Jelly Belly p/b Maxxis,\u25b29,7,2014
+34.0,41.0,13,7.0,Wiggins Bradley,9,Team Sky,\u25bc2,7,2014
+36.0,12.0,13,8.0,Danielson Thomas,10,Garmin Sharp,\u25bc2,7,2014
+29.0,93.0,13,10.0,Clarke Jonathan,11,UnitedHealthcare Pro Cycling Team,\u25bc1,7,2014
+34.0,142.0,13,9.0,Cooke Matt,12,Jamis - Hagens Berman,\u25bc3,7,2014
+26.0,1.0,11,11.0,Stetina Peter,13,BMC Racing Team,\u25bc2,7,2014
+28.0,104.0,10,12.0,Machado Tiago,14,Team NetApp \u2013 Endura,\u25bc2,7,2014
+24.0,147.0,10,13.0,Squire Rob,15,Jamis - Hagens Berman,\u25bc2,7,2014
+22.0,81.0,9,14.0,Craddock Lawson,16,Team Giant - Shimano,\u25bc2,7,2014
+21.0,153.0,9,15.0,Chevrier Cl\xe9ment,17,Bissell Development Team,\u25bc2,7,2014
+25.0,17.0,7,,King Benjamin,18,Garmin Sharp,-,7,2014
+29.0,7.0,7,,Van Avermaet Greg,19,BMC Racing Team,-,7,2014
+35.0,47.0,7,16.0,Pate Danny,20,Team Sky,\u25bc4,7,2014
+28.0,11.0,6,18.0,Acevedo Janier Alexis,21,Garmin Sharp,\u25bc3,7,2014
+24.0,72.0,6,19.0,Bobridge Jack,22,Belkin-Pro Cycling Team,\u25bc3,7,2014
+21.0,45.0,6,20.0,Edmondson Joshua,23,Team Sky,\u25bc3,7,2014
+28.0,73.0,6,,Boom Lars,24,Belkin-Pro Cycling Team,-,7,2014
+25.0,124.0,5,22.0,Jones Carter,25,Optum p/b Kelly Benefit Strategies,\u25bc3,7,2014
+25.0,85.0,5,,Haga Chad,26,Team Giant - Shimano,-,7,2014
+21.0,158.0,5,23.0,Zepuntke Ruben,27,Bissell Development Team,\u25bc4,7,2014
+32.0,78.0,4,24.0,Wynants Maarten,28,Belkin-Pro Cycling Team,\u25bc4,7,2014
+20.0,35.0,4,,van Poppel Danny,29,Trek Factory Racing,-,7,2014
+28.0,108.0,3,26.0,Voss Paul,30,Team NetApp \u2013 Endura,\u25bc4,7,2014
+19.0,156.0,3,27.0,Geoghegan Hart Tao,31,Bissell Development Team,\u25bc4,7,2014
+24.0,67.0,2,28.0,Bennett George,32,Cannondale,\u25bc4,7,2014
+30.0,111.0,2,30.0,Megias Javier,33,Team Novo Nordisk,\u25bc3,7,2014
+19.0,154.0,2,29.0,Daniel Gregory,34,Bissell Development Team,\u25bc5,7,2014
+24.0,48.0,2,31.0,Rowe Luke,35,Team Sky,\u25bc4,7,2014
+29.0,31.0,1,32.0,Busche Matthew,36,Trek Factory Racing,\u25bc4,7,2014
+23.0,42.0,1,35.0,Boswell Ian,37,Team Sky,\u25bc2,7,2014
+22.0,118.0,1,34.0,De Mesmaeker Kevin,38,Team Novo Nordisk,\u25bc4,7,2014
+30.0,125.0,42,1.0,Routley Will,1,Optum p/b Kelly Benefit Strategies,-,8,2014
+34.0,95.0,31,3.0,Jones Chris,2,UnitedHealthcare Pro Cycling Team,\u25b21,8,2014
+24.0,52.0,24,2.0,Chaves Johan Esteban,3,Orica GreenEDGE,\u25bc1,8,2014
+23.0,13.0,21,4.0,Dennis Rohan,4,Garmin Sharp,-,8,2014
+23.0,92.0,17,5.0,Bolivar Isaac,5,UnitedHealthcare Pro Cycling Team,-,8,2014
+25.0,102.0,15,6.0,de la Cruz David,6,Team NetApp \u2013 Endura,-,8,2014
+24.0,72.0,14,22.0,Bobridge Jack,7,Belkin-Pro Cycling Team,\u25b215,8,2014
+21.0,57.0,14,7.0,Yates Adam,8,Orica GreenEDGE,\u25bc1,8,2014
+26.0,1.0,14,13.0,Stetina Peter,9,BMC Racing Team,\u25b24,8,2014
+22.0,133.0,13,8.0,Lemus Luis,10,Jelly Belly p/b Maxxis,\u25bc2,8,2014
+34.0,41.0,13,9.0,Wiggins Bradley,11,Team Sky,\u25bc2,8,2014
+36.0,12.0,13,10.0,Danielson Thomas,12,Garmin Sharp,\u25bc2,8,2014
+29.0,93.0,13,11.0,Clarke Jonathan,13,UnitedHealthcare Pro Cycling Team,\u25bc2,8,2014
+34.0,142.0,13,12.0,Cooke Matt,14,Jamis - Hagens Berman,\u25bc2,8,2014
+28.0,104.0,11,14.0,Machado Tiago,15,Team NetApp \u2013 Endura,\u25bc1,8,2014
+24.0,147.0,10,15.0,Squire Rob,16,Jamis - Hagens Berman,\u25bc1,8,2014
+22.0,81.0,9,16.0,Craddock Lawson,17,Team Giant - Shimano,\u25bc1,8,2014
+21.0,153.0,9,17.0,Chevrier Cl\xe9ment,18,Bissell Development Team,\u25bc1,8,2014
+25.0,85.0,8,26.0,Haga Chad,19,Team Giant - Shimano,\u25b27,8,2014
+30.0,24.0,8,,Terpstra Niki,20,Omega Pharma - Quick-Step,-,8,2014
+25.0,17.0,7,18.0,King Benjamin,21,Garmin Sharp,\u25bc3,8,2014
+35.0,47.0,7,20.0,Pate Danny,22,Team Sky,\u25bc2,8,2014
+29.0,7.0,7,19.0,Van Avermaet Greg,23,BMC Racing Team,\u25bc4,8,2014
+28.0,11.0,6,21.0,Acevedo Janier Alexis,24,Garmin Sharp,\u25bc3,8,2014
+21.0,45.0,6,23.0,Edmondson Joshua,25,Team Sky,\u25bc2,8,2014
+28.0,73.0,6,24.0,Boom Lars,26,Belkin-Pro Cycling Team,\u25bc2,8,2014
+25.0,124.0,5,25.0,Jones Carter,27,Optum p/b Kelly Benefit Strategies,\u25bc2,8,2014
+21.0,158.0,5,27.0,Zepuntke Ruben,28,Bissell Development Team,\u25bc1,8,2014
+20.0,35.0,4,29.0,van Poppel Danny,29,Trek Factory Racing,-,8,2014
+32.0,78.0,4,28.0,Wynants Maarten,30,Belkin-Pro Cycling Team,\u25bc2,8,2014
+,,4,,Costa Jose,31,,-,8,2014
+21.0,27.0,3,,Verona Carlos,32,Omega Pharma - Quick-Step,-,8,2014
+28.0,108.0,3,30.0,Voss Paul,33,Team NetApp \u2013 Endura,\u25bc3,8,2014
+19.0,156.0,3,31.0,Geoghegan Hart Tao,34,Bissell Development Team,\u25bc3,8,2014
+30.0,111.0,2,33.0,Megias Javier,35,Team Novo Nordisk,\u25bc2,8,2014
+19.0,154.0,2,34.0,Daniel Gregory,36,Bissell Development Team,\u25bc2,8,2014
+24.0,48.0,2,35.0,Rowe Luke,37,Team Sky,\u25bc2,8,2014
+24.0,67.0,2,32.0,Bennett George,38,Cannondale,\u25bc6,8,2014
+29.0,31.0,1,36.0,Busche Matthew,39,Trek Factory Racing,\u25bc3,8,2014
+42.0,36.0,1,,Voigt Jens,40,Trek Factory Racing,-,8,2014
+22.0,118.0,1,38.0,De Mesmaeker Kevin,41,Team Novo Nordisk,\u25bc3,8,2014
+23.0,42.0,1,37.0,Boswell Ian,42,Team Sky,\u25bc5,8,2014

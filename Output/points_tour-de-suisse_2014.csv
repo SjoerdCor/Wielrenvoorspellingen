@@ -1,0 +1,353 @@
+Rnk,Prev,\u25bc\u25b2,BIB,Rider,Age,Team,Pnt,year,stage
+1,6.0,\u25b25,131,Sagan Peter,24,Cannondale,16,2014,2
+2,1.0,\u25bc1,13,Martin Tony,29,Omega Pharma - Quick-Step,15,2014,2
+3,,-,97,Meyer Cameron,26,Orica GreenEDGE,15,2014,2
+4,2.0,\u25bc2,125,Dumoulin Tom,23,Team Giant - Shimano,12,2014,2
+5,,-,42,Deignan Philip,30,Team Sky,12,2014,2
+6,3.0,\u25bc3,116,Dennis Rohan,24,Garmin Sharp,10,2014,2
+7,,-,67,Warbasse Larry,23,BMC Racing Team,10,2014,2
+8,4.0,\u25bc4,81,Cancellara Fabian,33,Trek Factory Racing,9,2014,2
+9,,-,48,Swift Ben,26,Team Sky,8,2014,2
+10,,-,63,Dillier Silvan,23,BMC Racing Team,7,2014,2
+11,7.0,\u25bc4,101,Mollema Bauke,27,Belkin-Pro Cycling Team,6,2014,2
+12,,-,124,de Kort Koen,31,Team Giant - Shimano,6,2014,2
+13,8.0,\u25bc5,111,Slagter Tom-Jelte,24,Garmin Sharp,5,2014,2
+14,,-,98,Schurter Nino,28,Orica GreenEDGE,5,2014,2
+15,9.0,\u25bc6,23,Izagirre Ion,25,Movistar Team,4,2014,2
+16,,-,142,Gasparotto Enrico,32,Astana Pro Team,4,2014,2
+17,10.0,\u25bc7,3,Cattaneo Mattia,23,Lampre - Merida,3,2014,2
+18,,-,31,Kolobnev Alexandr,33,Team Katusha,3,2014,2
+19,11.0,\u25bc8,45,Kennaugh Peter,25,Team Sky,2,2014,2
+20,,-,117,King Benjamin,25,Garmin Sharp,2,2014,2
+21,12.0,\u25bc9,205,Pardilla Sergio,30,MTN - Qhubeka,1,2014,2
+22,,-,62,Burghardt Marcus,30,BMC Racing Team,1,2014,2
+1,1.0,-,131,Sagan Peter,24,Cannondale,41,2014,3
+2,,-,91,Albasini Michael,33,Orica GreenEDGE,20,2014,3
+3,11.0,\u25b28,101,Mollema Bauke,27,Belkin-Pro Cycling Team,19,2014,3
+4,2.0,\u25bc2,13,Martin Tony,29,Omega Pharma - Quick-Step,17,2014,3
+5,,-,44,Henao Sergio Luis,26,Team Sky,16,2014,3
+6,3.0,\u25bc3,97,Meyer Cameron,26,Orica GreenEDGE,15,2014,3
+7,4.0,\u25bc3,125,Dumoulin Tom,23,Team Giant - Shimano,13,2014,3
+8,5.0,\u25bc3,42,Deignan Philip,30,Team Sky,12,2014,3
+9,,-,61,Evans Cadel,37,BMC Racing Team,11,2014,3
+10,,-,28,Rojas Jos\xe9 Joaqu\xedn,29,Movistar Team,10,2014,3
+11,6.0,\u25bc5,116,Dennis Rohan,24,Garmin Sharp,10,2014,3
+12,7.0,\u25bc5,67,Warbasse Larry,23,BMC Racing Team,10,2014,3
+13,,-,1,Costa Rui,27,Lampre - Merida,9,2014,3
+14,8.0,\u25bc6,81,Cancellara Fabian,33,Trek Factory Racing,9,2014,3
+15,13.0,\u25bc2,111,Slagter Tom-Jelte,24,Garmin Sharp,8,2014,3
+16,,-,151,Pinot Thibaut,24,FDJ.fr,8,2014,3
+17,9.0,\u25bc8,48,Swift Ben,26,Team Sky,8,2014,3
+18,,-,181,Frank Mathias,27,IAM Cycling,7,2014,3
+19,10.0,\u25bc9,63,Dillier Silvan,23,BMC Racing Team,7,2014,3
+20,,-,71,Kreuziger Roman,28,Tinkoff - Saxo,6,2014,3
+21,12.0,\u25bc9,124,de Kort Koen,31,Team Giant - Shimano,6,2014,3
+22,,-,133,Formolo Davide,21,Cannondale,5,2014,3
+23,21.0,\u25bc2,205,Pardilla Sergio,30,MTN - Qhubeka,5,2014,3
+24,14.0,\u25bc10,98,Schurter Nino,28,Orica GreenEDGE,5,2014,3
+25,15.0,\u25bc10,23,Izagirre Ion,25,Movistar Team,4,2014,3
+26,16.0,\u25bc10,142,Gasparotto Enrico,32,Astana Pro Team,4,2014,3
+27,17.0,\u25bc10,3,Cattaneo Mattia,23,Lampre - Merida,3,2014,3
+28,18.0,\u25bc10,31,Kolobnev Alexandr,33,Team Katusha,3,2014,3
+29,19.0,\u25bc10,45,Kennaugh Peter,25,Team Sky,2,2014,3
+30,20.0,\u25bc10,117,King Benjamin,25,Garmin Sharp,2,2014,3
+31,22.0,\u25bc9,62,Burghardt Marcus,30,BMC Racing Team,1,2014,3
+1,1.0,-,131,Sagan Peter,24,Cannondale,57,2014,4
+2,,-,12,Cavendish Mark,29,Omega Pharma - Quick-Step,25,2014,4
+3,2.0,\u25bc1,91,Albasini Michael,33,Orica GreenEDGE,20,2014,4
+4,,-,25,Lobato Juan Jos\xe9,25,Movistar Team,20,2014,4
+5,3.0,\u25bc2,101,Mollema Bauke,27,Belkin-Pro Cycling Team,19,2014,4
+6,4.0,\u25bc2,13,Martin Tony,29,Omega Pharma - Quick-Step,17,2014,4
+7,10.0,\u25b23,28,Rojas Jos\xe9 Joaqu\xedn,29,Movistar Team,17,2014,4
+8,5.0,\u25bc3,44,Henao Sergio Luis,26,Team Sky,16,2014,4
+9,6.0,\u25bc3,97,Meyer Cameron,26,Orica GreenEDGE,15,2014,4
+10,7.0,\u25bc3,125,Dumoulin Tom,23,Team Giant - Shimano,13,2014,4
+11,,-,4,Modolo Sacha,26,Lampre - Merida,13,2014,4
+12,8.0,\u25bc4,42,Deignan Philip,30,Team Sky,12,2014,4
+13,9.0,\u25bc4,61,Evans Cadel,37,BMC Racing Team,11,2014,4
+14,,-,35,Kristoff Alexander,26,Team Katusha,11,2014,4
+15,19.0,\u25b24,63,Dillier Silvan,23,BMC Racing Team,10,2014,4
+16,12.0,\u25bc4,67,Warbasse Larry,23,BMC Racing Team,10,2014,4
+17,11.0,\u25bc6,116,Dennis Rohan,24,Garmin Sharp,10,2014,4
+18,,-,88,van Poppel Danny,20,Trek Factory Racing,10,2014,4
+19,13.0,\u25bc6,1,Costa Rui,27,Lampre - Merida,9,2014,4
+20,17.0,\u25bc3,48,Swift Ben,26,Team Sky,9,2014,4
+21,,-,167,van Genechten Jonas,27,Lotto Belisol,9,2014,4
+22,14.0,\u25bc8,81,Cancellara Fabian,33,Trek Factory Racing,9,2014,4
+23,15.0,\u25bc8,111,Slagter Tom-Jelte,24,Garmin Sharp,8,2014,4
+24,16.0,\u25bc8,151,Pinot Thibaut,24,FDJ.fr,8,2014,4
+25,,-,51,Appollonio Davide,25,AG2R La Mondiale,8,2014,4
+26,18.0,\u25bc8,181,Frank Mathias,27,IAM Cycling,7,2014,4
+27,20.0,\u25bc7,71,Kreuziger Roman,28,Tinkoff - Saxo,6,2014,4
+28,21.0,\u25bc7,124,de Kort Koen,31,Team Giant - Shimano,6,2014,4
+29,,-,95,Goss Matthew,27,Orica GreenEDGE,6,2014,4
+30,22.0,\u25bc8,133,Formolo Davide,21,Cannondale,5,2014,4
+31,23.0,\u25bc8,205,Pardilla Sergio,30,MTN - Qhubeka,5,2014,4
+32,24.0,\u25bc8,98,Schurter Nino,28,Orica GreenEDGE,5,2014,4
+33,,-,144,Guarnieri Jacopo,26,Astana Pro Team,5,2014,4
+34,25.0,\u25bc9,23,Izagirre Ion,25,Movistar Team,4,2014,4
+35,26.0,\u25bc9,142,Gasparotto Enrico,32,Astana Pro Team,4,2014,4
+36,,-,75,M\xf8rk\xf8v Michael,29,Tinkoff - Saxo,4,2014,4
+37,27.0,\u25bc10,3,Cattaneo Mattia,23,Lampre - Merida,3,2014,4
+38,28.0,\u25bc10,31,Kolobnev Alexandr,33,Team Katusha,3,2014,4
+39,29.0,\u25bc10,45,Kennaugh Peter,25,Team Sky,2,2014,4
+40,30.0,\u25bc10,117,King Benjamin,25,Garmin Sharp,2,2014,4
+41,,-,172,Coquard Bryan,22,Team Europcar,2,2014,4
+42,31.0,\u25bc11,62,Burghardt Marcus,30,BMC Racing Team,1,2014,4
+1,1.0,-,131,Sagan Peter,24,Cannondale,77,2014,5
+2,11.0,\u25b29,4,Modolo Sacha,26,Lampre - Merida,38,2014,5
+3,7.0,\u25b24,28,Rojas Jos\xe9 Joaqu\xedn,29,Movistar Team,28,2014,5
+4,2.0,\u25bc2,12,Cavendish Mark,29,Omega Pharma - Quick-Step,25,2014,5
+5,14.0,\u25b29,35,Kristoff Alexander,26,Team Katusha,24,2014,5
+6,4.0,\u25bc2,25,Lobato Juan Jos\xe9,25,Movistar Team,24,2014,5
+7,3.0,\u25bc4,91,Albasini Michael,33,Orica GreenEDGE,20,2014,5
+8,18.0,\u25b210,88,van Poppel Danny,20,Trek Factory Racing,20,2014,5
+9,5.0,\u25bc4,101,Mollema Bauke,27,Belkin-Pro Cycling Team,19,2014,5
+10,21.0,\u25b211,167,van Genechten Jonas,27,Lotto Belisol,18,2014,5
+11,6.0,\u25bc5,13,Martin Tony,29,Omega Pharma - Quick-Step,17,2014,5
+12,8.0,\u25bc4,44,Henao Sergio Luis,26,Team Sky,16,2014,5
+13,,-,121,Degenkolb John,25,Team Giant - Shimano,16,2014,5
+14,9.0,\u25bc5,97,Meyer Cameron,26,Orica GreenEDGE,15,2014,5
+15,10.0,\u25bc5,125,Dumoulin Tom,23,Team Giant - Shimano,13,2014,5
+16,25.0,\u25b29,51,Appollonio Davide,25,AG2R La Mondiale,13,2014,5
+17,32.0,\u25b215,98,Schurter Nino,28,Orica GreenEDGE,12,2014,5
+18,12.0,\u25bc6,42,Deignan Philip,30,Team Sky,12,2014,5
+19,13.0,\u25bc6,61,Evans Cadel,37,BMC Racing Team,11,2014,5
+20,33.0,\u25b213,144,Guarnieri Jacopo,26,Astana Pro Team,11,2014,5
+21,15.0,\u25bc6,63,Dillier Silvan,23,BMC Racing Team,10,2014,5
+22,16.0,\u25bc6,67,Warbasse Larry,23,BMC Racing Team,10,2014,5
+23,17.0,\u25bc6,116,Dennis Rohan,24,Garmin Sharp,10,2014,5
+24,19.0,\u25bc5,1,Costa Rui,27,Lampre - Merida,9,2014,5
+25,20.0,\u25bc5,48,Swift Ben,26,Team Sky,9,2014,5
+26,22.0,\u25bc4,81,Cancellara Fabian,33,Trek Factory Racing,9,2014,5
+27,23.0,\u25bc4,111,Slagter Tom-Jelte,24,Garmin Sharp,8,2014,5
+28,24.0,\u25bc4,151,Pinot Thibaut,24,FDJ.fr,8,2014,5
+29,,-,184,Haussler Heinrich,30,IAM Cycling,8,2014,5
+30,26.0,\u25bc4,181,Frank Mathias,27,IAM Cycling,7,2014,5
+31,27.0,\u25bc4,71,Kreuziger Roman,28,Tinkoff - Saxo,6,2014,5
+32,28.0,\u25bc4,124,de Kort Koen,31,Team Giant - Shimano,6,2014,5
+33,29.0,\u25bc4,95,Goss Matthew,27,Orica GreenEDGE,6,2014,5
+34,30.0,\u25bc4,133,Formolo Davide,21,Cannondale,5,2014,5
+35,31.0,\u25bc4,205,Pardilla Sergio,30,MTN - Qhubeka,5,2014,5
+36,34.0,\u25bc2,23,Izagirre Ion,25,Movistar Team,4,2014,5
+37,35.0,\u25bc2,142,Gasparotto Enrico,32,Astana Pro Team,4,2014,5
+38,36.0,\u25bc2,75,M\xf8rk\xf8v Michael,29,Tinkoff - Saxo,4,2014,5
+39,37.0,\u25bc2,3,Cattaneo Mattia,23,Lampre - Merida,3,2014,5
+40,38.0,\u25bc2,31,Kolobnev Alexandr,33,Team Katusha,3,2014,5
+41,,-,157,Roux Anthony,27,FDJ.fr,3,2014,5
+42,39.0,\u25bc3,45,Kennaugh Peter,25,Team Sky,2,2014,5
+43,40.0,\u25bc3,117,King Benjamin,25,Garmin Sharp,2,2014,5
+44,,-,215,de Vreese Laurens,25,Wanty - Groupe Gobert,2,2014,5
+45,41.0,\u25bc4,172,Coquard Bryan,22,Team Europcar,2,2014,5
+46,42.0,\u25bc4,62,Burghardt Marcus,30,BMC Racing Team,1,2014,5
+47,,-,146,Iglinskiy Valentin,30,Astana Pro Team,1,2014,5
+1,1.0,-,131,Sagan Peter,24,Cannondale,88,2014,6
+2,2.0,-,4,Modolo Sacha,27,Lampre - Merida,48,2014,6
+3,3.0,-,28,Rojas Jos\xe9 Joaqu\xedn,29,Movistar Team,37,2014,6
+4,,-,17,Trentin Matteo,24,Omega Pharma - Quick-Step,25,2014,6
+5,4.0,\u25bc1,12,Cavendish Mark,29,Omega Pharma - Quick-Step,25,2014,6
+6,9.0,\u25b23,101,Mollema Bauke,27,Belkin-Pro Cycling Team,24,2014,6
+7,5.0,\u25bc2,35,Kristoff Alexander,26,Team Katusha,24,2014,6
+8,6.0,\u25bc2,25,Lobato Juan Jos\xe9,25,Movistar Team,24,2014,6
+9,12.0,\u25b23,44,Henao Sergio Luis,26,Team Sky,23,2014,6
+10,25.0,\u25b215,48,Swift Ben,26,Team Sky,22,2014,6
+11,,-,72,Bennati Daniele,33,Tinkoff - Saxo,20,2014,6
+12,7.0,\u25bc5,91,Albasini Michael,33,Orica GreenEDGE,20,2014,6
+13,8.0,\u25bc5,88,van Poppel Danny,20,Trek Factory Racing,20,2014,6
+14,21.0,\u25b27,63,Dillier Silvan,23,BMC Racing Team,18,2014,6
+15,10.0,\u25bc5,167,van Genechten Jonas,27,Lotto Belisol,18,2014,6
+16,11.0,\u25bc5,13,Martin Tony,29,Omega Pharma - Quick-Step,17,2014,6
+17,,-,143,Gavazzi Francesco,29,Astana Pro Team,16,2014,6
+18,13.0,\u25bc5,121,Degenkolb John,25,Team Giant - Shimano,16,2014,6
+19,14.0,\u25bc5,97,Meyer Cameron,26,Orica GreenEDGE,15,2014,6
+20,17.0,\u25bc3,98,Schurter Nino,28,Orica GreenEDGE,14,2014,6
+21,15.0,\u25bc6,125,Dumoulin Tom,23,Team Giant - Shimano,13,2014,6
+22,24.0,\u25b22,1,Costa Rui,27,Lampre - Merida,13,2014,6
+23,16.0,\u25bc7,51,Appollonio Davide,25,AG2R La Mondiale,13,2014,6
+24,18.0,\u25bc6,42,Deignan Philip,30,Team Sky,12,2014,6
+25,19.0,\u25bc6,61,Evans Cadel,37,BMC Racing Team,11,2014,6
+26,20.0,\u25bc6,144,Guarnieri Jacopo,26,Astana Pro Team,11,2014,6
+27,22.0,\u25bc5,67,Warbasse Larry,23,BMC Racing Team,10,2014,6
+28,23.0,\u25bc5,116,Dennis Rohan,24,Garmin Sharp,10,2014,6
+29,26.0,\u25bc3,81,Cancellara Fabian,33,Trek Factory Racing,9,2014,6
+30,27.0,\u25bc3,111,Slagter Tom-Jelte,24,Garmin Sharp,8,2014,6
+31,28.0,\u25bc3,151,Pinot Thibaut,24,FDJ.fr,8,2014,6
+32,29.0,\u25bc3,184,Haussler Heinrich,30,IAM Cycling,8,2014,6
+33,30.0,\u25bc3,181,Frank Mathias,27,IAM Cycling,7,2014,6
+34,31.0,\u25bc3,71,Kreuziger Roman,28,Tinkoff - Saxo,6,2014,6
+35,32.0,\u25bc3,124,de Kort Koen,31,Team Giant - Shimano,6,2014,6
+36,,-,166,Van der Sande Tosh,23,Lotto Belisol,6,2014,6
+37,34.0,\u25bc3,133,Formolo Davide,21,Cannondale,5,2014,6
+38,35.0,\u25bc3,205,Pardilla Sergio,30,MTN - Qhubeka,5,2014,6
+39,36.0,\u25bc3,23,Izagirre Ion,25,Movistar Team,4,2014,6
+40,37.0,\u25bc3,142,Gasparotto Enrico,32,Astana Pro Team,4,2014,6
+41,38.0,\u25bc3,75,M\xf8rk\xf8v Michael,29,Tinkoff - Saxo,4,2014,6
+42,39.0,\u25bc3,3,Cattaneo Mattia,23,Lampre - Merida,3,2014,6
+43,,-,102,Clement Stef,31,Belkin-Pro Cycling Team,3,2014,6
+44,40.0,\u25bc4,31,Kolobnev Alexandr,33,Team Katusha,3,2014,6
+45,41.0,\u25bc4,157,Roux Anthony,27,FDJ.fr,3,2014,6
+46,42.0,\u25bc4,45,Kennaugh Peter,25,Team Sky,2,2014,6
+47,43.0,\u25bc4,117,King Benjamin,25,Garmin Sharp,2,2014,6
+48,44.0,\u25bc4,215,de Vreese Laurens,25,Wanty - Groupe Gobert,2,2014,6
+49,45.0,\u25bc4,172,Coquard Bryan,22,Team Europcar,2,2014,6
+50,,-,57,Riblon Christophe,33,AG2R La Mondiale,1,2014,6
+51,46.0,\u25bc5,62,Burghardt Marcus,30,BMC Racing Team,1,2014,6
+52,47.0,\u25bc5,146,Iglinskiy Valentin,30,Astana Pro Team,1,2014,6
+1,1.0,-,131,Sagan Peter,24,Cannondale,88,2014,7
+2,2.0,-,4,Modolo Sacha,27,Lampre - Merida,48,2014,7
+3,3.0,-,28,Rojas Jos\xe9 Joaqu\xedn,29,Movistar Team,37,2014,7
+4,16.0,\u25b212,13,Martin Tony,29,Omega Pharma - Quick-Step,32,2014,7
+5,4.0,\u25bc1,17,Trentin Matteo,24,Omega Pharma - Quick-Step,25,2014,7
+6,5.0,\u25bc1,12,Cavendish Mark,29,Omega Pharma - Quick-Step,25,2014,7
+7,21.0,\u25b214,125,Dumoulin Tom,23,Team Giant - Shimano,25,2014,7
+8,6.0,\u25bc2,101,Mollema Bauke,27,Belkin-Pro Cycling Team,24,2014,7
+9,7.0,\u25bc2,35,Kristoff Alexander,26,Team Katusha,24,2014,7
+10,8.0,\u25bc2,25,Lobato Juan Jos\xe9,25,Movistar Team,24,2014,7
+11,22.0,\u25b211,1,Costa Rui,27,Lampre - Merida,23,2014,7
+12,10.0,\u25bc2,48,Swift Ben,26,Team Sky,22,2014,7
+13,11.0,\u25bc2,72,Bennati Daniele,33,Tinkoff - Saxo,20,2014,7
+14,12.0,\u25bc2,91,Albasini Michael,33,Orica GreenEDGE,20,2014,7
+15,13.0,\u25bc2,88,van Poppel Danny,20,Trek Factory Racing,20,2014,7
+16,14.0,\u25bc2,63,Dillier Silvan,23,BMC Racing Team,18,2014,7
+17,29.0,\u25b212,81,Cancellara Fabian,33,Trek Factory Racing,18,2014,7
+18,15.0,\u25bc3,167,van Genechten Jonas,27,Lotto Belisol,18,2014,7
+19,17.0,\u25bc2,143,Gavazzi Francesco,29,Astana Pro Team,16,2014,7
+20,19.0,\u25bc1,97,Meyer Cameron,26,Orica GreenEDGE,15,2014,7
+21,33.0,\u25b212,181,Frank Mathias,27,IAM Cycling,15,2014,7
+22,20.0,\u25bc2,98,Schurter Nino,28,Orica GreenEDGE,14,2014,7
+23,25.0,\u25b22,61,Evans Cadel,37,BMC Racing Team,13,2014,7
+24,23.0,\u25bc1,51,Appollonio Davide,25,AG2R La Mondiale,13,2014,7
+25,31.0,\u25b26,151,Pinot Thibaut,24,FDJ.fr,12,2014,7
+26,24.0,\u25bc2,42,Deignan Philip,30,Team Sky,12,2014,7
+27,26.0,\u25bc1,144,Guarnieri Jacopo,26,Astana Pro Team,11,2014,7
+28,27.0,\u25bc1,67,Warbasse Larry,23,BMC Racing Team,10,2014,7
+29,28.0,\u25bc1,116,Dennis Rohan,24,Garmin Sharp,10,2014,7
+30,39.0,\u25b29,23,Izagirre Ion,25,Movistar Team,9,2014,7
+31,43.0,\u25b212,102,Clement Stef,31,Belkin-Pro Cycling Team,9,2014,7
+32,30.0,\u25bc2,111,Slagter Tom-Jelte,24,Garmin Sharp,8,2014,7
+33,32.0,\u25bc1,184,Haussler Heinrich,30,IAM Cycling,8,2014,7
+34,,-,123,Craddock Lawson,22,Team Giant - Shimano,7,2014,7
+35,42.0,\u25b27,3,Cattaneo Mattia,23,Lampre - Merida,6,2014,7
+36,34.0,\u25bc2,71,Kreuziger Roman,28,Tinkoff - Saxo,6,2014,7
+37,35.0,\u25bc2,124,de Kort Koen,31,Team Giant - Shimano,6,2014,7
+38,36.0,\u25bc2,166,Van der Sande Tosh,23,Lotto Belisol,6,2014,7
+39,37.0,\u25bc2,133,Formolo Davide,21,Cannondale,5,2014,7
+40,38.0,\u25bc2,205,Pardilla Sergio,30,MTN - Qhubeka,5,2014,7
+41,40.0,\u25bc1,142,Gasparotto Enrico,32,Astana Pro Team,4,2014,7
+42,41.0,\u25bc1,75,M\xf8rk\xf8v Michael,29,Tinkoff - Saxo,4,2014,7
+43,44.0,\u25b21,31,Kolobnev Alexandr,33,Team Katusha,3,2014,7
+44,45.0,\u25b21,157,Roux Anthony,27,FDJ.fr,3,2014,7
+45,46.0,\u25b21,45,Kennaugh Peter,25,Team Sky,2,2014,7
+46,47.0,\u25b21,117,King Benjamin,25,Garmin Sharp,2,2014,7
+47,48.0,\u25b21,215,de Vreese Laurens,25,Wanty - Groupe Gobert,2,2014,7
+48,49.0,\u25b21,172,Coquard Bryan,22,Team Europcar,2,2014,7
+49,,-,32,Chernetski Sergei,24,Team Katusha,1,2014,7
+50,50.0,-,57,Riblon Christophe,33,AG2R La Mondiale,1,2014,7
+51,51.0,-,62,Burghardt Marcus,30,BMC Racing Team,1,2014,7
+52,52.0,-,146,Iglinskiy Valentin,30,Astana Pro Team,1,2014,7
+1,1.0,-,131,Sagan Peter,24,Cannondale,88,2014,8
+2,2.0,-,4,Modolo Sacha,27,Lampre - Merida,48,2014,8
+3,4.0,\u25b21,13,Martin Tony,29,Omega Pharma - Quick-Step,38,2014,8
+4,3.0,\u25bc1,28,Rojas Jos\xe9 Joaqu\xedn,29,Movistar Team,37,2014,8
+5,8.0,\u25b23,101,Mollema Bauke,27,Belkin-Pro Cycling Team,34,2014,8
+6,11.0,\u25b25,1,Costa Rui,27,Lampre - Merida,27,2014,8
+7,5.0,\u25bc2,17,Trentin Matteo,24,Omega Pharma - Quick-Step,25,2014,8
+8,6.0,\u25bc2,12,Cavendish Mark,29,Omega Pharma - Quick-Step,25,2014,8
+9,7.0,\u25bc2,125,Dumoulin Tom,23,Team Giant - Shimano,25,2014,8
+10,9.0,\u25bc1,35,Kristoff Alexander,26,Team Katusha,24,2014,8
+11,10.0,\u25bc1,25,Lobato Juan Jos\xe9,25,Movistar Team,24,2014,8
+12,12.0,-,48,Swift Ben,26,Team Sky,22,2014,8
+13,14.0,\u25b21,91,Albasini Michael,33,Orica GreenEDGE,20,2014,8
+14,13.0,\u25bc1,72,Bennati Daniele,33,Tinkoff - Saxo,20,2014,8
+15,15.0,-,88,van Poppel Danny,20,Trek Factory Racing,20,2014,8
+16,26.0,\u25b210,42,Deignan Philip,30,Team Sky,19,2014,8
+17,21.0,\u25b24,181,Frank Mathias,27,IAM Cycling,18,2014,8
+18,36.0,\u25b218,71,Kreuziger Roman,28,Tinkoff - Saxo,18,2014,8
+19,16.0,\u25bc3,63,Dillier Silvan,23,BMC Racing Team,18,2014,8
+20,17.0,\u25bc3,81,Cancellara Fabian,33,Trek Factory Racing,18,2014,8
+21,18.0,\u25bc3,167,van Genechten Jonas,27,Lotto Belisol,18,2014,8
+22,19.0,\u25bc3,143,Gavazzi Francesco,29,Astana Pro Team,16,2014,8
+23,,-,93,Chaves Johan Esteban,24,Orica GreenEDGE,15,2014,8
+24,20.0,\u25bc4,97,Meyer Cameron,26,Orica GreenEDGE,15,2014,8
+25,22.0,\u25bc3,98,Schurter Nino,28,Orica GreenEDGE,14,2014,8
+26,23.0,\u25bc3,61,Evans Cadel,37,BMC Racing Team,13,2014,8
+27,24.0,\u25bc3,51,Appollonio Davide,25,AG2R La Mondiale,13,2014,8
+28,25.0,\u25bc3,151,Pinot Thibaut,24,FDJ.fr,12,2014,8
+29,27.0,\u25bc2,144,Guarnieri Jacopo,26,Astana Pro Team,11,2014,8
+30,39.0,\u25b29,133,Formolo Davide,21,Cannondale,10,2014,8
+31,28.0,\u25bc3,67,Warbasse Larry,23,BMC Racing Team,10,2014,8
+32,29.0,\u25bc3,116,Dennis Rohan,24,Garmin Sharp,10,2014,8
+33,,-,21,Capecchi Eros,28,Movistar Team,9,2014,8
+34,31.0,\u25bc3,102,Clement Stef,31,Belkin-Pro Cycling Team,9,2014,8
+35,30.0,\u25bc5,23,Izagirre Ion,25,Movistar Team,9,2014,8
+36,,-,112,Acevedo Janier Alexis,28,Garmin Sharp,8,2014,8
+37,32.0,\u25bc5,111,Slagter Tom-Jelte,24,Garmin Sharp,8,2014,8
+38,33.0,\u25bc5,184,Haussler Heinrich,30,IAM Cycling,8,2014,8
+39,34.0,\u25bc5,123,Craddock Lawson,22,Team Giant - Shimano,7,2014,8
+40,35.0,\u25bc5,3,Cattaneo Mattia,23,Lampre - Merida,6,2014,8
+41,38.0,\u25bc3,166,Van der Sande Tosh,23,Lotto Belisol,6,2014,8
+42,37.0,\u25bc5,124,de Kort Koen,31,Team Giant - Shimano,6,2014,8
+43,40.0,\u25bc3,205,Pardilla Sergio,30,MTN - Qhubeka,5,2014,8
+44,41.0,\u25bc3,142,Gasparotto Enrico,32,Astana Pro Team,4,2014,8
+45,42.0,\u25bc3,75,M\xf8rk\xf8v Michael,29,Tinkoff - Saxo,4,2014,8
+46,43.0,\u25bc3,31,Kolobnev Alexandr,33,Team Katusha,3,2014,8
+47,44.0,\u25bc3,157,Roux Anthony,27,FDJ.fr,3,2014,8
+48,,-,8,Valls Rafael,26,Lampre - Merida,2,2014,8
+49,46.0,\u25bc3,117,King Benjamin,25,Garmin Sharp,2,2014,8
+50,47.0,\u25bc3,215,de Vreese Laurens,25,Wanty - Groupe Gobert,2,2014,8
+51,48.0,\u25bc3,172,Coquard Bryan,22,Team Europcar,2,2014,8
+52,49.0,\u25bc3,32,Chernetski Sergei,24,Team Katusha,1,2014,8
+53,,-,152,Jeannesson Arnold,28,FDJ.fr,1,2014,8
+54,50.0,\u25bc4,57,Riblon Christophe,33,AG2R La Mondiale,1,2014,8
+55,51.0,\u25bc4,62,Burghardt Marcus,30,BMC Racing Team,1,2014,8
+56,52.0,\u25bc4,146,Iglinskiy Valentin,30,Astana Pro Team,1,2014,8
+1,1.0,-,131,Sagan Peter,24,Cannondale,88,2014,9
+2,5.0,\u25b23,101,Mollema Bauke,27,Belkin-Pro Cycling Team,46,2014,9
+3,6.0,\u25b23,1,Costa Rui,27,Lampre - Merida,42,2014,9
+4,3.0,\u25bc1,13,Martin Tony,29,Omega Pharma - Quick-Step,38,2014,9
+5,4.0,\u25bc1,28,Rojas Jos\xe9 Joaqu\xedn,29,Movistar Team,37,2014,9
+6,9.0,\u25b23,125,Dumoulin Tom,23,Team Giant - Shimano,29,2014,9
+7,17.0,\u25b210,181,Frank Mathias,27,IAM Cycling,28,2014,9
+8,7.0,\u25bc1,17,Trentin Matteo,24,Omega Pharma - Quick-Step,25,2014,9
+9,10.0,\u25b21,35,Kristoff Alexander,26,Team Katusha,24,2014,9
+10,18.0,\u25b28,71,Kreuziger Roman,28,Tinkoff - Saxo,21,2014,9
+11,13.0,\u25b22,91,Albasini Michael,33,Orica GreenEDGE,20,2014,9
+12,14.0,\u25b22,72,Bennati Daniele,33,Tinkoff - Saxo,20,2014,9
+13,16.0,\u25b23,42,Deignan Philip,30,Team Sky,19,2014,9
+14,19.0,\u25b25,63,Dillier Silvan,23,BMC Racing Team,18,2014,9
+15,22.0,\u25b27,143,Gavazzi Francesco,29,Astana Pro Team,16,2014,9
+16,23.0,\u25b27,93,Chaves Johan Esteban,24,Orica GreenEDGE,15,2014,9
+17,25.0,\u25b28,98,Schurter Nino,28,Orica GreenEDGE,14,2014,9
+18,26.0,\u25b28,61,Evans Cadel,37,BMC Racing Team,13,2014,9
+19,28.0,\u25b29,151,Pinot Thibaut,24,FDJ.fr,12,2014,9
+20,30.0,\u25b210,133,Formolo Davide,21,Cannondale,11,2014,9
+21,29.0,\u25b28,144,Guarnieri Jacopo,26,Astana Pro Team,11,2014,9
+22,36.0,\u25b214,112,Acevedo Janier Alexis,28,Garmin Sharp,10,2014,9
+23,31.0,\u25b28,67,Warbasse Larry,23,BMC Racing Team,10,2014,9
+24,32.0,\u25b28,116,Dennis Rohan,24,Garmin Sharp,10,2014,9
+25,,-,65,Morabito Steve,31,BMC Racing Team,9,2014,9
+26,33.0,\u25b27,21,Capecchi Eros,28,Movistar Team,9,2014,9
+27,34.0,\u25b27,102,Clement Stef,31,Belkin-Pro Cycling Team,9,2014,9
+28,35.0,\u25b27,23,Izagirre Ion,25,Movistar Team,9,2014,9
+29,,-,78,Zaugg Oliver,33,Tinkoff - Saxo,8,2014,9
+30,37.0,\u25b27,111,Slagter Tom-Jelte,24,Garmin Sharp,8,2014,9
+31,38.0,\u25b27,184,Haussler Heinrich,30,IAM Cycling,8,2014,9
+32,,-,114,Cardoso Andr\xe9,29,Garmin Sharp,7,2014,9
+33,39.0,\u25b26,123,Craddock Lawson,22,Team Giant - Shimano,7,2014,9
+34,41.0,\u25b27,166,Van der Sande Tosh,23,Lotto Belisol,6,2014,9
+35,,-,155,Roy J\xe9r\xe9my,31,FDJ.fr,6,2014,9
+36,42.0,\u25b26,124,de Kort Koen,31,Team Giant - Shimano,6,2014,9
+37,43.0,\u25b26,205,Pardilla Sergio,30,MTN - Qhubeka,5,2014,9
+38,,-,188,Wyss Marcel,27,IAM Cycling,5,2014,9
+39,44.0,\u25b25,142,Gasparotto Enrico,32,Astana Pro Team,4,2014,9
+40,45.0,\u25b25,75,M\xf8rk\xf8v Michael,29,Tinkoff - Saxo,4,2014,9
+41,46.0,\u25b25,31,Kolobnev Alexandr,33,Team Katusha,3,2014,9
+42,47.0,\u25b25,157,Roux Anthony,27,FDJ.fr,3,2014,9
+43,48.0,\u25b25,8,Valls Rafael,26,Lampre - Merida,2,2014,9
+44,49.0,\u25b25,117,King Benjamin,25,Garmin Sharp,2,2014,9
+45,50.0,\u25b25,215,de Vreese Laurens,25,Wanty - Groupe Gobert,2,2014,9
+46,51.0,\u25b25,172,Coquard Bryan,22,Team Europcar,2,2014,9
+47,53.0,\u25b26,152,Jeannesson Arnold,28,FDJ.fr,1,2014,9
+48,52.0,\u25b24,32,Chernetski Sergei,24,Team Katusha,1,2014,9
+49,55.0,\u25b26,62,Burghardt Marcus,30,BMC Racing Team,1,2014,9
+50,56.0,\u25b26,146,Iglinskiy Valentin,30,Astana Pro Team,1,2014,9

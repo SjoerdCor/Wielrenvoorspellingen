@@ -1,0 +1,470 @@
+Rnk,Rider,Age,Team,Pnt,GC,GC-Time,Time,year,stage
+1,Ventoso Francisco,21,Saunier Duval - Prodir,20.0,1.0,+0:00,3:14:40 3:14:40,2004,1
+2,Chavanel S\xe9bastien,20,Brioches La Boulang\xe8re,12.0,2.0,+0:04,",, ,,",2004,1
+3,Hunter Robert,26,Rabobank ProTeam,7.0,3.0,+0:06,",, ,,",2004,1
+4,Jur\u010do Matej,19,De Nardi,5.0,10.0,+0:10,",, ,,",2004,1
+5,Boonen Tom,23,Quickstep - Davitamon,4.0,8.0,+0:09,",, ,,",2004,1
+6,Chicchi Francesco,23,Fassa Bortolo,3.0,11.0,+0:10,",, ,,",2004,1
+7,Jegou Lilian,28,Cr\xe9dit Agricole,2.0,12.0,+0:10,",, ,,",2004,1
+8,Pollack Olaf,30,Gerolsteiner,1.0,13.0,+0:10,",, ,,",2004,1
+9,Korff Andre,30,T-Mobile Team,,14.0,+0:10,",, ,,",2004,1
+10,Hinault S\xe9bastien,29,Cr\xe9dit Agricole,,15.0,+0:10,",, ,,",2004,1
+11,Traksel Bobbie,22,Rabobank ProTeam,,16.0,+0:10,",, ,,",2004,1
+12,van Mechelen Wouter,22,,,17.0,+0:10,",, ,,",2004,1
+13,Sentjens Roy,23,Rabobank ProTeam,,18.0,+0:10,",, ,,",2004,1
+14,Ongarato Alberto,28,Fassa Bortolo,,19.0,+0:10,",, ,,",2004,1
+15,Usov Alexandre,26,Phonak Hearing Systems,,4.0,+0:07,",, ,,",2004,1
+16,Albasini Michael,23,Phonak Hearing Systems,,20.0,+0:10,",, ,,",2004,1
+17,McEwen Robbie,31,Lotto - Domo,,6.0,+0:08,",, ,,",2004,1
+18,Nazon Jean-Patrick,27,AG2R Pr\xe9voyance,,21.0,+0:10,",, ,,",2004,1
+19,Cadamuro Simone,27,De Nardi,,22.0,+0:10,",, ,,",2004,1
+20,Michaelsen Lars,34,CSC ProTeam,,23.0,+0:10,",, ,,",2004,1
+21,Balducci Gabriele,28,Saeco,,24.0,+0:10,",, ,,",2004,1
+22,Glomser Gerrit,28,Saeco,,25.0,+0:10,",, ,,",2004,1
+23,F\xf6rster Robert,26,Gerolsteiner,,26.0,+0:10,",, ,,",2004,1
+24,Bonomi Giosue,25,Saeco,,27.0,+0:10,",, ,,",2004,1
+25,Vanotti Alessandro,23,De Nardi,,28.0,+0:10,",, ,,",2004,1
+26,Guidi Fabrizio,31,CSC ProTeam,,29.0,+0:10,",, ,,",2004,1
+27,Cretskens Wilfried,27,Quickstep - Davitamon,,30.0,+0:10,",, ,,",2004,1
+28,Loddo Alberto,25,Saunier Duval - Prodir,,31.0,+0:10,",, ,,",2004,1
+29,Agnolutto Christophe,34,AG2R Pr\xe9voyance,,32.0,+0:10,",, ,,",2004,1
+30,H\xf8j Frank,31,CSC ProTeam,,5.0,+0:07,",, ,,",2004,1
+31,Caethoven Steven,22,,,33.0,+0:10,",, ,,",2004,1
+32,van Bon L\xe9on,32,Lotto - Domo,,34.0,+0:10,",, ,,",2004,1
+33,Rast Gregory,24,Phonak Hearing Systems,,35.0,+0:10,",, ,,",2004,1
+34,Ludewig Jorg,28,Saeco,,36.0,+0:10,",, ,,",2004,1
+35,van Speybroeck Wesley,25,,,37.0,+0:10,",, ,,",2004,1
+36,Grabsch Bert,28,Phonak Hearing Systems,,38.0,+0:10,",, ,,",2004,1
+37,Hoffman Tristan,34,CSC ProTeam,,39.0,+0:10,",, ,,",2004,1
+38,Kashechkin Andrey,23,Cr\xe9dit Agricole,,40.0,+0:10,",, ,,",2004,1
+39,Moerenhout Koos,30,Lotto - Domo,,41.0,+0:10,",, ,,",2004,1
+40,Baumann Eric,23,T-Mobile Team,,9.0,+0:09,",, ,,",2004,1
+41,Konecny Tomas,30,T-Mobile Team,,42.0,+0:10,",, ,,",2004,1
+42,Commesso Salvatore,28,Saeco,,43.0,+0:10,",, ,,",2004,1
+43,Vandenbroucke Frank,29,Mrbookmaker.com - Palmans,,44.0,+0:10,",, ,,",2004,1
+44,Madsen Jimmi,35,CSC ProTeam,,45.0,+0:10,",, ,,",2004,1
+45,Eriksen Thomas bruun,24,CSC ProTeam,,46.0,+0:10,",, ,,",2004,1
+46,Zaugg Oliver,22,Saunier Duval - Prodir,,47.0,+0:10,",, ,,",2004,1
+47,Lang Sebastian,24,Gerolsteiner,,48.0,+0:10,",, ,,",2004,1
+48,Geslin Anthony,23,Brioches La Boulang\xe8re,,49.0,+0:10,",, ,,",2004,1
+49,Beneteau Walter,31,Brioches La Boulang\xe8re,,50.0,+0:10,",, ,,",2004,1
+50,Martias Rony,23,Brioches La Boulang\xe8re,,51.0,+0:10,",, ,,",2004,1
+51,Schoonacker Jehudi,25,,,52.0,+0:10,",, ,,",2004,1
+52,Dumoulin Samuel,23,AG2R Pr\xe9voyance,,53.0,+0:10,",, ,,",2004,1
+53,Gomez Gomez Angel,22,Saunier Duval - Prodir,,54.0,+0:10,",, ,,",2004,1
+54,Sacchi Fabio,29,Fassa Bortolo,,55.0,+0:10,",, ,,",2004,1
+55,Honchar Serhiy,33,De Nardi,,56.0,+0:10,",, ,,",2004,1
+56,De Weert Kevin,21,Rabobank ProTeam,,57.0,+0:10,",, ,,",2004,1
+57,Voeckler Thomas,24,Brioches La Boulang\xe8re,,58.0,+0:10,",, ,,",2004,1
+58,Lorenzetto Mirco,22,De Nardi,,59.0,+0:10,",, ,,",2004,1
+59,Knaven Servais,32,Quickstep - Davitamon,,60.0,+0:10,",, ,,",2004,1
+60,Ca\xf1ada David,28,Saunier Duval - Prodir,,61.0,+0:10,",, ,,",2004,1
+61,Bertogliati Rubens,24,Saunier Duval - Prodir,,62.0,+0:10,",, ,,",2004,1
+62,van Petegem Peter,34,Lotto - Domo,,63.0,+0:10,",, ,,",2004,1
+63,Schnider Daniel,30,Phonak Hearing Systems,,64.0,+0:10,",, ,,",2004,1
+64,Detilloux Christophe,29,Lotto - Domo,,65.0,+0:10,",, ,,",2004,1
+65,Giordani Leonardo,26,De Nardi,,66.0,+0:10,",, ,,",2004,1
+66,Mori Manuele,23,Saunier Duval - Prodir,,67.0,+0:10,",, ,,",2004,1
+67,Aerts Mario,29,T-Mobile Team,,68.0,+0:10,",, ,,",2004,1
+68,Mutsaars Ronald,24,Rabobank ProTeam,,69.0,+0:10,",, ,,",2004,1
+69,Krauss Sven,21,Gerolsteiner,,70.0,+0:10,",, ,,",2004,1
+70,Wrolich Peter,29,Gerolsteiner,,71.0,+0:10,",, ,,",2004,1
+71,Dekkers Hans,22,Rabobank ProTeam,,72.0,+0:10,",, ,,",2004,1
+72,Wauters Marc,34,Rabobank ProTeam,,73.0,+0:10,",, ,,",2004,1
+73,Murn Uros,28,Phonak Hearing Systems,,74.0,+0:10,",, ,,",2004,1
+74,Petito Roberto,33,Fassa Bortolo,,75.0,+0:10,",, ,,",2004,1
+75,Schreck Stephan,25,T-Mobile Team,,76.0,+0:10,",, ,,",2004,1
+76,Barbe Koen,23,,,77.0,+0:10,",, ,,",2004,1
+77,van Goolen Jurgen,23,Quickstep - Davitamon,,78.0,+0:10,",, ,,",2004,1
+78,Cancellara Fabian,22,Fassa Bortolo,,79.0,+0:10,",, ,,",2004,1
+79,Verbrugghe Ief,28,Lotto - Domo,,80.0,+0:10,",, ,,",2004,1
+80,Fothen Markus,22,Gerolsteiner,,81.0,+0:10,",, ,,",2004,1
+81,Tschopp Johann,21,Phonak Hearing Systems,,82.0,+0:10,",, ,,",2004,1
+82,Kern Christophe,23,Brioches La Boulang\xe8re,,83.0,+0:10,",, ,,",2004,1
+83,Joly S\xe9bastien,24,Cr\xe9dit Agricole,,84.0,+0:10,",, ,,",2004,1
+84,Borghi Ruggero,33,De Nardi,,85.0,+0:10,",, ,,",2004,1
+85,Bramati Davide,35,Quickstep - Davitamon,,86.0,+0:10,",, ,,",2004,1
+86,Casagranda Stefano,30,Saeco,,87.0,+0:10,",, ,,",2004,1
+87,Cobo Juan Jose,22,Saunier Duval - Prodir,,88.0,+0:10,",, ,,",2004,1
+88,Ordowski Volker,30,Gerolsteiner,,89.0,+0:10,",, ,,",2004,1
+89,Facci Mauro,21,Fassa Bortolo,,90.0,+0:10,",, ,,",2004,1
+90,Pieri Dario,28,Saeco,,91.0,+0:10,",, ,,",2004,1
+91,Berges Stephane,29,AG2R Pr\xe9voyance,,92.0,+0:10,",, ,,",2004,1
+92,NAULLEAU Alexandre,23,Brioches La Boulang\xe8re,,93.0,+0:10,",, ,,",2004,1
+93,Nardello Daniele,31,T-Mobile Team,,94.0,+0:10,",, ,,",2004,1
+94,Laidoun Julien,24,AG2R Pr\xe9voyance,,7.0,+0:08,",, ,,",2004,1
+95,Jalabert Nicolas,30,Phonak Hearing Systems,,95.0,+0:10,",, ,,",2004,1
+96,De Angeli Luca,28,Fassa Bortolo,,96.0,+0:10,",, ,,",2004,1
+97,Goubert Stephane,33,AG2R Pr\xe9voyance,,97.0,+0:10,",, ,,",2004,1
+98,Nuyens Nick,23,Quickstep - Davitamon,,98.0,+0:10,",, ,,",2004,1
+99,Krivtsov Yuriy,24,AG2R Pr\xe9voyance,,99.0,+0:10,",, ,,",2004,1
+100,Auge St\xe9phane,29,Cr\xe9dit Agricole,,100.0,+0:10,",, ,,",2004,1
+101,Boven Jan,31,Rabobank ProTeam,,101.0,+0:10,",, ,,",2004,1
+102,Zanini Stefano,35,Quickstep - Davitamon,,102.0,+0:10,",, ,,",2004,1
+103,Meys David,26,,,103.0,+0:10,",, ,,",2004,1
+104,de Spiegelaere Bart,25,,,104.0,+0:10,",, ,,",2004,1
+105,Yakovlev Serguei,27,T-Mobile Team,,105.0,+0:10,",, ,,",2004,1
+106,Schmidt Torsten,31,Gerolsteiner,,106.0,+0:10,",, ,,",2004,1
+107,Tankink Bram,25,Quickstep - Davitamon,,107.0,+0:10,",, ,,",2004,1
+108,Wiggins Bradley,23,Cr\xe9dit Agricole,,108.0,+0:10,",, ,,",2004,1
+109,Hiekmann Torsten,23,T-Mobile Team,,109.0,+0:10,",, ,,",2004,1
+110,Loosli David,23,Saeco,,110.0,+0:10,",, ,,",2004,1
+111,Pugaci Igor,29,De Nardi,,111.0,+0:10,",, ,,",2004,1
+112,Oriol Christophe,30,AG2R Pr\xe9voyance,,112.0,+0:10,",, ,,",2004,1
+113,Christensen Bekim leif,30,CSC ProTeam,,113.0,+0:10,",, ,,",2004,1
+114,van der Slagmolen Kevin,23,,,114.0,+0:36,0:26 0:26,2004,1
+115,Marichal Thierry,30,Lotto - Domo,,115.0,+0:42,0:32 0:32,2004,1
+116,Sandst\xf8d Michael,35,CSC ProTeam,,116.0,+0:42,",, 0:32",2004,1
+117,Hoste Leif,26,Lotto - Domo,,117.0,+1:23,1:13 1:13,2004,1
+118,Muravyev Dmitriy,24,Cr\xe9dit Agricole,,118.0,+3:12,3:02 3:02,2004,1
+119,Nazon Damien,29,Cr\xe9dit Agricole,,119.0,+4:23,4:13 4:13,2004,1
+1,Boonen Tom,23,Quickstep - Davitamon,20.0,1.0,+0:00,2:53:00 2:53:00,2004,2
+2,Nazon Jean-Patrick,27,AG2R Pr\xe9voyance,12.0,3.0,+0:04,",, ,,",2004,2
+3,Chicchi Francesco,23,Fassa Bortolo,7.0,7.0,+0:09,",, ,,",2004,2
+4,McEwen Robbie,31,Lotto - Domo,5.0,5.0,+0:08,",, ,,",2004,2
+5,Hunter Robert,26,Rabobank ProTeam,4.0,6.0,+0:09,",, ,,",2004,2
+6,Balducci Gabriele,28,Saeco,3.0,12.0,+0:13,",, ,,",2004,2
+7,Zanini Stefano,35,Quickstep - Davitamon,2.0,30.0,+0:13,",, ,,",2004,2
+8,Pollack Olaf,30,Gerolsteiner,1.0,10.0,+0:13,",, ,,",2004,2
+9,Chavanel S\xe9bastien,20,Brioches La Boulang\xe8re,,4.0,+0:07,",, ,,",2004,2
+10,Michaelsen Lars,34,CSC ProTeam,,9.0,+0:12,",, ,,",2004,2
+11,Mori Manuele,23,Saunier Duval - Prodir,,24.0,+0:13,",, ,,",2004,2
+12,Jegou Lilian,28,Cr\xe9dit Agricole,,11.0,+0:13,",, ,,",2004,2
+13,Commesso Salvatore,28,Saeco,,17.0,+0:13,",, ,,",2004,2
+14,Detilloux Christophe,29,Lotto - Domo,,26.0,+0:13,",, ,,",2004,2
+15,Ventoso Francisco,21,Saunier Duval - Prodir,,2.0,+0:03,",, ,,",2004,2
+16,Sentjens Roy,23,Rabobank ProTeam,,13.0,+0:13,",, ,,",2004,2
+17,Lang Sebastian,24,Gerolsteiner,,20.0,+0:13,",, ,,",2004,2
+18,Moerenhout Koos,30,Lotto - Domo,,19.0,+0:13,",, ,,",2004,2
+19,Beneteau Walter,31,Brioches La Boulang\xe8re,,22.0,+0:13,",, ,,",2004,2
+20,van Bon L\xe9on,32,Lotto - Domo,,16.0,+0:13,",, ,,",2004,2
+21,Guidi Fabrizio,31,CSC ProTeam,,15.0,+0:13,",, ,,",2004,2
+22,Schoonacker Jehudi,25,,,23.0,+0:13,",, ,,",2004,2
+23,H\xf8j Frank,31,CSC ProTeam,,8.0,+0:10,",, ,,",2004,2
+24,Vandenbroucke Frank,29,Mrbookmaker.com - Palmans,,21.0,+0:13,",, ,,",2004,2
+25,Dumoulin Samuel,23,AG2R Pr\xe9voyance,,25.0,+0:13,",, ,,",2004,2
+26,Ongarato Alberto,28,Fassa Bortolo,,14.0,+0:13,",, ,,",2004,2
+27,Wauters Marc,34,Rabobank ProTeam,,29.0,+0:13,",, ,,",2004,2
+28,Knaven Servais,32,Quickstep - Davitamon,,28.0,+0:13,",, ,,",2004,2
+29,Cretskens Wilfried,27,Quickstep - Davitamon,,18.0,+0:13,",, ,,",2004,2
+30,Sacchi Fabio,29,Fassa Bortolo,,27.0,+0:13,",, ,,",2004,2
+31,Honchar Serhiy,33,De Nardi,,31.0,+0:21,0:08 0:08,2004,2
+32,Eriksen Thomas bruun,24,CSC ProTeam,,33.0,+0:23,0:10 0:10,2004,2
+33,Verbrugghe Ief,28,Lotto - Domo,,35.0,+0:25,0:12 0:12,2004,2
+34,Agnolutto Christophe,34,AG2R Pr\xe9voyance,,32.0,+0:22,",, 0:12",2004,2
+35,van Goolen Jurgen,23,Quickstep - Davitamon,,36.0,+0:25,",, 0:12",2004,2
+36,Nuyens Nick,23,Quickstep - Davitamon,,38.0,+0:25,",, 0:12",2004,2
+37,Schmidt Torsten,31,Gerolsteiner,,40.0,+0:25,",, 0:12",2004,2
+38,Krivtsov Yuriy,24,AG2R Pr\xe9voyance,,39.0,+0:25,",, 0:12",2004,2
+39,Mutsaars Ronald,24,Rabobank ProTeam,,34.0,+0:25,",, 0:12",2004,2
+40,Petito Roberto,33,Fassa Bortolo,,37.0,+0:25,",, 0:12",2004,2
+41,Wrolich Peter,29,Gerolsteiner,,41.0,+0:34,0:21 0:21,2004,2
+42,De Weert Kevin,21,Rabobank ProTeam,,42.0,+0:35,0:22 0:22,2004,2
+43,Cancellara Fabian,22,Fassa Bortolo,,43.0,+0:41,0:28 0:28,2004,2
+44,Boven Jan,31,Rabobank ProTeam,,44.0,+0:54,0:41 0:41,2004,2
+45,Aerts Mario,29,T-Mobile Team,,51.0,+5:34,5:21 5:21,2004,2
+46,van Speybroeck Wesley,25,,,49.0,+5:34,",, 5:21",2004,2
+47,Auge St\xe9phane,29,Cr\xe9dit Agricole,,56.0,+5:34,",, 5:21",2004,2
+48,Geslin Anthony,23,Brioches La Boulang\xe8re,,50.0,+5:34,",, 5:21",2004,2
+49,Berges Stephane,29,AG2R Pr\xe9voyance,,53.0,+5:34,",, 5:21",2004,2
+50,Baumann Eric,23,T-Mobile Team,,46.0,+5:33,",, 5:21",2004,2
+51,van Mechelen Wouter,22,,,47.0,+5:34,",, 5:21",2004,2
+52,Traksel Bobbie,22,Rabobank ProTeam,,48.0,+5:34,",, 5:21",2004,2
+53,Fothen Markus,22,Gerolsteiner,,52.0,+5:34,",, 5:21",2004,2
+54,Ordowski Volker,30,Gerolsteiner,,54.0,+5:34,",, 5:21",2004,2
+55,Usov Alexandre,26,Phonak Hearing Systems,,45.0,+5:31,",, 5:21",2004,2
+56,Casagranda Stefano,30,Saeco,,55.0,+5:34,",, 5:21",2004,2
+57,Hoste Leif,26,Lotto - Domo,,58.0,+6:47,",, 5:21",2004,2
+58,Tankink Bram,25,Quickstep - Davitamon,,57.0,+5:34,",, 5:21",2004,2
+59,Gomez Gomez Angel,22,Saunier Duval - Prodir,,59.0,+10:44,10:31 10:31,2004,2
+60,Loddo Alberto,25,Saunier Duval - Prodir,,60.0,+33:26,33:13 33:13,2004,2
+61,Bertogliati Rubens,24,Saunier Duval - Prodir,,61.0,+33:26,",, 33:13",2004,2
+62,Murn Uros,28,Phonak Hearing Systems,,81.0,+33:29,33:16 33:16,2004,2
+63,Loosli David,23,Saeco,,98.0,+33:29,",, 33:16",2004,2
+64,Jur\u010do Matej,19,De Nardi,,63.0,+33:29,",, 33:16",2004,2
+65,Konecny Tomas,30,T-Mobile Team,,67.0,+33:29,",, 33:16",2004,2
+66,Grabsch Bert,28,Phonak Hearing Systems,,66.0,+33:29,",, 33:16",2004,2
+67,Rast Gregory,24,Phonak Hearing Systems,,64.0,+33:29,",, 33:16",2004,2
+68,Tschopp Johann,21,Phonak Hearing Systems,,87.0,+33:29,",, 33:16",2004,2
+69,Schnider Daniel,30,Phonak Hearing Systems,,79.0,+33:29,",, 33:16",2004,2
+70,Zaugg Oliver,22,Saunier Duval - Prodir,,71.0,+33:29,",, 33:16",2004,2
+71,Martias Rony,23,Brioches La Boulang\xe8re,,74.0,+33:29,",, 33:16",2004,2
+72,Voeckler Thomas,24,Brioches La Boulang\xe8re,,77.0,+33:29,",, 33:16",2004,2
+73,Kern Christophe,23,Brioches La Boulang\xe8re,,88.0,+33:29,",, 33:16",2004,2
+74,Dekkers Hans,22,Rabobank ProTeam,,85.0,+33:29,",, 33:16",2004,2
+75,de Spiegelaere Bart,25,,,100.0,+33:29,",, 33:16",2004,2
+76,NAULLEAU Alexandre,23,Brioches La Boulang\xe8re,,93.0,+33:29,",, 33:16",2004,2
+77,F\xf6rster Robert,26,Gerolsteiner,,65.0,+33:29,",, 33:16",2004,2
+78,Sandst\xf8d Michael,35,CSC ProTeam,,115.0,+34:01,",, 33:16",2004,2
+79,Barbe Koen,23,,,89.0,+33:29,",, 33:16",2004,2
+80,Ca\xf1ada David,28,Saunier Duval - Prodir,,84.0,+33:29,",, 33:16",2004,2
+81,Hiekmann Torsten,23,T-Mobile Team,,103.0,+33:29,",, 33:16",2004,2
+82,Facci Mauro,21,Fassa Bortolo,,96.0,+33:29,",, 33:16",2004,2
+83,Ludewig Jorg,28,Saeco,,72.0,+33:29,",, 33:16",2004,2
+84,De Angeli Luca,28,Fassa Bortolo,,102.0,+33:29,",, 33:16",2004,2
+85,Kashechkin Andrey,23,Cr\xe9dit Agricole,,75.0,+33:29,",, 33:16",2004,2
+86,Yakovlev Serguei,27,T-Mobile Team,,104.0,+33:29,",, 33:16",2004,2
+87,Borghi Ruggero,33,De Nardi,,97.0,+33:29,",, 33:16",2004,2
+88,Meys David,26,,,105.0,+33:29,",, 33:16",2004,2
+89,Pieri Dario,28,Saeco,,101.0,+33:29,",, 33:16",2004,2
+90,Bramati Davide,35,Quickstep - Davitamon,,99.0,+33:29,",, 33:16",2004,2
+91,van der Slagmolen Kevin,23,,,114.0,+33:55,",, 33:16",2004,2
+92,Caethoven Steven,22,,,76.0,+33:29,",, 33:16",2004,2
+93,Giordani Leonardo,26,De Nardi,,90.0,+33:29,",, 33:16",2004,2
+94,Krauss Sven,21,Gerolsteiner,,92.0,+33:29,",, 33:16",2004,2
+95,Schreck Stephan,25,T-Mobile Team,,95.0,+33:29,",, 33:16",2004,2
+96,Albasini Michael,23,Phonak Hearing Systems,,69.0,+33:29,",, 33:16",2004,2
+97,Korff Andre,30,T-Mobile Team,,68.0,+33:29,",, 33:16",2004,2
+98,Cadamuro Simone,27,De Nardi,,73.0,+33:29,",, 33:16",2004,2
+99,Hoffman Tristan,34,CSC ProTeam,,82.0,+33:29,",, 33:16",2004,2
+100,Lorenzetto Mirco,22,De Nardi,,91.0,+33:29,",, 33:16",2004,2
+101,Madsen Jimmi,35,CSC ProTeam,,86.0,+33:29,",, 33:16",2004,2
+102,Hinault S\xe9bastien,29,Cr\xe9dit Agricole,,70.0,+33:29,",, 33:16",2004,2
+103,Christensen Bekim leif,30,CSC ProTeam,,111.0,+33:29,",, 33:16",2004,2
+104,Pugaci Igor,29,De Nardi,,110.0,+33:29,",, 33:16",2004,2
+105,Vanotti Alessandro,23,De Nardi,,78.0,+33:29,",, 33:16",2004,2
+106,Marichal Thierry,30,Lotto - Domo,,116.0,+34:01,",, 33:16",2004,2
+107,van Petegem Peter,34,Lotto - Domo,,94.0,+33:29,",, 33:16",2004,2
+108,Wiggins Bradley,23,Cr\xe9dit Agricole,,112.0,+33:29,",, 33:16",2004,2
+109,Jalabert Nicolas,30,Phonak Hearing Systems,,107.0,+33:29,",, 33:16",2004,2
+110,Bonomi Giosue,25,Saeco,,80.0,+33:29,",, 33:16",2004,2
+111,Oriol Christophe,30,AG2R Pr\xe9voyance,,113.0,+33:29,",, 33:16",2004,2
+112,Goubert Stephane,33,AG2R Pr\xe9voyance,,109.0,+33:29,",, 33:16",2004,2
+113,Nardello Daniele,31,T-Mobile Team,,108.0,+33:29,",, 33:16",2004,2
+114,Laidoun Julien,24,AG2R Pr\xe9voyance,,62.0,+33:27,",, 33:16",2004,2
+115,Glomser Gerrit,28,Saeco,,83.0,+33:29,",, 33:16",2004,2
+116,Cobo Juan Jose,22,Saunier Duval - Prodir,,106.0,+33:29,",, 33:16",2004,2
+DNF,Muravyev Dmitriy,24,Cr\xe9dit Agricole,,,+ -6:07:27,-2:53:00 -2:53:00,2004,2
+DNF,Joly S\xe9bastien,24,Cr\xe9dit Agricole,,,+ -6:07:27,",, -2:53:00",2004,2
+DNF,Nazon Damien,29,Cr\xe9dit Agricole,,,+ -6:07:27,",, -2:53:00",2004,2
+1,Hunter Robert,26,Rabobank ProTeam,20.0,1.0,+0:00,4:54:46 4:54:46,2004,3
+2,McEwen Robbie,31,Lotto - Domo,12.0,2.0,+0:03,0:03 0:03,2004,3
+3,Nazon Jean-Patrick,27,AG2R Pr\xe9voyance,7.0,3.0,+0:03,",, 0:03",2004,3
+4,Vandenbroucke Frank,29,Mrbookmaker.com - Palmans,5.0,5.0,+0:19,",, 0:03",2004,3
+5,Petito Roberto,33,Fassa Bortolo,4.0,24.0,+0:35,0:07 0:07,2004,3
+6,Knaven Servais,32,Quickstep - Davitamon,3.0,6.0,+0:23,",, 0:07",2004,3
+7,Boonen Tom,23,Quickstep - Davitamon,2.0,4.0,+0:11,0:09 0:09,2004,3
+8,van Mechelen Wouter,22,,1.0,35.0,+5:50,0:13 0:13,2004,3
+9,Usov Alexandre,26,Phonak Hearing Systems,,34.0,+5:47,",, 0:13",2004,3
+10,Guidi Fabrizio,31,CSC ProTeam,,11.0,+0:29,",, 0:13",2004,3
+11,Mori Manuele,23,Saunier Duval - Prodir,,15.0,+0:29,",, 0:13",2004,3
+12,Krivtsov Yuriy,24,AG2R Pr\xe9voyance,,25.0,+0:41,",, 0:13",2004,3
+13,H\xf8j Frank,31,CSC ProTeam,,7.0,+0:26,",, 0:13",2004,3
+14,Jur\u010do Matej,19,De Nardi,,59.0,+33:45,",, 0:13",2004,3
+15,Dumoulin Samuel,23,AG2R Pr\xe9voyance,,19.0,+0:29,",, 0:13",2004,3
+16,Boven Jan,31,Rabobank ProTeam,,31.0,+1:10,",, 0:13",2004,3
+17,Michaelsen Lars,34,CSC ProTeam,,8.0,+0:28,",, 0:13",2004,3
+18,Beneteau Walter,31,Brioches La Boulang\xe8re,,14.0,+0:29,",, 0:13",2004,3
+19,Bonomi Giosue,25,Saeco,,62.0,+33:45,",, 0:13",2004,3
+20,Caethoven Steven,22,,,61.0,+33:45,",, 0:13",2004,3
+21,Sentjens Roy,23,Rabobank ProTeam,,10.0,+0:29,",, 0:13",2004,3
+22,Balducci Gabriele,28,Saeco,,9.0,+0:28,",, 0:13",2004,3
+23,van Bon L\xe9on,32,Lotto - Domo,,13.0,+0:29,",, 0:13",2004,3
+24,Wrolich Peter,29,Gerolsteiner,,27.0,+0:50,",, 0:13",2004,3
+25,Ca\xf1ada David,28,Saunier Duval - Prodir,,63.0,+33:45,",, 0:13",2004,3
+26,Krauss Sven,21,Gerolsteiner,,66.0,+33:45,",, 0:13",2004,3
+27,Lang Sebastian,24,Gerolsteiner,,18.0,+0:29,",, 0:13",2004,3
+28,Konecny Tomas,30,T-Mobile Team,,60.0,+33:45,",, 0:13",2004,3
+29,Detilloux Christophe,29,Lotto - Domo,,20.0,+0:29,",, 0:13",2004,3
+30,Goubert Stephane,33,AG2R Pr\xe9voyance,,67.0,+33:45,",, 0:13",2004,3
+31,Nuyens Nick,23,Quickstep - Davitamon,,26.0,+0:41,",, 0:13",2004,3
+32,Cretskens Wilfried,27,Quickstep - Davitamon,,16.0,+0:29,",, 0:13",2004,3
+33,Commesso Salvatore,28,Saeco,,17.0,+0:29,",, 0:13",2004,3
+34,Schoonacker Jehudi,25,,,21.0,+0:29,",, 0:13",2004,3
+35,De Weert Kevin,21,Rabobank ProTeam,,28.0,+0:51,",, 0:13",2004,3
+36,Sacchi Fabio,29,Fassa Bortolo,,22.0,+0:29,",, 0:13",2004,3
+37,Wauters Marc,34,Rabobank ProTeam,,23.0,+0:29,",, 0:13",2004,3
+38,Tankink Bram,25,Quickstep - Davitamon,,36.0,+5:50,",, 0:13",2004,3
+39,Cancellara Fabian,22,Fassa Bortolo,,29.0,+0:57,",, 0:13",2004,3
+40,Jegou Lilian,28,Cr\xe9dit Agricole,,12.0,+0:29,",, 0:13",2004,3
+41,Hinault S\xe9bastien,29,Cr\xe9dit Agricole,,68.0,+33:50,0:18 0:18,2004,3
+42,Hiekmann Torsten,23,T-Mobile Team,,69.0,+34:00,0:28 0:28,2004,3
+43,Mutsaars Ronald,24,Rabobank ProTeam,,30.0,+1:06,0:38 0:38,2004,3
+44,Madsen Jimmi,35,CSC ProTeam,,70.0,+34:10,",, 0:38",2004,3
+45,De Angeli Luca,28,Fassa Bortolo,,71.0,+34:25,0:53 0:53,2004,3
+46,Bramati Davide,35,Quickstep - Davitamon,,72.0,+34:34,1:02 1:02,2004,3
+47,Murn Uros,28,Phonak Hearing Systems,,73.0,+34:39,1:07 1:07,2004,3
+48,Chicchi Francesco,23,Fassa Bortolo,,32.0,+1:24,1:12 1:12,2004,3
+49,F\xf6rster Robert,26,Gerolsteiner,,74.0,+34:48,1:16 1:16,2004,3
+50,Hoffman Tristan,34,CSC ProTeam,,65.0,+33:45,0:13 0:13,2004,3
+51,Ongarato Alberto,28,Fassa Bortolo,,33.0,+1:40,1:24 1:24,2004,3
+52,Kashechkin Andrey,23,Cr\xe9dit Agricole,,64.0,+33:45,0:13 0:13,2004,3
+53,Hoste Leif,26,Lotto - Domo,,37.0,+8:35,1:45 1:45,2004,3
+54,Vanotti Alessandro,23,De Nardi,,75.0,+35:22,1:50 1:50,2004,3
+55,Grabsch Bert,28,Phonak Hearing Systems,,76.0,+37:41,4:09 4:09,2004,3
+56,Ordowski Volker,30,Gerolsteiner,,46.0,+9:46,",, 4:09",2004,3
+57,Rast Gregory,24,Phonak Hearing Systems,,78.0,+42:19,8:47 8:47,2004,3
+58,Schnider Daniel,30,Phonak Hearing Systems,,82.0,+42:19,",, 8:47",2004,3
+59,Dekkers Hans,22,Rabobank ProTeam,,85.0,+42:19,",, 8:47",2004,3
+60,Traksel Bobbie,22,Rabobank ProTeam,,49.0,+14:24,",, 8:47",2004,3
+61,Ludewig Jorg,28,Saeco,,79.0,+42:19,",, 8:47",2004,3
+62,Tschopp Johann,21,Phonak Hearing Systems,,87.0,+42:19,",, 8:47",2004,3
+63,Meys David,26,,,92.0,+42:19,",, 8:47",2004,3
+64,Verbrugghe Ief,28,Lotto - Domo,,44.0,+9:15,",, 8:47",2004,3
+65,Casagranda Stefano,30,Saeco,,53.0,+14:24,",, 8:47",2004,3
+66,van Speybroeck Wesley,25,,,50.0,+14:24,",, 8:47",2004,3
+67,Giordani Leonardo,26,De Nardi,,88.0,+42:19,",, 8:47",2004,3
+68,Berges Stephane,29,AG2R Pr\xe9voyance,,54.0,+14:24,",, 8:47",2004,3
+69,Wiggins Bradley,23,Cr\xe9dit Agricole,,94.0,+42:19,",, 8:47",2004,3
+70,Baumann Eric,23,T-Mobile Team,,48.0,+14:23,",, 8:47",2004,3
+71,van Goolen Jurgen,23,Quickstep - Davitamon,,45.0,+9:15,",, 8:47",2004,3
+72,Korff Andre,30,T-Mobile Team,,80.0,+42:19,",, 8:47",2004,3
+73,Zaugg Oliver,22,Saunier Duval - Prodir,,81.0,+42:19,",, 8:47",2004,3
+74,Agnolutto Christophe,34,AG2R Pr\xe9voyance,,42.0,+9:12,",, 8:47",2004,3
+75,Aerts Mario,29,T-Mobile Team,,52.0,+14:24,",, 8:47",2004,3
+76,Cadamuro Simone,27,De Nardi,,83.0,+42:19,",, 8:47",2004,3
+77,Facci Mauro,21,Fassa Bortolo,,91.0,+42:19,",, 8:47",2004,3
+78,Geslin Anthony,23,Brioches La Boulang\xe8re,,51.0,+14:24,",, 8:47",2004,3
+79,Lorenzetto Mirco,22,De Nardi,,89.0,+42:19,",, 8:47",2004,3
+80,Moerenhout Koos,30,Lotto - Domo,,40.0,+9:03,",, 8:47",2004,3
+81,Albasini Michael,23,Phonak Hearing Systems,,84.0,+42:19,",, 8:47",2004,3
+82,Nardello Daniele,31,T-Mobile Team,,95.0,+42:19,",, 8:47",2004,3
+83,Marichal Thierry,30,Lotto - Domo,,98.0,+42:51,",, 8:47",2004,3
+84,Martias Rony,23,Brioches La Boulang\xe8re,,86.0,+42:19,",, 8:47",2004,3
+85,van Petegem Peter,34,Lotto - Domo,,93.0,+42:19,",, 8:47",2004,3
+86,Chavanel S\xe9bastien,20,Brioches La Boulang\xe8re,,39.0,+8:57,",, 8:47",2004,3
+87,Barbe Koen,23,,,90.0,+42:19,",, 8:47",2004,3
+88,Eriksen Thomas bruun,24,CSC ProTeam,,43.0,+9:13,",, 8:47",2004,3
+89,Jalabert Nicolas,30,Phonak Hearing Systems,,96.0,+42:19,",, 8:47",2004,3
+90,Christensen Bekim leif,30,CSC ProTeam,,97.0,+42:19,",, 8:47",2004,3
+91,Honchar Serhiy,33,De Nardi,,41.0,+9:11,",, 8:47",2004,3
+92,Bertogliati Rubens,24,Saunier Duval - Prodir,,77.0,+42:16,",, 8:47",2004,3
+93,Ventoso Francisco,21,Saunier Duval - Prodir,,38.0,+8:53,",, 8:47",2004,3
+94,Zanini Stefano,35,Quickstep - Davitamon,,47.0,+9:47,9:31 9:31,2004,3
+95,Loddo Alberto,25,Saunier Duval - Prodir,,99.0,+43:00,",, 9:31",2004,3
+96,de Spiegelaere Bart,25,,,105.0,+47:45,14:13 14:13,2004,3
+97,Oriol Christophe,30,AG2R Pr\xe9voyance,,112.0,+47:45,",, 14:13",2004,3
+98,Cobo Juan Jose,22,Saunier Duval - Prodir,,110.0,+47:45,",, 14:13",2004,3
+99,Schmidt Torsten,31,Gerolsteiner,,55.0,+14:41,",, 14:13",2004,3
+100,Borghi Ruggero,33,De Nardi,,104.0,+47:45,",, 14:13",2004,3
+101,van der Slagmolen Kevin,23,,,114.0,+48:11,",, 14:13",2004,3
+102,Kern Christophe,23,Brioches La Boulang\xe8re,,103.0,+47:45,",, 14:13",2004,3
+103,Gomez Gomez Angel,22,Saunier Duval - Prodir,,58.0,+25:00,",, 14:13",2004,3
+104,Sandst\xf8d Michael,35,CSC ProTeam,,115.0,+48:17,",, 14:13",2004,3
+105,Voeckler Thomas,24,Brioches La Boulang\xe8re,,101.0,+47:45,",, 14:13",2004,3
+106,Fothen Markus,22,Gerolsteiner,,56.0,+19:50,",, 14:13",2004,3
+107,Pugaci Igor,29,De Nardi,,113.0,+47:45,",, 14:13",2004,3
+108,Auge St\xe9phane,29,Cr\xe9dit Agricole,,57.0,+19:50,",, 14:13",2004,3
+109,Schreck Stephan,25,T-Mobile Team,,106.0,+47:45,",, 14:13",2004,3
+110,Laidoun Julien,24,AG2R Pr\xe9voyance,,100.0,+47:43,",, 14:13",2004,3
+111,Yakovlev Serguei,27,T-Mobile Team,,111.0,+47:45,",, 14:13",2004,3
+112,Loosli David,23,Saeco,,108.0,+47:45,",, 14:13",2004,3
+113,Pieri Dario,28,Saeco,,109.0,+47:45,",, 14:13",2004,3
+114,Glomser Gerrit,28,Saeco,,102.0,+47:45,",, 14:13",2004,3
+115,NAULLEAU Alexandre,23,Brioches La Boulang\xe8re,,107.0,+47:45,",, 14:13",2004,3
+DNF,Pollack Olaf,30,Gerolsteiner,,,+ - 11:02:10,-4:54:46 -4:54:46,2004,3
+1,Cancellara Fabian,22,Fassa Bortolo,20.0,18.0,+0:47,3:02:37 3:02:37,2004,4
+2,Moerenhout Koos,30,Lotto - Domo,12.0,37.0,+8:57,",, ,,",2004,4
+3,H\xf8j Frank,31,CSC ProTeam,7.0,5.0,+0:22,",, ,,",2004,4
+4,Boonen Tom,23,Quickstep - Davitamon,5.0,4.0,+0:07,",, ,,",2004,4
+5,Usov Alexandre,26,Phonak Hearing Systems,4.0,34.0,+5:47,",, ,,",2004,4
+6,Cadamuro Simone,27,De Nardi,3.0,76.0,+42:19,",, ,,",2004,4
+7,Ongarato Alberto,28,Fassa Bortolo,2.0,29.0,+1:40,",, ,,",2004,4
+8,McEwen Robbie,31,Lotto - Domo,1.0,2.0,+0:01,",, ,,",2004,4
+9,Chicchi Francesco,23,Fassa Bortolo,,27.0,+1:24,",, ,,",2004,4
+10,Nazon Jean-Patrick,27,AG2R Pr\xe9voyance,,3.0,+0:03,",, ,,",2004,4
+11,Balducci Gabriele,28,Saeco,,8.0,+0:27,",, ,,",2004,4
+12,Michaelsen Lars,34,CSC ProTeam,,7.0,+0:27,",, ,,",2004,4
+13,van Bon L\xe9on,32,Lotto - Domo,,10.0,+0:29,",, ,,",2004,4
+14,Hunter Robert,26,Rabobank ProTeam,,1.0,+0:00,",, ,,",2004,4
+15,Sacchi Fabio,29,Fassa Bortolo,,11.0,+0:29,",, ,,",2004,4
+16,Detilloux Christophe,29,Lotto - Domo,,14.0,+0:33,0:04 0:04,2004,4
+17,Petito Roberto,33,Fassa Bortolo,,15.0,+0:39,",, 0:04",2004,4
+18,Sentjens Roy,23,Rabobank ProTeam,,12.0,+0:33,",, 0:04",2004,4
+19,Lang Sebastian,24,Gerolsteiner,,13.0,+0:33,",, 0:04",2004,4
+20,Knaven Servais,32,Quickstep - Davitamon,,9.0,+0:27,",, 0:04",2004,4
+21,Vandenbroucke Frank,29,Mrbookmaker.com - Palmans,,6.0,+0:23,",, 0:04",2004,4
+22,Nuyens Nick,23,Quickstep - Davitamon,,17.0,+0:45,",, 0:04",2004,4
+23,Cretskens Wilfried,27,Quickstep - Davitamon,,16.0,+0:44,0:15 0:15,2004,4
+24,Jalabert Nicolas,30,Phonak Hearing Systems,,78.0,+42:58,0:39 0:39,2004,4
+25,van Mechelen Wouter,22,,,35.0,+6:40,0:50 0:50,2004,4
+26,Baumann Eric,23,T-Mobile Team,,47.0,+15:13,",, 0:50",2004,4
+27,Krivtsov Yuriy,24,AG2R Pr\xe9voyance,,28.0,+1:31,",, 0:50",2004,4
+28,Jegou Lilian,28,Cr\xe9dit Agricole,,19.0,+1:19,",, 0:50",2004,4
+29,Jur\u010do Matej,19,De Nardi,,60.0,+34:35,",, 0:50",2004,4
+30,Vanotti Alessandro,23,De Nardi,,74.0,+36:12,",, 0:50",2004,4
+31,van Speybroeck Wesley,25,,,49.0,+15:14,",, 0:50",2004,4
+32,Beneteau Walter,31,Brioches La Boulang\xe8re,,21.0,+1:19,",, 0:50",2004,4
+33,Dekkers Hans,22,Rabobank ProTeam,,85.0,+43:09,",, 0:50",2004,4
+34,Sandst\xf8d Michael,35,CSC ProTeam,,102.0,+49:07,",, 0:50",2004,4
+35,Schnider Daniel,30,Phonak Hearing Systems,,82.0,+43:09,",, 0:50",2004,4
+36,Zaugg Oliver,22,Saunier Duval - Prodir,,83.0,+43:09,",, 0:50",2004,4
+37,Berges Stephane,29,AG2R Pr\xe9voyance,,51.0,+15:14,",, 0:50",2004,4
+38,Schoonacker Jehudi,25,,,23.0,+1:19,",, 0:50",2004,4
+39,Caethoven Steven,22,,,61.0,+34:35,",, 0:50",2004,4
+40,De Weert Kevin,21,Rabobank ProTeam,,31.0,+1:41,",, 0:50",2004,4
+41,Korff Andre,30,T-Mobile Team,,81.0,+43:09,",, 0:50",2004,4
+42,Guidi Fabrizio,31,CSC ProTeam,,20.0,+1:19,",, 0:50",2004,4
+43,Ventoso Francisco,21,Saunier Duval - Prodir,,39.0,+9:43,",, 0:50",2004,4
+44,Ca\xf1ada David,28,Saunier Duval - Prodir,,63.0,+34:35,",, 0:50",2004,4
+45,Traksel Bobbie,22,Rabobank ProTeam,,48.0,+15:14,",, 0:50",2004,4
+46,Zanini Stefano,35,Quickstep - Davitamon,,45.0,+10:37,",, 0:50",2004,4
+47,Grabsch Bert,28,Phonak Hearing Systems,,75.0,+38:31,",, 0:50",2004,4
+48,Lorenzetto Mirco,22,De Nardi,,88.0,+43:09,",, 0:50",2004,4
+49,Krauss Sven,21,Gerolsteiner,,59.0,+34:33,",, 0:50",2004,4
+50,Facci Mauro,21,Fassa Bortolo,,89.0,+43:09,",, 0:50",2004,4
+51,Wrolich Peter,29,Gerolsteiner,,30.0,+1:40,",, 0:50",2004,4
+52,Eriksen Thomas bruun,24,CSC ProTeam,,41.0,+10:03,",, 0:50",2004,4
+53,Mori Manuele,23,Saunier Duval - Prodir,,22.0,+1:19,",, 0:50",2004,4
+54,Konecny Tomas,30,T-Mobile Team,,62.0,+34:35,",, 0:50",2004,4
+55,Aerts Mario,29,T-Mobile Team,,50.0,+15:14,",, 0:50",2004,4
+56,Dumoulin Samuel,23,AG2R Pr\xe9voyance,,24.0,+1:19,",, 0:50",2004,4
+57,Boven Jan,31,Rabobank ProTeam,,33.0,+2:00,",, 0:50",2004,4
+58,Ludewig Jorg,28,Saeco,,84.0,+43:09,",, 0:50",2004,4
+59,Hiekmann Torsten,23,T-Mobile Team,,69.0,+34:50,",, 0:50",2004,4
+60,Rast Gregory,24,Phonak Hearing Systems,,80.0,+43:09,",, 0:50",2004,4
+61,Wauters Marc,34,Rabobank ProTeam,,26.0,+1:19,",, 0:50",2004,4
+62,Martias Rony,23,Brioches La Boulang\xe8re,,86.0,+43:09,",, 0:50",2004,4
+63,Ordowski Volker,30,Gerolsteiner,,44.0,+10:36,",, 0:50",2004,4
+64,Verbrugghe Ief,28,Lotto - Domo,,42.0,+10:05,",, 0:50",2004,4
+65,Casagranda Stefano,30,Saeco,,52.0,+15:14,",, 0:50",2004,4
+66,Tschopp Johann,21,Phonak Hearing Systems,,87.0,+43:09,",, 0:50",2004,4
+67,Goubert Stephane,33,AG2R Pr\xe9voyance,,67.0,+34:35,",, 0:50",2004,4
+68,De Angeli Luca,28,Fassa Bortolo,,71.0,+35:15,",, 0:50",2004,4
+69,Schreck Stephan,25,T-Mobile Team,,100.0,+48:35,",, 0:50",2004,4
+70,Madsen Jimmi,35,CSC ProTeam,,70.0,+35:00,",, 0:50",2004,4
+71,Borghi Ruggero,33,De Nardi,,99.0,+48:35,",, 0:50",2004,4
+72,van Goolen Jurgen,23,Quickstep - Davitamon,,43.0,+10:05,",, 0:50",2004,4
+73,Hoste Leif,26,Lotto - Domo,,38.0,+9:25,",, 0:50",2004,4
+74,Commesso Salvatore,28,Saeco,,25.0,+1:19,",, 0:50",2004,4
+75,Pieri Dario,28,Saeco,,101.0,+48:35,",, 0:50",2004,4
+76,Glomser Gerrit,28,Saeco,,97.0,+48:35,",, 0:50",2004,4
+77,Schmidt Torsten,31,Gerolsteiner,,53.0,+15:31,",, 0:50",2004,4
+78,Tankink Bram,25,Quickstep - Davitamon,,36.0,+6:40,",, 0:50",2004,4
+79,Murn Uros,28,Phonak Hearing Systems,,73.0,+35:29,",, 0:50",2004,4
+80,Christensen Bekim leif,30,CSC ProTeam,,91.0,+43:09,",, 0:50",2004,4
+81,Kern Christophe,23,Brioches La Boulang\xe8re,,98.0,+48:35,",, 0:50",2004,4
+82,Hinault S\xe9bastien,29,Cr\xe9dit Agricole,,68.0,+34:40,",, 0:50",2004,4
+83,Nardello Daniele,31,T-Mobile Team,,90.0,+43:09,",, 0:50",2004,4
+84,Kashechkin Andrey,23,Cr\xe9dit Agricole,,65.0,+34:35,",, 0:50",2004,4
+85,Bramati Davide,35,Quickstep - Davitamon,,72.0,+35:24,",, 0:50",2004,4
+86,Honchar Serhiy,33,De Nardi,,40.0,+10:01,",, 0:50",2004,4
+87,Hoffman Tristan,34,CSC ProTeam,,66.0,+34:35,",, 0:50",2004,4
+88,Gomez Gomez Angel,22,Saunier Duval - Prodir,,57.0,+25:50,",, 0:50",2004,4
+89,Bertogliati Rubens,24,Saunier Duval - Prodir,,79.0,+43:06,",, 0:50",2004,4
+90,Bonomi Giosue,25,Saeco,,64.0,+34:35,",, 0:50",2004,4
+91,Marichal Thierry,30,Lotto - Domo,,93.0,+43:41,",, 0:50",2004,4
+92,Loddo Alberto,25,Saunier Duval - Prodir,,94.0,+44:02,1:02 1:02,2004,4
+93,van Petegem Peter,34,Lotto - Domo,,92.0,+43:21,",, 1:02",2004,4
+94,Mutsaars Ronald,24,Rabobank ProTeam,,32.0,+1:56,0:50 0:50,2004,4
+95,Yakovlev Serguei,27,T-Mobile Team,,107.0,+50:27,2:42 2:42,2004,4
+96,Geslin Anthony,23,Brioches La Boulang\xe8re,,55.0,+17:05,",, 2:42",2004,4
+97,Chavanel S\xe9bastien,20,Brioches La Boulang\xe8re,,46.0,+11:39,",, 2:42",2004,4
+98,Giordani Leonardo,26,De Nardi,,95.0,+45:01,",, 2:42",2004,4
+99,van der Slagmolen Kevin,23,,,108.0,+50:53,",, 2:42",2004,4
+100,Laidoun Julien,24,AG2R Pr\xe9voyance,,106.0,+50:25,",, 2:42",2004,4
+101,Fothen Markus,22,Gerolsteiner,,56.0,+22:43,2:53 2:53,2004,4
+102,Meys David,26,,,96.0,+46:39,4:20 4:20,2004,4
+103,Pugaci Igor,29,De Nardi,,109.0,+52:05,",, 4:20",2004,4
+104,Voeckler Thomas,24,Brioches La Boulang\xe8re,,110.0,+55:33,7:48 7:48,2004,4
+105,F\xf6rster Robert,26,Gerolsteiner,,77.0,+42:36,",, 7:48",2004,4
+106,Agnolutto Christophe,34,AG2R Pr\xe9voyance,,54.0,+16:57,",, 7:48",2004,4
+107,Oriol Christophe,30,AG2R Pr\xe9voyance,,114.0,+55:33,",, 7:48",2004,4
+108,Albasini Michael,23,Phonak Hearing Systems,,103.0,+50:07,",, 7:48",2004,4
+109,Auge St\xe9phane,29,Cr\xe9dit Agricole,,58.0,+27:38,",, 7:48",2004,4
+110,Wiggins Bradley,23,Cr\xe9dit Agricole,,105.0,+50:07,",, 7:48",2004,4
+111,Barbe Koen,23,,,104.0,+50:07,",, 7:48",2004,4
+112,Loosli David,23,Saeco,,111.0,+55:33,",, 7:48",2004,4
+113,Cobo Juan Jose,22,Saunier Duval - Prodir,,113.0,+55:33,",, 7:48",2004,4
+114,NAULLEAU Alexandre,23,Brioches La Boulang\xe8re,,112.0,+55:33,",, 7:48",2004,4
+115,de Spiegelaere Bart,25,,,115.0,+56:07,8:22 8:22,2004,4

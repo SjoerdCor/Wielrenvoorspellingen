@@ -1,0 +1,518 @@
+Rnk,Rider,Age,Team,Pnt,GC,GC-Time,Time,year,stage
+1,Hammond Roger,35,Cervelo Test Team,20.0,,+0:00,3:33:00 3:33:00,2009,2
+2,Napolitano Danilo,28,Team Katusha,12.0,,+0:00,0:01 0:01,2009,2
+3,Haussler Heinrich,24,Cervelo Test Team,7.0,,+0:00,",, 0:01",2009,2
+4,Boonen Tom,28,Quickstep - Innergetic,5.0,,+0:00,",, 0:01",2009,2
+5,Furlan Angelo,31,Lampre - NGC,4.0,,+0:00,",, 0:01",2009,2
+6,Fischer Murilo Antonio,29,Liquigas,3.0,,+0:00,",, 0:01",2009,2
+7,Klier Andreas,33,Cervelo Test Team,2.0,,+0:00,",, 0:01",2009,2
+8,Florencio Xavier,29,Cervelo Test Team,1.0,,+0:00,0:04 0:04,2009,2
+9,Reynes Vicente,27,Team Columbia - HTC,,,+0:00,",, 0:04",2009,2
+10,Lloyd Daniel,28,Cervelo Test Team,,,+0:00,",, 0:04",2009,2
+11,Vansummeren Johan,27,Silence - Lotto,,,+0:00,0:09 0:09,2009,2
+12,de Jongh Steven,35,Quickstep - Innergetic,,,+0:00,",, 0:09",2009,2
+13,Rasch Gabriel,32,Cervelo Test Team,,,+0:00,0:31 0:31,2009,2
+14,Hulsmans Kevin,30,Quickstep - Innergetic,,,+0:00,0:50 0:50,2009,2
+15,Cavendish Mark,23,Team Columbia - HTC,,,+0:00,2:11 2:11,2009,2
+16,Veelers Tom,24,Skil - Shimano,,,+0:00,",, 2:11",2009,2
+17,Markov Alexei,29,Team Katusha,,,+0:00,",, 2:11",2009,2
+18,Zberg Markus,34,BMC Racing Team,,,+0:00,",, 2:11",2009,2
+19,Neirynck Stijn,23,Topsport Vlaanderen - Mercator,,,+0:00,",, 2:11",2009,2
+20,Wagner Robert,25,Skil - Shimano,,,+0:00,",, 2:11",2009,2
+21,Gajek Artur,23,Milram,,,+0:00,",, 2:11",2009,2
+22,Dekkers Hans,27,Team Garmin - Slipstream,,,+0:00,",, 2:11",2009,2
+23,Mondory Lloyd,26,AG2R La Mondiale,,,+0:00,",, 2:11",2009,2
+24,Ignatyev Mikhail,23,Team Katusha,,,+0:00,",, 2:11",2009,2
+25,Dion Renaud,31,AG2R La Mondiale,,,+0:00,",, 2:11",2009,2
+26,Cretskens Wilfried,32,Silence - Lotto,,,+0:00,",, 2:11",2009,2
+27,Vandewalle Kristof,23,Topsport Vlaanderen - Mercator,,,+0:00,",, 2:11",2009,2
+28,Reimer Martin,21,Cervelo Test Team,,,+0:00,",, 2:11",2009,2
+29,Sentjens Roy,28,Silence - Lotto,,,+0:00,",, 2:11",2009,2
+30,Duijn Huub,24,Team Garmin - Slipstream,,,+0:00,",, 2:11",2009,2
+31,Knaven Servais,37,Milram,,,+0:00,",, 2:11",2009,2
+32,Pozzato Filippo,27,Team Katusha,,,+0:00,",, 2:11",2009,2
+33,Tjallingii Maarten,31,Rabobank ProTeam,,,+0:00,",, 2:11",2009,2
+34,Galimzyanov Denis,21,Team Katusha,,,+0:00,",, 2:11",2009,2
+35,Tankink Bram,30,Rabobank ProTeam,,,+0:00,",, 2:11",2009,2
+36,Wrolich Peter,34,Milram,,,+0:00,",, 2:11",2009,2
+37,Oss Daniel,22,Liquigas,,,+0:00,",, 2:11",2009,2
+38,Sieberg Marcel,26,Team Columbia - HTC,,,+0:00,",, 2:11",2009,2
+39,Burghardt Marcus,25,Team Columbia - HTC,,,+0:00,",, 2:11",2009,2
+40,van Hummel Kenny,26,Skil - Shimano,,,+0:00,",, 2:11",2009,2
+41,Posthuma Joost,27,Rabobank ProTeam,,,+0:00,",, 2:11",2009,2
+42,Shaw Stuart,31,Drapac - Porsche Cycling,,,+0:00,",, 2:11",2009,2
+43,Lorenzetto Mirco,27,Lampre - NGC,,,+0:00,",, 2:11",2009,2
+44,Hunt Jeremy,34,Cervelo Test Team,,,+0:00,",, 2:11",2009,2
+45,Da Dalto Mauro,27,Lampre - NGC,,,+0:00,",, 2:11",2009,2
+46,Serov Alexander,26,Team Katusha,,,+0:00,",, 2:11",2009,2
+47,Hasanin Omar,30,,,,+0:00,6:38 6:38,2009,2
+48,Nolf Frederiek,21,Topsport Vlaanderen - Mercator,,,+0:00,",, 6:38",2009,2
+49,Stalder Florian,26,BMC Racing Team,,,+0:00,",, 6:38",2009,2
+50,Krivtsov Yuriy,29,AG2R La Mondiale,,,+0:00,",, 6:38",2009,2
+51,Damiens Mickael,22,Eqa - Meitan Hompo - Graphite Design,,,+0:00,",, 6:38",2009,2
+52,Bodnar Maciej,23,Liquigas,,,+0:00,",, 6:38",2009,2
+53,Mikhailov Guennady,34,Team Katusha,,,+0:00,",, 6:38",2009,2
+54,Goddaert Kristof,22,Topsport Vlaanderen - Mercator,,,+0:00,",, 6:38",2009,2
+55,Mori Massimiliano,35,Lampre - NGC,,,+0:00,",, 6:38",2009,2
+56,Kohler Martin,23,BMC Racing Team,,,+0:00,",, 6:38",2009,2
+57,Curvers Roy,29,Skil - Shimano,,,+0:00,",, 6:38",2009,2
+58,Ben Hassine Aymen,28,,,,+0:00,",, 6:38",2009,2
+59,Sabatini Fabio,23,Liquigas,,,+0:00,",, 6:38",2009,2
+60,Rosseler Sebastien,27,Quickstep - Innergetic,,,+0:00,",, 6:38",2009,2
+61,Velo Marco,34,Quickstep - Innergetic,,,+0:00,",, 6:38",2009,2
+62,F\xf6rster Robert,31,Milram,,,+0:00,",, 6:38",2009,2
+63,Vanspeybrouck Pieter,21,Topsport Vlaanderen - Mercator,,,+0:00,",, 6:38",2009,2
+64,Kadri Blel,22,AG2R La Mondiale,,,+0:00,",, 6:38",2009,2
+65,Chicchi Francesco,28,Liquigas,,,+0:00,",, 6:38",2009,2
+66,Weylandt Wouter,24,Quickstep - Innergetic,,,+0:00,",, 6:38",2009,2
+67,Lang Sebastian,29,Silence - Lotto,,,+0:00,",, 6:38",2009,2
+68,de Kort Koen,26,Skil - Shimano,,,+0:00,",, 6:38",2009,2
+69,Friedman Michael,26,Team Garmin - Slipstream,,,+0:00,",, 6:38",2009,2
+70,Corioni Claudio,26,Liquigas,,,+0:00,",, 6:38",2009,2
+71,Terpstra Niki,24,Milram,,,+0:00,",, 6:38",2009,2
+72,Sapa Marcin,32,Lampre - NGC,,,+0:00,",, 6:38",2009,2
+73,Barry Michael,33,Team Columbia - HTC,,,+0:00,",, 6:38",2009,2
+74,Frischkorn William,27,Team Garmin - Slipstream,,,+0:00,",, 6:38",2009,2
+75,Roelandts Jurgen,23,Silence - Lotto,,,+0:00,",, 6:38",2009,2
+76,Henderson Gregory,32,Team Columbia - HTC,,,+0:00,",, 6:38",2009,2
+77,Van Impe Kevin,27,Quickstep - Innergetic,,,+0:00,",, 6:38",2009,2
+78,Arrieta Jose Luis,37,AG2R La Mondiale,,,+0:00,",, 6:38",2009,2
+79,de Maar Marc,24,Rabobank ProTeam,,,+0:00,",, 6:38",2009,2
+80,Beyer Chad,22,BMC Racing Team,,,+0:00,",, 6:38",2009,2
+81,Pollock Rhys,28,Drapac - Porsche Cycling,,,+0:00,",, 6:38",2009,2
+82,Windsor Dean,22,Drapac - Porsche Cycling,,,+0:00,",, 6:38",2009,2
+83,Docker Mitchell,22,Skil - Shimano,,,+0:00,",, 6:38",2009,2
+84,Flecha Juan Antonio,31,Rabobank ProTeam,,,+0:00,",, 6:38",2009,2
+85,Schr\xf6der Bjorn,28,Milram,,,+0:00,",, 6:38",2009,2
+86,Stamsnijder Tom,23,Rabobank ProTeam,,,+0:00,",, 6:38",2009,2
+87,Wiggins Bradley,28,Team Garmin - Slipstream,,,+0:00,",, 6:38",2009,2
+88,Lemoine Cyril,25,Skil - Shimano,,,+0:00,",, 6:38",2009,2
+89,Righi Daniele,32,Lampre - NGC,,,+0:00,",, 6:38",2009,2
+90,Maaskant Martijn,25,Team Garmin - Slipstream,,,+0:00,",, 6:38",2009,2
+91,Bandiera Marco,24,Lampre - NGC,,,+0:00,8:55 8:55,2009,2
+92,Deroo David,23,Skil - Shimano,,,+0:00,9:16 9:16,2009,2
+93,Seo Joon Yong,20,Eqa - Meitan Hompo - Graphite Design,,,+0:00,10:46 10:46,2009,2
+94,Smukulis Gatis,21,AG2R La Mondiale,,,+0:00,",, 10:46",2009,2
+95,Belhani Farid,24,,,,+0:00,19:56 19:56,2009,2
+96,Kikuchi Masaaki,22,Eqa - Meitan Hompo - Graphite Design,,,+0:00,",, 19:56",2009,2
+97,Patour Kilian,26,Team Garmin - Slipstream,,,+0:00,",, 19:56",2009,2
+98,Poulhies St\xe9phane,23,AG2R La Mondiale,,,+0:00,",, 19:56",2009,2
+99,Stewart Jackson,28,BMC Racing Team,,,+0:00,",, 19:56",2009,2
+100,Williams Robert,23,Drapac - Porsche Cycling,,,+0:00,",, 19:56",2009,2
+101,Lewis Joe,20,Drapac - Porsche Cycling,,,+0:00,",, 19:56",2009,2
+102,Scheirlinckx Staf,29,Silence - Lotto,,,+0:00,",, 19:56",2009,2
+103,Hoste Leif,31,Silence - Lotto,,,+0:00,",, 19:56",2009,2
+104,Neyens Maarten,23,Topsport Vlaanderen - Mercator,,,+0:00,",, 19:56",2009,2
+105,Esmaeili Tareq,31,,,,+0:00,",, 19:56",2009,2
+106,Joseph Stijn,21,Topsport Vlaanderen - Mercator,,,+0:00,",, 19:56",2009,2
+107,Renders Sven,27,Topsport Vlaanderen - Mercator,,,+0:00,",, 19:56",2009,2
+108,Braunsteins Daniel,20,Drapac - Porsche Cycling,,,+0:00,",, 19:56",2009,2
+109,Swift Ben,21,Team Katusha,,,+0:00,",, 19:56",2009,2
+110,Pineau C\xe9dric,23,AG2R La Mondiale,,,+0:00,",, 19:56",2009,2
+111,van der Velde Ricardo,21,Team Garmin - Slipstream,,,+0:00,",, 19:56",2009,2
+112,Okazaki Kazuya,36,Eqa - Meitan Hompo - Graphite Design,,,+0:00,",, 19:56",2009,2
+113,Fothen Thomas,25,Milram,,,+0:00,",, 19:56",2009,2
+114,Roels Dominik,22,Milram,,,+0:00,",, 19:56",2009,2
+115,Grabsch Bert,33,Team Columbia - HTC,,,+0:00,",, 19:56",2009,2
+116,Dockx Bart,27,Silence - Lotto,,,+0:00,",, 19:56",2009,2
+117,PONT Guillaume,29,Eqa - Meitan Hompo - Graphite Design,,,+0:00,",, 19:56",2009,2
+118,Spilak Simon,22,Lampre - NGC,,,+0:00,",, 19:56",2009,2
+119,Wynants Maarten,26,Quickstep - Innergetic,,,+0:00,",, 19:56",2009,2
+120,Chtioui Rafa\xe2,23,,,,+0:00,",, 19:56",2009,2
+121,Da Ros Gianni,22,Liquigas,,,+0:00,",, 19:56",2009,2
+122,Bookwalter Brent,24,BMC Racing Team,,,+0:00,",, 19:56",2009,2
+123,McDonald Peter,30,Drapac - Porsche Cycling,,,+0:00,",, 19:56",2009,2
+124,Rabon Frantisek,25,Team Columbia - HTC,,,+0:00,",, 19:56",2009,2
+125,Nakajima Yasuharu,24,Eqa - Meitan Hompo - Graphite Design,,,+0:00,",, 19:56",2009,2
+126,Hannachi Abdelbaset,24,,,,+0:00,",, 19:56",2009,2
+127,Mirza Bader Mohamed,25,,,,+0:00,",, 19:56",2009,2
+128,Humbert Ashley,26,Drapac - Porsche Cycling,,,+0:00,",, 19:56",2009,2
+129,Park Sung Baek,23,Eqa - Meitan Hompo - Graphite Design,,,+0:00,",, 19:56",2009,2
+130,Shimizu Miyataka,27,Eqa - Meitan Hompo - Graphite Design,,,+0:00,",, 19:56",2009,2
+131,Langeveld Sebastian,24,Rabobank ProTeam,,,+0:00,",, 19:56",2009,2
+132,Cruz Antonio,37,BMC Racing Team,,,+0:00,",, 19:56",2009,2
+133,Tolleson Taylor,23,BMC Racing Team,,,+0:00,",, 19:56",2009,2
+134,Said Moosa,20,,,,+0:00,",, 19:56",2009,2
+1,Boonen Tom,28,Quickstep - Innergetic,20.0,,+0:00,2:34:53 2:34:53,2009,3
+2,Napolitano Danilo,28,Team Katusha,12.0,,+0:00,",, ,,",2009,3
+3,Roelandts Jurgen,23,Silence - Lotto,7.0,,+0:00,",, ,,",2009,3
+4,Haussler Heinrich,24,Cervelo Test Team,5.0,,+0:00,",, ,,",2009,3
+5,Furlan Angelo,31,Lampre - NGC,4.0,,+0:00,",, ,,",2009,3
+6,Hammond Roger,35,Cervelo Test Team,3.0,,+0:00,",, ,,",2009,3
+7,Galimzyanov Denis,21,Team Katusha,2.0,,+0:00,",, ,,",2009,3
+8,Zberg Markus,34,BMC Racing Team,1.0,,+0:00,",, ,,",2009,3
+9,Wagner Robert,25,Skil - Shimano,,,+0:00,",, ,,",2009,3
+10,Reimer Martin,21,Cervelo Test Team,,,+0:00,",, ,,",2009,3
+11,Klier Andreas,33,Cervelo Test Team,,,+0:00,",, ,,",2009,3
+12,Florencio Xavier,29,Cervelo Test Team,,,+0:00,",, ,,",2009,3
+13,Lloyd Daniel,28,Cervelo Test Team,,,+0:00,",, ,,",2009,3
+14,de Jongh Steven,35,Quickstep - Innergetic,,,+0:00,",, ,,",2009,3
+15,Veelers Tom,24,Skil - Shimano,,,+0:00,",, ,,",2009,3
+16,Sieberg Marcel,26,Team Columbia - HTC,,,+0:00,0:06 0:06,2009,3
+17,Grabsch Bert,33,Team Columbia - HTC,,,+0:00,",, 0:06",2009,3
+18,Velo Marco,34,Quickstep - Innergetic,,,+0:00,0:10 0:10,2009,3
+19,de Kort Koen,26,Skil - Shimano,,,+0:00,0:13 0:13,2009,3
+20,Cretskens Wilfried,32,Silence - Lotto,,,+0:00,0:28 0:28,2009,3
+21,Rasch Gabriel,32,Cervelo Test Team,,,+0:00,",, 0:28",2009,3
+22,Reynes Vicente,27,Team Columbia - HTC,,,+0:00,",, 0:28",2009,3
+23,Bandiera Marco,24,Lampre - NGC,,,+0:00,",, 0:28",2009,3
+24,Pozzato Filippo,27,Team Katusha,,,+0:00,",, 0:28",2009,3
+25,Hunt Jeremy,34,Cervelo Test Team,,,+0:00,",, 0:28",2009,3
+26,Cavendish Mark,23,Team Columbia - HTC,,,+0:00,",, 0:28",2009,3
+27,Sapa Marcin,32,Lampre - NGC,,,+0:00,1:27 1:27,2009,3
+28,Kohler Martin,23,BMC Racing Team,,,+0:00,1:30 1:30,2009,3
+29,Renders Sven,27,Topsport Vlaanderen - Mercator,,,+0:00,",, 1:30",2009,3
+30,Langeveld Sebastian,24,Rabobank ProTeam,,,+0:00,",, 1:30",2009,3
+31,Wrolich Peter,34,Milram,,,+0:00,",, 1:30",2009,3
+32,Goddaert Kristof,22,Topsport Vlaanderen - Mercator,,,+0:00,",, 1:30",2009,3
+33,Tjallingii Maarten,31,Rabobank ProTeam,,,+0:00,",, 1:30",2009,3
+34,Knaven Servais,37,Milram,,,+0:00,",, 1:30",2009,3
+35,Barry Michael,33,Team Columbia - HTC,,,+0:00,",, 1:30",2009,3
+36,Dion Renaud,31,AG2R La Mondiale,,,+0:00,",, 1:30",2009,3
+37,Lorenzetto Mirco,27,Lampre - NGC,,,+0:00,",, 1:30",2009,3
+38,de Maar Marc,24,Rabobank ProTeam,,,+0:00,",, 1:30",2009,3
+39,F\xf6rster Robert,31,Milram,,,+0:00,",, 1:30",2009,3
+40,Fischer Murilo Antonio,29,Liquigas,,,+0:00,",, 1:30",2009,3
+41,Tankink Bram,30,Rabobank ProTeam,,,+0:00,",, 1:30",2009,3
+42,Mikhailov Guennady,34,Team Katusha,,,+0:00,",, 1:30",2009,3
+43,Flecha Juan Antonio,31,Rabobank ProTeam,,,+0:00,",, 1:30",2009,3
+44,van Hummel Kenny,26,Skil - Shimano,,,+0:00,",, 1:30",2009,3
+45,Weylandt Wouter,24,Quickstep - Innergetic,,,+0:00,",, 1:30",2009,3
+46,Chtioui Rafa\xe2,23,,,,+0:00,2:25 2:25,2009,3
+47,Vanspeybrouck Pieter,21,Topsport Vlaanderen - Mercator,,,+0:00,",, 2:25",2009,3
+48,Curvers Roy,29,Skil - Shimano,,,+0:00,",, 2:25",2009,3
+49,Stamsnijder Tom,23,Rabobank ProTeam,,,+0:00,",, 2:25",2009,3
+50,Williams Robert,23,Drapac - Porsche Cycling,,,+0:00,",, 2:25",2009,3
+51,Lewis Joe,20,Drapac - Porsche Cycling,,,+0:00,",, 2:25",2009,3
+52,Rosseler Sebastien,27,Quickstep - Innergetic,,,+0:00,",, 2:25",2009,3
+53,Cruz Antonio,37,BMC Racing Team,,,+0:00,",, 2:25",2009,3
+54,Friedman Michael,26,Team Garmin - Slipstream,,,+0:00,",, 2:25",2009,3
+55,Duijn Huub,24,Team Garmin - Slipstream,,,+0:00,",, 2:25",2009,3
+56,Lang Sebastian,29,Silence - Lotto,,,+0:00,",, 2:25",2009,3
+57,Posthuma Joost,27,Rabobank ProTeam,,,+0:00,",, 2:25",2009,3
+58,Pollock Rhys,28,Drapac - Porsche Cycling,,,+0:00,",, 2:25",2009,3
+59,Gajek Artur,23,Milram,,,+0:00,",, 2:25",2009,3
+60,Roels Dominik,22,Milram,,,+0:00,",, 2:25",2009,3
+61,Schr\xf6der Bjorn,28,Milram,,,+0:00,",, 2:25",2009,3
+62,Fothen Thomas,25,Milram,,,+0:00,",, 2:25",2009,3
+63,Henderson Gregory,32,Team Columbia - HTC,,,+0:00,",, 2:25",2009,3
+64,Docker Mitchell,22,Skil - Shimano,,,+0:00,",, 2:25",2009,3
+65,Poulhies St\xe9phane,23,AG2R La Mondiale,,,+0:00,",, 2:25",2009,3
+66,Hoste Leif,31,Silence - Lotto,,,+0:00,",, 2:25",2009,3
+67,Hasanin Omar,30,,,,+0:00,6:31 6:31,2009,3
+68,Stewart Jackson,28,BMC Racing Team,,,+0:00,7:36 7:36,2009,3
+69,Swift Ben,21,Team Katusha,,,+0:00,",, 7:36",2009,3
+70,Serov Alexander,26,Team Katusha,,,+0:00,",, 7:36",2009,3
+71,Kadri Blel,22,AG2R La Mondiale,,,+0:00,",, 7:36",2009,3
+72,Pineau C\xe9dric,23,AG2R La Mondiale,,,+0:00,",, 7:36",2009,3
+73,Markov Alexei,29,Team Katusha,,,+0:00,",, 7:36",2009,3
+74,Bookwalter Brent,24,BMC Racing Team,,,+0:00,",, 7:36",2009,3
+75,Damiens Mickael,22,Eqa - Meitan Hompo - Graphite Design,,,+0:00,",, 7:36",2009,3
+76,Bodnar Maciej,23,Liquigas,,,+0:00,",, 7:36",2009,3
+77,Ignatyev Mikhail,23,Team Katusha,,,+0:00,",, 7:36",2009,3
+78,Oss Daniel,22,Liquigas,,,+0:00,",, 7:36",2009,3
+79,Neyens Maarten,23,Topsport Vlaanderen - Mercator,,,+0:00,",, 7:36",2009,3
+80,Shaw Stuart,31,Drapac - Porsche Cycling,,,+0:00,",, 7:36",2009,3
+81,Frischkorn William,27,Team Garmin - Slipstream,,,+0:00,",, 7:36",2009,3
+82,Neirynck Stijn,23,Topsport Vlaanderen - Mercator,,,+0:00,",, 7:36",2009,3
+83,Van Impe Kevin,27,Quickstep - Innergetic,,,+0:00,",, 7:36",2009,3
+84,Sabatini Fabio,23,Liquigas,,,+0:00,",, 7:36",2009,3
+85,Hulsmans Kevin,30,Quickstep - Innergetic,,,+0:00,",, 7:36",2009,3
+86,Mori Massimiliano,35,Lampre - NGC,,,+0:00,",, 7:36",2009,3
+87,Okazaki Kazuya,36,Eqa - Meitan Hompo - Graphite Design,,,+0:00,",, 7:36",2009,3
+88,Deroo David,23,Skil - Shimano,,,+0:00,",, 7:36",2009,3
+89,Lemoine Cyril,25,Skil - Shimano,,,+0:00,",, 7:36",2009,3
+90,Belhani Farid,24,,,,+0:00,",, 7:36",2009,3
+91,Ben Hassine Aymen,28,,,,+0:00,10:37 10:37,2009,3
+92,Chicchi Francesco,28,Liquigas,,,+0:00,",, 10:37",2009,3
+93,Burghardt Marcus,25,Team Columbia - HTC,,,+0:00,12:14 12:14,2009,3
+94,Wynants Maarten,26,Quickstep - Innergetic,,,+0:00,",, 12:14",2009,3
+95,Vansummeren Johan,27,Silence - Lotto,,,+0:00,",, 12:14",2009,3
+96,Smukulis Gatis,21,AG2R La Mondiale,,,+0:00,",, 12:14",2009,3
+97,Da Ros Gianni,22,Liquigas,,,+0:00,",, 12:14",2009,3
+98,Hannachi Abdelbaset,24,,,,+0:00,",, 12:14",2009,3
+99,Nolf Frederiek,21,Topsport Vlaanderen - Mercator,,,+0:00,",, 12:14",2009,3
+100,van der Velde Ricardo,21,Team Garmin - Slipstream,,,+0:00,",, 12:14",2009,3
+101,Patour Kilian,26,Team Garmin - Slipstream,,,+0:00,",, 12:14",2009,3
+102,Nakajima Yasuharu,24,Eqa - Meitan Hompo - Graphite Design,,,+0:00,",, 12:14",2009,3
+103,Esmaeili Tareq,31,,,,+0:00,",, 12:14",2009,3
+104,Wiggins Bradley,28,Team Garmin - Slipstream,,,+0:00,",, 12:14",2009,3
+105,Sentjens Roy,28,Silence - Lotto,,,+0:00,",, 12:14",2009,3
+106,Dekkers Hans,27,Team Garmin - Slipstream,,,+0:00,",, 12:14",2009,3
+107,Joseph Stijn,21,Topsport Vlaanderen - Mercator,,,+0:00,",, 12:14",2009,3
+108,Terpstra Niki,24,Milram,,,+0:00,",, 12:14",2009,3
+109,Arrieta Jose Luis,37,AG2R La Mondiale,,,+0:00,",, 12:14",2009,3
+110,Tolleson Taylor,23,BMC Racing Team,,,+0:00,",, 12:14",2009,3
+111,Maaskant Martijn,25,Team Garmin - Slipstream,,,+0:00,",, 12:14",2009,3
+112,Seo Joon Yong,20,Eqa - Meitan Hompo - Graphite Design,,,+0:00,",, 12:14",2009,3
+113,Vandewalle Kristof,23,Topsport Vlaanderen - Mercator,,,+0:00,",, 12:14",2009,3
+114,Kikuchi Masaaki,22,Eqa - Meitan Hompo - Graphite Design,,,+0:00,",, 12:14",2009,3
+115,Scheirlinckx Staf,29,Silence - Lotto,,,+0:00,",, 12:14",2009,3
+116,Krivtsov Yuriy,29,AG2R La Mondiale,,,+0:00,",, 12:14",2009,3
+117,McDonald Peter,30,Drapac - Porsche Cycling,,,+0:00,",, 12:14",2009,3
+118,Mondory Lloyd,26,AG2R La Mondiale,,,+0:00,",, 12:14",2009,3
+119,Da Dalto Mauro,27,Lampre - NGC,,,+0:00,",, 12:14",2009,3
+120,Beyer Chad,22,BMC Racing Team,,,+0:00,",, 12:14",2009,3
+121,Stalder Florian,26,BMC Racing Team,,,+0:00,",, 12:14",2009,3
+122,Righi Daniele,32,Lampre - NGC,,,+0:00,",, 12:14",2009,3
+123,Corioni Claudio,26,Liquigas,,,+0:00,",, 12:14",2009,3
+124,Spilak Simon,22,Lampre - NGC,,,+0:00,",, 12:14",2009,3
+125,Windsor Dean,22,Drapac - Porsche Cycling,,,+0:00,",, 12:14",2009,3
+126,Dockx Bart,27,Silence - Lotto,,,+0:00,",, 12:14",2009,3
+127,Humbert Ashley,26,Drapac - Porsche Cycling,,,+0:00,",, 12:14",2009,3
+128,Rabon Frantisek,25,Team Columbia - HTC,,,+0:00,",, 12:14",2009,3
+129,Braunsteins Daniel,20,Drapac - Porsche Cycling,,,+0:00,",, 12:14",2009,3
+130,Mirza Bader Mohamed,25,,,,+0:00,",, 12:14",2009,3
+131,PONT Guillaume,29,Eqa - Meitan Hompo - Graphite Design,,,+0:00,",, 12:14",2009,3
+132,Shimizu Miyataka,27,Eqa - Meitan Hompo - Graphite Design,,,+0:00,",, 12:14",2009,3
+133,Said Moosa,20,,,,+0:00,",, 12:14",2009,3
+134,Park Sung Baek,23,Eqa - Meitan Hompo - Graphite Design,,,+0:00,",, 12:14",2009,3
+1,Cavendish Mark,23,Team Columbia - HTC,20.0,,+0:00,4:04:55 4:04:55,2009,4
+2,Haussler Heinrich,24,Cervelo Test Team,12.0,,+0:00,",, ,,",2009,4
+3,Boonen Tom,28,Quickstep - Innergetic,7.0,,+0:00,",, ,,",2009,4
+4,Pozzato Filippo,27,Team Katusha,5.0,,+0:00,",, ,,",2009,4
+5,F\xf6rster Robert,31,Milram,4.0,,+0:00,",, ,,",2009,4
+6,Lloyd Daniel,28,Cervelo Test Team,3.0,,+0:00,",, ,,",2009,4
+7,Maaskant Martijn,25,Team Garmin - Slipstream,2.0,,+0:00,",, ,,",2009,4
+8,Lorenzetto Mirco,27,Lampre - NGC,1.0,,+0:00,",, ,,",2009,4
+9,Veelers Tom,24,Skil - Shimano,,,+0:00,",, ,,",2009,4
+10,Hammond Roger,35,Cervelo Test Team,,,+0:00,",, ,,",2009,4
+11,Goddaert Kristof,22,Topsport Vlaanderen - Mercator,,,+0:00,",, ,,",2009,4
+12,Reimer Martin,21,Cervelo Test Team,,,+0:00,0:03 0:03,2009,4
+13,Florencio Xavier,29,Cervelo Test Team,,,+0:00,",, 0:03",2009,4
+14,Klier Andreas,33,Cervelo Test Team,,,+0:00,0:05 0:05,2009,4
+15,Rasch Gabriel,32,Cervelo Test Team,,,+0:00,",, 0:05",2009,4
+16,Oss Daniel,22,Liquigas,,,+0:00,",, 0:05",2009,4
+17,Friedman Michael,26,Team Garmin - Slipstream,,,+0:00,0:06 0:06,2009,4
+18,Sieberg Marcel,26,Team Columbia - HTC,,,+0:00,",, 0:06",2009,4
+19,Flecha Juan Antonio,31,Rabobank ProTeam,,,+0:00,0:17 0:17,2009,4
+20,Hunt Jeremy,34,Cervelo Test Team,,,+0:00,0:19 0:19,2009,4
+21,Burghardt Marcus,25,Team Columbia - HTC,,,+0:00,0:26 0:26,2009,4
+22,van Hummel Kenny,26,Skil - Shimano,,,+0:00,0:42 0:42,2009,4
+23,Furlan Angelo,31,Lampre - NGC,,,+0:00,",, 0:42",2009,4
+24,Zberg Markus,34,BMC Racing Team,,,+0:00,",, 0:42",2009,4
+25,de Kort Koen,26,Skil - Shimano,,,+0:00,",, 0:42",2009,4
+26,Velo Marco,34,Quickstep - Innergetic,,,+0:00,",, 0:42",2009,4
+27,Fothen Thomas,25,Milram,,,+0:00,",, 0:42",2009,4
+28,Vanspeybrouck Pieter,21,Topsport Vlaanderen - Mercator,,,+0:00,",, 0:42",2009,4
+29,Poulhies St\xe9phane,23,AG2R La Mondiale,,,+0:00,",, 0:42",2009,4
+30,Grabsch Bert,33,Team Columbia - HTC,,,+0:00,",, 0:42",2009,4
+31,Hulsmans Kevin,30,Quickstep - Innergetic,,,+0:00,",, 0:42",2009,4
+32,Weylandt Wouter,24,Quickstep - Innergetic,,,+0:00,0:56 0:56,2009,4
+33,Bandiera Marco,24,Lampre - NGC,,,+0:00,",, 0:56",2009,4
+34,Sentjens Roy,28,Silence - Lotto,,,+0:00,",, 0:56",2009,4
+35,Scheirlinckx Staf,29,Silence - Lotto,,,+0:00,",, 0:56",2009,4
+36,Neirynck Stijn,23,Topsport Vlaanderen - Mercator,,,+0:00,",, 0:56",2009,4
+37,Vansummeren Johan,28,Silence - Lotto,,,+0:00,",, 0:56",2009,4
+38,Posthuma Joost,27,Rabobank ProTeam,,,+0:00,",, 0:56",2009,4
+39,Tjallingii Maarten,31,Rabobank ProTeam,,,+0:00,",, 0:56",2009,4
+40,Kohler Martin,23,BMC Racing Team,,,+0:00,",, 0:56",2009,4
+41,Galimzyanov Denis,21,Team Katusha,,,+0:00,",, 0:56",2009,4
+42,de Maar Marc,24,Rabobank ProTeam,,,+0:00,",, 0:56",2009,4
+43,Cretskens Wilfried,32,Silence - Lotto,,,+0:00,",, 0:56",2009,4
+44,Da Dalto Mauro,27,Lampre - NGC,,,+0:00,",, 0:56",2009,4
+45,Henderson Gregory,32,Team Columbia - HTC,,,+0:00,",, 0:56",2009,4
+46,Curvers Roy,29,Skil - Shimano,,,+0:00,",, 0:56",2009,4
+47,Hoste Leif,31,Silence - Lotto,,,+0:00,",, 0:56",2009,4
+48,Duijn Huub,24,Team Garmin - Slipstream,,,+0:00,",, 0:56",2009,4
+49,Wrolich Peter,34,Milram,,,+0:00,",, 0:56",2009,4
+50,Lemoine Cyril,25,Skil - Shimano,,,+0:00,",, 0:56",2009,4
+51,Gajek Artur,23,Milram,,,+0:00,",, 0:56",2009,4
+52,Wynants Maarten,26,Quickstep - Innergetic,,,+0:00,",, 0:56",2009,4
+53,Cruz Antonio,37,BMC Racing Team,,,+0:00,",, 0:56",2009,4
+54,Dion Renaud,31,AG2R La Mondiale,,,+0:00,",, 0:56",2009,4
+55,Lang Sebastian,29,Silence - Lotto,,,+0:00,",, 0:56",2009,4
+56,Dekkers Hans,27,Team Garmin - Slipstream,,,+0:00,1:41 1:41,2009,4
+57,Hasanin Omar,30,,,,+0:00,",, 1:41",2009,4
+58,Schr\xf6der Bjorn,28,Milram,,,+0:00,1:46 1:46,2009,4
+59,Markov Alexei,29,Team Katusha,,,+0:00,",, 1:46",2009,4
+60,Roels Dominik,22,Milram,,,+0:00,",, 1:46",2009,4
+61,Docker Mitchell,22,Skil - Shimano,,,+0:00,",, 1:46",2009,4
+62,Ben Hassine Aymen,28,,,,+0:00,",, 1:46",2009,4
+63,Shaw Stuart,31,Drapac - Porsche Cycling,,,+0:00,",, 1:46",2009,4
+64,Mikhailov Guennady,34,Team Katusha,,,+0:00,",, 1:46",2009,4
+65,Langeveld Sebastian,24,Rabobank ProTeam,,,+0:00,",, 1:46",2009,4
+66,Corioni Claudio,26,Liquigas,,,+0:00,1:51 1:51,2009,4
+67,Arrieta Jose Luis,37,AG2R La Mondiale,,,+0:00,1:54 1:54,2009,4
+68,Shimizu Miyataka,27,Eqa - Meitan Hompo - Graphite Design,,,+0:00,2:17 2:17,2009,4
+69,PONT Guillaume,29,Eqa - Meitan Hompo - Graphite Design,,,+0:00,",, 2:17",2009,4
+70,Barry Michael,33,Team Columbia - HTC,,,+0:00,",, 2:17",2009,4
+71,Ignatyev Mikhail,23,Team Katusha,,,+0:00,",, 2:17",2009,4
+72,van der Velde Ricardo,21,Team Garmin - Slipstream,,,+0:00,",, 2:17",2009,4
+73,Pollock Rhys,28,Drapac - Porsche Cycling,,,+0:00,2:30 2:30,2009,4
+74,Mondory Lloyd,26,AG2R La Mondiale,,,+0:00,3:30 3:30,2009,4
+75,Righi Daniele,32,Lampre - NGC,,,+0:00,",, 3:30",2009,4
+76,Joseph Stijn,21,Topsport Vlaanderen - Mercator,,,+0:00,4:22 4:22,2009,4
+77,Rabon Frantisek,25,Team Columbia - HTC,,,+0:00,",, 4:22",2009,4
+78,Esmaeili Tareq,31,,,,+0:00,8:06 8:06,2009,4
+79,Pineau C\xe9dric,23,AG2R La Mondiale,,,+0:00,",, 8:06",2009,4
+80,Krivtsov Yuriy,29,AG2R La Mondiale,,,+0:00,",, 8:06",2009,4
+81,Da Ros Gianni,22,Liquigas,,,+0:00,",, 8:06",2009,4
+82,Damiens Mickael,22,Eqa - Meitan Hompo - Graphite Design,,,+0:00,",, 8:06",2009,4
+83,Belhani Farid,24,,,,+0:00,",, 8:06",2009,4
+84,Sapa Marcin,32,Lampre - NGC,,,+0:00,",, 8:06",2009,4
+85,Windsor Dean,22,Drapac - Porsche Cycling,,,+0:00,",, 8:06",2009,4
+86,Spilak Simon,22,Lampre - NGC,,,+0:00,",, 8:06",2009,4
+87,Stalder Florian,26,BMC Racing Team,,,+0:00,",, 8:06",2009,4
+88,Nakajima Yasuharu,24,Eqa - Meitan Hompo - Graphite Design,,,+0:00,",, 8:06",2009,4
+89,Okazaki Kazuya,36,Eqa - Meitan Hompo - Graphite Design,,,+0:00,",, 8:06",2009,4
+90,Nolf Frederiek,21,Topsport Vlaanderen - Mercator,,,+0:00,",, 8:06",2009,4
+91,Kikuchi Masaaki,22,Eqa - Meitan Hompo - Graphite Design,,,+0:00,",, 8:06",2009,4
+92,Stewart Jackson,28,BMC Racing Team,,,+0:00,",, 8:06",2009,4
+93,Chtioui Rafa\xe2,23,,,,+0:00,",, 8:06",2009,4
+94,Vandewalle Kristof,23,Topsport Vlaanderen - Mercator,,,+0:00,",, 8:06",2009,4
+95,Braunsteins Daniel,20,Drapac - Porsche Cycling,,,+0:00,",, 8:06",2009,4
+96,Patour Kilian,26,Team Garmin - Slipstream,,,+0:00,",, 8:06",2009,4
+97,Seo Joon Yong,20,Eqa - Meitan Hompo - Graphite Design,,,+0:00,",, 8:06",2009,4
+98,Hannachi Abdelbaset,24,,,,+0:00,",, 8:06",2009,4
+99,Knaven Servais,37,Milram,,,+0:00,",, 8:06",2009,4
+100,Lewis Joe,20,Drapac - Porsche Cycling,,,+0:00,",, 8:06",2009,4
+101,Bookwalter Brent,24,BMC Racing Team,,,+0:00,",, 8:06",2009,4
+102,Humbert Ashley,26,Drapac - Porsche Cycling,,,+0:00,",, 8:06",2009,4
+103,Terpstra Niki,24,Milram,,,+0:00,",, 8:06",2009,4
+104,Stamsnijder Tom,23,Rabobank ProTeam,,,+0:00,",, 8:06",2009,4
+105,Williams Robert,23,Drapac - Porsche Cycling,,,+0:00,",, 8:06",2009,4
+106,Mirza Bader Mohamed,25,,,,+0:00,",, 8:06",2009,4
+107,McDonald Peter,30,Drapac - Porsche Cycling,,,+0:00,",, 8:06",2009,4
+108,Sabatini Fabio,23,Liquigas,,,+0:00,",, 8:06",2009,4
+109,Neyens Maarten,23,Topsport Vlaanderen - Mercator,,,+0:00,",, 8:06",2009,4
+110,Roelandts Jurgen,23,Silence - Lotto,,,+0:00,",, 8:06",2009,4
+111,Renders Sven,27,Topsport Vlaanderen - Mercator,,,+0:00,",, 8:06",2009,4
+112,Chicchi Francesco,28,Liquigas,,,+0:00,",, 8:06",2009,4
+113,Reynes Vicente,27,Team Columbia - HTC,,,+0:00,",, 8:06",2009,4
+114,Said Moosa,20,,,,+0:00,",, 8:06",2009,4
+115,Mori Massimiliano,35,Lampre - NGC,,,+0:00,",, 8:06",2009,4
+116,Smukulis Gatis,21,AG2R La Mondiale,,,+0:00,",, 8:06",2009,4
+117,Kadri Blel,22,AG2R La Mondiale,,,+0:00,",, 8:06",2009,4
+118,Rosseler Sebastien,27,Quickstep - Innergetic,,,+0:00,",, 8:06",2009,4
+119,Van Impe Kevin,27,Quickstep - Innergetic,,,+0:00,",, 8:06",2009,4
+120,Bodnar Maciej,23,Liquigas,,,+0:00,",, 8:06",2009,4
+121,Deroo David,23,Skil - Shimano,,,+0:00,",, 8:06",2009,4
+122,Serov Alexander,26,Team Katusha,,,+0:00,",, 8:06",2009,4
+123,Beyer Chad,22,BMC Racing Team,,,+0:00,",, 8:06",2009,4
+124,Napolitano Danilo,28,Team Katusha,,,+0:00,",, 8:06",2009,4
+125,Dockx Bart,27,Silence - Lotto,,,+0:00,",, 8:06",2009,4
+126,Tankink Bram,30,Rabobank ProTeam,,,+0:00,",, 8:06",2009,4
+127,Tolleson Taylor,23,BMC Racing Team,,,+0:00,",, 8:06",2009,4
+128,Swift Ben,21,Team Katusha,,,+0:00,",, 8:06",2009,4
+129,Frischkorn William,27,Team Garmin - Slipstream,,,+0:00,",, 8:06",2009,4
+130,Wiggins Bradley,28,Team Garmin - Slipstream,,,+0:00,",, 8:06",2009,4
+131,Fischer Murilo Antonio,29,Liquigas,,,+0:00,8:23 8:23,2009,4
+132,de Jongh Steven,35,Quickstep - Innergetic,,,+0:00,9:16 9:16,2009,4
+1,Cavendish Mark,23,Team Columbia - HTC,20.0,9.0,+2:11,2:36:18 2:36:18,2009,6
+2,F\xf6rster Robert,31,Milram,12.0,28.0,+8:30,",, ,,",2009,6
+3,Haussler Heinrich,24,Cervelo Test Team,7.0,2.0,+0:08,",, ,,",2009,6
+4,Dekkers Hans,27,Team Garmin - Slipstream,5.0,56.0,+16:21,",, ,,",2009,6
+5,Chicchi Francesco,28,Liquigas,4.0,81.0,+25:40,",, ,,",2009,6
+6,Napolitano Danilo,28,Team Katusha,3.0,31.0,+9:11,",, ,,",2009,6
+7,Furlan Angelo,31,Lampre - NGC,2.0,7.0,+1:07,",, ,,",2009,6
+8,van Hummel Kenny,26,Skil - Shimano,1.0,19.0,+4:47,",, ,,",2009,6
+9,Sentjens Roy,28,Silence - Lotto,,53.0,+15:44,",, ,,",2009,6
+10,Boonen Tom,28,Quickstep - Innergetic,,1.0,+0:00,",, ,,",2009,6
+11,Veelers Tom,24,Skil - Shimano,,10.0,+2:35,",, ,,",2009,6
+12,Mondory Lloyd,26,AG2R La Mondiale,,60.0,+18:18,",, ,,",2009,6
+13,Zberg Markus,34,BMC Racing Team,,15.0,+3:26,",, ,,",2009,6
+14,Fothen Thomas,25,Milram,,74.0,+23:31,",, ,,",2009,6
+15,Poulhies St\xe9phane,23,AG2R La Mondiale,,72.0,+23:26,",, ,,",2009,6
+16,Tjallingii Maarten,31,Rabobank ProTeam,,20.0,+4:54,",, ,,",2009,6
+17,Shimizu Miyataka,27,Eqa - Meitan Hompo - Graphite Design,,96.0,+35:11,",, ,,",2009,6
+18,Hammond Roger,35,Cervelo Test Team,,3.0,+0:10,",, ,,",2009,6
+19,Lloyd Daniel,28,Cervelo Test Team,,4.0,+0:25,",, ,,",2009,6
+20,Dion Renaud,31,AG2R La Mondiale,,21.0,+5:00,",, ,,",2009,6
+21,Klier Andreas,33,Cervelo Test Team,,5.0,+0:27,",, ,,",2009,6
+22,Chtioui Rafa\xe2,23,,,92.0,+31:02,",, ,,",2009,6
+23,Hannachi Abdelbaset,24,,,108.0,+40:48,",, ,,",2009,6
+24,Nakajima Yasuharu,24,Eqa - Meitan Hompo - Graphite Design,,111.0,+41:00,",, ,,",2009,6
+25,Bookwalter Brent,24,BMC Racing Team,,101.0,+36:11,",, ,,",2009,6
+26,Kadri Blel,22,AG2R La Mondiale,,68.0,+22:42,",, ,,",2009,6
+27,Kohler Martin,23,BMC Racing Team,,35.0,+9:35,",, ,,",2009,6
+28,Stewart Jackson,28,BMC Racing Team,,100.0,+36:11,",, ,,",2009,6
+29,Galimzyanov Denis,21,Team Katusha,,14.0,+3:24,",, ,,",2009,6
+30,Seo Joon Yong,20,Eqa - Meitan Hompo - Graphite Design,,94.0,+31:50,",, ,,",2009,6
+31,Deroo David,23,Skil - Shimano,,83.0,+25:49,",, ,,",2009,6
+32,Curvers Roy,29,Skil - Shimano,,37.0,+10:28,",, ,,",2009,6
+33,Weylandt Wouter,24,Quickstep - Innergetic,,32.0,+9:20,",, ,,",2009,6
+34,Flecha Juan Antonio,31,Rabobank ProTeam,,29.0,+8:42,",, ,,",2009,6
+35,van der Velde Ricardo,21,Team Garmin - Slipstream,,103.0,+36:49,",, ,,",2009,6
+36,Belhani Farid,24,,,102.0,+36:34,",, ,,",2009,6
+37,Pineau C\xe9dric,23,AG2R La Mondiale,,98.0,+36:01,",, ,,",2009,6
+38,Tankink Bram,30,Rabobank ProTeam,,45.0,+12:06,",, ,,",2009,6
+39,Shaw Stuart,31,Drapac - Porsche Cycling,,46.0,+12:12,",, ,,",2009,6
+40,Smukulis Gatis,21,AG2R La Mondiale,,93.0,+31:38,",, ,,",2009,6
+41,de Maar Marc,24,Rabobank ProTeam,,33.0,+9:23,",, ,,",2009,6
+42,Braunsteins Daniel,20,Drapac - Porsche Cycling,,107.0,+40:47,",, ,,",2009,6
+43,Cretskens Wilfried,32,Silence - Lotto,,17.0,+3:58,",, ,,",2009,6
+44,Rasch Gabriel,32,Cervelo Test Team,,8.0,+1:43,",, ,,",2009,6
+45,Mikhailov Guennady,34,Team Katusha,,41.0,+11:10,",, ,,",2009,6
+46,Maaskant Martijn,25,Team Garmin - Slipstream,,63.0,+19:11,",, ,,",2009,6
+47,Reimer Martin,21,Cervelo Test Team,,11.0,+2:35,",, ,,",2009,6
+48,Lorenzetto Mirco,27,Lampre - NGC,,18.0,+4:06,",, ,,",2009,6
+49,Mori Massimiliano,35,Lampre - NGC,,76.0,+24:08,",, ,,",2009,6
+50,Da Dalto Mauro,27,Lampre - NGC,,54.0,+15:46,",, ,,",2009,6
+51,Krivtsov Yuriy,29,AG2R La Mondiale,,85.0,+27:21,",, ,,",2009,6
+52,Arrieta Jose Luis,37,AG2R La Mondiale,,67.0,+21:09,",, ,,",2009,6
+53,Friedman Michael,26,Team Garmin - Slipstream,,34.0,+9:24,",, ,,",2009,6
+54,Wrolich Peter,34,Milram,,22.0,+5:05,",, ,,",2009,6
+55,Lewis Joe,20,Drapac - Porsche Cycling,,91.0,+30:58,",, ,,",2009,6
+56,Roels Dominik,22,Milram,,84.0,+25:53,",, ,,",2009,6
+57,Gajek Artur,23,Milram,,23.0,+6:00,",, ,,",2009,6
+58,Damiens Mickael,22,Eqa - Meitan Hompo - Graphite Design,,70.0,+23:04,",, ,,",2009,6
+59,Henderson Gregory,32,Team Columbia - HTC,,36.0,+10:19,",, ,,",2009,6
+60,Florencio Xavier,29,Cervelo Test Team,,6.0,+0:28,",, ,,",2009,6
+61,Reynes Vicente,27,Team Columbia - HTC,,30.0,+8:58,",, ,,",2009,6
+62,Tolleson Taylor,23,BMC Racing Team,,109.0,+40:49,",, ,,",2009,6
+63,Pozzato Filippo,27,Team Katusha,,13.0,+2:56,",, ,,",2009,6
+64,Barry Michael,33,Team Columbia - HTC,,39.0,+10:45,",, ,,",2009,6
+65,Williams Robert,23,Drapac - Porsche Cycling,,90.0,+30:57,",, ,,",2009,6
+66,Grabsch Bert,33,Team Columbia - HTC,,66.0,+21:04,",, ,,",2009,6
+67,PONT Guillaume,29,Eqa - Meitan Hompo - Graphite Design,,97.0,+35:11,",, ,,",2009,6
+68,Stamsnijder Tom,23,Rabobank ProTeam,,58.0,+17:28,",, ,,",2009,6
+69,de Kort Koen,26,Skil - Shimano,,27.0,+7:57,",, ,,",2009,6
+70,Velo Marco,34,Quickstep - Innergetic,,26.0,+7:46,",, ,,",2009,6
+71,Vansummeren Johan,28,Silence - Lotto,,51.0,+13:42,",, ,,",2009,6
+72,Sieberg Marcel,26,Team Columbia - HTC,,12.0,+2:43,",, ,,",2009,6
+73,Schr\xf6der Bjorn,28,Milram,,44.0,+11:59,",, ,,",2009,6
+74,Terpstra Niki,24,Milram,,86.0,+27:26,",, ,,",2009,6
+75,Langeveld Sebastian,24,Rabobank ProTeam,,75.0,+23:42,0:11 0:11,2009,6
+76,Spilak Simon,22,Lampre - NGC,,110.0,+40:52,",, 0:11",2009,6
+77,Stalder Florian,26,BMC Racing Team,,88.0,+28:07,0:14 0:14,2009,6
+78,Bodnar Maciej,23,Liquigas,,69.0,+22:53,",, 0:14",2009,6
+79,Cruz Antonio,37,BMC Racing Team,,78.0,+24:13,0:17 0:17,2009,6
+80,Lemoine Cyril,25,Skil - Shimano,,55.0,+15:54,0:20 0:20,2009,6
+81,Ben Hassine Aymen,28,,,65.0,+20:00,0:27 0:27,2009,6
+82,Posthuma Joost,27,Rabobank ProTeam,,25.0,+6:18,",, 0:27",2009,6
+83,Mirza Bader Mohamed,25,,,112.0,+41:18,",, 0:27",2009,6
+84,Duijn Huub,24,Team Garmin - Slipstream,,24.0,+6:14,",, 0:27",2009,6
+85,Wiggins Bradley,28,Team Garmin - Slipstream,,87.0,+27:44,0:31 0:31,2009,6
+86,Markov Alexei,29,Team Katusha,,47.0,+12:21,",, 0:31",2009,6
+87,Serov Alexander,26,Team Katusha,,61.0,+18:41,",, 0:31",2009,6
+88,Hunt Jeremy,34,Cervelo Test Team,,16.0,+3:50,",, 0:31",2009,6
+89,Oss Daniel,22,Liquigas,,40.0,+10:46,0:35 0:35,2009,6
+90,Sabatini Fabio,23,Liquigas,,71.0,+23:14,",, 0:35",2009,6
+91,Wynants Maarten,26,Quickstep - Innergetic,,95.0,+34:09,0:47 0:47,2009,6
+92,Hulsmans Kevin,30,Quickstep - Innergetic,,38.0,+10:34,",, 0:47",2009,6
+93,Bandiera Marco,24,Lampre - NGC,,42.0,+11:31,",, 0:47",2009,6
+94,Lang Sebastian,29,Silence - Lotto,,43.0,+11:42,0:52 0:52,2009,6
+95,Hoste Leif,31,Silence - Lotto,,79.0,+24:32,",, 0:52",2009,6
+96,Righi Daniele,32,Lampre - NGC,,77.0,+24:08,",, 0:52",2009,6
+97,Corioni Claudio,26,Liquigas,,73.0,+23:30,1:05 1:05,2009,6
+98,Hasanin Omar,30,,,57.0,+16:32,1:07 1:07,2009,6
+99,Okazaki Kazuya,36,Eqa - Meitan Hompo - Graphite Design,,104.0,+37:29,",, 1:07",2009,6
+100,Docker Mitchell,22,Skil - Shimano,,48.0,+12:53,1:11 1:11,2009,6
+101,Scheirlinckx Staf,29,Silence - Lotto,,99.0,+36:02,1:17 1:17,2009,6
+102,Knaven Servais,37,Milram,,50.0,+13:29,",, 1:17",2009,6
+103,Esmaeili Tareq,31,,,115.0,+42:29,",, 1:17",2009,6
+104,Pollock Rhys,28,Drapac - Porsche Cycling,,49.0,+13:17,",, 1:17",2009,6
+105,Dockx Bart,27,Silence - Lotto,,117.0,+43:09,",, 1:17",2009,6
+106,Beyer Chad,22,BMC Racing Team,,89.0,+29:12,",, 1:17",2009,6
+107,McDonald Peter,30,Drapac - Porsche Cycling,,113.0,+42:04,",, 1:17",2009,6
+108,Humbert Ashley,26,Drapac - Porsche Cycling,,114.0,+42:24,",, 1:17",2009,6
+109,Patour Kilian,26,Team Garmin - Slipstream,,116.0,+42:31,2:00 2:00,2009,6
+110,Rosseler Sebastien,27,Quickstep - Innergetic,,64.0,+19:32,2:07 2:07,2009,6
+111,Van Impe Kevin,27,Quickstep - Innergetic,,80.0,+25:17,",, 2:07",2009,6
+112,Swift Ben,21,Team Katusha,,105.0,+39:25,2:18 2:18,2009,6
+113,Ignatyev Mikhail,23,Team Katusha,,52.0,+14:42,2:21 2:21,2009,6
+114,Sapa Marcin,32,Lampre - NGC,,62.0,+19:02,2:32 2:32,2009,6
+115,Rabon Frantisek,25,Team Columbia - HTC,,106.0,+39:25,2:33 2:33,2009,6
+116,Burghardt Marcus,25,Team Columbia - HTC,,59.0,+17:54,2:43 2:43,2009,6
+117,Frischkorn William,27,Team Garmin - Slipstream,,82.0,+25:42,",, 2:43",2009,6

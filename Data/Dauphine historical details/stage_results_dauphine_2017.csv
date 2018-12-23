@@ -1,0 +1,1340 @@
+Age,Avg,BIB,GC,GC-Time,Pnt,Rider,Rnk,Team,Time,UCI,stage,year
+30,,104,1.0,+0:00,50.0,De Gendt Thomas,1,Lotto Soudal,4:17:04 4:17:04,60.0,1,2017
+26,,12,2.0,+0:48,30.0,Domont Axel,2,AG2R La Mondiale,0:44 0:44,25.0,1,2017
+27,,187,3.0,+1:03,18.0,Ulissi Diego,3,UAE Team Emirates,0:57 0:57,10.0,1,2017
+23,,16,4.0,+1:07,13.0,Latour Pierre,4,AG2R La Mondiale,",, 0:57",,1,2017
+24,,193,5.0,+1:07,10.0,Buchmann Emanuel,5,BORA - hansgrohe,",, 0:57",,1,2017
+27,,145,6.0,+1:09,7.0,Colbrelli Sonny,6,Bahrain Merida Pro Cycling Team,0:59 0:59,,1,2017
+31,,95,7.0,+1:09,4.0,Simon Julien,7,"Cofidis, Solutions Cr\xe9dits",",, 0:59",,1,2017
+37,,51,8.0,+1:09,3.0,Valverde Alejandro,8,Movistar Team,",, 0:59",,1,2017
+29,,186,9.0,+1:09,2.0,Swift Ben,9,UAE Team Emirates,",, 0:59",,1,2017
+25,,78,10.0,+1:09,1.0,Valgren Michael,10,Astana Pro Team,",, 0:59",,1,2017
+28,,66,11.0,+1:09,,Keukeleire Jens,11,ORICA-Scott,",, 0:59",,1,2017
+29,,101,12.0,+1:09,,Gallopin Tony,12,Lotto Soudal,",, 0:59",,1,2017
+31,,143,13.0,+1:09,,Bole Grega,13,Bahrain Merida Pro Cycling Team,",, 0:59",,1,2017
+23,,103,14.0,+1:09,,Benoot Tiesj,14,Lotto Soudal,",, 0:59",,1,2017
+32,,1,15.0,+1:09,,Froome Christopher,15,Team Sky,",, 0:59",,1,2017
+32,,214,16.0,+1:09,,Finetto Mauro,16,Delko Marseille Provence KTM,",, 0:59",,1,2017
+30,,155,17.0,+1:09,,Clarke Simon,17,Cannondale-Drapac Pro Cycling Team,",, 0:59",,1,2017
+23,,152,18.0,+1:09,,Bettiol Alberto,18,Cannondale-Drapac Pro Cycling Team,",, 0:59",,1,2017
+23,,201,19.0,+1:09,,Martin Guillaume,19,Wanty - Groupe Gobert,",, 0:59",,1,2017
+33,,32,20.0,+1:09,,Bookwalter Brent,20,BMC Racing Team,",, 0:59",,1,2017
+30,,21,21.0,+1:09,,Martin Daniel,21,Quick-Step Floors,",, 0:59",,1,2017
+28,,151,22.0,+1:09,,Talansky Andrew,22,Cannondale-Drapac Pro Cycling Team,",, 0:59",,1,2017
+34,,81,23.0,+1:09,,Clement Stef,23,Team LottoNL-Jumbo,",, 0:59",,1,2017
+26,,71,24.0,+1:09,,Aru Fabio,24,Astana Pro Team,",, 0:59",,1,2017
+32,,31,25.0,+1:09,,Porte Richie,25,BMC Racing Team,",, 0:59",,1,2017
+32,,73,26.0,+1:09,,Fuglsang Jakob,26,Astana Pro Team,",, 0:59",,1,2017
+21,,138,27.0,+1:09,,Oomen Sam,27,Team Sunweb,",, 0:59",,1,2017
+31,,203,28.0,+1:09,,Degand Thomas,28,Wanty - Groupe Gobert,",, 0:59",,1,2017
+26,,11,29.0,+1:09,,Bardet Romain,29,AG2R La Mondiale,",, 0:59",,1,2017
+32,,37,30.0,+1:09,,Roche Nicolas,30,BMC Racing Team,",, 0:59",,1,2017
+25,,153,31.0,+1:09,,Brown Nathan,31,Cannondale-Drapac Pro Cycling Team,",, 0:59",,1,2017
+33,,76,32.0,+1:09,,Sanchez Luis Leon,32,Astana Pro Team,",, 0:59",,1,2017
+26,,56,33.0,+1:09,,Herrada Jes\xfas,33,Movistar Team,",, 0:59",,1,2017
+25,,181,34.0,+1:09,,Meintjes Louis,34,UAE Team Emirates,",, 0:59",,1,2017
+26,,55,35.0,+1:09,,Fern\xe1ndez Rub\xe9n,35,Movistar Team,",, 0:59",,1,2017
+29,,18,36.0,+1:09,,Vuillermoz Alexis,36,AG2R La Mondiale,",, 0:59",,1,2017
+27,,62,37.0,+1:09,,Chaves Johan Esteban,37,ORICA-Scott,",, 0:59",,1,2017
+25,,84,38.0,+1:09,,De Tier Floris,38,Team LottoNL-Jumbo,",, 0:59",,1,2017
+34,,41,39.0,+1:09,,Contador Alberto,39,Trek - Segafredo,",, 0:59",,1,2017
+31,,67,40.0,+1:09,,Kreuziger Roman,40,ORICA-Scott,",, 0:59",,1,2017
+22,,24,41.0,+1:09,,Mas Enric,41,Quick-Step Floors,",, 0:59",,1,2017
+39,,148,42.0,+1:09,,Pellizotti Franco,42,Bahrain Merida Pro Cycling Team,",, 0:59",,1,2017
+20,,114,43.0,+1:09,,Gaudu David,43,FDJ,",, 0:59",,1,2017
+24,,68,44.0,+1:09,,Yates Simon,44,ORICA-Scott,",, 0:59",,1,2017
+27,,3,45.0,+1:09,,Kennaugh Peter,45,Team Sky,",, 0:59",,1,2017
+32,,43,46.0,+1:09,,Cardoso Andr\xe9,46,Trek - Segafredo,",, 0:59",,1,2017
+29,,106,47.0,+1:09,,Valls Rafael,47,Lotto Soudal,",, 0:59",,1,2017
+27,,5,48.0,+1:09,,Kwiatkowski Michal,48,Team Sky,",, 0:59",,1,2017
+28,,184,49.0,+1:09,,Laengen Vegard Stake,49,UAE Team Emirates,",, 0:59",,1,2017
+37,,168,50.0,+1:09,,Voeckler Thomas,50,Direct Energie,",, 0:59",,1,2017
+40,,48,51.0,+1:09,,Zubeldia Haimar,51,Trek - Segafredo,",, 0:59",,1,2017
+33,,94,52.0,+1:09,,Navarro Daniel,52,"Cofidis, Solutions Cr\xe9dits",",, 0:59",,1,2017
+26,,2,53.0,+1:09,,Boswell Ian,53,Team Sky,",, 0:59",,1,2017
+25,,122,56.0,+2:19,,Bystr\xf8m Sven Erik,54,Team Katusha - Alpecin,2:09 2:09,,1,2017
+24,,156,57.0,+2:19,,Formolo Davide,55,Cannondale-Drapac Pro Cycling Team,",, 2:09",,1,2017
+25,,154,58.0,+2:19,,Canty Brendan,56,Cannondale-Drapac Pro Cycling Team,",, 2:09",,1,2017
+31,,38,59.0,+2:19,,Wyss Danilo,57,BMC Racing Team,",, 2:09",,1,2017
+31,,102,60.0,+2:19,,Arm\xe9e Sander,58,Lotto Soudal,",, 2:09",,1,2017
+33,,175,61.0,+2:19,,Pauwels Serge,59,Team Dimension Data,",, 2:09",,1,2017
+30,,35,62.0,+2:19,,Hermans Ben,60,BMC Racing Team,",, 2:09",,1,2017
+33,,141,63.0,+2:19,,Brajkovi\u010d Janez,61,Bahrain Merida Pro Cycling Team,",, 2:09",,1,2017
+29,,166,64.0,+2:19,,Sicard Romain,62,Direct Energie,",, 2:09",,1,2017
+31,,124,65.0,+2:19,,Machado Tiago,63,Team Katusha - Alpecin,",, 2:09",,1,2017
+32,,125,66.0,+2:19,,Martin Tony,64,Team Katusha - Alpecin,",, 2:09",,1,2017
+24,,53,67.0,+2:19,,Carapaz Richard,65,Movistar Team,",, 2:09",,1,2017
+24,,58,68.0,+2:19,,S\xfctterlin Jasha,66,Movistar Team,",, 2:09",,1,2017
+24,,75,69.0,+2:19,,Lutsenko Alexey,67,Astana Pro Team,",, 2:09",,1,2017
+30,,205,70.0,+2:19,,Offredo Yoann,68,Wanty - Groupe Gobert,",, 2:09",,1,2017
+23,,97,71.0,+2:19,,Turgis Anthony,69,"Cofidis, Solutions Cr\xe9dits",",, 2:09",,1,2017
+29,,195,72.0,+2:19,,Pfingsten Christoph,70,BORA - hansgrohe,",, 2:09",,1,2017
+29,,15,73.0,+2:19,,Gautier Cyril,71,AG2R La Mondiale,",, 2:09",,1,2017
+32,,108,74.0,+2:19,,Vanendert Jelle,72,Lotto Soudal,",, 2:09",,1,2017
+28,,216,75.0,+2:19,,Madrazo \xc1ngel,73,Delko Marseille Provence KTM,",, 2:09",,1,2017
+27,,72,76.0,+2:19,,Chernetski Sergei,74,Astana Pro Team,",, 2:09",,1,2017
+24,,26,77.0,+2:19,,Vakoc Petr,75,Quick-Step Floors,",, 2:09",,1,2017
+23,,118,78.0,+2:19,,Maison J\xe9r\xe9my,76,FDJ,",, 2:09",,1,2017
+26,,123,79.0,+2:19,,Lammertink Maurits,77,Team Katusha - Alpecin,",, 2:09",,1,2017
+35,,36,80.0,+2:19,,Moinard Ama\xebl,78,BMC Racing Team,",, 2:09",,1,2017
+23,,194,81.0,+3:03,,Herklotz Silvio,79,BORA - hansgrohe,2:53 2:53,,1,2017
+31,,211,82.0,+3:03,,Fernandez Delio,80,Delko Marseille Provence KTM,",, 2:53",,1,2017
+30,,171,54.0,+1:09,,Boasson Hagen Edvald,81,Team Dimension Data,0:59 0:59,,1,2017
+35,,57,55.0,+1:09,,Moreno Daniel,82,Movistar Team,",, 0:59",,1,2017
+23,,44,83.0,+4:47,,Gogl Michael,83,Trek - Segafredo,4:37 4:37,,1,2017
+37,,61,84.0,+5:34,,Gerrans Simon,84,ORICA-Scott,5:24 5:24,,1,2017
+23,,63,85.0,+5:34,,Haig Jack,85,ORICA-Scott,",, 5:24",,1,2017
+26,,17,86.0,+5:57,,Naesen Oliver,86,AG2R La Mondiale,5:47 5:47,,1,2017
+25,,158,87.0,+5:57,,van Baarle Dylan,87,Cannondale-Drapac Pro Cycling Team,",, 5:47",,1,2017
+25,,217,88.0,+5:57,,Pacher Quentin,88,Delko Marseille Provence KTM,",, 5:47",,1,2017
+27,,178,89.0,+5:57,,Thwaites Scott,89,Team Dimension Data,",, 5:47",,1,2017
+26,,172,90.0,+5:57,,Berhane Natnael,90,Team Dimension Data,",, 5:47",,1,2017
+28,,135,91.0,+5:57,,Haga Chad,91,Team Sunweb,",, 5:47",,1,2017
+24,,147,92.0,+5:57,,Nibali Antonio,92,Bahrain Merida Pro Cycling Team,",, 5:47",,1,2017
+23,,127,93.0,+6:34,,Politt Nils,93,Team Katusha - Alpecin,6:24 6:24,,1,2017
+28,,204,94.0,+6:55,,Minnaard Marco,94,Wanty - Groupe Gobert,6:45 6:45,,1,2017
+30,,208,95.0,+6:55,,Vanspeybrouck Pieter,95,Wanty - Groupe Gobert,",, 6:45",,1,2017
+22,,88,96.0,+6:55,,Vermeulen Alexey,96,Team LottoNL-Jumbo,",, 6:45",,1,2017
+27,,28,97.0,+6:55,,Vermote Julien,97,Quick-Step Floors,",, 6:45",,1,2017
+20,,105,98.0,+6:55,,Shaw James,98,Lotto Soudal,",, 6:45",,1,2017
+29,,164,99.0,+6:55,,Nauleau Bryan,99,Direct Energie,",, 6:45",,1,2017
+24,,64,100.0,+7:01,,Howson Damien,100,ORICA-Scott,6:51 6:51,,1,2017
+32,,65,101.0,+8:17,,Impey Daryl,101,ORICA-Scott,8:07 8:07,,1,2017
+25,,131,102.0,+8:17,,Barguil Warren,102,Team Sunweb,",, 8:07",,1,2017
+21,,174,103.0,+8:17,,O'Connor Ben,103,Team Dimension Data,",, 8:07",,1,2017
+37,,46,104.0,+8:17,,Irizar Markel,104,Trek - Segafredo,",, 8:07",,1,2017
+27,,176,105.0,+8:17,,Reguigui Youcef,105,Team Dimension Data,",, 8:07",,1,2017
+24,,52,106.0,+8:17,,Arcas Jorge,106,Movistar Team,",, 8:07",,1,2017
+23,,128,107.0,+8:17,,Zabel Rick,107,Team Katusha - Alpecin,",, 8:07",,1,2017
+32,,215,108.0,+8:17,,Hupond Thierry,108,Delko Marseille Provence KTM,",, 8:07",,1,2017
+27,,202,109.0,+8:17,,Backaert Frederik,109,Wanty - Groupe Gobert,",, 8:07",,1,2017
+24,,206,110.0,+8:17,,Smith Dion,110,Wanty - Groupe Gobert,",, 8:07",,1,2017
+26,,212,111.0,+8:17,,Combaud Romain,111,Delko Marseille Provence KTM,",, 8:07",,1,2017
+32,,213,112.0,+8:17,,El Fares Julien,112,Delko Marseille Provence KTM,",, 8:07",,1,2017
+33,,54,113.0,+8:17,,Erviti Imanol,113,Movistar Team,",, 8:07",,1,2017
+29,,183,114.0,+8:17,,Durasek Kristijan,114,UAE Team Emirates,",, 8:07",,1,2017
+36,,185,115.0,+8:17,,Mori Manuele,115,UAE Team Emirates,",, 8:07",,1,2017
+36,,13,116.0,+8:17,,Dumoulin Samuel,116,AG2R La Mondiale,",, 8:07",,1,2017
+29,,92,117.0,+8:17,,Claeys Dimitri,117,"Cofidis, Solutions Cr\xe9dits",",, 8:07",,1,2017
+32,,142,118.0,+8:17,,Arashiro Yukiya,118,Bahrain Merida Pro Cycling Team,",, 8:07",,1,2017
+26,,167,119.0,+8:17,,Tulik Angelo,119,Direct Energie,",, 8:07",,1,2017
+23,,34,120.0,+8:17,,Frankiny Kilian,120,BMC Racing Team,",, 8:07",,1,2017
+27,,82,121.0,+8:17,,Battaglin Enrico,121,Team LottoNL-Jumbo,",, 8:07",,1,2017
+36,,4,122.0,+8:17,,Knees Christian,122,Team Sky,",, 8:07",,1,2017
+29,,191,123.0,+8:17,,K\xf6nig Leopold,123,BORA - hansgrohe,",, 8:07",,1,2017
+22,,137,124.0,+8:17,,Hofstede Lennard,124,Team Sunweb,",, 8:07",,1,2017
+23,,83,125.0,+8:17,,Bouwman Koen,125,Team LottoNL-Jumbo,",, 8:07",,1,2017
+31,,33,126.0,+8:22,,De Marchi Alessandro,126,BMC Racing Team,8:12 8:12,,1,2017
+27,,14,127.0,+11:21,,Duval Julien,127,AG2R La Mondiale,11:11 11:11,,1,2017
+31,,177,128.0,+12:23,,Thomson Jay Robert,128,Team Dimension Data,12:13 12:13,,1,2017
+34,,25,129.0,+12:40,,Richeze Ariel Maximiliano,129,Quick-Step Floors,12:30 12:30,,1,2017
+25,,161,130.0,+13:18,,Coquard Bryan,130,Direct Energie,13:08 13:08,,1,2017
+25,,87,131.0,+13:18,,Van Hoecke Gijs,131,Team LottoNL-Jumbo,",, 13:08",,1,2017
+23,,86,132.0,+13:18,,Tolhoek Antwan,132,Team LottoNL-Jumbo,",, 13:08",,1,2017
+29,,96,133.0,+13:18,,Soupe Geoffrey,133,"Cofidis, Solutions Cr\xe9dits",",, 13:08",,1,2017
+31,,134,134.0,+13:18,,Fr\xf6hlinger Johannes,134,Team Sunweb,",, 13:08",,1,2017
+30,,173,135.0,+13:18,,Niyonshuti Adrien,135,Team Dimension Data,",, 13:08",,1,2017
+33,,182,136.0,+13:18,,Bono Matteo,136,UAE Team Emirates,",, 13:08",,1,2017
+28,,23,137.0,+13:18,,Declercq Tim,137,Quick-Step Floors,",, 13:08",,1,2017
+23,,117,138.0,+13:18,,Le Gac Olivier,138,FDJ,",, 13:08",,1,2017
+32,,157,139.0,+13:18,,Langeveld Sebastian,139,Cannondale-Drapac Pro Cycling Team,",, 13:08",,1,2017
+27,,7,140.0,+13:18,,Rowe Luke,140,Team Sky,",, 13:08",,1,2017
+34,,42,141.0,+13:18,,Beppu Fumiyuki,141,Trek - Segafredo,",, 13:08",,1,2017
+32,,126,142.0,+13:18,,M\xf8rk\xf8v Michael,142,Team Katusha - Alpecin,",, 13:08",,1,2017
+25,,77,143.0,+13:18,,Stalnov Nikita,143,Astana Pro Team,",, 13:08",,1,2017
+30,,8,144.0,+13:18,,Stannard Ian,144,Team Sky,",, 13:08",,1,2017
+36,,6,145.0,+13:18,,Lopez David,145,Team Sky,",, 13:08",,1,2017
+25,,74,146.0,+13:18,,Kozhatayev Bakhtiyar,146,Astana Pro Team,",, 13:08",,1,2017
+26,,107,147.0,+13:18,,Van der Sande Tosh,147,Lotto Soudal,",, 13:08",,1,2017
+28,,218,148.0,+13:18,,\u0160i\u0161kevi\u010dius Evaldas,148,Delko Marseille Provence KTM,",, 13:08",,1,2017
+33,,197,149.0,+13:18,,Schillinger Andreas,149,BORA - hansgrohe,",, 13:08",,1,2017
+23,,85,150.0,+13:18,,Jansen Amund Grondahl,150,Team LottoNL-Jumbo,",, 13:08",,1,2017
+26,,165,151.0,+16:11,,Petit Adrien,151,Direct Energie,16:01 16:01,,1,2017
+34,,93,152.0,+16:11,,Lemoine Cyril,152,"Cofidis, Solutions Cr\xe9dits",",, 16:01",,1,2017
+25,,163,153.0,+16:11,,Morice Julien,153,Direct Energie,",, 16:01",,1,2017
+31,,113,154.0,+16:11,,Delage Micka\xebl,154,FDJ,",, 16:01",,1,2017
+26,,207,155.0,+16:11,,van Keirsbulck Guillaume,155,Wanty - Groupe Gobert,",, 16:01",,1,2017
+33,,133,156.0,+16:11,,de Backer Bert,156,Team Sunweb,",, 16:01",,1,2017
+26,,47,157.0,+16:11,,Theuns Edward,157,Trek - Segafredo,",, 16:01",,1,2017
+25,,111,158.0,+16:11,,D\xe9mare Arnaud,158,FDJ,",, 16:01",,1,2017
+26,,91,159.0,+16:11,,Bouhanni Nacer,159,"Cofidis, Solutions Cr\xe9dits",",, 16:01",,1,2017
+22,,136,160.0,+16:11,,Hamilton Chris,160,Team Sunweb,",, 16:01",,1,2017
+30,,98,161.0,+16:11,,van Genechten Jonas,161,"Cofidis, Solutions Cr\xe9dits",",, 16:01",,1,2017
+29,,115,162.0,+16:11,,Guarnieri Jacopo,162,FDJ,",, 16:01",,1,2017
+36,,144,163.0,+16:11,,Bozic Borut,163,Bahrain Merida Pro Cycling Team,",, 16:01",,1,2017
+31,,116,164.0,+16:11,,Konovalovas Ignatas,164,FDJ,",, 16:01",,1,2017
+29,,146,165.0,+16:11,,Navardauskas Ramunas,165,Bahrain Merida Pro Cycling Team,",, 16:01",,1,2017
+27,,112,166.0,+16:11,,Cimolai Davide,166,FDJ,",, 16:01",,1,2017
+23,,188,167.0,+16:11,,Zurlo Federico,167,UAE Team Emirates,",, 16:01",,1,2017
+29,,121,168.0,+16:11,,Kristoff Alexander,168,Team Katusha - Alpecin,",, 16:01",,1,2017
+22,,132,169.0,+16:11,,Bauhaus Phil,169,Team Sunweb,",, 16:01",,1,2017
+35,,45,170.0,+16:11,,Hern\xe1ndez Jes\xfas,170,Trek - Segafredo,",, 16:01",,1,2017
+30,,22,171.0,+16:11,,Capecchi Eros,171,Quick-Step Floors,",, 16:01",,1,2017
+32,,27,172.0,+16:11,,Velits Martin,172,Quick-Step Floors,",, 16:01",,1,2017
+23,,192,173.0,+16:11,,Ackermann Pascal,173,BORA - hansgrohe,",, 16:01",,1,2017
+26,,198,174.0,+16:11,,Schwarzmann Michael,174,BORA - hansgrohe,",, 16:01",,1,2017
+35,,196,175.0,+23:28,,Saramotins Aleksejs,175,BORA - hansgrohe,23:18 23:18,,1,2017
+29,,162,,+ -4:16:54,,Hurel Tony,DNF,Direct Energie,-4:17:04 -4:17:04,,1,2017
+25,,111,146.0,+16:01,50.0,D\xe9mare Arnaud,1,FDJ,4:13:53 4:13:53,60.0,2,2017
+29,,121,147.0,+16:05,30.0,Kristoff Alexander,2,Team Katusha - Alpecin,",, ,,",25.0,2,2017
+26,,91,148.0,+16:07,18.0,Bouhanni Nacer,3,"Cofidis, Solutions Cr\xe9dits",",, ,,",10.0,2,2017
+27,,145,6.0,+1:09,13.0,Colbrelli Sonny,4,Bahrain Merida Pro Cycling Team,",, ,,",,2,2017
+22,,132,149.0,+16:11,10.0,Bauhaus Phil,5,Team Sunweb,",, ,,",,2,2017
+30,,171,30.0,+1:09,7.0,Boasson Hagen Edvald,6,Team Dimension Data,",, ,,",,2,2017
+29,,186,7.0,+1:09,4.0,Swift Ben,7,UAE Team Emirates,",, ,,",,2,2017
+23,,192,150.0,+16:11,3.0,Ackermann Pascal,8,BORA - hansgrohe,",, ,,",,2,2017
+23,,152,8.0,+1:09,2.0,Bettiol Alberto,9,Cannondale-Drapac Pro Cycling Team,",, ,,",,2,2017
+25,,161,125.0,+13:18,1.0,Coquard Bryan,10,Direct Energie,",, ,,",,2,2017
+27,,82,100.0,+8:17,,Battaglin Enrico,11,Team LottoNL-Jumbo,",, ,,",,2,2017
+30,,208,89.0,+6:55,,Vanspeybrouck Pieter,12,Wanty - Groupe Gobert,",, ,,",,2,2017
+34,,25,124.0,+12:40,,Richeze Ariel Maximiliano,13,Quick-Step Floors,",, ,,",,2,2017
+24,,206,97.0,+8:17,,Smith Dion,14,Wanty - Groupe Gobert,",, ,,",,2,2017
+36,,13,99.0,+8:17,,Dumoulin Samuel,15,AG2R La Mondiale,",, ,,",,2,2017
+29,,101,9.0,+1:09,,Gallopin Tony,16,Lotto Soudal,",, ,,",,2,2017
+23,,128,98.0,+8:17,,Zabel Rick,17,Team Katusha - Alpecin,",, ,,",,2,2017
+27,,187,3.0,+1:03,,Ulissi Diego,18,UAE Team Emirates,",, ,,",,2,2017
+23,,103,11.0,+1:09,,Benoot Tiesj,19,Lotto Soudal,",, ,,",,2,2017
+24,,58,54.0,+2:19,,S\xfctterlin Jasha,20,Movistar Team,",, ,,",,2,2017
+23,,16,4.0,+1:07,,Latour Pierre,21,AG2R La Mondiale,",, ,,",,2,2017
+26,,17,83.0,+5:57,,Naesen Oliver,22,AG2R La Mondiale,",, ,,",,2,2017
+27,,202,101.0,+8:17,,Backaert Frederik,23,Wanty - Groupe Gobert,",, ,,",,2,2017
+31,,95,10.0,+1:09,,Simon Julien,24,"Cofidis, Solutions Cr\xe9dits",",, ,,",,2,2017
+27,,62,17.0,+1:09,,Chaves Johan Esteban,25,ORICA-Scott,",, ,,",,2,2017
+27,,5,22.0,+1:09,,Kwiatkowski Michal,26,Team Sky,",, ,,",,2,2017
+23,,201,14.0,+1:09,,Martin Guillaume,27,Wanty - Groupe Gobert,",, ,,",,2,2017
+24,,193,5.0,+1:07,,Buchmann Emanuel,28,BORA - hansgrohe,",, ,,",,2,2017
+28,,218,127.0,+13:18,,\u0160i\u0161kevi\u010dius Evaldas,29,Delko Marseille Provence KTM,",, ,,",,2,2017
+32,,1,13.0,+1:09,,Froome Christopher,30,Team Sky,",, ,,",,2,2017
+25,,158,84.0,+5:57,,van Baarle Dylan,31,Cannondale-Drapac Pro Cycling Team,",, ,,",,2,2017
+37,,51,12.0,+1:09,,Valverde Alejandro,32,Movistar Team,",, ,,",,2,2017
+34,,81,16.0,+1:09,,Clement Stef,33,Team LottoNL-Jumbo,",, ,,",,2,2017
+28,,216,56.0,+2:19,,Madrazo \xc1ngel,34,Delko Marseille Provence KTM,",, ,,",,2,2017
+30,,155,15.0,+1:09,,Clarke Simon,35,Cannondale-Drapac Pro Cycling Team,",, ,,",,2,2017
+23,,86,126.0,+13:18,,Tolhoek Antwan,36,Team LottoNL-Jumbo,",, ,,",,2,2017
+29,,195,57.0,+2:19,,Pfingsten Christoph,37,BORA - hansgrohe,",, ,,",,2,2017
+32,,73,18.0,+1:09,,Fuglsang Jakob,38,Astana Pro Team,",, ,,",,2,2017
+26,,56,21.0,+1:09,,Herrada Jes\xfas,39,Movistar Team,",, ,,",,2,2017
+26,,55,23.0,+1:09,,Fern\xe1ndez Rub\xe9n,40,Movistar Team,",, ,,",,2,2017
+23,,194,76.0,+3:03,,Herklotz Silvio,41,BORA - hansgrohe,",, ,,",,2,2017
+28,,151,19.0,+1:09,,Talansky Andrew,42,Cannondale-Drapac Pro Cycling Team,",, ,,",,2,2017
+35,,36,61.0,+2:19,,Moinard Ama\xebl,43,BMC Racing Team,",, ,,",,2,2017
+26,,71,20.0,+1:09,,Aru Fabio,44,Astana Pro Team,",, ,,",,2,2017
+28,,204,90.0,+6:55,,Minnaard Marco,45,Wanty - Groupe Gobert,",, ,,",,2,2017
+25,,181,25.0,+1:09,,Meintjes Louis,46,UAE Team Emirates,",, ,,",,2,2017
+24,,156,55.0,+2:19,,Formolo Davide,47,Cannondale-Drapac Pro Cycling Team,",, ,,",,2,2017
+21,,138,24.0,+1:09,,Oomen Sam,48,Team Sunweb,",, ,,",,2,2017
+30,,35,58.0,+2:19,,Hermans Ben,49,BMC Racing Team,",, ,,",,2,2017
+36,,4,103.0,+8:17,,Knees Christian,50,Team Sky,",, ,,",,2,2017
+25,,74,128.0,+13:18,,Kozhatayev Bakhtiyar,51,Astana Pro Team,",, ,,",,2,2017
+26,,207,151.0,+16:11,,van Keirsbulck Guillaume,52,Wanty - Groupe Gobert,",, ,,",,2,2017
+32,,37,28.0,+1:09,,Roche Nicolas,53,BMC Racing Team,",, ,,",,2,2017
+24,,52,102.0,+8:17,,Arcas Jorge,54,Movistar Team,",, ,,",,2,2017
+25,,84,33.0,+1:09,,De Tier Floris,55,Team LottoNL-Jumbo,",, ,,",,2,2017
+33,,76,31.0,+1:09,,Sanchez Luis Leon,56,Astana Pro Team,",, ,,",,2,2017
+32,,31,27.0,+1:09,,Porte Richie,57,BMC Racing Team,",, ,,",,2,2017
+33,,141,60.0,+2:19,,Brajkovi\u010d Janez,58,Bahrain Merida Pro Cycling Team,",, ,,",,2,2017
+23,,63,81.0,+5:34,,Haig Jack,59,ORICA-Scott,",, ,,",,2,2017
+31,,38,59.0,+2:19,,Wyss Danilo,60,BMC Racing Team,",, ,,",,2,2017
+33,,32,26.0,+1:09,,Bookwalter Brent,61,BMC Racing Team,",, ,,",,2,2017
+24,,64,95.0,+7:01,,Howson Damien,62,ORICA-Scott,",, ,,",,2,2017
+31,,67,36.0,+1:09,,Kreuziger Roman,63,ORICA-Scott,",, ,,",,2,2017
+36,,185,105.0,+8:17,,Mori Manuele,64,UAE Team Emirates,",, ,,",,2,2017
+32,,43,39.0,+1:09,,Cardoso Andr\xe9,65,Trek - Segafredo,",, ,,",,2,2017
+28,,184,40.0,+1:09,,Laengen Vegard Stake,66,UAE Team Emirates,",, ,,",,2,2017
+30,,21,32.0,+1:09,,Martin Daniel,67,Quick-Step Floors,",, ,,",,2,2017
+31,,203,34.0,+1:09,,Degand Thomas,68,Wanty - Groupe Gobert,",, ,,",,2,2017
+27,,176,104.0,+8:17,,Reguigui Youcef,69,Team Dimension Data,",, ,,",,2,2017
+24,,53,63.0,+2:19,,Carapaz Richard,70,Movistar Team,",, ,,",,2,2017
+25,,154,62.0,+2:19,,Canty Brendan,71,Cannondale-Drapac Pro Cycling Team,",, ,,",,2,2017
+24,,68,41.0,+1:09,,Yates Simon,72,ORICA-Scott,",, ,,",,2,2017
+26,,11,35.0,+1:09,,Bardet Romain,73,AG2R La Mondiale,",, ,,",,2,2017
+29,,15,66.0,+2:19,,Gautier Cyril,74,AG2R La Mondiale,",, ,,",,2,2017
+28,,66,29.0,+1:09,,Keukeleire Jens,75,ORICA-Scott,",, ,,",,2,2017
+25,,217,85.0,+5:57,,Pacher Quentin,76,Delko Marseille Provence KTM,",, ,,",,2,2017
+30,,205,67.0,+2:19,,Offredo Yoann,77,Wanty - Groupe Gobert,",, ,,",,2,2017
+37,,46,106.0,+8:17,,Irizar Markel,78,Trek - Segafredo,",, ,,",,2,2017
+37,,61,82.0,+5:34,,Gerrans Simon,79,ORICA-Scott,",, ,,",,2,2017
+29,,106,42.0,+1:09,,Valls Rafael,80,Lotto Soudal,",, ,,",,2,2017
+31,,124,65.0,+2:19,,Machado Tiago,81,Team Katusha - Alpecin,",, ,,",,2,2017
+33,,175,64.0,+2:19,,Pauwels Serge,82,Team Dimension Data,",, ,,",,2,2017
+27,,28,91.0,+6:55,,Vermote Julien,83,Quick-Step Floors,",, ,,",,2,2017
+35,,57,51.0,+1:09,,Moreno Daniel,84,Movistar Team,",, ,,",,2,2017
+26,,12,2.0,+0:48,,Domont Axel,85,AG2R La Mondiale,",, ,,",,2,2017
+30,,104,1.0,+0:00,,De Gendt Thomas,86,Lotto Soudal,",, ,,",,2,2017
+27,,3,43.0,+1:09,,Kennaugh Peter,87,Team Sky,",, ,,",,2,2017
+23,,44,79.0,+4:47,,Gogl Michael,88,Trek - Segafredo,",, ,,",,2,2017
+32,,214,38.0,+1:09,,Finetto Mauro,89,Delko Marseille Provence KTM,",, ,,",,2,2017
+31,,143,37.0,+1:09,,Bole Grega,90,Bahrain Merida Pro Cycling Team,",, ,,",,2,2017
+39,,148,44.0,+1:09,,Pellizotti Franco,91,Bahrain Merida Pro Cycling Team,",, ,,",,2,2017
+20,,114,45.0,+1:09,,Gaudu David,92,FDJ,",, ,,",,2,2017
+23,,118,70.0,+2:19,,Maison J\xe9r\xe9my,93,FDJ,",, ,,",,2,2017
+22,,88,92.0,+6:55,,Vermeulen Alexey,94,Team LottoNL-Jumbo,",, ,,",,2,2017
+22,,24,46.0,+1:09,,Mas Enric,95,Quick-Step Floors,",, ,,",,2,2017
+40,,48,49.0,+1:09,,Zubeldia Haimar,96,Trek - Segafredo,",, ,,",,2,2017
+26,,172,86.0,+5:57,,Berhane Natnael,97,Team Dimension Data,",, ,,",,2,2017
+34,,41,48.0,+1:09,,Contador Alberto,98,Trek - Segafredo,",, ,,",,2,2017
+33,,94,50.0,+1:09,,Navarro Daniel,99,"Cofidis, Solutions Cr\xe9dits",",, ,,",,2,2017
+29,,18,47.0,+1:09,,Vuillermoz Alexis,100,AG2R La Mondiale,",, ,,",,2,2017
+21,,174,107.0,+8:17,,O'Connor Ben,101,Team Dimension Data,",, ,,",,2,2017
+32,,215,108.0,+8:17,,Hupond Thierry,102,Delko Marseille Provence KTM,",, ,,",,2,2017
+27,,7,129.0,+13:18,,Rowe Luke,103,Team Sky,",, ,,",,2,2017
+23,,127,88.0,+6:34,,Politt Nils,104,Team Katusha - Alpecin,",, ,,",,2,2017
+31,,102,69.0,+2:19,,Arm\xe9e Sander,105,Lotto Soudal,",, ,,",,2,2017
+25,,122,68.0,+2:19,,Bystr\xf8m Sven Erik,106,Team Katusha - Alpecin,",, ,,",,2,2017
+23,,97,71.0,+2:19,,Turgis Anthony,107,"Cofidis, Solutions Cr\xe9dits",",, ,,",,2,2017
+32,,213,109.0,+8:17,,El Fares Julien,108,Delko Marseille Provence KTM,",, ,,",,2,2017
+27,,72,74.0,+2:19,,Chernetski Sergei,109,Astana Pro Team,",, ,,",,2,2017
+25,,77,130.0,+13:18,,Stalnov Nikita,110,Astana Pro Team,",, ,,",,2,2017
+31,,177,123.0,+12:23,,Thomson Jay Robert,111,Team Dimension Data,",, ,,",,2,2017
+29,,183,110.0,+8:17,,Durasek Kristijan,112,UAE Team Emirates,",, ,,",,2,2017
+33,,197,133.0,+13:18,,Schillinger Andreas,113,BORA - hansgrohe,",, ,,",,2,2017
+32,,125,72.0,+2:19,,Martin Tony,114,Team Katusha - Alpecin,",, ,,",,2,2017
+26,,123,75.0,+2:19,,Lammertink Maurits,115,Team Katusha - Alpecin,",, ,,",,2,2017
+27,,14,121.0,+11:21,,Duval Julien,116,AG2R La Mondiale,",, ,,",,2,2017
+29,,166,73.0,+2:19,,Sicard Romain,117,Direct Energie,",, ,,",,2,2017
+33,,133,152.0,+16:11,,de Backer Bert,118,Team Sunweb,",, ,,",,2,2017
+33,,182,132.0,+13:18,,Bono Matteo,119,UAE Team Emirates,",, ,,",,2,2017
+31,,134,131.0,+13:18,,Fr\xf6hlinger Johannes,120,Team Sunweb,",, ,,",,2,2017
+23,,34,113.0,+8:17,,Frankiny Kilian,121,BMC Racing Team,",, ,,",,2,2017
+22,,137,115.0,+8:17,,Hofstede Lennard,122,Team Sunweb,",, ,,",,2,2017
+36,,6,135.0,+13:18,,Lopez David,123,Team Sky,",, ,,",,2,2017
+29,,92,114.0,+8:17,,Claeys Dimitri,124,"Cofidis, Solutions Cr\xe9dits",",, ,,",,2,2017
+26,,2,52.0,+1:09,,Boswell Ian,125,Team Sky,",, ,,",,2,2017
+25,,131,111.0,+8:17,,Barguil Warren,126,Team Sunweb,",, ,,",,2,2017
+31,,211,77.0,+3:03,,Fernandez Delio,127,Delko Marseille Provence KTM,",, ,,",,2,2017
+29,,164,93.0,+6:55,,Nauleau Bryan,128,Direct Energie,",, ,,",,2,2017
+30,,173,134.0,+13:18,,Niyonshuti Adrien,129,Team Dimension Data,",, ,,",,2,2017
+27,,178,87.0,+5:57,,Thwaites Scott,130,Team Dimension Data,",, ,,",,2,2017
+32,,65,112.0,+8:17,,Impey Daryl,131,ORICA-Scott,",, ,,",,2,2017
+37,,168,53.0,+1:09,,Voeckler Thomas,132,Direct Energie,",, ,,",,2,2017
+32,,142,116.0,+8:17,,Arashiro Yukiya,133,Bahrain Merida Pro Cycling Team,",, ,,",,2,2017
+25,,163,153.0,+16:11,,Morice Julien,134,Direct Energie,",, ,,",,2,2017
+29,,115,154.0,+16:31,,Guarnieri Jacopo,135,FDJ,0:20 0:20,,2,2017
+26,,167,117.0,+8:41,,Tulik Angelo,136,Direct Energie,0:24 0:24,,2,2017
+32,,126,136.0,+13:46,,M\xf8rk\xf8v Michael,137,Team Katusha - Alpecin,0:28 0:28,,2,2017
+29,,96,137.0,+13:49,,Soupe Geoffrey,138,"Cofidis, Solutions Cr\xe9dits",0:31 0:31,,2,2017
+31,,113,155.0,+16:44,,Delage Micka\xebl,139,FDJ,0:33 0:33,,2,2017
+26,,165,156.0,+17:01,,Petit Adrien,140,Direct Energie,0:50 0:50,,2,2017
+28,,135,94.0,+6:56,,Haga Chad,141,Team Sunweb,0:59 0:59,,2,2017
+23,,117,138.0,+14:18,,Le Gac Olivier,142,FDJ,1:00 1:00,,2,2017
+31,,116,158.0,+17:11,,Konovalovas Ignatas,143,FDJ,",, 1:00",,2,2017
+23,,188,159.0,+17:11,,Zurlo Federico,144,UAE Team Emirates,",, 1:00",,2,2017
+34,,93,160.0,+17:16,,Lemoine Cyril,145,"Cofidis, Solutions Cr\xe9dits",1:05 1:05,,2,2017
+36,,144,161.0,+17:32,,Bozic Borut,146,Bahrain Merida Pro Cycling Team,1:21 1:21,,2,2017
+32,,157,139.0,+14:41,,Langeveld Sebastian,147,Cannondale-Drapac Pro Cycling Team,1:23 1:23,,2,2017
+28,,23,143.0,+15:00,,Declercq Tim,148,Quick-Step Floors,1:42 1:42,,2,2017
+35,,45,162.0,+18:39,,Hern\xe1ndez Jes\xfas,149,Trek - Segafredo,2:28 2:28,,2,2017
+33,,54,118.0,+10:45,,Erviti Imanol,150,Movistar Team,",, 2:28",,2,2017
+25,,87,145.0,+15:46,,Van Hoecke Gijs,151,Team LottoNL-Jumbo,",, 2:28",,2,2017
+24,,75,80.0,+4:47,,Lutsenko Alexey,152,Astana Pro Team,",, 2:28",,2,2017
+25,,153,78.0,+3:37,,Brown Nathan,153,Cannondale-Drapac Pro Cycling Team,",, 2:28",,2,2017
+31,,33,122.0,+12:15,,De Marchi Alessandro,154,BMC Racing Team,3:53 3:53,,2,2017
+26,,212,141.0,+14:48,,Combaud Romain,155,Delko Marseille Provence KTM,6:31 6:31,,2,2017
+25,,78,96.0,+7:40,,Valgren Michael,156,Astana Pro Team,",, 6:31",,2,2017
+22,,136,165.0,+22:42,,Hamilton Chris,157,Team Sunweb,",, 6:31",,2,2017
+29,,191,142.0,+14:48,,K\xf6nig Leopold,158,BORA - hansgrohe,",, 6:31",,2,2017
+29,,146,166.0,+22:42,,Navardauskas Ramunas,159,Bahrain Merida Pro Cycling Team,",, 6:31",,2,2017
+27,,112,168.0,+24:56,,Cimolai Davide,160,FDJ,8:45 8:45,,2,2017
+24,,147,140.0,+14:42,,Nibali Antonio,161,Bahrain Merida Pro Cycling Team,",, 8:45",,2,2017
+30,,8,163.0,+22:03,,Stannard Ian,162,Team Sky,",, 8:45",,2,2017
+20,,105,144.0,+15:40,,Shaw James,163,Lotto Soudal,",, 8:45",,2,2017
+23,,83,157.0,+17:02,,Bouwman Koen,164,Team LottoNL-Jumbo,",, 8:45",,2,2017
+32,,108,119.0,+11:04,,Vanendert Jelle,165,Lotto Soudal,",, 8:45",,2,2017
+30,,98,169.0,+24:56,,van Genechten Jonas,166,"Cofidis, Solutions Cr\xe9dits",",, 8:45",,2,2017
+24,,26,120.0,+11:04,,Vakoc Petr,167,Quick-Step Floors,",, 8:45",,2,2017
+23,,85,164.0,+22:03,,Jansen Amund Grondahl,168,Team LottoNL-Jumbo,",, 8:45",,2,2017
+35,,196,172.0,+33:25,,Saramotins Aleksejs,169,BORA - hansgrohe,9:57 9:57,,2,2017
+34,,42,167.0,+23:15,,Beppu Fumiyuki,170,Trek - Segafredo,",, 9:57",,2,2017
+30,,22,170.0,+26:08,,Capecchi Eros,171,Quick-Step Floors,",, 9:57",,2,2017
+26,,198,171.0,+26:08,,Schwarzmann Michael,172,BORA - hansgrohe,",, 9:57",,2,2017
+32,,27,,+ -8:30:47,,Velits Martin,DNF,Quick-Step Floors,-4:13:53 -4:13:53,,2,2017
+26,,107,,+ -8:30:47,,Van der Sande Tosh,DNS,Lotto Soudal,",, -4:13:53",,2,2017
+26,,47,,+ -8:30:47,,Theuns Edward,HD,Trek - Segafredo,28:46 28:46,,2,2017
+23,,83,147.0,+16:41,50.0,Bouwman Koen,1,Team LottoNL-Jumbo,4:06:06 4:06:06,60.0,3,2017
+28,,218,121.0,+13:01,30.0,\u0160i\u0161kevi\u010dius Evaldas,2,Delko Marseille Provence KTM,",, ,,",25.0,3,2017
+27,,202,92.0,+8:02,18.0,Backaert Frederik,3,Wanty - Groupe Gobert,",, ,,",10.0,3,2017
+29,,164,85.0,+6:44,13.0,Nauleau Bryan,4,Direct Energie,",, ,,",,3,2017
+22,,88,84.0,+6:44,10.0,Vermeulen Alexey,5,Team LottoNL-Jumbo,",, ,,",,3,2017
+25,,217,78.0,+5:46,7.0,Pacher Quentin,6,Delko Marseille Provence KTM,",, ,,",,3,2017
+25,,111,137.0,+16:01,4.0,D\xe9mare Arnaud,7,FDJ,0:11 0:11,,3,2017
+25,,161,122.0,+13:18,3.0,Coquard Bryan,8,Direct Energie,",, 0:11",,3,2017
+23,,192,142.0,+16:11,2.0,Ackermann Pascal,9,BORA - hansgrohe,",, 0:11",,3,2017
+22,,132,141.0,+16:11,1.0,Bauhaus Phil,10,Team Sunweb,",, 0:11",,3,2017
+30,,171,14.0,+1:09,,Boasson Hagen Edvald,11,Team Dimension Data,",, 0:11",,3,2017
+29,,121,138.0,+16:05,,Kristoff Alexander,12,Team Katusha - Alpecin,",, 0:11",,3,2017
+26,,91,140.0,+16:07,,Bouhanni Nacer,13,"Cofidis, Solutions Cr\xe9dits",",, 0:11",,3,2017
+37,,51,8.0,+1:09,,Valverde Alejandro,14,Movistar Team,",, 0:11",,3,2017
+27,,82,96.0,+8:17,,Battaglin Enrico,15,Team LottoNL-Jumbo,",, 0:11",,3,2017
+23,,16,4.0,+1:07,,Latour Pierre,16,AG2R La Mondiale,",, 0:11",,3,2017
+23,,85,158.0,+22:03,,Jansen Amund Grondahl,17,Team LottoNL-Jumbo,",, 0:11",,3,2017
+26,,207,143.0,+16:11,,van Keirsbulck Guillaume,18,Wanty - Groupe Gobert,",, 0:11",,3,2017
+24,,206,95.0,+8:17,,Smith Dion,19,Wanty - Groupe Gobert,",, 0:11",,3,2017
+28,,66,19.0,+1:09,,Keukeleire Jens,20,ORICA-Scott,",, 0:11",,3,2017
+27,,145,6.0,+1:09,,Colbrelli Sonny,21,Bahrain Merida Pro Cycling Team,",, 0:11",,3,2017
+29,,186,7.0,+1:09,,Swift Ben,22,UAE Team Emirates,",, 0:11",,3,2017
+30,,208,86.0,+6:55,,Vanspeybrouck Pieter,23,Wanty - Groupe Gobert,",, 0:11",,3,2017
+29,,195,53.0,+2:19,,Pfingsten Christoph,24,BORA - hansgrohe,",, 0:11",,3,2017
+27,,187,3.0,+1:03,,Ulissi Diego,25,UAE Team Emirates,",, 0:11",,3,2017
+30,,98,163.0,+24:56,,van Genechten Jonas,26,"Cofidis, Solutions Cr\xe9dits",",, 0:11",,3,2017
+21,,138,16.0,+1:09,,Oomen Sam,27,Team Sunweb,",, 0:11",,3,2017
+36,,4,98.0,+8:17,,Knees Christian,28,Team Sky,",, 0:11",,3,2017
+27,,176,99.0,+8:17,,Reguigui Youcef,29,Team Dimension Data,",, 0:11",,3,2017
+24,,58,52.0,+2:19,,S\xfctterlin Jasha,30,Movistar Team,",, 0:11",,3,2017
+23,,201,10.0,+1:09,,Martin Guillaume,31,Wanty - Groupe Gobert,",, 0:11",,3,2017
+36,,13,97.0,+8:17,,Dumoulin Samuel,32,AG2R La Mondiale,",, 0:11",,3,2017
+25,,87,136.0,+15:46,,Van Hoecke Gijs,33,Team LottoNL-Jumbo,",, 0:11",,3,2017
+32,,73,15.0,+1:09,,Fuglsang Jakob,34,Astana Pro Team,",, 0:11",,3,2017
+23,,63,75.0,+5:34,,Haig Jack,35,ORICA-Scott,",, 0:11",,3,2017
+25,,181,22.0,+1:09,,Meintjes Louis,36,UAE Team Emirates,",, 0:11",,3,2017
+26,,167,111.0,+8:41,,Tulik Angelo,37,Direct Energie,",, 0:11",,3,2017
+28,,204,87.0,+6:55,,Minnaard Marco,38,Wanty - Groupe Gobert,",, 0:11",,3,2017
+27,,5,21.0,+1:09,,Kwiatkowski Michal,39,Team Sky,",, 0:11",,3,2017
+32,,1,12.0,+1:09,,Froome Christopher,40,Team Sky,",, 0:11",,3,2017
+30,,205,55.0,+2:19,,Offredo Yoann,41,Wanty - Groupe Gobert,",, 0:11",,3,2017
+27,,62,17.0,+1:09,,Chaves Johan Esteban,42,ORICA-Scott,",, 0:11",,3,2017
+29,,101,9.0,+1:09,,Gallopin Tony,43,Lotto Soudal,",, 0:11",,3,2017
+34,,25,120.0,+12:40,,Richeze Ariel Maximiliano,44,Quick-Step Floors,",, 0:11",,3,2017
+28,,184,32.0,+1:09,,Laengen Vegard Stake,45,UAE Team Emirates,",, 0:11",,3,2017
+24,,53,54.0,+2:19,,Carapaz Richard,46,Movistar Team,",, 0:11",,3,2017
+29,,146,160.0,+22:42,,Navardauskas Ramunas,47,Bahrain Merida Pro Cycling Team,",, 0:11",,3,2017
+33,,76,26.0,+1:09,,Sanchez Luis Leon,48,Astana Pro Team,",, 0:11",,3,2017
+29,,15,57.0,+2:19,,Gautier Cyril,49,AG2R La Mondiale,",, 0:11",,3,2017
+31,,95,11.0,+1:09,,Simon Julien,50,"Cofidis, Solutions Cr\xe9dits",",, 0:11",,3,2017
+34,,81,20.0,+1:09,,Clement Stef,51,Team LottoNL-Jumbo,",, 0:11",,3,2017
+23,,103,13.0,+1:09,,Benoot Tiesj,52,Lotto Soudal,",, 0:11",,3,2017
+30,,155,18.0,+1:09,,Clarke Simon,53,Cannondale-Drapac Pro Cycling Team,",, 0:11",,3,2017
+26,,17,79.0,+5:57,,Naesen Oliver,54,AG2R La Mondiale,",, 0:11",,3,2017
+26,,71,24.0,+1:09,,Aru Fabio,55,Astana Pro Team,",, 0:11",,3,2017
+30,,21,28.0,+1:09,,Martin Daniel,56,Quick-Step Floors,",, 0:11",,3,2017
+29,,115,146.0,+16:31,,Guarnieri Jacopo,57,FDJ,",, 0:11",,3,2017
+33,,54,116.0,+10:45,,Erviti Imanol,58,Movistar Team,",, 0:11",,3,2017
+23,,86,123.0,+13:18,,Tolhoek Antwan,59,Team LottoNL-Jumbo,",, 0:11",,3,2017
+28,,151,25.0,+1:09,,Talansky Andrew,60,Cannondale-Drapac Pro Cycling Team,",, 0:11",,3,2017
+32,,37,29.0,+1:09,,Roche Nicolas,61,BMC Racing Team,",, 0:11",,3,2017
+32,,31,30.0,+1:09,,Porte Richie,62,BMC Racing Team,",, 0:11",,3,2017
+26,,12,2.0,+0:48,,Domont Axel,63,AG2R La Mondiale,",, 0:11",,3,2017
+30,,104,1.0,+0:00,,De Gendt Thomas,64,Lotto Soudal,",, 0:11",,3,2017
+26,,11,34.0,+1:09,,Bardet Romain,65,AG2R La Mondiale,",, 0:11",,3,2017
+31,,203,33.0,+1:09,,Degand Thomas,66,Wanty - Groupe Gobert,",, 0:11",,3,2017
+29,,106,39.0,+1:09,,Valls Rafael,67,Lotto Soudal,",, 0:11",,3,2017
+24,,193,5.0,+1:07,,Buchmann Emanuel,68,BORA - hansgrohe,",, 0:11",,3,2017
+33,,141,56.0,+2:19,,Brajkovi\u010d Janez,69,Bahrain Merida Pro Cycling Team,",, 0:11",,3,2017
+26,,56,27.0,+1:09,,Herrada Jes\xfas,70,Movistar Team,",, 0:11",,3,2017
+32,,43,36.0,+1:09,,Cardoso Andr\xe9,71,Trek - Segafredo,",, 0:11",,3,2017
+31,,124,62.0,+2:19,,Machado Tiago,72,Team Katusha - Alpecin,",, 0:11",,3,2017
+24,,68,37.0,+1:09,,Yates Simon,73,ORICA-Scott,",, 0:11",,3,2017
+27,,178,81.0,+5:57,,Thwaites Scott,74,Team Dimension Data,",, 0:11",,3,2017
+22,,24,42.0,+1:09,,Mas Enric,75,Quick-Step Floors,",, 0:11",,3,2017
+32,,125,65.0,+2:19,,Martin Tony,76,Team Katusha - Alpecin,",, 0:11",,3,2017
+27,,28,88.0,+6:55,,Vermote Julien,77,Quick-Step Floors,",, 0:11",,3,2017
+31,,67,35.0,+1:09,,Kreuziger Roman,78,ORICA-Scott,",, 0:11",,3,2017
+35,,57,47.0,+1:09,,Moreno Daniel,79,Movistar Team,",, 0:11",,3,2017
+35,,36,60.0,+2:19,,Moinard Ama\xebl,80,BMC Racing Team,",, 0:11",,3,2017
+26,,55,31.0,+1:09,,Fern\xe1ndez Rub\xe9n,81,Movistar Team,",, 0:11",,3,2017
+34,,41,44.0,+1:09,,Contador Alberto,82,Trek - Segafredo,",, 0:11",,3,2017
+37,,61,76.0,+5:34,,Gerrans Simon,83,ORICA-Scott,",, 0:11",,3,2017
+28,,23,131.0,+15:00,,Declercq Tim,84,Quick-Step Floors,",, 0:11",,3,2017
+32,,214,38.0,+1:09,,Finetto Mauro,85,Delko Marseille Provence KTM,",, 0:11",,3,2017
+27,,3,43.0,+1:09,,Kennaugh Peter,86,Team Sky,",, 0:11",,3,2017
+23,,44,73.0,+4:47,,Gogl Michael,87,Trek - Segafredo,",, 0:11",,3,2017
+25,,163,144.0,+16:11,,Morice Julien,88,Direct Energie,",, 0:11",,3,2017
+29,,18,45.0,+1:09,,Vuillermoz Alexis,89,AG2R La Mondiale,",, 0:11",,3,2017
+23,,194,70.0,+3:03,,Herklotz Silvio,90,BORA - hansgrohe,",, 0:11",,3,2017
+28,,216,58.0,+2:19,,Madrazo \xc1ngel,91,Delko Marseille Provence KTM,",, 0:11",,3,2017
+37,,46,102.0,+8:17,,Irizar Markel,92,Trek - Segafredo,",, 0:11",,3,2017
+23,,152,23.0,+1:09,,Bettiol Alberto,93,Cannondale-Drapac Pro Cycling Team,",, 0:11",,3,2017
+26,,172,80.0,+5:57,,Berhane Natnael,94,Team Dimension Data,",, 0:11",,3,2017
+32,,213,104.0,+8:17,,El Fares Julien,95,Delko Marseille Provence KTM,",, 0:11",,3,2017
+20,,114,46.0,+1:09,,Gaudu David,96,FDJ,",, 0:11",,3,2017
+31,,177,119.0,+12:23,,Thomson Jay Robert,97,Team Dimension Data,",, 0:11",,3,2017
+24,,156,59.0,+2:19,,Formolo Davide,98,Cannondale-Drapac Pro Cycling Team,",, 0:11",,3,2017
+25,,154,63.0,+2:19,,Canty Brendan,99,Cannondale-Drapac Pro Cycling Team,",, 0:11",,3,2017
+40,,48,48.0,+1:09,,Zubeldia Haimar,100,Trek - Segafredo,",, 0:11",,3,2017
+30,,35,61.0,+2:19,,Hermans Ben,101,BMC Racing Team,",, 0:11",,3,2017
+23,,127,83.0,+6:34,,Politt Nils,102,Team Katusha - Alpecin,",, 0:11",,3,2017
+24,,52,101.0,+8:17,,Arcas Jorge,103,Movistar Team,",, 0:11",,3,2017
+22,,137,107.0,+8:17,,Hofstede Lennard,104,Team Sunweb,",, 0:11",,3,2017
+31,,143,41.0,+1:09,,Bole Grega,105,Bahrain Merida Pro Cycling Team,",, 0:11",,3,2017
+33,,175,64.0,+2:19,,Pauwels Serge,106,Team Dimension Data,",, 0:11",,3,2017
+23,,128,100.0,+8:17,,Zabel Rick,107,Team Katusha - Alpecin,",, 0:11",,3,2017
+33,,182,124.0,+13:18,,Bono Matteo,108,UAE Team Emirates,",, 0:11",,3,2017
+32,,215,106.0,+8:17,,Hupond Thierry,109,Delko Marseille Provence KTM,",, 0:11",,3,2017
+33,,94,50.0,+1:09,,Navarro Daniel,110,"Cofidis, Solutions Cr\xe9dits",",, 0:11",,3,2017
+27,,72,66.0,+2:19,,Chernetski Sergei,111,Astana Pro Team,",, 0:11",,3,2017
+36,,185,103.0,+8:17,,Mori Manuele,112,UAE Team Emirates,",, 0:11",,3,2017
+21,,174,105.0,+8:17,,O'Connor Ben,113,Team Dimension Data,",, 0:11",,3,2017
+29,,92,109.0,+8:17,,Claeys Dimitri,114,"Cofidis, Solutions Cr\xe9dits",",, 0:11",,3,2017
+33,,32,40.0,+1:09,,Bookwalter Brent,115,BMC Racing Team,",, 0:11",,3,2017
+23,,34,110.0,+8:17,,Frankiny Kilian,116,BMC Racing Team,",, 0:11",,3,2017
+31,,113,148.0,+16:44,,Delage Micka\xebl,117,FDJ,",, 0:11",,3,2017
+29,,166,67.0,+2:19,,Sicard Romain,118,Direct Energie,",, 0:11",,3,2017
+39,,148,49.0,+1:09,,Pellizotti Franco,119,Bahrain Merida Pro Cycling Team,",, 0:11",,3,2017
+28,,135,89.0,+6:56,,Haga Chad,120,Team Sunweb,",, 0:11",,3,2017
+25,,77,125.0,+13:18,,Stalnov Nikita,121,Astana Pro Team,",, 0:11",,3,2017
+25,,78,91.0,+7:40,,Valgren Michael,122,Astana Pro Team,",, 0:11",,3,2017
+26,,2,51.0,+1:09,,Boswell Ian,123,Team Sky,",, 0:11",,3,2017
+23,,117,128.0,+14:18,,Le Gac Olivier,124,FDJ,",, 0:11",,3,2017
+25,,131,108.0,+8:17,,Barguil Warren,125,Team Sunweb,",, 0:11",,3,2017
+25,,153,72.0,+3:37,,Brown Nathan,126,Cannondale-Drapac Pro Cycling Team,",, 0:11",,3,2017
+31,,211,71.0,+3:03,,Fernandez Delio,127,Delko Marseille Provence KTM,",, 0:11",,3,2017
+26,,212,129.0,+14:48,,Combaud Romain,128,Delko Marseille Provence KTM,",, 0:11",,3,2017
+26,,165,151.0,+17:01,,Petit Adrien,129,Direct Energie,",, 0:11",,3,2017
+34,,93,152.0,+17:44,,Lemoine Cyril,130,"Cofidis, Solutions Cr\xe9dits",0:39 0:39,,3,2017
+25,,158,82.0,+6:31,,van Baarle Dylan,131,Cannondale-Drapac Pro Cycling Team,0:45 0:45,,3,2017
+26,,123,68.0,+2:55,,Lammertink Maurits,132,Team Katusha - Alpecin,0:47 0:47,,3,2017
+27,,14,117.0,+11:57,,Duval Julien,133,AG2R La Mondiale,",, 0:47",,3,2017
+24,,64,90.0,+7:37,,Howson Damien,134,ORICA-Scott,",, 0:47",,3,2017
+32,,142,112.0,+8:53,,Arashiro Yukiya,135,Bahrain Merida Pro Cycling Team,",, 0:47",,3,2017
+31,,38,69.0,+2:58,,Wyss Danilo,136,BMC Racing Team,0:50 0:50,,3,2017
+27,,112,165.0,+25:36,,Cimolai Davide,137,FDJ,0:51 0:51,,3,2017
+33,,133,149.0,+16:55,,de Backer Bert,138,Team Sunweb,0:55 0:55,,3,2017
+36,,144,154.0,+18:21,,Bozic Borut,139,Bahrain Merida Pro Cycling Team,1:00 1:00,,3,2017
+33,,197,126.0,+14:09,,Schillinger Andreas,140,BORA - hansgrohe,1:02 1:02,,3,2017
+31,,134,127.0,+14:11,,Fr\xf6hlinger Johannes,141,Team Sunweb,1:04 1:04,,3,2017
+32,,108,118.0,+11:57,,Vanendert Jelle,142,Lotto Soudal,",, 1:04",,3,2017
+32,,126,130.0,+14:55,,M\xf8rk\xf8v Michael,143,Team Katusha - Alpecin,1:20 1:20,,3,2017
+36,,6,132.0,+15:03,,Lopez David,144,Team Sky,1:56 1:56,,3,2017
+31,,116,155.0,+18:56,,Konovalovas Ignatas,145,FDJ,",, 1:56",,3,2017
+27,,7,133.0,+15:06,,Rowe Luke,146,Team Sky,1:59 1:59,,3,2017
+32,,157,145.0,+16:29,,Langeveld Sebastian,147,Cannondale-Drapac Pro Cycling Team,",, 1:59",,3,2017
+32,,65,115.0,+10:31,,Impey Daryl,148,ORICA-Scott,2:25 2:25,,3,2017
+30,,8,162.0,+24:17,,Stannard Ian,149,Team Sky,",, 2:25",,3,2017
+25,,74,135.0,+15:32,,Kozhatayev Bakhtiyar,150,Astana Pro Team,",, 2:25",,3,2017
+26,,198,166.0,+28:36,,Schwarzmann Michael,151,BORA - hansgrohe,2:39 2:39,,3,2017
+25,,122,74.0,+4:47,,Bystr\xf8m Sven Erik,152,Team Katusha - Alpecin,",, 2:39",,3,2017
+29,,96,150.0,+16:57,,Soupe Geoffrey,153,"Cofidis, Solutions Cr\xe9dits",3:19 3:19,,3,2017
+24,,75,94.0,+8:02,,Lutsenko Alexey,154,Astana Pro Team,3:26 3:26,,3,2017
+23,,118,77.0,+5:35,,Maison J\xe9r\xe9my,155,FDJ,3:27 3:27,,3,2017
+31,,33,139.0,+16:06,,De Marchi Alessandro,156,BMC Racing Team,4:02 4:02,,3,2017
+31,,102,113.0,+9:12,,Arm\xe9e Sander,157,Lotto Soudal,7:04 7:04,,3,2017
+35,,45,164.0,+25:32,,Hern\xe1ndez Jes\xfas,158,Trek - Segafredo,",, 7:04",,3,2017
+30,,173,156.0,+20:11,,Niyonshuti Adrien,159,Team Dimension Data,",, 7:04",,3,2017
+23,,97,114.0,+9:12,,Turgis Anthony,160,"Cofidis, Solutions Cr\xe9dits",",, 7:04",,3,2017
+23,,188,161.0,+24:04,,Zurlo Federico,161,UAE Team Emirates,",, 7:04",,3,2017
+24,,147,157.0,+21:35,,Nibali Antonio,162,Bahrain Merida Pro Cycling Team,",, 7:04",,3,2017
+29,,183,134.0,+15:10,,Durasek Kristijan,163,UAE Team Emirates,",, 7:04",,3,2017
+35,,196,169.0,+40:18,,Saramotins Aleksejs,164,BORA - hansgrohe,",, 7:04",,3,2017
+37,,168,93.0,+8:02,,Voeckler Thomas,165,Direct Energie,",, 7:04",,3,2017
+34,,42,168.0,+30:08,,Beppu Fumiyuki,166,Trek - Segafredo,",, 7:04",,3,2017
+20,,105,159.0,+22:33,,Shaw James,167,Lotto Soudal,",, 7:04",,3,2017
+22,,136,167.0,+29:35,,Hamilton Chris,168,Team Sunweb,",, 7:04",,3,2017
+24,,26,153.0,+17:57,,Vakoc Petr,169,Quick-Step Floors,",, 7:04",,3,2017
+29,,191,,+ - 12:37:04,,K\xf6nig Leopold,DNF,BORA - hansgrohe,-4:06:06 -4:06:06,,3,2017
+25,,84,,+ - 12:37:04,,De Tier Floris,DNS,Team LottoNL-Jumbo,",, -4:06:06",,3,2017
+30,,22,,+ - 12:37:04,,Capecchi Eros,DNS,Quick-Step Floors,",, -4:06:06",,3,2017
+32,50.148,31,2.0,+0:27,50.0,Porte Richie,1,BMC Racing Team,28:07 28:07,60.0,4,2017
+32,49.794,125,21.0,+1:49,30.0,Martin Tony,2,Team Katusha - Alpecin,0:12 0:12,25.0,4,2017
+37,49.445,51,3.0,+0:51,18.0,Valverde Alejandro,3,Movistar Team,0:24 0:24,10.0,4,2017
+34,49.32899999999999,81,4.0,+0:55,13.0,Clement Stef,4,Team LottoNL-Jumbo,0:28 0:28,,4,2017
+28,49.215,135,76.0,+6:46,10.0,Haga Chad,5,Team Sunweb,0:32 0:32,,4,2017
+24,49.215,58,25.0,+2:09,7.0,S\xfctterlin Jasha,6,Movistar Team,",, 0:32",,4,2017
+34,49.129,41,5.0,+1:02,4.0,Contador Alberto,7,Trek - Segafredo,0:35 0:35,,4,2017
+32,49.071999999999996,1,6.0,+1:04,3.0,Froome Christopher,8,Team Sky,0:37 0:37,,4,2017
+30,48.93,104,1.0,+0:00,2.0,De Gendt Thomas,9,Lotto Soudal,0:42 0:42,,4,2017
+33,48.845,32,7.0,+1:12,1.0,Bookwalter Brent,10,BMC Racing Team,0:45 0:45,,4,2017
+26,48.761,56,8.0,+1:15,,Herrada Jes\xfas,11,Movistar Team,0:48 0:48,,4,2017
+21,48.705,138,9.0,+1:17,,Oomen Sam,12,Team Sunweb,0:50 0:50,,4,2017
+32,48.565,65,107.0,+10:44,,Impey Daryl,13,ORICA-Scott,0:55 0:55,,4,2017
+23,48.45399999999999,16,11.0,+1:24,,Latour Pierre,14,AG2R La Mondiale,0:59 0:59,,4,2017
+23,48.426,127,77.0,+6:52,,Politt Nils,15,Team Katusha - Alpecin,1:00 1:00,,4,2017
+28,48.426,151,12.0,+1:27,,Talansky Andrew,16,Cannondale-Drapac Pro Cycling Team,",, 1:00",,4,2017
+27,48.398,187,10.0,+1:22,,Ulissi Diego,17,UAE Team Emirates,1:01 1:01,,4,2017
+29,48.343,101,13.0,+1:30,,Gallopin Tony,18,Lotto Soudal,1:03 1:03,,4,2017
+24,48.343,68,14.0,+1:30,,Yates Simon,19,ORICA-Scott,",, 1:03",,4,2017
+32,48.315,37,15.0,+1:31,,Roche Nicolas,20,BMC Racing Team,1:04 1:04,,4,2017
+24,48.178000000000004,64,82.0,+8:04,,Howson Damien,21,ORICA-Scott,1:09 1:09,,4,2017
+30,48.15,171,16.0,+1:37,,Boasson Hagen Edvald,22,Team Dimension Data,1:10 1:10,,4,2017
+29,48.096000000000004,166,43.0,+2:49,,Sicard Romain,23,Direct Energie,1:12 1:12,,4,2017
+24,48.096000000000004,193,17.0,+1:37,,Buchmann Emanuel,24,BORA - hansgrohe,",, 1:12",,4,2017
+23,48.041000000000004,63,74.0,+6:06,,Haig Jack,25,ORICA-Scott,1:14 1:14,,4,2017
+30,47.931999999999995,21,18.0,+1:45,,Martin Daniel,26,Quick-Step Floors,1:18 1:18,,4,2017
+26,47.931999999999995,71,19.0,+1:45,,Aru Fabio,27,Astana Pro Team,",, 1:18",,4,2017
+32,47.905,73,20.0,+1:46,,Fuglsang Jakob,28,Astana Pro Team,1:19 1:19,,4,2017
+22,47.851000000000006,88,80.0,+7:23,,Vermeulen Alexey,29,Team LottoNL-Jumbo,1:21 1:21,,4,2017
+23,47.797,103,22.0,+1:50,,Benoot Tiesj,30,Lotto Soudal,1:23 1:23,,4,2017
+24,47.797,75,89.0,+8:43,,Lutsenko Alexey,31,Astana Pro Team,",, 1:23",,4,2017
+22,47.797,137,90.0,+8:58,,Hofstede Lennard,32,Team Sunweb,",, 1:23",,4,2017
+26,47.528,55,23.0,+2:00,,Fern\xe1ndez Rub\xe9n,33,Movistar Team,1:33 1:33,,4,2017
+31,47.448,124,47.0,+3:13,,Machado Tiago,34,Team Katusha - Alpecin,1:36 1:36,,4,2017
+29,47.395,106,24.0,+2:05,,Valls Rafael,35,Lotto Soudal,1:38 1:38,,4,2017
+34,47.368,93,140.0,+18:41,,Lemoine Cyril,36,"Cofidis, Solutions Cr\xe9dits",1:39 1:39,,4,2017
+23,47.183,86,118.0,+14:22,,Tolhoek Antwan,37,Team LottoNL-Jumbo,1:46 1:46,,4,2017
+28,47.157,184,26.0,+2:14,,Laengen Vegard Stake,38,UAE Team Emirates,1:47 1:47,,4,2017
+23,47.157,44,72.0,+5:52,,Gogl Michael,39,Trek - Segafredo,",, 1:47",,4,2017
+28,47.131,66,28.0,+2:15,,Keukeleire Jens,40,ORICA-Scott,1:48 1:48,,4,2017
+30,47.078,155,29.0,+2:17,,Clarke Simon,41,Cannondale-Drapac Pro Cycling Team,1:50 1:50,,4,2017
+27,47.052,3,30.0,+2:18,,Kennaugh Peter,42,Team Sky,1:51 1:51,,4,2017
+30,47.052,35,51.0,+3:28,,Hermans Ben,43,BMC Racing Team,",, 1:51",,4,2017
+39,47.026,148,31.0,+2:19,,Pellizotti Franco,44,Bahrain Merida Pro Cycling Team,1:52 1:52,,4,2017
+25,47.0,181,32.0,+2:20,,Meintjes Louis,45,UAE Team Emirates,1:53 1:53,,4,2017
+26,47.0,11,33.0,+2:20,,Bardet Romain,46,AG2R La Mondiale,",, 1:53",,4,2017
+26,46.948,167,96.0,+9:54,,Tulik Angelo,47,Direct Energie,1:55 1:55,,4,2017
+31,46.896,67,34.0,+2:24,,Kreuziger Roman,48,ORICA-Scott,1:57 1:57,,4,2017
+23,46.818000000000005,97,106.0,+10:30,,Turgis Anthony,49,"Cofidis, Solutions Cr\xe9dits",2:00 2:00,,4,2017
+37,46.792,61,78.0,+6:53,,Gerrans Simon,50,ORICA-Scott,2:01 2:01,,4,2017
+33,46.792,175,53.0,+3:38,,Pauwels Serge,51,Team Dimension Data,",, 2:01",,4,2017
+33,46.792,54,116.0,+12:04,,Erviti Imanol,52,Movistar Team,",, 2:01",,4,2017
+33,46.74,94,35.0,+2:30,,Navarro Daniel,53,"Cofidis, Solutions Cr\xe9dits",2:03 2:03,,4,2017
+22,46.663000000000004,24,36.0,+2:33,,Mas Enric,54,Quick-Step Floors,2:06 2:06,,4,2017
+23,46.637,194,61.0,+4:28,,Herklotz Silvio,55,BORA - hansgrohe,2:07 2:07,,4,2017
+25,46.611999999999995,158,81.0,+7:57,,van Baarle Dylan,56,Cannondale-Drapac Pro Cycling Team,2:08 2:08,,4,2017
+21,46.611999999999995,174,92.0,+9:43,,O'Connor Ben,57,Team Dimension Data,",, 2:08",,4,2017
+26,46.586000000000006,12,27.0,+2:15,,Domont Axel,58,AG2R La Mondiale,2:09 2:09,,4,2017
+31,46.586000000000006,95,37.0,+2:36,,Simon Julien,59,"Cofidis, Solutions Cr\xe9dits",",, 2:09",,4,2017
+24,46.56,52,93.0,+9:45,,Arcas Jorge,60,Movistar Team,2:10 2:10,,4,2017
+24,46.483999999999995,53,56.0,+3:50,,Carapaz Richard,61,Movistar Team,2:13 2:13,,4,2017
+31,46.458,203,38.0,+2:41,,Degand Thomas,62,Wanty - Groupe Gobert,2:14 2:14,,4,2017
+27,46.458,62,39.0,+2:41,,Chaves Johan Esteban,63,ORICA-Scott,",, 2:14",,4,2017
+25,46.431999999999995,87,128.0,+17:19,,Van Hoecke Gijs,64,Team LottoNL-Jumbo,2:15 2:15,,4,2017
+40,46.431999999999995,48,40.0,+2:42,,Zubeldia Haimar,65,Trek - Segafredo,",, 2:15",,4,2017
+35,46.407,57,41.0,+2:43,,Moreno Daniel,66,Movistar Team,2:16 2:16,,4,2017
+36,46.407,4,95.0,+9:51,,Knees Christian,67,Team Sky,",, 2:16",,4,2017
+33,46.305,76,42.0,+2:47,,Sanchez Luis Leon,68,Astana Pro Team,2:20 2:20,,4,2017
+27,46.305,14,117.0,+13:35,,Duval Julien,69,AG2R La Mondiale,",, 2:20",,4,2017
+29,46.28,92,97.0,+9:56,,Claeys Dimitri,70,"Cofidis, Solutions Cr\xe9dits",2:21 2:21,,4,2017
+23,46.23,118,79.0,+7:16,,Maison J\xe9r\xe9my,71,FDJ,2:23 2:23,,4,2017
+29,46.178999999999995,164,84.0,+8:27,,Nauleau Bryan,72,Direct Energie,2:25 2:25,,4,2017
+27,46.178999999999995,5,44.0,+2:52,,Kwiatkowski Michal,73,Team Sky,",, 2:25",,4,2017
+20,46.178999999999995,114,45.0,+2:52,,Gaudu David,74,FDJ,",, 2:25",,4,2017
+25,46.129,78,91.0,+9:25,,Valgren Michael,75,Astana Pro Team,2:27 2:27,,4,2017
+28,46.104,216,57.0,+4:05,,Madrazo \xc1ngel,76,Delko Marseille Provence KTM,2:28 2:28,,4,2017
+27,46.053000000000004,28,88.0,+8:43,,Vermote Julien,77,Quick-Step Floors,2:30 2:30,,4,2017
+27,46.028,72,59.0,+4:08,,Chernetski Sergei,78,Astana Pro Team,2:31 2:31,,4,2017
+31,45.953,38,64.0,+4:50,,Wyss Danilo,79,BMC Racing Team,2:34 2:34,,4,2017
+32,45.82899999999999,157,137.0,+18:26,,Langeveld Sebastian,80,Cannondale-Drapac Pro Cycling Team,2:39 2:39,,4,2017
+25,45.82899999999999,122,60.0,+4:16,,Bystr\xf8m Sven Erik,81,Team Katusha - Alpecin,",, 2:39",,4,2017
+31,45.803999999999995,33,131.0,+18:04,,De Marchi Alessandro,82,BMC Racing Team,2:40 2:40,,4,2017
+37,45.778999999999996,168,98.0,+10:01,,Voeckler Thomas,83,Direct Energie,2:41 2:41,,4,2017
+26,45.778999999999996,123,67.0,+4:54,,Lammertink Maurits,84,Team Katusha - Alpecin,",, 2:41",,4,2017
+26,45.778999999999996,207,134.0,+18:10,,van Keirsbulck Guillaume,85,Wanty - Groupe Gobert,",, 2:41",,4,2017
+26,45.73,2,46.0,+3:10,,Boswell Ian,86,Team Sky,2:43 2:43,,4,2017
+32,45.631,215,101.0,+10:22,,Hupond Thierry,87,Delko Marseille Provence KTM,2:47 2:47,,4,2017
+37,45.631,46,102.0,+10:22,,Irizar Markel,88,Trek - Segafredo,",, 2:47",,4,2017
+32,45.631,214,48.0,+3:14,,Finetto Mauro,89,Delko Marseille Provence KTM,",, 2:47",,4,2017
+29,45.631,18,49.0,+3:14,,Vuillermoz Alexis,90,AG2R La Mondiale,",, 2:47",,4,2017
+23,45.606,201,50.0,+3:15,,Martin Guillaume,91,Wanty - Groupe Gobert,2:48 2:48,,4,2017
+27,45.582,82,103.0,+10:24,,Battaglin Enrico,92,Team LottoNL-Jumbo,2:49 2:49,,4,2017
+25,45.582,131,104.0,+10:24,,Barguil Warren,93,Team Sunweb,",, 2:49",,4,2017
+36,45.533,185,105.0,+10:26,,Mori Manuele,94,UAE Team Emirates,2:51 2:51,,4,2017
+28,45.533,23,127.0,+17:09,,Declercq Tim,95,Quick-Step Floors,",, 2:51",,4,2017
+22,45.458999999999996,132,136.0,+18:23,,Bauhaus Phil,96,Team Sunweb,2:54 2:54,,4,2017
+27,45.458999999999996,202,100.0,+10:14,,Backaert Frederik,97,Wanty - Groupe Gobert,",, 2:54",,4,2017
+33,45.411,141,62.0,+4:33,,Brajkovi\u010d Janez,98,Bahrain Merida Pro Cycling Team,2:56 2:56,,4,2017
+25,45.411,111,135.0,+18:15,,D\xe9mare Arnaud,99,FDJ,",, 2:56",,4,2017
+32,45.361999999999995,142,112.0,+11:09,,Arashiro Yukiya,100,Bahrain Merida Pro Cycling Team,2:58 2:58,,4,2017
+26,45.338,165,145.0,+19:18,,Petit Adrien,101,Direct Energie,2:59 2:59,,4,2017
+31,45.288999999999994,102,115.0,+11:31,,Arm\xe9e Sander,102,Lotto Soudal,3:01 3:01,,4,2017
+31,45.168,143,52.0,+3:33,,Bole Grega,103,Bahrain Merida Pro Cycling Team,3:06 3:06,,4,2017
+23,45.168,83,144.0,+19:05,,Bouwman Koen,104,Team LottoNL-Jumbo,",, 3:06",,4,2017
+26,45.12,17,83.0,+8:23,,Naesen Oliver,105,AG2R La Mondiale,3:08 3:08,,4,2017
+36,45.096000000000004,13,108.0,+10:44,,Dumoulin Samuel,106,AG2R La Mondiale,3:09 3:09,,4,2017
+35,45.023999999999994,36,63.0,+4:49,,Moinard Ama\xebl,107,BMC Racing Team,3:12 3:12,,4,2017
+25,44.976000000000006,163,141.0,+18:43,,Morice Julien,108,Direct Energie,3:14 3:14,,4,2017
+25,44.976000000000006,77,121.0,+15:50,,Stalnov Nikita,109,Astana Pro Team,",, 3:14",,4,2017
+31,44.952,177,119.0,+14:56,,Thomson Jay Robert,110,Team Dimension Data,3:15 3:15,,4,2017
+29,44.952,195,65.0,+4:52,,Pfingsten Christoph,111,BORA - hansgrohe,",, 3:15",,4,2017
+27,44.952,178,85.0,+8:30,,Thwaites Scott,112,Team Dimension Data,",, 3:15",,4,2017
+23,44.952,85,157.0,+24:36,,Jansen Amund Grondahl,113,Team LottoNL-Jumbo,",, 3:15",,4,2017
+29,44.952,186,54.0,+3:42,,Swift Ben,114,UAE Team Emirates,",, 3:15",,4,2017
+30,44.928000000000004,173,156.0,+22:45,,Niyonshuti Adrien,115,Team Dimension Data,3:16 3:16,,4,2017
+30,44.928000000000004,205,66.0,+4:53,,Offredo Yoann,116,Wanty - Groupe Gobert,",, 3:16",,4,2017
+25,44.903999999999996,161,122.0,+15:53,,Coquard Bryan,117,Direct Energie,3:17 3:17,,4,2017
+26,44.881,172,86.0,+8:33,,Berhane Natnael,118,Team Dimension Data,3:18 3:18,,4,2017
+24,44.833,206,109.0,+10:55,,Smith Dion,119,Wanty - Groupe Gobert,3:20 3:20,,4,2017
+32,44.809,43,55.0,+3:48,,Cardoso Andr\xe9,120,Trek - Segafredo,3:21 3:21,,4,2017
+23,44.786,34,110.0,+10:57,,Frankiny Kilian,121,BMC Racing Team,3:22 3:22,,4,2017
+34,44.786,42,168.0,+32:48,,Beppu Fumiyuki,122,Trek - Segafredo,",, 3:22",,4,2017
+23,44.715,188,161.0,+26:47,,Zurlo Federico,123,UAE Team Emirates,3:25 3:25,,4,2017
+26,44.667,212,129.0,+17:33,,Combaud Romain,124,Delko Marseille Provence KTM,3:27 3:27,,4,2017
+23,44.667,117,126.0,+17:03,,Le Gac Olivier,125,FDJ,",, 3:27",,4,2017
+24,44.667,26,153.0,+20:42,,Vakoc Petr,126,Quick-Step Floors,",, 3:27",,4,2017
+24,44.644,156,69.0,+5:05,,Formolo Davide,127,Cannondale-Drapac Pro Cycling Team,3:28 3:28,,4,2017
+32,44.597,213,111.0,+11:05,,El Fares Julien,128,Delko Marseille Provence KTM,3:30 3:30,,4,2017
+29,44.55,146,158.0,+25:32,,Navardauskas Ramunas,129,Bahrain Merida Pro Cycling Team,3:32 3:32,,4,2017
+30,44.526,208,94.0,+9:46,,Vanspeybrouck Pieter,130,Wanty - Groupe Gobert,3:33 3:33,,4,2017
+27,44.479,176,113.0,+11:10,,Reguigui Youcef,131,Team Dimension Data,3:35 3:35,,4,2017
+31,44.456,211,73.0,+5:57,,Fernandez Delio,132,Delko Marseille Provence KTM,3:36 3:36,,4,2017
+35,44.433,45,162.0,+28:27,,Hern\xe1ndez Jes\xfas,133,Trek - Segafredo,3:37 3:37,,4,2017
+25,44.433,217,87.0,+8:41,,Pacher Quentin,134,Delko Marseille Provence KTM,",, 3:37",,4,2017
+25,44.363,153,75.0,+6:35,,Brown Nathan,135,Cannondale-Drapac Pro Cycling Team,3:40 3:40,,4,2017
+25,44.363,74,138.0,+18:30,,Kozhatayev Bakhtiyar,136,Astana Pro Team,",, 3:40",,4,2017
+27,44.363,145,58.0,+4:07,,Colbrelli Sonny,137,Bahrain Merida Pro Cycling Team,",, 3:40",,4,2017
+29,44.34,15,70.0,+5:18,,Gautier Cyril,138,AG2R La Mondiale,3:41 3:41,,4,2017
+32,44.316,108,120.0,+14:57,,Vanendert Jelle,139,Lotto Soudal,3:42 3:42,,4,2017
+31,44.316,116,155.0,+21:56,,Konovalovas Ignatas,140,FDJ,",, 3:42",,4,2017
+33,44.316,182,124.0,+16:18,,Bono Matteo,141,UAE Team Emirates,",, 3:42",,4,2017
+36,44.247,144,154.0,+21:24,,Bozic Borut,142,Bahrain Merida Pro Cycling Team,3:45 3:45,,4,2017
+23,44.224,128,114.0,+11:21,,Zabel Rick,143,Team Katusha - Alpecin,3:46 3:46,,4,2017
+22,44.108000000000004,136,167.0,+32:44,,Hamilton Chris,144,Team Sunweb,3:51 3:51,,4,2017
+32,44.085,126,132.0,+18:05,,M\xf8rk\xf8v Michael,145,Team Katusha - Alpecin,3:52 3:52,,4,2017
+31,43.994,113,148.0,+19:58,,Delage Micka\xebl,146,FDJ,3:56 3:56,,4,2017
+20,43.994,105,160.0,+25:47,,Shaw James,147,Lotto Soudal,",, 3:56",,4,2017
+28,43.994,204,99.0,+10:09,,Minnaard Marco,148,Wanty - Groupe Gobert,",, 3:56",,4,2017
+23,43.857,192,146.0,+19:31,,Ackermann Pascal,149,BORA - hansgrohe,4:02 4:02,,4,2017
+29,43.81100000000001,183,139.0,+18:32,,Durasek Kristijan,150,UAE Team Emirates,4:04 4:04,,4,2017
+28,43.788999999999994,218,125.0,+16:24,,\u0160i\u0161kevi\u010dius Evaldas,151,Delko Marseille Provence KTM,4:05 4:05,,4,2017
+33,43.766000000000005,133,151.0,+20:19,,de Backer Bert,152,Team Sunweb,4:06 4:06,,4,2017
+25,43.766000000000005,154,71.0,+5:43,,Canty Brendan,153,Cannondale-Drapac Pro Cycling Team,",, 4:06",,4,2017
+34,43.563,25,123.0,+16:13,,Richeze Ariel Maximiliano,154,Quick-Step Floors,4:15 4:15,,4,2017
+29,43.541000000000004,96,152.0,+20:31,,Soupe Geoffrey,155,"Cofidis, Solutions Cr\xe9dits",4:16 4:16,,4,2017
+27,43.451,7,142.0,+18:44,,Rowe Luke,156,Team Sky,4:20 4:20,,4,2017
+29,43.385,121,147.0,+19:46,,Kristoff Alexander,157,Team Katusha - Alpecin,4:23 4:23,,4,2017
+33,43.361999999999995,197,130.0,+17:51,,Schillinger Andreas,158,BORA - hansgrohe,4:24 4:24,,4,2017
+29,43.273999999999994,115,150.0,+20:17,,Guarnieri Jacopo,159,FDJ,4:28 4:28,,4,2017
+36,43.097,6,143.0,+18:57,,Lopez David,160,Team Sky,4:36 4:36,,4,2017
+23,43.097,152,68.0,+5:03,,Bettiol Alberto,161,Cannondale-Drapac Pro Cycling Team,",, 4:36",,4,2017
+31,43.097,134,133.0,+18:05,,Fr\xf6hlinger Johannes,162,Team Sunweb,",, 4:36",,4,2017
+27,43.075,112,163.0,+29:31,,Cimolai Davide,163,FDJ,4:37 4:37,,4,2017
+26,43.032,198,166.0,+32:33,,Schwarzmann Michael,164,BORA - hansgrohe,4:39 4:39,,4,2017
+24,42.81399999999999,147,159.0,+25:42,,Nibali Antonio,165,Bahrain Merida Pro Cycling Team,4:49 4:49,,4,2017
+26,42.81399999999999,91,149.0,+20:14,,Bouhanni Nacer,166,"Cofidis, Solutions Cr\xe9dits",",, 4:49",,4,2017
+30,42.152,98,164.0,+29:34,,van Genechten Jonas,167,"Cofidis, Solutions Cr\xe9dits",5:20 5:20,,4,2017
+30,41.32899999999999,8,165.0,+29:35,,Stannard Ian,168,Team Sky,6:00 6:00,,4,2017
+35,41.188,196,169.0,+45:43,,Saramotins Aleksejs,169,BORA - hansgrohe,6:07 6:07,,4,2017
+22,,132,127.0,+18:13,50.0,Bauhaus Phil,1,Team Sunweb,4:04:32 4:04:32,60.0,5,2017
+25,,111,126.0,+18:09,30.0,D\xe9mare Arnaud,2,FDJ,",, ,,",25.0,5,2017
+25,,161,119.0,+15:49,18.0,Coquard Bryan,3,Direct Energie,",, ,,",10.0,5,2017
+26,,165,134.0,+19:18,13.0,Petit Adrien,4,Direct Energie,",, ,,",,5,2017
+26,,91,140.0,+20:14,10.0,Bouhanni Nacer,5,"Cofidis, Solutions Cr\xe9dits",",, ,,",,5,2017
+29,,121,138.0,+19:46,7.0,Kristoff Alexander,6,Team Katusha - Alpecin,",, ,,",,5,2017
+23,,192,136.0,+19:31,4.0,Ackermann Pascal,7,BORA - hansgrohe,",, ,,",,5,2017
+30,,171,16.0,+1:37,3.0,Boasson Hagen Edvald,8,Team Dimension Data,",, ,,",,5,2017
+27,,82,90.0,+10:24,2.0,Battaglin Enrico,9,Team LottoNL-Jumbo,",, ,,",,5,2017
+26,,17,78.0,+8:23,1.0,Naesen Oliver,10,AG2R La Mondiale,",, ,,",,5,2017
+27,,145,54.0,+4:07,,Colbrelli Sonny,11,Bahrain Merida Pro Cycling Team,",, ,,",,5,2017
+30,,208,84.0,+9:46,,Vanspeybrouck Pieter,12,Wanty - Groupe Gobert,",, ,,",,5,2017
+28,,218,121.0,+16:24,,\u0160i\u0161kevi\u010dius Evaldas,13,Delko Marseille Provence KTM,",, ,,",,5,2017
+32,,142,100.0,+11:09,,Arashiro Yukiya,14,Bahrain Merida Pro Cycling Team,",, ,,",,5,2017
+24,,206,96.0,+10:55,,Smith Dion,15,Wanty - Groupe Gobert,",, ,,",,5,2017
+29,,186,49.0,+3:42,,Swift Ben,16,UAE Team Emirates,",, ,,",,5,2017
+29,,101,13.0,+1:30,,Gallopin Tony,17,Lotto Soudal,",, ,,",,5,2017
+32,,73,20.0,+1:46,,Fuglsang Jakob,18,Astana Pro Team,",, ,,",,5,2017
+37,,51,3.0,+0:51,,Valverde Alejandro,19,Movistar Team,",, ,,",,5,2017
+23,,16,11.0,+1:24,,Latour Pierre,20,AG2R La Mondiale,",, ,,",,5,2017
+30,,155,28.0,+2:17,,Clarke Simon,21,Cannondale-Drapac Pro Cycling Team,",, ,,",,5,2017
+36,,13,94.0,+10:44,,Dumoulin Samuel,22,AG2R La Mondiale,",, ,,",,5,2017
+32,,31,2.0,+0:27,,Porte Richie,23,BMC Racing Team,",, ,,",,5,2017
+27,,5,40.0,+2:52,,Kwiatkowski Michal,24,Team Sky,",, ,,",,5,2017
+31,,38,59.0,+4:50,,Wyss Danilo,25,BMC Racing Team,",, ,,",,5,2017
+21,,138,9.0,+1:17,,Oomen Sam,26,Team Sunweb,",, ,,",,5,2017
+28,,151,12.0,+1:27,,Talansky Andrew,27,Cannondale-Drapac Pro Cycling Team,",, ,,",,5,2017
+29,,195,60.0,+4:52,,Pfingsten Christoph,28,BORA - hansgrohe,",, ,,",,5,2017
+36,,4,85.0,+9:51,,Knees Christian,29,Team Sky,",, ,,",,5,2017
+27,,62,36.0,+2:41,,Chaves Johan Esteban,30,ORICA-Scott,",, ,,",,5,2017
+27,,187,10.0,+1:22,,Ulissi Diego,31,UAE Team Emirates,",, ,,",,5,2017
+23,,201,43.0,+3:15,,Martin Guillaume,32,Wanty - Groupe Gobert,",, ,,",,5,2017
+26,,11,31.0,+2:20,,Bardet Romain,33,AG2R La Mondiale,",, ,,",,5,2017
+23,,103,21.0,+1:50,,Benoot Tiesj,34,Lotto Soudal,",, ,,",,5,2017
+34,,41,5.0,+1:02,,Contador Alberto,35,Trek - Segafredo,",, ,,",,5,2017
+23,,128,102.0,+11:21,,Zabel Rick,36,Team Katusha - Alpecin,",, ,,",,5,2017
+34,,81,4.0,+0:55,,Clement Stef,37,Team LottoNL-Jumbo,",, ,,",,5,2017
+32,,37,15.0,+1:31,,Roche Nicolas,38,BMC Racing Team,",, ,,",,5,2017
+23,,63,66.0,+6:06,,Haig Jack,39,ORICA-Scott,",, ,,",,5,2017
+26,,12,26.0,+2:15,,Domont Axel,40,AG2R La Mondiale,",, ,,",,5,2017
+32,,1,6.0,+1:04,,Froome Christopher,41,Team Sky,",, ,,",,5,2017
+26,,56,8.0,+1:15,,Herrada Jes\xfas,42,Movistar Team,",, ,,",,5,2017
+26,,71,19.0,+1:45,,Aru Fabio,43,Astana Pro Team,",, ,,",,5,2017
+30,,98,162.0,+29:34,,van Genechten Jonas,44,"Cofidis, Solutions Cr\xe9dits",",, ,,",,5,2017
+25,,181,30.0,+2:20,,Meintjes Louis,45,UAE Team Emirates,",, ,,",,5,2017
+26,,55,22.0,+2:00,,Fern\xe1ndez Rub\xe9n,46,Movistar Team,",, ,,",,5,2017
+31,,35,45.0,+3:28,,Hermans Ben,47,BMC Racing Team,",, ,,",,5,2017
+33,,141,58.0,+4:33,,Brajkovi\u010d Janez,48,Bahrain Merida Pro Cycling Team,",, ,,",,5,2017
+35,,57,38.0,+2:43,,Moreno Daniel,49,Movistar Team,",, ,,",,5,2017
+25,,87,123.0,+17:19,,Van Hoecke Gijs,50,Team LottoNL-Jumbo,",, ,,",,5,2017
+33,,182,120.0,+16:18,,Bono Matteo,51,UAE Team Emirates,",, ,,",,5,2017
+32,,43,50.0,+3:48,,Cardoso Andr\xe9,52,Trek - Segafredo,",, ,,",,5,2017
+24,,193,17.0,+1:37,,Buchmann Emanuel,53,BORA - hansgrohe,",, ,,",,5,2017
+23,,152,62.0,+5:03,,Bettiol Alberto,54,Cannondale-Drapac Pro Cycling Team,",, ,,",,5,2017
+24,,58,24.0,+2:09,,S\xfctterlin Jasha,55,Movistar Team,",, ,,",,5,2017
+26,,123,61.0,+4:54,,Lammertink Maurits,56,Team Katusha - Alpecin,",, ,,",,5,2017
+27,,176,101.0,+11:10,,Reguigui Youcef,57,Team Dimension Data,",, ,,",,5,2017
+29,,15,63.0,+5:18,,Gautier Cyril,58,AG2R La Mondiale,",, ,,",,5,2017
+27,,14,115.0,+13:35,,Duval Julien,59,AG2R La Mondiale,",, ,,",,5,2017
+24,,68,14.0,+1:30,,Yates Simon,60,ORICA-Scott,",, ,,",,5,2017
+30,,21,18.0,+1:45,,Martin Daniel,61,Quick-Step Floors,",, ,,",,5,2017
+28,,66,27.0,+2:15,,Keukeleire Jens,62,ORICA-Scott,",, ,,",,5,2017
+28,,216,53.0,+4:05,,Madrazo \xc1ngel,63,Delko Marseille Provence KTM,",, ,,",,5,2017
+31,,203,35.0,+2:41,,Degand Thomas,64,Wanty - Groupe Gobert,",, ,,",,5,2017
+23,,86,117.0,+14:22,,Tolhoek Antwan,65,Team LottoNL-Jumbo,",, ,,",,5,2017
+23,,85,156.0,+24:36,,Jansen Amund Grondahl,66,Team LottoNL-Jumbo,",, ,,",,5,2017
+33,,133,141.0,+20:19,,de Backer Bert,67,Team Sunweb,",, ,,",,5,2017
+33,,32,7.0,+1:12,,Bookwalter Brent,68,BMC Racing Team,",, ,,",,5,2017
+24,,53,52.0,+4:00,,Carapaz Richard,69,Movistar Team,",, ,,",,5,2017
+30,,104,1.0,+0:00,,De Gendt Thomas,70,Lotto Soudal,",, ,,",,5,2017
+29,,106,23.0,+2:05,,Valls Rafael,71,Lotto Soudal,",, ,,",,5,2017
+37,,46,88.0,+10:22,,Irizar Markel,72,Trek - Segafredo,",, ,,",,5,2017
+31,,124,41.0,+3:13,,Machado Tiago,73,Team Katusha - Alpecin,",, ,,",,5,2017
+27,,3,29.0,+2:18,,Kennaugh Peter,74,Team Sky,",, ,,",,5,2017
+27,,28,80.0,+8:43,,Vermote Julien,75,Quick-Step Floors,",, ,,",,5,2017
+23,,194,57.0,+4:28,,Herklotz Silvio,76,BORA - hansgrohe,",, ,,",,5,2017
+23,,188,157.0,+26:47,,Zurlo Federico,77,UAE Team Emirates,",, ,,",,5,2017
+33,,54,107.0,+12:04,,Erviti Imanol,78,Movistar Team,",, ,,",,5,2017
+40,,48,37.0,+2:42,,Zubeldia Haimar,79,Trek - Segafredo,",, ,,",,5,2017
+28,,184,25.0,+2:14,,Laengen Vegard Stake,80,UAE Team Emirates,",, ,,",,5,2017
+33,,175,48.0,+3:38,,Pauwels Serge,81,Team Dimension Data,",, ,,",,5,2017
+22,,24,33.0,+2:33,,Mas Enric,82,Quick-Step Floors,",, ,,",,5,2017
+32,,214,42.0,+3:14,,Finetto Mauro,83,Delko Marseille Provence KTM,",, ,,",,5,2017
+33,,94,32.0,+2:30,,Navarro Daniel,84,"Cofidis, Solutions Cr\xe9dits",",, ,,",,5,2017
+28,,23,122.0,+17:09,,Declercq Tim,85,Quick-Step Floors,",, ,,",,5,2017
+29,,115,142.0,+20:31,,Guarnieri Jacopo,86,FDJ,0:14 0:14,,5,2017
+32,,126,128.0,+18:24,,M\xf8rk\xf8v Michael,87,Team Katusha - Alpecin,0:19 0:19,,5,2017
+29,,18,46.0,+3:36,,Vuillermoz Alexis,88,AG2R La Mondiale,0:22 0:22,,5,2017
+31,,67,39.0,+2:46,,Kreuziger Roman,89,ORICA-Scott,",, 0:22",,5,2017
+39,,148,34.0,+2:41,,Pellizotti Franco,90,Bahrain Merida Pro Cycling Team,",, 0:22",,5,2017
+25,,154,65.0,+6:05,,Canty Brendan,91,Cannondale-Drapac Pro Cycling Team,",, 0:22",,5,2017
+20,,114,44.0,+3:27,,Gaudu David,92,FDJ,0:35 0:35,,5,2017
+31,,134,130.0,+18:40,,Fr\xf6hlinger Johannes,93,Team Sunweb,",, 0:35",,5,2017
+36,,185,97.0,+11:01,,Mori Manuele,94,UAE Team Emirates,",, 0:35",,5,2017
+26,,207,131.0,+18:45,,van Keirsbulck Guillaume,95,Wanty - Groupe Gobert,",, 0:35",,5,2017
+27,,202,95.0,+10:49,,Backaert Frederik,96,Wanty - Groupe Gobert,",, 0:35",,5,2017
+31,,211,67.0,+6:32,,Fernandez Delio,97,Delko Marseille Provence KTM,",, 0:35",,5,2017
+31,,143,55.0,+4:08,,Bole Grega,98,Bahrain Merida Pro Cycling Team,",, 0:35",,5,2017
+37,,61,72.0,+7:28,,Gerrans Simon,99,ORICA-Scott,",, 0:35",,5,2017
+26,,167,92.0,+10:33,,Tulik Angelo,100,Direct Energie,0:39 0:39,,5,2017
+29,,96,147.0,+21:16,,Soupe Geoffrey,101,"Cofidis, Solutions Cr\xe9dits",0:45 0:45,,5,2017
+31,,102,108.0,+12:16,,Arm\xe9e Sander,102,Lotto Soudal,",, 0:45",,5,2017
+29,,166,47.0,+3:38,,Sicard Romain,103,Direct Energie,0:49 0:49,,5,2017
+23,,127,74.0,+7:45,,Politt Nils,104,Team Katusha - Alpecin,0:53 0:53,,5,2017
+34,,42,165.0,+33:43,,Beppu Fumiyuki,105,Trek - Segafredo,0:55 0:55,,5,2017
+27,,112,163.0,+30:28,,Cimolai Davide,106,FDJ,0:57 0:57,,5,2017
+24,,64,81.0,+9:01,,Howson Damien,107,ORICA-Scott,",, 0:57",,5,2017
+32,,65,105.0,+11:41,,Impey Daryl,108,ORICA-Scott,",, 0:57",,5,2017
+27,,178,83.0,+9:27,,Thwaites Scott,109,Team Dimension Data,",, 0:57",,5,2017
+22,,88,77.0,+8:20,,Vermeulen Alexey,110,Team LottoNL-Jumbo,",, 0:57",,5,2017
+31,,113,145.0,+20:55,,Delage Micka\xebl,111,FDJ,",, 0:57",,5,2017
+25,,78,87.0,+10:22,,Valgren Michael,112,Astana Pro Team,",, 0:57",,5,2017
+24,,52,93.0,+10:42,,Arcas Jorge,113,Movistar Team,",, 0:57",,5,2017
+29,,183,135.0,+19:29,,Durasek Kristijan,114,UAE Team Emirates,",, 0:57",,5,2017
+36,,144,151.0,+22:26,,Bozic Borut,115,Bahrain Merida Pro Cycling Team,1:02 1:02,,5,2017
+34,,93,137.0,+19:43,,Lemoine Cyril,116,"Cofidis, Solutions Cr\xe9dits",",, 1:02",,5,2017
+31,,95,51.0,+3:51,,Simon Julien,117,"Cofidis, Solutions Cr\xe9dits",1:15 1:15,,5,2017
+22,,137,89.0,+10:22,,Hofstede Lennard,118,Team Sunweb,1:24 1:24,,5,2017
+30,,173,155.0,+24:09,,Niyonshuti Adrien,119,Team Dimension Data,",, 1:24",,5,2017
+25,,217,86.0,+10:05,,Pacher Quentin,120,Delko Marseille Provence KTM,",, 1:24",,5,2017
+21,,174,103.0,+11:27,,O'Connor Ben,121,Team Dimension Data,1:44 1:44,,5,2017
+27,,7,144.0,+20:44,,Rowe Luke,122,Team Sky,2:00 2:00,,5,2017
+23,,44,75.0,+7:56,,Gogl Michael,123,Trek - Segafredo,2:04 2:04,,5,2017
+23,,117,133.0,+19:07,,Le Gac Olivier,124,FDJ,",, 2:04",,5,2017
+30,,205,69.0,+6:57,,Offredo Yoann,125,Wanty - Groupe Gobert,",, 2:04",,5,2017
+23,,97,111.0,+12:34,,Turgis Anthony,126,"Cofidis, Solutions Cr\xe9dits",",, 2:04",,5,2017
+29,,92,106.0,+12:00,,Claeys Dimitri,127,"Cofidis, Solutions Cr\xe9dits",",, 2:04",,5,2017
+25,,153,79.0,+8:39,,Brown Nathan,128,Cannondale-Drapac Pro Cycling Team,",, 2:04",,5,2017
+25,,131,110.0,+12:28,,Barguil Warren,129,Team Sunweb,",, 2:04",,5,2017
+32,,215,109.0,+12:26,,Hupond Thierry,130,Delko Marseille Provence KTM,",, 2:04",,5,2017
+25,,74,143.0,+20:38,,Kozhatayev Bakhtiyar,131,Astana Pro Team,2:08 2:08,,5,2017
+31,,116,154.0,+24:04,,Konovalovas Ignatas,132,FDJ,",, 2:08",,5,2017
+29,,146,158.0,+27:40,,Navardauskas Ramunas,133,Bahrain Merida Pro Cycling Team,",, 2:08",,5,2017
+32,,125,56.0,+4:24,,Martin Tony,134,Team Katusha - Alpecin,2:35 2:35,,5,2017
+33,,76,64.0,+5:22,,Sanchez Luis Leon,135,Astana Pro Team,",, 2:35",,5,2017
+34,,25,132.0,+18:48,,Richeze Ariel Maximiliano,136,Quick-Step Floors,",, 2:35",,5,2017
+31,,177,124.0,+17:31,,Thomson Jay Robert,137,Team Dimension Data,",, 2:35",,5,2017
+35,,45,164.0,+31:02,,Hern\xe1ndez Jes\xfas,138,Trek - Segafredo,",, 2:35",,5,2017
+26,,172,99.0,+11:08,,Berhane Natnael,139,Team Dimension Data,",, 2:35",,5,2017
+27,,72,68.0,+6:43,,Chernetski Sergei,140,Astana Pro Team,",, 2:35",,5,2017
+25,,163,148.0,+21:18,,Morice Julien,141,Direct Energie,",, 2:35",,5,2017
+29,,164,98.0,+11:02,,Nauleau Bryan,142,Direct Energie,",, 2:35",,5,2017
+25,,158,91.0,+10:32,,van Baarle Dylan,143,Cannondale-Drapac Pro Cycling Team,",, 2:35",,5,2017
+28,,135,82.0,+9:21,,Haga Chad,144,Team Sunweb,",, 2:35",,5,2017
+32,,213,116.0,+13:40,,El Fares Julien,145,Delko Marseille Provence KTM,",, 2:35",,5,2017
+26,,212,139.0,+20:08,,Combaud Romain,146,Delko Marseille Provence KTM,",, 2:35",,5,2017
+24,,156,73.0,+7:40,,Formolo Davide,147,Cannondale-Drapac Pro Cycling Team,",, 2:35",,5,2017
+24,,147,160.0,+28:17,,Nibali Antonio,148,Bahrain Merida Pro Cycling Team,",, 2:35",,5,2017
+37,,168,112.0,+12:36,,Voeckler Thomas,149,Direct Energie,",, 2:35",,5,2017
+32,,157,146.0,+21:01,,Langeveld Sebastian,150,Cannondale-Drapac Pro Cycling Team,",, 2:35",,5,2017
+32,,108,125.0,+17:32,,Vanendert Jelle,151,Lotto Soudal,",, 2:35",,5,2017
+35,,36,71.0,+7:24,,Moinard Ama\xebl,152,BMC Racing Team,",, 2:35",,5,2017
+23,,34,114.0,+13:32,,Frankiny Kilian,153,BMC Racing Team,",, 2:35",,5,2017
+20,,105,161.0,+28:22,,Shaw James,154,Lotto Soudal,",, 2:35",,5,2017
+24,,26,153.0,+23:17,,Vakoc Petr,155,Quick-Step Floors,",, 2:35",,5,2017
+25,,77,129.0,+18:31,,Stalnov Nikita,156,Astana Pro Team,2:41 2:41,,5,2017
+26,,198,166.0,+36:17,,Schwarzmann Michael,157,BORA - hansgrohe,3:44 3:44,,5,2017
+33,,197,149.0,+21:35,,Schillinger Andreas,158,BORA - hansgrohe,",, 3:44",,5,2017
+22,,136,167.0,+36:28,,Hamilton Chris,159,Team Sunweb,",, 3:44",,5,2017
+36,,6,152.0,+22:41,,Lopez David,160,Team Sky,",, 3:44",,5,2017
+25,,122,76.0,+8:00,,Bystr\xf8m Sven Erik,161,Team Katusha - Alpecin,",, 3:44",,5,2017
+31,,33,150.0,+21:59,,De Marchi Alessandro,162,BMC Racing Team,3:55 3:55,,5,2017
+26,,2,70.0,+7:19,,Boswell Ian,163,Team Sky,4:09 4:09,,5,2017
+24,,75,113.0,+12:57,,Lutsenko Alexey,164,Astana Pro Team,4:14 4:14,,5,2017
+23,,118,104.0,+11:33,,Maison J\xe9r\xe9my,165,FDJ,4:17 4:17,,5,2017
+28,,204,118.0,+15:30,,Minnaard Marco,166,Wanty - Groupe Gobert,5:21 5:21,,5,2017
+23,,83,159.0,+27:58,,Bouwman Koen,167,Team LottoNL-Jumbo,8:53 8:53,,5,2017
+35,,196,,+ - 17:10:25,,Saramotins Aleksejs,DNF,BORA - hansgrohe,-4:04:32 -4:04:32,,5,2017
+30,,8,,+ - 17:10:25,,Stannard Ian,DNS,Team Sky,",, -4:04:32",,5,2017
+32,,73,3.0,+1:15,50.0,Fuglsang Jakob,1,Astana Pro Team,3:41:48 3:41:48,60.0,6,2017
+32,,31,1.0,+0:00,30.0,Porte Richie,2,BMC Racing Team,",, ,,",25.0,6,2017
+32,,1,2.0,+0:39,18.0,Froome Christopher,3,Team Sky,",, ,,",10.0,6,2017
+26,,71,5.0,+1:24,13.0,Aru Fabio,4,Astana Pro Team,",, ,,",,6,2017
+37,,51,4.0,+1:20,10.0,Valverde Alejandro,5,Movistar Team,0:50 0:50,,6,2017
+30,,21,7.0,+2:14,7.0,Martin Daniel,6,Quick-Step Floors,",, 0:50",,6,2017
+26,,11,9.0,+2:49,4.0,Bardet Romain,7,AG2R La Mondiale,",, 0:50",,6,2017
+26,,17,37.0,+9:08,3.0,Naesen Oliver,8,AG2R La Mondiale,1:06 1:06,,6,2017
+34,,41,6.0,+1:47,2.0,Contador Alberto,9,Trek - Segafredo,",, 1:06",,6,2017
+24,,193,8.0,+2:30,1.0,Buchmann Emanuel,10,BORA - hansgrohe,1:14 1:14,,6,2017
+25,,181,13.0,+3:31,,Meintjes Louis,11,UAE Team Emirates,1:32 1:32,,6,2017
+29,,106,10.0,+3:16,,Valls Rafael,12,Lotto Soudal,",, 1:32",,6,2017
+23,,103,15.0,+3:46,,Benoot Tiesj,13,Lotto Soudal,2:17 2:17,,6,2017
+23,,16,11.0,+3:20,,Latour Pierre,14,AG2R La Mondiale,",, 2:17",,6,2017
+24,,201,19.0,+5:11,,Martin Guillaume,15,Wanty - Groupe Gobert,",, 2:17",,6,2017
+24,,68,12.0,+3:26,,Yates Simon,16,ORICA-Scott,",, 2:17",,6,2017
+27,,62,17.0,+4:39,,Chaves Johan Esteban,17,ORICA-Scott,2:19 2:19,,6,2017
+28,,151,14.0,+3:35,,Talansky Andrew,18,Cannondale-Drapac Pro Cycling Team,2:29 2:29,,6,2017
+23,,152,26.0,+7:16,,Bettiol Alberto,19,Cannondale-Drapac Pro Cycling Team,2:34 2:34,,6,2017
+22,,24,21.0,+5:34,,Mas Enric,20,Quick-Step Floors,3:22 3:22,,6,2017
+23,,63,36.0,+9:07,,Haig Jack,21,ORICA-Scott,",, 3:22",,6,2017
+21,,138,16.0,+4:18,,Oomen Sam,22,Team Sunweb,",, 3:22",,6,2017
+33,,94,20.0,+5:31,,Navarro Daniel,23,"Cofidis, Solutions Cr\xe9dits",",, 3:22",,6,2017
+39,,148,22.0,+5:42,,Pellizotti Franco,24,Bahrain Merida Pro Cycling Team,",, 3:22",,6,2017
+33,,175,27.0,+7:18,,Pauwels Serge,25,Team Dimension Data,4:01 4:01,,6,2017
+34,,81,18.0,+4:40,,Clement Stef,26,Team LottoNL-Jumbo,4:06 4:06,,6,2017
+32,,43,28.0,+7:33,,Cardoso Andr\xe9,27,Trek - Segafredo,",, 4:06",,6,2017
+40,,48,23.0,+6:27,,Zubeldia Haimar,28,Trek - Segafredo,",, 4:06",,6,2017
+35,,57,24.0,+6:28,,Moreno Daniel,29,Movistar Team,",, 4:06",,6,2017
+33,,141,31.0,+8:18,,Brajkovi\u010d Janez,30,Bahrain Merida Pro Cycling Team,",, 4:06",,6,2017
+28,,216,35.0,+9:05,,Madrazo \xc1ngel,31,Delko Marseille Provence KTM,5:21 5:21,,6,2017
+32,,214,33.0,+8:47,,Finetto Mauro,32,Delko Marseille Provence KTM,5:54 5:54,,6,2017
+25,,131,62.0,+18:06,,Barguil Warren,33,Team Sunweb,5:59 5:59,,6,2017
+24,,64,53.0,+14:39,,Howson Damien,34,ORICA-Scott,",, 5:59",,6,2017
+27,,5,32.0,+8:30,,Kwiatkowski Michal,35,Team Sky,",, 5:59",,6,2017
+26,,56,25.0,+6:53,,Herrada Jes\xfas,36,Movistar Team,",, 5:59",,6,2017
+35,,45,128.0,+36:50,,Hern\xe1ndez Jes\xfas,37,Trek - Segafredo,6:09 6:09,,6,2017
+31,,35,40.0,+9:38,,Hermans Ben,38,BMC Racing Team,6:31 6:31,,6,2017
+32,,37,29.0,+7:41,,Roche Nicolas,39,BMC Racing Team,",, 6:31",,6,2017
+23,,86,71.0,+20:38,,Tolhoek Antwan,40,Team LottoNL-Jumbo,6:37 6:37,,6,2017
+31,,203,34.0,+8:57,,Degand Thomas,41,Wanty - Groupe Gobert,",, 6:37",,6,2017
+23,,127,51.0,+14:27,,Politt Nils,42,Team Katusha - Alpecin,7:03 7:03,,6,2017
+26,,123,43.0,+12:27,,Lammertink Maurits,43,Team Katusha - Alpecin,7:54 7:54,,6,2017
+37,,168,70.0,+20:09,,Voeckler Thomas,44,Direct Energie,",, 7:54",,6,2017
+27,,187,38.0,+9:24,,Ulissi Diego,45,UAE Team Emirates,8:23 8:23,,6,2017
+29,,101,39.0,+9:32,,Gallopin Tony,46,Lotto Soudal,",, 8:23",,6,2017
+30,,104,30.0,+8:15,,De Gendt Thomas,47,Lotto Soudal,8:36 8:36,,6,2017
+29,,18,42.0,+11:51,,Vuillermoz Alexis,48,AG2R La Mondiale,",, 8:36",,6,2017
+24,,75,72.0,+21:12,,Lutsenko Alexey,49,Astana Pro Team,",, 8:36",,6,2017
+25,,153,57.0,+17:05,,Brown Nathan,50,Cannondale-Drapac Pro Cycling Team,8:47 8:47,,6,2017
+31,,67,41.0,+11:12,,Kreuziger Roman,51,ORICA-Scott,",, 8:47",,6,2017
+23,,97,78.0,+22:10,,Turgis Anthony,52,"Cofidis, Solutions Cr\xe9dits",9:57 9:57,,6,2017
+21,,174,74.0,+21:20,,O'Connor Ben,53,Team Dimension Data,10:14 10:14,,6,2017
+22,,88,63.0,+18:13,,Vermeulen Alexey,54,Team LottoNL-Jumbo,",, 10:14",,6,2017
+32,,108,108.0,+27:25,,Vanendert Jelle,55,Lotto Soudal,",, 10:14",,6,2017
+32,,215,81.0,+23:02,,Hupond Thierry,56,Delko Marseille Provence KTM,10:57 10:57,,6,2017
+30,,205,60.0,+17:33,,Offredo Yoann,57,Wanty - Groupe Gobert,",, 10:57",,6,2017
+29,,186,50.0,+14:18,,Swift Ben,58,UAE Team Emirates,",, 10:57",,6,2017
+30,,155,46.0,+12:53,,Clarke Simon,59,Cannondale-Drapac Pro Cycling Team,",, 10:57",,6,2017
+26,,55,44.0,+12:36,,Fern\xe1ndez Rub\xe9n,60,Movistar Team,",, 10:57",,6,2017
+24,,53,52.0,+14:36,,Carapaz Richard,61,Movistar Team,",, 10:57",,6,2017
+31,,33,118.0,+33:10,,De Marchi Alessandro,62,BMC Racing Team,11:32 11:32,,6,2017
+28,,66,48.0,+13:40,,Keukeleire Jens,63,ORICA-Scott,11:46 11:46,,6,2017
+25,,154,59.0,+17:30,,Canty Brendan,64,Cannondale-Drapac Pro Cycling Team,",, 11:46",,6,2017
+28,,204,107.0,+26:55,,Minnaard Marco,65,Wanty - Groupe Gobert,",, 11:46",,6,2017
+31,,211,61.0,+17:57,,Fernandez Delio,66,Delko Marseille Provence KTM,",, 11:46",,6,2017
+33,,32,45.0,+12:37,,Bookwalter Brent,67,BMC Racing Team,",, 11:46",,6,2017
+35,,36,64.0,+18:49,,Moinard Ama\xebl,68,BMC Racing Team,",, 11:46",,6,2017
+36,,185,79.0,+22:26,,Mori Manuele,69,UAE Team Emirates,",, 11:46",,6,2017
+31,,143,54.0,+15:33,,Bole Grega,70,Bahrain Merida Pro Cycling Team,",, 11:46",,6,2017
+28,,184,47.0,+13:39,,Laengen Vegard Stake,71,UAE Team Emirates,",, 11:46",,6,2017
+27,,3,49.0,+14:07,,Kennaugh Peter,72,Team Sky,12:10 12:10,,6,2017
+26,,2,66.0,+19:11,,Boswell Ian,73,Team Sky,12:13 12:13,,6,2017
+26,,12,55.0,+15:43,,Domont Axel,74,AG2R La Mondiale,13:49 13:49,,6,2017
+25,,217,86.0,+24:00,,Pacher Quentin,75,Delko Marseille Provence KTM,14:16 14:16,,6,2017
+31,,102,105.0,+26:24,,Arm\xe9e Sander,76,Lotto Soudal,14:29 14:29,,6,2017
+36,,6,127.0,+36:49,,Lopez David,77,Team Sky,",, 14:29",,6,2017
+25,,122,80.0,+22:34,,Bystr\xf8m Sven Erik,78,Team Katusha - Alpecin,14:55 14:55,,6,2017
+25,,77,116.0,+33:05,,Stalnov Nikita,79,Astana Pro Team,",, 14:55",,6,2017
+32,,65,104.0,+26:15,,Impey Daryl,80,ORICA-Scott,",, 14:55",,6,2017
+26,,207,119.0,+33:19,,van Keirsbulck Guillaume,81,Wanty - Groupe Gobert,",, 14:55",,6,2017
+24,,206,99.0,+25:29,,Smith Dion,82,Wanty - Groupe Gobert,",, 14:55",,6,2017
+23,,118,103.0,+26:07,,Maison J\xe9r\xe9my,83,FDJ,",, 14:55",,6,2017
+20,,105,149.0,+42:56,,Shaw James,84,Lotto Soudal,",, 14:55",,6,2017
+27,,28,83.0,+23:17,,Vermote Julien,85,Quick-Step Floors,",, 14:55",,6,2017
+24,,26,131.0,+37:51,,Vakoc Petr,86,Quick-Step Floors,",, 14:55",,6,2017
+28,,23,113.0,+31:43,,Declercq Tim,87,Quick-Step Floors,",, 14:55",,6,2017
+23,,194,65.0,+19:02,,Herklotz Silvio,88,BORA - hansgrohe,",, 14:55",,6,2017
+24,,58,56.0,+16:43,,S\xfctterlin Jasha,89,Movistar Team,",, 14:55",,6,2017
+25,,158,94.0,+25:06,,van Baarle Dylan,90,Cannondale-Drapac Pro Cycling Team,",, 14:55",,6,2017
+22,,137,92.0,+24:56,,Hofstede Lennard,91,Team Sunweb,",, 14:55",,6,2017
+27,,72,73.0,+21:17,,Chernetski Sergei,92,Astana Pro Team,",, 14:55",,6,2017
+25,,74,126.0,+35:12,,Kozhatayev Bakhtiyar,93,Astana Pro Team,",, 14:55",,6,2017
+32,,142,100.0,+25:43,,Arashiro Yukiya,94,Bahrain Merida Pro Cycling Team,",, 14:55",,6,2017
+27,,176,101.0,+25:44,,Reguigui Youcef,95,Team Dimension Data,",, 14:55",,6,2017
+37,,61,76.0,+22:02,,Gerrans Simon,96,ORICA-Scott,",, 14:55",,6,2017
+26,,212,124.0,+34:42,,Combaud Romain,97,Delko Marseille Provence KTM,",, 14:55",,6,2017
+37,,46,91.0,+24:56,,Irizar Markel,98,Trek - Segafredo,",, 14:55",,6,2017
+26,,167,95.0,+25:07,,Tulik Angelo,99,Direct Energie,",, 14:55",,6,2017
+27,,178,87.0,+24:01,,Thwaites Scott,100,Team Dimension Data,",, 14:55",,6,2017
+31,,177,114.0,+32:05,,Thomson Jay Robert,101,Team Dimension Data,",, 14:55",,6,2017
+29,,195,68.0,+19:26,,Pfingsten Christoph,102,BORA - hansgrohe,",, 14:55",,6,2017
+31,,38,67.0,+19:24,,Wyss Danilo,103,BMC Racing Team,",, 14:55",,6,2017
+25,,78,90.0,+24:56,,Valgren Michael,104,Astana Pro Team,",, 14:55",,6,2017
+24,,52,97.0,+25:16,,Arcas Jorge,105,Movistar Team,",, 14:55",,6,2017
+36,,4,88.0,+24:25,,Knees Christian,106,Team Sky,",, 14:55",,6,2017
+28,,135,85.0,+23:55,,Haga Chad,107,Team Sunweb,",, 14:55",,6,2017
+33,,76,69.0,+19:56,,Sanchez Luis Leon,108,Astana Pro Team,",, 14:55",,6,2017
+27,,82,93.0,+24:58,,Battaglin Enrico,109,Team LottoNL-Jumbo,",, 14:55",,6,2017
+27,,202,98.0,+25:23,,Backaert Frederik,110,Wanty - Groupe Gobert,",, 14:55",,6,2017
+33,,54,106.0,+26:38,,Erviti Imanol,111,Movistar Team,",, 14:55",,6,2017
+30,,173,137.0,+39:56,,Niyonshuti Adrien,112,Team Dimension Data,16:08 16:08,,6,2017
+30,,171,58.0,+17:24,,Boasson Hagen Edvald,113,Team Dimension Data,",, 16:08",,6,2017
+25,,87,117.0,+33:06,,Van Hoecke Gijs,114,Team LottoNL-Jumbo,",, 16:08",,6,2017
+23,,44,84.0,+23:43,,Gogl Michael,115,Trek - Segafredo,",, 16:08",,6,2017
+24,,147,152.0,+44:04,,Nibali Antonio,116,Bahrain Merida Pro Cycling Team,",, 16:08",,6,2017
+33,,182,121.0,+33:53,,Bono Matteo,117,UAE Team Emirates,17:56 17:56,,6,2017
+24,,156,96.0,+25:15,,Formolo Davide,118,Cannondale-Drapac Pro Cycling Team,",, 17:56",,6,2017
+29,,183,129.0,+37:04,,Durasek Kristijan,119,UAE Team Emirates,",, 17:56",,6,2017
+29,,166,77.0,+22:08,,Sicard Romain,120,Direct Energie,18:51 18:51,,6,2017
+29,,164,109.0,+29:32,,Nauleau Bryan,121,Direct Energie,",, 18:51",,6,2017
+31,,124,75.0,+21:43,,Machado Tiago,122,Team Katusha - Alpecin,",, 18:51",,6,2017
+32,,125,82.0,+23:12,,Martin Tony,123,Team Katusha - Alpecin,19:09 19:09,,6,2017
+23,,83,153.0,+46:46,,Bouwman Koen,124,Team LottoNL-Jumbo,",, 19:09",,6,2017
+23,,85,150.0,+43:24,,Jansen Amund Grondahl,125,Team LottoNL-Jumbo,",, 19:09",,6,2017
+23,,128,110.0,+30:09,,Zabel Rick,126,Team Katusha - Alpecin,",, 19:09",,6,2017
+33,,197,139.0,+40:23,,Schillinger Andreas,127,BORA - hansgrohe,",, 19:09",,6,2017
+34,,93,132.0,+38:31,,Lemoine Cyril,128,"Cofidis, Solutions Cr\xe9dits",",, 19:09",,6,2017
+32,,126,130.0,+37:37,,M\xf8rk\xf8v Michael,129,Team Katusha - Alpecin,19:34 19:34,,6,2017
+27,,7,138.0,+39:57,,Rowe Luke,130,Team Sky,",, 19:34",,6,2017
+32,,213,115.0,+32:53,,El Fares Julien,131,Delko Marseille Provence KTM,",, 19:34",,6,2017
+23,,188,154.0,+47:21,,Zurlo Federico,132,UAE Team Emirates,20:55 20:55,,6,2017
+26,,91,142.0,+40:48,,Bouhanni Nacer,133,"Cofidis, Solutions Cr\xe9dits",",, 20:55",,6,2017
+32,,134,134.0,+39:14,,Fr\xf6hlinger Johannes,134,Team Sunweb,",, 20:55",,6,2017
+31,,95,89.0,+24:25,,Simon Julien,135,"Cofidis, Solutions Cr\xe9dits",",, 20:55",,6,2017
+26,,172,112.0,+31:42,,Berhane Natnael,136,Team Dimension Data,",, 20:55",,6,2017
+23,,34,122.0,+34:06,,Frankiny Kilian,137,BMC Racing Team,",, 20:55",,6,2017
+33,,133,143.0,+40:53,,de Backer Bert,138,Team Sunweb,",, 20:55",,6,2017
+34,,42,157.0,+54:17,,Beppu Fumiyuki,139,Trek - Segafredo,",, 20:55",,6,2017
+22,,136,159.0,+57:02,,Hamilton Chris,140,Team Sunweb,",, 20:55",,6,2017
+26,,165,136.0,+39:52,,Petit Adrien,141,Direct Energie,",, 20:55",,6,2017
+25,,163,146.0,+41:52,,Morice Julien,142,Direct Energie,",, 20:55",,6,2017
+29,,96,145.0,+41:50,,Soupe Geoffrey,143,"Cofidis, Solutions Cr\xe9dits",",, 20:55",,6,2017
+32,,157,144.0,+41:35,,Langeveld Sebastian,144,Cannondale-Drapac Pro Cycling Team,",, 20:55",,6,2017
+27,,14,123.0,+34:09,,Duval Julien,145,AG2R La Mondiale,",, 20:55",,6,2017
+29,,15,102.0,+25:52,,Gautier Cyril,146,AG2R La Mondiale,",, 20:55",,6,2017
+31,,113,147.0,+42:19,,Delage Micka\xebl,147,FDJ,21:45 21:45,,6,2017
+23,,117,141.0,+40:31,,Le Gac Olivier,148,FDJ,",, 21:45",,6,2017
+30,,208,111.0,+31:10,,Vanspeybrouck Pieter,149,Wanty - Groupe Gobert,",, 21:45",,6,2017
+29,,92,120.0,+33:24,,Claeys Dimitri,150,"Cofidis, Solutions Cr\xe9dits",",, 21:45",,6,2017
+22,,132,140.0,+40:29,,Bauhaus Phil,151,Team Sunweb,22:37 22:37,,6,2017
+26,,198,160.0,+58:33,,Schwarzmann Michael,152,BORA - hansgrohe,",, 22:37",,6,2017
+28,,218,135.0,+39:49,,\u0160i\u0161kevi\u010dius Evaldas,153,Delko Marseille Provence KTM,23:46 23:46,,6,2017
+25,,161,133.0,+39:14,,Coquard Bryan,154,Direct Energie,",, 23:46",,6,2017
+29,,146,156.0,+51:05,,Navardauskas Ramunas,155,Bahrain Merida Pro Cycling Team,",, 23:46",,6,2017
+31,,116,155.0,+48:23,,Konovalovas Ignatas,156,FDJ,24:40 24:40,,6,2017
+27,,112,158.0,+54:47,,Cimolai Davide,157,FDJ,",, 24:40",,6,2017
+25,,111,148.0,+42:28,,D\xe9mare Arnaud,158,FDJ,",, 24:40",,6,2017
+23,,192,151.0,+43:50,,Ackermann Pascal,159,BORA - hansgrohe,",, 24:40",,6,2017
+36,,13,125.0,+35:03,,Dumoulin Samuel,160,AG2R La Mondiale,",, 24:40",,6,2017
+20,,114,,+ - 20:52:34,,Gaudu David,DNF,FDJ,-3:41:48 -3:41:48,,6,2017
+27,,145,,+ - 20:52:34,,Colbrelli Sonny,DNS,Bahrain Merida Pro Cycling Team,",, -3:41:48",,6,2017
+36,,144,,+ - 20:52:34,,Bozic Borut,DNS,Bahrain Merida Pro Cycling Team,",, -3:41:48",,6,2017
+29,,121,,+ - 20:52:34,,Kristoff Alexander,DNS,Team Katusha - Alpecin,",, -3:41:48",,6,2017
+29,,115,,+ - 20:52:34,,Guarnieri Jacopo,DNS,FDJ,",, -3:41:48",,6,2017
+30,,98,,+ - 20:52:34,,van Genechten Jonas,DNS,"Cofidis, Solutions Cr\xe9dits",",, -3:41:48",,6,2017
+34,,25,,+ - 20:52:34,,Richeze Ariel Maximiliano,DNS,Quick-Step Floors,",, -3:41:48",,6,2017
+27,,3,31.0,+12:01,50.0,Kennaugh Peter,1,Team Sky,4:43:59 4:43:59,60.0,7,2017
+29,,186,33.0,+12:29,30.0,Swift Ben,2,UAE Team Emirates,0:13 0:13,25.0,7,2017
+26,,56,20.0,+6:04,18.0,Herrada Jes\xfas,3,Movistar Team,1:11 1:11,10.0,7,2017
+32,,108,54.0,+26:42,13.0,Vanendert Jelle,4,Lotto Soudal,1:13 1:13,,7,2017
+26,,11,6.0,+2:07,10.0,Bardet Romain,5,AG2R La Mondiale,1:14 1:14,,7,2017
+32,,31,1.0,+0:00,7.0,Porte Richie,6,BMC Racing Team,1:56 1:56,,7,2017
+32,,73,3.0,+1:15,4.0,Fuglsang Jakob,7,Astana Pro Team,",, 1:56",,7,2017
+28,,151,10.0,+3:43,3.0,Talansky Andrew,8,Cannondale-Drapac Pro Cycling Team,2:04 2:04,,7,2017
+34,,41,7.0,+2:15,2.0,Contador Alberto,9,Trek - Segafredo,",, 2:04",,7,2017
+26,,71,4.0,+1:41,1.0,Aru Fabio,10,Astana Pro Team,2:13 2:13,,7,2017
+30,,21,8.0,+2:31,,Martin Daniel,11,Quick-Step Floors,",, 2:13",,7,2017
+37,,51,5.0,+1:43,,Valverde Alejandro,12,Movistar Team,2:19 2:19,,7,2017
+25,,181,11.0,+3:54,,Meintjes Louis,13,UAE Team Emirates,",, 2:19",,7,2017
+24,,193,9.0,+2:53,,Buchmann Emanuel,14,BORA - hansgrohe,",, 2:19",,7,2017
+32,,1,2.0,+1:02,,Froome Christopher,15,Team Sky,",, 2:19",,7,2017
+23,,103,13.0,+4:20,,Benoot Tiesj,16,Lotto Soudal,2:30 2:30,,7,2017
+24,,201,19.0,+5:45,,Martin Guillaume,17,Wanty - Groupe Gobert,",, 2:30",,7,2017
+23,,63,26.0,+9:48,,Haig Jack,18,ORICA-Scott,2:37 2:37,,7,2017
+21,,138,14.0,+4:59,,Oomen Sam,19,Team Sunweb,",, 2:37",,7,2017
+27,,62,17.0,+5:25,,Chaves Johan Esteban,20,ORICA-Scott,2:42 2:42,,7,2017
+27,,187,27.0,+10:12,,Ulissi Diego,21,UAE Team Emirates,2:44 2:44,,7,2017
+33,,94,21.0,+6:19,,Navarro Daniel,22,"Cofidis, Solutions Cr\xe9dits",",, 2:44",,7,2017
+34,,81,18.0,+5:28,,Clement Stef,23,Team LottoNL-Jumbo,",, 2:44",,7,2017
+29,,106,12.0,+4:04,,Valls Rafael,24,Lotto Soudal,",, 2:44",,7,2017
+31,,211,41.0,+18:50,,Fernandez Delio,25,Delko Marseille Provence KTM,2:49 2:49,,7,2017
+24,,64,36.0,+16:07,,Howson Damien,26,ORICA-Scott,3:24 3:24,,7,2017
+32,,43,25.0,+9:21,,Cardoso Andr\xe9,27,Trek - Segafredo,",, 3:24",,7,2017
+23,,16,15.0,+5:16,,Latour Pierre,28,AG2R La Mondiale,3:52 3:52,,7,2017
+24,,68,16.0,+5:24,,Yates Simon,29,ORICA-Scott,3:54 3:54,,7,2017
+29,,18,34.0,+13:49,,Vuillermoz Alexis,30,AG2R La Mondiale,",, 3:54",,7,2017
+31,,35,30.0,+11:58,,Hermans Ben,31,BMC Racing Team,4:16 4:16,,7,2017
+22,,24,22.0,+8:04,,Mas Enric,32,Quick-Step Floors,4:26 4:26,,7,2017
+25,,131,43.0,+20:37,,Barguil Warren,33,Team Sunweb,4:27 4:27,,7,2017
+35,,57,23.0,+9:00,,Moreno Daniel,34,Movistar Team,4:28 4:28,,7,2017
+40,,48,24.0,+9:18,,Zubeldia Haimar,35,Trek - Segafredo,4:47 4:47,,7,2017
+33,,141,28.0,+11:09,,Brajkovi\u010d Janez,36,Bahrain Merida Pro Cycling Team,",, 4:47",,7,2017
+31,,203,29.0,+11:48,,Degand Thomas,37,Wanty - Groupe Gobert,",, 4:47",,7,2017
+27,,5,32.0,+12:03,,Kwiatkowski Michal,38,Team Sky,5:29 5:29,,7,2017
+29,,166,52.0,+25:53,,Sicard Romain,39,Direct Energie,5:41 5:41,,7,2017
+31,,67,37.0,+16:18,,Kreuziger Roman,40,ORICA-Scott,7:02 7:02,,7,2017
+28,,204,66.0,+32:05,,Minnaard Marco,41,Wanty - Groupe Gobert,7:06 7:06,,7,2017
+26,,123,39.0,+18:05,,Lammertink Maurits,42,Team Katusha - Alpecin,7:34 7:34,,7,2017
+35,,45,90.0,+42:33,,Hern\xe1ndez Jes\xfas,43,Trek - Segafredo,7:39 7:39,,7,2017
+31,,102,68.0,+32:49,,Arm\xe9e Sander,44,Lotto Soudal,8:21 8:21,,7,2017
+26,,17,35.0,+15:33,,Naesen Oliver,45,AG2R La Mondiale,",, 8:21",,7,2017
+24,,75,55.0,+27:37,,Lutsenko Alexey,46,Astana Pro Team,",, 8:21",,7,2017
+24,,53,44.0,+21:01,,Carapaz Richard,47,Movistar Team,",, 8:21",,7,2017
+21,,174,58.0,+29:54,,O'Connor Ben,48,Team Dimension Data,10:30 10:30,,7,2017
+28,,66,48.0,+22:14,,Keukeleire Jens,49,ORICA-Scott,",, 10:30",,7,2017
+25,,74,93.0,+43:46,,Kozhatayev Bakhtiyar,50,Astana Pro Team,",, 10:30",,7,2017
+29,,101,40.0,+18:06,,Gallopin Tony,51,Lotto Soudal,",, 10:30",,7,2017
+26,,12,50.0,+24:17,,Domont Axel,52,AG2R La Mondiale,",, 10:30",,7,2017
+28,,184,47.0,+22:13,,Laengen Vegard Stake,53,UAE Team Emirates,",, 10:30",,7,2017
+36,,185,64.0,+31:21,,Mori Manuele,54,UAE Team Emirates,10:51 10:51,,7,2017
+30,,155,46.0,+21:56,,Clarke Simon,55,Cannondale-Drapac Pro Cycling Team,10:59 10:59,,7,2017
+32,,37,38.0,+16:44,,Roche Nicolas,56,BMC Racing Team,",, 10:59",,7,2017
+26,,2,56.0,+28:30,,Boswell Ian,57,Team Sky,11:15 11:15,,7,2017
+22,,137,69.0,+34:15,,Hofstede Lennard,58,Team Sunweb,",, 11:15",,7,2017
+26,,167,71.0,+35:16,,Tulik Angelo,59,Direct Energie,12:05 12:05,,7,2017
+23,,86,63.0,+31:15,,Tolhoek Antwan,60,Team LottoNL-Jumbo,12:33 12:33,,7,2017
+33,,175,42.0,+19:10,,Pauwels Serge,61,Team Dimension Data,13:48 13:48,,7,2017
+28,,216,45.0,+21:13,,Madrazo \xc1ngel,62,Delko Marseille Provence KTM,14:04 14:04,,7,2017
+23,,194,62.0,+31:10,,Herklotz Silvio,63,BORA - hansgrohe,",, 14:04",,7,2017
+22,,88,60.0,+30:55,,Vermeulen Alexey,64,Team LottoNL-Jumbo,14:38 14:38,,7,2017
+26,,55,53.0,+26:13,,Fern\xe1ndez Rub\xe9n,65,Movistar Team,15:33 15:33,,7,2017
+26,,207,102.0,+47:20,,van Keirsbulck Guillaume,66,Wanty - Groupe Gobert,15:57 15:57,,7,2017
+30,,104,49.0,+22:16,,De Gendt Thomas,67,Lotto Soudal,",, 15:57",,7,2017
+27,,202,80.0,+39:24,,Backaert Frederik,68,Wanty - Groupe Gobert,",, 15:57",,7,2017
+30,,205,65.0,+31:34,,Offredo Yoann,69,Wanty - Groupe Gobert,",, 15:57",,7,2017
+24,,52,79.0,+39:17,,Arcas Jorge,70,Movistar Team,",, 15:57",,7,2017
+31,,177,100.0,+46:06,,Thomson Jay Robert,71,Team Dimension Data,",, 15:57",,7,2017
+37,,61,73.0,+36:03,,Gerrans Simon,72,ORICA-Scott,",, 15:57",,7,2017
+36,,6,105.0,+50:50,,Lopez David,73,Team Sky,",, 15:57",,7,2017
+29,,15,84.0,+39:53,,Gautier Cyril,74,AG2R La Mondiale,",, 15:57",,7,2017
+32,,142,83.0,+39:44,,Arashiro Yukiya,75,Bahrain Merida Pro Cycling Team,",, 15:57",,7,2017
+33,,54,86.0,+40:39,,Erviti Imanol,76,Movistar Team,",, 15:57",,7,2017
+25,,153,61.0,+31:06,,Brown Nathan,77,Cannondale-Drapac Pro Cycling Team,",, 15:57",,7,2017
+24,,206,81.0,+39:30,,Smith Dion,78,Wanty - Groupe Gobert,",, 15:57",,7,2017
+23,,44,74.0,+37:49,,Gogl Michael,79,Trek - Segafredo,16:02 16:02,,7,2017
+37,,168,70.0,+34:15,,Voeckler Thomas,80,Direct Energie,",, 16:02",,7,2017
+24,,147,121.0,+58:57,,Nibali Antonio,81,Bahrain Merida Pro Cycling Team,16:49 16:49,,7,2017
+23,,127,57.0,+29:29,,Politt Nils,82,Team Katusha - Alpecin,16:58 16:58,,7,2017
+31,,95,85.0,+39:56,,Simon Julien,83,"Cofidis, Solutions Cr\xe9dits",17:27 17:27,,7,2017
+27,,178,82.0,+39:41,,Thwaites Scott,84,Team Dimension Data,17:36 17:36,,7,2017
+24,,26,117.0,+55:15,,Vakoc Petr,85,Quick-Step Floors,19:20 19:20,,7,2017
+25,,158,92.0,+43:05,,van Baarle Dylan,86,Cannondale-Drapac Pro Cycling Team,19:55 19:55,,7,2017
+23,,152,51.0,+25:15,,Bettiol Alberto,87,Cannondale-Drapac Pro Cycling Team,",, 19:55",,7,2017
+25,,217,88.0,+41:59,,Pacher Quentin,88,Delko Marseille Provence KTM,",, 19:55",,7,2017
+20,,105,125.0,+1:00:55,,Shaw James,89,Lotto Soudal,",, 19:55",,7,2017
+32,,215,87.0,+41:01,,Hupond Thierry,90,Delko Marseille Provence KTM,",, 19:55",,7,2017
+32,,213,106.0,+50:52,,El Fares Julien,91,Delko Marseille Provence KTM,",, 19:55",,7,2017
+32,,134,119.0,+57:13,,Fr\xf6hlinger Johannes,92,Team Sunweb,",, 19:55",,7,2017
+33,,182,111.0,+51:52,,Bono Matteo,93,UAE Team Emirates,",, 19:55",,7,2017
+25,,87,108.0,+51:05,,Van Hoecke Gijs,94,Team LottoNL-Jumbo,",, 19:55",,7,2017
+29,,183,116.0,+55:03,,Durasek Kristijan,95,UAE Team Emirates,",, 19:55",,7,2017
+23,,118,94.0,+44:06,,Maison J\xe9r\xe9my,96,FDJ,",, 19:55",,7,2017
+32,,65,96.0,+44:14,,Impey Daryl,97,ORICA-Scott,",, 19:55",,7,2017
+36,,4,89.0,+42:24,,Knees Christian,98,Team Sky,",, 19:55",,7,2017
+30,,171,72.0,+35:23,,Boasson Hagen Edvald,99,Team Dimension Data,",, 19:55",,7,2017
+30,,173,120.0,+57:55,,Niyonshuti Adrien,100,Team Dimension Data,",, 19:55",,7,2017
+25,,78,91.0,+42:55,,Valgren Michael,101,Astana Pro Team,",, 19:55",,7,2017
+29,,164,103.0,+47:31,,Nauleau Bryan,102,Direct Energie,",, 19:55",,7,2017
+34,,93,118.0,+56:30,,Lemoine Cyril,103,"Cofidis, Solutions Cr\xe9dits",",, 19:55",,7,2017
+25,,77,107.0,+51:04,,Stalnov Nikita,104,Astana Pro Team,",, 19:55",,7,2017
+27,,72,78.0,+39:16,,Chernetski Sergei,105,Astana Pro Team,",, 19:55",,7,2017
+23,,83,130.0,+1:04:45,,Bouwman Koen,106,Team LottoNL-Jumbo,",, 19:55",,7,2017
+29,,195,75.0,+38:07,,Pfingsten Christoph,107,BORA - hansgrohe,20:37 20:37,,7,2017
+35,,36,76.0,+38:26,,Moinard Ama\xebl,108,BMC Racing Team,21:33 21:33,,7,2017
+31,,33,113.0,+52:47,,De Marchi Alessandro,109,BMC Racing Team,",, 21:33",,7,2017
+23,,34,114.0,+53:43,,Frankiny Kilian,110,BMC Racing Team,",, 21:33",,7,2017
+33,,32,67.0,+32:14,,Bookwalter Brent,111,BMC Racing Team,",, 21:33",,7,2017
+31,,38,77.0,+39:01,,Wyss Danilo,112,BMC Racing Team,",, 21:33",,7,2017
+31,,116,134.0,+1:08:18,,Konovalovas Ignatas,113,FDJ,21:51 21:51,,7,2017
+27,,82,98.0,+45:31,,Battaglin Enrico,114,Team LottoNL-Jumbo,22:29 22:29,,7,2017
+32,,125,95.0,+44:11,,Martin Tony,115,Team Katusha - Alpecin,22:55 22:55,,7,2017
+23,,188,135.0,+1:08:20,,Zurlo Federico,116,UAE Team Emirates,",, 22:55",,7,2017
+32,,214,59.0,+30:12,,Finetto Mauro,117,Delko Marseille Provence KTM,23:21 23:21,,7,2017
+22,,136,147.0,+1:18:44,,Hamilton Chris,118,Team Sunweb,23:38 23:38,,7,2017
+33,,133,129.0,+1:04:38,,de Backer Bert,119,Team Sunweb,25:41 25:41,,7,2017
+37,,46,104.0,+48:41,,Irizar Markel,120,Trek - Segafredo,",, 25:41",,7,2017
+27,,7,126.0,+1:03:42,,Rowe Luke,121,Team Sky,",, 25:41",,7,2017
+30,,208,123.0,+1:00:16,,Vanspeybrouck Pieter,122,Wanty - Groupe Gobert,31:02 31:02,,7,2017
+28,,23,124.0,+1:00:49,,Declercq Tim,123,Quick-Step Floors,",, 31:02",,7,2017
+27,,28,112.0,+52:23,,Vermote Julien,124,Quick-Step Floors,",, 31:02",,7,2017
+24,,58,99.0,+45:49,,S\xfctterlin Jasha,125,Movistar Team,",, 31:02",,7,2017
+23,,97,109.0,+51:16,,Turgis Anthony,126,"Cofidis, Solutions Cr\xe9dits",",, 31:02",,7,2017
+26,,212,127.0,+1:03:48,,Combaud Romain,127,Delko Marseille Provence KTM,",, 31:02",,7,2017
+23,,128,122.0,+59:15,,Zabel Rick,128,Team Katusha - Alpecin,",, 31:02",,7,2017
+34,,42,149.0,+1:23:23,,Beppu Fumiyuki,129,Trek - Segafredo,",, 31:02",,7,2017
+25,,154,101.0,+46:36,,Canty Brendan,130,Cannondale-Drapac Pro Cycling Team,",, 31:02",,7,2017
+36,,13,128.0,+1:04:09,,Dumoulin Samuel,131,AG2R La Mondiale,",, 31:02",,7,2017
+27,,176,115.0,+54:50,,Reguigui Youcef,132,Team Dimension Data,",, 31:02",,7,2017
+31,,143,97.0,+44:39,,Bole Grega,133,Bahrain Merida Pro Cycling Team,",, 31:02",,7,2017
+33,,197,138.0,+1:09:29,,Schillinger Andreas,134,BORA - hansgrohe,",, 31:02",,7,2017
+32,,126,132.0,+1:06:43,,M\xf8rk\xf8v Michael,135,Team Katusha - Alpecin,",, 31:02",,7,2017
+23,,85,144.0,+1:12:30,,Jansen Amund Grondahl,136,Team LottoNL-Jumbo,",, 31:02",,7,2017
+25,,122,110.0,+51:40,,Bystr\xf8m Sven Erik,137,Team Katusha - Alpecin,",, 31:02",,7,2017
+28,,218,136.0,+1:08:55,,\u0160i\u0161kevi\u010dius Evaldas,138,Delko Marseille Provence KTM,",, 31:02",,7,2017
+29,,146,148.0,+1:20:11,,Navardauskas Ramunas,139,Bahrain Merida Pro Cycling Team,",, 31:02",,7,2017
+26,,198,151.0,+1:27:39,,Schwarzmann Michael,140,BORA - hansgrohe,",, 31:02",,7,2017
+23,,117,139.0,+1:09:37,,Le Gac Olivier,141,FDJ,",, 31:02",,7,2017
+26,,165,137.0,+1:08:58,,Petit Adrien,142,Direct Energie,",, 31:02",,7,2017
+32,,157,142.0,+1:10:41,,Langeveld Sebastian,143,Cannondale-Drapac Pro Cycling Team,",, 31:02",,7,2017
+22,,132,140.0,+1:10:03,,Bauhaus Phil,144,Team Sunweb,31:30 31:30,,7,2017
+26,,91,143.0,+1:12:12,,Bouhanni Nacer,145,"Cofidis, Solutions Cr\xe9dits",33:20 33:20,,7,2017
+31,,113,145.0,+1:13:43,,Delage Micka\xebl,146,FDJ,",, 33:20",,7,2017
+25,,161,141.0,+1:10:38,,Coquard Bryan,147,Direct Energie,",, 33:20",,7,2017
+29,,92,131.0,+1:04:48,,Claeys Dimitri,148,"Cofidis, Solutions Cr\xe9dits",",, 33:20",,7,2017
+27,,112,150.0,+1:26:11,,Cimolai Davide,149,FDJ,",, 33:20",,7,2017
+25,,111,146.0,+1:13:52,,D\xe9mare Arnaud,150,FDJ,",, 33:20",,7,2017
+27,,14,133.0,+1:07:27,,Duval Julien,151,AG2R La Mondiale,35:14 35:14,,7,2017
+23,,192,,+ - 25:38:29,,Ackermann Pascal,DNF,BORA - hansgrohe,-4:43:59 -4:43:59,,7,2017
+26,,172,,+ - 25:38:29,,Berhane Natnael,DNF,Team Dimension Data,",, -4:43:59",,7,2017
+25,,163,,+ - 25:38:29,,Morice Julien,DNF,Direct Energie,",, -4:43:59",,7,2017
+39,,148,,+ - 25:38:29,,Pellizotti Franco,DNF,Bahrain Merida Pro Cycling Team,",, -4:43:59",,7,2017
+28,,135,,+ - 25:38:29,,Haga Chad,DNF,Team Sunweb,",, -4:43:59",,7,2017
+31,,124,,+ - 25:38:29,,Machado Tiago,DNF,Team Katusha - Alpecin,",, -4:43:59",,7,2017
+29,,96,,+ - 25:38:29,,Soupe Geoffrey,DNF,"Cofidis, Solutions Cr\xe9dits",",, -4:43:59",,7,2017
+33,,76,,+ - 25:38:29,,Sanchez Luis Leon,DNS,Astana Pro Team,",, -4:43:59",,7,2017
+24,,156,,+ - 25:38:29,,Formolo Davide,DNS,Cannondale-Drapac Pro Cycling Team,",, -4:43:59",,7,2017
+32,,73,1.0,+0:00,50.0,Fuglsang Jakob,1,Astana Pro Team,3:26:20 3:26:20,60.0,8,2017
+30,,21,3.0,+1:32,30.0,Martin Daniel,2,Quick-Step Floors,0:12 0:12,25.0,8,2017
+25,,181,8.0,+3:12,18.0,Meintjes Louis,3,UAE Team Emirates,0:27 0:27,10.0,8,2017
+24,,193,7.0,+2:32,13.0,Buchmann Emanuel,4,BORA - hansgrohe,0:44 0:44,,8,2017
+26,,71,5.0,+1:37,10.0,Aru Fabio,5,Astana Pro Team,1:01 1:01,,8,2017
+26,,11,6.0,+2:04,7.0,Bardet Romain,6,AG2R La Mondiale,1:02 1:02,,8,2017
+32,,31,2.0,+0:10,4.0,Porte Richie,7,BMC Racing Team,1:15 1:15,,8,2017
+32,,1,4.0,+1:33,3.0,Froome Christopher,8,Team Sky,1:36 1:36,,8,2017
+29,,106,10.0,+4:40,2.0,Valls Rafael,9,Lotto Soudal,1:41 1:41,,8,2017
+37,,51,9.0,+4:08,1.0,Valverde Alejandro,10,Movistar Team,3:30 3:30,,8,2017
+34,,41,11.0,+5:20,,Contador Alberto,11,Trek - Segafredo,4:10 4:10,,8,2017
+30,,155,23.0,+25:19,,Clarke Simon,12,Cannondale-Drapac Pro Cycling Team,4:28 4:28,,8,2017
+24,,68,13.0,+9:02,,Yates Simon,13,ORICA-Scott,4:43 4:43,,8,2017
+23,,103,12.0,+8:03,,Benoot Tiesj,14,Lotto Soudal,4:48 4:48,,8,2017
+21,,138,14.0,+9:03,,Oomen Sam,15,Team Sunweb,5:09 5:09,,8,2017
+23,,16,15.0,+12:16,,Latour Pierre,16,AG2R La Mondiale,8:05 8:05,,8,2017
+29,,18,21.0,+21:05,,Vuillermoz Alexis,17,AG2R La Mondiale,8:21 8:21,,8,2017
+34,,81,16.0,+12:45,,Clement Stef,18,Team LottoNL-Jumbo,8:22 8:22,,8,2017
+33,,94,17.0,+13:36,,Navarro Daniel,19,"Cofidis, Solutions Cr\xe9dits",",, 8:22",,8,2017
+32,,43,19.0,+16:38,,Cardoso Andr\xe9,20,Trek - Segafredo,",, 8:22",,8,2017
+35,,45,54.0,+49:50,,Hern\xe1ndez Jes\xfas,21,Trek - Segafredo,",, 8:22",,8,2017
+25,,131,30.0,+28:53,,Barguil Warren,22,Team Sunweb,9:21 9:21,,8,2017
+31,,203,20.0,+20:47,,Degand Thomas,23,Wanty - Groupe Gobert,10:04 10:04,,8,2017
+24,,201,18.0,+14:44,,Martin Guillaume,24,Wanty - Groupe Gobert,",, 10:04",,8,2017
+28,,184,34.0,+32:48,,Laengen Vegard Stake,25,UAE Team Emirates,11:40 11:40,,8,2017
+31,,67,28.0,+27:13,,Kreuziger Roman,26,ORICA-Scott,12:00 12:00,,8,2017
+26,,17,29.0,+27:45,,Naesen Oliver,27,AG2R La Mondiale,13:17 13:17,,8,2017
+21,,174,46.0,+42:46,,O'Connor Ben,28,Team Dimension Data,13:57 13:57,,8,2017
+31,,143,68.0,+57:31,,Bole Grega,29,Bahrain Merida Pro Cycling Team,",, 13:57",,8,2017
+30,,171,52.0,+48:15,,Boasson Hagen Edvald,30,Team Dimension Data,",, 13:57",,8,2017
+23,,86,49.0,+44:57,,Tolhoek Antwan,31,Team LottoNL-Jumbo,14:47 14:47,,8,2017
+24,,58,70.0,+59:57,,S\xfctterlin Jasha,32,Movistar Team,15:13 15:13,,8,2017
+31,,102,51.0,+47:19,,Arm\xe9e Sander,33,Lotto Soudal,15:35 15:35,,8,2017
+27,,3,27.0,+26:41,,Kennaugh Peter,34,Team Sky,15:45 15:45,,8,2017
+33,,141,24.0,+26:04,,Brajkovi\u010d Janez,35,Bahrain Merida Pro Cycling Team,16:00 16:00,,8,2017
+37,,168,55.0,+50:01,,Voeckler Thomas,36,Direct Energie,16:51 16:51,,8,2017
+27,,187,25.0,+26:04,,Ulissi Diego,37,UAE Team Emirates,16:57 16:57,,8,2017
+24,,75,48.0,+43:29,,Lutsenko Alexey,38,Astana Pro Team,",, 16:57",,8,2017
+29,,101,38.0,+34:48,,Gallopin Tony,39,Lotto Soudal,17:47 17:47,,8,2017
+23,,34,92.0,+1:10:25,,Frankiny Kilian,40,BMC Racing Team,",, 17:47",,8,2017
+24,,53,44.0,+37:50,,Carapaz Richard,41,Movistar Team,17:54 17:54,,8,2017
+26,,123,39.0,+35:00,,Lammertink Maurits,42,Team Katusha - Alpecin,18:00 18:00,,8,2017
+32,,65,72.0,+1:01:14,,Impey Daryl,43,ORICA-Scott,18:05 18:05,,8,2017
+32,,213,88.0,+1:08:24,,El Fares Julien,44,Delko Marseille Provence KTM,18:37 18:37,,8,2017
+33,,175,41.0,+37:09,,Pauwels Serge,45,Team Dimension Data,19:04 19:04,,8,2017
+31,,211,42.0,+37:11,,Fernandez Delio,46,Delko Marseille Provence KTM,19:26 19:26,,8,2017
+23,,44,67.0,+57:13,,Gogl Michael,47,Trek - Segafredo,20:29 20:29,,8,2017
+24,,26,98.0,+1:14:39,,Vakoc Petr,48,Quick-Step Floors,",, 20:29",,8,2017
+29,,166,50.0,+45:33,,Sicard Romain,49,Direct Energie,20:45 20:45,,8,2017
+28,,23,105.0,+1:20:47,,Declercq Tim,50,Quick-Step Floors,21:03 21:03,,8,2017
+31,,35,33.0,+32:16,,Hermans Ben,51,BMC Racing Team,21:23 21:23,,8,2017
+28,,151,22.0,+24:15,,Talansky Andrew,52,Cannondale-Drapac Pro Cycling Team,21:37 21:37,,8,2017
+27,,62,26.0,+26:09,,Chaves Johan Esteban,53,ORICA-Scott,21:49 21:49,,8,2017
+28,,66,47.0,+42:58,,Keukeleire Jens,54,ORICA-Scott,",, 21:49",,8,2017
+24,,64,40.0,+36:51,,Howson Damien,55,ORICA-Scott,",, 21:49",,8,2017
+23,,63,31.0,+30:32,,Haig Jack,56,ORICA-Scott,",, 21:49",,8,2017
+29,,186,35.0,+33:13,,Swift Ben,57,UAE Team Emirates,",, 21:49",,8,2017
+31,,38,69.0,+59:45,,Wyss Danilo,58,BMC Racing Team,",, 21:49",,8,2017
+25,,158,74.0,+1:03:49,,van Baarle Dylan,59,Cannondale-Drapac Pro Cycling Team,",, 21:49",,8,2017
+23,,83,112.0,+1:25:47,,Bouwman Koen,60,Team LottoNL-Jumbo,22:07 22:07,,8,2017
+22,,137,60.0,+55:47,,Hofstede Lennard,61,Team Sunweb,22:37 22:37,,8,2017
+25,,78,76.0,+1:04:27,,Valgren Michael,62,Astana Pro Team,",, 22:37",,8,2017
+28,,204,58.0,+54:32,,Minnaard Marco,63,Wanty - Groupe Gobert,23:32 23:32,,8,2017
+36,,4,84.0,+1:06:15,,Knees Christian,64,Team Sky,24:56 24:56,,8,2017
+33,,32,64.0,+56:32,,Bookwalter Brent,65,BMC Racing Team,25:23 25:23,,8,2017
+31,,177,94.0,+1:11:23,,Thomson Jay Robert,66,Team Dimension Data,26:22 26:22,,8,2017
+27,,178,81.0,+1:04:58,,Thwaites Scott,67,Team Dimension Data,",, 26:22",,8,2017
+27,,202,79.0,+1:04:41,,Backaert Frederik,68,Wanty - Groupe Gobert,",, 26:22",,8,2017
+22,,88,61.0,+56:12,,Vermeulen Alexey,69,Team LottoNL-Jumbo,",, 26:22",,8,2017
+36,,185,65.0,+56:38,,Mori Manuele,70,UAE Team Emirates,",, 26:22",,8,2017
+27,,28,103.0,+1:17:40,,Vermote Julien,71,Quick-Step Floors,",, 26:22",,8,2017
+29,,92,115.0,+1:30:05,,Claeys Dimitri,72,"Cofidis, Solutions Cr\xe9dits",",, 26:22",,8,2017
+33,,182,102.0,+1:17:09,,Bono Matteo,73,UAE Team Emirates,",, 26:22",,8,2017
+23,,152,56.0,+50:32,,Bettiol Alberto,74,Cannondale-Drapac Pro Cycling Team,",, 26:22",,8,2017
+40,,48,37.0,+34:35,,Zubeldia Haimar,75,Trek - Segafredo,",, 26:22",,8,2017
+25,,154,95.0,+1:11:53,,Canty Brendan,76,Cannondale-Drapac Pro Cycling Team,",, 26:22",,8,2017
+24,,206,80.0,+1:04:47,,Smith Dion,77,Wanty - Groupe Gobert,",, 26:22",,8,2017
+26,,12,53.0,+49:34,,Domont Axel,78,AG2R La Mondiale,",, 26:22",,8,2017
+24,,52,78.0,+1:04:34,,Arcas Jorge,79,Movistar Team,",, 26:22",,8,2017
+33,,133,114.0,+1:29:55,,de Backer Bert,80,Team Sunweb,",, 26:22",,8,2017
+25,,153,62.0,+56:23,,Brown Nathan,81,Cannondale-Drapac Pro Cycling Team,",, 26:22",,8,2017
+25,,122,101.0,+1:16:57,,Bystr\xf8m Sven Erik,82,Team Katusha - Alpecin,",, 26:22",,8,2017
+26,,56,32.0,+31:21,,Herrada Jes\xfas,83,Movistar Team,",, 26:22",,8,2017
+25,,217,87.0,+1:07:16,,Pacher Quentin,84,Delko Marseille Provence KTM,",, 26:22",,8,2017
+32,,215,85.0,+1:06:18,,Hupond Thierry,85,Delko Marseille Provence KTM,",, 26:22",,8,2017
+29,,164,96.0,+1:12:48,,Nauleau Bryan,86,Direct Energie,",, 26:22",,8,2017
+26,,212,113.0,+1:29:05,,Combaud Romain,87,Delko Marseille Provence KTM,",, 26:22",,8,2017
+23,,127,59.0,+54:46,,Politt Nils,88,Team Katusha - Alpecin,",, 26:22",,8,2017
+30,,208,111.0,+1:25:33,,Vanspeybrouck Pieter,89,Wanty - Groupe Gobert,",, 26:22",,8,2017
+22,,132,119.0,+1:35:20,,Bauhaus Phil,90,Team Sunweb,",, 26:22",,8,2017
+23,,194,63.0,+56:27,,Herklotz Silvio,91,BORA - hansgrohe,",, 26:22",,8,2017
+32,,134,108.0,+1:22:30,,Fr\xf6hlinger Johannes,92,Team Sunweb,",, 26:22",,8,2017
+27,,82,93.0,+1:10:48,,Battaglin Enrico,93,Team LottoNL-Jumbo,",, 26:22",,8,2017
+31,,95,83.0,+1:05:13,,Simon Julien,94,"Cofidis, Solutions Cr\xe9dits",",, 26:22",,8,2017
+25,,74,89.0,+1:09:03,,Kozhatayev Bakhtiyar,95,Astana Pro Team,",, 26:22",,8,2017
+23,,97,100.0,+1:16:33,,Turgis Anthony,96,"Cofidis, Solutions Cr\xe9dits",",, 26:22",,8,2017
+28,,218,117.0,+1:34:12,,\u0160i\u0161kevi\u010dius Evaldas,97,Delko Marseille Provence KTM,",, 26:22",,8,2017
+30,,205,66.0,+56:51,,Offredo Yoann,98,Wanty - Groupe Gobert,",, 26:22",,8,2017
+32,,37,45.0,+42:01,,Roche Nicolas,99,BMC Racing Team,",, 26:22",,8,2017
+32,,125,90.0,+1:09:28,,Martin Tony,100,Team Katusha - Alpecin,",, 26:22",,8,2017
+27,,72,77.0,+1:04:33,,Chernetski Sergei,101,Astana Pro Team,",, 26:22",,8,2017
+22,,136,125.0,+1:44:01,,Hamilton Chris,102,Team Sunweb,",, 26:22",,8,2017
+32,,142,82.0,+1:05:01,,Arashiro Yukiya,103,Bahrain Merida Pro Cycling Team,",, 26:22",,8,2017
+35,,57,36.0,+34:17,,Moreno Daniel,104,Movistar Team,",, 26:22",,8,2017
+31,,33,104.0,+1:18:04,,De Marchi Alessandro,105,BMC Racing Team,",, 26:22",,8,2017
+35,,36,73.0,+1:03:43,,Moinard Ama\xebl,106,BMC Racing Team,",, 26:22",,8,2017
+27,,5,43.0,+37:20,,Kwiatkowski Michal,107,Team Sky,",, 26:22",,8,2017
+26,,2,57.0,+53:47,,Boswell Ian,108,Team Sky,",, 26:22",,8,2017
+33,,54,86.0,+1:06:24,,Erviti Imanol,109,Movistar Team,26:50 26:50,,8,2017
+26,,167,71.0,+1:01:01,,Tulik Angelo,110,Direct Energie,",, 26:50",,8,2017
+29,,195,75.0,+1:04:12,,Pfingsten Christoph,111,BORA - hansgrohe,27:10 27:10,,8,2017
+25,,111,123.0,+1:39:57,,D\xe9mare Arnaud,112,FDJ,",, 27:10",,8,2017
+23,,118,91.0,+1:10:11,,Maison J\xe9r\xe9my,113,FDJ,",, 27:10",,8,2017
+31,,113,122.0,+1:39:48,,Delage Micka\xebl,114,FDJ,",, 27:10",,8,2017
+31,,116,118.0,+1:34:23,,Konovalovas Ignatas,115,FDJ,",, 27:10",,8,2017
+23,,128,110.0,+1:25:20,,Zabel Rick,116,Team Katusha - Alpecin,",, 27:10",,8,2017
+32,,126,116.0,+1:32:48,,M\xf8rk\xf8v Michael,117,Team Katusha - Alpecin,",, 27:10",,8,2017
+34,,93,109.0,+1:22:38,,Lemoine Cyril,118,"Cofidis, Solutions Cr\xe9dits",27:13 27:13,,8,2017
+26,,207,97.0,+1:13:40,,van Keirsbulck Guillaume,119,Wanty - Groupe Gobert,27:25 27:25,,8,2017
+37,,46,99.0,+1:15:01,,Irizar Markel,120,Trek - Segafredo,",, 27:25",,8,2017
+27,,176,107.0,+1:21:10,,Reguigui Youcef,121,Team Dimension Data,",, 27:25",,8,2017
+23,,117,121.0,+1:36:12,,Le Gac Olivier,122,FDJ,27:40 27:40,,8,2017
+23,,188,120.0,+1:35:43,,Zurlo Federico,123,UAE Team Emirates,28:28 28:28,,8,2017
+23,,85,124.0,+1:41:31,,Jansen Amund Grondahl,124,Team LottoNL-Jumbo,30:06 30:06,,8,2017
+25,,77,106.0,+1:20:48,,Stalnov Nikita,125,Astana Pro Team,30:49 30:49,,8,2017
+20,,105,,+ - 29:05:54,,Shaw James,DNF,Lotto Soudal,-3:26:20 -3:26:20,,8,2017
+37,,61,,+ - 29:05:54,,Gerrans Simon,DNF,ORICA-Scott,",, -3:26:20",,8,2017
+26,,55,,+ - 29:05:54,,Fern\xe1ndez Rub\xe9n,DNF,Movistar Team,",, -3:26:20",,8,2017
+34,,42,,+ - 29:05:54,,Beppu Fumiyuki,DNF,Trek - Segafredo,",, -3:26:20",,8,2017
+22,,24,,+ - 29:05:54,,Mas Enric,DNF,Quick-Step Floors,",, -3:26:20",,8,2017
+27,,14,,+ - 29:05:54,,Duval Julien,DNF,AG2R La Mondiale,",, -3:26:20",,8,2017
+27,,7,,+ - 29:05:54,,Rowe Luke,DNF,Team Sky,",, -3:26:20",,8,2017
+36,,6,,+ - 29:05:54,,Lopez David,DNF,Team Sky,",, -3:26:20",,8,2017
+32,,108,,+ - 29:05:54,,Vanendert Jelle,DNF,Lotto Soudal,",, -3:26:20",,8,2017
+29,,146,,+ - 29:05:54,,Navardauskas Ramunas,DNF,Bahrain Merida Pro Cycling Team,",, -3:26:20",,8,2017
+32,,214,,+ - 29:05:54,,Finetto Mauro,DNF,Delko Marseille Provence KTM,",, -3:26:20",,8,2017
+26,,198,,+ - 29:05:54,,Schwarzmann Michael,DNF,BORA - hansgrohe,",, -3:26:20",,8,2017
+33,,197,,+ - 29:05:54,,Schillinger Andreas,DNF,BORA - hansgrohe,",, -3:26:20",,8,2017
+29,,183,,+ - 29:05:54,,Durasek Kristijan,DNF,UAE Team Emirates,",, -3:26:20",,8,2017
+26,,165,,+ - 29:05:54,,Petit Adrien,DNF,Direct Energie,",, -3:26:20",,8,2017
+25,,161,,+ - 29:05:54,,Coquard Bryan,DNF,Direct Energie,",, -3:26:20",,8,2017
+32,,157,,+ - 29:05:54,,Langeveld Sebastian,DNF,Cannondale-Drapac Pro Cycling Team,",, -3:26:20",,8,2017
+30,,104,,+ - 29:05:54,,De Gendt Thomas,DNS,Lotto Soudal,",, -3:26:20",,8,2017
+26,,91,,+ - 29:05:54,,Bouhanni Nacer,DNS,"Cofidis, Solutions Cr\xe9dits",",, -3:26:20",,8,2017
+25,,87,,+ - 29:05:54,,Van Hoecke Gijs,HD,Team LottoNL-Jumbo,32:57 32:57,,8,2017
+27,,112,,+ - 29:05:54,,Cimolai Davide,HD,FDJ,",, 32:57",,8,2017
+29,,15,,+ - 29:05:54,,Gautier Cyril,HD,AG2R La Mondiale,33:28 33:28,,8,2017
+30,,173,,+ - 29:05:54,,Niyonshuti Adrien,HD,Team Dimension Data,34:24 34:24,,8,2017
+28,,216,,+ - 29:05:54,,Madrazo \xc1ngel,HD,Delko Marseille Provence KTM,34:59 34:59,,8,2017
+36,,13,,+ - 29:05:54,,Dumoulin Samuel,HD,AG2R La Mondiale,39:33 39:33,,8,2017
+24,,147,,+ - 29:05:54,,Nibali Antonio,NQ,Bahrain Merida Pro Cycling Team,-3:26:20 -3:26:20,,8,2017

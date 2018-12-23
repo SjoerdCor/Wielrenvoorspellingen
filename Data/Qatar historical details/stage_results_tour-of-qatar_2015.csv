@@ -1,0 +1,833 @@
+Age,Avg,BIB,GC,GC-Time,Pnt,Rider,Rnk,Team,Time,UCI,stage,year
+29,,55,1.0,+0:00,30.0,Rojas Jos\xe9 Joaqu\xedn,1,Movistar Team,3:49:50 3:49:50,20.0,1,2015
+34,,2,2.0,+0:04,18.0,Boonen Tom,2,Etixx - Quick Step,",, ,,",14.0,1,2015
+23,,111,3.0,+0:06,12.0,D\xe9mare Arnaud,3,FDJ,",, ,,",8.0,1,2015
+25,,21,6.0,+0:10,7.0,Sagan Peter,4,Tinkoff - Saxo,",, ,,",7.0,1,2015
+24,,161,7.0,+0:10,4.0,Bennett Sam,5,Bora - Argon 18,",, ,,",6.0,1,2015
+22,,36,8.0,+0:10,3.0,Stuyven Jasper,6,Trek Factory Racing,",, ,,",5.0,1,2015
+30,,151,9.0,+0:10,2.0,Haussler Heinrich,7,IAM Cycling,",, ,,",4.0,1,2015
+25,,96,10.0,+0:10,1.0,Guardini Andrea,8,Astana Pro Team,",, ,,",2.0,1,2015
+27,,61,11.0,+0:10,,Kristoff Alexander,9,Team Katusha,",, ,,",,1,2015
+24,,71,12.0,+0:10,,Bouhanni Nacer,10,"Cofidis, Solutions Cr\xe9dits",",, ,,",,1,2015
+27,,97,13.0,+0:10,,Tleubayev Ruslan,11,Astana Pro Team,",, ,,",,1,2015
+25,,84,14.0,+0:10,,Reguigui Youcef,12,MTN - Qhubeka,",, ,,",,1,2015
+31,,82,15.0,+0:10,,Bos Theo,13,MTN - Qhubeka,",, ,,",,1,2015
+31,,144,5.0,+0:09,,Ferrari Roberto,14,Lampre - Merida,",, ,,",,1,2015
+28,,44,16.0,+0:10,,Drucker Jean-Pierre,15,BMC Racing Team,",, ,,",,1,2015
+30,,18,17.0,+0:10,,Veelers Tom,16,Team Giant - Alpecin,",, ,,",,1,2015
+30,,1,4.0,+0:08,,Terpstra Niki,17,Etixx - Quick Step,",, ,,",,1,2015
+31,,94,18.0,+0:10,,Grivko Andrei,18,Astana Pro Team,",, ,,",,1,2015
+33,,31,19.0,+0:10,,Cancellara Fabian,19,Trek Factory Racing,",, ,,",,1,2015
+36,,133,20.0,+0:10,,Hayman Mathew,20,Orica GreenEDGE,",, ,,",,1,2015
+29,,114,21.0,+0:10,,Delage Micka\xebl,21,FDJ,",, ,,",,1,2015
+25,,123,22.0,+0:10,,Declercq Tim,22,Topsport Vlaanderen - Baloise,",, ,,",,1,2015
+25,,134,23.0,+0:10,,Howard Leigh,23,Orica GreenEDGE,",, ,,",,1,2015
+29,,22,24.0,+0:10,,Bodnar Maciej,24,Tinkoff - Saxo,",, ,,",,1,2015
+27,,63,25.0,+0:10,,Guarnieri Jacopo,25,Team Katusha,",, ,,",,1,2015
+29,,46,26.0,+0:10,,Van Avermaet Greg,26,BMC Racing Team,",, ,,",,1,2015
+23,,64,27.0,+0:10,,Haller Marco,27,Team Katusha,",, ,,",,1,2015
+23,,127,28.0,+0:10,,Van Meirhaeghe Jef,28,Topsport Vlaanderen - Baloise,",, ,,",,1,2015
+24,,105,29.0,+0:10,,Rowe Luke,29,Team Sky,",, ,,",,1,2015
+34,,51,30.0,+0:10,,Valverde Alejandro,30,Movistar Team,",, ,,",,1,2015
+32,,98,31.0,+0:10,,Westra Lieuwe,31,Astana Pro Team,",, ,,",,1,2015
+32,,41,32.0,+0:10,,Gilbert Philippe,32,BMC Racing Team,",, ,,",,1,2015
+33,,157,33.0,+0:10,,Reynes Vicente,33,IAM Cycling,",, ,,",,1,2015
+24,,152,34.0,+0:10,,Aregger Marcel,34,IAM Cycling,",, ,,",,1,2015
+30,,116,35.0,+0:10,,Ladagnous Matthieu,35,FDJ,",, ,,",,1,2015
+31,,42,36.0,+0:10,,Burghardt Marcus,36,BMC Racing Team,",, ,,",,1,2015
+24,,72,37.0,+0:10,,Ahlstrand Jonas,37,"Cofidis, Solutions Cr\xe9dits",",, ,,",,1,2015
+34,,35,38.0,+0:10,,Steegmans Gert,38,Trek Factory Racing,",, ,,",,1,2015
+29,,91,39.0,+0:10,,Boom Lars,39,Astana Pro Team,",, ,,",,1,2015
+27,,106,40.0,+0:10,,Stannard Ian,40,Team Sky,",, ,,",,1,2015
+25,,5,41.0,+0:10,,Trentin Matteo,41,Etixx - Quick Step,",, ,,",,1,2015
+34,,92,42.0,+0:10,,Bozic Borut,42,Astana Pro Team,",, ,,",,1,2015
+28,,118,43.0,+0:10,,Offredo Yoann,43,FDJ,",, ,,",,1,2015
+25,,164,44.0,+0:10,,Matzka Ralf,44,Bora - Argon 18,",, ,,",,1,2015
+30,,23,45.0,+0:10,,Breschel Matti,45,Tinkoff - Saxo,",, ,,",,1,2015
+28,,4,46.0,+0:10,,Maes Nikolas,46,Etixx - Quick Step,",, ,,",,1,2015
+24,,167,47.0,+0:10,,Thwaites Scott,47,Bora - Argon 18,",, ,,",,1,2015
+35,,34,48.0,+0:10,,Rast Gregory,48,Trek Factory Racing,",, ,,",,1,2015
+25,,26,49.0,+0:10,,Juul-Jensen Christopher,49,Tinkoff - Saxo,",, ,,",,1,2015
+30,,7,50.0,+0:10,,Vandenbergh Stijn,50,Etixx - Quick Step,",, ,,",,1,2015
+27,,37,51.0,+0:10,,van Poppel Boy,51,Trek Factory Racing,",, ,,",,1,2015
+26,,78,52.0,+0:23,,Soupe Geoffrey,52,"Cofidis, Solutions Cr\xe9dits",0:13 0:13,,1,2015
+26,,165,53.0,+0:28,,Schorn Daniel,53,Bora - Argon 18,0:18 0:18,,1,2015
+25,,66,54.0,+0:28,,Kuznetsov Viacheslav,54,Team Katusha,",, 0:18",,1,2015
+24,,85,55.0,+0:35,,Sbaragli Kristian,55,MTN - Qhubeka,0:25 0:25,,1,2015
+28,,132,56.0,+0:35,,Docker Mitchell,56,Orica GreenEDGE,",, 0:25",,1,2015
+27,,81,57.0,+0:35,,Boasson Hagen Edvald,57,MTN - Qhubeka,",, 0:25",,1,2015
+29,,156,58.0,+0:35,,Kluge Roger,58,IAM Cycling,",, 0:25",,1,2015
+27,,68,59.0,+0:35,,Smukulis Gatis,59,Team Katusha,",, 0:25",,1,2015
+38,,67,62.0,+0:43,,Paolini Luca,60,Team Katusha,0:33 0:33,,1,2015
+23,,62,63.0,+0:43,,Bystr\xf8m Sven Erik,61,Team Katusha,",, 0:33",,1,2015
+33,,141,64.0,+0:43,,Pozzato Filippo,62,Lampre - Merida,",, 0:33",,1,2015
+23,,12,60.0,+0:39,,Arndt Nikias,63,Team Giant - Alpecin,",, 0:33",,1,2015
+26,,11,65.0,+0:43,,Kittel Marcel,64,Team Giant - Alpecin,",, 0:33",,1,2015
+32,,58,66.0,+0:43,,Ventoso Francisco,65,Movistar Team,",, 0:33",,1,2015
+21,,48,67.0,+0:43,,Zabel Rick,66,BMC Racing Team,",, 0:33",,1,2015
+27,,128,68.0,+0:43,,Vanspeybrouck Pieter,67,Topsport Vlaanderen - Baloise,",, 0:33",,1,2015
+28,,52,69.0,+0:43,,Amador Andrey,68,Movistar Team,",, 0:33",,1,2015
+23,,6,70.0,+0:43,,van Keirsbulck Guillaume,69,Etixx - Quick Step,",, 0:33",,1,2015
+25,,131,71.0,+0:43,,Blythe Adam,70,Orica GreenEDGE,0:00 0:00,,1,2015
+32,,76,72.0,+0:43,,Rollin Dominique,71,"Cofidis, Solutions Cr\xe9dits",0:33 0:33,,1,2015
+22,,57,73.0,+0:43,,S\xfctterlin Jasha,72,Movistar Team,",, 0:33",,1,2015
+35,,32,74.0,+0:43,,Irizar Markel,73,Trek Factory Racing,",, 0:33",,1,2015
+29,,8,75.0,+0:43,,Velits Martin,74,Etixx - Quick Step,",, 0:33",,1,2015
+25,,15,76.0,+0:43,,Sinkeldam Ramon,75,Team Giant - Alpecin,",, 0:33",,1,2015
+27,,145,77.0,+0:43,,Modolo Sacha,76,Lampre - Merida,",, 0:33",,1,2015
+35,,115,78.0,+0:43,,Fischer Murilo Antonio,77,FDJ,",, 0:33",,1,2015
+30,,107,79.0,+0:43,,Sutton Chris,78,Team Sky,",, 0:33",,1,2015
+31,,53,80.0,+0:43,,Erviti Imanol,79,Movistar Team,",, 0:33",,1,2015
+34,,101,81.0,+0:43,,Wiggins Bradley,80,Team Sky,",, 0:33",,1,2015
+32,,112,82.0,+0:43,,Bonnet William,81,FDJ,",, 0:33",,1,2015
+39,,54,83.0,+0:43,,Lastras Pablo,82,Movistar Team,",, 0:33",,1,2015
+35,,136,84.0,+0:43,,Lancaster Brett,83,Orica GreenEDGE,",, 0:33",,1,2015
+28,,95,85.0,+0:43,,Gruzdev Dmitriy,84,Astana Pro Team,",, 0:33",,1,2015
+25,,121,86.0,+0:43,,Wallays Jelle,85,Topsport Vlaanderen - Baloise,",, 0:33",,1,2015
+32,,3,87.0,+0:43,,Keisse Iljo,86,Etixx - Quick Step,",, 0:33",,1,2015
+25,,153,88.0,+0:43,,Br\xe4ndle Matthias,87,IAM Cycling,",, 0:33",,1,2015
+26,,124,61.0,+0:40,,Salomein Jarl,88,Topsport Vlaanderen - Baloise,",, 0:33",,1,2015
+29,,47,89.0,+0:43,,Velits Peter,89,BMC Racing Team,",, 0:33",,1,2015
+28,,168,90.0,+0:54,,Voss Paul,90,Bora - Argon 18,0:44 0:44,,1,2015
+28,,43,91.0,+0:54,,De Marchi Alessandro,91,BMC Racing Team,",, 0:44",,1,2015
+31,,154,92.0,+0:56,,Devenyns Dries,92,IAM Cycling,0:46 0:46,,1,2015
+35,,33,93.0,+1:00,,Popovych Yaroslav,93,Trek Factory Racing,0:50 0:50,,1,2015
+21,,77,94.0,+1:00,,S\xe9n\xe9chal Florian,94,"Cofidis, Solutions Cr\xe9dits",",, 0:50",,1,2015
+24,,166,95.0,+1:02,,Schwarzmann Michael,95,Bora - Argon 18,0:52 0:52,,1,2015
+26,,135,96.0,+1:26,,Keukeleire Jens,96,Orica GreenEDGE,1:16 1:16,,1,2015
+37,,138,97.0,+1:26,,Tuft Svein,97,Orica GreenEDGE,",, 1:16",,1,2015
+32,,125,98.0,+1:26,,Van Hecke Preben,98,Topsport Vlaanderen - Baloise,",, 1:16",,1,2015
+24,,117,99.0,+1:26,,Le Bon Johan,99,FDJ,",, 1:16",,1,2015
+24,,175,100.0,+1:26,,Ruffoni Nicola,100,Bardiani - CSF Pro Team,",, 1:16",,1,2015
+28,,83,101.0,+1:26,,Ciolek Gerald,101,MTN - Qhubeka,",, 1:16",,1,2015
+24,,102,102.0,+1:26,,Fenn Andrew,102,Team Sky,",, 1:16",,1,2015
+29,,28,103.0,+1:26,,Trusov Nikolay,103,Tinkoff - Saxo,",, 1:16",,1,2015
+26,,93,104.0,+1:26,,de Vreese Laurens,104,Astana Pro Team,",, 1:16",,1,2015
+30,,13,105.0,+1:26,,de Backer Bert,105,Team Giant - Alpecin,",, 1:16",,1,2015
+29,,143,106.0,+1:26,,Costa M\xe1rio,106,Lampre - Merida,",, 1:16",,1,2015
+33,,24,107.0,+1:26,,Brutt Pavel,107,Tinkoff - Saxo,",, 1:16",,1,2015
+24,,14,108.0,+1:26,,Preidler Georg,108,Team Giant - Alpecin,",, 1:16",,1,2015
+25,,56,109.0,+1:26,,Sanz Enrique,109,Movistar Team,",, 1:16",,1,2015
+28,,158,110.0,+1:26,,van Genechten Jonas,110,IAM Cycling,",, 1:16",,1,2015
+27,,87,111.0,+1:26,,Venter Jaco,111,MTN - Qhubeka,",, 1:16",,1,2015
+23,,126,112.0,+1:26,,Van Hoecke Gijs,112,Topsport Vlaanderen - Baloise,",, 1:16",,1,2015
+29,,27,113.0,+1:26,,M\xf8rk\xf8v Michael,113,Tinkoff - Saxo,",, 1:16",,1,2015
+30,,65,114.0,+1:26,,Kozonchuk Dmitry,114,Team Katusha,",, 1:16",,1,2015
+27,,163,115.0,+1:26,,Dempster Zakkari,115,Bora - Argon 18,",, 1:16",,1,2015
+29,,155,116.0,+1:26,,Hollenstein Reto,116,IAM Cycling,",, 1:16",,1,2015
+21,,38,117.0,+1:26,,van Poppel Danny,117,Trek Factory Racing,",, 1:16",,1,2015
+23,,122,118.0,+1:26,,Campenaerts Victor,118,Topsport Vlaanderen - Baloise,",, 1:16",,1,2015
+24,,25,119.0,+1:26,,Hansen Jesper,119,Tinkoff - Saxo,",, 1:16",,1,2015
+26,,162,120.0,+1:26,,Archbold Shane,120,Bora - Argon 18,",, 1:16",,1,2015
+28,,45,121.0,+1:26,,Hermans Ben,121,BMC Racing Team,",, 1:16",,1,2015
+33,,103,122.0,+2:39,,Knees Christian,122,Team Sky,2:29 2:29,,1,2015
+34,,113,123.0,+2:39,,Boucher David,123,FDJ,",, 2:29",,1,2015
+34,,147,124.0,+2:39,,Plaza Rub\xe9n,124,Lampre - Merida,",, 2:29",,1,2015
+25,,172,125.0,+2:39,,Boem Nicola,125,Bardiani - CSF Pro Team,",, 2:29",,1,2015
+27,,174,126.0,+2:39,,Pirazzi Stefano,126,Bardiani - CSF Pro Team,",, 2:29",,1,2015
+25,,171,127.0,+2:39,,Battaglin Enrico,127,Bardiani - CSF Pro Team,",, 2:29",,1,2015
+31,,142,128.0,+2:39,,Bono Matteo,128,Lampre - Merida,",, 2:29",,1,2015
+29,,16,129.0,+2:39,,Stamsnijder Tom,129,Team Giant - Alpecin,",, 2:29",,1,2015
+29,,17,130.0,+2:39,,Timmer Albert,130,Team Giant - Alpecin,",, 2:29",,1,2015
+24,,86,131.0,+2:39,,Van Zyl Johann,131,MTN - Qhubeka,",, 2:29",,1,2015
+35,,104,132.0,+2:39,,Pate Danny,132,Team Sky,",, 2:29",,1,2015
+21,,177,133.0,+3:00,,Sterbini Simone,133,Bardiani - CSF Pro Team,2:50 2:50,,1,2015
+27,,173,134.0,+3:05,,Piechele Andrea,134,Bardiani - CSF Pro Team,2:55 2:55,,1,2015
+31,,73,135.0,+4:04,,Chainel Steve,135,"Cofidis, Solutions Cr\xe9dits",3:54 3:54,,1,2015
+31,,74,136.0,+4:04,,Lemoine Cyril,136,"Cofidis, Solutions Cr\xe9dits",",, 3:54",,1,2015
+24,,75,137.0,+4:04,,Petit Adrien,137,"Cofidis, Solutions Cr\xe9dits",",, 3:54",,1,2015
+22,,176,138.0,+5:52,,Sterbini Luca,138,Bardiani - CSF Pro Team,5:44 5:44,,1,2015
+25,,146,139.0,+5:54,,Oliveira Nelson,139,Lampre - Merida,",, 5:44",,1,2015
+31,,148,140.0,+5:54,,Richeze Ariel Maximiliano,140,Lampre - Merida,",, 5:44",,1,2015
+34,,137,141.0,+6:44,,Mouris Jens,141,Orica GreenEDGE,6:34 6:34,,1,2015
+27,,61,1.0,+0:00,30.0,Kristoff Alexander,1,Team Katusha,3:49:51 3:49:51,20.0,2,2015
+25,,96,4.0,+0:04,18.0,Guardini Andrea,2,Astana Pro Team,",, ,,",14.0,2,2015
+29,,46,3.0,+0:03,12.0,Van Avermaet Greg,3,BMC Racing Team,",, ,,",8.0,2,2015
+25,,21,7.0,+0:10,7.0,Sagan Peter,4,Tinkoff - Saxo,",, ,,",7.0,2,2015
+34,,2,2.0,+0:01,4.0,Boonen Tom,5,Etixx - Quick Step,",, ,,",6.0,2,2015
+30,,151,8.0,+0:10,3.0,Haussler Heinrich,6,IAM Cycling,",, ,,",5.0,2,2015
+25,,131,13.0,+0:10,2.0,Blythe Adam,7,Orica GreenEDGE,",, ,,",4.0,2,2015
+31,,42,6.0,+0:09,1.0,Burghardt Marcus,8,BMC Racing Team,",, ,,",2.0,2,2015
+22,,36,9.0,+0:10,,Stuyven Jasper,9,Trek Factory Racing,",, ,,",,2,2015
+27,,106,12.0,+0:10,,Stannard Ian,10,Team Sky,",, ,,",,2,2015
+30,,1,5.0,+0:08,,Terpstra Niki,11,Etixx - Quick Step,",, ,,",,2,2015
+29,,22,10.0,+0:10,,Bodnar Maciej,12,Tinkoff - Saxo,",, ,,",,2,2015
+24,,105,11.0,+0:10,,Rowe Luke,13,Team Sky,",, ,,",,2,2015
+28,,4,14.0,+0:14,,Maes Nikolas,14,Etixx - Quick Step,0:06 0:06,,2,2015
+27,,97,15.0,+0:16,,Tleubayev Ruslan,15,Astana Pro Team,",, 0:06",,2,2015
+25,,66,25.0,+0:43,,Kuznetsov Viacheslav,16,Team Katusha,0:15 0:15,,2,2015
+29,,114,17.0,+0:25,,Delage Micka\xebl,17,FDJ,",, 0:15",,2,2015
+23,,62,31.0,+0:58,,Bystr\xf8m Sven Erik,18,Team Katusha,",, 0:15",,2,2015
+26,,124,30.0,+0:55,,Salomein Jarl,19,Topsport Vlaanderen - Baloise,",, 0:15",,2,2015
+25,,5,22.0,+0:25,,Trentin Matteo,20,Etixx - Quick Step,",, 0:15",,2,2015
+32,,41,21.0,+0:25,,Gilbert Philippe,21,BMC Racing Team,",, 0:15",,2,2015
+28,,132,27.0,+0:50,,Docker Mitchell,22,Orica GreenEDGE,",, 0:15",,2,2015
+38,,67,32.0,+0:58,,Paolini Luca,23,Team Katusha,",, 0:15",,2,2015
+31,,94,19.0,+0:25,,Grivko Andrei,24,Astana Pro Team,",, 0:15",,2,2015
+30,,18,18.0,+0:25,,Veelers Tom,25,Team Giant - Alpecin,",, 0:15",,2,2015
+36,,133,16.0,+0:23,,Hayman Mathew,26,Orica GreenEDGE,",, 0:15",,2,2015
+25,,123,20.0,+0:25,,Declercq Tim,27,Topsport Vlaanderen - Baloise,",, 0:15",,2,2015
+26,,165,26.0,+0:43,,Schorn Daniel,28,Bora - Argon 18,",, 0:15",,2,2015
+29,,156,28.0,+0:50,,Kluge Roger,29,IAM Cycling,",, 0:15",,2,2015
+24,,102,33.0,+1:41,,Fenn Andrew,30,Team Sky,",, 0:15",,2,2015
+23,,12,29.0,+0:54,,Arndt Nikias,31,Team Giant - Alpecin,",, 0:15",,2,2015
+28,,118,23.0,+0:25,,Offredo Yoann,32,FDJ,",, 0:15",,2,2015
+25,,164,24.0,+0:25,,Matzka Ralf,33,Bora - Argon 18,",, 0:15",,2,2015
+30,,13,34.0,+1:56,,de Backer Bert,34,Team Giant - Alpecin,0:30 0:30,,2,2015
+26,,135,35.0,+2:16,,Keukeleire Jens,35,Orica GreenEDGE,0:50 0:50,,2,2015
+32,,76,50.0,+3:51,,Rollin Dominique,36,"Cofidis, Solutions Cr\xe9dits",3:08 3:08,,2,2015
+33,,157,49.0,+3:38,,Reynes Vicente,37,IAM Cycling,",, 3:08",,2,2015
+34,,51,39.0,+3:18,,Valverde Alejandro,38,Movistar Team,",, 3:08",,2,2015
+29,,28,57.0,+4:34,,Trusov Nikolay,39,Tinkoff - Saxo,",, 3:08",,2,2015
+24,,161,37.0,+3:18,,Bennett Sam,40,Bora - Argon 18,",, 3:08",,2,2015
+24,,167,42.0,+3:18,,Thwaites Scott,41,Bora - Argon 18,",, 3:08",,2,2015
+23,,6,51.0,+3:51,,van Keirsbulck Guillaume,42,Etixx - Quick Step,",, 3:08",,2,2015
+24,,71,38.0,+3:18,,Bouhanni Nacer,43,"Cofidis, Solutions Cr\xe9dits",",, 3:08",,2,2015
+25,,146,76.0,+9:02,,Oliveira Nelson,44,Lampre - Merida,",, 3:08",,2,2015
+24,,72,41.0,+3:18,,Ahlstrand Jonas,45,"Cofidis, Solutions Cr\xe9dits",",, 3:08",,2,2015
+29,,55,36.0,+3:08,,Rojas Jos\xe9 Joaqu\xedn,46,Movistar Team,",, 3:08",,2,2015
+25,,26,45.0,+3:18,,Juul-Jensen Christopher,47,Tinkoff - Saxo,",, 3:08",,2,2015
+30,,7,47.0,+3:18,,Vandenbergh Stijn,48,Etixx - Quick Step,",, 3:08",,2,2015
+26,,15,53.0,+3:51,,Sinkeldam Ramon,49,Team Giant - Alpecin,",, 3:08",,2,2015
+30,,23,44.0,+3:18,,Breschel Matti,50,Tinkoff - Saxo,",, 3:08",,2,2015
+25,,121,55.0,+3:51,,Wallays Jelle,51,Topsport Vlaanderen - Baloise,",, 3:08",,2,2015
+29,,27,56.0,+4:33,,M\xf8rk\xf8v Michael,52,Tinkoff - Saxo,",, 3:08",,2,2015
+35,,115,54.0,+3:51,,Fischer Murilo Antonio,53,FDJ,",, 3:08",,2,2015
+34,,92,46.0,+3:18,,Bozic Borut,54,Astana Pro Team,",, 3:08",,2,2015
+30,,116,43.0,+3:18,,Ladagnous Matthieu,55,FDJ,",, 3:08",,2,2015
+27,,128,52.0,+3:51,,Vanspeybrouck Pieter,56,Topsport Vlaanderen - Baloise,",, 3:08",,2,2015
+27,,37,48.0,+3:18,,van Poppel Boy,57,Trek Factory Racing,",, 3:08",,2,2015
+28,,44,40.0,+3:18,,Drucker Jean-Pierre,58,BMC Racing Team,",, 3:08",,2,2015
+30,,65,58.0,+4:34,,Kozonchuk Dmitry,59,Team Katusha,",, 3:08",,2,2015
+31,,82,60.0,+7:05,,Bos Theo,60,MTN - Qhubeka,6:55 6:55,,2,2015
+23,,111,59.0,+7:01,,D\xe9mare Arnaud,61,FDJ,",, 6:55",,2,2015
+32,,112,68.0,+7:38,,Bonnet William,62,FDJ,",, 6:55",,2,2015
+35,,32,67.0,+7:38,,Irizar Markel,63,Trek Factory Racing,",, 6:55",,2,2015
+25,,134,61.0,+7:05,,Howard Leigh,64,Orica GreenEDGE,",, 6:55",,2,2015
+33,,24,72.0,+8:21,,Brutt Pavel,65,Tinkoff - Saxo,",, 6:55",,2,2015
+35,,136,70.0,+7:38,,Lancaster Brett,66,Orica GreenEDGE,",, 6:55",,2,2015
+28,,95,71.0,+7:38,,Gruzdev Dmitriy,67,Astana Pro Team,",, 6:55",,2,2015
+24,,152,62.0,+7:05,,Aregger Marcel,68,IAM Cycling,",, 6:55",,2,2015
+31,,53,69.0,+7:38,,Erviti Imanol,69,Movistar Team,",, 6:55",,2,2015
+32,,58,66.0,+7:38,,Ventoso Francisco,70,Movistar Team,",, 6:55",,2,2015
+29,,16,81.0,+9:34,,Stamsnijder Tom,71,Team Giant - Alpecin,",, 6:55",,2,2015
+25,,56,73.0,+8:21,,Sanz Enrique,72,Movistar Team,",, 6:55",,2,2015
+29,,155,74.0,+8:21,,Hollenstein Reto,73,IAM Cycling,",, 6:55",,2,2015
+27,,68,65.0,+7:30,,Smukulis Gatis,74,Team Katusha,",, 6:55",,2,2015
+34,,147,80.0,+9:34,,Plaza Rub\xe9n,75,Lampre - Merida,",, 6:55",,2,2015
+27,,163,75.0,+8:21,,Dempster Zakkari,76,Bora - Argon 18,",, 6:55",,2,2015
+23,,64,64.0,+7:05,,Haller Marco,77,Team Katusha,",, 6:55",,2,2015
+27,,63,63.0,+7:05,,Guarnieri Jacopo,78,Team Katusha,",, 6:55",,2,2015
+24,,75,109.0,+10:59,,Petit Adrien,79,"Cofidis, Solutions Cr\xe9dits",",, 6:55",,2,2015
+28,,45,100.0,+10:44,,Hermans Ben,80,BMC Racing Team,9:18 9:18,,2,2015
+33,,103,110.0,+11:57,,Knees Christian,81,Team Sky,",, 9:18",,2,2015
+21,,48,84.0,+10:01,,Zabel Rick,82,BMC Racing Team,",, 9:18",,2,2015
+30,,107,86.0,+10:01,,Sutton Chris,83,Team Sky,",, 9:18",,2,2015
+27,,81,83.0,+9:53,,Boasson Hagen Edvald,84,MTN - Qhubeka,",, 9:18",,2,2015
+25,,84,78.0,+9:28,,Reguigui Youcef,85,MTN - Qhubeka,",, 9:18",,2,2015
+24,,175,98.0,+10:44,,Ruffoni Nicola,86,Bardiani - CSF Pro Team,",, 9:18",,2,2015
+25,,153,89.0,+10:01,,Br\xe4ndle Matthias,87,IAM Cycling,",, 9:18",,2,2015
+33,,141,96.0,+10:11,,Pozzato Filippo,88,Lampre - Merida,",, 9:18",,2,2015
+28,,52,85.0,+10:01,,Amador Andrey,89,Movistar Team,",, 9:18",,2,2015
+29,,143,99.0,+10:44,,Costa M\xe1rio,90,Lampre - Merida,",, 9:18",,2,2015
+29,,8,88.0,+10:01,,Velits Martin,91,Etixx - Quick Step,",, 9:18",,2,2015
+29,,47,92.0,+10:01,,Velits Peter,92,BMC Racing Team,",, 9:18",,2,2015
+21,,38,105.0,+10:44,,van Poppel Danny,93,Trek Factory Racing,",, 9:18",,2,2015
+33,,31,79.0,+9:28,,Cancellara Fabian,94,Trek Factory Racing,",, 9:18",,2,2015
+39,,54,90.0,+10:01,,Lastras Pablo,95,Movistar Team,",, 9:18",,2,2015
+24,,14,102.0,+10:44,,Preidler Georg,96,Team Giant - Alpecin,",, 9:18",,2,2015
+24,,86,111.0,+11:57,,Van Zyl Johann,97,MTN - Qhubeka,",, 9:18",,2,2015
+26,,11,87.0,+10:01,,Kittel Marcel,98,Team Giant - Alpecin,",, 9:18",,2,2015
+29,,17,112.0,+11:57,,Timmer Albert,99,Team Giant - Alpecin,",, 9:18",,2,2015
+26,,78,82.0,+9:41,,Soupe Geoffrey,100,"Cofidis, Solutions Cr\xe9dits",",, 9:18",,2,2015
+32,,3,93.0,+10:01,,Keisse Iljo,101,Etixx - Quick Step,",, 9:18",,2,2015
+28,,158,106.0,+10:44,,van Genechten Jonas,102,IAM Cycling,",, 9:18",,2,2015
+26,,93,104.0,+10:44,,de Vreese Laurens,103,Astana Pro Team,",, 9:18",,2,2015
+28,,83,103.0,+10:44,,Ciolek Gerald,104,MTN - Qhubeka,",, 9:18",,2,2015
+35,,104,113.0,+11:57,,Pate Danny,105,Team Sky,",, 9:18",,2,2015
+37,,138,101.0,+10:44,,Tuft Svein,106,Orica GreenEDGE,",, 9:18",,2,2015
+28,,168,97.0,+10:12,,Voss Paul,107,Bora - Argon 18,",, 9:18",,2,2015
+22,,57,91.0,+10:01,,S\xfctterlin Jasha,108,Movistar Team,",, 9:18",,2,2015
+34,,101,94.0,+10:01,,Wiggins Bradley,109,Team Sky,",, 9:18",,2,2015
+23,,122,108.0,+10:44,,Campenaerts Victor,110,Topsport Vlaanderen - Baloise,",, 9:18",,2,2015
+31,,144,77.0,+9:27,,Ferrari Roberto,111,Lampre - Merida,",, 9:18",,2,2015
+31,,142,115.0,+11:57,,Bono Matteo,112,Lampre - Merida,",, 9:18",,2,2015
+27,,145,95.0,+10:01,,Modolo Sacha,113,Lampre - Merida,",, 9:18",,2,2015
+25,,172,114.0,+11:57,,Boem Nicola,114,Bardiani - CSF Pro Team,",, 9:18",,2,2015
+32,,125,107.0,+10:44,,Van Hecke Preben,115,Topsport Vlaanderen - Baloise,",, 9:18",,2,2015
+27,,87,119.0,+13:35,,Venter Jaco,116,MTN - Qhubeka,12:09 12:09,,2,2015
+31,,73,120.0,+16:13,,Chainel Steve,117,"Cofidis, Solutions Cr\xe9dits",",, 12:09",,2,2015
+31,,74,121.0,+16:23,,Lemoine Cyril,118,"Cofidis, Solutions Cr\xe9dits",",, 12:09",,2,2015
+21,,77,118.0,+13:09,,S\xe9n\xe9chal Florian,119,"Cofidis, Solutions Cr\xe9dits",",, 12:09",,2,2015
+34,,35,116.0,+12:19,,Steegmans Gert,120,Trek Factory Racing,",, 12:09",,2,2015
+35,,34,117.0,+12:19,,Rast Gregory,121,Trek Factory Racing,",, 12:09",,2,2015
+31,,148,122.0,+18:03,,Richeze Ariel Maximiliano,122,Lampre - Merida,",, 12:09",,2,2015
+27,,174,135.0,+26:27,,Pirazzi Stefano,123,Bardiani - CSF Pro Team,23:48 23:48,,2,2015
+31,,154,128.0,+24:44,,Devenyns Dries,124,IAM Cycling,",, 23:48",,2,2015
+35,,33,129.0,+24:48,,Popovych Yaroslav,125,Trek Factory Racing,",, 23:48",,2,2015
+24,,166,130.0,+24:50,,Schwarzmann Michael,126,Bora - Argon 18,",, 23:48",,2,2015
+24,,25,133.0,+25:14,,Hansen Jesper,127,Tinkoff - Saxo,",, 23:48",,2,2015
+34,,137,139.0,+30:32,,Mouris Jens,128,Orica GreenEDGE,",, 23:48",,2,2015
+32,,98,123.0,+23:58,,Westra Lieuwe,129,Astana Pro Team,",, 23:48",,2,2015
+24,,85,126.0,+24:23,,Sbaragli Kristian,130,MTN - Qhubeka,",, 23:48",,2,2015
+34,,113,136.0,+26:27,,Boucher David,131,FDJ,",, 23:48",,2,2015
+23,,126,132.0,+25:14,,Van Hoecke Gijs,132,Topsport Vlaanderen - Baloise,",, 23:48",,2,2015
+27,,173,138.0,+26:53,,Piechele Andrea,133,Bardiani - CSF Pro Team,",, 23:48",,2,2015
+24,,117,131.0,+25:14,,Le Bon Johan,134,FDJ,",, 23:48",,2,2015
+26,,162,134.0,+25:14,,Archbold Shane,135,Bora - Argon 18,",, 23:48",,2,2015
+21,,177,137.0,+26:48,,Sterbini Simone,136,Bardiani - CSF Pro Team,",, 23:48",,2,2015
+23,,127,124.0,+23:58,,Van Meirhaeghe Jef,137,Topsport Vlaanderen - Baloise,",, 23:48",,2,2015
+28,,43,127.0,+24:42,,De Marchi Alessandro,138,BMC Racing Team,",, 23:48",,2,2015
+29,,91,125.0,+23:58,,Boom Lars,139,Astana Pro Team,",, 23:48",,2,2015
+25,,171,,+ -7:39:31,,Battaglin Enrico,DNF,Bardiani - CSF Pro Team,",, 23:48",,2,2015
+22,,176,,+ -7:39:31,,Sterbini Luca,DNF,Bardiani - CSF Pro Team,",, 23:48",,2,2015
+30,46.548,1,1.0,+0:00,30.0,Terpstra Niki,1,Etixx - Quick Step,14:03 14:03,20.0,3,2015
+33,46.11,31,74.0,+9:28,18.0,Cancellara Fabian,2,Trek Factory Racing,0:08 0:08,14.0,3,2015
+34,46.056000000000004,101,78.0,+10:02,12.0,Wiggins Bradley,3,Team Sky,0:09 0:09,8.0,3,2015
+29,46.056000000000004,22,2.0,+0:11,7.0,Bodnar Maciej,4,Tinkoff - Saxo,",, 0:09",7.0,3,2015
+27,46.001999999999995,106,3.0,+0:12,4.0,Stannard Ian,5,Team Sky,0:10 0:10,6.0,3,2015
+25,45.575,153,81.0,+10:11,3.0,Br\xe4ndle Matthias,6,IAM Cycling,0:18 0:18,5.0,3,2015
+23,45.468999999999994,6,39.0,+4:03,2.0,van Keirsbulck Guillaume,7,Etixx - Quick Step,0:20 0:20,4.0,3,2015
+27,45.417,81,80.0,+10:06,1.0,Boasson Hagen Edvald,8,MTN - Qhubeka,0:21 0:21,2.0,3,2015
+29,45.26,46,4.0,+0:19,,Van Avermaet Greg,9,BMC Racing Team,0:24 0:24,,3,2015
+29,45.207,155,68.0,+8:38,,Hollenstein Reto,10,IAM Cycling,0:25 0:25,,3,2015
+31,45.0,94,9.0,+0:46,,Grivko Andrei,11,Astana Pro Team,0:29 0:29,,3,2015
+25,45.0,26,36.0,+3:39,,Juul-Jensen Christopher,12,Tinkoff - Saxo,",, 0:29",,3,2015
+29,45.0,156,16.0,+1:11,,Kluge Roger,13,IAM Cycling,",, 0:29",,3,2015
+29,44.948,91,123.0,+24:20,,Boom Lars,14,Astana Pro Team,0:30 0:30,,3,2015
+24,44.897,105,5.0,+0:33,,Rowe Luke,15,Team Sky,0:31 0:31,,3,2015
+28,44.743,95,59.0,+8:04,,Gruzdev Dmitriy,16,Astana Pro Team,0:34 0:34,,3,2015
+33,44.692,141,83.0,+10:38,,Pozzato Filippo,17,Lampre - Merida,0:35 0:35,,3,2015
+34,44.641999999999996,147,79.0,+10:02,,Plaza Rub\xe9n,18,Lampre - Merida,0:36 0:36,,3,2015
+34,44.54,51,37.0,+3:48,,Valverde Alejandro,19,Movistar Team,0:38 0:38,,3,2015
+33,44.43899999999999,24,70.0,+8:53,,Brutt Pavel,20,Tinkoff - Saxo,0:40 0:40,,3,2015
+32,44.43899999999999,98,124.0,+24:30,,Westra Lieuwe,21,Astana Pro Team,",, 0:40",,3,2015
+33,44.43899999999999,103,109.0,+12:29,,Knees Christian,22,Team Sky,",, 0:40",,3,2015
+30,44.339,151,8.0,+0:44,,Haussler Heinrich,23,IAM Cycling,0:42 0:42,,3,2015
+37,44.339,138,95.0,+11:18,,Tuft Svein,24,Orica GreenEDGE,",, 0:42",,3,2015
+21,44.288999999999994,48,82.0,+10:36,,Zabel Rick,25,BMC Racing Team,0:43 0:43,,3,2015
+27,44.239,61,6.0,+0:36,,Kristoff Alexander,26,Team Katusha,0:44 0:44,,3,2015
+35,44.18899999999999,32,62.0,+8:15,,Irizar Markel,27,Trek Factory Racing,0:45 0:45,,3,2015
+25,44.138999999999996,146,75.0,+9:40,,Oliveira Nelson,28,Lampre - Merida,0:46 0:46,,3,2015
+23,44.138999999999996,12,21.0,+1:32,,Arndt Nikias,29,Team Giant - Alpecin,",, 0:46",,3,2015
+25,44.138999999999996,21,10.0,+0:48,,Sagan Peter,30,Tinkoff - Saxo,",, 0:46",,3,2015
+32,44.09,41,14.0,+1:04,,Gilbert Philippe,31,BMC Racing Team,0:47 0:47,,3,2015
+30,44.04,7,38.0,+3:58,,Vandenbergh Stijn,32,Etixx - Quick Step,0:48 0:48,,3,2015
+34,43.99100000000001,2,7.0,+0:42,,Boonen Tom,33,Etixx - Quick Step,0:49 0:49,,3,2015
+29,43.99100000000001,28,52.0,+5:15,,Trusov Nikolay,34,Tinkoff - Saxo,",, 0:49",,3,2015
+27,43.942,68,60.0,+8:12,,Smukulis Gatis,35,Team Katusha,0:50 0:50,,3,2015
+25,43.942,164,15.0,+1:07,,Matzka Ralf,36,Bora - Argon 18,",, 0:50",,3,2015
+23,43.893,62,27.0,+1:41,,Bystr\xf8m Sven Erik,37,Team Katusha,0:51 0:51,,3,2015
+31,43.795,42,11.0,+0:54,,Burghardt Marcus,38,BMC Racing Team,0:53 0:53,,3,2015
+28,43.795,4,12.0,+0:59,,Maes Nikolas,39,Etixx - Quick Step,",, 0:53",,3,2015
+24,43.795,117,128.0,+25:59,,Le Bon Johan,40,FDJ,",, 0:53",,3,2015
+29,43.795,17,110.0,+12:42,,Timmer Albert,41,Team Giant - Alpecin,",, 0:53",,3,2015
+29,43.696999999999996,8,84.0,+10:48,,Velits Martin,42,Etixx - Quick Step,0:55 0:55,,3,2015
+25,43.696999999999996,5,17.0,+1:12,,Trentin Matteo,43,Etixx - Quick Step,",, 0:55",,3,2015
+24,43.696999999999996,86,111.0,+12:44,,Van Zyl Johann,44,MTN - Qhubeka,",, 0:55",,3,2015
+30,43.648,116,40.0,+4:06,,Ladagnous Matthieu,45,FDJ,0:56 0:56,,3,2015
+22,43.552,36,13.0,+1:00,,Stuyven Jasper,46,Trek Factory Racing,0:58 0:58,,3,2015
+25,43.503,66,22.0,+1:34,,Kuznetsov Viacheslav,47,Team Katusha,0:59 0:59,,3,2015
+32,43.503,112,65.0,+8:29,,Bonnet William,48,FDJ,",, 0:59",,3,2015
+28,43.455,168,89.0,+11:04,,Voss Paul,49,Bora - Argon 18,1:00 1:00,,3,2015
+25,43.358999999999995,121,44.0,+4:45,,Wallays Jelle,50,Topsport Vlaanderen - Baloise,1:02 1:02,,3,2015
+34,43.358999999999995,137,139.0,+31:26,,Mouris Jens,51,Orica GreenEDGE,",, 1:02",,3,2015
+36,43.263999999999996,133,18.0,+1:19,,Hayman Mathew,52,Orica GreenEDGE,1:04 1:04,,3,2015
+27,43.216,87,116.0,+14:32,,Venter Jaco,53,MTN - Qhubeka,1:05 1:05,,3,2015
+28,43.168,44,41.0,+4:16,,Drucker Jean-Pierre,54,BMC Racing Team,1:06 1:06,,3,2015
+31,43.121,154,125.0,+25:43,,Devenyns Dries,55,IAM Cycling,1:07 1:07,,3,2015
+23,43.121,122,98.0,+11:43,,Campenaerts Victor,56,Topsport Vlaanderen - Baloise,",, 1:07",,3,2015
+26,43.121,11,86.0,+11:00,,Kittel Marcel,57,Team Giant - Alpecin,",, 1:07",,3,2015
+22,43.074,57,87.0,+11:01,,S\xfctterlin Jasha,58,Movistar Team,1:08 1:08,,3,2015
+28,43.026,45,100.0,+11:45,,Hermans Ben,59,BMC Racing Team,1:09 1:09,,3,2015
+35,43.026,115,47.0,+4:52,,Fischer Murilo Antonio,60,FDJ,",, 1:09",,3,2015
+30,43.026,65,56.0,+5:35,,Kozonchuk Dmitry,61,Team Katusha,",, 1:09",,3,2015
+28,42.979,52,88.0,+11:03,,Amador Andrey,62,Movistar Team,1:10 1:10,,3,2015
+38,42.979,67,30.0,+2:00,,Paolini Luca,63,Team Katusha,",, 1:10",,3,2015
+28,42.979,132,29.0,+1:52,,Docker Mitchell,64,Orica GreenEDGE,",, 1:10",,3,2015
+25,42.979,123,20.0,+1:27,,Declercq Tim,65,Topsport Vlaanderen - Baloise,",, 1:10",,3,2015
+26,42.931999999999995,15,48.0,+4:54,,Sinkeldam Ramon,66,Team Giant - Alpecin,1:11 1:11,,3,2015
+29,42.792,27,57.0,+5:39,,M\xf8rk\xf8v Michael,67,Tinkoff - Saxo,1:14 1:14,,3,2015
+26,42.745,135,34.0,+3:23,,Keukeleire Jens,68,Orica GreenEDGE,1:15 1:15,,3,2015
+27,42.699,97,19.0,+1:24,,Tleubayev Ruslan,69,Astana Pro Team,1:16 1:16,,3,2015
+28,42.699,43,126.0,+25:50,,De Marchi Alessandro,70,BMC Racing Team,",, 1:16",,3,2015
+23,42.699,126,129.0,+26:22,,Van Hoecke Gijs,71,Topsport Vlaanderen - Baloise,",, 1:16",,3,2015
+32,42.652,3,91.0,+11:10,,Keisse Iljo,72,Etixx - Quick Step,1:17 1:17,,3,2015
+32,42.652,76,50.0,+5:00,,Rollin Dominique,73,"Cofidis, Solutions Cr\xe9dits",",, 1:17",,3,2015
+28,42.652,128,51.0,+5:00,,Vanspeybrouck Pieter,74,Topsport Vlaanderen - Baloise,",, 1:17",,3,2015
+24,42.652,14,101.0,+11:53,,Preidler Georg,75,Team Giant - Alpecin,",, 1:17",,3,2015
+35,42.606,104,113.0,+13:07,,Pate Danny,76,Team Sky,1:18 1:18,,3,2015
+24,42.606,25,130.0,+26:24,,Hansen Jesper,77,Tinkoff - Saxo,",, 1:18",,3,2015
+34,42.56,35,114.0,+13:30,,Steegmans Gert,78,Trek Factory Racing,1:19 1:19,,3,2015
+26,42.56,162,131.0,+26:25,,Archbold Shane,79,Bora - Argon 18,",, 1:19",,3,2015
+23,42.56,111,61.0,+8:12,,D\xe9mare Arnaud,80,FDJ,",, 1:19",,3,2015
+26,42.513999999999996,93,102.0,+11:56,,de Vreese Laurens,81,Astana Pro Team,1:20 1:20,,3,2015
+27,42.422,145,92.0,+11:15,,Modolo Sacha,82,Lampre - Merida,1:22 1:22,,3,2015
+30,42.422,18,25.0,+1:39,,Veelers Tom,83,Team Giant - Alpecin,",, 1:22",,3,2015
+28,42.376000000000005,118,26.0,+1:40,,Offredo Yoann,84,FDJ,1:23 1:23,,3,2015
+29,42.33,47,94.0,+11:17,,Velits Peter,85,BMC Racing Team,1:24 1:24,,3,2015
+27,42.33,174,135.0,+27:43,,Pirazzi Stefano,86,Bardiani - CSF Pro Team,",, 1:24",,3,2015
+24,42.284,75,105.0,+12:16,,Petit Adrien,87,"Cofidis, Solutions Cr\xe9dits",1:25 1:25,,3,2015
+23,42.284,64,63.0,+8:22,,Haller Marco,88,Team Katusha,",, 1:25",,3,2015
+27,42.239,63,64.0,+8:23,,Guarnieri Jacopo,89,Team Katusha,1:26 1:26,,3,2015
+26,42.193999999999996,165,31.0,+2:02,,Schorn Daniel,90,Bora - Argon 18,1:27 1:27,,3,2015
+31,42.148,53,71.0,+8:58,,Erviti Imanol,91,Movistar Team,1:28 1:28,,3,2015
+28,42.058,83,103.0,+12:06,,Ciolek Gerald,92,MTN - Qhubeka,1:30 1:30,,3,2015
+32,42.058,125,104.0,+12:06,,Van Hecke Preben,93,Topsport Vlaanderen - Baloise,",, 1:30",,3,2015
+30,42.058,23,42.0,+4:40,,Breschel Matti,94,Tinkoff - Saxo,",, 1:30",,3,2015
+26,41.968,78,90.0,+11:05,,Soupe Geoffrey,95,"Cofidis, Solutions Cr\xe9dits",1:32 1:32,,3,2015
+29,41.968,114,28.0,+1:49,,Delage Micka\xebl,96,FDJ,",, 1:32",,3,2015
+27,41.968,163,76.0,+9:45,,Dempster Zakkari,97,Bora - Argon 18,",, 1:32",,3,2015
+27,41.923,37,43.0,+4:43,,van Poppel Boy,98,Trek Factory Racing,1:33 1:33,,3,2015
+24,41.833999999999996,152,66.0,+8:32,,Aregger Marcel,99,IAM Cycling,1:35 1:35,,3,2015
+25,41.833999999999996,134,67.0,+8:32,,Howard Leigh,100,Orica GreenEDGE,",, 1:35",,3,2015
+21,41.788999999999994,77,118.0,+14:37,,S\xe9n\xe9chal Florian,101,"Cofidis, Solutions Cr\xe9dits",1:36 1:36,,3,2015
+25,41.745,131,24.0,+1:39,,Blythe Adam,102,Orica GreenEDGE,1:37 1:37,,3,2015
+26,41.745,124,32.0,+2:24,,Salomein Jarl,103,Topsport Vlaanderen - Baloise,",, 1:37",,3,2015
+31,41.7,144,85.0,+10:57,,Ferrari Roberto,104,Lampre - Merida,1:38 1:38,,3,2015
+24,41.656000000000006,167,46.0,+4:49,,Thwaites Scott,105,Bora - Argon 18,1:39 1:39,,3,2015
+25,41.611999999999995,96,23.0,+1:36,,Guardini Andrea,106,Astana Pro Team,1:40 1:40,,3,2015
+30,41.568000000000005,13,35.0,+3:29,,de Backer Bert,107,Team Giant - Alpecin,1:41 1:41,,3,2015
+29,41.523999999999994,143,106.0,+12:18,,Costa M\xe1rio,108,Lampre - Merida,1:42 1:42,,3,2015
+25,41.349,56,77.0,+9:59,,Sanz Enrique,109,Movistar Team,1:46 1:46,,3,2015
+29,41.349,55,45.0,+4:46,,Rojas Jos\xe9 Joaqu\xedn,110,Movistar Team,",, 1:46",,3,2015
+32,41.349,58,72.0,+9:16,,Ventoso Francisco,111,Movistar Team,",, 1:46",,3,2015
+34,41.305,92,49.0,+4:57,,Bozic Borut,112,Astana Pro Team,1:47 1:47,,3,2015
+24,41.305,102,33.0,+3:20,,Fenn Andrew,113,Team Sky,",, 1:47",,3,2015
+28,41.305,158,107.0,+12:23,,van Genechten Jonas,114,IAM Cycling,",, 1:47",,3,2015
+21,41.262,38,108.0,+12:24,,van Poppel Danny,115,Trek Factory Racing,1:48 1:48,,3,2015
+29,41.218,16,93.0,+11:15,,Stamsnijder Tom,116,Team Giant - Alpecin,1:49 1:49,,3,2015
+39,41.218,54,97.0,+11:42,,Lastras Pablo,117,Movistar Team,",, 1:49",,3,2015
+30,41.132,107,99.0,+11:44,,Sutton Chris,118,Team Sky,1:51 1:51,,3,2015
+33,41.089,157,53.0,+5:22,,Reynes Vicente,119,IAM Cycling,1:52 1:52,,3,2015
+31,41.04600000000001,148,122.0,+19:48,,Richeze Ariel Maximiliano,120,Lampre - Merida,1:53 1:53,,3,2015
+35,41.003,136,73.0,+9:24,,Lancaster Brett,121,Orica GreenEDGE,1:54 1:54,,3,2015
+31,41.003,82,69.0,+8:51,,Bos Theo,122,MTN - Qhubeka,",, 1:54",,3,2015
+25,40.79,172,115.0,+13:48,,Boem Nicola,123,Bardiani - CSF Pro Team,1:59 1:59,,3,2015
+31,40.748000000000005,74,120.0,+18:15,,Lemoine Cyril,124,"Cofidis, Solutions Cr\xe9dits",2:00 2:00,,3,2015
+27,40.705,173,137.0,+28:46,,Piechele Andrea,125,Bardiani - CSF Pro Team,2:01 2:01,,3,2015
+25,40.579,84,96.0,+11:24,,Reguigui Youcef,126,MTN - Qhubeka,2:04 2:04,,3,2015
+23,40.454,127,127.0,+25:57,,Van Meirhaeghe Jef,127,Topsport Vlaanderen - Baloise,2:07 2:07,,3,2015
+35,40.205,33,133.0,+26:53,,Popovych Yaroslav,128,Trek Factory Racing,2:13 2:13,,3,2015
+24,40.205,71,54.0,+5:23,,Bouhanni Nacer,129,"Cofidis, Solutions Cr\xe9dits",",, 2:13",,3,2015
+24,40.164,161,55.0,+5:24,,Bennett Sam,130,Bora - Argon 18,2:14 2:14,,3,2015
+24,40.164,166,134.0,+26:56,,Schwarzmann Michael,131,Bora - Argon 18,",, 2:14",,3,2015
+24,39.919000000000004,85,132.0,+26:35,,Sbaragli Kristian,132,MTN - Qhubeka,2:20 2:20,,3,2015
+34,39.838,113,136.0,+28:41,,Boucher David,133,FDJ,2:22 2:22,,3,2015
+24,39.797,175,112.0,+12:59,,Ruffoni Nicola,134,Bardiani - CSF Pro Team,2:23 2:23,,3,2015
+31,39.319,73,121.0,+18:40,,Chainel Steve,135,"Cofidis, Solutions Cr\xe9dits",2:35 2:35,,3,2015
+31,38.967,142,117.0,+14:33,,Bono Matteo,136,Lampre - Merida,2:44 2:44,,3,2015
+35,38.775,34,119.0,+15:00,,Rast Gregory,137,Trek Factory Racing,2:49 2:49,,3,2015
+24,38.32,72,58.0,+6:11,,Ahlstrand Jonas,138,"Cofidis, Solutions Cr\xe9dits",3:01 3:01,,3,2015
+21,37.658,177,138.0,+29:59,,Sterbini Simone,139,Bardiani - CSF Pro Team,3:19 3:19,,3,2015
+27,,61,5.0,+0:21,30.0,Kristoff Alexander,1,Team Katusha,4:15:57 4:15:57,20.0,4,2015
+25,,21,7.0,+0:37,18.0,Sagan Peter,2,Tinkoff - Saxo,",, ,,",14.0,4,2015
+23,,12,19.0,+1:23,12.0,Arndt Nikias,3,Team Giant - Alpecin,",, ,,",8.0,4,2015
+25,,131,24.0,+1:34,7.0,Blythe Adam,4,Orica GreenEDGE,",, ,,",7.0,4,2015
+24,,175,99.0,+12:54,4.0,Ruffoni Nicola,5,Bardiani - CSF Pro Team,",, ,,",6.0,4,2015
+30,,151,8.0,+0:39,3.0,Haussler Heinrich,6,IAM Cycling,",, ,,",5.0,4,2015
+34,,92,43.0,+4:52,2.0,Bozic Borut,7,Astana Pro Team,",, ,,",4.0,4,2015
+25,,96,22.0,+1:31,1.0,Guardini Andrea,8,Astana Pro Team,",, ,,",2.0,4,2015
+29,,55,40.0,+4:41,,Rojas Jos\xe9 Joaqu\xedn,9,Movistar Team,",, ,,",,4,2015
+27,,145,83.0,+11:10,,Modolo Sacha,10,Lampre - Merida,",, ,,",,4,2015
+22,,36,12.0,+0:55,,Stuyven Jasper,11,Trek Factory Racing,",, ,,",,4,2015
+29,,22,2.0,+0:06,,Bodnar Maciej,12,Tinkoff - Saxo,",, ,,",,4,2015
+23,,64,61.0,+8:17,,Haller Marco,13,Team Katusha,",, ,,",,4,2015
+31,,94,9.0,+0:41,,Grivko Andrei,14,Astana Pro Team,",, ,,",,4,2015
+27,,106,3.0,+0:12,,Stannard Ian,15,Team Sky,0:05 0:05,,4,2015
+29,,46,4.0,+0:19,,Van Avermaet Greg,16,BMC Racing Team,",, 0:05",,4,2015
+23,,111,60.0,+8:12,,D\xe9mare Arnaud,17,FDJ,",, 0:05",,4,2015
+25,,164,15.0,+1:07,,Matzka Ralf,18,Bora - Argon 18,",, 0:05",,4,2015
+24,,102,32.0,+3:20,,Fenn Andrew,19,Team Sky,",, 0:05",,4,2015
+32,,41,14.0,+1:04,,Gilbert Philippe,20,BMC Racing Team,",, 0:05",,4,2015
+30,,18,25.0,+1:39,,Veelers Tom,21,Team Giant - Alpecin,",, 0:05",,4,2015
+28,,4,13.0,+0:59,,Maes Nikolas,22,Etixx - Quick Step,",, 0:05",,4,2015
+34,,2,10.0,+0:42,,Boonen Tom,23,Etixx - Quick Step,",, 0:05",,4,2015
+25,,66,23.0,+1:34,,Kuznetsov Viacheslav,24,Team Katusha,",, 0:05",,4,2015
+24,,105,6.0,+0:33,,Rowe Luke,25,Team Sky,",, 0:05",,4,2015
+36,,133,18.0,+1:19,,Hayman Mathew,26,Orica GreenEDGE,",, 0:05",,4,2015
+31,,42,11.0,+0:54,,Burghardt Marcus,27,BMC Racing Team,",, 0:05",,4,2015
+29,,114,28.0,+1:49,,Delage Micka\xebl,28,FDJ,",, 0:05",,4,2015
+34,,51,33.0,+3:48,,Valverde Alejandro,29,Movistar Team,",, 0:05",,4,2015
+30,,1,1.0,+0:00,,Terpstra Niki,30,Etixx - Quick Step,",, 0:05",,4,2015
+23,,6,36.0,+4:03,,van Keirsbulck Guillaume,31,Etixx - Quick Step,",, 0:05",,4,2015
+26,,124,30.0,+2:19,,Salomein Jarl,32,Topsport Vlaanderen - Baloise,",, 0:05",,4,2015
+25,,121,42.0,+4:45,,Wallays Jelle,33,Topsport Vlaanderen - Baloise,",, 0:05",,4,2015
+28,,52,80.0,+11:03,,Amador Andrey,34,Movistar Team,",, 0:05",,4,2015
+23,,122,89.0,+11:43,,Campenaerts Victor,35,Topsport Vlaanderen - Baloise,",, 0:05",,4,2015
+24,,71,51.0,+5:23,,Bouhanni Nacer,36,"Cofidis, Solutions Cr\xe9dits",",, 0:05",,4,2015
+26,,78,81.0,+11:05,,Soupe Geoffrey,37,"Cofidis, Solutions Cr\xe9dits",",, 0:05",,4,2015
+28,,128,46.0,+5:00,,Vanspeybrouck Pieter,38,Topsport Vlaanderen - Baloise,",, 0:05",,4,2015
+27,,68,59.0,+8:12,,Smukulis Gatis,39,Team Katusha,",, 0:05",,4,2015
+25,,5,17.0,+1:12,,Trentin Matteo,40,Etixx - Quick Step,",, 0:05",,4,2015
+28,,45,91.0,+11:45,,Hermans Ben,41,BMC Racing Team,",, 0:05",,4,2015
+29,,143,94.0,+12:18,,Costa M\xe1rio,42,Lampre - Merida,",, 0:05",,4,2015
+27,,97,20.0,+1:24,,Tleubayev Ruslan,43,Astana Pro Team,",, 0:05",,4,2015
+29,,47,84.0,+11:17,,Velits Peter,44,BMC Racing Team,",, 0:05",,4,2015
+21,,48,76.0,+10:36,,Zabel Rick,45,BMC Racing Team,",, 0:05",,4,2015
+23,,126,125.0,+26:22,,Van Hoecke Gijs,46,Topsport Vlaanderen - Baloise,",, 0:05",,4,2015
+25,,123,21.0,+1:27,,Declercq Tim,47,Topsport Vlaanderen - Baloise,",, 0:05",,4,2015
+39,,54,88.0,+11:42,,Lastras Pablo,48,Movistar Team,",, 0:05",,4,2015
+30,,116,37.0,+4:06,,Ladagnous Matthieu,49,FDJ,",, 0:05",,4,2015
+23,,62,27.0,+1:41,,Bystr\xf8m Sven Erik,50,Team Katusha,",, 0:05",,4,2015
+24,,85,127.0,+26:35,,Sbaragli Kristian,51,MTN - Qhubeka,",, 0:05",,4,2015
+27,,173,132.0,+28:46,,Piechele Andrea,52,Bardiani - CSF Pro Team,",, 0:05",,4,2015
+33,,141,77.0,+10:38,,Pozzato Filippo,53,Lampre - Merida,",, 0:05",,4,2015
+29,,28,49.0,+5:15,,Trusov Nikolay,54,Tinkoff - Saxo,",, 0:05",,4,2015
+25,,56,70.0,+9:59,,Sanz Enrique,55,Movistar Team,",, 0:05",,4,2015
+28,,118,26.0,+1:40,,Offredo Yoann,56,FDJ,",, 0:05",,4,2015
+29,,156,16.0,+1:11,,Kluge Roger,57,IAM Cycling,",, 0:05",,4,2015
+26,,93,92.0,+11:56,,de Vreese Laurens,58,Astana Pro Team,",, 0:05",,4,2015
+30,,107,90.0,+11:44,,Sutton Chris,59,Team Sky,",, 0:05",,4,2015
+32,,76,45.0,+5:00,,Rollin Dominique,60,"Cofidis, Solutions Cr\xe9dits",",, 0:05",,4,2015
+34,,147,72.0,+10:02,,Plaza Rub\xe9n,61,Lampre - Merida,",, 0:05",,4,2015
+35,,34,113.0,+15:00,,Rast Gregory,62,Trek Factory Racing,",, 0:05",,4,2015
+25,,146,67.0,+9:40,,Oliveira Nelson,63,Lampre - Merida,",, 0:05",,4,2015
+22,,57,79.0,+11:01,,S\xfctterlin Jasha,64,Movistar Team,",, 0:05",,4,2015
+31,,53,65.0,+8:58,,Erviti Imanol,65,Movistar Team,",, 0:05",,4,2015
+30,,7,35.0,+3:58,,Vandenbergh Stijn,66,Etixx - Quick Step,",, 0:05",,4,2015
+27,,81,73.0,+10:06,,Boasson Hagen Edvald,67,MTN - Qhubeka,",, 0:05",,4,2015
+31,,82,64.0,+8:51,,Bos Theo,68,MTN - Qhubeka,",, 0:05",,4,2015
+33,,157,50.0,+5:22,,Reynes Vicente,69,IAM Cycling,",, 0:05",,4,2015
+23,,127,124.0,+26:09,,Van Meirhaeghe Jef,70,Topsport Vlaanderen - Baloise,0:17 0:17,,4,2015
+25,,84,87.0,+11:36,,Reguigui Youcef,71,MTN - Qhubeka,",, 0:17",,4,2015
+38,,67,29.0,+2:12,,Paolini Luca,72,Team Katusha,",, 0:17",,4,2015
+30,,65,54.0,+5:47,,Kozonchuk Dmitry,73,Team Katusha,",, 0:17",,4,2015
+28,,43,123.0,+26:02,,De Marchi Alessandro,74,BMC Racing Team,",, 0:17",,4,2015
+33,,31,68.0,+9:40,,Cancellara Fabian,75,Trek Factory Racing,",, 0:17",,4,2015
+35,,32,62.0,+8:27,,Irizar Markel,76,Trek Factory Racing,",, 0:17",,4,2015
+24,,14,93.0,+12:05,,Preidler Georg,77,Team Giant - Alpecin,",, 0:17",,4,2015
+26,,15,47.0,+5:06,,Sinkeldam Ramon,78,Team Giant - Alpecin,",, 0:17",,4,2015
+25,,172,106.0,+14:00,,Boem Nicola,79,Bardiani - CSF Pro Team,",, 0:17",,4,2015
+31,,144,82.0,+11:09,,Ferrari Roberto,80,Lampre - Merida,",, 0:17",,4,2015
+34,,101,75.0,+10:14,,Wiggins Bradley,81,Team Sky,",, 0:17",,4,2015
+27,,163,69.0,+9:57,,Dempster Zakkari,82,Bora - Argon 18,",, 0:17",,4,2015
+30,,23,44.0,+4:52,,Breschel Matti,83,Tinkoff - Saxo,",, 0:17",,4,2015
+29,,27,55.0,+5:51,,M\xf8rk\xf8v Michael,84,Tinkoff - Saxo,",, 0:17",,4,2015
+24,,161,52.0,+5:36,,Bennett Sam,85,Bora - Argon 18,",, 0:17",,4,2015
+21,,77,112.0,+15:00,,S\xe9n\xe9chal Florian,86,"Cofidis, Solutions Cr\xe9dits",0:28 0:28,,4,2015
+27,,63,63.0,+8:51,,Guarnieri Jacopo,87,Team Katusha,0:33 0:33,,4,2015
+28,,44,41.0,+4:44,,Drucker Jean-Pierre,88,BMC Racing Team,",, 0:33",,4,2015
+26,,135,34.0,+3:51,,Keukeleire Jens,89,Orica GreenEDGE,",, 0:33",,4,2015
+27,,37,48.0,+5:11,,van Poppel Boy,90,Trek Factory Racing,",, 0:33",,4,2015
+25,,26,39.0,+4:07,,Juul-Jensen Christopher,91,Tinkoff - Saxo,",, 0:33",,4,2015
+28,,158,100.0,+12:55,,van Genechten Jonas,92,IAM Cycling,0:37 0:37,,4,2015
+28,,132,31.0,+2:30,,Docker Mitchell,93,Orica GreenEDGE,0:43 0:43,,4,2015
+30,,13,38.0,+4:07,,de Backer Bert,94,Team Giant - Alpecin,",, 0:43",,4,2015
+24,,72,57.0,+6:56,,Ahlstrand Jonas,95,"Cofidis, Solutions Cr\xe9dits",0:50 0:50,,4,2015
+24,,75,102.0,+13:07,,Petit Adrien,96,"Cofidis, Solutions Cr\xe9dits",0:56 0:56,,4,2015
+35,,115,53.0,+5:43,,Fischer Murilo Antonio,97,FDJ,",, 0:56",,4,2015
+34,,113,135.0,+29:32,,Boucher David,98,FDJ,",, 0:56",,4,2015
+32,,112,66.0,+9:20,,Bonnet William,99,FDJ,",, 0:56",,4,2015
+21,,38,104.0,+13:25,,van Poppel Danny,100,Trek Factory Racing,1:06 1:06,,4,2015
+34,,35,110.0,+14:35,,Steegmans Gert,101,Trek Factory Racing,1:10 1:10,,4,2015
+31,,148,120.0,+21:06,,Richeze Ariel Maximiliano,102,Lampre - Merida,1:23 1:23,,4,2015
+26,,162,130.0,+27:53,,Archbold Shane,103,Bora - Argon 18,1:33 1:33,,4,2015
+25,,134,71.0,+10:00,,Howard Leigh,104,Orica GreenEDGE,",, 1:33",,4,2015
+26,,11,97.0,+12:45,,Kittel Marcel,105,Team Giant - Alpecin,1:50 1:50,,4,2015
+29,,17,109.0,+14:27,,Timmer Albert,106,Team Giant - Alpecin,",, 1:50",,4,2015
+35,,136,86.0,+11:32,,Lancaster Brett,107,Orica GreenEDGE,2:13 2:13,,4,2015
+32,,58,85.0,+11:24,,Ventoso Francisco,108,Movistar Team,",, 2:13",,4,2015
+28,,83,107.0,+14:14,,Ciolek Gerald,109,MTN - Qhubeka,",, 2:13",,4,2015
+33,,103,111.0,+14:37,,Knees Christian,110,Team Sky,",, 2:13",,4,2015
+33,,24,78.0,+11:01,,Brutt Pavel,111,Tinkoff - Saxo,",, 2:13",,4,2015
+29,,8,101.0,+12:56,,Velits Martin,112,Etixx - Quick Step,",, 2:13",,4,2015
+34,,137,138.0,+33:34,,Mouris Jens,113,Orica GreenEDGE,",, 2:13",,4,2015
+32,,98,128.0,+26:38,,Westra Lieuwe,114,Astana Pro Team,",, 2:13",,4,2015
+35,,33,133.0,+29:01,,Popovych Yaroslav,115,Trek Factory Racing,",, 2:13",,4,2015
+29,,91,126.0,+26:28,,Boom Lars,116,Astana Pro Team,",, 2:13",,4,2015
+32,,125,108.0,+14:14,,Van Hecke Preben,117,Topsport Vlaanderen - Baloise,",, 2:13",,4,2015
+24,,167,58.0,+6:57,,Thwaites Scott,118,Bora - Argon 18,",, 2:13",,4,2015
+24,,166,134.0,+29:04,,Schwarzmann Michael,119,Bora - Argon 18,",, 2:13",,4,2015
+28,,168,103.0,+13:12,,Voss Paul,120,Bora - Argon 18,",, 2:13",,4,2015
+24,,25,131.0,+28:32,,Hansen Jesper,121,Tinkoff - Saxo,",, 2:13",,4,2015
+28,,95,74.0,+10:08,,Gruzdev Dmitriy,122,Astana Pro Team,",, 2:13",,4,2015
+37,,138,105.0,+13:26,,Tuft Svein,123,Orica GreenEDGE,",, 2:13",,4,2015
+31,,154,129.0,+27:51,,Devenyns Dries,124,IAM Cycling,",, 2:13",,4,2015
+25,,153,95.0,+12:19,,Br\xe4ndle Matthias,125,IAM Cycling,",, 2:13",,4,2015
+27,,174,137.0,+31:39,,Pirazzi Stefano,126,Bardiani - CSF Pro Team,4:01 4:01,,4,2015
+35,,104,116.0,+17:03,,Pate Danny,127,Team Sky,",, 4:01",,4,2015
+29,,16,115.0,+15:22,,Stamsnijder Tom,128,Team Giant - Alpecin,4:12 4:12,,4,2015
+29,,155,98.0,+12:45,,Hollenstein Reto,129,IAM Cycling,",, 4:12",,4,2015
+24,,152,96.0,+12:39,,Aregger Marcel,130,IAM Cycling,",, 4:12",,4,2015
+26,,165,56.0,+6:09,,Schorn Daniel,131,Bora - Argon 18,",, 4:12",,4,2015
+31,,142,119.0,+18:40,,Bono Matteo,132,Lampre - Merida,",, 4:12",,4,2015
+31,,74,121.0,+22:22,,Lemoine Cyril,133,"Cofidis, Solutions Cr\xe9dits",",, 4:12",,4,2015
+31,,73,122.0,+22:47,,Chainel Steve,134,"Cofidis, Solutions Cr\xe9dits",",, 4:12",,4,2015
+24,,117,136.0,+30:06,,Le Bon Johan,135,FDJ,",, 4:12",,4,2015
+21,,177,139.0,+34:06,,Sterbini Simone,136,Bardiani - CSF Pro Team,",, 4:12",,4,2015
+32,,3,114.0,+15:17,,Keisse Iljo,137,Etixx - Quick Step,",, 4:12",,4,2015
+27,,87,118.0,+18:36,,Venter Jaco,138,MTN - Qhubeka,",, 4:12",,4,2015
+24,,86,117.0,+17:28,,Van Zyl Johann,139,MTN - Qhubeka,4:49 4:49,,4,2015
+27,,61,3.0,+0:11,30.0,Kristoff Alexander,1,Team Katusha,3:03:01 3:03:01,20.0,5,2015
+25,,21,6.0,+0:31,18.0,Sagan Peter,2,Tinkoff - Saxo,",, ,,",14.0,5,2015
+23,,12,16.0,+1:19,12.0,Arndt Nikias,3,Team Giant - Alpecin,",, ,,",8.0,5,2015
+34,,2,10.0,+0:42,7.0,Boonen Tom,4,Etixx - Quick Step,",, ,,",7.0,5,2015
+25,,131,22.0,+1:44,4.0,Blythe Adam,5,Orica GreenEDGE,",, ,,",6.0,5,2015
+30,,151,8.0,+0:39,3.0,Haussler Heinrich,6,IAM Cycling,",, ,,",5.0,5,2015
+29,,55,35.0,+4:41,2.0,Rojas Jos\xe9 Joaqu\xedn,7,Movistar Team,",, ,,",4.0,5,2015
+23,,111,55.0,+8:12,1.0,D\xe9mare Arnaud,8,FDJ,",, ,,",2.0,5,2015
+29,,46,5.0,+0:19,,Van Avermaet Greg,9,BMC Racing Team,",, ,,",,5,2015
+24,,71,40.0,+5:23,,Bouhanni Nacer,10,"Cofidis, Solutions Cr\xe9dits",",, ,,",,5,2015
+27,,145,69.0,+11:10,,Modolo Sacha,11,Lampre - Merida,",, ,,",,5,2015
+22,,36,12.0,+0:55,,Stuyven Jasper,12,Trek Factory Racing,",, ,,",,5,2015
+27,,97,18.0,+1:24,,Tleubayev Ruslan,13,Astana Pro Team,",, ,,",,5,2015
+31,,94,9.0,+0:41,,Grivko Andrei,14,Astana Pro Team,",, ,,",,5,2015
+29,,22,2.0,+0:06,,Bodnar Maciej,15,Tinkoff - Saxo,",, ,,",,5,2015
+30,,1,1.0,+0:00,,Terpstra Niki,16,Etixx - Quick Step,",, ,,",,5,2015
+27,,106,4.0,+0:12,,Stannard Ian,17,Team Sky,",, ,,",,5,2015
+24,,175,81.0,+12:54,,Ruffoni Nicola,18,Bardiani - CSF Pro Team,",, ,,",,5,2015
+23,,62,20.0,+1:41,,Bystr\xf8m Sven Erik,19,Team Katusha,",, ,,",,5,2015
+29,,156,15.0,+1:11,,Kluge Roger,20,IAM Cycling,",, ,,",,5,2015
+28,,4,13.0,+0:59,,Maes Nikolas,21,Etixx - Quick Step,",, ,,",,5,2015
+24,,105,7.0,+0:33,,Rowe Luke,22,Team Sky,",, ,,",,5,2015
+31,,42,11.0,+0:54,,Burghardt Marcus,23,BMC Racing Team,",, ,,",,5,2015
+28,,132,26.0,+2:30,,Docker Mitchell,24,Orica GreenEDGE,",, ,,",,5,2015
+23,,6,32.0,+4:03,,van Keirsbulck Guillaume,25,Etixx - Quick Step,",, ,,",,5,2015
+27,,81,62.0,+10:06,,Boasson Hagen Edvald,26,MTN - Qhubeka,",, ,,",,5,2015
+28,,52,67.0,+11:03,,Amador Andrey,27,Movistar Team,",, ,,",,5,2015
+27,,163,59.0,+9:57,,Dempster Zakkari,28,Bora - Argon 18,",, ,,",,5,2015
+32,,41,14.0,+1:04,,Gilbert Philippe,29,BMC Racing Team,",, ,,",,5,2015
+23,,64,56.0,+8:17,,Haller Marco,30,Team Katusha,",, ,,",,5,2015
+27,,63,58.0,+8:51,,Guarnieri Jacopo,31,Team Katusha,",, ,,",,5,2015
+29,,114,24.0,+1:49,,Delage Micka\xebl,32,FDJ,",, ,,",,5,2015
+25,,56,61.0,+9:59,,Sanz Enrique,33,Movistar Team,",, ,,",,5,2015
+32,,76,38.0,+5:14,,Rollin Dominique,34,"Cofidis, Solutions Cr\xe9dits",0:14 0:14,,5,2015
+28,,118,25.0,+1:54,,Offredo Yoann,35,FDJ,",, 0:14",,5,2015
+33,,157,41.0,+5:36,,Reynes Vicente,36,IAM Cycling,",, 0:14",,5,2015
+32,,58,70.0,+11:38,,Ventoso Francisco,37,Movistar Team,",, 0:14",,5,2015
+30,,13,34.0,+4:21,,de Backer Bert,38,Team Giant - Alpecin,",, 0:14",,5,2015
+25,,96,23.0,+1:45,,Guardini Andrea,39,Astana Pro Team,",, 0:14",,5,2015
+25,,164,17.0,+1:21,,Matzka Ralf,40,Bora - Argon 18,",, 0:14",,5,2015
+26,,135,33.0,+4:05,,Keukeleire Jens,41,Orica GreenEDGE,",, 0:14",,5,2015
+36,,133,19.0,+1:27,,Hayman Mathew,42,Orica GreenEDGE,",, 0:14",,5,2015
+30,,23,39.0,+5:16,,Breschel Matti,43,Tinkoff - Saxo,0:24 0:24,,5,2015
+29,,27,49.0,+6:42,,M\xf8rk\xf8v Michael,44,Tinkoff - Saxo,0:51 0:51,,5,2015
+34,,51,36.0,+4:46,,Valverde Alejandro,45,Movistar Team,0:58 0:58,,5,2015
+29,,155,87.0,+13:43,,Hollenstein Reto,46,IAM Cycling,",, 0:58",,5,2015
+26,,124,29.0,+3:17,,Salomein Jarl,47,Topsport Vlaanderen - Baloise,",, 0:58",,5,2015
+29,,28,47.0,+6:13,,Trusov Nikolay,48,Tinkoff - Saxo,",, 0:58",,5,2015
+35,,115,48.0,+6:41,,Fischer Murilo Antonio,49,FDJ,",, 0:58",,5,2015
+25,,84,77.0,+12:34,,Reguigui Youcef,50,MTN - Qhubeka,",, 0:58",,5,2015
+32,,112,63.0,+10:18,,Bonnet William,51,FDJ,",, 0:58",,5,2015
+30,,18,27.0,+2:37,,Veelers Tom,52,Team Giant - Alpecin,",, 0:58",,5,2015
+26,,15,44.0,+6:04,,Sinkeldam Ramon,53,Team Giant - Alpecin,",, 0:58",,5,2015
+26,,78,73.0,+12:03,,Soupe Geoffrey,54,"Cofidis, Solutions Cr\xe9dits",",, 0:58",,5,2015
+25,,153,83.0,+13:17,,Br\xe4ndle Matthias,55,IAM Cycling,",, 0:58",,5,2015
+30,,116,37.0,+5:04,,Ladagnous Matthieu,56,FDJ,",, 0:58",,5,2015
+28,,128,43.0,+5:58,,Vanspeybrouck Pieter,57,Topsport Vlaanderen - Baloise,",, 0:58",,5,2015
+27,,37,46.0,+6:09,,van Poppel Boy,58,Trek Factory Racing,",, 0:58",,5,2015
+30,,107,78.0,+12:42,,Sutton Chris,59,Team Sky,",, 0:58",,5,2015
+34,,92,42.0,+5:50,,Bozic Borut,60,Astana Pro Team,",, 0:58",,5,2015
+24,,75,90.0,+14:05,,Petit Adrien,61,"Cofidis, Solutions Cr\xe9dits",",, 0:58",,5,2015
+38,,67,28.0,+3:10,,Paolini Luca,62,Team Katusha,",, 0:58",,5,2015
+24,,72,53.0,+7:54,,Ahlstrand Jonas,63,"Cofidis, Solutions Cr\xe9dits",",, 0:58",,5,2015
+24,,85,120.0,+27:45,,Sbaragli Kristian,64,MTN - Qhubeka,1:10 1:10,,5,2015
+21,,77,101.0,+16:22,,S\xe9n\xe9chal Florian,65,"Cofidis, Solutions Cr\xe9dits",1:22 1:22,,5,2015
+31,,74,118.0,+24:15,,Lemoine Cyril,66,"Cofidis, Solutions Cr\xe9dits",1:53 1:53,,5,2015
+28,,44,51.0,+6:54,,Drucker Jean-Pierre,67,BMC Racing Team,2:10 2:10,,5,2015
+21,,48,79.0,+12:46,,Zabel Rick,68,BMC Racing Team,",, 2:10",,5,2015
+33,,141,80.0,+12:48,,Pozzato Filippo,69,Lampre - Merida,",, 2:10",,5,2015
+25,,66,31.0,+3:44,,Kuznetsov Viacheslav,70,Team Katusha,",, 2:10",,5,2015
+25,,5,30.0,+3:22,,Trentin Matteo,71,Etixx - Quick Step,",, 2:10",,5,2015
+26,,165,57.0,+8:19,,Schorn Daniel,72,Bora - Argon 18,",, 2:10",,5,2015
+32,,125,102.0,+16:24,,Van Hecke Preben,73,Topsport Vlaanderen - Baloise,",, 2:10",,5,2015
+26,,93,91.0,+14:06,,de Vreese Laurens,74,Astana Pro Team,",, 2:10",,5,2015
+32,,98,123.0,+28:48,,Westra Lieuwe,75,Astana Pro Team,",, 2:10",,5,2015
+23,,126,122.0,+28:32,,Van Hoecke Gijs,76,Topsport Vlaanderen - Baloise,",, 2:10",,5,2015
+27,,174,130.0,+33:49,,Pirazzi Stefano,77,Bardiani - CSF Pro Team,",, 2:10",,5,2015
+27,,68,64.0,+10:22,,Smukulis Gatis,78,Team Katusha,",, 2:10",,5,2015
+22,,57,82.0,+13:11,,S\xfctterlin Jasha,79,Movistar Team,",, 2:10",,5,2015
+29,,47,85.0,+13:27,,Velits Peter,80,BMC Racing Team,",, 2:10",,5,2015
+34,,113,127.0,+31:42,,Boucher David,81,FDJ,",, 2:10",,5,2015
+28,,95,75.0,+12:16,,Gruzdev Dmitriy,82,Astana Pro Team,",, 2:10",,5,2015
+31,,148,117.0,+23:16,,Richeze Ariel Maximiliano,83,Lampre - Merida,",, 2:10",,5,2015
+31,,53,68.0,+11:08,,Erviti Imanol,84,Movistar Team,",, 2:10",,5,2015
+39,,54,88.0,+13:52,,Lastras Pablo,85,Movistar Team,",, 2:10",,5,2015
+28,,158,94.0,+15:05,,van Genechten Jonas,86,IAM Cycling,",, 2:10",,5,2015
+30,,7,45.0,+6:08,,Vandenbergh Stijn,87,Etixx - Quick Step,",, 2:10",,5,2015
+30,,65,54.0,+7:57,,Kozonchuk Dmitry,88,Team Katusha,",, 2:10",,5,2015
+35,,33,126.0,+31:11,,Popovych Yaroslav,89,Trek Factory Racing,",, 2:10",,5,2015
+24,,117,128.0,+32:16,,Le Bon Johan,90,FDJ,",, 2:10",,5,2015
+25,,146,71.0,+11:50,,Oliveira Nelson,91,Lampre - Merida,",, 2:10",,5,2015
+31,,73,119.0,+24:57,,Chainel Steve,92,"Cofidis, Solutions Cr\xe9dits",",, 2:10",,5,2015
+34,,147,74.0,+12:12,,Plaza Rub\xe9n,93,Lampre - Merida,",, 2:10",,5,2015
+34,,101,76.0,+12:24,,Wiggins Bradley,94,Team Sky,",, 2:10",,5,2015
+35,,104,112.0,+19:13,,Pate Danny,95,Team Sky,",, 2:10",,5,2015
+24,,25,125.0,+30:42,,Hansen Jesper,96,Tinkoff - Saxo,",, 2:10",,5,2015
+24,,152,93.0,+14:49,,Aregger Marcel,97,IAM Cycling,",, 2:10",,5,2015
+27,,87,114.0,+20:46,,Venter Jaco,98,MTN - Qhubeka,",, 2:10",,5,2015
+33,,31,72.0,+11:50,,Cancellara Fabian,99,Trek Factory Racing,",, 2:10",,5,2015
+35,,34,105.0,+17:10,,Rast Gregory,100,Trek Factory Racing,",, 2:10",,5,2015
+23,,127,121.0,+28:19,,Van Meirhaeghe Jef,101,Topsport Vlaanderen - Baloise,",, 2:10",,5,2015
+23,,122,89.0,+13:53,,Campenaerts Victor,102,Topsport Vlaanderen - Baloise,",, 2:10",,5,2015
+21,,38,96.0,+15:35,,van Poppel Danny,103,Trek Factory Racing,",, 2:10",,5,2015
+35,,32,66.0,+10:37,,Irizar Markel,104,Trek Factory Racing,",, 2:10",,5,2015
+31,,144,84.0,+13:19,,Ferrari Roberto,105,Lampre - Merida,",, 2:10",,5,2015
+28,,168,95.0,+15:22,,Voss Paul,106,Bora - Argon 18,",, 2:10",,5,2015
+25,,121,50.0,+6:51,,Wallays Jelle,107,Topsport Vlaanderen - Baloise,",, 2:10",,5,2015
+29,,8,103.0,+16:36,,Velits Martin,108,Etixx - Quick Step,3:40 3:40,,5,2015
+31,,142,116.0,+22:20,,Bono Matteo,109,Lampre - Merida,",, 3:40",,5,2015
+29,,143,99.0,+15:58,,Costa M\xe1rio,110,Lampre - Merida,",, 3:40",,5,2015
+32,,3,111.0,+18:57,,Keisse Iljo,111,Etixx - Quick Step,",, 3:40",,5,2015
+29,,17,108.0,+18:07,,Timmer Albert,112,Team Giant - Alpecin,",, 3:40",,5,2015
+33,,103,109.0,+18:17,,Knees Christian,113,Team Sky,",, 3:40",,5,2015
+25,,167,65.0,+10:37,,Thwaites Scott,114,Bora - Argon 18,",, 3:40",,5,2015
+33,,24,92.0,+14:41,,Brutt Pavel,115,Tinkoff - Saxo,",, 3:40",,5,2015
+25,,26,52.0,+7:47,,Juul-Jensen Christopher,116,Tinkoff - Saxo,",, 3:40",,5,2015
+25,,123,21.0,+1:41,,Declercq Tim,117,Topsport Vlaanderen - Baloise,0:14 0:14,,5,2015
+37,,138,106.0,+17:32,,Tuft Svein,118,Orica GreenEDGE,4:06 4:06,,5,2015
+28,,45,98.0,+15:51,,Hermans Ben,119,BMC Racing Team,",, 4:06",,5,2015
+24,,14,100.0,+16:11,,Preidler Georg,120,Team Giant - Alpecin,",, 4:06",,5,2015
+29,,16,113.0,+19:28,,Stamsnijder Tom,121,Team Giant - Alpecin,",, 4:06",,5,2015
+24,,86,115.0,+21:34,,Van Zyl Johann,122,MTN - Qhubeka,",, 4:06",,5,2015
+28,,83,110.0,+18:20,,Ciolek Gerald,123,MTN - Qhubeka,",, 4:06",,5,2015
+25,,172,107.0,+18:06,,Boem Nicola,124,Bardiani - CSF Pro Team,",, 4:06",,5,2015
+27,,173,129.0,+33:12,,Piechele Andrea,125,Bardiani - CSF Pro Team,",, 4:06",,5,2015
+35,,136,97.0,+15:38,,Lancaster Brett,126,Orica GreenEDGE,",, 4:06",,5,2015
+26,,11,104.0,+16:51,,Kittel Marcel,127,Team Giant - Alpecin,",, 4:06",,5,2015
+28,,43,124.0,+30:08,,De Marchi Alessandro,128,BMC Racing Team,",, 4:06",,5,2015
+34,,137,133.0,+40:12,,Mouris Jens,129,Orica GreenEDGE,6:38 6:38,,5,2015
+24,,102,60.0,+9:58,,Fenn Andrew,130,Team Sky,",, 6:38",,5,2015
+24,,166,132.0,+36:21,,Schwarzmann Michael,131,Bora - Argon 18,7:17 7:17,,5,2015
+26,,162,131.0,+35:30,,Archbold Shane,132,Bora - Argon 18,",, 7:17",,5,2015
+24,,161,86.0,+13:33,,Bennett Sam,133,Bora - Argon 18,",, 7:17",,5,2015
+29,,91,,+ - 15:12:45,,Boom Lars,NQ,Astana Pro Team,",, 7:17",,5,2015
+25,,134,,+ - 15:12:45,,Howard Leigh,DNF,Orica GreenEDGE,",, 7:17",,5,2015
+34,,35,,+ - 15:12:45,,Steegmans Gert,DNF,Trek Factory Racing,",, 7:17",,5,2015
+31,,82,,+ - 15:12:45,,Bos Theo,DNF,MTN - Qhubeka,",, 7:17",,5,2015
+31,,154,,+ - 15:12:45,,Devenyns Dries,DNF,IAM Cycling,",, 7:17",,5,2015
+21,,177,,+ - 15:12:45,,Sterbini Simone,DNF,Bardiani - CSF Pro Team,",, 7:17",,5,2015
+24,,161,79.0,+13:23,30.0,Bennett Sam,1,Bora - Argon 18,2:24:03 2:24:03,20.0,6,2015
+25,,96,20.0,+1:39,18.0,Guardini Andrea,2,Astana Pro Team,",, ,,",14.0,6,2015
+24,,71,39.0,+5:19,12.0,Bouhanni Nacer,3,"Cofidis, Solutions Cr\xe9dits",",, ,,",8.0,6,2015
+25,,21,6.0,+0:31,7.0,Sagan Peter,4,Tinkoff - Saxo,",, ,,",7.0,6,2015
+25,,84,72.0,+12:34,4.0,Reguigui Youcef,5,MTN - Qhubeka,",, ,,",6.0,6,2015
+25,,131,22.0,+1:44,3.0,Blythe Adam,6,Orica GreenEDGE,",, ,,",5.0,6,2015
+25,,5,30.0,+3:21,2.0,Trentin Matteo,7,Etixx - Quick Step,",, ,,",4.0,6,2015
+34,,2,9.0,+0:39,1.0,Boonen Tom,8,Etixx - Quick Step,",, ,,",2.0,6,2015
+22,,36,12.0,+0:55,,Stuyven Jasper,9,Trek Factory Racing,",, ,,",,6,2015
+29,,55,35.0,+4:41,,Rojas Jos\xe9 Joaqu\xedn,10,Movistar Team,",, ,,",,6,2015
+28,,44,45.0,+6:54,,Drucker Jean-Pierre,11,BMC Racing Team,",, ,,",,6,2015
+28,,158,90.0,+15:05,,van Genechten Jonas,12,IAM Cycling,",, ,,",,6,2015
+23,,111,51.0,+8:12,,D\xe9mare Arnaud,13,FDJ,",, ,,",,6,2015
+30,,151,8.0,+0:39,,Haussler Heinrich,14,IAM Cycling,",, ,,",,6,2015
+28,,128,41.0,+5:58,,Vanspeybrouck Pieter,15,Topsport Vlaanderen - Baloise,",, ,,",,6,2015
+36,,133,19.0,+1:27,,Hayman Mathew,16,Orica GreenEDGE,",, ,,",,6,2015
+29,,22,2.0,+0:06,,Bodnar Maciej,17,Tinkoff - Saxo,",, ,,",,6,2015
+27,,173,126.0,+33:12,,Piechele Andrea,18,Bardiani - CSF Pro Team,",, ,,",,6,2015
+27,,61,3.0,+0:09,,Kristoff Alexander,19,Team Katusha,",, ,,",,6,2015
+29,,46,5.0,+0:19,,Van Avermaet Greg,20,BMC Racing Team,",, ,,",,6,2015
+26,,124,28.0,+3:17,,Salomein Jarl,21,Topsport Vlaanderen - Baloise,",, ,,",,6,2015
+27,,81,60.0,+10:06,,Boasson Hagen Edvald,22,MTN - Qhubeka,",, ,,",,6,2015
+30,,107,73.0,+12:42,,Sutton Chris,23,Team Sky,",, ,,",,6,2015
+24,,175,74.0,+12:54,,Ruffoni Nicola,24,Bardiani - CSF Pro Team,",, ,,",,6,2015
+30,,1,1.0,+0:00,,Terpstra Niki,25,Etixx - Quick Step,",, ,,",,6,2015
+30,,23,38.0,+5:16,,Breschel Matti,26,Tinkoff - Saxo,",, ,,",,6,2015
+24,,72,49.0,+7:54,,Ahlstrand Jonas,27,"Cofidis, Solutions Cr\xe9dits",",, ,,",,6,2015
+28,,4,13.0,+0:59,,Maes Nikolas,28,Etixx - Quick Step,",, ,,",,6,2015
+31,,42,11.0,+0:54,,Burghardt Marcus,29,BMC Racing Team,",, ,,",,6,2015
+25,,56,58.0,+9:59,,Sanz Enrique,30,Movistar Team,",, ,,",,6,2015
+27,,145,63.0,+11:10,,Modolo Sacha,31,Lampre - Merida,",, ,,",,6,2015
+24,,85,119.0,+27:45,,Sbaragli Kristian,32,MTN - Qhubeka,",, ,,",,6,2015
+24,,102,57.0,+9:58,,Fenn Andrew,33,Team Sky,",, ,,",,6,2015
+27,,106,4.0,+0:12,,Stannard Ian,34,Team Sky,",, ,,",,6,2015
+32,,41,14.0,+1:04,,Gilbert Philippe,35,BMC Racing Team,",, ,,",,6,2015
+29,,156,15.0,+1:11,,Kluge Roger,36,IAM Cycling,",, ,,",,6,2015
+27,,97,18.0,+1:24,,Tleubayev Ruslan,37,Astana Pro Team,",, ,,",,6,2015
+28,,132,26.0,+2:30,,Docker Mitchell,38,Orica GreenEDGE,",, ,,",,6,2015
+24,,105,7.0,+0:33,,Rowe Luke,39,Team Sky,",, ,,",,6,2015
+31,,94,10.0,+0:41,,Grivko Andrei,40,Astana Pro Team,",, ,,",,6,2015
+26,,78,70.0,+12:03,,Soupe Geoffrey,41,"Cofidis, Solutions Cr\xe9dits",",, ,,",,6,2015
+26,,93,86.0,+14:06,,de Vreese Laurens,42,Astana Pro Team,",, ,,",,6,2015
+29,,114,23.0,+1:49,,Delage Micka\xebl,43,FDJ,",, ,,",,6,2015
+33,,157,40.0,+5:36,,Reynes Vicente,44,IAM Cycling,",, ,,",,6,2015
+30,,116,36.0,+5:04,,Ladagnous Matthieu,45,FDJ,",, ,,",,6,2015
+28,,118,25.0,+1:54,,Offredo Yoann,46,FDJ,",, ,,",,6,2015
+25,,123,21.0,+1:40,,Declercq Tim,47,Topsport Vlaanderen - Baloise,",, ,,",,6,2015
+32,,76,37.0,+5:14,,Rollin Dominique,48,"Cofidis, Solutions Cr\xe9dits",",, ,,",,6,2015
+30,,13,34.0,+4:21,,de Backer Bert,49,Team Giant - Alpecin,",, ,,",,6,2015
+25,,164,17.0,+1:21,,Matzka Ralf,50,Bora - Argon 18,",, ,,",,6,2015
+26,,135,33.0,+4:05,,Keukeleire Jens,51,Orica GreenEDGE,",, ,,",,6,2015
+30,,18,27.0,+2:37,,Veelers Tom,52,Team Giant - Alpecin,",, ,,",,6,2015
+29,,47,80.0,+13:27,,Velits Peter,53,BMC Racing Team,",, ,,",,6,2015
+23,,6,32.0,+4:03,,van Keirsbulck Guillaume,54,Etixx - Quick Step,",, ,,",,6,2015
+23,,12,16.0,+1:19,,Arndt Nikias,55,Team Giant - Alpecin,",, ,,",,6,2015
+27,,63,55.0,+8:51,,Guarnieri Jacopo,56,Team Katusha,",, ,,",,6,2015
+29,,143,95.0,+15:58,,Costa M\xe1rio,57,Lampre - Merida,",, ,,",,6,2015
+35,,34,101.0,+17:10,,Rast Gregory,58,Trek Factory Racing,",, ,,",,6,2015
+22,,57,76.0,+13:19,,S\xfctterlin Jasha,59,Movistar Team,0:08 0:08,,6,2015
+27,,163,59.0,+10:05,,Dempster Zakkari,60,Bora - Argon 18,",, 0:08",,6,2015
+23,,62,24.0,+1:49,,Bystr\xf8m Sven Erik,61,Team Katusha,",, 0:08",,6,2015
+25,,66,31.0,+3:52,,Kuznetsov Viacheslav,62,Team Katusha,",, 0:08",,6,2015
+33,,31,67.0,+11:58,,Cancellara Fabian,63,Trek Factory Racing,",, 0:08",,6,2015
+23,,127,120.0,+28:27,,Van Meirhaeghe Jef,64,Topsport Vlaanderen - Baloise,",, 0:08",,6,2015
+29,,155,82.0,+13:51,,Hollenstein Reto,65,IAM Cycling,",, 0:08",,6,2015
+39,,54,85.0,+14:00,,Lastras Pablo,66,Movistar Team,",, 0:08",,6,2015
+24,,75,87.0,+14:13,,Petit Adrien,67,"Cofidis, Solutions Cr\xe9dits",",, 0:08",,6,2015
+28,,52,64.0,+11:11,,Amador Andrey,68,Movistar Team,",, 0:08",,6,2015
+26,,162,129.0,+35:38,,Archbold Shane,69,Bora - Argon 18,",, 0:08",,6,2015
+31,,148,113.0,+23:24,,Richeze Ariel Maximiliano,70,Lampre - Merida,",, 0:08",,6,2015
+21,,48,75.0,+12:54,,Zabel Rick,71,BMC Racing Team,",, 0:08",,6,2015
+32,,112,61.0,+10:26,,Bonnet William,72,FDJ,",, 0:08",,6,2015
+38,,67,29.0,+3:18,,Paolini Luca,73,Team Katusha,",, 0:08",,6,2015
+28,,43,123.0,+30:20,,De Marchi Alessandro,74,BMC Racing Team,0:12 0:12,,6,2015
+35,,32,62.0,+10:49,,Irizar Markel,75,Trek Factory Racing,",, 0:12",,6,2015
+31,,53,65.0,+11:20,,Erviti Imanol,76,Movistar Team,",, 0:12",,6,2015
+32,,125,97.0,+16:36,,Van Hecke Preben,77,Topsport Vlaanderen - Baloise,",, 0:12",,6,2015
+30,,65,50.0,+8:09,,Kozonchuk Dmitry,78,Team Katusha,",, 0:12",,6,2015
+25,,121,47.0,+7:03,,Wallays Jelle,79,Topsport Vlaanderen - Baloise,",, 0:12",,6,2015
+23,,126,121.0,+28:42,,Van Hoecke Gijs,80,Topsport Vlaanderen - Baloise,",, 0:12",,6,2015
+21,,38,94.0,+15:47,,van Poppel Danny,81,Trek Factory Racing,",, 0:12",,6,2015
+35,,104,107.0,+19:25,,Pate Danny,82,Team Sky,",, 0:12",,6,2015
+25,,146,68.0,+12:02,,Oliveira Nelson,83,Lampre - Merida,",, 0:12",,6,2015
+24,,152,89.0,+15:01,,Aregger Marcel,84,IAM Cycling,",, 0:12",,6,2015
+27,,37,43.0,+6:21,,van Poppel Boy,85,Trek Factory Racing,",, 0:12",,6,2015
+34,,147,71.0,+12:24,,Plaza Rub\xe9n,86,Lampre - Merida,",, 0:12",,6,2015
+34,,92,42.0,+6:02,,Bozic Borut,87,Astana Pro Team,",, 0:12",,6,2015
+30,,7,44.0,+6:28,,Vandenbergh Stijn,88,Etixx - Quick Step,0:20 0:20,,6,2015
+29,,8,99.0,+16:56,,Velits Martin,89,Etixx - Quick Step,",, 0:20",,6,2015
+23,,64,54.0,+8:41,,Haller Marco,90,Team Katusha,0:24 0:24,,6,2015
+35,,33,124.0,+31:35,,Popovych Yaroslav,91,Trek Factory Racing,",, 0:24",,6,2015
+33,,141,77.0,+13:19,,Pozzato Filippo,92,Lampre - Merida,0:31 0:31,,6,2015
+29,,27,48.0,+7:14,,M\xf8rk\xf8v Michael,93,Tinkoff - Saxo,0:32 0:32,,6,2015
+35,,136,96.0,+16:13,,Lancaster Brett,94,Orica GreenEDGE,0:35 0:35,,6,2015
+31,,144,84.0,+13:57,,Ferrari Roberto,95,Lampre - Merida,0:38 0:38,,6,2015
+33,,103,105.0,+19:07,,Knees Christian,96,Team Sky,0:50 0:50,,6,2015
+32,,98,122.0,+29:41,,Westra Lieuwe,97,Astana Pro Team,0:53 0:53,,6,2015
+32,,3,108.0,+19:47,,Keisse Iljo,98,Etixx - Quick Step,",, 0:53",,6,2015
+24,,14,100.0,+17:04,,Preidler Georg,99,Team Giant - Alpecin,",, 0:53",,6,2015
+23,,122,88.0,+14:46,,Campenaerts Victor,100,Topsport Vlaanderen - Baloise,",, 0:53",,6,2015
+28,,45,98.0,+16:44,,Hermans Ben,101,BMC Racing Team,",, 0:53",,6,2015
+26,,15,46.0,+6:57,,Sinkeldam Ramon,102,Team Giant - Alpecin,",, 0:53",,6,2015
+33,,24,91.0,+15:34,,Brutt Pavel,103,Tinkoff - Saxo,",, 0:53",,6,2015
+34,,101,78.0,+13:20,,Wiggins Bradley,104,Team Sky,0:56 0:56,,6,2015
+28,,83,106.0,+19:16,,Ciolek Gerald,105,MTN - Qhubeka,",, 0:56",,6,2015
+24,,25,125.0,+31:38,,Hansen Jesper,106,Tinkoff - Saxo,",, 0:56",,6,2015
+24,,166,130.0,+37:24,,Schwarzmann Michael,107,Bora - Argon 18,1:03 1:03,,6,2015
+26,,165,56.0,+9:22,,Schorn Daniel,108,Bora - Argon 18,",, 1:03",,6,2015
+21,,77,103.0,+17:40,,S\xe9n\xe9chal Florian,109,"Cofidis, Solutions Cr\xe9dits",1:18 1:18,,6,2015
+31,,74,117.0,+25:33,,Lemoine Cyril,110,"Cofidis, Solutions Cr\xe9dits",",, 1:18",,6,2015
+27,,68,66.0,+11:43,,Smukulis Gatis,111,Team Katusha,1:21 1:21,,6,2015
+26,,11,104.0,+18:24,,Kittel Marcel,112,Team Giant - Alpecin,1:33 1:33,,6,2015
+24,,117,128.0,+34:08,,Le Bon Johan,113,FDJ,1:52 1:52,,6,2015
+34,,113,127.0,+33:34,,Boucher David,114,FDJ,",, 1:52",,6,2015
+35,,115,53.0,+8:33,,Fischer Murilo Antonio,115,FDJ,",, 1:52",,6,2015
+28,,168,102.0,+17:28,,Voss Paul,116,Bora - Argon 18,2:06 2:06,,6,2015
+31,,142,115.0,+24:26,,Bono Matteo,117,Lampre - Merida,",, 2:06",,6,2015
+34,,137,132.0,+42:20,,Mouris Jens,118,Orica GreenEDGE,2:08 2:08,,6,2015
+29,,28,52.0,+8:31,,Trusov Nikolay,119,Tinkoff - Saxo,2:18 2:18,,6,2015
+25,,153,92.0,+15:35,,Br\xe4ndle Matthias,120,IAM Cycling,",, 2:18",,6,2015
+32,,58,83.0,+13:56,,Ventoso Francisco,121,Movistar Team,",, 2:18",,6,2015
+31,,73,118.0,+27:21,,Chainel Steve,122,"Cofidis, Solutions Cr\xe9dits",2:24 2:24,,6,2015
+29,,16,111.0,+22:13,,Stamsnijder Tom,123,Team Giant - Alpecin,2:45 2:45,,6,2015
+29,,17,109.0,+20:52,,Timmer Albert,124,Team Giant - Alpecin,",, 2:45",,6,2015
+28,,87,114.0,+23:31,,Venter Jaco,125,MTN - Qhubeka,",, 2:45",,6,2015
+25,,167,81.0,+13:31,,Thwaites Scott,126,Bora - Argon 18,2:54 2:54,,6,2015
+28,,95,93.0,+15:39,,Gruzdev Dmitriy,127,Astana Pro Team,3:23 3:23,,6,2015
+24,,86,116.0,+25:24,,Van Zyl Johann,128,MTN - Qhubeka,3:50 3:50,,6,2015
+27,,174,131.0,+38:00,,Pirazzi Stefano,129,Bardiani - CSF Pro Team,4:11 4:11,,6,2015
+25,,172,112.0,+22:17,,Boem Nicola,130,Bardiani - CSF Pro Team,",, 4:11",,6,2015
+25,,26,69.0,+12:02,,Juul-Jensen Christopher,131,Tinkoff - Saxo,4:15 4:15,,6,2015
+37,,138,110.0,+21:47,,Tuft Svein,132,Orica GreenEDGE,",, 4:15",,6,2015
+34,,51,,+ - 17:36:48,,Valverde Alejandro,DNS,Movistar Team,",, 4:15",,6,2015

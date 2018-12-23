@@ -1,0 +1,601 @@
+Age,BIB,GC,GC-Time,Pnt,Prev,Rider,Rnk,Team,Time,\u25bc\u25b2,stage,year
+24,71,7.0,+21:53,,,Cancellara Fabian,1,Fassa Bortolo,21:53 21:53,,1,2005
+24,37,9.0,+21:56,,,Karpets Vladimir,2,Illes Balears - Caisse d'Epargne,0:03 0:03,,1,2005
+25,7,17.0,+22:09,,,Popovych Yaroslav,3,Discovery Channel,0:16 0:16,,1,2005
+21,97,33.0,+22:30,,,Sanchez Luis Leon,4,Liberty Seguros - W\xfcrth Team,0:37 0:37,,1,2005
+21,185,37.0,+22:37,,,Grivko Andrei,5,Domina Vacanze,0:44 0:44,,1,2005
+24,131,40.0,+22:40,,,Boonen Tom,6,Quickstep - Innergetic,0:47 0:47,,1,2005
+22,93,48.0,+22:48,,,Contador Alberto,7,Liberty Seguros - W\xfcrth Team,0:55 0:55,,1,2005
+23,74,49.0,+22:51,,,Facci Mauro,8,Fassa Bortolo,0:58 0:58,,1,2005
+21,177,59.0,+22:57,,,L\xf6fkvist Thomas,9,Fran\xe7aise des Jeux,1:04 1:04,,1,2005
+24,175,62.0,+22:59,,,Eisel Bernhard,10,Fran\xe7aise des Jeux,1:06 1:06,,1,2005
+24,56,65.0,+23:02,,,Posthuma Joost,11,Rabobank ProTeam,1:09 1:09,,1,2005
+25,108,66.0,+23:03,,,Kashechkin Andrey,12,Cr\xe9dit Agricole,1:10 1:10,,1,2005
+24,112,71.0,+23:05,,,Albasini Michael,13,Liquigas,1:12 1:12,,1,2005
+25,38,82.0,+23:15,,,Valverde Alejandro,14,Illes Balears - Caisse d'Epargne,1:22 1:22,,1,2005
+24,136,95.0,+23:22,,,Sinkewitz Patrik,15,Quickstep - Innergetic,1:29 1:29,,1,2005
+25,167,103.0,+23:23,,,Wegmann Fabian,16,Gerolsteiner,1:30 1:30,,1,2005
+24,179,114.0,+23:31,,,Mourey Francis,17,Fran\xe7aise des Jeux,1:38 1:38,,1,2005
+25,85,115.0,+23:32,,,G\xf3mez Marchante Jose Angel,18,Saunier Duval - Prodir,1:39 1:39,,1,2005
+25,145,120.0,+23:35,,,Geslin Anthony,19,Bouygues Telecom,1:42 1:42,,1,2005
+24,94,124.0,+23:35,,,Davis Allan,20,Liberty Seguros - W\xfcrth Team,",, 1:42",,1,2005
+25,147,126.0,+23:36,,,Pineau J\xe9rome,21,Bouygues Telecom,1:43 1:43,,1,2005
+24,48,129.0,+23:37,,,Vansummeren Johan,22,Davitamon - Lotto,1:44 1:44,,1,2005
+23,148,148.0,+23:47,,,Sprick Matthieu,23,Bouygues Telecom,1:54 1:54,,1,2005
+22,176,165.0,+23:58,,,Gilbert Philippe,24,Fran\xe7aise des Jeux,2:05 2:05,,1,2005
+25,205,166.0,+23:59,,,Gerrans Simon,25,AG2R Pr\xe9voyance,2:06 2:06,,1,2005
+25,33,169.0,+24:01,,,Arroyo David,26,Illes Balears - Caisse d'Epargne,2:08 2:08,,1,2005
+22,73,170.0,+24:02,,,Corioni Claudio,27,Fassa Bortolo,2:09 2:09,,1,2005
+24,204,172.0,+24:02,,,Dumoulin Samuel,28,AG2R Pr\xe9voyance,",, 2:09",,1,2005
+24,186,173.0,+24:03,,,Iglinskiy Maxim,29,Domina Vacanze,2:10 2:10,,1,2005
+25,155,177.0,+24:11,,,Loosli David,30,Lampre-Caffita,2:18 2:18,,1,2005
+24,59,181.0,+24:18,,,Weening Pieter,31,Rabobank ProTeam,2:25 2:25,,1,2005
+24,189,187.0,+24:35,,,Vanotti Alessandro,32,Domina Vacanze,2:42 2:42,,1,2005
+24,71,7.0,+8:49:33,,1.0,Cancellara Fabian,1,Fassa Bortolo,8:49:33 8:49:33,-,2,2005
+24,37,9.0,+8:49:36,,2.0,Karpets Vladimir,2,Illes Balears - Caisse d'Epargne,0:03 0:03,-,2,2005
+24,131,13.0,+8:49:40,,6.0,Boonen Tom,3,Quickstep - Innergetic,0:07 0:07,\u25b23,2,2005
+25,7,18.0,+8:49:49,,3.0,Popovych Yaroslav,4,Discovery Channel,0:16 0:16,\u25bc1,2,2005
+21,97,34.0,+8:50:10,,4.0,Sanchez Luis Leon,5,Liberty Seguros - W\xfcrth Team,0:37 0:37,\u25bc1,2,2005
+21,185,39.0,+8:50:17,,5.0,Grivko Andrei,6,Domina Vacanze,0:44 0:44,\u25bc1,2,2005
+22,93,48.0,+8:50:28,,7.0,Contador Alberto,7,Liberty Seguros - W\xfcrth Team,0:55 0:55,-,2,2005
+23,74,50.0,+8:50:31,,8.0,Facci Mauro,8,Fassa Bortolo,0:58 0:58,-,2,2005
+21,177,60.0,+8:50:37,,9.0,L\xf6fkvist Thomas,9,Fran\xe7aise des Jeux,1:04 1:04,-,2,2005
+24,175,64.0,+8:50:39,,10.0,Eisel Bernhard,10,Fran\xe7aise des Jeux,1:06 1:06,-,2,2005
+24,56,67.0,+8:50:42,,11.0,Posthuma Joost,11,Rabobank ProTeam,1:09 1:09,-,2,2005
+25,108,68.0,+8:50:43,,12.0,Kashechkin Andrey,12,Cr\xe9dit Agricole,1:10 1:10,-,2,2005
+25,38,81.0,+8:50:55,,14.0,Valverde Alejandro,13,Illes Balears - Caisse d'Epargne,1:22 1:22,\u25b21,2,2005
+25,167,85.0,+8:50:59,,16.0,Wegmann Fabian,14,Gerolsteiner,1:26 1:26,\u25b22,2,2005
+24,136,95.0,+8:51:02,,15.0,Sinkewitz Patrik,15,Quickstep - Innergetic,1:29 1:29,-,2,2005
+24,112,110.0,+8:51:09,,13.0,Albasini Michael,16,Liquigas,1:36 1:36,\u25bc3,2,2005
+24,179,113.0,+8:51:11,,17.0,Mourey Francis,17,Fran\xe7aise des Jeux,1:38 1:38,-,2,2005
+25,85,114.0,+8:51:12,,18.0,G\xf3mez Marchante Jose Angel,18,Saunier Duval - Prodir,1:39 1:39,-,2,2005
+25,145,120.0,+8:51:15,,19.0,Geslin Anthony,19,Bouygues Telecom,1:42 1:42,-,2,2005
+24,94,125.0,+8:51:15,,20.0,Davis Allan,20,Liberty Seguros - W\xfcrth Team,",, 1:42",-,2,2005
+25,147,127.0,+8:51:16,,21.0,Pineau J\xe9rome,21,Bouygues Telecom,1:43 1:43,-,2,2005
+24,48,131.0,+8:51:17,,22.0,Vansummeren Johan,22,Davitamon - Lotto,1:44 1:44,-,2,2005
+23,148,148.0,+8:51:27,,23.0,Sprick Matthieu,23,Bouygues Telecom,1:54 1:54,-,2,2005
+22,176,160.0,+8:51:36,,24.0,Gilbert Philippe,24,Fran\xe7aise des Jeux,2:03 2:03,-,2,2005
+25,205,162.0,+8:51:39,,25.0,Gerrans Simon,25,AG2R Pr\xe9voyance,2:06 2:06,-,2,2005
+25,33,165.0,+8:51:41,,26.0,Arroyo David,26,Illes Balears - Caisse d'Epargne,2:08 2:08,-,2,2005
+22,73,166.0,+8:51:42,,27.0,Corioni Claudio,27,Fassa Bortolo,2:09 2:09,-,2,2005
+24,186,168.0,+8:51:43,,29.0,Iglinskiy Maxim,28,Domina Vacanze,2:10 2:10,\u25b21,2,2005
+25,155,173.0,+8:51:51,,30.0,Loosli David,29,Lampre-Caffita,2:18 2:18,\u25b21,2,2005
+24,59,177.0,+8:51:58,,31.0,Weening Pieter,30,Rabobank ProTeam,2:25 2:25,\u25b21,2,2005
+24,204,179.0,+8:52:02,,28.0,Dumoulin Samuel,31,AG2R Pr\xe9voyance,2:29 2:29,\u25bc3,2,2005
+24,189,185.0,+8:52:15,,32.0,Vanotti Alessandro,32,Domina Vacanze,2:42 2:42,-,2,2005
+24,71,7.0,+8:49:33,,1.0,Cancellara Fabian,1,Fassa Bortolo,8:49:33 8:49:33,-,3,2005
+24,37,9.0,+8:49:36,,2.0,Karpets Vladimir,2,Illes Balears - Caisse d'Epargne,0:03 0:03,-,3,2005
+24,131,13.0,+8:49:40,,3.0,Boonen Tom,3,Quickstep - Innergetic,0:07 0:07,-,3,2005
+25,7,18.0,+8:49:49,,4.0,Popovych Yaroslav,4,Discovery Channel,0:16 0:16,-,3,2005
+21,97,34.0,+8:50:10,,5.0,Sanchez Luis Leon,5,Liberty Seguros - W\xfcrth Team,0:37 0:37,-,3,2005
+21,185,39.0,+8:50:17,,6.0,Grivko Andrei,6,Domina Vacanze,0:44 0:44,-,3,2005
+22,93,48.0,+8:50:28,,7.0,Contador Alberto,7,Liberty Seguros - W\xfcrth Team,0:55 0:55,-,3,2005
+23,74,50.0,+8:50:31,,8.0,Facci Mauro,8,Fassa Bortolo,0:58 0:58,-,3,2005
+21,177,60.0,+8:50:37,,9.0,L\xf6fkvist Thomas,9,Fran\xe7aise des Jeux,1:04 1:04,-,3,2005
+24,175,64.0,+8:50:39,,10.0,Eisel Bernhard,10,Fran\xe7aise des Jeux,1:06 1:06,-,3,2005
+24,56,67.0,+8:50:42,,11.0,Posthuma Joost,11,Rabobank ProTeam,1:09 1:09,-,3,2005
+25,108,68.0,+8:50:43,,12.0,Kashechkin Andrey,12,Cr\xe9dit Agricole,1:10 1:10,-,3,2005
+25,38,81.0,+8:50:55,,13.0,Valverde Alejandro,13,Illes Balears - Caisse d'Epargne,1:22 1:22,-,3,2005
+25,167,85.0,+8:50:59,,14.0,Wegmann Fabian,14,Gerolsteiner,1:26 1:26,-,3,2005
+24,136,95.0,+8:51:02,,15.0,Sinkewitz Patrik,15,Quickstep - Innergetic,1:29 1:29,-,3,2005
+24,112,110.0,+8:51:09,,16.0,Albasini Michael,16,Liquigas,1:36 1:36,-,3,2005
+24,179,113.0,+8:51:11,,17.0,Mourey Francis,17,Fran\xe7aise des Jeux,1:38 1:38,-,3,2005
+25,85,114.0,+8:51:12,,18.0,G\xf3mez Marchante Jose Angel,18,Saunier Duval - Prodir,1:39 1:39,-,3,2005
+25,145,120.0,+8:51:15,,19.0,Geslin Anthony,19,Bouygues Telecom,1:42 1:42,-,3,2005
+24,94,125.0,+8:51:15,,20.0,Davis Allan,20,Liberty Seguros - W\xfcrth Team,",, 1:42",-,3,2005
+25,147,127.0,+8:51:16,,21.0,Pineau J\xe9rome,21,Bouygues Telecom,1:43 1:43,-,3,2005
+24,48,131.0,+8:51:17,,22.0,Vansummeren Johan,22,Davitamon - Lotto,1:44 1:44,-,3,2005
+23,148,148.0,+8:51:27,,23.0,Sprick Matthieu,23,Bouygues Telecom,1:54 1:54,-,3,2005
+22,176,160.0,+8:51:36,,24.0,Gilbert Philippe,24,Fran\xe7aise des Jeux,2:03 2:03,-,3,2005
+25,205,162.0,+8:51:39,,25.0,Gerrans Simon,25,AG2R Pr\xe9voyance,2:06 2:06,-,3,2005
+25,33,165.0,+8:51:41,,26.0,Arroyo David,26,Illes Balears - Caisse d'Epargne,2:08 2:08,-,3,2005
+22,73,166.0,+8:51:42,,27.0,Corioni Claudio,27,Fassa Bortolo,2:09 2:09,-,3,2005
+24,186,168.0,+8:51:43,,28.0,Iglinskiy Maxim,28,Domina Vacanze,2:10 2:10,-,3,2005
+25,155,173.0,+8:51:51,,29.0,Loosli David,29,Lampre-Caffita,2:18 2:18,-,3,2005
+24,59,177.0,+8:51:58,,30.0,Weening Pieter,30,Rabobank ProTeam,2:25 2:25,-,3,2005
+24,204,179.0,+8:52:02,,31.0,Dumoulin Samuel,31,AG2R Pr\xe9voyance,2:29 2:29,-,3,2005
+24,189,185.0,+8:52:15,,32.0,Vanotti Alessandro,32,Domina Vacanze,2:42 2:42,-,3,2005
+34,53,,,6.0,1.0,Dekker Erik,1,Rabobank ProTeam,,-,4,2005
+26,149,,,5.0,2.0,Voeckler Thomas,2,Bouygues Telecom,,-,4,2005
+26,82,,,4.0,3.0,Bertogliati Rubens,3,Saunier Duval - Prodir,,-,4,2005
+25,167,,,3.0,4.0,Wegmann Fabian,4,Gerolsteiner,,-,4,2005
+30,83,,,2.0,5.0,Ca\xf1ada David,5,Saunier Duval - Prodir,,-,4,2005
+26,208,,,2.0,6.0,Portal Nicolas,6,AG2R Pr\xe9voyance,,-,4,2005
+37,143,,,1.0,7.0,Brochard Laurent,7,Bouygues Telecom,,-,4,2005
+26,203,,,1.0,8.0,Calzati Sylvain,8,AG2R Pr\xe9voyance,,-,4,2005
+25,7,6.0,+ 13:46:28,,1.0,Popovych Yaroslav,1,Discovery Channel,13:46:28 13:46:28,-,5,2005
+24,37,25.0,+ 13:47:25,,2.0,Karpets Vladimir,2,Illes Balears - Caisse d'Epargne,0:57 0:57,-,5,2005
+21,97,26.0,+ 13:47:29,,3.0,Sanchez Luis Leon,3,Liberty Seguros - W\xfcrth Team,1:01 1:01,-,5,2005
+24,71,29.0,+ 13:47:42,,4.0,Cancellara Fabian,4,Fassa Bortolo,1:14 1:14,-,5,2005
+22,93,32.0,+ 13:47:47,,5.0,Contador Alberto,5,Liberty Seguros - W\xfcrth Team,1:19 1:19,-,5,2005
+24,131,41.0,+ 13:48:21,,8.0,Boonen Tom,6,Quickstep - Innergetic,1:53 1:53,\u25b22,5,2005
+25,108,42.0,+ 13:48:22,,6.0,Kashechkin Andrey,7,Cr\xe9dit Agricole,1:54 1:54,\u25bc1,5,2005
+24,94,47.0,+ 13:48:34,,7.0,Davis Allan,8,Liberty Seguros - W\xfcrth Team,2:06 2:06,\u25bc1,5,2005
+23,74,52.0,+ 13:48:40,,9.0,Facci Mauro,9,Fassa Bortolo,2:12 2:12,-,5,2005
+25,38,55.0,+ 13:48:44,,10.0,Valverde Alejandro,10,Illes Balears - Caisse d'Epargne,2:16 2:16,-,5,2005
+25,167,62.0,+ 13:48:58,,11.0,Wegmann Fabian,11,Gerolsteiner,2:30 2:30,-,5,2005
+21,185,66.0,+ 13:49:06,,12.0,Grivko Andrei,12,Domina Vacanze,2:38 2:38,-,5,2005
+24,56,77.0,+ 13:49:21,,13.0,Posthuma Joost,13,Rabobank ProTeam,2:53 2:53,-,5,2005
+24,112,81.0,+ 13:49:28,,14.0,Albasini Michael,14,Liquigas,3:00 3:00,-,5,2005
+24,48,88.0,+ 13:49:46,,15.0,Vansummeren Johan,15,Davitamon - Lotto,3:18 3:18,-,5,2005
+22,73,92.0,+ 13:49:51,,16.0,Corioni Claudio,16,Fassa Bortolo,3:23 3:23,-,5,2005
+24,136,96.0,+ 13:50:01,,17.0,Sinkewitz Patrik,17,Quickstep - Innergetic,3:33 3:33,-,5,2005
+21,177,101.0,+ 13:50:06,,18.0,L\xf6fkvist Thomas,18,Fran\xe7aise des Jeux,3:38 3:38,-,5,2005
+24,175,109.0,+ 13:50:18,,19.0,Eisel Bernhard,19,Fran\xe7aise des Jeux,3:50 3:50,-,5,2005
+25,145,112.0,+ 13:50:24,,20.0,Geslin Anthony,20,Bouygues Telecom,3:56 3:56,-,5,2005
+25,147,115.0,+ 13:50:25,,21.0,Pineau J\xe9rome,21,Bouygues Telecom,3:57 3:57,-,5,2005
+24,186,123.0,+ 13:50:32,,22.0,Iglinskiy Maxim,22,Domina Vacanze,4:04 4:04,-,5,2005
+24,59,130.0,+ 13:50:37,,23.0,Weening Pieter,23,Rabobank ProTeam,4:09 4:09,-,5,2005
+25,85,135.0,+ 13:50:46,,24.0,G\xf3mez Marchante Jose Angel,24,Saunier Duval - Prodir,4:18 4:18,-,5,2005
+23,176,150.0,+ 13:51:05,,25.0,Gilbert Philippe,25,Fran\xe7aise des Jeux,4:37 4:37,-,5,2005
+25,155,153.0,+ 13:51:10,,26.0,Loosli David,26,Lampre-Caffita,4:42 4:42,-,5,2005
+25,205,158.0,+ 13:51:18,,27.0,Gerrans Simon,27,AG2R Pr\xe9voyance,4:50 4:50,-,5,2005
+24,204,160.0,+ 13:51:41,,28.0,Dumoulin Samuel,28,AG2R Pr\xe9voyance,5:13 5:13,-,5,2005
+24,179,166.0,+ 13:52:41,,29.0,Mourey Francis,29,Fran\xe7aise des Jeux,6:13 6:13,-,5,2005
+25,33,174.0,+ 13:54:06,,30.0,Arroyo David,30,Illes Balears - Caisse d'Epargne,7:38 7:38,-,5,2005
+23,148,183.0,+ 13:56:09,,31.0,Sprick Matthieu,31,Bouygues Telecom,9:41 9:41,-,5,2005
+24,189,186.0,+ 13:57:34,,32.0,Vanotti Alessandro,32,Domina Vacanze,11:06 11:06,-,5,2005
+25,7,7.0,+ 17:59:27,,1.0,Popovych Yaroslav,1,Discovery Channel,17:59:27 17:59:27,-,6,2005
+24,37,22.0,+ 18:00:24,,2.0,Karpets Vladimir,2,Illes Balears - Caisse d'Epargne,0:57 0:57,-,6,2005
+24,71,25.0,+ 18:00:41,,4.0,Cancellara Fabian,3,Fassa Bortolo,1:14 1:14,\u25b21,6,2005
+22,93,27.0,+ 18:00:46,,5.0,Contador Alberto,4,Liberty Seguros - W\xfcrth Team,1:19 1:19,\u25b21,6,2005
+24,131,37.0,+ 18:01:20,,6.0,Boonen Tom,5,Quickstep - Innergetic,1:53 1:53,\u25b21,6,2005
+25,108,38.0,+ 18:01:21,,7.0,Kashechkin Andrey,6,Cr\xe9dit Agricole,1:54 1:54,\u25b21,6,2005
+24,94,43.0,+ 18:01:33,,8.0,Davis Allan,7,Liberty Seguros - W\xfcrth Team,2:06 2:06,\u25b21,6,2005
+25,38,47.0,+ 18:01:43,,10.0,Valverde Alejandro,8,Illes Balears - Caisse d'Epargne,2:16 2:16,\u25b22,6,2005
+25,167,53.0,+ 18:01:57,,11.0,Wegmann Fabian,9,Gerolsteiner,2:30 2:30,\u25b22,6,2005
+21,185,57.0,+ 18:02:05,,12.0,Grivko Andrei,10,Domina Vacanze,2:38 2:38,\u25b22,6,2005
+24,56,66.0,+ 18:02:20,,13.0,Posthuma Joost,11,Rabobank ProTeam,2:53 2:53,\u25b22,6,2005
+24,136,78.0,+ 18:03:00,,17.0,Sinkewitz Patrik,12,Quickstep - Innergetic,3:33 3:33,\u25b25,6,2005
+21,177,82.0,+ 18:03:05,,18.0,L\xf6fkvist Thomas,13,Fran\xe7aise des Jeux,3:38 3:38,\u25b25,6,2005
+21,97,85.0,+ 18:03:15,,3.0,Sanchez Luis Leon,14,Liberty Seguros - W\xfcrth Team,3:48 3:48,\u25bc11,6,2005
+24,175,86.0,+ 18:03:17,,19.0,Eisel Bernhard,15,Fran\xe7aise des Jeux,3:50 3:50,\u25b24,6,2005
+25,145,89.0,+ 18:03:23,,20.0,Geslin Anthony,16,Bouygues Telecom,3:56 3:56,\u25b24,6,2005
+25,147,91.0,+ 18:03:24,,21.0,Pineau J\xe9rome,17,Bouygues Telecom,3:57 3:57,\u25b24,6,2005
+24,186,96.0,+ 18:03:31,,22.0,Iglinskiy Maxim,18,Domina Vacanze,4:04 4:04,\u25b24,6,2005
+24,59,102.0,+ 18:03:36,,23.0,Weening Pieter,19,Rabobank ProTeam,4:09 4:09,\u25b24,6,2005
+25,85,107.0,+ 18:03:45,,24.0,G\xf3mez Marchante Jose Angel,20,Saunier Duval - Prodir,4:18 4:18,\u25b24,6,2005
+23,176,114.0,+ 18:04:04,,25.0,Gilbert Philippe,21,Fran\xe7aise des Jeux,4:37 4:37,\u25b24,6,2005
+25,155,117.0,+ 18:04:09,,26.0,Loosli David,22,Lampre-Caffita,4:42 4:42,\u25b24,6,2005
+23,74,129.0,+ 18:05:29,,9.0,Facci Mauro,23,Fassa Bortolo,6:02 6:02,\u25bc14,6,2005
+24,112,142.0,+ 18:07:18,,14.0,Albasini Michael,24,Liquigas,7:51 7:51,\u25bc10,6,2005
+25,205,155.0,+ 18:08:07,,27.0,Gerrans Simon,25,AG2R Pr\xe9voyance,8:40 8:40,\u25b22,6,2005
+24,204,160.0,+ 18:08:30,,28.0,Dumoulin Samuel,26,AG2R Pr\xe9voyance,9:03 9:03,\u25b22,6,2005
+24,179,165.0,+ 18:09:30,,29.0,Mourey Francis,27,Fran\xe7aise des Jeux,10:03 10:03,\u25b22,6,2005
+25,33,168.0,+ 18:09:52,,30.0,Arroyo David,28,Illes Balears - Caisse d'Epargne,10:25 10:25,\u25b22,6,2005
+24,48,170.0,+ 18:10:24,,15.0,Vansummeren Johan,29,Davitamon - Lotto,10:57 10:57,\u25bc14,6,2005
+23,148,180.0,+ 18:12:58,,31.0,Sprick Matthieu,30,Bouygues Telecom,13:31 13:31,\u25b21,6,2005
+24,189,183.0,+ 18:14:23,,32.0,Vanotti Alessandro,31,Domina Vacanze,14:56 14:56,\u25b21,6,2005
+25,7,7.0,+ 23:03:12,,1.0,Popovych Yaroslav,1,Discovery Channel,23:03:12 23:03:12,-,7,2005
+24,37,22.0,+ 23:04:09,,2.0,Karpets Vladimir,2,Illes Balears - Caisse d'Epargne,0:57 0:57,-,7,2005
+24,71,25.0,+ 23:04:26,,3.0,Cancellara Fabian,3,Fassa Bortolo,1:14 1:14,-,7,2005
+22,93,27.0,+ 23:04:31,,4.0,Contador Alberto,4,Liberty Seguros - W\xfcrth Team,1:19 1:19,-,7,2005
+24,131,34.0,+ 23:04:57,,5.0,Boonen Tom,5,Quickstep - Innergetic,1:45 1:45,-,7,2005
+25,108,38.0,+ 23:05:06,,6.0,Kashechkin Andrey,6,Cr\xe9dit Agricole,1:54 1:54,-,7,2005
+24,94,43.0,+ 23:05:18,,7.0,Davis Allan,7,Liberty Seguros - W\xfcrth Team,2:06 2:06,-,7,2005
+25,38,49.0,+ 23:05:28,,8.0,Valverde Alejandro,8,Illes Balears - Caisse d'Epargne,2:16 2:16,-,7,2005
+25,167,51.0,+ 23:05:30,,9.0,Wegmann Fabian,9,Gerolsteiner,2:18 2:18,-,7,2005
+21,185,56.0,+ 23:05:50,,10.0,Grivko Andrei,10,Domina Vacanze,2:38 2:38,-,7,2005
+24,56,65.0,+ 23:06:05,,11.0,Posthuma Joost,11,Rabobank ProTeam,2:53 2:53,-,7,2005
+24,136,77.0,+ 23:06:45,,12.0,Sinkewitz Patrik,12,Quickstep - Innergetic,3:33 3:33,-,7,2005
+21,177,81.0,+ 23:06:50,,13.0,L\xf6fkvist Thomas,13,Fran\xe7aise des Jeux,3:38 3:38,-,7,2005
+24,175,83.0,+ 23:06:54,,15.0,Eisel Bernhard,14,Fran\xe7aise des Jeux,3:42 3:42,\u25b21,7,2005
+21,97,85.0,+ 23:07:00,,14.0,Sanchez Luis Leon,15,Liberty Seguros - W\xfcrth Team,3:48 3:48,\u25bc1,7,2005
+25,145,88.0,+ 23:07:08,,16.0,Geslin Anthony,16,Bouygues Telecom,3:56 3:56,-,7,2005
+25,147,90.0,+ 23:07:09,,17.0,Pineau J\xe9rome,17,Bouygues Telecom,3:57 3:57,-,7,2005
+24,186,95.0,+ 23:07:16,,18.0,Iglinskiy Maxim,18,Domina Vacanze,4:04 4:04,-,7,2005
+24,59,101.0,+ 23:07:21,,19.0,Weening Pieter,19,Rabobank ProTeam,4:09 4:09,-,7,2005
+25,85,105.0,+ 23:07:30,,20.0,G\xf3mez Marchante Jose Angel,20,Saunier Duval - Prodir,4:18 4:18,-,7,2005
+23,176,112.0,+ 23:07:49,,21.0,Gilbert Philippe,21,Fran\xe7aise des Jeux,4:37 4:37,-,7,2005
+25,155,115.0,+ 23:07:54,,22.0,Loosli David,22,Lampre-Caffita,4:42 4:42,-,7,2005
+23,74,127.0,+ 23:09:14,,23.0,Facci Mauro,23,Fassa Bortolo,6:02 6:02,-,7,2005
+24,112,140.0,+ 23:11:03,,24.0,Albasini Michael,24,Liquigas,7:51 7:51,-,7,2005
+25,205,155.0,+ 23:12:02,,25.0,Gerrans Simon,25,AG2R Pr\xe9voyance,8:50 8:50,-,7,2005
+24,204,158.0,+ 23:12:15,,26.0,Dumoulin Samuel,26,AG2R Pr\xe9voyance,9:03 9:03,-,7,2005
+25,33,164.0,+ 23:13:37,,28.0,Arroyo David,27,Illes Balears - Caisse d'Epargne,10:25 10:25,\u25b21,7,2005
+24,179,166.0,+ 23:13:41,,27.0,Mourey Francis,28,Fran\xe7aise des Jeux,10:29 10:29,\u25bc1,7,2005
+24,48,167.0,+ 23:14:09,,29.0,Vansummeren Johan,29,Davitamon - Lotto,10:57 10:57,-,7,2005
+23,148,178.0,+ 23:16:43,,30.0,Sprick Matthieu,30,Bouygues Telecom,13:31 13:31,-,7,2005
+24,189,182.0,+ 23:18:08,,31.0,Vanotti Alessandro,31,Domina Vacanze,14:56 14:56,-,7,2005
+24,37,11.0,+ 28:08:30,,2.0,Karpets Vladimir,1,Illes Balears - Caisse d'Epargne,28:08:30 28:08:30,\u25b21,8,2005
+25,7,12.0,+ 28:08:31,,1.0,Popovych Yaroslav,2,Discovery Channel,0:01 0:01,\u25bc1,8,2005
+25,38,23.0,+ 28:09:41,,8.0,Valverde Alejandro,3,Illes Balears - Caisse d'Epargne,1:11 1:11,\u25b25,8,2005
+22,93,25.0,+ 28:09:50,,4.0,Contador Alberto,4,Liberty Seguros - W\xfcrth Team,1:20 1:20,-,8,2005
+25,108,33.0,+ 28:10:23,,6.0,Kashechkin Andrey,5,Cr\xe9dit Agricole,1:53 1:53,\u25b21,8,2005
+24,59,41.0,+ 28:10:55,,19.0,Weening Pieter,6,Rabobank ProTeam,2:25 2:25,\u25b213,8,2005
+24,136,51.0,+ 28:12:04,,12.0,Sinkewitz Patrik,7,Quickstep - Innergetic,3:34 3:34,\u25b25,8,2005
+25,147,57.0,+ 28:12:28,,17.0,Pineau J\xe9rome,8,Bouygues Telecom,3:58 3:58,\u25b29,8,2005
+24,186,59.0,+ 28:12:35,,18.0,Iglinskiy Maxim,9,Domina Vacanze,4:05 4:05,\u25b29,8,2005
+25,85,64.0,+ 28:12:49,,20.0,G\xf3mez Marchante Jose Angel,10,Saunier Duval - Prodir,4:19 4:19,\u25b210,8,2005
+24,56,65.0,+ 28:12:56,,11.0,Posthuma Joost,11,Rabobank ProTeam,4:26 4:26,-,8,2005
+23,176,77.0,+ 28:14:40,,21.0,Gilbert Philippe,12,Fran\xe7aise des Jeux,6:10 6:10,\u25b29,8,2005
+25,155,78.0,+ 28:14:45,,22.0,Loosli David,13,Lampre-Caffita,6:15 6:15,\u25b29,8,2005
+21,185,80.0,+ 28:15:09,,10.0,Grivko Andrei,14,Domina Vacanze,6:39 6:39,\u25bc4,8,2005
+21,177,86.0,+ 28:16:27,,13.0,L\xf6fkvist Thomas,15,Fran\xe7aise des Jeux,7:57 7:57,\u25bc2,8,2005
+21,97,87.0,+ 28:16:37,,15.0,Sanchez Luis Leon,16,Liberty Seguros - W\xfcrth Team,8:07 8:07,\u25bc1,8,2005
+25,145,100.0,+ 28:18:21,,16.0,Geslin Anthony,17,Bouygues Telecom,9:51 9:51,\u25bc1,8,2005
+25,33,106.0,+ 28:20:28,,27.0,Arroyo David,18,Illes Balears - Caisse d'Epargne,11:58 11:58,\u25b29,8,2005
+24,94,110.0,+ 28:22:11,,7.0,Davis Allan,19,Liberty Seguros - W\xfcrth Team,13:41 13:41,\u25bc12,8,2005
+25,167,111.0,+ 28:22:23,,9.0,Wegmann Fabian,20,Gerolsteiner,13:53 13:53,\u25bc11,8,2005
+24,71,124.0,+ 28:26:01,,3.0,Cancellara Fabian,21,Fassa Bortolo,17:31 17:31,\u25bc18,8,2005
+23,74,125.0,+ 28:26:07,,23.0,Facci Mauro,22,Fassa Bortolo,17:37 17:37,\u25b21,8,2005
+24,131,126.0,+ 28:26:32,,5.0,Boonen Tom,23,Quickstep - Innergetic,18:02 18:02,\u25bc18,8,2005
+24,175,137.0,+ 28:28:29,,14.0,Eisel Bernhard,24,Fran\xe7aise des Jeux,19:59 19:59,\u25bc10,8,2005
+24,112,147.0,+ 28:32:38,,24.0,Albasini Michael,25,Liquigas,24:08 24:08,\u25bc1,8,2005
+25,205,157.0,+ 28:33:37,,25.0,Gerrans Simon,26,AG2R Pr\xe9voyance,25:07 25:07,\u25bc1,8,2005
+24,204,159.0,+ 28:33:50,,26.0,Dumoulin Samuel,27,AG2R Pr\xe9voyance,25:20 25:20,\u25bc1,8,2005
+24,189,162.0,+ 28:35:01,,31.0,Vanotti Alessandro,28,Domina Vacanze,26:31 26:31,\u25b23,8,2005
+24,179,164.0,+ 28:35:16,,28.0,Mourey Francis,29,Fran\xe7aise des Jeux,26:46 26:46,\u25bc1,8,2005
+24,48,165.0,+ 28:35:44,,29.0,Vansummeren Johan,30,Davitamon - Lotto,27:14 27:14,\u25bc1,8,2005
+23,148,172.0,+ 28:38:18,,30.0,Sprick Matthieu,31,Bouygues Telecom,29:48 29:48,\u25bc1,8,2005
+24,37,13.0,+4:31,,1.0,Karpets Vladimir,1,Illes Balears - Caisse d'Epargne,32:22:54 32:22:54,-,9,2005
+25,7,14.0,+4:32,,2.0,Popovych Yaroslav,2,Discovery Channel,0:01 0:01,-,9,2005
+25,38,24.0,+5:42,,3.0,Valverde Alejandro,3,Illes Balears - Caisse d'Epargne,1:11 1:11,-,9,2005
+22,93,26.0,+5:51,,4.0,Contador Alberto,4,Liberty Seguros - W\xfcrth Team,1:20 1:20,-,9,2005
+25,108,31.0,+6:24,,5.0,Kashechkin Andrey,5,Cr\xe9dit Agricole,1:53 1:53,-,9,2005
+24,59,40.0,+6:56,,6.0,Weening Pieter,6,Rabobank ProTeam,2:25 2:25,-,9,2005
+24,136,50.0,+8:05,,7.0,Sinkewitz Patrik,7,Quickstep - Innergetic,3:34 3:34,-,9,2005
+25,147,56.0,+8:29,,8.0,Pineau J\xe9rome,8,Bouygues Telecom,3:58 3:58,-,9,2005
+24,186,58.0,+8:36,,9.0,Iglinskiy Maxim,9,Domina Vacanze,4:05 4:05,-,9,2005
+23,176,69.0,+10:41,,12.0,Gilbert Philippe,10,Fran\xe7aise des Jeux,6:10 6:10,\u25b22,9,2005
+25,155,70.0,+10:46,,13.0,Loosli David,11,Lampre-Caffita,6:15 6:15,\u25b22,9,2005
+21,177,75.0,+12:28,,15.0,L\xf6fkvist Thomas,12,Fran\xe7aise des Jeux,7:57 7:57,\u25b23,9,2005
+21,97,76.0,+12:38,,16.0,Sanchez Luis Leon,13,Liberty Seguros - W\xfcrth Team,8:07 8:07,\u25b23,9,2005
+25,145,83.0,+14:22,,17.0,Geslin Anthony,14,Bouygues Telecom,9:51 9:51,\u25b23,9,2005
+25,33,88.0,+16:29,,18.0,Arroyo David,15,Illes Balears - Caisse d'Epargne,11:58 11:58,\u25b23,9,2005
+24,56,103.0,+21:59,,11.0,Posthuma Joost,16,Rabobank ProTeam,17:28 17:28,\u25bc5,9,2005
+21,185,109.0,+25:57,,14.0,Grivko Andrei,17,Domina Vacanze,21:26 21:26,\u25bc3,9,2005
+24,94,119.0,+31:14,,19.0,Davis Allan,18,Liberty Seguros - W\xfcrth Team,26:43 26:43,\u25b21,9,2005
+25,167,120.0,+31:26,,20.0,Wegmann Fabian,19,Gerolsteiner,26:55 26:55,\u25b21,9,2005
+24,71,128.0,+35:04,,21.0,Cancellara Fabian,20,Fassa Bortolo,30:33 30:33,\u25b21,9,2005
+23,74,129.0,+35:10,,22.0,Facci Mauro,21,Fassa Bortolo,30:39 30:39,\u25b21,9,2005
+24,131,130.0,+35:35,,23.0,Boonen Tom,22,Quickstep - Innergetic,31:04 31:04,\u25b21,9,2005
+24,175,137.0,+37:32,,24.0,Eisel Bernhard,23,Fran\xe7aise des Jeux,33:01 33:01,\u25b21,9,2005
+24,179,143.0,+39:30,,29.0,Mourey Francis,24,Fran\xe7aise des Jeux,34:59 34:59,\u25b25,9,2005
+24,112,148.0,+41:41,,25.0,Albasini Michael,25,Liquigas,37:10 37:10,-,9,2005
+23,148,156.0,+42:32,,31.0,Sprick Matthieu,26,Bouygues Telecom,38:01 38:01,\u25b25,9,2005
+25,205,158.0,+42:40,,26.0,Gerrans Simon,27,AG2R Pr\xe9voyance,38:09 38:09,\u25bc1,9,2005
+24,204,160.0,+42:53,,27.0,Dumoulin Samuel,28,AG2R Pr\xe9voyance,38:22 38:22,\u25bc1,9,2005
+24,48,163.0,+44:47,,30.0,Vansummeren Johan,29,Davitamon - Lotto,40:16 40:16,\u25b21,9,2005
+24,189,166.0,+45:49,,28.0,Vanotti Alessandro,30,Domina Vacanze,41:18 41:18,\u25bc2,9,2005
+25,38,5.0,+ 37:14:20,,3.0,Valverde Alejandro,1,Illes Balears - Caisse d'Epargne,37:14:20 37:14:20,\u25b22,10,2005
+25,7,14.0,+ 37:17:29,,2.0,Popovych Yaroslav,2,Discovery Channel,3:09 3:09,-,10,2005
+25,108,15.0,+ 37:17:36,,5.0,Kashechkin Andrey,3,Cr\xe9dit Agricole,3:16 3:16,\u25b22,10,2005
+24,37,23.0,+ 37:20:07,,1.0,Karpets Vladimir,4,Illes Balears - Caisse d'Epargne,5:47 5:47,\u25bc3,10,2005
+22,93,27.0,+ 37:21:27,,4.0,Contador Alberto,5,Liberty Seguros - W\xfcrth Team,7:07 7:07,\u25bc1,10,2005
+24,186,38.0,+ 37:24:12,,9.0,Iglinskiy Maxim,6,Domina Vacanze,9:52 9:52,\u25b23,10,2005
+25,147,49.0,+ 37:29:18,,8.0,Pineau J\xe9rome,7,Bouygues Telecom,14:58 14:58,\u25b21,10,2005
+21,177,56.0,+ 37:33:17,,12.0,L\xf6fkvist Thomas,8,Fran\xe7aise des Jeux,18:57 18:57,\u25b24,10,2005
+24,136,57.0,+ 37:33:34,,7.0,Sinkewitz Patrik,9,Quickstep - Innergetic,19:14 19:14,\u25bc2,10,2005
+25,33,77.0,+ 37:41:58,,15.0,Arroyo David,10,Illes Balears - Caisse d'Epargne,27:38 27:38,\u25b25,10,2005
+24,59,85.0,+ 37:44:45,,6.0,Weening Pieter,11,Rabobank ProTeam,30:25 30:25,\u25bc5,10,2005
+24,56,87.0,+ 37:45:21,,16.0,Posthuma Joost,12,Rabobank ProTeam,31:01 31:01,\u25b24,10,2005
+21,97,93.0,+ 37:49:35,,13.0,Sanchez Luis Leon,13,Liberty Seguros - W\xfcrth Team,35:15 35:15,-,10,2005
+25,155,97.0,+ 37:53:35,,11.0,Loosli David,14,Lampre-Caffita,39:15 39:15,\u25bc3,10,2005
+23,176,101.0,+ 37:57:50,,10.0,Gilbert Philippe,15,Fran\xe7aise des Jeux,43:30 43:30,\u25bc5,10,2005
+25,145,104.0,+ 38:01:31,,14.0,Geslin Anthony,16,Bouygues Telecom,47:11 47:11,\u25bc2,10,2005
+25,167,105.0,+ 38:01:55,,19.0,Wegmann Fabian,17,Gerolsteiner,47:35 47:35,\u25b22,10,2005
+24,179,113.0,+ 38:09:59,,24.0,Mourey Francis,18,Fran\xe7aise des Jeux,55:39 55:39,\u25b26,10,2005
+23,148,116.0,+ 38:13:01,,26.0,Sprick Matthieu,19,Bouygues Telecom,58:41 58:41,\u25b27,10,2005
+21,185,117.0,+ 38:13:06,,17.0,Grivko Andrei,20,Domina Vacanze,58:46 58:46,\u25bc3,10,2005
+24,94,119.0,+ 38:14:03,,18.0,Davis Allan,21,Liberty Seguros - W\xfcrth Team,59:43 59:43,\u25bc3,10,2005
+23,74,122.0,+ 38:15:33,,21.0,Facci Mauro,22,Fassa Bortolo,1:01:13 1:01:13,\u25bc1,10,2005
+24,189,124.0,+ 38:16:18,,30.0,Vanotti Alessandro,23,Domina Vacanze,1:01:58 1:01:58,\u25b27,10,2005
+24,71,133.0,+ 38:22:13,,20.0,Cancellara Fabian,24,Fassa Bortolo,1:07:53 1:07:53,\u25bc4,10,2005
+24,131,134.0,+ 38:22:44,,22.0,Boonen Tom,25,Quickstep - Innergetic,1:08:24 1:08:24,\u25bc3,10,2005
+24,175,141.0,+ 38:24:41,,23.0,Eisel Bernhard,26,Fran\xe7aise des Jeux,1:10:21 1:10:21,\u25bc3,10,2005
+24,48,148.0,+ 38:27:36,,29.0,Vansummeren Johan,27,Davitamon - Lotto,1:13:16 1:13:16,\u25b22,10,2005
+24,112,150.0,+ 38:28:50,,25.0,Albasini Michael,28,Liquigas,1:14:30 1:14:30,\u25bc3,10,2005
+25,205,159.0,+ 38:29:49,,27.0,Gerrans Simon,29,AG2R Pr\xe9voyance,1:15:29 1:15:29,\u25bc2,10,2005
+24,204,161.0,+ 38:30:02,,28.0,Dumoulin Samuel,30,AG2R Pr\xe9voyance,1:15:42 1:15:42,\u25bc2,10,2005
+25,38,5.0,+ 42:03:13,,1.0,Valverde Alejandro,1,Illes Balears - Caisse d'Epargne,42:03:13 42:03:13,-,11,2005
+25,7,15.0,+ 42:06:22,,2.0,Popovych Yaroslav,2,Discovery Channel,3:09 3:09,-,11,2005
+25,108,16.0,+ 42:06:29,,3.0,Kashechkin Andrey,3,Cr\xe9dit Agricole,3:16 3:16,-,11,2005
+22,93,32.0,+ 42:19:32,,5.0,Contador Alberto,4,Liberty Seguros - W\xfcrth Team,16:19 16:19,\u25b21,11,2005
+24,186,39.0,+ 42:28:52,,6.0,Iglinskiy Maxim,5,Domina Vacanze,25:39 25:39,\u25b21,11,2005
+24,37,52.0,+ 42:47:31,,4.0,Karpets Vladimir,6,Illes Balears - Caisse d'Epargne,44:18 44:18,\u25bc2,11,2005
+25,147,53.0,+ 42:48:11,,7.0,Pineau J\xe9rome,7,Bouygues Telecom,44:58 44:58,-,11,2005
+21,177,58.0,+ 42:52:10,,8.0,L\xf6fkvist Thomas,8,Fran\xe7aise des Jeux,48:57 48:57,-,11,2005
+24,136,59.0,+ 42:52:27,,9.0,Sinkewitz Patrik,9,Quickstep - Innergetic,49:14 49:14,-,11,2005
+25,33,73.0,+ 43:00:51,,10.0,Arroyo David,10,Illes Balears - Caisse d'Epargne,57:38 57:38,-,11,2005
+24,59,81.0,+ 43:03:38,,11.0,Weening Pieter,11,Rabobank ProTeam,1:00:25 1:00:25,-,11,2005
+24,56,83.0,+ 43:04:14,,12.0,Posthuma Joost,12,Rabobank ProTeam,1:01:01 1:01:01,-,11,2005
+25,155,91.0,+ 43:12:28,,14.0,Loosli David,13,Lampre-Caffita,1:09:15 1:09:15,\u25b21,11,2005
+24,179,93.0,+ 43:14:49,,18.0,Mourey Francis,14,Fran\xe7aise des Jeux,1:11:36 1:11:36,\u25b24,11,2005
+23,176,95.0,+ 43:16:43,,15.0,Gilbert Philippe,15,Fran\xe7aise des Jeux,1:13:30 1:13:30,-,11,2005
+21,97,98.0,+ 43:16:59,,13.0,Sanchez Luis Leon,16,Liberty Seguros - W\xfcrth Team,1:13:46 1:13:46,\u25bc3,11,2005
+25,167,101.0,+ 43:20:48,,17.0,Wegmann Fabian,17,Gerolsteiner,1:17:35 1:17:35,-,11,2005
+25,145,109.0,+ 43:28:55,,16.0,Geslin Anthony,18,Bouygues Telecom,1:25:42 1:25:42,\u25bc2,11,2005
+21,185,111.0,+ 43:31:59,,20.0,Grivko Andrei,19,Domina Vacanze,1:28:46 1:28:46,\u25b21,11,2005
+23,148,118.0,+ 43:40:25,,19.0,Sprick Matthieu,20,Bouygues Telecom,1:37:12 1:37:12,\u25bc1,11,2005
+24,94,121.0,+ 43:41:27,,21.0,Davis Allan,21,Liberty Seguros - W\xfcrth Team,1:38:14 1:38:14,-,11,2005
+23,74,126.0,+ 43:42:57,,22.0,Facci Mauro,22,Fassa Bortolo,1:39:44 1:39:44,-,11,2005
+24,189,127.0,+ 43:43:42,,23.0,Vanotti Alessandro,23,Domina Vacanze,1:40:29 1:40:29,-,11,2005
+24,204,134.0,+ 43:48:55,,30.0,Dumoulin Samuel,24,AG2R Pr\xe9voyance,1:45:42 1:45:42,\u25b26,11,2005
+24,71,136.0,+ 43:49:37,,24.0,Cancellara Fabian,25,Fassa Bortolo,1:46:24 1:46:24,\u25bc1,11,2005
+24,131,137.0,+ 43:50:08,,25.0,Boonen Tom,26,Quickstep - Innergetic,1:46:55 1:46:55,\u25bc1,11,2005
+24,175,143.0,+ 43:52:05,,26.0,Eisel Bernhard,27,Fran\xe7aise des Jeux,1:48:52 1:48:52,\u25bc1,11,2005
+24,48,149.0,+ 43:55:00,,27.0,Vansummeren Johan,28,Davitamon - Lotto,1:51:47 1:51:47,\u25bc1,11,2005
+24,112,151.0,+ 43:56:14,,28.0,Albasini Michael,29,Liquigas,1:53:01 1:53:01,\u25bc1,11,2005
+25,205,159.0,+ 43:57:13,,29.0,Gerrans Simon,30,AG2R Pr\xe9voyance,1:54:00 1:54:00,\u25bc1,11,2005
+25,38,5.0,+ 46:33:52,,1.0,Valverde Alejandro,1,Illes Balears - Caisse d'Epargne,46:33:52 46:33:52,-,12,2005
+25,7,15.0,+ 46:37:01,,2.0,Popovych Yaroslav,2,Discovery Channel,3:09 3:09,-,12,2005
+25,108,16.0,+ 46:37:08,,3.0,Kashechkin Andrey,3,Cr\xe9dit Agricole,3:16 3:16,-,12,2005
+22,93,32.0,+ 46:50:07,,4.0,Contador Alberto,4,Liberty Seguros - W\xfcrth Team,16:15 16:15,-,12,2005
+24,186,39.0,+ 46:59:31,,5.0,Iglinskiy Maxim,5,Domina Vacanze,25:39 25:39,-,12,2005
+24,37,54.0,+ 47:18:10,,6.0,Karpets Vladimir,6,Illes Balears - Caisse d'Epargne,44:18 44:18,-,12,2005
+25,147,55.0,+ 47:18:50,,7.0,Pineau J\xe9rome,7,Bouygues Telecom,44:58 44:58,-,12,2005
+21,177,60.0,+ 47:22:49,,8.0,L\xf6fkvist Thomas,8,Fran\xe7aise des Jeux,48:57 48:57,-,12,2005
+24,136,61.0,+ 47:23:06,,9.0,Sinkewitz Patrik,9,Quickstep - Innergetic,49:14 49:14,-,12,2005
+25,33,76.0,+ 47:31:30,,10.0,Arroyo David,10,Illes Balears - Caisse d'Epargne,57:38 57:38,-,12,2005
+24,59,81.0,+ 47:34:17,,11.0,Weening Pieter,11,Rabobank ProTeam,1:00:25 1:00:25,-,12,2005
+24,56,83.0,+ 47:34:53,,12.0,Posthuma Joost,12,Rabobank ProTeam,1:01:01 1:01:01,-,12,2005
+25,155,89.0,+ 47:43:07,,13.0,Loosli David,13,Lampre-Caffita,1:09:15 1:09:15,-,12,2005
+24,179,91.0,+ 47:45:28,,14.0,Mourey Francis,14,Fran\xe7aise des Jeux,1:11:36 1:11:36,-,12,2005
+23,176,93.0,+ 47:47:22,,15.0,Gilbert Philippe,15,Fran\xe7aise des Jeux,1:13:30 1:13:30,-,12,2005
+21,97,96.0,+ 47:47:38,,16.0,Sanchez Luis Leon,16,Liberty Seguros - W\xfcrth Team,1:13:46 1:13:46,-,12,2005
+25,167,99.0,+ 47:51:27,,17.0,Wegmann Fabian,17,Gerolsteiner,1:17:35 1:17:35,-,12,2005
+25,145,108.0,+ 47:59:34,,18.0,Geslin Anthony,18,Bouygues Telecom,1:25:42 1:25:42,-,12,2005
+21,185,109.0,+ 48:02:38,,19.0,Grivko Andrei,19,Domina Vacanze,1:28:46 1:28:46,-,12,2005
+23,148,116.0,+ 48:11:04,,20.0,Sprick Matthieu,20,Bouygues Telecom,1:37:12 1:37:12,-,12,2005
+24,94,119.0,+ 48:12:06,,21.0,Davis Allan,21,Liberty Seguros - W\xfcrth Team,1:38:14 1:38:14,-,12,2005
+23,74,123.0,+ 48:13:36,,22.0,Facci Mauro,22,Fassa Bortolo,1:39:44 1:39:44,-,12,2005
+24,189,124.0,+ 48:14:21,,23.0,Vanotti Alessandro,23,Domina Vacanze,1:40:29 1:40:29,-,12,2005
+24,204,130.0,+ 48:19:34,,24.0,Dumoulin Samuel,24,AG2R Pr\xe9voyance,1:45:42 1:45:42,-,12,2005
+24,71,132.0,+ 48:20:56,,25.0,Cancellara Fabian,25,Fassa Bortolo,1:47:04 1:47:04,-,12,2005
+24,175,139.0,+ 48:22:44,,27.0,Eisel Bernhard,26,Fran\xe7aise des Jeux,1:48:52 1:48:52,\u25b21,12,2005
+24,112,144.0,+ 48:26:53,,29.0,Albasini Michael,27,Liquigas,1:53:01 1:53:01,\u25b22,12,2005
+25,205,148.0,+ 48:27:52,,30.0,Gerrans Simon,28,AG2R Pr\xe9voyance,1:54:00 1:54:00,\u25b22,12,2005
+24,48,152.0,+ 48:32:01,,28.0,Vansummeren Johan,29,Davitamon - Lotto,1:58:09 1:58:09,\u25bc1,12,2005
+25,7,14.0,+ 50:20:15,,2.0,Popovych Yaroslav,1,Discovery Channel,50:20:15 50:20:15,\u25b21,13,2005
+25,108,15.0,+ 50:20:22,,3.0,Kashechkin Andrey,2,Cr\xe9dit Agricole,0:07 0:07,\u25b21,13,2005
+22,93,31.0,+ 50:33:21,,4.0,Contador Alberto,3,Liberty Seguros - W\xfcrth Team,13:06 13:06,\u25b21,13,2005
+24,186,37.0,+ 50:42:45,,5.0,Iglinskiy Maxim,4,Domina Vacanze,22:30 22:30,\u25b21,13,2005
+24,37,53.0,+ 51:01:47,,6.0,Karpets Vladimir,5,Illes Balears - Caisse d'Epargne,41:32 41:32,\u25b21,13,2005
+25,147,54.0,+ 51:02:04,,7.0,Pineau J\xe9rome,6,Bouygues Telecom,41:49 41:49,\u25b21,13,2005
+21,177,58.0,+ 51:06:03,,8.0,L\xf6fkvist Thomas,7,Fran\xe7aise des Jeux,45:48 45:48,\u25b21,13,2005
+24,136,60.0,+ 51:06:20,,9.0,Sinkewitz Patrik,8,Quickstep - Innergetic,46:05 46:05,\u25b21,13,2005
+25,33,74.0,+ 51:14:44,,10.0,Arroyo David,9,Illes Balears - Caisse d'Epargne,54:29 54:29,\u25b21,13,2005
+24,59,80.0,+ 51:17:31,,11.0,Weening Pieter,10,Rabobank ProTeam,57:16 57:16,\u25b21,13,2005
+24,56,82.0,+ 51:18:07,,12.0,Posthuma Joost,11,Rabobank ProTeam,57:52 57:52,\u25b21,13,2005
+25,155,88.0,+ 51:26:44,,13.0,Loosli David,12,Lampre-Caffita,1:06:29 1:06:29,\u25b21,13,2005
+24,179,90.0,+ 51:29:05,,14.0,Mourey Francis,13,Fran\xe7aise des Jeux,1:08:50 1:08:50,\u25b21,13,2005
+23,176,92.0,+ 51:30:36,,15.0,Gilbert Philippe,14,Fran\xe7aise des Jeux,1:10:21 1:10:21,\u25b21,13,2005
+21,97,94.0,+ 51:30:52,,16.0,Sanchez Luis Leon,15,Liberty Seguros - W\xfcrth Team,1:10:37 1:10:37,\u25b21,13,2005
+25,167,100.0,+ 51:35:04,,17.0,Wegmann Fabian,16,Gerolsteiner,1:14:49 1:14:49,\u25b21,13,2005
+25,145,107.0,+ 51:42:48,,18.0,Geslin Anthony,17,Bouygues Telecom,1:22:33 1:22:33,\u25b21,13,2005
+21,185,108.0,+ 51:46:15,,19.0,Grivko Andrei,18,Domina Vacanze,1:26:00 1:26:00,\u25b21,13,2005
+23,148,116.0,+ 51:54:41,,20.0,Sprick Matthieu,19,Bouygues Telecom,1:34:26 1:34:26,\u25b21,13,2005
+24,94,118.0,+ 51:55:20,,21.0,Davis Allan,20,Liberty Seguros - W\xfcrth Team,1:35:05 1:35:05,\u25b21,13,2005
+23,74,122.0,+ 51:57:13,,22.0,Facci Mauro,21,Fassa Bortolo,1:36:58 1:36:58,\u25b21,13,2005
+24,189,123.0,+ 51:57:58,,23.0,Vanotti Alessandro,22,Domina Vacanze,1:37:43 1:37:43,\u25b21,13,2005
+24,204,128.0,+ 52:02:48,,24.0,Dumoulin Samuel,23,AG2R Pr\xe9voyance,1:42:33 1:42:33,\u25b21,13,2005
+24,71,133.0,+ 52:04:33,,25.0,Cancellara Fabian,24,Fassa Bortolo,1:44:18 1:44:18,\u25b21,13,2005
+24,175,137.0,+ 52:05:58,,26.0,Eisel Bernhard,25,Fran\xe7aise des Jeux,1:45:43 1:45:43,\u25b21,13,2005
+24,112,146.0,+ 52:10:43,,27.0,Albasini Michael,26,Liquigas,1:50:28 1:50:28,\u25b21,13,2005
+25,205,148.0,+ 52:11:29,,28.0,Gerrans Simon,27,AG2R Pr\xe9voyance,1:51:14 1:51:14,\u25b21,13,2005
+24,48,160.0,+ 52:26:24,,29.0,Vansummeren Johan,28,Davitamon - Lotto,2:06:09 2:06:09,\u25b21,13,2005
+25,7,13.0,+ 56:08:16,,1.0,Popovych Yaroslav,1,Discovery Channel,56:08:16 56:08:16,-,14,2005
+25,108,17.0,+ 56:11:12,,2.0,Kashechkin Andrey,2,Cr\xe9dit Agricole,2:56 2:56,-,14,2005
+24,186,33.0,+ 56:35:41,,4.0,Iglinskiy Maxim,3,Domina Vacanze,27:25 27:25,\u25b21,14,2005
+22,93,35.0,+ 56:38:29,,3.0,Contador Alberto,4,Liberty Seguros - W\xfcrth Team,30:13 30:13,\u25bc1,14,2005
+24,37,45.0,+ 57:00:09,,5.0,Karpets Vladimir,5,Illes Balears - Caisse d'Epargne,51:53 51:53,-,14,2005
+25,33,51.0,+ 57:07:01,,9.0,Arroyo David,6,Illes Balears - Caisse d'Epargne,58:45 58:45,\u25b23,14,2005
+25,147,55.0,+ 57:08:38,,6.0,Pineau J\xe9rome,7,Bouygues Telecom,1:00:22 1:00:22,\u25bc1,14,2005
+24,136,59.0,+ 57:11:28,,8.0,Sinkewitz Patrik,8,Quickstep - Innergetic,1:03:12 1:03:12,-,14,2005
+21,177,71.0,+ 57:22:01,,7.0,L\xf6fkvist Thomas,9,Fran\xe7aise des Jeux,1:13:45 1:13:45,\u25bc2,14,2005
+23,176,74.0,+ 57:25:03,,14.0,Gilbert Philippe,10,Fran\xe7aise des Jeux,1:16:47 1:16:47,\u25b24,14,2005
+24,59,81.0,+ 57:30:22,,10.0,Weening Pieter,11,Rabobank ProTeam,1:22:06 1:22:06,\u25bc1,14,2005
+21,185,89.0,+ 57:36:34,,18.0,Grivko Andrei,12,Domina Vacanze,1:28:18 1:28:18,\u25b26,14,2005
+24,56,91.0,+ 57:37:40,,11.0,Posthuma Joost,13,Rabobank ProTeam,1:29:24 1:29:24,\u25bc2,14,2005
+25,167,92.0,+ 57:40:12,,16.0,Wegmann Fabian,14,Gerolsteiner,1:31:56 1:31:56,\u25b22,14,2005
+24,179,94.0,+ 57:42:01,,13.0,Mourey Francis,15,Fran\xe7aise des Jeux,1:33:45 1:33:45,\u25bc2,14,2005
+25,155,97.0,+ 57:42:48,,12.0,Loosli David,16,Lampre-Caffita,1:34:32 1:34:32,\u25bc4,14,2005
+21,97,99.0,+ 57:46:56,,15.0,Sanchez Luis Leon,17,Liberty Seguros - W\xfcrth Team,1:38:40 1:38:40,\u25bc2,14,2005
+25,145,109.0,+ 57:58:46,,17.0,Geslin Anthony,18,Bouygues Telecom,1:50:30 1:50:30,\u25bc1,14,2005
+24,94,117.0,+ 58:11:18,,20.0,Davis Allan,19,Liberty Seguros - W\xfcrth Team,2:03:02 2:03:02,\u25b21,14,2005
+23,148,121.0,+ 58:14:14,,19.0,Sprick Matthieu,20,Bouygues Telecom,2:05:58 2:05:58,\u25bc1,14,2005
+23,74,125.0,+ 58:16:46,,21.0,Facci Mauro,21,Fassa Bortolo,2:08:30 2:08:30,-,14,2005
+24,189,126.0,+ 58:17:31,,22.0,Vanotti Alessandro,22,Domina Vacanze,2:09:15 2:09:15,-,14,2005
+24,204,127.0,+ 58:18:46,,23.0,Dumoulin Samuel,23,AG2R Pr\xe9voyance,2:10:30 2:10:30,-,14,2005
+24,71,135.0,+ 58:24:06,,24.0,Cancellara Fabian,24,Fassa Bortolo,2:15:50 2:15:50,-,14,2005
+24,175,137.0,+ 58:25:31,,25.0,Eisel Bernhard,25,Fran\xe7aise des Jeux,2:17:15 2:17:15,-,14,2005
+25,205,143.0,+ 58:27:27,,27.0,Gerrans Simon,26,AG2R Pr\xe9voyance,2:19:11 2:19:11,\u25b21,14,2005
+24,112,146.0,+ 58:30:16,,26.0,Albasini Michael,27,Liquigas,2:22:00 2:22:00,\u25bc1,14,2005
+24,48,159.0,+ 58:45:57,,28.0,Vansummeren Johan,28,Davitamon - Lotto,2:37:41 2:37:41,-,14,2005
+25,7,12.0,+ 62:24:26,,1.0,Popovych Yaroslav,1,Discovery Channel,62:24:26 62:24:26,-,15,2005
+25,108,19.0,+ 62:30:34,,2.0,Kashechkin Andrey,2,Cr\xe9dit Agricole,6:08 6:08,-,15,2005
+22,93,31.0,+ 63:01:08,,4.0,Contador Alberto,3,Liberty Seguros - W\xfcrth Team,36:42 36:42,\u25b21,15,2005
+24,186,39.0,+ 63:18:28,,3.0,Iglinskiy Maxim,4,Domina Vacanze,54:02 54:02,\u25bc1,15,2005
+25,147,44.0,+ 63:29:38,,7.0,Pineau J\xe9rome,5,Bouygues Telecom,1:05:12 1:05:12,\u25b22,15,2005
+25,33,45.0,+ 63:30:10,,6.0,Arroyo David,6,Illes Balears - Caisse d'Epargne,1:05:44 1:05:44,-,15,2005
+24,37,50.0,+ 63:42:56,,5.0,Karpets Vladimir,7,Illes Balears - Caisse d'Epargne,1:18:30 1:18:30,\u25bc2,15,2005
+24,136,57.0,+ 63:54:15,,8.0,Sinkewitz Patrik,8,Quickstep - Innergetic,1:29:49 1:29:49,-,15,2005
+21,177,70.0,+ 64:04:48,,9.0,L\xf6fkvist Thomas,9,Fran\xe7aise des Jeux,1:40:22 1:40:22,-,15,2005
+24,59,78.0,+ 64:13:09,,11.0,Weening Pieter,10,Rabobank ProTeam,1:48:43 1:48:43,\u25b21,15,2005
+23,176,80.0,+ 64:15:51,,10.0,Gilbert Philippe,11,Fran\xe7aise des Jeux,1:51:25 1:51:25,\u25bc1,15,2005
+24,56,87.0,+ 64:20:27,,13.0,Posthuma Joost,12,Rabobank ProTeam,1:56:01 1:56:01,\u25b21,15,2005
+25,167,90.0,+ 64:22:59,,14.0,Wegmann Fabian,13,Gerolsteiner,1:58:33 1:58:33,\u25b21,15,2005
+21,185,97.0,+ 64:27:22,,12.0,Grivko Andrei,14,Domina Vacanze,2:02:56 2:02:56,\u25bc2,15,2005
+24,94,98.0,+ 64:28:25,,19.0,Davis Allan,15,Liberty Seguros - W\xfcrth Team,2:03:59 2:03:59,\u25b24,15,2005
+24,179,99.0,+ 64:32:49,,15.0,Mourey Francis,16,Fran\xe7aise des Jeux,2:08:23 2:08:23,\u25bc1,15,2005
+25,155,100.0,+ 64:33:36,,16.0,Loosli David,17,Lampre-Caffita,2:09:10 2:09:10,\u25bc1,15,2005
+21,97,103.0,+ 64:37:44,,17.0,Sanchez Luis Leon,18,Liberty Seguros - W\xfcrth Team,2:13:18 2:13:18,\u25bc1,15,2005
+25,145,108.0,+ 64:41:33,,18.0,Geslin Anthony,19,Bouygues Telecom,2:17:07 2:17:07,\u25bc1,15,2005
+23,148,118.0,+ 64:57:01,,20.0,Sprick Matthieu,20,Bouygues Telecom,2:32:35 2:32:35,-,15,2005
+23,74,127.0,+ 65:07:34,,21.0,Facci Mauro,21,Fassa Bortolo,2:43:08 2:43:08,-,15,2005
+24,189,129.0,+ 65:08:19,,22.0,Vanotti Alessandro,22,Domina Vacanze,2:43:53 2:43:53,-,15,2005
+24,71,130.0,+ 65:08:41,,24.0,Cancellara Fabian,23,Fassa Bortolo,2:44:15 2:44:15,\u25b21,15,2005
+24,204,132.0,+ 65:09:34,,23.0,Dumoulin Samuel,24,AG2R Pr\xe9voyance,2:45:08 2:45:08,\u25bc1,15,2005
+24,175,138.0,+ 65:16:19,,25.0,Eisel Bernhard,25,Fran\xe7aise des Jeux,2:51:53 2:51:53,-,15,2005
+25,205,143.0,+ 65:18:15,,26.0,Gerrans Simon,26,AG2R Pr\xe9voyance,2:53:49 2:53:49,-,15,2005
+24,112,147.0,+ 65:21:04,,27.0,Albasini Michael,27,Liquigas,2:56:38 2:56:38,-,15,2005
+24,48,154.0,+ 65:28:44,,28.0,Vansummeren Johan,28,Davitamon - Lotto,3:04:18 3:04:18,-,15,2005
+25,7,13.0,+ 67:06:30,,1.0,Popovych Yaroslav,1,Discovery Channel,67:06:30 67:06:30,-,16,2005
+25,108,19.0,+ 67:12:38,,2.0,Kashechkin Andrey,2,Cr\xe9dit Agricole,6:08 6:08,-,16,2005
+22,93,31.0,+ 67:43:12,,3.0,Contador Alberto,3,Liberty Seguros - W\xfcrth Team,36:42 36:42,-,16,2005
+24,186,39.0,+ 68:00:32,,4.0,Iglinskiy Maxim,4,Domina Vacanze,54:02 54:02,-,16,2005
+25,147,42.0,+ 68:10:50,,5.0,Pineau J\xe9rome,5,Bouygues Telecom,1:04:20 1:04:20,-,16,2005
+24,37,48.0,+ 68:25:00,,7.0,Karpets Vladimir,6,Illes Balears - Caisse d'Epargne,1:18:30 1:18:30,\u25b21,16,2005
+25,33,51.0,+ 68:29:06,,6.0,Arroyo David,7,Illes Balears - Caisse d'Epargne,1:22:36 1:22:36,\u25bc1,16,2005
+24,136,58.0,+ 68:43:00,,8.0,Sinkewitz Patrik,8,Quickstep - Innergetic,1:36:30 1:36:30,-,16,2005
+23,176,70.0,+ 68:56:50,,11.0,Gilbert Philippe,9,Fran\xe7aise des Jeux,1:50:20 1:50:20,\u25b22,16,2005
+24,59,77.0,+ 69:02:04,,10.0,Weening Pieter,10,Rabobank ProTeam,1:55:34 1:55:34,-,16,2005
+21,177,79.0,+ 69:03:44,,9.0,L\xf6fkvist Thomas,11,Fran\xe7aise des Jeux,1:57:14 1:57:14,\u25bc2,16,2005
+25,167,81.0,+ 69:05:03,,13.0,Wegmann Fabian,12,Gerolsteiner,1:58:33 1:58:33,\u25b21,16,2005
+24,56,85.0,+ 69:09:12,,12.0,Posthuma Joost,13,Rabobank ProTeam,2:02:42 2:02:42,\u25bc1,16,2005
+24,179,88.0,+ 69:14:53,,16.0,Mourey Francis,14,Fran\xe7aise des Jeux,2:08:23 2:08:23,\u25b22,16,2005
+25,155,93.0,+ 69:22:21,,17.0,Loosli David,15,Lampre-Caffita,2:15:51 2:15:51,\u25b22,16,2005
+25,145,94.0,+ 69:22:38,,19.0,Geslin Anthony,16,Bouygues Telecom,2:16:08 2:16:08,\u25b23,16,2005
+21,185,100.0,+ 69:26:18,,14.0,Grivko Andrei,17,Domina Vacanze,2:19:48 2:19:48,\u25bc3,16,2005
+24,94,103.0,+ 69:27:21,,15.0,Davis Allan,18,Liberty Seguros - W\xfcrth Team,2:20:51 2:20:51,\u25bc3,16,2005
+21,97,106.0,+ 69:36:40,,18.0,Sanchez Luis Leon,19,Liberty Seguros - W\xfcrth Team,2:30:10 2:30:10,\u25bc1,16,2005
+23,148,119.0,+ 69:57:14,,20.0,Sprick Matthieu,20,Bouygues Telecom,2:50:44 2:50:44,-,16,2005
+24,71,127.0,+ 70:07:37,,23.0,Cancellara Fabian,21,Fassa Bortolo,3:01:07 3:01:07,\u25b22,16,2005
+23,74,128.0,+ 70:07:47,,21.0,Facci Mauro,22,Fassa Bortolo,3:01:17 3:01:17,\u25bc1,16,2005
+24,189,131.0,+ 70:08:32,,22.0,Vanotti Alessandro,23,Domina Vacanze,3:02:02 3:02:02,\u25bc1,16,2005
+24,204,132.0,+ 70:09:47,,24.0,Dumoulin Samuel,24,AG2R Pr\xe9voyance,3:03:17 3:03:17,-,16,2005
+24,175,139.0,+ 70:16:32,,25.0,Eisel Bernhard,25,Fran\xe7aise des Jeux,3:10:02 3:10:02,-,16,2005
+24,48,141.0,+ 70:17:29,,28.0,Vansummeren Johan,26,Davitamon - Lotto,3:10:59 3:10:59,\u25b22,16,2005
+25,205,144.0,+ 70:18:28,,26.0,Gerrans Simon,27,AG2R Pr\xe9voyance,3:11:58 3:11:58,\u25bc1,16,2005
+24,112,146.0,+ 70:21:17,,27.0,Albasini Michael,28,Liquigas,3:14:47 3:14:47,\u25bc1,16,2005
+25,7,12.0,+ 73:10:17,,1.0,Popovych Yaroslav,1,Discovery Channel,73:10:17 73:10:17,-,17,2005
+25,108,19.0,+ 73:16:45,,2.0,Kashechkin Andrey,2,Cr\xe9dit Agricole,6:28 6:28,-,17,2005
+22,93,31.0,+ 73:48:51,,3.0,Contador Alberto,3,Liberty Seguros - W\xfcrth Team,38:34 38:34,-,17,2005
+24,186,39.0,+ 74:05:20,,4.0,Iglinskiy Maxim,4,Domina Vacanze,55:03 55:03,-,17,2005
+25,147,41.0,+ 74:17:22,,5.0,Pineau J\xe9rome,5,Bouygues Telecom,1:07:05 1:07:05,-,17,2005
+24,37,48.0,+ 74:30:39,,6.0,Karpets Vladimir,6,Illes Balears - Caisse d'Epargne,1:20:22 1:20:22,-,17,2005
+25,33,51.0,+ 74:37:34,,7.0,Arroyo David,7,Illes Balears - Caisse d'Epargne,1:27:17 1:27:17,-,17,2005
+24,136,59.0,+ 74:48:39,,8.0,Sinkewitz Patrik,8,Quickstep - Innergetic,1:38:22 1:38:22,-,17,2005
+21,177,60.0,+ 74:49:12,,11.0,L\xf6fkvist Thomas,9,Fran\xe7aise des Jeux,1:38:55 1:38:55,\u25b22,17,2005
+23,176,70.0,+ 75:01:36,,9.0,Gilbert Philippe,10,Fran\xe7aise des Jeux,1:51:19 1:51:19,\u25bc1,17,2005
+24,59,77.0,+ 75:07:43,,10.0,Weening Pieter,11,Rabobank ProTeam,1:57:26 1:57:26,\u25bc1,17,2005
+21,185,78.0,+ 75:08:01,,17.0,Grivko Andrei,12,Domina Vacanze,1:57:44 1:57:44,\u25b25,17,2005
+24,94,82.0,+ 75:11:50,,18.0,Davis Allan,13,Liberty Seguros - W\xfcrth Team,2:01:33 2:01:33,\u25b25,17,2005
+25,167,83.0,+ 75:12:16,,12.0,Wegmann Fabian,14,Gerolsteiner,2:01:59 2:01:59,\u25bc2,17,2005
+24,56,85.0,+ 75:14:51,,13.0,Posthuma Joost,15,Rabobank ProTeam,2:04:34 2:04:34,\u25bc2,17,2005
+24,179,90.0,+ 75:22:06,,14.0,Mourey Francis,16,Fran\xe7aise des Jeux,2:11:49 2:11:49,\u25bc2,17,2005
+25,155,97.0,+ 75:29:34,,15.0,Loosli David,17,Lampre-Caffita,2:19:17 2:19:17,\u25bc2,17,2005
+25,145,98.0,+ 75:29:51,,16.0,Geslin Anthony,18,Bouygues Telecom,2:19:34 2:19:34,\u25bc2,17,2005
+21,97,109.0,+ 75:42:19,,19.0,Sanchez Luis Leon,19,Liberty Seguros - W\xfcrth Team,2:32:02 2:32:02,-,17,2005
+24,204,115.0,+ 75:54:20,,24.0,Dumoulin Samuel,20,AG2R Pr\xe9voyance,2:44:03 2:44:03,\u25b24,17,2005
+25,205,122.0,+ 75:59:41,,27.0,Gerrans Simon,21,AG2R Pr\xe9voyance,2:49:24 2:49:24,\u25b26,17,2005
+23,148,124.0,+ 76:02:53,,20.0,Sprick Matthieu,22,Bouygues Telecom,2:52:36 2:52:36,\u25bc2,17,2005
+23,74,129.0,+ 76:13:26,,22.0,Facci Mauro,23,Fassa Bortolo,3:03:09 3:03:09,\u25bc1,17,2005
+24,189,131.0,+ 76:14:11,,23.0,Vanotti Alessandro,24,Domina Vacanze,3:03:54 3:03:54,\u25bc1,17,2005
+24,71,133.0,+ 76:14:50,,21.0,Cancellara Fabian,25,Fassa Bortolo,3:04:33 3:04:33,\u25bc4,17,2005
+24,175,139.0,+ 76:22:11,,25.0,Eisel Bernhard,26,Fran\xe7aise des Jeux,3:11:54 3:11:54,\u25bc1,17,2005
+24,48,140.0,+ 76:23:08,,26.0,Vansummeren Johan,27,Davitamon - Lotto,3:12:51 3:12:51,\u25bc1,17,2005
+24,112,146.0,+ 76:28:30,,28.0,Albasini Michael,28,Liquigas,3:18:13 3:18:13,-,17,2005
+25,7,12.0,+ 78:00:37,,1.0,Popovych Yaroslav,1,Discovery Channel,78:00:37 78:00:37,-,18,2005
+25,108,19.0,+ 78:08:24,,2.0,Kashechkin Andrey,2,Cr\xe9dit Agricole,7:47 7:47,-,18,2005
+22,93,31.0,+ 78:41:57,,3.0,Contador Alberto,3,Liberty Seguros - W\xfcrth Team,41:20 41:20,-,18,2005
+24,186,38.0,+ 78:56:59,,4.0,Iglinskiy Maxim,4,Domina Vacanze,56:22 56:22,-,18,2005
+25,147,43.0,+ 79:09:01,,5.0,Pineau J\xe9rome,5,Bouygues Telecom,1:08:24 1:08:24,-,18,2005
+24,37,50.0,+ 79:25:24,,6.0,Karpets Vladimir,6,Illes Balears - Caisse d'Epargne,1:24:47 1:24:47,-,18,2005
+25,33,53.0,+ 79:29:01,,7.0,Arroyo David,7,Illes Balears - Caisse d'Epargne,1:28:24 1:28:24,-,18,2005
+24,136,59.0,+ 79:44:03,,8.0,Sinkewitz Patrik,8,Quickstep - Innergetic,1:43:26 1:43:26,-,18,2005
+21,177,64.0,+ 79:47:51,,9.0,L\xf6fkvist Thomas,9,Fran\xe7aise des Jeux,1:47:14 1:47:14,-,18,2005
+23,176,71.0,+ 80:00:15,,10.0,Gilbert Philippe,10,Fran\xe7aise des Jeux,1:59:38 1:59:38,-,18,2005
+24,59,74.0,+ 80:01:38,,11.0,Weening Pieter,11,Rabobank ProTeam,2:01:01 2:01:01,-,18,2005
+21,185,79.0,+ 80:06:40,,12.0,Grivko Andrei,12,Domina Vacanze,2:06:03 2:06:03,-,18,2005
+25,167,81.0,+ 80:08:04,,14.0,Wegmann Fabian,13,Gerolsteiner,2:07:27 2:07:27,\u25b21,18,2005
+24,94,84.0,+ 80:10:29,,13.0,Davis Allan,14,Liberty Seguros - W\xfcrth Team,2:09:52 2:09:52,\u25bc1,18,2005
+24,56,87.0,+ 80:13:30,,15.0,Posthuma Joost,15,Rabobank ProTeam,2:12:53 2:12:53,-,18,2005
+24,179,92.0,+ 80:20:45,,16.0,Mourey Francis,16,Fran\xe7aise des Jeux,2:20:08 2:20:08,-,18,2005
+25,155,97.0,+ 80:28:13,,17.0,Loosli David,17,Lampre-Caffita,2:27:36 2:27:36,-,18,2005
+25,145,98.0,+ 80:28:30,,18.0,Geslin Anthony,18,Bouygues Telecom,2:27:53 2:27:53,-,18,2005
+21,97,111.0,+ 80:40:58,,19.0,Sanchez Luis Leon,19,Liberty Seguros - W\xfcrth Team,2:40:21 2:40:21,-,18,2005
+24,204,114.0,+ 80:46:47,,20.0,Dumoulin Samuel,20,AG2R Pr\xe9voyance,2:46:10 2:46:10,-,18,2005
+23,148,120.0,+ 80:55:14,,22.0,Sprick Matthieu,21,Bouygues Telecom,2:54:37 2:54:37,\u25b21,18,2005
+25,205,124.0,+ 80:58:20,,21.0,Gerrans Simon,22,AG2R Pr\xe9voyance,2:57:43 2:57:43,\u25bc1,18,2005
+24,189,130.0,+ 81:10:48,,24.0,Vanotti Alessandro,23,Domina Vacanze,3:10:11 3:10:11,\u25b21,18,2005
+23,74,131.0,+ 81:12:05,,23.0,Facci Mauro,24,Fassa Bortolo,3:11:28 3:11:28,\u25bc1,18,2005
+24,71,134.0,+ 81:13:29,,25.0,Cancellara Fabian,25,Fassa Bortolo,3:12:52 3:12:52,-,18,2005
+24,175,140.0,+ 81:20:50,,26.0,Eisel Bernhard,26,Fran\xe7aise des Jeux,3:20:13 3:20:13,-,18,2005
+24,48,141.0,+ 81:21:41,,27.0,Vansummeren Johan,27,Davitamon - Lotto,3:21:04 3:21:04,-,18,2005
+24,112,146.0,+ 81:27:09,,28.0,Albasini Michael,28,Liquigas,3:26:32 3:26:32,-,18,2005
+25,7,13.0,+ 81:38:12,,1.0,Popovych Yaroslav,1,Discovery Channel,81:38:12 81:38:12,-,19,2005
+25,108,19.0,+ 81:45:59,,2.0,Kashechkin Andrey,2,Cr\xe9dit Agricole,7:47 7:47,-,19,2005
+22,93,31.0,+ 82:19:32,,3.0,Contador Alberto,3,Liberty Seguros - W\xfcrth Team,41:20 41:20,-,19,2005
+24,186,38.0,+ 82:34:34,,4.0,Iglinskiy Maxim,4,Domina Vacanze,56:22 56:22,-,19,2005
+25,147,43.0,+ 82:46:36,,5.0,Pineau J\xe9rome,5,Bouygues Telecom,1:08:24 1:08:24,-,19,2005
+24,37,50.0,+ 83:02:59,,6.0,Karpets Vladimir,6,Illes Balears - Caisse d'Epargne,1:24:47 1:24:47,-,19,2005
+25,33,53.0,+ 83:06:36,,7.0,Arroyo David,7,Illes Balears - Caisse d'Epargne,1:28:24 1:28:24,-,19,2005
+24,136,60.0,+ 83:21:38,,8.0,Sinkewitz Patrik,8,Quickstep - Innergetic,1:43:26 1:43:26,-,19,2005
+21,177,64.0,+ 83:25:26,,9.0,L\xf6fkvist Thomas,9,Fran\xe7aise des Jeux,1:47:14 1:47:14,-,19,2005
+23,176,70.0,+ 83:37:50,,10.0,Gilbert Philippe,10,Fran\xe7aise des Jeux,1:59:38 1:59:38,-,19,2005
+24,59,74.0,+ 83:38:32,,11.0,Weening Pieter,11,Rabobank ProTeam,2:00:20 2:00:20,-,19,2005
+21,185,79.0,+ 83:45:24,,12.0,Grivko Andrei,12,Domina Vacanze,2:07:12 2:07:12,-,19,2005
+25,167,81.0,+ 83:45:39,,13.0,Wegmann Fabian,13,Gerolsteiner,2:07:27 2:07:27,-,19,2005
+24,94,84.0,+ 83:48:04,,14.0,Davis Allan,14,Liberty Seguros - W\xfcrth Team,2:09:52 2:09:52,-,19,2005
+24,56,87.0,+ 83:51:05,,15.0,Posthuma Joost,15,Rabobank ProTeam,2:12:53 2:12:53,-,19,2005
+24,179,92.0,+ 83:59:29,,16.0,Mourey Francis,16,Fran\xe7aise des Jeux,2:21:17 2:21:17,-,19,2005
+25,155,98.0,+ 84:05:48,,17.0,Loosli David,17,Lampre-Caffita,2:27:36 2:27:36,-,19,2005
+25,145,99.0,+ 84:06:05,,18.0,Geslin Anthony,18,Bouygues Telecom,2:27:53 2:27:53,-,19,2005
+21,97,111.0,+ 84:19:42,,19.0,Sanchez Luis Leon,19,Liberty Seguros - W\xfcrth Team,2:41:30 2:41:30,-,19,2005
+24,204,114.0,+ 84:24:22,,20.0,Dumoulin Samuel,20,AG2R Pr\xe9voyance,2:46:10 2:46:10,-,19,2005
+23,148,119.0,+ 84:32:49,,21.0,Sprick Matthieu,21,Bouygues Telecom,2:54:37 2:54:37,-,19,2005
+25,205,125.0,+ 84:37:04,,22.0,Gerrans Simon,22,AG2R Pr\xe9voyance,2:58:52 2:58:52,-,19,2005
+24,189,130.0,+ 84:48:23,,23.0,Vanotti Alessandro,23,Domina Vacanze,3:10:11 3:10:11,-,19,2005
+24,71,132.0,+ 84:51:04,,25.0,Cancellara Fabian,24,Fassa Bortolo,3:12:52 3:12:52,\u25b21,19,2005
+24,175,139.0,+ 84:58:25,,26.0,Eisel Bernhard,25,Fran\xe7aise des Jeux,3:20:13 3:20:13,\u25b21,19,2005
+24,48,140.0,+ 84:59:16,,27.0,Vansummeren Johan,26,Davitamon - Lotto,3:21:04 3:21:04,\u25b21,19,2005
+23,74,142.0,+ 85:00:04,,24.0,Facci Mauro,27,Fassa Bortolo,3:21:52 3:21:52,\u25bc3,19,2005
+24,112,146.0,+ 85:04:44,,28.0,Albasini Michael,28,Liquigas,3:26:32 3:26:32,-,19,2005
+25,7,12.0,+ 82:53:07,,1.0,Popovych Yaroslav,1,Discovery Channel,82:53:07 82:53:07,-,20,2005
+25,108,19.0,+ 83:02:09,,2.0,Kashechkin Andrey,2,Cr\xe9dit Agricole,9:02 9:02,-,20,2005
+22,93,31.0,+ 83:37:30,,3.0,Contador Alberto,3,Liberty Seguros - W\xfcrth Team,44:23 44:23,-,20,2005
+24,186,37.0,+ 83:52:31,,4.0,Iglinskiy Maxim,4,Domina Vacanze,59:24 59:24,-,20,2005
+25,147,43.0,+ 84:05:43,,5.0,Pineau J\xe9rome,5,Bouygues Telecom,1:12:36 1:12:36,-,20,2005
+24,37,50.0,+ 84:17:50,,6.0,Karpets Vladimir,6,Illes Balears - Caisse d'Epargne,1:24:43 1:24:43,-,20,2005
+25,33,53.0,+ 84:28:17,,7.0,Arroyo David,7,Illes Balears - Caisse d'Epargne,1:35:10 1:35:10,-,20,2005
+24,136,59.0,+ 84:41:53,,8.0,Sinkewitz Patrik,8,Quickstep - Innergetic,1:48:46 1:48:46,-,20,2005
+21,177,61.0,+ 84:41:53,,9.0,L\xf6fkvist Thomas,9,Fran\xe7aise des Jeux,",, 1:48:46",-,20,2005
+23,176,70.0,+ 84:58:05,,10.0,Gilbert Philippe,10,Fran\xe7aise des Jeux,2:04:58 2:04:58,-,20,2005
+24,59,72.0,+ 84:58:21,,11.0,Weening Pieter,11,Rabobank ProTeam,2:05:14 2:05:14,-,20,2005
+21,185,78.0,+ 85:02:13,,12.0,Grivko Andrei,12,Domina Vacanze,2:09:06 2:09:06,-,20,2005
+25,167,79.0,+ 85:03:39,,13.0,Wegmann Fabian,13,Gerolsteiner,2:10:32 2:10:32,-,20,2005
+24,56,83.0,+ 85:08:04,,15.0,Posthuma Joost,14,Rabobank ProTeam,2:14:57 2:14:57,\u25b21,20,2005
+24,94,84.0,+ 85:08:45,,14.0,Davis Allan,15,Liberty Seguros - W\xfcrth Team,2:15:38 2:15:38,\u25bc1,20,2005
+24,179,94.0,+ 85:21:19,,16.0,Mourey Francis,16,Fran\xe7aise des Jeux,2:28:12 2:28:12,-,20,2005
+25,145,97.0,+ 85:26:03,,18.0,Geslin Anthony,17,Bouygues Telecom,2:32:56 2:32:56,\u25b21,20,2005
+25,155,99.0,+ 85:26:46,,17.0,Loosli David,18,Lampre-Caffita,2:33:39 2:33:39,\u25bc1,20,2005
+21,97,109.0,+ 85:37:24,,19.0,Sanchez Luis Leon,19,Liberty Seguros - W\xfcrth Team,2:44:17 2:44:17,-,20,2005
+24,204,114.0,+ 85:45:07,,20.0,Dumoulin Samuel,20,AG2R Pr\xe9voyance,2:52:00 2:52:00,-,20,2005
+23,148,120.0,+ 85:54:52,,21.0,Sprick Matthieu,21,Bouygues Telecom,3:01:45 3:01:45,-,20,2005
+25,205,126.0,+ 86:01:08,,22.0,Gerrans Simon,22,AG2R Pr\xe9voyance,3:08:01 3:08:01,-,20,2005
+24,71,128.0,+ 86:06:53,,24.0,Cancellara Fabian,23,Fassa Bortolo,3:13:46 3:13:46,\u25b21,20,2005
+24,189,133.0,+ 86:12:48,,23.0,Vanotti Alessandro,24,Domina Vacanze,3:19:41 3:19:41,\u25bc1,20,2005
+24,48,136.0,+ 86:17:10,,26.0,Vansummeren Johan,25,Davitamon - Lotto,3:24:03 3:24:03,\u25b21,20,2005
+24,175,143.0,+ 86:21:40,,25.0,Eisel Bernhard,26,Fran\xe7aise des Jeux,3:28:33 3:28:33,\u25bc1,20,2005
+23,74,144.0,+ 86:23:35,,27.0,Facci Mauro,27,Fassa Bortolo,3:30:28 3:30:28,-,20,2005
+24,112,145.0,+ 86:25:08,,28.0,Albasini Michael,28,Liquigas,3:32:01 3:32:01,-,20,2005
+25,7,12.0,+ 86:34:04,,1.0,Popovych Yaroslav,1,Discovery Channel,86:34:04 86:34:04,-,21,2005
+25,108,19.0,+ 86:43:06,,2.0,Kashechkin Andrey,2,Cr\xe9dit Agricole,9:02 9:02,-,21,2005
+22,93,31.0,+ 87:18:27,,3.0,Contador Alberto,3,Liberty Seguros - W\xfcrth Team,44:23 44:23,-,21,2005
+24,186,37.0,+ 87:33:46,,4.0,Iglinskiy Maxim,4,Domina Vacanze,59:42 59:42,-,21,2005
+25,147,43.0,+ 87:46:40,,5.0,Pineau J\xe9rome,5,Bouygues Telecom,1:12:36 1:12:36,-,21,2005
+24,37,50.0,+ 87:58:47,,6.0,Karpets Vladimir,6,Illes Balears - Caisse d'Epargne,1:24:43 1:24:43,-,21,2005
+25,33,53.0,+ 88:09:14,,7.0,Arroyo David,7,Illes Balears - Caisse d'Epargne,1:35:10 1:35:10,-,21,2005
+24,136,59.0,+ 88:22:50,,8.0,Sinkewitz Patrik,8,Quickstep - Innergetic,1:48:46 1:48:46,-,21,2005
+21,177,61.0,+ 88:22:50,,9.0,L\xf6fkvist Thomas,9,Fran\xe7aise des Jeux,",, 1:48:46",-,21,2005
+23,176,70.0,+ 88:39:02,,10.0,Gilbert Philippe,10,Fran\xe7aise des Jeux,2:04:58 2:04:58,-,21,2005
+24,59,72.0,+ 88:39:18,,11.0,Weening Pieter,11,Rabobank ProTeam,2:05:14 2:05:14,-,21,2005
+21,185,78.0,+ 88:43:10,,12.0,Grivko Andrei,12,Domina Vacanze,2:09:06 2:09:06,-,21,2005
+25,167,79.0,+ 88:44:34,,13.0,Wegmann Fabian,13,Gerolsteiner,2:10:30 2:10:30,-,21,2005
+24,56,83.0,+ 88:49:01,,14.0,Posthuma Joost,14,Rabobank ProTeam,2:14:57 2:14:57,-,21,2005
+24,94,84.0,+ 88:49:42,,15.0,Davis Allan,15,Liberty Seguros - W\xfcrth Team,2:15:38 2:15:38,-,21,2005
+24,179,94.0,+ 89:02:16,,16.0,Mourey Francis,16,Fran\xe7aise des Jeux,2:28:12 2:28:12,-,21,2005
+25,145,97.0,+ 89:07:00,,17.0,Geslin Anthony,17,Bouygues Telecom,2:32:56 2:32:56,-,21,2005
+25,155,99.0,+ 89:07:43,,18.0,Loosli David,18,Lampre-Caffita,2:33:39 2:33:39,-,21,2005
+21,97,108.0,+ 89:18:21,,19.0,Sanchez Luis Leon,19,Liberty Seguros - W\xfcrth Team,2:44:17 2:44:17,-,21,2005
+24,204,114.0,+ 89:26:04,,20.0,Dumoulin Samuel,20,AG2R Pr\xe9voyance,2:52:00 2:52:00,-,21,2005
+23,148,120.0,+ 89:35:49,,21.0,Sprick Matthieu,21,Bouygues Telecom,3:01:45 3:01:45,-,21,2005
+25,205,126.0,+ 89:42:05,,22.0,Gerrans Simon,22,AG2R Pr\xe9voyance,3:08:01 3:08:01,-,21,2005
+24,71,128.0,+ 89:47:42,,23.0,Cancellara Fabian,23,Fassa Bortolo,3:13:38 3:13:38,-,21,2005
+24,189,133.0,+ 89:53:45,,24.0,Vanotti Alessandro,24,Domina Vacanze,3:19:41 3:19:41,-,21,2005
+24,48,136.0,+ 89:58:07,,25.0,Vansummeren Johan,25,Davitamon - Lotto,3:24:03 3:24:03,-,21,2005
+24,175,143.0,+ 90:02:37,,26.0,Eisel Bernhard,26,Fran\xe7aise des Jeux,3:28:33 3:28:33,-,21,2005
+23,74,144.0,+ 90:04:32,,27.0,Facci Mauro,27,Fassa Bortolo,3:30:28 3:30:28,-,21,2005
+24,112,145.0,+ 90:06:05,,28.0,Albasini Michael,28,Liquigas,3:32:01 3:32:01,-,21,2005

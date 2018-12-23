@@ -1,0 +1,1820 @@
+Age,BIB,Pnt,Prev,Rider,Rnk,Team,\u25bc\u25b2,stage,year
+26,33,15.0,,Cancellara Fabian,1,CSC ProTeam,,0,2007
+32,196,12.0,,Kl\xf6den Andr\xe9as,2,Astana,,0,2007
+34,114,10.0,,Hincapie George,3,Discovery Channel,,0,2007
+27,149,8.0,,Wiggins Bradley,4,Cofidis,,0,2007
+25,113,6.0,,Gusev Vladimir,5,Discovery Channel,,0,2007
+26,15,5.0,,Karpets Vladimir,6,Caisse d'Epargne,,0,2007
+33,191,4.0,,Vinokourov Alexandre,7,Astana,,0,2007
+22,54,3.0,,Dekker Thomas,8,Rabobank ProTeam,,0,2007
+27,157,2.0,,Quinziato Manuel,9,Liquigas,,0,2007
+25,169,1.0,,Vaugrenard Benoit,10,Fran\xe7aise des Jeux,,0,2007
+35,46,35.0,,McEwen Robbie,1,Predictor - Lotto,-,1,2007
+29,101,30.0,,Hushovd Thor,2,Cr\xe9dit Agricole,-,1,2007
+26,171,26.0,,Boonen Tom,3,Quickstep - Innergetic,-,1,2007
+24,162,24.0,,Chavanel S\xe9bastien,4,Fran\xe7aise des Jeux,-,1,2007
+23,134,22.0,,Feillu Romain,5,Agritubel,-,1,2007
+29,92,20.0,,F\xf6rster Robert,6,Gerolsteiner,-,1,2007
+26,33,19.0,1.0,Cancellara Fabian,7,CSC ProTeam,\u25bc6,1,2007
+31,56,19.0,,Freire Oscar,8,Rabobank ProTeam,-,1,2007
+24,22,18.0,,Burghardt Marcus,9,T-Mobile Team,-,1,2007
+25,209,17.0,,Ventoso Francisco,10,Saunier Duval,-,1,2007
+25,119,16.0,,Vaitkus Tomas,11,Discovery Channel,-,1,2007
+26,24,15.0,,Eisel Bernhard,12,T-Mobile Team,-,1,2007
+28,155,14.0,,Fischer Murilo Antonio,13,Liquigas,-,1,2007
+37,181,13.0,,Zabel Erik,14,Milram,-,1,2007
+30,201,12.0,,Millar David,15,Saunier Duval,-,1,2007
+32,196,12.0,2.0,Kl\xf6den Andr\xe9as,16,Astana,\u25bc14,1,2007
+34,114,12.0,3.0,Hincapie George,17,Discovery Channel,\u25bc14,1,2007
+27,123,12.0,,Florencio Xavier,18,Bouygues Telecom,-,1,2007
+26,176,11.0,,Steegmans Gert,19,Quickstep - Innergetic,-,1,2007
+27,156,10.0,,Kuchynski Aliaksandr,20,Liquigas,-,1,2007
+23,184,10.0,,Grivko Andrei,21,Milram,-,1,2007
+26,152,10.0,,Albasini Michael,22,Liquigas,-,1,2007
+25,165,9.0,,Gilbert Philippe,23,Fran\xe7aise des Jeux,-,1,2007
+27,149,8.0,4.0,Wiggins Bradley,24,Cofidis,\u25bc20,1,2007
+27,157,8.0,9.0,Quinziato Manuel,25,Liquigas,\u25bc16,1,2007
+33,173,8.0,,de Jongh Steven,26,Quickstep - Innergetic,-,1,2007
+26,86,7.0,,Napolitano Danilo,27,Lampre-Fondital,-,1,2007
+25,113,6.0,5.0,Gusev Vladimir,28,Discovery Channel,\u25bc23,1,2007
+26,15,5.0,6.0,Karpets Vladimir,29,Caisse d'Epargne,\u25bc23,1,2007
+30,216,5.0,,Hunter Robert,30,Barloworld,-,1,2007
+33,191,4.0,7.0,Vinokourov Alexandre,31,Astana,\u25bc24,1,2007
+27,132,4.0,,Bichot Freddy,32,Agritubel,-,1,2007
+22,54,3.0,8.0,Dekker Thomas,33,Rabobank ProTeam,\u25bc25,1,2007
+25,77,3.0,,Perez Ruben,34,Euskaltel - Euskadi,-,1,2007
+25,169,1.0,10.0,Vaugrenard Benoit,35,Fran\xe7aise des Jeux,\u25bc25,1,2007
+31,214,1.0,,Degano Enrico,36,Barloworld,-,1,2007
+26,171,56.0,3.0,Boonen Tom,1,Quickstep - Innergetic,\u25b22,2,2007
+35,46,55.0,1.0,McEwen Robbie,2,Predictor - Lotto,\u25bc1,2,2007
+26,176,46.0,19.0,Steegmans Gert,3,Quickstep - Innergetic,\u25b216,2,2007
+23,134,44.0,5.0,Feillu Romain,4,Agritubel,\u25b21,2,2007
+24,162,40.0,4.0,Chavanel S\xe9bastien,5,Fran\xe7aise des Jeux,\u25bc1,2,2007
+31,56,36.0,8.0,Freire Oscar,6,Rabobank ProTeam,\u25b22,2,2007
+37,181,32.0,14.0,Zabel Erik,7,Milram,\u25b27,2,2007
+29,101,30.0,2.0,Hushovd Thor,8,Cr\xe9dit Agricole,\u25bc6,2,2007
+30,216,29.0,30.0,Hunter Robert,9,Barloworld,\u25b221,2,2007
+26,24,29.0,12.0,Eisel Bernhard,10,T-Mobile Team,\u25b22,2,2007
+25,151,26.0,,Pozzato Filippo,11,Liquigas,-,2,2007
+24,22,25.0,9.0,Burghardt Marcus,12,T-Mobile Team,\u25bc3,2,2007
+25,165,21.0,23.0,Gilbert Philippe,13,Fran\xe7aise des Jeux,\u25b210,2,2007
+28,155,20.0,13.0,Fischer Murilo Antonio,14,Liquigas,\u25bc1,2,2007
+29,92,20.0,6.0,F\xf6rster Robert,15,Gerolsteiner,\u25bc9,2,2007
+26,33,19.0,7.0,Cancellara Fabian,16,CSC ProTeam,\u25bc9,2,2007
+23,94,18.0,,Haussler Heinrich,17,Gerolsteiner,-,2,2007
+25,209,17.0,10.0,Ventoso Francisco,18,Saunier Duval,\u25bc8,2,2007
+25,119,16.0,11.0,Vaitkus Tomas,19,Discovery Channel,\u25bc8,2,2007
+33,173,16.0,26.0,de Jongh Steven,20,Quickstep - Innergetic,\u25b26,2,2007
+25,77,15.0,34.0,Perez Ruben,21,Euskaltel - Euskadi,\u25b213,2,2007
+25,102,15.0,,Bonnet William,22,Cr\xe9dit Agricole,-,2,2007
+27,136,14.0,,Herve C\xe9dric,23,Agritubel,-,2,2007
+33,108,13.0,,Hinault S\xe9bastien,24,Cr\xe9dit Agricole,-,2,2007
+30,201,12.0,15.0,Millar David,25,Saunier Duval,\u25bc10,2,2007
+32,196,12.0,16.0,Kl\xf6den Andr\xe9as,26,Astana,\u25bc10,2,2007
+34,114,12.0,17.0,Hincapie George,27,Discovery Channel,\u25bc10,2,2007
+27,123,12.0,18.0,Florencio Xavier,28,Bouygues Telecom,\u25bc10,2,2007
+31,214,12.0,36.0,Degano Enrico,29,Barloworld,\u25b27,2,2007
+25,189,10.0,,Sieberg Marcel,30,Milram,-,2,2007
+27,156,10.0,20.0,Kuchynski Aliaksandr,31,Liquigas,\u25bc11,2,2007
+23,184,10.0,21.0,Grivko Andrei,32,Milram,\u25bc11,2,2007
+26,152,10.0,22.0,Albasini Michael,33,Liquigas,\u25bc11,2,2007
+22,167,10.0,,Ladagnous Matthieu,34,Fran\xe7aise des Jeux,-,2,2007
+23,168,9.0,,L\xf6fkvist Thomas,35,Fran\xe7aise des Jeux,-,2,2007
+27,149,8.0,24.0,Wiggins Bradley,36,Cofidis,\u25bc12,2,2007
+27,157,8.0,25.0,Quinziato Manuel,37,Liquigas,\u25bc12,2,2007
+26,86,7.0,27.0,Napolitano Danilo,38,Lampre-Fondital,\u25bc11,2,2007
+25,113,6.0,28.0,Gusev Vladimir,39,Discovery Channel,\u25bc11,2,2007
+26,15,5.0,29.0,Karpets Vladimir,40,Caisse d'Epargne,\u25bc11,2,2007
+29,55,5.0,,Flecha Juan Antonio,41,Rabobank ProTeam,-,2,2007
+33,191,4.0,31.0,Vinokourov Alexandre,42,Astana,\u25bc11,2,2007
+27,132,4.0,32.0,Bichot Freddy,43,Agritubel,\u25bc11,2,2007
+31,187,4.0,,Ongarato Alberto,44,Milram,-,2,2007
+22,54,3.0,33.0,Dekker Thomas,45,Rabobank ProTeam,\u25bc12,2,2007
+29,27,3.0,,Kirchen Kim,46,T-Mobile Team,-,2,2007
+25,175,2.0,,Rosseler Sebastien,47,Quickstep - Innergetic,-,2,2007
+25,169,1.0,35.0,Vaugrenard Benoit,48,Fran\xe7aise des Jeux,\u25bc13,2,2007
+33,178,1.0,,Tosatto Matteo,49,Quickstep - Innergetic,-,2,2007
+26,171,80.0,1.0,Boonen Tom,1,Quickstep - Innergetic,-,3,2007
+35,46,74.0,2.0,McEwen Robbie,2,Predictor - Lotto,-,3,2007
+37,181,62.0,7.0,Zabel Erik,3,Milram,\u25b24,3,2007
+23,134,57.0,4.0,Feillu Romain,4,Agritubel,-,3,2007
+26,33,54.0,16.0,Cancellara Fabian,5,CSC ProTeam,\u25b211,3,2007
+24,162,53.0,5.0,Chavanel S\xe9bastien,6,Fran\xe7aise des Jeux,\u25bc1,3,2007
+30,216,51.0,9.0,Hunter Robert,7,Barloworld,\u25b22,3,2007
+26,24,47.0,10.0,Eisel Bernhard,8,T-Mobile Team,\u25b22,3,2007
+26,176,46.0,3.0,Steegmans Gert,9,Quickstep - Innergetic,\u25bc6,3,2007
+29,101,44.0,8.0,Hushovd Thor,10,Cr\xe9dit Agricole,\u25bc2,3,2007
+29,92,40.0,15.0,F\xf6rster Robert,11,Gerolsteiner,\u25b24,3,2007
+22,167,39.0,34.0,Ladagnous Matthieu,12,Fran\xe7aise des Jeux,\u25b222,3,2007
+31,56,36.0,6.0,Freire Oscar,13,Rabobank ProTeam,\u25bc7,3,2007
+23,94,34.0,17.0,Haussler Heinrich,14,Gerolsteiner,\u25b23,3,2007
+26,86,33.0,38.0,Napolitano Danilo,15,Lampre-Fondital,\u25b223,3,2007
+25,151,28.0,11.0,Pozzato Filippo,16,Liquigas,\u25bc5,3,2007
+24,22,25.0,12.0,Burghardt Marcus,17,T-Mobile Team,\u25bc5,3,2007
+32,196,24.0,26.0,Kl\xf6den Andr\xe9as,18,Astana,\u25b28,3,2007
+25,209,24.0,18.0,Ventoso Francisco,19,Saunier Duval,\u25bc1,3,2007
+34,114,22.0,27.0,Hincapie George,20,Discovery Channel,\u25b27,3,2007
+25,165,21.0,13.0,Gilbert Philippe,21,Fran\xe7aise des Jeux,\u25bc8,3,2007
+28,155,20.0,14.0,Fischer Murilo Antonio,22,Liquigas,\u25bc8,3,2007
+22,23,17.0,,Cavendish Mark,23,T-Mobile Team,-,3,2007
+29,139,16.0,,Vogondy Nicolas,24,Agritubel,-,3,2007
+33,173,16.0,20.0,de Jongh Steven,25,Quickstep - Innergetic,\u25bc5,3,2007
+25,77,15.0,21.0,Perez Ruben,26,Euskaltel - Euskadi,\u25bc5,3,2007
+25,102,15.0,22.0,Bonnet William,27,Cr\xe9dit Agricole,\u25bc5,3,2007
+27,136,14.0,23.0,Herve C\xe9dric,28,Agritubel,\u25bc5,3,2007
+29,55,14.0,41.0,Flecha Juan Antonio,29,Rabobank ProTeam,\u25b212,3,2007
+33,108,13.0,24.0,Hinault S\xe9bastien,30,Cr\xe9dit Agricole,\u25bc6,3,2007
+30,201,12.0,25.0,Millar David,31,Saunier Duval,\u25bc6,3,2007
+27,123,12.0,28.0,Florencio Xavier,32,Bouygues Telecom,\u25bc4,3,2007
+31,214,12.0,29.0,Degano Enrico,33,Barloworld,\u25bc4,3,2007
+25,189,10.0,30.0,Sieberg Marcel,34,Milram,\u25bc4,3,2007
+27,156,10.0,31.0,Kuchynski Aliaksandr,35,Liquigas,\u25bc4,3,2007
+23,184,10.0,32.0,Grivko Andrei,36,Milram,\u25bc4,3,2007
+26,152,10.0,33.0,Albasini Michael,37,Liquigas,\u25bc4,3,2007
+23,168,9.0,35.0,L\xf6fkvist Thomas,38,Fran\xe7aise des Jeux,\u25bc3,3,2007
+27,149,8.0,36.0,Wiggins Bradley,39,Cofidis,\u25bc3,3,2007
+27,157,8.0,37.0,Quinziato Manuel,40,Liquigas,\u25bc3,3,2007
+29,11,8.0,,Pereiro Oscar,41,Caisse d'Epargne,-,3,2007
+25,113,6.0,39.0,Gusev Vladimir,42,Discovery Channel,\u25bc3,3,2007
+27,36,6.0,,Schleck Fr\xe4nk,43,CSC ProTeam,-,3,2007
+26,15,5.0,40.0,Karpets Vladimir,44,Caisse d'Epargne,\u25bc4,3,2007
+27,195,5.0,,Kashechkin Andrey,45,Astana,-,3,2007
+27,73,4.0,,Astarloza Mikel,46,Euskaltel - Euskadi,-,3,2007
+33,191,4.0,42.0,Vinokourov Alexandre,47,Astana,\u25bc5,3,2007
+25,91,4.0,,Schumacher Stefan,48,Gerolsteiner,-,3,2007
+27,132,4.0,43.0,Bichot Freddy,49,Agritubel,\u25bc6,3,2007
+31,187,4.0,44.0,Ongarato Alberto,50,Milram,\u25bc6,3,2007
+22,54,3.0,45.0,Dekker Thomas,51,Rabobank ProTeam,\u25bc6,3,2007
+29,27,3.0,46.0,Kirchen Kim,52,T-Mobile Team,\u25bc6,3,2007
+24,96,3.0,,Krauss Sven,53,Gerolsteiner,-,3,2007
+25,175,2.0,47.0,Rosseler Sebastien,54,Quickstep - Innergetic,\u25bc7,3,2007
+25,169,1.0,48.0,Vaugrenard Benoit,55,Fran\xe7aise des Jeux,\u25bc7,3,2007
+31,166,1.0,,Jegou Lilian,56,Fran\xe7aise des Jeux,-,3,2007
+33,178,1.0,49.0,Tosatto Matteo,57,Quickstep - Innergetic,\u25bc8,3,2007
+26,171,98.0,1.0,Boonen Tom,1,Quickstep - Innergetic,-,4,2007
+37,181,86.0,3.0,Zabel Erik,2,Milram,\u25b21,4,2007
+35,46,84.0,2.0,McEwen Robbie,3,Predictor - Lotto,\u25bc1,4,2007
+30,216,81.0,7.0,Hunter Robert,4,Barloworld,\u25b23,4,2007
+29,101,79.0,10.0,Hushovd Thor,5,Cr\xe9dit Agricole,\u25b25,4,2007
+24,162,70.0,6.0,Chavanel S\xe9bastien,6,Fran\xe7aise des Jeux,-,4,2007
+26,176,66.0,9.0,Steegmans Gert,7,Quickstep - Innergetic,\u25b22,4,2007
+31,56,62.0,13.0,Freire Oscar,8,Rabobank ProTeam,\u25b25,4,2007
+29,92,59.0,11.0,F\xf6rster Robert,9,Gerolsteiner,\u25b22,4,2007
+23,134,57.0,4.0,Feillu Romain,10,Agritubel,\u25bc6,4,2007
+26,86,55.0,15.0,Napolitano Danilo,11,Lampre-Fondital,\u25b24,4,2007
+26,33,54.0,5.0,Cancellara Fabian,12,CSC ProTeam,\u25bc7,4,2007
+26,24,47.0,8.0,Eisel Bernhard,13,T-Mobile Team,\u25bc5,4,2007
+24,22,40.0,17.0,Burghardt Marcus,14,T-Mobile Team,\u25b23,4,2007
+22,167,39.0,12.0,Ladagnous Matthieu,15,Fran\xe7aise des Jeux,\u25bc3,4,2007
+23,94,34.0,14.0,Haussler Heinrich,16,Gerolsteiner,\u25bc2,4,2007
+22,23,33.0,23.0,Cavendish Mark,17,T-Mobile Team,\u25b26,4,2007
+29,55,32.0,29.0,Flecha Juan Antonio,18,Rabobank ProTeam,\u25b211,4,2007
+25,209,32.0,19.0,Ventoso Francisco,19,Saunier Duval,-,4,2007
+28,155,31.0,22.0,Fischer Murilo Antonio,20,Liquigas,\u25b22,4,2007
+25,77,29.0,26.0,Perez Ruben,21,Euskaltel - Euskadi,\u25b25,4,2007
+25,151,28.0,16.0,Pozzato Filippo,22,Liquigas,\u25bc6,4,2007
+32,196,24.0,18.0,Kl\xf6den Andr\xe9as,23,Astana,\u25bc5,4,2007
+34,114,22.0,20.0,Hincapie George,24,Discovery Channel,\u25bc4,4,2007
+25,165,21.0,21.0,Gilbert Philippe,25,Fran\xe7aise des Jeux,\u25bc4,4,2007
+27,156,17.0,35.0,Kuchynski Aliaksandr,26,Liquigas,\u25b29,4,2007
+29,139,16.0,24.0,Vogondy Nicolas,27,Agritubel,\u25bc3,4,2007
+33,173,16.0,25.0,de Jongh Steven,28,Quickstep - Innergetic,\u25bc3,4,2007
+27,136,15.0,28.0,Herve C\xe9dric,29,Agritubel,\u25bc1,4,2007
+25,102,15.0,27.0,Bonnet William,30,Cr\xe9dit Agricole,\u25bc3,4,2007
+24,96,15.0,53.0,Krauss Sven,31,Gerolsteiner,\u25b222,4,2007
+33,108,15.0,30.0,Hinault S\xe9bastien,32,Cr\xe9dit Agricole,\u25bc2,4,2007
+28,65,13.0,,Elmiger Martin,33,AG2R Pr\xe9voyance,-,4,2007
+30,201,12.0,31.0,Millar David,34,Saunier Duval,\u25bc3,4,2007
+28,141,12.0,,Chavanel Sylvain,35,Cofidis,-,4,2007
+27,123,12.0,32.0,Florencio Xavier,36,Bouygues Telecom,\u25bc4,4,2007
+31,214,12.0,33.0,Degano Enrico,37,Barloworld,\u25bc4,4,2007
+25,189,10.0,34.0,Sieberg Marcel,38,Milram,\u25bc4,4,2007
+23,184,10.0,36.0,Grivko Andrei,39,Milram,\u25bc3,4,2007
+26,152,10.0,37.0,Albasini Michael,40,Liquigas,\u25bc3,4,2007
+23,168,9.0,38.0,L\xf6fkvist Thomas,41,Fran\xe7aise des Jeux,\u25bc3,4,2007
+32,105,9.0,,Dean Julian,42,Cr\xe9dit Agricole,-,4,2007
+27,149,8.0,39.0,Wiggins Bradley,43,Cofidis,\u25bc4,4,2007
+27,157,8.0,40.0,Quinziato Manuel,44,Liquigas,\u25bc4,4,2007
+29,11,8.0,41.0,Pereiro Oscar,45,Caisse d'Epargne,\u25bc4,4,2007
+25,91,8.0,48.0,Schumacher Stefan,46,Gerolsteiner,\u25b22,4,2007
+25,113,6.0,42.0,Gusev Vladimir,47,Discovery Channel,\u25bc5,4,2007
+27,36,6.0,43.0,Schleck Fr\xe4nk,48,CSC ProTeam,\u25bc5,4,2007
+30,75,6.0,,Isasi Inaki,49,Euskaltel - Euskadi,-,4,2007
+26,15,5.0,44.0,Karpets Vladimir,50,Caisse d'Epargne,\u25bc6,4,2007
+27,195,5.0,45.0,Kashechkin Andrey,51,Astana,\u25bc6,4,2007
+34,144,5.0,,Moreni Cristian,52,Cofidis,-,4,2007
+27,73,4.0,46.0,Astarloza Mikel,53,Euskaltel - Euskadi,\u25bc7,4,2007
+33,191,4.0,47.0,Vinokourov Alexandre,54,Astana,\u25bc7,4,2007
+27,132,4.0,49.0,Bichot Freddy,55,Agritubel,\u25bc6,4,2007
+31,187,4.0,50.0,Ongarato Alberto,56,Milram,\u25bc6,4,2007
+22,54,3.0,51.0,Dekker Thomas,57,Rabobank ProTeam,\u25bc6,4,2007
+29,27,3.0,52.0,Kirchen Kim,58,T-Mobile Team,\u25bc6,4,2007
+33,47,3.0,,Rodriguez Fred,59,Predictor - Lotto,-,4,2007
+25,175,2.0,54.0,Rosseler Sebastien,60,Quickstep - Innergetic,\u25bc6,4,2007
+26,185,2.0,,Knees Christian,61,Milram,-,4,2007
+25,127,2.0,,Sprick Matthieu,62,Bouygues Telecom,-,4,2007
+28,79,2.0,,Verdugo Gorka,63,Euskaltel - Euskadi,-,4,2007
+25,169,1.0,55.0,Vaugrenard Benoit,64,Fran\xe7aise des Jeux,\u25bc9,4,2007
+31,166,1.0,56.0,Jegou Lilian,65,Fran\xe7aise des Jeux,\u25bc9,4,2007
+33,178,1.0,57.0,Tosatto Matteo,66,Quickstep - Innergetic,\u25bc9,4,2007
+37,181,102.0,2.0,Zabel Erik,1,Milram,\u25b21,5,2007
+26,171,98.0,1.0,Boonen Tom,2,Quickstep - Innergetic,\u25bc1,5,2007
+35,46,84.0,3.0,McEwen Robbie,3,Predictor - Lotto,-,5,2007
+31,56,84.0,8.0,Freire Oscar,4,Rabobank ProTeam,\u25b24,5,2007
+30,216,83.0,4.0,Hunter Robert,5,Barloworld,\u25bc1,5,2007
+29,101,79.0,5.0,Hushovd Thor,6,Cr\xe9dit Agricole,\u25bc1,5,2007
+24,162,70.0,6.0,Chavanel S\xe9bastien,7,Fran\xe7aise des Jeux,\u25bc1,5,2007
+26,176,66.0,7.0,Steegmans Gert,8,Quickstep - Innergetic,\u25bc1,5,2007
+26,33,63.0,12.0,Cancellara Fabian,9,CSC ProTeam,\u25b23,5,2007
+29,92,59.0,9.0,F\xf6rster Robert,10,Gerolsteiner,\u25bc1,5,2007
+23,134,57.0,10.0,Feillu Romain,11,Agritubel,\u25bc1,5,2007
+26,86,55.0,11.0,Napolitano Danilo,12,Lampre-Fondital,\u25bc1,5,2007
+25,151,53.0,22.0,Pozzato Filippo,13,Liquigas,\u25b29,5,2007
+26,24,47.0,13.0,Eisel Bernhard,14,T-Mobile Team,\u25bc1,5,2007
+24,22,40.0,14.0,Burghardt Marcus,15,T-Mobile Team,\u25bc1,5,2007
+22,167,39.0,15.0,Ladagnous Matthieu,16,Fran\xe7aise des Jeux,\u25bc1,5,2007
+34,114,37.0,24.0,Hincapie George,17,Discovery Channel,\u25b27,5,2007
+25,165,35.0,25.0,Gilbert Philippe,18,Fran\xe7aise des Jeux,\u25b27,5,2007
+23,94,34.0,16.0,Haussler Heinrich,19,Gerolsteiner,\u25bc3,5,2007
+22,23,33.0,17.0,Cavendish Mark,20,T-Mobile Team,\u25bc3,5,2007
+29,55,32.0,18.0,Flecha Juan Antonio,21,Rabobank ProTeam,\u25bc3,5,2007
+25,209,32.0,19.0,Ventoso Francisco,22,Saunier Duval,\u25bc3,5,2007
+28,155,31.0,20.0,Fischer Murilo Antonio,23,Liquigas,\u25bc3,5,2007
+25,77,29.0,21.0,Perez Ruben,24,Euskaltel - Euskadi,\u25bc3,5,2007
+25,102,27.0,30.0,Bonnet William,25,Cr\xe9dit Agricole,\u25b25,5,2007
+32,196,24.0,23.0,Kl\xf6den Andr\xe9as,26,Astana,\u25bc3,5,2007
+25,91,21.0,46.0,Schumacher Stefan,27,Gerolsteiner,\u25b219,5,2007
+29,27,21.0,58.0,Kirchen Kim,28,T-Mobile Team,\u25b230,5,2007
+28,141,20.0,35.0,Chavanel Sylvain,29,Cofidis,\u25b26,5,2007
+26,82,20.0,,Bennati Daniele,30,Lampre-Fondital,-,5,2007
+34,144,19.0,52.0,Moreni Cristian,31,Cofidis,\u25b221,5,2007
+28,65,18.0,33.0,Elmiger Martin,32,AG2R Pr\xe9voyance,\u25b21,5,2007
+27,156,17.0,26.0,Kuchynski Aliaksandr,33,Liquigas,\u25bc7,5,2007
+29,139,16.0,27.0,Vogondy Nicolas,34,Agritubel,\u25bc7,5,2007
+33,173,16.0,28.0,de Jongh Steven,35,Quickstep - Innergetic,\u25bc7,5,2007
+27,136,15.0,29.0,Herve C\xe9dric,36,Agritubel,\u25bc7,5,2007
+24,96,15.0,31.0,Krauss Sven,37,Gerolsteiner,\u25bc6,5,2007
+33,108,15.0,32.0,Hinault S\xe9bastien,38,Cr\xe9dit Agricole,\u25bc6,5,2007
+30,201,12.0,34.0,Millar David,39,Saunier Duval,\u25bc5,5,2007
+27,36,12.0,48.0,Schleck Fr\xe4nk,40,CSC ProTeam,\u25b28,5,2007
+27,123,12.0,36.0,Florencio Xavier,41,Bouygues Telecom,\u25bc5,5,2007
+28,177,12.0,,Tankink Bram,42,Quickstep - Innergetic,-,5,2007
+31,214,12.0,37.0,Degano Enrico,43,Barloworld,\u25bc6,5,2007
+27,126,11.0,,Pineau J\xe9rome,44,Bouygues Telecom,-,5,2007
+25,189,10.0,38.0,Sieberg Marcel,45,Milram,\u25bc7,5,2007
+30,41,10.0,,Evans Cadel,46,Predictor - Lotto,-,5,2007
+23,184,10.0,39.0,Grivko Andrei,47,Milram,\u25bc8,5,2007
+26,152,10.0,40.0,Albasini Michael,48,Liquigas,\u25bc8,5,2007
+23,168,9.0,41.0,L\xf6fkvist Thomas,49,Fran\xe7aise des Jeux,\u25bc8,5,2007
+32,105,9.0,42.0,Dean Julian,50,Cr\xe9dit Agricole,\u25bc8,5,2007
+29,11,8.0,45.0,Pereiro Oscar,51,Caisse d'Epargne,\u25bc6,5,2007
+27,18,8.0,,Valverde Alejandro,52,Caisse d'Epargne,-,5,2007
+27,149,8.0,43.0,Wiggins Bradley,53,Cofidis,\u25bc10,5,2007
+27,157,8.0,44.0,Quinziato Manuel,54,Liquigas,\u25bc10,5,2007
+35,44,7.0,,Horner Chris,55,Predictor - Lotto,-,5,2007
+25,113,6.0,47.0,Gusev Vladimir,56,Discovery Channel,\u25bc9,5,2007
+30,75,6.0,49.0,Isasi Inaki,57,Euskaltel - Euskadi,\u25bc8,5,2007
+26,15,5.0,50.0,Karpets Vladimir,58,Caisse d'Epargne,\u25bc8,5,2007
+27,195,5.0,51.0,Kashechkin Andrey,59,Astana,\u25bc8,5,2007
+27,73,4.0,53.0,Astarloza Mikel,60,Euskaltel - Euskadi,\u25bc7,5,2007
+24,25,4.0,,Gerdemann Linus,61,T-Mobile Team,-,5,2007
+33,191,4.0,54.0,Vinokourov Alexandre,62,Astana,\u25bc8,5,2007
+27,132,4.0,55.0,Bichot Freddy,63,Agritubel,\u25bc8,5,2007
+31,187,4.0,56.0,Ongarato Alberto,64,Milram,\u25bc8,5,2007
+22,54,3.0,57.0,Dekker Thomas,65,Rabobank ProTeam,\u25bc8,5,2007
+30,76,3.0,,Landaluze Inigo,66,Euskaltel - Euskadi,-,5,2007
+33,47,3.0,59.0,Rodriguez Fred,67,Predictor - Lotto,\u25bc8,5,2007
+27,21,2.0,,Rogers Michael,68,T-Mobile Team,-,5,2007
+26,185,2.0,61.0,Knees Christian,69,Milram,\u25bc8,5,2007
+25,175,2.0,60.0,Rosseler Sebastien,70,Quickstep - Innergetic,\u25bc10,5,2007
+25,127,2.0,62.0,Sprick Matthieu,71,Bouygues Telecom,\u25bc9,5,2007
+28,79,2.0,63.0,Verdugo Gorka,72,Euskaltel - Euskadi,\u25bc9,5,2007
+25,169,1.0,64.0,Vaugrenard Benoit,73,Fran\xe7aise des Jeux,\u25bc9,5,2007
+31,125,1.0,,Lefevre Laurent,74,Bouygues Telecom,-,5,2007
+31,166,1.0,65.0,Jegou Lilian,75,Fran\xe7aise des Jeux,\u25bc10,5,2007
+33,178,1.0,66.0,Tosatto Matteo,76,Quickstep - Innergetic,\u25bc10,5,2007
+26,171,141.0,2.0,Boonen Tom,1,Quickstep - Innergetic,\u25b21,6,2007
+37,181,130.0,1.0,Zabel Erik,2,Milram,\u25bc1,6,2007
+31,56,114.0,4.0,Freire Oscar,3,Rabobank ProTeam,\u25b21,6,2007
+30,216,103.0,5.0,Hunter Robert,4,Barloworld,\u25b21,6,2007
+29,101,101.0,6.0,Hushovd Thor,5,Cr\xe9dit Agricole,\u25b21,6,2007
+35,46,97.0,3.0,McEwen Robbie,6,Predictor - Lotto,\u25bc3,6,2007
+24,162,94.0,7.0,Chavanel S\xe9bastien,7,Fran\xe7aise des Jeux,-,6,2007
+29,92,78.0,10.0,F\xf6rster Robert,8,Gerolsteiner,\u25b22,6,2007
+23,134,74.0,11.0,Feillu Romain,9,Agritubel,\u25b22,6,2007
+26,176,68.0,8.0,Steegmans Gert,10,Quickstep - Innergetic,\u25bc2,6,2007
+26,86,67.0,12.0,Napolitano Danilo,11,Lampre-Fondital,\u25b21,6,2007
+26,33,63.0,9.0,Cancellara Fabian,12,CSC ProTeam,\u25bc3,6,2007
+25,151,53.0,13.0,Pozzato Filippo,13,Liquigas,-,6,2007
+26,24,47.0,14.0,Eisel Bernhard,14,T-Mobile Team,-,6,2007
+28,155,47.0,23.0,Fischer Murilo Antonio,15,Liquigas,\u25b28,6,2007
+25,209,47.0,22.0,Ventoso Francisco,16,Saunier Duval,\u25b26,6,2007
+26,82,40.0,30.0,Bennati Daniele,17,Lampre-Fondital,\u25b213,6,2007
+24,22,40.0,15.0,Burghardt Marcus,18,T-Mobile Team,\u25bc3,6,2007
+25,165,39.0,18.0,Gilbert Philippe,19,Fran\xe7aise des Jeux,\u25bc1,6,2007
+22,167,39.0,16.0,Ladagnous Matthieu,20,Fran\xe7aise des Jeux,\u25bc4,6,2007
+34,114,37.0,17.0,Hincapie George,21,Discovery Channel,\u25bc4,6,2007
+25,77,34.0,24.0,Perez Ruben,22,Euskaltel - Euskadi,\u25b22,6,2007
+23,94,34.0,19.0,Haussler Heinrich,23,Gerolsteiner,\u25bc4,6,2007
+22,23,33.0,20.0,Cavendish Mark,24,T-Mobile Team,\u25bc4,6,2007
+29,55,32.0,21.0,Flecha Juan Antonio,25,Rabobank ProTeam,\u25bc4,6,2007
+25,102,27.0,25.0,Bonnet William,26,Cr\xe9dit Agricole,\u25bc1,6,2007
+27,149,26.0,53.0,Wiggins Bradley,27,Cofidis,\u25b226,6,2007
+27,126,25.0,44.0,Pineau J\xe9rome,28,Bouygues Telecom,\u25b216,6,2007
+32,196,24.0,26.0,Kl\xf6den Andr\xe9as,29,Astana,\u25bc3,6,2007
+31,214,22.0,43.0,Degano Enrico,30,Barloworld,\u25b213,6,2007
+25,91,21.0,27.0,Schumacher Stefan,31,Gerolsteiner,\u25bc4,6,2007
+29,27,21.0,28.0,Kirchen Kim,32,T-Mobile Team,\u25bc4,6,2007
+24,96,21.0,37.0,Krauss Sven,33,Gerolsteiner,\u25b24,6,2007
+28,141,20.0,29.0,Chavanel Sylvain,34,Cofidis,\u25bc5,6,2007
+33,173,20.0,35.0,de Jongh Steven,35,Quickstep - Innergetic,-,6,2007
+34,144,19.0,31.0,Moreni Cristian,36,Cofidis,\u25bc5,6,2007
+27,136,18.0,36.0,Herve C\xe9dric,37,Agritubel,\u25bc1,6,2007
+28,65,18.0,32.0,Elmiger Martin,38,AG2R Pr\xe9voyance,\u25bc6,6,2007
+27,156,17.0,33.0,Kuchynski Aliaksandr,39,Liquigas,\u25bc6,6,2007
+29,139,16.0,34.0,Vogondy Nicolas,40,Agritubel,\u25bc6,6,2007
+30,75,15.0,57.0,Isasi Inaki,41,Euskaltel - Euskadi,\u25b216,6,2007
+33,108,15.0,38.0,Hinault S\xe9bastien,42,Cr\xe9dit Agricole,\u25bc4,6,2007
+30,201,12.0,39.0,Millar David,43,Saunier Duval,\u25bc4,6,2007
+27,36,12.0,40.0,Schleck Fr\xe4nk,44,CSC ProTeam,\u25bc4,6,2007
+27,123,12.0,41.0,Florencio Xavier,45,Bouygues Telecom,\u25bc4,6,2007
+28,177,12.0,42.0,Tankink Bram,46,Quickstep - Innergetic,\u25bc4,6,2007
+33,47,11.0,67.0,Rodriguez Fred,47,Predictor - Lotto,\u25b220,6,2007
+21,215,11.0,,Thomas Geraint,48,Barloworld,-,6,2007
+25,189,10.0,45.0,Sieberg Marcel,49,Milram,\u25bc4,6,2007
+30,41,10.0,46.0,Evans Cadel,50,Predictor - Lotto,\u25bc4,6,2007
+23,184,10.0,47.0,Grivko Andrei,51,Milram,\u25bc4,6,2007
+26,152,10.0,48.0,Albasini Michael,52,Liquigas,\u25bc4,6,2007
+23,168,9.0,49.0,L\xf6fkvist Thomas,53,Fran\xe7aise des Jeux,\u25bc4,6,2007
+32,105,9.0,50.0,Dean Julian,54,Cr\xe9dit Agricole,\u25bc4,6,2007
+29,11,8.0,51.0,Pereiro Oscar,55,Caisse d'Epargne,\u25bc4,6,2007
+27,18,8.0,52.0,Valverde Alejandro,56,Caisse d'Epargne,\u25bc4,6,2007
+27,157,8.0,54.0,Quinziato Manuel,57,Liquigas,\u25bc3,6,2007
+35,44,7.0,55.0,Horner Chris,58,Predictor - Lotto,\u25bc3,6,2007
+27,124,7.0,,Geslin Anthony,59,Bouygues Telecom,-,6,2007
+25,113,6.0,56.0,Gusev Vladimir,60,Discovery Channel,\u25bc4,6,2007
+26,15,5.0,58.0,Karpets Vladimir,61,Caisse d'Epargne,\u25bc3,6,2007
+27,195,5.0,59.0,Kashechkin Andrey,62,Astana,\u25bc3,6,2007
+27,73,4.0,60.0,Astarloza Mikel,63,Euskaltel - Euskadi,\u25bc3,6,2007
+24,25,4.0,61.0,Gerdemann Linus,64,T-Mobile Team,\u25bc3,6,2007
+33,191,4.0,62.0,Vinokourov Alexandre,65,Astana,\u25bc3,6,2007
+27,132,4.0,63.0,Bichot Freddy,66,Agritubel,\u25bc3,6,2007
+31,187,4.0,64.0,Ongarato Alberto,67,Milram,\u25bc3,6,2007
+22,54,3.0,65.0,Dekker Thomas,68,Rabobank ProTeam,\u25bc3,6,2007
+30,76,3.0,66.0,Landaluze Inigo,69,Euskaltel - Euskadi,\u25bc3,6,2007
+27,21,2.0,68.0,Rogers Michael,70,T-Mobile Team,\u25bc2,6,2007
+26,185,2.0,69.0,Knees Christian,71,Milram,\u25bc2,6,2007
+25,175,2.0,70.0,Rosseler Sebastien,72,Quickstep - Innergetic,\u25bc2,6,2007
+25,211,2.0,,Efimkin Alexander,73,Barloworld,-,6,2007
+25,127,2.0,71.0,Sprick Matthieu,74,Bouygues Telecom,\u25bc3,6,2007
+28,79,2.0,72.0,Verdugo Gorka,75,Euskaltel - Euskadi,\u25bc3,6,2007
+25,169,1.0,73.0,Vaugrenard Benoit,76,Fran\xe7aise des Jeux,\u25bc3,6,2007
+31,125,1.0,74.0,Lefevre Laurent,77,Bouygues Telecom,\u25bc3,6,2007
+31,166,1.0,75.0,Jegou Lilian,78,Fran\xe7aise des Jeux,\u25bc3,6,2007
+33,178,1.0,76.0,Tosatto Matteo,79,Quickstep - Innergetic,\u25bc3,6,2007
+26,217,1.0,,Longo Borghini Paolo,80,Barloworld,-,6,2007
+26,171,147.0,1.0,Boonen Tom,1,Quickstep - Innergetic,-,7,2007
+37,181,134.0,2.0,Zabel Erik,2,Milram,-,7,2007
+30,216,103.0,4.0,Hunter Robert,3,Barloworld,\u25b21,7,2007
+29,101,101.0,5.0,Hushovd Thor,4,Cr\xe9dit Agricole,\u25b21,7,2007
+35,46,97.0,6.0,McEwen Robbie,5,Predictor - Lotto,\u25b21,7,2007
+24,162,94.0,7.0,Chavanel S\xe9bastien,6,Fran\xe7aise des Jeux,\u25b21,7,2007
+29,92,78.0,8.0,F\xf6rster Robert,7,Gerolsteiner,\u25b21,7,2007
+23,134,74.0,9.0,Feillu Romain,8,Agritubel,\u25b21,7,2007
+26,176,68.0,10.0,Steegmans Gert,9,Quickstep - Innergetic,\u25b21,7,2007
+26,86,67.0,11.0,Napolitano Danilo,10,Lampre-Fondital,\u25b21,7,2007
+26,33,63.0,12.0,Cancellara Fabian,11,CSC ProTeam,\u25b21,7,2007
+25,151,53.0,13.0,Pozzato Filippo,12,Liquigas,\u25b21,7,2007
+26,24,47.0,14.0,Eisel Bernhard,13,T-Mobile Team,\u25b21,7,2007
+28,155,47.0,15.0,Fischer Murilo Antonio,14,Liquigas,\u25b21,7,2007
+25,209,47.0,16.0,Ventoso Francisco,15,Saunier Duval,\u25b21,7,2007
+26,82,42.0,17.0,Bennati Daniele,16,Lampre-Fondital,\u25b21,7,2007
+24,22,40.0,18.0,Burghardt Marcus,17,T-Mobile Team,\u25b21,7,2007
+25,165,39.0,19.0,Gilbert Philippe,18,Fran\xe7aise des Jeux,\u25b21,7,2007
+22,167,39.0,20.0,Ladagnous Matthieu,19,Fran\xe7aise des Jeux,\u25b21,7,2007
+25,77,38.0,22.0,Perez Ruben,20,Euskaltel - Euskadi,\u25b22,7,2007
+34,114,37.0,21.0,Hincapie George,21,Discovery Channel,-,7,2007
+23,94,34.0,23.0,Haussler Heinrich,22,Gerolsteiner,\u25b21,7,2007
+22,23,33.0,24.0,Cavendish Mark,23,T-Mobile Team,\u25b21,7,2007
+29,55,32.0,25.0,Flecha Juan Antonio,24,Rabobank ProTeam,\u25b21,7,2007
+24,25,30.0,64.0,Gerdemann Linus,25,T-Mobile Team,\u25b239,7,2007
+25,102,27.0,26.0,Bonnet William,26,Cr\xe9dit Agricole,-,7,2007
+27,149,26.0,27.0,Wiggins Bradley,27,Cofidis,-,7,2007
+27,126,25.0,28.0,Pineau J\xe9rome,28,Bouygues Telecom,-,7,2007
+32,196,24.0,29.0,Kl\xf6den Andr\xe9as,29,Astana,-,7,2007
+29,27,21.0,32.0,Kirchen Kim,30,T-Mobile Team,\u25b22,7,2007
+25,91,21.0,31.0,Schumacher Stefan,31,Gerolsteiner,-,7,2007
+24,96,21.0,33.0,Krauss Sven,32,Gerolsteiner,\u25b21,7,2007
+30,76,20.0,69.0,Landaluze Inigo,33,Euskaltel - Euskadi,\u25b236,7,2007
+27,123,20.0,45.0,Florencio Xavier,34,Bouygues Telecom,\u25b211,7,2007
+28,141,20.0,34.0,Chavanel Sylvain,35,Cofidis,\u25bc1,7,2007
+33,173,20.0,35.0,de Jongh Steven,36,Quickstep - Innergetic,\u25bc1,7,2007
+28,65,19.0,38.0,Elmiger Martin,37,AG2R Pr\xe9voyance,\u25b21,7,2007
+34,144,19.0,36.0,Moreni Cristian,38,Cofidis,\u25bc2,7,2007
+27,136,18.0,37.0,Herve C\xe9dric,39,Agritubel,\u25bc2,7,2007
+27,156,17.0,39.0,Kuchynski Aliaksandr,40,Liquigas,\u25bc1,7,2007
+29,139,16.0,40.0,Vogondy Nicolas,41,Agritubel,\u25bc1,7,2007
+26,205,15.0,,De La Fuente David,42,Saunier Duval,-,7,2007
+30,75,15.0,41.0,Isasi Inaki,43,Euskaltel - Euskadi,\u25bc2,7,2007
+33,108,15.0,42.0,Hinault S\xe9bastien,44,Cr\xe9dit Agricole,\u25bc2,7,2007
+27,18,14.0,56.0,Valverde Alejandro,45,Caisse d'Epargne,\u25b211,7,2007
+28,177,14.0,46.0,Tankink Bram,46,Quickstep - Innergetic,-,7,2007
+31,125,13.0,77.0,Lefevre Laurent,47,Bouygues Telecom,\u25b230,7,2007
+24,219,13.0,,Soler Juan Mauricio,48,Barloworld,-,7,2007
+29,11,13.0,55.0,Pereiro Oscar,49,Caisse d'Epargne,\u25b26,7,2007
+30,201,12.0,43.0,Millar David,50,Saunier Duval,\u25bc7,7,2007
+27,36,12.0,44.0,Schleck Fr\xe4nk,51,CSC ProTeam,\u25bc7,7,2007
+33,47,11.0,47.0,Rodriguez Fred,52,Predictor - Lotto,\u25bc5,7,2007
+21,215,11.0,48.0,Thomas Geraint,53,Barloworld,\u25bc5,7,2007
+25,189,10.0,49.0,Sieberg Marcel,54,Milram,\u25bc5,7,2007
+30,41,10.0,50.0,Evans Cadel,55,Predictor - Lotto,\u25bc5,7,2007
+27,98,10.0,,Wegmann Fabian,56,Gerolsteiner,-,7,2007
+23,184,10.0,51.0,Grivko Andrei,57,Milram,\u25bc6,7,2007
+26,152,10.0,52.0,Albasini Michael,58,Liquigas,\u25bc6,7,2007
+31,174,9.0,,Garate Juan Manuel,59,Quickstep - Innergetic,-,7,2007
+23,168,9.0,53.0,L\xf6fkvist Thomas,60,Fran\xe7aise des Jeux,\u25bc7,7,2007
+32,105,9.0,54.0,Dean Julian,61,Cr\xe9dit Agricole,\u25bc7,7,2007
+27,157,8.0,57.0,Quinziato Manuel,62,Liquigas,\u25bc5,7,2007
+36,61,7.0,,Moreau Christophe,63,AG2R Pr\xe9voyance,-,7,2007
+35,44,7.0,58.0,Horner Chris,64,Predictor - Lotto,\u25bc6,7,2007
+27,124,7.0,59.0,Geslin Anthony,65,Bouygues Telecom,\u25bc6,7,2007
+25,113,6.0,60.0,Gusev Vladimir,66,Discovery Channel,\u25bc6,7,2007
+26,15,5.0,61.0,Karpets Vladimir,67,Caisse d'Epargne,\u25bc6,7,2007
+27,195,5.0,62.0,Kashechkin Andrey,68,Astana,\u25bc6,7,2007
+27,73,4.0,63.0,Astarloza Mikel,69,Euskaltel - Euskadi,\u25bc6,7,2007
+30,88,4.0,,Valjavec Tadej,70,Lampre-Fondital,-,7,2007
+33,191,4.0,65.0,Vinokourov Alexandre,71,Astana,\u25bc6,7,2007
+27,132,4.0,66.0,Bichot Freddy,72,Agritubel,\u25bc6,7,2007
+31,187,4.0,67.0,Ongarato Alberto,73,Milram,\u25bc6,7,2007
+22,54,3.0,68.0,Dekker Thomas,74,Rabobank ProTeam,\u25bc6,7,2007
+27,118,3.0,,Popovych Yaroslav,75,Discovery Channel,-,7,2007
+27,21,2.0,70.0,Rogers Michael,76,T-Mobile Team,\u25bc6,7,2007
+33,111,,,Leipheimer Levi,77*,Discovery Channel,-,7,2007
+26,185,2.0,71.0,Knees Christian,77,Milram,\u25bc6,7,2007
+25,127,2.0,74.0,Sprick Matthieu,78,Bouygues Telecom,\u25bc4,7,2007
+28,79,2.0,75.0,Verdugo Gorka,79,Euskaltel - Euskadi,\u25bc4,7,2007
+25,175,2.0,72.0,Rosseler Sebastien,80,Quickstep - Innergetic,\u25bc8,7,2007
+25,169,2.0,76.0,Vaugrenard Benoit,81,Fran\xe7aise des Jeux,\u25bc5,7,2007
+31,166,1.0,78.0,Jegou Lilian,82,Fran\xe7aise des Jeux,\u25bc4,7,2007
+33,178,1.0,79.0,Tosatto Matteo,83,Quickstep - Innergetic,\u25bc4,7,2007
+26,217,1.0,80.0,Longo Borghini Paolo,84,Barloworld,\u25bc4,7,2007
+26,171,147.0,1,Boonen Tom,1,Quickstep - Innergetic,-,8,2007
+37,181,134.0,2,Zabel Erik,2,Milram,-,8,2007
+30,216,103.0,3,Hunter Robert,3,Barloworld,-,8,2007
+29,101,101.0,4,Hushovd Thor,4,Cr\xe9dit Agricole,-,8,2007
+35,46,97.0,5,McEwen Robbie,5,Predictor - Lotto,-,8,2007
+24,162,94.0,6,Chavanel S\xe9bastien,6,Fran\xe7aise des Jeux,-,8,2007
+29,92,78.0,7,F\xf6rster Robert,7,Gerolsteiner,-,8,2007
+26,176,68.0,9,Steegmans Gert,8,Quickstep - Innergetic,\u25b21,8,2007
+26,86,67.0,10,Napolitano Danilo,9,Lampre-Fondital,\u25b21,8,2007
+26,33,63.0,11,Cancellara Fabian,10,CSC ProTeam,\u25b21,8,2007
+25,151,53.0,12,Pozzato Filippo,11,Liquigas,\u25b21,8,2007
+25,209,47.0,15,Ventoso Francisco,12,Saunier Duval,\u25b23,8,2007
+28,155,47.0,14,Fischer Murilo Antonio,13,Liquigas,\u25b21,8,2007
+26,24,47.0,13,Eisel Bernhard,14,T-Mobile Team,\u25bc1,8,2007
+26,82,42.0,16,Bennati Daniele,15,Lampre-Fondital,\u25b21,8,2007
+24,22,40.0,17,Burghardt Marcus,16,T-Mobile Team,\u25b21,8,2007
+25,165,39.0,18,Gilbert Philippe,17,Fran\xe7aise des Jeux,\u25b21,8,2007
+22,167,39.0,19,Ladagnous Matthieu,18,Fran\xe7aise des Jeux,\u25b21,8,2007
+25,77,38.0,20,Perez Ruben,19,Euskaltel - Euskadi,\u25b21,8,2007
+34,114,37.0,21,Hincapie George,20,Discovery Channel,\u25b21,8,2007
+23,94,34.0,22,Haussler Heinrich,21,Gerolsteiner,\u25b21,8,2007
+29,55,32.0,24,Flecha Juan Antonio,22,Rabobank ProTeam,\u25b22,8,2007
+24,25,30.0,25,Gerdemann Linus,23,T-Mobile Team,\u25b22,8,2007
+27,18,29.0,45,Valverde Alejandro,24,Caisse d'Epargne,\u25b221,8,2007
+25,102,27.0,26,Bonnet William,25,Cr\xe9dit Agricole,\u25b21,8,2007
+27,126,25.0,28,Pineau J\xe9rome,26,Bouygues Telecom,\u25b22,8,2007
+27,36,24.0,51,Schleck Fr\xe4nk,27,CSC ProTeam,\u25b224,8,2007
+32,196,24.0,29,Kl\xf6den Andr\xe9as,28,Astana,\u25b21,8,2007
+27,149,21.0,27,Wiggins Bradley,29,Cofidis,\u25bc2,8,2007
+29,27,21.0,30,Kirchen Kim,30,T-Mobile Team,-,8,2007
+25,91,21.0,31,Schumacher Stefan,31,Gerolsteiner,-,8,2007
+24,96,21.0,32,Krauss Sven,32,Gerolsteiner,-,8,2007
+33,58,20.0,,Rasmussen Michael,33,Rabobank ProTeam,-,8,2007
+30,41,20.0,55,Evans Cadel,34,Predictor - Lotto,\u25b221,8,2007
+36,61,20.0,63,Moreau Christophe,35,AG2R Pr\xe9voyance,\u25b228,8,2007
+28,141,20.0,35,Chavanel Sylvain,36,Cofidis,\u25bc1,8,2007
+30,76,20.0,33,Landaluze Inigo,37,Euskaltel - Euskadi,\u25bc4,8,2007
+27,123,20.0,34,Florencio Xavier,38,Bouygues Telecom,\u25bc4,8,2007
+33,173,20.0,36,de Jongh Steven,39,Quickstep - Innergetic,\u25bc3,8,2007
+34,144,19.0,38,Moreni Cristian,40,Cofidis,\u25bc2,8,2007
+28,65,19.0,37,Elmiger Martin,41,AG2R Pr\xe9voyance,\u25bc4,8,2007
+27,136,18.0,39,Herve C\xe9dric,42,Agritubel,\u25bc3,8,2007
+27,156,17.0,40,Kuchynski Aliaksandr,43,Liquigas,\u25bc3,8,2007
+29,207,17.0,,Mayo Iban,44,Saunier Duval,-,8,2007
+29,139,16.0,41,Vogondy Nicolas,45,Agritubel,\u25bc4,8,2007
+26,205,15.0,42,De La Fuente David,46,Saunier Duval,\u25bc4,8,2007
+30,75,15.0,43,Isasi Inaki,47,Euskaltel - Euskadi,\u25bc4,8,2007
+33,108,15.0,44,Hinault S\xe9bastien,48,Cr\xe9dit Agricole,\u25bc4,8,2007
+27,195,14.0,68,Kashechkin Andrey,49,Astana,\u25b219,8,2007
+29,11,14.0,49,Pereiro Oscar,50,Caisse d'Epargne,\u25bc1,8,2007
+28,177,14.0,46,Tankink Bram,51,Quickstep - Innergetic,\u25bc5,8,2007
+24,219,13.0,48,Soler Juan Mauricio,52,Barloworld,\u25bc4,8,2007
+31,125,13.0,47,Lefevre Laurent,53,Bouygues Telecom,\u25bc6,8,2007
+30,201,12.0,50,Millar David,54,Saunier Duval,\u25bc4,8,2007
+21,215,11.0,53,Thomas Geraint,55,Barloworld,\u25bc2,8,2007
+25,189,10.0,54,Sieberg Marcel,56,Milram,\u25bc2,8,2007
+27,98,10.0,56,Wegmann Fabian,57,Gerolsteiner,\u25bc1,8,2007
+23,184,10.0,57,Grivko Andrei,58,Milram,\u25bc1,8,2007
+26,152,10.0,58,Albasini Michael,59,Liquigas,\u25bc1,8,2007
+31,174,9.0,59,Garate Juan Manuel,60,Quickstep - Innergetic,\u25bc1,8,2007
+23,168,9.0,60,L\xf6fkvist Thomas,61,Fran\xe7aise des Jeux,\u25bc1,8,2007
+32,105,9.0,61,Dean Julian,62,Cr\xe9dit Agricole,\u25bc1,8,2007
+24,112,8.0,,Contador Alberto,63,Discovery Channel,-,8,2007
+27,157,8.0,62,Quinziato Manuel,64,Liquigas,\u25bc2,8,2007
+29,51,7.0,,Menchov Denis,65,Rabobank ProTeam,-,8,2007
+35,44,7.0,64,Horner Chris,66,Predictor - Lotto,\u25bc2,8,2007
+27,124,7.0,65,Geslin Anthony,67,Bouygues Telecom,\u25bc2,8,2007
+28,129,6.0,,Voeckler Thomas,68,Bouygues Telecom,-,8,2007
+27,159,6.0,,Willems Frederik,69,Liquigas,-,8,2007
+32,31,6.0,,Sastre Carlos,70,CSC ProTeam,-,8,2007
+30,71,5.0,,Zubeldia Haimar,71,Euskaltel - Euskadi,-,8,2007
+26,15,5.0,67,Karpets Vladimir,72,Caisse d'Epargne,\u25bc5,8,2007
+31,166,5.0,82,Jegou Lilian,73,Fran\xe7aise des Jeux,\u25b29,8,2007
+30,88,4.0,70,Valjavec Tadej,74,Lampre-Fondital,\u25bc4,8,2007
+27,73,4.0,69,Astarloza Mikel,75,Euskaltel - Euskadi,\u25bc6,8,2007
+33,191,4.0,71,Vinokourov Alexandre,76,Astana,\u25bc5,8,2007
+25,95,4.0,,Kohl Bernhard,77,Gerolsteiner,-,8,2007
+27,132,4.0,72,Bichot Freddy,78,Agritubel,\u25bc6,8,2007
+31,187,4.0,73,Ongarato Alberto,79,Milram,\u25bc6,8,2007
+27,118,3.0,75,Popovych Yaroslav,80,Discovery Channel,\u25bc5,8,2007
+26,204,3.0,,Cobo Juan Jose,81,Saunier Duval,-,8,2007
+22,54,3.0,74,Dekker Thomas,82,Rabobank ProTeam,\u25bc8,8,2007
+36,153,2.0,,Beltran Manuel,83,Liquigas,-,8,2007
+26,185,2.0,77,Knees Christian,84,Milram,\u25bc7,8,2007
+37,68,2.0,,Goubert Stephane,85,AG2R Pr\xe9voyance,-,8,2007
+29,192,2.0,,Colom Antonio,86,Astana,-,8,2007
+25,127,2.0,78,Sprick Matthieu,87,Bouygues Telecom,\u25bc9,8,2007
+28,79,2.0,79,Verdugo Gorka,88,Euskaltel - Euskadi,\u25bc9,8,2007
+26,175,2.0,80,Rosseler Sebastien,89,Quickstep - Innergetic,\u25bc9,8,2007
+33,111,,77*,Leipheimer Levi,90*,Discovery Channel,-,8,2007
+25,113,1.0,66,Gusev Vladimir,90,Discovery Channel,\u25bc24,8,2007
+25,169,1.0,81,Vaugrenard Benoit,91,Fran\xe7aise des Jeux,\u25bc10,8,2007
+33,178,1.0,83,Tosatto Matteo,92,Quickstep - Innergetic,\u25bc9,8,2007
+26,217,1.0,84,Longo Borghini Paolo,93,Barloworld,\u25bc9,8,2007
+33,47,1.0,52,Rodriguez Fred,94,Predictor - Lotto,\u25bc42,8,2007
+26,171,147.0,1,Boonen Tom,1,Quickstep - Innergetic,-,9,2007
+37,181,134.0,2,Zabel Erik,2,Milram,-,9,2007
+30,216,103.0,3,Hunter Robert,3,Barloworld,-,9,2007
+29,101,101.0,4,Hushovd Thor,4,Cr\xe9dit Agricole,-,9,2007
+24,162,94.0,6,Chavanel S\xe9bastien,5,Fran\xe7aise des Jeux,\u25b21,9,2007
+29,92,78.0,7,F\xf6rster Robert,6,Gerolsteiner,\u25b21,9,2007
+26,176,68.0,8,Steegmans Gert,7,Quickstep - Innergetic,\u25b21,9,2007
+26,33,63.0,10,Cancellara Fabian,8,CSC ProTeam,\u25b22,9,2007
+25,151,53.0,11,Pozzato Filippo,9,Liquigas,\u25b22,9,2007
+25,209,47.0,12,Ventoso Francisco,10,Saunier Duval,\u25b22,9,2007
+28,155,47.0,13,Fischer Murilo Antonio,11,Liquigas,\u25b22,9,2007
+26,24,47.0,14,Eisel Bernhard,12,T-Mobile Team,\u25b22,9,2007
+27,18,46.0,24,Valverde Alejandro,13,Caisse d'Epargne,\u25b211,9,2007
+26,82,42.0,15,Bennati Daniele,14,Lampre-Fondital,\u25b21,9,2007
+24,22,40.0,16,Burghardt Marcus,15,T-Mobile Team,\u25b21,9,2007
+25,165,39.0,17,Gilbert Philippe,16,Fran\xe7aise des Jeux,\u25b21,9,2007
+22,167,39.0,18,Ladagnous Matthieu,17,Fran\xe7aise des Jeux,\u25b21,9,2007
+25,77,38.0,19,Perez Ruben,18,Euskaltel - Euskadi,\u25b21,9,2007
+34,114,37.0,20,Hincapie George,19,Discovery Channel,\u25b21,9,2007
+30,41,35.0,34,Evans Cadel,20,Predictor - Lotto,\u25b214,9,2007
+23,94,34.0,21,Haussler Heinrich,21,Gerolsteiner,-,9,2007
+24,219,33.0,52,Soler Juan Mauricio,22,Barloworld,\u25b230,9,2007
+29,55,32.0,22,Flecha Juan Antonio,23,Rabobank ProTeam,\u25bc1,9,2007
+32,196,31.0,28,Kl\xf6den Andr\xe9as,24,Astana,\u25b24,9,2007
+24,25,30.0,23,Gerdemann Linus,25,T-Mobile Team,\u25bc2,9,2007
+33,58,30.0,33,Rasmussen Michael,26,Rabobank ProTeam,\u25b27,9,2007
+29,207,29.0,44,Mayo Iban,27,Saunier Duval,\u25b217,9,2007
+29,27,29.0,30,Kirchen Kim,28,T-Mobile Team,\u25b22,9,2007
+25,102,27.0,25,Bonnet William,29,Cr\xe9dit Agricole,\u25bc4,9,2007
+36,61,25.0,35,Moreau Christophe,30,AG2R Pr\xe9voyance,\u25b25,9,2007
+27,126,25.0,26,Pineau J\xe9rome,31,Bouygues Telecom,\u25bc5,9,2007
+27,36,24.0,27,Schleck Fr\xe4nk,32,CSC ProTeam,\u25bc5,9,2007
+27,149,21.0,29,Wiggins Bradley,33,Cofidis,\u25bc4,9,2007
+24,112,21.0,63,Contador Alberto,34,Discovery Channel,\u25b229,9,2007
+25,91,21.0,31,Schumacher Stefan,35,Gerolsteiner,\u25bc4,9,2007
+24,96,21.0,32,Krauss Sven,36,Gerolsteiner,\u25bc4,9,2007
+28,141,20.0,36,Chavanel Sylvain,37,Cofidis,\u25bc1,9,2007
+30,76,20.0,37,Landaluze Inigo,38,Euskaltel - Euskadi,\u25bc1,9,2007
+27,123,20.0,38,Florencio Xavier,39,Bouygues Telecom,\u25bc1,9,2007
+33,173,20.0,39,de Jongh Steven,40,Quickstep - Innergetic,\u25bc1,9,2007
+34,144,19.0,40,Moreni Cristian,41,Cofidis,\u25bc1,9,2007
+28,65,19.0,41,Elmiger Martin,42,AG2R Pr\xe9voyance,\u25bc1,9,2007
+27,156,17.0,43,Kuchynski Aliaksandr,43,Liquigas,-,9,2007
+29,139,16.0,45,Vogondy Nicolas,44,Agritubel,\u25b21,9,2007
+26,205,15.0,46,De La Fuente David,45,Saunier Duval,\u25b21,9,2007
+30,75,15.0,47,Isasi Inaki,46,Euskaltel - Euskadi,\u25b21,9,2007
+33,108,15.0,48,Hinault S\xe9bastien,47,Cr\xe9dit Agricole,\u25b21,9,2007
+27,73,14.0,75,Astarloza Mikel,48,Euskaltel - Euskadi,\u25b227,9,2007
+27,195,14.0,49,Kashechkin Andrey,49,Astana,-,9,2007
+29,11,14.0,50,Pereiro Oscar,50,Caisse d'Epargne,-,9,2007
+28,177,14.0,51,Tankink Bram,51,Quickstep - Innergetic,-,9,2007
+31,125,13.0,53,Lefevre Laurent,52,Bouygues Telecom,\u25b21,9,2007
+30,201,12.0,54,Millar David,53,Saunier Duval,\u25b21,9,2007
+27,118,12.0,80,Popovych Yaroslav,54,Discovery Channel,\u25b226,9,2007
+32,31,12.0,70,Sastre Carlos,55,CSC ProTeam,\u25b215,9,2007
+21,215,11.0,55,Thomas Geraint,56,Barloworld,\u25bc1,9,2007
+25,189,10.0,56,Sieberg Marcel,57,Milram,\u25bc1,9,2007
+33,111,,90*,Leipheimer Levi,58*,Discovery Channel,-,9,2007
+27,98,10.0,57,Wegmann Fabian,58,Gerolsteiner,\u25bc1,9,2007
+23,184,10.0,58,Grivko Andrei,59,Milram,\u25bc1,9,2007
+26,152,10.0,59,Albasini Michael,60,Liquigas,\u25bc1,9,2007
+31,174,10.0,60,Garate Juan Manuel,61,Quickstep - Innergetic,\u25bc1,9,2007
+23,168,9.0,61,L\xf6fkvist Thomas,62,Fran\xe7aise des Jeux,\u25bc1,9,2007
+32,105,9.0,62,Dean Julian,63,Cr\xe9dit Agricole,\u25bc1,9,2007
+27,157,9.0,64,Quinziato Manuel,64,Liquigas,-,9,2007
+29,51,8.0,65,Menchov Denis,65,Rabobank ProTeam,-,9,2007
+35,44,7.0,66,Horner Chris,66,Predictor - Lotto,-,9,2007
+28,14,7.0,,Guti\xe9rrez Jos\xe9 Iv\xe1n,67,Caisse d'Epargne,-,9,2007
+27,124,7.0,67,Geslin Anthony,68,Bouygues Telecom,\u25bc1,9,2007
+28,129,7.0,68,Voeckler Thomas,69,Bouygues Telecom,\u25bc1,9,2007
+27,159,6.0,69,Willems Frederik,70,Liquigas,\u25bc1,9,2007
+30,71,6.0,71,Zubeldia Haimar,71,Euskaltel - Euskadi,-,9,2007
+26,15,5.0,72,Karpets Vladimir,72,Caisse d'Epargne,-,9,2007
+26,204,5.0,81,Cobo Juan Jose,73,Saunier Duval,\u25b28,9,2007
+25,113,5.0,90,Gusev Vladimir,74,Discovery Channel,\u25b216,9,2007
+30,88,5.0,74,Valjavec Tadej,75,Lampre-Fondital,\u25bc1,9,2007
+33,191,4.0,76,Vinokourov Alexandre,76,Astana,-,9,2007
+25,95,4.0,77,Kohl Bernhard,77,Gerolsteiner,-,9,2007
+27,132,4.0,78,Bichot Freddy,78,Agritubel,-,9,2007
+31,187,4.0,79,Ongarato Alberto,79,Milram,-,9,2007
+22,54,4.0,82,Dekker Thomas,80,Rabobank ProTeam,\u25b22,9,2007
+36,153,3.0,83,Beltran Manuel,81,Liquigas,\u25b22,9,2007
+37,68,2.0,85,Goubert Stephane,82,AG2R Pr\xe9voyance,\u25b23,9,2007
+26,185,2.0,84,Knees Christian,83,Milram,\u25b21,9,2007
+29,192,2.0,86,Colom Antonio,84,Astana,\u25b22,9,2007
+24,122,2.0,,Clement Stef,85,Bouygues Telecom,-,9,2007
+28,79,2.0,88,Verdugo Gorka,86,Euskaltel - Euskadi,\u25b22,9,2007
+25,127,2.0,87,Sprick Matthieu,87,Bouygues Telecom,-,9,2007
+26,175,2.0,89,Rosseler Sebastien,88,Quickstep - Innergetic,\u25b21,9,2007
+25,169,2.0,91,Vaugrenard Benoit,89,Fran\xe7aise des Jeux,\u25b22,9,2007
+33,178,1.0,92,Tosatto Matteo,90,Quickstep - Innergetic,\u25b22,9,2007
+26,217,1.0,93,Longo Borghini Paolo,91,Barloworld,\u25b22,9,2007
+26,171,160.0,1,Boonen Tom,1,Quickstep - Innergetic,-,10,2007
+37,181,144.0,2,Zabel Erik,2,Milram,-,10,2007
+30,216,114.0,3,Hunter Robert,3,Barloworld,-,10,2007
+29,101,110.0,4,Hushovd Thor,4,Cr\xe9dit Agricole,-,10,2007
+24,162,108.0,5,Chavanel S\xe9bastien,5,Fran\xe7aise des Jeux,-,10,2007
+29,92,78.0,6,F\xf6rster Robert,6,Gerolsteiner,-,10,2007
+26,176,68.0,7,Steegmans Gert,7,Quickstep - Innergetic,-,10,2007
+26,33,63.0,8,Cancellara Fabian,8,CSC ProTeam,-,10,2007
+25,209,59.0,10,Ventoso Francisco,9,Saunier Duval,\u25b21,10,2007
+24,22,58.0,15,Burghardt Marcus,10,T-Mobile Team,\u25b25,10,2007
+25,151,54.0,9,Pozzato Filippo,11,Liquigas,\u25bc2,10,2007
+29,55,48.0,23,Flecha Juan Antonio,12,Rabobank ProTeam,\u25b211,10,2007
+28,155,47.0,11,Fischer Murilo Antonio,13,Liquigas,\u25bc2,10,2007
+26,24,47.0,12,Eisel Bernhard,14,T-Mobile Team,\u25bc2,10,2007
+27,18,46.0,13,Valverde Alejandro,15,Caisse d'Epargne,\u25bc2,10,2007
+25,165,43.0,16,Gilbert Philippe,16,Fran\xe7aise des Jeux,-,10,2007
+26,82,42.0,14,Bennati Daniele,17,Lampre-Fondital,\u25bc3,10,2007
+36,179,41.0,,Vasseur C\xe9dric,18,Quickstep - Innergetic,-,10,2007
+22,167,39.0,17,Ladagnous Matthieu,19,Fran\xe7aise des Jeux,\u25bc2,10,2007
+25,77,38.0,18,Perez Ruben,20,Euskaltel - Euskadi,\u25bc2,10,2007
+34,114,37.0,19,Hincapie George,21,Discovery Channel,\u25bc2,10,2007
+26,152,36.0,60,Albasini Michael,22,Liquigas,\u25b238,10,2007
+29,207,35.0,27,Mayo Iban,23,Saunier Duval,\u25b24,10,2007
+30,41,35.0,20,Evans Cadel,24,Predictor - Lotto,\u25bc4,10,2007
+27,156,34.0,43,Kuchynski Aliaksandr,25,Liquigas,\u25b218,10,2007
+23,94,34.0,21,Haussler Heinrich,26,Gerolsteiner,\u25bc5,10,2007
+24,219,33.0,22,Soler Juan Mauricio,27,Barloworld,\u25bc5,10,2007
+32,196,31.0,24,Kl\xf6den Andr\xe9as,28,Astana,\u25bc4,10,2007
+24,25,30.0,25,Gerdemann Linus,29,T-Mobile Team,\u25bc4,10,2007
+33,58,30.0,26,Rasmussen Michael,30,Rabobank ProTeam,\u25bc4,10,2007
+28,161,30.0,,Casar Sandy,31,Fran\xe7aise des Jeux,-,10,2007
+29,27,29.0,28,Kirchen Kim,32,T-Mobile Team,\u25bc4,10,2007
+23,184,29.0,59,Grivko Andrei,33,Milram,\u25b226,10,2007
+25,102,27.0,29,Bonnet William,34,Cr\xe9dit Agricole,\u25bc5,10,2007
+28,147,26.0,,Scheirlinckx Staf,35,Cofidis,-,10,2007
+35,38,26.0,,Voigt Jens,36,CSC ProTeam,-,10,2007
+36,61,25.0,30,Moreau Christophe,37,AG2R Pr\xe9voyance,\u25bc7,10,2007
+27,126,25.0,31,Pineau J\xe9rome,38,Bouygues Telecom,\u25bc7,10,2007
+27,36,24.0,32,Schleck Fr\xe4nk,39,CSC ProTeam,\u25bc7,10,2007
+33,107,24.0,,Halgand Patrice,40,Cr\xe9dit Agricole,-,10,2007
+31,83,23.0,,Bossoni Paolo,41,Lampre-Fondital,-,10,2007
+33,173,23.0,40,de Jongh Steven,42,Quickstep - Innergetic,\u25bc2,10,2007
+29,11,22.0,50,Pereiro Oscar,43,Caisse d'Epargne,\u25b27,10,2007
+27,149,21.0,33,Wiggins Bradley,44,Cofidis,\u25bc11,10,2007
+24,112,21.0,34,Contador Alberto,45,Discovery Channel,\u25bc11,10,2007
+25,91,21.0,35,Schumacher Stefan,46,Gerolsteiner,\u25bc11,10,2007
+24,96,21.0,36,Krauss Sven,47,Gerolsteiner,\u25bc11,10,2007
+28,141,20.0,37,Chavanel Sylvain,48,Cofidis,\u25bc11,10,2007
+30,76,20.0,38,Landaluze Inigo,49,Euskaltel - Euskadi,\u25bc11,10,2007
+27,123,20.0,39,Florencio Xavier,50,Bouygues Telecom,\u25bc11,10,2007
+34,144,19.0,41,Moreni Cristian,51,Cofidis,\u25bc10,10,2007
+28,65,19.0,42,Elmiger Martin,52,AG2R Pr\xe9voyance,\u25bc10,10,2007
+29,139,16.0,44,Vogondy Nicolas,53,Agritubel,\u25bc9,10,2007
+25,189,15.0,57,Sieberg Marcel,54,Milram,\u25b23,10,2007
+26,205,15.0,45,De La Fuente David,55,Saunier Duval,\u25bc10,10,2007
+30,75,15.0,46,Isasi Inaki,56,Euskaltel - Euskadi,\u25bc10,10,2007
+33,108,15.0,47,Hinault S\xe9bastien,57,Cr\xe9dit Agricole,\u25bc10,10,2007
+27,73,14.0,48,Astarloza Mikel,58,Euskaltel - Euskadi,\u25bc10,10,2007
+27,195,14.0,49,Kashechkin Andrey,59,Astana,\u25bc10,10,2007
+28,177,14.0,51,Tankink Bram,60,Quickstep - Innergetic,\u25bc9,10,2007
+31,125,13.0,52,Lefevre Laurent,61,Bouygues Telecom,\u25bc9,10,2007
+30,201,12.0,53,Millar David,62,Saunier Duval,\u25bc9,10,2007
+27,118,12.0,54,Popovych Yaroslav,63,Discovery Channel,\u25bc9,10,2007
+32,31,12.0,55,Sastre Carlos,64,CSC ProTeam,\u25bc9,10,2007
+21,215,11.0,56,Thomas Geraint,65,Barloworld,\u25bc9,10,2007
+33,111,,58*,Leipheimer Levi,66*,Discovery Channel,-,10,2007
+27,98,10.0,58,Wegmann Fabian,66,Gerolsteiner,\u25bc8,10,2007
+31,174,10.0,61,Garate Juan Manuel,67,Quickstep - Innergetic,\u25bc6,10,2007
+23,168,9.0,62,L\xf6fkvist Thomas,68,Fran\xe7aise des Jeux,\u25bc6,10,2007
+32,105,9.0,63,Dean Julian,69,Cr\xe9dit Agricole,\u25bc6,10,2007
+27,157,9.0,64,Quinziato Manuel,70,Liquigas,\u25bc6,10,2007
+29,51,8.0,65,Menchov Denis,71,Rabobank ProTeam,\u25bc6,10,2007
+35,44,7.0,66,Horner Chris,72,Predictor - Lotto,\u25bc6,10,2007
+28,14,7.0,67,Guti\xe9rrez Jos\xe9 Iv\xe1n,73,Caisse d'Epargne,\u25bc6,10,2007
+33,208,7.0,,Rinero Christophe,74,Saunier Duval,-,10,2007
+27,124,7.0,68,Geslin Anthony,75,Bouygues Telecom,\u25bc7,10,2007
+28,129,7.0,69,Voeckler Thomas,76,Bouygues Telecom,\u25bc7,10,2007
+27,159,6.0,70,Willems Frederik,77,Liquigas,\u25bc7,10,2007
+30,71,6.0,71,Zubeldia Haimar,78,Euskaltel - Euskadi,\u25bc7,10,2007
+26,15,5.0,72,Karpets Vladimir,79,Caisse d'Epargne,\u25bc7,10,2007
+26,204,5.0,73,Cobo Juan Jose,80,Saunier Duval,\u25bc7,10,2007
+25,113,5.0,74,Gusev Vladimir,81,Discovery Channel,\u25bc7,10,2007
+30,88,5.0,75,Valjavec Tadej,82,Lampre-Fondital,\u25bc7,10,2007
+33,191,4.0,76,Vinokourov Alexandre,83,Astana,\u25bc7,10,2007
+25,95,4.0,77,Kohl Bernhard,84,Gerolsteiner,\u25bc7,10,2007
+27,132,4.0,78,Bichot Freddy,85,Agritubel,\u25bc7,10,2007
+31,187,4.0,79,Ongarato Alberto,86,Milram,\u25bc7,10,2007
+22,54,4.0,80,Dekker Thomas,87,Rabobank ProTeam,\u25bc7,10,2007
+36,153,3.0,81,Beltran Manuel,88,Liquigas,\u25bc7,10,2007
+37,68,2.0,82,Goubert Stephane,89,AG2R Pr\xe9voyance,\u25bc7,10,2007
+26,185,2.0,83,Knees Christian,90,Milram,\u25bc7,10,2007
+29,192,2.0,84,Colom Antonio,91,Astana,\u25bc7,10,2007
+24,122,2.0,85,Clement Stef,92,Bouygues Telecom,\u25bc7,10,2007
+28,79,2.0,86,Verdugo Gorka,93,Euskaltel - Euskadi,\u25bc7,10,2007
+25,127,2.0,87,Sprick Matthieu,94,Bouygues Telecom,\u25bc7,10,2007
+26,175,2.0,88,Rosseler Sebastien,95,Quickstep - Innergetic,\u25bc7,10,2007
+24,85,2.0,,Corioni Claudio,96,Lampre-Fondital,-,10,2007
+25,169,2.0,89,Vaugrenard Benoit,97,Fran\xe7aise des Jeux,\u25bc8,10,2007
+33,178,1.0,90,Tosatto Matteo,98,Quickstep - Innergetic,\u25bc8,10,2007
+26,217,1.0,91,Longo Borghini Paolo,99,Barloworld,\u25bc8,10,2007
+26,171,160.0,1,Boonen Tom,1,Quickstep - Innergetic,-,11,2007
+30,216,149.0,3,Hunter Robert,2,Barloworld,\u25b21,11,2007
+37,181,144.0,2,Zabel Erik,3,Milram,\u25bc1,11,2007
+29,101,110.0,4,Hushovd Thor,4,Cr\xe9dit Agricole,-,11,2007
+24,162,108.0,5,Chavanel S\xe9bastien,5,Fran\xe7aise des Jeux,-,11,2007
+26,33,93.0,8,Cancellara Fabian,6,CSC ProTeam,\u25b22,11,2007
+25,151,78.0,11,Pozzato Filippo,7,Liquigas,\u25b24,11,2007
+29,92,78.0,6,F\xf6rster Robert,8,Gerolsteiner,\u25bc2,11,2007
+28,155,73.0,13,Fischer Murilo Antonio,9,Liquigas,\u25b24,11,2007
+26,176,68.0,7,Steegmans Gert,10,Quickstep - Innergetic,\u25bc3,11,2007
+24,22,68.0,10,Burghardt Marcus,11,T-Mobile Team,\u25bc1,11,2007
+25,165,63.0,16,Gilbert Philippe,12,Fran\xe7aise des Jeux,\u25b24,11,2007
+25,209,59.0,9,Ventoso Francisco,13,Saunier Duval,\u25bc4,11,2007
+29,55,48.0,12,Flecha Juan Antonio,14,Rabobank ProTeam,\u25bc2,11,2007
+26,82,48.0,17,Bennati Daniele,15,Lampre-Fondital,\u25b22,11,2007
+26,24,47.0,14,Eisel Bernhard,16,T-Mobile Team,\u25bc2,11,2007
+27,18,46.0,15,Valverde Alejandro,17,Caisse d'Epargne,\u25bc2,11,2007
+29,27,45.0,32,Kirchen Kim,18,T-Mobile Team,\u25b214,11,2007
+25,102,44.0,34,Bonnet William,19,Cr\xe9dit Agricole,\u25b215,11,2007
+31,83,43.0,41,Bossoni Paolo,20,Lampre-Fondital,\u25b221,11,2007
+36,179,41.0,18,Vasseur C\xe9dric,21,Quickstep - Innergetic,\u25bc3,11,2007
+22,167,39.0,19,Ladagnous Matthieu,22,Fran\xe7aise des Jeux,\u25bc3,11,2007
+30,41,39.0,24,Evans Cadel,23,Predictor - Lotto,\u25b21,11,2007
+25,77,38.0,20,Perez Ruben,24,Euskaltel - Euskadi,\u25bc4,11,2007
+34,114,37.0,21,Hincapie George,25,Discovery Channel,\u25bc4,11,2007
+32,196,36.0,28,Kl\xf6den Andr\xe9as,26,Astana,\u25b22,11,2007
+26,152,36.0,22,Albasini Michael,27,Liquigas,\u25bc5,11,2007
+29,207,35.0,23,Mayo Iban,28,Saunier Duval,\u25bc5,11,2007
+27,156,34.0,25,Kuchynski Aliaksandr,29,Liquigas,\u25bc4,11,2007
+23,94,34.0,26,Haussler Heinrich,30,Gerolsteiner,\u25bc4,11,2007
+24,219,33.0,27,Soler Juan Mauricio,31,Barloworld,\u25bc4,11,2007
+24,25,30.0,29,Gerdemann Linus,32,T-Mobile Team,\u25bc3,11,2007
+33,58,30.0,30,Rasmussen Michael,33,Rabobank ProTeam,\u25bc3,11,2007
+28,161,30.0,31,Casar Sandy,34,Fran\xe7aise des Jeux,\u25bc3,11,2007
+23,184,29.0,33,Grivko Andrei,35,Milram,\u25bc2,11,2007
+27,123,26.0,50,Florencio Xavier,36,Bouygues Telecom,\u25b214,11,2007
+28,147,26.0,35,Scheirlinckx Staf,37,Cofidis,\u25bc2,11,2007
+27,195,26.0,59,Kashechkin Andrey,38,Astana,\u25b221,11,2007
+35,38,26.0,36,Voigt Jens,39,CSC ProTeam,\u25bc3,11,2007
+36,61,25.0,37,Moreau Christophe,40,AG2R Pr\xe9voyance,\u25bc3,11,2007
+27,126,25.0,38,Pineau J\xe9rome,41,Bouygues Telecom,\u25bc3,11,2007
+27,36,24.0,39,Schleck Fr\xe4nk,42,CSC ProTeam,\u25bc3,11,2007
+33,107,24.0,40,Halgand Patrice,43,Cr\xe9dit Agricole,\u25bc3,11,2007
+33,173,23.0,42,de Jongh Steven,44,Quickstep - Innergetic,\u25bc2,11,2007
+29,11,22.0,43,Pereiro Oscar,45,Caisse d'Epargne,\u25bc2,11,2007
+27,81,22.0,,Ballan Alessandro,46,Lampre-Fondital,-,11,2007
+27,149,21.0,44,Wiggins Bradley,47,Cofidis,\u25bc3,11,2007
+24,112,21.0,45,Contador Alberto,48,Discovery Channel,\u25bc3,11,2007
+25,91,21.0,46,Schumacher Stefan,49,Gerolsteiner,\u25bc3,11,2007
+24,85,21.0,96,Corioni Claudio,50,Lampre-Fondital,\u25b246,11,2007
+24,96,21.0,47,Krauss Sven,51,Gerolsteiner,\u25bc4,11,2007
+28,141,20.0,48,Chavanel Sylvain,52,Cofidis,\u25bc4,11,2007
+30,76,20.0,49,Landaluze Inigo,53,Euskaltel - Euskadi,\u25bc4,11,2007
+34,144,19.0,51,Moreni Cristian,54,Cofidis,\u25bc3,11,2007
+28,65,19.0,52,Elmiger Martin,55,AG2R Pr\xe9voyance,\u25bc3,11,2007
+27,118,18.0,63,Popovych Yaroslav,56,Discovery Channel,\u25b27,11,2007
+27,124,18.0,75,Geslin Anthony,57,Bouygues Telecom,\u25b218,11,2007
+29,139,16.0,53,Vogondy Nicolas,58,Agritubel,\u25bc5,11,2007
+27,73,15.0,58,Astarloza Mikel,59,Euskaltel - Euskadi,\u25bc1,11,2007
+25,189,15.0,54,Sieberg Marcel,60,Milram,\u25bc6,11,2007
+25,93,15.0,,Fothen Markus,61,Gerolsteiner,-,11,2007
+26,205,15.0,55,De La Fuente David,62,Saunier Duval,\u25bc7,11,2007
+30,75,15.0,56,Isasi Inaki,63,Euskaltel - Euskadi,\u25bc7,11,2007
+27,157,15.0,70,Quinziato Manuel,64,Liquigas,\u25b26,11,2007
+33,108,15.0,57,Hinault S\xe9bastien,65,Cr\xe9dit Agricole,\u25bc8,11,2007
+28,177,14.0,60,Tankink Bram,66,Quickstep - Innergetic,\u25bc6,11,2007
+27,98,14.0,66,Wegmann Fabian,67,Gerolsteiner,\u25bc1,11,2007
+37,188,14.0,,Poitschke Enrico,68,Milram,-,11,2007
+31,125,13.0,61,Lefevre Laurent,69,Bouygues Telecom,\u25bc8,11,2007
+33,99,13.0,,Wrolich Peter,70,Gerolsteiner,-,11,2007
+30,201,12.0,62,Millar David,71,Saunier Duval,\u25bc9,11,2007
+32,31,12.0,64,Sastre Carlos,72,CSC ProTeam,\u25bc8,11,2007
+21,215,11.0,65,Thomas Geraint,73,Barloworld,\u25bc8,11,2007
+33,111,,66*,Leipheimer Levi,74*,Discovery Channel,-,11,2007
+31,174,10.0,67,Garate Juan Manuel,74,Quickstep - Innergetic,\u25bc7,11,2007
+31,37,9.0,,Vande Velde Christian,75,CSC ProTeam,-,11,2007
+23,168,9.0,68,L\xf6fkvist Thomas,76,Fran\xe7aise des Jeux,\u25bc8,11,2007
+32,105,9.0,69,Dean Julian,77,Cr\xe9dit Agricole,\u25bc8,11,2007
+32,203,9.0,,Ca\xf1ada David,78,Saunier Duval,-,11,2007
+29,51,8.0,71,Menchov Denis,79,Rabobank ProTeam,\u25bc8,11,2007
+35,44,7.0,72,Horner Chris,80,Predictor - Lotto,\u25bc8,11,2007
+28,14,7.0,73,Guti\xe9rrez Jos\xe9 Iv\xe1n,81,Caisse d'Epargne,\u25bc8,11,2007
+33,208,7.0,74,Rinero Christophe,82,Saunier Duval,\u25bc8,11,2007
+28,129,7.0,76,Voeckler Thomas,83,Bouygues Telecom,\u25bc7,11,2007
+27,159,6.0,77,Willems Frederik,84,Liquigas,\u25bc7,11,2007
+30,71,6.0,78,Zubeldia Haimar,85,Euskaltel - Euskadi,\u25bc7,11,2007
+26,15,5.0,79,Karpets Vladimir,86,Caisse d'Epargne,\u25bc7,11,2007
+26,204,5.0,80,Cobo Juan Jose,87,Saunier Duval,\u25bc7,11,2007
+25,113,5.0,81,Gusev Vladimir,88,Discovery Channel,\u25bc7,11,2007
+33,191,5.0,83,Vinokourov Alexandre,89,Astana,\u25bc6,11,2007
+30,88,4.0,82,Valjavec Tadej,90,Lampre-Fondital,\u25bc8,11,2007
+25,95,4.0,84,Kohl Bernhard,91,Gerolsteiner,\u25bc7,11,2007
+27,132,4.0,85,Bichot Freddy,92,Agritubel,\u25bc7,11,2007
+31,187,4.0,86,Ongarato Alberto,93,Milram,\u25bc7,11,2007
+27,145,4.0,,Nuyens Nick,94,Cofidis,-,11,2007
+24,218,4.0,,Siutsou Kanstantsin,95,Barloworld,-,11,2007
+22,54,3.0,87,Dekker Thomas,96,Rabobank ProTeam,\u25bc9,11,2007
+36,153,3.0,88,Beltran Manuel,97,Liquigas,\u25bc9,11,2007
+37,68,2.0,89,Goubert Stephane,98,AG2R Pr\xe9voyance,\u25bc9,11,2007
+26,185,2.0,90,Knees Christian,99,Milram,\u25bc9,11,2007
+29,192,2.0,91,Colom Antonio,100,Astana,\u25bc9,11,2007
+24,122,2.0,92,Clement Stef,101,Bouygues Telecom,\u25bc9,11,2007
+28,79,2.0,93,Verdugo Gorka,102,Euskaltel - Euskadi,\u25bc9,11,2007
+25,127,2.0,94,Sprick Matthieu,103,Bouygues Telecom,\u25bc9,11,2007
+28,121,2.0,,Fedrigo Pierrick,104,Bouygues Telecom,-,11,2007
+34,183,2.0,,Grabsch Ralf,105,Milram,-,11,2007
+26,175,2.0,95,Rosseler Sebastien,106,Quickstep - Innergetic,\u25bc11,11,2007
+25,169,2.0,97,Vaugrenard Benoit,107,Fran\xe7aise des Jeux,\u25bc10,11,2007
+26,217,1.0,99,Longo Borghini Paolo,108,Barloworld,\u25bc9,11,2007
+33,178,1.0,98,Tosatto Matteo,109,Quickstep - Innergetic,\u25bc11,11,2007
+26,171,195.0,1,Boonen Tom,1,Quickstep - Innergetic,-,12,2007
+30,216,175.0,2,Hunter Robert,2,Barloworld,-,12,2007
+37,181,174.0,3,Zabel Erik,3,Milram,-,12,2007
+29,101,132.0,4,Hushovd Thor,4,Cr\xe9dit Agricole,-,12,2007
+24,162,127.0,5,Chavanel S\xe9bastien,5,Fran\xe7aise des Jeux,-,12,2007
+29,92,95.0,8,F\xf6rster Robert,6,Gerolsteiner,\u25b22,12,2007
+26,33,93.0,6,Cancellara Fabian,7,CSC ProTeam,\u25bc1,12,2007
+25,151,87.0,7,Pozzato Filippo,8,Liquigas,\u25bc1,12,2007
+28,155,73.0,9,Fischer Murilo Antonio,9,Liquigas,-,12,2007
+26,82,72.0,15,Bennati Daniele,10,Lampre-Fondital,\u25b25,12,2007
+24,22,72.0,11,Burghardt Marcus,11,T-Mobile Team,-,12,2007
+26,176,71.0,10,Steegmans Gert,12,Quickstep - Innergetic,\u25bc2,12,2007
+26,24,67.0,16,Eisel Bernhard,13,T-Mobile Team,\u25b23,12,2007
+25,165,63.0,12,Gilbert Philippe,14,Fran\xe7aise des Jeux,\u25bc2,12,2007
+25,209,59.0,13,Ventoso Francisco,15,Saunier Duval,\u25bc2,12,2007
+29,55,48.0,14,Flecha Juan Antonio,16,Rabobank ProTeam,\u25bc2,12,2007
+27,18,46.0,17,Valverde Alejandro,17,Caisse d'Epargne,-,12,2007
+29,27,45.0,18,Kirchen Kim,18,T-Mobile Team,-,12,2007
+25,102,44.0,19,Bonnet William,19,Cr\xe9dit Agricole,-,12,2007
+31,83,43.0,20,Bossoni Paolo,20,Lampre-Fondital,-,12,2007
+27,195,42.0,38,Kashechkin Andrey,21,Astana,\u25b217,12,2007
+36,179,41.0,21,Vasseur C\xe9dric,22,Quickstep - Innergetic,\u25bc1,12,2007
+22,167,39.0,22,Ladagnous Matthieu,23,Fran\xe7aise des Jeux,\u25bc1,12,2007
+30,41,39.0,23,Evans Cadel,24,Predictor - Lotto,\u25bc1,12,2007
+25,77,38.0,24,Perez Ruben,25,Euskaltel - Euskadi,\u25bc1,12,2007
+23,94,38.0,30,Haussler Heinrich,26,Gerolsteiner,\u25b24,12,2007
+34,114,37.0,25,Hincapie George,27,Discovery Channel,\u25bc2,12,2007
+32,196,36.0,26,Kl\xf6den Andr\xe9as,28,Astana,\u25bc2,12,2007
+26,152,36.0,27,Albasini Michael,29,Liquigas,\u25bc2,12,2007
+29,207,35.0,28,Mayo Iban,30,Saunier Duval,\u25bc2,12,2007
+27,126,35.0,41,Pineau J\xe9rome,31,Bouygues Telecom,\u25b210,12,2007
+27,156,34.0,29,Kuchynski Aliaksandr,32,Liquigas,\u25bc3,12,2007
+24,219,33.0,31,Soler Juan Mauricio,33,Barloworld,\u25bc2,12,2007
+28,65,33.0,55,Elmiger Martin,34,AG2R Pr\xe9voyance,\u25b221,12,2007
+34,144,32.0,54,Moreni Cristian,35,Cofidis,\u25b219,12,2007
+24,25,30.0,32,Gerdemann Linus,36,T-Mobile Team,\u25bc4,12,2007
+33,58,30.0,33,Rasmussen Michael,37,Rabobank ProTeam,\u25bc4,12,2007
+28,161,30.0,34,Casar Sandy,38,Fran\xe7aise des Jeux,\u25bc4,12,2007
+23,184,29.0,35,Grivko Andrei,39,Milram,\u25bc4,12,2007
+27,124,29.0,57,Geslin Anthony,40,Bouygues Telecom,\u25b217,12,2007
+30,75,27.0,63,Isasi Inaki,41,Euskaltel - Euskadi,\u25b222,12,2007
+27,123,26.0,36,Florencio Xavier,42,Bouygues Telecom,\u25bc6,12,2007
+28,147,26.0,37,Scheirlinckx Staf,43,Cofidis,\u25bc6,12,2007
+35,38,26.0,39,Voigt Jens,44,CSC ProTeam,\u25bc5,12,2007
+36,61,25.0,40,Moreau Christophe,45,AG2R Pr\xe9voyance,\u25bc5,12,2007
+27,36,24.0,42,Schleck Fr\xe4nk,46,CSC ProTeam,\u25bc4,12,2007
+33,107,24.0,43,Halgand Patrice,47,Cr\xe9dit Agricole,\u25bc4,12,2007
+33,173,23.0,44,de Jongh Steven,48,Quickstep - Innergetic,\u25bc4,12,2007
+29,11,22.0,45,Pereiro Oscar,49,Caisse d'Epargne,\u25bc4,12,2007
+27,81,22.0,46,Ballan Alessandro,50,Lampre-Fondital,\u25bc4,12,2007
+27,149,21.0,47,Wiggins Bradley,51,Cofidis,\u25bc4,12,2007
+24,112,21.0,48,Contador Alberto,52,Discovery Channel,\u25bc4,12,2007
+25,91,21.0,49,Schumacher Stefan,53,Gerolsteiner,\u25bc4,12,2007
+24,85,21.0,50,Corioni Claudio,54,Lampre-Fondital,\u25bc4,12,2007
+24,96,21.0,51,Krauss Sven,55,Gerolsteiner,\u25bc4,12,2007
+28,141,20.0,52,Chavanel Sylvain,56,Cofidis,\u25bc4,12,2007
+30,76,20.0,53,Landaluze Inigo,57,Euskaltel - Euskadi,\u25bc4,12,2007
+27,132,19.0,92,Bichot Freddy,58,Agritubel,\u25b234,12,2007
+27,118,18.0,56,Popovych Yaroslav,59,Discovery Channel,\u25bc3,12,2007
+34,137,18.0,,Jalabert Nicolas,60,Agritubel,-,12,2007
+21,215,18.0,73,Thomas Geraint,61,Barloworld,\u25b212,12,2007
+25,189,17.0,60,Sieberg Marcel,62,Milram,\u25bc2,12,2007
+29,139,16.0,58,Vogondy Nicolas,63,Agritubel,\u25bc5,12,2007
+27,73,15.0,59,Astarloza Mikel,64,Euskaltel - Euskadi,\u25bc5,12,2007
+25,93,15.0,61,Fothen Markus,65,Gerolsteiner,\u25bc4,12,2007
+27,98,15.0,67,Wegmann Fabian,66,Gerolsteiner,\u25b21,12,2007
+26,205,15.0,62,De La Fuente David,67,Saunier Duval,\u25bc5,12,2007
+27,157,15.0,64,Quinziato Manuel,68,Liquigas,\u25bc4,12,2007
+33,108,15.0,65,Hinault S\xe9bastien,69,Cr\xe9dit Agricole,\u25bc4,12,2007
+28,121,14.0,104,Fedrigo Pierrick,70,Bouygues Telecom,\u25b234,12,2007
+28,177,14.0,66,Tankink Bram,71,Quickstep - Innergetic,\u25bc5,12,2007
+32,105,14.0,77,Dean Julian,72,Cr\xe9dit Agricole,\u25b25,12,2007
+37,188,14.0,68,Poitschke Enrico,73,Milram,\u25bc5,12,2007
+31,125,13.0,69,Lefevre Laurent,74,Bouygues Telecom,\u25bc5,12,2007
+33,99,13.0,70,Wrolich Peter,75,Gerolsteiner,\u25bc5,12,2007
+30,201,12.0,71,Millar David,76,Saunier Duval,\u25bc5,12,2007
+32,31,12.0,72,Sastre Carlos,77,CSC ProTeam,\u25bc5,12,2007
+33,111,,74*,Leipheimer Levi,78*,Discovery Channel,-,12,2007
+31,174,10.0,74,Garate Juan Manuel,78,Quickstep - Innergetic,\u25bc4,12,2007
+31,37,9.0,75,Vande Velde Christian,79,CSC ProTeam,\u25bc4,12,2007
+23,168,9.0,76,L\xf6fkvist Thomas,80,Fran\xe7aise des Jeux,\u25bc4,12,2007
+26,217,9.0,108,Longo Borghini Paolo,81,Barloworld,\u25b227,12,2007
+24,78,9.0,,Txurruka Amets,82,Euskaltel - Euskadi,-,12,2007
+32,203,8.0,78,Ca\xf1ada David,83,Saunier Duval,\u25bc5,12,2007
+29,51,8.0,79,Menchov Denis,84,Rabobank ProTeam,\u25bc5,12,2007
+35,44,7.0,80,Horner Chris,85,Predictor - Lotto,\u25bc5,12,2007
+28,14,7.0,81,Guti\xe9rrez Jos\xe9 Iv\xe1n,86,Caisse d'Epargne,\u25bc5,12,2007
+33,208,7.0,82,Rinero Christophe,87,Saunier Duval,\u25bc5,12,2007
+28,129,7.0,83,Voeckler Thomas,88,Bouygues Telecom,\u25bc5,12,2007
+27,159,6.0,84,Willems Frederik,89,Liquigas,\u25bc5,12,2007
+25,113,6.0,88,Gusev Vladimir,90,Discovery Channel,\u25bc2,12,2007
+30,71,6.0,85,Zubeldia Haimar,91,Euskaltel - Euskadi,\u25bc6,12,2007
+26,15,5.0,86,Karpets Vladimir,92,Caisse d'Epargne,\u25bc6,12,2007
+26,204,5.0,87,Cobo Juan Jose,93,Saunier Duval,\u25bc6,12,2007
+33,191,5.0,89,Vinokourov Alexandre,94,Astana,\u25bc5,12,2007
+30,88,4.0,90,Valjavec Tadej,95,Lampre-Fondital,\u25bc5,12,2007
+25,95,4.0,91,Kohl Bernhard,96,Gerolsteiner,\u25bc5,12,2007
+27,145,4.0,94,Nuyens Nick,97,Cofidis,\u25bc3,12,2007
+24,218,4.0,95,Siutsou Kanstantsin,98,Barloworld,\u25bc3,12,2007
+22,54,3.0,96,Dekker Thomas,99,Rabobank ProTeam,\u25bc3,12,2007
+36,153,3.0,97,Beltran Manuel,100,Liquigas,\u25bc3,12,2007
+37,68,2.0,98,Goubert Stephane,101,AG2R Pr\xe9voyance,\u25bc3,12,2007
+26,185,2.0,99,Knees Christian,102,Milram,\u25bc3,12,2007
+29,192,2.0,100,Colom Antonio,103,Astana,\u25bc3,12,2007
+28,79,2.0,102,Verdugo Gorka,104,Euskaltel - Euskadi,\u25bc2,12,2007
+25,127,2.0,103,Sprick Matthieu,105,Bouygues Telecom,\u25bc2,12,2007
+34,183,2.0,105,Grabsch Ralf,106,Milram,\u25bc1,12,2007
+26,175,2.0,106,Rosseler Sebastien,107,Quickstep - Innergetic,\u25bc1,12,2007
+25,169,2.0,107,Vaugrenard Benoit,108,Fran\xe7aise des Jeux,\u25bc1,12,2007
+33,178,1.0,109,Tosatto Matteo,109,Quickstep - Innergetic,-,12,2007
+26,171,195.0,1,Boonen Tom,1,Quickstep - Innergetic,-,13,2007
+30,216,175.0,2,Hunter Robert,2,Barloworld,-,13,2007
+37,181,174.0,3,Zabel Erik,3,Milram,-,13,2007
+29,101,132.0,4,Hushovd Thor,4,Cr\xe9dit Agricole,-,13,2007
+24,162,127.0,5,Chavanel S\xe9bastien,5,Fran\xe7aise des Jeux,-,13,2007
+29,92,95.0,6,F\xf6rster Robert,6,Gerolsteiner,-,13,2007
+26,33,93.0,7,Cancellara Fabian,7,CSC ProTeam,-,13,2007
+25,151,87.0,8,Pozzato Filippo,8,Liquigas,-,13,2007
+28,155,73.0,9,Fischer Murilo Antonio,9,Liquigas,-,13,2007
+26,82,72.0,10,Bennati Daniele,10,Lampre-Fondital,-,13,2007
+24,22,72.0,11,Burghardt Marcus,11,T-Mobile Team,-,13,2007
+26,176,71.0,12,Steegmans Gert,12,Quickstep - Innergetic,-,13,2007
+26,24,67.0,13,Eisel Bernhard,13,T-Mobile Team,-,13,2007
+25,165,63.0,14,Gilbert Philippe,14,Fran\xe7aise des Jeux,-,13,2007
+25,209,59.0,15,Ventoso Francisco,15,Saunier Duval,-,13,2007
+30,41,51.0,24,Evans Cadel,16,Predictor - Lotto,\u25b28,13,2007
+27,195,50.0,21,Kashechkin Andrey,17,Astana,\u25b24,13,2007
+29,55,48.0,16,Flecha Juan Antonio,18,Rabobank ProTeam,\u25bc2,13,2007
+32,196,46.0,28,Kl\xf6den Andr\xe9as,19,Astana,\u25b29,13,2007
+27,18,46.0,17,Valverde Alejandro,20,Caisse d'Epargne,\u25bc3,13,2007
+29,27,45.0,18,Kirchen Kim,21,T-Mobile Team,\u25bc3,13,2007
+25,102,44.0,19,Bonnet William,22,Cr\xe9dit Agricole,\u25bc3,13,2007
+31,83,43.0,20,Bossoni Paolo,23,Lampre-Fondital,\u25bc3,13,2007
+36,179,41.0,22,Vasseur C\xe9dric,24,Quickstep - Innergetic,\u25bc2,13,2007
+22,167,39.0,23,Ladagnous Matthieu,25,Fran\xe7aise des Jeux,\u25bc2,13,2007
+25,77,38.0,25,Perez Ruben,26,Euskaltel - Euskadi,\u25bc1,13,2007
+23,94,38.0,26,Haussler Heinrich,27,Gerolsteiner,\u25bc1,13,2007
+34,114,37.0,27,Hincapie George,28,Discovery Channel,\u25bc1,13,2007
+26,152,36.0,29,Albasini Michael,29,Liquigas,-,13,2007
+29,207,35.0,30,Mayo Iban,30,Saunier Duval,-,13,2007
+27,126,35.0,31,Pineau J\xe9rome,31,Bouygues Telecom,-,13,2007
+27,156,34.0,32,Kuchynski Aliaksandr,32,Liquigas,-,13,2007
+24,219,33.0,33,Soler Juan Mauricio,33,Barloworld,-,13,2007
+28,65,33.0,34,Elmiger Martin,34,AG2R Pr\xe9voyance,-,13,2007
+34,144,32.0,35,Moreni Cristian,35,Cofidis,-,13,2007
+24,25,30.0,36,Gerdemann Linus,36,T-Mobile Team,-,13,2007
+33,58,30.0,37,Rasmussen Michael,37,Rabobank ProTeam,-,13,2007
+28,161,30.0,38,Casar Sandy,38,Fran\xe7aise des Jeux,-,13,2007
+23,184,29.0,39,Grivko Andrei,39,Milram,-,13,2007
+27,124,29.0,40,Geslin Anthony,40,Bouygues Telecom,-,13,2007
+27,149,27.0,51,Wiggins Bradley,41,Cofidis,\u25b210,13,2007
+30,75,27.0,41,Isasi Inaki,42,Euskaltel - Euskadi,\u25bc1,13,2007
+27,123,26.0,42,Florencio Xavier,43,Bouygues Telecom,\u25bc1,13,2007
+28,147,26.0,43,Scheirlinckx Staf,44,Cofidis,\u25bc1,13,2007
+35,38,26.0,44,Voigt Jens,45,CSC ProTeam,\u25bc1,13,2007
+24,112,25.0,52,Contador Alberto,46,Discovery Channel,\u25b26,13,2007
+36,61,25.0,45,Moreau Christophe,47,AG2R Pr\xe9voyance,\u25bc2,13,2007
+27,36,24.0,46,Schleck Fr\xe4nk,48,CSC ProTeam,\u25bc2,13,2007
+33,107,24.0,47,Halgand Patrice,49,Cr\xe9dit Agricole,\u25bc2,13,2007
+27,118,23.0,59,Popovych Yaroslav,50,Discovery Channel,\u25b29,13,2007
+28,141,23.0,56,Chavanel Sylvain,51,Cofidis,\u25b25,13,2007
+33,173,23.0,48,de Jongh Steven,52,Quickstep - Innergetic,\u25bc4,13,2007
+29,11,22.0,49,Pereiro Oscar,53,Caisse d'Epargne,\u25bc4,13,2007
+27,81,22.0,50,Ballan Alessandro,54,Lampre-Fondital,\u25bc4,13,2007
+26,91,21.0,53,Schumacher Stefan,55,Gerolsteiner,\u25bc2,13,2007
+24,85,21.0,54,Corioni Claudio,56,Lampre-Fondital,\u25bc2,13,2007
+24,96,21.0,55,Krauss Sven,57,Gerolsteiner,\u25bc2,13,2007
+30,76,20.0,57,Landaluze Inigo,58,Euskaltel - Euskadi,\u25bc1,13,2007
+33,191,19.0,94,Vinokourov Alexandre,59,Astana,\u25b235,13,2007
+27,132,19.0,58,Bichot Freddy,60,Agritubel,\u25bc2,13,2007
+34,137,18.0,60,Jalabert Nicolas,61,Agritubel,\u25bc1,13,2007
+21,215,18.0,61,Thomas Geraint,62,Barloworld,\u25bc1,13,2007
+25,189,17.0,62,Sieberg Marcel,63,Milram,\u25bc1,13,2007
+29,139,16.0,63,Vogondy Nicolas,64,Agritubel,\u25bc1,13,2007
+27,73,16.0,64,Astarloza Mikel,65,Euskaltel - Euskadi,\u25bc1,13,2007
+25,93,15.0,65,Fothen Markus,66,Gerolsteiner,\u25bc1,13,2007
+27,98,15.0,66,Wegmann Fabian,67,Gerolsteiner,\u25bc1,13,2007
+26,205,15.0,67,De La Fuente David,68,Saunier Duval,\u25bc1,13,2007
+27,157,15.0,68,Quinziato Manuel,69,Liquigas,\u25bc1,13,2007
+33,108,15.0,69,Hinault S\xe9bastien,70,Cr\xe9dit Agricole,\u25bc1,13,2007
+28,121,14.0,70,Fedrigo Pierrick,71,Bouygues Telecom,\u25bc1,13,2007
+28,177,14.0,71,Tankink Bram,72,Quickstep - Innergetic,\u25bc1,13,2007
+32,105,14.0,72,Dean Julian,73,Cr\xe9dit Agricole,\u25bc1,13,2007
+37,188,14.0,73,Poitschke Enrico,74,Milram,\u25bc1,13,2007
+31,125,13.0,74,Lefevre Laurent,75,Bouygues Telecom,\u25bc1,13,2007
+33,99,13.0,75,Wrolich Peter,76,Gerolsteiner,\u25bc1,13,2007
+30,201,12.0,76,Millar David,77,Saunier Duval,\u25bc1,13,2007
+33,111,,78*,Leipheimer Levi,78*,Discovery Channel,-,13,2007
+32,31,12.0,77,Sastre Carlos,78,CSC ProTeam,\u25bc1,13,2007
+31,174,12.0,78,Garate Juan Manuel,79,Quickstep - Innergetic,\u25bc1,13,2007
+31,37,9.0,79,Vande Velde Christian,80,CSC ProTeam,\u25bc1,13,2007
+23,168,9.0,80,L\xf6fkvist Thomas,81,Fran\xe7aise des Jeux,\u25bc1,13,2007
+26,217,9.0,81,Longo Borghini Paolo,82,Barloworld,\u25bc1,13,2007
+24,78,9.0,82,Txurruka Amets,83,Euskaltel - Euskadi,\u25bc1,13,2007
+32,203,8.0,83,Ca\xf1ada David,84,Saunier Duval,\u25bc1,13,2007
+29,51,8.0,84,Menchov Denis,85,Rabobank ProTeam,\u25bc1,13,2007
+35,44,7.0,85,Horner Chris,86,Predictor - Lotto,\u25bc1,13,2007
+28,14,7.0,86,Guti\xe9rrez Jos\xe9 Iv\xe1n,87,Caisse d'Epargne,\u25bc1,13,2007
+33,208,7.0,87,Rinero Christophe,88,Saunier Duval,\u25bc1,13,2007
+28,129,7.0,88,Voeckler Thomas,89,Bouygues Telecom,\u25bc1,13,2007
+27,159,6.0,89,Willems Frederik,90,Liquigas,\u25bc1,13,2007
+25,113,6.0,90,Gusev Vladimir,91,Discovery Channel,\u25bc1,13,2007
+30,71,6.0,91,Zubeldia Haimar,92,Euskaltel - Euskadi,\u25bc1,13,2007
+26,15,5.0,92,Karpets Vladimir,93,Caisse d'Epargne,\u25bc1,13,2007
+26,204,5.0,93,Cobo Juan Jose,94,Saunier Duval,\u25bc1,13,2007
+30,88,5.0,95,Valjavec Tadej,95,Lampre-Fondital,-,13,2007
+25,95,4.0,96,Kohl Bernhard,96,Gerolsteiner,-,13,2007
+27,145,4.0,97,Nuyens Nick,97,Cofidis,-,13,2007
+24,218,4.0,98,Siutsou Kanstantsin,98,Barloworld,-,13,2007
+22,54,3.0,99,Dekker Thomas,99,Rabobank ProTeam,-,13,2007
+36,153,3.0,100,Beltran Manuel,100,Liquigas,-,13,2007
+37,68,2.0,101,Goubert Stephane,101,AG2R Pr\xe9voyance,-,13,2007
+26,185,2.0,102,Knees Christian,102,Milram,-,13,2007
+29,192,2.0,103,Colom Antonio,103,Astana,-,13,2007
+28,79,2.0,104,Verdugo Gorka,104,Euskaltel - Euskadi,-,13,2007
+25,127,2.0,105,Sprick Matthieu,105,Bouygues Telecom,-,13,2007
+26,175,2.0,107,Rosseler Sebastien,106,Quickstep - Innergetic,\u25b21,13,2007
+34,183,2.0,106,Grabsch Ralf,107,Milram,\u25bc1,13,2007
+25,169,2.0,108,Vaugrenard Benoit,108,Fran\xe7aise des Jeux,-,13,2007
+33,178,1.0,109,Tosatto Matteo,109,Quickstep - Innergetic,-,13,2007
+26,171,195.0,1,Boonen Tom,1,Quickstep - Innergetic,-,14,2007
+30,216,175.0,2,Hunter Robert,2,Barloworld,-,14,2007
+37,181,174.0,3,Zabel Erik,3,Milram,-,14,2007
+29,101,132.0,4,Hushovd Thor,4,Cr\xe9dit Agricole,-,14,2007
+24,162,127.0,5,Chavanel S\xe9bastien,5,Fran\xe7aise des Jeux,-,14,2007
+29,92,95.0,6,F\xf6rster Robert,6,Gerolsteiner,-,14,2007
+26,33,93.0,7,Cancellara Fabian,7,CSC ProTeam,-,14,2007
+25,151,87.0,8,Pozzato Filippo,8,Liquigas,-,14,2007
+28,155,73.0,9,Fischer Murilo Antonio,9,Liquigas,-,14,2007
+26,82,72.0,10,Bennati Daniele,10,Lampre-Fondital,-,14,2007
+24,22,72.0,11,Burghardt Marcus,11,T-Mobile Team,-,14,2007
+26,176,71.0,12,Steegmans Gert,12,Quickstep - Innergetic,-,14,2007
+26,24,67.0,13,Eisel Bernhard,13,T-Mobile Team,-,14,2007
+25,165,63.0,14,Gilbert Philippe,14,Fran\xe7aise des Jeux,-,14,2007
+30,41,60.0,16,Evans Cadel,15,Predictor - Lotto,\u25b21,14,2007
+27,195,57.0,17,Kashechkin Andrey,16,Astana,\u25b21,14,2007
+32,196,56.0,19,Kl\xf6den Andr\xe9as,17,Astana,\u25b22,14,2007
+24,219,48.0,33,Soler Juan Mauricio,18,Barloworld,\u25b215,14,2007
+29,55,48.0,18,Flecha Juan Antonio,19,Rabobank ProTeam,\u25bc1,14,2007
+27,18,48.0,20,Valverde Alejandro,20,Caisse d'Epargne,-,14,2007
+33,58,47.0,37,Rasmussen Michael,21,Rabobank ProTeam,\u25b216,14,2007
+24,112,45.0,46,Contador Alberto,22,Discovery Channel,\u25b224,14,2007
+29,27,45.0,21,Kirchen Kim,23,T-Mobile Team,\u25bc2,14,2007
+27,156,44.0,32,Kuchynski Aliaksandr,24,Liquigas,\u25b28,14,2007
+25,102,44.0,22,Bonnet William,25,Cr\xe9dit Agricole,\u25bc3,14,2007
+31,83,43.0,23,Bossoni Paolo,26,Lampre-Fondital,\u25bc3,14,2007
+25,77,42.0,26,Perez Ruben,27,Euskaltel - Euskadi,\u25bc1,14,2007
+36,179,41.0,24,Vasseur C\xe9dric,28,Quickstep - Innergetic,\u25bc4,14,2007
+22,167,39.0,25,Ladagnous Matthieu,29,Fran\xe7aise des Jeux,\u25bc4,14,2007
+23,94,38.0,27,Haussler Heinrich,30,Gerolsteiner,\u25bc3,14,2007
+34,114,37.0,28,Hincapie George,31,Discovery Channel,\u25bc3,14,2007
+26,152,36.0,29,Albasini Michael,32,Liquigas,\u25bc3,14,2007
+29,207,35.0,30,Mayo Iban,33,Saunier Duval,\u25bc3,14,2007
+27,126,35.0,31,Pineau J\xe9rome,34,Bouygues Telecom,\u25bc3,14,2007
+28,65,33.0,34,Elmiger Martin,35,AG2R Pr\xe9voyance,\u25bc1,14,2007
+34,144,32.0,35,Moreni Cristian,36,Cofidis,\u25bc1,14,2007
+24,25,30.0,36,Gerdemann Linus,37,T-Mobile Team,\u25bc1,14,2007
+28,161,30.0,38,Casar Sandy,38,Fran\xe7aise des Jeux,-,14,2007
+27,118,29.0,50,Popovych Yaroslav,39,Discovery Channel,\u25b211,14,2007
+23,184,29.0,39,Grivko Andrei,40,Milram,\u25bc1,14,2007
+27,124,29.0,40,Geslin Anthony,41,Bouygues Telecom,\u25bc1,14,2007
+27,149,27.0,41,Wiggins Bradley,42,Cofidis,\u25bc1,14,2007
+30,75,27.0,42,Isasi Inaki,43,Euskaltel - Euskadi,\u25bc1,14,2007
+27,123,26.0,43,Florencio Xavier,44,Bouygues Telecom,\u25bc1,14,2007
+28,147,26.0,44,Scheirlinckx Staf,45,Cofidis,\u25bc1,14,2007
+35,38,26.0,45,Voigt Jens,46,CSC ProTeam,\u25bc1,14,2007
+33,111,,78*,Leipheimer Levi,47*,Discovery Channel,-,14,2007
+29,11,25.0,53,Pereiro Oscar,47,Caisse d'Epargne,\u25b26,14,2007
+36,61,25.0,47,Moreau Christophe,48,AG2R Pr\xe9voyance,\u25bc1,14,2007
+32,31,25.0,78,Sastre Carlos,49,CSC ProTeam,\u25b229,14,2007
+27,36,24.0,48,Schleck Fr\xe4nk,50,CSC ProTeam,\u25bc2,14,2007
+33,107,24.0,49,Halgand Patrice,51,Cr\xe9dit Agricole,\u25bc2,14,2007
+28,141,24.0,51,Chavanel Sylvain,52,Cofidis,\u25bc1,14,2007
+33,173,23.0,52,de Jongh Steven,53,Quickstep - Innergetic,\u25bc1,14,2007
+27,81,23.0,54,Ballan Alessandro,54,Lampre-Fondital,-,14,2007
+26,91,22.0,55,Schumacher Stefan,55,Gerolsteiner,-,14,2007
+24,85,21.0,56,Corioni Claudio,56,Lampre-Fondital,-,14,2007
+24,96,21.0,57,Krauss Sven,57,Gerolsteiner,-,14,2007
+27,73,21.0,65,Astarloza Mikel,58,Euskaltel - Euskadi,\u25b27,14,2007
+30,76,20.0,58,Landaluze Inigo,59,Euskaltel - Euskadi,\u25bc1,14,2007
+33,191,,59,Vinokourov Alexandre,61*,Astana,\u25b259,14,2007
+27,132,20.0,60,Bichot Freddy,60,Agritubel,-,14,2007
+34,137,19.0,61,Jalabert Nicolas,61,Agritubel,-,14,2007
+21,215,19.0,62,Thomas Geraint,62,Barloworld,-,14,2007
+25,189,18.0,63,Sieberg Marcel,63,Milram,-,14,2007
+29,139,18.0,64,Vogondy Nicolas,64,Agritubel,-,14,2007
+25,93,17.0,66,Fothen Markus,65,Gerolsteiner,\u25b21,14,2007
+27,98,16.0,67,Wegmann Fabian,66,Gerolsteiner,\u25b21,14,2007
+26,205,15.0,68,De La Fuente David,67,Saunier Duval,\u25b21,14,2007
+27,157,15.0,69,Quinziato Manuel,68,Liquigas,\u25b21,14,2007
+33,108,15.0,70,Hinault S\xe9bastien,69,Cr\xe9dit Agricole,\u25b21,14,2007
+28,121,15.0,71,Fedrigo Pierrick,70,Bouygues Telecom,\u25b21,14,2007
+28,177,15.0,72,Tankink Bram,71,Quickstep - Innergetic,\u25b21,14,2007
+32,105,14.0,73,Dean Julian,72,Cr\xe9dit Agricole,\u25b21,14,2007
+37,188,14.0,74,Poitschke Enrico,73,Milram,\u25b21,14,2007
+31,125,14.0,75,Lefevre Laurent,74,Bouygues Telecom,\u25b21,14,2007
+33,99,14.0,76,Wrolich Peter,75,Gerolsteiner,\u25b21,14,2007
+30,201,13.0,77,Millar David,76,Saunier Duval,\u25b21,14,2007
+28,14,13.0,87,Guti\xe9rrez Jos\xe9 Iv\xe1n,77,Caisse d'Epargne,\u25b210,14,2007
+29,192,12.0,103,Colom Antonio,78,Astana,\u25b225,14,2007
+31,174,11.0,79,Garate Juan Manuel,79,Quickstep - Innergetic,-,14,2007
+31,37,10.0,80,Vande Velde Christian,80,CSC ProTeam,-,14,2007
+23,168,9.0,81,L\xf6fkvist Thomas,81,Fran\xe7aise des Jeux,-,14,2007
+26,217,9.0,82,Longo Borghini Paolo,82,Barloworld,-,14,2007
+24,78,9.0,83,Txurruka Amets,83,Euskaltel - Euskadi,-,14,2007
+32,203,9.0,84,Ca\xf1ada David,84,Saunier Duval,-,14,2007
+35,44,8.0,86,Horner Chris,85,Predictor - Lotto,\u25b21,14,2007
+29,51,8.0,85,Menchov Denis,86,Rabobank ProTeam,\u25bc1,14,2007
+33,208,7.0,88,Rinero Christophe,87,Saunier Duval,\u25b21,14,2007
+26,172,7.0,,Barredo Carlos,88,Quickstep - Innergetic,-,14,2007
+28,129,7.0,89,Voeckler Thomas,89,Bouygues Telecom,-,14,2007
+27,159,6.0,90,Willems Frederik,90,Liquigas,-,14,2007
+30,71,6.0,92,Zubeldia Haimar,91,Euskaltel - Euskadi,\u25b21,14,2007
+25,113,6.0,91,Gusev Vladimir,92,Discovery Channel,\u25bc1,14,2007
+26,15,6.0,93,Karpets Vladimir,93,Caisse d'Epargne,-,14,2007
+35,52,6.0,,Boogerd Michael,96*,Rabobank ProTeam,-,14,2007
+26,204,6.0,94,Cobo Juan Jose,95,Saunier Duval,\u25bc1,14,2007
+30,88,5.0,95,Valjavec Tadej,96,Lampre-Fondital,\u25bc1,14,2007
+25,95,5.0,96,Kohl Bernhard,97,Gerolsteiner,\u25bc1,14,2007
+27,145,5.0,97,Nuyens Nick,98,Cofidis,\u25bc1,14,2007
+24,218,4.0,98,Siutsou Kanstantsin,99,Barloworld,\u25bc1,14,2007
+22,54,4.0,99,Dekker Thomas,100,Rabobank ProTeam,\u25bc1,14,2007
+36,153,4.0,100,Beltran Manuel,101,Liquigas,\u25bc1,14,2007
+37,68,3.0,101,Goubert Stephane,102,AG2R Pr\xe9voyance,\u25bc1,14,2007
+26,185,3.0,102,Knees Christian,103,Milram,\u25bc1,14,2007
+28,79,2.0,104,Verdugo Gorka,104,Euskaltel - Euskadi,-,14,2007
+25,127,2.0,105,Sprick Matthieu,105,Bouygues Telecom,-,14,2007
+26,175,2.0,106,Rosseler Sebastien,106,Quickstep - Innergetic,-,14,2007
+34,183,2.0,107,Grabsch Ralf,107,Milram,-,14,2007
+25,169,2.0,108,Vaugrenard Benoit,108,Fran\xe7aise des Jeux,-,14,2007
+33,178,2.0,109,Tosatto Matteo,109,Quickstep - Innergetic,-,14,2007
+26,171,195.0,1,Boonen Tom,1,Quickstep - Innergetic,-,15,2007
+30,216,175.0,2,Hunter Robert,2,Barloworld,-,15,2007
+37,181,174.0,3,Zabel Erik,3,Milram,-,15,2007
+29,101,132.0,4,Hushovd Thor,4,Cr\xe9dit Agricole,-,15,2007
+24,162,127.0,5,Chavanel S\xe9bastien,5,Fran\xe7aise des Jeux,-,15,2007
+29,92,95.0,6,F\xf6rster Robert,6,Gerolsteiner,-,15,2007
+26,33,93.0,7,Cancellara Fabian,7,CSC ProTeam,-,15,2007
+26,82,84.0,10,Bennati Daniele,8,Lampre-Fondital,\u25b22,15,2007
+28,155,73.0,9,Fischer Murilo Antonio,9,Liquigas,-,15,2007
+24,22,72.0,11,Burghardt Marcus,10,T-Mobile Team,\u25b21,15,2007
+26,176,71.0,12,Steegmans Gert,11,Quickstep - Innergetic,\u25b21,15,2007
+26,24,67.0,13,Eisel Bernhard,12,T-Mobile Team,\u25b21,15,2007
+30,41,63.0,15,Evans Cadel,13,Predictor - Lotto,\u25b22,15,2007
+29,27,62.0,23,Kirchen Kim,14,T-Mobile Team,\u25b29,15,2007
+27,195,57.0,16,Kashechkin Andrey,15,Astana,\u25b21,15,2007
+32,196,56.0,17,Kl\xf6den Andr\xe9as,16,Astana,\u25b21,15,2007
+33,58,52.0,21,Rasmussen Michael,17,Rabobank ProTeam,\u25b24,15,2007
+24,112,51.0,22,Contador Alberto,18,Discovery Channel,\u25b24,15,2007
+24,219,48.0,18,Soler Juan Mauricio,19,Barloworld,\u25bc1,15,2007
+29,55,48.0,19,Flecha Juan Antonio,20,Rabobank ProTeam,\u25bc1,15,2007
+27,18,48.0,20,Valverde Alejandro,21,Caisse d'Epargne,\u25bc1,15,2007
+27,156,44.0,24,Kuchynski Aliaksandr,22,Liquigas,\u25b22,15,2007
+25,102,44.0,25,Bonnet William,23,Cr\xe9dit Agricole,\u25b22,15,2007
+31,83,43.0,26,Bossoni Paolo,24,Lampre-Fondital,\u25b22,15,2007
+25,77,42.0,27,Perez Ruben,25,Euskaltel - Euskadi,\u25b22,15,2007
+36,179,41.0,28,Vasseur C\xe9dric,26,Quickstep - Innergetic,\u25b22,15,2007
+34,114,41.0,31,Hincapie George,27,Discovery Channel,\u25b24,15,2007
+33,191,,61*,Vinokourov Alexandre,28*,Astana,-,15,2007
+22,167,39.0,29,Ladagnous Matthieu,28,Fran\xe7aise des Jeux,\u25b21,15,2007
+23,94,39.0,30,Haussler Heinrich,29,Gerolsteiner,\u25b21,15,2007
+26,152,38.0,32,Albasini Michael,30,Liquigas,\u25b22,15,2007
+29,207,36.0,33,Mayo Iban,31,Saunier Duval,\u25b22,15,2007
+27,126,35.0,34,Pineau J\xe9rome,32,Bouygues Telecom,\u25b22,15,2007
+28,65,35.0,35,Elmiger Martin,33,AG2R Pr\xe9voyance,\u25b22,15,2007
+34,144,33.0,36,Moreni Cristian,34,Cofidis,\u25b22,15,2007
+24,25,32.0,37,Gerdemann Linus,35,T-Mobile Team,\u25b22,15,2007
+28,161,30.0,38,Casar Sandy,36,Fran\xe7aise des Jeux,\u25b22,15,2007
+27,118,30.0,39,Popovych Yaroslav,37,Discovery Channel,\u25b22,15,2007
+23,184,29.0,40,Grivko Andrei,38,Milram,\u25b22,15,2007
+27,124,29.0,41,Geslin Anthony,39,Bouygues Telecom,\u25b22,15,2007
+27,149,29.0,42,Wiggins Bradley,40,Cofidis,\u25b22,15,2007
+30,75,27.0,43,Isasi Inaki,41,Euskaltel - Euskadi,\u25b22,15,2007
+27,123,27.0,44,Florencio Xavier,42,Bouygues Telecom,\u25b22,15,2007
+28,147,26.0,45,Scheirlinckx Staf,43,Cofidis,\u25b22,15,2007
+35,38,26.0,46,Voigt Jens,44,CSC ProTeam,\u25b22,15,2007
+33,111,,47*,Leipheimer Levi,46*,Discovery Channel,-,15,2007
+29,11,26.0,47,Pereiro Oscar,45,Caisse d'Epargne,\u25b22,15,2007
+36,61,25.0,48,Moreau Christophe,46,AG2R Pr\xe9voyance,\u25b22,15,2007
+32,31,25.0,49,Sastre Carlos,47,CSC ProTeam,\u25b22,15,2007
+27,36,25.0,50,Schleck Fr\xe4nk,48,CSC ProTeam,\u25b22,15,2007
+33,107,24.0,51,Halgand Patrice,49,Cr\xe9dit Agricole,\u25b22,15,2007
+28,141,24.0,52,Chavanel Sylvain,50,Cofidis,\u25b22,15,2007
+33,173,24.0,53,de Jongh Steven,51,Quickstep - Innergetic,\u25b22,15,2007
+27,73,23.0,58,Astarloza Mikel,52,Euskaltel - Euskadi,\u25b26,15,2007
+27,81,23.0,54,Ballan Alessandro,53,Lampre-Fondital,\u25b21,15,2007
+30,71,22.0,91,Zubeldia Haimar,54,Euskaltel - Euskadi,\u25b237,15,2007
+31,174,22.0,79,Garate Juan Manuel,55,Quickstep - Innergetic,\u25b224,15,2007
+26,91,21.0,55,Schumacher Stefan,56,Gerolsteiner,\u25bc1,15,2007
+24,85,21.0,56,Corioni Claudio,57,Lampre-Fondital,\u25bc1,15,2007
+24,96,21.0,57,Krauss Sven,58,Gerolsteiner,\u25bc1,15,2007
+30,76,21.0,59,Landaluze Inigo,59,Euskaltel - Euskadi,-,15,2007
+27,132,21.0,60,Bichot Freddy,60,Agritubel,-,15,2007
+26,204,20.0,95,Cobo Juan Jose,61,Saunier Duval,\u25b234,15,2007
+34,137,19.0,61,Jalabert Nicolas,62,Agritubel,\u25bc1,15,2007
+21,215,18.0,62,Thomas Geraint,63,Barloworld,\u25bc1,15,2007
+25,189,18.0,63,Sieberg Marcel,64,Milram,\u25bc1,15,2007
+31,37,18.0,80,Vande Velde Christian,65,CSC ProTeam,\u25b215,15,2007
+29,139,17.0,64,Vogondy Nicolas,66,Agritubel,\u25bc2,15,2007
+25,93,17.0,65,Fothen Markus,67,Gerolsteiner,\u25bc2,15,2007
+25,95,16.0,97,Kohl Bernhard,68,Gerolsteiner,\u25b229,15,2007
+27,98,15.0,66,Wegmann Fabian,69,Gerolsteiner,\u25bc3,15,2007
+26,205,15.0,67,De La Fuente David,70,Saunier Duval,\u25bc3,15,2007
+27,157,15.0,68,Quinziato Manuel,71,Liquigas,\u25bc3,15,2007
+33,108,15.0,69,Hinault S\xe9bastien,72,Cr\xe9dit Agricole,\u25bc3,15,2007
+28,121,15.0,70,Fedrigo Pierrick,73,Bouygues Telecom,\u25bc3,15,2007
+28,177,15.0,71,Tankink Bram,74,Quickstep - Innergetic,\u25bc3,15,2007
+32,105,14.0,72,Dean Julian,75,Cr\xe9dit Agricole,\u25bc3,15,2007
+37,188,14.0,73,Poitschke Enrico,76,Milram,\u25bc3,15,2007
+31,125,14.0,74,Lefevre Laurent,77,Bouygues Telecom,\u25bc3,15,2007
+33,99,14.0,75,Wrolich Peter,78,Gerolsteiner,\u25bc3,15,2007
+30,201,13.0,76,Millar David,79,Saunier Duval,\u25bc3,15,2007
+28,14,13.0,77,Guti\xe9rrez Jos\xe9 Iv\xe1n,80,Caisse d'Epargne,\u25bc3,15,2007
+27,12,12.0,,Arroyo David,81,Caisse d'Epargne,-,15,2007
+29,192,11.0,78,Colom Antonio,82,Astana,\u25bc4,15,2007
+23,168,10.0,81,L\xf6fkvist Thomas,83,Fran\xe7aise des Jeux,\u25bc2,15,2007
+26,217,10.0,82,Longo Borghini Paolo,84,Barloworld,\u25bc2,15,2007
+24,78,9.0,83,Txurruka Amets,85,Euskaltel - Euskadi,\u25bc2,15,2007
+32,203,9.0,84,Ca\xf1ada David,86,Saunier Duval,\u25bc2,15,2007
+35,44,8.0,85,Horner Chris,87,Predictor - Lotto,\u25bc2,15,2007
+29,51,8.0,86,Menchov Denis,88,Rabobank ProTeam,\u25bc2,15,2007
+32,69,7.0,,Turpin Ludovic,89,AG2R Pr\xe9voyance,-,15,2007
+33,208,7.0,87,Rinero Christophe,90,Saunier Duval,\u25bc3,15,2007
+26,172,7.0,88,Barredo Carlos,91,Quickstep - Innergetic,\u25bc3,15,2007
+28,129,7.0,89,Voeckler Thomas,92,Bouygues Telecom,\u25bc3,15,2007
+27,159,6.0,90,Willems Frederik,93,Liquigas,\u25bc3,15,2007
+35,52,6.0,96*,Boogerd Michael,96*,Rabobank ProTeam,-,15,2007
+25,113,6.0,92,Gusev Vladimir,95,Discovery Channel,\u25bc3,15,2007
+26,15,6.0,93,Karpets Vladimir,96,Caisse d'Epargne,\u25bc3,15,2007
+30,88,6.0,96,Valjavec Tadej,97,Lampre-Fondital,\u25bc1,15,2007
+32,194,6.0,,Ivanov Serguei,98,Astana,-,15,2007
+27,145,5.0,98,Nuyens Nick,99,Cofidis,\u25bc1,15,2007
+24,218,4.0,99,Siutsou Kanstantsin,100,Barloworld,\u25bc1,15,2007
+22,54,4.0,100,Dekker Thomas,101,Rabobank ProTeam,\u25bc1,15,2007
+25,169,4.0,108,Vaugrenard Benoit,102,Fran\xe7aise des Jeux,\u25b26,15,2007
+36,153,3.0,101,Beltran Manuel,103,Liquigas,\u25bc2,15,2007
+37,68,3.0,102,Goubert Stephane,104,AG2R Pr\xe9voyance,\u25bc2,15,2007
+26,185,3.0,103,Knees Christian,105,Milram,\u25bc2,15,2007
+28,79,2.0,104,Verdugo Gorka,106,Euskaltel - Euskadi,\u25bc2,15,2007
+25,127,2.0,105,Sprick Matthieu,107,Bouygues Telecom,\u25bc2,15,2007
+26,175,2.0,106,Rosseler Sebastien,108,Quickstep - Innergetic,\u25bc2,15,2007
+34,183,2.0,107,Grabsch Ralf,109,Milram,\u25bc2,15,2007
+33,178,2.0,109,Tosatto Matteo,110,Quickstep - Innergetic,\u25bc1,15,2007
+26,171,195.0,1,Boonen Tom,1,Quickstep - Innergetic,-,16,2007
+30,216,175.0,2,Hunter Robert,2,Barloworld,-,16,2007
+37,181,174.0,3,Zabel Erik,3,Milram,-,16,2007
+29,101,132.0,4,Hushovd Thor,4,Cr\xe9dit Agricole,-,16,2007
+24,162,127.0,5,Chavanel S\xe9bastien,5,Fran\xe7aise des Jeux,-,16,2007
+29,92,95.0,6,F\xf6rster Robert,6,Gerolsteiner,-,16,2007
+26,33,93.0,7,Cancellara Fabian,7,CSC ProTeam,-,16,2007
+26,82,84.0,8,Bennati Daniele,8,Lampre-Fondital,-,16,2007
+30,41,76.0,13,Evans Cadel,9,Predictor - Lotto,\u25b24,16,2007
+28,155,73.0,9,Fischer Murilo Antonio,10,Liquigas,\u25bc1,16,2007
+33,58,72.0,17,Rasmussen Michael,11,Rabobank ProTeam,\u25b26,16,2007
+24,22,72.0,10,Burghardt Marcus,12,T-Mobile Team,\u25bc2,16,2007
+26,176,71.0,11,Steegmans Gert,13,Quickstep - Innergetic,\u25bc2,16,2007
+26,24,67.0,12,Eisel Bernhard,14,T-Mobile Team,\u25bc2,16,2007
+24,112,66.0,18,Contador Alberto,15,Discovery Channel,\u25b23,16,2007
+24,219,64.0,19,Soler Juan Mauricio,16,Barloworld,\u25b23,16,2007
+29,27,63.0,14,Kirchen Kim,17,T-Mobile Team,\u25bc3,16,2007
+27,18,54.0,21,Valverde Alejandro,18,Caisse d'Epargne,\u25b23,16,2007
+27,156,44.0,22,Kuchynski Aliaksandr,19,Liquigas,\u25b23,16,2007
+25,102,44.0,23,Bonnet William,20,Cr\xe9dit Agricole,\u25b23,16,2007
+29,55,43.0,20,Flecha Juan Antonio,21,Rabobank ProTeam,\u25bc1,16,2007
+31,83,43.0,24,Bossoni Paolo,22,Lampre-Fondital,\u25b22,16,2007
+25,77,42.0,25,Perez Ruben,23,Euskaltel - Euskadi,\u25b22,16,2007
+33,111,,46*,Leipheimer Levi,24*,Discovery Channel,-,16,2007
+36,179,42.0,26,Vasseur C\xe9dric,24,Quickstep - Innergetic,\u25b22,16,2007
+34,114,41.0,27,Hincapie George,25,Discovery Channel,\u25b22,16,2007
+22,167,41.0,28,Ladagnous Matthieu,26,Fran\xe7aise des Jeux,\u25b22,16,2007
+32,31,39.0,47,Sastre Carlos,27,CSC ProTeam,\u25b220,16,2007
+23,94,38.0,29,Haussler Heinrich,28,Gerolsteiner,\u25b21,16,2007
+29,207,38.0,31,Mayo Iban,29,Saunier Duval,\u25b22,16,2007
+26,152,37.0,30,Albasini Michael,30,Liquigas,-,16,2007
+27,126,36.0,32,Pineau J\xe9rome,31,Bouygues Telecom,\u25b21,16,2007
+27,118,35.0,37,Popovych Yaroslav,32,Discovery Channel,\u25b25,16,2007
+28,65,34.0,33,Elmiger Martin,33,AG2R Pr\xe9voyance,-,16,2007
+29,11,33.0,45,Pereiro Oscar,34,Caisse d'Epargne,\u25b211,16,2007
+34,144,32.0,34,Moreni Cristian,35,Cofidis,\u25bc1,16,2007
+30,71,32.0,54,Zubeldia Haimar,36,Euskaltel - Euskadi,\u25b218,16,2007
+24,25,31.0,35,Gerdemann Linus,37,T-Mobile Team,\u25bc2,16,2007
+28,161,30.0,36,Casar Sandy,38,Fran\xe7aise des Jeux,\u25bc2,16,2007
+23,184,30.0,38,Grivko Andrei,39,Milram,\u25bc1,16,2007
+27,124,29.0,39,Geslin Anthony,40,Bouygues Telecom,\u25bc1,16,2007
+27,149,29.0,40,Wiggins Bradley,41,Cofidis,\u25bc1,16,2007
+27,36,27.0,48,Schleck Fr\xe4nk,42,CSC ProTeam,\u25b26,16,2007
+26,204,27.0,61,Cobo Juan Jose,43,Saunier Duval,\u25b218,16,2007
+30,75,27.0,41,Isasi Inaki,44,Euskaltel - Euskadi,\u25bc3,16,2007
+27,123,27.0,42,Florencio Xavier,45,Bouygues Telecom,\u25bc3,16,2007
+28,147,26.0,43,Scheirlinckx Staf,46,Cofidis,\u25bc3,16,2007
+35,38,26.0,44,Voigt Jens,47,CSC ProTeam,\u25bc3,16,2007
+36,61,26.0,46,Moreau Christophe,48,AG2R Pr\xe9voyance,\u25bc2,16,2007
+33,107,25.0,49,Halgand Patrice,49,Cr\xe9dit Agricole,-,16,2007
+28,141,24.0,50,Chavanel Sylvain,50,Cofidis,-,16,2007
+33,173,23.0,51,de Jongh Steven,51,Quickstep - Innergetic,-,16,2007
+27,73,23.0,52,Astarloza Mikel,52,Euskaltel - Euskadi,-,16,2007
+27,81,22.0,53,Ballan Alessandro,53,Lampre-Fondital,-,16,2007
+31,174,22.0,55,Garate Juan Manuel,54,Quickstep - Innergetic,\u25b21,16,2007
+26,91,21.0,56,Schumacher Stefan,55,Gerolsteiner,\u25b21,16,2007
+24,85,21.0,57,Corioni Claudio,56,Lampre-Fondital,\u25b21,16,2007
+24,96,21.0,58,Krauss Sven,57,Gerolsteiner,\u25b21,16,2007
+30,76,21.0,59,Landaluze Inigo,58,Euskaltel - Euskadi,\u25b21,16,2007
+27,132,20.0,60,Bichot Freddy,59,Agritubel,\u25b21,16,2007
+34,137,19.0,62,Jalabert Nicolas,60,Agritubel,\u25b22,16,2007
+21,215,18.0,63,Thomas Geraint,61,Barloworld,\u25b22,16,2007
+25,189,18.0,64,Sieberg Marcel,62,Milram,\u25b22,16,2007
+31,37,17.0,65,Vande Velde Christian,63,CSC ProTeam,\u25b22,16,2007
+29,139,17.0,66,Vogondy Nicolas,64,Agritubel,\u25b22,16,2007
+25,93,16.0,67,Fothen Markus,65,Gerolsteiner,\u25b22,16,2007
+26,205,15.0,70,De La Fuente David,66,Saunier Duval,\u25b24,16,2007
+27,98,15.0,69,Wegmann Fabian,67,Gerolsteiner,\u25b22,16,2007
+27,157,15.0,71,Quinziato Manuel,68,Liquigas,\u25b23,16,2007
+33,108,15.0,72,Hinault S\xe9bastien,69,Cr\xe9dit Agricole,\u25b23,16,2007
+28,121,15.0,73,Fedrigo Pierrick,70,Bouygues Telecom,\u25b23,16,2007
+27,12,14.0,81,Arroyo David,71,Caisse d'Epargne,\u25b210,16,2007
+32,105,14.0,75,Dean Julian,72,Cr\xe9dit Agricole,\u25b23,16,2007
+37,188,14.0,76,Poitschke Enrico,73,Milram,\u25b23,16,2007
+33,208,14.0,90,Rinero Christophe,74,Saunier Duval,\u25b216,16,2007
+31,125,13.0,77,Lefevre Laurent,75,Bouygues Telecom,\u25b22,16,2007
+33,99,13.0,78,Wrolich Peter,76,Gerolsteiner,\u25b22,16,2007
+30,201,13.0,79,Millar David,77,Saunier Duval,\u25b22,16,2007
+28,14,12.0,80,Guti\xe9rrez Jos\xe9 Iv\xe1n,78,Caisse d'Epargne,\u25b22,16,2007
+25,95,11.0,68,Kohl Bernhard,79,Gerolsteiner,\u25bc11,16,2007
+28,177,10.0,74,Tankink Bram,80,Quickstep - Innergetic,\u25bc6,16,2007
+23,168,9.0,83,L\xf6fkvist Thomas,81,Fran\xe7aise des Jeux,\u25b22,16,2007
+26,217,9.0,84,Longo Borghini Paolo,82,Barloworld,\u25b22,16,2007
+35,52,9.0,96*,Boogerd Michael,84*,Rabobank ProTeam,-,16,2007
+24,78,9.0,85,Txurruka Amets,84,Euskaltel - Euskadi,\u25b21,16,2007
+32,203,8.0,86,Ca\xf1ada David,85,Saunier Duval,\u25b21,16,2007
+35,44,8.0,87,Horner Chris,86,Predictor - Lotto,\u25b21,16,2007
+29,51,8.0,88,Menchov Denis,87,Rabobank ProTeam,\u25b21,16,2007
+32,69,7.0,89,Turpin Ludovic,88,AG2R Pr\xe9voyance,\u25b21,16,2007
+26,172,7.0,91,Barredo Carlos,89,Quickstep - Innergetic,\u25b22,16,2007
+28,129,7.0,92,Voeckler Thomas,90,Bouygues Telecom,\u25b22,16,2007
+27,159,6.0,93,Willems Frederik,91,Liquigas,\u25b22,16,2007
+25,113,6.0,95,Gusev Vladimir,92,Discovery Channel,\u25b23,16,2007
+26,15,6.0,96,Karpets Vladimir,93,Caisse d'Epargne,\u25b23,16,2007
+30,88,6.0,97,Valjavec Tadej,94,Lampre-Fondital,\u25b23,16,2007
+28,79,5.0,106,Verdugo Gorka,95,Euskaltel - Euskadi,\u25b211,16,2007
+27,145,4.0,99,Nuyens Nick,96,Cofidis,\u25b23,16,2007
+24,218,4.0,100,Siutsou Kanstantsin,97,Barloworld,\u25b23,16,2007
+22,54,4.0,101,Dekker Thomas,98,Rabobank ProTeam,\u25b23,16,2007
+25,169,3.0,102,Vaugrenard Benoit,99,Fran\xe7aise des Jeux,\u25b23,16,2007
+36,153,3.0,103,Beltran Manuel,100,Liquigas,\u25b23,16,2007
+37,68,3.0,104,Goubert Stephane,101,AG2R Pr\xe9voyance,\u25b23,16,2007
+26,185,2.0,105,Knees Christian,102,Milram,\u25b23,16,2007
+26,175,2.0,108,Rosseler Sebastien,103,Quickstep - Innergetic,\u25b25,16,2007
+34,183,2.0,109,Grabsch Ralf,104,Milram,\u25b25,16,2007
+33,178,2.0,110,Tosatto Matteo,105,Quickstep - Innergetic,\u25b25,16,2007
+26,171,212.0,1,Boonen Tom,1,Quickstep - Innergetic,-,17,2007
+30,216,190.0,2,Hunter Robert,2,Barloworld,-,17,2007
+37,181,187.0,3,Zabel Erik,3,Milram,-,17,2007
+24,162,143.0,5,Chavanel S\xe9bastien,4,Fran\xe7aise des Jeux,\u25b21,17,2007
+29,101,140.0,4,Hushovd Thor,5,Cr\xe9dit Agricole,\u25bc1,17,2007
+26,82,125.0,8,Bennati Daniele,6,Lampre-Fondital,\u25b22,17,2007
+29,92,109.0,6,F\xf6rster Robert,7,Gerolsteiner,\u25bc1,17,2007
+26,33,93.0,7,Cancellara Fabian,8,CSC ProTeam,\u25bc1,17,2007
+30,41,85.0,9,Evans Cadel,9,Predictor - Lotto,-,17,2007
+26,176,83.0,13,Steegmans Gert,10,Quickstep - Innergetic,\u25b23,17,2007
+28,155,75.0,10,Fischer Murilo Antonio,11,Liquigas,\u25bc1,17,2007
+24,112,72.0,15,Contador Alberto,12,Discovery Channel,\u25b23,17,2007
+24,22,72.0,12,Burghardt Marcus,13,T-Mobile Team,\u25bc1,17,2007
+26,24,67.0,14,Eisel Bernhard,14,T-Mobile Team,-,17,2007
+24,219,64.0,16,Soler Juan Mauricio,15,Barloworld,\u25b21,17,2007
+29,27,63.0,17,Kirchen Kim,16,T-Mobile Team,\u25b21,17,2007
+28,65,63.0,33,Elmiger Martin,17,AG2R Pr\xe9voyance,\u25b216,17,2007
+27,18,54.0,18,Valverde Alejandro,18,Caisse d'Epargne,-,17,2007
+35,38,54.0,47,Voigt Jens,19,CSC ProTeam,\u25b228,17,2007
+27,156,45.0,19,Kuchynski Aliaksandr,20,Liquigas,\u25bc1,17,2007
+34,114,45.0,25,Hincapie George,21,Discovery Channel,\u25b24,17,2007
+25,93,45.0,65,Fothen Markus,22,Gerolsteiner,\u25b243,17,2007
+25,102,44.0,20,Bonnet William,23,Cr\xe9dit Agricole,\u25bc3,17,2007
+29,55,43.0,21,Flecha Juan Antonio,24,Rabobank ProTeam,\u25bc3,17,2007
+31,83,43.0,22,Bossoni Paolo,25,Lampre-Fondital,\u25bc3,17,2007
+25,77,42.0,23,Perez Ruben,26,Euskaltel - Euskadi,\u25bc3,17,2007
+33,111,,24*,Leipheimer Levi,27*,Discovery Channel,-,17,2007
+36,179,42.0,24,Vasseur C\xe9dric,27,Quickstep - Innergetic,\u25bc3,17,2007
+27,157,41.0,68,Quinziato Manuel,28,Liquigas,\u25b240,17,2007
+22,167,40.0,26,Ladagnous Matthieu,29,Fran\xe7aise des Jeux,\u25bc3,17,2007
+30,201,39.0,77,Millar David,30,Saunier Duval,\u25b247,17,2007
+32,31,38.0,27,Sastre Carlos,31,CSC ProTeam,\u25bc4,17,2007
+23,94,38.0,28,Haussler Heinrich,32,Gerolsteiner,\u25bc4,17,2007
+29,207,38.0,29,Mayo Iban,33,Saunier Duval,\u25bc4,17,2007
+26,152,37.0,30,Albasini Michael,34,Liquigas,\u25bc4,17,2007
+27,118,36.0,32,Popovych Yaroslav,35,Discovery Channel,\u25bc3,17,2007
+27,123,34.0,45,Florencio Xavier,36,Bouygues Telecom,\u25b29,17,2007
+29,11,33.0,34,Pereiro Oscar,37,Caisse d'Epargne,\u25bc3,17,2007
+24,96,32.0,57,Krauss Sven,38,Gerolsteiner,\u25b219,17,2007
+30,71,32.0,36,Zubeldia Haimar,39,Euskaltel - Euskadi,\u25bc3,17,2007
+24,25,31.0,37,Gerdemann Linus,40,T-Mobile Team,\u25bc3,17,2007
+27,126,30.0,31,Pineau J\xe9rome,41,Bouygues Telecom,\u25bc10,17,2007
+28,161,30.0,38,Casar Sandy,42,Fran\xe7aise des Jeux,\u25bc4,17,2007
+23,184,30.0,39,Grivko Andrei,43,Milram,\u25bc4,17,2007
+27,124,29.0,40,Geslin Anthony,44,Bouygues Telecom,\u25bc4,17,2007
+27,36,29.0,42,Schleck Fr\xe4nk,45,CSC ProTeam,\u25bc3,17,2007
+26,204,27.0,43,Cobo Juan Jose,46,Saunier Duval,\u25bc3,17,2007
+30,75,27.0,44,Isasi Inaki,47,Euskaltel - Euskadi,\u25bc3,17,2007
+33,173,27.0,51,de Jongh Steven,48,Quickstep - Innergetic,\u25b23,17,2007
+36,61,26.0,48,Moreau Christophe,49,AG2R Pr\xe9voyance,\u25bc1,17,2007
+33,108,25.0,69,Hinault S\xe9bastien,50,Cr\xe9dit Agricole,\u25b219,17,2007
+33,107,25.0,49,Halgand Patrice,51,Cr\xe9dit Agricole,\u25bc2,17,2007
+27,73,24.0,52,Astarloza Mikel,52,Euskaltel - Euskadi,-,17,2007
+27,81,22.0,53,Ballan Alessandro,53,Lampre-Fondital,-,17,2007
+31,174,22.0,54,Garate Juan Manuel,54,Quickstep - Innergetic,-,17,2007
+26,91,21.0,55,Schumacher Stefan,55,Gerolsteiner,-,17,2007
+33,178,21.0,105,Tosatto Matteo,56,Quickstep - Innergetic,\u25b249,17,2007
+24,85,21.0,56,Corioni Claudio,57,Lampre-Fondital,\u25bc1,17,2007
+30,76,21.0,58,Landaluze Inigo,58,Euskaltel - Euskadi,-,17,2007
+27,132,20.0,59,Bichot Freddy,59,Agritubel,-,17,2007
+31,87,19.0,,Righi Daniele,60,Lampre-Fondital,-,17,2007
+34,137,18.0,60,Jalabert Nicolas,61,Agritubel,\u25bc1,17,2007
+21,215,18.0,61,Thomas Geraint,62,Barloworld,\u25bc1,17,2007
+25,189,18.0,62,Sieberg Marcel,63,Milram,\u25bc1,17,2007
+31,37,17.0,63,Vande Velde Christian,64,CSC ProTeam,\u25bc1,17,2007
+29,139,17.0,64,Vogondy Nicolas,65,Agritubel,\u25bc1,17,2007
+26,205,16.0,66,De La Fuente David,66,Saunier Duval,-,17,2007
+27,98,15.0,67,Wegmann Fabian,67,Gerolsteiner,-,17,2007
+28,121,15.0,70,Fedrigo Pierrick,68,Bouygues Telecom,\u25b22,17,2007
+27,12,14.0,71,Arroyo David,69,Caisse d'Epargne,\u25b22,17,2007
+32,105,14.0,72,Dean Julian,70,Cr\xe9dit Agricole,\u25b22,17,2007
+37,188,14.0,73,Poitschke Enrico,71,Milram,\u25b22,17,2007
+33,208,14.0,74,Rinero Christophe,72,Saunier Duval,\u25b22,17,2007
+31,125,13.0,75,Lefevre Laurent,73,Bouygues Telecom,\u25b22,17,2007
+33,99,13.0,76,Wrolich Peter,74,Gerolsteiner,\u25b22,17,2007
+28,14,13.0,78,Guti\xe9rrez Jos\xe9 Iv\xe1n,75,Caisse d'Epargne,\u25b23,17,2007
+25,95,11.0,79,Kohl Bernhard,76,Gerolsteiner,\u25b23,17,2007
+28,177,10.0,80,Tankink Bram,77,Quickstep - Innergetic,\u25b23,17,2007
+23,168,9.0,81,L\xf6fkvist Thomas,78,Fran\xe7aise des Jeux,\u25b23,17,2007
+26,217,9.0,82,Longo Borghini Paolo,79,Barloworld,\u25b23,17,2007
+35,52,9.0,84*,Boogerd Michael,81*,Rabobank ProTeam,-,17,2007
+24,78,9.0,84,Txurruka Amets,81,Euskaltel - Euskadi,\u25b23,17,2007
+32,203,8.0,85,Ca\xf1ada David,82,Saunier Duval,\u25b23,17,2007
+35,44,8.0,86,Horner Chris,83,Predictor - Lotto,\u25b23,17,2007
+32,69,8.0,88,Turpin Ludovic,84,AG2R Pr\xe9voyance,\u25b24,17,2007
+26,172,7.0,89,Barredo Carlos,85,Quickstep - Innergetic,\u25b24,17,2007
+28,129,7.0,90,Voeckler Thomas,86,Bouygues Telecom,\u25b24,17,2007
+27,159,6.0,91,Willems Frederik,87,Liquigas,\u25b24,17,2007
+25,113,6.0,92,Gusev Vladimir,88,Discovery Channel,\u25b24,17,2007
+26,15,6.0,93,Karpets Vladimir,89,Caisse d'Epargne,\u25b24,17,2007
+30,45,6.0,,Hoste Leif,90,Predictor - Lotto,-,17,2007
+30,88,5.0,94,Valjavec Tadej,91,Lampre-Fondital,\u25b23,17,2007
+28,79,5.0,95,Verdugo Gorka,92,Euskaltel - Euskadi,\u25b23,17,2007
+24,218,4.0,97,Siutsou Kanstantsin,93,Barloworld,\u25b24,17,2007
+22,54,4.0,98,Dekker Thomas,94,Rabobank ProTeam,\u25b24,17,2007
+25,169,3.0,99,Vaugrenard Benoit,95,Fran\xe7aise des Jeux,\u25b24,17,2007
+36,153,3.0,100,Beltran Manuel,96,Liquigas,\u25b24,17,2007
+37,68,3.0,101,Goubert Stephane,97,AG2R Pr\xe9voyance,\u25b24,17,2007
+26,185,2.0,102,Knees Christian,98,Milram,\u25b24,17,2007
+26,175,2.0,103,Rosseler Sebastien,99,Quickstep - Innergetic,\u25b24,17,2007
+34,183,2.0,104,Grabsch Ralf,100,Milram,\u25b24,17,2007
+26,171,234.0,1,Boonen Tom,1,Quickstep - Innergetic,-,18,2007
+30,216,210.0,2,Hunter Robert,2,Barloworld,-,18,2007
+37,181,206.0,3,Zabel Erik,3,Milram,-,18,2007
+24,162,161.0,4,Chavanel S\xe9bastien,4,Fran\xe7aise des Jeux,-,18,2007
+29,101,156.0,5,Hushovd Thor,5,Cr\xe9dit Agricole,-,18,2007
+26,82,125.0,6,Bennati Daniele,6,Lampre-Fondital,-,18,2007
+29,92,123.0,7,F\xf6rster Robert,7,Gerolsteiner,-,18,2007
+30,41,97.0,9,Evans Cadel,8,Predictor - Lotto,\u25b21,18,2007
+26,33,93.0,8,Cancellara Fabian,9,CSC ProTeam,\u25bc1,18,2007
+26,24,84.0,14,Eisel Bernhard,10,T-Mobile Team,\u25b24,18,2007
+26,176,83.0,10,Steegmans Gert,11,Quickstep - Innergetic,\u25bc1,18,2007
+24,112,82.0,12,Contador Alberto,12,Discovery Channel,-,18,2007
+28,155,75.0,11,Fischer Murilo Antonio,13,Liquigas,\u25bc2,18,2007
+24,22,72.0,13,Burghardt Marcus,14,T-Mobile Team,\u25bc1,18,2007
+28,161,71.0,42,Casar Sandy,15,Fran\xe7aise des Jeux,\u25b227,18,2007
+29,27,65.0,16,Kirchen Kim,16,T-Mobile Team,-,18,2007
+24,219,64.0,15,Soler Juan Mauricio,17,Barloworld,\u25bc2,18,2007
+28,65,63.0,17,Elmiger Martin,18,AG2R Pr\xe9voyance,\u25bc1,18,2007
+27,18,54.0,18,Valverde Alejandro,19,Caisse d'Epargne,\u25bc1,18,2007
+35,38,49.0,19,Voigt Jens,20,CSC ProTeam,\u25bc1,18,2007
+33,111,,27*,Leipheimer Levi,21*,Discovery Channel,-,18,2007
+27,118,48.0,35,Popovych Yaroslav,21,Discovery Channel,\u25b214,18,2007
+27,156,47.0,20,Kuchynski Aliaksandr,22,Liquigas,\u25bc2,18,2007
+25,77,45.0,26,Perez Ruben,23,Euskaltel - Euskadi,\u25b23,18,2007
+34,114,45.0,21,Hincapie George,24,Discovery Channel,\u25bc3,18,2007
+25,93,45.0,22,Fothen Markus,25,Gerolsteiner,\u25bc3,18,2007
+25,102,45.0,23,Bonnet William,26,Cr\xe9dit Agricole,\u25bc3,18,2007
+29,55,44.0,24,Flecha Juan Antonio,27,Rabobank ProTeam,\u25bc3,18,2007
+32,31,43.0,31,Sastre Carlos,28,CSC ProTeam,\u25b23,18,2007
+31,125,43.0,73,Lefevre Laurent,29,Bouygues Telecom,\u25b244,18,2007
+31,83,43.0,25,Bossoni Paolo,30,Lampre-Fondital,\u25bc5,18,2007
+36,179,43.0,27,Vasseur C\xe9dric,31,Quickstep - Innergetic,\u25bc4,18,2007
+29,11,41.0,37,Pereiro Oscar,32,Caisse d'Epargne,\u25b25,18,2007
+34,28,41.0,,Merckx Axel,33,T-Mobile Team,-,18,2007
+27,157,40.0,28,Quinziato Manuel,34,Liquigas,\u25bc6,18,2007
+22,167,40.0,29,Ladagnous Matthieu,35,Fran\xe7aise des Jeux,\u25bc6,18,2007
+30,201,39.0,30,Millar David,36,Saunier Duval,\u25bc6,18,2007
+23,94,38.0,32,Haussler Heinrich,37,Gerolsteiner,\u25bc5,18,2007
+29,207,38.0,33,Mayo Iban,38,Saunier Duval,\u25bc5,18,2007
+35,52,37.0,81*,Boogerd Michael,40*,Rabobank ProTeam,-,18,2007
+26,152,37.0,34,Albasini Michael,40,Liquigas,\u25bc6,18,2007
+27,124,36.0,44,Geslin Anthony,41,Bouygues Telecom,\u25b23,18,2007
+24,85,36.0,57,Corioni Claudio,42,Lampre-Fondital,\u25b215,18,2007
+33,108,36.0,50,Hinault S\xe9bastien,43,Cr\xe9dit Agricole,\u25b27,18,2007
+30,71,36.0,39,Zubeldia Haimar,44,Euskaltel - Euskadi,\u25bc5,18,2007
+33,173,36.0,48,de Jongh Steven,45,Quickstep - Innergetic,\u25b23,18,2007
+27,123,35.0,36,Florencio Xavier,46,Bouygues Telecom,\u25bc10,18,2007
+24,96,34.0,38,Krauss Sven,47,Gerolsteiner,\u25bc9,18,2007
+24,25,33.0,40,Gerdemann Linus,48,T-Mobile Team,\u25bc8,18,2007
+27,126,32.0,41,Pineau J\xe9rome,49,Bouygues Telecom,\u25bc8,18,2007
+23,184,30.0,43,Grivko Andrei,50,Milram,\u25bc7,18,2007
+27,36,30.0,45,Schleck Fr\xe4nk,51,CSC ProTeam,\u25bc6,18,2007
+26,204,29.0,46,Cobo Juan Jose,52,Saunier Duval,\u25bc6,18,2007
+30,75,27.0,47,Isasi Inaki,53,Euskaltel - Euskadi,\u25bc6,18,2007
+36,61,27.0,49,Moreau Christophe,54,AG2R Pr\xe9voyance,\u25bc5,18,2007
+33,107,27.0,51,Halgand Patrice,55,Cr\xe9dit Agricole,\u25bc4,18,2007
+27,73,25.0,52,Astarloza Mikel,56,Euskaltel - Euskadi,\u25bc4,18,2007
+27,81,24.0,53,Ballan Alessandro,57,Lampre-Fondital,\u25bc4,18,2007
+31,174,22.0,54,Garate Juan Manuel,58,Quickstep - Innergetic,\u25bc4,18,2007
+26,91,22.0,55,Schumacher Stefan,59,Gerolsteiner,\u25bc4,18,2007
+33,178,21.0,56,Tosatto Matteo,60,Quickstep - Innergetic,\u25bc4,18,2007
+30,76,21.0,58,Landaluze Inigo,61,Euskaltel - Euskadi,\u25bc3,18,2007
+27,132,21.0,59,Bichot Freddy,62,Agritubel,\u25bc3,18,2007
+31,87,20.0,60,Righi Daniele,63,Lampre-Fondital,\u25bc3,18,2007
+34,137,19.0,61,Jalabert Nicolas,64,Agritubel,\u25bc3,18,2007
+21,215,18.0,62,Thomas Geraint,65,Barloworld,\u25bc3,18,2007
+25,189,18.0,63,Sieberg Marcel,66,Milram,\u25bc3,18,2007
+31,37,18.0,64,Vande Velde Christian,67,CSC ProTeam,\u25bc3,18,2007
+29,139,17.0,65,Vogondy Nicolas,68,Agritubel,\u25bc3,18,2007
+26,205,17.0,66,De La Fuente David,69,Saunier Duval,\u25bc3,18,2007
+27,98,16.0,67,Wegmann Fabian,70,Gerolsteiner,\u25bc3,18,2007
+28,121,15.0,68,Fedrigo Pierrick,71,Bouygues Telecom,\u25bc3,18,2007
+27,12,15.0,69,Arroyo David,72,Caisse d'Epargne,\u25bc3,18,2007
+32,105,14.0,70,Dean Julian,73,Cr\xe9dit Agricole,\u25bc3,18,2007
+37,188,14.0,71,Poitschke Enrico,74,Milram,\u25bc3,18,2007
+33,208,14.0,72,Rinero Christophe,75,Saunier Duval,\u25bc3,18,2007
+33,99,14.0,74,Wrolich Peter,76,Gerolsteiner,\u25bc2,18,2007
+28,14,13.0,75,Guti\xe9rrez Jos\xe9 Iv\xe1n,77,Caisse d'Epargne,\u25bc2,18,2007
+25,95,13.0,76,Kohl Bernhard,78,Gerolsteiner,\u25bc2,18,2007
+28,177,11.0,77,Tankink Bram,79,Quickstep - Innergetic,\u25bc2,18,2007
+23,168,10.0,78,L\xf6fkvist Thomas,80,Fran\xe7aise des Jeux,\u25bc2,18,2007
+26,217,9.0,79,Longo Borghini Paolo,81,Barloworld,\u25bc2,18,2007
+24,78,9.0,81,Txurruka Amets,82,Euskaltel - Euskadi,\u25bc1,18,2007
+32,203,9.0,82,Ca\xf1ada David,83,Saunier Duval,\u25bc1,18,2007
+35,44,8.0,83,Horner Chris,84,Predictor - Lotto,\u25bc1,18,2007
+32,69,8.0,84,Turpin Ludovic,85,AG2R Pr\xe9voyance,\u25bc1,18,2007
+26,172,7.0,85,Barredo Carlos,86,Quickstep - Innergetic,\u25bc1,18,2007
+28,129,7.0,86,Voeckler Thomas,87,Bouygues Telecom,\u25bc1,18,2007
+27,159,6.0,87,Willems Frederik,88,Liquigas,\u25bc1,18,2007
+25,113,6.0,88,Gusev Vladimir,89,Discovery Channel,\u25bc1,18,2007
+26,15,6.0,89,Karpets Vladimir,90,Caisse d'Epargne,\u25bc1,18,2007
+30,45,6.0,90,Hoste Leif,91,Predictor - Lotto,\u25bc1,18,2007
+30,88,5.0,91,Valjavec Tadej,92,Lampre-Fondital,\u25bc1,18,2007
+28,79,5.0,92,Verdugo Gorka,93,Euskaltel - Euskadi,\u25bc1,18,2007
+24,218,4.0,93,Siutsou Kanstantsin,94,Barloworld,\u25bc1,18,2007
+22,54,4.0,94,Dekker Thomas,95,Rabobank ProTeam,\u25bc1,18,2007
+25,169,3.0,95,Vaugrenard Benoit,96,Fran\xe7aise des Jeux,\u25bc1,18,2007
+36,153,3.0,96,Beltran Manuel,97,Liquigas,\u25bc1,18,2007
+37,68,3.0,97,Goubert Stephane,98,AG2R Pr\xe9voyance,\u25bc1,18,2007
+26,185,2.0,98,Knees Christian,99,Milram,\u25bc1,18,2007
+26,175,2.0,99,Rosseler Sebastien,100,Quickstep - Innergetic,\u25bc1,18,2007
+34,183,2.0,100,Grabsch Ralf,101,Milram,\u25bc1,18,2007
+26,133,2.0,,Duenas Moises,102,Agritubel,-,18,2007
+26,171,234.0,1,Boonen Tom,1,Quickstep - Innergetic,-,19,2007
+30,216,210.0,2,Hunter Robert,2,Barloworld,-,19,2007
+37,181,206.0,3,Zabel Erik,3,Milram,-,19,2007
+24,162,161.0,4,Chavanel S\xe9bastien,4,Fran\xe7aise des Jeux,-,19,2007
+29,101,156.0,5,Hushovd Thor,5,Cr\xe9dit Agricole,-,19,2007
+26,82,125.0,6,Bennati Daniele,6,Lampre-Fondital,-,19,2007
+29,92,123.0,7,F\xf6rster Robert,7,Gerolsteiner,-,19,2007
+30,41,109.0,8,Evans Cadel,8,Predictor - Lotto,-,19,2007
+26,33,93.0,9,Cancellara Fabian,9,CSC ProTeam,-,19,2007
+24,112,88.0,12,Contador Alberto,10,Discovery Channel,\u25b22,19,2007
+26,24,84.0,10,Eisel Bernhard,11,T-Mobile Team,\u25bc1,19,2007
+26,176,83.0,11,Steegmans Gert,12,Quickstep - Innergetic,\u25bc1,19,2007
+28,155,75.0,13,Fischer Murilo Antonio,13,Liquigas,-,19,2007
+24,22,72.0,14,Burghardt Marcus,14,T-Mobile Team,-,19,2007
+28,161,71.0,15,Casar Sandy,15,Fran\xe7aise des Jeux,-,19,2007
+29,27,65.0,16,Kirchen Kim,16,T-Mobile Team,-,19,2007
+24,219,64.0,17,Soler Juan Mauricio,17,Barloworld,-,19,2007
+33,111,,21*,Leipheimer Levi,18*,Discovery Channel,-,19,2007
+28,65,63.0,18,Elmiger Martin,18,AG2R Pr\xe9voyance,-,19,2007
+27,118,63.0,21,Popovych Yaroslav,19,Discovery Channel,\u25b22,19,2007
+27,18,55.0,19,Valverde Alejandro,20,Caisse d'Epargne,\u25bc1,19,2007
+34,114,54.0,24,Hincapie George,21,Discovery Channel,\u25b23,19,2007
+35,38,49.0,20,Voigt Jens,22,CSC ProTeam,\u25bc2,19,2007
+27,156,49.0,22,Kuchynski Aliaksandr,23,Liquigas,\u25bc1,19,2007
+25,77,45.0,23,Perez Ruben,24,Euskaltel - Euskadi,\u25bc1,19,2007
+25,93,45.0,25,Fothen Markus,25,Gerolsteiner,-,19,2007
+25,102,45.0,26,Bonnet William,26,Cr\xe9dit Agricole,-,19,2007
+29,11,44.0,32,Pereiro Oscar,27,Caisse d'Epargne,\u25b25,19,2007
+29,55,44.0,27,Flecha Juan Antonio,28,Rabobank ProTeam,\u25bc1,19,2007
+32,31,43.0,28,Sastre Carlos,29,CSC ProTeam,\u25bc1,19,2007
+31,125,43.0,29,Lefevre Laurent,30,Bouygues Telecom,\u25bc1,19,2007
+31,83,43.0,30,Bossoni Paolo,31,Lampre-Fondital,\u25bc1,19,2007
+36,179,43.0,31,Vasseur C\xe9dric,32,Quickstep - Innergetic,\u25bc1,19,2007
+34,28,41.0,33,Merckx Axel,33,T-Mobile Team,-,19,2007
+27,157,40.0,34,Quinziato Manuel,34,Liquigas,-,19,2007
+22,167,40.0,35,Ladagnous Matthieu,35,Fran\xe7aise des Jeux,-,19,2007
+30,201,39.0,36,Millar David,36,Saunier Duval,-,19,2007
+23,94,38.0,37,Haussler Heinrich,37,Gerolsteiner,-,19,2007
+29,207,38.0,38,Mayo Iban,38,Saunier Duval,-,19,2007
+35,52,37.0,40*,Boogerd Michael,40*,Rabobank ProTeam,-,19,2007
+26,152,37.0,40,Albasini Michael,40,Liquigas,-,19,2007
+27,124,36.0,41,Geslin Anthony,41,Bouygues Telecom,-,19,2007
+24,85,36.0,42,Corioni Claudio,42,Lampre-Fondital,-,19,2007
+33,108,36.0,43,Hinault S\xe9bastien,43,Cr\xe9dit Agricole,-,19,2007
+30,71,36.0,44,Zubeldia Haimar,44,Euskaltel - Euskadi,-,19,2007
+33,173,36.0,45,de Jongh Steven,45,Quickstep - Innergetic,-,19,2007
+27,123,35.0,46,Florencio Xavier,46,Bouygues Telecom,-,19,2007
+24,96,34.0,47,Krauss Sven,47,Gerolsteiner,-,19,2007
+24,25,33.0,48,Gerdemann Linus,48,T-Mobile Team,-,19,2007
+27,126,32.0,49,Pineau J\xe9rome,49,Bouygues Telecom,-,19,2007
+23,184,30.0,50,Grivko Andrei,50,Milram,-,19,2007
+27,36,30.0,51,Schleck Fr\xe4nk,51,CSC ProTeam,-,19,2007
+26,204,29.0,52,Cobo Juan Jose,52,Saunier Duval,-,19,2007
+30,75,27.0,53,Isasi Inaki,53,Euskaltel - Euskadi,-,19,2007
+36,61,27.0,54,Moreau Christophe,54,AG2R Pr\xe9voyance,-,19,2007
+33,107,27.0,55,Halgand Patrice,55,Cr\xe9dit Agricole,-,19,2007
+27,73,25.0,56,Astarloza Mikel,56,Euskaltel - Euskadi,-,19,2007
+27,81,24.0,57,Ballan Alessandro,57,Lampre-Fondital,-,19,2007
+31,174,23.0,58,Garate Juan Manuel,58,Quickstep - Innergetic,-,19,2007
+26,91,22.0,59,Schumacher Stefan,59,Gerolsteiner,-,19,2007
+33,178,21.0,60,Tosatto Matteo,60,Quickstep - Innergetic,-,19,2007
+30,76,21.0,61,Landaluze Inigo,61,Euskaltel - Euskadi,-,19,2007
+27,132,21.0,62,Bichot Freddy,62,Agritubel,-,19,2007
+31,87,20.0,63,Righi Daniele,63,Lampre-Fondital,-,19,2007
+34,137,19.0,64,Jalabert Nicolas,64,Agritubel,-,19,2007
+21,215,18.0,65,Thomas Geraint,65,Barloworld,-,19,2007
+25,189,18.0,66,Sieberg Marcel,66,Milram,-,19,2007
+31,37,18.0,67,Vande Velde Christian,67,CSC ProTeam,-,19,2007
+29,139,17.0,68,Vogondy Nicolas,68,Agritubel,-,19,2007
+28,14,17.0,77,Guti\xe9rrez Jos\xe9 Iv\xe1n,69,Caisse d'Epargne,\u25b28,19,2007
+26,15,16.0,90,Karpets Vladimir,70,Caisse d'Epargne,\u25b220,19,2007
+26,205,16.0,69,De La Fuente David,71,Saunier Duval,\u25bc2,19,2007
+27,98,15.0,70,Wegmann Fabian,72,Gerolsteiner,\u25bc2,19,2007
+28,121,15.0,71,Fedrigo Pierrick,73,Bouygues Telecom,\u25bc2,19,2007
+27,12,15.0,72,Arroyo David,74,Caisse d'Epargne,\u25bc2,19,2007
+32,105,14.0,73,Dean Julian,75,Cr\xe9dit Agricole,\u25bc2,19,2007
+37,188,14.0,74,Poitschke Enrico,76,Milram,\u25bc2,19,2007
+33,208,14.0,75,Rinero Christophe,77,Saunier Duval,\u25bc2,19,2007
+33,99,14.0,76,Wrolich Peter,78,Gerolsteiner,\u25bc2,19,2007
+25,95,13.0,78,Kohl Bernhard,79,Gerolsteiner,\u25bc1,19,2007
+28,177,13.0,79,Tankink Bram,80,Quickstep - Innergetic,\u25bc1,19,2007
+23,168,10.0,80,L\xf6fkvist Thomas,81,Fran\xe7aise des Jeux,\u25bc1,19,2007
+26,217,9.0,81,Longo Borghini Paolo,82,Barloworld,\u25bc1,19,2007
+24,78,9.0,82,Txurruka Amets,83,Euskaltel - Euskadi,\u25bc1,19,2007
+32,203,9.0,83,Ca\xf1ada David,84,Saunier Duval,\u25bc1,19,2007
+35,44,8.0,84,Horner Chris,85,Predictor - Lotto,\u25bc1,19,2007
+32,69,8.0,85,Turpin Ludovic,86,AG2R Pr\xe9voyance,\u25bc1,19,2007
+30,45,7.0,91,Hoste Leif,87,Predictor - Lotto,\u25b24,19,2007
+26,172,7.0,86,Barredo Carlos,88,Quickstep - Innergetic,\u25bc2,19,2007
+28,129,7.0,87,Voeckler Thomas,89,Bouygues Telecom,\u25bc2,19,2007
+27,159,6.0,88,Willems Frederik,90,Liquigas,\u25bc2,19,2007
+25,113,6.0,89,Gusev Vladimir,91,Discovery Channel,\u25bc2,19,2007
+30,88,6.0,92,Valjavec Tadej,92,Lampre-Fondital,-,19,2007
+28,79,6.0,93,Verdugo Gorka,93,Euskaltel - Euskadi,-,19,2007
+24,218,4.0,94,Siutsou Kanstantsin,94,Barloworld,-,19,2007
+22,54,4.0,95,Dekker Thomas,95,Rabobank ProTeam,-,19,2007
+25,169,3.0,96,Vaugrenard Benoit,96,Fran\xe7aise des Jeux,-,19,2007
+36,153,3.0,97,Beltran Manuel,97,Liquigas,-,19,2007
+37,68,3.0,98,Goubert Stephane,98,AG2R Pr\xe9voyance,-,19,2007
+26,185,2.0,99,Knees Christian,99,Milram,-,19,2007
+26,175,2.0,100,Rosseler Sebastien,100,Quickstep - Innergetic,-,19,2007
+34,183,2.0,101,Grabsch Ralf,101,Milram,-,19,2007
+26,133,2.0,102,Duenas Moises,102,Agritubel,-,19,2007
+26,171,256.0,1,Boonen Tom,1,Quickstep - Innergetic,-,20,2007
+30,216,234.0,2,Hunter Robert,2,Barloworld,-,20,2007
+37,181,232.0,3,Zabel Erik,3,Milram,-,20,2007
+29,101,186.0,5,Hushovd Thor,4,Cr\xe9dit Agricole,\u25b21,20,2007
+24,162,181.0,4,Chavanel S\xe9bastien,5,Fran\xe7aise des Jeux,\u25bc1,20,2007
+26,82,160.0,6,Bennati Daniele,6,Lampre-Fondital,-,20,2007
+29,92,140.0,7,F\xf6rster Robert,7,Gerolsteiner,-,20,2007
+26,33,112.0,9,Cancellara Fabian,8,CSC ProTeam,\u25b21,20,2007
+30,41,109.0,8,Evans Cadel,9,Predictor - Lotto,\u25bc1,20,2007
+24,112,88.0,10,Contador Alberto,10,Discovery Channel,-,20,2007
+26,176,88.0,12,Steegmans Gert,11,Quickstep - Innergetic,\u25b21,20,2007
+26,24,84.0,11,Eisel Bernhard,12,T-Mobile Team,\u25bc1,20,2007
+28,65,78.0,18,Elmiger Martin,13,AG2R Pr\xe9voyance,\u25b25,20,2007
+24,22,78.0,14,Burghardt Marcus,14,T-Mobile Team,-,20,2007
+28,155,75.0,13,Fischer Murilo Antonio,15,Liquigas,\u25bc2,20,2007
+28,161,71.0,15,Casar Sandy,16,Fran\xe7aise des Jeux,\u25bc1,20,2007
+29,27,65.0,16,Kirchen Kim,17,T-Mobile Team,\u25bc1,20,2007
+24,219,64.0,17,Soler Juan Mauricio,18,Barloworld,\u25bc1,20,2007
+33,111,,18*,Leipheimer Levi,19*,Discovery Channel,-,20,2007
+27,118,63.0,19,Popovych Yaroslav,19,Discovery Channel,-,20,2007
+30,201,59.0,36,Millar David,20,Saunier Duval,\u25b216,20,2007
+27,157,56.0,34,Quinziato Manuel,21,Liquigas,\u25b213,20,2007
+25,77,56.0,24,Perez Ruben,22,Euskaltel - Euskadi,\u25b22,20,2007
+27,18,55.0,20,Valverde Alejandro,23,Caisse d'Epargne,\u25bc3,20,2007
+34,114,54.0,21,Hincapie George,24,Discovery Channel,\u25bc3,20,2007
+35,38,49.0,22,Voigt Jens,25,CSC ProTeam,\u25bc3,20,2007
+27,156,49.0,23,Kuchynski Aliaksandr,26,Liquigas,\u25bc3,20,2007
+25,93,45.0,25,Fothen Markus,27,Gerolsteiner,\u25bc2,20,2007
+25,102,45.0,26,Bonnet William,28,Cr\xe9dit Agricole,\u25bc2,20,2007
+29,11,44.0,27,Pereiro Oscar,29,Caisse d'Epargne,\u25bc2,20,2007
+29,55,44.0,28,Flecha Juan Antonio,30,Rabobank ProTeam,\u25bc2,20,2007
+32,31,43.0,29,Sastre Carlos,31,CSC ProTeam,\u25bc2,20,2007
+31,125,43.0,30,Lefevre Laurent,32,Bouygues Telecom,\u25bc2,20,2007
+31,83,43.0,31,Bossoni Paolo,33,Lampre-Fondital,\u25bc2,20,2007
+24,96,43.0,47,Krauss Sven,34,Gerolsteiner,\u25b213,20,2007
+27,123,43.0,46,Florencio Xavier,35,Bouygues Telecom,\u25b211,20,2007
+36,179,42.0,32,Vasseur C\xe9dric,36,Quickstep - Innergetic,\u25bc4,20,2007
+34,28,41.0,33,Merckx Axel,37,T-Mobile Team,\u25bc4,20,2007
+22,167,40.0,35,Ladagnous Matthieu,38,Fran\xe7aise des Jeux,\u25bc3,20,2007
+30,75,39.0,53,Isasi Inaki,39,Euskaltel - Euskadi,\u25b214,20,2007
+23,94,39.0,37,Haussler Heinrich,40,Gerolsteiner,\u25bc3,20,2007
+29,207,38.0,38,Mayo Iban,41,Saunier Duval,\u25bc3,20,2007
+33,173,37.0,45,de Jongh Steven,42,Quickstep - Innergetic,\u25b23,20,2007
+35,52,37.0,40*,Boogerd Michael,44*,Rabobank ProTeam,-,20,2007
+26,152,37.0,40,Albasini Michael,44,Liquigas,\u25bc4,20,2007
+27,124,36.0,41,Geslin Anthony,45,Bouygues Telecom,\u25bc4,20,2007
+24,85,36.0,42,Corioni Claudio,46,Lampre-Fondital,\u25bc4,20,2007
+33,108,36.0,43,Hinault S\xe9bastien,47,Cr\xe9dit Agricole,\u25bc4,20,2007
+30,71,36.0,44,Zubeldia Haimar,48,Euskaltel - Euskadi,\u25bc4,20,2007
+27,132,36.0,62,Bichot Freddy,49,Agritubel,\u25b213,20,2007
+24,25,35.0,48,Gerdemann Linus,50,T-Mobile Team,\u25bc2,20,2007
+27,126,33.0,49,Pineau J\xe9rome,51,Bouygues Telecom,\u25bc2,20,2007
+23,184,30.0,50,Grivko Andrei,52,Milram,\u25bc2,20,2007
+27,36,30.0,51,Schleck Fr\xe4nk,53,CSC ProTeam,\u25bc2,20,2007
+26,204,29.0,52,Cobo Juan Jose,54,Saunier Duval,\u25bc2,20,2007
+27,81,27.0,57,Ballan Alessandro,55,Lampre-Fondital,\u25b22,20,2007
+36,61,27.0,54,Moreau Christophe,56,AG2R Pr\xe9voyance,\u25bc2,20,2007
+33,107,26.0,55,Halgand Patrice,57,Cr\xe9dit Agricole,\u25bc2,20,2007
+27,73,25.0,56,Astarloza Mikel,58,Euskaltel - Euskadi,\u25bc2,20,2007
+26,91,24.0,59,Schumacher Stefan,59,Gerolsteiner,-,20,2007
+28,177,23.0,80,Tankink Bram,60,Quickstep - Innergetic,\u25b220,20,2007
+31,174,23.0,58,Garate Juan Manuel,61,Quickstep - Innergetic,\u25bc3,20,2007
+33,178,22.0,60,Tosatto Matteo,62,Quickstep - Innergetic,\u25bc2,20,2007
+30,76,21.0,61,Landaluze Inigo,63,Euskaltel - Euskadi,\u25bc2,20,2007
+31,87,21.0,63,Righi Daniele,64,Lampre-Fondital,\u25bc1,20,2007
+34,137,20.0,64,Jalabert Nicolas,65,Agritubel,\u25bc1,20,2007
+21,215,18.0,65,Thomas Geraint,66,Barloworld,\u25bc1,20,2007
+26,172,18.0,88,Barredo Carlos,67,Quickstep - Innergetic,\u25b221,20,2007
+25,189,18.0,66,Sieberg Marcel,68,Milram,\u25bc2,20,2007
+31,37,17.0,67,Vande Velde Christian,69,CSC ProTeam,\u25bc2,20,2007
+29,139,17.0,68,Vogondy Nicolas,70,Agritubel,\u25bc2,20,2007
+28,14,17.0,69,Guti\xe9rrez Jos\xe9 Iv\xe1n,71,Caisse d'Epargne,\u25bc2,20,2007
+33,99,16.0,78,Wrolich Peter,72,Gerolsteiner,\u25b26,20,2007
+26,15,16.0,70,Karpets Vladimir,73,Caisse d'Epargne,\u25bc3,20,2007
+26,205,16.0,71,De La Fuente David,74,Saunier Duval,\u25bc3,20,2007
+27,98,15.0,72,Wegmann Fabian,75,Gerolsteiner,\u25bc3,20,2007
+28,121,15.0,73,Fedrigo Pierrick,76,Bouygues Telecom,\u25bc3,20,2007
+27,12,15.0,74,Arroyo David,77,Caisse d'Epargne,\u25bc3,20,2007
+32,105,14.0,75,Dean Julian,78,Cr\xe9dit Agricole,\u25bc3,20,2007
+37,188,14.0,76,Poitschke Enrico,79,Milram,\u25bc3,20,2007
+33,208,14.0,77,Rinero Christophe,80,Saunier Duval,\u25bc3,20,2007
+25,95,14.0,79,Kohl Bernhard,81,Gerolsteiner,\u25bc2,20,2007
+23,168,13.0,81,L\xf6fkvist Thomas,82,Fran\xe7aise des Jeux,\u25bc1,20,2007
+26,217,10.0,82,Longo Borghini Paolo,83,Barloworld,\u25bc1,20,2007
+24,78,9.0,83,Txurruka Amets,84,Euskaltel - Euskadi,\u25bc1,20,2007
+32,203,9.0,84,Ca\xf1ada David,85,Saunier Duval,\u25bc1,20,2007
+32,53,8.0,,de Groot Bram,86,Rabobank ProTeam,-,20,2007
+35,44,8.0,85,Horner Chris,87,Predictor - Lotto,\u25bc2,20,2007
+32,69,8.0,86,Turpin Ludovic,88,AG2R Pr\xe9voyance,\u25bc2,20,2007
+30,45,7.0,87,Hoste Leif,89,Predictor - Lotto,\u25bc2,20,2007
+28,129,7.0,89,Voeckler Thomas,90,Bouygues Telecom,\u25bc1,20,2007
+27,159,7.0,90,Willems Frederik,91,Liquigas,\u25bc1,20,2007
+27,67,6.0,,Gerrans Simon,92,AG2R Pr\xe9voyance,-,20,2007
+31,166,6.0,,Jegou Lilian,93,Fran\xe7aise des Jeux,-,20,2007
+25,113,6.0,91,Gusev Vladimir,94,Discovery Channel,\u25bc3,20,2007
+30,88,6.0,92,Valjavec Tadej,95,Lampre-Fondital,\u25bc3,20,2007
+28,79,6.0,93,Verdugo Gorka,96,Euskaltel - Euskadi,\u25bc3,20,2007
+24,218,4.0,94,Siutsou Kanstantsin,97,Barloworld,\u25bc3,20,2007
+22,54,4.0,95,Dekker Thomas,98,Rabobank ProTeam,\u25bc3,20,2007
+25,169,3.0,96,Vaugrenard Benoit,99,Fran\xe7aise des Jeux,\u25bc3,20,2007
+36,153,3.0,97,Beltran Manuel,100,Liquigas,\u25bc3,20,2007
+37,68,3.0,98,Goubert Stephane,101,AG2R Pr\xe9voyance,\u25bc3,20,2007
+26,185,2.0,99,Knees Christian,102,Milram,\u25bc3,20,2007
+28,17,2.0,,Portal Nicolas,103,Caisse d'Epargne,-,20,2007
+26,175,2.0,100,Rosseler Sebastien,104,Quickstep - Innergetic,\u25bc4,20,2007
+34,183,2.0,101,Grabsch Ralf,105,Milram,\u25bc4,20,2007
+26,133,2.0,102,Duenas Moises,106,Agritubel,\u25bc4,20,2007

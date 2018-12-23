@@ -1,0 +1,936 @@
+Age,Avg,BIB,GC,GC-Time,Pnt,Rider,Rnk,Team,Time,UCI,stage,year
+30,,78,1.0,+0:00,30.0,Westra Lieuwe,1,Vacansoleil - DCM,4:31:33 4:31:33,20.0,1,2013
+37,,151,2.0,+0:04,18.0,Mancebo Francisco,2,5-hour Energy,",, ,,",14.0,1,2013
+23,,51,3.0,+0:12,12.0,Sagan Peter,3,Cannondale Pro Cycling Team,0:06 0:06,8.0,1,2013
+27,,24,6.0,+0:16,7.0,Meersman Gianni,4,Omega Pharma - Quick-Step,",, 0:06",7.0,1,2013
+21,,148,7.0,+0:16,4.0,Stuyven Jasper,5,Bontrager Cycling Team,",, 0:06",6.0,1,2013
+22,,17,8.0,+0:16,3.0,Rathe Jacob,6,Garmin Sharp,",, 0:06",5.0,1,2013
+38,,123,9.0,+0:16,2.0,Candelario Alex,7,Optum p/b Kelly Benefit Strategies,",, 0:06",4.0,1,2013
+26,,44,10.0,+0:16,1.0,Docker Mitchell,8,Orica GreenEDGE,",, 0:06",2.0,1,2013
+32,,118,11.0,+0:16,,Vennell Jeremy,9,Bissell Pro Cycling,",, 0:06",,1,2013
+21,,147,12.0,+0:16,,Putt Tanner,10,Bontrager Cycling Team,",, 0:06",,1,2013
+33,,61,13.0,+0:16,,Rogers Michael,11,Team Saxo - Tinkoff,",, 0:06",,1,2013
+26,,91,14.0,+0:16,,Beyer Chad,12,Champion System Pro Cycling Team,",, 0:06",,1,2013
+26,,33,15.0,+0:16,,Frank Mathias,13,BMC Racing Team,",, 0:06",,1,2013
+27,,108,16.0,+0:16,,Voss Paul,14,Team NetApp \u2013 Endura,",, 0:06",,1,2013
+29,,81,17.0,+0:16,,de Maar Marc,15,UnitedHealthcare Presented by Maxxis,",, 0:06",,1,2013
+37,,111,18.0,+0:16,,Baldwin Christopher,16,Bissell Pro Cycling,",, 0:06",,1,2013
+24,,31,19.0,+0:16,,van Garderen Tejay,17,BMC Racing Team,",, 0:06",,1,2013
+27,,7,20.0,+0:16,,Schleck Andy,18,RadioShack - Leopard,",, 0:06",,1,2013
+25,,47,21.0,+0:16,,Meyer Cameron,19,Orica GreenEDGE,",, 0:06",,1,2013
+24,,103,22.0,+0:16,,de la Cruz David,20,Team NetApp \u2013 Endura,",, 0:06",,1,2013
+24,,121,23.0,+0:16,,Haga Chad,21,Optum p/b Kelly Benefit Strategies,",, 0:06",,1,2013
+35,,87,24.0,+0:16,,Louder Jeff,22,UnitedHealthcare Presented by Maxxis,",, 0:06",,1,2013
+29,,83,25.0,+0:16,,Euser Lucas,23,UnitedHealthcare Presented by Maxxis,",, 0:06",,1,2013
+27,,131,26.0,+0:16,,Acevedo Janier Alexis,24,Jamis - Hagens Berman,",, 0:06",,1,2013
+29,,82,27.0,+0:16,,Deignan Philip,25,UnitedHealthcare Presented by Maxxis,",, 0:06",,1,2013
+26,,153,28.0,+0:16,,Jenkins Max,26,5-hour Energy,",, 0:06",,1,2013
+30,,96,29.0,+0:16,,Roth Ryan,27,Champion System Pro Cycling Team,",, 0:06",,1,2013
+29,,152,30.0,+0:16,,English Nathaniel,28,5-hour Energy,",, 0:06",,1,2013
+28,,2,31.0,+0:16,,Busche Matthew,29,RadioShack - Leopard,",, 0:06",,1,2013
+21,,142,32.0,+0:16,,Craddock Lawson,30,Bontrager Cycling Team,",, 0:06",,1,2013
+28,,3,33.0,+0:16,,Didier Laurent,31,RadioShack - Leopard,",, 0:06",,1,2013
+25,,101,34.0,+0:16,,K\xf6nig Leopold,32,Team NetApp \u2013 Endura,",, 0:06",,1,2013
+27,,112,35.0,+0:16,,Gaimon Phillip,33,Bissell Pro Cycling,",, 0:06",,1,2013
+36,,8,36.0,+0:16,,Zubeldia Haimar,34,RadioShack - Leopard,",, 0:06",,1,2013
+35,,73,37.0,+0:16,,Flecha Juan Antonio,35,Vacansoleil - DCM,",, 0:06",,1,2013
+30,,56,38.0,+0:16,,King Edward,36,Cannondale Pro Cycling Team,",, 0:06",,1,2013
+21,,145,39.0,+0:16,,Mannion Gavin,37,Bontrager Cycling Team,",, 0:06",,1,2013
+34,,11,40.0,+0:16,,Zabriskie David,38,Garmin Sharp,",, 0:06",,1,2013
+25,,93,41.0,+0:16,,Butler Chris,39,Champion System Pro Cycling Team,",, 0:06",,1,2013
+31,,36,42.0,+0:16,,Moinard Ama\xebl,40,BMC Racing Team,",, 0:06",,1,2013
+26,,114,43.0,+0:16,,Torckler Michael,41,Bissell Pro Cycling,",, 0:06",,1,2013
+29,,32,44.0,+0:16,,Bookwalter Brent,42,BMC Racing Team,",, 0:06",,1,2013
+32,,105,45.0,+0:16,,Huzarski Bartosz,43,Team NetApp \u2013 Endura,",, 0:06",,1,2013
+31,,58,46.0,+0:16,,Vandborg Brian,44,Cannondale Pro Cycling Team,",, 0:06",,1,2013
+41,,1,47.0,+0:16,,Voigt Jens,45,RadioShack - Leopard,",, 0:06",,1,2013
+24,,25,48.0,+0:16,,Serry Pieter,46,Omega Pharma - Quick-Step,",, 0:06",,1,2013
+27,,156,5.0,+0:14,,Stemper James,47,5-hour Energy,",, 0:06",,1,2013
+24,,113,4.0,+0:13,,Jones Carter,48,Bissell Pro Cycling,",, 0:06",,1,2013
+31,,116,49.0,+0:16,,Mccarty Jonathan Patrick,49,Bissell Pro Cycling,",, 0:06",,1,2013
+21,,141,50.0,+0:16,,Brown Nathan,50,Bontrager Cycling Team,",, 0:06",,1,2013
+21,,16,51.0,+0:16,,Morton Lachlan,51,Garmin Sharp,",, 0:06",,1,2013
+37,,37,52.0,+0:30,,Pinotti Marco,52,BMC Racing Team,0:20 0:20,,1,2013
+26,,38,53.0,+0:45,,Schar Michael,53,BMC Racing Team,0:35 0:35,,1,2013
+34,,134,54.0,+9:19,,Jacques-Maynes Benjamin,54,Jamis - Hagens Berman,9:09 9:09,,1,2013
+28,,52,55.0,+9:21,,Bodnar Maciej,55,Cannondale Pro Cycling Team,9:11 9:11,,1,2013
+30,,34,56.0,+9:21,,Gilbert Philippe,56,BMC Racing Team,",, 9:11",,1,2013
+34,,137,57.0,+9:21,,Romero Amaran Luis,57,Jamis - Hagens Berman,",, 9:11",,1,2013
+33,,21,58.0,+9:21,,Chavanel Sylvain,58,Omega Pharma - Quick-Step,",, 9:11",,1,2013
+26,,57,59.0,+9:21,,Koren Kristijan,59,Cannondale Pro Cycling Team,",, 9:11",,1,2013
+31,,95,60.0,+9:21,,Gazvoda Gregor,60,Champion System Pro Cycling Team,",, 9:11",,1,2013
+21,,143,62.0,+10:28,,Duchesne Antoine,61,Bontrager Cycling Team,10:18 10:18,,1,2013
+28,,106,63.0,+10:28,,Mendes Jos\xe9,62,Team NetApp \u2013 Endura,",, 10:18",,1,2013
+23,,75,64.0,+10:28,,Lindeman Bert-Jan,63,Vacansoleil - DCM,",, 10:18",,1,2013
+30,,55,65.0,+10:28,,Haedo Lucas Sebastian,64,Cannondale Pro Cycling Team,",, 10:18",,1,2013
+30,,22,66.0,+10:28,,De Weert Kevin,65,Omega Pharma - Quick-Step,",, 10:18",,1,2013
+34,,43,67.0,+10:28,,Cooke Baden,66,Orica GreenEDGE,",, 10:18",,1,2013
+28,,14,68.0,+10:28,,Farrar Tyler,67,Garmin Sharp,",, 10:18",,1,2013
+20,,28,69.0,+10:28,,Verona Carlos,68,Omega Pharma - Quick-Step,",, 10:18",,1,2013
+30,,63,70.0,+10:28,,Duggan Timothy,69,Team Saxo - Tinkoff,",, 10:18",,1,2013
+31,,62,71.0,+10:28,,Cantwell Jonathan,70,Team Saxo - Tinkoff,",, 10:18",,1,2013
+38,,67,72.0,+10:28,,Tosatto Matteo,71,Team Saxo - Tinkoff,",, 10:18",,1,2013
+28,,98,73.0,+10:28,,San Wu Kin,72,Champion System Pro Cycling Team,",, 10:18",,1,2013
+20,,5,74.0,+10:28,,Jungels Bob,73,RadioShack - Leopard,",, 10:18",,1,2013
+22,,46,75.0,+10:28,,Matthews Michael,74,Orica GreenEDGE,",, 10:18",,1,2013
+32,,138,76.0,+10:28,,Wren Tyler,75,Jamis - Hagens Berman,",, 10:18",,1,2013
+33,,4,77.0,+10:28,,Irizar Markel,76,RadioShack - Leopard,",, 10:18",,1,2013
+27,,122,78.0,+10:28,,Anthony Jesse,77,Optum p/b Kelly Benefit Strategies,",, 10:18",,1,2013
+19,,146,79.0,+10:28,,Oram James,78,Bontrager Cycling Team,",, 10:18",,1,2013
+28,,66,80.0,+10:28,,M\xf8rk\xf8v Michael,79,Team Saxo - Tinkoff,",, 10:18",,1,2013
+32,,68,81.0,+10:28,,Zaugg Oliver,80,Team Saxo - Tinkoff,",, 10:18",,1,2013
+26,,13,82.0,+10:28,,Fairly Caleb,81,Garmin Sharp,",, 10:18",,1,2013
+20,,144,83.0,+10:28,,Eastman Ryan,82,Bontrager Cycling Team,",, 10:18",,1,2013
+37,,23,84.0,+10:28,,Grabsch Bert,83,Omega Pharma - Quick-Step,",, 10:18",,1,2013
+25,,15,85.0,+10:28,,Howes Alex,84,Garmin Sharp,",, 10:18",,1,2013
+31,,125,86.0,+10:28,,Hanson Ken,85,Optum p/b Kelly Benefit Strategies,",, 10:18",,1,2013
+22,,12,87.0,+10:28,,Dennis Rohan,86,Garmin Sharp,",, 10:18",,1,2013
+29,,126,88.0,+10:28,,Soladay Thomas,87,Optum p/b Kelly Benefit Strategies,",, 10:18",,1,2013
+27,,124,61.0,+10:27,,Cooper Marsh,88,Optum p/b Kelly Benefit Strategies,",, 10:18",,1,2013
+33,,85,89.0,+10:28,,Jones Chris,89,UnitedHealthcare Presented by Maxxis,",, 10:18",,1,2013
+22,,26,90.0,+10:54,,van Keirsbulck Guillaume,90,Omega Pharma - Quick-Step,10:44 10:44,,1,2013
+32,,54,91.0,+10:54,,Da Dalto Mauro,91,Cannondale Pro Cycling Team,",, 10:44",,1,2013
+26,,41,92.0,+10:54,,Sulzberger Wesley,92,Orica GreenEDGE,",, 10:44",,1,2013
+27,,64,93.0,+10:54,,Jorgensen Jonas Aaen,93,Team Saxo - Tinkoff,",, 10:44",,1,2013
+20,,65,94.0,+10:54,,McCarthy Jay,94,Team Saxo - Tinkoff,",, 10:44",,1,2013
+25,,77,95.0,+10:54,,van Poppel Boy,95,Vacansoleil - DCM,",, 10:44",,1,2013
+31,,154,96.0,+10:54,,Milne Shawn,96,5-hour Energy,",, 10:44",,1,2013
+35,,117,97.0,+10:54,,Pipp Frank Kevin,97,Bissell Pro Cycling,",, 10:44",,1,2013
+24,,94,98.0,+10:54,,Feng Chun Kai,98,Champion System Pro Cycling Team,",, 10:44",,1,2013
+24,,158,99.0,+10:54,,Williams David,99,5-hour Energy,",, 10:44",,1,2013
+24,,107,100.0,+10:54,,Schorn Daniel,100,Team NetApp \u2013 Endura,",, 10:44",,1,2013
+27,,92,101.0,+10:54,,Brammeier Matthew,101,Champion System Pro Cycling Team,",, 10:44",,1,2013
+25,,102,102.0,+10:54,,Benedetti Cesare,102,Team NetApp \u2013 Endura,",, 10:44",,1,2013
+34,,127,103.0,+14:47,,Zirbel Tom,103,Optum p/b Kelly Benefit Strategies,14:37 14:37,,1,2013
+26,,71,104.0,+18:50,,De Gendt Thomas,104,Vacansoleil - DCM,18:40 18:40,,1,2013
+29,,76,105.0,+18:50,,Marczynski Tomasz,105,Vacansoleil - DCM,",, 18:40",,1,2013
+23,,53,106.0,+18:50,,Boivin Guillaume,106,Cannondale Pro Cycling Team,",, 18:40",,1,2013
+25,,104,107.0,+18:50,,Dempster Zakkari,107,Team NetApp \u2013 Endura,",, 18:40",,1,2013
+26,,72,108.0,+18:52,,Boeckmans Kris,108,Vacansoleil - DCM,18:42 18:42,,1,2013
+35,,128,109.0,+18:52,,Zwizanski Scott,109,Optum p/b Kelly Benefit Strategies,",, 18:42",,1,2013
+23,,48,110.0,+18:52,,Meyer Travis,110,Orica GreenEDGE,",, 18:42",,1,2013
+26,,132,111.0,+20:00,,Driscoll James,111,Jamis - Hagens Berman,19:50 19:50,,1,2013
+24,,135,112.0,+20:00,,Miller Carson,112,Jamis - Hagens Berman,",, 19:50",,1,2013
+28,,84,113.0,+20:00,,Ile\u0161i\u010d Aldo Ino,113,UnitedHealthcare Presented by Maxxis,",, 19:50",,1,2013
+32,,133,114.0,+20:00,,Haedo Juan Jose,114,Jamis - Hagens Berman,",, 19:50",,1,2013
+26,,136,115.0,+20:00,,Palma Guido Emanuel,115,Jamis - Hagens Berman,",, 19:50",,1,2013
+39,,115,116.0,+20:00,,McCartney Jason,116,Bissell Pro Cycling,",, 19:50",,1,2013
+22,,74,117.0,+20:00,,Kreder Wesley,117,Vacansoleil - DCM,",, 19:50",,1,2013
+28,,88,118.0,+20:00,,Murphy John,118,UnitedHealthcare Presented by Maxxis,",, 19:50",,1,2013
+25,,157,119.0,+20:00,,Sweeting Robert,119,5-hour Energy,",, 19:50",,1,2013
+35,,35,120.0,+20:00,,Hushovd Thor,120,BMC Racing Team,",, 19:50",,1,2013
+25,,86,121.0,+20:00,,Keough Jake,121,UnitedHealthcare Presented by Maxxis,",, 19:50",,1,2013
+32,,18,122.0,+20:00,,Vansummeren Johan,122,Garmin Sharp,",, 19:50",,1,2013
+31,,97,123.0,+20:00,,Traksel Bobbie,123,Champion System Pro Cycling Team,",, 19:50",,1,2013
+29,,27,,+ -4:31:23,,Vandenbergh Stijn,DNF,Omega Pharma - Quick-Step,-4:31:33 -4:31:33,,1,2013
+21,,45,,+ -4:31:23,,Hepburn Michael,HD,Orica GreenEDGE,",, -4:31:33",,1,2013
+26,,155,,+ -4:31:23,,Shelden Taylor,HD,5-hour Energy,",, -4:31:33",,1,2013
+30,,42,,+ -4:31:23,,Beppu Fumiyuki,HD,Orica GreenEDGE,",, -4:31:33",,1,2013
+27,,131,1.0,+0:00,30.0,Acevedo Janier Alexis,1,Jamis - Hagens Berman,5:07:40 5:07:40,20.0,2,2013
+24,,31,2.0,+0:12,18.0,van Garderen Tejay,2,BMC Racing Team,0:12 0:12,14.0,2,2013
+29,,82,3.0,+0:27,12.0,Deignan Philip,3,UnitedHealthcare Presented by Maxxis,0:27 0:27,8.0,2,2013
+26,,33,4.0,+0:45,7.0,Frank Mathias,4,BMC Racing Team,0:45 0:45,7.0,2,2013
+33,,61,5.0,+0:55,4.0,Rogers Michael,5,Team Saxo - Tinkoff,0:55 0:55,6.0,2,2013
+24,,121,7.0,+1:13,3.0,Haga Chad,6,Optum p/b Kelly Benefit Strategies,1:13 1:13,5.0,2,2013
+28,,2,8.0,+1:15,2.0,Busche Matthew,7,RadioShack - Leopard,1:15 1:15,4.0,2,2013
+37,,151,6.0,+1:03,1.0,Mancebo Francisco,8,5-hour Energy,",, 1:15",2.0,2,2013
+21,,142,9.0,+1:32,,Craddock Lawson,9,Bontrager Cycling Team,1:32 1:32,,2,2013
+25,,47,10.0,+1:40,,Meyer Cameron,10,Orica GreenEDGE,1:40 1:40,,2,2013
+29,,81,11.0,+1:56,,de Maar Marc,11,UnitedHealthcare Presented by Maxxis,1:56 1:56,,2,2013
+26,,153,13.0,+2:27,,Jenkins Max,12,5-hour Energy,2:27 2:27,,2,2013
+29,,83,12.0,+2:27,,Euser Lucas,13,UnitedHealthcare Presented by Maxxis,",, 2:27",,2,2013
+29,,152,14.0,+2:36,,English Nathaniel,14,5-hour Energy,2:36 2:36,,2,2013
+27,,112,15.0,+2:50,,Gaimon Phillip,15,Bissell Pro Cycling,2:50 2:50,,2,2013
+21,,16,17.0,+3:19,,Morton Lachlan,16,Garmin Sharp,3:19 3:19,,2,2013
+37,,111,16.0,+3:19,,Baldwin Christopher,17,Bissell Pro Cycling,",, 3:19",,2,2013
+25,,101,18.0,+3:42,,K\xf6nig Leopold,18,Team NetApp \u2013 Endura,3:42 3:42,,2,2013
+28,,3,19.0,+4:02,,Didier Laurent,19,RadioShack - Leopard,4:02 4:02,,2,2013
+25,,93,20.0,+4:09,,Butler Chris,20,Champion System Pro Cycling Team,4:09 4:09,,2,2013
+30,,56,21.0,+4:17,,King Edward,21,Cannondale Pro Cycling Team,4:17 4:17,,2,2013
+24,,103,22.0,+4:33,,de la Cruz David,22,Team NetApp \u2013 Endura,4:33 4:33,,2,2013
+26,,91,23.0,+5:07,,Beyer Chad,23,Champion System Pro Cycling Team,5:07 5:07,,2,2013
+31,,58,24.0,+5:07,,Vandborg Brian,24,Cannondale Pro Cycling Team,",, 5:07",,2,2013
+21,,147,25.0,+5:48,,Putt Tanner,25,Bontrager Cycling Team,5:48 5:48,,2,2013
+36,,8,26.0,+6:06,,Zubeldia Haimar,26,RadioShack - Leopard,6:06 6:06,,2,2013
+34,,137,48.0,+15:44,,Romero Amaran Luis,27,Jamis - Hagens Berman,6:39 6:39,,2,2013
+26,,114,27.0,+7:13,,Torckler Michael,28,Bissell Pro Cycling,7:13 7:13,,2,2013
+32,,105,28.0,+7:47,,Huzarski Bartosz,29,Team NetApp \u2013 Endura,7:47 7:47,,2,2013
+30,,34,51.0,+17:21,,Gilbert Philippe,30,BMC Racing Team,8:16 8:16,,2,2013
+34,,43,53.0,+18:37,,Cooke Baden,31,Orica GreenEDGE,8:25 8:25,,2,2013
+35,,87,29.0,+8:36,,Louder Jeff,32,UnitedHealthcare Presented by Maxxis,8:36 8:36,,2,2013
+32,,68,55.0,+19:21,,Zaugg Oliver,33,Team Saxo - Tinkoff,9:09 9:09,,2,2013
+30,,63,54.0,+19:21,,Duggan Timothy,34,Team Saxo - Tinkoff,",, 9:09",,2,2013
+28,,106,56.0,+19:28,,Mendes Jos\xe9,35,Team NetApp \u2013 Endura,9:16 9:16,,2,2013
+27,,7,30.0,+9:22,,Schleck Andy,36,RadioShack - Leopard,9:22 9:22,,2,2013
+30,,78,31.0,+9:25,,Westra Lieuwe,37,Vacansoleil - DCM,9:41 9:41,,2,2013
+34,,11,33.0,+10:14,,Zabriskie David,38,Garmin Sharp,10:14 10:14,,2,2013
+24,,113,32.0,+10:11,,Jones Carter,39,Bissell Pro Cycling,",, 10:14",,2,2013
+27,,122,58.0,+21:03,,Anthony Jesse,40,Optum p/b Kelly Benefit Strategies,10:51 10:51,,2,2013
+29,,32,34.0,+10:54,,Bookwalter Brent,41,BMC Racing Team,10:54 10:54,,2,2013
+26,,38,37.0,+11:23,,Schar Michael,42,BMC Racing Team,",, 10:54",,2,2013
+25,,157,97.0,+30:41,,Sweeting Robert,43,5-hour Energy,10:57 10:57,,2,2013
+22,,17,36.0,+10:57,,Rathe Jacob,44,Garmin Sharp,",, 10:57",,2,2013
+27,,156,35.0,+10:55,,Stemper James,45,5-hour Energy,",, 10:57",,2,2013
+31,,154,60.0,+21:35,,Milne Shawn,46,5-hour Energy,",, 10:57",,2,2013
+26,,41,63.0,+21:58,,Sulzberger Wesley,47,Orica GreenEDGE,11:20 11:20,,2,2013
+22,,12,59.0,+21:32,,Dennis Rohan,48,Garmin Sharp,",, 11:20",,2,2013
+38,,123,38.0,+11:36,,Candelario Alex,49,Optum p/b Kelly Benefit Strategies,11:36 11:36,,2,2013
+21,,145,39.0,+11:38,,Mannion Gavin,50,Bontrager Cycling Team,11:38 11:38,,2,2013
+33,,4,62.0,+21:56,,Irizar Markel,51,RadioShack - Leopard,11:44 11:44,,2,2013
+26,,44,40.0,+11:46,,Docker Mitchell,52,Orica GreenEDGE,11:46 11:46,,2,2013
+26,,71,99.0,+30:45,,De Gendt Thomas,53,Vacansoleil - DCM,12:11 12:11,,2,2013
+30,,22,64.0,+22:25,,De Weert Kevin,54,Omega Pharma - Quick-Step,12:13 12:13,,2,2013
+20,,28,65.0,+22:25,,Verona Carlos,55,Omega Pharma - Quick-Step,",, 12:13",,2,2013
+26,,13,66.0,+22:36,,Fairly Caleb,56,Garmin Sharp,12:24 12:24,,2,2013
+20,,65,70.0,+23:02,,McCarthy Jay,57,Team Saxo - Tinkoff,",, 12:24",,2,2013
+35,,117,71.0,+23:05,,Pipp Frank Kevin,58,Bissell Pro Cycling,12:27 12:27,,2,2013
+28,,66,68.0,+22:39,,M\xf8rk\xf8v Michael,59,Team Saxo - Tinkoff,",, 12:27",,2,2013
+28,,14,67.0,+22:39,,Farrar Tyler,60,Garmin Sharp,",, 12:27",,2,2013
+32,,118,41.0,+12:27,,Vennell Jeremy,61,Bissell Pro Cycling,",, 12:27",,2,2013
+35,,73,42.0,+12:33,,Flecha Juan Antonio,62,Vacansoleil - DCM,12:33 12:33,,2,2013
+20,,5,69.0,+22:55,,Jungels Bob,63,RadioShack - Leopard,12:43 12:43,,2,2013
+33,,21,61.0,+21:54,,Chavanel Sylvain,64,Omega Pharma - Quick-Step,12:49 12:49,,2,2013
+25,,15,72.0,+23:06,,Howes Alex,65,Garmin Sharp,12:54 12:54,,2,2013
+31,,36,43.0,+12:56,,Moinard Ama\xebl,66,BMC Racing Team,12:56 12:56,,2,2013
+32,,18,101.0,+32:45,,Vansummeren Johan,67,Garmin Sharp,13:01 13:01,,2,2013
+35,,128,100.0,+32:19,,Zwizanski Scott,68,Optum p/b Kelly Benefit Strategies,13:43 13:43,,2,2013
+34,,134,73.0,+23:17,,Jacques-Maynes Benjamin,69,Jamis - Hagens Berman,14:14 14:14,,2,2013
+23,,48,103.0,+33:06,,Meyer Travis,70,Orica GreenEDGE,14:30 14:30,,2,2013
+25,,77,75.0,+25:08,,van Poppel Boy,71,Vacansoleil - DCM,",, 14:30",,2,2013
+24,,135,104.0,+34:18,,Miller Carson,72,Jamis - Hagens Berman,14:34 14:34,,2,2013
+26,,132,105.0,+34:21,,Driscoll James,73,Jamis - Hagens Berman,14:37 14:37,,2,2013
+32,,138,74.0,+24:53,,Wren Tyler,74,Jamis - Hagens Berman,14:41 14:41,,2,2013
+41,,1,44.0,+15:04,,Voigt Jens,75,RadioShack - Leopard,15:04 15:04,,2,2013
+24,,158,79.0,+25:46,,Williams David,76,5-hour Energy,15:08 15:08,,2,2013
+22,,26,80.0,+25:51,,van Keirsbulck Guillaume,77,Omega Pharma - Quick-Step,15:13 15:13,,2,2013
+27,,108,45.0,+15:16,,Voss Paul,78,Team NetApp \u2013 Endura,15:16 15:16,,2,2013
+21,,143,76.0,+25:34,,Duchesne Antoine,79,Bontrager Cycling Team,15:22 15:22,,2,2013
+22,,46,77.0,+25:36,,Matthews Michael,80,Orica GreenEDGE,15:24 15:24,,2,2013
+27,,24,46.0,+15:28,,Meersman Gianni,81,Omega Pharma - Quick-Step,15:28 15:28,,2,2013
+31,,125,78.0,+25:46,,Hanson Ken,82,Optum p/b Kelly Benefit Strategies,15:34 15:34,,2,2013
+21,,141,47.0,+15:39,,Brown Nathan,83,Bontrager Cycling Team,15:39 15:39,,2,2013
+25,,102,83.0,+26:48,,Benedetti Cesare,84,Team NetApp \u2013 Endura,16:10 16:10,,2,2013
+21,,148,49.0,+16:36,,Stuyven Jasper,85,Bontrager Cycling Team,16:36 16:36,,2,2013
+20,,144,82.0,+26:48,,Eastman Ryan,86,Bontrager Cycling Team,",, 16:36",,2,2013
+31,,62,84.0,+26:50,,Cantwell Jonathan,87,Team Saxo - Tinkoff,16:38 16:38,,2,2013
+27,,64,86.0,+27:19,,Jorgensen Jonas Aaen,88,Team Saxo - Tinkoff,16:41 16:41,,2,2013
+27,,92,87.0,+27:27,,Brammeier Matthew,89,Champion System Pro Cycling Team,16:49 16:49,,2,2013
+27,,124,85.0,+27:12,,Cooper Marsh,90,Optum p/b Kelly Benefit Strategies,17:01 17:01,,2,2013
+24,,94,88.0,+27:39,,Feng Chun Kai,91,Champion System Pro Cycling Team,",, 17:01",,2,2013
+30,,96,50.0,+17:10,,Roth Ryan,92,Champion System Pro Cycling Team,17:10 17:10,,2,2013
+31,,116,52.0,+17:25,,Mccarty Jonathan Patrick,93,Bissell Pro Cycling,17:25 17:25,,2,2013
+25,,104,106.0,+36:29,,Dempster Zakkari,94,Team NetApp \u2013 Endura,17:55 17:55,,2,2013
+24,,107,89.0,+28:33,,Schorn Daniel,95,Team NetApp \u2013 Endura,",, 17:55",,2,2013
+28,,98,90.0,+28:34,,San Wu Kin,96,Champion System Pro Cycling Team,18:22 18:22,,2,2013
+37,,23,93.0,+29:25,,Grabsch Bert,97,Omega Pharma - Quick-Step,19:13 19:13,,2,2013
+39,,115,110.0,+39:24,,McCartney Jason,98,Bissell Pro Cycling,19:40 19:40,,2,2013
+26,,57,91.0,+28:53,,Koren Kristijan,99,Cannondale Pro Cycling Team,19:48 19:48,,2,2013
+23,,53,109.0,+38:22,,Boivin Guillaume,100,Cannondale Pro Cycling Team,",, 19:48",,2,2013
+30,,55,94.0,+30:00,,Haedo Lucas Sebastian,101,Cannondale Pro Cycling Team,",, 19:48",,2,2013
+23,,51,57.0,+19:44,,Sagan Peter,102,Cannondale Pro Cycling Team,",, 19:48",,2,2013
+28,,52,92.0,+28:53,,Bodnar Maciej,103,Cannondale Pro Cycling Team,",, 19:48",,2,2013
+29,,126,95.0,+30:00,,Soladay Thomas,104,Optum p/b Kelly Benefit Strategies,",, 19:48",,2,2013
+33,,85,96.0,+30:00,,Jones Chris,105,UnitedHealthcare Presented by Maxxis,",, 19:48",,2,2013
+25,,86,112.0,+39:47,,Keough Jake,106,UnitedHealthcare Presented by Maxxis,20:03 20:03,,2,2013
+28,,88,111.0,+39:47,,Murphy John,107,UnitedHealthcare Presented by Maxxis,",, 20:03",,2,2013
+35,,35,113.0,+40:03,,Hushovd Thor,108,BMC Racing Team,20:19 20:19,,2,2013
+38,,67,98.0,+30:42,,Tosatto Matteo,109,Team Saxo - Tinkoff,20:30 20:30,,2,2013
+28,,84,115.0,+42:23,,Ile\u0161i\u010d Aldo Ino,110,UnitedHealthcare Presented by Maxxis,22:39 22:39,,2,2013
+23,,75,102.0,+32:57,,Lindeman Bert-Jan,111,Vacansoleil - DCM,22:45 22:45,,2,2013
+37,,37,81.0,+25:54,,Pinotti Marco,112,BMC Racing Team,25:40 25:40,,2,2013
+19,,146,107.0,+37:20,,Oram James,113,Bontrager Cycling Team,27:08 27:08,,2,2013
+34,,127,116.0,+44:08,,Zirbel Tom,114,Optum p/b Kelly Benefit Strategies,29:37 29:37,,2,2013
+31,,95,114.0,+40:17,,Gazvoda Gregor,115,Champion System Pro Cycling Team,31:12 31:12,,2,2013
+31,,97,118.0,+51:07,,Traksel Bobbie,116,Champion System Pro Cycling Team,31:23 31:23,,2,2013
+26,,136,120.0,+56:20,,Palma Guido Emanuel,117,Jamis - Hagens Berman,36:36 36:36,,2,2013
+26,,72,119.0,+55:57,,Boeckmans Kris,118,Vacansoleil - DCM,37:21 37:21,,2,2013
+22,,74,121.0,+57:26,,Kreder Wesley,119,Vacansoleil - DCM,37:42 37:42,,2,2013
+24,,25,108.0,+37:42,,Serry Pieter,120,Omega Pharma - Quick-Step,",, 37:42",,2,2013
+32,,54,117.0,+48:20,,Da Dalto Mauro,121,Cannondale Pro Cycling Team,",, 37:42",,2,2013
+29,,76,,+ -9:39:19,,Marczynski Tomasz,DNF,Vacansoleil - DCM,-5:07:40 -5:07:40,,2,2013
+32,,133,,+ -9:39:19,,Haedo Juan Jose,DNF,Jamis - Hagens Berman,",, -5:07:40",,2,2013
+23,,51,56.0,+19:34,30.0,Sagan Peter,1,Cannondale Pro Cycling Team,4:20:31 4:20:31,20.0,3,2013
+22,,46,74.0,+25:30,18.0,Matthews Michael,2,Orica GreenEDGE,",, ,,",14.0,3,2013
+28,,14,63.0,+22:35,12.0,Farrar Tyler,3,Garmin Sharp,",, ,,",8.0,3,2013
+27,,24,45.0,+15:28,7.0,Meersman Gianni,4,Omega Pharma - Quick-Step,",, ,,",7.0,3,2013
+25,,77,73.0,+25:08,4.0,van Poppel Boy,5,Vacansoleil - DCM,",, ,,",6.0,3,2013
+35,,35,108.0,+40:03,3.0,Hushovd Thor,6,BMC Racing Team,",, ,,",5.0,3,2013
+38,,123,37.0,+11:36,2.0,Candelario Alex,7,Optum p/b Kelly Benefit Strategies,",, ,,",4.0,3,2013
+33,,21,59.0,+21:54,1.0,Chavanel Sylvain,8,Omega Pharma - Quick-Step,",, ,,",2.0,3,2013
+25,,104,102.0,+36:29,,Dempster Zakkari,9,Team NetApp \u2013 Endura,",, ,,",,3,2013
+28,,66,65.0,+22:39,,M\xf8rk\xf8v Michael,10,Team Saxo - Tinkoff,",, ,,",,3,2013
+25,,86,106.0,+39:47,,Keough Jake,11,UnitedHealthcare Presented by Maxxis,",, ,,",,3,2013
+32,,118,39.0,+12:27,,Vennell Jeremy,12,Bissell Pro Cycling,",, ,,",,3,2013
+35,,117,68.0,+23:05,,Pipp Frank Kevin,13,Bissell Pro Cycling,",, ,,",,3,2013
+27,,92,85.0,+27:27,,Brammeier Matthew,14,Champion System Pro Cycling Team,",, ,,",,3,2013
+25,,102,81.0,+26:48,,Benedetti Cesare,15,Team NetApp \u2013 Endura,",, ,,",,3,2013
+31,,62,83.0,+26:50,,Cantwell Jonathan,16,Team Saxo - Tinkoff,",, ,,",,3,2013
+23,,53,104.0,+38:22,,Boivin Guillaume,17,Cannondale Pro Cycling Team,",, ,,",,3,2013
+31,,95,109.0,+40:17,,Gazvoda Gregor,18,Champion System Pro Cycling Team,",, ,,",,3,2013
+24,,31,2.0,+0:12,,van Garderen Tejay,19,BMC Racing Team,",, ,,",,3,2013
+25,,15,69.0,+23:06,,Howes Alex,20,Garmin Sharp,",, ,,",,3,2013
+33,,4,60.0,+21:56,,Irizar Markel,21,RadioShack - Leopard,",, ,,",,3,2013
+22,,26,78.0,+25:51,,van Keirsbulck Guillaume,22,Omega Pharma - Quick-Step,",, ,,",,3,2013
+28,,84,112.0,+42:23,,Ile\u0161i\u010d Aldo Ino,23,UnitedHealthcare Presented by Maxxis,",, ,,",,3,2013
+21,,148,48.0,+16:36,,Stuyven Jasper,24,Bontrager Cycling Team,",, ,,",,3,2013
+37,,111,15.0,+3:19,,Baldwin Christopher,25,Bissell Pro Cycling,",, ,,",,3,2013
+26,,153,12.0,+2:27,,Jenkins Max,26,5-hour Energy,",, ,,",,3,2013
+26,,33,4.0,+0:45,,Frank Mathias,27,BMC Racing Team,",, ,,",,3,2013
+27,,131,1.0,+0:00,,Acevedo Janier Alexis,28,Jamis - Hagens Berman,",, ,,",,3,2013
+25,,157,93.0,+30:41,,Sweeting Robert,29,5-hour Energy,",, ,,",,3,2013
+28,,98,89.0,+28:34,,San Wu Kin,30,Champion System Pro Cycling Team,",, ,,",,3,2013
+37,,151,6.0,+1:03,,Mancebo Francisco,31,5-hour Energy,",, ,,",,3,2013
+28,,2,8.0,+1:15,,Busche Matthew,32,RadioShack - Leopard,",, ,,",,3,2013
+34,,43,52.0,+18:37,,Cooke Baden,33,Orica GreenEDGE,",, ,,",,3,2013
+24,,107,88.0,+28:33,,Schorn Daniel,34,Team NetApp \u2013 Endura,",, ,,",,3,2013
+22,,17,35.0,+10:57,,Rathe Jacob,35,Garmin Sharp,",, ,,",,3,2013
+34,,137,47.0,+15:44,,Romero Amaran Luis,36,Jamis - Hagens Berman,",, ,,",,3,2013
+21,,147,24.0,+5:48,,Putt Tanner,37,Bontrager Cycling Team,",, ,,",,3,2013
+28,,106,55.0,+19:28,,Mendes Jos\xe9,38,Team NetApp \u2013 Endura,",, ,,",,3,2013
+30,,56,20.0,+4:17,,King Edward,39,Cannondale Pro Cycling Team,",, ,,",,3,2013
+31,,125,76.0,+25:46,,Hanson Ken,40,Optum p/b Kelly Benefit Strategies,",, ,,",,3,2013
+25,,47,10.0,+1:40,,Meyer Cameron,41,Orica GreenEDGE,",, ,,",,3,2013
+30,,55,91.0,+30:00,,Haedo Lucas Sebastian,42,Cannondale Pro Cycling Team,",, ,,",,3,2013
+33,,61,5.0,+0:55,,Rogers Michael,43,Team Saxo - Tinkoff,",, ,,",,3,2013
+24,,121,7.0,+1:13,,Haga Chad,44,Optum p/b Kelly Benefit Strategies,",, ,,",,3,2013
+32,,68,53.0,+19:21,,Zaugg Oliver,45,Team Saxo - Tinkoff,",, ,,",,3,2013
+30,,34,50.0,+17:21,,Gilbert Philippe,46,BMC Racing Team,",, ,,",,3,2013
+27,,122,57.0,+21:03,,Anthony Jesse,47,Optum p/b Kelly Benefit Strategies,",, ,,",,3,2013
+23,,48,100.0,+33:06,,Meyer Travis,48,Orica GreenEDGE,",, ,,",,3,2013
+28,,3,18.0,+4:02,,Didier Laurent,49,RadioShack - Leopard,",, ,,",,3,2013
+24,,94,86.0,+27:39,,Feng Chun Kai,50,Champion System Pro Cycling Team,",, ,,",,3,2013
+26,,38,36.0,+11:23,,Schar Michael,51,BMC Racing Team,",, ,,",,3,2013
+36,,8,25.0,+6:06,,Zubeldia Haimar,52,RadioShack - Leopard,",, ,,",,3,2013
+31,,58,23.0,+5:07,,Vandborg Brian,53,Cannondale Pro Cycling Team,",, ,,",,3,2013
+27,,108,44.0,+15:16,,Voss Paul,54,Team NetApp \u2013 Endura,",, ,,",,3,2013
+25,,93,19.0,+4:09,,Butler Chris,55,Champion System Pro Cycling Team,",, ,,",,3,2013
+29,,32,33.0,+10:54,,Bookwalter Brent,56,BMC Racing Team,",, ,,",,3,2013
+24,,103,21.0,+4:33,,de la Cruz David,57,Team NetApp \u2013 Endura,",, ,,",,3,2013
+29,,81,11.0,+1:56,,de Maar Marc,58,UnitedHealthcare Presented by Maxxis,",, ,,",,3,2013
+29,,83,13.0,+2:27,,Euser Lucas,59,UnitedHealthcare Presented by Maxxis,",, ,,",,3,2013
+31,,154,58.0,+21:35,,Milne Shawn,60,5-hour Energy,",, ,,",,3,2013
+30,,63,54.0,+19:21,,Duggan Timothy,61,Team Saxo - Tinkoff,",, ,,",,3,2013
+31,,97,113.0,+51:07,,Traksel Bobbie,62,Champion System Pro Cycling Team,",, ,,",,3,2013
+29,,82,3.0,+0:27,,Deignan Philip,63,UnitedHealthcare Presented by Maxxis,",, ,,",,3,2013
+26,,91,22.0,+5:04,,Beyer Chad,64,Champion System Pro Cycling Team,",, ,,",,3,2013
+41,,1,43.0,+15:04,,Voigt Jens,65,RadioShack - Leopard,",, ,,",,3,2013
+25,,101,17.0,+3:42,,K\xf6nig Leopold,66,Team NetApp \u2013 Endura,",, ,,",,3,2013
+35,,128,97.0,+32:19,,Zwizanski Scott,67,Optum p/b Kelly Benefit Strategies,",, ,,",,3,2013
+21,,142,9.0,+1:32,,Craddock Lawson,68,Bontrager Cycling Team,",, ,,",,3,2013
+35,,73,40.0,+12:33,,Flecha Juan Antonio,69,Vacansoleil - DCM,",, ,,",,3,2013
+32,,105,27.0,+7:47,,Huzarski Bartosz,70,Team NetApp \u2013 Endura,",, ,,",,3,2013
+31,,36,42.0,+12:56,,Moinard Ama\xebl,71,BMC Racing Team,",, ,,",,3,2013
+23,,75,99.0,+32:57,,Lindeman Bert-Jan,72,Vacansoleil - DCM,",, ,,",,3,2013
+29,,152,14.0,+2:36,,English Nathaniel,73,5-hour Energy,",, ,,",,3,2013
+21,,143,75.0,+25:34,,Duchesne Antoine,74,Bontrager Cycling Team,",, ,,",,3,2013
+26,,13,64.0,+22:36,,Fairly Caleb,75,Garmin Sharp,",, ,,",,3,2013
+30,,78,29.0,+9:19,,Westra Lieuwe,76,Vacansoleil - DCM,",, ,,",,3,2013
+26,,72,114.0,+55:57,,Boeckmans Kris,77,Vacansoleil - DCM,",, ,,",,3,2013
+22,,74,115.0,+57:26,,Kreder Wesley,78,Vacansoleil - DCM,",, ,,",,3,2013
+32,,138,72.0,+24:53,,Wren Tyler,79,Jamis - Hagens Berman,",, ,,",,3,2013
+27,,156,34.0,+10:55,,Stemper James,80,5-hour Energy,",, ,,",,3,2013
+20,,5,66.0,+22:55,,Jungels Bob,81,RadioShack - Leopard,",, ,,",,3,2013
+27,,7,30.0,+9:21,,Schleck Andy,82,RadioShack - Leopard,",, ,,",,3,2013
+27,,64,84.0,+27:19,,Jorgensen Jonas Aaen,83,Team Saxo - Tinkoff,",, ,,",,3,2013
+35,,87,28.0,+8:36,,Louder Jeff,84,UnitedHealthcare Presented by Maxxis,",, ,,",,3,2013
+37,,37,79.0,+25:54,,Pinotti Marco,85,BMC Racing Team,",, ,,",,3,2013
+26,,57,90.0,+28:53,,Koren Kristijan,86,Cannondale Pro Cycling Team,",, ,,",,3,2013
+21,,141,46.0,+15:39,,Brown Nathan,87,Bontrager Cycling Team,",, ,,",,3,2013
+21,,16,16.0,+3:19,,Morton Lachlan,88,Garmin Sharp,",, ,,",,3,2013
+34,,11,32.0,+10:14,,Zabriskie David,89,Garmin Sharp,",, ,,",,3,2013
+34,,134,70.0,+23:17,,Jacques-Maynes Benjamin,90,Jamis - Hagens Berman,",, ,,",,3,2013
+26,,71,94.0,+30:45,,De Gendt Thomas,91,Vacansoleil - DCM,",, ,,",,3,2013
+31,,116,51.0,+17:25,,Mccarty Jonathan Patrick,92,Bissell Pro Cycling,",, ,,",,3,2013
+26,,41,61.0,+21:58,,Sulzberger Wesley,93,Orica GreenEDGE,",, ,,",,3,2013
+26,,114,26.0,+7:13,,Torckler Michael,94,Bissell Pro Cycling,",, ,,",,3,2013
+28,,88,107.0,+39:47,,Murphy John,95,UnitedHealthcare Presented by Maxxis,",, ,,",,3,2013
+33,,85,92.0,+30:00,,Jones Chris,96,UnitedHealthcare Presented by Maxxis,",, ,,",,3,2013
+26,,132,101.0,+34:21,,Driscoll James,97,Jamis - Hagens Berman,",, ,,",,3,2013
+20,,28,62.0,+22:25,,Verona Carlos,98,Omega Pharma - Quick-Step,",, ,,",,3,2013
+20,,65,67.0,+23:02,,McCarthy Jay,99,Team Saxo - Tinkoff,",, ,,",,3,2013
+24,,158,77.0,+25:46,,Williams David,100,5-hour Energy,",, ,,",,3,2013
+26,,44,38.0,+12:06,,Docker Mitchell,101,Orica GreenEDGE,0:20 0:20,,3,2013
+24,,113,31.0,+10:11,,Jones Carter,102,Bissell Pro Cycling,",, 0:20",,3,2013
+39,,67,96.0,+31:40,,Tosatto Matteo,103,Team Saxo - Tinkoff,0:58 0:58,,3,2013
+29,,126,95.0,+31:08,,Soladay Thomas,104,Optum p/b Kelly Benefit Strategies,1:08 1:08,,3,2013
+27,,124,87.0,+28:20,,Cooper Marsh,105,Optum p/b Kelly Benefit Strategies,",, 1:08",,3,2013
+19,,146,105.0,+38:28,,Oram James,106,Bontrager Cycling Team,",, 1:08",,3,2013
+21,,145,41.0,+12:44,,Mannion Gavin,107,Bontrager Cycling Team,",, 1:08",,3,2013
+39,,115,110.0,+40:32,,McCartney Jason,108,Bissell Pro Cycling,",, 1:08",,3,2013
+30,,96,49.0,+17:10,,Roth Ryan,109,Champion System Pro Cycling Team,",, 1:08",,3,2013
+22,,12,71.0,+24:27,,Dennis Rohan,110,Garmin Sharp,2:55 2:55,,3,2013
+28,,52,98.0,+32:28,,Bodnar Maciej,111,Cannondale Pro Cycling Team,3:35 3:35,,3,2013
+20,,144,82.0,+26:48,,Eastman Ryan,112,Bontrager Cycling Team,",, 3:35",,3,2013
+32,,18,103.0,+36:43,,Vansummeren Johan,113,Garmin Sharp,3:58 3:58,,3,2013
+30,,22,80.0,+26:23,,De Weert Kevin,114,Omega Pharma - Quick-Step,",, 3:58",,3,2013
+24,,135,111.0,+41:27,,Miller Carson,115,Jamis - Hagens Berman,7:09 7:09,,3,2013
+27,,112,,+ - 13:59:50,,Gaimon Phillip,DNF,Bissell Pro Cycling,-4:20:31 -4:20:31,,3,2013
+34,,127,,+ - 13:59:50,,Zirbel Tom,DNF,Optum p/b Kelly Benefit Strategies,",, -4:20:31",,3,2013
+26,,136,,+ - 13:59:50,,Palma Guido Emanuel,DNF,Jamis - Hagens Berman,",, -4:20:31",,3,2013
+37,,23,,+ - 13:59:50,,Grabsch Bert,DNF,Omega Pharma - Quick-Step,",, -4:20:31",,3,2013
+32,,54,,+ - 13:59:50,,Da Dalto Mauro,DNS,Cannondale Pro Cycling Team,",, -4:20:31",,3,2013
+24,,25,,+ - 13:59:50,,Serry Pieter,DNS,Omega Pharma - Quick-Step,",, -4:20:31",,3,2013
+28,,14,59.0,+22:25,30.0,Farrar Tyler,1,Garmin Sharp,3:14:09 3:14:09,20.0,4,2013
+31,,125,71.0,+25:40,18.0,Hanson Ken,2,Optum p/b Kelly Benefit Strategies,",, ,,",14.0,4,2013
+27,,24,45.0,+15:24,12.0,Meersman Gianni,3,Omega Pharma - Quick-Step,",, ,,",8.0,4,2013
+26,,72,112.0,+55:57,7.0,Boeckmans Kris,4,Vacansoleil - DCM,",, ,,",7.0,4,2013
+23,,51,54.0,+19:34,4.0,Sagan Peter,5,Cannondale Pro Cycling Team,",, ,,",6.0,4,2013
+22,,46,69.0,+25:30,3.0,Matthews Michael,6,Orica GreenEDGE,",, ,,",5.0,4,2013
+35,,35,102.0,+40:03,2.0,Hushovd Thor,7,BMC Racing Team,",, ,,",4.0,4,2013
+33,,21,56.0,+21:54,1.0,Chavanel Sylvain,8,Omega Pharma - Quick-Step,",, ,,",2.0,4,2013
+32,,118,36.0,+12:27,,Vennell Jeremy,9,Bissell Pro Cycling,",, ,,",,4,2013
+21,,148,47.0,+16:36,,Stuyven Jasper,10,Bontrager Cycling Team,",, ,,",,4,2013
+23,,53,101.0,+38:22,,Boivin Guillaume,11,Cannondale Pro Cycling Team,",, ,,",,4,2013
+27,,108,43.0,+15:16,,Voss Paul,12,Team NetApp \u2013 Endura,",, ,,",,4,2013
+25,,104,100.0,+36:29,,Dempster Zakkari,13,Team NetApp \u2013 Endura,",, ,,",,4,2013
+29,,82,3.0,+0:27,,Deignan Philip,14,UnitedHealthcare Presented by Maxxis,",, ,,",,4,2013
+28,,66,62.0,+22:39,,M\xf8rk\xf8v Michael,15,Team Saxo - Tinkoff,",, ,,",,4,2013
+20,,65,64.0,+23:02,,McCarthy Jay,16,Team Saxo - Tinkoff,",, ,,",,4,2013
+21,,147,23.0,+5:48,,Putt Tanner,17,Bontrager Cycling Team,",, ,,",,4,2013
+24,,107,81.0,+28:33,,Schorn Daniel,18,Team NetApp \u2013 Endura,",, ,,",,4,2013
+24,,31,2.0,+0:12,,van Garderen Tejay,19,BMC Racing Team,",, ,,",,4,2013
+28,,106,53.0,+19:28,,Mendes Jos\xe9,20,Team NetApp \u2013 Endura,",, ,,",,4,2013
+29,,32,32.0,+10:54,,Bookwalter Brent,21,BMC Racing Team,",, ,,",,4,2013
+28,,3,18.0,+4:02,,Didier Laurent,22,RadioShack - Leopard,",, ,,",,4,2013
+32,,105,27.0,+7:47,,Huzarski Bartosz,23,Team NetApp \u2013 Endura,",, ,,",,4,2013
+29,,83,13.0,+2:27,,Euser Lucas,24,UnitedHealthcare Presented by Maxxis,",, ,,",,4,2013
+26,,153,12.0,+2:27,,Jenkins Max,25,5-hour Energy,",, ,,",,4,2013
+33,,61,5.0,+0:55,,Rogers Michael,26,Team Saxo - Tinkoff,",, ,,",,4,2013
+32,,68,52.0,+19:21,,Zaugg Oliver,27,Team Saxo - Tinkoff,",, ,,",,4,2013
+35,,128,92.0,+32:19,,Zwizanski Scott,28,Optum p/b Kelly Benefit Strategies,",, ,,",,4,2013
+21,,143,70.0,+25:34,,Duchesne Antoine,29,Bontrager Cycling Team,",, ,,",,4,2013
+24,,121,7.0,+1:13,,Haga Chad,30,Optum p/b Kelly Benefit Strategies,",, ,,",,4,2013
+26,,33,4.0,+0:45,,Frank Mathias,31,BMC Racing Team,",, ,,",,4,2013
+25,,77,68.0,+25:08,,van Poppel Boy,32,Vacansoleil - DCM,",, ,,",,4,2013
+37,,151,6.0,+1:03,,Mancebo Francisco,33,5-hour Energy,",, ,,",,4,2013
+33,,4,57.0,+21:56,,Irizar Markel,34,RadioShack - Leopard,",, ,,",,4,2013
+26,,71,88.0,+30:45,,De Gendt Thomas,35,Vacansoleil - DCM,",, ,,",,4,2013
+28,,2,8.0,+1:15,,Busche Matthew,36,RadioShack - Leopard,",, ,,",,4,2013
+25,,47,10.0,+1:40,,Meyer Cameron,37,Orica GreenEDGE,",, ,,",,4,2013
+30,,56,20.0,+4:17,,King Edward,38,Cannondale Pro Cycling Team,",, ,,",,4,2013
+29,,81,11.0,+1:56,,de Maar Marc,39,UnitedHealthcare Presented by Maxxis,",, ,,",,4,2013
+30,,96,48.0,+17:10,,Roth Ryan,40,Champion System Pro Cycling Team,",, ,,",,4,2013
+34,,137,46.0,+15:44,,Romero Amaran Luis,41,Jamis - Hagens Berman,",, ,,",,4,2013
+25,,101,17.0,+3:42,,K\xf6nig Leopold,42,Team NetApp \u2013 Endura,",, ,,",,4,2013
+24,,103,21.0,+4:33,,de la Cruz David,43,Team NetApp \u2013 Endura,",, ,,",,4,2013
+41,,1,42.0,+15:04,,Voigt Jens,44,RadioShack - Leopard,",, ,,",,4,2013
+39,,67,90.0,+31:40,,Tosatto Matteo,45,Team Saxo - Tinkoff,",, ,,",,4,2013
+31,,95,103.0,+40:17,,Gazvoda Gregor,46,Champion System Pro Cycling Team,",, ,,",,4,2013
+27,,131,1.0,+0:00,,Acevedo Janier Alexis,47,Jamis - Hagens Berman,",, ,,",,4,2013
+30,,55,86.0,+30:00,,Haedo Lucas Sebastian,48,Cannondale Pro Cycling Team,",, ,,",,4,2013
+34,,134,66.0,+23:17,,Jacques-Maynes Benjamin,49,Jamis - Hagens Berman,",, ,,",,4,2013
+24,,113,30.0,+10:11,,Jones Carter,50,Bissell Pro Cycling,",, ,,",,4,2013
+25,,93,19.0,+4:09,,Butler Chris,51,Champion System Pro Cycling Team,",, ,,",,4,2013
+36,,8,24.0,+6:06,,Zubeldia Haimar,52,RadioShack - Leopard,",, ,,",,4,2013
+28,,52,93.0,+32:28,,Bodnar Maciej,53,Cannondale Pro Cycling Team,",, ,,",,4,2013
+26,,57,82.0,+28:53,,Koren Kristijan,54,Cannondale Pro Cycling Team,",, ,,",,4,2013
+21,,145,38.0,+12:44,,Mannion Gavin,55,Bontrager Cycling Team,",, ,,",,4,2013
+31,,36,40.0,+12:56,,Moinard Ama\xebl,56,BMC Racing Team,",, ,,",,4,2013
+37,,37,72.0,+25:54,,Pinotti Marco,57,BMC Racing Team,",, ,,",,4,2013
+31,,58,22.0,+5:07,,Vandborg Brian,58,Cannondale Pro Cycling Team,",, ,,",,4,2013
+27,,7,29.0,+9:21,,Schleck Andy,59,RadioShack - Leopard,",, ,,",,4,2013
+29,,152,14.0,+2:36,,English Nathaniel,60,5-hour Energy,",, ,,",,4,2013
+20,,5,63.0,+22:55,,Jungels Bob,61,RadioShack - Leopard,",, ,,",,4,2013
+30,,78,28.0,+9:19,,Westra Lieuwe,62,Vacansoleil - DCM,",, ,,",,4,2013
+24,,94,77.0,+27:39,,Feng Chun Kai,63,Champion System Pro Cycling Team,",, ,,",,4,2013
+26,,41,58.0,+21:58,,Sulzberger Wesley,64,Orica GreenEDGE,",, ,,",,4,2013
+21,,142,9.0,+1:32,,Craddock Lawson,65,Bontrager Cycling Team,",, ,,",,4,2013
+38,,123,34.0,+11:36,,Candelario Alex,66,Optum p/b Kelly Benefit Strategies,",, ,,",,4,2013
+34,,11,31.0,+10:14,,Zabriskie David,67,Garmin Sharp,",, ,,",,4,2013
+31,,116,49.0,+17:25,,Mccarty Jonathan Patrick,68,Bissell Pro Cycling,",, ,,",,4,2013
+26,,38,33.0,+11:23,,Schar Michael,69,BMC Racing Team,",, ,,",,4,2013
+26,,114,26.0,+7:13,,Torckler Michael,70,Bissell Pro Cycling,",, ,,",,4,2013
+26,,13,61.0,+22:36,,Fairly Caleb,71,Garmin Sharp,",, ,,",,4,2013
+37,,111,15.0,+3:15,,Baldwin Christopher,72,Bissell Pro Cycling,",, ,,",,4,2013
+39,,115,104.0,+40:32,,McCartney Jason,73,Bissell Pro Cycling,",, ,,",,4,2013
+21,,16,16.0,+3:19,,Morton Lachlan,74,Garmin Sharp,",, ,,",,4,2013
+30,,22,74.0,+26:23,,De Weert Kevin,75,Omega Pharma - Quick-Step,",, ,,",,4,2013
+20,,28,60.0,+22:25,,Verona Carlos,76,Omega Pharma - Quick-Step,",, ,,",,4,2013
+29,,126,89.0,+31:23,,Soladay Thomas,77,Optum p/b Kelly Benefit Strategies,0:15 0:15,,4,2013
+23,,75,96.0,+33:14,,Lindeman Bert-Jan,78,Vacansoleil - DCM,0:17 0:17,,4,2013
+35,,73,39.0,+12:50,,Flecha Juan Antonio,79,Vacansoleil - DCM,",, 0:17",,4,2013
+34,,43,50.0,+19:00,,Cooke Baden,80,Orica GreenEDGE,0:23 0:23,,4,2013
+23,,48,97.0,+33:33,,Meyer Travis,81,Orica GreenEDGE,0:27 0:27,,4,2013
+27,,64,79.0,+28:10,,Jorgensen Jonas Aaen,82,Team Saxo - Tinkoff,0:51 0:51,,4,2013
+27,,92,80.0,+28:21,,Brammeier Matthew,83,Champion System Pro Cycling Team,0:54 0:54,,4,2013
+26,,44,41.0,+13:17,,Docker Mitchell,84,Orica GreenEDGE,1:11 1:11,,4,2013
+22,,12,73.0,+25:55,,Dennis Rohan,85,Garmin Sharp,1:28 1:28,,4,2013
+25,,15,67.0,+24:37,,Howes Alex,86,Garmin Sharp,1:31 1:31,,4,2013
+22,,17,37.0,+12:28,,Rathe Jacob,87,Garmin Sharp,",, 1:31",,4,2013
+26,,91,25.0,+6:32,,Beyer Chad,88,Champion System Pro Cycling Team,",, 1:31",,4,2013
+27,,156,35.0,+12:23,,Stemper James,89,5-hour Energy,",, 1:31",,4,2013
+33,,85,91.0,+32:08,,Jones Chris,90,UnitedHealthcare Presented by Maxxis,2:08 2:08,,4,2013
+25,,86,107.0,+41:55,,Keough Jake,91,UnitedHealthcare Presented by Maxxis,",, 2:08",,4,2013
+27,,122,65.0,+23:11,,Anthony Jesse,92,Optum p/b Kelly Benefit Strategies,",, 2:08",,4,2013
+28,,88,108.0,+41:55,,Murphy John,93,UnitedHealthcare Presented by Maxxis,",, 2:08",,4,2013
+28,,98,87.0,+30:42,,San Wu Kin,94,Champion System Pro Cycling Team,",, 2:08",,4,2013
+32,,138,75.0,+27:01,,Wren Tyler,95,Jamis - Hagens Berman,",, 2:08",,4,2013
+30,,63,55.0,+21:29,,Duggan Timothy,96,Team Saxo - Tinkoff,",, 2:08",,4,2013
+28,,84,110.0,+44:31,,Ile\u0161i\u010d Aldo Ino,97,UnitedHealthcare Presented by Maxxis,",, 2:08",,4,2013
+20,,144,84.0,+28:56,,Eastman Ryan,98,Bontrager Cycling Team,",, 2:08",,4,2013
+19,,146,105.0,+40:36,,Oram James,99,Bontrager Cycling Team,",, 2:08",,4,2013
+25,,157,95.0,+32:49,,Sweeting Robert,100,5-hour Energy,",, 2:08",,4,2013
+22,,74,113.0,+59:34,,Kreder Wesley,101,Vacansoleil - DCM,",, 2:08",,4,2013
+22,,26,78.0,+27:59,,van Keirsbulck Guillaume,102,Omega Pharma - Quick-Step,",, 2:08",,4,2013
+25,,102,83.0,+28:56,,Benedetti Cesare,103,Team NetApp \u2013 Endura,",, 2:08",,4,2013
+21,,141,51.0,+19:10,,Brown Nathan,104,Bontrager Cycling Team,3:31 3:31,,4,2013
+35,,117,85.0,+29:03,,Pipp Frank Kevin,105,Bissell Pro Cycling,6:00 6:00,,4,2013
+24,,135,111.0,+47:27,,Miller Carson,106,Jamis - Hagens Berman,",, 6:00",,4,2013
+31,,154,76.0,+27:35,,Milne Shawn,107,5-hour Energy,",, 6:00",,4,2013
+32,,18,109.0,+42:43,,Vansummeren Johan,108,Garmin Sharp,",, 6:00",,4,2013
+27,,124,99.0,+35:04,,Cooper Marsh,109,Optum p/b Kelly Benefit Strategies,6:44 6:44,,4,2013
+26,,132,106.0,+41:05,,Driscoll James,110,Jamis - Hagens Berman,",, 6:44",,4,2013
+24,,158,94.0,+32:30,,Williams David,111,5-hour Energy,",, 6:44",,4,2013
+35,,87,44.0,+15:20,,Louder Jeff,112,UnitedHealthcare Presented by Maxxis,",, 6:44",,4,2013
+31,,62,98.0,+33:34,,Cantwell Jonathan,113,Team Saxo - Tinkoff,",, 6:44",,4,2013
+31,,97,114.0,+59:58,,Traksel Bobbie,114,Champion System Pro Cycling Team,8:51 8:51,,4,2013
+30,,34,,+ - 17:13:59,,Gilbert Philippe,DNS,BMC Racing Team,-3:14:09 -3:14:09,,4,2013
+41,,1,33.0,+14:37,30.0,Voigt Jens,1,RadioShack - Leopard,4:41:16 4:41:16,20.0,5,2013
+28,,14,49.0,+22:08,18.0,Farrar Tyler,2,Garmin Sharp,0:06 0:06,14.0,5,2013
+35,,35,90.0,+39:45,12.0,Hushovd Thor,3,BMC Racing Team,",, 0:06",8.0,5,2013
+23,,51,43.0,+19:23,7.0,Sagan Peter,4,Cannondale Pro Cycling Team,",, 0:06",7.0,5,2013
+22,,46,61.0,+25:19,4.0,Matthews Michael,5,Orica GreenEDGE,",, 0:06",6.0,5,2013
+20,,65,54.0,+22:51,3.0,McCarthy Jay,6,Team Saxo - Tinkoff,",, 0:06",5.0,5,2013
+38,,123,26.0,+11:25,2.0,Candelario Alex,7,Optum p/b Kelly Benefit Strategies,",, 0:06",4.0,5,2013
+33,,61,2.0,+0:42,1.0,Rogers Michael,8,Team Saxo - Tinkoff,",, 0:06",2.0,5,2013
+33,,4,48.0,+21:45,,Irizar Markel,9,RadioShack - Leopard,",, 0:06",,5,2013
+24,,31,1.0,+0:00,,van Garderen Tejay,10,BMC Racing Team,",, 0:06",,5,2013
+25,,47,6.0,+1:29,,Meyer Cameron,11,Orica GreenEDGE,",, 0:06",,5,2013
+26,,71,78.0,+30:30,,De Gendt Thomas,12,Vacansoleil - DCM,",, 0:06",,5,2013
+27,,64,70.0,+27:59,,Jorgensen Jonas Aaen,13,Team Saxo - Tinkoff,",, 0:06",,5,2013
+28,,2,4.0,+1:04,,Busche Matthew,14,RadioShack - Leopard,",, 0:06",,5,2013
+26,,38,25.0,+11:20,,Schar Michael,15,BMC Racing Team,0:14 0:14,,5,2013
+34,,43,42.0,+18:57,,Cooke Baden,16,Orica GreenEDGE,",, 0:14",,5,2013
+25,,86,96.0,+42:42,,Keough Jake,17,UnitedHealthcare Presented by Maxxis,1:04 1:04,,5,2013
+27,,92,73.0,+29:08,,Brammeier Matthew,18,Champion System Pro Cycling Team,",, 1:04",,5,2013
+37,,151,8.0,+1:53,,Mancebo Francisco,19,5-hour Energy,1:07 1:07,,5,2013
+26,,72,108.0,+56:47,,Boeckmans Kris,20,Vacansoleil - DCM,",, 1:07",,5,2013
+24,,121,9.0,+2:03,,Haga Chad,21,Optum p/b Kelly Benefit Strategies,",, 1:07",,5,2013
+26,,33,7.0,+1:35,,Frank Mathias,22,BMC Racing Team,",, 1:07",,5,2013
+21,,148,38.0,+17:26,,Stuyven Jasper,23,Bontrager Cycling Team,",, 1:07",,5,2013
+33,,21,52.0,+22:44,,Chavanel Sylvain,24,Omega Pharma - Quick-Step,",, 1:07",,5,2013
+28,,3,15.0,+4:52,,Didier Laurent,25,RadioShack - Leopard,",, 1:07",,5,2013
+29,,82,5.0,+1:17,,Deignan Philip,26,UnitedHealthcare Presented by Maxxis,",, 1:07",,5,2013
+31,,58,18.0,+5:57,,Vandborg Brian,27,Cannondale Pro Cycling Team,",, 1:07",,5,2013
+30,,78,23.0,+10:09,,Westra Lieuwe,28,Vacansoleil - DCM,",, 1:07",,5,2013
+27,,131,3.0,+0:50,,Acevedo Janier Alexis,29,Jamis - Hagens Berman,",, 1:07",,5,2013
+26,,91,21.0,+7:22,,Beyer Chad,30,Champion System Pro Cycling Team,",, 1:07",,5,2013
+31,,125,65.0,+26:30,,Hanson Ken,31,Optum p/b Kelly Benefit Strategies,",, 1:07",,5,2013
+32,,68,45.0,+20:11,,Zaugg Oliver,32,Team Saxo - Tinkoff,",, 1:07",,5,2013
+30,,55,79.0,+30:50,,Haedo Lucas Sebastian,33,Cannondale Pro Cycling Team,",, 1:07",,5,2013
+29,,152,13.0,+3:26,,English Nathaniel,34,5-hour Energy,",, 1:07",,5,2013
+34,,137,37.0,+16:34,,Romero Amaran Luis,35,Jamis - Hagens Berman,",, 1:07",,5,2013
+23,,53,89.0,+39:12,,Boivin Guillaume,36,Cannondale Pro Cycling Team,",, 1:07",,5,2013
+27,,108,35.0,+16:06,,Voss Paul,37,Team NetApp \u2013 Endura,",, 1:07",,5,2013
+21,,143,64.0,+26:24,,Duchesne Antoine,38,Bontrager Cycling Team,",, 1:07",,5,2013
+24,,103,17.0,+5:23,,de la Cruz David,39,Team NetApp \u2013 Endura,",, 1:07",,5,2013
+21,,142,10.0,+2:22,,Craddock Lawson,40,Bontrager Cycling Team,",, 1:07",,5,2013
+30,,56,16.0,+5:07,,King Edward,41,Cannondale Pro Cycling Team,",, 1:07",,5,2013
+28,,88,97.0,+42:45,,Murphy John,42,UnitedHealthcare Presented by Maxxis,",, 1:07",,5,2013
+22,,74,110.0,+1:00:24,,Kreder Wesley,43,Vacansoleil - DCM,",, 1:07",,5,2013
+29,,81,11.0,+2:46,,de Maar Marc,44,UnitedHealthcare Presented by Maxxis,",, 1:07",,5,2013
+20,,5,57.0,+23:45,,Jungels Bob,45,RadioShack - Leopard,",, 1:07",,5,2013
+31,,97,111.0,+1:00:48,,Traksel Bobbie,46,Champion System Pro Cycling Team,",, 1:07",,5,2013
+25,,101,14.0,+4:32,,K\xf6nig Leopold,47,Team NetApp \u2013 Endura,",, 1:07",,5,2013
+25,,77,63.0,+25:58,,van Poppel Boy,48,Vacansoleil - DCM,",, 1:07",,5,2013
+37,,37,66.0,+26:44,,Pinotti Marco,49,BMC Racing Team,",, 1:07",,5,2013
+36,,8,20.0,+6:56,,Zubeldia Haimar,50,RadioShack - Leopard,",, 1:07",,5,2013
+27,,7,24.0,+10:11,,Schleck Andy,51,RadioShack - Leopard,",, 1:07",,5,2013
+31,,36,32.0,+13:46,,Moinard Ama\xebl,52,BMC Racing Team,",, 1:07",,5,2013
+27,,24,36.0,+16:14,,Meersman Gianni,53,Omega Pharma - Quick-Step,",, 1:07",,5,2013
+22,,17,29.0,+13:18,,Rathe Jacob,54,Garmin Sharp,",, 1:07",,5,2013
+39,,67,81.0,+32:30,,Tosatto Matteo,55,Team Saxo - Tinkoff,",, 1:07",,5,2013
+28,,66,56.0,+23:29,,M\xf8rk\xf8v Michael,56,Team Saxo - Tinkoff,",, 1:07",,5,2013
+25,,15,62.0,+25:27,,Howes Alex,57,Garmin Sharp,",, 1:07",,5,2013
+26,,13,55.0,+23:26,,Fairly Caleb,58,Garmin Sharp,",, 1:07",,5,2013
+29,,83,12.0,+3:17,,Euser Lucas,59,UnitedHealthcare Presented by Maxxis,",, 1:07",,5,2013
+35,,73,31.0,+13:40,,Flecha Juan Antonio,60,Vacansoleil - DCM,",, 1:07",,5,2013
+20,,144,76.0,+29:46,,Eastman Ryan,61,Bontrager Cycling Team,",, 1:07",,5,2013
+29,,32,27.0,+11:44,,Bookwalter Brent,62,BMC Racing Team,",, 1:07",,5,2013
+30,,22,68.0,+27:13,,De Weert Kevin,63,Omega Pharma - Quick-Step,",, 1:07",,5,2013
+26,,41,53.0,+22:48,,Sulzberger Wesley,64,Orica GreenEDGE,",, 1:07",,5,2013
+26,,57,75.0,+29:43,,Koren Kristijan,65,Cannondale Pro Cycling Team,",, 1:07",,5,2013
+22,,12,67.0,+26:45,,Dennis Rohan,66,Garmin Sharp,",, 1:07",,5,2013
+23,,75,86.0,+34:04,,Lindeman Bert-Jan,67,Vacansoleil - DCM,",, 1:07",,5,2013
+21,,147,19.0,+6:38,,Putt Tanner,68,Bontrager Cycling Team,",, 1:07",,5,2013
+24,,158,83.0,+33:20,,Williams David,69,5-hour Energy,",, 1:07",,5,2013
+28,,52,82.0,+33:18,,Bodnar Maciej,70,Cannondale Pro Cycling Team,",, 1:07",,5,2013
+28,,106,46.0,+20:18,,Mendes Jos\xe9,71,Team NetApp \u2013 Endura,",, 1:07",,5,2013
+32,,105,22.0,+8:37,,Huzarski Bartosz,72,Team NetApp \u2013 Endura,",, 1:07",,5,2013
+22,,26,71.0,+28:49,,van Keirsbulck Guillaume,73,Omega Pharma - Quick-Step,",, 1:07",,5,2013
+21,,145,30.0,+13:34,,Mannion Gavin,74,Bontrager Cycling Team,",, 1:07",,5,2013
+25,,157,84.0,+33:39,,Sweeting Robert,75,5-hour Energy,",, 1:07",,5,2013
+32,,118,28.0,+13:17,,Vennell Jeremy,76,Bissell Pro Cycling,",, 1:07",,5,2013
+30,,96,40.0,+18:00,,Roth Ryan,77,Champion System Pro Cycling Team,",, 1:07",,5,2013
+21,,141,44.0,+20:00,,Brown Nathan,78,Bontrager Cycling Team,",, 1:07",,5,2013
+24,,107,74.0,+29:23,,Schorn Daniel,79,Team NetApp \u2013 Endura,",, 1:07",,5,2013
+24,,94,72.0,+29:06,,Feng Chun Kai,80,Champion System Pro Cycling Team,1:48 1:48,,5,2013
+26,,44,34.0,+14:56,,Docker Mitchell,81,Orica GreenEDGE,1:56 1:56,,5,2013
+23,,48,87.0,+35:12,,Meyer Travis,82,Orica GreenEDGE,",, 1:56",,5,2013
+25,,104,88.0,+38:08,,Dempster Zakkari,83,Team NetApp \u2013 Endura,",, 1:56",,5,2013
+34,,134,59.0,+25:06,,Jacques-Maynes Benjamin,84,Jamis - Hagens Berman,2:06 2:06,,5,2013
+33,,85,85.0,+33:59,,Jones Chris,85,UnitedHealthcare Presented by Maxxis,2:08 2:08,,5,2013
+28,,84,102.0,+46:56,,Ile\u0161i\u010d Aldo Ino,86,UnitedHealthcare Presented by Maxxis,2:42 2:42,,5,2013
+31,,154,95.0,+42:34,,Milne Shawn,87,5-hour Energy,15:16 15:16,,5,2013
+35,,117,99.0,+44:02,,Pipp Frank Kevin,88,Bissell Pro Cycling,",, 15:16",,5,2013
+27,,156,69.0,+27:22,,Stemper James,89,5-hour Energy,",, 15:16",,5,2013
+29,,126,101.0,+46:22,,Soladay Thomas,90,Optum p/b Kelly Benefit Strategies,",, 15:16",,5,2013
+26,,153,39.0,+17:26,,Jenkins Max,91,5-hour Energy,",, 15:16",,5,2013
+24,,113,58.0,+25:06,,Jones Carter,92,Bissell Pro Cycling,",, 15:16",,5,2013
+19,,146,106.0,+55:35,,Oram James,93,Bontrager Cycling Team,",, 15:16",,5,2013
+32,,138,94.0,+42:00,,Wren Tyler,94,Jamis - Hagens Berman,",, 15:16",,5,2013
+26,,114,50.0,+22:12,,Torckler Michael,95,Bissell Pro Cycling,",, 15:16",,5,2013
+31,,116,80.0,+32:24,,Mccarty Jonathan Patrick,96,Bissell Pro Cycling,",, 15:16",,5,2013
+35,,128,103.0,+47:18,,Zwizanski Scott,97,Optum p/b Kelly Benefit Strategies,",, 15:16",,5,2013
+27,,124,104.0,+50:03,,Cooper Marsh,98,Optum p/b Kelly Benefit Strategies,",, 15:16",,5,2013
+31,,95,105.0,+55:16,,Gazvoda Gregor,99,Champion System Pro Cycling Team,",, 15:16",,5,2013
+25,,102,98.0,+43:55,,Benedetti Cesare,100,Team NetApp \u2013 Endura,",, 15:16",,5,2013
+26,,132,107.0,+56:04,,Driscoll James,101,Jamis - Hagens Berman,",, 15:16",,5,2013
+34,,11,60.0,+25:13,,Zabriskie David,102,Garmin Sharp,",, 15:16",,5,2013
+35,,87,77.0,+30:19,,Louder Jeff,103,UnitedHealthcare Presented by Maxxis,",, 15:16",,5,2013
+28,,98,100.0,+45:41,,San Wu Kin,104,Champion System Pro Cycling Team,",, 15:16",,5,2013
+37,,111,41.0,+18:14,,Baldwin Christopher,105,Bissell Pro Cycling,",, 15:16",,5,2013
+25,,93,51.0,+22:25,,Butler Chris,106,Champion System Pro Cycling Team,18:33 18:33,,5,2013
+39,,115,109.0,+58:48,,McCartney Jason,107,Bissell Pro Cycling,",, 18:33",,5,2013
+24,,135,113.0,+1:05:43,,Miller Carson,108,Jamis - Hagens Berman,",, 18:33",,5,2013
+20,,28,92.0,+40:41,,Verona Carlos,109,Omega Pharma - Quick-Step,",, 18:33",,5,2013
+27,,122,93.0,+41:27,,Anthony Jesse,110,Optum p/b Kelly Benefit Strategies,",, 18:33",,5,2013
+32,,18,112.0,+1:00:59,,Vansummeren Johan,111,Garmin Sharp,",, 18:33",,5,2013
+30,,63,91.0,+39:49,,Duggan Timothy,112,Team Saxo - Tinkoff,18:37 18:37,,5,2013
+21,,16,47.0,+21:39,,Morton Lachlan,113,Garmin Sharp,",, 18:37",,5,2013
+31,,62,,+ - 21:55:32,,Cantwell Jonathan,DNF,Team Saxo - Tinkoff,-4:41:16 -4:41:16,,5,2013
+24,38.799,31,1.0,+0:00,30.0,van Garderen Tejay,1,BMC Racing Team,48:52 48:52,20.0,6,2013
+30,38.497,78,18.0,+10:32,18.0,Westra Lieuwe,2,Vacansoleil - DCM,0:23 0:23,14.0,6,2013
+22,38.431999999999995,12,51.0,+27:13,12.0,Dennis Rohan,3,Garmin Sharp,0:28 0:28,8.0,6,2013
+33,37.958,61,2.0,+1:47,7.0,Rogers Michael,4,Team Saxo - Tinkoff,1:05 1:05,7.0,6,2013
+37,37.92,37,52.0,+27:52,4.0,Pinotti Marco,5,BMC Racing Team,1:08 1:08,6.0,6,2013
+25,37.669000000000004,47,3.0,+2:57,3.0,Meyer Cameron,6,Orica GreenEDGE,1:28 1:28,5.0,6,2013
+20,37.656,5,44.0,+25:14,2.0,Jungels Bob,7,RadioShack - Leopard,1:29 1:29,4.0,6,2013
+25,37.483000000000004,101,12.0,+6:15,1.0,K\xf6nig Leopold,8,Team NetApp \u2013 Endura,1:43 1:43,2.0,6,2013
+26,37.446,33,4.0,+3:21,,Frank Mathias,9,BMC Racing Team,1:46 1:46,,6,2013
+33,37.421,21,42.0,+24:32,,Chavanel Sylvain,10,Omega Pharma - Quick-Step,1:48 1:48,,6,2013
+26,37.201,57,65.0,+31:49,,Koren Kristijan,11,Cannondale Pro Cycling Team,2:06 2:06,,6,2013
+24,37.164,103,14.0,+7:32,,de la Cruz David,12,Team NetApp \u2013 Endura,2:09 2:09,,6,2013
+26,37.067,71,68.0,+32:47,,De Gendt Thomas,13,Vacansoleil - DCM,2:17 2:17,,6,2013
+35,36.995,73,27.0,+16:03,,Flecha Juan Antonio,14,Vacansoleil - DCM,2:23 2:23,,6,2013
+28,36.923,2,6.0,+3:33,,Busche Matthew,15,RadioShack - Leopard,2:29 2:29,,6,2013
+37,36.875,151,7.0,+4:26,,Mancebo Francisco,16,5-hour Energy,2:33 2:33,,6,2013
+23,36.804,48,77.0,+37:51,,Meyer Travis,17,Orica GreenEDGE,2:39 2:39,,6,2013
+27,36.78,131,5.0,+3:31,,Acevedo Janier Alexis,18,Jamis - Hagens Berman,2:41 2:41,,6,2013
+21,36.768,142,10.0,+5:04,,Craddock Lawson,19,Bontrager Cycling Team,2:42 2:42,,6,2013
+24,36.567,121,9.0,+5:02,,Haga Chad,20,Optum p/b Kelly Benefit Strategies,2:59 2:59,,6,2013
+35,36.461999999999996,128,96.0,+50:26,,Zwizanski Scott,21,Optum p/b Kelly Benefit Strategies,3:08 3:08,,6,2013
+29,36.438,81,11.0,+5:56,,de Maar Marc,22,UnitedHealthcare Presented by Maxxis,3:10 3:10,,6,2013
+29,36.195,152,13.0,+6:57,,English Nathaniel,23,5-hour Energy,3:31 3:31,,6,2013
+29,36.149,82,8.0,+4:52,,Deignan Philip,24,UnitedHealthcare Presented by Maxxis,3:35 3:35,,6,2013
+25,36.08,157,76.0,+37:20,,Sweeting Robert,25,5-hour Energy,3:41 3:41,,6,2013
+21,36.08,141,39.0,+23:41,,Brown Nathan,26,Bontrager Cycling Team,",, 3:41",,6,2013
+32,36.068000000000005,105,22.0,+12:19,,Huzarski Bartosz,27,Team NetApp \u2013 Endura,3:42 3:42,,6,2013
+22,36.046,46,56.0,+29:03,,Matthews Michael,28,Orica GreenEDGE,3:44 3:44,,6,2013
+32,36.010999999999996,118,28.0,+17:04,,Vennell Jeremy,29,Bissell Pro Cycling,3:47 3:47,,6,2013
+27,35.943000000000005,7,23.0,+14:04,,Schleck Andy,30,RadioShack - Leopard,3:53 3:53,,6,2013
+22,35.92,26,67.0,+32:44,,van Keirsbulck Guillaume,31,Omega Pharma - Quick-Step,3:55 3:55,,6,2013
+36,35.885999999999996,8,19.0,+10:54,,Zubeldia Haimar,32,RadioShack - Leopard,3:58 3:58,,6,2013
+19,35.875,146,103.0,+59:34,,Oram James,33,Bontrager Cycling Team,3:59 3:59,,6,2013
+33,35.864000000000004,4,47.0,+25:45,,Irizar Markel,34,RadioShack - Leopard,4:00 4:00,,6,2013
+31,35.74,58,17.0,+10:08,,Vandborg Brian,35,Cannondale Pro Cycling Team,4:11 4:11,,6,2013
+23,35.705999999999996,51,37.0,+23:37,,Sagan Peter,36,Cannondale Pro Cycling Team,4:14 4:14,,6,2013
+26,35.684,38,25.0,+15:36,,Schar Michael,37,BMC Racing Team,4:16 4:16,,6,2013
+29,35.673,32,26.0,+16:01,,Bookwalter Brent,38,BMC Racing Team,4:17 4:17,,6,2013
+39,35.65,115,105.0,+1:03:07,,McCartney Jason,39,Bissell Pro Cycling,4:19 4:19,,6,2013
+26,35.65,114,49.0,+26:31,,Torckler Michael,40,Bissell Pro Cycling,",, 4:19",,6,2013
+28,35.65,3,16.0,+9:11,,Didier Laurent,41,RadioShack - Leopard,",, 4:19",,6,2013
+20,35.594,28,86.0,+45:05,,Verona Carlos,42,Omega Pharma - Quick-Step,4:24 4:24,,6,2013
+39,35.528,67,73.0,+37:00,,Tosatto Matteo,43,Team Saxo - Tinkoff,4:30 4:30,,6,2013
+31,35.516999999999996,36,30.0,+18:17,,Moinard Ama\xebl,44,BMC Racing Team,4:31 4:31,,6,2013
+28,35.395,66,54.0,+28:11,,M\xf8rk\xf8v Michael,45,Team Saxo - Tinkoff,4:42 4:42,,6,2013
+28,35.34,106,43.0,+25:05,,Mendes Jos\xe9,46,Team NetApp \u2013 Endura,4:47 4:47,,6,2013
+27,35.34,24,33.0,+21:01,,Meersman Gianni,47,Omega Pharma - Quick-Step,",, 4:47",,6,2013
+30,35.318000000000005,22,66.0,+32:02,,De Weert Kevin,48,Omega Pharma - Quick-Step,4:49 4:49,,6,2013
+22,35.285,17,29.0,+18:10,,Rathe Jacob,49,Garmin Sharp,4:52 4:52,,6,2013
+29,35.231,83,15.0,+8:14,,Euser Lucas,50,UnitedHealthcare Presented by Maxxis,4:57 4:57,,6,2013
+31,35.133,95,104.0,+1:00:22,,Gazvoda Gregor,51,Champion System Pro Cycling Team,5:06 5:06,,6,2013
+26,35.122,41,53.0,+27:55,,Sulzberger Wesley,52,Orica GreenEDGE,5:07 5:07,,6,2013
+21,35.035,143,64.0,+31:39,,Duchesne Antoine,53,Bontrager Cycling Team,5:15 5:15,,6,2013
+24,34.992,113,61.0,+30:25,,Jones Carter,54,Bissell Pro Cycling,5:19 5:19,,6,2013
+34,34.928000000000004,137,35.0,+21:59,,Romero Amaran Luis,55,Jamis - Hagens Berman,5:25 5:25,,6,2013
+27,34.917,122,90.0,+46:53,,Anthony Jesse,56,Optum p/b Kelly Benefit Strategies,5:26 5:26,,6,2013
+25,34.864000000000004,77,63.0,+31:29,,van Poppel Boy,57,Vacansoleil - DCM,5:31 5:31,,6,2013
+32,34.864000000000004,18,108.0,+1:06:30,,Vansummeren Johan,58,Garmin Sharp,",, 5:31",,6,2013
+21,34.789,147,21.0,+12:16,,Putt Tanner,59,Bontrager Cycling Team,5:38 5:38,,6,2013
+30,34.789,96,38.0,+23:38,,Roth Ryan,60,Champion System Pro Cycling Team,",, 5:38",,6,2013
+34,34.768,134,62.0,+30:46,,Jacques-Maynes Benjamin,61,Jamis - Hagens Berman,5:40 5:40,,6,2013
+32,34.757,68,48.0,+25:52,,Zaugg Oliver,62,Team Saxo - Tinkoff,5:41 5:41,,6,2013
+27,34.736,156,69.0,+33:05,,Stemper James,63,5-hour Energy,5:43 5:43,,6,2013
+33,34.650999999999996,85,82.0,+39:50,,Jones Chris,64,UnitedHealthcare Presented by Maxxis,5:51 5:51,,6,2013
+21,34.546,145,32.0,+19:35,,Mannion Gavin,65,Bontrager Cycling Team,6:01 6:01,,6,2013
+26,34.515,13,58.0,+29:30,,Fairly Caleb,66,Garmin Sharp,6:04 6:04,,6,2013
+28,34.473,88,92.0,+48:53,,Murphy John,67,UnitedHealthcare Presented by Maxxis,6:08 6:08,,6,2013
+32,34.379,138,91.0,+48:17,,Wren Tyler,68,Jamis - Hagens Berman,6:17 6:17,,6,2013
+27,34.358000000000004,108,36.0,+22:25,,Voss Paul,69,Team NetApp \u2013 Endura,6:19 6:19,,6,2013
+31,34.336999999999996,154,93.0,+48:55,,Milne Shawn,70,5-hour Energy,6:21 6:21,,6,2013
+27,34.203,124,102.0,+56:37,,Cooper Marsh,71,Optum p/b Kelly Benefit Strategies,6:34 6:34,,6,2013
+30,34.193000000000005,56,20.0,+11:42,,King Edward,72,Cannondale Pro Cycling Team,6:35 6:35,,6,2013
+22,34.172,74,109.0,+1:07:01,,Kreder Wesley,73,Vacansoleil - DCM,6:37 6:37,,6,2013
+20,34.172,65,57.0,+29:28,,McCarthy Jay,74,Team Saxo - Tinkoff,",, 6:37",,6,2013
+21,34.05,16,55.0,+28:28,,Morton Lachlan,75,Garmin Sharp,6:49 6:49,,6,2013
+35,34.019,35,89.0,+46:37,,Hushovd Thor,76,BMC Racing Team,6:52 6:52,,6,2013
+21,34.009,148,40.0,+24:19,,Stuyven Jasper,77,Bontrager Cycling Team,6:53 6:53,,6,2013
+26,33.978,91,24.0,+14:18,,Beyer Chad,78,Champion System Pro Cycling Team,6:56 6:56,,6,2013
+26,33.897,132,106.0,+1:03:08,,Driscoll James,79,Jamis - Hagens Berman,7:04 7:04,,6,2013
+41,33.876999999999995,1,34.0,+21:43,,Voigt Jens,80,RadioShack - Leopard,7:06 7:06,,6,2013
+27,33.867,92,72.0,+36:15,,Brammeier Matthew,81,Champion System Pro Cycling Team,7:07 7:07,,6,2013
+25,33.847,86,95.0,+49:51,,Keough Jake,82,UnitedHealthcare Presented by Maxxis,7:09 7:09,,6,2013
+31,33.817,116,81.0,+39:36,,Mccarty Jonathan Patrick,83,Bissell Pro Cycling,7:12 7:12,,6,2013
+28,33.736999999999995,84,98.0,+54:16,,Ile\u0161i\u010d Aldo Ino,84,UnitedHealthcare Presented by Maxxis,7:20 7:20,,6,2013
+23,33.736999999999995,53,88.0,+46:32,,Boivin Guillaume,85,Cannondale Pro Cycling Team,",, 7:20",,6,2013
+37,33.707,111,46.0,+25:37,,Baldwin Christopher,86,Bissell Pro Cycling,7:23 7:23,,6,2013
+38,33.687,123,31.0,+18:50,,Candelario Alex,87,Optum p/b Kelly Benefit Strategies,7:25 7:25,,6,2013
+28,33.567,14,59.0,+29:45,,Farrar Tyler,88,Garmin Sharp,7:37 7:37,,6,2013
+25,33.548,104,87.0,+45:47,,Dempster Zakkari,89,Team NetApp \u2013 Endura,7:39 7:39,,6,2013
+25,33.538000000000004,93,60.0,+30:05,,Butler Chris,90,Champion System Pro Cycling Team,7:40 7:40,,6,2013
+26,33.498000000000005,72,107.0,+1:04:31,,Boeckmans Kris,91,Vacansoleil - DCM,7:44 7:44,,6,2013
+35,33.488,117,97.0,+51:47,,Pipp Frank Kevin,92,Bissell Pro Cycling,7:45 7:45,,6,2013
+24,33.488,107,75.0,+37:08,,Schorn Daniel,93,Team NetApp \u2013 Endura,",, 7:45",,6,2013
+28,33.361,52,83.0,+41:16,,Bodnar Maciej,94,Cannondale Pro Cycling Team,7:58 7:58,,6,2013
+26,33.341,153,45.0,+25:26,,Jenkins Max,95,5-hour Energy,8:00 8:00,,6,2013
+25,33.321999999999996,15,70.0,+33:29,,Howes Alex,96,Garmin Sharp,8:02 8:02,,6,2013
+30,33.283,55,78.0,+38:56,,Haedo Lucas Sebastian,97,Cannondale Pro Cycling Team,8:06 8:06,,6,2013
+34,33.215,43,50.0,+27:10,,Cooke Baden,98,Orica GreenEDGE,8:13 8:13,,6,2013
+31,33.147,97,110.0,+1:09:08,,Traksel Bobbie,99,Champion System Pro Cycling Team,8:20 8:20,,6,2013
+31,32.993,125,71.0,+35:06,,Hanson Ken,100,Optum p/b Kelly Benefit Strategies,8:36 8:36,,6,2013
+23,32.955,75,85.0,+42:50,,Lindeman Bert-Jan,101,Vacansoleil - DCM,8:40 8:40,,6,2013
+28,32.926,98,99.0,+54:24,,San Wu Kin,102,Champion System Pro Cycling Team,8:43 8:43,,6,2013
+35,32.917,87,79.0,+39:03,,Louder Jeff,103,UnitedHealthcare Presented by Maxxis,8:44 8:44,,6,2013
+24,32.888000000000005,158,84.0,+42:07,,Williams David,104,5-hour Energy,8:47 8:47,,6,2013
+24,32.86,135,111.0,+1:14:33,,Miller Carson,105,Jamis - Hagens Berman,8:50 8:50,,6,2013
+27,32.699,64,74.0,+37:06,,Jorgensen Jonas Aaen,106,Team Saxo - Tinkoff,9:07 9:07,,6,2013
+29,32.577,126,101.0,+55:42,,Soladay Thomas,107,Optum p/b Kelly Benefit Strategies,9:20 9:20,,6,2013
+26,32.503,44,41.0,+24:24,,Docker Mitchell,108,Orica GreenEDGE,9:28 9:28,,6,2013
+20,32.419000000000004,144,80.0,+39:23,,Eastman Ryan,109,Bontrager Cycling Team,9:37 9:37,,6,2013
+30,32.245,63,94.0,+49:45,,Duggan Timothy,110,Team Saxo - Tinkoff,9:56 9:56,,6,2013
+25,31.408,102,100.0,+55:25,,Benedetti Cesare,111,Team NetApp \u2013 Endura,11:30 11:30,,6,2013
+34,,11,,+ - 22:44:24,,Zabriskie David,DNS,Garmin Sharp,-48:52 -48:52,,6,2013
+24,,94,,+ - 22:44:24,,Feng Chun Kai,HD,Champion System Pro Cycling Team,",, -48:52",,6,2013
+25,,101,11.0,+6:03,30.0,K\xf6nig Leopold,1,Team NetApp \u2013 Endura,3:54:17 3:54:17,20.0,7,2013
+27,,131,3.0,+3:26,18.0,Acevedo Janier Alexis,2,Jamis - Hagens Berman,0:07 0:07,14.0,7,2013
+24,,31,1.0,+0:00,12.0,van Garderen Tejay,3,BMC Racing Team,0:12 0:12,8.0,7,2013
+33,,61,2.0,+1:47,7.0,Rogers Michael,4,Team Saxo - Tinkoff,",, 0:12",7.0,7,2013
+26,,33,4.0,+3:32,4.0,Frank Mathias,5,BMC Racing Team,0:23 0:23,6.0,7,2013
+28,,2,6.0,+3:50,3.0,Busche Matthew,6,RadioShack - Leopard,0:29 0:29,5.0,7,2013
+21,,142,8.0,+5:24,2.0,Craddock Lawson,7,Bontrager Cycling Team,0:32 0:32,4.0,7,2013
+37,,151,7.0,+4:52,1.0,Mancebo Francisco,8,5-hour Energy,0:38 0:38,2.0,7,2013
+28,,106,33.0,+25:37,,Mendes Jos\xe9,9,Team NetApp \u2013 Endura,0:44 0:44,,7,2013
+29,,81,12.0,+6:28,,de Maar Marc,10,UnitedHealthcare Presented by Maxxis,",, 0:44",,7,2013
+22,,12,37.0,+27:45,,Dennis Rohan,11,Garmin Sharp,",, 0:44",,7,2013
+25,,47,5.0,+3:33,,Meyer Cameron,12,Orica GreenEDGE,0:48 0:48,,7,2013
+29,,82,9.0,+5:33,,Deignan Philip,13,UnitedHealthcare Presented by Maxxis,0:53 0:53,,7,2013
+31,,36,23.0,+19:01,,Moinard Ama\xebl,14,BMC Racing Team,0:56 0:56,,7,2013
+27,,24,28.0,+21:51,,Meersman Gianni,15,Omega Pharma - Quick-Step,1:02 1:02,,7,2013
+24,,121,10.0,+5:52,,Haga Chad,16,Optum p/b Kelly Benefit Strategies,",, 1:02",,7,2013
+27,,108,31.0,+23:19,,Voss Paul,17,Team NetApp \u2013 Endura,1:06 1:06,,7,2013
+20,,5,35.0,+26:11,,Jungels Bob,18,RadioShack - Leopard,1:09 1:09,,7,2013
+36,,8,17.0,+11:51,,Zubeldia Haimar,19,RadioShack - Leopard,",, 1:09",,7,2013
+31,,58,15.0,+11:13,,Vandborg Brian,20,Cannondale Pro Cycling Team,1:17 1:17,,7,2013
+26,,71,48.0,+33:57,,De Gendt Thomas,21,Vacansoleil - DCM,1:22 1:22,,7,2013
+21,,145,27.0,+20:50,,Mannion Gavin,22,Bontrager Cycling Team,1:27 1:27,,7,2013
+37,,111,36.0,+26:56,,Baldwin Christopher,23,Bissell Pro Cycling,1:31 1:31,,7,2013
+24,,103,13.0,+8:58,,de la Cruz David,24,Team NetApp \u2013 Endura,1:38 1:38,,7,2013
+35,,73,22.0,+17:51,,Flecha Juan Antonio,25,Vacansoleil - DCM,2:00 2:00,,7,2013
+32,,68,39.0,+27:48,,Zaugg Oliver,26,Team Saxo - Tinkoff,2:08 2:08,,7,2013
+26,,91,21.0,+16:23,,Beyer Chad,27,Champion System Pro Cycling Team,2:17 2:17,,7,2013
+25,,93,44.0,+32:10,,Butler Chris,28,Champion System Pro Cycling Team,",, 2:17",,7,2013
+37,,37,41.0,+29:57,,Pinotti Marco,29,BMC Racing Team,",, 2:17",,7,2013
+32,,105,19.0,+14:29,,Huzarski Bartosz,30,Team NetApp \u2013 Endura,2:22 2:22,,7,2013
+31,,95,93.0,+1:02:43,,Gazvoda Gregor,31,Champion System Pro Cycling Team,2:33 2:33,,7,2013
+28,,3,16.0,+11:40,,Didier Laurent,32,RadioShack - Leopard,2:41 2:41,,7,2013
+41,,1,32.0,+24:15,,Voigt Jens,33,RadioShack - Leopard,2:44 2:44,,7,2013
+27,,156,52.0,+35:56,,Stemper James,34,5-hour Energy,3:03 3:03,,7,2013
+22,,26,54.0,+35:58,,van Keirsbulck Guillaume,35,Omega Pharma - Quick-Step,3:26 3:26,,7,2013
+33,,21,38.0,+27:46,,Chavanel Sylvain,36,Omega Pharma - Quick-Step,",, 3:26",,7,2013
+29,,32,24.0,+19:26,,Bookwalter Brent,37,BMC Racing Team,3:37 3:37,,7,2013
+29,,152,14.0,+10:58,,English Nathaniel,38,5-hour Energy,4:13 4:13,,7,2013
+30,,78,20.0,+14:59,,Westra Lieuwe,39,Vacansoleil - DCM,4:39 4:39,,7,2013
+26,,13,47.0,+33:57,,Fairly Caleb,40,Garmin Sharp,",, 4:39",,7,2013
+29,,83,18.0,+12:41,,Euser Lucas,41,UnitedHealthcare Presented by Maxxis,",, 4:39",,7,2013
+33,,85,69.0,+44:47,,Jones Chris,42,UnitedHealthcare Presented by Maxxis,5:09 5:09,,7,2013
+21,,148,40.0,+29:41,,Stuyven Jasper,43,Bontrager Cycling Team,5:34 5:34,,7,2013
+30,,22,57.0,+38:01,,De Weert Kevin,44,Omega Pharma - Quick-Step,6:11 6:11,,7,2013
+20,,28,77.0,+51:04,,Verona Carlos,45,Omega Pharma - Quick-Step,",, 6:11",,7,2013
+26,,41,46.0,+33:54,,Sulzberger Wesley,46,Orica GreenEDGE,",, 6:11",,7,2013
+21,,16,49.0,+34:30,,Morton Lachlan,47,Garmin Sharp,6:14 6:14,,7,2013
+27,,7,25.0,+20:11,,Schleck Andy,48,RadioShack - Leopard,6:19 6:19,,7,2013
+39,,67,66.0,+43:07,,Tosatto Matteo,49,Team Saxo - Tinkoff,",, 6:19",,7,2013
+20,,65,53.0,+35:56,,McCarthy Jay,50,Team Saxo - Tinkoff,6:40 6:40,,7,2013
+39,,115,100.0,+1:09:40,,McCartney Jason,51,Bissell Pro Cycling,6:45 6:45,,7,2013
+26,,153,43.0,+32:08,,Jenkins Max,52,5-hour Energy,6:54 6:54,,7,2013
+21,,143,58.0,+38:21,,Duchesne Antoine,53,Bontrager Cycling Team,",, 6:54",,7,2013
+26,,38,29.0,+22:40,,Schar Michael,54,BMC Racing Team,7:16 7:16,,7,2013
+22,,17,34.0,+26:08,,Rathe Jacob,55,Garmin Sharp,8:10 8:10,,7,2013
+30,,56,26.0,+20:43,,King Edward,56,Cannondale Pro Cycling Team,9:13 9:13,,7,2013
+33,,4,50.0,+34:46,,Irizar Markel,57,RadioShack - Leopard,",, 9:13",,7,2013
+35,,128,87.0,+59:31,,Zwizanski Scott,58,Optum p/b Kelly Benefit Strategies,9:17 9:17,,7,2013
+24,,113,62.0,+39:30,,Jones Carter,59,Bissell Pro Cycling,",, 9:17",,7,2013
+26,,57,65.0,+42:25,,Koren Kristijan,60,Cannondale Pro Cycling Team,10:48 10:48,,7,2013
+34,,43,56.0,+38:00,,Cooke Baden,61,Orica GreenEDGE,11:02 11:02,,7,2013
+21,,147,30.0,+23:06,,Putt Tanner,62,Bontrager Cycling Team,",, 11:02",,7,2013
+25,,157,74.0,+48:41,,Sweeting Robert,63,5-hour Energy,11:33 11:33,,7,2013
+25,,15,70.0,+44:50,,Howes Alex,64,Garmin Sharp,",, 11:33",,7,2013
+31,,116,75.0,+50:57,,Mccarty Jonathan Patrick,65,Bissell Pro Cycling,",, 11:33",,7,2013
+28,,66,63.0,+39:32,,M\xf8rk\xf8v Michael,66,Team Saxo - Tinkoff,",, 11:33",,7,2013
+27,,64,73.0,+48:27,,Jorgensen Jonas Aaen,67,Team Saxo - Tinkoff,",, 11:33",,7,2013
+30,,63,89.0,+1:01:06,,Duggan Timothy,68,Team Saxo - Tinkoff,",, 11:33",,7,2013
+21,,141,51.0,+35:08,,Brown Nathan,69,Bontrager Cycling Team,11:39 11:39,,7,2013
+34,,134,71.0,+45:28,,Jacques-Maynes Benjamin,70,Jamis - Hagens Berman,14:54 14:54,,7,2013
+32,,138,94.0,+1:02:59,,Wren Tyler,71,Jamis - Hagens Berman,",, 14:54",,7,2013
+26,,132,106.0,+1:17:52,,Driscoll James,72,Jamis - Hagens Berman,14:56 14:56,,7,2013
+31,,97,110.0,+1:23:52,,Traksel Bobbie,73,Champion System Pro Cycling Team,",, 14:56",,7,2013
+34,,137,55.0,+36:43,,Romero Amaran Luis,74,Jamis - Hagens Berman,",, 14:56",,7,2013
+24,,107,78.0,+51:52,,Schorn Daniel,75,Team NetApp \u2013 Endura,",, 14:56",,7,2013
+28,,98,99.0,+1:09:08,,San Wu Kin,76,Champion System Pro Cycling Team,",, 14:56",,7,2013
+31,,154,95.0,+1:03:39,,Milne Shawn,77,5-hour Energy,",, 14:56",,7,2013
+23,,48,80.0,+52:35,,Meyer Travis,78,Orica GreenEDGE,",, 14:56",,7,2013
+26,,44,61.0,+39:08,,Docker Mitchell,79,Orica GreenEDGE,",, 14:56",,7,2013
+35,,35,91.0,+1:01:21,,Hushovd Thor,80,BMC Racing Team,",, 14:56",,7,2013
+25,,104,88.0,+1:00:31,,Dempster Zakkari,81,Team NetApp \u2013 Endura,",, 14:56",,7,2013
+23,,51,59.0,+38:21,,Sagan Peter,82,Cannondale Pro Cycling Team,",, 14:56",,7,2013
+28,,52,84.0,+56:00,,Bodnar Maciej,83,Cannondale Pro Cycling Team,",, 14:56",,7,2013
+24,,158,85.0,+56:51,,Williams David,84,5-hour Energy,",, 14:56",,7,2013
+23,,53,90.0,+1:01:16,,Boivin Guillaume,85,Cannondale Pro Cycling Team,",, 14:56",,7,2013
+25,,102,101.0,+1:10:09,,Benedetti Cesare,86,Team NetApp \u2013 Endura,",, 14:56",,7,2013
+30,,55,81.0,+53:40,,Haedo Lucas Sebastian,87,Cannondale Pro Cycling Team,",, 14:56",,7,2013
+23,,75,86.0,+57:34,,Lindeman Bert-Jan,88,Vacansoleil - DCM,",, 14:56",,7,2013
+22,,74,109.0,+1:21:45,,Kreder Wesley,89,Vacansoleil - DCM,",, 14:56",,7,2013
+22,,46,67.0,+43:47,,Matthews Michael,90,Orica GreenEDGE,",, 14:56",,7,2013
+25,,77,72.0,+46:13,,van Poppel Boy,91,Vacansoleil - DCM,",, 14:56",,7,2013
+35,,117,96.0,+1:06:31,,Pipp Frank Kevin,92,Bissell Pro Cycling,",, 14:56",,7,2013
+28,,14,68.0,+44:29,,Farrar Tyler,93,Garmin Sharp,",, 14:56",,7,2013
+32,,18,108.0,+1:21:14,,Vansummeren Johan,94,Garmin Sharp,",, 14:56",,7,2013
+27,,122,92.0,+1:01:37,,Anthony Jesse,95,Optum p/b Kelly Benefit Strategies,",, 14:56",,7,2013
+26,,114,64.0,+41:15,,Torckler Michael,96,Bissell Pro Cycling,",, 14:56",,7,2013
+27,,92,76.0,+50:59,,Brammeier Matthew,97,Champion System Pro Cycling Team,",, 14:56",,7,2013
+32,,118,42.0,+31:48,,Vennell Jeremy,98,Bissell Pro Cycling,",, 14:56",,7,2013
+19,,146,105.0,+1:14:18,,Oram James,99,Bontrager Cycling Team,",, 14:56",,7,2013
+20,,144,83.0,+54:07,,Eastman Ryan,100,Bontrager Cycling Team,",, 14:56",,7,2013
+29,,126,102.0,+1:10:26,,Soladay Thomas,101,Optum p/b Kelly Benefit Strategies,",, 14:56",,7,2013
+38,,123,45.0,+33:34,,Candelario Alex,102,Optum p/b Kelly Benefit Strategies,",, 14:56",,7,2013
+35,,87,82.0,+53:47,,Louder Jeff,103,UnitedHealthcare Presented by Maxxis,",, 14:56",,7,2013
+26,,72,107.0,+1:19:15,,Boeckmans Kris,104,Vacansoleil - DCM,",, 14:56",,7,2013
+30,,96,60.0,+38:22,,Roth Ryan,105,Champion System Pro Cycling Team,",, 14:56",,7,2013
+27,,124,103.0,+1:13:28,,Cooper Marsh,106,Optum p/b Kelly Benefit Strategies,17:03 17:03,,7,2013
+31,,125,79.0,+51:57,,Hanson Ken,107,Optum p/b Kelly Benefit Strategies,",, 17:03",,7,2013
+28,,84,104.0,+1:13:29,,Ile\u0161i\u010d Aldo Ino,108,UnitedHealthcare Presented by Maxxis,19:25 19:25,,7,2013
+25,,86,98.0,+1:09:04,,Keough Jake,109,UnitedHealthcare Presented by Maxxis,",, 19:25",,7,2013
+28,,88,97.0,+1:08:06,,Murphy John,110,UnitedHealthcare Presented by Maxxis,",, 19:25",,7,2013
+24,,135,111.0,+1:39:03,,Miller Carson,111,Jamis - Hagens Berman,24:42 24:42,,7,2013
+23,,51,56.0,+38:11,30.0,Sagan Peter,1,Cannondale Pro Cycling Team,3:04:07 3:04:07,20.0,8,2013
+24,,107,77.0,+51:46,18.0,Schorn Daniel,2,Team NetApp \u2013 Endura,",, ,,",14.0,8,2013
+28,,14,68.0,+44:25,12.0,Farrar Tyler,3,Garmin Sharp,",, ,,",8.0,8,2013
+27,,24,28.0,+21:51,7.0,Meersman Gianni,4,Omega Pharma - Quick-Step,",, ,,",7.0,8,2013
+31,,125,78.0,+51:57,4.0,Hanson Ken,5,Optum p/b Kelly Benefit Strategies,",, ,,",6.0,8,2013
+35,,35,90.0,+1:01:21,3.0,Hushovd Thor,6,BMC Racing Team,",, ,,",5.0,8,2013
+22,,46,67.0,+43:47,2.0,Matthews Michael,7,Orica GreenEDGE,",, ,,",4.0,8,2013
+25,,86,97.0,+1:09:04,1.0,Keough Jake,8,UnitedHealthcare Presented by Maxxis,",, ,,",2.0,8,2013
+33,,21,37.0,+27:46,,Chavanel Sylvain,9,Omega Pharma - Quick-Step,",, ,,",,8,2013
+27,,92,75.0,+50:59,,Brammeier Matthew,10,Champion System Pro Cycling Team,",, ,,",,8,2013
+35,,73,22.0,+17:51,,Flecha Juan Antonio,11,Vacansoleil - DCM,",, ,,",,8,2013
+21,,148,40.0,+29:41,,Stuyven Jasper,12,Bontrager Cycling Team,",, ,,",,8,2013
+35,,117,96.0,+1:06:31,,Pipp Frank Kevin,13,Bissell Pro Cycling,",, ,,",,8,2013
+32,,118,42.0,+31:48,,Vennell Jeremy,14,Bissell Pro Cycling,",, ,,",,8,2013
+27,,131,3.0,+3:26,,Acevedo Janier Alexis,15,Jamis - Hagens Berman,",, ,,",,8,2013
+24,,31,1.0,+0:00,,van Garderen Tejay,16,BMC Racing Team,",, ,,",,8,2013
+29,,82,9.0,+5:33,,Deignan Philip,17,UnitedHealthcare Presented by Maxxis,",, ,,",,8,2013
+26,,33,4.0,+3:32,,Frank Mathias,18,BMC Racing Team,",, ,,",,8,2013
+34,,137,53.0,+36:43,,Romero Amaran Luis,19,Jamis - Hagens Berman,",, ,,",,8,2013
+25,,47,5.0,+3:33,,Meyer Cameron,20,Orica GreenEDGE,",, ,,",,8,2013
+26,,38,29.0,+22:40,,Schar Michael,21,BMC Racing Team,",, ,,",,8,2013
+33,,61,2.0,+1:47,,Rogers Michael,22,Team Saxo - Tinkoff,",, ,,",,8,2013
+25,,104,88.0,+1:00:31,,Dempster Zakkari,23,Team NetApp \u2013 Endura,",, ,,",,8,2013
+22,,26,49.0,+35:58,,van Keirsbulck Guillaume,24,Omega Pharma - Quick-Step,",, ,,",,8,2013
+37,,151,7.0,+4:52,,Mancebo Francisco,25,5-hour Energy,",, ,,",,8,2013
+24,,121,10.0,+5:52,,Haga Chad,26,Optum p/b Kelly Benefit Strategies,",, ,,",,8,2013
+28,,3,16.0,+11:40,,Didier Laurent,27,RadioShack - Leopard,",, ,,",,8,2013
+21,,142,8.0,+5:24,,Craddock Lawson,28,Bontrager Cycling Team,",, ,,",,8,2013
+29,,32,24.0,+19:26,,Bookwalter Brent,29,BMC Racing Team,",, ,,",,8,2013
+27,,108,30.0,+23:19,,Voss Paul,30,Team NetApp \u2013 Endura,",, ,,",,8,2013
+25,,157,73.0,+48:41,,Sweeting Robert,31,5-hour Energy,",, ,,",,8,2013
+29,,81,12.0,+6:28,,de Maar Marc,32,UnitedHealthcare Presented by Maxxis,",, ,,",,8,2013
+26,,44,59.0,+39:08,,Docker Mitchell,33,Orica GreenEDGE,",, ,,",,8,2013
+32,,68,38.0,+27:48,,Zaugg Oliver,34,Team Saxo - Tinkoff,",, ,,",,8,2013
+25,,77,71.0,+46:13,,van Poppel Boy,35,Vacansoleil - DCM,",, ,,",,8,2013
+30,,78,20.0,+14:59,,Westra Lieuwe,36,Vacansoleil - DCM,",, ,,",,8,2013
+32,,105,19.0,+14:29,,Huzarski Bartosz,37,Team NetApp \u2013 Endura,",, ,,",,8,2013
+29,,126,99.0,+1:10:26,,Soladay Thomas,38,Optum p/b Kelly Benefit Strategies,",, ,,",,8,2013
+20,,5,33.0,+26:11,,Jungels Bob,39,RadioShack - Leopard,",, ,,",,8,2013
+24,,113,60.0,+39:30,,Jones Carter,40,Bissell Pro Cycling,",, ,,",,8,2013
+26,,91,21.0,+16:23,,Beyer Chad,41,Champion System Pro Cycling Team,",, ,,",,8,2013
+28,,2,6.0,+3:50,,Busche Matthew,42,RadioShack - Leopard,",, ,,",,8,2013
+35,,128,87.0,+59:31,,Zwizanski Scott,43,Optum p/b Kelly Benefit Strategies,",, ,,",,8,2013
+34,,134,70.0,+45:28,,Jacques-Maynes Benjamin,44,Jamis - Hagens Berman,",, ,,",,8,2013
+41,,1,32.0,+24:15,,Voigt Jens,45,RadioShack - Leopard,",, ,,",,8,2013
+33,,4,48.0,+34:46,,Irizar Markel,46,RadioShack - Leopard,",, ,,",,8,2013
+36,,8,17.0,+11:51,,Zubeldia Haimar,47,RadioShack - Leopard,",, ,,",,8,2013
+25,,101,11.0,+6:03,,K\xf6nig Leopold,48,Team NetApp \u2013 Endura,",, ,,",,8,2013
+29,,83,18.0,+12:41,,Euser Lucas,49,UnitedHealthcare Presented by Maxxis,",, ,,",,8,2013
+27,,7,25.0,+20:11,,Schleck Andy,50,RadioShack - Leopard,",, ,,",,8,2013
+21,,145,26.0,+20:50,,Mannion Gavin,51,Bontrager Cycling Team,",, ,,",,8,2013
+23,,53,89.0,+1:01:16,,Boivin Guillaume,52,Cannondale Pro Cycling Team,",, ,,",,8,2013
+24,,103,13.0,+8:58,,de la Cruz David,53,Team NetApp \u2013 Endura,",, ,,",,8,2013
+31,,36,23.0,+19:01,,Moinard Ama\xebl,54,BMC Racing Team,",, ,,",,8,2013
+38,,123,45.0,+33:48,,Candelario Alex,55,Optum p/b Kelly Benefit Strategies,0:14 0:14,,8,2013
+26,,41,46.0,+34:10,,Sulzberger Wesley,56,Orica GreenEDGE,0:16 0:16,,8,2013
+26,,153,43.0,+32:24,,Jenkins Max,57,5-hour Energy,",, 0:16",,8,2013
+22,,74,108.0,+1:22:01,,Kreder Wesley,58,Vacansoleil - DCM,",, 0:16",,8,2013
+27,,156,50.0,+36:15,,Stemper James,59,5-hour Energy,0:19 0:19,,8,2013
+29,,152,14.0,+11:17,,English Nathaniel,60,5-hour Energy,",, 0:19",,8,2013
+31,,58,15.0,+11:32,,Vandborg Brian,61,Cannondale Pro Cycling Team,",, 0:19",,8,2013
+32,,138,94.0,+1:03:18,,Wren Tyler,62,Jamis - Hagens Berman,",, 0:19",,8,2013
+31,,95,93.0,+1:03:02,,Gazvoda Gregor,63,Champion System Pro Cycling Team,",, 0:19",,8,2013
+25,,15,69.0,+45:09,,Howes Alex,64,Garmin Sharp,",, 0:19",,8,2013
+28,,84,103.0,+1:13:54,,Ile\u0161i\u010d Aldo Ino,65,UnitedHealthcare Presented by Maxxis,0:25 0:25,,8,2013
+34,,43,57.0,+38:25,,Cooke Baden,66,Orica GreenEDGE,",, 0:25",,8,2013
+37,,37,41.0,+30:24,,Pinotti Marco,67,BMC Racing Team,0:27 0:27,,8,2013
+25,,93,44.0,+32:37,,Butler Chris,68,Champion System Pro Cycling Team,",, 0:27",,8,2013
+28,,66,61.0,+39:59,,M\xf8rk\xf8v Michael,69,Team Saxo - Tinkoff,",, 0:27",,8,2013
+30,,56,27.0,+21:10,,King Edward,70,Cannondale Pro Cycling Team,",, 0:27",,8,2013
+21,,147,31.0,+23:33,,Putt Tanner,71,Bontrager Cycling Team,",, 0:27",,8,2013
+28,,52,84.0,+56:27,,Bodnar Maciej,72,Cannondale Pro Cycling Team,",, 0:27",,8,2013
+26,,132,106.0,+1:18:19,,Driscoll James,73,Jamis - Hagens Berman,",, 0:27",,8,2013
+27,,122,92.0,+1:02:04,,Anthony Jesse,74,Optum p/b Kelly Benefit Strategies,",, 0:27",,8,2013
+30,,55,81.0,+54:07,,Haedo Lucas Sebastian,75,Cannondale Pro Cycling Team,",, 0:27",,8,2013
+27,,64,74.0,+48:54,,Jorgensen Jonas Aaen,76,Team Saxo - Tinkoff,",, 0:27",,8,2013
+26,,114,64.0,+41:42,,Torckler Michael,77,Bissell Pro Cycling,",, 0:27",,8,2013
+24,,158,85.0,+57:18,,Williams David,78,5-hour Energy,",, 0:27",,8,2013
+30,,63,91.0,+1:01:33,,Duggan Timothy,79,Team Saxo - Tinkoff,",, 0:27",,8,2013
+26,,57,65.0,+42:52,,Koren Kristijan,80,Cannondale Pro Cycling Team,",, 0:27",,8,2013
+39,,67,66.0,+43:34,,Tosatto Matteo,81,Team Saxo - Tinkoff,",, 0:27",,8,2013
+31,,154,95.0,+1:04:06,,Milne Shawn,82,5-hour Energy,",, 0:27",,8,2013
+20,,65,51.0,+36:23,,McCarthy Jay,83,Team Saxo - Tinkoff,",, 0:27",,8,2013
+20,,144,82.0,+54:34,,Eastman Ryan,84,Bontrager Cycling Team,",, 0:27",,8,2013
+19,,146,104.0,+1:14:45,,Oram James,85,Bontrager Cycling Team,",, 0:27",,8,2013
+37,,111,36.0,+27:23,,Baldwin Christopher,86,Bissell Pro Cycling,",, 0:27",,8,2013
+26,,13,47.0,+34:24,,Fairly Caleb,87,Garmin Sharp,",, 0:27",,8,2013
+31,,116,76.0,+51:24,,Mccarty Jonathan Patrick,88,Bissell Pro Cycling,",, 0:27",,8,2013
+30,,22,58.0,+38:37,,De Weert Kevin,89,Omega Pharma - Quick-Step,0:36 0:36,,8,2013
+26,,72,107.0,+1:19:54,,Boeckmans Kris,90,Vacansoleil - DCM,0:39 0:39,,8,2013
+23,,48,79.0,+53:22,,Meyer Travis,91,Orica GreenEDGE,0:47 0:47,,8,2013
+23,,75,86.0,+58:21,,Lindeman Bert-Jan,92,Vacansoleil - DCM,",, 0:47",,8,2013
+32,,18,109.0,+1:22:04,,Vansummeren Johan,93,Garmin Sharp,0:50 0:50,,8,2013
+35,,87,83.0,+54:37,,Louder Jeff,94,UnitedHealthcare Presented by Maxxis,",, 0:50",,8,2013
+22,,17,34.0,+26:58,,Rathe Jacob,95,Garmin Sharp,",, 0:50",,8,2013
+22,,12,39.0,+28:46,,Dennis Rohan,96,Garmin Sharp,1:01 1:01,,8,2013
+24,,135,111.0,+1:40:07,,Miller Carson,97,Jamis - Hagens Berman,1:04 1:04,,8,2013
+31,,97,110.0,+1:25:12,,Traksel Bobbie,98,Champion System Pro Cycling Team,1:20 1:20,,8,2013
+28,,88,98.0,+1:09:26,,Murphy John,99,UnitedHealthcare Presented by Maxxis,",, 1:20",,8,2013
+28,,106,35.0,+26:59,,Mendes Jos\xe9,100,Team NetApp \u2013 Endura,1:22 1:22,,8,2013
+27,,124,105.0,+1:14:53,,Cooper Marsh,101,Optum p/b Kelly Benefit Strategies,1:25 1:25,,8,2013
+33,,85,72.0,+46:15,,Jones Chris,102,UnitedHealthcare Presented by Maxxis,1:28 1:28,,8,2013
+21,,141,54.0,+37:00,,Brown Nathan,103,Bontrager Cycling Team,1:52 1:52,,8,2013
+28,,98,100.0,+1:11:08,,San Wu Kin,104,Champion System Pro Cycling Team,2:00 2:00,,8,2013
+30,,96,62.0,+40:22,,Roth Ryan,105,Champion System Pro Cycling Team,",, 2:00",,8,2013
+25,,102,101.0,+1:12:11,,Benedetti Cesare,106,Team NetApp \u2013 Endura,2:02 2:02,,8,2013
+20,,28,80.0,+53:37,,Verona Carlos,107,Omega Pharma - Quick-Step,2:33 2:33,,8,2013
+26,,71,52.0,+36:27,,De Gendt Thomas,108,Vacansoleil - DCM,",, 2:33",,8,2013
+39,,115,102.0,+1:12:21,,McCartney Jason,109,Bissell Pro Cycling,2:43 2:43,,8,2013
+21,,143,63.0,+41:03,,Duchesne Antoine,110,Bontrager Cycling Team,",, 2:43",,8,2013
+21,,16,55.0,+37:15,,Morton Lachlan,111,Garmin Sharp,2:45 2:45,,8,2013

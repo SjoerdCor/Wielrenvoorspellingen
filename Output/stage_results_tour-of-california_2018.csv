@@ -1,0 +1,811 @@
+Age,Avg,BIB,GC,GC-Time,Pnt,Rider,Rnk,Team,Time,UCI,stage,year
+23,,31,1.0,+0:00,35.0,Gaviria Fernando,1,Quick-Step Floors,3:02:23 3:02:23,40.0,1,2018
+23,,73,2.0,+0:04,20.0,Ewan Caleb,2,Mitchelton-Scott,",, ,,",15.0,1,2018
+28,,11,4.0,+0:06,12.0,Sagan Peter,3,BORA - hansgrohe,",, ,,",6.0,1,2018
+30,,51,8.0,+0:10,9.0,Kittel Marcel,4,Team Katusha - Alpecin,",, ,,",,1,2018
+30,,141,9.0,+0:10,7.0,Kristoff Alexander,5,UAE-Team Emirates,",, ,,",,1,2018
+20,,106,10.0,+0:10,5.0,Philipsen Jasper,6,Hagens Berman Axeon,",, ,,",,1,2018
+31,,125,11.0,+0:10,3.0,Reijnen Kiel,7,Trek - Segafredo,",, ,,",,1,2018
+24,,136,12.0,+0:10,2.0,Walscheid Max,8,Team Sunweb,",, ,,",,1,2018
+27,,65,13.0,+0:10,1.0,Magner Ty,9,Rally Cycling,",, ,,",,1,2018
+32,,41,6.0,+0:09,,Cavendish Mark,10,Team Dimension Data,",, ,,",,1,2018
+21,,105,14.0,+0:10,,Oliveira Ivo,11,Hagens Berman Axeon,",, ,,",,1,2018
+29,,164,15.0,+0:10,,McCabe Travis,12,UnitedHealthcare Pro Cycling Team,",, ,,",,1,2018
+27,,22,16.0,+0:10,,Bevin Patrick,13,BMC Racing Team,",, ,,",,1,2018
+33,,151,17.0,+0:10,,Murphy John,14,Holowesko - Citadel p/b Arapahoe Resources,",, ,,",,1,2018
+26,,87,18.0,+0:10,,Wisniowski Lukasz,15,Team Sky,",, ,,",,1,2018
+26,,116,19.0,+0:10,,McLay Daniel,16,Team EF Education First-Drapac p/b Cannondale,",, ,,",,1,2018
+35,,37,20.0,+0:10,,Richeze Ariel Maximiliano,17,Quick-Step Floors,",, ,,",,1,2018
+29,,77,21.0,+0:10,,Mezgec Luka,18,Mitchelton-Scott,",, ,,",,1,2018
+21,,1,22.0,+0:10,,Powless Neilson,19,Team LottoNL-Jumbo,",, ,,",,1,2018
+24,,5,23.0,+0:10,,Tolhoek Antwan,20,Team LottoNL-Jumbo,",, ,,",,1,2018
+25,,71,24.0,+0:10,,Yates Adam,21,Mitchelton-Scott,",, ,,",,1,2018
+28,,84,25.0,+0:10,,Rowe Luke,22,Team Sky,",, ,,",,1,2018
+21,,81,26.0,+0:10,,Bernal Egan Arley,23,Team Sky,",, ,,",,1,2018
+25,,63,27.0,+0:10,,Carpenter Robin,24,Rally Cycling,",, ,,",,1,2018
+27,,111,28.0,+0:10,,Phinney Taylor,25,Team EF Education First-Drapac p/b Cannondale,",, ,,",,1,2018
+33,,12,29.0,+0:10,,Bodnar Maciej,26,BORA - hansgrohe,",, ,,",,1,2018
+30,,96,30.0,+0:10,,Gautier Cyril,27,AG2R La Mondiale,",, ,,",,1,2018
+23,,82,31.0,+0:10,,Geoghegan Hart Tao,28,Team Sky,",, ,,",,1,2018
+20,,104,32.0,+0:10,,Garrison Ian,29,Hagens Berman Axeon,",, ,,",,1,2018
+26,,2,33.0,+0:10,,De Tier Floris,30,Team LottoNL-Jumbo,",, ,,",,1,2018
+26,,113,34.0,+0:10,,Craddock Lawson,31,Team EF Education First-Drapac p/b Cannondale,",, ,,",,1,2018
+28,,45,35.0,+0:10,,Slagter Tom-Jelte,32,Team Dimension Data,",, ,,",,1,2018
+25,,135,36.0,+0:10,,Teunissen Mike,33,Team Sunweb,",, ,,",,1,2018
+32,,132,37.0,+0:10,,Fr\xf6hlinger Johannes,34,Team Sunweb,",, ,,",,1,2018
+28,,14,38.0,+0:10,,Majka Rafa\u0142,35,BORA - hansgrohe,",, ,,",,1,2018
+40,,74,39.0,+0:10,,Hayman Mathew,36,Mitchelton-Scott,",, ,,",,1,2018
+30,,114,40.0,+0:10,,Howes Alex,37,Team EF Education First-Drapac p/b Cannondale,",, ,,",,1,2018
+24,,64,41.0,+0:10,,De Vos Adam,38,Rally Cycling,",, ,,",,1,2018
+36,,6,42.0,+0:10,,Wynants Maarten,39,Team LottoNL-Jumbo,",, ,,",,1,2018
+29,,146,43.0,+0:10,,Mirza Yousef Mohamed,40,UAE-Team Emirates,",, ,,",,1,2018
+25,,13,44.0,+0:10,,Kol\xe1\u0159 Michael,41,BORA - hansgrohe,",, ,,",,1,2018
+31,,94,45.0,+0:10,,Frank Mathias,42,AG2R La Mondiale,",, ,,",,1,2018
+33,,72,46.0,+0:10,,Bauer Jack,43,Mitchelton-Scott,",, ,,",,1,2018
+20,,66,47.0,+0:10,,McNulty Brandon,44,Rally Cycling,",, ,,",,1,2018
+29,,17,48.0,+0:10,,Sagan Juraj,45,BORA - hansgrohe,",, ,,",,1,2018
+26,,131,49.0,+0:10,,Arndt Nikias,46,Team Sunweb,",, ,,",,1,2018
+31,,25,50.0,+0:10,,Schar Michael,47,BMC Racing Team,",, ,,",,1,2018
+24,,57,51.0,+0:10,,Zabel Rick,48,Team Katusha - Alpecin,",, ,,",,1,2018
+32,,4,52.0,+0:10,,Leezer Tom,49,Team LottoNL-Jumbo,",, ,,",,1,2018
+28,,47,53.0,+0:10,,Vermote Julien,50,Team Dimension Data,",, ,,",,1,2018
+23,,147,54.0,+0:10,,Ravasi Edward,51,UAE-Team Emirates,",, ,,",,1,2018
+23,,123,55.0,+0:10,,Guerreiro Ruben,52,Trek - Segafredo,",, ,,",,1,2018
+23,,117,56.0,+0:10,,Owen Logan,53,Team EF Education First-Drapac p/b Cannondale,",, ,,",,1,2018
+29,,167,57.0,+0:10,,Tvetcov Serghei,54,UnitedHealthcare Pro Cycling Team,",, ,,",,1,2018
+34,,21,58.0,+0:10,,Bookwalter Brent,55,BMC Racing Team,",, ,,",,1,2018
+30,,144,59.0,+0:10,,Durasek Kristijan,56,UAE-Team Emirates,",, ,,",,1,2018
+29,,23,60.0,+0:10,,van Garderen Tejay,57,BMC Racing Team,",, ,,",,1,2018
+20,,85,61.0,+0:10,,Sivakov Pavel,58,Team Sky,",, ,,",,1,2018
+22,,33,62.0,+0:10,,De Plus Laurens,59,Quick-Step Floors,",, ,,",,1,2018
+22,,103,63.0,+0:10,,Bennett Sean,60,Hagens Berman Axeon,",, ,,",,1,2018
+26,,127,64.0,+0:10,,Stuyven Jasper,61,Trek - Segafredo,",, ,,",,1,2018
+26,,161,65.0,+0:10,,Mannion Gavin,62,UnitedHealthcare Pro Cycling Team,",, ,,",,1,2018
+35,,163,66.0,+0:10,,Haedo Lucas Sebastian,63,UnitedHealthcare Pro Cycling Team,",, ,,",,1,2018
+34,,97,67.0,+0:10,,Vandenbergh Stijn,64,AG2R La Mondiale,",, ,,",,1,2018
+23,,3,68.0,+0:10,,Kuss Sepp,65,Team LottoNL-Jumbo,",, ,,",,1,2018
+24,,83,69.0,+0:10,,Henao Sebasti\xe1n,66,Team Sky,",, ,,",,1,2018
+22,,102,70.0,+0:10,,Barta William,67,Hagens Berman Axeon,",, ,,",,1,2018
+23,,152,71.0,+0:10,,Bryon Miguel,68,Holowesko - Citadel p/b Arapahoe Resources,",, ,,",,1,2018
+23,,154,72.0,+0:10,,Eisenhart Taylor,69,Holowesko - Citadel p/b Arapahoe Resources,",, ,,",,1,2018
+30,,121,73.0,+0:10,,Stetina Peter,70,Trek - Segafredo,",, ,,",,1,2018
+22,,26,74.0,+0:10,,Van Hooydonck Nathan,71,BMC Racing Team,",, ,,",,1,2018
+26,,143,75.0,+0:10,,Bystr\xf8m Sven Erik,72,UAE-Team Emirates,",, ,,",,1,2018
+23,,32,76.0,+0:10,,Asgreen Kasper,73,Quick-Step Floors,",, ,,",,1,2018
+28,,16,77.0,+0:10,,Poljanski Pawel,74,BORA - hansgrohe,",, ,,",,1,2018
+39,,67,78.0,+0:10,,Pate Danny,75,Rally Cycling,",, ,,",,1,2018
+30,,95,79.0,+0:10,,Gastauer Ben,76,AG2R La Mondiale,",, ,,",,1,2018
+31,,112,80.0,+0:10,,Clarke Simon,77,Team EF Education First-Drapac p/b Cannondale,",, ,,",,1,2018
+38,,124,81.0,+0:10,,Rast Gregory,78,Trek - Segafredo,",, ,,",,1,2018
+23,,53,82.0,+0:10,,Fabbro Matteo,79,Team Katusha - Alpecin,",, ,,",,1,2018
+27,,52,83.0,+0:10,,Boswell Ian,80,Team Katusha - Alpecin,",, ,,",,1,2018
+32,,76,84.0,+0:10,,Kluge Roger,81,Mitchelton-Scott,",, ,,",,1,2018
+28,,24,85.0,+0:10,,Rosskopf Joey,82,BMC Racing Team,",, ,,",,1,2018
+21,,36,86.0,+0:10,,Narvaez Jhonatan,83,Quick-Step Floors,",, ,,",,1,2018
+21,,145,87.0,+0:10,,Ganna Filippo,84,UAE-Team Emirates,",, ,,",,1,2018
+33,,162,88.0,+0:10,,Clarke Jonathan,85,UnitedHealthcare Pro Cycling Team,",, ,,",,1,2018
+33,,62,89.0,+0:10,,Britton Rob,86,Rally Cycling,",, ,,",,1,2018
+22,,115,90.0,+0:10,,Martinez Daniel Felipe,87,Team EF Education First-Drapac p/b Cannondale,",, ,,",,1,2018
+26,,166,3.0,+0:04,,Putt Tanner,88,UnitedHealthcare Pro Cycling Team,",, ,,",,1,2018
+22,,133,91.0,+0:10,,Hindley Jai,89,Team Sunweb,",, ,,",,1,2018
+28,,61,92.0,+0:10,,Huffman Evan,90,Rally Cycling,",, ,,",,1,2018
+25,,142,93.0,+0:10,,Ait El Abdia Anass,91,UAE-Team Emirates,",, ,,",,1,2018
+31,,15,94.0,+0:10,,Oss Daniel,92,BORA - hansgrohe,",, ,,",,1,2018
+26,,75,95.0,+0:10,,Hepburn Michael,93,Mitchelton-Scott,",, ,,",,1,2018
+26,,43,96.0,+0:10,,Morton Lachlan,94,Team Dimension Data,",, ,,",,1,2018
+21,,34,7.0,+0:09,,Hodeg \xc1lvaro Jos\xe9,95,Quick-Step Floors,",, ,,",,1,2018
+22,,42,97.0,+0:10,,Davies Scott,96,Team Dimension Data,",, ,,",,1,2018
+32,,27,98.0,+0:10,,Wyss Danilo,97,BMC Racing Team,",, ,,",,1,2018
+32,,46,99.0,+0:10,,Thomson Jay Robert,98,Team Dimension Data,",, ,,",,1,2018
+27,,91,100.0,+0:10,,Naesen Oliver,99,AG2R La Mondiale,",, ,,",,1,2018
+26,,126,101.0,+0:10,,Skuji\u0146\u0161 Toms,100,Trek - Segafredo,",, ,,",,1,2018
+24,,156,102.0,+0:10,,Lienhard Fabian,101,Holowesko - Citadel p/b Arapahoe Resources,",, ,,",,1,2018
+30,,86,103.0,+0:10,,Stannard Ian,102,Team Sky,",, ,,",,1,2018
+19,,101,104.0,+0:10,,Bjerg Mikkel,103,Hagens Berman Axeon,",, ,,",,1,2018
+27,,153,105.0,+0:10,,Companioni Ruben,104,Holowesko - Citadel p/b Arapahoe Resources,",, ,,",,1,2018
+31,,165,106.0,+0:10,,Norris Lachlan,105,UnitedHealthcare Pro Cycling Team,",, ,,",,1,2018
+32,,55,107.0,+0:10,,Hollenstein Reto,106,Team Katusha - Alpecin,",, ,,",,1,2018
+21,,122,108.0,+0:10,,Conci Nicola,107,Trek - Segafredo,",, ,,",,1,2018
+27,,93,109.0,+0:10,,Dillier Silvan,108,AG2R La Mondiale,",, ,,",,1,2018
+29,,155,5.0,+0:06,,Krasilnikau Andrei,109,Holowesko - Citadel p/b Arapahoe Resources,",, ,,",,1,2018
+22,,157,110.0,+0:10,,Rhim Brendan,110,Holowesko - Citadel p/b Arapahoe Resources,",, ,,",,1,2018
+22,,107,111.0,+0:10,,Rice Michael,111,Hagens Berman Axeon,",, ,,",,1,2018
+22,,92,112.0,+0:10,,Cosnefroy Benoit,112,AG2R La Mondiale,",, ,,",,1,2018
+24,,56,113.0,+0:31,,Politt Nils,113,Team Katusha - Alpecin,0:21 0:21,,1,2018
+35,,35,114.0,+0:41,,Keisse Iljo,114,Quick-Step Floors,0:31 0:31,,1,2018
+29,,54,115.0,+0:56,,Haas Nathan,115,Team Katusha - Alpecin,0:46 0:46,,1,2018
+35,,44,116.0,+1:07,,Renshaw Mark,116,Team Dimension Data,0:57 0:57,,1,2018
+32,,134,117.0,+1:22,,Stamsnijder Tom,117,Team Sunweb,1:12 1:12,,1,2018
+21,,81,1.0,+0:00,35.0,Bernal Egan Arley,1,Team Sky,4:14:00 4:14:00,40.0,2,2018
+28,,14,2.0,+0:25,20.0,Majka Rafa\u0142,2,BORA - hansgrohe,0:21 0:21,15.0,2,2018
+25,,71,3.0,+0:31,12.0,Yates Adam,3,Mitchelton-Scott,0:25 0:25,6.0,2,2018
+24,,5,4.0,+0:40,9.0,Tolhoek Antwan,4,Team LottoNL-Jumbo,0:30 0:30,,2,2018
+22,,115,6.0,+0:40,7.0,Martinez Daniel Felipe,5,Team EF Education First-Drapac p/b Cannondale,",, 0:30",,2,2018
+30,,144,5.0,+0:40,5.0,Durasek Kristijan,6,UAE-Team Emirates,",, 0:30",,2,2018
+31,,94,7.0,+0:50,3.0,Frank Mathias,7,AG2R La Mondiale,0:40 0:40,,2,2018
+29,,23,8.0,+1:00,2.0,van Garderen Tejay,8,BMC Racing Team,0:50 0:50,,2,2018
+23,,147,9.0,+1:09,1.0,Ravasi Edward,9,UAE-Team Emirates,0:59 0:59,,2,2018
+23,,123,10.0,+1:11,,Guerreiro Ruben,10,Trek - Segafredo,1:01 1:01,,2,2018
+22,,33,11.0,+1:14,,De Plus Laurens,11,Quick-Step Floors,1:04 1:04,,2,2018
+23,,82,12.0,+1:20,,Geoghegan Hart Tao,12,Team Sky,1:10 1:10,,2,2018
+20,,66,13.0,+1:25,,McNulty Brandon,13,Rally Cycling,1:15 1:15,,2,2018
+21,,122,14.0,+2:07,,Conci Nicola,14,Trek - Segafredo,1:57 1:57,,2,2018
+30,,121,15.0,+2:21,,Stetina Peter,15,Trek - Segafredo,2:11 2:11,,2,2018
+22,,102,16.0,+2:28,,Barta William,16,Hagens Berman Axeon,2:18 2:18,,2,2018
+33,,62,18.0,+2:35,,Britton Rob,17,Rally Cycling,2:25 2:25,,2,2018
+34,,21,17.0,+2:35,,Bookwalter Brent,18,BMC Racing Team,",, 2:25",,2,2018
+22,,103,19.0,+2:53,,Bennett Sean,19,Hagens Berman Axeon,2:43 2:43,,2,2018
+26,,43,20.0,+2:55,,Morton Lachlan,20,Team Dimension Data,2:45 2:45,,2,2018
+26,,161,21.0,+3:05,,Mannion Gavin,21,UnitedHealthcare Pro Cycling Team,2:55 2:55,,2,2018
+27,,52,22.0,+3:05,,Boswell Ian,22,Team Katusha - Alpecin,",, 2:55",,2,2018
+23,,154,23.0,+3:08,,Eisenhart Taylor,23,Holowesko - Citadel p/b Arapahoe Resources,2:58 2:58,,2,2018
+21,,1,25.0,+3:49,,Powless Neilson,24,Team LottoNL-Jumbo,3:39 3:39,,2,2018
+27,,22,24.0,+3:49,,Bevin Patrick,25,BMC Racing Team,",, 3:39",,2,2018
+28,,24,26.0,+3:49,,Rosskopf Joey,26,BMC Racing Team,",, 3:39",,2,2018
+26,,126,27.0,+3:49,,Skuji\u0146\u0161 Toms,27,Trek - Segafredo,",, 3:39",,2,2018
+23,,53,28.0,+4:12,,Fabbro Matteo,28,Team Katusha - Alpecin,4:02 4:02,,2,2018
+29,,167,29.0,+5:26,,Tvetcov Serghei,29,UnitedHealthcare Pro Cycling Team,5:16 5:16,,2,2018
+21,,105,30.0,+6:22,,Oliveira Ivo,30,Hagens Berman Axeon,6:12 6:12,,2,2018
+23,,32,33.0,+6:22,,Asgreen Kasper,31,Quick-Step Floors,",, 6:12",,2,2018
+20,,85,32.0,+6:22,,Sivakov Pavel,32,Team Sky,",, 6:12",,2,2018
+30,,96,31.0,+6:22,,Gautier Cyril,33,AG2R La Mondiale,",, 6:12",,2,2018
+21,,36,34.0,+6:22,,Narvaez Jhonatan,34,Quick-Step Floors,",, 6:12",,2,2018
+28,,16,36.0,+7:01,,Poljanski Pawel,35,BORA - hansgrohe,6:51 6:51,,2,2018
+29,,155,35.0,+6:57,,Krasilnikau Andrei,36,Holowesko - Citadel p/b Arapahoe Resources,",, 6:51",,2,2018
+25,,142,37.0,+7:01,,Ait El Abdia Anass,37,UAE-Team Emirates,",, 6:51",,2,2018
+24,,83,38.0,+7:07,,Henao Sebasti\xe1n,38,Team Sky,6:57 6:57,,2,2018
+33,,72,39.0,+7:20,,Bauer Jack,39,Mitchelton-Scott,7:10 7:10,,2,2018
+26,,2,40.0,+7:23,,De Tier Floris,40,Team LottoNL-Jumbo,7:13 7:13,,2,2018
+27,,91,42.0,+7:58,,Naesen Oliver,41,AG2R La Mondiale,7:48 7:48,,2,2018
+31,,25,41.0,+7:58,,Schar Michael,42,BMC Racing Team,",, 7:48",,2,2018
+28,,45,43.0,+8:38,,Slagter Tom-Jelte,43,Team Dimension Data,8:28 8:28,,2,2018
+32,,27,44.0,+8:56,,Wyss Danilo,44,BMC Racing Team,8:46 8:46,,2,2018
+34,,97,45.0,+9:41,,Vandenbergh Stijn,45,AG2R La Mondiale,9:31 9:31,,2,2018
+30,,95,47.0,+9:41,,Gastauer Ben,46,AG2R La Mondiale,",, 9:31",,2,2018
+23,,3,46.0,+9:41,,Kuss Sepp,47,Team LottoNL-Jumbo,",, 9:31",,2,2018
+22,,133,48.0,+9:41,,Hindley Jai,48,Team Sunweb,",, 9:31",,2,2018
+26,,113,49.0,+10:22,,Craddock Lawson,49,Team EF Education First-Drapac p/b Cannondale,10:12 10:12,,2,2018
+24,,56,51.0,+10:55,,Politt Nils,50,Team Katusha - Alpecin,10:24 10:24,,2,2018
+32,,46,50.0,+10:51,,Thomson Jay Robert,51,Team Dimension Data,10:41 10:41,,2,2018
+26,,131,52.0,+12:00,,Arndt Nikias,52,Team Sunweb,11:50 11:50,,2,2018
+28,,47,53.0,+12:52,,Vermote Julien,53,Team Dimension Data,12:42 12:42,,2,2018
+28,,84,55.0,+14:34,,Rowe Luke,54,Team Sky,14:24 14:24,,2,2018
+22,,42,62.0,+14:34,,Davies Scott,55,Team Dimension Data,",, 14:24",,2,2018
+21,,145,60.0,+14:34,,Ganna Filippo,56,UAE-Team Emirates,",, 14:24",,2,2018
+26,,143,58.0,+14:34,,Bystr\xf8m Sven Erik,57,UAE-Team Emirates,",, 14:24",,2,2018
+30,,114,56.0,+14:34,,Howes Alex,58,Team EF Education First-Drapac p/b Cannondale,",, 14:24",,2,2018
+28,,61,61.0,+14:34,,Huffman Evan,59,Rally Cycling,",, 14:24",,2,2018
+31,,112,59.0,+14:34,,Clarke Simon,60,Team EF Education First-Drapac p/b Cannondale,",, 14:24",,2,2018
+31,,165,63.0,+14:34,,Norris Lachlan,61,UnitedHealthcare Pro Cycling Team,",, 14:24",,2,2018
+31,,125,54.0,+14:34,,Reijnen Kiel,62,Trek - Segafredo,",, 14:24",,2,2018
+25,,135,57.0,+14:34,,Teunissen Mike,63,Team Sunweb,",, 14:24",,2,2018
+22,,92,64.0,+16:00,,Cosnefroy Benoit,64,AG2R La Mondiale,15:50 15:50,,2,2018
+36,,6,65.0,+17:18,,Wynants Maarten,65,Team LottoNL-Jumbo,17:08 17:08,,2,2018
+27,,93,102.0,+18:40,,Dillier Silvan,66,AG2R La Mondiale,18:30 18:30,,2,2018
+22,,26,94.0,+18:40,,Van Hooydonck Nathan,67,BMC Racing Team,",, 18:30",,2,2018
+26,,127,90.0,+18:40,,Stuyven Jasper,68,Trek - Segafredo,",, 18:30",,2,2018
+38,,124,96.0,+18:40,,Rast Gregory,69,Trek - Segafredo,",, 18:30",,2,2018
+24,,156,101.0,+18:40,,Lienhard Fabian,70,Holowesko - Citadel p/b Arapahoe Resources,",, 18:30",,2,2018
+19,,101,103.0,+18:40,,Bjerg Mikkel,71,Hagens Berman Axeon,",, 18:30",,2,2018
+20,,106,74.0,+18:40,,Philipsen Jasper,72,Hagens Berman Axeon,",, 18:30",,2,2018
+32,,55,104.0,+18:40,,Hollenstein Reto,73,Team Katusha - Alpecin,",, 18:30",,2,2018
+26,,75,100.0,+18:40,,Hepburn Michael,74,Mitchelton-Scott,",, 18:30",,2,2018
+29,,146,84.0,+18:40,,Mirza Yousef Mohamed,75,UAE-Team Emirates,",, 18:30",,2,2018
+24,,64,68.0,+18:34,,De Vos Adam,76,Rally Cycling,",, 18:30",,2,2018
+23,,117,92.0,+18:40,,Owen Logan,77,Team EF Education First-Drapac p/b Cannondale,",, 18:30",,2,2018
+27,,153,71.0,+18:36,,Companioni Ruben,78,Holowesko - Citadel p/b Arapahoe Resources,",, 18:30",,2,2018
+24,,57,88.0,+18:40,,Zabel Rick,79,Team Katusha - Alpecin,",, 18:30",,2,2018
+24,,136,75.0,+18:40,,Walscheid Max,80,Team Sunweb,",, 18:30",,2,2018
+32,,134,113.0,+19:52,,Stamsnijder Tom,81,Team Sunweb,",, 18:30",,2,2018
+35,,44,111.0,+19:37,,Renshaw Mark,82,Team Dimension Data,",, 18:30",,2,2018
+29,,77,76.0,+18:40,,Mezgec Luka,83,Mitchelton-Scott,",, 18:30",,2,2018
+32,,132,85.0,+18:40,,Fr\xf6hlinger Johannes,84,Team Sunweb,",, 18:30",,2,2018
+20,,104,82.0,+18:40,,Garrison Ian,85,Hagens Berman Axeon,",, 18:30",,2,2018
+26,,116,78.0,+18:40,,McLay Daniel,86,Team EF Education First-Drapac p/b Cannondale,",, 18:30",,2,2018
+29,,17,93.0,+18:40,,Sagan Juraj,87,BORA - hansgrohe,",, 18:30",,2,2018
+23,,73,67.0,+18:34,,Ewan Caleb,88,Mitchelton-Scott,",, 18:30",,2,2018
+33,,151,79.0,+18:40,,Murphy John,89,Holowesko - Citadel p/b Arapahoe Resources,",, 18:30",,2,2018
+23,,152,99.0,+18:40,,Bryon Miguel,90,Holowesko - Citadel p/b Arapahoe Resources,",, 18:30",,2,2018
+28,,11,70.0,+18:36,,Sagan Peter,91,BORA - hansgrohe,",, 18:30",,2,2018
+27,,65,77.0,+18:40,,Magner Ty,92,Rally Cycling,",, 18:30",,2,2018
+35,,35,110.0,+19:11,,Keisse Iljo,93,Quick-Step Floors,",, 18:30",,2,2018
+35,,163,98.0,+18:40,,Haedo Lucas Sebastian,94,UnitedHealthcare Pro Cycling Team,",, 18:30",,2,2018
+31,,15,105.0,+18:40,,Oss Daniel,95,BORA - hansgrohe,",, 18:30",,2,2018
+23,,31,66.0,+18:30,,Gaviria Fernando,96,Quick-Step Floors,",, 18:30",,2,2018
+35,,37,83.0,+18:40,,Richeze Ariel Maximiliano,97,Quick-Step Floors,",, 18:30",,2,2018
+26,,87,80.0,+18:40,,Wisniowski Lukasz,98,Team Sky,",, 18:30",,2,2018
+22,,107,108.0,+18:40,,Rice Michael,99,Hagens Berman Axeon,",, 18:30",,2,2018
+33,,12,87.0,+18:40,,Bodnar Maciej,100,BORA - hansgrohe,",, 18:30",,2,2018
+21,,34,73.0,+18:39,,Hodeg \xc1lvaro Jos\xe9,101,Quick-Step Floors,",, 18:30",,2,2018
+26,,166,69.0,+18:34,,Putt Tanner,102,UnitedHealthcare Pro Cycling Team,",, 18:30",,2,2018
+25,,63,89.0,+18:40,,Carpenter Robin,103,Rally Cycling,",, 18:30",,2,2018
+27,,111,91.0,+18:40,,Phinney Taylor,104,Team EF Education First-Drapac p/b Cannondale,",, 18:30",,2,2018
+32,,4,97.0,+18:40,,Leezer Tom,105,Team LottoNL-Jumbo,",, 18:30",,2,2018
+30,,86,107.0,+18:40,,Stannard Ian,106,Team Sky,",, 18:30",,2,2018
+22,,157,109.0,+18:40,,Rhim Brendan,107,Holowesko - Citadel p/b Arapahoe Resources,",, 18:30",,2,2018
+30,,141,81.0,+18:40,,Kristoff Alexander,108,UAE-Team Emirates,",, 18:30",,2,2018
+40,,74,95.0,+18:40,,Hayman Mathew,109,Mitchelton-Scott,",, 18:30",,2,2018
+29,,164,86.0,+18:40,,McCabe Travis,110,UnitedHealthcare Pro Cycling Team,",, 18:30",,2,2018
+33,,162,72.0,+18:38,,Clarke Jonathan,111,UnitedHealthcare Pro Cycling Team,",, 18:30",,2,2018
+39,,67,106.0,+18:40,,Pate Danny,112,Rally Cycling,",, 18:30",,2,2018
+32,,41,112.0,+19:50,,Cavendish Mark,113,Team Dimension Data,19:41 19:41,,2,2018
+25,,13,114.0,+20:20,,Kol\xe1\u0159 Michael,114,BORA - hansgrohe,20:10 20:10,,2,2018
+32,,76,116.0,+20:31,,Kluge Roger,115,Mitchelton-Scott,20:21 20:21,,2,2018
+30,,51,115.0,+20:31,,Kittel Marcel,116,Team Katusha - Alpecin,",, 20:21",,2,2018
+29,,54,117.0,+21:17,,Haas Nathan,117,Team Katusha - Alpecin,",, 20:21",,2,2018
+26,,126,23.0,+3:31,35.0,Skuji\u0146\u0161 Toms,1,Trek - Segafredo,4:52:47 4:52:47,40.0,3,2018
+22,,103,18.0,+2:42,20.0,Bennett Sean,2,Hagens Berman Axeon,0:03 0:03,15.0,3,2018
+23,,73,57.0,+18:30,12.0,Ewan Caleb,3,Mitchelton-Scott,0:08 0:08,6.0,3,2018
+28,,11,58.0,+18:36,9.0,Sagan Peter,4,BORA - hansgrohe,",, 0:08",,3,2018
+21,,81,1.0,+0:00,7.0,Bernal Egan Arley,5,Team Sky,",, 0:08",,3,2018
+25,,71,3.0,+0:31,5.0,Yates Adam,6,Mitchelton-Scott,",, 0:08",,3,2018
+30,,114,51.0,+14:34,3.0,Howes Alex,7,Team EF Education First-Drapac p/b Cannondale,",, 0:08",,3,2018
+28,,45,38.0,+8:38,2.0,Slagter Tom-Jelte,8,Team Dimension Data,",, 0:08",,3,2018
+34,,21,17.0,+2:35,1.0,Bookwalter Brent,9,BMC Racing Team,",, 0:08",,3,2018
+22,,102,16.0,+2:28,,Barta William,10,Hagens Berman Axeon,",, 0:08",,3,2018
+27,,93,59.0,+18:40,,Dillier Silvan,11,AG2R La Mondiale,",, 0:08",,3,2018
+20,,66,12.0,+1:25,,McNulty Brandon,12,Rally Cycling,",, 0:08",,3,2018
+30,,96,28.0,+6:22,,Gautier Cyril,13,AG2R La Mondiale,",, 0:08",,3,2018
+26,,161,19.0,+3:05,,Mannion Gavin,14,UnitedHealthcare Pro Cycling Team,",, 0:08",,3,2018
+23,,123,9.0,+1:11,,Guerreiro Ruben,15,Trek - Segafredo,",, 0:08",,3,2018
+22,,33,10.0,+1:14,,De Plus Laurens,16,Quick-Step Floors,",, 0:08",,3,2018
+21,,1,24.0,+3:49,,Powless Neilson,17,Team LottoNL-Jumbo,",, 0:08",,3,2018
+24,,5,4.0,+0:40,,Tolhoek Antwan,18,Team LottoNL-Jumbo,",, 0:08",,3,2018
+31,,94,7.0,+0:50,,Frank Mathias,19,AG2R La Mondiale,",, 0:08",,3,2018
+23,,82,11.0,+1:20,,Geoghegan Hart Tao,20,Team Sky,",, 0:08",,3,2018
+22,,115,6.0,+0:40,,Martinez Daniel Felipe,21,Team EF Education First-Drapac p/b Cannondale,",, 0:08",,3,2018
+28,,14,2.0,+0:25,,Majka Rafa\u0142,22,BORA - hansgrohe,",, 0:08",,3,2018
+29,,23,8.0,+1:00,,van Garderen Tejay,23,BMC Racing Team,",, 0:08",,3,2018
+23,,53,25.0,+4:12,,Fabbro Matteo,24,Team Katusha - Alpecin,",, 0:08",,3,2018
+29,,167,27.0,+5:26,,Tvetcov Serghei,25,UnitedHealthcare Pro Cycling Team,",, 0:08",,3,2018
+22,,133,42.0,+9:41,,Hindley Jai,26,Team Sunweb,",, 0:08",,3,2018
+30,,144,5.0,+0:40,,Durasek Kristijan,27,UAE-Team Emirates,",, 0:08",,3,2018
+30,,121,15.0,+2:21,,Stetina Peter,28,Trek - Segafredo,",, 0:08",,3,2018
+20,,85,29.0,+6:22,,Sivakov Pavel,29,Team Sky,",, 0:08",,3,2018
+23,,154,21.0,+3:08,,Eisenhart Taylor,30,Holowesko - Citadel p/b Arapahoe Resources,",, 0:08",,3,2018
+27,,52,20.0,+3:05,,Boswell Ian,31,Team Katusha - Alpecin,",, 0:08",,3,2018
+26,,2,32.0,+7:23,,De Tier Floris,32,Team LottoNL-Jumbo,",, 0:08",,3,2018
+21,,122,14.0,+2:07,,Conci Nicola,33,Trek - Segafredo,",, 0:08",,3,2018
+29,,54,72.0,+21:50,,Haas Nathan,34,Team Katusha - Alpecin,0:41 0:41,,3,2018
+31,,125,52.0,+15:07,,Reijnen Kiel,35,Trek - Segafredo,",, 0:41",,3,2018
+31,,25,37.0,+8:31,,Schar Michael,36,BMC Racing Team,",, 0:41",,3,2018
+33,,62,22.0,+3:08,,Britton Rob,37,Rally Cycling,",, 0:41",,3,2018
+29,,164,61.0,+19:13,,McCabe Travis,38,UnitedHealthcare Pro Cycling Team,",, 0:41",,3,2018
+25,,142,34.0,+7:34,,Ait El Abdia Anass,39,UAE-Team Emirates,",, 0:41",,3,2018
+21,,36,30.0,+6:55,,Narvaez Jhonatan,40,Quick-Step Floors,",, 0:41",,3,2018
+23,,147,13.0,+1:42,,Ravasi Edward,41,UAE-Team Emirates,",, 0:41",,3,2018
+29,,77,60.0,+19:13,,Mezgec Luka,42,Mitchelton-Scott,",, 0:41",,3,2018
+33,,72,35.0,+7:53,,Bauer Jack,43,Mitchelton-Scott,",, 0:41",,3,2018
+32,,27,41.0,+9:29,,Wyss Danilo,44,BMC Racing Team,",, 0:41",,3,2018
+21,,105,31.0,+6:59,,Oliveira Ivo,45,Hagens Berman Axeon,0:45 0:45,,3,2018
+23,,32,33.0,+7:26,,Asgreen Kasper,46,Quick-Step Floors,1:12 1:12,,3,2018
+30,,141,63.0,+19:44,,Kristoff Alexander,47,UAE-Team Emirates,",, 1:12",,3,2018
+26,,127,64.0,+19:44,,Stuyven Jasper,48,Trek - Segafredo,",, 1:12",,3,2018
+24,,56,47.0,+11:59,,Politt Nils,49,Team Katusha - Alpecin,",, 1:12",,3,2018
+28,,24,26.0,+4:53,,Rosskopf Joey,50,BMC Racing Team,",, 1:12",,3,2018
+20,,106,62.0,+19:44,,Philipsen Jasper,51,Hagens Berman Axeon,",, 1:12",,3,2018
+27,,91,40.0,+9:02,,Naesen Oliver,52,AG2R La Mondiale,",, 1:12",,3,2018
+30,,95,46.0,+10:45,,Gastauer Ben,53,AG2R La Mondiale,",, 1:12",,3,2018
+24,,156,65.0,+19:44,,Lienhard Fabian,54,Holowesko - Citadel p/b Arapahoe Resources,",, 1:12",,3,2018
+29,,155,36.0,+8:30,,Krasilnikau Andrei,55,Holowesko - Citadel p/b Arapahoe Resources,1:41 1:41,,3,2018
+24,,83,39.0,+8:50,,Henao Sebasti\xe1n,56,Team Sky,1:51 1:51,,3,2018
+36,,6,66.0,+19:45,,Wynants Maarten,57,Team LottoNL-Jumbo,2:35 2:35,,3,2018
+31,,112,55.0,+17:01,,Clarke Simon,58,Team EF Education First-Drapac p/b Cannondale,",, 2:35",,3,2018
+23,,3,48.0,+12:08,,Kuss Sepp,59,Team LottoNL-Jumbo,",, 2:35",,3,2018
+26,,131,50.0,+14:27,,Arndt Nikias,60,Team Sunweb,",, 2:35",,3,2018
+28,,84,56.0,+17:29,,Rowe Luke,61,Team Sky,3:03 3:03,,3,2018
+28,,47,53.0,+15:47,,Vermote Julien,62,Team Dimension Data,",, 3:03",,3,2018
+32,,55,71.0,+21:35,,Hollenstein Reto,63,Team Katusha - Alpecin,",, 3:03",,3,2018
+28,,16,44.0,+9:56,,Poljanski Pawel,64,BORA - hansgrohe,",, 3:03",,3,2018
+35,,163,74.0,+22:13,,Haedo Lucas Sebastian,65,UnitedHealthcare Pro Cycling Team,3:41 3:41,,3,2018
+35,,37,73.0,+22:13,,Richeze Ariel Maximiliano,66,Quick-Step Floors,",, 3:41",,3,2018
+40,,74,76.0,+23:11,,Hayman Mathew,67,Mitchelton-Scott,4:39 4:39,,3,2018
+26,,75,77.0,+23:11,,Hepburn Michael,68,Mitchelton-Scott,",, 4:39",,3,2018
+34,,97,49.0,+14:12,,Vandenbergh Stijn,69,AG2R La Mondiale,",, 4:39",,3,2018
+22,,107,78.0,+23:11,,Rice Michael,70,Hagens Berman Axeon,",, 4:39",,3,2018
+23,,31,75.0,+23:01,,Gaviria Fernando,71,Quick-Step Floors,",, 4:39",,3,2018
+32,,46,54.0,+16:40,,Thomson Jay Robert,72,Team Dimension Data,5:57 5:57,,3,2018
+26,,143,67.0,+20:23,,Bystr\xf8m Sven Erik,73,UAE-Team Emirates,",, 5:57",,3,2018
+31,,165,68.0,+20:23,,Norris Lachlan,74,UnitedHealthcare Pro Cycling Team,",, 5:57",,3,2018
+26,,87,79.0,+25:03,,Wisniowski Lukasz,75,Team Sky,6:31 6:31,,3,2018
+32,,132,86.0,+25:34,,Fr\xf6hlinger Johannes,76,Team Sunweb,7:02 7:02,,3,2018
+25,,135,70.0,+21:28,,Teunissen Mike,77,Team Sunweb,",, 7:02",,3,2018
+27,,22,45.0,+10:43,,Bevin Patrick,78,BMC Racing Team,",, 7:02",,3,2018
+29,,146,87.0,+25:34,,Mirza Yousef Mohamed,79,UAE-Team Emirates,",, 7:02",,3,2018
+33,,151,85.0,+25:34,,Murphy John,80,Holowesko - Citadel p/b Arapahoe Resources,",, 7:02",,3,2018
+24,,64,83.0,+25:28,,De Vos Adam,81,Rally Cycling,",, 7:02",,3,2018
+38,,124,88.0,+25:34,,Rast Gregory,82,Trek - Segafredo,",, 7:02",,3,2018
+26,,166,84.0,+25:28,,Putt Tanner,83,UnitedHealthcare Pro Cycling Team,",, 7:02",,3,2018
+32,,4,89.0,+25:34,,Leezer Tom,84,Team LottoNL-Jumbo,",, 7:02",,3,2018
+30,,86,90.0,+25:34,,Stannard Ian,85,Team Sky,",, 7:02",,3,2018
+26,,43,43.0,+9:49,,Morton Lachlan,86,Team Dimension Data,",, 7:02",,3,2018
+20,,104,92.0,+27:39,,Garrison Ian,87,Hagens Berman Axeon,9:11 9:11,,3,2018
+32,,76,108.0,+29:49,,Kluge Roger,88,Mitchelton-Scott,9:26 9:26,,3,2018
+35,,35,109.0,+30:04,,Keisse Iljo,89,Quick-Step Floors,11:01 11:01,,3,2018
+32,,41,111.0,+30:43,,Cavendish Mark,90,Team Dimension Data,",, 11:01",,3,2018
+19,,101,104.0,+29:33,,Bjerg Mikkel,91,Hagens Berman Axeon,",, 11:01",,3,2018
+27,,111,99.0,+29:33,,Phinney Taylor,92,Team EF Education First-Drapac p/b Cannondale,",, 11:01",,3,2018
+23,,117,100.0,+29:33,,Owen Logan,93,Team EF Education First-Drapac p/b Cannondale,",, 11:01",,3,2018
+26,,116,97.0,+29:33,,McLay Daniel,94,Team EF Education First-Drapac p/b Cannondale,",, 11:01",,3,2018
+30,,51,113.0,+31:24,,Kittel Marcel,95,Team Katusha - Alpecin,",, 11:01",,3,2018
+24,,136,96.0,+29:33,,Walscheid Max,96,Team Sunweb,",, 11:01",,3,2018
+24,,57,101.0,+29:33,,Zabel Rick,97,Team Katusha - Alpecin,",, 11:01",,3,2018
+21,,145,81.0,+25:27,,Ganna Filippo,98,UAE-Team Emirates,",, 11:01",,3,2018
+27,,65,98.0,+29:33,,Magner Ty,99,Rally Cycling,",, 11:01",,3,2018
+21,,34,95.0,+29:32,,Hodeg \xc1lvaro Jos\xe9,100,Quick-Step Floors,",, 11:01",,3,2018
+39,,67,106.0,+29:33,,Pate Danny,101,Rally Cycling,",, 11:01",,3,2018
+22,,42,82.0,+25:27,,Davies Scott,102,Team Dimension Data,",, 11:01",,3,2018
+22,,26,103.0,+29:33,,Van Hooydonck Nathan,103,BMC Racing Team,",, 11:01",,3,2018
+25,,63,93.0,+29:29,,Carpenter Robin,104,Rally Cycling,",, 11:01",,3,2018
+33,,12,102.0,+29:33,,Bodnar Maciej,105,BORA - hansgrohe,",, 11:01",,3,2018
+33,,134,112.0,+30:45,,Stamsnijder Tom,106,Team Sunweb,",, 11:01",,3,2018
+26,,113,69.0,+21:15,,Craddock Lawson,107,Team EF Education First-Drapac p/b Cannondale,",, 11:01",,3,2018
+28,,61,80.0,+25:23,,Huffman Evan,108,Rally Cycling,",, 11:01",,3,2018
+23,,152,105.0,+29:33,,Bryon Miguel,109,Holowesko - Citadel p/b Arapahoe Resources,",, 11:01",,3,2018
+35,,44,110.0,+30:30,,Renshaw Mark,110,Team Dimension Data,",, 11:01",,3,2018
+33,,162,94.0,+29:31,,Clarke Jonathan,111,UnitedHealthcare Pro Cycling Team,",, 11:01",,3,2018
+22,,92,91.0,+26:53,,Cosnefroy Benoit,112,AG2R La Mondiale,",, 11:01",,3,2018
+31,,15,107.0,+29:33,,Oss Daniel,113,BORA - hansgrohe,",, 11:01",,3,2018
+27,,153,114.0,+31:54,,Companioni Ruben,114,Holowesko - Citadel p/b Arapahoe Resources,13:26 13:26,,3,2018
+25,,13,115.0,+39:30,,Kol\xe1\u0159 Michael,115,BORA - hansgrohe,19:18 19:18,,3,2018
+29,,17,116.0,+42:54,,Sagan Juraj,116,BORA - hansgrohe,24:22 24:22,,3,2018
+22,,157,,+ - 12:09:08,,Rhim Brendan,DNS,Holowesko - Citadel p/b Arapahoe Resources,-4:52:47 -4:52:47,,3,2018
+29,51.05,23,1.0,+0:00,35.0,van Garderen Tejay,1,BMC Racing Team,40:47 40:47,40.0,4,2018
+27,50.905,22,34.0,+9:50,20.0,Bevin Patrick,2,BMC Racing Team,0:07 0:07,15.0,4,2018
+23,50.391000000000005,82,4.0,+0:52,12.0,Geoghegan Hart Tao,3,Team Sky,0:32 0:32,6.0,4,2018
+26,50.108000000000004,113,58.0,+21:01,9.0,Craddock Lawson,4,Team EF Education First-Drapac p/b Cannondale,0:46 0:46,,4,2018
+21,50.048,145,71.0,+25:16,7.0,Ganna Filippo,5,UAE-Team Emirates,0:49 0:49,,4,2018
+19,49.968,101,83.0,+29:26,5.0,Bjerg Mikkel,6,Hagens Berman Axeon,0:53 0:53,,4,2018
+33,49.928000000000004,72,29.0,+7:48,3.0,Bauer Jack,7,Mitchelton-Scott,0:55 0:55,,4,2018
+21,49.908,1,16.0,+3:45,2.0,Powless Neilson,8,Team LottoNL-Jumbo,0:56 0:56,,4,2018
+33,49.888000000000005,12,84.0,+29:30,1.0,Bodnar Maciej,9,BORA - hansgrohe,0:57 0:57,,4,2018
+22,49.888000000000005,115,3.0,+0:37,,Martinez Daniel Felipe,10,Team EF Education First-Drapac p/b Cannondale,",, 0:57",,4,2018
+24,49.848,56,41.0,+11:58,,Politt Nils,11,Team Katusha - Alpecin,0:59 0:59,,4,2018
+34,49.848,21,10.0,+2:34,,Bookwalter Brent,12,BMC Racing Team,",, 0:59",,4,2018
+29,49.828,167,25.0,+5:26,,Tvetcov Serghei,13,UnitedHealthcare Pro Cycling Team,1:00 1:00,,4,2018
+27,49.788999999999994,111,88.0,+29:35,,Phinney Taylor,14,Team EF Education First-Drapac p/b Cannondale,1:02 1:02,,4,2018
+26,49.532,75,64.0,+23:26,,Hepburn Michael,15,Mitchelton-Scott,1:15 1:15,,4,2018
+20,49.512,85,28.0,+6:38,,Sivakov Pavel,16,Team Sky,1:16 1:16,,4,2018
+26,49.45399999999999,131,46.0,+14:46,,Arndt Nikias,17,Team Sunweb,1:19 1:19,,4,2018
+21,49.375,81,2.0,+0:23,,Bernal Egan Arley,18,Team Sky,1:23 1:23,,4,2018
+22,49.278,102,12.0,+2:56,,Barta William,19,Hagens Berman Axeon,1:28 1:28,,4,2018
+28,49.25899999999999,24,24.0,+5:22,,Rosskopf Joey,20,BMC Racing Team,1:29 1:29,,4,2018
+28,49.162,61,74.0,+25:57,,Huffman Evan,21,Rally Cycling,1:34 1:34,,4,2018
+25,49.123000000000005,71,5.0,+1:07,,Yates Adam,22,Mitchelton-Scott,1:36 1:36,,4,2018
+31,49.027,25,33.0,+9:12,,Schar Michael,23,BMC Racing Team,1:41 1:41,,4,2018
+20,48.988,66,7.0,+2:08,,McNulty Brandon,24,Rally Cycling,1:43 1:43,,4,2018
+27,48.873000000000005,93,55.0,+19:29,,Dillier Silvan,25,AG2R La Mondiale,1:49 1:49,,4,2018
+26,48.873000000000005,161,17.0,+3:54,,Mannion Gavin,26,UnitedHealthcare Pro Cycling Team,",, 1:49",,4,2018
+32,48.74,55,62.0,+22:31,,Hollenstein Reto,27,Team Katusha - Alpecin,1:56 1:56,,4,2018
+22,48.683,33,8.0,+2:13,,De Plus Laurens,28,Quick-Step Floors,1:59 1:59,,4,2018
+22,48.645,103,15.0,+3:43,,Bennett Sean,29,Hagens Berman Axeon,2:01 2:01,,4,2018
+28,48.588,14,6.0,+1:29,,Majka Rafa\u0142,30,BORA - hansgrohe,2:04 2:04,,4,2018
+26,48.568999999999996,126,20.0,+4:36,,Skuji\u0146\u0161 Toms,31,Trek - Segafredo,2:05 2:05,,4,2018
+23,48.531000000000006,32,30.0,+8:33,,Asgreen Kasper,32,Quick-Step Floors,2:07 2:07,,4,2018
+31,48.437,112,53.0,+18:13,,Clarke Simon,33,Team EF Education First-Drapac p/b Cannondale,2:12 2:12,,4,2018
+33,48.419,62,18.0,+4:21,,Britton Rob,34,Rally Cycling,2:13 2:13,,4,2018
+27,48.176,52,19.0,+4:31,,Boswell Ian,35,Team Katusha - Alpecin,2:26 2:26,,4,2018
+30,48.00899999999999,144,9.0,+2:15,,Durasek Kristijan,36,UAE-Team Emirates,2:35 2:35,,4,2018
+22,47.95399999999999,26,95.0,+31:11,,Van Hooydonck Nathan,37,BMC Racing Team,2:38 2:38,,4,2018
+30,47.93600000000001,95,44.0,+12:24,,Gastauer Ben,38,AG2R La Mondiale,2:39 2:39,,4,2018
+31,47.806999999999995,94,11.0,+2:36,,Frank Mathias,39,AG2R La Mondiale,2:46 2:46,,4,2018
+20,47.661,104,87.0,+29:33,,Garrison Ian,40,Hagens Berman Axeon,2:54 2:54,,4,2018
+26,47.643,87,80.0,+26:58,,Wisniowski Lukasz,41,Team Sky,2:55 2:55,,4,2018
+21,47.534,105,32.0,+9:00,,Oliveira Ivo,42,Hagens Berman Axeon,3:01 3:01,,4,2018
+21,47.534,34,96.0,+31:33,,Hodeg \xc1lvaro Jos\xe9,43,Quick-Step Floors,",, 3:01",,4,2018
+30,47.48,114,49.0,+16:38,,Howes Alex,44,Team EF Education First-Drapac p/b Cannondale,3:04 3:04,,4,2018
+25,47.408,63,97.0,+31:37,,Carpenter Robin,45,Rally Cycling,3:08 3:08,,4,2018
+31,47.336000000000006,15,99.0,+31:45,,Oss Daniel,46,BORA - hansgrohe,3:12 3:12,,4,2018
+28,47.247,47,52.0,+18:04,,Vermote Julien,47,Team Dimension Data,3:17 3:17,,4,2018
+22,47.247,133,42.0,+11:58,,Hindley Jai,48,Team Sunweb,",, 3:17",,4,2018
+30,47.247,121,22.0,+4:38,,Stetina Peter,49,Trek - Segafredo,",, 3:17",,4,2018
+23,47.229,53,27.0,+6:30,,Fabbro Matteo,50,Team Katusha - Alpecin,3:18 3:18,,4,2018
+28,47.211000000000006,84,56.0,+19:48,,Rowe Luke,51,Team Sky,3:19 3:19,,4,2018
+35,47.157,35,100.0,+32:26,,Keisse Iljo,52,Quick-Step Floors,3:22 3:22,,4,2018
+23,47.122,123,14.0,+3:35,,Guerreiro Ruben,53,Trek - Segafredo,3:24 3:24,,4,2018
+26,47.051,127,60.0,+22:12,,Stuyven Jasper,54,Trek - Segafredo,3:28 3:28,,4,2018
+20,47.033,106,61.0,+22:13,,Philipsen Jasper,55,Hagens Berman Axeon,3:29 3:29,,4,2018
+23,46.998000000000005,154,26.0,+5:39,,Eisenhart Taylor,56,Holowesko - Citadel p/b Arapahoe Resources,3:31 3:31,,4,2018
+34,46.98,97,50.0,+16:44,,Vandenbergh Stijn,57,AG2R La Mondiale,3:32 3:32,,4,2018
+30,46.98,96,31.0,+8:54,,Gautier Cyril,58,AG2R La Mondiale,",, 3:32",,4,2018
+21,46.98,122,23.0,+4:39,,Conci Nicola,59,Trek - Segafredo,",, 3:32",,4,2018
+28,46.857,11,59.0,+21:15,,Sagan Peter,60,BORA - hansgrohe,3:39 3:39,,4,2018
+22,46.857,92,86.0,+29:32,,Cosnefroy Benoit,61,AG2R La Mondiale,",, 3:39",,4,2018
+32,46.839,27,43.0,+12:09,,Wyss Danilo,62,BMC Racing Team,3:40 3:40,,4,2018
+24,46.769,83,38.0,+11:34,,Henao Sebasti\xe1n,63,Team Sky,3:44 3:44,,4,2018
+24,46.699,5,13.0,+3:28,,Tolhoek Antwan,64,Team LottoNL-Jumbo,3:48 3:48,,4,2018
+36,46.629,6,63.0,+22:37,,Wynants Maarten,65,Team LottoNL-Jumbo,3:52 3:52,,4,2018
+28,46.595,16,45.0,+12:50,,Poljanski Pawel,66,BORA - hansgrohe,3:54 3:54,,4,2018
+23,46.595,31,73.0,+25:55,,Gaviria Fernando,67,Quick-Step Floors,",, 3:54",,4,2018
+23,46.56,147,21.0,+4:38,,Ravasi Edward,68,UAE-Team Emirates,3:56 3:56,,4,2018
+21,46.387,36,35.0,+10:01,,Narvaez Jhonatan,69,Quick-Step Floors,4:06 4:06,,4,2018
+40,46.301,74,76.0,+26:22,,Hayman Mathew,70,Mitchelton-Scott,4:11 4:11,,4,2018
+27,46.25,153,112.0,+35:08,,Companioni Ruben,71,Holowesko - Citadel p/b Arapahoe Resources,4:14 4:14,,4,2018
+32,46.215,41,106.0,+33:59,,Cavendish Mark,72,Team Dimension Data,4:16 4:16,,4,2018
+29,46.198,155,39.0,+11:47,,Krasilnikau Andrei,73,Holowesko - Citadel p/b Arapahoe Resources,4:17 4:17,,4,2018
+28,46.198,45,40.0,+11:55,,Slagter Tom-Jelte,74,Team Dimension Data,",, 4:17",,4,2018
+24,46.096000000000004,136,101.0,+32:56,,Walscheid Max,75,Team Sunweb,4:23 4:23,,4,2018
+26,46.096000000000004,143,66.0,+23:46,,Bystr\xf8m Sven Erik,76,UAE-Team Emirates,",, 4:23",,4,2018
+24,46.07899999999999,57,102.0,+32:57,,Zabel Rick,77,Team Katusha - Alpecin,4:24 4:24,,4,2018
+25,46.045,142,36.0,+11:00,,Ait El Abdia Anass,78,UAE-Team Emirates,4:26 4:26,,4,2018
+38,45.858999999999995,124,82.0,+29:11,,Rast Gregory,79,Trek - Segafredo,4:37 4:37,,4,2018
+26,45.775,2,37.0,+11:05,,De Tier Floris,80,Team LottoNL-Jumbo,4:42 4:42,,4,2018
+22,45.691,107,81.0,+26:58,,Rice Michael,81,Hagens Berman Axeon,4:47 4:47,,4,2018
+26,45.625,116,103.0,+33:24,,McLay Daniel,82,Team EF Education First-Drapac p/b Cannondale,4:51 4:51,,4,2018
+26,45.442,166,85.0,+29:30,,Putt Tanner,83,UnitedHealthcare Pro Cycling Team,5:02 5:02,,4,2018
+35,45.343,37,75.0,+26:21,,Richeze Ariel Maximiliano,84,Quick-Step Floors,5:08 5:08,,4,2018
+39,45.31,67,104.0,+33:43,,Pate Danny,85,Rally Cycling,5:10 5:10,,4,2018
+32,45.195,76,108.0,+34:06,,Kluge Roger,86,Mitchelton-Scott,5:17 5:17,,4,2018
+27,45.178999999999995,65,105.0,+33:51,,Magner Ty,87,Rally Cycling,5:18 5:18,,4,2018
+22,45.163000000000004,42,89.0,+29:46,,Davies Scott,88,Team Dimension Data,5:19 5:19,,4,2018
+32,45.146,46,57.0,+21:00,,Thomson Jay Robert,89,Team Dimension Data,5:20 5:20,,4,2018
+31,45.146,125,54.0,+19:27,,Reijnen Kiel,90,Trek - Segafredo,",, 5:20",,4,2018
+31,45.065,165,70.0,+24:48,,Norris Lachlan,91,UnitedHealthcare Pro Cycling Team,5:25 5:25,,4,2018
+25,45.049,13,115.0,+43:56,,Kol\xe1\u0159 Michael,92,BORA - hansgrohe,5:26 5:26,,4,2018
+23,45.0,117,107.0,+34:02,,Owen Logan,93,Team EF Education First-Drapac p/b Cannondale,5:29 5:29,,4,2018
+30,44.983999999999995,86,90.0,+30:04,,Stannard Ian,94,Team Sky,5:30 5:30,,4,2018
+35,44.951,44,111.0,+35:02,,Renshaw Mark,95,Team Dimension Data,5:32 5:32,,4,2018
+33,44.919,151,91.0,+30:08,,Murphy John,96,Holowesko - Citadel p/b Arapahoe Resources,5:34 5:34,,4,2018
+23,44.919,152,109.0,+34:07,,Bryon Miguel,97,Holowesko - Citadel p/b Arapahoe Resources,",, 5:34",,4,2018
+30,44.871,141,67.0,+24:21,,Kristoff Alexander,98,UAE-Team Emirates,5:37 5:37,,4,2018
+35,44.855,163,79.0,+26:51,,Haedo Lucas Sebastian,99,UnitedHealthcare Pro Cycling Team,5:38 5:38,,4,2018
+24,44.838,156,68.0,+24:23,,Lienhard Fabian,100,Holowesko - Citadel p/b Arapahoe Resources,5:39 5:39,,4,2018
+29,44.821999999999996,54,78.0,+26:30,,Haas Nathan,101,Team Katusha - Alpecin,5:40 5:40,,4,2018
+32,44.726000000000006,4,92.0,+30:20,,Leezer Tom,102,Team LottoNL-Jumbo,5:46 5:46,,4,2018
+29,44.693999999999996,17,116.0,+47:42,,Sagan Juraj,103,BORA - hansgrohe,5:48 5:48,,4,2018
+33,44.614,134,113.0,+35:38,,Stamsnijder Tom,104,Team Sunweb,5:53 5:53,,4,2018
+33,44.582,162,110.0,+34:26,,Clarke Jonathan,105,UnitedHealthcare Pro Cycling Team,5:55 5:55,,4,2018
+25,44.503,135,77.0,+26:28,,Teunissen Mike,106,Team Sunweb,6:00 6:00,,4,2018
+23,44.471000000000004,3,51.0,+17:10,,Kuss Sepp,107,Team LottoNL-Jumbo,6:02 6:02,,4,2018
+30,44.391999999999996,51,114.0,+36:31,,Kittel Marcel,108,Team Katusha - Alpecin,6:07 6:07,,4,2018
+23,44.298,73,65.0,+23:43,,Ewan Caleb,109,Mitchelton-Scott,6:13 6:13,,4,2018
+24,44.188,64,93.0,+30:48,,De Vos Adam,110,Rally Cycling,6:20 6:20,,4,2018
+29,44.016999999999996,77,69.0,+24:44,,Mezgec Luka,111,Mitchelton-Scott,6:31 6:31,,4,2018
+29,44.001000000000005,146,94.0,+31:06,,Mirza Yousef Mohamed,112,UAE-Team Emirates,6:32 6:32,,4,2018
+26,43.909,43,47.0,+15:27,,Morton Lachlan,113,Team Dimension Data,6:38 6:38,,4,2018
+32,43.45,132,98.0,+31:42,,Fr\xf6hlinger Johannes,114,Team Sunweb,7:08 7:08,,4,2018
+29,43.21,164,72.0,+25:37,,McCabe Travis,115,UnitedHealthcare Pro Cycling Team,7:24 7:24,,4,2018
+27,42.562,91,48.0,+16:10,,Naesen Oliver,116,AG2R La Mondiale,8:08 8:08,,4,2018
+23,,31,71.0,+25:45,35.0,Gaviria Fernando,1,Quick-Step Floors,4:04:34 4:04:34,40.0,5,2018
+23,,73,62.0,+23:37,20.0,Ewan Caleb,2,Mitchelton-Scott,",, ,,",15.0,5,2018
+28,,11,55.0,+21:11,12.0,Sagan Peter,3,BORA - hansgrohe,",, ,,",6.0,5,2018
+24,,57,93.0,+32:57,9.0,Zabel Rick,4,Team Katusha - Alpecin,",, ,,",,5,2018
+33,,151,79.0,+30:08,7.0,Murphy John,5,Holowesko - Citadel p/b Arapahoe Resources,",, ,,",,5,2018
+22,,103,15.0,+3:43,5.0,Bennett Sean,6,Hagens Berman Axeon,",, ,,",,5,2018
+35,,163,75.0,+26:51,3.0,Haedo Lucas Sebastian,7,UnitedHealthcare Pro Cycling Team,",, ,,",,5,2018
+21,,105,30.0,+9:00,2.0,Oliveira Ivo,8,Hagens Berman Axeon,",, ,,",,5,2018
+30,,141,65.0,+24:21,1.0,Kristoff Alexander,9,UAE-Team Emirates,",, ,,",,5,2018
+29,,164,70.0,+25:37,,McCabe Travis,10,UnitedHealthcare Pro Cycling Team,",, ,,",,5,2018
+20,,104,78.0,+29:33,,Garrison Ian,11,Hagens Berman Axeon,",, ,,",,5,2018
+29,,54,74.0,+26:30,,Haas Nathan,12,Team Katusha - Alpecin,",, ,,",,5,2018
+31,,125,52.0,+19:27,,Reijnen Kiel,13,Trek - Segafredo,",, ,,",,5,2018
+23,,152,100.0,+34:07,,Bryon Miguel,14,Holowesko - Citadel p/b Arapahoe Resources,",, ,,",,5,2018
+20,,66,7.0,+2:08,,McNulty Brandon,15,Rally Cycling,",, ,,",,5,2018
+25,,71,4.0,+1:07,,Yates Adam,16,Mitchelton-Scott,",, ,,",,5,2018
+22,,115,3.0,+0:37,,Martinez Daniel Felipe,17,Team EF Education First-Drapac p/b Cannondale,",, ,,",,5,2018
+26,,116,94.0,+33:24,,McLay Daniel,18,Team EF Education First-Drapac p/b Cannondale,",, ,,",,5,2018
+31,,112,48.0,+18:13,,Clarke Simon,19,Team EF Education First-Drapac p/b Cannondale,",, ,,",,5,2018
+21,,1,16.0,+3:45,,Powless Neilson,20,Team LottoNL-Jumbo,",, ,,",,5,2018
+30,,144,9.0,+2:15,,Durasek Kristijan,21,UAE-Team Emirates,",, ,,",,5,2018
+26,,161,17.0,+3:54,,Mannion Gavin,22,UnitedHealthcare Pro Cycling Team,",, ,,",,5,2018
+30,,96,29.0,+8:54,,Gautier Cyril,23,AG2R La Mondiale,",, ,,",,5,2018
+35,,37,73.0,+26:21,,Richeze Ariel Maximiliano,24,Quick-Step Floors,",, ,,",,5,2018
+23,,123,14.0,+3:35,,Guerreiro Ruben,25,Trek - Segafredo,",, ,,",,5,2018
+34,,21,10.0,+2:34,,Bookwalter Brent,26,BMC Racing Team,",, ,,",,5,2018
+28,,84,53.0,+19:48,,Rowe Luke,27,Team Sky,",, ,,",,5,2018
+21,,81,2.0,+0:23,,Bernal Egan Arley,28,Team Sky,",, ,,",,5,2018
+31,,25,32.0,+9:12,,Schar Michael,29,BMC Racing Team,",, ,,",,5,2018
+24,,5,13.0,+3:28,,Tolhoek Antwan,30,Team LottoNL-Jumbo,",, ,,",,5,2018
+28,,16,42.0,+12:50,,Poljanski Pawel,31,BORA - hansgrohe,",, ,,",,5,2018
+29,,23,1.0,+0:00,,van Garderen Tejay,32,BMC Racing Team,",, ,,",,5,2018
+27,,22,33.0,+9:50,,Bevin Patrick,33,BMC Racing Team,",, ,,",,5,2018
+28,,14,6.0,+1:29,,Majka Rafa\u0142,34,BORA - hansgrohe,",, ,,",,5,2018
+32,,41,97.0,+33:59,,Cavendish Mark,35,Team Dimension Data,",, ,,",,5,2018
+22,,102,12.0,+2:56,,Barta William,36,Hagens Berman Axeon,",, ,,",,5,2018
+31,,94,11.0,+2:36,,Frank Mathias,37,AG2R La Mondiale,",, ,,",,5,2018
+26,,2,36.0,+11:05,,De Tier Floris,38,Team LottoNL-Jumbo,",, ,,",,5,2018
+26,,143,63.0,+23:46,,Bystr\xf8m Sven Erik,39,UAE-Team Emirates,",, ,,",,5,2018
+36,,6,58.0,+22:37,,Wynants Maarten,40,Team LottoNL-Jumbo,",, ,,",,5,2018
+26,,126,20.0,+4:36,,Skuji\u0146\u0161 Toms,41,Trek - Segafredo,",, ,,",,5,2018
+25,,63,89.0,+31:37,,Carpenter Robin,42,Rally Cycling,",, ,,",,5,2018
+30,,121,22.0,+4:38,,Stetina Peter,43,Trek - Segafredo,",, ,,",,5,2018
+29,,77,66.0,+24:44,,Mezgec Luka,44,Mitchelton-Scott,",, ,,",,5,2018
+26,,127,56.0,+22:12,,Stuyven Jasper,45,Trek - Segafredo,",, ,,",,5,2018
+29,,167,25.0,+5:26,,Tvetcov Serghei,46,UnitedHealthcare Pro Cycling Team,",, ,,",,5,2018
+32,,4,80.0,+30:20,,Leezer Tom,47,Team LottoNL-Jumbo,",, ,,",,5,2018
+25,,13,114.0,+43:56,,Kol\xe1\u0159 Michael,48,BORA - hansgrohe,",, ,,",,5,2018
+27,,91,44.0,+16:10,,Naesen Oliver,49,AG2R La Mondiale,",, ,,",,5,2018
+23,,147,21.0,+4:38,,Ravasi Edward,50,UAE-Team Emirates,",, ,,",,5,2018
+21,,122,23.0,+4:39,,Conci Nicola,51,Trek - Segafredo,",, ,,",,5,2018
+27,,52,19.0,+4:31,,Boswell Ian,52,Team Katusha - Alpecin,",, ,,",,5,2018
+28,,24,24.0,+5:22,,Rosskopf Joey,53,BMC Racing Team,",, ,,",,5,2018
+20,,85,27.0,+6:38,,Sivakov Pavel,54,Team Sky,",, ,,",,5,2018
+33,,162,102.0,+34:26,,Clarke Jonathan,55,UnitedHealthcare Pro Cycling Team,",, ,,",,5,2018
+23,,53,26.0,+6:30,,Fabbro Matteo,56,Team Katusha - Alpecin,",, ,,",,5,2018
+33,,62,18.0,+4:21,,Britton Rob,57,Rally Cycling,",, ,,",,5,2018
+25,,142,35.0,+11:00,,Ait El Abdia Anass,58,UAE-Team Emirates,",, ,,",,5,2018
+30,,114,45.0,+16:38,,Howes Alex,59,Team EF Education First-Drapac p/b Cannondale,",, ,,",,5,2018
+22,,33,8.0,+2:13,,De Plus Laurens,60,Quick-Step Floors,",, ,,",,5,2018
+29,,155,38.0,+11:47,,Krasilnikau Andrei,61,Holowesko - Citadel p/b Arapahoe Resources,",, ,,",,5,2018
+29,,146,87.0,+31:06,,Mirza Yousef Mohamed,62,UAE-Team Emirates,",, ,,",,5,2018
+32,,27,40.0,+12:09,,Wyss Danilo,63,BMC Racing Team,",, ,,",,5,2018
+24,,83,37.0,+11:34,,Henao Sebasti\xe1n,64,Team Sky,",, ,,",,5,2018
+28,,45,39.0,+11:55,,Slagter Tom-Jelte,65,Team Dimension Data,",, ,,",,5,2018
+38,,124,77.0,+29:11,,Rast Gregory,66,Trek - Segafredo,",, ,,",,5,2018
+21,,34,88.0,+31:33,,Hodeg \xc1lvaro Jos\xe9,67,Quick-Step Floors,",, ,,",,5,2018
+31,,165,67.0,+24:48,,Norris Lachlan,68,UnitedHealthcare Pro Cycling Team,",, ,,",,5,2018
+21,,145,68.0,+25:16,,Ganna Filippo,69,UAE-Team Emirates,",, ,,",,5,2018
+28,,61,72.0,+25:57,,Huffman Evan,70,Rally Cycling,",, ,,",,5,2018
+23,,82,5.0,+1:15,,Geoghegan Hart Tao,71,Team Sky,0:23 0:23,,5,2018
+32,,55,60.0,+22:54,,Hollenstein Reto,72,Team Katusha - Alpecin,",, 0:23",,5,2018
+39,,67,99.0,+34:06,,Pate Danny,73,Rally Cycling,",, 0:23",,5,2018
+23,,32,31.0,+9:00,,Asgreen Kasper,74,Quick-Step Floors,0:27 0:27,,5,2018
+32,,76,103.0,+34:33,,Kluge Roger,75,Mitchelton-Scott,",, 0:27",,5,2018
+29,,17,115.0,+48:15,,Sagan Juraj,76,BORA - hansgrohe,0:33 0:33,,5,2018
+34,,97,47.0,+17:30,,Vandenbergh Stijn,77,AG2R La Mondiale,0:49 0:49,,5,2018
+22,,92,81.0,+30:21,,Cosnefroy Benoit,78,AG2R La Mondiale,",, 0:49",,5,2018
+27,,111,84.0,+30:27,,Phinney Taylor,79,Team EF Education First-Drapac p/b Cannondale,0:52 0:52,,5,2018
+33,,12,83.0,+30:27,,Bodnar Maciej,80,BORA - hansgrohe,0:57 0:57,,5,2018
+35,,35,95.0,+33:25,,Keisse Iljo,81,Quick-Step Floors,0:59 0:59,,5,2018
+19,,101,82.0,+30:26,,Bjerg Mikkel,82,Hagens Berman Axeon,1:00 1:00,,5,2018
+33,,72,28.0,+8:50,,Bauer Jack,83,Mitchelton-Scott,1:02 1:02,,5,2018
+24,,156,69.0,+25:27,,Lienhard Fabian,84,Holowesko - Citadel p/b Arapahoe Resources,1:09 1:09,,5,2018
+31,,15,92.0,+32:54,,Oss Daniel,85,BORA - hansgrohe,",, 1:09",,5,2018
+27,,93,54.0,+20:43,,Dillier Silvan,86,AG2R La Mondiale,1:14 1:14,,5,2018
+24,,56,43.0,+13:24,,Politt Nils,87,Team Katusha - Alpecin,1:26 1:26,,5,2018
+30,,51,106.0,+37:57,,Kittel Marcel,88,Team Katusha - Alpecin,",, 1:26",,5,2018
+26,,166,86.0,+30:53,,Putt Tanner,89,UnitedHealthcare Pro Cycling Team,",, 1:26",,5,2018
+40,,74,76.0,+28:07,,Hayman Mathew,90,Mitchelton-Scott,1:45 1:45,,5,2018
+23,,117,104.0,+36:04,,Owen Logan,91,Team EF Education First-Drapac p/b Cannondale,2:02 2:02,,5,2018
+26,,113,61.0,+23:03,,Craddock Lawson,92,Team EF Education First-Drapac p/b Cannondale,",, 2:02",,5,2018
+30,,86,91.0,+32:13,,Stannard Ian,93,Team Sky,2:09 2:09,,5,2018
+21,,36,41.0,+12:10,,Narvaez Jhonatan,94,Quick-Step Floors,",, 2:09",,5,2018
+23,,3,51.0,+19:19,,Kuss Sepp,95,Team LottoNL-Jumbo,",, 2:09",,5,2018
+32,,46,64.0,+23:51,,Thomson Jay Robert,96,Team Dimension Data,2:51 2:51,,5,2018
+22,,42,98.0,+34:04,,Davies Scott,97,Team Dimension Data,4:18 4:18,,5,2018
+28,,47,57.0,+22:24,,Vermote Julien,98,Team Dimension Data,4:20 4:20,,5,2018
+35,,44,110.0,+39:22,,Renshaw Mark,99,Team Dimension Data,",, 4:20",,5,2018
+33,,134,112.0,+39:58,,Stamsnijder Tom,100,Team Sunweb,",, 4:20",,5,2018
+26,,131,50.0,+19:06,,Arndt Nikias,101,Team Sunweb,",, 4:20",,5,2018
+30,,95,46.0,+16:44,,Gastauer Ben,102,AG2R La Mondiale,",, 4:20",,5,2018
+27,,65,107.0,+38:11,,Magner Ty,103,Rally Cycling,",, 4:20",,5,2018
+26,,87,90.0,+32:02,,Wisniowski Lukasz,104,Team Sky,5:04 5:04,,5,2018
+23,,154,34.0,+10:45,,Eisenhart Taylor,105,Holowesko - Citadel p/b Arapahoe Resources,5:06 5:06,,5,2018
+24,,64,105.0,+37:05,,De Vos Adam,106,Rally Cycling,6:17 6:17,,5,2018
+32,,132,109.0,+38:40,,Fr\xf6hlinger Johannes,107,Team Sunweb,6:58 6:58,,5,2018
+25,,135,96.0,+33:26,,Teunissen Mike,108,Team Sunweb,",, 6:58",,5,2018
+24,,136,111.0,+39:54,,Walscheid Max,109,Team Sunweb,",, 6:58",,5,2018
+22,,133,49.0,+18:56,,Hindley Jai,110,Team Sunweb,",, 6:58",,5,2018
+22,,107,101.0,+34:23,,Rice Michael,111,Hagens Berman Axeon,7:25 7:25,,5,2018
+26,,75,85.0,+30:51,,Hepburn Michael,112,Mitchelton-Scott,",, 7:25",,5,2018
+27,,153,113.0,+42:32,,Companioni Ruben,113,Holowesko - Citadel p/b Arapahoe Resources,",, 7:25",,5,2018
+22,,26,108.0,+38:36,,Van Hooydonck Nathan,114,BMC Racing Team,",, 7:25",,5,2018
+26,,43,59.0,+22:52,,Morton Lachlan,115,Team Dimension Data,",, 7:25",,5,2018
+20,,106,,+ - 16:55:29,,Philipsen Jasper,DNF,Hagens Berman Axeon,-4:04:34 -4:04:34,,5,2018
+21,,81,1.0,+0:00,35.0,Bernal Egan Arley,1,Team Sky,5:30:58 5:30:58,40.0,6,2018
+25,,71,4.0,+2:16,20.0,Yates Adam,2,Mitchelton-Scott,1:28 1:28,15.0,6,2018
+23,,82,5.0,+2:28,12.0,Geoghegan Hart Tao,3,Team Sky,1:30 1:30,6.0,6,2018
+20,,66,7.0,+3:28,9.0,McNulty Brandon,4,Rally Cycling,1:33 1:33,,6,2018
+22,,133,36.0,+20:21,7.0,Hindley Jai,5,Team Sunweb,1:38 1:38,,6,2018
+31,,94,10.0,+4:01,5.0,Frank Mathias,6,AG2R La Mondiale,",, 1:38",,6,2018
+29,,23,2.0,+1:25,3.0,van Garderen Tejay,7,BMC Racing Team,",, 1:38",,6,2018
+28,,14,6.0,+3:01,2.0,Majka Rafa\u0142,8,BORA - hansgrohe,1:45 1:45,,6,2018
+23,,147,12.0,+6:11,1.0,Ravasi Edward,9,UAE-Team Emirates,1:46 1:46,,6,2018
+22,,115,3.0,+2:14,,Martinez Daniel Felipe,10,Team EF Education First-Drapac p/b Cannondale,1:50 1:50,,6,2018
+22,,33,8.0,+3:50,,De Plus Laurens,11,Quick-Step Floors,",, 1:50",,6,2018
+30,,144,9.0,+3:59,,Durasek Kristijan,12,UAE-Team Emirates,1:57 1:57,,6,2018
+26,,161,11.0,+5:40,,Mannion Gavin,13,UnitedHealthcare Pro Cycling Team,1:59 1:59,,6,2018
+26,,43,45.0,+25:51,,Morton Lachlan,14,Team Dimension Data,3:12 3:12,,6,2018
+30,,121,17.0,+7:41,,Stetina Peter,15,Trek - Segafredo,3:16 3:16,,6,2018
+21,,122,18.0,+7:51,,Conci Nicola,16,Trek - Segafredo,3:25 3:25,,6,2018
+33,,62,16.0,+7:33,,Britton Rob,17,Rally Cycling,",, 3:25",,6,2018
+23,,53,22.0,+10:00,,Fabbro Matteo,18,Team Katusha - Alpecin,3:43 3:43,,6,2018
+23,,123,14.0,+7:05,,Guerreiro Ruben,19,Trek - Segafredo,",, 3:43",,6,2018
+24,,5,13.0,+7:03,,Tolhoek Antwan,20,Team LottoNL-Jumbo,3:48 3:48,,6,2018
+27,,52,19.0,+8:08,,Boswell Ian,21,Team Katusha - Alpecin,3:50 3:50,,6,2018
+24,,83,28.0,+15:11,,Henao Sebasti\xe1n,22,Team Sky,",, 3:50",,6,2018
+26,,126,20.0,+8:10,,Skuji\u0146\u0161 Toms,23,Trek - Segafredo,",, 3:50",,6,2018
+21,,1,15.0,+7:28,,Powless Neilson,24,Team LottoNL-Jumbo,3:56 3:56,,6,2018
+23,,154,26.0,+14:39,,Eisenhart Taylor,25,Holowesko - Citadel p/b Arapahoe Resources,4:07 4:07,,6,2018
+23,,3,43.0,+24:16,,Kuss Sepp,26,Team LottoNL-Jumbo,5:10 5:10,,6,2018
+30,,95,40.0,+22:17,,Gastauer Ben,27,AG2R La Mondiale,5:46 5:46,,6,2018
+25,,142,32.0,+16:46,,Ait El Abdia Anass,28,UAE-Team Emirates,5:59 5:59,,6,2018
+30,,96,27.0,+14:40,,Gautier Cyril,29,AG2R La Mondiale,",, 5:59",,6,2018
+33,,72,25.0,+14:36,,Bauer Jack,30,Mitchelton-Scott,",, 5:59",,6,2018
+31,,25,30.0,+16:33,,Schar Michael,31,BMC Racing Team,7:34 7:34,,6,2018
+34,,21,21.0,+9:55,,Bookwalter Brent,32,BMC Racing Team,",, 7:34",,6,2018
+22,,102,23.0,+10:17,,Barta William,33,Hagens Berman Axeon,",, 7:34",,6,2018
+28,,16,35.0,+20:11,,Poljanski Pawel,34,BORA - hansgrohe,",, 7:34",,6,2018
+26,,113,51.0,+31:43,,Craddock Lawson,35,Team EF Education First-Drapac p/b Cannondale,8:56 8:56,,6,2018
+26,,127,50.0,+30:55,,Stuyven Jasper,36,Trek - Segafredo,",, 8:56",,6,2018
+30,,114,46.0,+25:58,,Howes Alex,37,Team EF Education First-Drapac p/b Cannondale,9:33 9:33,,6,2018
+23,,32,33.0,+18:25,,Asgreen Kasper,38,Quick-Step Floors,9:38 9:38,,6,2018
+21,,105,34.0,+18:35,,Oliveira Ivo,39,Hagens Berman Axeon,9:48 9:48,,6,2018
+22,,103,24.0,+13:20,,Bennett Sean,40,Hagens Berman Axeon,9:51 9:51,,6,2018
+28,,24,29.0,+15:24,,Rosskopf Joey,41,BMC Racing Team,10:15 10:15,,6,2018
+28,,45,37.0,+21:56,,Slagter Tom-Jelte,42,Team Dimension Data,",, 10:15",,6,2018
+20,,85,31.0,+16:40,,Sivakov Pavel,43,Team Sky,",, 10:15",,6,2018
+19,,101,59.0,+40:28,,Bjerg Mikkel,44,Hagens Berman Axeon,",, 10:15",,6,2018
+32,,27,38.0,+22:11,,Wyss Danilo,45,BMC Racing Team,",, 10:15",,6,2018
+25,,135,68.0,+43:28,,Teunissen Mike,46,Team Sunweb,",, 10:15",,6,2018
+34,,97,47.0,+27:54,,Vandenbergh Stijn,47,AG2R La Mondiale,10:37 10:37,,6,2018
+24,,56,44.0,+24:29,,Politt Nils,48,Team Katusha - Alpecin,11:18 11:18,,6,2018
+26,,2,41.0,+23:34,,De Tier Floris,49,Team LottoNL-Jumbo,12:46 12:46,,6,2018
+27,,22,42.0,+24:01,,Bevin Patrick,50,BMC Racing Team,14:24 14:24,,6,2018
+28,,11,58.0,+37:58,,Sagan Peter,51,BORA - hansgrohe,17:00 17:00,,6,2018
+31,,15,79.0,+49:41,,Oss Daniel,52,BORA - hansgrohe,",, 17:00",,6,2018
+29,,17,111.0,+1:05:02,,Sagan Juraj,53,BORA - hansgrohe,",, 17:00",,6,2018
+21,,145,62.0,+42:03,,Ganna Filippo,54,UAE-Team Emirates,",, 17:00",,6,2018
+29,,167,39.0,+22:13,,Tvetcov Serghei,55,UnitedHealthcare Pro Cycling Team,",, 17:00",,6,2018
+27,,93,55.0,+36:16,,Dillier Silvan,56,AG2R La Mondiale,",, 17:00",,6,2018
+27,,91,52.0,+32:57,,Naesen Oliver,57,AG2R La Mondiale,",, 17:00",,6,2018
+26,,131,53.0,+35:53,,Arndt Nikias,58,Team Sunweb,",, 17:00",,6,2018
+29,,77,61.0,+41:31,,Mezgec Luka,59,Mitchelton-Scott,",, 17:00",,6,2018
+32,,4,72.0,+47:07,,Leezer Tom,60,Team LottoNL-Jumbo,",, 17:00",,6,2018
+31,,125,54.0,+36:14,,Reijnen Kiel,61,Trek - Segafredo,",, 17:00",,6,2018
+29,,164,64.0,+42:24,,McCabe Travis,62,UnitedHealthcare Pro Cycling Team,",, 17:00",,6,2018
+27,,65,86.0,+54:58,,Magner Ty,63,Rally Cycling,",, 17:00",,6,2018
+21,,36,48.0,+28:57,,Narvaez Jhonatan,64,Quick-Step Floors,",, 17:00",,6,2018
+25,,63,76.0,+48:24,,Carpenter Robin,65,Rally Cycling,",, 17:00",,6,2018
+40,,74,70.0,+44:54,,Hayman Mathew,66,Mitchelton-Scott,",, 17:00",,6,2018
+23,,31,65.0,+42:32,,Gaviria Fernando,67,Quick-Step Floors,",, 17:00",,6,2018
+28,,84,57.0,+36:35,,Rowe Luke,68,Team Sky,",, 17:00",,6,2018
+28,,61,67.0,+42:44,,Huffman Evan,69,Rally Cycling,",, 17:00",,6,2018
+29,,155,49.0,+30:08,,Krasilnikau Andrei,70,Holowesko - Citadel p/b Arapahoe Resources,18:34 18:34,,6,2018
+32,,132,93.0,+57:01,,Fr\xf6hlinger Johannes,71,Team Sunweb,",, 18:34",,6,2018
+36,,6,60.0,+40:58,,Wynants Maarten,72,Team LottoNL-Jumbo,",, 18:34",,6,2018
+26,,143,63.0,+42:07,,Bystr\xf8m Sven Erik,73,UAE-Team Emirates,",, 18:34",,6,2018
+31,,112,56.0,+36:34,,Clarke Simon,74,Team EF Education First-Drapac p/b Cannondale,",, 18:34",,6,2018
+30,,141,66.0,+42:42,,Kristoff Alexander,75,UAE-Team Emirates,",, 18:34",,6,2018
+20,,104,74.0,+47:54,,Garrison Ian,76,Hagens Berman Axeon,",, 18:34",,6,2018
+30,,86,82.0,+50:34,,Stannard Ian,77,Team Sky,",, 18:34",,6,2018
+35,,163,71.0,+45:58,,Haedo Lucas Sebastian,78,UnitedHealthcare Pro Cycling Team,19:20 19:20,,6,2018
+31,,165,69.0,+43:55,,Norris Lachlan,79,UnitedHealthcare Pro Cycling Team,",, 19:20",,6,2018
+38,,124,80.0,+50:08,,Rast Gregory,80,Trek - Segafredo,21:10 21:10,,6,2018
+22,,92,85.0,+53:50,,Cosnefroy Benoit,81,AG2R La Mondiale,23:42 23:42,,6,2018
+23,,117,104.0,+1:00:18,,Owen Logan,82,Team EF Education First-Drapac p/b Cannondale,24:27 24:27,,6,2018
+26,,75,87.0,+55:05,,Hepburn Michael,83,Mitchelton-Scott,",, 24:27",,6,2018
+22,,107,97.0,+58:37,,Rice Michael,84,Hagens Berman Axeon,",, 24:27",,6,2018
+28,,47,73.0,+47:25,,Vermote Julien,85,Team Dimension Data,25:14 25:14,,6,2018
+35,,35,96.0,+58:26,,Keisse Iljo,86,Quick-Step Floors,",, 25:14",,6,2018
+32,,46,78.0,+48:52,,Thomson Jay Robert,87,Team Dimension Data,",, 25:14",,6,2018
+32,,55,75.0,+47:55,,Hollenstein Reto,88,Team Katusha - Alpecin,",, 25:14",,6,2018
+22,,42,99.0,+59:05,,Davies Scott,89,Team Dimension Data,",, 25:14",,6,2018
+22,,26,107.0,+1:03:37,,Van Hooydonck Nathan,90,BMC Racing Team,",, 25:14",,6,2018
+21,,34,92.0,+56:34,,Hodeg \xc1lvaro Jos\xe9,91,Quick-Step Floors,",, 25:14",,6,2018
+24,,136,109.0,+1:04:55,,Walscheid Max,92,Team Sunweb,",, 25:14",,6,2018
+24,,156,81.0,+50:28,,Lienhard Fabian,93,Holowesko - Citadel p/b Arapahoe Resources,",, 25:14",,6,2018
+24,,64,105.0,+1:02:06,,De Vos Adam,94,Rally Cycling,",, 25:14",,6,2018
+26,,166,91.0,+55:54,,Putt Tanner,95,UnitedHealthcare Pro Cycling Team,",, 25:14",,6,2018
+26,,116,95.0,+58:25,,McLay Daniel,96,Team EF Education First-Drapac p/b Cannondale,",, 25:14",,6,2018
+24,,57,94.0,+57:58,,Zabel Rick,97,Team Katusha - Alpecin,",, 25:14",,6,2018
+32,,41,98.0,+59:00,,Cavendish Mark,98,Team Dimension Data,",, 25:14",,6,2018
+35,,44,108.0,+1:04:23,,Renshaw Mark,99,Team Dimension Data,",, 25:14",,6,2018
+30,,51,106.0,+1:02:58,,Kittel Marcel,100,Team Katusha - Alpecin,",, 25:14",,6,2018
+29,,54,84.0,+51:31,,Haas Nathan,101,Team Katusha - Alpecin,",, 25:14",,6,2018
+33,,134,110.0,+1:04:59,,Stamsnijder Tom,102,Team Sunweb,",, 25:14",,6,2018
+25,,13,112.0,+1:08:57,,Kol\xe1\u0159 Michael,103,BORA - hansgrohe,",, 25:14",,6,2018
+33,,12,89.0,+55:28,,Bodnar Maciej,104,BORA - hansgrohe,",, 25:14",,6,2018
+39,,67,100.0,+59:07,,Pate Danny,105,Rally Cycling,",, 25:14",,6,2018
+33,,162,102.0,+59:27,,Clarke Jonathan,106,UnitedHealthcare Pro Cycling Team,",, 25:14",,6,2018
+23,,152,101.0,+59:08,,Bryon Miguel,107,Holowesko - Citadel p/b Arapahoe Resources,",, 25:14",,6,2018
+35,,37,83.0,+51:22,,Richeze Ariel Maximiliano,108,Quick-Step Floors,",, 25:14",,6,2018
+33,,151,88.0,+55:09,,Murphy John,109,Holowesko - Citadel p/b Arapahoe Resources,",, 25:14",,6,2018
+27,,111,90.0,+55:28,,Phinney Taylor,110,Team EF Education First-Drapac p/b Cannondale,",, 25:14",,6,2018
+23,,73,77.0,+48:38,,Ewan Caleb,111,Mitchelton-Scott,",, 25:14",,6,2018
+32,,76,103.0,+59:34,,Kluge Roger,112,Mitchelton-Scott,",, 25:14",,6,2018
+28,,153,,+ - 22:26:40,,Companioni Ruben,DNF,Holowesko - Citadel p/b Arapahoe Resources,-5:30:58 -5:30:58,,6,2018
+29,,146,,+ - 22:26:40,,Mirza Yousef Mohamed,DNF,UAE-Team Emirates,",, -5:30:58",,6,2018
+26,,87,,+ - 22:26:40,,Wisniowski Lukasz,DNS,Team Sky,",, -5:30:58",,6,2018
+23,,31,64.0,+42:22,35.0,Gaviria Fernando,1,Quick-Step Floors,3:07:39 3:07:39,40.0,7,2018
+24,,136,109.0,+1:04:49,20.0,Walscheid Max,2,Team Sunweb,",, ,,",15.0,7,2018
+23,,73,76.0,+48:34,12.0,Ewan Caleb,3,Mitchelton-Scott,",, ,,",6.0,7,2018
+28,,11,58.0,+37:58,9.0,Sagan Peter,4,BORA - hansgrohe,",, ,,",,7,2018
+23,,152,99.0,+59:08,7.0,Bryon Miguel,5,Holowesko - Citadel p/b Arapahoe Resources,",, ,,",,7,2018
+30,,141,66.0,+42:42,5.0,Kristoff Alexander,6,UAE-Team Emirates,",, ,,",,7,2018
+22,,107,96.0,+58:37,3.0,Rice Michael,7,Hagens Berman Axeon,",, ,,",,7,2018
+27,,65,86.0,+54:58,2.0,Magner Ty,8,Rally Cycling,",, ,,",,7,2018
+26,,116,95.0,+58:25,1.0,McLay Daniel,9,Team EF Education First-Drapac p/b Cannondale,",, ,,",,7,2018
+31,,125,53.0,+36:14,,Reijnen Kiel,10,Trek - Segafredo,",, ,,",,7,2018
+20,,104,72.0,+47:54,,Garrison Ian,11,Hagens Berman Axeon,",, ,,",,7,2018
+29,,164,65.0,+42:24,,McCabe Travis,12,UnitedHealthcare Pro Cycling Team,",, ,,",,7,2018
+31,,15,78.0,+49:41,,Oss Daniel,13,BORA - hansgrohe,",, ,,",,7,2018
+22,,103,24.0,+13:20,,Bennett Sean,14,Hagens Berman Axeon,",, ,,",,7,2018
+25,,13,112.0,+1:08:57,,Kol\xe1\u0159 Michael,15,BORA - hansgrohe,",, ,,",,7,2018
+35,,37,82.0,+51:22,,Richeze Ariel Maximiliano,16,Quick-Step Floors,",, ,,",,7,2018
+30,,51,105.0,+1:02:58,,Kittel Marcel,17,Team Katusha - Alpecin,",, ,,",,7,2018
+29,,77,61.0,+41:31,,Mezgec Luka,18,Mitchelton-Scott,",, ,,",,7,2018
+27,,22,42.0,+24:01,,Bevin Patrick,19,BMC Racing Team,",, ,,",,7,2018
+23,,32,33.0,+18:25,,Asgreen Kasper,20,Quick-Step Floors,",, ,,",,7,2018
+25,,71,4.0,+2:16,,Yates Adam,21,Mitchelton-Scott,",, ,,",,7,2018
+21,,34,90.0,+56:34,,Hodeg \xc1lvaro Jos\xe9,22,Quick-Step Floors,",, ,,",,7,2018
+21,,105,34.0,+18:35,,Oliveira Ivo,23,Hagens Berman Axeon,",, ,,",,7,2018
+22,,33,8.0,+3:50,,De Plus Laurens,24,Quick-Step Floors,",, ,,",,7,2018
+26,,161,11.0,+5:40,,Mannion Gavin,25,UnitedHealthcare Pro Cycling Team,",, ,,",,7,2018
+30,,96,25.0,+14:40,,Gautier Cyril,26,AG2R La Mondiale,",, ,,",,7,2018
+35,,163,70.0,+45:58,,Haedo Lucas Sebastian,27,UnitedHealthcare Pro Cycling Team,",, ,,",,7,2018
+26,,127,50.0,+30:55,,Stuyven Jasper,28,Trek - Segafredo,",, ,,",,7,2018
+23,,82,5.0,+2:28,,Geoghegan Hart Tao,29,Team Sky,",, ,,",,7,2018
+31,,25,30.0,+16:33,,Schar Michael,30,BMC Racing Team,",, ,,",,7,2018
+31,,112,55.0,+36:34,,Clarke Simon,31,Team EF Education First-Drapac p/b Cannondale,",, ,,",,7,2018
+22,,115,3.0,+2:14,,Martinez Daniel Felipe,32,Team EF Education First-Drapac p/b Cannondale,",, ,,",,7,2018
+21,,81,1.0,+0:00,,Bernal Egan Arley,33,Team Sky,",, ,,",,7,2018
+30,,144,9.0,+3:59,,Durasek Kristijan,34,UAE-Team Emirates,",, ,,",,7,2018
+32,,27,37.0,+22:11,,Wyss Danilo,35,BMC Racing Team,",, ,,",,7,2018
+31,,94,10.0,+4:01,,Frank Mathias,36,AG2R La Mondiale,",, ,,",,7,2018
+28,,16,35.0,+20:11,,Poljanski Pawel,37,BORA - hansgrohe,",, ,,",,7,2018
+28,,14,6.0,+3:01,,Majka Rafa\u0142,38,BORA - hansgrohe,",, ,,",,7,2018
+29,,23,2.0,+1:25,,van Garderen Tejay,39,BMC Racing Team,",, ,,",,7,2018
+36,,6,59.0,+40:58,,Wynants Maarten,40,Team LottoNL-Jumbo,",, ,,",,7,2018
+24,,57,93.0,+57:58,,Zabel Rick,41,Team Katusha - Alpecin,",, ,,",,7,2018
+20,,66,7.0,+3:28,,McNulty Brandon,42,Rally Cycling,",, ,,",,7,2018
+30,,114,45.0,+25:58,,Howes Alex,43,Team EF Education First-Drapac p/b Cannondale,",, ,,",,7,2018
+23,,123,14.0,+7:05,,Guerreiro Ruben,44,Trek - Segafredo,",, ,,",,7,2018
+32,,41,98.0,+59:00,,Cavendish Mark,45,Team Dimension Data,",, ,,",,7,2018
+26,,166,89.0,+55:54,,Putt Tanner,46,UnitedHealthcare Pro Cycling Team,",, ,,",,7,2018
+27,,111,87.0,+55:28,,Phinney Taylor,47,Team EF Education First-Drapac p/b Cannondale,",, ,,",,7,2018
+24,,5,13.0,+7:03,,Tolhoek Antwan,48,Team LottoNL-Jumbo,",, ,,",,7,2018
+27,,91,51.0,+32:57,,Naesen Oliver,49,AG2R La Mondiale,",, ,,",,7,2018
+30,,95,39.0,+22:17,,Gastauer Ben,50,AG2R La Mondiale,",, ,,",,7,2018
+26,,126,19.0,+8:10,,Skuji\u0146\u0161 Toms,51,Trek - Segafredo,",, ,,",,7,2018
+28,,84,56.0,+36:35,,Rowe Luke,52,Team Sky,",, ,,",,7,2018
+21,,1,15.0,+7:25,,Powless Neilson,53,Team LottoNL-Jumbo,",, ,,",,7,2018
+33,,62,16.0,+7:33,,Britton Rob,54,Rally Cycling,",, ,,",,7,2018
+22,,26,106.0,+1:03:37,,Van Hooydonck Nathan,55,BMC Racing Team,",, ,,",,7,2018
+34,,21,21.0,+9:55,,Bookwalter Brent,56,BMC Racing Team,",, ,,",,7,2018
+35,,44,107.0,+1:04:23,,Renshaw Mark,57,Team Dimension Data,",, ,,",,7,2018
+23,,147,12.0,+6:11,,Ravasi Edward,58,UAE-Team Emirates,",, ,,",,7,2018
+22,,92,85.0,+54:06,,Cosnefroy Benoit,59,AG2R La Mondiale,0:16 0:16,,7,2018
+23,,3,43.0,+24:32,,Kuss Sepp,60,Team LottoNL-Jumbo,",, 0:16",,7,2018
+20,,85,31.0,+16:56,,Sivakov Pavel,61,Team Sky,",, 0:16",,7,2018
+28,,24,29.0,+15:40,,Rosskopf Joey,62,BMC Racing Team,",, 0:16",,7,2018
+22,,102,23.0,+10:33,,Barta William,63,Hagens Berman Axeon,",, 0:16",,7,2018
+30,,121,17.0,+7:57,,Stetina Peter,64,Trek - Segafredo,",, 0:16",,7,2018
+27,,93,54.0,+36:32,,Dillier Silvan,65,AG2R La Mondiale,",, 0:16",,7,2018
+26,,2,41.0,+23:50,,De Tier Floris,66,Team LottoNL-Jumbo,",, 0:16",,7,2018
+21,,122,18.0,+8:07,,Conci Nicola,67,Trek - Segafredo,",, 0:16",,7,2018
+28,,45,38.0,+22:12,,Slagter Tom-Jelte,68,Team Dimension Data,",, 0:16",,7,2018
+25,,63,77.0,+48:40,,Carpenter Robin,69,Rally Cycling,",, 0:16",,7,2018
+32,,76,101.0,+59:50,,Kluge Roger,70,Mitchelton-Scott,",, 0:16",,7,2018
+29,,167,40.0,+22:29,,Tvetcov Serghei,71,UnitedHealthcare Pro Cycling Team,",, 0:16",,7,2018
+25,,142,32.0,+17:02,,Ait El Abdia Anass,72,UAE-Team Emirates,",, 0:16",,7,2018
+21,,36,48.0,+29:13,,Narvaez Jhonatan,73,Quick-Step Floors,",, 0:16",,7,2018
+34,,97,47.0,+28:10,,Vandenbergh Stijn,74,AG2R La Mondiale,",, 0:16",,7,2018
+30,,86,81.0,+50:50,,Stannard Ian,75,Team Sky,",, 0:16",,7,2018
+27,,52,20.0,+8:24,,Boswell Ian,76,Team Katusha - Alpecin,",, 0:16",,7,2018
+32,,55,74.0,+48:11,,Hollenstein Reto,77,Team Katusha - Alpecin,",, 0:16",,7,2018
+39,,67,100.0,+59:23,,Pate Danny,78,Rally Cycling,",, 0:16",,7,2018
+23,,53,22.0,+10:16,,Fabbro Matteo,79,Team Katusha - Alpecin,",, 0:16",,7,2018
+29,,155,49.0,+30:24,,Krasilnikau Andrei,80,Holowesko - Citadel p/b Arapahoe Resources,",, 0:16",,7,2018
+21,,145,63.0,+42:19,,Ganna Filippo,81,UAE-Team Emirates,",, 0:16",,7,2018
+22,,133,36.0,+20:37,,Hindley Jai,82,Team Sunweb,",, 0:16",,7,2018
+29,,17,110.0,+1:05:18,,Sagan Juraj,83,BORA - hansgrohe,",, 0:16",,7,2018
+23,,154,26.0,+14:55,,Eisenhart Taylor,84,Holowesko - Citadel p/b Arapahoe Resources,",, 0:16",,7,2018
+24,,83,27.0,+15:27,,Henao Sebasti\xe1n,85,Team Sky,",, 0:16",,7,2018
+24,,56,44.0,+24:45,,Politt Nils,86,Team Katusha - Alpecin,",, 0:16",,7,2018
+35,,35,97.0,+58:42,,Keisse Iljo,87,Quick-Step Floors,",, 0:16",,7,2018
+33,,151,88.0,+55:37,,Murphy John,88,Holowesko - Citadel p/b Arapahoe Resources,0:28 0:28,,7,2018
+38,,124,80.0,+50:47,,Rast Gregory,89,Trek - Segafredo,0:39 0:39,,7,2018
+19,,101,60.0,+41:10,,Bjerg Mikkel,90,Hagens Berman Axeon,0:42 0:42,,7,2018
+25,,135,68.0,+44:19,,Teunissen Mike,91,Team Sunweb,0:51 0:51,,7,2018
+32,,4,73.0,+47:58,,Leezer Tom,92,Team LottoNL-Jumbo,",, 0:51",,7,2018
+23,,117,103.0,+1:01:09,,Owen Logan,93,Team EF Education First-Drapac p/b Cannondale,",, 0:51",,7,2018
+28,,47,75.0,+48:16,,Vermote Julien,94,Team Dimension Data,",, 0:51",,7,2018
+33,,72,28.0,+15:27,,Bauer Jack,95,Mitchelton-Scott,",, 0:51",,7,2018
+31,,165,69.0,+44:46,,Norris Lachlan,96,UnitedHealthcare Pro Cycling Team,",, 0:51",,7,2018
+33,,12,91.0,+56:41,,Bodnar Maciej,97,BORA - hansgrohe,1:13 1:13,,7,2018
+33,,134,111.0,+1:06:12,,Stamsnijder Tom,98,Team Sunweb,",, 1:13",,7,2018
+24,,156,83.0,+51:41,,Lienhard Fabian,99,Holowesko - Citadel p/b Arapahoe Resources,",, 1:13",,7,2018
+32,,132,94.0,+58:14,,Fr\xf6hlinger Johannes,100,Team Sunweb,",, 1:13",,7,2018
+29,,54,84.0,+52:44,,Haas Nathan,101,Team Katusha - Alpecin,",, 1:13",,7,2018
+28,,61,67.0,+44:05,,Huffman Evan,102,Rally Cycling,1:21 1:21,,7,2018
+26,,113,52.0,+33:04,,Craddock Lawson,103,Team EF Education First-Drapac p/b Cannondale,",, 1:21",,7,2018
+22,,42,102.0,+1:00:26,,Davies Scott,104,Team Dimension Data,",, 1:21",,7,2018
+26,,131,57.0,+37:14,,Arndt Nikias,105,Team Sunweb,",, 1:21",,7,2018
+40,,74,71.0,+46:15,,Hayman Mathew,106,Mitchelton-Scott,",, 1:21",,7,2018
+26,,43,46.0,+27:24,,Morton Lachlan,107,Team Dimension Data,1:33 1:33,,7,2018
+32,,46,79.0,+50:32,,Thomson Jay Robert,108,Team Dimension Data,1:40 1:40,,7,2018
+26,,75,92.0,+57:13,,Hepburn Michael,109,Mitchelton-Scott,2:08 2:08,,7,2018
+24,,64,108.0,+1:04:26,,De Vos Adam,110,Rally Cycling,2:26 2:26,,7,2018
+33,,162,104.0,+1:01:58,,Clarke Jonathan,111,UnitedHealthcare Pro Cycling Team,2:34 2:34,,7,2018
+26,,143,62.0,+42:07,,Bystr\xf8m Sven Erik,112,UAE-Team Emirates,",, 2:34",,7,2018

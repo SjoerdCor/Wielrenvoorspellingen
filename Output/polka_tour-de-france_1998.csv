@@ -1,0 +1,905 @@
+Age,BIB,Pnt,Prev,Rider,Rnk,Team,\u25bc\u25b2,stage,year
+29,39,10,,Zanini Stefano,1,Mapei - Bricobi,,1,1998
+26,89,7,,Voigt Jens,2,GAN,,1,1998
+27,162,5,,Benitez Francisco,3,Vitalicio Seguros,,1,1998
+31,65,3,,Durand Jacky,4,Casino - AG2R,,1,1998
+25,174,1,,De Los Angeles Juan Jos\xe9,5,Kelme - Costa Blanca,,1,1998
+29,39,16,1.0,Zanini Stefano,1,Mapei - Bricobi,-,2,1998
+34,14,13,,Herv\xe9 Pascal,2,Festina - Lotus,-,2,1998
+26,89,10,2.0,Voigt Jens,3,GAN,\u25bc1,2,1998
+28,62,7,,Agnolutto Christophe,4,Casino - AG2R,-,2,1998
+25,178,5,,Serrano Marcos Antonio,5,Kelme - Costa Blanca,-,2,1998
+27,162,5,3.0,Benitez Francisco,6,Vitalicio Seguros,\u25bc3,2,1998
+31,65,3,4.0,Durand Jacky,7,Casino - AG2R,\u25bc3,2,1998
+26,135,1,,Julich Bobby,8,Cofidis,-,2,1998
+25,174,1,5.0,De Los Angeles Juan Jos\xe9,9,Kelme - Costa Blanca,\u25bc4,2,1998
+34,14,28,2.0,Herv\xe9 Pascal,1,Festina - Lotus,\u25b21,3,1998
+29,39,16,1.0,Zanini Stefano,2,Mapei - Bricobi,\u25bc1,3,1998
+26,89,10,3.0,Voigt Jens,3,GAN,-,3,1998
+28,61,7,,Hamburger Bo,4,Casino - AG2R,-,3,1998
+28,62,7,4.0,Agnolutto Christophe,5,Casino - AG2R,\u25bc1,3,1998
+25,178,5,5.0,Serrano Marcos Antonio,6,Kelme - Costa Blanca,\u25bc1,3,1998
+28,125,5,,Jan Xavier,7,La Fran\xe7aise des Jeux,-,3,1998
+27,162,5,6.0,Benitez Francisco,8,Vitalicio Seguros,\u25bc2,3,1998
+25,187,3,,Hincapie George,9,US Postal Service,-,3,1998
+33,6,3,,Heppner Jens,10,Team Telekom - ARD,-,3,1998
+31,65,3,7.0,Durand Jacky,11,Casino - AG2R,\u25bc4,3,1998
+29,172,2,,Cabello Francisco,12,Kelme - Costa Blanca,-,3,1998
+26,135,1,8.0,Julich Bobby,13,Cofidis,\u25bc5,3,1998
+25,174,1,9.0,De Los Angeles Juan Jos\xe9,14,Kelme - Costa Blanca,\u25bc5,3,1998
+34,14,34,1.0,Herv\xe9 Pascal,1,Festina - Lotus,-,4,1998
+29,39,16,2.0,Zanini Stefano,2,Mapei - Bricobi,-,4,1998
+26,89,10,3.0,Voigt Jens,3,GAN,-,4,1998
+28,61,7,4.0,Hamburger Bo,4,Casino - AG2R,-,4,1998
+28,62,7,5.0,Agnolutto Christophe,5,Casino - AG2R,-,4,1998
+31,65,6,11.0,Durand Jacky,6,Casino - AG2R,\u25b25,4,1998
+24,128,5,,Nazon Damien,7,La Fran\xe7aise des Jeux,-,4,1998
+25,178,5,6.0,Serrano Marcos Antonio,8,Kelme - Costa Blanca,\u25bc2,4,1998
+28,125,5,7.0,Jan Xavier,9,La Fran\xe7aise des Jeux,\u25bc2,4,1998
+27,162,5,8.0,Benitez Francisco,10,Vitalicio Seguros,\u25bc2,4,1998
+27,16,3,,Moreau Christophe,11,Festina - Lotus,-,4,1998
+25,187,3,9.0,Hincapie George,12,US Postal Service,\u25bc3,4,1998
+33,6,3,10.0,Heppner Jens,13,Team Telekom - ARD,\u25bc3,4,1998
+29,172,2,12.0,Cabello Francisco,14,Kelme - Costa Blanca,\u25bc2,4,1998
+24,69,1,,Salmon Benoit,15,Casino - AG2R,-,4,1998
+26,135,1,13.0,Julich Bobby,16,Cofidis,\u25bc3,4,1998
+25,174,1,14.0,De Los Angeles Juan Jos\xe9,17,Kelme - Costa Blanca,\u25bc3,4,1998
+34,14,34,1.0,Herv\xe9 Pascal,1,Festina - Lotus,-,5,1998
+29,39,16,2.0,Zanini Stefano,2,Mapei - Bricobi,-,5,1998
+26,89,10,3.0,Voigt Jens,3,GAN,-,5,1998
+28,61,7,4.0,Hamburger Bo,4,Casino - AG2R,-,5,1998
+28,62,7,5.0,Agnolutto Christophe,5,Casino - AG2R,-,5,1998
+31,65,6,6.0,Durand Jacky,6,Casino - AG2R,-,5,1998
+24,128,5,7.0,Nazon Damien,7,La Fran\xe7aise des Jeux,-,5,1998
+25,178,5,8.0,Serrano Marcos Antonio,8,Kelme - Costa Blanca,-,5,1998
+28,125,5,9.0,Jan Xavier,9,La Fran\xe7aise des Jeux,-,5,1998
+27,162,5,10.0,Benitez Francisco,10,Vitalicio Seguros,-,5,1998
+27,16,3,11.0,Moreau Christophe,11,Festina - Lotus,-,5,1998
+25,187,3,12.0,Hincapie George,12,US Postal Service,-,5,1998
+33,6,3,13.0,Heppner Jens,13,Team Telekom - ARD,-,5,1998
+29,172,2,14.0,Cabello Francisco,14,Kelme - Costa Blanca,-,5,1998
+24,69,1,15.0,Salmon Benoit,15,Casino - AG2R,-,5,1998
+26,135,1,16.0,Julich Bobby,16,Cofidis,-,5,1998
+25,174,1,17.0,De Los Angeles Juan Jos\xe9,17,Kelme - Costa Blanca,-,5,1998
+34,14,47,1.0,Herv\xe9 Pascal,1,Festina - Lotus,-,6,1998
+29,39,16,2.0,Zanini Stefano,2,Mapei - Bricobi,-,6,1998
+26,89,13,3.0,Voigt Jens,3,GAN,-,6,1998
+28,62,12,5.0,Agnolutto Christophe,4,Casino - AG2R,\u25b21,6,1998
+34,66,12,,Elli Alberto,5,Casino - AG2R,-,6,1998
+28,61,7,4.0,Hamburger Bo,6,Casino - AG2R,\u25bc2,6,1998
+31,65,6,6.0,Durand Jacky,7,Casino - AG2R,\u25bc1,6,1998
+25,34,6,,Nardello Daniele,8,Mapei - Bricobi,-,6,1998
+32,177,5,,Rodriguez Jos\xe9 Luis,9,Kelme - Costa Blanca,-,6,1998
+24,128,5,7.0,Nazon Damien,10,La Fran\xe7aise des Jeux,\u25bc3,6,1998
+25,178,5,8.0,Serrano Marcos Antonio,11,Kelme - Costa Blanca,\u25bc3,6,1998
+28,125,5,9.0,Jan Xavier,12,La Fran\xe7aise des Jeux,\u25bc3,6,1998
+27,162,5,10.0,Benitez Francisco,13,Vitalicio Seguros,\u25bc3,6,1998
+27,88,3,,Vasseur C\xe9dric,14,GAN,-,6,1998
+27,16,3,11.0,Moreau Christophe,15,Festina - Lotus,\u25bc4,6,1998
+25,187,3,12.0,Hincapie George,16,US Postal Service,\u25bc4,6,1998
+33,6,3,13.0,Heppner Jens,17,Team Telekom - ARD,\u25bc4,6,1998
+30,12,3,,Brochard Laurent,18,Festina - Lotus,-,6,1998
+29,172,2,14.0,Cabello Francisco,19,Kelme - Costa Blanca,\u25bc5,6,1998
+31,129,1,,Sciandri Maximilian,20,La Fran\xe7aise des Jeux,-,6,1998
+26,123,1,,Guesdon Fr\xe9d\xe9ric,21,La Fran\xe7aise des Jeux,-,6,1998
+24,69,1,15.0,Salmon Benoit,22,Casino - AG2R,\u25bc7,6,1998
+32,68,1,,Massi Rodolfo,23,Casino - AG2R,-,6,1998
+26,135,1,16.0,Julich Bobby,24,Cofidis,\u25bc8,6,1998
+25,174,1,17.0,De Los Angeles Juan Jos\xe9,25,Kelme - Costa Blanca,\u25bc8,6,1998
+29,39,16,2.0,Zanini Stefano,1,Mapei - Bricobi,\u25b21,7,1998
+26,89,13,3.0,Voigt Jens,2,GAN,\u25b21,7,1998
+28,62,12,4.0,Agnolutto Christophe,3,Casino - AG2R,\u25b21,7,1998
+34,66,12,5.0,Elli Alberto,4,Casino - AG2R,\u25b21,7,1998
+27,186,10,,Hamilton Tyler,5,US Postal Service,-,7,1998
+24,1,7,,Ullrich Jan,6,Team Telekom - ARD,-,7,1998
+28,61,7,6.0,Hamburger Bo,7,Casino - AG2R,\u25bc1,7,1998
+31,65,6,7.0,Durand Jacky,8,Casino - AG2R,\u25bc1,7,1998
+25,34,6,8.0,Nardello Daniele,9,Mapei - Bricobi,\u25bc1,7,1998
+32,177,5,9.0,Rodriguez Jos\xe9 Luis,10,Kelme - Costa Blanca,\u25bc1,7,1998
+24,128,5,10.0,Nazon Damien,11,La Fran\xe7aise des Jeux,\u25bc1,7,1998
+25,178,5,11.0,Serrano Marcos Antonio,12,Kelme - Costa Blanca,\u25bc1,7,1998
+27,131,5,,Casagrande Francesco,13,Cofidis,-,7,1998
+28,125,5,12.0,Jan Xavier,14,La Fran\xe7aise des Jeux,\u25bc2,7,1998
+27,162,5,13.0,Benitez Francisco,15,Vitalicio Seguros,\u25bc2,7,1998
+26,135,4,24.0,Julich Bobby,16,Cofidis,\u25b28,7,1998
+27,88,3,14.0,Vasseur C\xe9dric,17,GAN,\u25bc3,7,1998
+25,187,3,16.0,Hincapie George,18,US Postal Service,\u25bc2,7,1998
+33,6,3,17.0,Heppner Jens,19,Team Telekom - ARD,\u25bc2,7,1998
+29,172,2,19.0,Cabello Francisco,20,Kelme - Costa Blanca,\u25bc1,7,1998
+31,129,1,20.0,Sciandri Maximilian,21,La Fran\xe7aise des Jeux,\u25bc1,7,1998
+26,123,1,21.0,Guesdon Fr\xe9d\xe9ric,22,La Fran\xe7aise des Jeux,\u25bc1,7,1998
+24,69,1,22.0,Salmon Benoit,23,Casino - AG2R,\u25bc1,7,1998
+32,68,1,23.0,Massi Rodolfo,24,Casino - AG2R,\u25bc1,7,1998
+31,141,1,,Leblanc Luc,25,Polti,-,7,1998
+25,174,1,25.0,De Los Angeles Juan Jos\xe9,26,Kelme - Costa Blanca,\u25bc1,7,1998
+29,39,26,1.0,Zanini Stefano,1,Mapei - Bricobi,-,8,1998
+26,89,21,2.0,Voigt Jens,2,GAN,-,8,1998
+25,133,15,,Gaumont Philippe,3,Cofidis,-,8,1998
+34,66,15,4.0,Elli Alberto,4,Casino - AG2R,-,8,1998
+28,132,13,,Desbiens Laurent,5,Cofidis,-,8,1998
+28,62,13,3.0,Agnolutto Christophe,6,Casino - AG2R,\u25bc3,8,1998
+27,186,10,5.0,Hamilton Tyler,7,US Postal Service,\u25bc2,8,1998
+24,1,7,6.0,Ullrich Jan,8,Team Telekom - ARD,\u25bc2,8,1998
+28,61,7,7.0,Hamburger Bo,9,Casino - AG2R,\u25bc2,8,1998
+24,149,6,,Sacchi Fabio,10,Polti,-,8,1998
+31,65,6,8.0,Durand Jacky,11,Casino - AG2R,\u25bc3,8,1998
+25,34,6,9.0,Nardello Daniele,12,Mapei - Bricobi,\u25bc3,8,1998
+32,68,6,24.0,Massi Rodolfo,13,Casino - AG2R,\u25b211,8,1998
+32,177,5,10.0,Rodriguez Jos\xe9 Luis,14,Kelme - Costa Blanca,\u25bc4,8,1998
+24,128,5,11.0,Nazon Damien,15,La Fran\xe7aise des Jeux,\u25bc4,8,1998
+25,178,5,12.0,Serrano Marcos Antonio,16,Kelme - Costa Blanca,\u25bc4,8,1998
+27,131,5,13.0,Casagrande Francesco,17,Cofidis,\u25bc4,8,1998
+28,125,5,14.0,Jan Xavier,18,La Fran\xe7aise des Jeux,\u25bc4,8,1998
+27,162,5,15.0,Benitez Francisco,19,Vitalicio Seguros,\u25bc4,8,1998
+26,123,4,22.0,Guesdon Fr\xe9d\xe9ric,20,La Fran\xe7aise des Jeux,\u25b22,8,1998
+26,135,4,16.0,Julich Bobby,21,Cofidis,\u25bc5,8,1998
+32,38,3,,Tafi Andrea,22,Mapei - Bricobi,-,8,1998
+29,127,3,,Mengin Christophe,23,La Fran\xe7aise des Jeux,-,8,1998
+27,88,3,17.0,Vasseur C\xe9dric,24,GAN,\u25bc7,8,1998
+25,187,3,18.0,Hincapie George,25,US Postal Service,\u25bc7,8,1998
+33,6,3,19.0,Heppner Jens,26,Team Telekom - ARD,\u25bc7,8,1998
+29,172,2,20.0,Cabello Francisco,27,Kelme - Costa Blanca,\u25bc7,8,1998
+26,93,1,,Laukka Joona,28,Lotto - Mobistar,-,8,1998
+31,129,1,21.0,Sciandri Maximilian,29,La Fran\xe7aise des Jeux,\u25bc8,8,1998
+24,69,1,23.0,Salmon Benoit,30,Casino - AG2R,\u25bc7,8,1998
+31,141,1,25.0,Leblanc Luc,31,Polti,\u25bc6,8,1998
+25,174,1,26.0,De Los Angeles Juan Jos\xe9,32,Kelme - Costa Blanca,\u25bc6,8,1998
+26,89,36,2.0,Voigt Jens,1,GAN,\u25b21,9,1998
+29,39,26,1.0,Zanini Stefano,2,Mapei - Bricobi,\u25bc1,9,1998
+25,133,15,3.0,Gaumont Philippe,3,Cofidis,-,9,1998
+34,66,15,4.0,Elli Alberto,4,Casino - AG2R,-,9,1998
+28,62,14,6.0,Agnolutto Christophe,5,Casino - AG2R,\u25b21,9,1998
+27,162,14,19.0,Benitez Francisco,6,Vitalicio Seguros,\u25b213,9,1998
+28,132,13,5.0,Desbiens Laurent,7,Cofidis,\u25bc2,9,1998
+27,186,10,7.0,Hamilton Tyler,8,US Postal Service,\u25bc1,9,1998
+24,1,7,8.0,Ullrich Jan,9,Team Telekom - ARD,\u25bc1,9,1998
+28,61,7,9.0,Hamburger Bo,10,Casino - AG2R,\u25bc1,9,1998
+24,149,6,10.0,Sacchi Fabio,11,Polti,\u25bc1,9,1998
+31,65,6,11.0,Durand Jacky,12,Casino - AG2R,\u25bc1,9,1998
+25,34,6,12.0,Nardello Daniele,13,Mapei - Bricobi,\u25bc1,9,1998
+32,68,6,13.0,Massi Rodolfo,14,Casino - AG2R,\u25bc1,9,1998
+32,177,5,14.0,Rodriguez Jos\xe9 Luis,15,Kelme - Costa Blanca,\u25bc1,9,1998
+24,128,5,15.0,Nazon Damien,16,La Fran\xe7aise des Jeux,\u25bc1,9,1998
+25,178,5,16.0,Serrano Marcos Antonio,17,Kelme - Costa Blanca,\u25bc1,9,1998
+27,131,5,17.0,Casagrande Francesco,18,Cofidis,\u25bc1,9,1998
+28,125,5,18.0,Jan Xavier,19,La Fran\xe7aise des Jeux,\u25bc1,9,1998
+26,123,4,20.0,Guesdon Fr\xe9d\xe9ric,20,La Fran\xe7aise des Jeux,-,9,1998
+26,135,4,21.0,Julich Bobby,21,Cofidis,-,9,1998
+32,38,3,22.0,Tafi Andrea,22,Mapei - Bricobi,-,9,1998
+29,127,3,23.0,Mengin Christophe,23,La Fran\xe7aise des Jeux,-,9,1998
+27,88,3,24.0,Vasseur C\xe9dric,24,GAN,-,9,1998
+25,187,3,25.0,Hincapie George,25,US Postal Service,-,9,1998
+33,6,3,26.0,Heppner Jens,26,Team Telekom - ARD,-,9,1998
+29,172,2,27.0,Cabello Francisco,27,Kelme - Costa Blanca,-,9,1998
+26,57,1,,McEwen Robbie,28,Rabobank ProTeam,-,9,1998
+27,105,1,,Knaven Servais,29,TVM - Farm Frites,-,9,1998
+26,93,1,28.0,Laukka Joona,30,Lotto - Mobistar,\u25bc2,9,1998
+31,129,1,29.0,Sciandri Maximilian,31,La Fran\xe7aise des Jeux,\u25bc2,9,1998
+24,69,1,30.0,Salmon Benoit,32,Casino - AG2R,\u25bc2,9,1998
+31,141,1,31.0,Leblanc Luc,33,Polti,\u25bc2,9,1998
+25,174,1,32.0,De Los Angeles Juan Jos\xe9,34,Kelme - Costa Blanca,\u25bc2,9,1998
+32,68,131,14.0,Massi Rodolfo,1,Casino - AG2R,\u25b213,10,1998
+34,66,107,4.0,Elli Alberto,2,Casino - AG2R,\u25b22,10,1998
+27,88,104,24.0,Vasseur C\xe9dric,3,GAN,\u25b221,10,1998
+24,139,62,,Rinero Christophe,4,Cofidis,-,10,1998
+29,92,38,,Farazijn Peter,5,Lotto - Mobistar,-,10,1998
+26,89,36,1.0,Voigt Jens,6,GAN,\u25bc5,10,1998
+28,62,36,5.0,Agnolutto Christophe,7,Casino - AG2R,\u25bc2,10,1998
+24,1,35,9.0,Ullrich Jan,8,Team Telekom - ARD,\u25b21,10,1998
+29,39,26,2.0,Zanini Stefano,9,Mapei - Bricobi,\u25bc7,10,1998
+28,21,26,,Pantani Marco,10,Mercatone Uno,-,10,1998
+31,141,24,33.0,Leblanc Luc,11,Polti,\u25b222,10,1998
+24,32,24,,Di Grande Giuseppe,12,Mapei - Bricobi,-,10,1998
+27,79,24,,Solaun Cesar,13,Banesto,-,10,1998
+26,118,24,,Piepoli Leonardo,14,Saeco Macchine da Caffe' - Cannondale,-,10,1998
+30,171,22,,Escartin Fernando,15,Kelme - Costa Blanca,-,10,1998
+25,178,19,17.0,Serrano Marcos Antonio,16,Kelme - Costa Blanca,\u25b21,10,1998
+29,172,18,27.0,Cabello Francisco,17,Kelme - Costa Blanca,\u25b210,10,1998
+34,7,18,,Riis Bjarne,18,Team Telekom - ARD,-,10,1998
+26,135,17,21.0,Julich Bobby,19,Cofidis,\u25b22,10,1998
+27,162,14,6.0,Benitez Francisco,20,Vitalicio Seguros,\u25bc14,10,1998
+30,64,14,,Chanteur Pascal,21,Casino - AG2R,-,10,1998
+29,203,14,,Bordenave Philippe,22,BigMat - Auber 93,-,10,1998
+28,132,13,7.0,Desbiens Laurent,23,Cofidis,\u25bc16,10,1998
+28,61,13,10.0,Hamburger Bo,24,Casino - AG2R,\u25bc14,10,1998
+31,3,12,,Bolts Udo,25,Team Telekom - ARD,-,10,1998
+27,186,10,8.0,Hamilton Tyler,26,US Postal Service,\u25bc18,10,1998
+28,181,10,,Robin Jean-Cyril,27,US Postal Service,-,10,1998
+26,51,8,,Boogerd Michael,28,Rabobank ProTeam,-,10,1998
+24,56,8,,Moerenhout Koos,29,Rabobank ProTeam,-,10,1998
+27,124,8,,Heulot Stephane,30,La Fran\xe7aise des Jeux,-,10,1998
+24,149,6,11.0,Sacchi Fabio,31,Polti,\u25bc20,10,1998
+31,65,6,12.0,Durand Jacky,32,Casino - AG2R,\u25bc20,10,1998
+25,34,6,13.0,Nardello Daniele,33,Mapei - Bricobi,\u25bc20,10,1998
+31,4,6,,Frattini Francesco,34,Team Telekom - ARD,-,10,1998
+32,177,5,15.0,Rodriguez Jos\xe9 Luis,35,Kelme - Costa Blanca,\u25bc20,10,1998
+24,128,5,16.0,Nazon Damien,36,La Fran\xe7aise des Jeux,\u25bc20,10,1998
+28,125,5,19.0,Jan Xavier,37,La Fran\xe7aise des Jeux,\u25bc18,10,1998
+26,123,4,20.0,Guesdon Fr\xe9d\xe9ric,38,La Fran\xe7aise des Jeux,\u25bc18,10,1998
+27,76,4,,Jimenez Jose Maria,39,Banesto,-,10,1998
+32,38,3,22.0,Tafi Andrea,40,Mapei - Bricobi,\u25bc18,10,1998
+29,127,3,23.0,Mengin Christophe,41,La Fran\xe7aise des Jeux,\u25bc18,10,1998
+25,187,3,25.0,Hincapie George,42,US Postal Service,\u25bc17,10,1998
+33,6,3,26.0,Heppner Jens,43,Team Telekom - ARD,\u25bc17,10,1998
+27,8,2,,Totschnig Georg,44,Team Telekom - ARD,-,10,1998
+28,121,2,,Berzin Yewgeni,45,La Fran\xe7aise des Jeux,-,10,1998
+26,57,1,28.0,McEwen Robbie,46,Rabobank ProTeam,\u25bc18,10,1998
+27,105,1,29.0,Knaven Servais,47,TVM - Farm Frites,\u25bc18,10,1998
+26,93,1,30.0,Laukka Joona,48,Lotto - Mobistar,\u25bc18,10,1998
+31,129,1,31.0,Sciandri Maximilian,49,La Fran\xe7aise des Jeux,\u25bc18,10,1998
+24,69,1,32.0,Salmon Benoit,50,Casino - AG2R,\u25bc18,10,1998
+29,41,1,,Jalabert Laurent,51,O.N.C.E.,-,10,1998
+25,174,1,34.0,De Los Angeles Juan Jos\xe9,52,Kelme - Costa Blanca,\u25bc18,10,1998
+26,183,1,,Baranowski Dariusz,53,US Postal Service,-,10,1998
+32,68,180,1.0,Massi Rodolfo,1,Casino - AG2R,-,11,1998
+34,66,157,2.0,Elli Alberto,2,Casino - AG2R,-,11,1998
+27,88,126,3.0,Vasseur C\xe9dric,3,GAN,-,11,1998
+24,139,96,4.0,Rinero Christophe,4,Cofidis,-,11,1998
+30,138,75,,Meier Roland,5,Cofidis,-,11,1998
+28,21,66,10.0,Pantani Marco,6,Mercatone Uno,\u25b24,11,1998
+24,1,66,8.0,Ullrich Jan,7,Team Telekom - ARD,\u25b21,11,1998
+34,7,58,18.0,Riis Bjarne,8,Team Telekom - ARD,\u25b210,11,1998
+26,135,49,19.0,Julich Bobby,9,Cofidis,\u25b210,11,1998
+26,118,46,14.0,Piepoli Leonardo,10,Saeco Macchine da Caffe' - Cannondale,\u25b24,11,1998
+30,171,40,15.0,Escartin Fernando,11,Kelme - Costa Blanca,\u25b24,11,1998
+29,92,38,5.0,Farazijn Peter,12,Lotto - Mobistar,\u25bc7,11,1998
+26,89,36,6.0,Voigt Jens,13,GAN,\u25bc7,11,1998
+28,62,36,7.0,Agnolutto Christophe,14,Casino - AG2R,\u25bc7,11,1998
+26,51,34,28.0,Boogerd Michael,15,Rabobank ProTeam,\u25b213,11,1998
+27,124,29,30.0,Heulot Stephane,16,La Fran\xe7aise des Jeux,\u25b214,11,1998
+24,32,28,12.0,Di Grande Giuseppe,17,Mapei - Bricobi,\u25bc5,11,1998
+29,39,26,9.0,Zanini Stefano,18,Mapei - Bricobi,\u25bc9,11,1998
+24,175,25,,Gomez Jose Javier,19,Kelme - Costa Blanca,-,11,1998
+31,141,25,11.0,Leblanc Luc,20,Polti,\u25bc9,11,1998
+27,79,24,13.0,Solaun Cesar,21,Banesto,\u25bc8,11,1998
+25,178,21,16.0,Serrano Marcos Antonio,22,Kelme - Costa Blanca,\u25bc6,11,1998
+27,74,20,,Beltran Manuel,23,Banesto,-,11,1998
+29,172,18,17.0,Cabello Francisco,24,Kelme - Costa Blanca,\u25bc7,11,1998
+32,177,17,35.0,Rodriguez Jos\xe9 Luis,25,Kelme - Costa Blanca,\u25b210,11,1998
+32,38,16,40.0,Tafi Andrea,26,Mapei - Bricobi,\u25b214,11,1998
+30,64,15,21.0,Chanteur Pascal,27,Casino - AG2R,\u25bc6,11,1998
+27,162,14,20.0,Benitez Francisco,28,Vitalicio Seguros,\u25bc8,11,1998
+31,3,14,25.0,Bolts Udo,29,Team Telekom - ARD,\u25bc4,11,1998
+29,203,14,22.0,Bordenave Philippe,30,BigMat - Auber 93,\u25bc8,11,1998
+28,132,13,23.0,Desbiens Laurent,31,Cofidis,\u25bc8,11,1998
+28,61,13,24.0,Hamburger Bo,32,Casino - AG2R,\u25bc8,11,1998
+30,136,12,,Lelli Massimiliano,33,Cofidis,-,11,1998
+25,137,12,,Livingston Kevin,34,Cofidis,-,11,1998
+27,8,11,44.0,Totschnig Georg,35,Team Telekom - ARD,\u25b29,11,1998
+27,186,10,26.0,Hamilton Tyler,36,US Postal Service,\u25bc10,11,1998
+26,207,10,,Lebreton Lylian,37,BigMat - Auber 93,-,11,1998
+21,146,10,,Jaksche Jorg,38,Polti,-,11,1998
+28,181,10,27.0,Robin Jean-Cyril,39,US Postal Service,\u25bc12,11,1998
+25,164,10,,Casero Angel Luis,40,Vitalicio Seguros,-,11,1998
+29,41,10,51.0,Jalabert Laurent,41,O.N.C.E.,\u25b210,11,1998
+31,4,8,34.0,Frattini Francesco,42,Team Telekom - ARD,\u25bc8,11,1998
+24,56,8,29.0,Moerenhout Koos,43,Rabobank ProTeam,\u25bc14,11,1998
+24,149,6,31.0,Sacchi Fabio,44,Polti,\u25bc13,11,1998
+31,65,6,32.0,Durand Jacky,45,Casino - AG2R,\u25bc13,11,1998
+25,34,6,33.0,Nardello Daniele,46,Mapei - Bricobi,\u25bc13,11,1998
+33,25,6,,Fontanelli Fabiano,47,Mercatone Uno,-,11,1998
+24,128,5,36.0,Nazon Damien,48,La Fran\xe7aise des Jeux,\u25bc12,11,1998
+28,125,5,37.0,Jan Xavier,49,La Fran\xe7aise des Jeux,\u25bc12,11,1998
+26,183,5,53.0,Baranowski Dariusz,50,US Postal Service,\u25b23,11,1998
+26,123,4,38.0,Guesdon Fr\xe9d\xe9ric,51,La Fran\xe7aise des Jeux,\u25bc13,11,1998
+34,5,4,,Henn Christian,52,Team Telekom - ARD,-,11,1998
+24,116,4,,Mazzoleni Eddy,53,Saeco Macchine da Caffe' - Cannondale,-,11,1998
+27,76,4,39.0,Jimenez Jose Maria,54,Banesto,\u25bc15,11,1998
+29,127,3,41.0,Mengin Christophe,55,La Fran\xe7aise des Jeux,\u25bc14,11,1998
+25,187,3,42.0,Hincapie George,56,US Postal Service,\u25bc14,11,1998
+33,6,3,43.0,Heppner Jens,57,Team Telekom - ARD,\u25bc14,11,1998
+28,26,3,,Forconi Riccardo,58,Mercatone Uno,-,11,1998
+27,73,3,,Arrieta Jose Luis,59,Banesto,-,11,1998
+28,179,2,,Vidal Jos\xe9 Angel,60,Kelme - Costa Blanca,-,11,1998
+28,121,2,45.0,Berzin Yewgeni,61,La Fran\xe7aise des Jeux,\u25bc16,11,1998
+26,57,1,46.0,McEwen Robbie,62,Rabobank ProTeam,\u25bc16,11,1998
+27,105,1,47.0,Knaven Servais,63,TVM - Farm Frites,\u25bc16,11,1998
+26,93,1,48.0,Laukka Joona,64,Lotto - Mobistar,\u25bc16,11,1998
+31,129,1,49.0,Sciandri Maximilian,65,La Fran\xe7aise des Jeux,\u25bc16,11,1998
+24,69,1,50.0,Salmon Benoit,66,Casino - AG2R,\u25bc16,11,1998
+25,174,1,52.0,De Los Angeles Juan Jos\xe9,67,Kelme - Costa Blanca,\u25bc15,11,1998
+32,68,181,1.0,Massi Rodolfo,1,Casino - AG2R,-,12,1998
+34,66,160,2.0,Elli Alberto,2,Casino - AG2R,-,12,1998
+27,88,126,3.0,Vasseur C\xe9dric,3,GAN,-,12,1998
+24,139,96,4.0,Rinero Christophe,4,Cofidis,-,12,1998
+30,138,75,5.0,Meier Roland,5,Cofidis,-,12,1998
+28,21,66,6.0,Pantani Marco,6,Mercatone Uno,-,12,1998
+24,1,66,7.0,Ullrich Jan,7,Team Telekom - ARD,-,12,1998
+34,7,58,8.0,Riis Bjarne,8,Team Telekom - ARD,-,12,1998
+26,135,49,9.0,Julich Bobby,9,Cofidis,-,12,1998
+26,118,46,10.0,Piepoli Leonardo,10,Saeco Macchine da Caffe' - Cannondale,-,12,1998
+30,171,40,11.0,Escartin Fernando,11,Kelme - Costa Blanca,-,12,1998
+29,92,38,12.0,Farazijn Peter,12,Lotto - Mobistar,-,12,1998
+26,89,36,13.0,Voigt Jens,13,GAN,-,12,1998
+28,62,36,14.0,Agnolutto Christophe,14,Casino - AG2R,-,12,1998
+26,51,34,15.0,Boogerd Michael,15,Rabobank ProTeam,-,12,1998
+27,124,29,16.0,Heulot Stephane,16,La Fran\xe7aise des Jeux,-,12,1998
+29,41,28,41.0,Jalabert Laurent,17,O.N.C.E.,\u25b224,12,1998
+24,32,28,17.0,Di Grande Giuseppe,18,Mapei - Bricobi,\u25bc1,12,1998
+29,39,26,18.0,Zanini Stefano,19,Mapei - Bricobi,\u25bc1,12,1998
+24,175,25,19.0,Gomez Jose Javier,20,Kelme - Costa Blanca,\u25bc1,12,1998
+31,141,25,20.0,Leblanc Luc,21,Polti,\u25bc1,12,1998
+27,79,24,21.0,Solaun Cesar,22,Banesto,\u25bc1,12,1998
+25,178,21,22.0,Serrano Marcos Antonio,23,Kelme - Costa Blanca,\u25bc1,12,1998
+27,74,20,23.0,Beltran Manuel,24,Banesto,\u25bc1,12,1998
+29,172,18,24.0,Cabello Francisco,25,Kelme - Costa Blanca,\u25bc1,12,1998
+32,177,17,25.0,Rodriguez Jos\xe9 Luis,26,Kelme - Costa Blanca,\u25bc1,12,1998
+32,38,16,26.0,Tafi Andrea,27,Mapei - Bricobi,\u25bc1,12,1998
+25,134,15,,Jalabert Nicolas,28,Cofidis,-,12,1998
+30,64,15,27.0,Chanteur Pascal,29,Casino - AG2R,\u25bc2,12,1998
+27,162,14,28.0,Benitez Francisco,30,Vitalicio Seguros,\u25bc2,12,1998
+31,3,14,29.0,Bolts Udo,31,Team Telekom - ARD,\u25bc2,12,1998
+29,203,14,30.0,Bordenave Philippe,32,BigMat - Auber 93,\u25bc2,12,1998
+28,132,13,31.0,Desbiens Laurent,33,Cofidis,\u25bc2,12,1998
+28,61,13,32.0,Hamburger Bo,34,Casino - AG2R,\u25bc2,12,1998
+30,136,12,33.0,Lelli Massimiliano,35,Cofidis,\u25bc2,12,1998
+25,137,12,34.0,Livingston Kevin,36,Cofidis,\u25bc2,12,1998
+27,8,11,35.0,Totschnig Georg,37,Team Telekom - ARD,\u25bc2,12,1998
+27,186,10,36.0,Hamilton Tyler,38,US Postal Service,\u25bc2,12,1998
+26,207,10,37.0,Lebreton Lylian,39,BigMat - Auber 93,\u25bc2,12,1998
+22,146,10,38.0,Jaksche Jorg,40,Polti,\u25bc2,12,1998
+28,181,10,39.0,Robin Jean-Cyril,41,US Postal Service,\u25bc2,12,1998
+25,164,10,40.0,Casero Angel Luis,42,Vitalicio Seguros,\u25bc2,12,1998
+31,4,8,42.0,Frattini Francesco,43,Team Telekom - ARD,\u25bc1,12,1998
+24,56,8,43.0,Moerenhout Koos,44,Rabobank ProTeam,\u25bc1,12,1998
+30,109,7,,Voskamp Bart,45,TVM - Farm Frites,-,12,1998
+24,149,6,44.0,Sacchi Fabio,46,Polti,\u25bc2,12,1998
+31,65,6,45.0,Durand Jacky,47,Casino - AG2R,\u25bc2,12,1998
+25,34,6,46.0,Nardello Daniele,48,Mapei - Bricobi,\u25bc2,12,1998
+33,25,6,47.0,Fontanelli Fabiano,49,Mercatone Uno,\u25bc2,12,1998
+24,128,5,48.0,Nazon Damien,50,La Fran\xe7aise des Jeux,\u25bc2,12,1998
+28,125,5,49.0,Jan Xavier,51,La Fran\xe7aise des Jeux,\u25bc2,12,1998
+26,183,5,50.0,Baranowski Dariusz,52,US Postal Service,\u25bc2,12,1998
+26,123,4,51.0,Guesdon Fr\xe9d\xe9ric,53,La Fran\xe7aise des Jeux,\u25bc2,12,1998
+34,5,4,52.0,Henn Christian,54,Team Telekom - ARD,\u25bc2,12,1998
+24,116,4,53.0,Mazzoleni Eddy,55,Saeco Macchine da Caffe' - Cannondale,\u25bc2,12,1998
+27,76,4,54.0,Jimenez Jose Maria,56,Banesto,\u25bc2,12,1998
+29,127,3,55.0,Mengin Christophe,57,La Fran\xe7aise des Jeux,\u25bc2,12,1998
+25,187,3,56.0,Hincapie George,58,US Postal Service,\u25bc2,12,1998
+33,6,3,57.0,Heppner Jens,59,Team Telekom - ARD,\u25bc2,12,1998
+28,26,3,58.0,Forconi Riccardo,60,Mercatone Uno,\u25bc2,12,1998
+27,73,3,59.0,Arrieta Jose Luis,61,Banesto,\u25bc2,12,1998
+28,179,2,60.0,Vidal Jos\xe9 Angel,62,Kelme - Costa Blanca,\u25bc2,12,1998
+28,121,2,61.0,Berzin Yewgeni,63,La Fran\xe7aise des Jeux,\u25bc2,12,1998
+26,57,1,62.0,McEwen Robbie,64,Rabobank ProTeam,\u25bc2,12,1998
+27,105,1,63.0,Knaven Servais,65,TVM - Farm Frites,\u25bc2,12,1998
+26,93,1,64.0,Laukka Joona,66,Lotto - Mobistar,\u25bc2,12,1998
+31,129,1,65.0,Sciandri Maximilian,67,La Fran\xe7aise des Jeux,\u25bc2,12,1998
+24,69,1,66.0,Salmon Benoit,68,Casino - AG2R,\u25bc2,12,1998
+25,174,1,67.0,De Los Angeles Juan Jos\xe9,69,Kelme - Costa Blanca,\u25bc2,12,1998
+32,68,181,1.0,Massi Rodolfo,1,Casino - AG2R,-,13,1998
+34,66,160,2.0,Elli Alberto,2,Casino - AG2R,-,13,1998
+27,88,126,3.0,Vasseur C\xe9dric,3,GAN,-,13,1998
+24,139,96,4.0,Rinero Christophe,4,Cofidis,-,13,1998
+30,138,75,5.0,Meier Roland,5,Cofidis,-,13,1998
+28,21,66,6.0,Pantani Marco,6,Mercatone Uno,-,13,1998
+24,1,66,7.0,Ullrich Jan,7,Team Telekom - ARD,-,13,1998
+34,7,58,8.0,Riis Bjarne,8,Team Telekom - ARD,-,13,1998
+26,135,49,9.0,Julich Bobby,9,Cofidis,-,13,1998
+26,118,46,10.0,Piepoli Leonardo,10,Saeco Macchine da Caffe' - Cannondale,-,13,1998
+27,124,41,16.0,Heulot Stephane,11,La Fran\xe7aise des Jeux,\u25b25,13,1998
+30,171,40,11.0,Escartin Fernando,12,Kelme - Costa Blanca,\u25bc1,13,1998
+29,92,38,12.0,Farazijn Peter,13,Lotto - Mobistar,\u25bc1,13,1998
+26,89,36,13.0,Voigt Jens,14,GAN,\u25bc1,13,1998
+28,62,36,14.0,Agnolutto Christophe,15,Casino - AG2R,\u25bc1,13,1998
+26,51,34,15.0,Boogerd Michael,16,Rabobank ProTeam,\u25bc1,13,1998
+32,38,31,27.0,Tafi Andrea,17,Mapei - Bricobi,\u25b210,13,1998
+29,41,28,17.0,Jalabert Laurent,18,O.N.C.E.,\u25bc1,13,1998
+24,32,28,18.0,Di Grande Giuseppe,19,Mapei - Bricobi,\u25bc1,13,1998
+29,39,26,19.0,Zanini Stefano,20,Mapei - Bricobi,\u25bc1,13,1998
+24,175,25,20.0,Gomez Jose Javier,21,Kelme - Costa Blanca,\u25bc1,13,1998
+31,141,25,21.0,Leblanc Luc,22,Polti,\u25bc1,13,1998
+27,79,24,22.0,Solaun Cesar,23,Banesto,\u25bc1,13,1998
+25,178,21,23.0,Serrano Marcos Antonio,24,Kelme - Costa Blanca,\u25bc1,13,1998
+25,75,20,,Garcia Jose Vicente,25,Banesto,-,13,1998
+27,74,20,24.0,Beltran Manuel,26,Banesto,\u25bc2,13,1998
+29,172,18,25.0,Cabello Francisco,27,Kelme - Costa Blanca,\u25bc2,13,1998
+32,177,17,26.0,Rodriguez Jos\xe9 Luis,28,Kelme - Costa Blanca,\u25bc2,13,1998
+25,134,15,28.0,Jalabert Nicolas,29,Cofidis,\u25bc1,13,1998
+30,64,15,29.0,Chanteur Pascal,30,Casino - AG2R,\u25bc1,13,1998
+27,162,14,30.0,Benitez Francisco,31,Vitalicio Seguros,\u25bc1,13,1998
+25,34,14,48.0,Nardello Daniele,32,Mapei - Bricobi,\u25b216,13,1998
+24,56,14,44.0,Moerenhout Koos,33,Rabobank ProTeam,\u25b211,13,1998
+31,3,14,31.0,Bolts Udo,34,Team Telekom - ARD,\u25bc3,13,1998
+29,203,14,32.0,Bordenave Philippe,35,BigMat - Auber 93,\u25bc3,13,1998
+28,132,13,33.0,Desbiens Laurent,36,Cofidis,\u25bc3,13,1998
+28,61,13,34.0,Hamburger Bo,37,Casino - AG2R,\u25bc3,13,1998
+30,136,12,35.0,Lelli Massimiliano,38,Cofidis,\u25bc3,13,1998
+25,137,12,36.0,Livingston Kevin,39,Cofidis,\u25bc3,13,1998
+27,8,11,37.0,Totschnig Georg,40,Team Telekom - ARD,\u25bc3,13,1998
+27,186,10,38.0,Hamilton Tyler,41,US Postal Service,\u25bc3,13,1998
+33,188,10,,Jemison Marty,42,US Postal Service,-,13,1998
+26,207,10,39.0,Lebreton Lylian,43,BigMat - Auber 93,\u25bc4,13,1998
+22,146,10,40.0,Jaksche Jorg,44,Polti,\u25bc4,13,1998
+28,181,10,41.0,Robin Jean-Cyril,45,US Postal Service,\u25bc4,13,1998
+25,164,10,42.0,Casero Angel Luis,46,Vitalicio Seguros,\u25bc4,13,1998
+31,4,8,43.0,Frattini Francesco,47,Team Telekom - ARD,\u25bc4,13,1998
+30,109,7,45.0,Voskamp Bart,48,TVM - Farm Frites,\u25bc3,13,1998
+24,149,6,46.0,Sacchi Fabio,49,Polti,\u25bc3,13,1998
+31,65,6,47.0,Durand Jacky,50,Casino - AG2R,\u25bc3,13,1998
+33,25,6,49.0,Fontanelli Fabiano,51,Mercatone Uno,\u25bc2,13,1998
+24,128,5,50.0,Nazon Damien,52,La Fran\xe7aise des Jeux,\u25bc2,13,1998
+28,125,5,51.0,Jan Xavier,53,La Fran\xe7aise des Jeux,\u25bc2,13,1998
+26,183,5,52.0,Baranowski Dariusz,54,US Postal Service,\u25bc2,13,1998
+26,123,4,53.0,Guesdon Fr\xe9d\xe9ric,55,La Fran\xe7aise des Jeux,\u25bc2,13,1998
+34,5,4,54.0,Henn Christian,56,Team Telekom - ARD,\u25bc2,13,1998
+23,104,4,,Ivanov Serguei,57,TVM - Farm Frites,-,13,1998
+24,116,4,55.0,Mazzoleni Eddy,58,Saeco Macchine da Caffe' - Cannondale,\u25bc3,13,1998
+27,76,4,56.0,Jimenez Jose Maria,59,Banesto,\u25bc3,13,1998
+29,127,3,57.0,Mengin Christophe,60,La Fran\xe7aise des Jeux,\u25bc3,13,1998
+25,187,3,58.0,Hincapie George,61,US Postal Service,\u25bc3,13,1998
+33,6,3,59.0,Heppner Jens,62,Team Telekom - ARD,\u25bc3,13,1998
+28,26,3,60.0,Forconi Riccardo,63,Mercatone Uno,\u25bc3,13,1998
+29,53,3,,den Bakker Maarten,64,Rabobank ProTeam,-,13,1998
+27,73,3,61.0,Arrieta Jose Luis,65,Banesto,\u25bc4,13,1998
+29,87,2,,Simon Fran\xe7ois,66,GAN,-,13,1998
+28,179,2,62.0,Vidal Jos\xe9 Angel,67,Kelme - Costa Blanca,\u25bc5,13,1998
+28,121,2,63.0,Berzin Yewgeni,68,La Fran\xe7aise des Jeux,\u25bc5,13,1998
+26,57,1,64.0,McEwen Robbie,69,Rabobank ProTeam,\u25bc5,13,1998
+27,105,1,65.0,Knaven Servais,70,TVM - Farm Frites,\u25bc5,13,1998
+31,129,1,67.0,Sciandri Maximilian,71,La Fran\xe7aise des Jeux,\u25bc4,13,1998
+24,69,1,68.0,Salmon Benoit,72,Casino - AG2R,\u25bc4,13,1998
+25,174,1,69.0,De Los Angeles Juan Jos\xe9,73,Kelme - Costa Blanca,\u25bc4,13,1998
+33,155,1,,Roscioli Fabio,74,Asics - CGA,-,13,1998
+32,68,195,1.0,Massi Rodolfo,1,Casino - AG2R,-,14,1998
+34,66,165,2.0,Elli Alberto,2,Casino - AG2R,-,14,1998
+27,88,126,3.0,Vasseur C\xe9dric,3,GAN,-,14,1998
+24,139,96,4.0,Rinero Christophe,4,Cofidis,-,14,1998
+30,138,78,5.0,Meier Roland,5,Cofidis,-,14,1998
+28,21,66,6.0,Pantani Marco,6,Mercatone Uno,-,14,1998
+24,1,66,7.0,Ullrich Jan,7,Team Telekom - ARD,-,14,1998
+34,7,58,8.0,Riis Bjarne,8,Team Telekom - ARD,-,14,1998
+26,135,49,9.0,Julich Bobby,9,Cofidis,-,14,1998
+26,118,46,10.0,Piepoli Leonardo,10,Saeco Macchine da Caffe' - Cannondale,-,14,1998
+27,124,41,11.0,Heulot Stephane,11,La Fran\xe7aise des Jeux,-,14,1998
+29,92,41,13.0,Farazijn Peter,12,Lotto - Mobistar,\u25b21,14,1998
+30,171,40,12.0,Escartin Fernando,13,Kelme - Costa Blanca,\u25bc1,14,1998
+26,89,36,14.0,Voigt Jens,14,GAN,-,14,1998
+28,62,36,15.0,Agnolutto Christophe,15,Casino - AG2R,-,14,1998
+26,51,34,16.0,Boogerd Michael,16,Rabobank ProTeam,-,14,1998
+32,38,31,17.0,Tafi Andrea,17,Mapei - Bricobi,-,14,1998
+29,41,28,18.0,Jalabert Laurent,18,O.N.C.E.,-,14,1998
+24,32,28,19.0,Di Grande Giuseppe,19,Mapei - Bricobi,-,14,1998
+29,39,26,20.0,Zanini Stefano,20,Mapei - Bricobi,-,14,1998
+24,175,25,21.0,Gomez Jose Javier,21,Kelme - Costa Blanca,-,14,1998
+31,141,25,22.0,Leblanc Luc,22,Polti,-,14,1998
+27,79,24,23.0,Solaun Cesar,23,Banesto,-,14,1998
+28,132,21,36.0,Desbiens Laurent,24,Cofidis,\u25b212,14,1998
+25,178,21,24.0,Serrano Marcos Antonio,25,Kelme - Costa Blanca,\u25bc1,14,1998
+24,84,20,,O'Grady Stuart,26,GAN,-,14,1998
+25,75,20,25.0,Garcia Jose Vicente,27,Banesto,\u25bc2,14,1998
+27,74,20,26.0,Beltran Manuel,28,Banesto,\u25bc2,14,1998
+29,172,18,27.0,Cabello Francisco,29,Kelme - Costa Blanca,\u25bc2,14,1998
+30,64,18,30.0,Chanteur Pascal,30,Casino - AG2R,-,14,1998
+32,177,17,28.0,Rodriguez Jos\xe9 Luis,31,Kelme - Costa Blanca,\u25bc3,14,1998
+26,57,16,69.0,McEwen Robbie,32,Rabobank ProTeam,\u25b237,14,1998
+25,134,15,29.0,Jalabert Nicolas,33,Cofidis,\u25bc4,14,1998
+31,3,15,34.0,Bolts Udo,34,Team Telekom - ARD,-,14,1998
+27,162,14,31.0,Benitez Francisco,35,Vitalicio Seguros,\u25bc4,14,1998
+25,34,14,32.0,Nardello Daniele,36,Mapei - Bricobi,\u25bc4,14,1998
+24,56,14,33.0,Moerenhout Koos,37,Rabobank ProTeam,\u25bc4,14,1998
+29,203,14,35.0,Bordenave Philippe,38,BigMat - Auber 93,\u25bc3,14,1998
+28,61,13,37.0,Hamburger Bo,39,Casino - AG2R,\u25bc2,14,1998
+25,137,13,39.0,Livingston Kevin,40,Cofidis,\u25bc1,14,1998
+28,78,12,,Sergio Rodrigues Orlando,41,Banesto,-,14,1998
+30,136,12,38.0,Lelli Massimiliano,42,Cofidis,\u25bc4,14,1998
+27,8,11,40.0,Totschnig Georg,43,Team Telekom - ARD,\u25bc3,14,1998
+27,186,10,41.0,Hamilton Tyler,44,US Postal Service,\u25bc3,14,1998
+32,189,10,,Meinert-Nielsen Peter,45,US Postal Service,-,14,1998
+33,188,10,42.0,Jemison Marty,46,US Postal Service,\u25bc4,14,1998
+26,207,10,43.0,Lebreton Lylian,47,BigMat - Auber 93,\u25bc4,14,1998
+22,146,10,44.0,Jaksche Jorg,48,Polti,\u25bc4,14,1998
+28,181,10,45.0,Robin Jean-Cyril,49,US Postal Service,\u25bc4,14,1998
+25,164,10,46.0,Casero Angel Luis,50,Vitalicio Seguros,\u25bc4,14,1998
+31,4,8,47.0,Frattini Francesco,51,Team Telekom - ARD,\u25bc4,14,1998
+24,176,7,,Gonzalez Santos,52,Kelme - Costa Blanca,-,14,1998
+30,109,7,48.0,Voskamp Bart,53,TVM - Farm Frites,\u25bc5,14,1998
+24,149,6,49.0,Sacchi Fabio,54,Polti,\u25bc5,14,1998
+31,65,6,50.0,Durand Jacky,55,Casino - AG2R,\u25bc5,14,1998
+33,25,6,51.0,Fontanelli Fabiano,56,Mercatone Uno,\u25bc5,14,1998
+33,112,6,,Calcaterra Giuseppe,57,Saeco Macchine da Caffe' - Cannondale,-,14,1998
+24,128,5,52.0,Nazon Damien,58,La Fran\xe7aise des Jeux,\u25bc6,14,1998
+32,46,5,,Mauleon Francisco Javier,59,O.N.C.E.,-,14,1998
+28,125,5,53.0,Jan Xavier,60,La Fran\xe7aise des Jeux,\u25bc7,14,1998
+26,183,5,54.0,Baranowski Dariusz,61,US Postal Service,\u25bc7,14,1998
+26,123,4,55.0,Guesdon Fr\xe9d\xe9ric,62,La Fran\xe7aise des Jeux,\u25bc7,14,1998
+34,5,4,56.0,Henn Christian,63,Team Telekom - ARD,\u25bc7,14,1998
+23,104,4,57.0,Ivanov Serguei,64,TVM - Farm Frites,\u25bc7,14,1998
+24,116,4,58.0,Mazzoleni Eddy,65,Saeco Macchine da Caffe' - Cannondale,\u25bc7,14,1998
+27,76,4,59.0,Jimenez Jose Maria,66,Banesto,\u25bc7,14,1998
+29,127,3,60.0,Mengin Christophe,67,La Fran\xe7aise des Jeux,\u25bc7,14,1998
+25,187,3,61.0,Hincapie George,68,US Postal Service,\u25bc7,14,1998
+22,159,3,,Turicchia Alain,69,Asics - CGA,-,14,1998
+33,6,3,62.0,Heppner Jens,70,Team Telekom - ARD,\u25bc8,14,1998
+28,26,3,63.0,Forconi Riccardo,71,Mercatone Uno,\u25bc8,14,1998
+29,53,3,64.0,den Bakker Maarten,72,Rabobank ProTeam,\u25bc8,14,1998
+27,73,3,65.0,Arrieta Jose Luis,73,Banesto,\u25bc8,14,1998
+29,87,2,66.0,Simon Fran\xe7ois,74,GAN,\u25bc8,14,1998
+28,179,2,67.0,Vidal Jos\xe9 Angel,75,Kelme - Costa Blanca,\u25bc8,14,1998
+28,121,2,68.0,Berzin Yewgeni,76,La Fran\xe7aise des Jeux,\u25bc8,14,1998
+27,105,1,70.0,Knaven Servais,77,TVM - Farm Frites,\u25bc7,14,1998
+31,129,1,71.0,Sciandri Maximilian,78,La Fran\xe7aise des Jeux,\u25bc7,14,1998
+24,69,1,72.0,Salmon Benoit,79,Casino - AG2R,\u25bc7,14,1998
+25,174,1,73.0,De Los Angeles Juan Jos\xe9,80,Kelme - Costa Blanca,\u25bc7,14,1998
+33,155,1,74.0,Roscioli Fabio,81,Asics - CGA,\u25bc7,14,1998
+32,68,307,1.0,Massi Rodolfo,1,Casino - AG2R,-,15,1998
+24,139,189,4.0,Rinero Christophe,2,Cofidis,\u25b22,15,1998
+34,66,165,2.0,Elli Alberto,3,Casino - AG2R,\u25bc1,15,1998
+28,21,136,6.0,Pantani Marco,4,Mercatone Uno,\u25b22,15,1998
+27,88,126,3.0,Vasseur C\xe9dric,5,GAN,\u25bc2,15,1998
+30,171,100,13.0,Escartin Fernando,6,Kelme - Costa Blanca,\u25b27,15,1998
+24,1,86,7.0,Ullrich Jan,7,Team Telekom - ARD,-,15,1998
+30,138,81,5.0,Meier Roland,8,Cofidis,\u25bc3,15,1998
+26,51,76,16.0,Boogerd Michael,9,Rabobank ProTeam,\u25b27,15,1998
+26,135,75,9.0,Julich Bobby,10,Cofidis,\u25bc1,15,1998
+29,92,73,12.0,Farazijn Peter,11,Lotto - Mobistar,\u25b21,15,1998
+34,7,68,8.0,Riis Bjarne,12,Team Telekom - ARD,\u25bc4,15,1998
+29,41,63,18.0,Jalabert Laurent,13,O.N.C.E.,\u25b25,15,1998
+25,178,61,25.0,Serrano Marcos Antonio,14,Kelme - Costa Blanca,\u25b211,15,1998
+26,118,60,10.0,Piepoli Leonardo,15,Saeco Macchine da Caffe' - Cannondale,\u25bc5,15,1998
+24,32,49,19.0,Di Grande Giuseppe,16,Mapei - Bricobi,\u25b23,15,1998
+27,124,45,11.0,Heulot Stephane,17,La Fran\xe7aise des Jeux,\u25bc6,15,1998
+27,76,43,66.0,Jimenez Jose Maria,18,Banesto,\u25b248,15,1998
+31,141,42,22.0,Leblanc Luc,19,Polti,\u25b23,15,1998
+26,89,36,14.0,Voigt Jens,20,GAN,\u25bc6,15,1998
+28,62,36,15.0,Agnolutto Christophe,21,Casino - AG2R,\u25bc6,15,1998
+27,74,36,28.0,Beltran Manuel,22,Banesto,\u25b26,15,1998
+31,3,35,34.0,Bolts Udo,23,Team Telekom - ARD,\u25b211,15,1998
+32,38,31,17.0,Tafi Andrea,24,Mapei - Bricobi,\u25bc7,15,1998
+29,39,26,20.0,Zanini Stefano,25,Mapei - Bricobi,\u25bc5,15,1998
+24,175,25,21.0,Gomez Jose Javier,26,Kelme - Costa Blanca,\u25bc5,15,1998
+27,79,24,23.0,Solaun Cesar,27,Banesto,\u25bc4,15,1998
+28,132,21,24.0,Desbiens Laurent,28,Cofidis,\u25bc4,15,1998
+24,84,20,26.0,O'Grady Stuart,29,GAN,\u25bc3,15,1998
+25,75,20,27.0,Garcia Jose Vicente,30,Banesto,\u25bc3,15,1998
+28,181,19,49.0,Robin Jean-Cyril,31,US Postal Service,\u25b218,15,1998
+29,172,18,29.0,Cabello Francisco,32,Kelme - Costa Blanca,\u25bc3,15,1998
+30,64,18,30.0,Chanteur Pascal,33,Casino - AG2R,\u25bc3,15,1998
+32,177,17,31.0,Rodriguez Jos\xe9 Luis,34,Kelme - Costa Blanca,\u25bc3,15,1998
+26,57,16,32.0,McEwen Robbie,35,Rabobank ProTeam,\u25bc3,15,1998
+25,134,15,33.0,Jalabert Nicolas,36,Cofidis,\u25bc3,15,1998
+27,162,14,35.0,Benitez Francisco,37,Vitalicio Seguros,\u25bc2,15,1998
+25,34,14,36.0,Nardello Daniele,38,Mapei - Bricobi,\u25bc2,15,1998
+24,56,14,37.0,Moerenhout Koos,39,Rabobank ProTeam,\u25bc2,15,1998
+29,203,14,38.0,Bordenave Philippe,40,BigMat - Auber 93,\u25bc2,15,1998
+28,61,13,39.0,Hamburger Bo,41,Casino - AG2R,\u25bc2,15,1998
+25,137,13,40.0,Livingston Kevin,42,Cofidis,\u25bc2,15,1998
+28,78,12,41.0,Sergio Rodrigues Orlando,43,Banesto,\u25bc2,15,1998
+30,136,12,42.0,Lelli Massimiliano,44,Cofidis,\u25bc2,15,1998
+27,8,11,43.0,Totschnig Georg,45,Team Telekom - ARD,\u25bc2,15,1998
+26,183,11,61.0,Baranowski Dariusz,46,US Postal Service,\u25b215,15,1998
+27,186,10,44.0,Hamilton Tyler,47,US Postal Service,\u25bc3,15,1998
+32,189,10,45.0,Meinert-Nielsen Peter,48,US Postal Service,\u25bc3,15,1998
+33,188,10,46.0,Jemison Marty,49,US Postal Service,\u25bc3,15,1998
+26,207,10,47.0,Lebreton Lylian,50,BigMat - Auber 93,\u25bc3,15,1998
+22,146,10,48.0,Jaksche Jorg,51,Polti,\u25bc3,15,1998
+25,164,10,50.0,Casero Angel Luis,52,Vitalicio Seguros,\u25bc2,15,1998
+31,129,9,78.0,Sciandri Maximilian,53,La Fran\xe7aise des Jeux,\u25b225,15,1998
+31,4,8,51.0,Frattini Francesco,54,Team Telekom - ARD,\u25bc3,15,1998
+28,9,8,,Zabel Erik,55,Team Telekom - ARD,-,15,1998
+24,176,7,52.0,Gonzalez Santos,56,Kelme - Costa Blanca,\u25bc4,15,1998
+30,109,7,53.0,Voskamp Bart,57,TVM - Farm Frites,\u25bc4,15,1998
+24,149,6,54.0,Sacchi Fabio,58,Polti,\u25bc4,15,1998
+31,65,6,55.0,Durand Jacky,59,Casino - AG2R,\u25bc4,15,1998
+35,204,6,,Bourguignon Thierry,60,BigMat - Auber 93,-,15,1998
+33,25,6,56.0,Fontanelli Fabiano,61,Mercatone Uno,\u25bc5,15,1998
+33,112,6,57.0,Calcaterra Giuseppe,62,Saeco Macchine da Caffe' - Cannondale,\u25bc5,15,1998
+24,161,6,,Blanco Santiago,63,Vitalicio Seguros,-,15,1998
+24,128,5,58.0,Nazon Damien,64,La Fran\xe7aise des Jeux,\u25bc6,15,1998
+32,46,5,59.0,Mauleon Francisco Javier,65,O.N.C.E.,\u25bc6,15,1998
+28,125,5,60.0,Jan Xavier,66,La Fran\xe7aise des Jeux,\u25bc6,15,1998
+26,123,4,62.0,Guesdon Fr\xe9d\xe9ric,67,La Fran\xe7aise des Jeux,\u25bc5,15,1998
+34,5,4,63.0,Henn Christian,68,Team Telekom - ARD,\u25bc5,15,1998
+23,104,4,64.0,Ivanov Serguei,69,TVM - Farm Frites,\u25bc5,15,1998
+24,116,4,65.0,Mazzoleni Eddy,70,Saeco Macchine da Caffe' - Cannondale,\u25bc5,15,1998
+29,127,3,67.0,Mengin Christophe,71,La Fran\xe7aise des Jeux,\u25bc4,15,1998
+25,187,3,68.0,Hincapie George,72,US Postal Service,\u25bc4,15,1998
+22,159,3,69.0,Turicchia Alain,73,Asics - CGA,\u25bc4,15,1998
+33,6,3,70.0,Heppner Jens,74,Team Telekom - ARD,\u25bc4,15,1998
+28,26,3,71.0,Forconi Riccardo,75,Mercatone Uno,\u25bc4,15,1998
+29,53,3,72.0,den Bakker Maarten,76,Rabobank ProTeam,\u25bc4,15,1998
+29,87,2,74.0,Simon Fran\xe7ois,77,GAN,\u25bc3,15,1998
+28,179,2,75.0,Vidal Jos\xe9 Angel,78,Kelme - Costa Blanca,\u25bc3,15,1998
+25,148,2,,Merckx Axel,79,Polti,-,15,1998
+27,45,2,,Garcia Marcelino,80,O.N.C.E.,-,15,1998
+28,121,2,76.0,Berzin Yewgeni,81,La Fran\xe7aise des Jeux,\u25bc5,15,1998
+27,105,1,77.0,Knaven Servais,82,TVM - Farm Frites,\u25bc5,15,1998
+24,69,1,79.0,Salmon Benoit,83,Casino - AG2R,\u25bc4,15,1998
+30,95,1,,Teteriouk Andrei,84,Lotto - Mobistar,-,15,1998
+33,155,1,81.0,Roscioli Fabio,85,Asics - CGA,\u25bc4,15,1998
+32,68,335,1.0,Massi Rodolfo,1,Casino - AG2R,-,16,1998
+24,139,197,2.0,Rinero Christophe,2,Cofidis,-,16,1998
+28,21,175,4.0,Pantani Marco,3,Mercatone Uno,\u25b21,16,1998
+34,66,165,3.0,Elli Alberto,4,Casino - AG2R,\u25bc1,16,1998
+27,124,147,17.0,Heulot Stephane,5,La Fran\xe7aise des Jeux,\u25b212,16,1998
+27,88,126,5.0,Vasseur C\xe9dric,6,GAN,\u25bc1,16,1998
+24,1,126,7.0,Ullrich Jan,7,Team Telekom - ARD,-,16,1998
+30,171,126,6.0,Escartin Fernando,8,Kelme - Costa Blanca,\u25bc2,16,1998
+26,135,98,10.0,Julich Bobby,9,Cofidis,\u25b21,16,1998
+26,51,92,9.0,Boogerd Michael,10,Rabobank ProTeam,\u25bc1,16,1998
+26,118,90,15.0,Piepoli Leonardo,11,Saeco Macchine da Caffe' - Cannondale,\u25b24,16,1998
+30,138,89,8.0,Meier Roland,12,Cofidis,\u25bc4,16,1998
+34,7,87,12.0,Riis Bjarne,13,Team Telekom - ARD,\u25bc1,16,1998
+29,92,73,11.0,Farazijn Peter,14,Lotto - Mobistar,\u25bc3,16,1998
+30,95,68,84.0,Teteriouk Andrei,15,Lotto - Mobistar,\u25b269,16,1998
+29,41,63,13.0,Jalabert Laurent,16,O.N.C.E.,\u25bc3,16,1998
+29,2,63,,Aldag Rolf,17,Team Telekom - ARD,-,16,1998
+25,178,61,14.0,Serrano Marcos Antonio,18,Kelme - Costa Blanca,\u25bc4,16,1998
+27,79,52,27.0,Solaun Cesar,19,Banesto,\u25b28,16,1998
+24,32,49,16.0,Di Grande Giuseppe,20,Mapei - Bricobi,\u25bc4,16,1998
+29,203,44,40.0,Bordenave Philippe,21,BigMat - Auber 93,\u25b219,16,1998
+31,141,42,19.0,Leblanc Luc,22,Polti,\u25bc3,16,1998
+26,89,36,20.0,Voigt Jens,23,GAN,\u25bc3,16,1998
+28,62,36,21.0,Agnolutto Christophe,24,Casino - AG2R,\u25bc3,16,1998
+27,74,36,22.0,Beltran Manuel,25,Banesto,\u25bc3,16,1998
+31,3,35,23.0,Bolts Udo,26,Team Telekom - ARD,\u25bc3,16,1998
+24,98,34,,Verbrugghe Rik,27,Lotto - Mobistar,-,16,1998
+32,38,31,24.0,Tafi Andrea,28,Mapei - Bricobi,\u25bc4,16,1998
+28,181,29,31.0,Robin Jean-Cyril,29,US Postal Service,\u25b22,16,1998
+29,39,26,25.0,Zanini Stefano,30,Mapei - Bricobi,\u25bc5,16,1998
+24,175,25,26.0,Gomez Jose Javier,31,Kelme - Costa Blanca,\u25bc5,16,1998
+28,132,21,28.0,Desbiens Laurent,32,Cofidis,\u25bc4,16,1998
+24,84,20,29.0,O'Grady Stuart,33,GAN,\u25bc4,16,1998
+25,75,20,30.0,Garcia Jose Vicente,34,Banesto,\u25bc4,16,1998
+25,148,20,79.0,Merckx Axel,35,Polti,\u25b244,16,1998
+29,172,18,32.0,Cabello Francisco,36,Kelme - Costa Blanca,\u25bc4,16,1998
+30,64,18,33.0,Chanteur Pascal,37,Casino - AG2R,\u25bc4,16,1998
+25,137,17,42.0,Livingston Kevin,38,Cofidis,\u25b24,16,1998
+26,57,16,35.0,McEwen Robbie,39,Rabobank ProTeam,\u25bc4,16,1998
+25,134,15,36.0,Jalabert Nicolas,40,Cofidis,\u25bc4,16,1998
+28,61,15,41.0,Hamburger Bo,41,Casino - AG2R,-,16,1998
+27,162,14,37.0,Benitez Francisco,42,Vitalicio Seguros,\u25bc5,16,1998
+25,34,14,38.0,Nardello Daniele,43,Mapei - Bricobi,\u25bc5,16,1998
+24,56,14,39.0,Moerenhout Koos,44,Rabobank ProTeam,\u25bc5,16,1998
+33,25,13,61.0,Fontanelli Fabiano,45,Mercatone Uno,\u25b216,16,1998
+28,78,12,43.0,Sergio Rodrigues Orlando,46,Banesto,\u25bc3,16,1998
+29,23,12,,Borgheresi Simone,47,Mercatone Uno,-,16,1998
+30,136,12,44.0,Lelli Massimiliano,48,Cofidis,\u25bc4,16,1998
+28,26,11,75.0,Forconi Riccardo,49,Mercatone Uno,\u25b226,16,1998
+36,28,11,,Podenzana Massimo,50,Mercatone Uno,-,16,1998
+27,8,11,45.0,Totschnig Georg,51,Team Telekom - ARD,\u25bc6,16,1998
+26,183,11,46.0,Baranowski Dariusz,52,US Postal Service,\u25bc6,16,1998
+27,186,10,47.0,Hamilton Tyler,53,US Postal Service,\u25bc6,16,1998
+32,189,10,48.0,Meinert-Nielsen Peter,54,US Postal Service,\u25bc6,16,1998
+33,188,10,49.0,Jemison Marty,55,US Postal Service,\u25bc6,16,1998
+26,207,10,50.0,Lebreton Lylian,56,BigMat - Auber 93,\u25bc6,16,1998
+22,146,10,51.0,Jaksche Jorg,57,Polti,\u25bc6,16,1998
+25,164,10,52.0,Casero Angel Luis,58,Vitalicio Seguros,\u25bc6,16,1998
+31,129,9,53.0,Sciandri Maximilian,59,La Fran\xe7aise des Jeux,\u25bc6,16,1998
+24,161,9,63.0,Blanco Santiago,60,Vitalicio Seguros,\u25b23,16,1998
+31,4,8,54.0,Frattini Francesco,61,Team Telekom - ARD,\u25bc7,16,1998
+28,9,8,55.0,Zabel Erik,62,Team Telekom - ARD,\u25bc7,16,1998
+24,176,7,56.0,Gonzalez Santos,63,Kelme - Costa Blanca,\u25bc7,16,1998
+30,109,7,57.0,Voskamp Bart,64,TVM - Farm Frites,\u25bc7,16,1998
+24,149,6,58.0,Sacchi Fabio,65,Polti,\u25bc7,16,1998
+31,65,6,59.0,Durand Jacky,66,Casino - AG2R,\u25bc7,16,1998
+35,204,6,60.0,Bourguignon Thierry,67,BigMat - Auber 93,\u25bc7,16,1998
+24,128,5,64.0,Nazon Damien,68,La Fran\xe7aise des Jeux,\u25bc4,16,1998
+32,46,5,65.0,Mauleon Francisco Javier,69,O.N.C.E.,\u25bc4,16,1998
+28,125,5,66.0,Jan Xavier,70,La Fran\xe7aise des Jeux,\u25bc4,16,1998
+26,123,4,67.0,Guesdon Fr\xe9d\xe9ric,71,La Fran\xe7aise des Jeux,\u25bc4,16,1998
+34,5,4,68.0,Henn Christian,72,Team Telekom - ARD,\u25bc4,16,1998
+23,104,4,69.0,Ivanov Serguei,73,TVM - Farm Frites,\u25bc4,16,1998
+24,116,4,70.0,Mazzoleni Eddy,74,Saeco Macchine da Caffe' - Cannondale,\u25bc4,16,1998
+29,127,3,71.0,Mengin Christophe,75,La Fran\xe7aise des Jeux,\u25bc4,16,1998
+25,187,3,72.0,Hincapie George,76,US Postal Service,\u25bc4,16,1998
+24,69,3,83.0,Salmon Benoit,77,Casino - AG2R,\u25b26,16,1998
+22,159,3,73.0,Turicchia Alain,78,Asics - CGA,\u25bc5,16,1998
+33,6,3,74.0,Heppner Jens,79,Team Telekom - ARD,\u25bc5,16,1998
+29,53,3,76.0,den Bakker Maarten,80,Rabobank ProTeam,\u25bc4,16,1998
+33,24,2,,Conti Roberto,81,Mercatone Uno,-,16,1998
+29,87,2,77.0,Simon Fran\xe7ois,82,GAN,\u25bc5,16,1998
+28,179,2,78.0,Vidal Jos\xe9 Angel,83,Kelme - Costa Blanca,\u25bc5,16,1998
+27,45,2,80.0,Garcia Marcelino,84,O.N.C.E.,\u25bc4,16,1998
+28,121,2,81.0,Berzin Yewgeni,85,La Fran\xe7aise des Jeux,\u25bc4,16,1998
+27,105,1,82.0,Knaven Servais,86,TVM - Farm Frites,\u25bc4,16,1998
+33,155,1,85.0,Roscioli Fabio,87,Asics - CGA,\u25bc2,16,1998
+24,139,200,2.0,Rinero Christophe,1,Cofidis,\u25b21,18,1998
+28,21,175,3.0,Pantani Marco,2,Mercatone Uno,\u25b21,18,1998
+34,66,165,4.0,Elli Alberto,3,Casino - AG2R,\u25b21,18,1998
+27,88,156,6.0,Vasseur C\xe9dric,4,GAN,\u25b22,18,1998
+27,124,152,5.0,Heulot Stephane,5,La Fran\xe7aise des Jeux,-,18,1998
+24,1,126,7.0,Ullrich Jan,6,Team Telekom - ARD,\u25b21,18,1998
+26,135,98,9.0,Julich Bobby,7,Cofidis,\u25b22,18,1998
+26,51,92,10.0,Boogerd Michael,8,Rabobank ProTeam,\u25b22,18,1998
+26,118,90,11.0,Piepoli Leonardo,9,Saeco Macchine da Caffe' - Cannondale,\u25b22,18,1998
+30,138,89,12.0,Meier Roland,10,Cofidis,\u25b22,18,1998
+34,7,87,13.0,Riis Bjarne,11,Team Telekom - ARD,\u25b22,18,1998
+29,92,73,14.0,Farazijn Peter,12,Lotto - Mobistar,\u25b22,18,1998
+30,95,68,15.0,Teteriouk Andrei,13,Lotto - Mobistar,\u25b22,18,1998
+29,2,63,17.0,Aldag Rolf,14,Team Telekom - ARD,\u25b23,18,1998
+24,32,49,20.0,Di Grande Giuseppe,15,Mapei - Bricobi,\u25b25,18,1998
+29,203,44,21.0,Bordenave Philippe,16,BigMat - Auber 93,\u25b25,18,1998
+28,132,41,32.0,Desbiens Laurent,17,Cofidis,\u25b215,18,1998
+26,89,36,23.0,Voigt Jens,18,GAN,\u25b25,18,1998
+28,62,36,24.0,Agnolutto Christophe,19,Casino - AG2R,\u25b25,18,1998
+31,3,35,26.0,Bolts Udo,20,Team Telekom - ARD,\u25b26,18,1998
+24,98,34,27.0,Verbrugghe Rik,21,Lotto - Mobistar,\u25b26,18,1998
+32,38,31,28.0,Tafi Andrea,22,Mapei - Bricobi,\u25b26,18,1998
+28,181,29,29.0,Robin Jean-Cyril,23,US Postal Service,\u25b26,18,1998
+29,39,26,30.0,Zanini Stefano,24,Mapei - Bricobi,\u25b26,18,1998
+31,113,23,,Donati Massimo,25,Saeco Macchine da Caffe' - Cannondale,-,18,1998
+29,127,21,75.0,Mengin Christophe,26,La Fran\xe7aise des Jeux,\u25b249,18,1998
+33,25,21,45.0,Fontanelli Fabiano,27,Mercatone Uno,\u25b218,18,1998
+24,84,20,33.0,O'Grady Stuart,28,GAN,\u25b25,18,1998
+25,148,20,35.0,Merckx Axel,29,Polti,\u25b26,18,1998
+30,64,18,37.0,Chanteur Pascal,30,Casino - AG2R,\u25b27,18,1998
+25,137,17,38.0,Livingston Kevin,31,Cofidis,\u25b27,18,1998
+28,26,17,49.0,Forconi Riccardo,32,Mercatone Uno,\u25b217,18,1998
+26,57,16,39.0,McEwen Robbie,33,Rabobank ProTeam,\u25b26,18,1998
+25,134,15,40.0,Jalabert Nicolas,34,Cofidis,\u25b26,18,1998
+28,61,15,41.0,Hamburger Bo,35,Casino - AG2R,\u25b26,18,1998
+37,28,15,50.0,Podenzana Massimo,36,Mercatone Uno,\u25b214,18,1998
+25,34,14,43.0,Nardello Daniele,37,Mapei - Bricobi,\u25b26,18,1998
+24,56,14,44.0,Moerenhout Koos,38,Rabobank ProTeam,\u25b26,18,1998
+29,23,13,47.0,Borgheresi Simone,39,Mercatone Uno,\u25b28,18,1998
+30,136,12,48.0,Lelli Massimiliano,40,Cofidis,\u25b28,18,1998
+27,8,11,51.0,Totschnig Georg,41,Team Telekom - ARD,\u25b210,18,1998
+26,183,11,52.0,Baranowski Dariusz,42,US Postal Service,\u25b210,18,1998
+27,186,10,53.0,Hamilton Tyler,43,US Postal Service,\u25b210,18,1998
+32,189,10,54.0,Meinert-Nielsen Peter,44,US Postal Service,\u25b210,18,1998
+33,188,10,55.0,Jemison Marty,45,US Postal Service,\u25b210,18,1998
+26,207,10,56.0,Lebreton Lylian,46,BigMat - Auber 93,\u25b210,18,1998
+22,146,10,57.0,Jaksche Jorg,47,Polti,\u25b210,18,1998
+31,4,8,61.0,Frattini Francesco,48,Team Telekom - ARD,\u25b213,18,1998
+28,9,8,62.0,Zabel Erik,49,Team Telekom - ARD,\u25b213,18,1998
+30,109,7,64.0,Voskamp Bart,50,TVM - Farm Frites,\u25b214,18,1998
+24,149,6,65.0,Sacchi Fabio,51,Polti,\u25b214,18,1998
+31,65,6,66.0,Durand Jacky,52,Casino - AG2R,\u25b214,18,1998
+35,204,6,67.0,Bourguignon Thierry,53,BigMat - Auber 93,\u25b214,18,1998
+24,128,5,68.0,Nazon Damien,54,La Fran\xe7aise des Jeux,\u25b214,18,1998
+28,125,5,70.0,Jan Xavier,55,La Fran\xe7aise des Jeux,\u25b215,18,1998
+26,123,4,71.0,Guesdon Fr\xe9d\xe9ric,56,La Fran\xe7aise des Jeux,\u25b215,18,1998
+34,5,4,72.0,Henn Christian,57,Team Telekom - ARD,\u25b215,18,1998
+26,29,4,,Traversoni Mario,58,Mercatone Uno,-,18,1998
+23,104,4,73.0,Ivanov Serguei,59,TVM - Farm Frites,\u25b214,18,1998
+25,116,4,74.0,Mazzoleni Eddy,60,Saeco Macchine da Caffe' - Cannondale,\u25b214,18,1998
+33,24,4,81.0,Conti Roberto,61,Mercatone Uno,\u25b220,18,1998
+25,187,3,76.0,Hincapie George,62,US Postal Service,\u25b214,18,1998
+24,69,3,77.0,Salmon Benoit,63,Casino - AG2R,\u25b214,18,1998
+33,6,3,79.0,Heppner Jens,64,Team Telekom - ARD,\u25b215,18,1998
+22,159,3,78.0,Turicchia Alain,65,Asics - CGA,\u25b213,18,1998
+29,53,3,80.0,den Bakker Maarten,66,Rabobank ProTeam,\u25b214,18,1998
+29,87,2,82.0,Simon Fran\xe7ois,67,GAN,\u25b215,18,1998
+28,121,2,85.0,Berzin Yewgeni,68,La Fran\xe7aise des Jeux,\u25b217,18,1998
+23,82,1,,B\xe4ckstedt Magnus,69,GAN,-,18,1998
+27,105,1,86.0,Knaven Servais,70,TVM - Farm Frites,\u25b216,18,1998
+33,155,1,87.0,Roscioli Fabio,71,Asics - CGA,\u25b216,18,1998
+24,139,200,1.0,Rinero Christophe,1,Cofidis,-,19,1998
+28,21,175,2.0,Pantani Marco,2,Mercatone Uno,-,19,1998
+34,66,165,3.0,Elli Alberto,3,Casino - AG2R,-,19,1998
+27,88,156,4.0,Vasseur C\xe9dric,4,GAN,-,19,1998
+27,124,152,5.0,Heulot Stephane,5,La Fran\xe7aise des Jeux,-,19,1998
+24,1,126,6.0,Ullrich Jan,6,Team Telekom - ARD,-,19,1998
+26,135,98,7.0,Julich Bobby,7,Cofidis,-,19,1998
+26,51,92,8.0,Boogerd Michael,8,Rabobank ProTeam,-,19,1998
+26,118,90,9.0,Piepoli Leonardo,9,Saeco Macchine da Caffe' - Cannondale,-,19,1998
+30,138,89,10.0,Meier Roland,10,Cofidis,-,19,1998
+34,7,87,11.0,Riis Bjarne,11,Team Telekom - ARD,-,19,1998
+29,92,73,12.0,Farazijn Peter,12,Lotto - Mobistar,-,19,1998
+30,95,68,13.0,Teteriouk Andrei,13,Lotto - Mobistar,-,19,1998
+29,2,63,14.0,Aldag Rolf,14,Team Telekom - ARD,-,19,1998
+24,32,49,15.0,Di Grande Giuseppe,15,Mapei - Bricobi,-,19,1998
+29,203,44,16.0,Bordenave Philippe,16,BigMat - Auber 93,-,19,1998
+28,132,41,17.0,Desbiens Laurent,17,Cofidis,-,19,1998
+26,89,36,18.0,Voigt Jens,18,GAN,-,19,1998
+28,62,36,19.0,Agnolutto Christophe,19,Casino - AG2R,-,19,1998
+31,3,35,20.0,Bolts Udo,20,Team Telekom - ARD,-,19,1998
+24,98,34,21.0,Verbrugghe Rik,21,Lotto - Mobistar,-,19,1998
+32,38,31,22.0,Tafi Andrea,22,Mapei - Bricobi,-,19,1998
+28,181,29,23.0,Robin Jean-Cyril,23,US Postal Service,-,19,1998
+29,39,26,24.0,Zanini Stefano,24,Mapei - Bricobi,-,19,1998
+31,113,23,25.0,Donati Massimo,25,Saeco Macchine da Caffe' - Cannondale,-,19,1998
+29,127,21,26.0,Mengin Christophe,26,La Fran\xe7aise des Jeux,-,19,1998
+33,25,21,27.0,Fontanelli Fabiano,27,Mercatone Uno,-,19,1998
+24,84,20,28.0,O'Grady Stuart,28,GAN,-,19,1998
+25,148,20,29.0,Merckx Axel,29,Polti,-,19,1998
+30,64,18,30.0,Chanteur Pascal,30,Casino - AG2R,-,19,1998
+25,137,17,31.0,Livingston Kevin,31,Cofidis,-,19,1998
+28,26,17,32.0,Forconi Riccardo,32,Mercatone Uno,-,19,1998
+26,57,16,33.0,McEwen Robbie,33,Rabobank ProTeam,-,19,1998
+25,134,15,34.0,Jalabert Nicolas,34,Cofidis,-,19,1998
+28,61,15,35.0,Hamburger Bo,35,Casino - AG2R,-,19,1998
+37,28,15,36.0,Podenzana Massimo,36,Mercatone Uno,-,19,1998
+25,34,14,37.0,Nardello Daniele,37,Mapei - Bricobi,-,19,1998
+24,56,14,38.0,Moerenhout Koos,38,Rabobank ProTeam,-,19,1998
+29,23,13,39.0,Borgheresi Simone,39,Mercatone Uno,-,19,1998
+30,136,12,40.0,Lelli Massimiliano,40,Cofidis,-,19,1998
+27,8,11,41.0,Totschnig Georg,41,Team Telekom - ARD,-,19,1998
+26,183,11,42.0,Baranowski Dariusz,42,US Postal Service,-,19,1998
+27,186,10,43.0,Hamilton Tyler,43,US Postal Service,-,19,1998
+32,189,10,44.0,Meinert-Nielsen Peter,44,US Postal Service,-,19,1998
+33,188,10,45.0,Jemison Marty,45,US Postal Service,-,19,1998
+26,207,10,46.0,Lebreton Lylian,46,BigMat - Auber 93,-,19,1998
+22,146,10,47.0,Jaksche Jorg,47,Polti,-,19,1998
+35,204,9,53.0,Bourguignon Thierry,48,BigMat - Auber 93,\u25b25,19,1998
+31,4,8,48.0,Frattini Francesco,49,Team Telekom - ARD,\u25bc1,19,1998
+28,9,8,49.0,Zabel Erik,50,Team Telekom - ARD,\u25bc1,19,1998
+24,149,7,51.0,Sacchi Fabio,51,Polti,-,19,1998
+31,65,6,52.0,Durand Jacky,52,Casino - AG2R,-,19,1998
+28,184,5,,Derame Pascal,53,US Postal Service,-,19,1998
+24,128,5,54.0,Nazon Damien,54,La Fran\xe7aise des Jeux,-,19,1998
+28,125,5,55.0,Jan Xavier,55,La Fran\xe7aise des Jeux,-,19,1998
+26,123,4,56.0,Guesdon Fr\xe9d\xe9ric,56,La Fran\xe7aise des Jeux,-,19,1998
+34,5,4,57.0,Henn Christian,57,Team Telekom - ARD,-,19,1998
+26,29,4,58.0,Traversoni Mario,58,Mercatone Uno,-,19,1998
+25,116,4,60.0,Mazzoleni Eddy,59,Saeco Macchine da Caffe' - Cannondale,\u25b21,19,1998
+33,24,4,61.0,Conti Roberto,60,Mercatone Uno,\u25b21,19,1998
+25,187,3,62.0,Hincapie George,61,US Postal Service,\u25b21,19,1998
+24,69,3,63.0,Salmon Benoit,62,Casino - AG2R,\u25b21,19,1998
+33,6,3,64.0,Heppner Jens,63,Team Telekom - ARD,\u25b21,19,1998
+22,159,3,65.0,Turicchia Alain,64,Asics - CGA,\u25b21,19,1998
+29,53,3,66.0,den Bakker Maarten,65,Rabobank ProTeam,\u25b21,19,1998
+29,87,2,67.0,Simon Fran\xe7ois,66,GAN,\u25b21,19,1998
+28,121,2,68.0,Berzin Yewgeni,67,La Fran\xe7aise des Jeux,\u25b21,19,1998
+23,82,1,69.0,B\xe4ckstedt Magnus,68,GAN,\u25b21,19,1998
+33,155,1,71.0,Roscioli Fabio,69,Asics - CGA,\u25b22,19,1998
+24,139,200,1.0,Rinero Christophe,1,Cofidis,-,20,1998
+28,21,175,2.0,Pantani Marco,2,Mercatone Uno,-,20,1998
+34,66,165,3.0,Elli Alberto,3,Casino - AG2R,-,20,1998
+27,88,156,4.0,Vasseur C\xe9dric,4,GAN,-,20,1998
+27,124,152,5.0,Heulot Stephane,5,La Fran\xe7aise des Jeux,-,20,1998
+24,1,126,6.0,Ullrich Jan,6,Team Telekom - ARD,-,20,1998
+26,135,98,7.0,Julich Bobby,7,Cofidis,-,20,1998
+26,51,92,8.0,Boogerd Michael,8,Rabobank ProTeam,-,20,1998
+26,118,90,9.0,Piepoli Leonardo,9,Saeco Macchine da Caffe' - Cannondale,-,20,1998
+30,138,89,10.0,Meier Roland,10,Cofidis,-,20,1998
+34,7,87,11.0,Riis Bjarne,11,Team Telekom - ARD,-,20,1998
+29,92,73,12.0,Farazijn Peter,12,Lotto - Mobistar,-,20,1998
+30,95,68,13.0,Teteriouk Andrei,13,Lotto - Mobistar,-,20,1998
+29,2,63,14.0,Aldag Rolf,14,Team Telekom - ARD,-,20,1998
+24,32,49,15.0,Di Grande Giuseppe,15,Mapei - Bricobi,-,20,1998
+29,203,44,16.0,Bordenave Philippe,16,BigMat - Auber 93,-,20,1998
+28,132,41,17.0,Desbiens Laurent,17,Cofidis,-,20,1998
+26,89,36,18.0,Voigt Jens,18,GAN,-,20,1998
+28,62,36,19.0,Agnolutto Christophe,19,Casino - AG2R,-,20,1998
+31,3,35,20.0,Bolts Udo,20,Team Telekom - ARD,-,20,1998
+24,98,34,21.0,Verbrugghe Rik,21,Lotto - Mobistar,-,20,1998
+32,38,31,22.0,Tafi Andrea,22,Mapei - Bricobi,-,20,1998
+28,181,29,23.0,Robin Jean-Cyril,23,US Postal Service,-,20,1998
+29,39,26,24.0,Zanini Stefano,24,Mapei - Bricobi,-,20,1998
+31,113,23,25.0,Donati Massimo,25,Saeco Macchine da Caffe' - Cannondale,-,20,1998
+29,127,21,26.0,Mengin Christophe,26,La Fran\xe7aise des Jeux,-,20,1998
+33,25,21,27.0,Fontanelli Fabiano,27,Mercatone Uno,-,20,1998
+24,84,20,28.0,O'Grady Stuart,28,GAN,-,20,1998
+25,148,20,29.0,Merckx Axel,29,Polti,-,20,1998
+30,64,18,30.0,Chanteur Pascal,30,Casino - AG2R,-,20,1998
+25,137,17,31.0,Livingston Kevin,31,Cofidis,-,20,1998
+28,26,17,32.0,Forconi Riccardo,32,Mercatone Uno,-,20,1998
+26,57,16,33.0,McEwen Robbie,33,Rabobank ProTeam,-,20,1998
+25,134,15,34.0,Jalabert Nicolas,34,Cofidis,-,20,1998
+28,61,15,35.0,Hamburger Bo,35,Casino - AG2R,-,20,1998
+37,28,15,36.0,Podenzana Massimo,36,Mercatone Uno,-,20,1998
+25,34,14,37.0,Nardello Daniele,37,Mapei - Bricobi,-,20,1998
+24,56,14,38.0,Moerenhout Koos,38,Rabobank ProTeam,-,20,1998
+30,23,13,39.0,Borgheresi Simone,39,Mercatone Uno,-,20,1998
+30,136,12,40.0,Lelli Massimiliano,40,Cofidis,-,20,1998
+27,8,11,41.0,Totschnig Georg,41,Team Telekom - ARD,-,20,1998
+26,183,11,42.0,Baranowski Dariusz,42,US Postal Service,-,20,1998
+27,186,10,43.0,Hamilton Tyler,43,US Postal Service,-,20,1998
+32,189,10,44.0,Meinert-Nielsen Peter,44,US Postal Service,-,20,1998
+33,188,10,45.0,Jemison Marty,45,US Postal Service,-,20,1998
+26,207,10,46.0,Lebreton Lylian,46,BigMat - Auber 93,-,20,1998
+22,146,10,47.0,Jaksche Jorg,47,Polti,-,20,1998
+35,204,9,48.0,Bourguignon Thierry,48,BigMat - Auber 93,-,20,1998
+31,4,8,49.0,Frattini Francesco,49,Team Telekom - ARD,-,20,1998
+28,9,8,50.0,Zabel Erik,50,Team Telekom - ARD,-,20,1998
+24,149,7,51.0,Sacchi Fabio,51,Polti,-,20,1998
+31,65,6,52.0,Durand Jacky,52,Casino - AG2R,-,20,1998
+28,184,5,53.0,Derame Pascal,53,US Postal Service,-,20,1998
+24,128,5,54.0,Nazon Damien,54,La Fran\xe7aise des Jeux,-,20,1998
+28,125,5,55.0,Jan Xavier,55,La Fran\xe7aise des Jeux,-,20,1998
+26,123,4,56.0,Guesdon Fr\xe9d\xe9ric,56,La Fran\xe7aise des Jeux,-,20,1998
+34,5,4,57.0,Henn Christian,57,Team Telekom - ARD,-,20,1998
+26,29,4,58.0,Traversoni Mario,58,Mercatone Uno,-,20,1998
+25,116,4,59.0,Mazzoleni Eddy,59,Saeco Macchine da Caffe' - Cannondale,-,20,1998
+33,24,4,60.0,Conti Roberto,60,Mercatone Uno,-,20,1998
+25,187,3,61.0,Hincapie George,61,US Postal Service,-,20,1998
+24,69,3,62.0,Salmon Benoit,62,Casino - AG2R,-,20,1998
+33,6,3,63.0,Heppner Jens,63,Team Telekom - ARD,-,20,1998
+22,159,3,64.0,Turicchia Alain,64,Asics - CGA,-,20,1998
+29,53,3,65.0,den Bakker Maarten,65,Rabobank ProTeam,-,20,1998
+29,87,2,66.0,Simon Fran\xe7ois,66,GAN,-,20,1998
+28,121,2,67.0,Berzin Yewgeni,67,La Fran\xe7aise des Jeux,-,20,1998
+23,82,1,68.0,B\xe4ckstedt Magnus,68,GAN,-,20,1998
+33,155,1,69.0,Roscioli Fabio,69,Asics - CGA,-,20,1998

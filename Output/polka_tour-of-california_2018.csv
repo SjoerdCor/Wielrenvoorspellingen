@@ -1,0 +1,123 @@
+Age,BIB,Pnt,Prev,Rider,Rnk,Team,\u25bc\u25b2,stage,year
+21,81,15,,Bernal Egan Arley,1,Team Sky,,2,2018
+28,14,13,,Majka Rafa\u0142,2,BORA - hansgrohe,,2,2018
+27,153,12,,Companioni Ruben,3,Holowesko - Citadel p/b Arapahoe Resources,,2,2018
+25,71,11,,Yates Adam,4,Mitchelton-Scott,,2,2018
+24,5,9,,Tolhoek Antwan,5,Team LottoNL-Jumbo,,2,2018
+22,115,8,,Martinez Daniel Felipe,6,Team EF Education First-Drapac p/b Cannondale,,2,2018
+24,64,8,,De Vos Adam,7,Rally Cycling,,2,2018
+30,144,7,,Durasek Kristijan,8,UAE-Team Emirates,,2,2018
+31,94,6,,Frank Mathias,9,AG2R La Mondiale,,2,2018
+29,23,5,,van Garderen Tejay,10,BMC Racing Team,,2,2018
+33,162,4,,Clarke Jonathan,11,UnitedHealthcare Pro Cycling Team,,2,2018
+21,81,15,1.0,Bernal Egan Arley,1,Team Sky,-,3,2018
+26,126,13,,Skuji\u0146\u0161 Toms,2,Trek - Segafredo,-,3,2018
+28,14,13,2.0,Majka Rafa\u0142,3,BORA - hansgrohe,\u25bc1,3,2018
+28,61,12,,Huffman Evan,4,Rally Cycling,-,3,2018
+27,153,12,3.0,Companioni Ruben,5,Holowesko - Citadel p/b Arapahoe Resources,\u25bc2,3,2018
+25,71,11,4.0,Yates Adam,6,Mitchelton-Scott,\u25bc2,3,2018
+24,5,11,5.0,Tolhoek Antwan,7,Team LottoNL-Jumbo,\u25bc2,3,2018
+22,115,8,6.0,Martinez Daniel Felipe,8,Team EF Education First-Drapac p/b Cannondale,\u25bc2,3,2018
+24,64,8,7.0,De Vos Adam,9,Rally Cycling,\u25bc2,3,2018
+30,144,7,8.0,Durasek Kristijan,10,UAE-Team Emirates,\u25bc2,3,2018
+20,104,7,,Garrison Ian,11,Hagens Berman Axeon,-,3,2018
+31,94,6,9.0,Frank Mathias,12,AG2R La Mondiale,\u25bc3,3,2018
+22,103,6,,Bennett Sean,13,Hagens Berman Axeon,-,3,2018
+29,23,5,10.0,van Garderen Tejay,14,BMC Racing Team,\u25bc4,3,2018
+25,63,4,,Carpenter Robin,15,Rally Cycling,-,3,2018
+33,162,4,11.0,Clarke Jonathan,16,UnitedHealthcare Pro Cycling Team,\u25bc5,3,2018
+30,95,3,,Gastauer Ben,17,AG2R La Mondiale,-,3,2018
+23,117,3,,Owen Logan,18,Team EF Education First-Drapac p/b Cannondale,-,3,2018
+26,113,1,,Craddock Lawson,19,Team EF Education First-Drapac p/b Cannondale,-,3,2018
+21,81,15,1.0,Bernal Egan Arley,1,Team Sky,-,4,2018
+26,126,13,2.0,Skuji\u0146\u0161 Toms,2,Trek - Segafredo,-,4,2018
+28,14,13,3.0,Majka Rafa\u0142,3,BORA - hansgrohe,-,4,2018
+28,61,12,4.0,Huffman Evan,4,Rally Cycling,-,4,2018
+27,153,12,5.0,Companioni Ruben,5,Holowesko - Citadel p/b Arapahoe Resources,-,4,2018
+25,71,11,6.0,Yates Adam,6,Mitchelton-Scott,-,4,2018
+24,5,11,7.0,Tolhoek Antwan,7,Team LottoNL-Jumbo,-,4,2018
+22,115,8,8.0,Martinez Daniel Felipe,8,Team EF Education First-Drapac p/b Cannondale,-,4,2018
+24,64,8,9.0,De Vos Adam,9,Rally Cycling,-,4,2018
+30,144,7,10.0,Durasek Kristijan,10,UAE-Team Emirates,-,4,2018
+20,104,7,11.0,Garrison Ian,11,Hagens Berman Axeon,-,4,2018
+31,94,6,12.0,Frank Mathias,12,AG2R La Mondiale,-,4,2018
+22,103,6,13.0,Bennett Sean,13,Hagens Berman Axeon,-,4,2018
+29,23,5,14.0,van Garderen Tejay,14,BMC Racing Team,-,4,2018
+25,63,4,15.0,Carpenter Robin,15,Rally Cycling,-,4,2018
+33,162,4,16.0,Clarke Jonathan,16,UnitedHealthcare Pro Cycling Team,-,4,2018
+30,95,3,17.0,Gastauer Ben,17,AG2R La Mondiale,-,4,2018
+23,117,3,18.0,Owen Logan,18,Team EF Education First-Drapac p/b Cannondale,-,4,2018
+26,113,1,19.0,Craddock Lawson,19,Team EF Education First-Drapac p/b Cannondale,-,4,2018
+21,81,15,1.0,Bernal Egan Arley,1,Team Sky,-,5,2018
+27,153,15,5.0,Companioni Ruben,2,Holowesko - Citadel p/b Arapahoe Resources,\u25b23,5,2018
+26,126,13,2.0,Skuji\u0146\u0161 Toms,3,Trek - Segafredo,\u25bc1,5,2018
+28,14,13,3.0,Majka Rafa\u0142,4,BORA - hansgrohe,\u25bc1,5,2018
+28,61,12,4.0,Huffman Evan,5,Rally Cycling,\u25bc1,5,2018
+25,71,11,6.0,Yates Adam,6,Mitchelton-Scott,-,5,2018
+24,5,11,7.0,Tolhoek Antwan,7,Team LottoNL-Jumbo,-,5,2018
+22,115,8,8.0,Martinez Daniel Felipe,8,Team EF Education First-Drapac p/b Cannondale,-,5,2018
+24,64,8,9.0,De Vos Adam,9,Rally Cycling,-,5,2018
+30,144,7,10.0,Durasek Kristijan,10,UAE-Team Emirates,-,5,2018
+20,104,7,11.0,Garrison Ian,11,Hagens Berman Axeon,-,5,2018
+31,94,6,12.0,Frank Mathias,12,AG2R La Mondiale,-,5,2018
+22,103,6,13.0,Bennett Sean,13,Hagens Berman Axeon,-,5,2018
+29,23,5,14.0,van Garderen Tejay,14,BMC Racing Team,-,5,2018
+25,63,4,15.0,Carpenter Robin,15,Rally Cycling,-,5,2018
+33,162,4,16.0,Clarke Jonathan,16,UnitedHealthcare Pro Cycling Team,-,5,2018
+30,95,3,17.0,Gastauer Ben,17,AG2R La Mondiale,-,5,2018
+23,117,3,18.0,Owen Logan,18,Team EF Education First-Drapac p/b Cannondale,-,5,2018
+22,107,2,,Rice Michael,19,Hagens Berman Axeon,-,5,2018
+34,97,1,,Vandenbergh Stijn,20,AG2R La Mondiale,-,5,2018
+26,113,1,19.0,Craddock Lawson,21,Team EF Education First-Drapac p/b Cannondale,\u25bc2,5,2018
+26,126,34,3.0,Skuji\u0146\u0161 Toms,1,Trek - Segafredo,\u25b22,6,2018
+28,61,33,5.0,Huffman Evan,2,Rally Cycling,\u25b23,6,2018
+21,81,26,1.0,Bernal Egan Arley,3,Team Sky,\u25bc2,6,2018
+25,71,20,6.0,Yates Adam,4,Mitchelton-Scott,\u25b22,6,2018
+26,113,18,21.0,Craddock Lawson,5,Team EF Education First-Drapac p/b Cannondale,\u25b216,6,2018
+22,115,13,8.0,Martinez Daniel Felipe,6,Team EF Education First-Drapac p/b Cannondale,\u25b22,6,2018
+28,14,13,4.0,Majka Rafa\u0142,7,BORA - hansgrohe,\u25bc3,6,2018
+24,5,11,7.0,Tolhoek Antwan,8,Team LottoNL-Jumbo,\u25bc1,6,2018
+22,103,9,13.0,Bennett Sean,9,Hagens Berman Axeon,\u25b24,6,2018
+29,23,8,14.0,van Garderen Tejay,10,BMC Racing Team,\u25b24,6,2018
+24,64,8,9.0,De Vos Adam,11,Rally Cycling,\u25bc2,6,2018
+23,82,7,,Geoghegan Hart Tao,12,Team Sky,-,6,2018
+30,144,7,10.0,Durasek Kristijan,13,UAE-Team Emirates,\u25bc3,6,2018
+20,104,7,11.0,Garrison Ian,14,Hagens Berman Axeon,\u25bc3,6,2018
+31,94,6,12.0,Frank Mathias,15,AG2R La Mondiale,\u25bc3,6,2018
+26,2,6,,De Tier Floris,16,Team LottoNL-Jumbo,-,6,2018
+25,63,4,15.0,Carpenter Robin,17,Rally Cycling,\u25bc2,6,2018
+33,162,4,16.0,Clarke Jonathan,18,UnitedHealthcare Pro Cycling Team,\u25bc2,6,2018
+28,45,3,,Slagter Tom-Jelte,19,Team Dimension Data,-,6,2018
+30,95,3,17.0,Gastauer Ben,20,AG2R La Mondiale,\u25bc3,6,2018
+23,117,3,18.0,Owen Logan,21,Team EF Education First-Drapac p/b Cannondale,\u25bc3,6,2018
+22,107,2,19.0,Rice Michael,22,Hagens Berman Axeon,\u25bc3,6,2018
+29,167,1,,Tvetcov Serghei,23,UnitedHealthcare Pro Cycling Team,-,6,2018
+34,97,1,20.0,Vandenbergh Stijn,24,AG2R La Mondiale,\u25bc4,6,2018
+38,124,1,,Rast Gregory,25,Trek - Segafredo,-,6,2018
+22,92,1,,Cosnefroy Benoit,26,AG2R La Mondiale,-,6,2018
+26,126,34,1.0,Skuji\u0146\u0161 Toms,1,Trek - Segafredo,-,7,2018
+28,61,33,2.0,Huffman Evan,2,Rally Cycling,-,7,2018
+21,81,26,3.0,Bernal Egan Arley,3,Team Sky,-,7,2018
+25,71,20,4.0,Yates Adam,4,Mitchelton-Scott,-,7,2018
+26,113,18,5.0,Craddock Lawson,5,Team EF Education First-Drapac p/b Cannondale,-,7,2018
+22,115,13,6.0,Martinez Daniel Felipe,6,Team EF Education First-Drapac p/b Cannondale,-,7,2018
+28,14,13,7.0,Majka Rafa\u0142,7,BORA - hansgrohe,-,7,2018
+24,5,11,8.0,Tolhoek Antwan,8,Team LottoNL-Jumbo,-,7,2018
+22,103,9,9.0,Bennett Sean,9,Hagens Berman Axeon,-,7,2018
+29,23,8,10.0,van Garderen Tejay,10,BMC Racing Team,-,7,2018
+24,64,8,11.0,De Vos Adam,11,Rally Cycling,-,7,2018
+23,82,7,12.0,Geoghegan Hart Tao,12,Team Sky,-,7,2018
+30,144,7,13.0,Durasek Kristijan,13,UAE-Team Emirates,-,7,2018
+20,104,7,14.0,Garrison Ian,14,Hagens Berman Axeon,-,7,2018
+31,94,6,15.0,Frank Mathias,15,AG2R La Mondiale,-,7,2018
+26,2,6,16.0,De Tier Floris,16,Team LottoNL-Jumbo,-,7,2018
+25,63,4,17.0,Carpenter Robin,17,Rally Cycling,-,7,2018
+33,162,4,18.0,Clarke Jonathan,18,UnitedHealthcare Pro Cycling Team,-,7,2018
+28,45,3,19.0,Slagter Tom-Jelte,19,Team Dimension Data,-,7,2018
+30,95,3,20.0,Gastauer Ben,20,AG2R La Mondiale,-,7,2018
+23,117,3,21.0,Owen Logan,21,Team EF Education First-Drapac p/b Cannondale,-,7,2018
+22,107,2,22.0,Rice Michael,22,Hagens Berman Axeon,-,7,2018
+29,167,1,23.0,Tvetcov Serghei,23,UnitedHealthcare Pro Cycling Team,-,7,2018
+34,97,1,24.0,Vandenbergh Stijn,24,AG2R La Mondiale,-,7,2018
+38,124,1,25.0,Rast Gregory,25,Trek - Segafredo,-,7,2018
+22,92,1,26.0,Cosnefroy Benoit,26,AG2R La Mondiale,-,7,2018

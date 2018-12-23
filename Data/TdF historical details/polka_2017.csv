@@ -1,0 +1,743 @@
+Age,BIB,Pnt,Prev,Rider,Rnk,Team,UCI,\u25bc\u25b2,stage,year
+27,186,2,,Phinney Taylor,1,Cannondale-Drapac Pro Cycling Team,,,2,2017
+25,184,3,,Brown Nathan,1,Cannondale-Drapac Pro Cycling Team,,-,3,2017
+27,111,2,,Sagan Peter,2,BORA - hansgrohe,,-,3,2017
+27,186,2,1.0,Phinney Taylor,3,Cannondale-Drapac Pro Cycling Team,,\u25bc2,3,2017
+23,128,2,,Politt Nils,4,Team Katusha - Alpecin,,-,3,2017
+24,173,1,,Calmejane Lilian,5,Direct Energie,,-,3,2017
+26,141,1,,Matthews Michael,6,Team Sunweb,,-,3,2017
+25,184,3,1.0,Brown Nathan,1,Cannondale-Drapac Pro Cycling Team,,-,4,2017
+27,111,2,2.0,Sagan Peter,2,BORA - hansgrohe,,-,4,2017
+27,186,2,3.0,Phinney Taylor,3,Cannondale-Drapac Pro Cycling Team,,-,4,2017
+23,128,2,4.0,Politt Nils,4,Team Katusha - Alpecin,,-,4,2017
+24,173,1,5.0,Calmejane Lilian,5,Direct Energie,,-,4,2017
+26,208,1,,van Keirsbulck Guillaume,6,Wanty - Groupe Gobert,,-,4,2017
+26,141,1,6.0,Matthews Michael,7,Team Sunweb,,\u25bc1,4,2017
+27,51,10,,Aru Fabio,1,Astana Pro Team,,-,5,2017
+30,105,8,,Martin Daniel,2,Quick-Step Floors,,-,5,2017
+32,1,6,,Froome Christopher,3,Team Sky,,-,5,2017
+32,41,4,,Porte Richie,4,BMC Racing Team,,-,5,2017
+25,184,3,1.0,Brown Nathan,5,Cannondale-Drapac Pro Cycling Team,,\u25bc4,5,2017
+31,12,2,,Bakelants Jan,6,AG2R La Mondiale,,-,5,2017
+27,186,2,3.0,Phinney Taylor,7,Cannondale-Drapac Pro Cycling Team,,\u25bc4,5,2017
+23,128,2,4.0,Politt Nils,8,Team Katusha - Alpecin,,\u25bc4,5,2017
+26,11,2,,Bardet Romain,9,AG2R La Mondiale,,-,5,2017
+24,173,1,5.0,Calmejane Lilian,10,Direct Energie,,\u25bc5,5,2017
+26,208,1,6.0,van Keirsbulck Guillaume,11,Wanty - Groupe Gobert,,\u25bc5,5,2017
+24,89,1,,Yates Simon,12,ORICA-Scott,,-,5,2017
+30,216,1,,Perichon Pierre-Luc,13,Fortuneo - Oscaro,,-,5,2017
+26,141,1,7.0,Matthews Michael,14,Team Sunweb,,\u25bc7,5,2017
+27,51,10,1.0,Aru Fabio,1,Astana Pro Team,,-,6,2017
+30,105,8,2.0,Martin Daniel,2,Quick-Step Floors,,-,6,2017
+32,1,6,3.0,Froome Christopher,3,Team Sky,,-,6,2017
+32,41,4,4.0,Porte Richie,4,BMC Racing Team,,-,6,2017
+25,184,3,5.0,Brown Nathan,5,Cannondale-Drapac Pro Cycling Team,,-,6,2017
+31,12,2,6.0,Bakelants Jan,6,AG2R La Mondiale,,-,6,2017
+33,177,2,,Quemeneur Perrig,7,Direct Energie,,-,6,2017
+27,186,2,7.0,Phinney Taylor,8,Cannondale-Drapac Pro Cycling Team,,\u25bc1,6,2017
+23,128,2,8.0,Politt Nils,9,Team Katusha - Alpecin,,\u25bc1,6,2017
+26,11,2,9.0,Bardet Romain,10,AG2R La Mondiale,,\u25bc1,6,2017
+24,173,1,10.0,Calmejane Lilian,11,Direct Energie,,\u25bc1,6,2017
+26,208,1,11.0,van Keirsbulck Guillaume,12,Wanty - Groupe Gobert,,\u25bc1,6,2017
+24,89,1,12.0,Yates Simon,13,ORICA-Scott,,\u25bc1,6,2017
+26,141,1,14.0,Matthews Michael,14,Team Sunweb,,-,6,2017
+30,216,1,13.0,Perichon Pierre-Luc,15,Fortuneo - Oscaro,,\u25bc2,6,2017
+27,51,10,1.0,Aru Fabio,1,Astana Pro Team,,-,7,2017
+30,105,8,2.0,Martin Daniel,2,Quick-Step Floors,,-,7,2017
+32,1,6,3.0,Froome Christopher,3,Team Sky,,-,7,2017
+32,41,4,4.0,Porte Richie,4,BMC Racing Team,,-,7,2017
+26,184,3,5.0,Brown Nathan,5,Cannondale-Drapac Pro Cycling Team,,-,7,2017
+31,12,2,6.0,Bakelants Jan,6,AG2R La Mondiale,,-,7,2017
+33,177,2,7.0,Quemeneur Perrig,7,Direct Energie,,-,7,2017
+27,186,2,8.0,Phinney Taylor,8,Cannondale-Drapac Pro Cycling Team,,-,7,2017
+23,128,2,9.0,Politt Nils,9,Team Katusha - Alpecin,,-,7,2017
+26,11,2,10.0,Bardet Romain,10,AG2R La Mondiale,,-,7,2017
+24,173,1,11.0,Calmejane Lilian,11,Direct Energie,,-,7,2017
+30,212,1,,Bouet Maxime,12,Fortuneo - Oscaro,,-,7,2017
+26,208,1,12.0,van Keirsbulck Guillaume,13,Wanty - Groupe Gobert,,\u25bc1,7,2017
+24,89,1,13.0,Yates Simon,14,ORICA-Scott,,\u25bc1,7,2017
+26,141,1,14.0,Matthews Michael,15,Team Sunweb,,\u25bc1,7,2017
+30,216,1,15.0,Perichon Pierre-Luc,16,Fortuneo - Oscaro,,\u25bc1,7,2017
+24,173,11,11.0,Calmejane Lilian,1,Direct Energie,,\u25b210,8,2017
+27,51,10,1.0,Aru Fabio,2,Astana Pro Team,,\u25bc1,8,2017
+30,105,8,2.0,Martin Daniel,3,Quick-Step Floors,,\u25bc1,8,2017
+31,161,8,,Gesink Robert,4,Team LottoNL-Jumbo,,-,8,2017
+25,143,7,,Barguil Warren,5,Team Sunweb,,-,8,2017
+32,1,6,3.0,Froome Christopher,6,Team Sky,,\u25bc3,8,2017
+24,201,6,,Martin Guillaume,7,Wanty - Groupe Gobert,,-,8,2017
+31,12,5,6.0,Bakelants Jan,8,AG2R La Mondiale,,\u25bc2,8,2017
+33,96,5,,Pauwels Serge,9,Team Dimension Data,,-,8,2017
+32,41,4,4.0,Porte Richie,10,BMC Racing Team,,\u25bc6,8,2017
+33,46,4,,Roche Nicolas,11,BMC Racing Team,,-,8,2017
+26,184,3,5.0,Brown Nathan,12,Cannondale-Drapac Pro Cycling Team,,\u25bc7,8,2017
+33,177,2,7.0,Quemeneur Perrig,13,Direct Energie,,\u25bc6,8,2017
+27,186,2,8.0,Phinney Taylor,14,Cannondale-Drapac Pro Cycling Team,,\u25bc6,8,2017
+23,128,2,9.0,Politt Nils,15,Team Katusha - Alpecin,,\u25bc6,8,2017
+26,11,2,10.0,Bardet Romain,16,AG2R La Mondiale,,\u25bc6,8,2017
+30,212,1,12.0,Bouet Maxime,17,Fortuneo - Oscaro,,\u25bc5,8,2017
+26,208,1,13.0,van Keirsbulck Guillaume,18,Wanty - Groupe Gobert,,\u25bc5,8,2017
+24,89,1,14.0,Yates Simon,19,ORICA-Scott,,\u25bc5,8,2017
+31,213,1,,Feillu Brice,20,Fortuneo - Oscaro,,-,8,2017
+32,48,1,,Van Avermaet Greg,21,BMC Racing Team,,-,8,2017
+26,141,1,15.0,Matthews Michael,22,Team Sunweb,,\u25bc7,8,2017
+30,216,1,16.0,Perichon Pierre-Luc,23,Fortuneo - Oscaro,,\u25bc7,8,2017
+25,143,60,5.0,Barguil Warren,1,Team Sunweb,,\u25b24,9,2017
+27,166,30,,Roglic Primoz,2,Team LottoNL-Jumbo,,-,9,2017
+29,19,27,,Vuillermoz Alexis,3,AG2R La Mondiale,,-,9,2017
+30,105,23,3.0,Martin Daniel,4,Quick-Step Floors,,\u25bc1,9,2017
+30,37,18,,Mollema Bauke,5,Trek - Segafredo,,-,9,2017
+27,78,17,,Pinot Thibaut,6,FDJ,,-,9,2017
+32,1,16,6.0,Froome Christopher,7,Team Sky,,\u25bc1,9,2017
+23,133,15,,Benoot Tiesj,8,Lotto Soudal,,-,9,2017
+27,51,14,2.0,Aru Fabio,9,Astana Pro Team,,\u25bc7,9,2017
+32,53,12,,Fuglsang Jakob,10,Astana Pro Team,,-,9,2017
+24,173,11,1.0,Calmejane Lilian,11,Direct Energie,,\u25bc10,9,2017
+31,12,10,8.0,Bakelants Jan,12,AG2R La Mondiale,,\u25bc4,9,2017
+26,11,8,16.0,Bardet Romain,13,AG2R La Mondiale,,\u25b23,9,2017
+31,213,7,20.0,Feillu Brice,14,Fortuneo - Oscaro,,\u25b26,9,2017
+24,201,6,7.0,Martin Guillaume,15,Wanty - Groupe Gobert,,\u25bc8,9,2017
+28,38,6,,Pantano Jarlinson,16,Trek - Segafredo,,-,9,2017
+33,96,5,9.0,Pauwels Serge,17,Team Dimension Data,,\u25bc8,9,2017
+33,157,4,,Navarro Daniel,18,"Cofidis, Solutions Cr\xe9dits",,-,9,2017
+33,46,4,11.0,Roche Nicolas,19,BMC Racing Team,,\u25bc8,9,2017
+26,184,3,12.0,Brown Nathan,20,Cannondale-Drapac Pro Cycling Team,,\u25bc8,9,2017
+30,134,3,,De Gendt Thomas,21,Lotto Soudal,,-,9,2017
+26,141,3,22.0,Matthews Michael,22,Team Sunweb,,-,9,2017
+26,139,3,,Wellens Tim,23,Lotto Soudal,,-,9,2017
+33,177,2,13.0,Quemeneur Perrig,24,Direct Energie,,\u25bc11,9,2017
+27,186,2,14.0,Phinney Taylor,25,Cannondale-Drapac Pro Cycling Team,,\u25bc11,9,2017
+23,128,2,15.0,Politt Nils,26,Team Katusha - Alpecin,,\u25bc11,9,2017
+30,188,2,,Uran Rigoberto,27,Cannondale-Drapac Pro Cycling Team,,-,9,2017
+26,27,2,,Herrada Jes\xfas,28,Movistar Team,,-,9,2017
+30,212,1,17.0,Bouet Maxime,29,Fortuneo - Oscaro,,\u25bc12,9,2017
+26,208,1,18.0,van Keirsbulck Guillaume,30,Wanty - Groupe Gobert,,\u25bc12,9,2017
+24,89,1,19.0,Yates Simon,31,ORICA-Scott,,\u25bc12,9,2017
+24,57,1,,Lutsenko Alexey,32,Astana Pro Team,,-,9,2017
+32,48,1,21.0,Van Avermaet Greg,33,BMC Racing Team,,\u25bc12,9,2017
+30,216,1,23.0,Perichon Pierre-Luc,34,Fortuneo - Oscaro,,\u25bc11,9,2017
+25,143,60,1.0,Barguil Warren,1,Team Sunweb,,-,10,2017
+27,166,30,2.0,Roglic Primoz,2,Team LottoNL-Jumbo,,-,10,2017
+29,19,27,3.0,Vuillermoz Alexis,3,AG2R La Mondiale,,-,10,2017
+30,105,23,4.0,Martin Daniel,4,Quick-Step Floors,,-,10,2017
+30,37,18,5.0,Mollema Bauke,5,Trek - Segafredo,,-,10,2017
+27,78,17,6.0,Pinot Thibaut,6,FDJ,,-,10,2017
+32,1,16,7.0,Froome Christopher,7,Team Sky,,-,10,2017
+23,133,15,8.0,Benoot Tiesj,8,Lotto Soudal,,-,10,2017
+27,51,14,9.0,Aru Fabio,9,Astana Pro Team,,-,10,2017
+32,53,12,10.0,Fuglsang Jakob,10,Astana Pro Team,,-,10,2017
+24,173,11,11.0,Calmejane Lilian,11,Direct Energie,,-,10,2017
+31,12,10,12.0,Bakelants Jan,12,AG2R La Mondiale,,-,10,2017
+26,11,8,13.0,Bardet Romain,13,AG2R La Mondiale,,-,10,2017
+31,213,7,14.0,Feillu Brice,14,Fortuneo - Oscaro,,-,10,2017
+24,201,6,15.0,Martin Guillaume,15,Wanty - Groupe Gobert,,-,10,2017
+28,38,6,16.0,Pantano Jarlinson,16,Trek - Segafredo,,-,10,2017
+33,96,5,17.0,Pauwels Serge,17,Team Dimension Data,,-,10,2017
+33,157,4,18.0,Navarro Daniel,18,"Cofidis, Solutions Cr\xe9dits",,-,10,2017
+33,46,4,19.0,Roche Nicolas,19,BMC Racing Team,,-,10,2017
+26,184,3,20.0,Brown Nathan,20,Cannondale-Drapac Pro Cycling Team,,-,10,2017
+30,134,3,21.0,De Gendt Thomas,21,Lotto Soudal,,-,10,2017
+26,141,3,22.0,Matthews Michael,22,Team Sunweb,,-,10,2017
+26,139,3,23.0,Wellens Tim,23,Lotto Soudal,,-,10,2017
+33,177,2,24.0,Quemeneur Perrig,24,Direct Energie,,-,10,2017
+22,214,2,,Gesbert Elie,25,Fortuneo - Oscaro,,-,10,2017
+27,186,2,25.0,Phinney Taylor,26,Cannondale-Drapac Pro Cycling Team,,\u25bc1,10,2017
+23,128,2,26.0,Politt Nils,27,Team Katusha - Alpecin,,\u25bc1,10,2017
+30,188,2,27.0,Uran Rigoberto,28,Cannondale-Drapac Pro Cycling Team,,\u25bc1,10,2017
+26,27,2,28.0,Herrada Jes\xfas,29,Movistar Team,,\u25bc1,10,2017
+30,212,1,29.0,Bouet Maxime,30,Fortuneo - Oscaro,,\u25bc1,10,2017
+26,208,1,30.0,van Keirsbulck Guillaume,31,Wanty - Groupe Gobert,,\u25bc1,10,2017
+24,89,1,31.0,Yates Simon,32,ORICA-Scott,,\u25bc1,10,2017
+32,48,1,33.0,Van Avermaet Greg,33,BMC Racing Team,,-,10,2017
+24,57,1,32.0,Lutsenko Alexey,34,Astana Pro Team,,\u25bc2,10,2017
+30,216,1,34.0,Perichon Pierre-Luc,35,Fortuneo - Oscaro,,\u25bc1,10,2017
+25,143,60,1.0,Barguil Warren,1,Team Sunweb,,-,11,2017
+27,166,30,2.0,Roglic Primoz,2,Team LottoNL-Jumbo,,-,11,2017
+29,19,27,3.0,Vuillermoz Alexis,3,AG2R La Mondiale,,-,11,2017
+30,105,23,4.0,Martin Daniel,4,Quick-Step Floors,,-,11,2017
+30,37,18,5.0,Mollema Bauke,5,Trek - Segafredo,,-,11,2017
+27,78,17,6.0,Pinot Thibaut,6,FDJ,,-,11,2017
+32,1,16,7.0,Froome Christopher,7,Team Sky,,-,11,2017
+23,133,15,8.0,Benoot Tiesj,8,Lotto Soudal,,-,11,2017
+27,51,14,9.0,Aru Fabio,9,Astana Pro Team,,-,11,2017
+32,53,12,10.0,Fuglsang Jakob,10,Astana Pro Team,,-,11,2017
+24,173,11,11.0,Calmejane Lilian,11,Direct Energie,,-,11,2017
+31,12,10,12.0,Bakelants Jan,12,AG2R La Mondiale,,-,11,2017
+26,11,8,13.0,Bardet Romain,13,AG2R La Mondiale,,-,11,2017
+31,213,7,14.0,Feillu Brice,14,Fortuneo - Oscaro,,-,11,2017
+24,201,6,15.0,Martin Guillaume,15,Wanty - Groupe Gobert,,-,11,2017
+28,38,6,16.0,Pantano Jarlinson,16,Trek - Segafredo,,-,11,2017
+33,96,5,17.0,Pauwels Serge,17,Team Dimension Data,,-,11,2017
+33,157,4,18.0,Navarro Daniel,18,"Cofidis, Solutions Cr\xe9dits",,-,11,2017
+33,46,4,19.0,Roche Nicolas,19,BMC Racing Team,,-,11,2017
+26,184,3,20.0,Brown Nathan,20,Cannondale-Drapac Pro Cycling Team,,-,11,2017
+30,134,3,21.0,De Gendt Thomas,21,Lotto Soudal,,-,11,2017
+26,141,3,22.0,Matthews Michael,22,Team Sunweb,,-,11,2017
+26,139,3,23.0,Wellens Tim,23,Lotto Soudal,,-,11,2017
+33,177,2,24.0,Quemeneur Perrig,24,Direct Energie,,-,11,2017
+22,214,2,25.0,Gesbert Elie,25,Fortuneo - Oscaro,,-,11,2017
+27,186,2,26.0,Phinney Taylor,26,Cannondale-Drapac Pro Cycling Team,,-,11,2017
+23,128,2,27.0,Politt Nils,27,Team Katusha - Alpecin,,-,11,2017
+30,188,2,28.0,Uran Rigoberto,28,Cannondale-Drapac Pro Cycling Team,,-,11,2017
+26,27,2,29.0,Herrada Jes\xfas,29,Movistar Team,,-,11,2017
+30,212,1,30.0,Bouet Maxime,30,Fortuneo - Oscaro,,-,11,2017
+27,202,1,,Backaert Frederik,31,Wanty - Groupe Gobert,,-,11,2017
+26,208,1,31.0,van Keirsbulck Guillaume,32,Wanty - Groupe Gobert,,\u25bc1,11,2017
+24,89,1,32.0,Yates Simon,33,ORICA-Scott,,\u25bc1,11,2017
+32,48,1,33.0,Van Avermaet Greg,34,BMC Racing Team,,\u25bc1,11,2017
+24,57,1,34.0,Lutsenko Alexey,35,Astana Pro Team,,\u25bc1,11,2017
+30,216,1,35.0,Perichon Pierre-Luc,36,Fortuneo - Oscaro,,\u25bc1,11,2017
+25,143,70,1.0,Barguil Warren,1,Team Sunweb,,-,12,2017
+30,134,32,21.0,De Gendt Thomas,2,Lotto Soudal,,\u25b219,12,2017
+27,166,30,2.0,Roglic Primoz,3,Team LottoNL-Jumbo,,\u25bc1,12,2017
+29,19,27,3.0,Vuillermoz Alexis,4,AG2R La Mondiale,,\u25bc1,12,2017
+32,1,24,7.0,Froome Christopher,5,Team Sky,,\u25b22,12,2017
+30,105,23,4.0,Martin Daniel,6,Quick-Step Floors,,\u25bc2,12,2017
+36,93,20,,Cummings Stephen,7,Team Dimension Data,,-,12,2017
+27,51,20,9.0,Aru Fabio,8,Astana Pro Team,,\u25b21,12,2017
+30,37,18,5.0,Mollema Bauke,9,Trek - Segafredo,,\u25bc4,12,2017
+27,78,17,6.0,Pinot Thibaut,10,FDJ,,\u25bc4,12,2017
+33,7,16,,Nieve Mikel,11,Team Sky,,-,12,2017
+26,141,16,22.0,Matthews Michael,12,Team Sunweb,,\u25b210,12,2017
+26,11,15,13.0,Bardet Romain,13,AG2R La Mondiale,,-,12,2017
+23,133,15,8.0,Benoot Tiesj,14,Lotto Soudal,,\u25bc6,12,2017
+29,16,14,,Gautier Cyril,15,AG2R La Mondiale,,-,12,2017
+27,6,13,,Landa Mikel,16,Team Sky,,-,12,2017
+32,53,12,10.0,Fuglsang Jakob,17,Astana Pro Team,,\u25bc7,12,2017
+24,173,11,11.0,Calmejane Lilian,18,Direct Energie,,\u25bc7,12,2017
+31,12,10,12.0,Bakelants Jan,19,AG2R La Mondiale,,\u25bc7,12,2017
+27,5,8,,Kwiatkowski Michal,20,Team Sky,,-,12,2017
+31,213,7,14.0,Feillu Brice,21,Fortuneo - Oscaro,,\u25bc7,12,2017
+31,159,7,,Simon Julien,22,"Cofidis, Solutions Cr\xe9dits",,-,12,2017
+30,188,6,28.0,Uran Rigoberto,23,Cannondale-Drapac Pro Cycling Team,,\u25b25,12,2017
+28,38,6,16.0,Pantano Jarlinson,24,Trek - Segafredo,,\u25bc8,12,2017
+24,201,6,15.0,Martin Guillaume,25,Wanty - Groupe Gobert,,\u25bc10,12,2017
+33,96,5,17.0,Pauwels Serge,26,Team Dimension Data,,\u25bc9,12,2017
+33,46,4,19.0,Roche Nicolas,27,BMC Racing Team,,\u25bc8,12,2017
+27,69,4,,Ulissi Diego,28,UAE Team Emirates,,-,12,2017
+33,157,4,18.0,Navarro Daniel,29,"Cofidis, Solutions Cr\xe9dits",,\u25bc11,12,2017
+26,184,3,20.0,Brown Nathan,30,Cannondale-Drapac Pro Cycling Team,,\u25bc10,12,2017
+26,139,3,23.0,Wellens Tim,31,Lotto Soudal,,\u25bc8,12,2017
+27,186,2,26.0,Phinney Taylor,32,Cannondale-Drapac Pro Cycling Team,,\u25bc6,12,2017
+33,177,2,24.0,Quemeneur Perrig,33,Direct Energie,,\u25bc9,12,2017
+22,214,2,25.0,Gesbert Elie,34,Fortuneo - Oscaro,,\u25bc9,12,2017
+23,128,2,27.0,Politt Nils,35,Team Katusha - Alpecin,,\u25bc8,12,2017
+34,32,2,,de Kort Koen,36,Trek - Segafredo,,-,12,2017
+26,27,2,29.0,Herrada Jes\xfas,37,Movistar Team,,\u25bc8,12,2017
+26,208,1,32.0,van Keirsbulck Guillaume,38,Wanty - Groupe Gobert,,\u25bc6,12,2017
+27,202,1,31.0,Backaert Frederik,39,Wanty - Groupe Gobert,,\u25bc8,12,2017
+30,212,1,30.0,Bouet Maxime,40,Fortuneo - Oscaro,,\u25bc10,12,2017
+24,89,1,33.0,Yates Simon,41,ORICA-Scott,,\u25bc8,12,2017
+33,26,1,,Erviti Imanol,42,Movistar Team,,-,12,2017
+24,57,1,35.0,Lutsenko Alexey,43,Astana Pro Team,,\u25bc8,12,2017
+30,216,1,36.0,Perichon Pierre-Luc,44,Fortuneo - Oscaro,,\u25bc8,12,2017
+32,48,1,34.0,Van Avermaet Greg,45,BMC Racing Team,,\u25bc11,12,2017
+25,143,94,1.0,Barguil Warren,1,Team Sunweb,,-,13,2017
+27,6,33,16.0,Landa Mikel,2,Team Sky,,\u25b214,13,2017
+30,134,32,2.0,De Gendt Thomas,3,Lotto Soudal,,\u25bc1,13,2017
+27,166,30,3.0,Roglic Primoz,4,Team LottoNL-Jumbo,,\u25bc1,13,2017
+29,19,28,4.0,Vuillermoz Alexis,5,AG2R La Mondiale,,\u25bc1,13,2017
+32,1,25,5.0,Froome Christopher,6,Team Sky,,\u25bc1,13,2017
+30,105,23,6.0,Martin Daniel,7,Quick-Step Floors,,\u25bc1,13,2017
+27,51,22,8.0,Aru Fabio,8,Astana Pro Team,,-,13,2017
+34,31,22,,Contador Alberto,9,Trek - Segafredo,,-,13,2017
+36,93,20,7.0,Cummings Stephen,10,Team Dimension Data,,\u25bc3,13,2017
+30,37,18,9.0,Mollema Bauke,11,Trek - Segafredo,,\u25bc2,13,2017
+27,78,17,10.0,Pinot Thibaut,12,FDJ,,\u25bc2,13,2017
+33,7,16,11.0,Nieve Mikel,13,Team Sky,,\u25bc2,13,2017
+26,141,16,12.0,Matthews Michael,14,Team Sunweb,,\u25bc2,13,2017
+26,11,15,13.0,Bardet Romain,15,AG2R La Mondiale,,\u25bc2,13,2017
+23,133,15,14.0,Benoot Tiesj,16,Lotto Soudal,,\u25bc2,13,2017
+29,16,14,15.0,Gautier Cyril,17,AG2R La Mondiale,,\u25bc2,13,2017
+24,173,11,18.0,Calmejane Lilian,18,Direct Energie,,-,13,2017
+31,43,10,,De Marchi Alessandro,19,BMC Racing Team,,-,13,2017
+31,12,10,19.0,Bakelants Jan,20,AG2R La Mondiale,,\u25bc1,13,2017
+27,5,10,20.0,Kwiatkowski Michal,21,Team Sky,,\u25bc1,13,2017
+27,21,8,,Quintana Nairo,22,Movistar Team,,-,13,2017
+31,159,7,22.0,Simon Julien,23,"Cofidis, Solutions Cr\xe9dits",,\u25bc1,13,2017
+31,213,7,21.0,Feillu Brice,24,Fortuneo - Oscaro,,\u25bc3,13,2017
+30,188,6,23.0,Uran Rigoberto,25,Cannondale-Drapac Pro Cycling Team,,\u25bc2,13,2017
+24,201,6,25.0,Martin Guillaume,26,Wanty - Groupe Gobert,,\u25bc1,13,2017
+28,38,6,24.0,Pantano Jarlinson,27,Trek - Segafredo,,\u25bc3,13,2017
+33,96,5,26.0,Pauwels Serge,28,Team Dimension Data,,\u25bc2,13,2017
+27,69,4,28.0,Ulissi Diego,29,UAE Team Emirates,,\u25bc1,13,2017
+33,46,4,27.0,Roche Nicolas,30,BMC Racing Team,,\u25bc3,13,2017
+33,157,4,29.0,Navarro Daniel,31,"Cofidis, Solutions Cr\xe9dits",,\u25bc2,13,2017
+26,184,3,30.0,Brown Nathan,32,Cannondale-Drapac Pro Cycling Team,,\u25bc2,13,2017
+26,139,3,31.0,Wellens Tim,33,Lotto Soudal,,\u25bc2,13,2017
+22,214,2,34.0,Gesbert Elie,34,Fortuneo - Oscaro,,-,13,2017
+27,186,2,32.0,Phinney Taylor,35,Cannondale-Drapac Pro Cycling Team,,\u25bc3,13,2017
+33,177,2,33.0,Quemeneur Perrig,36,Direct Energie,,\u25bc3,13,2017
+23,128,2,35.0,Politt Nils,37,Team Katusha - Alpecin,,\u25bc2,13,2017
+26,27,2,37.0,Herrada Jes\xfas,38,Movistar Team,,\u25bc1,13,2017
+34,32,2,36.0,de Kort Koen,39,Trek - Segafredo,,\u25bc3,13,2017
+29,178,2,,Sicard Romain,40,Direct Energie,,-,13,2017
+30,212,1,40.0,Bouet Maxime,41,Fortuneo - Oscaro,,\u25bc1,13,2017
+27,202,1,39.0,Backaert Frederik,42,Wanty - Groupe Gobert,,\u25bc3,13,2017
+26,208,1,38.0,van Keirsbulck Guillaume,43,Wanty - Groupe Gobert,,\u25bc5,13,2017
+24,89,1,41.0,Yates Simon,44,ORICA-Scott,,\u25bc3,13,2017
+27,24,1,,Betancur Carlos,45,Movistar Team,,-,13,2017
+32,48,1,45.0,Van Avermaet Greg,46,BMC Racing Team,,\u25bc1,13,2017
+24,57,1,43.0,Lutsenko Alexey,47,Astana Pro Team,,\u25bc4,13,2017
+30,216,1,44.0,Perichon Pierre-Luc,48,Fortuneo - Oscaro,,\u25bc4,13,2017
+33,26,1,42.0,Erviti Imanol,49,Movistar Team,,\u25bc7,13,2017
+25,143,94,1.0,Barguil Warren,1,Team Sunweb,,-,14,2017
+30,134,36,3.0,De Gendt Thomas,2,Lotto Soudal,,\u25b21,14,2017
+27,6,33,2.0,Landa Mikel,3,Team Sky,,\u25bc1,14,2017
+27,166,30,4.0,Roglic Primoz,4,Team LottoNL-Jumbo,,-,14,2017
+29,19,28,5.0,Vuillermoz Alexis,5,AG2R La Mondiale,,-,14,2017
+32,1,25,6.0,Froome Christopher,6,Team Sky,,-,14,2017
+30,105,23,7.0,Martin Daniel,7,Quick-Step Floors,,-,14,2017
+27,51,22,8.0,Aru Fabio,8,Astana Pro Team,,-,14,2017
+34,31,22,9.0,Contador Alberto,9,Trek - Segafredo,,-,14,2017
+36,93,20,10.0,Cummings Stephen,10,Team Dimension Data,,-,14,2017
+30,37,18,11.0,Mollema Bauke,11,Trek - Segafredo,,-,14,2017
+27,78,17,12.0,Pinot Thibaut,12,FDJ,,-,14,2017
+33,7,16,13.0,Nieve Mikel,13,Team Sky,,-,14,2017
+26,141,16,14.0,Matthews Michael,14,Team Sunweb,,-,14,2017
+26,11,15,15.0,Bardet Romain,15,AG2R La Mondiale,,-,14,2017
+23,133,15,16.0,Benoot Tiesj,16,Lotto Soudal,,-,14,2017
+29,16,14,17.0,Gautier Cyril,17,AG2R La Mondiale,,-,14,2017
+24,173,11,18.0,Calmejane Lilian,18,Direct Energie,,-,14,2017
+31,43,10,19.0,De Marchi Alessandro,19,BMC Racing Team,,-,14,2017
+31,12,10,20.0,Bakelants Jan,20,AG2R La Mondiale,,-,14,2017
+27,5,10,21.0,Kwiatkowski Michal,21,Team Sky,,-,14,2017
+27,21,8,22.0,Quintana Nairo,22,Movistar Team,,-,14,2017
+31,213,7,24.0,Feillu Brice,23,Fortuneo - Oscaro,,\u25b21,14,2017
+31,159,7,23.0,Simon Julien,24,"Cofidis, Solutions Cr\xe9dits",,\u25bc1,14,2017
+30,188,6,25.0,Uran Rigoberto,25,Cannondale-Drapac Pro Cycling Team,,-,14,2017
+24,201,6,26.0,Martin Guillaume,26,Wanty - Groupe Gobert,,-,14,2017
+28,38,6,27.0,Pantano Jarlinson,27,Trek - Segafredo,,-,14,2017
+33,96,5,28.0,Pauwels Serge,28,Team Dimension Data,,-,14,2017
+33,157,4,31.0,Navarro Daniel,29,"Cofidis, Solutions Cr\xe9dits",,\u25b22,14,2017
+33,46,4,30.0,Roche Nicolas,30,BMC Racing Team,,-,14,2017
+28,69,4,29.0,Ulissi Diego,31,UAE Team Emirates,,\u25bc2,14,2017
+26,184,3,32.0,Brown Nathan,32,Cannondale-Drapac Pro Cycling Team,,-,14,2017
+26,139,3,33.0,Wellens Tim,33,Lotto Soudal,,-,14,2017
+33,177,2,36.0,Quemeneur Perrig,34,Direct Energie,,\u25b22,14,2017
+22,214,2,34.0,Gesbert Elie,35,Fortuneo - Oscaro,,\u25bc1,14,2017
+27,186,2,35.0,Phinney Taylor,36,Cannondale-Drapac Pro Cycling Team,,\u25bc1,14,2017
+23,128,2,37.0,Politt Nils,37,Team Katusha - Alpecin,,-,14,2017
+34,32,2,39.0,de Kort Koen,38,Trek - Segafredo,,\u25b21,14,2017
+29,178,2,40.0,Sicard Romain,39,Direct Energie,,\u25b21,14,2017
+26,27,2,38.0,Herrada Jes\xfas,40,Movistar Team,,\u25bc2,14,2017
+38,171,2,,Voeckler Thomas,41,Direct Energie,,-,14,2017
+30,212,1,41.0,Bouet Maxime,42,Fortuneo - Oscaro,,\u25bc1,14,2017
+27,202,1,42.0,Backaert Frederik,43,Wanty - Groupe Gobert,,\u25bc1,14,2017
+26,208,1,43.0,van Keirsbulck Guillaume,44,Wanty - Groupe Gobert,,\u25bc1,14,2017
+24,89,1,44.0,Yates Simon,45,ORICA-Scott,,\u25bc1,14,2017
+27,24,1,45.0,Betancur Carlos,46,Movistar Team,,\u25bc1,14,2017
+32,48,1,46.0,Van Avermaet Greg,47,BMC Racing Team,,\u25bc1,14,2017
+30,216,1,48.0,Perichon Pierre-Luc,48,Fortuneo - Oscaro,,-,14,2017
+24,57,1,47.0,Lutsenko Alexey,49,Astana Pro Team,,\u25bc2,14,2017
+33,26,1,49.0,Erviti Imanol,50,Movistar Team,,\u25bc1,14,2017
+25,143,116,1.0,Barguil Warren,1,Team Sunweb,,-,15,2017
+27,166,38,4.0,Roglic Primoz,2,Team LottoNL-Jumbo,,\u25b22,15,2017
+30,134,36,2.0,De Gendt Thomas,3,Lotto Soudal,,\u25bc1,15,2017
+27,6,33,3.0,Landa Mikel,4,Team Sky,,\u25bc1,15,2017
+29,19,28,5.0,Vuillermoz Alexis,5,AG2R La Mondiale,,-,15,2017
+32,1,25,6.0,Froome Christopher,6,Team Sky,,-,15,2017
+30,105,23,7.0,Martin Daniel,7,Quick-Step Floors,,-,15,2017
+27,51,22,8.0,Aru Fabio,8,Astana Pro Team,,-,15,2017
+34,31,22,9.0,Contador Alberto,9,Trek - Segafredo,,-,15,2017
+36,93,20,10.0,Cummings Stephen,10,Team Dimension Data,,-,15,2017
+30,37,19,11.0,Mollema Bauke,11,Trek - Segafredo,,-,15,2017
+27,78,18,12.0,Pinot Thibaut,12,FDJ,,-,15,2017
+33,96,18,28.0,Pauwels Serge,13,Team Dimension Data,,\u25b215,15,2017
+26,141,16,14.0,Matthews Michael,14,Team Sunweb,,-,15,2017
+33,7,16,13.0,Nieve Mikel,15,Team Sky,,\u25bc2,15,2017
+26,11,15,15.0,Bardet Romain,16,AG2R La Mondiale,,\u25bc1,15,2017
+23,133,15,16.0,Benoot Tiesj,17,Lotto Soudal,,\u25bc1,15,2017
+29,16,14,17.0,Gautier Cyril,18,AG2R La Mondiale,,\u25bc1,15,2017
+24,173,11,18.0,Calmejane Lilian,19,Direct Energie,,\u25bc1,15,2017
+31,43,10,19.0,De Marchi Alessandro,20,BMC Racing Team,,\u25bc1,15,2017
+31,12,10,20.0,Bakelants Jan,21,AG2R La Mondiale,,\u25bc1,15,2017
+27,5,10,21.0,Kwiatkowski Michal,22,Team Sky,,\u25bc1,15,2017
+29,42,8,,Caruso Damiano,23,BMC Racing Team,,-,15,2017
+27,21,8,22.0,Quintana Nairo,24,Movistar Team,,\u25bc2,15,2017
+31,213,7,23.0,Feillu Brice,25,Fortuneo - Oscaro,,\u25bc2,15,2017
+31,159,7,24.0,Simon Julien,26,"Cofidis, Solutions Cr\xe9dits",,\u25bc2,15,2017
+30,188,6,25.0,Uran Rigoberto,27,Cannondale-Drapac Pro Cycling Team,,\u25bc2,15,2017
+29,135,6,,Gallopin Tony,28,Lotto Soudal,,-,15,2017
+28,38,6,27.0,Pantano Jarlinson,29,Trek - Segafredo,,\u25bc2,15,2017
+24,201,6,26.0,Martin Guillaume,30,Wanty - Groupe Gobert,,\u25bc4,15,2017
+33,157,4,29.0,Navarro Daniel,31,"Cofidis, Solutions Cr\xe9dits",,\u25bc2,15,2017
+33,46,4,30.0,Roche Nicolas,32,BMC Racing Team,,\u25bc2,15,2017
+28,69,4,31.0,Ulissi Diego,33,UAE Team Emirates,,\u25bc2,15,2017
+25,189,4,,van Baarle Dylan,34,Cannondale-Drapac Pro Cycling Team,,-,15,2017
+26,184,3,32.0,Brown Nathan,35,Cannondale-Drapac Pro Cycling Team,,\u25bc3,15,2017
+33,177,2,34.0,Quemeneur Perrig,36,Direct Energie,,\u25bc2,15,2017
+22,214,2,35.0,Gesbert Elie,37,Fortuneo - Oscaro,,\u25bc2,15,2017
+27,186,2,36.0,Phinney Taylor,38,Cannondale-Drapac Pro Cycling Team,,\u25bc2,15,2017
+23,128,2,37.0,Politt Nils,39,Team Katusha - Alpecin,,\u25bc2,15,2017
+25,198,2,,Grmay Tsgabu,40,Bahrain Merida Pro Cycling Team,,-,15,2017
+29,178,2,39.0,Sicard Romain,41,Direct Energie,,\u25bc2,15,2017
+34,32,2,38.0,de Kort Koen,42,Trek - Segafredo,,\u25bc4,15,2017
+38,171,2,41.0,Voeckler Thomas,43,Direct Energie,,\u25bc2,15,2017
+26,27,2,40.0,Herrada Jes\xfas,44,Movistar Team,,\u25bc4,15,2017
+27,202,1,43.0,Backaert Frederik,45,Wanty - Groupe Gobert,,\u25bc2,15,2017
+30,212,1,42.0,Bouet Maxime,46,Fortuneo - Oscaro,,\u25bc4,15,2017
+26,208,1,44.0,van Keirsbulck Guillaume,47,Wanty - Groupe Gobert,,\u25bc3,15,2017
+24,89,1,45.0,Yates Simon,48,ORICA-Scott,,\u25bc3,15,2017
+30,124,1,,Ki\u0161erlovski Robert,49,Team Katusha - Alpecin,,-,15,2017
+30,216,1,48.0,Perichon Pierre-Luc,50,Fortuneo - Oscaro,,\u25bc2,15,2017
+27,24,1,46.0,Betancur Carlos,51,Movistar Team,,\u25bc5,15,2017
+33,26,1,50.0,Erviti Imanol,52,Movistar Team,,\u25bc2,15,2017
+32,48,1,47.0,Van Avermaet Greg,53,BMC Racing Team,,\u25bc6,15,2017
+24,57,1,49.0,Lutsenko Alexey,54,Astana Pro Team,,\u25bc5,15,2017
+25,143,117,1.0,Barguil Warren,1,Team Sunweb,,-,16,2017
+27,166,38,2.0,Roglic Primoz,2,Team LottoNL-Jumbo,,-,16,2017
+30,134,38,3.0,De Gendt Thomas,3,Lotto Soudal,,-,16,2017
+27,6,33,4.0,Landa Mikel,4,Team Sky,,-,16,2017
+29,19,28,5.0,Vuillermoz Alexis,5,AG2R La Mondiale,,-,16,2017
+32,1,25,6.0,Froome Christopher,6,Team Sky,,-,16,2017
+30,105,23,7.0,Martin Daniel,7,Quick-Step Floors,,-,16,2017
+27,51,22,8.0,Aru Fabio,8,Astana Pro Team,,-,16,2017
+34,31,22,9.0,Contador Alberto,9,Trek - Segafredo,,-,16,2017
+36,93,20,10.0,Cummings Stephen,10,Team Dimension Data,,-,16,2017
+30,37,19,11.0,Mollema Bauke,11,Trek - Segafredo,,-,16,2017
+27,78,18,12.0,Pinot Thibaut,12,FDJ,,-,16,2017
+33,96,18,13.0,Pauwels Serge,13,Team Dimension Data,,-,16,2017
+33,7,16,15.0,Nieve Mikel,14,Team Sky,,\u25b21,16,2017
+26,141,16,14.0,Matthews Michael,15,Team Sunweb,,\u25bc1,16,2017
+26,11,15,16.0,Bardet Romain,16,AG2R La Mondiale,,-,16,2017
+23,133,15,17.0,Benoot Tiesj,17,Lotto Soudal,,-,16,2017
+29,16,14,18.0,Gautier Cyril,18,AG2R La Mondiale,,-,16,2017
+24,173,11,19.0,Calmejane Lilian,19,Direct Energie,,-,16,2017
+31,43,10,20.0,De Marchi Alessandro,20,BMC Racing Team,,-,16,2017
+31,12,10,21.0,Bakelants Jan,21,AG2R La Mondiale,,-,16,2017
+27,5,10,22.0,Kwiatkowski Michal,22,Team Sky,,-,16,2017
+29,42,8,23.0,Caruso Damiano,23,BMC Racing Team,,-,16,2017
+27,21,8,24.0,Quintana Nairo,24,Movistar Team,,-,16,2017
+31,213,7,25.0,Feillu Brice,25,Fortuneo - Oscaro,,-,16,2017
+31,159,7,26.0,Simon Julien,26,"Cofidis, Solutions Cr\xe9dits",,-,16,2017
+30,188,6,27.0,Uran Rigoberto,27,Cannondale-Drapac Pro Cycling Team,,-,16,2017
+24,201,6,30.0,Martin Guillaume,28,Wanty - Groupe Gobert,,\u25b22,16,2017
+29,135,6,28.0,Gallopin Tony,29,Lotto Soudal,,\u25bc1,16,2017
+28,38,6,29.0,Pantano Jarlinson,30,Trek - Segafredo,,\u25bc1,16,2017
+33,46,4,32.0,Roche Nicolas,31,BMC Racing Team,,\u25b21,16,2017
+34,157,4,31.0,Navarro Daniel,32,"Cofidis, Solutions Cr\xe9dits",,\u25bc1,16,2017
+28,69,4,33.0,Ulissi Diego,33,UAE Team Emirates,,-,16,2017
+25,189,4,34.0,van Baarle Dylan,34,Cannondale-Drapac Pro Cycling Team,,-,16,2017
+26,184,3,35.0,Brown Nathan,35,Cannondale-Drapac Pro Cycling Team,,-,16,2017
+22,214,2,37.0,Gesbert Elie,36,Fortuneo - Oscaro,,\u25b21,16,2017
+33,177,2,36.0,Quemeneur Perrig,37,Direct Energie,,\u25bc1,16,2017
+27,186,2,38.0,Phinney Taylor,38,Cannondale-Drapac Pro Cycling Team,,-,16,2017
+23,128,2,39.0,Politt Nils,39,Team Katusha - Alpecin,,-,16,2017
+34,32,2,42.0,de Kort Koen,40,Trek - Segafredo,,\u25b22,16,2017
+25,198,2,40.0,Grmay Tsgabu,41,Bahrain Merida Pro Cycling Team,,\u25bc1,16,2017
+29,178,2,41.0,Sicard Romain,42,Direct Energie,,\u25bc1,16,2017
+26,27,2,44.0,Herrada Jes\xfas,43,Movistar Team,,\u25b21,16,2017
+38,171,2,43.0,Voeckler Thomas,44,Direct Energie,,\u25bc1,16,2017
+30,212,1,46.0,Bouet Maxime,45,Fortuneo - Oscaro,,\u25b21,16,2017
+27,202,1,45.0,Backaert Frederik,46,Wanty - Groupe Gobert,,\u25bc1,16,2017
+26,208,1,47.0,van Keirsbulck Guillaume,47,Wanty - Groupe Gobert,,-,16,2017
+24,89,1,48.0,Yates Simon,48,ORICA-Scott,,-,16,2017
+27,24,1,51.0,Betancur Carlos,49,Movistar Team,,\u25b22,16,2017
+38,174,1,,Chavanel Sylvain,50,Direct Energie,,-,16,2017
+30,124,1,49.0,Ki\u0161erlovski Robert,51,Team Katusha - Alpecin,,\u25bc2,16,2017
+30,216,1,50.0,Perichon Pierre-Luc,52,Fortuneo - Oscaro,,\u25bc2,16,2017
+32,48,1,53.0,Van Avermaet Greg,53,BMC Racing Team,,-,16,2017
+24,57,1,54.0,Lutsenko Alexey,54,Astana Pro Team,,-,16,2017
+33,26,1,52.0,Erviti Imanol,55,Movistar Team,,\u25bc3,16,2017
+25,143,129,1.0,Barguil Warren,1,Team Sunweb,,-,17,2017
+27,166,80,2.0,Roglic Primoz,2,Team LottoNL-Jumbo,,-,17,2017
+30,134,61,3.0,De Gendt Thomas,3,Lotto Soudal,,-,17,2017
+30,37,37,11.0,Mollema Bauke,4,Trek - Segafredo,,\u25b27,17,2017
+34,31,36,9.0,Contador Alberto,5,Trek - Segafredo,,\u25b24,17,2017
+27,6,33,4.0,Landa Mikel,6,Team Sky,,\u25bc2,17,2017
+33,96,32,13.0,Pauwels Serge,7,Team Dimension Data,,\u25b26,17,2017
+32,1,31,6.0,Froome Christopher,8,Team Sky,,\u25bc2,17,2017
+29,19,28,5.0,Vuillermoz Alexis,9,AG2R La Mondiale,,\u25bc4,17,2017
+30,105,25,7.0,Martin Daniel,10,Quick-Step Floors,,\u25bc3,17,2017
+26,11,23,16.0,Bardet Romain,11,AG2R La Mondiale,,\u25b25,17,2017
+27,51,22,8.0,Aru Fabio,12,Astana Pro Team,,\u25bc4,17,2017
+26,141,21,15.0,Matthews Michael,13,Team Sunweb,,\u25b22,17,2017
+36,93,20,10.0,Cummings Stephen,14,Team Dimension Data,,\u25bc4,17,2017
+29,62,19,,Atapuma John Darwin,15,UAE Team Emirates,,-,17,2017
+34,157,19,32.0,Navarro Daniel,16,"Cofidis, Solutions Cr\xe9dits",,\u25b216,17,2017
+33,7,16,14.0,Nieve Mikel,17,Team Sky,,\u25bc3,17,2017
+29,135,15,29.0,Gallopin Tony,18,Lotto Soudal,,\u25b211,17,2017
+23,133,15,17.0,Benoot Tiesj,19,Lotto Soudal,,\u25bc2,17,2017
+29,16,14,18.0,Gautier Cyril,20,AG2R La Mondiale,,\u25bc2,17,2017
+24,173,11,19.0,Calmejane Lilian,21,Direct Energie,,\u25bc2,17,2017
+31,213,11,25.0,Feillu Brice,22,Fortuneo - Oscaro,,\u25b23,17,2017
+31,43,10,20.0,De Marchi Alessandro,23,BMC Racing Team,,\u25bc3,17,2017
+31,12,10,21.0,Bakelants Jan,24,AG2R La Mondiale,,\u25bc3,17,2017
+30,188,10,27.0,Uran Rigoberto,25,Cannondale-Drapac Pro Cycling Team,,\u25b22,17,2017
+27,5,10,22.0,Kwiatkowski Michal,26,Team Sky,,\u25bc4,17,2017
+27,21,8,24.0,Quintana Nairo,27,Movistar Team,,\u25bc3,17,2017
+29,42,8,23.0,Caruso Damiano,28,BMC Racing Team,,\u25bc5,17,2017
+31,159,7,26.0,Simon Julien,29,"Cofidis, Solutions Cr\xe9dits",,\u25bc3,17,2017
+28,38,6,30.0,Pantano Jarlinson,30,Trek - Segafredo,,-,17,2017
+24,201,6,28.0,Martin Guillaume,31,Wanty - Groupe Gobert,,\u25bc3,17,2017
+25,189,4,34.0,van Baarle Dylan,32,Cannondale-Drapac Pro Cycling Team,,\u25b22,17,2017
+33,46,4,31.0,Roche Nicolas,33,BMC Racing Team,,\u25bc2,17,2017
+28,69,4,33.0,Ulissi Diego,34,UAE Team Emirates,,\u25bc1,17,2017
+26,184,3,35.0,Brown Nathan,35,Cannondale-Drapac Pro Cycling Team,,-,17,2017
+27,186,2,38.0,Phinney Taylor,36,Cannondale-Drapac Pro Cycling Team,,\u25b22,17,2017
+22,214,2,36.0,Gesbert Elie,37,Fortuneo - Oscaro,,\u25bc1,17,2017
+33,177,2,37.0,Quemeneur Perrig,38,Direct Energie,,\u25bc1,17,2017
+23,128,2,39.0,Politt Nils,39,Team Katusha - Alpecin,,-,17,2017
+38,171,2,44.0,Voeckler Thomas,40,Direct Energie,,\u25b24,17,2017
+34,32,2,40.0,de Kort Koen,41,Trek - Segafredo,,\u25bc1,17,2017
+26,27,2,43.0,Herrada Jes\xfas,42,Movistar Team,,\u25b21,17,2017
+29,178,2,42.0,Sicard Romain,43,Direct Energie,,\u25bc1,17,2017
+25,198,2,41.0,Grmay Tsgabu,44,Bahrain Merida Pro Cycling Team,,\u25bc3,17,2017
+27,202,1,46.0,Backaert Frederik,45,Wanty - Groupe Gobert,,\u25b21,17,2017
+26,208,1,47.0,van Keirsbulck Guillaume,46,Wanty - Groupe Gobert,,\u25b21,17,2017
+30,212,1,45.0,Bouet Maxime,47,Fortuneo - Oscaro,,\u25bc2,17,2017
+24,89,1,48.0,Yates Simon,48,ORICA-Scott,,-,17,2017
+32,48,1,53.0,Van Avermaet Greg,49,BMC Racing Team,,\u25b24,17,2017
+27,24,1,49.0,Betancur Carlos,50,Movistar Team,,\u25bc1,17,2017
+24,57,1,54.0,Lutsenko Alexey,51,Astana Pro Team,,\u25b23,17,2017
+30,124,1,51.0,Ki\u0161erlovski Robert,52,Team Katusha - Alpecin,,\u25bc1,17,2017
+31,145,1,,Geschke Simon,53,Team Sunweb,,-,17,2017
+33,26,1,55.0,Erviti Imanol,54,Movistar Team,,\u25b21,17,2017
+38,174,1,50.0,Chavanel Sylvain,55,Direct Energie,,\u25bc5,17,2017
+30,216,1,52.0,Perichon Pierre-Luc,56,Fortuneo - Oscaro,,\u25bc4,17,2017
+25,143,169,1.0,Barguil Warren,1,Team Sunweb,,-,18,2017
+27,166,80,2.0,Roglic Primoz,2,Team LottoNL-Jumbo,,-,18,2017
+30,134,63,3.0,De Gendt Thomas,3,Lotto Soudal,,-,18,2017
+29,62,55,15.0,Atapuma John Darwin,4,UAE Team Emirates,,\u25b211,18,2017
+32,1,51,8.0,Froome Christopher,5,Team Sky,,\u25b23,18,2017
+26,11,47,11.0,Bardet Romain,6,AG2R La Mondiale,,\u25b25,18,2017
+27,6,45,6.0,Landa Mikel,7,Team Sky,,\u25bc1,18,2017
+30,37,37,4.0,Mollema Bauke,8,Trek - Segafredo,,\u25bc4,18,2017
+34,31,36,5.0,Contador Alberto,9,Trek - Segafredo,,\u25bc4,18,2017
+33,96,32,7.0,Pauwels Serge,10,Team Dimension Data,,\u25bc3,18,2017
+30,105,29,10.0,Martin Daniel,11,Quick-Step Floors,,\u25bc1,18,2017
+29,19,28,9.0,Vuillermoz Alexis,12,AG2R La Mondiale,,\u25bc3,18,2017
+30,188,26,25.0,Uran Rigoberto,13,Cannondale-Drapac Pro Cycling Team,,\u25b212,18,2017
+29,135,23,18.0,Gallopin Tony,14,Lotto Soudal,,\u25b24,18,2017
+27,51,22,12.0,Aru Fabio,15,Astana Pro Team,,\u25bc3,18,2017
+26,141,21,13.0,Matthews Michael,16,Team Sunweb,,\u25bc3,18,2017
+36,93,20,14.0,Cummings Stephen,17,Team Dimension Data,,\u25bc3,18,2017
+34,157,19,16.0,Navarro Daniel,18,"Cofidis, Solutions Cr\xe9dits",,\u25bc2,18,2017
+33,7,16,17.0,Nieve Mikel,19,Team Sky,,\u25bc2,18,2017
+23,133,15,19.0,Benoot Tiesj,20,Lotto Soudal,,\u25bc1,18,2017
+29,16,14,20.0,Gautier Cyril,21,AG2R La Mondiale,,\u25bc1,18,2017
+24,173,11,21.0,Calmejane Lilian,22,Direct Energie,,\u25bc1,18,2017
+24,57,11,51.0,Lutsenko Alexey,23,Astana Pro Team,,\u25b228,18,2017
+31,213,11,22.0,Feillu Brice,24,Fortuneo - Oscaro,,\u25bc2,18,2017
+31,43,10,23.0,De Marchi Alessandro,25,BMC Racing Team,,\u25bc2,18,2017
+31,12,10,24.0,Bakelants Jan,26,AG2R La Mondiale,,\u25bc2,18,2017
+27,5,10,26.0,Kwiatkowski Michal,27,Team Sky,,\u25bc1,18,2017
+25,61,8,,Meintjes Louis,28,UAE Team Emirates,,-,18,2017
+29,42,8,28.0,Caruso Damiano,29,BMC Racing Team,,\u25bc1,18,2017
+27,21,8,27.0,Quintana Nairo,30,Movistar Team,,\u25bc3,18,2017
+31,159,7,29.0,Simon Julien,31,"Cofidis, Solutions Cr\xe9dits",,\u25bc2,18,2017
+28,38,6,30.0,Pantano Jarlinson,32,Trek - Segafredo,,\u25bc2,18,2017
+24,201,6,31.0,Martin Guillaume,33,Wanty - Groupe Gobert,,\u25bc2,18,2017
+29,178,6,43.0,Sicard Romain,34,Direct Energie,,\u25b29,18,2017
+33,46,4,33.0,Roche Nicolas,35,BMC Racing Team,,\u25bc2,18,2017
+25,189,4,32.0,van Baarle Dylan,36,Cannondale-Drapac Pro Cycling Team,,\u25bc4,18,2017
+28,69,4,34.0,Ulissi Diego,37,UAE Team Emirates,,\u25bc3,18,2017
+26,184,3,35.0,Brown Nathan,38,Cannondale-Drapac Pro Cycling Team,,\u25bc3,18,2017
+22,214,2,37.0,Gesbert Elie,39,Fortuneo - Oscaro,,\u25bc2,18,2017
+27,186,2,36.0,Phinney Taylor,40,Cannondale-Drapac Pro Cycling Team,,\u25bc4,18,2017
+33,177,2,38.0,Quemeneur Perrig,41,Direct Energie,,\u25bc3,18,2017
+23,128,2,39.0,Politt Nils,42,Team Katusha - Alpecin,,\u25bc3,18,2017
+32,86,2,,Impey Daryl,43,ORICA-Scott,,-,18,2017
+38,171,2,40.0,Voeckler Thomas,44,Direct Energie,,\u25bc4,18,2017
+25,198,2,44.0,Grmay Tsgabu,45,Bahrain Merida Pro Cycling Team,,\u25bc1,18,2017
+26,27,2,42.0,Herrada Jes\xfas,46,Movistar Team,,\u25bc4,18,2017
+34,32,2,41.0,de Kort Koen,47,Trek - Segafredo,,\u25bc6,18,2017
+30,212,1,47.0,Bouet Maxime,48,Fortuneo - Oscaro,,\u25bc1,18,2017
+27,202,1,45.0,Backaert Frederik,49,Wanty - Groupe Gobert,,\u25bc4,18,2017
+26,208,1,46.0,van Keirsbulck Guillaume,50,Wanty - Groupe Gobert,,\u25bc4,18,2017
+24,89,1,48.0,Yates Simon,51,ORICA-Scott,,\u25bc3,18,2017
+27,24,1,50.0,Betancur Carlos,52,Movistar Team,,\u25bc2,18,2017
+30,124,1,52.0,Ki\u0161erlovski Robert,53,Team Katusha - Alpecin,,\u25bc1,18,2017
+28,187,1,,Talansky Andrew,54,Cannondale-Drapac Pro Cycling Team,,-,18,2017
+33,26,1,54.0,Erviti Imanol,55,Movistar Team,,\u25bc1,18,2017
+30,216,1,56.0,Perichon Pierre-Luc,56,Fortuneo - Oscaro,,-,18,2017
+32,48,1,49.0,Van Avermaet Greg,57,BMC Racing Team,,\u25bc8,18,2017
+31,145,1,53.0,Geschke Simon,58,Team Sunweb,,\u25bc5,18,2017
+38,174,1,55.0,Chavanel Sylvain,59,Direct Energie,,\u25bc4,18,2017
+29,153,1,,Edet Nicolas,60,"Cofidis, Solutions Cr\xe9dits",,-,18,2017
+25,143,169,1.0,Barguil Warren,1,Team Sunweb,,-,19,2017
+27,166,80,2.0,Roglic Primoz,2,Team LottoNL-Jumbo,,-,19,2017
+30,134,64,3.0,De Gendt Thomas,3,Lotto Soudal,,-,19,2017
+29,62,55,4.0,Atapuma John Darwin,4,UAE Team Emirates,,-,19,2017
+32,1,51,5.0,Froome Christopher,5,Team Sky,,-,19,2017
+26,11,47,6.0,Bardet Romain,6,AG2R La Mondiale,,-,19,2017
+27,6,45,7.0,Landa Mikel,7,Team Sky,,-,19,2017
+30,37,37,8.0,Mollema Bauke,8,Trek - Segafredo,,-,19,2017
+34,31,36,9.0,Contador Alberto,9,Trek - Segafredo,,-,19,2017
+33,96,32,10.0,Pauwels Serge,10,Team Dimension Data,,-,19,2017
+30,105,29,11.0,Martin Daniel,11,Quick-Step Floors,,-,19,2017
+29,19,28,12.0,Vuillermoz Alexis,12,AG2R La Mondiale,,-,19,2017
+30,188,26,13.0,Uran Rigoberto,13,Cannondale-Drapac Pro Cycling Team,,-,19,2017
+29,135,23,14.0,Gallopin Tony,14,Lotto Soudal,,-,19,2017
+27,51,22,15.0,Aru Fabio,15,Astana Pro Team,,-,19,2017
+26,141,21,16.0,Matthews Michael,16,Team Sunweb,,-,19,2017
+36,93,20,17.0,Cummings Stephen,17,Team Dimension Data,,-,19,2017
+34,157,19,18.0,Navarro Daniel,18,"Cofidis, Solutions Cr\xe9dits",,-,19,2017
+33,7,16,19.0,Nieve Mikel,19,Team Sky,,-,19,2017
+23,133,15,20.0,Benoot Tiesj,20,Lotto Soudal,,-,19,2017
+29,16,14,21.0,Gautier Cyril,21,AG2R La Mondiale,,-,19,2017
+24,173,11,22.0,Calmejane Lilian,22,Direct Energie,,-,19,2017
+24,57,11,23.0,Lutsenko Alexey,23,Astana Pro Team,,-,19,2017
+31,213,11,24.0,Feillu Brice,24,Fortuneo - Oscaro,,-,19,2017
+31,43,10,25.0,De Marchi Alessandro,25,BMC Racing Team,,-,19,2017
+29,178,10,34.0,Sicard Romain,26,Direct Energie,,\u25b28,19,2017
+31,12,10,26.0,Bakelants Jan,27,AG2R La Mondiale,,\u25bc1,19,2017
+27,5,10,27.0,Kwiatkowski Michal,28,Team Sky,,\u25bc1,19,2017
+25,61,8,28.0,Meintjes Louis,29,UAE Team Emirates,,\u25bc1,19,2017
+29,42,8,29.0,Caruso Damiano,30,BMC Racing Team,,\u25bc1,19,2017
+27,21,8,30.0,Quintana Nairo,31,Movistar Team,,\u25bc1,19,2017
+31,159,7,31.0,Simon Julien,32,"Cofidis, Solutions Cr\xe9dits",,\u25bc1,19,2017
+24,201,6,33.0,Martin Guillaume,33,Wanty - Groupe Gobert,,-,19,2017
+28,38,6,32.0,Pantano Jarlinson,34,Trek - Segafredo,,\u25bc2,19,2017
+33,46,4,35.0,Roche Nicolas,35,BMC Racing Team,,-,19,2017
+28,69,4,37.0,Ulissi Diego,36,UAE Team Emirates,,\u25b21,19,2017
+25,189,4,36.0,van Baarle Dylan,37,Cannondale-Drapac Pro Cycling Team,,\u25bc1,19,2017
+26,184,3,38.0,Brown Nathan,38,Cannondale-Drapac Pro Cycling Team,,-,19,2017
+22,214,3,39.0,Gesbert Elie,39,Fortuneo - Oscaro,,-,19,2017
+28,215,2,,Hardy Romain,40,Fortuneo - Oscaro,,-,19,2017
+33,177,2,41.0,Quemeneur Perrig,41,Direct Energie,,-,19,2017
+27,186,2,40.0,Phinney Taylor,42,Cannondale-Drapac Pro Cycling Team,,\u25bc2,19,2017
+23,128,2,42.0,Politt Nils,43,Team Katusha - Alpecin,,\u25bc1,19,2017
+32,86,2,43.0,Impey Daryl,44,ORICA-Scott,,\u25bc1,19,2017
+34,32,2,47.0,de Kort Koen,45,Trek - Segafredo,,\u25b22,19,2017
+25,198,2,45.0,Grmay Tsgabu,46,Bahrain Merida Pro Cycling Team,,\u25bc1,19,2017
+38,171,2,44.0,Voeckler Thomas,47,Direct Energie,,\u25bc3,19,2017
+26,27,2,46.0,Herrada Jes\xfas,48,Movistar Team,,\u25bc2,19,2017
+30,212,1,48.0,Bouet Maxime,49,Fortuneo - Oscaro,,\u25bc1,19,2017
+27,202,1,49.0,Backaert Frederik,50,Wanty - Groupe Gobert,,\u25bc1,19,2017
+26,208,1,50.0,van Keirsbulck Guillaume,51,Wanty - Groupe Gobert,,\u25bc1,19,2017
+24,89,1,51.0,Yates Simon,52,ORICA-Scott,,\u25bc1,19,2017
+27,24,1,52.0,Betancur Carlos,53,Movistar Team,,\u25bc1,19,2017
+38,174,1,59.0,Chavanel Sylvain,54,Direct Energie,,\u25b25,19,2017
+30,124,1,53.0,Ki\u0161erlovski Robert,55,Team Katusha - Alpecin,,\u25bc2,19,2017
+30,216,1,56.0,Perichon Pierre-Luc,56,Fortuneo - Oscaro,,-,19,2017
+28,187,1,54.0,Talansky Andrew,57,Cannondale-Drapac Pro Cycling Team,,\u25bc3,19,2017
+30,181,1,,Rolland Pierre,58,Cannondale-Drapac Pro Cycling Team,,-,19,2017
+32,48,1,57.0,Van Avermaet Greg,59,BMC Racing Team,,\u25bc2,19,2017
+31,145,1,58.0,Geschke Simon,60,Team Sunweb,,\u25bc2,19,2017
+29,153,1,60.0,Edet Nicolas,61,"Cofidis, Solutions Cr\xe9dits",,\u25bc1,19,2017
+33,26,1,55.0,Erviti Imanol,62,Movistar Team,,\u25bc7,19,2017
+25,143,169,1.0,Barguil Warren,1,Team Sunweb,,-,20,2017
+27,166,80,2.0,Roglic Primoz,2,Team LottoNL-Jumbo,,-,20,2017
+30,134,64,3.0,De Gendt Thomas,3,Lotto Soudal,,-,20,2017
+29,62,55,4.0,Atapuma John Darwin,4,UAE Team Emirates,,-,20,2017
+32,1,51,5.0,Froome Christopher,5,Team Sky,,-,20,2017
+26,11,47,6.0,Bardet Romain,6,AG2R La Mondiale,,-,20,2017
+27,6,45,7.0,Landa Mikel,7,Team Sky,,-,20,2017
+30,37,37,8.0,Mollema Bauke,8,Trek - Segafredo,,-,20,2017
+34,31,36,9.0,Contador Alberto,9,Trek - Segafredo,,-,20,2017
+33,96,32,10.0,Pauwels Serge,10,Team Dimension Data,,-,20,2017
+30,105,29,11.0,Martin Daniel,11,Quick-Step Floors,,-,20,2017
+29,19,28,12.0,Vuillermoz Alexis,12,AG2R La Mondiale,,-,20,2017
+30,188,26,13.0,Uran Rigoberto,13,Cannondale-Drapac Pro Cycling Team,,-,20,2017
+29,135,23,14.0,Gallopin Tony,14,Lotto Soudal,,-,20,2017
+27,51,22,15.0,Aru Fabio,15,Astana Pro Team,,-,20,2017
+26,141,21,16.0,Matthews Michael,16,Team Sunweb,,-,20,2017
+36,93,20,17.0,Cummings Stephen,17,Team Dimension Data,,-,20,2017
+34,157,19,18.0,Navarro Daniel,18,"Cofidis, Solutions Cr\xe9dits",,-,20,2017
+33,7,16,19.0,Nieve Mikel,19,Team Sky,,-,20,2017
+23,133,15,20.0,Benoot Tiesj,20,Lotto Soudal,,-,20,2017
+29,16,14,21.0,Gautier Cyril,21,AG2R La Mondiale,,-,20,2017
+24,173,11,22.0,Calmejane Lilian,22,Direct Energie,,-,20,2017
+24,57,11,23.0,Lutsenko Alexey,23,Astana Pro Team,,-,20,2017
+31,213,11,24.0,Feillu Brice,24,Fortuneo - Oscaro,,-,20,2017
+31,43,10,25.0,De Marchi Alessandro,25,BMC Racing Team,,-,20,2017
+29,178,10,26.0,Sicard Romain,26,Direct Energie,,-,20,2017
+31,12,10,27.0,Bakelants Jan,27,AG2R La Mondiale,,-,20,2017
+27,5,10,28.0,Kwiatkowski Michal,28,Team Sky,,-,20,2017
+25,61,8,29.0,Meintjes Louis,29,UAE Team Emirates,,-,20,2017
+29,42,8,30.0,Caruso Damiano,30,BMC Racing Team,,-,20,2017
+27,21,8,31.0,Quintana Nairo,31,Movistar Team,,-,20,2017
+31,159,7,32.0,Simon Julien,32,"Cofidis, Solutions Cr\xe9dits",,-,20,2017
+24,201,6,33.0,Martin Guillaume,33,Wanty - Groupe Gobert,,-,20,2017
+28,38,6,34.0,Pantano Jarlinson,34,Trek - Segafredo,,-,20,2017
+33,46,4,35.0,Roche Nicolas,35,BMC Racing Team,,-,20,2017
+28,69,4,36.0,Ulissi Diego,36,UAE Team Emirates,,-,20,2017
+25,189,4,37.0,van Baarle Dylan,37,Cannondale-Drapac Pro Cycling Team,,-,20,2017
+26,184,3,38.0,Brown Nathan,38,Cannondale-Drapac Pro Cycling Team,,-,20,2017
+22,214,3,39.0,Gesbert Elie,39,Fortuneo - Oscaro,,-,20,2017
+28,215,2,40.0,Hardy Romain,40,Fortuneo - Oscaro,,-,20,2017
+33,177,2,41.0,Quemeneur Perrig,41,Direct Energie,,-,20,2017
+27,186,2,42.0,Phinney Taylor,42,Cannondale-Drapac Pro Cycling Team,,-,20,2017
+23,128,2,43.0,Politt Nils,43,Team Katusha - Alpecin,,-,20,2017
+32,86,2,44.0,Impey Daryl,44,ORICA-Scott,,-,20,2017
+34,32,2,45.0,de Kort Koen,45,Trek - Segafredo,,-,20,2017
+25,198,2,46.0,Grmay Tsgabu,46,Bahrain Merida Pro Cycling Team,,-,20,2017
+38,171,2,47.0,Voeckler Thomas,47,Direct Energie,,-,20,2017
+26,27,2,48.0,Herrada Jes\xfas,48,Movistar Team,,-,20,2017
+30,212,1,49.0,Bouet Maxime,49,Fortuneo - Oscaro,,-,20,2017
+27,202,1,50.0,Backaert Frederik,50,Wanty - Groupe Gobert,,-,20,2017
+26,208,1,51.0,van Keirsbulck Guillaume,51,Wanty - Groupe Gobert,,-,20,2017
+24,89,1,52.0,Yates Simon,52,ORICA-Scott,,-,20,2017
+27,24,1,53.0,Betancur Carlos,53,Movistar Team,,-,20,2017
+38,174,1,54.0,Chavanel Sylvain,54,Direct Energie,,-,20,2017
+30,124,1,55.0,Ki\u0161erlovski Robert,55,Team Katusha - Alpecin,,-,20,2017
+30,216,1,56.0,Perichon Pierre-Luc,56,Fortuneo - Oscaro,,-,20,2017
+28,187,1,57.0,Talansky Andrew,57,Cannondale-Drapac Pro Cycling Team,,-,20,2017
+30,181,1,58.0,Rolland Pierre,58,Cannondale-Drapac Pro Cycling Team,,-,20,2017
+32,48,1,59.0,Van Avermaet Greg,59,BMC Racing Team,,-,20,2017
+31,145,1,60.0,Geschke Simon,60,Team Sunweb,,-,20,2017
+29,153,1,61.0,Edet Nicolas,61,"Cofidis, Solutions Cr\xe9dits",,-,20,2017
+33,26,1,62.0,Erviti Imanol,62,Movistar Team,,-,20,2017
+25,143,169,1.0,Barguil Warren,1,Team Sunweb,120.0,-,21,2017
+27,166,80,2.0,Roglic Primoz,2,Team LottoNL-Jumbo,50.0,-,21,2017
+30,134,64,3.0,De Gendt Thomas,3,Lotto Soudal,25.0,-,21,2017
+29,62,55,4.0,Atapuma John Darwin,4,UAE Team Emirates,,-,21,2017
+32,1,51,5.0,Froome Christopher,5,Team Sky,,-,21,2017
+26,11,47,6.0,Bardet Romain,6,AG2R La Mondiale,,-,21,2017
+27,6,45,7.0,Landa Mikel,7,Team Sky,,-,21,2017
+30,37,37,8.0,Mollema Bauke,8,Trek - Segafredo,,-,21,2017
+34,31,36,9.0,Contador Alberto,9,Trek - Segafredo,,-,21,2017
+33,96,32,10.0,Pauwels Serge,10,Team Dimension Data,,-,21,2017
+30,105,29,11.0,Martin Daniel,11,Quick-Step Floors,,-,21,2017
+29,19,28,12.0,Vuillermoz Alexis,12,AG2R La Mondiale,,-,21,2017
+30,188,26,13.0,Uran Rigoberto,13,Cannondale-Drapac Pro Cycling Team,,-,21,2017
+29,135,23,14.0,Gallopin Tony,14,Lotto Soudal,,-,21,2017
+27,51,22,15.0,Aru Fabio,15,Astana Pro Team,,-,21,2017
+26,141,21,16.0,Matthews Michael,16,Team Sunweb,,-,21,2017
+36,93,20,17.0,Cummings Stephen,17,Team Dimension Data,,-,21,2017
+34,157,19,18.0,Navarro Daniel,18,"Cofidis, Solutions Cr\xe9dits",,-,21,2017
+33,7,16,19.0,Nieve Mikel,19,Team Sky,,-,21,2017
+23,133,15,20.0,Benoot Tiesj,20,Lotto Soudal,,-,21,2017
+29,16,14,21.0,Gautier Cyril,21,AG2R La Mondiale,,-,21,2017
+24,173,11,22.0,Calmejane Lilian,22,Direct Energie,,-,21,2017
+24,57,11,23.0,Lutsenko Alexey,23,Astana Pro Team,,-,21,2017
+31,213,11,24.0,Feillu Brice,24,Fortuneo - Oscaro,,-,21,2017
+31,43,10,25.0,De Marchi Alessandro,25,BMC Racing Team,,-,21,2017
+29,178,10,26.0,Sicard Romain,26,Direct Energie,,-,21,2017
+31,12,10,27.0,Bakelants Jan,27,AG2R La Mondiale,,-,21,2017
+27,5,10,28.0,Kwiatkowski Michal,28,Team Sky,,-,21,2017
+27,21,8,31.0,Quintana Nairo,29,Movistar Team,,\u25b22,21,2017
+29,42,8,30.0,Caruso Damiano,30,BMC Racing Team,,-,21,2017
+25,61,8,29.0,Meintjes Louis,31,UAE Team Emirates,,\u25bc2,21,2017
+31,159,7,32.0,Simon Julien,32,"Cofidis, Solutions Cr\xe9dits",,-,21,2017
+24,201,6,33.0,Martin Guillaume,33,Wanty - Groupe Gobert,,-,21,2017
+28,38,6,34.0,Pantano Jarlinson,34,Trek - Segafredo,,-,21,2017
+28,69,4,36.0,Ulissi Diego,35,UAE Team Emirates,,\u25b21,21,2017
+33,46,4,35.0,Roche Nicolas,36,BMC Racing Team,,\u25bc1,21,2017
+25,189,4,37.0,van Baarle Dylan,37,Cannondale-Drapac Pro Cycling Team,,-,21,2017
+26,184,3,38.0,Brown Nathan,38,Cannondale-Drapac Pro Cycling Team,,-,21,2017
+22,214,3,39.0,Gesbert Elie,39,Fortuneo - Oscaro,,-,21,2017
+28,215,2,40.0,Hardy Romain,40,Fortuneo - Oscaro,,-,21,2017
+33,177,2,41.0,Quemeneur Perrig,41,Direct Energie,,-,21,2017
+27,186,2,42.0,Phinney Taylor,42,Cannondale-Drapac Pro Cycling Team,,-,21,2017
+23,128,2,43.0,Politt Nils,43,Team Katusha - Alpecin,,-,21,2017
+25,198,2,46.0,Grmay Tsgabu,44,Bahrain Merida Pro Cycling Team,,\u25b22,21,2017
+38,171,2,47.0,Voeckler Thomas,45,Direct Energie,,\u25b22,21,2017
+32,86,2,44.0,Impey Daryl,46,ORICA-Scott,,\u25bc2,21,2017
+26,27,2,48.0,Herrada Jes\xfas,47,Movistar Team,,\u25b21,21,2017
+34,32,2,45.0,de Kort Koen,48,Trek - Segafredo,,\u25bc3,21,2017
+30,212,1,49.0,Bouet Maxime,49,Fortuneo - Oscaro,,-,21,2017
+26,208,1,51.0,van Keirsbulck Guillaume,50,Wanty - Groupe Gobert,,\u25b21,21,2017
+27,202,1,50.0,Backaert Frederik,51,Wanty - Groupe Gobert,,\u25bc1,21,2017
+30,181,1,58.0,Rolland Pierre,52,Cannondale-Drapac Pro Cycling Team,,\u25b26,21,2017
+27,24,1,53.0,Betancur Carlos,53,Movistar Team,,-,21,2017
+32,48,1,59.0,Van Avermaet Greg,54,BMC Racing Team,,\u25b25,21,2017
+24,89,1,52.0,Yates Simon,55,ORICA-Scott,,\u25bc3,21,2017
+30,216,1,56.0,Perichon Pierre-Luc,56,Fortuneo - Oscaro,,-,21,2017
+31,145,1,60.0,Geschke Simon,57,Team Sunweb,,\u25b23,21,2017
+29,153,1,61.0,Edet Nicolas,58,"Cofidis, Solutions Cr\xe9dits",,\u25b23,21,2017
+38,174,1,54.0,Chavanel Sylvain,59,Direct Energie,,\u25bc5,21,2017
+30,124,1,55.0,Ki\u0161erlovski Robert,60,Team Katusha - Alpecin,,\u25bc5,21,2017
+28,187,1,57.0,Talansky Andrew,61,Cannondale-Drapac Pro Cycling Team,,\u25bc4,21,2017
+33,26,1,62.0,Erviti Imanol,62,Movistar Team,,-,21,2017

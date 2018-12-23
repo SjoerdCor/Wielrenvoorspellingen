@@ -1,0 +1,956 @@
+Age,BIB,GC,GC-Time,Pnt,Prev,Rider,Rnk,Team,Time,Time won/lost,UCI,\u25bc\u25b2,stage,year
+28,22,1,+0:00,,,Cavendish Mark,1,Omega Pharma - Quick-Step,4:44:07 4:44:07,+0:00,10.0,,1,2014
+25,84,2,+0:04,,,Degenkolb John,2,Team Giant - Shimano,0:04 0:04,+0:04,,,1,2014
+22,74,3,+0:06,,,Hofland Moreno,3,Belkin-Pro Cycling Team,0:06 0:06,+0:06,,,1,2014
+19,156,4,+0:06,,,Geoghegan Hart Tao,4,Bissell Development Team,",, 0:06",+0:06,,,1,2014
+24,61,5,+0:10,,,Sagan Peter,5,Cannondale,0:10 0:10,+0:10,,,1,2014
+20,35,6,+0:10,,,van Poppel Danny,6,Trek Factory Racing,",, 0:10",+0:10,,,1,2014
+24,63,7,+0:10,,,Boivin Guillaume,7,Cannondale,",, 0:10",+0:10,,,1,2014
+25,126,8,+0:10,,,Young Eric,8,Optum p/b Kelly Benefit Strategies,",, 0:10",+0:10,,,1,2014
+27,51,9,+0:10,,,Goss Matthew,9,Orica GreenEDGE,",, 0:10",+0:10,,,1,2014
+23,5,10,+0:10,,,Phinney Taylor,10,BMC Racing Team,",, 0:10",+0:10,,,1,2014
+29,96,11,+0:10,,,Murphy John,11,UnitedHealthcare Pro Cycling Team,",, 0:10",+0:10,,,1,2014
+20,152,12,+0:10,,,Br\xf8chner Nicolai,12,Bissell Development Team,",, 0:10",+0:10,,,1,2014
+22,151,13,+0:10,,,Putt Tanner,13,Bissell Development Team,",, 0:10",+0:10,,,1,2014
+32,94,14,+0:10,,,Hanson Ken,14,UnitedHealthcare Pro Cycling Team,",, 0:10",+0:10,,,1,2014
+21,155,15,+0:10,,,Eastman Ryan,15,Bissell Development Team,",, 0:10",+0:10,,,1,2014
+22,34,16,+0:10,,,Stuyven Jasper,16,Trek Factory Racing,",, 0:10",+0:10,,,1,2014
+29,114,17,+0:10,,,Verschoor Martijn,17,Team Novo Nordisk,",, 0:10",+0:10,,,1,2014
+26,103,18,+0:10,,,Dempster Zakkari,18,Team NetApp \u2013 Endura,",, 0:10",+0:10,,,1,2014
+33,141,19,+0:10,,,Haedo Juan Jose,19,Jamis - Hagens Berman,",, 0:10",+0:10,,,1,2014
+36,2,20,+0:10,,,Hushovd Thor,20,BMC Racing Team,",, 0:10",+0:10,,,1,2014
+21,88,21,+0:10,,,Olivier Daan,21,Team Giant - Shimano,",, 0:10",+0:10,,,1,2014
+25,85,22,+0:10,,,Haga Chad,22,Team Giant - Shimano,",, 0:10",+0:10,,,1,2014
+24,67,23,+0:10,,,Bennett George,23,Cannondale,",, 0:10",+0:10,,,1,2014
+29,24,24,+0:10,,,Terpstra Niki,24,Omega Pharma - Quick-Step,",, 0:10",+0:10,,,1,2014
+22,81,25,+0:10,,,Craddock Lawson,25,Team Giant - Shimano,",, 0:10",+0:10,,,1,2014
+28,104,26,+0:10,,,Machado Tiago,26,Team NetApp \u2013 Endura,",, 0:10",+0:10,,,1,2014
+34,32,27,+0:10,,,Irizar Markel,27,Trek Factory Racing,",, 0:10",+0:10,,,1,2014
+33,71,28,+0:10,,,ten Dam Laurens,28,Belkin-Pro Cycling Team,",, 0:10",+0:10,,,1,2014
+25,124,29,+0:10,,,Jones Carter,29,Optum p/b Kelly Benefit Strategies,",, 0:10",+0:10,,,1,2014
+33,21,30,+0:10,,,Boonen Tom,30,Omega Pharma - Quick-Step,",, 0:10",+0:10,,,1,2014
+34,41,31,+0:10,,,Wiggins Bradley,31,Team Sky,",, 0:10",+0:10,,,1,2014
+29,66,32,+0:10,,,Sabatini Fabio,32,Cannondale,",, 0:10",+0:10,,,1,2014
+21,57,33,+0:10,,,Yates Adam,33,Orica GreenEDGE,",, 0:10",+0:10,,,1,2014
+31,148,34,+0:10,,,Teruel Eloy,34,Jamis - Hagens Berman,",, 0:10",+0:10,,,1,2014
+25,54,35,+0:10,,,Keukeleire Jens,35,Orica GreenEDGE,",, 0:10",+0:10,,,1,2014
+31,87,36,+0:10,,,de Kort Koen,36,Team Giant - Shimano,",, 0:10",+0:10,,,1,2014
+36,53,37,+0:10,,,Hayman Mathew,37,Orica GreenEDGE,",, 0:10",+0:10,,,1,2014
+26,1,38,+0:10,,,Stetina Peter,38,BMC Racing Team,",, 0:10",+0:10,,,1,2014
+34,95,39,+0:10,,,Jones Chris,39,UnitedHealthcare Pro Cycling Team,",, 0:10",+0:10,,,1,2014
+27,65,40,+0:10,,,Koren Kristijan,40,Cannondale,",, 0:10",+0:10,,,1,2014
+24,52,41,+0:10,,,Chaves Johan Esteban,41,Orica GreenEDGE,",, 0:10",+0:10,,,1,2014
+27,6,42,+0:10,,,Schar Michael,42,BMC Racing Team,",, 0:10",+0:10,,,1,2014
+27,14,43,+0:10,,,Fairly Caleb,43,Garmin Sharp,",, 0:10",+0:10,,,1,2014
+31,23,44,+0:10,,,Renshaw Mark,44,Omega Pharma - Quick-Step,",, 0:10",+0:10,,,1,2014
+31,64,45,+0:10,,,King Edward,45,Cannondale,",, 0:10",+0:10,,,1,2014
+23,8,46,+0:10,,,Warbasse Larry,46,BMC Racing Team,",, 0:10",+0:10,,,1,2014
+28,3,47,+0:10,,,Kohler Martin,47,BMC Racing Team,",, 0:10",+0:10,,,1,2014
+35,101,48,+0:10,,,Cama\xf1o Iker,48,Team NetApp \u2013 Endura,",, 0:10",+0:10,,,1,2014
+30,111,49,+0:10,,,Megias Javier,49,Team Novo Nordisk,",, 0:10",+0:10,,,1,2014
+40,138,50,+0:10,,,Rodriguez Fred,50,Jelly Belly p/b Maxxis,",, 0:10",+0:10,,,1,2014
+25,112,51,+0:10,,,Peron Andrea,51,Team Novo Nordisk,",, 0:10",+0:10,,,1,2014
+32,4,52,+0:10,,,Moinard Ama\xebl,52,BMC Racing Team,",, 0:10",+0:10,,,1,2014
+21,153,53,+0:10,,,Chevrier Cl\xe9ment,53,Bissell Development Team,",, 0:10",+0:10,,,1,2014
+25,86,54,+0:10,,,Janse van Rensburg Reinardt,54,Team Giant - Shimano,",, 0:10",+0:10,,,1,2014
+26,121,55,+0:10,,,Anderson Ryan,55,Optum p/b Kelly Benefit Strategies,",, 0:10",+0:10,,,1,2014
+36,128,56,+0:10,,,Zwizanski Scott,56,Optum p/b Kelly Benefit Strategies,",, 0:10",+0:10,,,1,2014
+25,102,57,+0:10,,,de la Cruz David,57,Team NetApp \u2013 Endura,",, 0:10",+0:10,,,1,2014
+28,73,58,+0:10,,,Boom Lars,58,Belkin-Pro Cycling Team,",, 0:10",+0:10,,,1,2014
+37,38,59,+0:10,,,Zubeldia Haimar,59,Trek Factory Racing,",, 0:10",+0:10,,,1,2014
+29,31,60,+0:10,,,Busche Matthew,60,Trek Factory Racing,",, 0:10",+0:10,,,1,2014
+21,27,61,+0:10,,,Verona Carlos,61,Omega Pharma - Quick-Step,",, 0:10",+0:10,,,1,2014
+26,132,62,+0:10,,,Carlsen Kirk,62,Jelly Belly p/b Maxxis,",, 0:10",+0:10,,,1,2014
+30,91,63,+0:10,,,Euser Lucas,63,UnitedHealthcare Pro Cycling Team,",, 0:10",+0:10,,,1,2014
+25,131,64,+0:10,,,Tvetcov Serghei,64,Jelly Belly p/b Maxxis,",, 0:10",+0:10,,,1,2014
+35,127,65,+0:10,,,Zirbel Tom,65,Optum p/b Kelly Benefit Strategies,",, 0:10",+0:10,,,1,2014
+25,33,66,+0:10,,,Sergent Jesse,66,Trek Factory Racing,",, 0:10",+0:10,,,1,2014
+25,98,67,+0:10,,,Summerhill Daniel,67,UnitedHealthcare Pro Cycling Team,",, 0:10",+0:10,,,1,2014
+36,12,68,+0:10,,,Danielson Thomas,68,Garmin Sharp,",, 0:10",+0:10,,,1,2014
+25,17,69,+0:10,,,King Benjamin,69,Garmin Sharp,",, 0:10",+0:10,,,1,2014
+23,42,70,+0:10,,,Boswell Ian,70,Team Sky,",, 0:10",+0:10,,,1,2014
+21,158,71,+0:10,,,Zepuntke Ruben,71,Bissell Development Team,",, 0:10",+0:10,,,1,2014
+28,11,72,+0:10,,,Acevedo Janier Alexis,72,Garmin Sharp,",, 0:10",+0:10,,,1,2014
+24,107,73,+0:10,,,Thwaites Scott,73,Team NetApp \u2013 Endura,",, 0:10",+0:10,,,1,2014
+25,44,74,+0:10,,,Earle Nathan,74,Team Sky,",, 0:10",+0:10,,,1,2014
+35,143,75,+0:10,,,Jacques-Maynes Benjamin,75,Jamis - Hagens Berman,",, 0:10",+0:10,,,1,2014
+35,123,76,+0:10,,,Huff Charles Bradley,76,Optum p/b Kelly Benefit Strategies,",, 0:10",+0:10,,,1,2014
+20,157,77,+0:10,,,Oram James,77,Bissell Development Team,",, 0:10",+0:10,,,1,2014
+35,47,78,+0:10,,,Pate Danny,78,Team Sky,",, 0:10",+0:10,,,1,2014
+28,15,79,+0:10,,,Gaimon Phillip,79,Garmin Sharp,",, 0:10",+0:10,,,1,2014
+39,122,80,+0:10,,,Candelario Alex,80,Optum p/b Kelly Benefit Strategies,",, 0:10",+0:10,,,1,2014
+21,45,81,+0:10,,,Edmondson Joshua,81,Team Sky,",, 0:10",+0:10,,,1,2014
+23,144,82,+0:10,,,Jaramillo Daniel Alexander,82,Jamis - Hagens Berman,",, 0:10",+0:10,,,1,2014
+22,18,83,+0:10,,,Brown Nathan,83,Garmin Sharp,",, 0:10",+0:10,,,1,2014
+30,106,84,+0:10,,,Schillinger Andreas,84,Team NetApp \u2013 Endura,",, 0:10",+0:10,,,1,2014
+22,43,85,+0:10,,,Dombrowski Joe,85,Team Sky,",, 0:10",+0:10,,,1,2014
+27,117,86,+0:10,,,Lefrancois Nicolas,86,Team Novo Nordisk,",, 0:10",+0:10,,,1,2014
+22,76,87,+0:10,,,van der Lijke Nick,87,Belkin-Pro Cycling Team,",, 0:10",+0:10,,,1,2014
+31,78,88,+0:10,,,Wynants Maarten,88,Belkin-Pro Cycling Team,",, 0:10",+0:10,,,1,2014
+42,36,89,+0:10,,,Voigt Jens,89,Trek Factory Racing,",, 0:10",+0:10,,,1,2014
+25,83,90,+0:10,,,Damuseau Thomas,90,Team Giant - Shimano,",, 0:10",+0:10,,,1,2014
+21,55,91,+0:10,,,Howson Damien,91,Orica GreenEDGE,",, 0:10",+0:10,,,1,2014
+23,13,92,+0:10,,,Dennis Rohan,92,Garmin Sharp,",, 0:10",+0:10,,,1,2014
+26,77,93,+0:29,,,van Winden Dennis,93,Belkin-Pro Cycling Team,0:29 0:29,+0:29,,,1,2014
+35,146,94,+0:30,,,Romero Amaran Luis,94,Jamis - Hagens Berman,0:30 0:30,+0:30,,,1,2014
+26,145,95,+0:30,,,Brenes Gregory,95,Jamis - Hagens Berman,",, 0:30",+0:30,,,1,2014
+28,7,96,+0:32,,,Van Avermaet Greg,96,BMC Racing Team,0:32 0:32,+0:32,,,1,2014
+28,108,97,+0:32,,,Voss Paul,97,Team NetApp \u2013 Endura,",, 0:32",+0:32,,,1,2014
+34,82,98,+0:45,,,Curvers Roy,98,Team Giant - Shimano,0:45 0:45,+0:45,,,1,2014
+19,154,99,+0:45,,,Daniel Gregory,99,Bissell Development Team,",, 0:45",+0:45,,,1,2014
+27,97,100,+0:46,,,Reijnen Kiel,100,UnitedHealthcare Pro Cycling Team,0:46 0:46,+0:46,,,1,2014
+22,118,101,+0:48,,,De Mesmaeker Kevin,101,Team Novo Nordisk,0:48 0:48,+0:48,,,1,2014
+24,72,102,+0:48,,,Bobridge Jack,102,Belkin-Pro Cycling Team,",, 0:48",+0:48,,,1,2014
+29,28,103,+0:48,,,Velits Martin,103,Omega Pharma - Quick-Step,",, 0:48",+0:48,,,1,2014
+29,62,104,+0:51,,,Bodnar Maciej,104,Cannondale,0:51 0:51,+0:51,,,1,2014
+23,92,105,+1:03,,,Bolivar Isaac,105,UnitedHealthcare Pro Cycling Team,1:03 1:03,+1:03,,,1,2014
+20,115,106,+1:04,,,Planet Charles,106,Team Novo Nordisk,1:04 1:04,+1:04,,,1,2014
+24,25,107,+1:08,,,Trentin Matteo,107,Omega Pharma - Quick-Step,1:08 1:08,+1:08,,,1,2014
+23,26,108,+1:08,,,van Keirsbulck Guillaume,108,Omega Pharma - Quick-Step,",, 1:08",+1:08,,,1,2014
+24,48,109,+1:08,,,Rowe Luke,109,Team Sky,",, 1:08",+1:08,,,1,2014
+33,46,110,+1:08,,,Knees Christian,110,Team Sky,",, 1:08",+1:08,,,1,2014
+29,93,111,+1:21,,,Clarke Jonathan,111,UnitedHealthcare Pro Cycling Team,1:21 1:21,+1:21,,,1,2014
+24,58,112,+1:28,,,Howard Leigh,112,Orica GreenEDGE,1:28 1:28,+1:28,,,1,2014
+34,56,113,+2:58,,,Mouris Jens,113,Orica GreenEDGE,2:58 2:58,+2:58,,,1,2014
+28,75,114,+3:44,,,Leezer Tom,114,Belkin-Pro Cycling Team,3:44 3:44,+3:44,,,1,2014
+23,137,115,+4:46,,,Rathe Jacob,115,Jelly Belly p/b Maxxis,4:46 4:46,+4:46,,,1,2014
+30,125,116,+12:22,,,Routley Will,116,Optum p/b Kelly Benefit Strategies,12:22 12:22,+12:22,,,1,2014
+29,105,117,+12:23,,,Mendes Jos\xe9,117,Team NetApp \u2013 Endura,12:23 12:23,+12:23,,,1,2014
+34,142,118,+12:23,,,Cooke Matt,118,Jamis - Hagens Berman,",, 12:23",+12:23,,,1,2014
+26,16,119,+14:08,,,Howes Alex,119,Garmin Sharp,14:08 14:08,+14:08,,,1,2014
+21,37,120,+14:08,,,Watson Calvin,120,Trek Factory Racing,",, 14:08",+14:08,,,1,2014
+30,68,121,+14:08,,,Wurf Cameron,121,Cannondale,",, 14:08",+14:08,,,1,2014
+25,113,122,+14:08,,,Lozano David,122,Team Novo Nordisk,",, 14:08",+14:08,,,1,2014
+22,116,123,+14:08,,,Henttala Joonas,123,Team Novo Nordisk,",, 14:08",+14:08,,,1,2014
+22,133,124,+14:08,,,Lemus Luis,124,Jelly Belly p/b Maxxis,",, 14:08",+14:08,,,1,2014
+23,134,125,+14:08,,,Fisher Steve,125,Jelly Belly p/b Maxxis,",, 14:08",+14:08,,,1,2014
+30,135,126,+14:08,,,Lloyd Matthew,126,Jelly Belly p/b Maxxis,",, 14:08",+14:08,,,1,2014
+28,136,127,+14:08,,,Mazich Sean,127,Jelly Belly p/b Maxxis,",, 14:08",+14:08,,,1,2014
+24,147,128,+14:08,,,Squire Rob,128,Jamis - Hagens Berman,",, 14:08",+14:08,,,1,2014
+34,41,1,+0:00,,31.0,Wiggins Bradley,1,Team Sky,5:07:35 5:07:35,+0:00,10.0,\u25b230,2,2014
+23,13,2,+0:44,,92.0,Dennis Rohan,2,Garmin Sharp,0:44 0:44,+0:44,,\u25b290,2,2014
+23,5,3,+0:52,,10.0,Phinney Taylor,3,BMC Racing Team,0:52 0:52,+0:52,,\u25b27,2,2014
+31,148,4,+1:08,,34.0,Teruel Eloy,4,Jamis - Hagens Berman,1:08 1:08,+1:08,,\u25b230,2,2014
+25,33,5,+1:11,,66.0,Sergent Jesse,5,Trek Factory Racing,1:11 1:11,+1:11,,\u25b261,2,2014
+28,104,6,+1:19,,26.0,Machado Tiago,6,Team NetApp \u2013 Endura,1:19 1:19,+1:19,,\u25b220,2,2014
+34,32,7,+1:21,,27.0,Irizar Markel,7,Trek Factory Racing,1:21 1:21,+1:21,,\u25b220,2,2014
+42,36,8,+1:24,,89.0,Voigt Jens,8,Trek Factory Racing,1:24 1:24,+1:24,,\u25b281,2,2014
+25,85,9,+1:25,,22.0,Haga Chad,9,Team Giant - Shimano,1:25 1:25,+1:25,,\u25b213,2,2014
+35,127,10,+1:28,,65.0,Zirbel Tom,10,Optum p/b Kelly Benefit Strategies,1:28 1:28,+1:28,,\u25b255,2,2014
+25,131,11,+1:30,,64.0,Tvetcov Serghei,11,Jelly Belly p/b Maxxis,1:30 1:30,+1:30,,\u25b253,2,2014
+22,81,12,+1:33,,25.0,Craddock Lawson,12,Team Giant - Shimano,1:33 1:33,+1:33,,\u25b213,2,2014
+25,102,13,+1:34,,57.0,de la Cruz David,13,Team NetApp \u2013 Endura,1:34 1:34,+1:34,,\u25b244,2,2014
+24,61,14,+1:36,,5.0,Sagan Peter,14,Cannondale,1:36 1:36,+1:36,,\u25bc9,2,2014
+25,17,15,+1:38,,69.0,King Benjamin,15,Garmin Sharp,1:38 1:38,+1:38,,\u25b254,2,2014
+35,101,16,+1:42,,48.0,Cama\xf1o Iker,16,Team NetApp \u2013 Endura,1:42 1:42,+1:42,,\u25b232,2,2014
+21,55,17,+1:46,,91.0,Howson Damien,17,Orica GreenEDGE,1:46 1:46,+1:46,,\u25b274,2,2014
+28,22,18,+1:53,,1.0,Cavendish Mark,18,Omega Pharma - Quick-Step,1:53 1:53,+2:03,,\u25bc17,2,2014
+24,72,19,+1:53,,102.0,Bobridge Jack,19,Belkin-Pro Cycling Team,",, 1:53",+1:15,,\u25b283,2,2014
+26,132,20,+1:53,,62.0,Carlsen Kirk,20,Jelly Belly p/b Maxxis,",, 1:53",+1:53,,\u25b242,2,2014
+23,8,21,+1:54,,46.0,Warbasse Larry,21,BMC Racing Team,1:54 1:54,+1:54,,\u25b225,2,2014
+22,18,22,+1:54,,83.0,Brown Nathan,22,Garmin Sharp,",, 1:54",+1:54,,\u25b261,2,2014
+25,54,23,+1:56,,35.0,Keukeleire Jens,23,Orica GreenEDGE,1:56 1:56,+1:56,,\u25b212,2,2014
+27,65,24,+2:04,,40.0,Koren Kristijan,24,Cannondale,2:04 2:04,+2:04,,\u25b216,2,2014
+35,143,25,+2:04,,75.0,Jacques-Maynes Benjamin,25,Jamis - Hagens Berman,",, 2:04",+2:04,,\u25b250,2,2014
+27,14,26,+2:06,,43.0,Fairly Caleb,26,Garmin Sharp,2:06 2:06,+2:06,,\u25b217,2,2014
+21,88,27,+2:09,,21.0,Olivier Daan,27,Team Giant - Shimano,2:09 2:09,+2:09,,\u25bc6,2,2014
+37,38,28,+2:10,,59.0,Zubeldia Haimar,28,Trek Factory Racing,2:10 2:10,+2:10,,\u25b231,2,2014
+20,157,29,+2:10,,77.0,Oram James,29,Bissell Development Team,",, 2:10",+2:10,,\u25b248,2,2014
+29,31,30,+2:16,,60.0,Busche Matthew,30,Trek Factory Racing,2:16 2:16,+2:16,,\u25b230,2,2014
+29,96,31,+2:16,,11.0,Murphy John,31,UnitedHealthcare Pro Cycling Team,",, 2:16",+2:16,,\u25bc20,2,2014
+36,128,32,+2:16,,56.0,Zwizanski Scott,32,Optum p/b Kelly Benefit Strategies,",, 2:16",+2:16,,\u25b224,2,2014
+20,35,33,+2:17,,6.0,van Poppel Danny,33,Trek Factory Racing,2:17 2:17,+2:17,,\u25bc27,2,2014
+21,57,34,+2:19,,33.0,Yates Adam,34,Orica GreenEDGE,2:19 2:19,+2:19,,\u25bc1,2,2014
+28,7,35,+2:20,,96.0,Van Avermaet Greg,35,BMC Racing Team,2:20 2:20,+1:58,,\u25b261,2,2014
+33,71,36,+2:20,,28.0,ten Dam Laurens,36,Belkin-Pro Cycling Team,",, 2:20",+2:20,,\u25bc8,2,2014
+36,12,37,+2:21,,68.0,Danielson Thomas,37,Garmin Sharp,2:21 2:21,+2:21,,\u25b231,2,2014
+28,3,38,+2:24,,47.0,Kohler Martin,38,BMC Racing Team,2:24 2:24,+2:24,,\u25b29,2,2014
+29,62,39,+2:24,,104.0,Bodnar Maciej,39,Cannondale,",, 2:24",+1:43,,\u25b265,2,2014
+28,15,40,+2:25,,79.0,Gaimon Phillip,40,Garmin Sharp,2:25 2:25,+2:25,,\u25b239,2,2014
+32,4,41,+2:27,,52.0,Moinard Ama\xebl,41,BMC Racing Team,2:27 2:27,+2:27,,\u25b211,2,2014
+26,1,42,+2:30,,38.0,Stetina Peter,42,BMC Racing Team,2:30 2:30,+2:30,,\u25bc4,2,2014
+25,124,43,+2:33,,29.0,Jones Carter,43,Optum p/b Kelly Benefit Strategies,2:33 2:33,+2:33,,\u25bc14,2,2014
+21,153,44,+2:37,,53.0,Chevrier Cl\xe9ment,44,Bissell Development Team,2:37 2:37,+2:37,,\u25b29,2,2014
+25,84,45,+2:38,,2.0,Degenkolb John,45,Team Giant - Shimano,2:38 2:38,+2:44,,\u25bc43,2,2014
+29,24,46,+2:38,,24.0,Terpstra Niki,46,Omega Pharma - Quick-Step,",, 2:38",+2:38,,\u25bc22,2,2014
+28,11,47,+2:39,,72.0,Acevedo Janier Alexis,47,Garmin Sharp,2:39 2:39,+2:39,,\u25b225,2,2014
+27,6,48,+2:40,,42.0,Schar Michael,48,BMC Racing Team,2:40 2:40,+2:40,,\u25bc6,2,2014
+21,158,49,+2:42,,71.0,Zepuntke Ruben,49,Bissell Development Team,2:42 2:42,+2:42,,\u25b222,2,2014
+35,146,50,+2:44,,94.0,Romero Amaran Luis,50,Jamis - Hagens Berman,2:44 2:44,+2:24,,\u25b244,2,2014
+24,67,51,+2:44,,23.0,Bennett George,51,Cannondale,",, 2:44",+2:44,,\u25bc28,2,2014
+21,45,52,+2:49,,81.0,Edmondson Joshua,52,Team Sky,2:49 2:49,+2:49,,\u25b229,2,2014
+21,27,53,+2:49,,61.0,Verona Carlos,53,Omega Pharma - Quick-Step,",, 2:49",+2:49,,\u25b28,2,2014
+26,145,54,+2:50,,95.0,Brenes Gregory,54,Jamis - Hagens Berman,2:50 2:50,+2:30,,\u25b241,2,2014
+35,47,55,+2:50,,78.0,Pate Danny,55,Team Sky,",, 2:50",+2:50,,\u25b223,2,2014
+33,46,56,+2:51,,110.0,Knees Christian,56,Team Sky,2:51 2:51,+1:53,,\u25b254,2,2014
+31,78,57,+2:51,,88.0,Wynants Maarten,57,Belkin-Pro Cycling Team,",, 2:51",+2:51,,\u25b231,2,2014
+28,73,58,+2:56,,58.0,Boom Lars,58,Belkin-Pro Cycling Team,2:56 2:56,+2:56,,-,2,2014
+40,138,59,+2:56,,50.0,Rodriguez Fred,59,Jelly Belly p/b Maxxis,",, 2:56",+2:56,,\u25bc9,2,2014
+19,154,60,+2:59,,99.0,Daniel Gregory,60,Bissell Development Team,2:59 2:59,+2:24,,\u25b239,2,2014
+29,114,61,+3:02,,17.0,Verschoor Martijn,61,Team Novo Nordisk,3:02 3:02,+3:02,,\u25bc44,2,2014
+30,111,62,+3:03,,49.0,Megias Javier,62,Team Novo Nordisk,3:03 3:03,+3:03,,\u25bc13,2,2014
+23,42,63,+3:04,,70.0,Boswell Ian,63,Team Sky,3:04 3:04,+3:04,,\u25b27,2,2014
+29,66,64,+3:04,,32.0,Sabatini Fabio,64,Cannondale,",, 3:04",+3:04,,\u25bc32,2,2014
+36,53,65,+3:06,,37.0,Hayman Mathew,65,Orica GreenEDGE,3:06 3:06,+3:06,,\u25bc28,2,2014
+33,21,66,+3:06,,30.0,Boonen Tom,66,Omega Pharma - Quick-Step,",, 3:06",+3:06,,\u25bc36,2,2014
+23,26,67,+3:07,,108.0,van Keirsbulck Guillaume,67,Omega Pharma - Quick-Step,3:07 3:07,+2:09,,\u25b241,2,2014
+31,64,68,+3:07,,45.0,King Edward,68,Cannondale,",, 3:07",+3:07,,\u25bc23,2,2014
+24,25,69,+3:08,,107.0,Trentin Matteo,69,Omega Pharma - Quick-Step,3:08 3:08,+2:10,,\u25b238,2,2014
+25,126,70,+3:11,,8.0,Young Eric,70,Optum p/b Kelly Benefit Strategies,3:11 3:11,+3:11,,\u25bc62,2,2014
+23,43,71,+3:11,,85.0,Dombrowski Joe,71,Team Sky,",, 3:11",+3:11,,\u25b214,2,2014
+19,156,72,+3:12,,4.0,Geoghegan Hart Tao,72,Bissell Development Team,3:12 3:12,+3:16,,\u25bc68,2,2014
+30,91,73,+3:12,,63.0,Euser Lucas,73,UnitedHealthcare Pro Cycling Team,",, 3:12",+3:12,,\u25bc10,2,2014
+31,23,74,+3:12,,44.0,Renshaw Mark,74,Omega Pharma - Quick-Step,",, 3:12",+3:12,,\u25bc30,2,2014
+20,152,75,+3:13,,12.0,Br\xf8chner Nicolai,75,Bissell Development Team,3:13 3:13,+3:13,,\u25bc63,2,2014
+22,34,76,+3:14,,16.0,Stuyven Jasper,76,Trek Factory Racing,3:14 3:14,+3:14,,\u25bc60,2,2014
+34,95,77,+3:16,,39.0,Jones Chris,77,UnitedHealthcare Pro Cycling Team,3:16 3:16,+3:16,,\u25bc38,2,2014
+31,87,78,+3:18,,36.0,de Kort Koen,78,Team Giant - Shimano,3:18 3:18,+3:18,,\u25bc42,2,2014
+25,44,79,+3:19,,74.0,Earle Nathan,79,Team Sky,3:19 3:19,+3:19,,\u25bc5,2,2014
+22,76,80,+3:23,,87.0,van der Lijke Nick,80,Belkin-Pro Cycling Team,3:23 3:23,+3:23,,\u25b27,2,2014
+35,123,81,+3:28,,76.0,Huff Charles Bradley,81,Optum p/b Kelly Benefit Strategies,3:28 3:28,+3:28,,\u25bc5,2,2014
+26,121,82,+3:28,,55.0,Anderson Ryan,82,Optum p/b Kelly Benefit Strategies,",, 3:28",+3:28,,\u25bc27,2,2014
+27,51,83,+3:31,,9.0,Goss Matthew,83,Orica GreenEDGE,3:31 3:31,+3:31,,\u25bc74,2,2014
+23,144,84,+3:31,,82.0,Jaramillo Daniel Alexander,84,Jamis - Hagens Berman,",, 3:31",+3:31,,\u25bc2,2,2014
+25,98,85,+3:32,,67.0,Summerhill Daniel,85,UnitedHealthcare Pro Cycling Team,3:32 3:32,+3:32,,\u25bc18,2,2014
+24,52,86,+3:34,,41.0,Chaves Johan Esteban,86,Orica GreenEDGE,3:34 3:34,+3:34,,\u25bc45,2,2014
+22,74,87,+3:37,,3.0,Hofland Moreno,87,Belkin-Pro Cycling Team,3:37 3:37,+3:41,,\u25bc84,2,2014
+22,151,88,+3:37,,13.0,Putt Tanner,88,Bissell Development Team,",, 3:37",+3:37,,\u25bc75,2,2014
+24,63,89,+3:42,,7.0,Boivin Guillaume,89,Cannondale,3:42 3:42,+3:42,,\u25bc82,2,2014
+36,2,90,+3:44,,20.0,Hushovd Thor,90,BMC Racing Team,3:44 3:44,+3:44,,\u25bc70,2,2014
+25,86,91,+3:46,,54.0,Janse van Rensburg Reinardt,91,Team Giant - Shimano,3:46 3:46,+3:46,,\u25bc37,2,2014
+29,28,92,+3:47,,103.0,Velits Martin,92,Omega Pharma - Quick-Step,3:47 3:47,+3:09,,\u25b211,2,2014
+26,103,93,+3:48,,18.0,Dempster Zakkari,93,Team NetApp \u2013 Endura,3:48 3:48,+3:48,,\u25bc75,2,2014
+21,155,94,+3:51,,15.0,Eastman Ryan,94,Bissell Development Team,3:51 3:51,+3:51,,\u25bc79,2,2014
+25,83,95,+4:04,,90.0,Damuseau Thomas,95,Team Giant - Shimano,4:04 4:04,+4:04,,\u25bc5,2,2014
+33,141,96,+4:10,,19.0,Haedo Juan Jose,96,Jamis - Hagens Berman,4:10 4:10,+4:10,,\u25bc77,2,2014
+23,92,97,+4:13,,105.0,Bolivar Isaac,97,UnitedHealthcare Pro Cycling Team,4:13 4:13,+3:20,,\u25b28,2,2014
+32,94,98,+4:14,,14.0,Hanson Ken,98,UnitedHealthcare Pro Cycling Team,4:14 4:14,+4:14,,\u25bc84,2,2014
+27,97,99,+4:14,,100.0,Reijnen Kiel,99,UnitedHealthcare Pro Cycling Team,",, 4:14",+3:38,,\u25b21,2,2014
+27,117,100,+4:22,,86.0,Lefrancois Nicolas,100,Team Novo Nordisk,4:22 4:22,+4:22,,\u25bc14,2,2014
+34,56,101,+4:25,,113.0,Mouris Jens,101,Orica GreenEDGE,4:25 4:25,+1:37,,\u25b212,2,2014
+24,107,102,+4:29,,73.0,Thwaites Scott,102,Team NetApp \u2013 Endura,4:29 4:29,+4:29,,\u25bc29,2,2014
+24,48,103,+4:37,,109.0,Rowe Luke,103,Team Sky,4:37 4:37,+3:39,,\u25b26,2,2014
+30,106,104,+4:37,,84.0,Schillinger Andreas,104,Team NetApp \u2013 Endura,",, 4:37",+4:37,,\u25bc20,2,2014
+34,82,105,+4:42,,98.0,Curvers Roy,105,Team Giant - Shimano,4:42 4:42,+4:07,,\u25bc7,2,2014
+39,122,106,+4:49,,80.0,Candelario Alex,106,Optum p/b Kelly Benefit Strategies,4:49 4:49,+4:49,,\u25bc26,2,2014
+22,118,107,+4:51,,101.0,De Mesmaeker Kevin,107,Team Novo Nordisk,4:51 4:51,+4:13,,\u25bc6,2,2014
+26,77,108,+4:56,,93.0,van Winden Dennis,108,Belkin-Pro Cycling Team,4:56 4:56,+4:37,,\u25bc15,2,2014
+20,115,109,+5:00,,106.0,Planet Charles,109,Team Novo Nordisk,5:00 5:00,+4:06,,\u25bc3,2,2014
+29,93,110,+5:14,,111.0,Clarke Jonathan,110,UnitedHealthcare Pro Cycling Team,5:14 5:14,+4:03,,\u25b21,2,2014
+28,108,111,+5:17,,97.0,Voss Paul,111,Team NetApp \u2013 Endura,5:17 5:17,+4:55,,\u25bc14,2,2014
+24,58,112,+5:18,,112.0,Howard Leigh,112,Orica GreenEDGE,5:18 5:18,+4:00,,-,2,2014
+25,112,113,+5:25,,51.0,Peron Andrea,113,Team Novo Nordisk,5:25 5:25,+5:25,,\u25bc62,2,2014
+28,75,114,+8:21,,114.0,Leezer Tom,114,Belkin-Pro Cycling Team,8:21 8:21,+4:47,,-,2,2014
+23,137,115,+8:23,,115.0,Rathe Jacob,115,Jelly Belly p/b Maxxis,8:23 8:23,+3:47,,-,2,2014
+29,105,116,+14:44,,117.0,Mendes Jos\xe9,116,Team NetApp \u2013 Endura,14:44 14:44,+2:31,,\u25b21,2,2014
+34,142,117,+16:33,,118.0,Cooke Matt,117,Jamis - Hagens Berman,16:33 16:33,+4:20,,\u25b21,2,2014
+24,147,118,+17:10,,128.0,Squire Rob,118,Jamis - Hagens Berman,17:10 17:10,+3:12,,\u25b210,2,2014
+30,125,119,+17:14,,116.0,Routley Will,119,Optum p/b Kelly Benefit Strategies,17:14 17:14,+5:02,,\u25bc3,2,2014
+26,16,120,+17:30,,119.0,Howes Alex,120,Garmin Sharp,17:30 17:30,+3:32,,\u25bc1,2,2014
+21,37,121,+17:30,,120.0,Watson Calvin,121,Trek Factory Racing,",, 17:30",+3:32,,\u25bc1,2,2014
+23,134,122,+17:37,,125.0,Fisher Steve,122,Jelly Belly p/b Maxxis,17:37 17:37,+3:39,,\u25b23,2,2014
+22,133,123,+17:44,,124.0,Lemus Luis,123,Jelly Belly p/b Maxxis,17:44 17:44,+3:46,,\u25b21,2,2014
+30,135,124,+17:47,,126.0,Lloyd Matthew,124,Jelly Belly p/b Maxxis,17:47 17:47,+3:49,,\u25b22,2,2014
+22,116,125,+17:49,,123.0,Henttala Joonas,125,Team Novo Nordisk,17:49 17:49,+3:51,,\u25bc2,2,2014
+25,113,126,+17:51,,122.0,Lozano David,126,Team Novo Nordisk,17:51 17:51,+3:53,,\u25bc4,2,2014
+28,136,127,+17:56,,127.0,Mazich Sean,127,Jelly Belly p/b Maxxis,17:56 17:56,+3:58,,-,2,2014
+30,68,128,+18:16,,121.0,Wurf Cameron,128,Cannondale,18:16 18:16,+4:18,,\u25bc7,2,2014
+34,41,1,+0:00,,1.0,Wiggins Bradley,1,Team Sky,10:03:57 10:03:57,+0:00,10.0,-,3,2014
+23,13,2,+0:24,,2.0,Dennis Rohan,2,Garmin Sharp,0:24 0:24,+-1:40,,-,3,2014
+28,104,3,+1:05,,6.0,Machado Tiago,3,Team NetApp \u2013 Endura,1:05 1:05,+-1:46,,\u25b23,3,2014
+22,81,4,+1:21,,12.0,Craddock Lawson,4,Team Giant - Shimano,1:21 1:21,+-1:48,,\u25b28,3,2014
+21,57,5,+2:10,,34.0,Yates Adam,5,Orica GreenEDGE,2:10 2:10,+-1:51,,\u25b229,3,2014
+26,1,6,+2:24,,42.0,Stetina Peter,6,BMC Racing Team,2:24 2:24,+-1:54,,\u25b236,3,2014
+29,31,7,+2:25,,30.0,Busche Matthew,7,Trek Factory Racing,2:25 2:25,+0:09,,\u25b223,3,2014
+25,124,8,+2:27,,43.0,Jones Carter,8,Optum p/b Kelly Benefit Strategies,2:27 2:27,+-1:54,,\u25b235,3,2014
+33,71,9,+2:29,,36.0,ten Dam Laurens,9,Belkin-Pro Cycling Team,2:29 2:29,+0:09,,\u25b227,3,2014
+28,11,10,+2:30,,47.0,Acevedo Janier Alexis,10,Garmin Sharp,2:30 2:30,+-1:51,,\u25b237,3,2014
+37,38,11,+2:45,,28.0,Zubeldia Haimar,11,Trek Factory Racing,2:45 2:45,+0:35,,\u25b217,3,2014
+21,55,12,+2:55,,17.0,Howson Damien,12,Orica GreenEDGE,2:55 2:55,+1:09,,\u25b25,3,2014
+24,52,13,+3:28,,86.0,Chaves Johan Esteban,13,Orica GreenEDGE,3:28 3:28,+-1:54,,\u25b273,3,2014
+22,18,14,+3:35,,22.0,Brown Nathan,14,Garmin Sharp,3:35 3:35,+1:41,,\u25b28,3,2014
+25,102,15,+3:42,,13.0,de la Cruz David,15,Team NetApp \u2013 Endura,3:42 3:42,+2:08,,\u25bc2,3,2014
+24,67,16,+3:45,,51.0,Bennett George,16,Cannondale,3:45 3:45,+1:01,,\u25b235,3,2014
+30,91,17,+4:08,,73.0,Euser Lucas,17,UnitedHealthcare Pro Cycling Team,4:08 4:08,+0:56,,\u25b256,3,2014
+21,88,18,+4:08,,27.0,Olivier Daan,18,Team Giant - Shimano,",, 4:08",+1:59,,\u25b29,3,2014
+36,12,19,+4:35,,37.0,Danielson Thomas,19,Garmin Sharp,4:35 4:35,+2:14,,\u25b218,3,2014
+25,83,20,+5:27,,95.0,Damuseau Thomas,20,Team Giant - Shimano,5:27 5:27,+1:23,,\u25b275,3,2014
+23,144,21,+5:45,,84.0,Jaramillo Daniel Alexander,21,Jamis - Hagens Berman,5:45 5:45,+2:14,,\u25b263,3,2014
+24,72,22,+6:27,,19.0,Bobridge Jack,22,Belkin-Pro Cycling Team,6:27 6:27,+4:34,,\u25bc3,3,2014
+27,65,23,+6:38,,24.0,Koren Kristijan,23,Cannondale,6:38 6:38,+4:34,,\u25b21,3,2014
+27,14,24,+6:40,,26.0,Fairly Caleb,24,Garmin Sharp,6:40 6:40,+4:34,,\u25b22,3,2014
+26,145,25,+6:41,,54.0,Brenes Gregory,25,Jamis - Hagens Berman,6:41 6:41,+3:51,,\u25b229,3,2014
+21,153,26,+7:11,,44.0,Chevrier Cl\xe9ment,26,Bissell Development Team,7:11 7:11,+4:34,,\u25b218,3,2014
+35,146,27,+7:18,,50.0,Romero Amaran Luis,27,Jamis - Hagens Berman,7:18 7:18,+4:34,,\u25b223,3,2014
+42,36,28,+7:30,,8.0,Voigt Jens,28,Trek Factory Racing,7:30 7:30,+6:06,,\u25bc20,3,2014
+31,64,29,+7:41,,68.0,King Edward,29,Cannondale,7:41 7:41,+4:34,,\u25b239,3,2014
+25,17,30,+7:44,,15.0,King Benjamin,30,Garmin Sharp,7:44 7:44,+6:06,,\u25bc15,3,2014
+30,111,31,+8:47,,62.0,Megias Javier,31,Team Novo Nordisk,8:47 8:47,+5:44,,\u25b231,3,2014
+21,27,32,+8:55,,53.0,Verona Carlos,32,Omega Pharma - Quick-Step,8:55 8:55,+6:06,,\u25b221,3,2014
+35,143,33,+9:13,,25.0,Jacques-Maynes Benjamin,33,Jamis - Hagens Berman,9:13 9:13,+7:09,,\u25bc8,3,2014
+25,85,34,+9:23,,9.0,Haga Chad,34,Team Giant - Shimano,9:23 9:23,+7:58,,\u25bc25,3,2014
+32,78,35,+9:40,,57.0,Wynants Maarten,35,Belkin-Pro Cycling Team,9:40 9:40,+6:49,,\u25b222,3,2014
+32,4,36,+9:44,,41.0,Moinard Ama\xebl,36,BMC Racing Team,9:44 9:44,+7:17,,\u25b25,3,2014
+27,97,37,+10:13,,99.0,Reijnen Kiel,37,UnitedHealthcare Pro Cycling Team,10:13 10:13,+5:59,,\u25b262,3,2014
+22,76,38,+11:03,,80.0,van der Lijke Nick,38,Belkin-Pro Cycling Team,11:03 11:03,+7:40,,\u25b242,3,2014
+23,43,39,+11:42,,71.0,Dombrowski Joe,39,Team Sky,11:42 11:42,+8:31,,\u25b232,3,2014
+34,32,40,+12:24,,7.0,Irizar Markel,40,Trek Factory Racing,12:24 12:24,+11:03,,\u25bc33,3,2014
+26,132,41,+12:38,,20.0,Carlsen Kirk,41,Jelly Belly p/b Maxxis,12:38 12:38,+10:45,,\u25bc21,3,2014
+35,101,42,+12:45,,16.0,Cama\xf1o Iker,42,Team NetApp \u2013 Endura,12:45 12:45,+11:03,,\u25bc26,3,2014
+25,54,43,+13:06,,23.0,Keukeleire Jens,43,Orica GreenEDGE,13:06 13:06,+11:10,,\u25bc20,3,2014
+36,128,44,+13:26,,32.0,Zwizanski Scott,44,Optum p/b Kelly Benefit Strategies,13:26 13:26,+11:10,,\u25bc12,3,2014
+28,108,45,+13:45,,111.0,Voss Paul,45,Team NetApp \u2013 Endura,13:45 13:45,+8:28,,\u25b266,3,2014
+21,45,46,+13:59,,52.0,Edmondson Joshua,46,Team Sky,13:59 13:59,+11:10,,\u25b26,3,2014
+33,46,47,+14:01,,56.0,Knees Christian,47,Team Sky,14:01 14:01,+11:10,,\u25b29,3,2014
+19,154,48,+14:02,,60.0,Daniel Gregory,48,Bissell Development Team,14:02 14:02,+11:03,,\u25b212,3,2014
+34,95,49,+14:19,,77.0,Jones Chris,49,UnitedHealthcare Pro Cycling Team,14:19 14:19,+11:03,,\u25b228,3,2014
+21,158,50,+15:17,,49.0,Zepuntke Ruben,50,Bissell Development Team,15:17 15:17,+12:35,,\u25bc1,3,2014
+28,73,51,+15:20,,58.0,Boom Lars,51,Belkin-Pro Cycling Team,15:20 15:20,+12:24,,\u25b27,3,2014
+31,148,52,+18:12,,4.0,Teruel Eloy,52,Jamis - Hagens Berman,18:12 18:12,+17:04,,\u25bc48,3,2014
+25,98,53,+18:40,,85.0,Summerhill Daniel,53,UnitedHealthcare Pro Cycling Team,18:40 18:40,+15:08,,\u25b232,3,2014
+23,5,54,+19:29,,3.0,Phinney Taylor,54,BMC Racing Team,19:29 19:29,+18:37,,\u25bc51,3,2014
+25,33,55,+19:48,,5.0,Sergent Jesse,55,Trek Factory Racing,19:48 19:48,+18:37,,\u25bc50,3,2014
+23,8,56,+20:31,,21.0,Warbasse Larry,56,BMC Racing Team,20:31 20:31,+18:37,,\u25bc35,3,2014
+22,133,57,+20:48,,123.0,Lemus Luis,57,Jelly Belly p/b Maxxis,20:48 20:48,+3:04,,\u25b266,3,2014
+20,35,58,+20:54,,33.0,van Poppel Danny,58,Trek Factory Racing,20:54 20:54,+18:37,,\u25bc25,3,2014
+35,127,59,+20:59,,10.0,Zirbel Tom,59,Optum p/b Kelly Benefit Strategies,20:59 20:59,+19:31,,\u25bc49,3,2014
+28,3,60,+21:01,,38.0,Kohler Martin,60,BMC Racing Team,21:01 21:01,+18:37,,\u25bc22,3,2014
+25,131,61,+21:01,,11.0,Tvetcov Serghei,61,Jelly Belly p/b Maxxis,",, 21:01",+19:31,,\u25bc50,3,2014
+28,15,62,+21:02,,40.0,Gaimon Phillip,62,Garmin Sharp,21:02 21:02,+18:37,,\u25bc22,3,2014
+24,61,63,+21:07,,14.0,Sagan Peter,63,Cannondale,21:07 21:07,+19:31,,\u25bc49,3,2014
+27,6,64,+21:17,,48.0,Schar Michael,64,BMC Racing Team,21:17 21:17,+18:37,,\u25bc16,3,2014
+28,7,65,+21:51,,35.0,Van Avermaet Greg,65,BMC Racing Team,21:51 21:51,+19:31,,\u25bc30,3,2014
+29,62,66,+21:55,,39.0,Bodnar Maciej,66,Cannondale,21:55 21:55,+19:31,,\u25bc27,3,2014
+29,96,67,+22:20,,31.0,Murphy John,67,UnitedHealthcare Pro Cycling Team,22:20 22:20,+20:04,,\u25bc36,3,2014
+28,22,68,+22:23,,18.0,Cavendish Mark,68,Omega Pharma - Quick-Step,22:23 22:23,+20:30,,\u25bc50,3,2014
+40,138,69,+22:24,,59.0,Rodriguez Fred,69,Jelly Belly p/b Maxxis,22:24 22:24,+19:28,,\u25bc10,3,2014
+25,84,70,+22:25,,45.0,Degenkolb John,70,Team Giant - Shimano,22:25 22:25,+19:47,,\u25bc25,3,2014
+33,21,71,+22:31,,66.0,Boonen Tom,71,Omega Pharma - Quick-Step,22:31 22:31,+19:25,,\u25bc5,3,2014
+23,26,72,+22:32,,67.0,van Keirsbulck Guillaume,72,Omega Pharma - Quick-Step,22:32 22:32,+19:25,,\u25bc5,3,2014
+29,66,73,+22:32,,64.0,Sabatini Fabio,73,Cannondale,",, 22:32",+19:28,,\u25bc9,3,2014
+35,47,74,+22:33,,55.0,Pate Danny,74,Team Sky,22:33 22:33,+19:43,,\u25bc19,3,2014
+24,25,75,+22:36,,69.0,Trentin Matteo,75,Omega Pharma - Quick-Step,22:36 22:36,+19:28,,\u25bc6,3,2014
+24,147,76,+22:38,,118.0,Squire Rob,76,Jamis - Hagens Berman,22:38 22:38,+5:28,,\u25b242,3,2014
+23,92,77,+22:38,,97.0,Bolivar Isaac,77,UnitedHealthcare Pro Cycling Team,",, 22:38",+18:25,,\u25b220,3,2014
+22,151,78,+22:41,,88.0,Putt Tanner,78,Bissell Development Team,22:41 22:41,+19:04,,\u25b210,3,2014
+19,156,79,+22:43,,72.0,Geoghegan Hart Tao,79,Bissell Development Team,22:43 22:43,+19:31,,\u25bc7,3,2014
+31,23,80,+22:43,,74.0,Renshaw Mark,80,Omega Pharma - Quick-Step,",, 22:43",+19:31,,\u25bc6,3,2014
+22,34,81,+22:45,,76.0,Stuyven Jasper,81,Trek Factory Racing,22:45 22:45,+19:31,,\u25bc5,3,2014
+31,87,82,+22:46,,78.0,de Kort Koen,82,Team Giant - Shimano,22:46 22:46,+19:28,,\u25bc4,3,2014
+23,42,83,+22:51,,63.0,Boswell Ian,83,Team Sky,22:51 22:51,+19:47,,\u25bc20,3,2014
+36,53,84,+22:56,,65.0,Hayman Mathew,84,Orica GreenEDGE,22:56 22:56,+19:50,,\u25bc19,3,2014
+26,121,85,+22:59,,82.0,Anderson Ryan,85,Optum p/b Kelly Benefit Strategies,22:59 22:59,+19:31,,\u25bc3,3,2014
+27,51,86,+23:02,,83.0,Goss Matthew,86,Orica GreenEDGE,23:02 23:02,+19:31,,\u25bc3,3,2014
+29,24,87,+23:06,,46.0,Terpstra Niki,87,Omega Pharma - Quick-Step,23:06 23:06,+20:28,,\u25bc41,3,2014
+22,74,88,+23:08,,87.0,Hofland Moreno,88,Belkin-Pro Cycling Team,23:08 23:08,+19:31,,\u25bc1,3,2014
+24,63,89,+23:13,,89.0,Boivin Guillaume,89,Cannondale,23:13 23:13,+19:31,,-,3,2014
+29,28,90,+23:18,,92.0,Velits Martin,90,Omega Pharma - Quick-Step,23:18 23:18,+19:31,,\u25b22,3,2014
+26,103,91,+23:19,,93.0,Dempster Zakkari,91,Team NetApp \u2013 Endura,23:19 23:19,+19:31,,\u25b22,3,2014
+23,137,92,+23:31,,115.0,Rathe Jacob,92,Jelly Belly p/b Maxxis,23:31 23:31,+15:08,,\u25b223,3,2014
+29,114,93,+23:32,,61.0,Verschoor Martijn,93,Team Novo Nordisk,23:32 23:32,+20:30,,\u25bc32,3,2014
+30,106,94,+23:34,,104.0,Schillinger Andreas,94,Team NetApp \u2013 Endura,23:34 23:34,+18:57,,\u25b210,3,2014
+29,105,95,+23:40,,116.0,Mendes Jos\xe9,95,Team NetApp \u2013 Endura,23:40 23:40,+8:56,,\u25b221,3,2014
+27,117,96,+23:53,,100.0,Lefrancois Nicolas,96,Team Novo Nordisk,23:53 23:53,+19:31,,\u25b24,3,2014
+24,107,97,+24:00,,102.0,Thwaites Scott,97,Team NetApp \u2013 Endura,24:00 24:00,+19:31,,\u25b25,3,2014
+32,94,98,+24:01,,98.0,Hanson Ken,98,UnitedHealthcare Pro Cycling Team,24:01 24:01,+19:47,,-,3,2014
+29,93,99,+24:05,,110.0,Clarke Jonathan,99,UnitedHealthcare Pro Cycling Team,24:05 24:05,+18:51,,\u25b211,3,2014
+34,56,100,+24:07,,101.0,Mouris Jens,100,Orica GreenEDGE,24:07 24:07,+19:42,,\u25b21,3,2014
+34,82,101,+24:13,,105.0,Curvers Roy,101,Team Giant - Shimano,24:13 24:13,+19:31,,\u25b24,3,2014
+39,122,102,+24:28,,106.0,Candelario Alex,102,Optum p/b Kelly Benefit Strategies,24:28 24:28,+19:39,,\u25b24,3,2014
+20,115,103,+24:31,,109.0,Planet Charles,103,Team Novo Nordisk,24:31 24:31,+19:31,,\u25b26,3,2014
+22,118,104,+24:34,,107.0,De Mesmaeker Kevin,104,Team Novo Nordisk,24:34 24:34,+19:43,,\u25b23,3,2014
+26,77,105,+24:39,,108.0,van Winden Dennis,105,Belkin-Pro Cycling Team,24:39 24:39,+19:43,,\u25b23,3,2014
+25,113,106,+28:00,,126.0,Lozano David,106,Team Novo Nordisk,28:00 28:00,+10:09,,\u25b220,3,2014
+28,75,107,+28:00,,114.0,Leezer Tom,107,Belkin-Pro Cycling Team,",, 28:00",+19:39,,\u25b27,3,2014
+33,141,108,+28:24,,96.0,Haedo Juan Jose,108,Jamis - Hagens Berman,28:24 28:24,+24:14,,\u25bc12,3,2014
+36,2,109,+28:34,,90.0,Hushovd Thor,109,BMC Racing Team,28:34 28:34,+24:50,,\u25bc19,3,2014
+20,157,110,+28:38,,29.0,Oram James,110,Bissell Development Team,28:38 28:38,+26:28,,\u25bc81,3,2014
+25,126,111,+29:17,,70.0,Young Eric,111,Optum p/b Kelly Benefit Strategies,29:17 29:17,+26:06,,\u25bc41,3,2014
+20,152,112,+29:19,,75.0,Br\xf8chner Nicolai,112,Bissell Development Team,29:19 29:19,+26:06,,\u25bc37,3,2014
+21,155,113,+29:20,,94.0,Eastman Ryan,113,Bissell Development Team,29:20 29:20,+25:29,,\u25bc19,3,2014
+25,44,114,+29:25,,79.0,Earle Nathan,114,Team Sky,29:25 29:25,+26:06,,\u25bc35,3,2014
+24,58,115,+29:32,,112.0,Howard Leigh,115,Orica GreenEDGE,29:32 29:32,+24:14,,\u25bc3,3,2014
+35,123,116,+29:34,,81.0,Huff Charles Bradley,116,Optum p/b Kelly Benefit Strategies,29:34 29:34,+26:06,,\u25bc35,3,2014
+24,48,117,+30:43,,103.0,Rowe Luke,117,Team Sky,30:43 30:43,+26:06,,\u25bc14,3,2014
+21,37,118,+36:07,,121.0,Watson Calvin,118,Trek Factory Racing,36:07 36:07,+18:37,,\u25b23,3,2014
+34,142,119,+36:23,,117.0,Cooke Matt,119,Jamis - Hagens Berman,36:23 36:23,+19:50,,\u25bc2,3,2014
+30,135,120,+36:24,,124.0,Lloyd Matthew,120,Jelly Belly p/b Maxxis,36:24 36:24,+18:37,,\u25b24,3,2014
+30,125,121,+36:53,,119.0,Routley Will,121,Optum p/b Kelly Benefit Strategies,36:53 36:53,+19:39,,\u25bc2,3,2014
+30,68,122,+36:53,,128.0,Wurf Cameron,122,Cannondale,",, 36:53",+18:37,,\u25b26,3,2014
+23,134,123,+37:08,,122.0,Fisher Steve,123,Jelly Belly p/b Maxxis,37:08 37:08,+19:31,,\u25bc1,3,2014
+22,116,124,+37:20,,125.0,Henttala Joonas,124,Team Novo Nordisk,37:20 37:20,+19:31,,\u25b21,3,2014
+26,16,125,+43:49,,120.0,Howes Alex,125,Garmin Sharp,43:49 43:49,+26:19,,\u25bc5,3,2014
+34,41,1,+0:00,,1.0,Wiggins Bradley,1,Team Sky,13:53:51 13:53:51,+0:00,10.0,-,4,2014
+23,13,2,+0:28,,2.0,Dennis Rohan,2,Garmin Sharp,0:28 0:28,+0:04,,-,4,2014
+28,104,3,+1:09,,3.0,Machado Tiago,3,Team NetApp \u2013 Endura,1:09 1:09,+0:04,,-,4,2014
+22,81,4,+1:25,,4.0,Craddock Lawson,4,Team Giant - Shimano,1:25 1:25,+0:04,,-,4,2014
+21,57,5,+2:14,,5.0,Yates Adam,5,Orica GreenEDGE,2:14 2:14,+0:04,,-,4,2014
+26,1,6,+2:28,,6.0,Stetina Peter,6,BMC Racing Team,2:28 2:28,+0:04,,-,4,2014
+29,31,7,+2:29,,7.0,Busche Matthew,7,Trek Factory Racing,2:29 2:29,+0:04,,-,4,2014
+25,124,8,+2:31,,8.0,Jones Carter,8,Optum p/b Kelly Benefit Strategies,2:31 2:31,+0:04,,-,4,2014
+33,71,9,+2:33,,9.0,ten Dam Laurens,9,Belkin-Pro Cycling Team,2:33 2:33,+0:04,,-,4,2014
+28,11,10,+2:34,,10.0,Acevedo Janier Alexis,10,Garmin Sharp,2:34 2:34,+0:04,,-,4,2014
+37,38,11,+2:49,,11.0,Zubeldia Haimar,11,Trek Factory Racing,2:49 2:49,+0:04,,-,4,2014
+21,55,12,+2:59,,12.0,Howson Damien,12,Orica GreenEDGE,2:59 2:59,+0:04,,-,4,2014
+24,52,13,+3:32,,13.0,Chaves Johan Esteban,13,Orica GreenEDGE,3:32 3:32,+0:04,,-,4,2014
+22,18,14,+3:39,,14.0,Brown Nathan,14,Garmin Sharp,3:39 3:39,+0:04,,-,4,2014
+25,102,15,+3:46,,15.0,de la Cruz David,15,Team NetApp \u2013 Endura,3:46 3:46,+0:04,,-,4,2014
+24,67,16,+3:49,,16.0,Bennett George,16,Cannondale,3:49 3:49,+0:04,,-,4,2014
+30,91,17,+4:12,,17.0,Euser Lucas,17,UnitedHealthcare Pro Cycling Team,4:12 4:12,+0:04,,-,4,2014
+21,88,18,+4:12,,18.0,Olivier Daan,18,Team Giant - Shimano,",, 4:12",+0:04,,-,4,2014
+36,12,19,+4:39,,19.0,Danielson Thomas,19,Garmin Sharp,4:39 4:39,+0:04,,-,4,2014
+25,83,20,+5:31,,20.0,Damuseau Thomas,20,Team Giant - Shimano,5:31 5:31,+0:04,,-,4,2014
+27,65,21,+6:42,,23.0,Koren Kristijan,21,Cannondale,6:42 6:42,+0:04,,\u25b22,4,2014
+27,14,22,+6:44,,24.0,Fairly Caleb,22,Garmin Sharp,6:44 6:44,+0:04,,\u25b22,4,2014
+26,145,23,+6:45,,25.0,Brenes Gregory,23,Jamis - Hagens Berman,6:45 6:45,+0:04,,\u25b22,4,2014
+24,72,24,+6:54,,22.0,Bobridge Jack,24,Belkin-Pro Cycling Team,6:54 6:54,+0:27,,\u25bc2,4,2014
+21,153,25,+7:15,,26.0,Chevrier Cl\xe9ment,25,Bissell Development Team,7:15 7:15,+0:04,,\u25b21,4,2014
+35,146,26,+7:22,,27.0,Romero Amaran Luis,26,Jamis - Hagens Berman,7:22 7:22,+0:04,,\u25b21,4,2014
+42,36,27,+7:34,,28.0,Voigt Jens,27,Trek Factory Racing,7:34 7:34,+0:04,,\u25b21,4,2014
+31,64,28,+7:45,,29.0,King Edward,28,Cannondale,7:45 7:45,+0:04,,\u25b21,4,2014
+25,17,29,+7:48,,30.0,King Benjamin,29,Garmin Sharp,7:48 7:48,+0:04,,\u25b21,4,2014
+23,144,30,+8:26,,21.0,Jaramillo Daniel Alexander,30,Jamis - Hagens Berman,8:26 8:26,+2:41,,\u25bc9,4,2014
+30,111,31,+8:51,,31.0,Megias Javier,31,Team Novo Nordisk,8:51 8:51,+0:04,,-,4,2014
+21,27,32,+9:15,,32.0,Verona Carlos,32,Omega Pharma - Quick-Step,9:15 9:15,+0:20,,-,4,2014
+32,78,33,+9:44,,35.0,Wynants Maarten,33,Belkin-Pro Cycling Team,9:44 9:44,+0:04,,\u25b22,4,2014
+32,4,34,+9:48,,36.0,Moinard Ama\xebl,34,BMC Racing Team,9:48 9:48,+0:04,,\u25b22,4,2014
+27,97,35,+10:17,,37.0,Reijnen Kiel,35,UnitedHealthcare Pro Cycling Team,10:17 10:17,+0:04,,\u25b22,4,2014
+22,76,36,+11:07,,38.0,van der Lijke Nick,36,Belkin-Pro Cycling Team,11:07 11:07,+0:04,,\u25b22,4,2014
+23,43,37,+11:46,,39.0,Dombrowski Joe,37,Team Sky,11:46 11:46,+0:04,,\u25b22,4,2014
+35,143,38,+11:54,,33.0,Jacques-Maynes Benjamin,38,Jamis - Hagens Berman,11:54 11:54,+2:41,,\u25bc5,4,2014
+25,85,39,+12:04,,34.0,Haga Chad,39,Team Giant - Shimano,12:04 12:04,+2:41,,\u25bc5,4,2014
+34,32,40,+12:28,,40.0,Irizar Markel,40,Trek Factory Racing,12:28 12:28,+0:04,,-,4,2014
+19,154,41,+12:39,,48.0,Daniel Gregory,41,Bissell Development Team,12:39 12:39,+-2:37,,\u25b27,4,2014
+35,101,42,+12:49,,42.0,Cama\xf1o Iker,42,Team NetApp \u2013 Endura,12:49 12:49,+0:04,,-,4,2014
+34,95,43,+12:59,,49.0,Jones Chris,43,UnitedHealthcare Pro Cycling Team,12:59 12:59,+-2:40,,\u25b26,4,2014
+25,54,44,+13:10,,43.0,Keukeleire Jens,44,Orica GreenEDGE,13:10 13:10,+0:04,,\u25bc1,4,2014
+36,128,45,+13:30,,44.0,Zwizanski Scott,45,Optum p/b Kelly Benefit Strategies,13:30 13:30,+0:04,,\u25bc1,4,2014
+28,108,46,+13:49,,45.0,Voss Paul,46,Team NetApp \u2013 Endura,13:49 13:49,+0:04,,\u25bc1,4,2014
+21,45,47,+14:03,,46.0,Edmondson Joshua,47,Team Sky,14:03 14:03,+0:04,,\u25bc1,4,2014
+33,46,48,+14:05,,47.0,Knees Christian,48,Team Sky,14:05 14:05,+0:04,,\u25bc1,4,2014
+26,132,49,+15:19,,41.0,Carlsen Kirk,49,Jelly Belly p/b Maxxis,15:19 15:19,+2:41,,\u25bc8,4,2014
+21,158,50,+15:21,,50.0,Zepuntke Ruben,50,Bissell Development Team,15:21 15:21,+0:04,,-,4,2014
+28,73,51,+15:24,,51.0,Boom Lars,51,Belkin-Pro Cycling Team,15:24 15:24,+0:04,,-,4,2014
+31,148,52,+18:16,,52.0,Teruel Eloy,52,Jamis - Hagens Berman,18:16 18:16,+0:04,,-,4,2014
+25,98,53,+18:44,,53.0,Summerhill Daniel,53,UnitedHealthcare Pro Cycling Team,18:44 18:44,+0:04,,-,4,2014
+23,5,54,+19:29,,54.0,Phinney Taylor,54,BMC Racing Team,19:29 19:29,+0:00,,-,4,2014
+25,33,55,+19:52,,55.0,Sergent Jesse,55,Trek Factory Racing,19:52 19:52,+0:04,,-,4,2014
+20,35,56,+20:54,,58.0,van Poppel Danny,56,Trek Factory Racing,20:54 20:54,+0:00,,\u25b22,4,2014
+28,3,57,+21:05,,60.0,Kohler Martin,57,BMC Racing Team,21:05 21:05,+0:04,,\u25b23,4,2014
+28,15,58,+21:06,,62.0,Gaimon Phillip,58,Garmin Sharp,21:06 21:06,+0:04,,\u25b24,4,2014
+24,61,59,+21:07,,63.0,Sagan Peter,59,Cannondale,21:07 21:07,+0:00,,\u25b24,4,2014
+27,6,60,+21:21,,64.0,Schar Michael,60,BMC Racing Team,21:21 21:21,+0:04,,\u25b24,4,2014
+25,131,61,+21:21,,61.0,Tvetcov Serghei,61,Jelly Belly p/b Maxxis,",, 21:21",+0:20,,-,4,2014
+22,133,62,+21:37,,57.0,Lemus Luis,62,Jelly Belly p/b Maxxis,21:37 21:37,+0:49,,\u25bc5,4,2014
+28,7,63,+21:55,,65.0,Van Avermaet Greg,63,BMC Racing Team,21:55 21:55,+0:04,,\u25b22,4,2014
+29,62,64,+21:59,,66.0,Bodnar Maciej,64,Cannondale,21:59 21:59,+0:04,,\u25b22,4,2014
+29,96,65,+22:20,,67.0,Murphy John,65,UnitedHealthcare Pro Cycling Team,22:20 22:20,+0:00,,\u25b22,4,2014
+28,22,66,+22:23,,68.0,Cavendish Mark,66,Omega Pharma - Quick-Step,22:23 22:23,+0:00,,\u25b22,4,2014
+40,138,67,+22:24,,69.0,Rodriguez Fred,67,Jelly Belly p/b Maxxis,22:24 22:24,+0:00,,\u25b22,4,2014
+25,84,68,+22:25,,70.0,Degenkolb John,68,Team Giant - Shimano,22:25 22:25,+0:00,,\u25b22,4,2014
+33,21,69,+22:35,,71.0,Boonen Tom,69,Omega Pharma - Quick-Step,22:35 22:35,+0:04,,\u25b22,4,2014
+23,26,70,+22:36,,72.0,van Keirsbulck Guillaume,70,Omega Pharma - Quick-Step,22:36 22:36,+0:04,,\u25b22,4,2014
+29,66,71,+22:36,,73.0,Sabatini Fabio,71,Cannondale,",, 22:36",+0:04,,\u25b22,4,2014
+24,25,72,+22:40,,75.0,Trentin Matteo,72,Omega Pharma - Quick-Step,22:40 22:40,+0:04,,\u25b23,4,2014
+31,23,73,+22:43,,80.0,Renshaw Mark,73,Omega Pharma - Quick-Step,22:43 22:43,+0:00,,\u25b27,4,2014
+22,151,74,+22:45,,78.0,Putt Tanner,74,Bissell Development Team,22:45 22:45,+0:04,,\u25b24,4,2014
+19,156,75,+22:47,,79.0,Geoghegan Hart Tao,75,Bissell Development Team,22:47 22:47,+0:04,,\u25b24,4,2014
+22,34,76,+22:49,,81.0,Stuyven Jasper,76,Trek Factory Racing,22:49 22:49,+0:04,,\u25b25,4,2014
+31,87,77,+22:50,,82.0,de Kort Koen,77,Team Giant - Shimano,22:50 22:50,+0:04,,\u25b25,4,2014
+27,51,78,+23:02,,86.0,Goss Matthew,78,Orica GreenEDGE,23:02 23:02,+0:00,,\u25b28,4,2014
+35,47,79,+23:02,,74.0,Pate Danny,79,Team Sky,",, 23:02",+0:29,,\u25bc5,4,2014
+29,93,80,+23:03,,99.0,Clarke Jonathan,80,UnitedHealthcare Pro Cycling Team,23:03 23:03,+-2:58,,\u25b219,4,2014
+26,121,81,+23:03,,85.0,Anderson Ryan,81,Optum p/b Kelly Benefit Strategies,",, 23:03",+0:04,,\u25b24,4,2014
+22,74,82,+23:08,,88.0,Hofland Moreno,82,Belkin-Pro Cycling Team,23:08 23:08,+0:00,,\u25b26,4,2014
+29,24,83,+23:10,,87.0,Terpstra Niki,83,Omega Pharma - Quick-Step,23:10 23:10,+0:04,,\u25b24,4,2014
+22,118,84,+23:12,,104.0,De Mesmaeker Kevin,84,Team Novo Nordisk,23:12 23:12,+-2:38,,\u25b220,4,2014
+23,8,85,+23:12,,56.0,Warbasse Larry,85,BMC Racing Team,",, 23:12",+2:41,,\u25bc29,4,2014
+24,63,86,+23:13,,89.0,Boivin Guillaume,86,Cannondale,23:13 23:13,+0:00,,\u25b23,4,2014
+36,53,87,+23:16,,84.0,Hayman Mathew,87,Orica GreenEDGE,23:16 23:16,+0:20,,\u25bc3,4,2014
+23,42,88,+23:18,,83.0,Boswell Ian,88,Team Sky,23:18 23:18,+0:27,,\u25bc5,4,2014
+23,137,89,+23:35,,92.0,Rathe Jacob,89,Jelly Belly p/b Maxxis,23:35 23:35,+0:04,,\u25b23,4,2014
+29,114,90,+23:36,,93.0,Verschoor Martijn,90,Team Novo Nordisk,23:36 23:36,+0:04,,\u25b23,4,2014
+29,28,91,+23:38,,90.0,Velits Martin,91,Omega Pharma - Quick-Step,23:38 23:38,+0:20,,\u25bc1,4,2014
+30,106,92,+23:38,,94.0,Schillinger Andreas,92,Team NetApp \u2013 Endura,",, 23:38",+0:04,,\u25b22,4,2014
+24,107,93,+24:04,,97.0,Thwaites Scott,93,Team NetApp \u2013 Endura,24:04 24:04,+0:04,,\u25b24,4,2014
+32,94,94,+24:05,,98.0,Hanson Ken,94,UnitedHealthcare Pro Cycling Team,24:05 24:05,+0:04,,\u25b24,4,2014
+26,103,95,+24:13,,91.0,Dempster Zakkari,95,Team NetApp \u2013 Endura,24:13 24:13,+0:54,,\u25bc4,4,2014
+34,82,96,+24:17,,101.0,Curvers Roy,96,Team Giant - Shimano,24:17 24:17,+0:04,,\u25b25,4,2014
+39,122,97,+24:32,,102.0,Candelario Alex,97,Optum p/b Kelly Benefit Strategies,24:32 24:32,+0:04,,\u25b25,4,2014
+34,56,98,+24:37,,100.0,Mouris Jens,98,Orica GreenEDGE,24:37 24:37,+0:30,,\u25b22,4,2014
+26,77,99,+24:43,,105.0,van Winden Dennis,99,Belkin-Pro Cycling Team,24:43 24:43,+0:04,,\u25b26,4,2014
+24,147,100,+25:19,,76.0,Squire Rob,100,Jamis - Hagens Berman,25:19 25:19,+2:41,,\u25bc24,4,2014
+29,105,101,+26:21,,95.0,Mendes Jos\xe9,101,Team NetApp \u2013 Endura,26:21 26:21,+2:41,,\u25bc6,4,2014
+27,117,102,+26:34,,96.0,Lefrancois Nicolas,102,Team Novo Nordisk,26:34 26:34,+2:41,,\u25bc6,4,2014
+20,115,103,+27:12,,103.0,Planet Charles,103,Team Novo Nordisk,27:12 27:12,+2:41,,-,4,2014
+28,75,104,+28:20,,107.0,Leezer Tom,104,Belkin-Pro Cycling Team,28:20 28:20,+0:20,,\u25b23,4,2014
+33,141,105,+28:28,,108.0,Haedo Juan Jose,105,Jamis - Hagens Berman,28:28 28:28,+0:04,,\u25b23,4,2014
+23,92,106,+29:07,,77.0,Bolivar Isaac,106,UnitedHealthcare Pro Cycling Team,29:07 29:07,+6:29,,\u25bc29,4,2014
+25,126,107,+29:17,,111.0,Young Eric,107,Optum p/b Kelly Benefit Strategies,29:17 29:17,+0:00,,\u25b24,4,2014
+20,152,108,+29:19,,112.0,Br\xf8chner Nicolai,108,Bissell Development Team,29:19 29:19,+0:00,,\u25b24,4,2014
+24,58,109,+29:36,,115.0,Howard Leigh,109,Orica GreenEDGE,29:36 29:36,+0:04,,\u25b26,4,2014
+35,123,110,+29:38,,116.0,Huff Charles Bradley,110,Optum p/b Kelly Benefit Strategies,29:38 29:38,+0:04,,\u25b26,4,2014
+25,113,111,+30:41,,106.0,Lozano David,111,Team Novo Nordisk,30:41 30:41,+2:41,,\u25bc5,4,2014
+24,48,112,+31:12,,117.0,Rowe Luke,112,Team Sky,31:12 31:12,+0:29,,\u25b25,4,2014
+36,2,113,+31:15,,109.0,Hushovd Thor,113,BMC Racing Team,31:15 31:15,+2:41,,\u25bc4,4,2014
+34,142,114,+35:06,,119.0,Cooke Matt,114,Jamis - Hagens Berman,35:06 35:06,+-2:43,,\u25b25,4,2014
+30,125,115,+35:24,,121.0,Routley Will,115,Optum p/b Kelly Benefit Strategies,35:24 35:24,+-2:31,,\u25b26,4,2014
+25,44,116,+35:54,,114.0,Earle Nathan,116,Team Sky,35:54 35:54,+6:29,,\u25bc2,4,2014
+21,37,117,+36:27,,118.0,Watson Calvin,117,Trek Factory Racing,36:27 36:27,+0:20,,\u25b21,4,2014
+23,134,118,+37:38,,123.0,Fisher Steve,118,Jelly Belly p/b Maxxis,37:38 37:38,+0:30,,\u25b25,4,2014
+30,135,119,+39:05,,120.0,Lloyd Matthew,119,Jelly Belly p/b Maxxis,39:05 39:05,+2:41,,\u25b21,4,2014
+30,68,120,+39:34,,122.0,Wurf Cameron,120,Cannondale,39:34 39:34,+2:41,,\u25b22,4,2014
+22,116,121,+40:01,,124.0,Henttala Joonas,121,Team Novo Nordisk,40:01 40:01,+2:41,,\u25b23,4,2014
+26,16,122,+44:16,,125.0,Howes Alex,122,Garmin Sharp,44:16 44:16,+0:27,,\u25b23,4,2014
+34,41,1,+0:00,,1.0,Wiggins Bradley,1,Team Sky,17:53:36 17:53:36,+0:00,10.0,-,5,2014
+23,13,2,+0:28,,2.0,Dennis Rohan,2,Garmin Sharp,0:28 0:28,+0:00,,-,5,2014
+28,104,3,+1:09,,3.0,Machado Tiago,3,Team NetApp \u2013 Endura,1:09 1:09,+0:00,,-,5,2014
+22,81,4,+1:25,,4.0,Craddock Lawson,4,Team Giant - Shimano,1:25 1:25,+0:00,,-,5,2014
+21,57,5,+2:14,,5.0,Yates Adam,5,Orica GreenEDGE,2:14 2:14,+0:00,,-,5,2014
+26,1,6,+2:28,,6.0,Stetina Peter,6,BMC Racing Team,2:28 2:28,+0:00,,-,5,2014
+29,31,7,+2:29,,7.0,Busche Matthew,7,Trek Factory Racing,2:29 2:29,+0:00,,-,5,2014
+25,124,8,+2:31,,8.0,Jones Carter,8,Optum p/b Kelly Benefit Strategies,2:31 2:31,+0:00,,-,5,2014
+33,71,9,+2:33,,9.0,ten Dam Laurens,9,Belkin-Pro Cycling Team,2:33 2:33,+0:00,,-,5,2014
+28,11,10,+2:34,,10.0,Acevedo Janier Alexis,10,Garmin Sharp,2:34 2:34,+0:00,,-,5,2014
+37,38,11,+2:49,,11.0,Zubeldia Haimar,11,Trek Factory Racing,2:49 2:49,+0:00,,-,5,2014
+21,55,12,+2:59,,12.0,Howson Damien,12,Orica GreenEDGE,2:59 2:59,+0:00,,-,5,2014
+24,52,13,+3:32,,13.0,Chaves Johan Esteban,13,Orica GreenEDGE,3:32 3:32,+0:00,,-,5,2014
+22,18,14,+3:39,,14.0,Brown Nathan,14,Garmin Sharp,3:39 3:39,+0:00,,-,5,2014
+25,102,15,+3:46,,15.0,de la Cruz David,15,Team NetApp \u2013 Endura,3:46 3:46,+0:00,,-,5,2014
+24,67,16,+3:49,,16.0,Bennett George,16,Cannondale,3:49 3:49,+0:00,,-,5,2014
+30,91,17,+4:12,,17.0,Euser Lucas,17,UnitedHealthcare Pro Cycling Team,4:12 4:12,+0:00,,-,5,2014
+21,88,18,+4:12,,18.0,Olivier Daan,18,Team Giant - Shimano,",, 4:12",+0:00,,-,5,2014
+36,12,19,+4:39,,19.0,Danielson Thomas,19,Garmin Sharp,4:39 4:39,+0:00,,-,5,2014
+25,83,20,+5:31,,20.0,Damuseau Thomas,20,Team Giant - Shimano,5:31 5:31,+0:00,,-,5,2014
+27,65,21,+6:42,,21.0,Koren Kristijan,21,Cannondale,6:42 6:42,+0:00,,-,5,2014
+26,145,22,+6:45,,23.0,Brenes Gregory,22,Jamis - Hagens Berman,6:45 6:45,+0:00,,\u25b21,5,2014
+21,153,23,+7:15,,25.0,Chevrier Cl\xe9ment,23,Bissell Development Team,7:15 7:15,+0:00,,\u25b22,5,2014
+35,146,24,+7:22,,26.0,Romero Amaran Luis,24,Jamis - Hagens Berman,7:22 7:22,+0:00,,\u25b22,5,2014
+25,17,25,+7:48,,29.0,King Benjamin,25,Garmin Sharp,7:48 7:48,+0:00,,\u25b24,5,2014
+23,144,26,+8:26,,30.0,Jaramillo Daniel Alexander,26,Jamis - Hagens Berman,8:26 8:26,+0:00,,\u25b24,5,2014
+30,111,27,+8:51,,31.0,Megias Javier,27,Team Novo Nordisk,8:51 8:51,+0:00,,\u25b24,5,2014
+21,27,28,+9:15,,32.0,Verona Carlos,28,Omega Pharma - Quick-Step,9:15 9:15,+0:00,,\u25b24,5,2014
+32,4,29,+9:48,,34.0,Moinard Ama\xebl,29,BMC Racing Team,9:48 9:48,+0:00,,\u25b25,5,2014
+27,97,30,+10:17,,35.0,Reijnen Kiel,30,UnitedHealthcare Pro Cycling Team,10:17 10:17,+0:00,,\u25b25,5,2014
+27,14,31,+10:23,,22.0,Fairly Caleb,31,Garmin Sharp,10:23 10:23,+3:39,,\u25bc9,5,2014
+24,72,32,+10:33,,24.0,Bobridge Jack,32,Belkin-Pro Cycling Team,10:33 10:33,+3:39,,\u25bc8,5,2014
+42,36,33,+11:13,,27.0,Voigt Jens,33,Trek Factory Racing,11:13 11:13,+3:39,,\u25bc6,5,2014
+31,64,34,+11:24,,28.0,King Edward,34,Cannondale,11:24 11:24,+3:39,,\u25bc6,5,2014
+35,143,35,+11:54,,38.0,Jacques-Maynes Benjamin,35,Jamis - Hagens Berman,11:54 11:54,+0:00,,\u25b23,5,2014
+25,54,36,+13:10,,44.0,Keukeleire Jens,36,Orica GreenEDGE,13:10 13:10,+0:00,,\u25b28,5,2014
+32,78,37,+13:23,,33.0,Wynants Maarten,37,Belkin-Pro Cycling Team,13:23 13:23,+3:39,,\u25bc4,5,2014
+28,108,38,+13:49,,46.0,Voss Paul,38,Team NetApp \u2013 Endura,13:49 13:49,+0:00,,\u25b28,5,2014
+21,45,39,+14:03,,47.0,Edmondson Joshua,39,Team Sky,14:03 14:03,+0:00,,\u25b28,5,2014
+22,76,40,+14:46,,36.0,van der Lijke Nick,40,Belkin-Pro Cycling Team,14:46 14:46,+3:39,,\u25bc4,5,2014
+23,43,41,+15:25,,37.0,Dombrowski Joe,41,Team Sky,15:25 15:25,+3:39,,\u25bc4,5,2014
+25,85,42,+15:43,,39.0,Haga Chad,42,Team Giant - Shimano,15:43 15:43,+3:39,,\u25bc3,5,2014
+34,32,43,+16:07,,40.0,Irizar Markel,43,Trek Factory Racing,16:07 16:07,+3:39,,\u25bc3,5,2014
+19,154,44,+16:18,,41.0,Daniel Gregory,44,Bissell Development Team,16:18 16:18,+3:39,,\u25bc3,5,2014
+35,101,45,+16:24,,42.0,Cama\xf1o Iker,45,Team NetApp \u2013 Endura,16:24 16:24,+3:35,,\u25bc3,5,2014
+34,95,46,+16:38,,43.0,Jones Chris,46,UnitedHealthcare Pro Cycling Team,16:38 16:38,+3:39,,\u25bc3,5,2014
+36,128,47,+17:09,,45.0,Zwizanski Scott,47,Optum p/b Kelly Benefit Strategies,17:09 17:09,+3:39,,\u25bc2,5,2014
+33,46,48,+17:44,,48.0,Knees Christian,48,Team Sky,17:44 17:44,+3:39,,-,5,2014
+31,148,49,+18:16,,52.0,Teruel Eloy,49,Jamis - Hagens Berman,18:16 18:16,+0:00,,\u25b23,5,2014
+25,98,50,+18:44,,53.0,Summerhill Daniel,50,UnitedHealthcare Pro Cycling Team,18:44 18:44,+0:00,,\u25b23,5,2014
+21,158,51,+19:00,,50.0,Zepuntke Ruben,51,Bissell Development Team,19:00 19:00,+3:39,,\u25bc1,5,2014
+28,73,52,+19:03,,51.0,Boom Lars,52,Belkin-Pro Cycling Team,19:03 19:03,+3:39,,\u25bc1,5,2014
+23,5,53,+19:07,,54.0,Phinney Taylor,53,BMC Racing Team,19:07 19:07,+-1:38,,\u25b21,5,2014
+24,61,54,+21:01,,59.0,Sagan Peter,54,Cannondale,21:01 21:01,+-1:54,,\u25b25,5,2014
+28,7,55,+21:55,,63.0,Van Avermaet Greg,55,BMC Racing Team,21:55 21:55,+0:00,,\u25b28,5,2014
+22,34,56,+22:49,,76.0,Stuyven Jasper,56,Trek Factory Racing,22:49 22:49,+0:00,,\u25b220,5,2014
+27,51,57,+22:58,,78.0,Goss Matthew,57,Orica GreenEDGE,22:58 22:58,+-1:56,,\u25b221,5,2014
+35,47,58,+23:02,,79.0,Pate Danny,58,Team Sky,23:02 23:02,+0:00,,\u25b221,5,2014
+29,62,59,+23:10,,64.0,Bodnar Maciej,59,Cannondale,23:10 23:10,+1:11,,\u25b25,5,2014
+25,33,60,+23:31,,55.0,Sergent Jesse,60,Trek Factory Racing,23:31 23:31,+3:39,,\u25bc5,5,2014
+23,137,61,+23:35,,89.0,Rathe Jacob,61,Jelly Belly p/b Maxxis,23:35 23:35,+0:00,,\u25b228,5,2014
+29,28,62,+23:38,,91.0,Velits Martin,62,Omega Pharma - Quick-Step,23:38 23:38,+0:00,,\u25b229,5,2014
+27,6,63,+24:56,,60.0,Schar Michael,63,BMC Racing Team,24:56 24:56,+3:35,,\u25bc3,5,2014
+22,133,64,+25:16,,62.0,Lemus Luis,64,Jelly Belly p/b Maxxis,25:16 25:16,+3:39,,\u25bc2,5,2014
+24,147,65,+25:19,,100.0,Squire Rob,65,Jamis - Hagens Berman,25:19 25:19,+0:00,,\u25b235,5,2014
+29,96,66,+25:59,,65.0,Murphy John,66,UnitedHealthcare Pro Cycling Team,25:59 25:59,+3:39,,\u25bc1,5,2014
+40,138,67,+26:03,,67.0,Rodriguez Fred,67,Jelly Belly p/b Maxxis,26:03 26:03,+3:39,,-,5,2014
+25,84,68,+26:04,,68.0,Degenkolb John,68,Team Giant - Shimano,26:04 26:04,+3:39,,-,5,2014
+29,66,69,+26:15,,71.0,Sabatini Fabio,69,Cannondale,26:15 26:15,+3:39,,\u25b22,5,2014
+24,25,70,+26:19,,72.0,Trentin Matteo,70,Omega Pharma - Quick-Step,26:19 26:19,+3:39,,\u25b22,5,2014
+22,151,71,+26:24,,74.0,Putt Tanner,71,Bissell Development Team,26:24 26:24,+3:39,,\u25b23,5,2014
+19,156,72,+26:26,,75.0,Geoghegan Hart Tao,72,Bissell Development Team,26:26 26:26,+3:39,,\u25b23,5,2014
+31,87,73,+26:29,,77.0,de Kort Koen,73,Team Giant - Shimano,26:29 26:29,+3:39,,\u25b24,5,2014
+26,121,74,+26:42,,81.0,Anderson Ryan,74,Optum p/b Kelly Benefit Strategies,26:42 26:42,+3:39,,\u25b27,5,2014
+22,74,75,+26:47,,82.0,Hofland Moreno,75,Belkin-Pro Cycling Team,26:47 26:47,+3:39,,\u25b27,5,2014
+26,132,76,+26:50,,49.0,Carlsen Kirk,76,Jelly Belly p/b Maxxis,26:50 26:50,+11:31,,\u25bc27,5,2014
+23,8,77,+26:51,,85.0,Warbasse Larry,77,BMC Racing Team,26:51 26:51,+3:39,,\u25b28,5,2014
+30,106,78,+27:17,,92.0,Schillinger Andreas,78,Team NetApp \u2013 Endura,27:17 27:17,+3:39,,\u25b214,5,2014
+26,103,79,+27:52,,95.0,Dempster Zakkari,79,Team NetApp \u2013 Endura,27:52 27:52,+3:39,,\u25b216,5,2014
+39,122,80,+28:11,,97.0,Candelario Alex,80,Optum p/b Kelly Benefit Strategies,28:11 28:11,+3:39,,\u25b217,5,2014
+25,131,81,+28:39,,61.0,Tvetcov Serghei,81,Jelly Belly p/b Maxxis,28:39 28:39,+7:18,,\u25bc20,5,2014
+29,105,82,+30:00,,101.0,Mendes Jos\xe9,82,Team NetApp \u2013 Endura,30:00 30:00,+3:39,,\u25b219,5,2014
+36,53,83,+30:34,,87.0,Hayman Mathew,83,Orica GreenEDGE,30:34 30:34,+7:18,,\u25b24,5,2014
+20,35,84,+32:22,,56.0,van Poppel Danny,84,Trek Factory Racing,32:22 32:22,+11:28,,\u25bc28,5,2014
+28,3,85,+32:36,,57.0,Kohler Martin,85,BMC Racing Team,32:36 32:36,+11:31,,\u25bc28,5,2014
+28,15,86,+32:37,,58.0,Gaimon Phillip,86,Garmin Sharp,32:37 32:37,+11:31,,\u25bc28,5,2014
+23,92,87,+32:45,,106.0,Bolivar Isaac,87,UnitedHealthcare Pro Cycling Team,32:45 32:45,+3:38,,\u25b219,5,2014
+25,126,88,+32:56,,107.0,Young Eric,88,Optum p/b Kelly Benefit Strategies,32:56 32:56,+3:39,,\u25b219,5,2014
+20,152,89,+32:58,,108.0,Br\xf8chner Nicolai,89,Bissell Development Team,32:58 32:58,+3:39,,\u25b219,5,2014
+28,22,90,+33:54,,66.0,Cavendish Mark,90,Omega Pharma - Quick-Step,33:54 33:54,+11:31,,\u25bc24,5,2014
+33,21,91,+34:06,,69.0,Boonen Tom,91,Omega Pharma - Quick-Step,34:06 34:06,+11:31,,\u25bc22,5,2014
+23,26,92,+34:07,,70.0,van Keirsbulck Guillaume,92,Omega Pharma - Quick-Step,34:07 34:07,+11:31,,\u25bc22,5,2014
+31,23,93,+34:14,,73.0,Renshaw Mark,93,Omega Pharma - Quick-Step,34:14 34:14,+11:31,,\u25bc20,5,2014
+29,93,94,+34:34,,80.0,Clarke Jonathan,94,UnitedHealthcare Pro Cycling Team,34:34 34:34,+11:31,,\u25bc14,5,2014
+29,24,95,+34:41,,83.0,Terpstra Niki,95,Omega Pharma - Quick-Step,34:41 34:41,+11:31,,\u25bc12,5,2014
+22,118,96,+34:43,,84.0,De Mesmaeker Kevin,96,Team Novo Nordisk,34:43 34:43,+11:31,,\u25bc12,5,2014
+24,63,97,+34:44,,86.0,Boivin Guillaume,97,Cannondale,34:44 34:44,+11:31,,\u25bc11,5,2014
+23,42,98,+34:49,,88.0,Boswell Ian,98,Team Sky,34:49 34:49,+11:31,,\u25bc10,5,2014
+29,114,99,+35:07,,90.0,Verschoor Martijn,99,Team Novo Nordisk,35:07 35:07,+11:31,,\u25bc9,5,2014
+24,107,100,+35:35,,93.0,Thwaites Scott,100,Team NetApp \u2013 Endura,35:35 35:35,+11:31,,\u25bc7,5,2014
+32,94,101,+35:36,,94.0,Hanson Ken,101,UnitedHealthcare Pro Cycling Team,35:36 35:36,+11:31,,\u25bc7,5,2014
+34,82,102,+35:48,,96.0,Curvers Roy,102,Team Giant - Shimano,35:48 35:48,+11:31,,\u25bc6,5,2014
+34,56,103,+36:08,,98.0,Mouris Jens,103,Orica GreenEDGE,36:08 36:08,+11:31,,\u25bc5,5,2014
+26,77,104,+36:14,,99.0,van Winden Dennis,104,Belkin-Pro Cycling Team,36:14 36:14,+11:31,,\u25bc5,5,2014
+27,117,105,+37:07,,102.0,Lefrancois Nicolas,105,Team Novo Nordisk,37:07 37:07,+10:33,,\u25bc3,5,2014
+20,115,106,+38:43,,103.0,Planet Charles,106,Team Novo Nordisk,38:43 38:43,+11:31,,\u25bc3,5,2014
+30,125,107,+39:03,,115.0,Routley Will,107,Optum p/b Kelly Benefit Strategies,39:03 39:03,+3:39,,\u25b28,5,2014
+28,75,108,+39:51,,104.0,Leezer Tom,108,Belkin-Pro Cycling Team,39:51 39:51,+11:31,,\u25bc4,5,2014
+33,141,109,+39:59,,105.0,Haedo Juan Jose,109,Jamis - Hagens Berman,39:59 39:59,+11:31,,\u25bc4,5,2014
+24,58,110,+41:07,,109.0,Howard Leigh,110,Orica GreenEDGE,41:07 41:07,+11:31,,\u25bc1,5,2014
+35,123,111,+41:09,,110.0,Huff Charles Bradley,111,Optum p/b Kelly Benefit Strategies,41:09 41:09,+11:31,,\u25bc1,5,2014
+25,113,112,+41:14,,111.0,Lozano David,112,Team Novo Nordisk,41:14 41:14,+10:33,,\u25bc1,5,2014
+24,48,113,+42:43,,112.0,Rowe Luke,113,Team Sky,42:43 42:43,+11:31,,\u25bc1,5,2014
+30,135,114,+42:44,,119.0,Lloyd Matthew,114,Jelly Belly p/b Maxxis,42:44 42:44,+3:39,,\u25b25,5,2014
+36,2,115,+42:46,,113.0,Hushovd Thor,115,BMC Racing Team,42:46 42:46,+11:31,,\u25bc2,5,2014
+22,116,116,+43:40,,121.0,Henttala Joonas,116,Team Novo Nordisk,43:40 43:40,+3:39,,\u25b25,5,2014
+34,142,117,+45:39,,114.0,Cooke Matt,117,Jamis - Hagens Berman,45:39 45:39,+10:33,,\u25bc3,5,2014
+21,37,118,+47:00,,117.0,Watson Calvin,118,Trek Factory Racing,47:00 47:00,+10:33,,\u25bc1,5,2014
+25,44,119,+47:25,,116.0,Earle Nathan,119,Team Sky,47:25 47:25,+11:31,,\u25bc3,5,2014
+23,134,120,+48:11,,118.0,Fisher Steve,120,Jelly Belly p/b Maxxis,48:11 48:11,+10:33,,\u25bc2,5,2014
+30,68,121,+51:05,,120.0,Wurf Cameron,121,Cannondale,51:05 51:05,+11:31,,\u25bc1,5,2014
+26,16,122,+55:47,,122.0,Howes Alex,122,Garmin Sharp,55:47 55:47,+11:31,,-,5,2014
+34,41,1,+0:00,,1.0,Wiggins Bradley,1,Team Sky,22:03:42 22:03:42,+0:00,10.0,-,6,2014
+23,13,2,+0:30,,2.0,Dennis Rohan,2,Garmin Sharp,0:30 0:30,+0:02,,-,6,2014
+22,81,3,+1:48,,4.0,Craddock Lawson,3,Team Giant - Shimano,1:48 1:48,+0:23,,\u25b21,6,2014
+28,104,4,+2:02,,3.0,Machado Tiago,4,Team NetApp \u2013 Endura,2:02 2:02,+0:53,,\u25bc1,6,2014
+21,57,5,+2:14,,5.0,Yates Adam,5,Orica GreenEDGE,2:14 2:14,+0:00,,-,6,2014
+26,1,6,+2:30,,6.0,Stetina Peter,6,BMC Racing Team,2:30 2:30,+0:02,,-,6,2014
+24,52,7,+2:39,,13.0,Chaves Johan Esteban,7,Orica GreenEDGE,2:39 2:39,+-1:07,,\u25b26,6,2014
+33,71,8,+3:01,,9.0,ten Dam Laurens,8,Belkin-Pro Cycling Team,3:01 3:01,+0:28,,\u25b21,6,2014
+28,11,9,+3:05,,10.0,Acevedo Janier Alexis,9,Garmin Sharp,3:05 3:05,+0:31,,\u25b21,6,2014
+25,102,10,+3:06,,15.0,de la Cruz David,10,Team NetApp \u2013 Endura,3:06 3:06,+-1:20,,\u25b25,6,2014
+25,124,11,+3:19,,8.0,Jones Carter,11,Optum p/b Kelly Benefit Strategies,3:19 3:19,+0:48,,\u25bc3,6,2014
+37,38,12,+3:45,,11.0,Zubeldia Haimar,12,Trek Factory Racing,3:45 3:45,+0:56,,\u25bc1,6,2014
+29,31,13,+3:57,,7.0,Busche Matthew,13,Trek Factory Racing,3:57 3:57,+1:28,,\u25bc6,6,2014
+24,67,14,+4:11,,16.0,Bennett George,14,Cannondale,4:11 4:11,+0:22,,\u25b22,6,2014
+36,12,15,+4:27,,19.0,Danielson Thomas,15,Garmin Sharp,4:27 4:27,+-1:48,,\u25b24,6,2014
+21,88,16,+4:51,,18.0,Olivier Daan,16,Team Giant - Shimano,4:51 4:51,+0:39,,\u25b22,6,2014
+26,145,17,+7:30,,22.0,Brenes Gregory,17,Jamis - Hagens Berman,7:30 7:30,+0:45,,\u25b25,6,2014
+27,65,18,+8:00,,21.0,Koren Kristijan,18,Cannondale,8:00 8:00,+1:18,,\u25b23,6,2014
+25,83,19,+8:23,,20.0,Damuseau Thomas,19,Team Giant - Shimano,8:23 8:23,+2:52,,\u25b21,6,2014
+23,144,20,+9:28,,26.0,Jaramillo Daniel Alexander,20,Jamis - Hagens Berman,9:28 9:28,+1:02,,\u25b26,6,2014
+30,91,21,+9:50,,17.0,Euser Lucas,21,UnitedHealthcare Pro Cycling Team,9:50 9:50,+5:38,,\u25bc4,6,2014
+25,17,22,+10:01,,25.0,King Benjamin,22,Garmin Sharp,10:01 10:01,+2:13,,\u25b23,6,2014
+24,72,23,+10:47,,32.0,Bobridge Jack,23,Belkin-Pro Cycling Team,10:47 10:47,+0:14,,\u25b29,6,2014
+22,18,24,+11:08,,14.0,Brown Nathan,24,Garmin Sharp,11:08 11:08,+7:29,,\u25bc10,6,2014
+21,153,25,+12:40,,23.0,Chevrier Cl\xe9ment,25,Bissell Development Team,12:40 12:40,+5:25,,\u25bc2,6,2014
+21,27,26,+13:59,,28.0,Verona Carlos,26,Omega Pharma - Quick-Step,13:59 13:59,+4:44,,\u25b22,6,2014
+23,43,27,+16:04,,41.0,Dombrowski Joe,27,Team Sky,16:04 16:04,+0:39,,\u25b214,6,2014
+32,4,28,+16:19,,29.0,Moinard Ama\xebl,28,BMC Racing Team,16:19 16:19,+6:31,,\u25b21,6,2014
+25,85,29,+16:59,,42.0,Haga Chad,29,Team Giant - Shimano,16:59 16:59,+1:16,,\u25b213,6,2014
+21,45,30,+18:09,,39.0,Edmondson Joshua,30,Team Sky,18:09 18:09,+4:06,,\u25b29,6,2014
+35,146,31,+18:34,,24.0,Romero Amaran Luis,31,Jamis - Hagens Berman,18:34 18:34,+11:12,,\u25bc7,6,2014
+28,108,32,+19:08,,38.0,Voss Paul,32,Team NetApp \u2013 Endura,19:08 19:08,+5:19,,\u25b26,6,2014
+25,54,33,+19:36,,36.0,Keukeleire Jens,33,Orica GreenEDGE,19:36 19:36,+6:26,,\u25b23,6,2014
+22,76,34,+20:11,,40.0,van der Lijke Nick,34,Belkin-Pro Cycling Team,20:11 20:11,+5:25,,\u25b26,6,2014
+27,14,35,+21:35,,31.0,Fairly Caleb,35,Garmin Sharp,21:35 21:35,+11:12,,\u25bc4,6,2014
+21,55,36,+25:36,,12.0,Howson Damien,36,Orica GreenEDGE,25:36 25:36,+22:37,,\u25bc24,6,2014
+35,143,37,+26:41,,35.0,Jacques-Maynes Benjamin,37,Jamis - Hagens Berman,26:41 26:41,+14:47,,\u25bc2,6,2014
+30,111,38,+29:20,,27.0,Megias Javier,38,Team Novo Nordisk,29:20 29:20,+20:29,,\u25bc11,6,2014
+24,147,39,+30:03,,65.0,Squire Rob,39,Jamis - Hagens Berman,30:03 30:03,+4:44,,\u25b226,6,2014
+19,154,40,+31:05,,44.0,Daniel Gregory,40,Bissell Development Team,31:05 31:05,+14:47,,\u25b24,6,2014
+35,101,41,+31:11,,45.0,Cama\xf1o Iker,41,Team NetApp \u2013 Endura,31:11 31:11,+14:47,,\u25b24,6,2014
+27,6,42,+31:27,,63.0,Schar Michael,42,BMC Racing Team,31:27 31:27,+6:31,,\u25b221,6,2014
+36,128,43,+31:56,,47.0,Zwizanski Scott,43,Optum p/b Kelly Benefit Strategies,31:56 31:56,+14:47,,\u25b24,6,2014
+34,95,44,+32:08,,46.0,Jones Chris,44,UnitedHealthcare Pro Cycling Team,32:08 32:08,+15:30,,\u25b22,6,2014
+27,97,45,+32:54,,30.0,Reijnen Kiel,45,UnitedHealthcare Pro Cycling Team,32:54 32:54,+22:37,,\u25bc15,6,2014
+33,46,46,+33:00,,48.0,Knees Christian,46,Team Sky,33:00 33:00,+15:16,,\u25b22,6,2014
+34,32,47,+33:43,,43.0,Irizar Markel,47,Trek Factory Racing,33:43 33:43,+17:36,,\u25bc4,6,2014
+42,36,48,+33:50,,33.0,Voigt Jens,48,Trek Factory Racing,33:50 33:50,+22:37,,\u25bc15,6,2014
+31,64,49,+34:01,,34.0,King Edward,49,Cannondale,34:01 34:01,+22:37,,\u25bc15,6,2014
+31,148,50,+35:52,,49.0,Teruel Eloy,50,Jamis - Hagens Berman,35:52 35:52,+17:36,,\u25bc1,6,2014
+32,78,51,+36:00,,37.0,Wynants Maarten,51,Belkin-Pro Cycling Team,36:00 36:00,+22:37,,\u25bc14,6,2014
+28,7,52,+36:42,,55.0,Van Avermaet Greg,52,BMC Racing Team,36:42 36:42,+14:47,,\u25b23,6,2014
+23,5,53,+36:43,,53.0,Phinney Taylor,53,BMC Racing Team,36:43 36:43,+17:36,,-,6,2014
+28,73,54,+38:00,,52.0,Boom Lars,54,Belkin-Pro Cycling Team,38:00 38:00,+18:57,,\u25bc2,6,2014
+35,47,55,+38:32,,58.0,Pate Danny,55,Team Sky,38:32 38:32,+15:30,,\u25b23,6,2014
+25,98,56,+40:23,,50.0,Summerhill Daniel,56,UnitedHealthcare Pro Cycling Team,40:23 40:23,+21:39,,\u25bc6,6,2014
+22,34,57,+40:25,,56.0,Stuyven Jasper,57,Trek Factory Racing,40:25 40:25,+17:36,,\u25bc1,6,2014
+27,51,58,+40:34,,57.0,Goss Matthew,58,Orica GreenEDGE,40:34 40:34,+17:36,,\u25bc1,6,2014
+25,33,59,+41:07,,60.0,Sergent Jesse,59,Trek Factory Racing,41:07 41:07,+17:36,,\u25b21,6,2014
+21,158,60,+41:37,,51.0,Zepuntke Ruben,60,Bissell Development Team,41:37 41:37,+22:37,,\u25bc9,6,2014
+29,28,61,+41:39,,62.0,Velits Martin,61,Omega Pharma - Quick-Step,41:39 41:39,+18:01,,\u25b21,6,2014
+22,133,62,+42:52,,64.0,Lemus Luis,62,Jelly Belly p/b Maxxis,42:52 42:52,+17:36,,\u25b22,6,2014
+24,61,63,+44:03,,54.0,Sagan Peter,63,Cannondale,44:03 44:03,+23:02,,\u25bc9,6,2014
+24,25,64,+44:20,,70.0,Trentin Matteo,64,Omega Pharma - Quick-Step,44:20 44:20,+18:01,,\u25b26,6,2014
+30,106,65,+44:53,,78.0,Schillinger Andreas,65,Team NetApp \u2013 Endura,44:53 44:53,+17:36,,\u25b213,6,2014
+23,8,66,+44:55,,77.0,Warbasse Larry,66,BMC Racing Team,44:55 44:55,+18:04,,\u25b211,6,2014
+19,156,67,+45:23,,72.0,Geoghegan Hart Tao,67,Bissell Development Team,45:23 45:23,+18:57,,\u25b25,6,2014
+29,62,68,+46:12,,59.0,Bodnar Maciej,68,Cannondale,46:12 46:12,+23:02,,\u25bc9,6,2014
+23,137,69,+46:12,,61.0,Rathe Jacob,69,Jelly Belly p/b Maxxis,",, 46:12",+22:37,,\u25bc8,6,2014
+25,131,70,+46:15,,81.0,Tvetcov Serghei,70,Jelly Belly p/b Maxxis,46:15 46:15,+17:36,,\u25b211,6,2014
+36,53,71,+48:10,,83.0,Hayman Mathew,71,Orica GreenEDGE,48:10 48:10,+17:36,,\u25b212,6,2014
+40,138,72,+48:40,,67.0,Rodriguez Fred,72,Jelly Belly p/b Maxxis,48:40 48:40,+22:37,,\u25bc5,6,2014
+25,84,73,+48:41,,68.0,Degenkolb John,73,Team Giant - Shimano,48:41 48:41,+22:37,,\u25bc5,6,2014
+29,66,74,+48:52,,69.0,Sabatini Fabio,74,Cannondale,48:52 48:52,+22:37,,\u25bc5,6,2014
+22,151,75,+49:01,,71.0,Putt Tanner,75,Bissell Development Team,49:01 49:01,+22:37,,\u25bc4,6,2014
+31,87,76,+49:06,,73.0,de Kort Koen,76,Team Giant - Shimano,49:06 49:06,+22:37,,\u25bc3,6,2014
+26,121,77,+49:19,,74.0,Anderson Ryan,77,Optum p/b Kelly Benefit Strategies,49:19 49:19,+22:37,,\u25bc3,6,2014
+22,74,78,+49:24,,75.0,Hofland Moreno,78,Belkin-Pro Cycling Team,49:24 49:24,+22:37,,\u25bc3,6,2014
+29,96,79,+50:22,,66.0,Murphy John,79,UnitedHealthcare Pro Cycling Team,50:22 50:22,+24:23,,\u25bc13,6,2014
+26,103,80,+50:29,,79.0,Dempster Zakkari,80,Team NetApp \u2013 Endura,50:29 50:29,+22:37,,\u25bc1,6,2014
+39,122,81,+50:48,,80.0,Candelario Alex,81,Optum p/b Kelly Benefit Strategies,50:48 50:48,+22:37,,\u25bc1,6,2014
+29,105,82,+52:12,,82.0,Mendes Jos\xe9,82,Team NetApp \u2013 Endura,52:12 52:12,+22:12,,-,6,2014
+30,135,83,+53:56,,114.0,Lloyd Matthew,83,Jelly Belly p/b Maxxis,53:56 53:56,+11:12,,\u25b231,6,2014
+29,24,84,+54:08,,95.0,Terpstra Niki,84,Omega Pharma - Quick-Step,54:08 54:08,+19:27,,\u25b211,6,2014
+20,35,85,+54:59,,84.0,van Poppel Danny,85,Trek Factory Racing,54:59 54:59,+22:37,,\u25bc1,6,2014
+28,3,86,+55:13,,85.0,Kohler Martin,86,BMC Racing Team,55:13 55:13,+22:37,,\u25bc1,6,2014
+23,92,87,+55:22,,87.0,Bolivar Isaac,87,UnitedHealthcare Pro Cycling Team,55:22 55:22,+22:37,,-,6,2014
+25,126,88,+56:27,,88.0,Young Eric,88,Optum p/b Kelly Benefit Strategies,56:27 56:27,+23:31,,-,6,2014
+34,142,89,+56:51,,117.0,Cooke Matt,89,Jamis - Hagens Berman,56:51 56:51,+11:12,,\u25b228,6,2014
+31,23,90,+56:51,,93.0,Renshaw Mark,90,Omega Pharma - Quick-Step,",, 56:51",+22:37,,\u25b23,6,2014
+28,22,91,+56:56,,90.0,Cavendish Mark,91,Omega Pharma - Quick-Step,56:56 56:56,+23:02,,\u25bc1,6,2014
+23,26,92,+57:09,,92.0,van Keirsbulck Guillaume,92,Omega Pharma - Quick-Step,57:09 57:09,+23:02,,-,6,2014
+29,93,93,+57:11,,94.0,Clarke Jonathan,93,UnitedHealthcare Pro Cycling Team,57:11 57:11,+22:37,,\u25b21,6,2014
+22,118,94,+57:20,,96.0,De Mesmaeker Kevin,94,Team Novo Nordisk,57:20 57:20,+22:37,,\u25b22,6,2014
+24,63,95,+57:21,,97.0,Boivin Guillaume,95,Cannondale,57:21 57:21,+22:37,,\u25b22,6,2014
+23,42,96,+57:26,,98.0,Boswell Ian,96,Team Sky,57:26 57:26,+22:37,,\u25b22,6,2014
+36,2,97,+57:33,,115.0,Hushovd Thor,97,BMC Racing Team,57:33 57:33,+14:47,,\u25b218,6,2014
+34,82,98,+58:00,,102.0,Curvers Roy,98,Team Giant - Shimano,58:00 58:00,+22:12,,\u25b24,6,2014
+29,114,99,+58:09,,99.0,Verschoor Martijn,99,Team Novo Nordisk,58:09 58:09,+23:02,,-,6,2014
+24,107,100,+58:12,,100.0,Thwaites Scott,100,Team NetApp \u2013 Endura,58:12 58:12,+22:37,,-,6,2014
+32,94,101,+58:38,,101.0,Hanson Ken,101,UnitedHealthcare Pro Cycling Team,58:38 58:38,+23:02,,-,6,2014
+34,56,102,+58:45,,103.0,Mouris Jens,102,Orica GreenEDGE,58:45 58:45,+22:37,,\u25b21,6,2014
+26,77,103,+58:51,,104.0,van Winden Dennis,103,Belkin-Pro Cycling Team,58:51 58:51,+22:37,,\u25b21,6,2014
+22,116,104,+1:01:16,,116.0,Henttala Joonas,104,Team Novo Nordisk,1:01:16 1:01:16,+17:36,,\u25b212,6,2014
+30,125,105,+1:01:40,,107.0,Routley Will,105,Optum p/b Kelly Benefit Strategies,1:01:40 1:01:40,+22:37,,\u25b22,6,2014
+21,37,106,+1:01:47,,118.0,Watson Calvin,106,Trek Factory Racing,1:01:47 1:01:47,+14:47,,\u25b212,6,2014
+28,75,107,+1:02:28,,108.0,Leezer Tom,107,Belkin-Pro Cycling Team,1:02:28 1:02:28,+22:37,,\u25b21,6,2014
+33,141,108,+1:02:36,,109.0,Haedo Juan Jose,108,Jamis - Hagens Berman,1:02:36 1:02:36,+22:37,,\u25b21,6,2014
+24,58,109,+1:03:44,,110.0,Howard Leigh,109,Orica GreenEDGE,1:03:44 1:03:44,+22:37,,\u25b21,6,2014
+35,123,110,+1:04:11,,111.0,Huff Charles Bradley,110,Optum p/b Kelly Benefit Strategies,1:04:11 1:04:11,+23:02,,\u25b21,6,2014
+24,48,111,+1:05:20,,113.0,Rowe Luke,111,Team Sky,1:05:20 1:05:20,+22:37,,\u25b22,6,2014
+25,44,112,+1:10:02,,119.0,Earle Nathan,112,Team Sky,1:10:02 1:10:02,+22:37,,\u25b27,6,2014
+23,134,113,+1:10:48,,120.0,Fisher Steve,113,Jelly Belly p/b Maxxis,1:10:48 1:10:48,+22:37,,\u25b27,6,2014
+30,68,114,+1:13:42,,121.0,Wurf Cameron,114,Cannondale,1:13:42 1:13:42,+22:37,,\u25b27,6,2014
+26,16,115,+1:17:11,,122.0,Howes Alex,115,Garmin Sharp,1:17:11 1:17:11,+21:24,,\u25b27,6,2014
+34,41,1,+0:00,,1.0,Wiggins Bradley,1,Team Sky,25:28:15 25:28:15,+0:00,10.0,-,7,2014
+23,13,2,+0:30,,2.0,Dennis Rohan,2,Garmin Sharp,0:30 0:30,+0:00,,-,7,2014
+22,81,3,+1:48,,3.0,Craddock Lawson,3,Team Giant - Shimano,1:48 1:48,+0:00,,-,7,2014
+28,104,4,+2:02,,4.0,Machado Tiago,4,Team NetApp \u2013 Endura,2:02 2:02,+0:00,,-,7,2014
+21,57,5,+2:14,,5.0,Yates Adam,5,Orica GreenEDGE,2:14 2:14,+0:00,,-,7,2014
+26,1,6,+2:30,,6.0,Stetina Peter,6,BMC Racing Team,2:30 2:30,+0:00,,-,7,2014
+24,52,7,+2:39,,7.0,Chaves Johan Esteban,7,Orica GreenEDGE,2:39 2:39,+0:00,,-,7,2014
+33,71,8,+3:01,,8.0,ten Dam Laurens,8,Belkin-Pro Cycling Team,3:01 3:01,+0:00,,-,7,2014
+28,11,9,+3:05,,9.0,Acevedo Janier Alexis,9,Garmin Sharp,3:05 3:05,+0:00,,-,7,2014
+25,102,10,+3:06,,10.0,de la Cruz David,10,Team NetApp \u2013 Endura,3:06 3:06,+0:00,,-,7,2014
+25,124,11,+3:19,,11.0,Jones Carter,11,Optum p/b Kelly Benefit Strategies,3:19 3:19,+0:00,,-,7,2014
+37,38,12,+3:45,,12.0,Zubeldia Haimar,12,Trek Factory Racing,3:45 3:45,+0:00,,-,7,2014
+29,31,13,+3:57,,13.0,Busche Matthew,13,Trek Factory Racing,3:57 3:57,+0:00,,-,7,2014
+24,67,14,+4:23,,14.0,Bennett George,14,Cannondale,4:23 4:23,+0:12,,-,7,2014
+36,12,15,+4:27,,15.0,Danielson Thomas,15,Garmin Sharp,4:27 4:27,+0:00,,-,7,2014
+21,88,16,+4:51,,16.0,Olivier Daan,16,Team Giant - Shimano,4:51 4:51,+0:00,,-,7,2014
+26,145,17,+7:30,,17.0,Brenes Gregory,17,Jamis - Hagens Berman,7:30 7:30,+0:00,,-,7,2014
+27,65,18,+8:00,,18.0,Koren Kristijan,18,Cannondale,8:00 8:00,+0:00,,-,7,2014
+25,83,19,+8:23,,19.0,Damuseau Thomas,19,Team Giant - Shimano,8:23 8:23,+0:00,,-,7,2014
+23,144,20,+9:28,,20.0,Jaramillo Daniel Alexander,20,Jamis - Hagens Berman,9:28 9:28,+0:00,,-,7,2014
+30,91,21,+10:02,,21.0,Euser Lucas,21,UnitedHealthcare Pro Cycling Team,10:02 10:02,+0:12,,-,7,2014
+25,17,22,+10:07,,22.0,King Benjamin,22,Garmin Sharp,10:07 10:07,+0:06,,-,7,2014
+24,72,23,+10:59,,23.0,Bobridge Jack,23,Belkin-Pro Cycling Team,10:59 10:59,+0:12,,-,7,2014
+22,18,24,+11:20,,24.0,Brown Nathan,24,Garmin Sharp,11:20 11:20,+0:12,,-,7,2014
+21,153,25,+12:40,,25.0,Chevrier Cl\xe9ment,25,Bissell Development Team,12:40 12:40,+0:00,,-,7,2014
+23,43,26,+16:16,,27.0,Dombrowski Joe,26,Team Sky,16:16 16:16,+0:12,,\u25b21,7,2014
+32,4,27,+16:31,,28.0,Moinard Ama\xebl,27,BMC Racing Team,16:31 16:31,+0:12,,\u25b21,7,2014
+25,85,28,+17:11,,29.0,Haga Chad,28,Team Giant - Shimano,17:11 17:11,+0:12,,\u25b21,7,2014
+35,146,29,+18:34,,31.0,Romero Amaran Luis,29,Jamis - Hagens Berman,18:34 18:34,+0:00,,\u25b22,7,2014
+25,54,30,+19:36,,33.0,Keukeleire Jens,30,Orica GreenEDGE,19:36 19:36,+0:00,,\u25b23,7,2014
+28,108,31,+19:43,,32.0,Voss Paul,31,Team NetApp \u2013 Endura,19:43 19:43,+0:35,,\u25b21,7,2014
+22,76,32,+20:11,,34.0,van der Lijke Nick,32,Belkin-Pro Cycling Team,20:11 20:11,+0:00,,\u25b22,7,2014
+21,27,33,+20:20,,26.0,Verona Carlos,33,Omega Pharma - Quick-Step,20:20 20:20,+6:21,,\u25bc7,7,2014
+21,45,34,+20:45,,30.0,Edmondson Joshua,34,Team Sky,20:45 20:45,+2:36,,\u25bc4,7,2014
+35,143,35,+26:53,,37.0,Jacques-Maynes Benjamin,35,Jamis - Hagens Berman,26:53 26:53,+0:12,,\u25b22,7,2014
+27,14,36,+27:56,,35.0,Fairly Caleb,36,Garmin Sharp,27:56 27:56,+6:21,,\u25bc1,7,2014
+30,111,37,+29:20,,38.0,Megias Javier,37,Team Novo Nordisk,29:20 29:20,+0:00,,\u25b21,7,2014
+24,147,38,+30:15,,39.0,Squire Rob,38,Jamis - Hagens Berman,30:15 30:15,+0:12,,\u25b21,7,2014
+35,101,39,+31:11,,41.0,Cama\xf1o Iker,39,Team NetApp \u2013 Endura,31:11 31:11,+0:00,,\u25b22,7,2014
+27,6,40,+31:39,,42.0,Schar Michael,40,BMC Racing Team,31:39 31:39,+0:12,,\u25b22,7,2014
+21,55,41,+31:57,,36.0,Howson Damien,41,Orica GreenEDGE,31:57 31:57,+6:21,,\u25bc5,7,2014
+27,97,42,+32:54,,45.0,Reijnen Kiel,42,UnitedHealthcare Pro Cycling Team,32:54 32:54,+0:00,,\u25b23,7,2014
+34,95,43,+33:43,,44.0,Jones Chris,43,UnitedHealthcare Pro Cycling Team,33:43 33:43,+1:35,,\u25b21,7,2014
+31,148,44,+36:08,,50.0,Teruel Eloy,44,Jamis - Hagens Berman,36:08 36:08,+0:16,,\u25b26,7,2014
+23,5,45,+36:43,,53.0,Phinney Taylor,45,BMC Racing Team,36:43 36:43,+0:00,,\u25b28,7,2014
+29,7,46,+36:52,,52.0,Van Avermaet Greg,46,BMC Racing Team,36:52 36:52,+0:10,,\u25b26,7,2014
+19,154,47,+37:26,,40.0,Daniel Gregory,47,Bissell Development Team,37:26 37:26,+6:21,,\u25bc7,7,2014
+28,73,48,+38:00,,54.0,Boom Lars,48,Belkin-Pro Cycling Team,38:00 38:00,+0:00,,\u25b26,7,2014
+36,128,49,+38:17,,43.0,Zwizanski Scott,49,Optum p/b Kelly Benefit Strategies,38:17 38:17,+6:21,,\u25bc6,7,2014
+33,46,50,+39:21,,46.0,Knees Christian,50,Team Sky,39:21 39:21,+6:21,,\u25bc4,7,2014
+35,47,51,+39:51,,55.0,Pate Danny,51,Team Sky,39:51 39:51,+1:19,,\u25b24,7,2014
+34,32,52,+40:04,,47.0,Irizar Markel,52,Trek Factory Racing,40:04 40:04,+6:21,,\u25bc5,7,2014
+42,36,53,+40:11,,48.0,Voigt Jens,53,Trek Factory Racing,40:11 40:11,+6:21,,\u25bc5,7,2014
+31,64,54,+40:17,,49.0,King Edward,54,Cannondale,40:17 40:17,+6:16,,\u25bc5,7,2014
+22,34,55,+40:25,,57.0,Stuyven Jasper,55,Trek Factory Racing,40:25 40:25,+0:00,,\u25b22,7,2014
+25,98,56,+40:35,,56.0,Summerhill Daniel,56,UnitedHealthcare Pro Cycling Team,40:35 40:35,+0:12,,-,7,2014
+21,158,57,+41:37,,60.0,Zepuntke Ruben,57,Bissell Development Team,41:37 41:37,+0:00,,\u25b23,7,2014
+32,78,58,+42:21,,51.0,Wynants Maarten,58,Belkin-Pro Cycling Team,42:21 42:21,+6:21,,\u25bc7,7,2014
+24,61,59,+43:53,,63.0,Sagan Peter,59,Cannondale,43:53 43:53,+-1:50,,\u25b24,7,2014
+24,25,60,+44:20,,64.0,Trentin Matteo,60,Omega Pharma - Quick-Step,44:20 44:20,+0:00,,\u25b24,7,2014
+30,106,61,+45:05,,65.0,Schillinger Andreas,61,Team NetApp \u2013 Endura,45:05 45:05,+0:12,,\u25b24,7,2014
+23,8,62,+45:07,,66.0,Warbasse Larry,62,BMC Racing Team,45:07 45:07,+0:12,,\u25b24,7,2014
+23,137,63,+46:12,,69.0,Rathe Jacob,63,Jelly Belly p/b Maxxis,46:12 46:12,+0:00,,\u25b26,7,2014
+29,62,64,+46:49,,68.0,Bodnar Maciej,64,Cannondale,46:49 46:49,+0:37,,\u25b24,7,2014
+27,51,65,+46:55,,58.0,Goss Matthew,65,Orica GreenEDGE,46:55 46:55,+6:21,,\u25bc7,7,2014
+19,156,66,+47:12,,67.0,Geoghegan Hart Tao,66,Bissell Development Team,47:12 47:12,+1:49,,\u25b21,7,2014
+25,33,67,+47:28,,59.0,Sergent Jesse,67,Trek Factory Racing,47:28 47:28,+6:21,,\u25bc8,7,2014
+25,84,68,+48:41,,73.0,Degenkolb John,68,Team Giant - Shimano,48:41 48:41,+0:00,,\u25b25,7,2014
+22,133,69,+49:11,,62.0,Lemus Luis,69,Jelly Belly p/b Maxxis,49:11 49:11,+6:19,,\u25bc7,7,2014
+29,66,70,+49:56,,74.0,Sabatini Fabio,70,Cannondale,49:56 49:56,+1:04,,\u25b24,7,2014
+26,103,71,+50:29,,80.0,Dempster Zakkari,71,Team NetApp \u2013 Endura,50:29 50:29,+0:00,,\u25b29,7,2014
+29,105,72,+52:12,,82.0,Mendes Jos\xe9,72,Team NetApp \u2013 Endura,52:12 52:12,+0:00,,\u25b210,7,2014
+25,131,73,+52:36,,70.0,Tvetcov Serghei,73,Jelly Belly p/b Maxxis,52:36 52:36,+6:21,,\u25bc3,7,2014
+29,28,74,+54:26,,61.0,Velits Martin,74,Omega Pharma - Quick-Step,54:26 54:26,+12:47,,\u25bc13,7,2014
+36,53,75,+54:31,,71.0,Hayman Mathew,75,Orica GreenEDGE,54:31 54:31,+6:21,,\u25bc4,7,2014
+20,35,76,+54:55,,85.0,van Poppel Danny,76,Trek Factory Racing,54:55 54:55,+-1:56,,\u25b29,7,2014
+40,138,77,+55:01,,72.0,Rodriguez Fred,77,Jelly Belly p/b Maxxis,55:01 55:01,+6:21,,\u25bc5,7,2014
+31,87,78,+55:27,,76.0,de Kort Koen,78,Team Giant - Shimano,55:27 55:27,+6:21,,\u25bc2,7,2014
+26,121,79,+55:40,,77.0,Anderson Ryan,79,Optum p/b Kelly Benefit Strategies,55:40 55:40,+6:21,,\u25bc2,7,2014
+22,74,80,+55:45,,78.0,Hofland Moreno,80,Belkin-Pro Cycling Team,55:45 55:45,+6:21,,\u25bc2,7,2014
+39,122,81,+57:09,,81.0,Candelario Alex,81,Optum p/b Kelly Benefit Strategies,57:09 57:09,+6:21,,-,7,2014
+22,151,82,+57:13,,75.0,Putt Tanner,82,Bissell Development Team,57:13 57:13,+8:12,,\u25bc7,7,2014
+36,2,83,+57:27,,97.0,Hushovd Thor,83,BMC Racing Team,57:27 57:27,+-1:54,,\u25b214,7,2014
+23,42,84,+57:55,,96.0,Boswell Ian,84,Team Sky,57:55 57:55,+0:29,,\u25b212,7,2014
+23,92,85,+1:00:00,,87.0,Bolivar Isaac,85,UnitedHealthcare Pro Cycling Team,1:00:00 1:00:00,+4:38,,\u25b22,7,2014
+30,135,86,+1:01:11,,83.0,Lloyd Matthew,86,Jelly Belly p/b Maxxis,1:01:11 1:01:11,+7:15,,\u25bc3,7,2014
+30,125,87,+1:01:52,,105.0,Routley Will,87,Optum p/b Kelly Benefit Strategies,1:01:52 1:01:52,+0:12,,\u25b218,7,2014
+29,96,88,+1:03:09,,79.0,Murphy John,88,UnitedHealthcare Pro Cycling Team,1:03:09 1:03:09,+12:47,,\u25bc9,7,2014
+28,22,89,+1:03:17,,91.0,Cavendish Mark,89,Omega Pharma - Quick-Step,1:03:17 1:03:17,+6:21,,\u25b22,7,2014
+22,118,90,+1:03:41,,94.0,De Mesmaeker Kevin,90,Team Novo Nordisk,1:03:41 1:03:41,+6:21,,\u25b24,7,2014
+24,63,91,+1:03:42,,95.0,Boivin Guillaume,91,Cannondale,1:03:42 1:03:42,+6:21,,\u25b24,7,2014
+34,82,92,+1:04:16,,98.0,Curvers Roy,92,Team Giant - Shimano,1:04:16 1:04:16,+6:16,,\u25b26,7,2014
+24,107,93,+1:04:33,,100.0,Thwaites Scott,93,Team NetApp \u2013 Endura,1:04:33 1:04:33,+6:21,,\u25b27,7,2014
+29,24,94,+1:06:55,,84.0,Terpstra Niki,94,Omega Pharma - Quick-Step,1:06:55 1:06:55,+12:47,,\u25bc10,7,2014
+22,116,95,+1:07:37,,104.0,Henttala Joonas,95,Team Novo Nordisk,1:07:37 1:07:37,+6:21,,\u25b29,7,2014
+28,3,96,+1:08:00,,86.0,Kohler Martin,96,BMC Racing Team,1:08:00 1:08:00,+12:47,,\u25bc10,7,2014
+21,37,97,+1:08:08,,106.0,Watson Calvin,97,Trek Factory Racing,1:08:08 1:08:08,+6:21,,\u25b29,7,2014
+28,75,98,+1:08:49,,107.0,Leezer Tom,98,Belkin-Pro Cycling Team,1:08:49 1:08:49,+6:21,,\u25b29,7,2014
+33,141,99,+1:08:57,,108.0,Haedo Juan Jose,99,Jamis - Hagens Berman,1:08:57 1:08:57,+6:21,,\u25b29,7,2014
+25,126,100,+1:09:14,,88.0,Young Eric,100,Optum p/b Kelly Benefit Strategies,1:09:14 1:09:14,+12:47,,\u25bc12,7,2014
+34,142,101,+1:09:38,,89.0,Cooke Matt,101,Jamis - Hagens Berman,1:09:38 1:09:38,+12:47,,\u25bc12,7,2014
+31,23,102,+1:09:38,,90.0,Renshaw Mark,102,Omega Pharma - Quick-Step,",, 1:09:38",+12:47,,\u25bc12,7,2014
+29,93,103,+1:09:58,,93.0,Clarke Jonathan,103,UnitedHealthcare Pro Cycling Team,1:09:58 1:09:58,+12:47,,\u25bc10,7,2014
+24,58,104,+1:10:05,,109.0,Howard Leigh,104,Orica GreenEDGE,1:10:05 1:10:05,+6:21,,\u25b25,7,2014
+29,114,105,+1:10:56,,99.0,Verschoor Martijn,105,Team Novo Nordisk,1:10:56 1:10:56,+12:47,,\u25bc6,7,2014
+32,94,106,+1:11:25,,101.0,Hanson Ken,106,UnitedHealthcare Pro Cycling Team,1:11:25 1:11:25,+12:47,,\u25bc5,7,2014
+34,56,107,+1:11:32,,102.0,Mouris Jens,107,Orica GreenEDGE,1:11:32 1:11:32,+12:47,,\u25bc5,7,2014
+26,77,108,+1:11:38,,103.0,van Winden Dennis,108,Belkin-Pro Cycling Team,1:11:38 1:11:38,+12:47,,\u25bc5,7,2014
+24,48,109,+1:11:53,,111.0,Rowe Luke,109,Team Sky,1:11:53 1:11:53,+6:33,,\u25b22,7,2014
+25,44,110,+1:16:23,,112.0,Earle Nathan,110,Team Sky,1:16:23 1:16:23,+6:21,,\u25b22,7,2014
+35,123,111,+1:16:58,,110.0,Huff Charles Bradley,111,Optum p/b Kelly Benefit Strategies,1:16:58 1:16:58,+12:47,,\u25bc1,7,2014
+23,134,112,+1:17:09,,113.0,Fisher Steve,112,Jelly Belly p/b Maxxis,1:17:09 1:17:09,+6:21,,\u25b21,7,2014
+26,16,113,+1:17:11,,115.0,Howes Alex,113,Garmin Sharp,1:17:11 1:17:11,+0:00,,\u25b22,7,2014
+30,68,114,+1:26:29,,114.0,Wurf Cameron,114,Cannondale,1:26:29 1:26:29,+12:47,,-,7,2014
+34,41,1,+0:00,150.0,1.0,Wiggins Bradley,1,Team Sky,28:22:05 28:22:05,+0:00,100.0,-,8,2014
+23,13,2,+0:30,110.0,2.0,Dennis Rohan,2,Garmin Sharp,0:30 0:30,+0:00,70.0,-,8,2014
+22,81,3,+1:48,90.0,3.0,Craddock Lawson,3,Team Giant - Shimano,1:48 1:48,+0:00,40.0,-,8,2014
+28,104,4,+2:02,80.0,4.0,Machado Tiago,4,Team NetApp \u2013 Endura,2:02 2:02,+0:00,30.0,-,8,2014
+21,57,5,+2:14,70.0,5.0,Yates Adam,5,Orica GreenEDGE,2:14 2:14,+0:00,25.0,-,8,2014
+26,1,6,+2:30,60.0,6.0,Stetina Peter,6,BMC Racing Team,2:30 2:30,+0:00,20.0,-,8,2014
+24,52,7,+2:39,55.0,7.0,Chaves Johan Esteban,7,Orica GreenEDGE,2:39 2:39,+0:00,15.0,-,8,2014
+33,71,8,+3:01,50.0,8.0,ten Dam Laurens,8,Belkin-Pro Cycling Team,3:01 3:01,+0:00,10.0,-,8,2014
+28,11,9,+3:05,45.0,9.0,Acevedo Janier Alexis,9,Garmin Sharp,3:05 3:05,+0:00,9.0,-,8,2014
+25,102,10,+3:06,40.0,10.0,de la Cruz David,10,Team NetApp \u2013 Endura,3:06 3:06,+0:00,8.0,-,8,2014
+25,124,11,+3:19,36.0,11.0,Jones Carter,11,Optum p/b Kelly Benefit Strategies,3:19 3:19,+0:00,7.0,-,8,2014
+37,38,12,+3:45,32.0,12.0,Zubeldia Haimar,12,Trek Factory Racing,3:45 3:45,+0:00,6.0,-,8,2014
+29,31,13,+3:57,28.0,13.0,Busche Matthew,13,Trek Factory Racing,3:57 3:57,+0:00,5.0,-,8,2014
+36,12,14,+4:27,24.0,15.0,Danielson Thomas,14,Garmin Sharp,4:27 4:27,+0:00,4.0,\u25b21,8,2014
+21,88,15,+4:51,20.0,16.0,Olivier Daan,15,Team Giant - Shimano,4:51 4:51,+0:00,3.0,\u25b21,8,2014
+26,145,16,+7:30,16.0,17.0,Brenes Gregory,16,Jamis - Hagens Berman,7:30 7:30,+0:00,,\u25b21,8,2014
+27,65,17,+8:00,14.0,18.0,Koren Kristijan,17,Cannondale,8:00 8:00,+0:00,,\u25b21,8,2014
+25,83,18,+8:23,12.0,19.0,Damuseau Thomas,18,Team Giant - Shimano,8:23 8:23,+0:00,,\u25b21,8,2014
+23,144,19,+9:28,10.0,20.0,Jaramillo Daniel Alexander,19,Jamis - Hagens Berman,9:28 9:28,+0:00,,\u25b21,8,2014
+30,91,20,+9:59,8.0,21.0,Euser Lucas,20,UnitedHealthcare Pro Cycling Team,9:59 9:59,+-1:57,,\u25b21,8,2014
+25,17,21,+10:07,6.0,22.0,King Benjamin,21,Garmin Sharp,10:07 10:07,+0:00,,\u25b21,8,2014
+24,72,22,+11:10,4.0,23.0,Bobridge Jack,22,Belkin-Pro Cycling Team,11:10 11:10,+0:11,,\u25b21,8,2014
+22,18,23,+11:20,3.0,24.0,Brown Nathan,23,Garmin Sharp,11:20 11:20,+0:00,,\u25b21,8,2014
+21,153,24,+12:40,2.0,25.0,Chevrier Cl\xe9ment,24,Bissell Development Team,12:40 12:40,+0:00,,\u25b21,8,2014
+24,67,25,+13:48,1.0,14.0,Bennett George,25,Cannondale,13:48 13:48,+9:25,,\u25bc11,8,2014
+23,43,26,+16:16,,26.0,Dombrowski Joe,26,Team Sky,16:16 16:16,+0:00,,-,8,2014
+32,4,27,+16:48,,27.0,Moinard Ama\xebl,27,BMC Racing Team,16:48 16:48,+0:17,,-,8,2014
+35,146,28,+18:34,,29.0,Romero Amaran Luis,28,Jamis - Hagens Berman,18:34 18:34,+0:00,,\u25b21,8,2014
+25,54,29,+19:48,,30.0,Keukeleire Jens,29,Orica GreenEDGE,19:48 19:48,+0:12,,\u25b21,8,2014
+28,108,30,+19:55,,31.0,Voss Paul,30,Team NetApp \u2013 Endura,19:55 19:55,+0:12,,\u25b21,8,2014
+22,76,31,+20:11,,32.0,van der Lijke Nick,31,Belkin-Pro Cycling Team,20:11 20:11,+0:00,,\u25b21,8,2014
+21,27,32,+20:19,,33.0,Verona Carlos,32,Omega Pharma - Quick-Step,20:19 20:19,+-1:59,,\u25b21,8,2014
+21,45,33,+20:45,,34.0,Edmondson Joshua,33,Team Sky,20:45 20:45,+0:00,,\u25b21,8,2014
+27,14,34,+28:55,,36.0,Fairly Caleb,34,Garmin Sharp,28:55 28:55,+0:59,,\u25b22,8,2014
+30,111,35,+29:20,,37.0,Megias Javier,35,Team Novo Nordisk,29:20 29:20,+0:00,,\u25b22,8,2014
+24,147,36,+30:15,,38.0,Squire Rob,36,Jamis - Hagens Berman,30:15 30:15,+0:00,,\u25b22,8,2014
+35,101,37,+31:11,,39.0,Cama\xf1o Iker,37,Team NetApp \u2013 Endura,31:11 31:11,+0:00,,\u25b22,8,2014
+25,85,38,+31:18,,28.0,Haga Chad,38,Team Giant - Shimano,31:18 31:18,+14:07,,\u25bc10,8,2014
+27,6,39,+32:03,,40.0,Schar Michael,39,BMC Racing Team,32:03 32:03,+0:24,,\u25b21,8,2014
+27,97,40,+32:54,,42.0,Reijnen Kiel,40,UnitedHealthcare Pro Cycling Team,32:54 32:54,+0:00,,\u25b22,8,2014
+34,95,41,+34:07,,43.0,Jones Chris,41,UnitedHealthcare Pro Cycling Team,34:07 34:07,+0:24,,\u25b22,8,2014
+31,148,42,+36:19,,44.0,Teruel Eloy,42,Jamis - Hagens Berman,36:19 36:19,+0:11,,\u25b22,8,2014
+23,5,43,+36:43,,45.0,Phinney Taylor,43,BMC Racing Team,36:43 36:43,+0:00,,\u25b22,8,2014
+29,7,44,+37:12,,46.0,Van Avermaet Greg,44,BMC Racing Team,37:12 37:12,+0:20,,\u25b22,8,2014
+19,154,45,+37:26,,47.0,Daniel Gregory,45,Bissell Development Team,37:26 37:26,+0:00,,\u25b22,8,2014
+28,73,46,+38:00,,48.0,Boom Lars,46,Belkin-Pro Cycling Team,38:00 38:00,+0:00,,\u25b22,8,2014
+36,128,47,+38:17,,49.0,Zwizanski Scott,47,Optum p/b Kelly Benefit Strategies,38:17 38:17,+0:00,,\u25b22,8,2014
+35,143,48,+38:46,,35.0,Jacques-Maynes Benjamin,48,Jamis - Hagens Berman,38:46 38:46,+11:53,,\u25bc13,8,2014
+33,46,49,+39:34,,50.0,Knees Christian,49,Team Sky,39:34 39:34,+0:13,,\u25b21,8,2014
+35,47,50,+39:51,,51.0,Pate Danny,50,Team Sky,39:51 39:51,+0:00,,\u25b21,8,2014
+42,36,51,+40:11,,53.0,Voigt Jens,51,Trek Factory Racing,40:11 40:11,+0:00,,\u25b22,8,2014
+22,34,52,+40:25,,55.0,Stuyven Jasper,52,Trek Factory Racing,40:25 40:25,+0:00,,\u25b23,8,2014
+21,158,53,+41:37,,57.0,Zepuntke Ruben,53,Bissell Development Team,41:37 41:37,+0:00,,\u25b24,8,2014
+32,78,54,+42:34,,58.0,Wynants Maarten,54,Belkin-Pro Cycling Team,42:34 42:34,+0:13,,\u25b24,8,2014
+24,61,55,+43:49,,59.0,Sagan Peter,55,Cannondale,43:49 43:49,+-1:56,,\u25b24,8,2014
+24,25,56,+44:20,,60.0,Trentin Matteo,56,Omega Pharma - Quick-Step,44:20 44:20,+0:00,,\u25b24,8,2014
+30,106,57,+45:05,,61.0,Schillinger Andreas,57,Team NetApp \u2013 Endura,45:05 45:05,+0:00,,\u25b24,8,2014
+34,32,58,+45:16,,52.0,Irizar Markel,58,Trek Factory Racing,45:16 45:16,+5:12,,\u25bc6,8,2014
+23,137,59,+46:12,,63.0,Rathe Jacob,59,Jelly Belly p/b Maxxis,46:12 46:12,+0:00,,\u25b24,8,2014
+27,51,60,+46:55,,65.0,Goss Matthew,60,Orica GreenEDGE,46:55 46:55,+0:00,,\u25b25,8,2014
+25,33,61,+47:28,,67.0,Sergent Jesse,61,Trek Factory Racing,47:28 47:28,+0:00,,\u25b26,8,2014
+25,84,62,+48:35,,68.0,Degenkolb John,62,Team Giant - Shimano,48:35 48:35,+-1:54,,\u25b26,8,2014
+29,66,63,+49:56,,70.0,Sabatini Fabio,63,Cannondale,49:56 49:56,+0:00,,\u25b27,8,2014
+26,103,64,+50:29,,71.0,Dempster Zakkari,64,Team NetApp \u2013 Endura,50:29 50:29,+0:00,,\u25b27,8,2014
+29,105,65,+52:45,,72.0,Mendes Jos\xe9,65,Team NetApp \u2013 Endura,52:45 52:45,+0:33,,\u25b27,8,2014
+25,131,66,+53:00,,73.0,Tvetcov Serghei,66,Jelly Belly p/b Maxxis,53:00 53:00,+0:24,,\u25b27,8,2014
+31,64,67,+54:24,,54.0,King Edward,67,Cannondale,54:24 54:24,+14:07,,\u25bc13,8,2014
+36,53,68,+54:29,,75.0,Hayman Mathew,68,Orica GreenEDGE,54:29 54:29,+-1:58,,\u25b27,8,2014
+20,35,69,+54:55,,76.0,van Poppel Danny,69,Trek Factory Racing,54:55 54:55,+0:00,,\u25b27,8,2014
+31,87,70,+55:27,,78.0,de Kort Koen,70,Team Giant - Shimano,55:27 55:27,+0:00,,\u25b28,8,2014
+36,2,71,+57:27,,83.0,Hushovd Thor,71,BMC Racing Team,57:27 57:27,+0:00,,\u25b212,8,2014
+23,42,72,+58:08,,84.0,Boswell Ian,72,Team Sky,58:08 58:08,+0:13,,\u25b212,8,2014
+23,92,73,+1:00:00,,85.0,Bolivar Isaac,73,UnitedHealthcare Pro Cycling Team,1:00:00 1:00:00,+0:00,,\u25b212,8,2014
+29,62,74,+1:00:56,,64.0,Bodnar Maciej,74,Cannondale,1:00:56 1:00:56,+14:07,,\u25bc10,8,2014
+19,156,75,+1:01:19,,66.0,Geoghegan Hart Tao,75,Bissell Development Team,1:01:19 1:01:19,+14:07,,\u25bc9,8,2014
+30,125,76,+1:02:04,,87.0,Routley Will,76,Optum p/b Kelly Benefit Strategies,1:02:04 1:02:04,+0:12,,\u25b211,8,2014
+22,133,77,+1:02:17,,69.0,Lemus Luis,77,Jelly Belly p/b Maxxis,1:02:17 1:02:17,+13:06,,\u25bc8,8,2014
+28,22,78,+1:03:07,,89.0,Cavendish Mark,78,Omega Pharma - Quick-Step,1:03:07 1:03:07,+-1:50,,\u25b211,8,2014
+34,82,79,+1:04:33,,92.0,Curvers Roy,79,Team Giant - Shimano,1:04:33 1:04:33,+0:17,,\u25b213,8,2014
+24,107,80,+1:04:57,,93.0,Thwaites Scott,80,Team NetApp \u2013 Endura,1:04:57 1:04:57,+0:24,,\u25b213,8,2014
+30,24,81,+1:07:22,,94.0,Terpstra Niki,81,Omega Pharma - Quick-Step,1:07:22 1:07:22,+0:27,,\u25b213,8,2014
+28,3,82,+1:08:13,,96.0,Kohler Martin,82,BMC Racing Team,1:08:13 1:08:13,+0:13,,\u25b214,8,2014
+29,28,83,+1:08:33,,74.0,Velits Martin,83,Omega Pharma - Quick-Step,1:08:33 1:08:33,+14:07,,\u25bc9,8,2014
+40,138,84,+1:09:08,,77.0,Rodriguez Fred,84,Jelly Belly p/b Maxxis,1:09:08 1:09:08,+14:07,,\u25bc7,8,2014
+28,75,85,+1:09:31,,98.0,Leezer Tom,85,Belkin-Pro Cycling Team,1:09:31 1:09:31,+0:42,,\u25b213,8,2014
+26,121,86,+1:09:47,,79.0,Anderson Ryan,86,Optum p/b Kelly Benefit Strategies,1:09:47 1:09:47,+14:07,,\u25bc7,8,2014
+39,122,87,+1:11:16,,81.0,Candelario Alex,87,Optum p/b Kelly Benefit Strategies,1:11:16 1:11:16,+14:07,,\u25bc6,8,2014
+22,151,88,+1:11:20,,82.0,Putt Tanner,88,Bissell Development Team,1:11:20 1:11:20,+14:07,,\u25bc6,8,2014
+31,23,89,+1:12:06,,102.0,Renshaw Mark,89,Omega Pharma - Quick-Step,1:12:06 1:12:06,+2:28,,\u25b213,8,2014
+30,135,90,+1:15:18,,86.0,Lloyd Matthew,90,Jelly Belly p/b Maxxis,1:15:18 1:15:18,+14:07,,\u25bc4,8,2014
+22,116,91,+1:16:35,,95.0,Henttala Joonas,91,Team Novo Nordisk,1:16:35 1:16:35,+8:58,,\u25b24,8,2014
+23,134,92,+1:17:09,,112.0,Fisher Steve,92,Jelly Belly p/b Maxxis,1:17:09 1:17:09,+0:00,,\u25b220,8,2014
+26,16,93,+1:17:11,,113.0,Howes Alex,93,Garmin Sharp,1:17:11 1:17:11,+0:00,,\u25b220,8,2014
+22,118,94,+1:17:48,,90.0,De Mesmaeker Kevin,94,Team Novo Nordisk,1:17:48 1:17:48,+14:07,,\u25bc4,8,2014
+24,63,95,+1:17:49,,91.0,Boivin Guillaume,95,Cannondale,1:17:49 1:17:49,+14:07,,\u25bc4,8,2014
+29,114,96,+1:22:49,,105.0,Verschoor Martijn,96,Team Novo Nordisk,1:22:49 1:22:49,+11:53,,\u25b29,8,2014
+24,58,97,+1:24:12,,104.0,Howard Leigh,97,Orica GreenEDGE,1:24:12 1:24:12,+14:07,,\u25b27,8,2014
+32,94,98,+1:25:32,,106.0,Hanson Ken,98,UnitedHealthcare Pro Cycling Team,1:25:32 1:25:32,+14:07,,\u25b28,8,2014
+24,48,99,+1:26:00,,109.0,Rowe Luke,99,Team Sky,1:26:00 1:26:00,+14:07,,\u25b210,8,2014
+25,44,100,+1:30:30,,110.0,Earle Nathan,100,Team Sky,1:30:30 1:30:30,+14:07,,\u25b210,8,2014
+30,68,101,+1:40:36,,114.0,Wurf Cameron,101,Cannondale,1:40:36 1:40:36,+14:07,,\u25b213,8,2014

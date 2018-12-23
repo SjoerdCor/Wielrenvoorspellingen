@@ -1,0 +1,826 @@
+Age,Avg,GC,GC-Time,Pnt,Rider,Rnk,Team,Time,UCI,stage,year
+24,,,+0:00,30.0,Cavendish Mark,1,Team HTC - Columbia,4:04:46 4:04:46,20.0,1,2010
+29,,,+0:00,18.0,Haedo Juan Jose,2,Saxo Bank,",, ,,",14.0,1,2010
+22,,,+0:00,12.0,Kristoff Alexander,3,BMC Racing Team,",, ,,",8.0,1,2010
+33,,,+0:00,7.0,Hunter Robert,4,Team Garmin - Transitions,",, ,,",7.0,1,2010
+28,,,+0:00,4.0,Cantwell Jonathan,5,Fly V Australia Pro Cycling Team,",, ,,",6.0,1,2010
+26,,,+0:00,3.0,Burghardt Marcus,6,BMC Racing Team,",, ,,",5.0,1,2010
+20,,,+0:00,2.0,Boivin Guillaume,7,Spidertech presented by Planet Energy,",, ,,",4.0,1,2010
+23,,,+0:00,1.0,Stauff Andreas,8,Quickstep - Innergetic,",, ,,",2.0,1,2010
+24,,,+0:00,,Maes Nikolas,9,Quickstep - Innergetic,",, ,,",,1,2010
+24,,,+0:00,,Leezer Tom,10,Rabobank ProTeam,",, ,,",,1,2010
+35,,,+0:00,,Candelario Alex,11,Kelly Benefit Strategies,",, ,,",,1,2010
+20,,,+0:00,,Sagan Peter,12,Liquigas - Doimo,",, ,,",,1,2010
+27,,,+0:00,,Renshaw Mark,13,Team HTC - Columbia,",, ,,",,1,2010
+27,,,+0:00,,Gilbert Martin,14,,",, ,,",,1,2010
+31,,,+0:00,,Dionne Charles,15,Fly V Australia Pro Cycling Team,",, ,,",,1,2010
+26,,,+0:00,,Brajkovi\u010d Janez,16,RadioShack,",, ,,",,1,2010
+30,,,+0:00,,Rogers Michael,17,Team HTC - Columbia,",, ,,",,1,2010
+26,,,+0:00,,Sulzberger Bernard,18,Fly V Australia Pro Cycling Team,",, ,,",,1,2010
+29,,,+0:00,,Chicchi Francesco,19,Liquigas - Doimo,",, ,,",,1,2010
+29,,,+0:00,,Eisel Bernhard,20,Team HTC - Columbia,",, ,,",,1,2010
+30,,,+0:00,,Quinziato Manuel,21,Liquigas - Doimo,",, ,,",,1,2010
+28,,,+0:00,,Hanson Ken,22,Team Type 1,",, ,,",,1,2010
+27,,,+0:00,,Zahner Simon,23,BMC Racing Team,",, ,,",,1,2010
+26,,,+0:00,,Bos Theo,24,Cervelo Test Team,",, ,,",,1,2010
+21,,,+0:00,,van Garderen Tejay,25,Team HTC - Columbia,",, ,,",,1,2010
+25,,,+0:00,,Martin Tony,26,Team HTC - Columbia,",, ,,",,1,2010
+26,,,+0:00,,Latham Peter,27,Bissell Pro Cycling,",, ,,",,1,2010
+33,,,+0:00,,Kobzarenko Valery,28,Team Type 1,",, ,,",,1,2010
+22,,,+0:00,,Stetina Peter,29,Team Garmin - Transitions,",, ,,",,1,2010
+25,,,+0:00,,Cozza Steven,30,Team Garmin - Transitions,",, ,,",,1,2010
+29,,,+0:00,,Hesjedal Ryder,31,Team Garmin - Transitions,",, ,,",,1,2010
+21,,,+0:00,,Viviani Elia,32,Liquigas - Doimo,",, ,,",,1,2010
+24,,,+0:00,,Mazich Sean,33,Jelly Belly presented by Kenda,",, ,,",,1,2010
+23,,,+0:00,,Reijnen Kiel,34,Jelly Belly presented by Kenda,",, ,,",,1,2010
+22,,,+0:00,,Boily Eric,35,Spidertech presented by Planet Energy,",, ,,",,1,2010
+31,,,+0:00,,Day Benjamin,36,Fly V Australia Pro Cycling Team,",, ,,",,1,2010
+32,,,+0:00,,Wilson Matthew,37,Team Garmin - Transitions,",, ,,",,1,2010
+36,,,+0:00,,Leipheimer Levi,38,RadioShack,",, ,,",,1,2010
+31,,,+0:00,,Zabriskie David,39,Team Garmin - Transitions,",, ,,",,1,2010
+32,,,+0:00,,Danielson Thomas,40,Team Garmin - Transitions,",, ,,",,1,2010
+34,,,+0:00,,Niermann Grischa,41,Rabobank ProTeam,",, ,,",,1,2010
+27,,,+0:00,,Clement Stef,42,Rabobank ProTeam,",, ,,",,1,2010
+34,,,+0:00,,Grabsch Bert,43,Team HTC - Columbia,",, ,,",,1,2010
+30,,,+0:00,,Popovych Yaroslav,44,RadioShack,",, ,,",,1,2010
+37,,,+0:00,,Rubiera Jos\xe9 Luis,45,RadioShack,",, ,,",,1,2010
+27,,,+0:00,,Bell Zach,46,Kelly Benefit Strategies,",, ,,",,1,2010
+25,,,+0:00,,Fuglsang Jakob,47,Saxo Bank,",, ,,",,1,2010
+23,,,+0:00,,Jenkins Max,48,UnitedHealthcare Presented by Maxxis,",, ,,",,1,2010
+22,,,+0:00,,Steensen Andre,49,Saxo Bank,",, ,,",,1,2010
+24,,,+0:00,,Thomson Jay Robert,50,Fly V Australia Pro Cycling Team,",, ,,",,1,2010
+20,,,+0:00,,Cimolai Davide,51,Liquigas - Doimo,",, ,,",,1,2010
+33,,,+0:00,,Mumford Jonathan Reid,52,Kelly Benefit Strategies,",, ,,",,1,2010
+34,,,+0:00,,Baldwin Christopher,53,UnitedHealthcare Presented by Maxxis,",, ,,",,1,2010
+28,,,+0:00,,Sutherland Rory,54,UnitedHealthcare Presented by Maxxis,",, ,,",,1,2010
+31,,,+0:00,,Frattini Davide,55,Team Type 1,",, ,,",,1,2010
+26,,,+0:00,,Powers Jeremy,56,Jelly Belly presented by Kenda,",, ,,",,1,2010
+26,,,+0:00,,Routley Will,57,Jelly Belly presented by Kenda,",, ,,",,1,2010
+30,,,+0:00,,van Ulden Bernard,58,Jelly Belly presented by Kenda,",, ,,",,1,2010
+31,,,+0:00,,Jacques-Maynes Benjamin,59,Bissell Pro Cycling,",, ,,",,1,2010
+25,,,+0:00,,Britton Rob,60,Bissell Pro Cycling,",, ,,",,1,2010
+26,,,+0:00,,de Maar Marc,61,UnitedHealthcare Presented by Maxxis,",, ,,",,1,2010
+26,,,+0:00,,Euser Lucas,62,Spidertech presented by Planet Energy,",, ,,",,1,2010
+30,,,+0:00,,Jones Chris,63,Team Type 1,",, ,,",,1,2010
+31,,,+0:00,,Jacques-Maynes Andy,64,Bissell Pro Cycling,",, ,,",,1,2010
+25,,,+0:00,,Ile\u0161i\u010d Aldo Ino,65,Team Type 1,",, ,,",,1,2010
+38,,,+0:00,,Armstrong Lance,66,RadioShack,",, ,,",,1,2010
+28,,,+0:00,,Barredo Carlos,67*,Quickstep - Innergetic,",, ,,",,1,2010
+26,,,+0:00,,Martens Paul,67,Rabobank ProTeam,",, ,,",,1,2010
+29,,,+0:00,,Stewart Jackson,68,BMC Racing Team,",, ,,",,1,2010
+24,,,+0:00,,Anthony Jesse,69,Kelly Benefit Strategies,",, ,,",,1,2010
+24,,,+0:00,,Schleck Andy,70,Saxo Bank,",, ,,",,1,2010
+27,,,+0:00,,Lill Darren,71,Fly V Australia Pro Cycling Team,",, ,,",,1,2010
+26,,,+0:00,,Santaromita Ivan,72,Liquigas - Doimo,",, ,,",,1,2010
+26,,,+0:00,,Kemps Aaron,73,Fly V Australia Pro Cycling Team,",, ,,",,1,2010
+30,,,+0:00,,Bellotti Francesco,74,Liquigas - Doimo,",, ,,",,1,2010
+31,,,+0:00,,Shirley Neil,75,Kelly Benefit Strategies,",, ,,",,1,2010
+38,,,+0:00,,Horner Chris,76,RadioShack,",, ,,",,1,2010
+31,,,+0:00,,Zajicek Philip,77,Fly V Australia Pro Cycling Team,",, ,,",,1,2010
+22,,,+0:00,,Butler Chris,78,BMC Racing Team,",, ,,",,1,2010
+23,,,+0:00,,Stewart Scott,79,Team Type 1,",, ,,",,1,2010
+30,,,+0:00,,Bak Lars Ytting,80,Team HTC - Columbia,",, ,,",,1,2010
+28,,,+0:00,,Vandborg Brian,81,Liquigas - Doimo,",, ,,",,1,2010
+23,,,+0:00,,Peterson Tom,82,Team Garmin - Transitions,",, ,,",,1,2010
+28,,,+0:00,,Mach Paul,83,Bissell Pro Cycling,",, ,,",,1,2010
+30,,,+0:00,,Lancaster Brett,84,Cervelo Test Team,",, ,,",,1,2010
+22,,,+0:00,,Anderson Ryan,85,Kelly Benefit Strategies,",, ,,",,1,2010
+29,,,+0:00,,Vennell Jeremy,86,Bissell Pro Cycling,",, ,,",,1,2010
+28,,,+0:00,,Hovelijnck Kurt,87,Quickstep - Innergetic,",, ,,",,1,2010
+35,,,+0:00,,Da Silva Correira Joao,88,Cervelo Test Team,",, ,,",,1,2010
+31,,,+0:00,,Langlois Bruno,89,Spidertech presented by Planet Energy,",, ,,",,1,2010
+26,,,+0:00,,Deignan Philip,90,Cervelo Test Team,",, ,,",,1,2010
+23,,,+0:00,,Beyer Chad,91,BMC Racing Team,",, ,,",,1,2010
+25,,,+0:00,,Langeveld Sebastian,92,Rabobank ProTeam,",, ,,",,1,2010
+36,,,+0:00,,Hunt Jeremy,93,Cervelo Test Team,",, ,,",,1,2010
+22,,,+0:00,,O Reilly Cody,94,Bissell Pro Cycling,",, ,,",,1,2010
+28,,,+0:00,,White Bradley,95,,",, ,,",,1,2010
+27,,,+0:00,,Friedman Michael,96,Jelly Belly presented by Kenda,",, ,,",,1,2010
+26,,,+0:00,,Megias Javier,97,Team Type 1,",, ,,",,1,2010
+25,,,+0:00,,Breschel Matti,98,Saxo Bank,",, ,,",,1,2010
+28,,,+0:00,,Wynants Maarten,99,Quickstep - Innergetic,",, ,,",,1,2010
+22,,,+0:00,,Holloway Daniel,100,Bissell Pro Cycling,",, ,,",,1,2010
+36,,,+0:00,,McCartney Jason,101,RadioShack,",, ,,",,1,2010
+20,,,+0:00,,Boily David,102,Spidertech presented by Planet Energy,",, ,,",,1,2010
+35,,,+0:00,,Randell Andrew,103,Spidertech presented by Planet Energy,",, ,,",,1,2010
+27,,,+0:00,,Morabito Steve,104,BMC Racing Team,",, ,,",,1,2010
+32,,,+0:00,,Tjallingii Maarten,105,Rabobank ProTeam,",, ,,",,1,2010
+26,,,+0:00,,Pujol Oscar,106,Cervelo Test Team,",, ,,",,1,2010
+28,,,+0:00,,Parisien Francois,107,Spidertech presented by Planet Energy,",, ,,",,1,2010
+24,,,+0:00,,Boom Lars,108,Rabobank ProTeam,",, ,,",,1,2010
+29,,,+0:00,,Cancellara Fabian,109,Saxo Bank,",, ,,",,1,2010
+38,,,+0:00,,Voigt Jens,110,Saxo Bank,",, ,,",,1,2010
+22,,,+0:00,,Veilleux David,111,Kelly Benefit Strategies,",, ,,",,1,2010
+32,,,+0:00,,Zwizanski Scott,112,Kelly Benefit Strategies,",, ,,",,1,2010
+32,,,+0:00,,Menzies Karl,113,UnitedHealthcare Presented by Maxxis,",, ,,",,1,2010
+25,,,+0:00,,Crane Matthew,114,UnitedHealthcare Presented by Maxxis,",, ,,",,1,2010
+36,,,+0:00,,Hincapie George,115,BMC Racing Team,",, ,,",,1,2010
+30,,,+0:00,,Muravyev Dmitriy,116,RadioShack,2:38 2:38,,1,2010
+27,,,+0:00,,Dickeson William,117,Jelly Belly presented by Kenda,",, 2:38",,1,2010
+26,,,+0:00,,Rabou Thomas,118,Team Type 1,",, 2:38",,1,2010
+22,,,+0:00,,van Winden Dennis,119,Rabobank ProTeam,",, 2:38",,1,2010
+27,,,+0:00,,Rollin Dominique,120,Cervelo Test Team,",, 2:38",,1,2010
+29,,,+0:00,,Boonen Tom,121,Quickstep - Innergetic,",, 2:38",,1,2010
+32,,,+0:00,,Hulsmans Kevin,122,Quickstep - Innergetic,",, 2:38",,1,2010
+33,,,+0:00,,van de Walle Jurgen,123,Quickstep - Innergetic,",, 2:38",,1,2010
+36,,,+0:00,,O'Grady Stuart,124,Saxo Bank,",, 2:38",,1,2010
+26,,,+0:00,,Haussler Heinrich,125,Cervelo Test Team,",, 2:38",,1,2010
+31,,,+0:00,,Pinfold Andrew,126,UnitedHealthcare Presented by Maxxis,",, 2:38",,1,2010
+25,,,+0:00,,Chodroff Jonathan,DNF,Jelly Belly presented by Kenda,-4:04:46 -4:04:46,,1,2010
+30,,,+0:00,30.0,Lancaster Brett,1,Cervelo Test Team,4:38:48 4:38:48,20.0,2,2010
+20,,,+0:00,18.0,Sagan Peter,2,Liquigas - Doimo,",, ,,",14.0,2,2010
+24,,,+0:00,12.0,Boom Lars,3,Rabobank ProTeam,",, ,,",8.0,2,2010
+28,,,+0:00,7.0,Sutherland Rory,4,UnitedHealthcare Presented by Maxxis,",, ,,",7.0,2,2010
+22,,,+0:00,4.0,Steensen Andre,5,Saxo Bank,",, ,,",6.0,2,2010
+28,,,+0:00,3.0,Parisien Francois,6,Spidertech presented by Planet Energy,",, ,,",5.0,2,2010
+36,,,+0:00,2.0,Leipheimer Levi,7,RadioShack,",, ,,",4.0,2,2010
+29,,,+0:00,1.0,Hesjedal Ryder,8,Team Garmin - Transitions,",, ,,",2.0,2,2010
+30,,,+0:00,,Bak Lars Ytting,9,Team HTC - Columbia,",, ,,",,2,2010
+30,,,+0:00,,Rogers Michael,10,Team HTC - Columbia,",, ,,",,2,2010
+30,,,+0:00,,Bellotti Francesco,11,Liquigas - Doimo,",, ,,",,2,2010
+32,,,+0:00,,Menzies Karl,12,UnitedHealthcare Presented by Maxxis,",, ,,",,2,2010
+32,,,+0:00,,Zwizanski Scott,13,Kelly Benefit Strategies,",, ,,",,2,2010
+38,,,+0:00,,Voigt Jens,14,Saxo Bank,",, ,,",,2,2010
+38,,,+0:00,,Horner Chris,15,RadioShack,",, ,,",,2,2010
+27,,,+0:00,,Morabito Steve,16,BMC Racing Team,",, ,,",,2,2010
+26,,,+0:00,,Brajkovi\u010d Janez,17,RadioShack,",, ,,",,2,2010
+38,,,+0:00,,Armstrong Lance,18,RadioShack,",, ,,",,2,2010
+31,,,+0:00,,Zajicek Philip,19,Fly V Australia Pro Cycling Team,",, ,,",,2,2010
+32,,,+0:00,,Danielson Thomas,20,Team Garmin - Transitions,",, ,,",,2,2010
+22,,,+0:00,,Stetina Peter,21,Team Garmin - Transitions,",, ,,",,2,2010
+26,,,+0:00,,de Maar Marc,22,UnitedHealthcare Presented by Maxxis,",, ,,",,2,2010
+31,,,+0:00,,Zabriskie David,23,Team Garmin - Transitions,",, ,,",,2,2010
+26,,,+0:00,,Rabou Thomas,24,Team Type 1,",, ,,",,2,2010
+28,,,+0:00,,Mach Paul,25,Bissell Pro Cycling,",, ,,",,2,2010
+24,,,+0:00,,Schleck Andy,26,Saxo Bank,",, ,,",,2,2010
+37,,,+0:00,,Rubiera Jos\xe9 Luis,27,RadioShack,",, ,,",,2,2010
+26,,,+0:00,,Kemps Aaron,28,Fly V Australia Pro Cycling Team,1:17 1:17,,2,2010
+27,,,+0:00,,Zahner Simon,29,BMC Racing Team,",, 1:17",,2,2010
+33,,,+0:00,,van de Walle Jurgen,30,Quickstep - Innergetic,",, 1:17",,2,2010
+33,,,+0:00,,Kobzarenko Valery,31,Team Type 1,",, 1:17",,2,2010
+20,,,+0:00,,Cimolai Davide,32,Liquigas - Doimo,",, 1:17",,2,2010
+27,,,+0:00,,Clement Stef,33,Rabobank ProTeam,",, 1:17",,2,2010
+26,,,+0:00,,Sulzberger Bernard,34,Fly V Australia Pro Cycling Team,",, 1:17",,2,2010
+23,,,+0:00,,Peterson Tom,35,Team Garmin - Transitions,",, 1:17",,2,2010
+36,,,+0:00,,Hincapie George,36,BMC Racing Team,",, 1:17",,2,2010
+25,,,+0:00,,Martin Tony,37,Team HTC - Columbia,",, 1:17",,2,2010
+30,,,+0:00,,Jones Chris,38,Team Type 1,",, 1:17",,2,2010
+23,,,+0:00,,Jenkins Max,39,UnitedHealthcare Presented by Maxxis,",, 1:17",,2,2010
+29,,,+0:00,,Vennell Jeremy,40,Bissell Pro Cycling,",, 1:17",,2,2010
+26,,,+0:00,,Haussler Heinrich,41,Cervelo Test Team,",, 1:17",,2,2010
+22,,,+0:00,,Anderson Ryan,42,Kelly Benefit Strategies,",, 1:17",,2,2010
+26,,,+0:00,,Burghardt Marcus,43,BMC Racing Team,",, 1:17",,2,2010
+26,,,+0:00,,Euser Lucas,44,Spidertech presented by Planet Energy,",, 1:17",,2,2010
+31,,,+0:00,,Day Benjamin,45,Fly V Australia Pro Cycling Team,2:10 2:10,,2,2010
+26,,,+0:00,,Routley Will,46,Jelly Belly presented by Kenda,2:47 2:47,,2,2010
+25,,,+0:00,,Fuglsang Jakob,47,Saxo Bank,",, 2:47",,2,2010
+34,,,+0:00,,Niermann Grischa,48,Rabobank ProTeam,",, 2:47",,2,2010
+31,,,+0:00,,Frattini Davide,49,Team Type 1,",, 2:47",,2,2010
+28,,,+0:00,,Vandborg Brian,50,Liquigas - Doimo,",, 2:47",,2,2010
+30,,,+0:00,,van Ulden Bernard,51,Jelly Belly presented by Kenda,2:52 2:52,,2,2010
+29,,,+0:00,,Stewart Jackson,52,BMC Racing Team,7:14 7:14,,2,2010
+20,,,+0:00,,Boily David,53,Spidertech presented by Planet Energy,",, 7:14",,2,2010
+27,,,+0:00,,Lill Darren,54,Fly V Australia Pro Cycling Team,7:53 7:53,,2,2010
+23,,,+0:00,,Reijnen Kiel,55,Jelly Belly presented by Kenda,9:11 9:11,,2,2010
+26,,,+0:00,,Deignan Philip,56,Cervelo Test Team,",, 9:11",,2,2010
+31,,,+0:00,,Jacques-Maynes Benjamin,57,Bissell Pro Cycling,9:39 9:39,,2,2010
+30,,,+0:00,,Popovych Yaroslav,58,RadioShack,9:58 9:58,,2,2010
+25,,,+0:00,,Britton Rob,59,Bissell Pro Cycling,10:34 10:34,,2,2010
+26,,,+0:00,,Latham Peter,60,Bissell Pro Cycling,",, 10:34",,2,2010
+27,,,+0:00,,Friedman Michael,61,Jelly Belly presented by Kenda,",, 10:34",,2,2010
+22,,,+0:00,,Butler Chris,62,BMC Racing Team,",, 10:34",,2,2010
+25,,,+0:00,,Cozza Steven,63,Team Garmin - Transitions,",, 10:34",,2,2010
+32,,,+0:00,,Tjallingii Maarten,64,Rabobank ProTeam,",, 10:34",,2,2010
+26,,,+0:00,,Martens Paul,65,Rabobank ProTeam,",, 10:34",,2,2010
+29,,,+0:00,,Haedo Juan Jose,66,Saxo Bank,",, 10:34",,2,2010
+23,,,+0:00,,Beyer Chad,67,BMC Racing Team,",, 10:34",,2,2010
+24,,,+0:00,,Thomson Jay Robert,68,Fly V Australia Pro Cycling Team,",, 10:34",,2,2010
+34,,,+0:00,,Baldwin Christopher,69,UnitedHealthcare Presented by Maxxis,",, 10:34",,2,2010
+35,,,+0:00,,Randell Andrew,70,Spidertech presented by Planet Energy,",, 10:34",,2,2010
+33,,,+0:00,,Mumford Jonathan Reid,71,Kelly Benefit Strategies,12:07 12:07,,2,2010
+26,,,+0:00,,Powers Jeremy,72,Jelly Belly presented by Kenda,",, 12:07",,2,2010
+28,,,+0:00,,Cantwell Jonathan,73,Fly V Australia Pro Cycling Team,",, 12:07",,2,2010
+34,,,+0:00,,Grabsch Bert,74,Team HTC - Columbia,",, 12:07",,2,2010
+27,,,+0:00,,Rollin Dominique,75,Cervelo Test Team,15:02 15:02,,2,2010
+22,,,+0:00,,Veilleux David,76,Kelly Benefit Strategies,",, 15:02",,2,2010
+28,,,+0:00,,White Bradley,77,,",, 15:02",,2,2010
+22,,,+0:00,,Kristoff Alexander,78,BMC Racing Team,",, 15:02",,2,2010
+32,,,+0:00,,Wilson Matthew,79,Team Garmin - Transitions,",, 15:02",,2,2010
+35,,,+0:00,,Candelario Alex,80,Kelly Benefit Strategies,",, 15:02",,2,2010
+28,,,+0:00,,Barredo Carlos,81*,Quickstep - Innergetic,",, 15:02",,2,2010
+31,,,+0:00,,Dionne Charles,81,Fly V Australia Pro Cycling Team,",, 15:02",,2,2010
+28,,,+0:00,,Wynants Maarten,82,Quickstep - Innergetic,",, 15:02",,2,2010
+32,,,+0:00,,Hulsmans Kevin,83,Quickstep - Innergetic,",, 15:02",,2,2010
+29,,,+0:00,,Cancellara Fabian,84,Saxo Bank,",, 15:02",,2,2010
+22,,,+0:00,,van Winden Dennis,85,Rabobank ProTeam,",, 15:02",,2,2010
+29,,,+0:00,,Boonen Tom,86,Quickstep - Innergetic,17:20 17:20,,2,2010
+33,,,+0:00,,Hunter Robert,87,Team Garmin - Transitions,",, 17:20",,2,2010
+22,,,+0:00,,Holloway Daniel,88,Bissell Pro Cycling,",, 17:20",,2,2010
+28,,,+0:00,,Hovelijnck Kurt,89,Quickstep - Innergetic,",, 17:20",,2,2010
+23,,,+0:00,,Stauff Andreas,90,Quickstep - Innergetic,",, 17:20",,2,2010
+29,,,+0:00,,Eisel Bernhard,91,Team HTC - Columbia,",, 17:20",,2,2010
+21,,,+0:00,,Viviani Elia,92,Liquigas - Doimo,",, 17:20",,2,2010
+36,,,+0:00,,O'Grady Stuart,93,Saxo Bank,",, 17:20",,2,2010
+27,,,+0:00,,Renshaw Mark,94,Team HTC - Columbia,",, 17:20",,2,2010
+24,,,+0:00,,Cavendish Mark,95,Team HTC - Columbia,",, 17:20",,2,2010
+31,,,+0:00,,Shirley Neil,96,Kelly Benefit Strategies,",, 17:20",,2,2010
+27,,,+0:00,,Dickeson William,97,Jelly Belly presented by Kenda,",, 17:20",,2,2010
+24,,,+0:00,,Anthony Jesse,98,Kelly Benefit Strategies,",, 17:20",,2,2010
+28,,,+0:00,,Hanson Ken,99,Team Type 1,",, 17:20",,2,2010
+26,,,+0:00,,Bos Theo,100,Cervelo Test Team,",, 17:20",,2,2010
+29,,,+0:00,,Chicchi Francesco,101,Liquigas - Doimo,",, 17:20",,2,2010
+25,,,+0:00,,Ile\u0161i\u010d Aldo Ino,102,Team Type 1,",, 17:20",,2,2010
+35,,,+0:00,,Da Silva Correira Joao,103,Cervelo Test Team,",, 17:20",,2,2010
+24,,,+0:00,,Maes Nikolas,104,Quickstep - Innergetic,",, 17:20",,2,2010
+30,,,+0:00,,Quinziato Manuel,105,Liquigas - Doimo,",, 17:20",,2,2010
+23,,,+0:00,,Stewart Scott,106,Team Type 1,",, 17:20",,2,2010
+20,,,+0:00,,Boivin Guillaume,107,Spidertech presented by Planet Energy,",, 17:20",,2,2010
+27,,,+0:00,,Gilbert Martin,108,,",, 17:20",,2,2010
+21,,,+0:00,,van Garderen Tejay,109,Team HTC - Columbia,",, 17:20",,2,2010
+36,,,+0:00,,McCartney Jason,110,RadioShack,",, 17:20",,2,2010
+26,,,+0:00,,Santaromita Ivan,111,Liquigas - Doimo,",, 17:20",,2,2010
+31,,,+0:00,,Jacques-Maynes Andy,112,Bissell Pro Cycling,",, 17:20",,2,2010
+31,,,+0:00,,Langlois Bruno,113,Spidertech presented by Planet Energy,",, 17:20",,2,2010
+30,,,+0:00,,Muravyev Dmitriy,114,RadioShack,",, 17:20",,2,2010
+36,,,+0:00,,Hunt Jeremy,115,Cervelo Test Team,",, 17:20",,2,2010
+25,,,+0:00,,Breschel Matti,116,Saxo Bank,",, 17:20",,2,2010
+22,,,+0:00,,O Reilly Cody,117,Bissell Pro Cycling,",, 17:20",,2,2010
+25,,,+0:00,,Langeveld Sebastian,118,Rabobank ProTeam,",, 17:20",,2,2010
+24,,,+0:00,,Leezer Tom,119,Rabobank ProTeam,",, 17:20",,2,2010
+22,,,+0:00,,Boily Eric,120,Spidertech presented by Planet Energy,",, 17:20",,2,2010
+25,,,+0:00,,Crane Matthew,121,UnitedHealthcare Presented by Maxxis,",, 17:20",,2,2010
+26,,,+0:00,,Pujol Oscar,122,Cervelo Test Team,17:28 17:28,,2,2010
+26,,,+0:00,,Megias Javier,123,Team Type 1,17:58 17:58,,2,2010
+27,,,+0:00,,Bell Zach,124,Kelly Benefit Strategies,17:20 17:20,,2,2010
+31,,,+0:00,,Pinfold Andrew,DNF,UnitedHealthcare Presented by Maxxis,-4:38:48 -4:38:48,,2,2010
+24,,,+0:00,,Mazich Sean,NQ,Jelly Belly presented by Kenda,",, -4:38:48",,2,2010
+31,,,+0:00,30.0,Zabriskie David,1,Team Garmin - Transitions,4:26:09 4:26:09,20.0,3,2010
+30,,,+0:00,18.0,Rogers Michael,2,Team HTC - Columbia,",, ,,",14.0,3,2010
+36,,,+0:00,12.0,Leipheimer Levi,3,RadioShack,",, ,,",8.0,3,2010
+20,,,+0:00,7.0,Sagan Peter,4,Liquigas - Doimo,0:17 0:17,7.0,3,2010
+28,,,+0:00,4.0,Sutherland Rory,5,UnitedHealthcare Presented by Maxxis,",, 0:17",6.0,3,2010
+26,,,+0:00,3.0,Haussler Heinrich,6,Cervelo Test Team,",, 0:17",5.0,3,2010
+38,,,+0:00,2.0,Voigt Jens,7,Saxo Bank,",, 0:17",4.0,3,2010
+38,,,+0:00,1.0,Horner Chris,8,RadioShack,",, 0:17",2.0,3,2010
+28,,,+0:00,,Parisien Francois,9,Spidertech presented by Planet Energy,",, 0:17",,3,2010
+29,,,+0:00,,Hesjedal Ryder,10,Team Garmin - Transitions,",, 0:17",,3,2010
+29,,,+0:00,,Vennell Jeremy,11,Bissell Pro Cycling,",, 0:17",,3,2010
+27,,,+0:00,,Morabito Steve,12,BMC Racing Team,",, 0:17",,3,2010
+30,,,+0:00,,Bak Lars Ytting,13,Team HTC - Columbia,",, 0:17",,3,2010
+38,,,+0:00,,Armstrong Lance,14,RadioShack,",, 0:17",,3,2010
+30,,,+0:00,,Jones Chris,15,Team Type 1,",, 0:17",,3,2010
+22,,,+0:00,,Stetina Peter,16,Team Garmin - Transitions,",, 0:17",,3,2010
+25,,,+0:00,,Martin Tony,17,Team HTC - Columbia,",, 0:17",,3,2010
+26,,,+0:00,,de Maar Marc,18,UnitedHealthcare Presented by Maxxis,",, 0:17",,3,2010
+26,,,+0:00,,Brajkovi\u010d Janez,19,RadioShack,",, 0:17",,3,2010
+25,,,+0:00,,Fuglsang Jakob,20,Saxo Bank,",, 0:17",,3,2010
+37,,,+0:00,,Rubiera Jos\xe9 Luis,21,RadioShack,",, 0:17",,3,2010
+31,,,+0:00,,Zajicek Philip,22,Fly V Australia Pro Cycling Team,",, 0:17",,3,2010
+32,,,+0:00,,Danielson Thomas,23,Team Garmin - Transitions,",, 0:17",,3,2010
+30,,,+0:00,,Bellotti Francesco,24,Liquigas - Doimo,",, 0:17",,3,2010
+26,,,+0:00,,Euser Lucas,25,Spidertech presented by Planet Energy,",, 0:17",,3,2010
+28,,,+0:00,,Vandborg Brian,26,Liquigas - Doimo,0:37 0:37,,3,2010
+33,,,+0:00,,Kobzarenko Valery,27,Team Type 1,0:17 0:17,,3,2010
+24,,,+0:00,,Boom Lars,28,Rabobank ProTeam,1:41 1:41,,3,2010
+20,,,+0:00,,Boily David,29,Spidertech presented by Planet Energy,",, 1:41",,3,2010
+33,,,+0:00,,van de Walle Jurgen,30,Quickstep - Innergetic,",, 1:41",,3,2010
+26,,,+0:00,,Martens Paul,31,Rabobank ProTeam,",, 1:41",,3,2010
+36,,,+0:00,,Hincapie George,32,BMC Racing Team,",, 1:41",,3,2010
+34,,,+0:00,,Niermann Grischa,33,Rabobank ProTeam,",, 1:41",,3,2010
+34,,,+0:00,,Baldwin Christopher,34,UnitedHealthcare Presented by Maxxis,",, 1:41",,3,2010
+28,,,+0:00,,Barredo Carlos,35*,Quickstep - Innergetic,",, 1:41",,3,2010
+28,,,+0:00,,Mach Paul,35,Bissell Pro Cycling,",, 1:41",,3,2010
+26,,,+0:00,,Pujol Oscar,36,Cervelo Test Team,1:56 1:56,,3,2010
+31,,,+0:00,,Jacques-Maynes Benjamin,37,Bissell Pro Cycling,4:36 4:36,,3,2010
+25,,,+0:00,,Britton Rob,38,Bissell Pro Cycling,",, 4:36",,3,2010
+32,,,+0:00,,Zwizanski Scott,39,Kelly Benefit Strategies,",, 4:36",,3,2010
+23,,,+0:00,,Jenkins Max,40,UnitedHealthcare Presented by Maxxis,",, 4:36",,3,2010
+23,,,+0:00,,Reijnen Kiel,41,Jelly Belly presented by Kenda,",, 4:36",,3,2010
+28,,,+0:00,,Cantwell Jonathan,42,Fly V Australia Pro Cycling Team,",, 4:36",,3,2010
+22,,,+0:00,,Butler Chris,43,BMC Racing Team,",, 4:36",,3,2010
+23,,,+0:00,,Beyer Chad,44,BMC Racing Team,",, 4:36",,3,2010
+24,,,+0:00,,Maes Nikolas,45,Quickstep - Innergetic,4:40 4:40,,3,2010
+26,,,+0:00,,Sulzberger Bernard,46,Fly V Australia Pro Cycling Team,",, 4:40",,3,2010
+27,,,+0:00,,Clement Stef,47,Rabobank ProTeam,8:13 8:13,,3,2010
+31,,,+0:00,,Day Benjamin,48,Fly V Australia Pro Cycling Team,8:58 8:58,,3,2010
+27,,,+0:00,,Lill Darren,49,Fly V Australia Pro Cycling Team,",, 8:58",,3,2010
+30,,,+0:00,,Lancaster Brett,50,Cervelo Test Team,",, 8:58",,3,2010
+27,,,+0:00,,Zahner Simon,51,BMC Racing Team,",, 8:58",,3,2010
+33,,,+0:00,,Mumford Jonathan Reid,52,Kelly Benefit Strategies,",, 8:58",,3,2010
+26,,,+0:00,,Rabou Thomas,53,Team Type 1,",, 8:58",,3,2010
+29,,,+0:00,,Stewart Jackson,54,BMC Racing Team,",, 8:58",,3,2010
+31,,,+0:00,,Dionne Charles,55,Fly V Australia Pro Cycling Team,",, 8:58",,3,2010
+30,,,+0:00,,Popovych Yaroslav,56,RadioShack,",, 8:58",,3,2010
+27,,,+0:00,,Rollin Dominique,57,Cervelo Test Team,12:52 12:52,,3,2010
+23,,,+0:00,,Peterson Tom,58,Team Garmin - Transitions,",, 12:52",,3,2010
+22,,,+0:00,,Veilleux David,59,Kelly Benefit Strategies,",, 12:52",,3,2010
+24,,,+0:00,,Schleck Andy,60,Saxo Bank,16:10 16:10,,3,2010
+21,,,+0:00,,van Garderen Tejay,61,Team HTC - Columbia,",, 16:10",,3,2010
+26,,,+0:00,,Burghardt Marcus,62,BMC Racing Team,16:24 16:24,,3,2010
+29,,,+0:00,,Eisel Bernhard,63,Team HTC - Columbia,",, 16:24",,3,2010
+27,,,+0:00,,Friedman Michael,64,Jelly Belly presented by Kenda,",, 16:24",,3,2010
+26,,,+0:00,,Routley Will,65,Jelly Belly presented by Kenda,",, 16:24",,3,2010
+24,,,+0:00,,Cavendish Mark,66,Team HTC - Columbia,",, 16:24",,3,2010
+28,,,+0:00,,Hovelijnck Kurt,67,Quickstep - Innergetic,",, 16:24",,3,2010
+32,,,+0:00,,Tjallingii Maarten,68,Rabobank ProTeam,",, 16:24",,3,2010
+22,,,+0:00,,Holloway Daniel,69,Bissell Pro Cycling,",, 16:24",,3,2010
+26,,,+0:00,,Kemps Aaron,70,Fly V Australia Pro Cycling Team,",, 16:24",,3,2010
+21,,,+0:00,,Viviani Elia,71,Liquigas - Doimo,",, 16:24",,3,2010
+20,,,+0:00,,Cimolai Davide,72,Liquigas - Doimo,",, 16:24",,3,2010
+31,,,+0:00,,Jacques-Maynes Andy,73,Bissell Pro Cycling,",, 16:24",,3,2010
+30,,,+0:00,,van Ulden Bernard,74,Jelly Belly presented by Kenda,",, 16:24",,3,2010
+22,,,+0:00,,Kristoff Alexander,75,BMC Racing Team,",, 16:24",,3,2010
+34,,,+0:00,,Grabsch Bert,76,Team HTC - Columbia,",, 16:24",,3,2010
+27,,,+0:00,,Renshaw Mark,77,Team HTC - Columbia,",, 16:24",,3,2010
+22,,,+0:00,,Anderson Ryan,78,Kelly Benefit Strategies,",, 16:24",,3,2010
+29,,,+0:00,,Haedo Juan Jose,79,Saxo Bank,",, 16:24",,3,2010
+28,,,+0:00,,Wynants Maarten,80,Quickstep - Innergetic,",, 16:24",,3,2010
+25,,,+0:00,,Breschel Matti,81,Saxo Bank,",, 16:24",,3,2010
+29,,,+0:00,,Chicchi Francesco,82,Liquigas - Doimo,",, 16:24",,3,2010
+29,,,+0:00,,Boonen Tom,83,Quickstep - Innergetic,",, 16:24",,3,2010
+27,,,+0:00,,Bell Zach,84,Kelly Benefit Strategies,",, 16:24",,3,2010
+26,,,+0:00,,Santaromita Ivan,85,Liquigas - Doimo,",, 16:24",,3,2010
+30,,,+0:00,,Quinziato Manuel,86,Liquigas - Doimo,",, 16:24",,3,2010
+26,,,+0:00,,Powers Jeremy,87,Jelly Belly presented by Kenda,",, 16:24",,3,2010
+26,,,+0:00,,Bos Theo,88,Cervelo Test Team,",, 16:24",,3,2010
+35,,,+0:00,,Candelario Alex,89,Kelly Benefit Strategies,",, 16:24",,3,2010
+31,,,+0:00,,Shirley Neil,90,Kelly Benefit Strategies,",, 16:24",,3,2010
+35,,,+0:00,,Da Silva Correira Joao,91,Cervelo Test Team,",, 16:24",,3,2010
+23,,,+0:00,,Stauff Andreas,92,Quickstep - Innergetic,",, 16:24",,3,2010
+32,,,+0:00,,Hulsmans Kevin,93,Quickstep - Innergetic,",, 16:24",,3,2010
+28,,,+0:00,,Hanson Ken,94,Team Type 1,",, 16:24",,3,2010
+20,,,+0:00,,Boivin Guillaume,95,Spidertech presented by Planet Energy,",, 16:24",,3,2010
+25,,,+0:00,,Ile\u0161i\u010d Aldo Ino,96,Team Type 1,",, 16:24",,3,2010
+29,,,+0:00,,Cancellara Fabian,97,Saxo Bank,",, 16:24",,3,2010
+22,,,+0:00,,Steensen Andre,98,Saxo Bank,",, 16:24",,3,2010
+36,,,+0:00,,O'Grady Stuart,99,Saxo Bank,",, 16:24",,3,2010
+26,,,+0:00,,Latham Peter,100,Bissell Pro Cycling,",, 16:24",,3,2010
+28,,,+0:00,,White Bradley,101,,",, 16:24",,3,2010
+36,,,+0:00,,McCartney Jason,102,RadioShack,",, 16:24",,3,2010
+22,,,+0:00,,O Reilly Cody,103,Bissell Pro Cycling,",, 16:24",,3,2010
+32,,,+0:00,,Menzies Karl,104,UnitedHealthcare Presented by Maxxis,",, 16:24",,3,2010
+25,,,+0:00,,Crane Matthew,105,UnitedHealthcare Presented by Maxxis,",, 16:24",,3,2010
+31,,,+0:00,,Langlois Bruno,106,Spidertech presented by Planet Energy,",, 16:24",,3,2010
+30,,,+0:00,,Muravyev Dmitriy,107,RadioShack,",, 16:24",,3,2010
+22,,,+0:00,,van Winden Dennis,108,Rabobank ProTeam,",, 16:24",,3,2010
+24,,,+0:00,,Leezer Tom,109,Rabobank ProTeam,",, 16:24",,3,2010
+27,,,+0:00,,Dickeson William,110,Jelly Belly presented by Kenda,",, 16:24",,3,2010
+27,,,+0:00,,Gilbert Martin,111,,",, 16:24",,3,2010
+26,,,+0:00,,Deignan Philip,112,Cervelo Test Team,",, 16:24",,3,2010
+22,,,+0:00,,Boily Eric,113,Spidertech presented by Planet Energy,",, 16:24",,3,2010
+32,,,+0:00,,Wilson Matthew,114,Team Garmin - Transitions,",, 16:24",,3,2010
+33,,,+0:00,,Hunter Robert,115,Team Garmin - Transitions,",, 16:24",,3,2010
+25,,,+0:00,,Cozza Steven,116,Team Garmin - Transitions,",, 16:24",,3,2010
+24,,,+0:00,,Thomson Jay Robert,117,Fly V Australia Pro Cycling Team,",, 16:24",,3,2010
+36,,,+0:00,,Hunt Jeremy,118,Cervelo Test Team,",, 16:24",,3,2010
+23,,,+0:00,,Stewart Scott,119,Team Type 1,",, 16:24",,3,2010
+25,,,+0:00,,Langeveld Sebastian,120,Rabobank ProTeam,",, 16:24",,3,2010
+35,,,+0:00,,Randell Andrew,121,Spidertech presented by Planet Energy,",, 16:24",,3,2010
+26,,,+0:00,,Megias Javier,122,Team Type 1,",, 16:24",,3,2010
+31,,,+0:00,,Frattini Davide,123,Team Type 1,",, 16:24",,3,2010
+24,,,+0:00,,Mazich Sean,DNF,Jelly Belly presented by Kenda,-4:26:09 -4:26:09,,3,2010
+24,,,+0:00,,Anthony Jesse,DNF,Kelly Benefit Strategies,",, -4:26:09",,3,2010
+29,,,+0:00,30.0,Chicchi Francesco,1,Liquigas - Doimo,4:55:02 4:55:02,20.0,4,2010
+29,,,+0:00,18.0,Haedo Juan Jose,2,Saxo Bank,",, ,,",14.0,4,2010
+24,,,+0:00,12.0,Cavendish Mark,3,Team HTC - Columbia,",, ,,",8.0,4,2010
+26,,,+0:00,7.0,Bos Theo,4,Cervelo Test Team,",, ,,",7.0,4,2010
+28,,,+0:00,4.0,Cantwell Jonathan,5,Fly V Australia Pro Cycling Team,",, ,,",6.0,4,2010
+22,,,+0:00,3.0,Kristoff Alexander,6,BMC Racing Team,",, ,,",5.0,4,2010
+28,,,+0:00,2.0,Hanson Ken,7,Team Type 1,",, ,,",4.0,4,2010
+23,,,+0:00,1.0,Stauff Andreas,8,Quickstep - Innergetic,",, ,,",2.0,4,2010
+35,,,+0:00,,Candelario Alex,9,Kelly Benefit Strategies,",, ,,",,4,2010
+20,,,+0:00,,Boivin Guillaume,10,Spidertech presented by Planet Energy,",, ,,",,4,2010
+36,,,+0:00,,Hincapie George,11,BMC Racing Team,",, ,,",,4,2010
+26,,,+0:00,,Haussler Heinrich,12,Cervelo Test Team,",, ,,",,4,2010
+22,,,+0:00,,Holloway Daniel,13,Bissell Pro Cycling,",, ,,",,4,2010
+25,,,+0:00,,Langeveld Sebastian,14,Rabobank ProTeam,",, ,,",,4,2010
+27,,,+0:00,,Renshaw Mark,15,Team HTC - Columbia,",, ,,",,4,2010
+26,,,+0:00,,Kemps Aaron,16,Fly V Australia Pro Cycling Team,",, ,,",,4,2010
+26,,,+0:00,,Brajkovi\u010d Janez,17,RadioShack,",, ,,",,4,2010
+27,,,+0:00,,Gilbert Martin,18,,",, ,,",,4,2010
+38,,,+0:00,,Horner Chris,19,RadioShack,",, ,,",,4,2010
+29,,,+0:00,,Hesjedal Ryder,20,Team Garmin - Transitions,",, ,,",,4,2010
+21,,,+0:00,,Viviani Elia,21,Liquigas - Doimo,",, ,,",,4,2010
+25,,,+0:00,,Crane Matthew,22,UnitedHealthcare Presented by Maxxis,",, ,,",,4,2010
+33,,,+0:00,,Kobzarenko Valery,23,Team Type 1,",, ,,",,4,2010
+27,,,+0:00,,Bell Zach,24,Kelly Benefit Strategies,",, ,,",,4,2010
+33,,,+0:00,,Hunter Robert,25,Team Garmin - Transitions,",, ,,",,4,2010
+24,,,+0:00,,Maes Nikolas,26,Quickstep - Innergetic,",, ,,",,4,2010
+27,,,+0:00,,Friedman Michael,27,Jelly Belly presented by Kenda,",, ,,",,4,2010
+36,,,+0:00,,Leipheimer Levi,28,RadioShack,",, ,,",,4,2010
+31,,,+0:00,,Zabriskie David,29,Team Garmin - Transitions,",, ,,",,4,2010
+32,,,+0:00,,Danielson Thomas,30,Team Garmin - Transitions,",, ,,",,4,2010
+31,,,+0:00,,Shirley Neil,31,Kelly Benefit Strategies,",, ,,",,4,2010
+30,,,+0:00,,Rogers Michael,32,Team HTC - Columbia,",, ,,",,4,2010
+38,,,+0:00,,Voigt Jens,33,Saxo Bank,",, ,,",,4,2010
+30,,,+0:00,,Jones Chris,34,Team Type 1,",, ,,",,4,2010
+34,,,+0:00,,Niermann Grischa,35,Rabobank ProTeam,",, ,,",,4,2010
+23,,,+0:00,,Peterson Tom,36,Team Garmin - Transitions,",, ,,",,4,2010
+28,,,+0:00,,Hovelijnck Kurt,37,Quickstep - Innergetic,",, ,,",,4,2010
+26,,,+0:00,,de Maar Marc,38,UnitedHealthcare Presented by Maxxis,",, ,,",,4,2010
+30,,,+0:00,,Bak Lars Ytting,39,Team HTC - Columbia,",, ,,",,4,2010
+26,,,+0:00,,Euser Lucas,40,Spidertech presented by Planet Energy,",, ,,",,4,2010
+31,,,+0:00,,Day Benjamin,41,Fly V Australia Pro Cycling Team,",, ,,",,4,2010
+28,,,+0:00,,Sutherland Rory,42,UnitedHealthcare Presented by Maxxis,",, ,,",,4,2010
+31,,,+0:00,,Zajicek Philip,43,Fly V Australia Pro Cycling Team,",, ,,",,4,2010
+34,,,+0:00,,Grabsch Bert,44,Team HTC - Columbia,",, ,,",,4,2010
+30,,,+0:00,,Bellotti Francesco,45,Liquigas - Doimo,",, ,,",,4,2010
+33,,,+0:00,,Mumford Jonathan Reid,46,Kelly Benefit Strategies,",, ,,",,4,2010
+22,,,+0:00,,Stetina Peter,47,Team Garmin - Transitions,",, ,,",,4,2010
+32,,,+0:00,,Zwizanski Scott,48,Kelly Benefit Strategies,",, ,,",,4,2010
+25,,,+0:00,,Fuglsang Jakob,49,Saxo Bank,",, ,,",,4,2010
+23,,,+0:00,,Reijnen Kiel,50,Jelly Belly presented by Kenda,",, ,,",,4,2010
+20,,,+0:00,,Boily David,51,Spidertech presented by Planet Energy,",, ,,",,4,2010
+20,,,+0:00,,Sagan Peter,52,Liquigas - Doimo,",, ,,",,4,2010
+28,,,+0:00,,Vandborg Brian,53,Liquigas - Doimo,",, ,,",,4,2010
+36,,,+0:00,,O'Grady Stuart,54,Saxo Bank,",, ,,",,4,2010
+28,,,+0:00,,Wynants Maarten,55,Quickstep - Innergetic,",, ,,",,4,2010
+28,,,+0:00,,Barredo Carlos,56*,Quickstep - Innergetic,",, ,,",,4,2010
+26,,,+0:00,,Martens Paul,56,Rabobank ProTeam,",, ,,",,4,2010
+28,,,+0:00,,Mach Paul,57,Bissell Pro Cycling,",, ,,",,4,2010
+30,,,+0:00,,Quinziato Manuel,58,Liquigas - Doimo,",, ,,",,4,2010
+31,,,+0:00,,Jacques-Maynes Benjamin,59,Bissell Pro Cycling,",, ,,",,4,2010
+37,,,+0:00,,Rubiera Jos\xe9 Luis,60,RadioShack,",, ,,",,4,2010
+31,,,+0:00,,Dionne Charles,61,Fly V Australia Pro Cycling Team,",, ,,",,4,2010
+31,,,+0:00,,Jacques-Maynes Andy,62,Bissell Pro Cycling,",, ,,",,4,2010
+31,,,+0:00,,Langlois Bruno,63,Spidertech presented by Planet Energy,",, ,,",,4,2010
+35,,,+0:00,,Randell Andrew,64,Spidertech presented by Planet Energy,",, ,,",,4,2010
+22,,,+0:00,,O Reilly Cody,65,Bissell Pro Cycling,",, ,,",,4,2010
+25,,,+0:00,,Breschel Matti,66,Saxo Bank,",, ,,",,4,2010
+28,,,+0:00,,Parisien Francois,67,Spidertech presented by Planet Energy,",, ,,",,4,2010
+29,,,+0:00,,Vennell Jeremy,68,Bissell Pro Cycling,",, ,,",,4,2010
+27,,,+0:00,,Clement Stef,69,Rabobank ProTeam,",, ,,",,4,2010
+33,,,+0:00,,van de Walle Jurgen,70,Quickstep - Innergetic,",, ,,",,4,2010
+23,,,+0:00,,Beyer Chad,71,BMC Racing Team,",, ,,",,4,2010
+31,,,+0:00,,Frattini Davide,72,Team Type 1,",, ,,",,4,2010
+22,,,+0:00,,Veilleux David,73,Kelly Benefit Strategies,0:19 0:19,,4,2010
+29,,,+0:00,,Eisel Bernhard,74,Team HTC - Columbia,",, 0:19",,4,2010
+32,,,+0:00,,Wilson Matthew,75,Team Garmin - Transitions,0:23 0:23,,4,2010
+25,,,+0:00,,Martin Tony,76,Team HTC - Columbia,0:29 0:29,,4,2010
+20,,,+0:00,,Cimolai Davide,77,Liquigas - Doimo,0:31 0:31,,4,2010
+26,,,+0:00,,Burghardt Marcus,78,BMC Racing Team,0:45 0:45,,4,2010
+32,,,+0:00,,Hulsmans Kevin,79,Quickstep - Innergetic,",, 0:45",,4,2010
+29,,,+0:00,,Boonen Tom,80,Quickstep - Innergetic,",, 0:45",,4,2010
+26,,,+0:00,,Routley Will,81,Jelly Belly presented by Kenda,",, 0:45",,4,2010
+24,,,+0:00,,Leezer Tom,82,Rabobank ProTeam,1:20 1:20,,4,2010
+24,,,+0:00,,Thomson Jay Robert,83,Fly V Australia Pro Cycling Team,1:24 1:24,,4,2010
+32,,,+0:00,,Tjallingii Maarten,84,Rabobank ProTeam,",, 1:24",,4,2010
+22,,,+0:00,,Butler Chris,85,BMC Racing Team,",, 1:24",,4,2010
+24,,,+0:00,,Schleck Andy,86,Saxo Bank,",, 1:24",,4,2010
+34,,,+0:00,,Baldwin Christopher,87,UnitedHealthcare Presented by Maxxis,",, 1:24",,4,2010
+36,,,+0:00,,Hunt Jeremy,88,Cervelo Test Team,1:29 1:29,,4,2010
+22,,,+0:00,,van Winden Dennis,89,Rabobank ProTeam,",, 1:29",,4,2010
+23,,,+0:00,,Jenkins Max,90,UnitedHealthcare Presented by Maxxis,",, 1:29",,4,2010
+29,,,+0:00,,Stewart Jackson,91,BMC Racing Team,",, 1:29",,4,2010
+27,,,+0:00,,Rollin Dominique,92,Cervelo Test Team,2:09 2:09,,4,2010
+38,,,+0:00,,Armstrong Lance,93,RadioShack,",, 2:09",,4,2010
+36,,,+0:00,,McCartney Jason,94,RadioShack,2:13 2:13,,4,2010
+30,,,+0:00,,Muravyev Dmitriy,95,RadioShack,",, 2:13",,4,2010
+30,,,+0:00,,Popovych Yaroslav,96,RadioShack,",, 2:13",,4,2010
+26,,,+0:00,,Santaromita Ivan,97,Liquigas - Doimo,",, 2:13",,4,2010
+24,,,+0:00,,Boom Lars,98,Rabobank ProTeam,",, 2:13",,4,2010
+21,,,+0:00,,van Garderen Tejay,99,Team HTC - Columbia,",, 2:13",,4,2010
+30,,,+0:00,,van Ulden Bernard,100,Jelly Belly presented by Kenda,",, 2:13",,4,2010
+26,,,+0:00,,Rabou Thomas,101,Team Type 1,",, 2:13",,4,2010
+27,,,+0:00,,Lill Darren,102,Fly V Australia Pro Cycling Team,",, 2:13",,4,2010
+26,,,+0:00,,Deignan Philip,103,Cervelo Test Team,",, 2:13",,4,2010
+28,,,+0:00,,White Bradley,104,,",, 2:13",,4,2010
+22,,,+0:00,,Boily Eric,105,Spidertech presented by Planet Energy,",, 2:13",,4,2010
+26,,,+0:00,,Megias Javier,106,Team Type 1,",, 2:13",,4,2010
+30,,,+0:00,,Lancaster Brett,107,Cervelo Test Team,2:54 2:54,,4,2010
+29,,,+0:00,,Cancellara Fabian,108,Saxo Bank,",, 2:54",,4,2010
+26,,,+0:00,,Pujol Oscar,109,Cervelo Test Team,",, 2:54",,4,2010
+25,,,+0:00,,Britton Rob,110,Bissell Pro Cycling,",, 2:54",,4,2010
+22,,,+0:00,,Anderson Ryan,111,Kelly Benefit Strategies,",, 2:54",,4,2010
+32,,,+0:00,,Menzies Karl,112,UnitedHealthcare Presented by Maxxis,",, 2:54",,4,2010
+27,,,+0:00,,Zahner Simon,113,BMC Racing Team,3:04 3:04,,4,2010
+27,,,+0:00,,Morabito Steve,114,BMC Racing Team,",, 3:04",,4,2010
+27,,,+0:00,,Dickeson William,115,Jelly Belly presented by Kenda,3:10 3:10,,4,2010
+26,,,+0:00,,Powers Jeremy,116,Jelly Belly presented by Kenda,",, 3:10",,4,2010
+26,,,+0:00,,Latham Peter,117,Bissell Pro Cycling,",, 3:10",,4,2010
+26,,,+0:00,,Sulzberger Bernard,118,Fly V Australia Pro Cycling Team,4:18 4:18,,4,2010
+25,,,+0:00,,Cozza Steven,119,Team Garmin - Transitions,4:30 4:30,,4,2010
+35,,,+0:00,,Da Silva Correira Joao,DNF,Cervelo Test Team,-4:55:02 -4:55:02,,4,2010
+25,,,+0:00,,Ile\u0161i\u010d Aldo Ino,DNF,Team Type 1,",, -4:55:02",,4,2010
+23,,,+0:00,,Stewart Scott,DNF,Team Type 1,",, -4:55:02",,4,2010
+20,,,+0:00,30.0,Sagan Peter,1,Liquigas - Doimo,4:56:28 4:56:28,20.0,5,2010
+30,,,+0:00,18.0,Rogers Michael,2,Team HTC - Columbia,",, ,,",14.0,5,2010
+31,,,+0:00,12.0,Zabriskie David,3,Team Garmin - Transitions,",, ,,",8.0,5,2010
+38,,,+0:00,7.0,Horner Chris,4,RadioShack,",, ,,",7.0,5,2010
+26,,,+0:00,4.0,Martens Paul,5,Rabobank ProTeam,",, ,,",6.0,5,2010
+25,,,+0:00,3.0,Martin Tony,6,Team HTC - Columbia,",, ,,",5.0,5,2010
+36,,,+0:00,2.0,Leipheimer Levi,7,RadioShack,",, ,,",4.0,5,2010
+29,,,+0:00,1.0,Hesjedal Ryder,8,Team Garmin - Transitions,",, ,,",2.0,5,2010
+38,,,+0:00,,Voigt Jens,9,Saxo Bank,",, ,,",,5,2010
+28,,,+0:00,,Sutherland Rory,10,UnitedHealthcare Presented by Maxxis,",, ,,",,5,2010
+26,,,+0:00,,Brajkovi\u010d Janez,11,RadioShack,",, ,,",,5,2010
+27,,,+0:00,,Morabito Steve,12,BMC Racing Team,",, ,,",,5,2010
+32,,,+0:00,,Danielson Thomas,13,Team Garmin - Transitions,",, ,,",,5,2010
+31,,,+0:00,,Zajicek Philip,14,Fly V Australia Pro Cycling Team,",, ,,",,5,2010
+25,,,+0:00,,Fuglsang Jakob,15,Saxo Bank,",, ,,",,5,2010
+33,,,+0:00,,van de Walle Jurgen,16,Quickstep - Innergetic,",, ,,",,5,2010
+26,,,+0:00,,de Maar Marc,17,UnitedHealthcare Presented by Maxxis,",, ,,",,5,2010
+22,,,+0:00,,Stetina Peter,18,Team Garmin - Transitions,",, ,,",,5,2010
+31,,,+0:00,,Dionne Charles,19,Fly V Australia Pro Cycling Team,",, ,,",,5,2010
+20,,,+0:00,,Boily David,20,Spidertech presented by Planet Energy,",, ,,",,5,2010
+30,,,+0:00,,Lancaster Brett,21,Cervelo Test Team,",, ,,",,5,2010
+36,,,+0:00,,Hincapie George,22,BMC Racing Team,",, ,,",,5,2010
+26,,,+0:00,,Sulzberger Bernard,23,Fly V Australia Pro Cycling Team,",, ,,",,5,2010
+30,,,+0:00,,Bak Lars Ytting,24,Team HTC - Columbia,",, ,,",,5,2010
+33,,,+0:00,,Kobzarenko Valery,25,Team Type 1,",, ,,",,5,2010
+29,,,+0:00,,Vennell Jeremy,26,Bissell Pro Cycling,",, ,,",,5,2010
+26,,,+0:00,,Euser Lucas,27,Spidertech presented by Planet Energy,",, ,,",,5,2010
+28,,,+0:00,,Barredo Carlos,28*,Quickstep - Innergetic,",, ,,",,5,2010
+31,,,+0:00,,Jacques-Maynes Benjamin,28,Bissell Pro Cycling,",, ,,",,5,2010
+30,,,+0:00,,Jones Chris,29,Team Type 1,0:13 0:13,,5,2010
+28,,,+0:00,,Cantwell Jonathan,30,Fly V Australia Pro Cycling Team,0:30 0:30,,5,2010
+21,,,+0:00,,van Garderen Tejay,31,Team HTC - Columbia,0:32 0:32,,5,2010
+26,,,+0:00,,Kemps Aaron,32,Fly V Australia Pro Cycling Team,",, 0:32",,5,2010
+25,,,+0:00,,Crane Matthew,33,UnitedHealthcare Presented by Maxxis,",, 0:32",,5,2010
+28,,,+0:00,,Vandborg Brian,34,Liquigas - Doimo,",, 0:32",,5,2010
+25,,,+0:00,,Breschel Matti,35,Saxo Bank,0:37 0:37,,5,2010
+32,,,+0:00,,Zwizanski Scott,36,Kelly Benefit Strategies,0:43 0:43,,5,2010
+30,,,+0:00,,Popovych Yaroslav,37,RadioShack,0:48 0:48,,5,2010
+34,,,+0:00,,Niermann Grischa,38,Rabobank ProTeam,0:50 0:50,,5,2010
+34,,,+0:00,,Grabsch Bert,39,Team HTC - Columbia,",, 0:50",,5,2010
+24,,,+0:00,,Schleck Andy,40,Saxo Bank,",, 0:50",,5,2010
+30,,,+0:00,,Quinziato Manuel,41,Liquigas - Doimo,1:27 1:27,,5,2010
+36,,,+0:00,,McCartney Jason,42,RadioShack,",, 1:27",,5,2010
+26,,,+0:00,,Deignan Philip,43,Cervelo Test Team,1:45 1:45,,5,2010
+26,,,+0:00,,Rabou Thomas,44,Team Type 1,2:01 2:01,,5,2010
+33,,,+0:00,,Hunter Robert,45,Team Garmin - Transitions,2:13 2:13,,5,2010
+28,,,+0:00,,Hovelijnck Kurt,46,Quickstep - Innergetic,2:44 2:44,,5,2010
+22,,,+0:00,,Butler Chris,47,BMC Racing Team,",, 2:44",,5,2010
+29,,,+0:00,,Stewart Jackson,48,BMC Racing Team,",, 2:44",,5,2010
+30,,,+0:00,,Bellotti Francesco,49,Liquigas - Doimo,",, 2:44",,5,2010
+28,,,+0:00,,Mach Paul,50,Bissell Pro Cycling,",, 2:44",,5,2010
+31,,,+0:00,,Day Benjamin,51,Fly V Australia Pro Cycling Team,",, 2:44",,5,2010
+30,,,+0:00,,Muravyev Dmitriy,52,RadioShack,",, 2:44",,5,2010
+34,,,+0:00,,Baldwin Christopher,53,UnitedHealthcare Presented by Maxxis,",, 2:44",,5,2010
+32,,,+0:00,,Wilson Matthew,54,Team Garmin - Transitions,",, 2:44",,5,2010
+27,,,+0:00,,Renshaw Mark,55,Team HTC - Columbia,3:27 3:27,,5,2010
+27,,,+0:00,,Dickeson William,56,Jelly Belly presented by Kenda,4:04 4:04,,5,2010
+23,,,+0:00,,Peterson Tom,57,Team Garmin - Transitions,",, 4:04",,5,2010
+27,,,+0:00,,Lill Darren,58,Fly V Australia Pro Cycling Team,6:23 6:23,,5,2010
+26,,,+0:00,,Santaromita Ivan,59,Liquigas - Doimo,9:14 9:14,,5,2010
+29,,,+0:00,,Eisel Bernhard,60,Team HTC - Columbia,27:34 27:34,,5,2010
+32,,,+0:00,,Tjallingii Maarten,61,Rabobank ProTeam,",, 27:34",,5,2010
+24,,,+0:00,,Cavendish Mark,62,Team HTC - Columbia,",, 27:34",,5,2010
+29,,,+0:00,,Cancellara Fabian,63,Saxo Bank,",, 27:34",,5,2010
+24,,,+0:00,,Boom Lars,64,Rabobank ProTeam,",, 27:34",,5,2010
+30,,,+0:00,,van Ulden Bernard,65,Jelly Belly presented by Kenda,",, 27:34",,5,2010
+25,,,+0:00,,Britton Rob,66,Bissell Pro Cycling,",, 27:34",,5,2010
+27,,,+0:00,,Clement Stef,67,Rabobank ProTeam,",, 27:34",,5,2010
+27,,,+0:00,,Friedman Michael,68,Jelly Belly presented by Kenda,",, 27:34",,5,2010
+22,,,+0:00,,Kristoff Alexander,69,BMC Racing Team,",, 27:34",,5,2010
+27,,,+0:00,,Zahner Simon,70,BMC Racing Team,",, 27:34",,5,2010
+29,,,+0:00,,Chicchi Francesco,71,Liquigas - Doimo,",, 27:34",,5,2010
+31,,,+0:00,,Frattini Davide,72,Team Type 1,",, 27:34",,5,2010
+23,,,+0:00,,Jenkins Max,73,UnitedHealthcare Presented by Maxxis,",, 27:34",,5,2010
+28,,,+0:00,,White Bradley,74,,",, 27:34",,5,2010
+33,,,+0:00,,Mumford Jonathan Reid,75,Kelly Benefit Strategies,",, 27:34",,5,2010
+21,,,+0:00,,Viviani Elia,76,Liquigas - Doimo,",, 27:34",,5,2010
+20,,,+0:00,,Cimolai Davide,77,Liquigas - Doimo,",, 27:34",,5,2010
+23,,,+0:00,,Reijnen Kiel,78,Jelly Belly presented by Kenda,",, 27:34",,5,2010
+31,,,+0:00,,Shirley Neil,79,Kelly Benefit Strategies,",, 27:34",,5,2010
+26,,,+0:00,,Burghardt Marcus,80,BMC Racing Team,",, 27:34",,5,2010
+28,,,+0:00,,Wynants Maarten,81,Quickstep - Innergetic,",, 27:34",,5,2010
+27,,,+0:00,,Rollin Dominique,82,Cervelo Test Team,",, 27:34",,5,2010
+29,,,+0:00,,Haedo Juan Jose,83,Saxo Bank,",, 27:34",,5,2010
+23,,,+0:00,,Beyer Chad,84,BMC Racing Team,",, 27:34",,5,2010
+26,,,+0:00,,Megias Javier,85,Team Type 1,",, 27:34",,5,2010
+32,,,+0:00,,Hulsmans Kevin,86,Quickstep - Innergetic,",, 27:34",,5,2010
+31,,,+0:00,,Langlois Bruno,87,Spidertech presented by Planet Energy,",, 27:34",,5,2010
+37,,,+0:00,,Rubiera Jos\xe9 Luis,88,RadioShack,",, 27:34",,5,2010
+28,,,+0:00,,Hanson Ken,89,Team Type 1,",, 27:34",,5,2010
+22,,,+0:00,,O Reilly Cody,90,Bissell Pro Cycling,",, 27:34",,5,2010
+24,,,+0:00,,Leezer Tom,91,Rabobank ProTeam,",, 27:34",,5,2010
+25,,,+0:00,,Langeveld Sebastian,92,Rabobank ProTeam,",, 27:34",,5,2010
+31,,,+0:00,,Jacques-Maynes Andy,93,Bissell Pro Cycling,",, 27:34",,5,2010
+26,,,+0:00,,Latham Peter,94,Bissell Pro Cycling,",, 27:34",,5,2010
+32,,,+0:00,,Menzies Karl,95,UnitedHealthcare Presented by Maxxis,",, 27:34",,5,2010
+26,,,+0:00,,Bos Theo,96,Cervelo Test Team,",, 27:34",,5,2010
+35,,,+0:00,,Candelario Alex,97,Kelly Benefit Strategies,",, 27:34",,5,2010
+25,,,+0:00,,Cozza Steven,98,Team Garmin - Transitions,",, 27:34",,5,2010
+22,,,+0:00,,van Winden Dennis,99,Rabobank ProTeam,",, 27:34",,5,2010
+28,,,+0:00,,Parisien Francois,100,Spidertech presented by Planet Energy,",, 27:34",,5,2010
+27,,,+0:00,,Gilbert Martin,101,,",, 27:34",,5,2010
+27,,,+0:00,,Bell Zach,102,Kelly Benefit Strategies,",, 27:34",,5,2010
+26,,,+0:00,,Powers Jeremy,103,Jelly Belly presented by Kenda,",, 27:34",,5,2010
+26,,,+0:00,,Routley Will,104,Jelly Belly presented by Kenda,",, 27:34",,5,2010
+20,,,+0:00,,Boivin Guillaume,105,Spidertech presented by Planet Energy,",, 27:34",,5,2010
+22,,,+0:00,,Anderson Ryan,106,Kelly Benefit Strategies,",, 27:34",,5,2010
+36,,,+0:00,,Hunt Jeremy,107,Cervelo Test Team,",, 27:34",,5,2010
+35,,,+0:00,,Randell Andrew,108,Spidertech presented by Planet Energy,",, 27:34",,5,2010
+22,,,+0:00,,Veilleux David,109,Kelly Benefit Strategies,",, 27:34",,5,2010
+29,,,+0:00,,Boonen Tom,110,Quickstep - Innergetic,",, 27:34",,5,2010
+22,,,+0:00,,Boily Eric,111,Spidertech presented by Planet Energy,",, 27:34",,5,2010
+23,,,+0:00,,Stauff Andreas,112,Quickstep - Innergetic,",, 27:34",,5,2010
+24,,,+0:00,,Maes Nikolas,113,Quickstep - Innergetic,",, 27:34",,5,2010
+26,,,+0:00,,Pujol Oscar,114,Cervelo Test Team,",, 27:34",,5,2010
+38,,,+0:00,,Armstrong Lance,DNF,RadioShack,-4:56:28 -4:56:28,,5,2010
+36,,,+0:00,,O'Grady Stuart,DNF,Saxo Bank,",, -4:56:28",,5,2010
+26,,,+0:00,,Haussler Heinrich,DNF,Cervelo Test Team,",, -4:56:28",,5,2010
+22,,,+0:00,,Holloway Daniel,DNF,Bissell Pro Cycling,",, -4:56:28",,5,2010
+24,,,+0:00,,Thomson Jay Robert,DNF,Fly V Australia Pro Cycling Team,",, -4:56:28",,5,2010
+20,,,+0:00,30.0,Sagan Peter,1,Liquigas - Doimo,6:07:08 6:07:08,20.0,6,2010
+28,,,+0:00,18.0,Sutherland Rory,2,UnitedHealthcare Presented by Maxxis,",, ,,",14.0,6,2010
+30,,,+0:00,12.0,Rogers Michael,3,Team HTC - Columbia,",, ,,",8.0,6,2010
+36,,,+0:00,7.0,Leipheimer Levi,4,RadioShack,",, ,,",7.0,6,2010
+29,,,+0:00,4.0,Hesjedal Ryder,5,Team Garmin - Transitions,",, ,,",6.0,6,2010
+31,,,+0:00,3.0,Zajicek Philip,6,Fly V Australia Pro Cycling Team,",, ,,",5.0,6,2010
+26,,,+0:00,2.0,Martens Paul,7,Rabobank ProTeam,",, ,,",4.0,6,2010
+31,,,+0:00,1.0,Zabriskie David,8,Team Garmin - Transitions,",, ,,",2.0,6,2010
+38,,,+0:00,,Voigt Jens,9,Saxo Bank,",, ,,",,6,2010
+32,,,+0:00,,Danielson Thomas,10,Team Garmin - Transitions,",, ,,",,6,2010
+26,,,+0:00,,Brajkovi\u010d Janez,11,RadioShack,",, ,,",,6,2010
+38,,,+0:00,,Horner Chris,12,RadioShack,",, ,,",,6,2010
+26,,,+0:00,,de Maar Marc,13,UnitedHealthcare Presented by Maxxis,",, ,,",,6,2010
+33,,,+0:00,,Kobzarenko Valery,14,Team Type 1,",, ,,",,6,2010
+27,,,+0:00,,Morabito Steve,15,BMC Racing Team,",, ,,",,6,2010
+36,,,+0:00,,Hincapie George,16,BMC Racing Team,",, ,,",,6,2010
+22,,,+0:00,,Stetina Peter,17,Team Garmin - Transitions,",, ,,",,6,2010
+33,,,+0:00,,van de Walle Jurgen,18,Quickstep - Innergetic,",, ,,",,6,2010
+30,,,+0:00,,Jones Chris,19,Team Type 1,",, ,,",,6,2010
+23,,,+0:00,,Peterson Tom,20,Team Garmin - Transitions,",, ,,",,6,2010
+26,,,+0:00,,Euser Lucas,21,Spidertech presented by Planet Energy,",, ,,",,6,2010
+26,,,+0:00,,Pujol Oscar,22,Cervelo Test Team,0:32 0:32,,6,2010
+34,,,+0:00,,Niermann Grischa,23,Rabobank ProTeam,0:34 0:34,,6,2010
+21,,,+0:00,,van Garderen Tejay,24,Team HTC - Columbia,1:23 1:23,,6,2010
+25,,,+0:00,,Martin Tony,25,Team HTC - Columbia,",, 1:23",,6,2010
+36,,,+0:00,,McCartney Jason,26,RadioShack,2:07 2:07,,6,2010
+32,,,+0:00,,Wilson Matthew,27,Team Garmin - Transitions,",, 2:07",,6,2010
+25,,,+0:00,,Fuglsang Jakob,28,Saxo Bank,14:30 14:30,,6,2010
+24,,,+0:00,,Schleck Andy,29,Saxo Bank,",, 14:30",,6,2010
+30,,,+0:00,,Popovych Yaroslav,30,RadioShack,18:47 18:47,,6,2010
+26,,,+0:00,,Rabou Thomas,31,Team Type 1,22:54 22:54,,6,2010
+32,,,+0:00,,Tjallingii Maarten,32,Rabobank ProTeam,28:01 28:01,,6,2010
+23,,,+0:00,,Beyer Chad,33,BMC Racing Team,",, 28:01",,6,2010
+26,,,+0:00,,Latham Peter,34,Bissell Pro Cycling,",, 28:01",,6,2010
+22,,,+0:00,,Butler Chris,35,BMC Racing Team,",, 28:01",,6,2010
+25,,,+0:00,,Cozza Steven,36,Team Garmin - Transitions,",, 28:01",,6,2010
+33,,,+0:00,,Mumford Jonathan Reid,37,Kelly Benefit Strategies,",, 28:01",,6,2010
+31,,,+0:00,,Dionne Charles,38,Fly V Australia Pro Cycling Team,",, 28:01",,6,2010
+28,,,+0:00,,Wynants Maarten,39,Quickstep - Innergetic,",, 28:01",,6,2010
+33,,,+0:00,,Hunter Robert,40,Team Garmin - Transitions,",, 28:01",,6,2010
+30,,,+0:00,,Quinziato Manuel,41,Liquigas - Doimo,",, 28:01",,6,2010
+29,,,+0:00,,Vennell Jeremy,42,Bissell Pro Cycling,",, 28:01",,6,2010
+30,,,+0:00,,Bak Lars Ytting,43,Team HTC - Columbia,",, 28:01",,6,2010
+30,,,+0:00,,Muravyev Dmitriy,44,RadioShack,",, 28:01",,6,2010
+30,,,+0:00,,Bellotti Francesco,45,Liquigas - Doimo,",, 28:01",,6,2010
+20,,,+0:00,,Boily David,46,Spidertech presented by Planet Energy,",, 28:01",,6,2010
+28,,,+0:00,,White Bradley,47,,",, 28:01",,6,2010
+26,,,+0:00,,Santaromita Ivan,48,Liquigas - Doimo,",, 28:01",,6,2010
+32,,,+0:00,,Zwizanski Scott,49,Kelly Benefit Strategies,",, 28:01",,6,2010
+34,,,+0:00,,Baldwin Christopher,50,UnitedHealthcare Presented by Maxxis,",, 28:01",,6,2010
+24,,,+0:00,,Boom Lars,51,Rabobank ProTeam,",, 28:01",,6,2010
+27,,,+0:00,,Zahner Simon,52,BMC Racing Team,30:10 30:10,,6,2010
+31,,,+0:00,,Jacques-Maynes Andy,53,Bissell Pro Cycling,",, 30:10",,6,2010
+34,,,+0:00,,Grabsch Bert,54,Team HTC - Columbia,31:13 31:13,,6,2010
+32,,,+0:00,,Hulsmans Kevin,55,Quickstep - Innergetic,",, 31:13",,6,2010
+37,,,+0:00,,Rubiera Jos\xe9 Luis,56,RadioShack,",, 31:13",,6,2010
+31,,,+0:00,,Jacques-Maynes Benjamin,57,Bissell Pro Cycling,",, 31:13",,6,2010
+30,,,+0:00,,van Ulden Bernard,58,Jelly Belly presented by Kenda,",, 31:13",,6,2010
+26,,,+0:00,,Sulzberger Bernard,59,Fly V Australia Pro Cycling Team,",, 31:13",,6,2010
+20,,,+0:00,,Cimolai Davide,60,Liquigas - Doimo,",, 31:13",,6,2010
+31,,,+0:00,,Langlois Bruno,61,Spidertech presented by Planet Energy,",, 31:13",,6,2010
+26,,,+0:00,,Megias Javier,62,Team Type 1,",, 31:13",,6,2010
+35,,,+0:00,,Randell Andrew,63,Spidertech presented by Planet Energy,",, 31:13",,6,2010
+28,,,+0:00,,Vandborg Brian,64,Liquigas - Doimo,",, 31:13",,6,2010
+27,,,+0:00,,Friedman Michael,65,Jelly Belly presented by Kenda,",, 31:13",,6,2010
+28,,,+0:00,,Barredo Carlos,66*,Quickstep - Innergetic,",, 31:13",,6,2010
+23,,,+0:00,,Reijnen Kiel,66,Jelly Belly presented by Kenda,",, 31:13",,6,2010
+24,,,+0:00,,Maes Nikolas,67,Quickstep - Innergetic,",, 31:13",,6,2010
+25,,,+0:00,,Britton Rob,68,Bissell Pro Cycling,",, 31:13",,6,2010
+25,,,+0:00,,Langeveld Sebastian,69,Rabobank ProTeam,",, 31:13",,6,2010
+28,,,+0:00,,Mach Paul,70,Bissell Pro Cycling,",, 31:13",,6,2010
+31,,,+0:00,,Frattini Davide,71,Team Type 1,",, 31:13",,6,2010
+25,,,+0:00,,Breschel Matti,72,Saxo Bank,",, 31:13",,6,2010
+26,,,+0:00,,Powers Jeremy,73,Jelly Belly presented by Kenda,",, 31:13",,6,2010
+30,,,+0:00,,Lancaster Brett,74,Cervelo Test Team,",, 31:13",,6,2010
+23,,,+0:00,,Jenkins Max,75,UnitedHealthcare Presented by Maxxis,",, 31:13",,6,2010
+29,,,+0:00,,Cancellara Fabian,76,Saxo Bank,",, 31:13",,6,2010
+27,,,+0:00,,Rollin Dominique,77,Cervelo Test Team,",, 31:13",,6,2010
+27,,,+0:00,,Lill Darren,78,Fly V Australia Pro Cycling Team,",, 31:13",,6,2010
+24,,,+0:00,,Leezer Tom,79,Rabobank ProTeam,",, 31:13",,6,2010
+26,,,+0:00,,Deignan Philip,80,Cervelo Test Team,",, 31:13",,6,2010
+36,,,+0:00,,Hunt Jeremy,81,Cervelo Test Team,",, 31:13",,6,2010
+29,,,+0:00,,Eisel Bernhard,82,Team HTC - Columbia,",, 31:13",,6,2010
+22,,,+0:00,,Kristoff Alexander,83,BMC Racing Team,",, 31:13",,6,2010
+26,,,+0:00,,Burghardt Marcus,84,BMC Racing Team,",, 31:13",,6,2010
+23,,,+0:00,,Stauff Andreas,85,Quickstep - Innergetic,",, 31:13",,6,2010
+29,,,+0:00,,Haedo Juan Jose,DNF,Saxo Bank,-6:07:08 -6:07:08,,6,2010
+22,,,+0:00,,Veilleux David,DNF,Kelly Benefit Strategies,",, -6:07:08",,6,2010
+28,,,+0:00,,Hanson Ken,DNF,Team Type 1,",, -6:07:08",,6,2010
+20,,,+0:00,,Boivin Guillaume,DNF,Spidertech presented by Planet Energy,",, -6:07:08",,6,2010
+22,,,+0:00,,Boily Eric,DNF,Spidertech presented by Planet Energy,",, -6:07:08",,6,2010
+28,,,+0:00,,Parisien Francois,DNF,Spidertech presented by Planet Energy,",, -6:07:08",,6,2010
+27,,,+0:00,,Gilbert Martin,DNF,,",, -6:07:08",,6,2010
+27,,,+0:00,,Dickeson William,DNF,Jelly Belly presented by Kenda,",, -6:07:08",,6,2010
+31,,,+0:00,,Day Benjamin,DNF,Fly V Australia Pro Cycling Team,",, -6:07:08",,6,2010
+32,,,+0:00,,Menzies Karl,DNF,UnitedHealthcare Presented by Maxxis,",, -6:07:08",,6,2010
+26,,,+0:00,,Bos Theo,DNF,Cervelo Test Team,",, -6:07:08",,6,2010
+29,,,+0:00,,Stewart Jackson,DNF,BMC Racing Team,",, -6:07:08",,6,2010
+29,,,+0:00,,Boonen Tom,DNF,Quickstep - Innergetic,",, -6:07:08",,6,2010
+21,,,+0:00,,Viviani Elia,DNF,Liquigas - Doimo,",, -6:07:08",,6,2010
+29,,,+0:00,,Chicchi Francesco,DNF,Liquigas - Doimo,",, -6:07:08",,6,2010
+27,,,+0:00,,Clement Stef,DNF,Rabobank ProTeam,",, -6:07:08",,6,2010
+35,,,+0:00,,Candelario Alex,DNF,Kelly Benefit Strategies,",, -6:07:08",,6,2010
+25,,,+0:00,,Cavendish Mark,HD,Team HTC - Columbia,",, -6:07:08",,6,2010
+22,,,+0:00,,van Winden Dennis,HD,Rabobank ProTeam,",, -6:07:08",,6,2010
+28,,,+0:00,,Cantwell Jonathan,HD,Fly V Australia Pro Cycling Team,",, -6:07:08",,6,2010
+22,,,+0:00,,O Reilly Cody,HD,Bissell Pro Cycling,",, -6:07:08",,6,2010
+25,,,+0:00,,Crane Matthew,HD,UnitedHealthcare Presented by Maxxis,",, -6:07:08",,6,2010
+26,,,+0:00,,Routley Will,HD,Jelly Belly presented by Kenda,",, -6:07:08",,6,2010
+22,,,+0:00,,Anderson Ryan,HD,Kelly Benefit Strategies,",, -6:07:08",,6,2010
+27,,,+0:00,,Renshaw Mark,HD,Team HTC - Columbia,",, -6:07:08",,6,2010
+28,,,+0:00,,Hovelijnck Kurt,HD,Quickstep - Innergetic,",, -6:07:08",,6,2010
+26,,,+0:00,,Kemps Aaron,HD,Fly V Australia Pro Cycling Team,",, -6:07:08",,6,2010
+27,,,+0:00,,Bell Zach,HD,Kelly Benefit Strategies,",, -6:07:08",,6,2010
+27,,,+0:00,,Friedman Michael,NQ,Jelly Belly presented by Kenda,",, -6:07:08",,6,2010
+31,,,+0:00,,Shirley Neil,NQ,Kelly Benefit Strategies,",, -6:07:08",,6,2010
+25,48.221000000000004,,+0:00,30.0,Martin Tony,1,Team HTC - Columbia,41:41 41:41,20.0,7,2010
+30,47.8,,+0:00,18.0,Rogers Michael,2,Team HTC - Columbia,0:22 0:22,14.0,7,2010
+31,47.706,,+0:00,12.0,Zabriskie David,3,Team Garmin - Transitions,0:27 0:27,8.0,7,2010
+36,47.593,,+0:00,7.0,Leipheimer Levi,4,RadioShack,0:33 0:33,7.0,7,2010
+38,47.108999999999995,,+0:00,4.0,Voigt Jens,5,Saxo Bank,0:59 0:59,6.0,7,2010
+34,46.981,,+0:00,3.0,Grabsch Bert,6,Team HTC - Columbia,1:06 1:06,5.0,7,2010
+32,46.871,,+0:00,2.0,Tjallingii Maarten,7,Rabobank ProTeam,1:12 1:12,4.0,7,2010
+38,46.744,,+0:00,1.0,Horner Chris,8,RadioShack,1:19 1:19,2.0,7,2010
+28,46.744,,+0:00,,Sutherland Rory,9,UnitedHealthcare Presented by Maxxis,",, 1:19",,7,2010
+33,46.708,,+0:00,,Hunter Robert,10,Team Garmin - Transitions,1:21 1:21,,7,2010
+32,46.636,,+0:00,,Zwizanski Scott,11,Kelly Benefit Strategies,1:25 1:25,,7,2010
+29,46.618,,+0:00,,Vennell Jeremy,12,Bissell Pro Cycling,1:26 1:26,,7,2010
+30,46.528,,+0:00,,Lancaster Brett,13,Cervelo Test Team,1:31 1:31,,7,2010
+29,46.492,,+0:00,,Hesjedal Ryder,14,Team Garmin - Transitions,1:33 1:33,,7,2010
+21,46.331,,+0:00,,van Garderen Tejay,15,Team HTC - Columbia,1:42 1:42,,7,2010
+29,46.278,,+0:00,,Cancellara Fabian,16,Saxo Bank,1:45 1:45,,7,2010
+20,46.242,,+0:00,,Sagan Peter,17,Liquigas - Doimo,1:47 1:47,,7,2010
+26,46.066,,+0:00,,Brajkovi\u010d Janez,18,RadioShack,1:57 1:57,,7,2010
+32,45.873000000000005,,+0:00,,Danielson Thomas,19,Team Garmin - Transitions,2:08 2:08,,7,2010
+28,45.733999999999995,,+0:00,,Barredo Carlos,20*,Quickstep - Innergetic,2:16 2:16,,7,2010
+24,45.613,,+0:00,,Boom Lars,20,Rabobank ProTeam,2:23 2:23,,7,2010
+24,45.407,,+0:00,,Schleck Andy,21,Saxo Bank,2:35 2:35,,7,2010
+31,45.39,,+0:00,,Zajicek Philip,22,Fly V Australia Pro Cycling Team,2:36 2:36,,7,2010
+36,45.39,,+0:00,,McCartney Jason,23,RadioShack,",, 2:36",,7,2010
+34,45.355,,+0:00,,Niermann Grischa,24,Rabobank ProTeam,2:38 2:38,,7,2010
+28,45.236000000000004,,+0:00,,Vandborg Brian,25,Liquigas - Doimo,2:45 2:45,,7,2010
+30,45.185,,+0:00,,van Ulden Bernard,26,Jelly Belly presented by Kenda,2:48 2:48,,7,2010
+28,45.118,,+0:00,,White Bradley,27,,2:52 2:52,,7,2010
+26,45.083999999999996,,+0:00,,Martens Paul,28,Rabobank ProTeam,2:54 2:54,,7,2010
+33,45.034,,+0:00,,Kobzarenko Valery,29,Team Type 1,2:57 2:57,,7,2010
+31,44.95,,+0:00,,Jacques-Maynes Andy,30,Bissell Pro Cycling,3:02 3:02,,7,2010
+27,44.86600000000001,,+0:00,,Zahner Simon,31,BMC Racing Team,3:07 3:07,,7,2010
+36,44.849,,+0:00,,Hunt Jeremy,32,Cervelo Test Team,3:08 3:08,,7,2010
+34,44.816,,+0:00,,Mumford Jonathan Reid,33,Kelly Benefit Strategies,3:10 3:10,,7,2010
+26,44.816,,+0:00,,de Maar Marc,34,UnitedHealthcare Presented by Maxxis,",, 3:10",,7,2010
+36,44.816,,+0:00,,Hincapie George,35,BMC Racing Team,",, 3:10",,7,2010
+22,44.783,,+0:00,,Stetina Peter,36,Team Garmin - Transitions,3:12 3:12,,7,2010
+23,44.766000000000005,,+0:00,,Peterson Tom,37,Team Garmin - Transitions,3:13 3:13,,7,2010
+26,44.551,,+0:00,,Deignan Philip,38,Cervelo Test Team,3:26 3:26,,7,2010
+31,44.518,,+0:00,,Dionne Charles,39,Fly V Australia Pro Cycling Team,3:28 3:28,,7,2010
+35,44.485,,+0:00,,Randell Andrew,40,Spidertech presented by Planet Energy,3:30 3:30,,7,2010
+30,44.306000000000004,,+0:00,,Popovych Yaroslav,41,RadioShack,3:41 3:41,,7,2010
+30,44.288999999999994,,+0:00,,Muravyev Dmitriy,42,RadioShack,3:42 3:42,,7,2010
+28,44.257,,+0:00,,Mach Paul,43,Bissell Pro Cycling,3:44 3:44,,7,2010
+27,44.07899999999999,,+0:00,,Morabito Steve,44,BMC Racing Team,3:55 3:55,,7,2010
+26,44.015,,+0:00,,Powers Jeremy,45,Jelly Belly presented by Kenda,3:59 3:59,,7,2010
+30,43.934,,+0:00,,Bellotti Francesco,46,Liquigas - Doimo,4:04 4:04,,7,2010
+28,43.934,,+0:00,,Wynants Maarten,47,Quickstep - Innergetic,",, 4:04",,7,2010
+25,43.918,,+0:00,,Langeveld Sebastian,48,Rabobank ProTeam,4:05 4:05,,7,2010
+33,43.902,,+0:00,,van de Walle Jurgen,49,Quickstep - Innergetic,4:06 4:06,,7,2010
+26,43.886,,+0:00,,Latham Peter,50,Bissell Pro Cycling,4:07 4:07,,7,2010
+29,43.791000000000004,,+0:00,,Eisel Bernhard,51,Team HTC - Columbia,4:13 4:13,,7,2010
+30,43.696000000000005,,+0:00,,Jones Chris,52,Team Type 1,4:19 4:19,,7,2010
+27,43.663999999999994,,+0:00,,Lill Darren,53,Fly V Australia Pro Cycling Team,4:21 4:21,,7,2010
+25,43.617,,+0:00,,Fuglsang Jakob,54,Saxo Bank,4:24 4:24,,7,2010
+34,43.522,,+0:00,,Baldwin Christopher,55,UnitedHealthcare Presented by Maxxis,4:30 4:30,,7,2010
+30,43.522,,+0:00,,Bak Lars Ytting,56,Team HTC - Columbia,",, 4:30",,7,2010
+25,43.397,,+0:00,,Britton Rob,57,Bissell Pro Cycling,4:38 4:38,,7,2010
+26,43.318999999999996,,+0:00,,Rabou Thomas,58,Team Type 1,4:43 4:43,,7,2010
+26,43.257,,+0:00,,Pujol Oscar,59,Cervelo Test Team,4:47 4:47,,7,2010
+24,43.118,,+0:00,,Maes Nikolas,60,Quickstep - Innergetic,4:56 4:56,,7,2010
+26,43.102,,+0:00,,Santaromita Ivan,61,Liquigas - Doimo,4:57 4:57,,7,2010
+31,43.086999999999996,,+0:00,,Langlois Bruno,62,Spidertech presented by Planet Energy,4:58 4:58,,7,2010
+20,43.071000000000005,,+0:00,,Boily David,63,Spidertech presented by Planet Energy,4:59 4:59,,7,2010
+31,43.041000000000004,,+0:00,,Jacques-Maynes Benjamin,64,Bissell Pro Cycling,5:01 5:01,,7,2010
+25,42.949,,+0:00,,Cozza Steven,65,Team Garmin - Transitions,5:07 5:07,,7,2010
+26,42.888000000000005,,+0:00,,Megias Javier,66,Team Type 1,5:11 5:11,,7,2010
+26,42.872,,+0:00,,Euser Lucas,67,Spidertech presented by Planet Energy,5:12 5:12,,7,2010
+25,42.872,,+0:00,,Breschel Matti,68,Saxo Bank,",, 5:12",,7,2010
+24,42.857,,+0:00,,Leezer Tom,69,Rabobank ProTeam,5:13 5:13,,7,2010
+30,42.615,,+0:00,,Quinziato Manuel,70,Liquigas - Doimo,5:29 5:29,,7,2010
+32,42.57,,+0:00,,Hulsmans Kevin,71,Quickstep - Innergetic,5:32 5:32,,7,2010
+23,42.495,,+0:00,,Stauff Andreas,72,Quickstep - Innergetic,5:37 5:37,,7,2010
+37,42.48,,+0:00,,Rubiera Jos\xe9 Luis,73,RadioShack,5:38 5:38,,7,2010
+26,42.39,,+0:00,,Sulzberger Bernard,74,Fly V Australia Pro Cycling Team,5:44 5:44,,7,2010
+23,42.346000000000004,,+0:00,,Reijnen Kiel,75,Jelly Belly presented by Kenda,5:47 5:47,,7,2010
+20,42.242,,+0:00,,Cimolai Davide,76,Liquigas - Doimo,5:54 5:54,,7,2010
+22,42.153,,+0:00,,Butler Chris,77,BMC Racing Team,6:00 6:00,,7,2010
+22,42.08,,+0:00,,Kristoff Alexander,78,BMC Racing Team,6:05 6:05,,7,2010
+31,42.05,,+0:00,,Frattini Davide,79,Team Type 1,6:07 6:07,,7,2010
+32,41.86,,+0:00,,Wilson Matthew,80,Team Garmin - Transitions,6:20 6:20,,7,2010
+23,41.73,,+0:00,,Jenkins Max,81,UnitedHealthcare Presented by Maxxis,6:29 6:29,,7,2010
+23,41.629,,+0:00,,Beyer Chad,82,BMC Racing Team,6:36 6:36,,7,2010
+27,40.2,,+0:00,,Rollin Dominique,83,Cervelo Test Team,8:19 8:19,,7,2010
+26,,,+0:00,,Burghardt Marcus,DNS,BMC Racing Team,-41:41 -41:41,,7,2010

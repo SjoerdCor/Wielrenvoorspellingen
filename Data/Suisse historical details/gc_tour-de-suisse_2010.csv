@@ -1,0 +1,116 @@
+Rnk,Rider,Age,Team,UCI,Pnt,GC,GC-Time,Time,Time won/lost,year,stage
+1,Schleck Fr\xe4nk,30,Saxo Bank,100.0,250.0,1,+0:00,35:02:00 35:02:00,+0:00,2010,8
+2,Armstrong Lance,38,RadioShack,80.0,190.0,2,+0:12,0:12 0:12,+0:12,2010,8
+3,Fuglsang Jakob,25,Saxo Bank,70.0,160.0,3,+0:17,0:17 0:17,+0:17,2010,8
+4,Morabito Steve,27,BMC Racing Team,60.0,140.0,4,+0:23,0:23 0:23,+0:23,2010,8
+5,Gesink Robert,24,Rabobank ProTeam,50.0,120.0,5,+0:27,0:27 0:27,+0:27,2010,8
+6,Martin Tony,25,Team HTC - Columbia,40.0,110.0,6,+0:27,",, 0:27",+0:27,2010,8
+7,Uran Rigoberto,23,Caisse d'Epargne,30.0,100.0,7,+0:33,0:33 0:33,+0:33,2010,8
+8,Kl\xf6den Andr\xe9as,34,RadioShack,20.0,90.0,8,+0:48,0:48 0:48,+0:48,2010,8
+9,Rodr\xedguez Joaquim,31,Team Katusha,10.0,80.0,9,+1:09,1:09 1:09,+1:09,2010,8
+10,Leipheimer Levi,36,RadioShack,4.0,70.0,10,+1:14,1:14 1:14,+1:14,2010,8
+11,Larsson Gustav,29,Saxo Bank,,60.0,11,+1:20,1:20 1:20,+1:20,2010,8
+12,L\xf6fkvist Thomas,26,Sky Procycling,,55.0,12,+1:38,1:38 1:38,+1:38,2010,8
+13,Zaugg Oliver,29,Liquigas - Doimo,,50.0,13,+1:46,1:46 1:46,+1:46,2010,8
+14,Schleck Andy,25,Saxo Bank,,45.0,14,+1:57,1:57 1:57,+1:57,2010,8
+15,Carrara Matteo,31,Vacansoleil,,40.0,15,+1:57,",, 1:57",+1:57,2010,8
+16,Kreuziger Roman,24,Liquigas - Doimo,,36.0,16,+2:05,2:05 2:05,+2:05,2010,8
+17,Devolder Stijn,30,Quickstep - Innergetic,,32.0,17,+2:12,2:12 2:12,+2:12,2010,8
+18,Monfort Maxime,27,Team HTC - Columbia,,28.0,18,+3:13,3:13 3:13,+3:13,2010,8
+19,Roche Nicolas,25,AG2R La Mondiale,,24.0,19,+4:36,4:36 4:36,+4:36,2010,8
+20,Lagutin Sergey,29,Vacansoleil,,20.0,20,+4:47,4:47 4:47,+4:47,2010,8
+21,Pietropolli Daniele,29,Lampre - Farnese Vini,,18.0,21,+4:58,4:58 4:58,+4:58,2010,8
+22*,Barredo Carlos,29,Quickstep - Innergetic,,,22*,+5:19,5:19 5:19,+5:19,2010,8
+22,Valls Rafael,22,Footon-Servetto,,16.0,22,+5:43,5:43 5:43,+5:43,2010,8
+23,Castroviejo Jonathan,23,Euskaltel - Euskadi,,14.0,23,+6:00,6:00 6:00,+6:00,2010,8
+24,Danielson Thomas,32,Team Garmin - Transitions,,12.0,24,+7:43,7:43 7:43,+7:43,2010,8
+25,Fr\xf6hlinger Johannes,25,Milram,,10.0,25,+9:34,9:34 9:34,+9:34,2010,8
+26,Casar Sandy,31,Francaise des Jeux,,9.0,26,+10:20,10:20 10:20,+10:20,2010,8
+27,Oroz Juan Jos\xe9,29,Euskaltel - Euskadi,,8.0,27,+10:21,10:21 10:21,+10:21,2010,8
+28,Rojas Jos\xe9 Joaqu\xedn,25,Caisse d'Epargne,,7.0,28,+11:24,11:24 11:24,+11:24,2010,8
+29,Mollema Bauke,23,Rabobank ProTeam,,6.0,29,+11:45,11:45 11:45,+11:45,2010,8
+30,Hincapie George,36,BMC Racing Team,,5.0,30,+11:48,11:48 11:48,+11:48,2010,8
+31,Flecha Juan Antonio,32,Sky Procycling,,5.0,31,+14:46,14:46 14:46,+14:46,2010,8
+32,Pauwels Serge,26,Sky Procycling,,5.0,32,+15:26,15:26 15:26,+15:26,2010,8
+33,Costa Rui,23,Caisse d'Epargne,,5.0,33,+18:13,18:13 18:13,+18:13,2010,8
+34,Guti\xe9rrez Jos\xe9 Iv\xe1n,31,Caisse d'Epargne,,5.0,34,+18:34,18:34 18:34,+18:34,2010,8
+35,Sanchez Luis Leon,26,Caisse d'Epargne,,5.0,35,+20:06,20:06 20:06,+20:06,2010,8
+36,Poels Wout,22,Vacansoleil,,5.0,36,+21:54,21:54 21:54,+21:54,2010,8
+37,Chavanel Sylvain,30,Quickstep - Innergetic,,5.0,37,+22:30,22:30 22:30,+22:30,2010,8
+38,Marcato Marco,26,Vacansoleil,,5.0,38,+22:39,22:39 22:39,+22:39,2010,8
+39,Renev Sergey,25,Astana,,5.0,39,+22:57,22:57 22:57,+22:57,2010,8
+40,Txurruka Amets,27,Euskaltel - Euskadi,,5.0,40,+23:00,23:00 23:00,+23:00,2010,8
+41,Lastras Pablo,34,Caisse d'Epargne,,5.0,41,+23:29,23:29 23:29,+23:29,2010,8
+42,Van Avermaet Greg,25,Omega Pharma-Lotto,,5.0,42,+23:30,23:30 23:30,+23:30,2010,8
+43,Carlstr\xf6m Kjell,33,Sky Procycling,,5.0,43,+23:38,23:38 23:38,+23:38,2010,8
+44,Gavazzi Francesco,25,Lampre - Farnese Vini,,5.0,44,+25:36,25:36 25:36,+25:36,2010,8
+45,van de Walle Jurgen,33,Quickstep - Innergetic,,5.0,45,+25:46,25:46 25:46,+25:46,2010,8
+46,Niermann Grischa,34,Rabobank ProTeam,,5.0,46,+26:01,26:01 26:01,+26:01,2010,8
+47,Zabriskie David,31,Team Garmin - Transitions,,5.0,47,+26:02,26:02 26:02,+26:02,2010,8
+48,Garate Juan Manuel,34,Rabobank ProTeam,,5.0,48,+26:46,26:46 26:46,+26:46,2010,8
+49,Kolobnev Alexandr,29,Team Katusha,,5.0,49,+26:47,26:47 26:47,+26:47,2010,8
+50,Nordhaug Lars Petter,26,Sky Procycling,,5.0,50,+27:15,27:15 27:15,+27:15,2010,8
+51,Cheula Giampaolo,31,Footon-Servetto,,5.0,51,+27:55,27:55 27:55,+27:55,2010,8
+52,Voigt Jens,38,Saxo Bank,,5.0,52,+28:55,28:55 28:55,+28:55,2010,8
+53,Vanotti Alessandro,29,Liquigas - Doimo,,5.0,53,+32:06,32:06 32:06,+32:06,2010,8
+54,Mourey Francis,29,Francaise des Jeux,,5.0,54,+32:44,32:44 32:44,+32:44,2010,8
+55,Cancellara Fabian,29,Saxo Bank,,5.0,55,+32:54,32:54 32:54,+32:54,2010,8
+56,Roy J\xe9r\xe9my,26,Francaise des Jeux,,5.0,56,+33:19,33:19 33:19,+33:19,2010,8
+57,Vorganov Eduard,27,Team Katusha,,5.0,57,+33:43,33:43 33:43,+33:43,2010,8
+58,Pereiro Oscar,32,Astana,,5.0,58,+35:00,35:00 35:00,+35:00,2010,8
+59,Popovych Yaroslav,30,RadioShack,,5.0,59,+35:09,35:09 35:09,+35:09,2010,8
+60,Wegmann Fabian,30,Milram,,5.0,60,+35:58,35:58 35:58,+35:58,2010,8
+61,Elmiger Martin,31,AG2R La Mondiale,,5.0,61,+36:40,36:40 36:40,+36:40,2010,8
+62,Ulissi Diego,20,Lampre - Farnese Vini,,5.0,62,+38:35,38:35 38:35,+38:35,2010,8
+63,Urtasun Pablo,30,Euskaltel - Euskadi,,5.0,63,+41:01,41:01 41:01,+41:01,2010,8
+64,Albasini Michael,29,Team HTC - Columbia,,5.0,64,+45:02,45:02 45:02,+45:02,2010,8
+65,Maaskant Martijn,26,Team Garmin - Transitions,,5.0,65,+45:15,45:15 45:15,+45:15,2010,8
+66,Freire Oscar,34,Rabobank ProTeam,,5.0,66,+47:43,47:43 47:43,+47:43,2010,8
+67,Frank Mathias,23,BMC Racing Team,,5.0,67,+48:37,48:37 48:37,+48:37,2010,8
+68,Sulzberger Wesley,23,Francaise des Jeux,,5.0,68,+48:38,48:38 48:38,+48:38,2010,8
+69,Vande Velde Christian,34,Team Garmin - Transitions,,5.0,69,+48:51,48:51 48:51,+48:51,2010,8
+70,Schr\xf6der Bjorn,29,Milram,,5.0,70,+48:59,48:59 48:59,+48:59,2010,8
+71,Ballan Alessandro,30,BMC Racing Team,,5.0,71,+49:37,49:37 49:37,+49:37,2010,8
+72,Nocentini Rinaldo,32,AG2R La Mondiale,,5.0,72,+50:21,50:21 50:21,+50:21,2010,8
+73,Possoni Morris,25,Sky Procycling,,5.0,73,+52:25,52:25 52:25,+52:25,2010,8
+74,Rast Gregory,30,RadioShack,,5.0,74,+52:50,52:50 52:50,+52:50,2010,8
+75,Quinziato Manuel,30,Liquigas - Doimo,,5.0,75,+53:22,53:22 53:22,+53:22,2010,8
+76,Kaisen Olivier,27,Omega Pharma-Lotto,,5.0,76,+53:45,53:45 53:45,+53:45,2010,8
+77,Florencio Xavier,30,Cervelo Test Team,,5.0,77,+54:14,54:14 54:14,+54:14,2010,8
+78,Burghardt Marcus,26,BMC Racing Team,,5.0,78,+54:22,54:22 54:22,+54:22,2010,8
+79,Elijzen Michiel,27,Omega Pharma-Lotto,,5.0,79,+54:36,54:36 54:36,+54:36,2010,8
+80,Aramendia Javier,23,Euskaltel - Euskadi,,5.0,80,+55:52,55:52 55:52,+55:52,2010,8
+81,Efimkin Vladimir,28,AG2R La Mondiale,,5.0,81,+57:45,57:45 57:45,+57:45,2010,8
+82,Gourov Maxim,31,Astana,,5.0,82,+58:05,58:05 58:05,+58:05,2010,8
+83,Petacchi Alessandro,36,Lampre - Farnese Vini,,5.0,83,+58:57,58:57 58:57,+58:57,2010,8
+84,Hunter Robert,33,Team Garmin - Transitions,,5.0,84,+1:01:01,1:01:01 1:01:01,+61:01,2010,8
+85,Nuyens Nick,30,Rabobank ProTeam,,5.0,85,+1:01:53,1:01:53 1:01:53,+61:53,2010,8
+86,Oss Daniel,23,Liquigas - Doimo,,5.0,86,+1:01:56,1:01:56 1:01:56,+61:56,2010,8
+87,Hushovd Thor,32,Cervelo Test Team,,5.0,87,+1:02:42,1:02:42 1:02:42,+62:42,2010,8
+88,Hulsmans Kevin,32,Quickstep - Innergetic,,5.0,88,+1:03:03,1:03:03 1:03:03,+63:03,2010,8
+89,Go\u0142a\u015b Micha\u0142,26,Vacansoleil,,5.0,89,+1:03:09,1:03:09 1:03:09,+63:09,2010,8
+90,Lancaster Brett,30,Cervelo Test Team,,5.0,90,+1:04:57,1:04:57 1:04:57,+64:57,2010,8
+91,Wynants Maarten,28,Quickstep - Innergetic,,5.0,91,+1:05:04,1:05:04 1:05:04,+65:04,2010,8
+92,Kuchynski Aliaksandr,30,Liquigas - Doimo,,5.0,92,+1:05:05,1:05:05 1:05:05,+65:05,2010,8
+93,Davis Allan,29,Astana,,5.0,93,+1:06:27,1:06:27 1:06:27,+66:27,2010,8
+94,Russ Matthias,26,Milram,,5.0,94,+1:06:58,1:06:58 1:06:58,+66:58,2010,8
+95,Muravyev Dmitriy,30,RadioShack,,5.0,95,+1:07:47,1:07:47 1:07:47,+67:47,2010,8
+96,Kroon Karsten,34,BMC Racing Team,,5.0,96,+1:08:00,1:08:00 1:08:00,+68:00,2010,8
+97,Leezer Tom,24,Rabobank ProTeam,,5.0,97,+1:08:36,1:08:36 1:08:36,+68:36,2010,8
+98,Lorenzetto Mirco,28,Lampre - Farnese Vini,,5.0,98,+1:08:56,1:08:56 1:08:56,+68:56,2010,8
+99,Wilson Matthew,32,Team Garmin - Transitions,,5.0,99,+1:10:59,1:10:59 1:10:59,+70:59,2010,8
+100,Ljungblad Jonas,31,Omega Pharma-Lotto,,5.0,100,+1:11:33,1:11:33 1:11:33,+71:33,2010,8
+101,McCartney Jason,36,RadioShack,,5.0,101,+1:11:40,1:11:40 1:11:40,+71:40,2010,8
+102,Bazayev Assan,29,Astana,,5.0,102,+1:12:09,1:12:09 1:12:09,+72:09,2010,8
+103,Corti Marco,24,Footon-Servetto,,5.0,103,+1:12:14,1:12:14 1:12:14,+72:14,2010,8
+104,Nepomnyachshiy Yevgeniy,23,Astana,,5.0,104,+1:15:06,1:15:06 1:15:06,+75:06,2010,8
+105,Steegmans Gert,29,RadioShack,,5.0,105,+1:15:50,1:15:50 1:15:50,+75:50,2010,8
+106,Klier Andreas,34,Cervelo Test Team,,5.0,106,+1:15:58,1:15:58 1:15:58,+75:58,2010,8
+107,Bruseghin Marzio,36,Caisse d'Epargne,,5.0,107,+1:17:39,1:17:39 1:17:39,+77:39,2010,8
+108,Capelli Ermano,25,Footon-Servetto,,5.0,108,+1:18:58,1:18:58 1:18:58,+78:58,2010,8
+109,Westra Lieuwe,27,Vacansoleil,,5.0,109,+1:19:50,1:19:50 1:19:50,+79:50,2010,8
+110,Santambrogio Mauro,25,BMC Racing Team,,5.0,110,+1:21:07,1:21:07 1:21:07,+81:07,2010,8
+111,Eisel Bernhard,29,Team HTC - Columbia,,5.0,111,+1:25:53,1:25:53 1:25:53,+85:53,2010,8
+112,Renshaw Mark,27,Team HTC - Columbia,,5.0,112,+1:25:59,1:25:59 1:25:59,+85:59,2010,8
+113,Hernandez Gutierrez Aitor,28,Euskaltel - Euskadi,,5.0,113,+1:28:44,1:28:44 1:28:44,+88:44,2010,8
+114,Gianetti Noe,20,Footon-Servetto,,5.0,114,+1:30:28,1:30:28 1:30:28,+90:28,2010,8

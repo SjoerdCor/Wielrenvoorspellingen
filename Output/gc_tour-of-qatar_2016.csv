@@ -1,0 +1,662 @@
+Age,BIB,GC,GC-Time,Pnt,Prev,Rider,Rnk,Team,Time,Time won/lost,UCI,\u25bc\u25b2,stage,year
+30,11,1,+0:00,,,Cavendish Mark,1,Team Dimension Data,3:28:31 3:28:31,+0:00,5.0,,1,2016
+28,131,2,+0:08,,,Modolo Sacha,2,Lampre - Merida,0:08 0:08,+0:08,,,1,2016
+26,61,3,+0:11,,,Guardini Andrea,3,Astana Pro Team,0:11 0:11,+0:11,,,1,2016
+28,1,4,+0:12,,,Kristoff Alexander,4,Team Katusha,0:12 0:12,+0:12,,,1,2016
+26,8,5,+0:13,,,Kuznetsov Viacheslav,5,Team Katusha,0:13 0:13,+0:13,,,1,2016
+30,31,6,+0:14,,,Van Avermaet Greg,6,BMC Racing Team,0:14 0:14,+0:14,,,1,2016
+25,41,7,+0:15,,,Bennett Sam,7,Bora - Argon 18,0:15 0:15,+0:15,,,1,2016
+28,12,8,+0:15,,,Boasson Hagen Edvald,8,Team Dimension Data,",, 0:15",+0:15,,,1,2016
+36,35,9,+0:15,,,Quinziato Manuel,9,BMC Racing Team,",, 0:15",+0:15,,,1,2016
+31,53,10,+0:15,,,Gerard Arnaud,10,Fortuneo - Vital Concept,",, 0:15",+0:15,,,1,2016
+21,21,11,+0:15,,,Andersen S\xf8ren Kragh,11,Team Giant - Alpecin,",, 0:15",+0:15,,,1,2016
+29,37,12,+0:15,,,Schar Michael,12,BMC Racing Team,",, 0:15",+0:15,,,1,2016
+28,43,13,+0:15,,,Dempster Zakkari,13,Bora - Argon 18,",, 0:15",+0:15,,,1,2016
+24,2,14,+0:15,,,Bystr\xf8m Sven Erik,14,Team Katusha,",, 0:15",+0:15,,,1,2016
+26,47,15,+0:20,,,Selig R\xfcdiger,15,Bora - Argon 18,0:20 0:20,+0:20,,,1,2016
+30,6,16,+0:33,,,M\xf8rk\xf8v Michael,16,Team Katusha,0:33 0:33,+0:33,,,1,2016
+27,135,17,+1:58,,,Kump Marko,17,Lampre - Merida,1:58 1:58,+1:58,,,1,2016
+24,81,18,+1:58,,,Hofland Moreno,18,Team LottoNL-Jumbo,",, 1:58",+1:58,,,1,2016
+25,173,19,+1:58,,,Haddi Soufiane,19,Skydive Dubai Pro Cycling Team - Al Ahli Club,",, 1:58",+1:58,,,1,2016
+24,14,20,+1:58,,,Debesay Mekseb,20,Team Dimension Data,",, 1:58",+1:58,,,1,2016
+26,75,21,+1:58,,,Steels Stijn,21,Topsport Vlaanderen - Baloise,",, 1:58",+1:58,,,1,2016
+32,152,22,+1:58,,,Alzate Carlos Eduardo,22,UnitedHealthcare Pro Cycling Team,",, 1:58",+1:58,,,1,2016
+28,66,23,+1:58,,,Tleubayev Ruslan,23,Astana Pro Team,",, 1:58",+1:58,,,1,2016
+28,78,24,+1:58,,,Vanspeybrouck Pieter,24,Topsport Vlaanderen - Baloise,",, 1:58",+1:58,,,1,2016
+27,144,25,+1:58,,,Kurek Adrian,25,CCC Sprandi Polkowice,",, 1:58",+1:58,,,1,2016
+26,178,26,+1:58,,,Palini Andrea,26,Skydive Dubai Pro Cycling Team - Al Ahli Club,",, 1:58",+1:58,,,1,2016
+29,63,27,+1:58,,,Gruzdev Dmitriy,27,Astana Pro Team,",, 1:58",+1:58,,,1,2016
+30,86,28,+1:58,,,van Emden Jos,28,Team LottoNL-Jumbo,",, 1:58",+1:58,,,1,2016
+36,167,29,+1:58,,,Reihs Michael,29,St\xf6lting Service Group,",, 1:58",+1:58,,,1,2016
+31,118,30,+1:58,,,Turgot S\xe9bastien,30,AG2R La Mondiale,",, 1:58",+1:58,,,1,2016
+25,48,31,+1:58,,,Thwaites Scott,31,Bora - Argon 18,",, 1:58",+1:58,,,1,2016
+26,95,32,+1:58,,,Mcnally Mark,32,Wanty - Groupe Gobert,",, 1:58",+1:58,,,1,2016
+31,91,33,+1:58,,,Marcato Marco,33,Wanty - Groupe Gobert,",, 1:58",+1:58,,,1,2016
+29,33,34,+1:58,,,Drucker Jean-Pierre,34,BMC Racing Team,",, 1:58",+1:58,,,1,2016
+33,71,35,+1:58,,,Van Hecke Preben,35,Topsport Vlaanderen - Baloise,",, 1:58",+1:58,,,1,2016
+29,18,36,+1:58,,,Thomson Jay Robert,36,Team Dimension Data,",, 1:58",+1:58,,,1,2016
+36,155,37,+1:58,,,Jones Chris,37,UnitedHealthcare Pro Cycling Team,",, 1:58",+1:58,,,1,2016
+21,177,38,+1:58,,,Kamberaj Giuliano,38,Skydive Dubai Pro Cycling Team - Al Ahli Club,",, 1:58",+1:58,,,1,2016
+29,34,39,+1:58,,,Oss Daniel,39,BMC Racing Team,",, 1:58",+1:58,,,1,2016
+28,3,40,+1:58,,,Guarnieri Jacopo,40,Team Katusha,",, 1:58",+1:58,,,1,2016
+24,92,41,+1:58,,,Antonini Simone,41,Wanty - Groupe Gobert,",, 1:58",+1:58,,,1,2016
+33,17,42,+1:58,,,Renshaw Mark,42,Team Dimension Data,",, 1:58",+1:58,,,1,2016
+33,88,43,+1:58,,,Wynants Maarten,43,Team LottoNL-Jumbo,",, 1:58",+1:58,,,1,2016
+22,154,44,+1:58,,,Eaton Daniel,44,UnitedHealthcare Pro Cycling Team,",, 1:58",+1:58,,,1,2016
+30,24,45,+1:58,,,Stamsnijder Tom,45,Team Giant - Alpecin,",, 1:58",+1:58,,,1,2016
+31,15,46,+1:58,,,Farrar Tyler,46,Team Dimension Data,",, 1:58",+1:58,,,1,2016
+35,111,47,+1:58,,,Vansummeren Johan,47,AG2R La Mondiale,",, 1:58",+1:58,,,1,2016
+21,7,48,+1:58,,,Politt Nils,48,Team Katusha,",, 1:58",+1:58,,,1,2016
+31,5,49,+1:58,,,Kozonchuk Dmitry,49,Team Katusha,",, 1:58",+1:58,,,1,2016
+29,57,50,+1:58,,,Perichon Pierre-Luc,50,Fortuneo - Vital Concept,",, 1:58",+1:58,,,1,2016
+30,13,51,+1:58,,,Brammeier Matthew,51,Team Dimension Data,",, 1:58",+1:58,,,1,2016
+29,51,52,+1:58,,,Tronet Steven,52,Fortuneo - Vital Concept,",, 1:58",+1:58,,,1,2016
+24,45,53,+2:21,,,P\xf6stlberger Lukas,53,Bora - Argon 18,2:21 2:21,+2:21,,,1,2016
+28,145,54,+8:07,,,Marycz Jaroslaw,54,CCC Sprandi Polkowice,8:07 8:07,+8:07,,,1,2016
+38,143,55,+8:07,,,Kiendys Tomasz,55,CCC Sprandi Polkowice,",, 8:07",+8:07,,,1,2016
+28,114,56,+8:07,,,Gretsch Patrick,56,AG2R La Mondiale,",, 8:07",+8:07,,,1,2016
+26,74,57,+8:07,,,Declercq Tim,57,Topsport Vlaanderen - Baloise,",, 8:07",+8:07,,,1,2016
+33,67,58,+8:07,,,Westra Lieuwe,58,Astana Pro Team,",, 8:07",+8:07,,,1,2016
+27,142,59,+8:07,,,Honkisz Adrian,59,CCC Sprandi Polkowice,",, 8:07",+8:07,,,1,2016
+25,94,60,+8:07,,,Jans Roy,60,Wanty - Groupe Gobert,",, 8:07",+8:07,,,1,2016
+23,84,61,+8:07,,,Teunissen Mike,61,Team LottoNL-Jumbo,",, 8:07",+8:07,,,1,2016
+35,161,62,+8:07,,,Wegmann Fabian,62,St\xf6lting Service Group,",, 8:07",+8:07,,,1,2016
+23,83,63,+8:07,,,Roosen Timo,63,Team LottoNL-Jumbo,",, 8:07",+8:07,,,1,2016
+28,65,64,+8:07,,,Smukulis Gatis,64,Astana Pro Team,",, 8:07",+8:07,,,1,2016
+22,58,65,+8:07,,,Vall\xe9e Boris,65,Fortuneo - Vital Concept,",, 8:07",+8:07,,,1,2016
+24,76,66,+8:07,,,Van Meirhaeghe Jef,66,Topsport Vlaanderen - Baloise,",, 8:07",+8:07,,,1,2016
+30,62,67,+8:07,,,Boom Lars,67,Astana Pro Team,",, 8:07",+8:07,,,1,2016
+24,25,68,+9:33,,,Waeytens Zico,68,Team Giant - Alpecin,9:33 9:33,+9:33,,,1,2016
+22,77,69,+10:43,,,Van Rooy Kenneth,69,Topsport Vlaanderen - Baloise,10:43 10:43,+10:43,,,1,2016
+22,123,70,+12:08,,,Kerkhof Tim,70,Roompot - Oranje Peloton,12:08 12:08,+12:08,,,1,2016
+33,176,71,+12:08,,,Jelloul Adil,71,Skydive Dubai Pro Cycling Team - Al Ahli Club,",, 12:08",+12:08,,,1,2016
+28,23,72,+12:08,,,Ji Cheng,72,Team Giant - Alpecin,",, 12:08",+12:08,,,1,2016
+22,38,73,+12:08,,,Zabel Rick,73,BMC Racing Team,",, 12:08",+12:08,,,1,2016
+26,122,74,+12:08,,,de Vries Berden,74,Roompot - Oranje Peloton,",, 12:08",+12:08,,,1,2016
+24,68,75,+12:08,,,Zakharov Artyom,75,Astana Pro Team,",, 12:08",+12:08,,,1,2016
+24,127,76,+12:08,,,van Goethem Brian,76,Roompot - Oranje Peloton,",, 12:08",+12:08,,,1,2016
+24,73,77,+12:08,,,De Tier Floris,77,Topsport Vlaanderen - Baloise,",, 12:08",+12:08,,,1,2016
+35,96,78,+12:08,,,Napolitano Danilo,78,Wanty - Groupe Gobert,",, 12:08",+12:08,,,1,2016
+26,52,79,+12:08,,,Breen Vegard,79,Fortuneo - Vital Concept,",, 12:08",+12:08,,,1,2016
+21,168,80,+12:08,,,Carbel Michael,80,St\xf6lting Service Group,",, 12:08",+12:08,,,1,2016
+24,102,81,+12:08,,,Jones Brenton,81,Drapac Professional Cycling,",, 12:08",+12:08,,,1,2016
+24,125,82,+12:08,,,Markus Barry,82,Roompot - Oranje Peloton,",, 12:08",+12:08,,,1,2016
+36,101,83,+12:08,,,Brown Graeme,83,Drapac Professional Cycling,",, 12:08",+12:08,,,1,2016
+25,128,84,+12:08,,,Kreder Wesley,84,Roompot - Oranje Peloton,",, 12:08",+12:08,,,1,2016
+30,22,85,+12:08,,,Fr\xf6hlinger Johannes,85,Team Giant - Alpecin,",, 12:08",+12:08,,,1,2016
+26,36,86,+12:08,,,Rosskopf Joey,86,BMC Racing Team,",, 12:08",+12:08,,,1,2016
+25,85,87,+12:08,,,Van Asbroeck Tom,87,Team LottoNL-Jumbo,",, 12:08",+12:08,,,1,2016
+22,72,88,+12:08,,,Capiot Amaury,88,Topsport Vlaanderen - Baloise,",, 12:08",+12:08,,,1,2016
+22,126,89,+12:08,,,Slik Ivar,89,Roompot - Oranje Peloton,",, 12:08",+12:08,,,1,2016
+32,108,90,+12:08,,,Sulzberger Bernard,90,Drapac Professional Cycling,",, 12:08",+12:08,,,1,2016
+30,153,91,+12:08,,,Busche Matthew,91,UnitedHealthcare Pro Cycling Team,",, 12:08",+12:08,,,1,2016
+25,97,92,+12:08,,,Stenuit Robin,92,Wanty - Groupe Gobert,",, 12:08",+12:08,,,1,2016
+32,46,93,+12:08,,,Schillinger Andreas,93,Bora - Argon 18,",, 12:08",+12:08,,,1,2016
+32,87,94,+12:08,,,Wagner Robert,94,Team LottoNL-Jumbo,",, 12:08",+12:08,,,1,2016
+25,121,95,+12:08,,,Asselman Jesper,95,Roompot - Oranje Peloton,",, 12:08",+12:08,,,1,2016
+26,174,96,+12:08,,,Hasnaoui Maher,96,Skydive Dubai Pro Cycling Team - Al Ahli Club,",, 12:08",+12:08,,,1,2016
+28,44,97,+12:08,,,Pfingsten Christoph,97,Bora - Argon 18,",, 12:08",+12:08,,,1,2016
+27,42,98,+12:08,,,Archbold Shane,98,Bora - Argon 18,",, 12:08",+12:08,,,1,2016
+20,124,99,+12:08,,,Looij Andre,99,Roompot - Oranje Peloton,",, 12:08",+12:08,,,1,2016
+31,171,100,+12:08,,,Santaromita Ivan,100,Skydive Dubai Pro Cycling Team - Al Ahli Club,",, 12:08",+12:08,,,1,2016
+25,164,101,+12:08,,,Koep Thomas,101,St\xf6lting Service Group,",, 12:08",+12:08,,,1,2016
+30,134,102,+12:08,,,Costa M\xe1rio,102,Lampre - Merida,",, 12:08",+12:08,,,1,2016
+26,147,103,+12:08,,,Stepniak Grzegorz,103,CCC Sprandi Polkowice,",, 12:08",+12:08,,,1,2016
+27,82,104,+12:08,,,Castelijns Twan,104,Team LottoNL-Jumbo,",, 12:08",+12:08,,,1,2016
+31,132,105,+12:08,,,Arashiro Yukiya,105,Lampre - Merida,",, 12:08",+12:08,,,1,2016
+25,115,106,+12:08,,,Houle Hugo,106,AG2R La Mondiale,",, 12:08",+12:08,,,1,2016
+22,137,107,+12:08,,,Pibernik Luka,107,Lampre - Merida,",, 12:08",+12:08,,,1,2016
+26,133,108,+12:08,,,Cimolai Davide,108,Lampre - Merida,",, 12:08",+12:08,,,1,2016
+27,55,109,+12:08,,,Jarrier Benoit,109,Fortuneo - Vital Concept,",, 12:08",+12:08,,,1,2016
+27,98,110,+12:08,,,Thurau Bjorn,110,Wanty - Groupe Gobert,",, 12:08",+12:08,,,1,2016
+44,141,111,+12:08,,,Rebellin Davide,111,CCC Sprandi Polkowice,",, 12:08",+12:08,,,1,2016
+29,146,112,+12:08,,,Ponzi Simone,112,CCC Sprandi Polkowice,",, 12:08",+12:08,,,1,2016
+27,151,113,+12:08,,,Canola Marco,113,UnitedHealthcare Pro Cycling Team,",, 12:08",+12:08,,,1,2016
+21,105,114,+12:08,,,Lowndes Jason,114,Drapac Professional Cycling,",, 12:08",+12:08,,,1,2016
+26,16,115,+12:08,,,Reguigui Youcef,115,Team Dimension Data,",, 12:08",+12:08,,,1,2016
+34,158,116,+12:08,,,White Bradley,116,UnitedHealthcare Pro Cycling Team,",, 12:08",+12:08,,,1,2016
+24,156,117,+12:08,,,Keough Luke,117,UnitedHealthcare Pro Cycling Team,",, 12:08",+12:08,,,1,2016
+38,157,118,+12:08,,,Menzies Karl,118,UnitedHealthcare Pro Cycling Team,",, 12:08",+12:08,,,1,2016
+23,163,119,+12:08,,,Kirsch Alex,119,St\xf6lting Service Group,",, 12:08",+12:08,,,1,2016
+33,116,120,+12:08,,,Minard S\xe9bastien,120,AG2R La Mondiale,",, 12:08",+12:08,,,1,2016
+29,113,121,+12:08,,,Gaudin Damien,121,AG2R La Mondiale,",, 12:08",+12:08,,,1,2016
+24,4,122,+12:08,,,Haller Marco,122,Team Katusha,",, 12:08",+12:08,,,1,2016
+20,166,123,+12:08,,,Pedersen Mads,123,St\xf6lting Service Group,",, 12:08",+12:08,,,1,2016
+22,162,124,+12:08,,,Kamp Alexander,124,St\xf6lting Service Group,",, 12:08",+12:08,,,1,2016
+25,104,125,+12:08,,,Koning Peter,125,Drapac Professional Cycling,",, 12:08",+12:08,,,1,2016
+31,93,126,+12:08,,,Dehaes Kenny,126,Wanty - Groupe Gobert,",, 12:08",+12:08,,,1,2016
+23,165,127,+12:49,,,Mager Christian,127,St\xf6lting Service Group,12:49 12:49,+12:49,,,1,2016
+32,54,128,+19:30,,,Hutarovich Yauheni,128,Fortuneo - Vital Concept,19:30 19:30,+19:30,,,1,2016
+30,112,129,+19:30,,,Bagdonas Gediminas,129,AG2R La Mondiale,",, 19:30",+19:30,,,1,2016
+24,56,130,+19:30,,,McLay Daniel,130,Fortuneo - Vital Concept,",, 19:30",+19:30,,,1,2016
+27,117,131,+19:30,,,Sergent Jesse,131,AG2R La Mondiale,",, 19:30",+19:30,,,1,2016
+21,138,132,+19:30,,,Zurlo Federico,132,Lampre - Merida,",, 19:30",+19:30,,,1,2016
+23,103,133,+19:30,,,Kerby Jordan,133,Drapac Professional Cycling,",, 19:30",+19:30,,,1,2016
+23,107,134,+19:30,,,Spokes Samuel,134,Drapac Professional Cycling,",, 19:30",+19:30,,,1,2016
+22,172,135,+19:30,,,Alhammadi Sultan Hassan,135,Skydive Dubai Pro Cycling Team - Al Ahli Club,",, 19:30",+19:30,,,1,2016
+20,175,136,+19:33,,,Ibrahim Khalid,136,Skydive Dubai Pro Cycling Team - Al Ahli Club,19:33 19:33,+19:33,,,1,2016
+30,11,1,+0:00,,1.0,Cavendish Mark,1,Team Dimension Data,6:39:51 6:39:51,+0:00,5.0,-,2,2016
+28,1,2,+0:05,,4.0,Kristoff Alexander,2,Team Katusha,0:05 0:05,+-1:53,,\u25b22,2,2016
+28,131,3,+0:14,,2.0,Modolo Sacha,3,Lampre - Merida,0:14 0:14,+0:06,,\u25bc1,2,2016
+26,61,4,+0:17,,3.0,Guardini Andrea,4,Astana Pro Team,0:17 0:17,+0:06,,\u25bc1,2,2016
+28,12,5,+0:18,,8.0,Boasson Hagen Edvald,5,Team Dimension Data,0:18 0:18,+0:03,,\u25b23,2,2016
+26,8,6,+0:18,,5.0,Kuznetsov Viacheslav,6,Team Katusha,",, 0:18",+0:05,,\u25bc1,2,2016
+30,31,7,+0:20,,6.0,Van Avermaet Greg,7,BMC Racing Team,0:20 0:20,+0:06,,\u25bc1,2,2016
+31,53,8,+0:21,,10.0,Gerard Arnaud,8,Fortuneo - Vital Concept,0:21 0:21,+0:06,,\u25b22,2,2016
+24,2,9,+0:21,,14.0,Bystr\xf8m Sven Erik,9,Team Katusha,",, 0:21",+0:06,,\u25b25,2,2016
+36,35,10,+0:21,,9.0,Quinziato Manuel,10,BMC Racing Team,",, 0:21",+0:06,,\u25bc1,2,2016
+29,37,11,+0:21,,12.0,Schar Michael,11,BMC Racing Team,",, 0:21",+0:06,,\u25b21,2,2016
+28,43,12,+0:21,,13.0,Dempster Zakkari,12,Bora - Argon 18,",, 0:21",+0:06,,\u25b21,2,2016
+25,41,13,+0:21,,7.0,Bennett Sam,13,Bora - Argon 18,",, 0:21",+0:06,,\u25bc6,2,2016
+21,21,14,+0:21,,11.0,Andersen S\xf8ren Kragh,14,Team Giant - Alpecin,",, 0:21",+0:06,,\u25bc3,2,2016
+26,47,15,+0:26,,15.0,Selig R\xfcdiger,15,Bora - Argon 18,0:26 0:26,+0:06,,-,2,2016
+30,6,16,+0:39,,16.0,M\xf8rk\xf8v Michael,16,Team Katusha,0:39 0:39,+0:06,,-,2,2016
+33,71,17,+2:01,,35.0,Van Hecke Preben,17,Topsport Vlaanderen - Baloise,2:01 2:01,+0:03,,\u25b218,2,2016
+26,178,18,+2:04,,26.0,Palini Andrea,18,Skydive Dubai Pro Cycling Team - Al Ahli Club,2:04 2:04,+0:06,,\u25b28,2,2016
+28,66,19,+2:04,,23.0,Tleubayev Ruslan,19,Astana Pro Team,",, 2:04",+0:06,,\u25b24,2,2016
+27,144,20,+2:04,,25.0,Kurek Adrian,20,CCC Sprandi Polkowice,",, 2:04",+0:06,,\u25b25,2,2016
+25,173,21,+2:04,,19.0,Haddi Soufiane,21,Skydive Dubai Pro Cycling Team - Al Ahli Club,",, 2:04",+0:06,,\u25bc2,2,2016
+24,14,22,+2:04,,20.0,Debesay Mekseb,22,Team Dimension Data,",, 2:04",+0:06,,\u25bc2,2,2016
+28,78,23,+2:04,,24.0,Vanspeybrouck Pieter,23,Topsport Vlaanderen - Baloise,",, 2:04",+0:06,,\u25b21,2,2016
+24,81,24,+2:04,,18.0,Hofland Moreno,24,Team LottoNL-Jumbo,",, 2:04",+0:06,,\u25bc6,2,2016
+27,135,25,+2:04,,17.0,Kump Marko,25,Lampre - Merida,",, 2:04",+0:06,,\u25bc8,2,2016
+24,92,26,+2:04,,41.0,Antonini Simone,26,Wanty - Groupe Gobert,",, 2:04",+0:06,,\u25b215,2,2016
+36,167,27,+2:04,,29.0,Reihs Michael,27,St\xf6lting Service Group,",, 2:04",+0:06,,\u25b22,2,2016
+29,63,28,+2:04,,27.0,Gruzdev Dmitriy,28,Astana Pro Team,",, 2:04",+0:06,,\u25bc1,2,2016
+28,3,29,+2:04,,40.0,Guarnieri Jacopo,29,Team Katusha,",, 2:04",+0:06,,\u25b211,2,2016
+29,51,30,+2:04,,52.0,Tronet Steven,30,Fortuneo - Vital Concept,",, 2:04",+0:06,,\u25b222,2,2016
+21,177,31,+2:04,,38.0,Kamberaj Giuliano,31,Skydive Dubai Pro Cycling Team - Al Ahli Club,",, 2:04",+0:06,,\u25b27,2,2016
+29,18,32,+2:04,,36.0,Thomson Jay Robert,32,Team Dimension Data,",, 2:04",+0:06,,\u25b24,2,2016
+26,75,33,+2:04,,21.0,Steels Stijn,33,Topsport Vlaanderen - Baloise,",, 2:04",+0:06,,\u25bc12,2,2016
+31,118,34,+2:04,,30.0,Turgot S\xe9bastien,34,AG2R La Mondiale,",, 2:04",+0:06,,\u25bc4,2,2016
+25,48,35,+2:04,,31.0,Thwaites Scott,35,Bora - Argon 18,",, 2:04",+0:06,,\u25bc4,2,2016
+33,88,36,+2:04,,43.0,Wynants Maarten,36,Team LottoNL-Jumbo,",, 2:04",+0:06,,\u25b27,2,2016
+30,13,37,+2:04,,51.0,Brammeier Matthew,37,Team Dimension Data,",, 2:04",+0:06,,\u25b214,2,2016
+26,95,38,+2:04,,32.0,Mcnally Mark,38,Wanty - Groupe Gobert,",, 2:04",+0:06,,\u25bc6,2,2016
+29,34,39,+2:04,,39.0,Oss Daniel,39,BMC Racing Team,",, 2:04",+0:06,,-,2,2016
+30,24,40,+2:04,,45.0,Stamsnijder Tom,40,Team Giant - Alpecin,",, 2:04",+0:06,,\u25b25,2,2016
+36,155,41,+2:04,,37.0,Jones Chris,41,UnitedHealthcare Pro Cycling Team,",, 2:04",+0:06,,\u25bc4,2,2016
+29,57,42,+2:04,,50.0,Perichon Pierre-Luc,42,Fortuneo - Vital Concept,",, 2:04",+0:06,,\u25b28,2,2016
+30,86,43,+2:04,,28.0,van Emden Jos,43,Team LottoNL-Jumbo,",, 2:04",+0:06,,\u25bc15,2,2016
+21,7,44,+2:04,,48.0,Politt Nils,44,Team Katusha,",, 2:04",+0:06,,\u25b24,2,2016
+22,154,45,+2:04,,44.0,Eaton Daniel,45,UnitedHealthcare Pro Cycling Team,",, 2:04",+0:06,,\u25bc1,2,2016
+31,5,46,+2:04,,49.0,Kozonchuk Dmitry,46,Team Katusha,",, 2:04",+0:06,,\u25b23,2,2016
+35,111,47,+2:04,,47.0,Vansummeren Johan,47,AG2R La Mondiale,",, 2:04",+0:06,,-,2,2016
+33,17,48,+2:04,,42.0,Renshaw Mark,48,Team Dimension Data,",, 2:04",+0:06,,\u25bc6,2,2016
+29,33,49,+3:16,,34.0,Drucker Jean-Pierre,49,BMC Racing Team,3:16 3:16,+1:18,,\u25bc15,2,2016
+31,91,50,+3:40,,33.0,Marcato Marco,50,Wanty - Groupe Gobert,3:40 3:40,+1:42,,\u25bc17,2,2016
+31,15,51,+4:03,,46.0,Farrar Tyler,51,Team Dimension Data,4:03 4:03,+2:05,,\u25bc5,2,2016
+32,152,52,+4:41,,22.0,Alzate Carlos Eduardo,52,UnitedHealthcare Pro Cycling Team,4:41 4:41,+2:43,,\u25bc30,2,2016
+24,45,53,+7:15,,53.0,P\xf6stlberger Lukas,53,Bora - Argon 18,7:15 7:15,+4:54,,-,2,2016
+25,94,54,+8:09,,60.0,Jans Roy,54,Wanty - Groupe Gobert,8:09 8:09,+0:02,,\u25b26,2,2016
+28,65,55,+8:11,,64.0,Smukulis Gatis,55,Astana Pro Team,8:11 8:11,+0:04,,\u25b29,2,2016
+38,143,56,+8:13,,55.0,Kiendys Tomasz,56,CCC Sprandi Polkowice,8:13 8:13,+0:06,,\u25bc1,2,2016
+28,145,57,+8:13,,54.0,Marycz Jaroslaw,57,CCC Sprandi Polkowice,",, 8:13",+0:06,,\u25bc3,2,2016
+28,114,58,+8:13,,56.0,Gretsch Patrick,58,AG2R La Mondiale,",, 8:13",+0:06,,\u25bc2,2,2016
+24,76,59,+8:13,,66.0,Van Meirhaeghe Jef,59,Topsport Vlaanderen - Baloise,",, 8:13",+0:06,,\u25b27,2,2016
+26,74,60,+8:13,,57.0,Declercq Tim,60,Topsport Vlaanderen - Baloise,",, 8:13",+0:06,,\u25bc3,2,2016
+27,142,61,+8:13,,59.0,Honkisz Adrian,61,CCC Sprandi Polkowice,",, 8:13",+0:06,,\u25bc2,2,2016
+35,161,62,+8:13,,62.0,Wegmann Fabian,62,St\xf6lting Service Group,",, 8:13",+0:06,,-,2,2016
+23,83,63,+8:13,,63.0,Roosen Timo,63,Team LottoNL-Jumbo,",, 8:13",+0:06,,-,2,2016
+30,62,64,+8:13,,67.0,Boom Lars,64,Astana Pro Team,",, 8:13",+0:06,,\u25b23,2,2016
+23,84,65,+8:13,,61.0,Teunissen Mike,65,Team LottoNL-Jumbo,",, 8:13",+0:06,,\u25bc4,2,2016
+33,67,66,+9:20,,58.0,Westra Lieuwe,66,Astana Pro Team,9:20 9:20,+1:13,,\u25bc8,2,2016
+24,25,67,+9:39,,68.0,Waeytens Zico,67,Team Giant - Alpecin,9:39 9:39,+0:06,,\u25b21,2,2016
+22,58,68,+9:49,,65.0,Vall\xe9e Boris,68,Fortuneo - Vital Concept,9:49 9:49,+1:42,,\u25bc3,2,2016
+22,77,69,+10:49,,69.0,Van Rooy Kenneth,69,Topsport Vlaanderen - Baloise,10:49 10:49,+0:06,,-,2,2016
+20,124,70,+12:14,,99.0,Looij Andre,70,Roompot - Oranje Peloton,12:14 12:14,+0:06,,\u25b229,2,2016
+21,168,71,+12:14,,80.0,Carbel Michael,71,St\xf6lting Service Group,",, 12:14",+0:06,,\u25b29,2,2016
+22,137,72,+12:14,,107.0,Pibernik Luka,72,Lampre - Merida,",, 12:14",+0:06,,\u25b235,2,2016
+33,176,73,+12:14,,71.0,Jelloul Adil,73,Skydive Dubai Pro Cycling Team - Al Ahli Club,",, 12:14",+0:06,,\u25bc2,2,2016
+24,68,74,+12:14,,75.0,Zakharov Artyom,74,Astana Pro Team,",, 12:14",+0:06,,\u25b21,2,2016
+23,163,75,+12:14,,119.0,Kirsch Alex,75,St\xf6lting Service Group,",, 12:14",+0:06,,\u25b244,2,2016
+25,85,76,+12:14,,87.0,Van Asbroeck Tom,76,Team LottoNL-Jumbo,",, 12:14",+0:06,,\u25b211,2,2016
+22,123,77,+12:14,,70.0,Kerkhof Tim,77,Roompot - Oranje Peloton,",, 12:14",+0:06,,\u25bc7,2,2016
+24,127,78,+12:14,,76.0,van Goethem Brian,78,Roompot - Oranje Peloton,",, 12:14",+0:06,,\u25bc2,2,2016
+22,38,79,+12:14,,73.0,Zabel Rick,79,BMC Racing Team,",, 12:14",+0:06,,\u25bc6,2,2016
+25,121,80,+12:14,,95.0,Asselman Jesper,80,Roompot - Oranje Peloton,",, 12:14",+0:06,,\u25b215,2,2016
+26,36,81,+12:14,,86.0,Rosskopf Joey,81,BMC Racing Team,",, 12:14",+0:06,,\u25b25,2,2016
+25,128,82,+12:14,,84.0,Kreder Wesley,82,Roompot - Oranje Peloton,",, 12:14",+0:06,,\u25b22,2,2016
+26,122,83,+12:14,,74.0,de Vries Berden,83,Roompot - Oranje Peloton,",, 12:14",+0:06,,\u25bc9,2,2016
+27,42,84,+12:14,,98.0,Archbold Shane,84,Bora - Argon 18,",, 12:14",+0:06,,\u25b214,2,2016
+24,73,85,+12:14,,77.0,De Tier Floris,85,Topsport Vlaanderen - Baloise,",, 12:14",+0:06,,\u25bc8,2,2016
+22,126,86,+12:14,,89.0,Slik Ivar,86,Roompot - Oranje Peloton,",, 12:14",+0:06,,\u25b23,2,2016
+33,116,87,+12:14,,120.0,Minard S\xe9bastien,87,AG2R La Mondiale,",, 12:14",+0:06,,\u25b233,2,2016
+26,147,88,+12:14,,103.0,Stepniak Grzegorz,88,CCC Sprandi Polkowice,",, 12:14",+0:06,,\u25b215,2,2016
+26,174,89,+12:14,,96.0,Hasnaoui Maher,89,Skydive Dubai Pro Cycling Team - Al Ahli Club,",, 12:14",+0:06,,\u25b27,2,2016
+26,16,90,+12:14,,115.0,Reguigui Youcef,90,Team Dimension Data,",, 12:14",+0:06,,\u25b225,2,2016
+35,96,91,+12:14,,78.0,Napolitano Danilo,91,Wanty - Groupe Gobert,",, 12:14",+0:06,,\u25bc13,2,2016
+28,23,92,+12:14,,72.0,Ji Cheng,92,Team Giant - Alpecin,",, 12:14",+0:06,,\u25bc20,2,2016
+26,52,93,+12:14,,79.0,Breen Vegard,93,Fortuneo - Vital Concept,",, 12:14",+0:06,,\u25bc14,2,2016
+30,22,94,+12:14,,85.0,Fr\xf6hlinger Johannes,94,Team Giant - Alpecin,",, 12:14",+0:06,,\u25bc9,2,2016
+25,164,95,+12:14,,101.0,Koep Thomas,95,St\xf6lting Service Group,",, 12:14",+0:06,,\u25b26,2,2016
+27,55,96,+12:14,,109.0,Jarrier Benoit,96,Fortuneo - Vital Concept,",, 12:14",+0:06,,\u25b213,2,2016
+31,171,97,+12:14,,100.0,Santaromita Ivan,97,Skydive Dubai Pro Cycling Team - Al Ahli Club,",, 12:14",+0:06,,\u25b23,2,2016
+32,87,98,+12:14,,94.0,Wagner Robert,98,Team LottoNL-Jumbo,",, 12:14",+0:06,,\u25bc4,2,2016
+29,113,99,+12:14,,121.0,Gaudin Damien,99,AG2R La Mondiale,",, 12:14",+0:06,,\u25b222,2,2016
+27,82,100,+12:14,,104.0,Castelijns Twan,100,Team LottoNL-Jumbo,",, 12:14",+0:06,,\u25b24,2,2016
+27,151,101,+12:14,,113.0,Canola Marco,101,UnitedHealthcare Pro Cycling Team,",, 12:14",+0:06,,\u25b212,2,2016
+25,115,102,+12:14,,106.0,Houle Hugo,102,AG2R La Mondiale,",, 12:14",+0:06,,\u25b24,2,2016
+29,146,103,+12:14,,112.0,Ponzi Simone,103,CCC Sprandi Polkowice,",, 12:14",+0:06,,\u25b29,2,2016
+44,141,104,+12:14,,111.0,Rebellin Davide,104,CCC Sprandi Polkowice,",, 12:14",+0:06,,\u25b27,2,2016
+20,166,105,+12:14,,123.0,Pedersen Mads,105,St\xf6lting Service Group,",, 12:14",+0:06,,\u25b218,2,2016
+24,102,106,+12:14,,81.0,Jones Brenton,106,Drapac Professional Cycling,",, 12:14",+0:06,,\u25bc25,2,2016
+36,101,107,+12:14,,83.0,Brown Graeme,107,Drapac Professional Cycling,",, 12:14",+0:06,,\u25bc24,2,2016
+31,132,108,+12:14,,105.0,Arashiro Yukiya,108,Lampre - Merida,",, 12:14",+0:06,,\u25bc3,2,2016
+26,133,109,+12:14,,108.0,Cimolai Davide,109,Lampre - Merida,",, 12:14",+0:06,,\u25bc1,2,2016
+21,105,110,+12:14,,114.0,Lowndes Jason,110,Drapac Professional Cycling,",, 12:14",+0:06,,\u25b24,2,2016
+24,125,111,+12:14,,82.0,Markus Barry,111,Roompot - Oranje Peloton,",, 12:14",+0:06,,\u25bc29,2,2016
+24,4,112,+12:14,,122.0,Haller Marco,112,Team Katusha,",, 12:14",+0:06,,\u25b210,2,2016
+30,153,113,+13:28,,91.0,Busche Matthew,113,UnitedHealthcare Pro Cycling Team,13:28 13:28,+1:20,,\u25bc22,2,2016
+27,98,114,+13:33,,110.0,Thurau Bjorn,114,Wanty - Groupe Gobert,13:33 13:33,+1:25,,\u25bc4,2,2016
+30,134,115,+13:40,,102.0,Costa M\xe1rio,115,Lampre - Merida,13:40 13:40,+1:32,,\u25bc13,2,2016
+22,72,116,+13:42,,88.0,Capiot Amaury,116,Topsport Vlaanderen - Baloise,13:42 13:42,+1:34,,\u25bc28,2,2016
+32,108,117,+13:50,,90.0,Sulzberger Bernard,117,Drapac Professional Cycling,13:50 13:50,+1:42,,\u25bc27,2,2016
+32,46,118,+14:34,,93.0,Schillinger Andreas,118,Bora - Argon 18,14:34 14:34,+2:26,,\u25bc25,2,2016
+28,44,119,+14:34,,97.0,Pfingsten Christoph,119,Bora - Argon 18,",, 14:34",+2:26,,\u25bc22,2,2016
+31,93,120,+17:02,,126.0,Dehaes Kenny,120,Wanty - Groupe Gobert,17:02 17:02,+4:54,,\u25b26,2,2016
+27,117,121,+19:36,,131.0,Sergent Jesse,121,AG2R La Mondiale,19:36 19:36,+0:06,,\u25b210,2,2016
+21,138,122,+19:36,,132.0,Zurlo Federico,122,Lampre - Merida,",, 19:36",+0:06,,\u25b210,2,2016
+24,56,123,+19:36,,130.0,McLay Daniel,123,Fortuneo - Vital Concept,",, 19:36",+0:06,,\u25b27,2,2016
+32,54,124,+19:36,,128.0,Hutarovich Yauheni,124,Fortuneo - Vital Concept,",, 19:36",+0:06,,\u25b24,2,2016
+25,97,125,+19:48,,92.0,Stenuit Robin,125,Wanty - Groupe Gobert,19:48 19:48,+7:40,,\u25bc33,2,2016
+24,156,126,+19:48,,117.0,Keough Luke,126,UnitedHealthcare Pro Cycling Team,",, 19:48",+7:40,,\u25bc9,2,2016
+34,158,127,+19:48,,116.0,White Bradley,127,UnitedHealthcare Pro Cycling Team,",, 19:48",+7:40,,\u25bc11,2,2016
+38,157,128,+19:48,,118.0,Menzies Karl,128,UnitedHealthcare Pro Cycling Team,",, 19:48",+7:40,,\u25bc10,2,2016
+25,104,129,+19:48,,125.0,Koning Peter,129,Drapac Professional Cycling,",, 19:48",+7:40,,\u25bc4,2,2016
+23,165,130,+20:29,,127.0,Mager Christian,130,St\xf6lting Service Group,20:29 20:29,+7:40,,\u25bc3,2,2016
+23,103,131,+21:10,,133.0,Kerby Jordan,131,Drapac Professional Cycling,21:10 21:10,+1:40,,\u25b22,2,2016
+23,107,132,+21:12,,134.0,Spokes Samuel,132,Drapac Professional Cycling,21:12 21:12,+1:42,,\u25b22,2,2016
+30,112,133,+27:10,,129.0,Bagdonas Gediminas,133,AG2R La Mondiale,27:10 27:10,+7:40,,\u25bc4,2,2016
+28,12,1,+0:00,,5.0,Boasson Hagen Edvald,1,Team Dimension Data,6:53:35 6:53:35,+0:00,5.0,\u25b24,3,2016
+30,11,2,+0:26,,1.0,Cavendish Mark,2,Team Dimension Data,0:26 0:26,+0:44,,\u25bc1,3,2016
+36,35,3,+0:32,,10.0,Quinziato Manuel,3,BMC Racing Team,0:32 0:32,+0:29,,\u25b27,3,2016
+30,31,4,+0:34,,7.0,Van Avermaet Greg,4,BMC Racing Team,0:34 0:34,+0:32,,\u25b23,3,2016
+28,1,5,+0:45,,2.0,Kristoff Alexander,5,Team Katusha,0:45 0:45,+0:58,,\u25bc3,3,2016
+21,21,6,+0:48,,14.0,Andersen S\xf8ren Kragh,6,Team Giant - Alpecin,0:48 0:48,+0:45,,\u25b28,3,2016
+24,2,7,+1:02,,9.0,Bystr\xf8m Sven Erik,7,Team Katusha,1:02 1:02,+0:59,,\u25b22,3,2016
+25,41,8,+1:07,,13.0,Bennett Sam,8,Bora - Argon 18,1:07 1:07,+1:04,,\u25b25,3,2016
+26,8,9,+1:10,,6.0,Kuznetsov Viacheslav,9,Team Katusha,1:10 1:10,+1:10,,\u25bc3,3,2016
+29,37,10,+1:15,,11.0,Schar Michael,10,BMC Racing Team,1:15 1:15,+1:12,,\u25b21,3,2016
+28,131,11,+1:18,,3.0,Modolo Sacha,11,Lampre - Merida,1:18 1:18,+1:22,,\u25bc8,3,2016
+28,43,12,+1:21,,12.0,Dempster Zakkari,12,Bora - Argon 18,1:21 1:21,+1:18,,-,3,2016
+31,53,13,+1:24,,8.0,Gerard Arnaud,13,Fortuneo - Vital Concept,1:24 1:24,+1:21,,\u25bc5,3,2016
+30,6,14,+1:32,,16.0,M\xf8rk\xf8v Michael,14,Team Katusha,1:32 1:32,+1:11,,\u25b22,3,2016
+26,47,15,+1:37,,15.0,Selig R\xfcdiger,15,Bora - Argon 18,1:37 1:37,+1:29,,-,3,2016
+26,61,16,+1:47,,4.0,Guardini Andrea,16,Astana Pro Team,1:47 1:47,+1:48,,\u25bc12,3,2016
+30,86,17,+2:11,,43.0,van Emden Jos,17,Team LottoNL-Jumbo,2:11 2:11,+0:25,,\u25b226,3,2016
+29,63,18,+2:26,,28.0,Gruzdev Dmitriy,18,Astana Pro Team,2:26 2:26,+0:40,,\u25b210,3,2016
+29,34,19,+2:33,,39.0,Oss Daniel,19,BMC Racing Team,2:33 2:33,+0:47,,\u25b220,3,2016
+21,7,20,+2:37,,44.0,Politt Nils,20,Team Katusha,2:37 2:37,+0:51,,\u25b224,3,2016
+33,88,21,+2:50,,36.0,Wynants Maarten,21,Team LottoNL-Jumbo,2:50 2:50,+1:04,,\u25b215,3,2016
+25,48,22,+2:57,,35.0,Thwaites Scott,22,Bora - Argon 18,2:57 2:57,+1:11,,\u25b213,3,2016
+24,81,23,+2:59,,24.0,Hofland Moreno,23,Team LottoNL-Jumbo,2:59 2:59,+1:13,,\u25b21,3,2016
+22,154,24,+3:05,,45.0,Eaton Daniel,24,UnitedHealthcare Pro Cycling Team,3:05 3:05,+1:19,,\u25b221,3,2016
+29,18,25,+3:06,,32.0,Thomson Jay Robert,25,Team Dimension Data,3:06 3:06,+1:20,,\u25b27,3,2016
+33,71,26,+3:10,,17.0,Van Hecke Preben,26,Topsport Vlaanderen - Baloise,3:10 3:10,+1:27,,\u25bc9,3,2016
+35,111,27,+3:12,,47.0,Vansummeren Johan,27,AG2R La Mondiale,3:12 3:12,+1:26,,\u25b220,3,2016
+28,3,28,+3:15,,29.0,Guarnieri Jacopo,28,Team Katusha,3:15 3:15,+1:29,,\u25b21,3,2016
+24,92,29,+3:15,,26.0,Antonini Simone,29,Wanty - Groupe Gobert,",, 3:15",+1:29,,\u25bc3,3,2016
+31,5,30,+3:17,,46.0,Kozonchuk Dmitry,30,Team Katusha,3:17 3:17,+1:31,,\u25b216,3,2016
+27,144,31,+3:19,,20.0,Kurek Adrian,31,CCC Sprandi Polkowice,3:19 3:19,+1:33,,\u25bc11,3,2016
+25,173,32,+3:21,,21.0,Haddi Soufiane,32,Skydive Dubai Pro Cycling Team - Al Ahli Club,3:21 3:21,+1:35,,\u25bc11,3,2016
+29,78,33,+3:23,,23.0,Vanspeybrouck Pieter,33,Topsport Vlaanderen - Baloise,3:23 3:23,+1:37,,\u25bc10,3,2016
+29,57,34,+3:23,,42.0,Perichon Pierre-Luc,34,Fortuneo - Vital Concept,",, 3:23",+1:37,,\u25b28,3,2016
+31,118,35,+3:26,,34.0,Turgot S\xe9bastien,35,AG2R La Mondiale,3:26 3:26,+1:40,,\u25bc1,3,2016
+36,155,36,+3:27,,41.0,Jones Chris,36,UnitedHealthcare Pro Cycling Team,3:27 3:27,+1:41,,\u25b25,3,2016
+26,75,37,+3:28,,33.0,Steels Stijn,37,Topsport Vlaanderen - Baloise,3:28 3:28,+1:42,,\u25bc4,3,2016
+24,14,38,+3:29,,22.0,Debesay Mekseb,38,Team Dimension Data,3:29 3:29,+1:43,,\u25bc16,3,2016
+30,24,39,+3:32,,40.0,Stamsnijder Tom,39,Team Giant - Alpecin,3:32 3:32,+1:46,,\u25b21,3,2016
+33,17,40,+3:35,,48.0,Renshaw Mark,40,Team Dimension Data,3:35 3:35,+1:49,,\u25b28,3,2016
+26,178,41,+3:40,,18.0,Palini Andrea,41,Skydive Dubai Pro Cycling Team - Al Ahli Club,3:40 3:40,+1:54,,\u25bc23,3,2016
+29,51,42,+3:43,,30.0,Tronet Steven,42,Fortuneo - Vital Concept,3:43 3:43,+1:57,,\u25bc12,3,2016
+28,66,43,+3:44,,19.0,Tleubayev Ruslan,43,Astana Pro Team,3:44 3:44,+1:58,,\u25bc24,3,2016
+21,177,44,+3:47,,31.0,Kamberaj Giuliano,44,Skydive Dubai Pro Cycling Team - Al Ahli Club,3:47 3:47,+2:01,,\u25bc13,3,2016
+30,13,45,+3:53,,37.0,Brammeier Matthew,45,Team Dimension Data,3:53 3:53,+2:07,,\u25bc8,3,2016
+26,95,46,+3:54,,38.0,Mcnally Mark,46,Wanty - Groupe Gobert,3:54 3:54,+2:08,,\u25bc8,3,2016
+27,135,47,+3:58,,25.0,Kump Marko,47,Lampre - Merida,3:58 3:58,+2:12,,\u25bc22,3,2016
+29,33,48,+4:01,,49.0,Drucker Jean-Pierre,48,BMC Racing Team,4:01 4:01,+1:03,,\u25b21,3,2016
+36,167,49,+4:02,,27.0,Reihs Michael,49,St\xf6lting Service Group,4:02 4:02,+2:16,,\u25bc22,3,2016
+31,91,50,+4:49,,50.0,Marcato Marco,50,Wanty - Groupe Gobert,4:49 4:49,+1:27,,-,3,2016
+32,152,51,+6:10,,52.0,Alzate Carlos Eduardo,51,UnitedHealthcare Pro Cycling Team,6:10 6:10,+1:47,,\u25b21,3,2016
+31,15,52,+6:11,,51.0,Farrar Tyler,52,Team Dimension Data,6:11 6:11,+2:26,,\u25bc1,3,2016
+24,45,53,+8:01,,53.0,P\xf6stlberger Lukas,53,Bora - Argon 18,8:01 8:01,+1:04,,-,3,2016
+30,62,54,+8:46,,64.0,Boom Lars,54,Astana Pro Team,8:46 8:46,+0:51,,\u25b210,3,2016
+23,84,55,+8:55,,65.0,Teunissen Mike,55,Team LottoNL-Jumbo,8:55 8:55,+1:00,,\u25b210,3,2016
+28,65,56,+9:02,,55.0,Smukulis Gatis,56,Astana Pro Team,9:02 9:02,+1:09,,\u25bc1,3,2016
+28,114,57,+9:15,,58.0,Gretsch Patrick,57,AG2R La Mondiale,9:15 9:15,+1:20,,\u25b21,3,2016
+26,74,58,+9:20,,60.0,Declercq Tim,58,Topsport Vlaanderen - Baloise,9:20 9:20,+1:25,,\u25b22,3,2016
+28,145,59,+9:27,,57.0,Marycz Jaroslaw,59,CCC Sprandi Polkowice,9:27 9:27,+1:32,,\u25bc2,3,2016
+25,94,60,+9:34,,54.0,Jans Roy,60,Wanty - Groupe Gobert,9:34 9:34,+1:43,,\u25bc6,3,2016
+23,83,61,+9:38,,63.0,Roosen Timo,61,Team LottoNL-Jumbo,9:38 9:38,+1:43,,\u25b22,3,2016
+33,67,62,+9:45,,66.0,Westra Lieuwe,62,Astana Pro Team,9:45 9:45,+0:43,,\u25b24,3,2016
+38,143,63,+9:47,,56.0,Kiendys Tomasz,63,CCC Sprandi Polkowice,9:47 9:47,+1:52,,\u25bc7,3,2016
+35,161,64,+9:49,,62.0,Wegmann Fabian,64,St\xf6lting Service Group,9:49 9:49,+1:54,,\u25bc2,3,2016
+24,76,65,+9:58,,59.0,Van Meirhaeghe Jef,65,Topsport Vlaanderen - Baloise,9:58 9:58,+2:03,,\u25bc6,3,2016
+24,25,66,+10:48,,67.0,Waeytens Zico,66,Team Giant - Alpecin,10:48 10:48,+1:27,,\u25b21,3,2016
+27,142,67,+10:56,,61.0,Honkisz Adrian,67,CCC Sprandi Polkowice,10:56 10:56,+3:01,,\u25bc6,3,2016
+22,58,68,+11:02,,68.0,Vall\xe9e Boris,68,Fortuneo - Vital Concept,11:02 11:02,+1:31,,-,3,2016
+22,77,69,+12:21,,69.0,Van Rooy Kenneth,69,Topsport Vlaanderen - Baloise,12:21 12:21,+1:50,,-,3,2016
+25,115,70,+12:53,,102.0,Houle Hugo,70,AG2R La Mondiale,12:53 12:53,+0:57,,\u25b232,3,2016
+22,38,71,+12:56,,79.0,Zabel Rick,71,BMC Racing Team,12:56 12:56,+1:00,,\u25b28,3,2016
+29,113,72,+13:00,,99.0,Gaudin Damien,72,AG2R La Mondiale,13:00 13:00,+1:04,,\u25b227,3,2016
+26,36,73,+13:01,,81.0,Rosskopf Joey,73,BMC Racing Team,13:01 13:01,+1:05,,\u25b28,3,2016
+20,166,74,+13:01,,105.0,Pedersen Mads,74,St\xf6lting Service Group,",, 13:01",+1:05,,\u25b231,3,2016
+26,122,75,+13:02,,83.0,de Vries Berden,75,Roompot - Oranje Peloton,13:02 13:02,+1:06,,\u25b28,3,2016
+26,52,76,+13:08,,93.0,Breen Vegard,76,Fortuneo - Vital Concept,13:08 13:08,+1:12,,\u25b217,3,2016
+23,163,77,+13:13,,75.0,Kirsch Alex,77,St\xf6lting Service Group,13:13 13:13,+1:17,,\u25bc2,3,2016
+24,127,78,+13:17,,78.0,van Goethem Brian,78,Roompot - Oranje Peloton,13:17 13:17,+1:21,,-,3,2016
+24,102,79,+13:18,,106.0,Jones Brenton,79,Drapac Professional Cycling,13:18 13:18,+1:22,,\u25b227,3,2016
+24,68,80,+13:24,,74.0,Zakharov Artyom,80,Astana Pro Team,13:24 13:24,+1:28,,\u25bc6,3,2016
+22,137,81,+13:24,,72.0,Pibernik Luka,81,Lampre - Merida,",, 13:24",+1:28,,\u25bc9,3,2016
+21,105,82,+13:28,,110.0,Lowndes Jason,82,Drapac Professional Cycling,13:28 13:28,+1:32,,\u25b228,3,2016
+27,55,83,+13:29,,96.0,Jarrier Benoit,83,Fortuneo - Vital Concept,13:29 13:29,+1:33,,\u25b213,3,2016
+32,87,84,+13:30,,98.0,Wagner Robert,84,Team LottoNL-Jumbo,13:30 13:30,+1:34,,\u25b214,3,2016
+27,151,85,+13:31,,101.0,Canola Marco,85,UnitedHealthcare Pro Cycling Team,13:31 13:31,+1:35,,\u25b216,3,2016
+27,82,86,+13:31,,100.0,Castelijns Twan,86,Team LottoNL-Jumbo,",, 13:31",+1:35,,\u25b214,3,2016
+24,4,87,+13:33,,112.0,Haller Marco,87,Team Katusha,13:33 13:33,+1:37,,\u25b225,3,2016
+25,85,88,+13:35,,76.0,Van Asbroeck Tom,88,Team LottoNL-Jumbo,13:35 13:35,+1:39,,\u25bc12,3,2016
+31,171,89,+13:35,,97.0,Santaromita Ivan,89,Skydive Dubai Pro Cycling Team - Al Ahli Club,",, 13:35",+1:39,,\u25b28,3,2016
+22,123,90,+13:42,,77.0,Kerkhof Tim,90,Roompot - Oranje Peloton,13:42 13:42,+1:46,,\u25bc13,3,2016
+33,176,91,+13:44,,73.0,Jelloul Adil,91,Skydive Dubai Pro Cycling Team - Al Ahli Club,13:44 13:44,+1:48,,\u25bc18,3,2016
+24,73,92,+13:45,,85.0,De Tier Floris,92,Topsport Vlaanderen - Baloise,13:45 13:45,+1:49,,\u25bc7,3,2016
+25,164,93,+13:45,,95.0,Koep Thomas,93,St\xf6lting Service Group,",, 13:45",+1:49,,\u25b22,3,2016
+21,168,94,+13:47,,71.0,Carbel Michael,94,St\xf6lting Service Group,13:47 13:47,+1:51,,\u25bc23,3,2016
+25,128,95,+13:48,,82.0,Kreder Wesley,95,Roompot - Oranje Peloton,13:48 13:48,+1:52,,\u25bc13,3,2016
+31,132,96,+13:48,,108.0,Arashiro Yukiya,96,Lampre - Merida,",, 13:48",+1:52,,\u25b212,3,2016
+33,116,97,+13:49,,87.0,Minard S\xe9bastien,97,AG2R La Mondiale,13:49 13:49,+1:53,,\u25bc10,3,2016
+25,121,98,+13:49,,80.0,Asselman Jesper,98,Roompot - Oranje Peloton,",, 13:49",+1:53,,\u25bc18,3,2016
+44,141,99,+13:51,,104.0,Rebellin Davide,99,CCC Sprandi Polkowice,13:51 13:51,+1:55,,\u25b25,3,2016
+36,101,100,+13:53,,107.0,Brown Graeme,100,Drapac Professional Cycling,13:53 13:53,+1:57,,\u25b27,3,2016
+26,16,101,+13:55,,90.0,Reguigui Youcef,101,Team Dimension Data,13:55 13:55,+1:59,,\u25bc11,3,2016
+26,174,102,+13:56,,89.0,Hasnaoui Maher,102,Skydive Dubai Pro Cycling Team - Al Ahli Club,13:56 13:56,+2:00,,\u25bc13,3,2016
+35,96,103,+13:58,,91.0,Napolitano Danilo,103,Wanty - Groupe Gobert,13:58 13:58,+2:02,,\u25bc12,3,2016
+30,22,104,+14:01,,94.0,Fr\xf6hlinger Johannes,104,Team Giant - Alpecin,14:01 14:01,+2:05,,\u25bc10,3,2016
+26,133,105,+14:01,,109.0,Cimolai Davide,105,Lampre - Merida,",, 14:01",+2:05,,\u25b24,3,2016
+26,147,106,+14:03,,88.0,Stepniak Grzegorz,106,CCC Sprandi Polkowice,14:03 14:03,+2:07,,\u25bc18,3,2016
+20,124,107,+14:03,,70.0,Looij Andre,107,Roompot - Oranje Peloton,",, 14:03",+2:07,,\u25bc37,3,2016
+28,23,108,+14:11,,92.0,Ji Cheng,108,Team Giant - Alpecin,14:11 14:11,+2:15,,\u25bc16,3,2016
+29,146,109,+14:26,,103.0,Ponzi Simone,109,CCC Sprandi Polkowice,14:26 14:26,+2:30,,\u25bc6,3,2016
+27,42,110,+14:31,,84.0,Archbold Shane,110,Bora - Argon 18,14:31 14:31,+2:35,,\u25bc26,3,2016
+22,126,111,+14:38,,86.0,Slik Ivar,111,Roompot - Oranje Peloton,14:38 14:38,+2:42,,\u25bc25,3,2016
+30,153,112,+14:55,,113.0,Busche Matthew,112,UnitedHealthcare Pro Cycling Team,14:55 14:55,+1:45,,\u25b21,3,2016
+27,98,113,+14:58,,114.0,Thurau Bjorn,113,Wanty - Groupe Gobert,14:58 14:58,+1:43,,\u25b21,3,2016
+30,134,114,+15:10,,115.0,Costa M\xe1rio,114,Lampre - Merida,15:10 15:10,+1:48,,\u25b21,3,2016
+22,72,115,+15:32,,116.0,Capiot Amaury,115,Topsport Vlaanderen - Baloise,15:32 15:32,+2:08,,\u25b21,3,2016
+32,46,116,+15:58,,118.0,Schillinger Andreas,116,Bora - Argon 18,15:58 15:58,+1:42,,\u25b22,3,2016
+32,108,117,+16:04,,117.0,Sulzberger Bernard,117,Drapac Professional Cycling,16:04 16:04,+2:32,,-,3,2016
+28,44,118,+16:18,,119.0,Pfingsten Christoph,118,Bora - Argon 18,16:18 16:18,+2:02,,\u25b21,3,2016
+31,93,119,+19:16,,120.0,Dehaes Kenny,119,Wanty - Groupe Gobert,19:16 19:16,+2:32,,\u25b21,3,2016
+27,117,120,+20:16,,121.0,Sergent Jesse,120,AG2R La Mondiale,20:16 20:16,+0:58,,\u25b21,3,2016
+25,104,121,+20:49,,129.0,Koning Peter,121,Drapac Professional Cycling,20:49 20:49,+1:19,,\u25b28,3,2016
+21,138,122,+20:58,,122.0,Zurlo Federico,122,Lampre - Merida,20:58 20:58,+1:40,,-,3,2016
+24,56,123,+21:11,,123.0,McLay Daniel,123,Fortuneo - Vital Concept,21:11 21:11,+1:53,,-,3,2016
+34,158,124,+21:18,,127.0,White Bradley,124,UnitedHealthcare Pro Cycling Team,21:18 21:18,+1:48,,\u25b23,3,2016
+25,97,125,+21:20,,125.0,Stenuit Robin,125,Wanty - Groupe Gobert,21:20 21:20,+1:50,,-,3,2016
+38,157,126,+21:28,,128.0,Menzies Karl,126,UnitedHealthcare Pro Cycling Team,21:28 21:28,+1:58,,\u25b22,3,2016
+23,103,127,+21:36,,131.0,Kerby Jordan,127,Drapac Professional Cycling,21:36 21:36,+0:44,,\u25b24,3,2016
+32,54,128,+21:51,,124.0,Hutarovich Yauheni,128,Fortuneo - Vital Concept,21:51 21:51,+2:33,,\u25bc4,3,2016
+24,156,129,+21:54,,126.0,Keough Luke,129,UnitedHealthcare Pro Cycling Team,21:54 21:54,+2:24,,\u25bc3,3,2016
+23,165,130,+22:31,,130.0,Mager Christian,130,St\xf6lting Service Group,22:31 22:31,+2:20,,-,3,2016
+23,107,131,+22:51,,132.0,Spokes Samuel,131,Drapac Professional Cycling,22:51 22:51,+1:57,,\u25b21,3,2016
+30,112,132,+28:13,,133.0,Bagdonas Gediminas,132,AG2R La Mondiale,28:13 28:13,+1:21,,\u25b21,3,2016
+30,11,1,+0:00,,2.0,Cavendish Mark,1,Team Dimension Data,10:51:13 10:51:13,+0:00,5.0,\u25b21,4,2016
+30,31,2,+0:02,,4.0,Van Avermaet Greg,2,BMC Racing Team,0:02 0:02,+-1:54,,\u25b22,4,2016
+36,35,3,+0:06,,3.0,Quinziato Manuel,3,BMC Racing Team,0:06 0:06,+0:00,,-,4,2016
+28,1,4,+0:09,,5.0,Kristoff Alexander,4,Team Katusha,0:09 0:09,+-1:50,,\u25b21,4,2016
+28,12,5,+0:19,,1.0,Boasson Hagen Edvald,5,Team Dimension Data,0:19 0:19,+0:45,,\u25bc4,4,2016
+21,21,6,+0:30,,6.0,Andersen S\xf8ren Kragh,6,Team Giant - Alpecin,0:30 0:30,+0:08,,-,4,2016
+25,41,7,+0:41,,8.0,Bennett Sam,7,Bora - Argon 18,0:41 0:41,+0:00,,\u25b21,4,2016
+24,2,8,+0:49,,7.0,Bystr\xf8m Sven Erik,8,Team Katusha,0:49 0:49,+0:13,,\u25bc1,4,2016
+26,8,9,+0:50,,9.0,Kuznetsov Viacheslav,9,Team Katusha,0:50 0:50,+0:06,,-,4,2016
+29,37,10,+0:58,,10.0,Schar Michael,10,BMC Racing Team,0:58 0:58,+0:09,,-,4,2016
+28,131,11,+1:06,,11.0,Modolo Sacha,11,Lampre - Merida,1:06 1:06,+0:14,,-,4,2016
+28,43,12,+1:13,,12.0,Dempster Zakkari,12,Bora - Argon 18,1:13 1:13,+0:18,,-,4,2016
+30,6,13,+1:15,,14.0,M\xf8rk\xf8v Michael,13,Team Katusha,1:15 1:15,+0:09,,\u25b21,4,2016
+31,53,14,+1:16,,13.0,Gerard Arnaud,14,Fortuneo - Vital Concept,1:16 1:16,+0:18,,\u25bc1,4,2016
+26,47,15,+1:29,,15.0,Selig R\xfcdiger,15,Bora - Argon 18,1:29 1:29,+0:18,,-,4,2016
+30,86,16,+2:03,,17.0,van Emden Jos,16,Team LottoNL-Jumbo,2:03 2:03,+0:18,,\u25b21,4,2016
+26,61,17,+2:06,,16.0,Guardini Andrea,17,Astana Pro Team,2:06 2:06,+0:45,,\u25bc1,4,2016
+33,88,18,+2:42,,21.0,Wynants Maarten,18,Team LottoNL-Jumbo,2:42 2:42,+0:18,,\u25b23,4,2016
+24,81,19,+2:42,,23.0,Hofland Moreno,19,Team LottoNL-Jumbo,",, 2:42",+0:09,,\u25b24,4,2016
+28,3,20,+2:45,,28.0,Guarnieri Jacopo,20,Team Katusha,2:45 2:45,+-1:56,,\u25b28,4,2016
+29,34,21,+2:52,,19.0,Oss Daniel,21,BMC Racing Team,2:52 2:52,+0:45,,\u25bc2,4,2016
+29,63,22,+2:56,,18.0,Gruzdev Dmitriy,22,Astana Pro Team,2:56 2:56,+0:56,,\u25bc4,4,2016
+21,7,23,+3:06,,20.0,Politt Nils,23,Team Katusha,3:06 3:06,+0:55,,\u25bc3,4,2016
+25,48,24,+3:16,,22.0,Thwaites Scott,24,Bora - Argon 18,3:16 3:16,+0:45,,\u25bc2,4,2016
+22,154,25,+3:24,,24.0,Eaton Daniel,25,UnitedHealthcare Pro Cycling Team,3:24 3:24,+0:45,,\u25bc1,4,2016
+35,111,26,+3:31,,27.0,Vansummeren Johan,26,AG2R La Mondiale,3:31 3:31,+0:45,,\u25b21,4,2016
+24,92,27,+3:34,,29.0,Antonini Simone,27,Wanty - Groupe Gobert,3:34 3:34,+0:45,,\u25b22,4,2016
+31,5,28,+3:36,,30.0,Kozonchuk Dmitry,28,Team Katusha,3:36 3:36,+0:45,,\u25b22,4,2016
+25,173,29,+3:40,,32.0,Haddi Soufiane,29,Skydive Dubai Pro Cycling Team - Al Ahli Club,3:40 3:40,+0:45,,\u25b23,4,2016
+29,78,30,+3:42,,33.0,Vanspeybrouck Pieter,30,Topsport Vlaanderen - Baloise,3:42 3:42,+0:45,,\u25b23,4,2016
+31,118,31,+3:56,,35.0,Turgot S\xe9bastien,31,AG2R La Mondiale,3:56 3:56,+0:56,,\u25b24,4,2016
+29,18,32,+4:00,,25.0,Thomson Jay Robert,32,Team Dimension Data,4:00 4:00,+1:20,,\u25bc7,4,2016
+30,24,33,+4:02,,39.0,Stamsnijder Tom,33,Team Giant - Alpecin,4:02 4:02,+0:56,,\u25b26,4,2016
+28,66,34,+4:03,,43.0,Tleubayev Ruslan,34,Astana Pro Team,4:03 4:03,+0:45,,\u25b29,4,2016
+21,177,35,+4:06,,44.0,Kamberaj Giuliano,35,Skydive Dubai Pro Cycling Team - Al Ahli Club,4:06 4:06,+0:45,,\u25b29,4,2016
+26,178,36,+4:09,,41.0,Palini Andrea,36,Skydive Dubai Pro Cycling Team - Al Ahli Club,4:09 4:09,+0:55,,\u25b25,4,2016
+29,51,37,+4:12,,42.0,Tronet Steven,37,Fortuneo - Vital Concept,4:12 4:12,+0:55,,\u25b25,4,2016
+27,144,38,+4:16,,31.0,Kurek Adrian,38,CCC Sprandi Polkowice,4:16 4:16,+1:23,,\u25bc7,4,2016
+27,135,39,+4:17,,47.0,Kump Marko,39,Lampre - Merida,4:17 4:17,+0:45,,\u25b28,4,2016
+36,155,40,+4:21,,36.0,Jones Chris,40,UnitedHealthcare Pro Cycling Team,4:21 4:21,+1:20,,\u25bc4,4,2016
+29,33,41,+4:45,,48.0,Drucker Jean-Pierre,41,BMC Racing Team,4:45 4:45,+1:10,,\u25b27,4,2016
+33,17,42,+4:49,,40.0,Renshaw Mark,42,Team Dimension Data,4:49 4:49,+1:40,,\u25bc2,4,2016
+26,95,43,+5:11,,46.0,Mcnally Mark,43,Wanty - Groupe Gobert,5:11 5:11,+1:43,,\u25b23,4,2016
+30,13,44,+5:11,,45.0,Brammeier Matthew,44,Team Dimension Data,",, 5:11",+1:44,,\u25b21,4,2016
+32,91,45,+5:39,,50.0,Marcato Marco,45,Wanty - Groupe Gobert,5:39 5:39,+1:16,,\u25b25,4,2016
+33,71,46,+6:54,,26.0,Van Hecke Preben,46,Topsport Vlaanderen - Baloise,6:54 6:54,+4:10,,\u25bc20,4,2016
+36,167,47,+6:59,,49.0,Reihs Michael,47,St\xf6lting Service Group,6:59 6:59,+3:23,,\u25b22,4,2016
+29,57,48,+7:09,,34.0,Perichon Pierre-Luc,48,Fortuneo - Vital Concept,7:09 7:09,+4:12,,\u25bc14,4,2016
+26,75,49,+8:07,,37.0,Steels Stijn,49,Topsport Vlaanderen - Baloise,8:07 8:07,+5:05,,\u25bc12,4,2016
+24,14,50,+8:08,,38.0,Debesay Mekseb,50,Team Dimension Data,8:08 8:08,+5:05,,\u25bc12,4,2016
+23,84,51,+9:03,,55.0,Teunissen Mike,51,Team LottoNL-Jumbo,9:03 9:03,+0:34,,\u25b24,4,2016
+25,94,52,+9:17,,60.0,Jans Roy,52,Wanty - Groupe Gobert,9:17 9:17,+0:09,,\u25b28,4,2016
+26,74,53,+9:39,,58.0,Declercq Tim,53,Topsport Vlaanderen - Baloise,9:39 9:39,+0:45,,\u25b25,4,2016
+23,83,54,+9:46,,61.0,Roosen Timo,54,Team LottoNL-Jumbo,9:46 9:46,+0:34,,\u25b27,4,2016
+31,15,55,+9:57,,52.0,Farrar Tyler,55,Team Dimension Data,9:57 9:57,+4:12,,\u25bc3,4,2016
+35,161,56,+10:46,,64.0,Wegmann Fabian,56,St\xf6lting Service Group,10:46 10:46,+1:23,,\u25b28,4,2016
+32,152,57,+10:49,,51.0,Alzate Carlos Eduardo,57,UnitedHealthcare Pro Cycling Team,10:49 10:49,+5:05,,\u25bc6,4,2016
+22,58,58,+11:32,,68.0,Vall\xe9e Boris,58,Fortuneo - Vital Concept,11:32 11:32,+0:56,,\u25b210,4,2016
+24,25,59,+11:38,,66.0,Waeytens Zico,59,Team Giant - Alpecin,11:38 11:38,+1:16,,\u25b27,4,2016
+24,45,60,+12:40,,53.0,P\xf6stlberger Lukas,60,Bora - Argon 18,12:40 12:40,+5:05,,\u25bc7,4,2016
+28,114,61,+12:55,,57.0,Gretsch Patrick,61,AG2R La Mondiale,12:55 12:55,+4:06,,\u25bc4,4,2016
+22,77,62,+13:02,,69.0,Van Rooy Kenneth,62,Topsport Vlaanderen - Baloise,13:02 13:02,+1:07,,\u25b27,4,2016
+26,36,63,+13:20,,73.0,Rosskopf Joey,63,BMC Racing Team,13:20 13:20,+0:45,,\u25b210,4,2016
+30,62,64,+13:25,,54.0,Boom Lars,64,Astana Pro Team,13:25 13:25,+5:05,,\u25bc10,4,2016
+24,127,65,+13:27,,78.0,van Goethem Brian,65,Roompot - Oranje Peloton,13:27 13:27,+0:36,,\u25b213,4,2016
+25,85,66,+13:29,,88.0,Van Asbroeck Tom,66,Team LottoNL-Jumbo,13:29 13:29,+0:20,,\u25b222,4,2016
+33,67,67,+13:31,,62.0,Westra Lieuwe,67,Astana Pro Team,13:31 13:31,+4:12,,\u25bc5,4,2016
+38,143,68,+13:33,,63.0,Kiendys Tomasz,68,CCC Sprandi Polkowice,13:33 13:33,+4:12,,\u25bc5,4,2016
+22,38,69,+13:37,,71.0,Zabel Rick,69,BMC Racing Team,13:37 13:37,+1:07,,\u25b22,4,2016
+28,65,70,+13:41,,56.0,Smukulis Gatis,70,Astana Pro Team,13:41 13:41,+5:05,,\u25bc14,4,2016
+22,137,71,+13:43,,81.0,Pibernik Luka,71,Lampre - Merida,13:43 13:43,+0:45,,\u25b210,4,2016
+24,102,72,+13:48,,79.0,Jones Brenton,72,Drapac Professional Cycling,13:48 13:48,+0:56,,\u25b27,4,2016
+27,151,73,+13:50,,85.0,Canola Marco,73,UnitedHealthcare Pro Cycling Team,13:50 13:50,+0:45,,\u25b212,4,2016
+26,122,74,+13:52,,75.0,de Vries Berden,74,Roompot - Oranje Peloton,13:52 13:52,+1:16,,\u25b21,4,2016
+25,128,75,+13:58,,95.0,Kreder Wesley,75,Roompot - Oranje Peloton,13:58 13:58,+0:36,,\u25b220,4,2016
+24,68,76,+14:02,,80.0,Zakharov Artyom,76,Astana Pro Team,14:02 14:02,+1:04,,\u25b24,4,2016
+28,145,77,+14:06,,59.0,Marycz Jaroslaw,77,CCC Sprandi Polkowice,14:06 14:06,+5:05,,\u25bc18,4,2016
+20,124,78,+14:06,,107.0,Looij Andre,78,Roompot - Oranje Peloton,",, 14:06",+0:29,,\u25b229,4,2016
+21,168,79,+14:06,,94.0,Carbel Michael,79,St\xf6lting Service Group,",, 14:06",+0:45,,\u25b215,4,2016
+31,132,80,+14:07,,96.0,Arashiro Yukiya,80,Lampre - Merida,14:07 14:07,+0:45,,\u25b216,4,2016
+22,123,81,+14:12,,90.0,Kerkhof Tim,81,Roompot - Oranje Peloton,14:12 14:12,+0:56,,\u25b29,4,2016
+33,176,82,+14:14,,91.0,Jelloul Adil,82,Skydive Dubai Pro Cycling Team - Al Ahli Club,14:14 14:14,+0:56,,\u25b29,4,2016
+35,96,83,+14:17,,103.0,Napolitano Danilo,83,Wanty - Groupe Gobert,14:17 14:17,+0:45,,\u25b220,4,2016
+27,55,84,+14:23,,83.0,Jarrier Benoit,84,Fortuneo - Vital Concept,14:23 14:23,+1:20,,\u25bc1,4,2016
+27,82,85,+14:28,,86.0,Castelijns Twan,85,Team LottoNL-Jumbo,14:28 14:28,+1:23,,\u25b21,4,2016
+25,121,86,+14:28,,98.0,Asselman Jesper,86,Roompot - Oranje Peloton,",, 14:28",+1:05,,\u25b212,4,2016
+32,87,87,+14:30,,84.0,Wagner Robert,87,Team LottoNL-Jumbo,14:30 14:30,+1:26,,\u25bc3,4,2016
+24,4,88,+14:30,,87.0,Haller Marco,88,Team Katusha,",, 14:30",+1:23,,\u25bc1,4,2016
+33,116,89,+14:33,,97.0,Minard S\xe9bastien,89,AG2R La Mondiale,14:33 14:33,+1:10,,\u25b28,4,2016
+26,147,90,+14:33,,106.0,Stepniak Grzegorz,90,CCC Sprandi Polkowice,",, 14:33",+0:56,,\u25b216,4,2016
+24,76,91,+14:37,,65.0,Van Meirhaeghe Jef,91,Topsport Vlaanderen - Baloise,14:37 14:37,+5:05,,\u25bc26,4,2016
+26,133,92,+14:45,,105.0,Cimolai Davide,92,Lampre - Merida,14:45 14:45,+1:10,,\u25b213,4,2016
+27,42,93,+14:50,,110.0,Archbold Shane,93,Bora - Argon 18,14:50 14:50,+0:45,,\u25b217,4,2016
+30,22,94,+14:51,,104.0,Fr\xf6hlinger Johannes,94,Team Giant - Alpecin,14:51 14:51,+1:16,,\u25b210,4,2016
+22,126,95,+15:08,,111.0,Slik Ivar,95,Roompot - Oranje Peloton,15:08 15:08,+0:56,,\u25b216,4,2016
+27,142,96,+15:35,,67.0,Honkisz Adrian,96,CCC Sprandi Polkowice,15:35 15:35,+5:05,,\u25bc29,4,2016
+27,98,97,+15:48,,113.0,Thurau Bjorn,97,Wanty - Groupe Gobert,15:48 15:48,+1:16,,\u25b216,4,2016
+22,72,98,+15:51,,115.0,Capiot Amaury,98,Topsport Vlaanderen - Baloise,15:51 15:51,+0:45,,\u25b217,4,2016
+20,166,99,+15:58,,74.0,Pedersen Mads,99,St\xf6lting Service Group,15:58 15:58,+3:23,,\u25bc25,4,2016
+23,163,100,+16:07,,77.0,Kirsch Alex,100,St\xf6lting Service Group,16:07 16:07,+3:20,,\u25bc23,4,2016
+36,101,101,+16:26,,100.0,Brown Graeme,101,Drapac Professional Cycling,16:26 16:26,+2:59,,\u25bc1,4,2016
+32,46,102,+16:48,,116.0,Schillinger Andreas,102,Bora - Argon 18,16:48 16:48,+1:16,,\u25b214,4,2016
+28,44,103,+16:48,,118.0,Pfingsten Christoph,103,Bora - Argon 18,",, 16:48",+0:56,,\u25b215,4,2016
+26,52,104,+16:54,,76.0,Breen Vegard,104,Fortuneo - Vital Concept,16:54 16:54,+4:12,,\u25bc28,4,2016
+32,108,105,+16:54,,117.0,Sulzberger Bernard,105,Drapac Professional Cycling,",, 16:54",+1:16,,\u25b212,4,2016
+25,115,106,+17:32,,70.0,Houle Hugo,106,AG2R La Mondiale,17:32 17:32,+5:05,,\u25bc36,4,2016
+29,113,107,+17:39,,72.0,Gaudin Damien,107,AG2R La Mondiale,17:39 17:39,+5:05,,\u25bc35,4,2016
+21,105,108,+18:07,,82.0,Lowndes Jason,108,Drapac Professional Cycling,18:07 18:07,+5:05,,\u25bc26,4,2016
+31,171,109,+18:14,,89.0,Santaromita Ivan,109,Skydive Dubai Pro Cycling Team - Al Ahli Club,18:14 18:14,+5:05,,\u25bc20,4,2016
+24,73,110,+18:24,,92.0,De Tier Floris,110,Topsport Vlaanderen - Baloise,18:24 18:24,+5:05,,\u25bc18,4,2016
+44,141,111,+18:30,,99.0,Rebellin Davide,111,CCC Sprandi Polkowice,18:30 18:30,+5:05,,\u25bc12,4,2016
+26,16,112,+18:34,,101.0,Reguigui Youcef,112,Team Dimension Data,18:34 18:34,+5:05,,\u25bc11,4,2016
+26,174,113,+18:35,,102.0,Hasnaoui Maher,113,Skydive Dubai Pro Cycling Team - Al Ahli Club,18:35 18:35,+5:05,,\u25bc11,4,2016
+28,23,114,+18:50,,108.0,Ji Cheng,114,Team Giant - Alpecin,18:50 18:50,+5:05,,\u25bc6,4,2016
+29,146,115,+19:05,,109.0,Ponzi Simone,115,CCC Sprandi Polkowice,19:05 19:05,+5:05,,\u25bc6,4,2016
+30,153,116,+19:34,,112.0,Busche Matthew,116,UnitedHealthcare Pro Cycling Team,19:34 19:34,+5:05,,\u25bc4,4,2016
+31,93,117,+19:35,,119.0,Dehaes Kenny,117,Wanty - Groupe Gobert,19:35 19:35,+0:45,,\u25b22,4,2016
+30,134,118,+19:49,,114.0,Costa M\xe1rio,118,Lampre - Merida,19:49 19:49,+5:05,,\u25bc4,4,2016
+25,97,119,+21:39,,125.0,Stenuit Robin,119,Wanty - Groupe Gobert,21:39 21:39,+0:45,,\u25b26,4,2016
+21,138,120,+21:42,,122.0,Zurlo Federico,120,Lampre - Merida,21:42 21:42,+1:10,,\u25b22,4,2016
+32,54,121,+22:10,,128.0,Hutarovich Yauheni,121,Fortuneo - Vital Concept,22:10 22:10,+0:45,,\u25b27,4,2016
+24,156,122,+22:24,,129.0,Keough Luke,122,UnitedHealthcare Pro Cycling Team,22:24 22:24,+0:56,,\u25b27,4,2016
+24,56,123,+22:29,,123.0,McLay Daniel,123,Fortuneo - Vital Concept,22:29 22:29,+1:44,,-,4,2016
+23,107,124,+23:41,,131.0,Spokes Samuel,124,Drapac Professional Cycling,23:41 23:41,+1:16,,\u25b27,4,2016
+27,117,125,+24:02,,120.0,Sergent Jesse,125,AG2R La Mondiale,24:02 24:02,+4:12,,\u25bc5,4,2016
+25,104,126,+25:28,,121.0,Koning Peter,126,Drapac Professional Cycling,25:28 25:28,+5:05,,\u25bc5,4,2016
+34,158,127,+25:57,,124.0,White Bradley,127,UnitedHealthcare Pro Cycling Team,25:57 25:57,+5:05,,\u25bc3,4,2016
+38,157,128,+26:07,,126.0,Menzies Karl,128,UnitedHealthcare Pro Cycling Team,26:07 26:07,+5:05,,\u25bc2,4,2016
+23,103,129,+26:15,,127.0,Kerby Jordan,129,Drapac Professional Cycling,26:15 26:15,+5:05,,\u25bc2,4,2016
+23,165,130,+27:10,,130.0,Mager Christian,130,St\xf6lting Service Group,27:10 27:10,+5:05,,-,4,2016
+30,112,131,+28:32,,132.0,Bagdonas Gediminas,131,AG2R La Mondiale,28:32 28:32,+0:45,,\u25b21,4,2016
+25,164,132,+33:48,,93.0,Koep Thomas,132,St\xf6lting Service Group,33:48 33:48,+20:29,,\u25bc39,4,2016
+30,11,1,+0:00,150.0,1.0,Cavendish Mark,1,Team Dimension Data,13:47:23 13:47:23,+0:00,200.0,-,5,2016
+28,1,2,+0:05,110.0,4.0,Kristoff Alexander,2,Team Katusha,0:05 0:05,+-1:56,150.0,\u25b22,5,2016
+30,31,3,+0:08,90.0,2.0,Van Avermaet Greg,3,BMC Racing Team,0:08 0:08,+0:06,125.0,\u25bc1,5,2016
+36,35,4,+0:12,80.0,3.0,Quinziato Manuel,4,BMC Racing Team,0:12 0:12,+0:06,100.0,\u25bc1,5,2016
+28,12,5,+0:25,70.0,5.0,Boasson Hagen Edvald,5,Team Dimension Data,0:25 0:25,+0:06,85.0,-,5,2016
+21,21,6,+0:36,60.0,6.0,Andersen S\xf8ren Kragh,6,Team Giant - Alpecin,0:36 0:36,+0:06,70.0,-,5,2016
+25,41,7,+0:47,55.0,7.0,Bennett Sam,7,Bora - Argon 18,0:47 0:47,+0:06,60.0,-,5,2016
+24,2,8,+0:55,50.0,8.0,Bystr\xf8m Sven Erik,8,Team Katusha,0:55 0:55,+0:06,50.0,-,5,2016
+26,8,9,+0:56,45.0,9.0,Kuznetsov Viacheslav,9,Team Katusha,0:56 0:56,+0:06,40.0,-,5,2016
+29,37,10,+1:04,40.0,10.0,Schar Michael,10,BMC Racing Team,1:04 1:04,+0:06,35.0,-,5,2016
+28,131,11,+1:12,36.0,11.0,Modolo Sacha,11,Lampre - Merida,1:12 1:12,+0:06,30.0,-,5,2016
+28,43,12,+1:19,32.0,12.0,Dempster Zakkari,12,Bora - Argon 18,1:19 1:19,+0:06,25.0,-,5,2016
+31,53,13,+1:22,28.0,14.0,Gerard Arnaud,13,Fortuneo - Vital Concept,1:22 1:22,+0:06,20.0,\u25b21,5,2016
+30,6,14,+1:36,24.0,13.0,M\xf8rk\xf8v Michael,14,Team Katusha,1:36 1:36,+0:21,15.0,\u25bc1,5,2016
+26,47,15,+1:50,20.0,15.0,Selig R\xfcdiger,15,Bora - Argon 18,1:50 1:50,+0:21,10.0,-,5,2016
+30,86,16,+2:09,16.0,16.0,van Emden Jos,16,Team LottoNL-Jumbo,2:09 2:09,+0:06,5.0,-,5,2016
+26,61,17,+2:12,14.0,17.0,Guardini Andrea,17,Astana Pro Team,2:12 2:12,+0:06,5.0,-,5,2016
+33,88,18,+2:48,12.0,18.0,Wynants Maarten,18,Team LottoNL-Jumbo,2:48 2:48,+0:06,5.0,-,5,2016
+24,81,19,+2:48,10.0,19.0,Hofland Moreno,19,Team LottoNL-Jumbo,",, 2:48",+0:06,5.0,-,5,2016
+28,3,20,+2:51,8.0,20.0,Guarnieri Jacopo,20,Team Katusha,2:51 2:51,+0:06,5.0,-,5,2016
+29,63,21,+3:10,6.0,22.0,Gruzdev Dmitriy,21,Astana Pro Team,3:10 3:10,+0:14,5.0,\u25b21,5,2016
+21,7,22,+3:20,4.0,23.0,Politt Nils,22,Team Katusha,3:20 3:20,+0:14,5.0,\u25b21,5,2016
+26,48,23,+3:22,3.0,24.0,Thwaites Scott,23,Bora - Argon 18,3:22 3:22,+0:06,5.0,\u25b21,5,2016
+22,154,24,+3:38,2.0,25.0,Eaton Daniel,24,UnitedHealthcare Pro Cycling Team,3:38 3:38,+0:14,5.0,\u25b21,5,2016
+35,111,25,+3:45,1.0,26.0,Vansummeren Johan,25,AG2R La Mondiale,3:45 3:45,+0:14,5.0,\u25b21,5,2016
+29,78,26,+3:48,,30.0,Vanspeybrouck Pieter,26,Topsport Vlaanderen - Baloise,3:48 3:48,+0:06,5.0,\u25b24,5,2016
+25,173,27,+3:54,,29.0,Haddi Soufiane,27,Skydive Dubai Pro Cycling Team - Al Ahli Club,3:54 3:54,+0:14,5.0,\u25b22,5,2016
+25,92,28,+3:59,,27.0,Antonini Simone,28,Wanty - Groupe Gobert,3:59 3:59,+0:25,5.0,\u25bc1,5,2016
+31,118,29,+4:02,,31.0,Turgot S\xe9bastien,29,AG2R La Mondiale,4:02 4:02,+0:06,5.0,\u25b22,5,2016
+28,66,30,+4:09,,34.0,Tleubayev Ruslan,30,Astana Pro Team,4:09 4:09,+0:06,5.0,\u25b24,5,2016
+21,177,31,+4:12,,35.0,Kamberaj Giuliano,31,Skydive Dubai Pro Cycling Team - Al Ahli Club,4:12 4:12,+0:06,3.0,\u25b24,5,2016
+31,5,32,+4:13,,28.0,Kozonchuk Dmitry,32,Team Katusha,4:13 4:13,+0:37,3.0,\u25bc4,5,2016
+26,178,33,+4:15,,36.0,Palini Andrea,33,Skydive Dubai Pro Cycling Team - Al Ahli Club,4:15 4:15,+0:06,3.0,\u25b23,5,2016
+29,34,34,+4:17,,21.0,Oss Daniel,34,BMC Racing Team,4:17 4:17,+1:25,3.0,\u25bc13,5,2016
+27,144,35,+4:22,,38.0,Kurek Adrian,35,CCC Sprandi Polkowice,4:22 4:22,+0:06,3.0,\u25b23,5,2016
+29,51,36,+4:23,,37.0,Tronet Steven,36,Fortuneo - Vital Concept,4:23 4:23,+0:11,3.0,\u25b21,5,2016
+27,135,37,+4:23,,39.0,Kump Marko,37,Lampre - Merida,",, 4:23",+0:06,3.0,\u25b22,5,2016
+36,155,38,+4:35,,40.0,Jones Chris,38,UnitedHealthcare Pro Cycling Team,4:35 4:35,+0:14,3.0,\u25b22,5,2016
+29,18,39,+4:37,,32.0,Thomson Jay Robert,39,Team Dimension Data,4:37 4:37,+0:37,3.0,\u25bc7,5,2016
+30,24,40,+4:47,,33.0,Stamsnijder Tom,40,Team Giant - Alpecin,4:47 4:47,+0:45,3.0,\u25bc7,5,2016
+29,33,41,+5:13,,41.0,Drucker Jean-Pierre,41,BMC Racing Team,5:13 5:13,+0:28,,-,5,2016
+33,17,42,+5:32,,42.0,Renshaw Mark,42,Team Dimension Data,5:32 5:32,+0:43,,-,5,2016
+26,95,43,+6:03,,43.0,Mcnally Mark,43,Wanty - Groupe Gobert,6:03 6:03,+0:52,,-,5,2016
+30,13,44,+6:05,,44.0,Brammeier Matthew,44,Team Dimension Data,6:05 6:05,+0:54,,-,5,2016
+32,91,45,+6:31,,45.0,Marcato Marco,45,Wanty - Groupe Gobert,6:31 6:31,+0:52,,-,5,2016
+33,71,46,+7:00,,46.0,Van Hecke Preben,46,Topsport Vlaanderen - Baloise,7:00 7:00,+0:06,,-,5,2016
+36,167,47,+8:09,,47.0,Reihs Michael,47,St\xf6lting Service Group,8:09 8:09,+1:10,,-,5,2016
+26,75,48,+8:21,,49.0,Steels Stijn,48,Topsport Vlaanderen - Baloise,8:21 8:21,+0:14,,\u25b21,5,2016
+24,14,49,+9:02,,50.0,Debesay Mekseb,49,Team Dimension Data,9:02 9:02,+0:54,,\u25b21,5,2016
+23,84,50,+9:09,,51.0,Teunissen Mike,50,Team LottoNL-Jumbo,9:09 9:09,+0:06,,\u25b21,5,2016
+25,94,51,+9:19,,52.0,Jans Roy,51,Wanty - Groupe Gobert,9:19 9:19,+0:02,,\u25b21,5,2016
+29,57,52,+9:47,,48.0,Perichon Pierre-Luc,52,Fortuneo - Vital Concept,9:47 9:47,+2:38,,\u25bc4,5,2016
+26,74,53,+9:49,,53.0,Declercq Tim,53,Topsport Vlaanderen - Baloise,9:49 9:49,+0:10,,-,5,2016
+23,83,54,+10:00,,54.0,Roosen Timo,54,Team LottoNL-Jumbo,10:00 10:00,+0:14,,-,5,2016
+32,152,55,+10:55,,57.0,Alzate Carlos Eduardo,55,UnitedHealthcare Pro Cycling Team,10:55 10:55,+0:06,,\u25b22,5,2016
+35,161,56,+11:00,,56.0,Wegmann Fabian,56,St\xf6lting Service Group,11:00 11:00,+0:14,,-,5,2016
+22,58,57,+11:38,,58.0,Vall\xe9e Boris,57,Fortuneo - Vital Concept,11:38 11:38,+0:06,,\u25b21,5,2016
+24,25,58,+12:23,,59.0,Waeytens Zico,58,Team Giant - Alpecin,12:23 12:23,+0:45,,\u25b21,5,2016
+31,15,59,+12:35,,55.0,Farrar Tyler,59,Team Dimension Data,12:35 12:35,+2:38,,\u25bc4,5,2016
+28,114,60,+13:09,,61.0,Gretsch Patrick,60,AG2R La Mondiale,13:09 13:09,+0:14,,\u25b21,5,2016
+22,77,61,+13:16,,62.0,Van Rooy Kenneth,61,Topsport Vlaanderen - Baloise,13:16 13:16,+0:14,,\u25b21,5,2016
+38,143,62,+13:39,,68.0,Kiendys Tomasz,62,CCC Sprandi Polkowice,13:39 13:39,+0:06,,\u25b26,5,2016
+24,127,63,+13:41,,65.0,van Goethem Brian,63,Roompot - Oranje Peloton,13:41 13:41,+0:14,,\u25b22,5,2016
+26,36,64,+13:48,,63.0,Rosskopf Joey,64,BMC Racing Team,13:48 13:48,+0:28,,\u25bc1,5,2016
+30,62,65,+13:53,,64.0,Boom Lars,65,Astana Pro Team,13:53 13:53,+0:28,,\u25bc1,5,2016
+24,102,66,+13:54,,72.0,Jones Brenton,66,Drapac Professional Cycling,13:54 13:54,+0:06,,\u25b26,5,2016
+27,151,67,+13:56,,73.0,Canola Marco,67,UnitedHealthcare Pro Cycling Team,13:56 13:56,+0:06,,\u25b26,5,2016
+25,85,68,+13:57,,66.0,Van Asbroeck Tom,68,Team LottoNL-Jumbo,13:57 13:57,+0:28,,\u25bc2,5,2016
+22,137,69,+13:57,,71.0,Pibernik Luka,69,Lampre - Merida,",, 13:57",+0:14,,\u25b22,5,2016
+26,122,70,+13:58,,74.0,de Vries Berden,70,Roompot - Oranje Peloton,13:58 13:58,+0:06,,\u25b24,5,2016
+22,38,71,+14:05,,69.0,Zabel Rick,71,BMC Racing Team,14:05 14:05,+0:28,,\u25bc2,5,2016
+25,128,72,+14:12,,75.0,Kreder Wesley,72,Roompot - Oranje Peloton,14:12 14:12,+0:14,,\u25b23,5,2016
+28,145,73,+14:12,,77.0,Marycz Jaroslaw,73,CCC Sprandi Polkowice,",, 14:12",+0:06,,\u25b24,5,2016
+20,124,74,+14:12,,78.0,Looij Andre,74,Roompot - Oranje Peloton,",, 14:12",+0:06,,\u25b24,5,2016
+21,168,75,+14:12,,79.0,Carbel Michael,75,St\xf6lting Service Group,",, 14:12",+0:06,,\u25b24,5,2016
+24,68,76,+14:16,,76.0,Zakharov Artyom,76,Astana Pro Team,14:16 14:16,+0:14,,-,5,2016
+22,123,77,+14:26,,81.0,Kerkhof Tim,77,Roompot - Oranje Peloton,14:26 14:26,+0:14,,\u25b24,5,2016
+26,147,78,+14:39,,90.0,Stepniak Grzegorz,78,CCC Sprandi Polkowice,14:39 14:39,+0:06,,\u25b212,5,2016
+35,96,79,+14:42,,83.0,Napolitano Danilo,79,Wanty - Groupe Gobert,14:42 14:42,+0:25,,\u25b24,5,2016
+33,116,80,+14:47,,89.0,Minard S\xe9bastien,80,AG2R La Mondiale,14:47 14:47,+0:14,,\u25b29,5,2016
+33,176,81,+14:51,,82.0,Jelloul Adil,81,Skydive Dubai Pro Cycling Team - Al Ahli Club,14:51 14:51,+0:37,,\u25b21,5,2016
+30,22,82,+15:05,,94.0,Fr\xf6hlinger Johannes,82,Team Giant - Alpecin,15:05 15:05,+0:14,,\u25b212,5,2016
+24,76,83,+15:05,,91.0,Van Meirhaeghe Jef,83,Topsport Vlaanderen - Baloise,",, 15:05",+0:28,,\u25b28,5,2016
+27,55,84,+15:17,,84.0,Jarrier Benoit,84,Fortuneo - Vital Concept,15:17 15:17,+0:54,,-,5,2016
+27,42,85,+15:18,,93.0,Archbold Shane,85,Bora - Argon 18,15:18 15:18,+0:28,,\u25b28,5,2016
+24,45,86,+15:18,,60.0,P\xf6stlberger Lukas,86,Bora - Argon 18,",, 15:18",+2:38,,\u25bc26,5,2016
+27,82,87,+15:22,,85.0,Castelijns Twan,87,Team LottoNL-Jumbo,15:22 15:22,+0:54,,\u25bc2,5,2016
+32,87,88,+15:24,,87.0,Wagner Robert,88,Team LottoNL-Jumbo,15:24 15:24,+0:54,,\u25bc1,5,2016
+25,121,89,+15:33,,86.0,Asselman Jesper,89,Roompot - Oranje Peloton,15:33 15:33,+1:05,,\u25bc3,5,2016
+27,142,90,+15:49,,96.0,Honkisz Adrian,90,CCC Sprandi Polkowice,15:49 15:49,+0:14,,\u25b26,5,2016
+22,72,91,+15:57,,98.0,Capiot Amaury,91,Topsport Vlaanderen - Baloise,15:57 15:57,+0:06,,\u25b27,5,2016
+24,4,92,+16:02,,88.0,Haller Marco,92,Team Katusha,16:02 16:02,+1:32,,\u25bc4,5,2016
+20,166,93,+16:04,,99.0,Pedersen Mads,93,St\xf6lting Service Group,16:04 16:04,+0:06,,\u25b26,5,2016
+33,67,94,+16:09,,67.0,Westra Lieuwe,94,Astana Pro Team,16:09 16:09,+2:38,,\u25bc27,5,2016
+27,98,95,+16:16,,97.0,Thurau Bjorn,95,Wanty - Groupe Gobert,16:16 16:16,+0:28,,\u25b22,5,2016
+26,133,96,+17:00,,92.0,Cimolai Davide,96,Lampre - Merida,17:00 17:00,+2:15,,\u25bc4,5,2016
+36,101,97,+17:06,,101.0,Brown Graeme,97,Drapac Professional Cycling,17:06 17:06,+0:40,,\u25b24,5,2016
+23,163,98,+17:12,,100.0,Kirsch Alex,98,St\xf6lting Service Group,17:12 17:12,+1:05,,\u25b22,5,2016
+32,108,99,+17:22,,105.0,Sulzberger Bernard,99,Drapac Professional Cycling,17:22 17:22,+0:28,,\u25b26,5,2016
+32,46,100,+17:25,,102.0,Schillinger Andreas,100,Bora - Argon 18,17:25 17:25,+0:37,,\u25b22,5,2016
+28,44,101,+17:25,,103.0,Pfingsten Christoph,101,Bora - Argon 18,",, 17:25",+0:37,,\u25b22,5,2016
+25,115,102,+17:38,,106.0,Houle Hugo,102,AG2R La Mondiale,17:38 17:38,+0:06,,\u25b24,5,2016
+22,126,103,+17:46,,95.0,Slik Ivar,103,Roompot - Oranje Peloton,17:46 17:46,+2:38,,\u25bc8,5,2016
+29,113,104,+18:07,,107.0,Gaudin Damien,104,AG2R La Mondiale,18:07 18:07,+0:28,,\u25b23,5,2016
+21,105,105,+18:13,,108.0,Lowndes Jason,105,Drapac Professional Cycling,18:13 18:13,+0:06,,\u25b23,5,2016
+26,52,106,+18:27,,104.0,Breen Vegard,106,Fortuneo - Vital Concept,18:27 18:27,+1:33,,\u25bc2,5,2016
+26,16,107,+18:48,,112.0,Reguigui Youcef,107,Team Dimension Data,18:48 18:48,+0:14,,\u25b25,5,2016
+26,174,108,+18:49,,113.0,Hasnaoui Maher,108,Skydive Dubai Pro Cycling Team - Al Ahli Club,18:49 18:49,+0:14,,\u25b25,5,2016
+31,171,109,+18:51,,109.0,Santaromita Ivan,109,Skydive Dubai Pro Cycling Team - Al Ahli Club,18:51 18:51,+0:37,,-,5,2016
+24,73,110,+18:59,,110.0,De Tier Floris,110,Topsport Vlaanderen - Baloise,18:59 18:59,+0:35,,-,5,2016
+44,141,111,+19:07,,111.0,Rebellin Davide,111,CCC Sprandi Polkowice,19:07 19:07,+0:37,,-,5,2016
+29,146,112,+19:19,,115.0,Ponzi Simone,112,CCC Sprandi Polkowice,19:19 19:19,+0:14,,\u25b23,5,2016
+31,93,113,+19:41,,117.0,Dehaes Kenny,113,Wanty - Groupe Gobert,19:41 19:41,+0:06,,\u25b24,5,2016
+28,23,114,+20:00,,114.0,Ji Cheng,114,Team Giant - Alpecin,20:00 20:00,+1:10,,-,5,2016
+30,153,115,+20:11,,116.0,Busche Matthew,115,UnitedHealthcare Pro Cycling Team,20:11 20:11,+0:37,,\u25b21,5,2016
+30,134,116,+20:43,,118.0,Costa M\xe1rio,116,Lampre - Merida,20:43 20:43,+0:54,,\u25b22,5,2016
+32,54,117,+22:16,,121.0,Hutarovich Yauheni,117,Fortuneo - Vital Concept,22:16 22:16,+0:06,,\u25b24,5,2016
+25,97,118,+22:22,,119.0,Stenuit Robin,118,Wanty - Groupe Gobert,22:22 22:22,+0:43,,\u25b21,5,2016
+24,56,119,+22:35,,123.0,McLay Daniel,119,Fortuneo - Vital Concept,22:35 22:35,+0:06,,\u25b24,5,2016
+24,156,120,+22:49,,122.0,Keough Luke,120,UnitedHealthcare Pro Cycling Team,22:49 22:49,+0:25,,\u25b22,5,2016
+27,117,121,+24:11,,125.0,Sergent Jesse,121,AG2R La Mondiale,24:11 24:11,+0:09,,\u25b24,5,2016
+23,107,122,+24:21,,124.0,Spokes Samuel,122,Drapac Professional Cycling,24:21 24:21,+0:40,,\u25b22,5,2016
+34,158,123,+26:25,,127.0,White Bradley,123,UnitedHealthcare Pro Cycling Team,26:25 26:25,+0:28,,\u25b24,5,2016
+38,157,124,+26:29,,128.0,Menzies Karl,124,UnitedHealthcare Pro Cycling Team,26:29 26:29,+0:22,,\u25b24,5,2016
+25,104,125,+26:33,,126.0,Koning Peter,125,Drapac Professional Cycling,26:33 26:33,+1:05,,\u25b21,5,2016
+23,103,126,+27:20,,129.0,Kerby Jordan,126,Drapac Professional Cycling,27:20 27:20,+1:05,,\u25b23,5,2016
+23,165,127,+27:24,,130.0,Mager Christian,127,St\xf6lting Service Group,27:24 27:24,+0:14,,\u25b23,5,2016
+30,112,128,+28:38,,131.0,Bagdonas Gediminas,128,AG2R La Mondiale,28:38 28:38,+0:06,,\u25b23,5,2016

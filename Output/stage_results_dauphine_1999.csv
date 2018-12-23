@@ -1,0 +1,687 @@
+Age,Avg,Pnt,Rider,Rnk,Team,stage,year
+27.0,,50.0,Armstrong Lance,1,US Postal Service,0,1999
+31.0,,30.0,Brochard Laurent,2,Festina - Lotus,0,1999
+25.0,,18.0,Vinokourov Alexandre,3,Casino - AG2R,0,1999
+28.0,,13.0,Heulot Stephane,4,La Fran\xe7aise des Jeux,0,1999
+28.0,,10.0,Hamilton Tyler,5,US Postal Service,0,1999
+24.0,,7.0,Verbrugghe Rik,6,Lotto - Mobistar,0,1999
+28.0,,4.0,Moreau Christophe,7,Festina - Lotus,0,1999
+28.0,,3.0,Belli Wladimir,8,Festina - Lotus,0,1999
+22.0,,2.0,Lefevre Laurent,9,Festina - Lotus,0,1999
+26.0,,1.0,Casero Angel Luis,10,Vitalicio Seguros - Grupo Generali,0,1999
+25.0,,,Beloki Joseba,11,Euskaltel - Euskadi,0,1999
+27.0,,,Julich Bobby,12,Cofidis,0,1999
+25.0,,,Vaughters Jonathan,13,US Postal Service,0,1999
+29.0,,,Bouvard Gilles,14,Home Market - Ville de Charleroi,0,1999
+25.0,,,Salmon Benoit,15,Casino - AG2R,0,1999
+29.0,,,Magnusson Glenn,16,US Postal Service,0,1999
+30.0,,,Boardman Christopher,17,Credit agricole,0,1999
+26.0,,,Baranowski Dariusz,18,Banesto,0,1999
+30.0,,,Simon Fran\xe7ois,19,Credit agricole,0,1999
+27.0,,,Voigt Jens,20,Credit agricole,0,1999
+26.0,,,Garcia Jose Vicente,21,Banesto,0,1999
+26.0,,,Oriol Christophe,22,Casino - AG2R,0,1999
+28.0,,,Solaun Cesar,23,Banesto,0,1999
+21.0,,,Vogondy Nicolas,24,La Fran\xe7aise des Jeux,0,1999
+23.0,,,Osa Unai,25,Banesto,0,1999
+23.0,,,McGee Bradley,26,La Fran\xe7aise des Jeux,0,1999
+24.0,,,Moncouti\xe9 David,27,Cofidis,0,1999
+27.0,,,Van Hyfte Paul,28,Lotto - Mobistar,0,1999
+24.0,,,Aerts Mario,29,Lotto - Mobistar,0,1999
+26.0,,,Livingston Kevin,30,US Postal Service,0,1999
+29.0,,,Laiseka jaio Roberto,31,Euskaltel - Euskadi,0,1999
+23.0,,,Lastras Pablo,32,Banesto,0,1999
+27.0,,,Gougot Fabrice,33,Casino - AG2R,0,1999
+36.0,,,Bourguignon Thierry,34,BigMat - Auber 93,0,1999
+27.0,,,Bessy Fr\xe9d\xe9ric,35,Casino - AG2R,0,1999
+29.0,,,Robin Jean-Cyril,36,La Fran\xe7aise des Jeux,0,1999
+28.0,,,Vasseur C\xe9dric,37,Credit agricole,0,1999
+28.0,,,Odriozola Jon,38,Banesto,0,1999
+,,,Jenner Chris,39,,0,1999
+25.0,,,Halgand Patrice,40,Festina - Lotus,0,1999
+31.0,,,Chanteur Pascal,41,Casino - AG2R,0,1999
+26.0,,,Verheyen Geert,42,Lotto - Mobistar,0,1999
+23.0,,,Auger Guillaume,43,BigMat - Auber 93,0,1999
+23.0,,,Mancebo Francisco,44,Banesto,0,1999
+31.0,,,Capelle Christophe,45,BigMat - Auber 93,0,1999
+27.0,,,Manchon Ernesto,46,Vitalicio Seguros - Grupo Generali,0,1999
+25.0,,,Hinault S\xe9bastien,47,Credit agricole,0,1999
+26.0,,,Wuyts Peter,48,Lotto - Mobistar,0,1999
+27.0,,,Lopez De Munain Alberto,49,Euskaltel - Euskadi,0,1999
+25.0,,,Demarbaix Sebastien,50,Lotto - Mobistar,0,1999
+25.0,,,Langella Anthony,51,Credit agricole,0,1999
+27.0,,,van de Wouwer Kurt,52,Lotto - Mobistar,0,1999
+27.0,,,Guilbert Charles,53,Home Market - Ville de Charleroi,0,1999
+26.0,,,Fernandez Bingen,54,Euskaltel - Euskadi,0,1999
+27.0,,,Castresana Angel,55,Euskaltel - Euskadi,0,1999
+28.0,,,Gabriel Fr\xe9d\xe9ric,56,Home Market - Ville de Charleroi,0,1999
+30.0,,,Teyssier Francisque,57,Festina - Lotus,0,1999
+30.0,,,Moncassin Fr\xe9d\xe9ric,58,Credit agricole,0,1999
+24.0,,,Morin Anthony,59,La Fran\xe7aise des Jeux,0,1999
+25.0,,,Kivilev Andrei,60,Festina - Lotus,0,1999
+28.0,,,Delrieu David,61,Casino - AG2R,0,1999
+26.0,,,Jalabert Nicolas,62,Cofidis,0,1999
+26.0,,,Chaurreau I\xf1igo,63,Euskaltel - Euskadi,0,1999
+27.0,,,Lebreton Lylian,64,BigMat - Auber 93,0,1999
+29.0,,,Garcia David,65,Vitalicio Seguros - Grupo Generali,0,1999
+25.0,,,Rinero Christophe,66,Cofidis,0,1999
+29.0,,,Desbiens Laurent,67,Cofidis,0,1999
+24.0,,,Bassons Christophe,68,La Fran\xe7aise des Jeux,0,1999
+31.0,,,Garmendia Aitor,69,Banesto,0,1999
+29.0,,,Cali Vincent,70,Home Market - Ville de Charleroi,0,1999
+22.0,,,Silloniz Aitor,71,Euskaltel - Euskadi,0,1999
+28.0,,,Gonzalez I\xf1igo,72,Vitalicio Seguros - Grupo Generali,0,1999
+32.0,,,Madouas Laurent,73,Festina - Lotus,0,1999
+33.0,,,Meinert-Nielsen Peter,74,US Postal Service,0,1999
+26.0,,,Del Olmo Txema,75,Euskaltel - Euskadi,0,1999
+28.0,,,Derame Pascal,76,US Postal Service,0,1999
+23.0,,,De Wolf Steve,77,Cofidis,0,1999
+24.0,,,Dacruz Carlos,78,BigMat - Auber 93,0,1999
+23.0,,,Garcia Francisco Tomas,79,,0,1999
+28.0,,,Rault Dominique,80,BigMat - Auber 93,0,1999
+30.0,,,Farazijn Peter,81,Cofidis,0,1999
+23.0,,,Parra Ivan Ramiro,82,Vitalicio Seguros - Grupo Generali,0,1999
+26.0,,,Barthe St\xe9phane,83,Casino - AG2R,0,1999
+29.0,,,Cueff Stiphane,84,Home Market - Ville de Charleroi,0,1999
+35.0,,,Pillon Laurent,85,Home Market - Ville de Charleroi,0,1999
+30.0,,,Bordenave Philippe,86,BigMat - Auber 93,0,1999
+23.0,,,George David,87,US Postal Service,0,1999
+27.0,,,Sivakov Alexei,88,BigMat - Auber 93,0,1999
+29.0,,,Peers Chris,89,Lotto - Mobistar,0,1999
+23.0,,,Medina Ram\xf3n,90,Vitalicio Seguros - Grupo Generali,0,1999
+27.0,,,Bernard J\xe9r\xf4me,91,Home Market - Ville de Charleroi,0,1999
+27.0,,,Aggiano Elio,92,Vitalicio Seguros - Grupo Generali,0,1999
+25.0,,,Saugrain Cyril,93,La Fran\xe7aise des Jeux,0,1999
+22.0,,,Millar David,94,Cofidis,0,1999
+23.0,,,Capelle Ludovic,95,Home Market - Ville de Charleroi,0,1999
+24.0,,,Nazon Damien,96,La Fran\xe7aise des Jeux,0,1999
+26.0,,50.0,Oriol Christophe,1,Casino - AG2R,1,1999
+31.0,,30.0,Capelle Christophe,2,BigMat - Auber 93,1,1999
+23.0,,18.0,Mancebo Francisco,3,Banesto,1,1999
+25.0,,13.0,Vinokourov Alexandre,4,Casino - AG2R,1,1999
+28.0,,10.0,Odriozola Jon,5,Banesto,1,1999
+25.0,,7.0,Hinault S\xe9bastien,6,Credit agricole,1,1999
+24.0,,4.0,Nazon Damien,7,La Fran\xe7aise des Jeux,1,1999
+25.0,,3.0,Beloki Joseba,8,Euskaltel - Euskadi,1,1999
+29.0,,2.0,Magnusson Glenn,9,US Postal Service,1,1999
+30.0,,1.0,Simon Fran\xe7ois,10,Credit agricole,1,1999
+26.0,,,Wuyts Peter,11,Lotto - Mobistar,1,1999
+27.0,,,Armstrong Lance,12,US Postal Service,1,1999
+23.0,,,Osa Unai,13,Banesto,1,1999
+35.0,,,Pillon Laurent,14,Home Market - Ville de Charleroi,1,1999
+31.0,,,Chanteur Pascal,15,Casino - AG2R,1,1999
+27.0,,,Manchon Ernesto,16,Vitalicio Seguros - Grupo Generali,1,1999
+25.0,,,Rinero Christophe,17,Cofidis,1,1999
+27.0,,,van de Wouwer Kurt,18,Lotto - Mobistar,1,1999
+26.0,,,Chaurreau I\xf1igo,19,Euskaltel - Euskadi,1,1999
+28.0,,,Moreau Christophe,20,Festina - Lotus,1,1999
+24.0,,,Aerts Mario,21,Lotto - Mobistar,1,1999
+24.0,,,Verbrugghe Rik,22,Lotto - Mobistar,1,1999
+26.0,,,Fernandez Bingen,23,Euskaltel - Euskadi,1,1999
+28.0,,,Belli Wladimir,24,Festina - Lotus,1,1999
+27.0,,,Van Hyfte Paul,25,Lotto - Mobistar,1,1999
+27.0,,,Julich Bobby,26,Cofidis,1,1999
+26.0,,,Del Olmo Txema,27,Euskaltel - Euskadi,1,1999
+27.0,,,Sivakov Alexei,28,BigMat - Auber 93,1,1999
+28.0,,,Vasseur C\xe9dric,29,Credit agricole,1,1999
+28.0,,,Heulot Stephane,30,La Fran\xe7aise des Jeux,1,1999
+27.0,,,Castresana Angel,31,Euskaltel - Euskadi,1,1999
+28.0,,,Solaun Cesar,32,Banesto,1,1999
+36.0,,,Bourguignon Thierry,33,BigMat - Auber 93,1,1999
+25.0,,,Langella Anthony,34,Credit agricole,1,1999
+25.0,,,Kivilev Andrei,35,Festina - Lotus,1,1999
+31.0,,,Brochard Laurent,36,Festina - Lotus,1,1999
+27.0,,,Guilbert Charles,37,Home Market - Ville de Charleroi,1,1999
+24.0,,,Dacruz Carlos,38,BigMat - Auber 93,1,1999
+23.0,,,De Wolf Steve,39,Cofidis,1,1999
+27.0,,,Voigt Jens,40,Credit agricole,1,1999
+23.0,,,Garcia Francisco Tomas,41,,1,1999
+25.0,,,Vaughters Jonathan,42,US Postal Service,1,1999
+26.0,,,Casero Angel Luis,43,Vitalicio Seguros - Grupo Generali,1,1999
+27.0,,,Gougot Fabrice,44,Casino - AG2R,1,1999
+29.0,,,Robin Jean-Cyril,45,La Fran\xe7aise des Jeux,1,1999
+29.0,,,Bouvard Gilles,46,Home Market - Ville de Charleroi,1,1999
+29.0,,,Garcia David,47,Vitalicio Seguros - Grupo Generali,1,1999
+32.0,,,Madouas Laurent,48,Festina - Lotus,1,1999
+29.0,,,Laiseka jaio Roberto,49,Euskaltel - Euskadi,1,1999
+28.0,,,Hamilton Tyler,50,US Postal Service,1,1999
+21.0,,,Vogondy Nicolas,51,La Fran\xe7aise des Jeux,1,1999
+27.0,,,Lebreton Lylian,52,BigMat - Auber 93,1,1999
+29.0,,,Cali Vincent,53,Home Market - Ville de Charleroi,1,1999
+26.0,,,Livingston Kevin,54,US Postal Service,1,1999
+28.0,,,Gonzalez I\xf1igo,55,Vitalicio Seguros - Grupo Generali,1,1999
+30.0,,,Moncassin Fr\xe9d\xe9ric,56,Credit agricole,1,1999
+28.0,,,Delrieu David,57,Casino - AG2R,1,1999
+25.0,,,Demarbaix Sebastien,58,Lotto - Mobistar,1,1999
+24.0,,,Bassons Christophe,59,La Fran\xe7aise des Jeux,1,1999
+27.0,,,Bessy Fr\xe9d\xe9ric,60,Casino - AG2R,1,1999
+23.0,,,Parra Ivan Ramiro,61,Vitalicio Seguros - Grupo Generali,1,1999
+28.0,,,Gabriel Fr\xe9d\xe9ric,62,Home Market - Ville de Charleroi,1,1999
+24.0,,,Morin Anthony,63,La Fran\xe7aise des Jeux,1,1999
+22.0,,,Silloniz Aitor,64,Euskaltel - Euskadi,1,1999
+26.0,,,Garcia Jose Vicente,65,Banesto,1,1999
+25.0,,,Saugrain Cyril,66,La Fran\xe7aise des Jeux,1,1999
+24.0,,,Jenner Christopher,67,Credit agricole,1,1999
+30.0,,,Bordenave Philippe,68,BigMat - Auber 93,1,1999
+25.0,,,Halgand Patrice,69,Festina - Lotus,1,1999
+30.0,,,Teyssier Francisque,70,Festina - Lotus,1,1999
+25.0,,,Salmon Benoit,71,Casino - AG2R,1,1999
+26.0,,,Baranowski Dariusz,72,Banesto,1,1999
+27.0,,,Lopez De Munain Alberto,73,Euskaltel - Euskadi,1,1999
+28.0,,,Rault Dominique,74,BigMat - Auber 93,1,1999
+26.0,,,Verheyen Geert,75,Lotto - Mobistar,1,1999
+26.0,,,Barthe St\xe9phane,76,Casino - AG2R,1,1999
+27.0,,,Bernard J\xe9r\xf4me,77,Home Market - Ville de Charleroi,1,1999
+30.0,,,Boardman Christopher,78,Credit agricole,1,1999
+31.0,,,Garmendia Aitor,79,Banesto,1,1999
+29.0,,,Peers Chris,80,Lotto - Mobistar,1,1999
+29.0,,,Cueff Stiphane,81,Home Market - Ville de Charleroi,1,1999
+23.0,,,Lastras Pablo,82,Banesto,1,1999
+22.0,,,Lefevre Laurent,83,Festina - Lotus,1,1999
+29.0,,,Desbiens Laurent,84,Cofidis,1,1999
+27.0,,,Aggiano Elio,85,Vitalicio Seguros - Grupo Generali,1,1999
+23.0,,,Medina Ram\xf3n,86,Vitalicio Seguros - Grupo Generali,1,1999
+30.0,,,Farazijn Peter,87,Cofidis,1,1999
+26.0,,,Jalabert Nicolas,88,Cofidis,1,1999
+22.0,,,Millar David,89,Cofidis,1,1999
+28.0,,,Derame Pascal,90,US Postal Service,1,1999
+23.0,,,Auger Guillaume,91,BigMat - Auber 93,1,1999
+33.0,,,Meinert-Nielsen Peter,92,US Postal Service,1,1999
+23.0,,,George David,93,US Postal Service,1,1999
+23.0,,,McGee Bradley,94,La Fran\xe7aise des Jeux,1,1999
+23.0,,,Capelle Ludovic,95,Home Market - Ville de Charleroi,1,1999
+24.0,,,Moncouti\xe9 David,96,Cofidis,1,1999
+25.0,,50.0,Vinokourov Alexandre,1,Casino - AG2R,2,1999
+30.0,,30.0,Simon Fran\xe7ois,2,Credit agricole,2,1999
+28.0,,18.0,Heulot Stephane,3,La Fran\xe7aise des Jeux,2,1999
+25.0,,13.0,Vaughters Jonathan,4,US Postal Service,2,1999
+23.0,,10.0,Mancebo Francisco,5,Banesto,2,1999
+25.0,,7.0,Langella Anthony,6,Credit agricole,2,1999
+36.0,,4.0,Bourguignon Thierry,7,BigMat - Auber 93,2,1999
+27.0,,3.0,Gougot Fabrice,8,Casino - AG2R,2,1999
+24.0,,2.0,Dacruz Carlos,9,BigMat - Auber 93,2,1999
+30.0,,1.0,Bordenave Philippe,10,BigMat - Auber 93,2,1999
+26.0,,,Barthe St\xe9phane,11,Casino - AG2R,2,1999
+25.0,,,Hinault S\xe9bastien,12,Credit agricole,2,1999
+28.0,,,Vasseur C\xe9dric,13,Credit agricole,2,1999
+31.0,,,Chanteur Pascal,14,Casino - AG2R,2,1999
+26.0,,,Livingston Kevin,15,US Postal Service,2,1999
+27.0,,,Manchon Ernesto,16,Vitalicio Seguros - Grupo Generali,2,1999
+27.0,,,Armstrong Lance,17,US Postal Service,2,1999
+25.0,,,Beloki Joseba,18,Euskaltel - Euskadi,2,1999
+31.0,,,Brochard Laurent,19,Festina - Lotus,2,1999
+27.0,,,Castresana Angel,20,Euskaltel - Euskadi,2,1999
+26.0,,,Verheyen Geert,21,Lotto - Mobistar,2,1999
+23.0,,,Osa Unai,22,Banesto,2,1999
+27.0,,,van de Wouwer Kurt,23,Lotto - Mobistar,2,1999
+31.0,,,Capelle Christophe,24,BigMat - Auber 93,2,1999
+28.0,,,Moreau Christophe,25,Festina - Lotus,2,1999
+28.0,,,Belli Wladimir,26,Festina - Lotus,2,1999
+28.0,,,Gabriel Fr\xe9d\xe9ric,27,Home Market - Ville de Charleroi,2,1999
+23.0,,,Capelle Ludovic,28,Home Market - Ville de Charleroi,2,1999
+25.0,,,Rinero Christophe,29,Cofidis,2,1999
+25.0,,,Kivilev Andrei,30,Festina - Lotus,2,1999
+27.0,,,Guilbert Charles,31,Home Market - Ville de Charleroi,2,1999
+29.0,,,Laiseka jaio Roberto,32,Euskaltel - Euskadi,2,1999
+27.0,,,Lebreton Lylian,33,BigMat - Auber 93,2,1999
+29.0,,,Bouvard Gilles,34,Home Market - Ville de Charleroi,2,1999
+27.0,,,Voigt Jens,35,Credit agricole,2,1999
+27.0,,,Julich Bobby,36,Cofidis,2,1999
+26.0,,,Wuyts Peter,37,Lotto - Mobistar,2,1999
+24.0,,,Aerts Mario,38,Lotto - Mobistar,2,1999
+27.0,,,Sivakov Alexei,39,BigMat - Auber 93,2,1999
+25.0,,,Salmon Benoit,40,Casino - AG2R,2,1999
+32.0,,,Madouas Laurent,41,Festina - Lotus,2,1999
+26.0,,,Del Olmo Txema,42,Euskaltel - Euskadi,2,1999
+26.0,,,Oriol Christophe,43,Casino - AG2R,2,1999
+27.0,,,Van Hyfte Paul,44,Lotto - Mobistar,2,1999
+29.0,,,Robin Jean-Cyril,46,La Fran\xe7aise des Jeux,2,1999
+24.0,,,Bassons Christophe,47,La Fran\xe7aise des Jeux,2,1999
+29.0,,,Magnusson Glenn,48,US Postal Service,2,1999
+21.0,,,Vogondy Nicolas,49,La Fran\xe7aise des Jeux,2,1999
+27.0,,,Bessy Fr\xe9d\xe9ric,50,Casino - AG2R,2,1999
+25.0,,,Halgand Patrice,51,Festina - Lotus,2,1999
+30.0,,,Moncassin Fr\xe9d\xe9ric,52,Credit agricole,2,1999
+28.0,,,Solaun Cesar,53,Banesto,2,1999
+26.0,,,Chaurreau I\xf1igo,54,Euskaltel - Euskadi,2,1999
+25.0,,,Demarbaix Sebastien,55,Lotto - Mobistar,2,1999
+24.0,,,Verbrugghe Rik,56,Lotto - Mobistar,2,1999
+28.0,,,Rault Dominique,57,BigMat - Auber 93,2,1999
+28.0,,,Delrieu David,58,Casino - AG2R,2,1999
+28.0,,,Hamilton Tyler,59,US Postal Service,2,1999
+29.0,,,Garcia David,60,Vitalicio Seguros - Grupo Generali,2,1999
+26.0,,,Garcia Jose Vicente,61,Banesto,2,1999
+26.0,,,Fernandez Bingen,62,Euskaltel - Euskadi,2,1999
+23.0,,,Garcia Francisco Tomas,63,,2,1999
+25.0,,,Saugrain Cyril,64,La Fran\xe7aise des Jeux,2,1999
+26.0,,,Casero Angel Luis,65,Vitalicio Seguros - Grupo Generali,2,1999
+35.0,,,Pillon Laurent,66,Home Market - Ville de Charleroi,2,1999
+23.0,,,De Wolf Steve,67,Cofidis,2,1999
+29.0,,,Cali Vincent,68,Home Market - Ville de Charleroi,2,1999
+26.0,,,Baranowski Dariusz,69,Banesto,2,1999
+30.0,,,Boardman Christopher,70,Credit agricole,2,1999
+30.0,,,Teyssier Francisque,71,Festina - Lotus,2,1999
+23.0,,,Parra Ivan Ramiro,72,Vitalicio Seguros - Grupo Generali,2,1999
+24.0,,,Nazon Damien,73,La Fran\xe7aise des Jeux,2,1999
+23.0,,,Medina Ram\xf3n,74,Vitalicio Seguros - Grupo Generali,2,1999
+24.0,,,Morin Anthony,75,La Fran\xe7aise des Jeux,2,1999
+23.0,,,Lastras Pablo,76,Banesto,2,1999
+23.0,,,Auger Guillaume,77,BigMat - Auber 93,2,1999
+31.0,,,Garmendia Aitor,78,Banesto,2,1999
+29.0,,,Peers Chris,79,Lotto - Mobistar,2,1999
+22.0,,,Silloniz Aitor,80,Euskaltel - Euskadi,2,1999
+30.0,,,Farazijn Peter,81,Cofidis,2,1999
+28.0,,,Derame Pascal,82,US Postal Service,2,1999
+33.0,,,Meinert-Nielsen Peter,83,US Postal Service,2,1999
+27.0,,,Lopez De Munain Alberto,84,Euskaltel - Euskadi,2,1999
+24.0,,,Moncouti\xe9 David,85,Cofidis,2,1999
+23.0,,,George David,86,US Postal Service,2,1999
+27.0,,,Bernard J\xe9r\xf4me,87,Home Market - Ville de Charleroi,2,1999
+29.0,,,Desbiens Laurent,88,Cofidis,2,1999
+22.0,,,Lefevre Laurent,89,Festina - Lotus,2,1999
+29.0,,,Cueff Stiphane,90,Home Market - Ville de Charleroi,2,1999
+23.0,,,McGee Bradley,91,La Fran\xe7aise des Jeux,2,1999
+26.0,,,Jalabert Nicolas,92,Cofidis,2,1999
+22.0,,,Millar David,93,Cofidis,2,1999
+27.0,,,Aggiano Elio,94,Vitalicio Seguros - Grupo Generali,2,1999
+25.0,,50.0,Vaughters Jonathan,1,US Postal Service,3,1999
+25.0,,30.0,Vinokourov Alexandre,2,Casino - AG2R,3,1999
+28.0,,18.0,Belli Wladimir,3,Festina - Lotus,3,1999
+25.0,,13.0,Beloki Joseba,4,Euskaltel - Euskadi,3,1999
+27.0,,10.0,Armstrong Lance,5,US Postal Service,3,1999
+26.0,,7.0,Livingston Kevin,6,US Postal Service,3,1999
+24.0,,4.0,Moncouti\xe9 David,7,Cofidis,3,1999
+23.0,,3.0,Osa Unai,8,Banesto,3,1999
+28.0,,2.0,Hamilton Tyler,9,US Postal Service,3,1999
+29.0,,1.0,Laiseka jaio Roberto,10,Euskaltel - Euskadi,3,1999
+26.0,,,Del Olmo Txema,11,Euskaltel - Euskadi,3,1999
+27.0,,,van de Wouwer Kurt,12,Lotto - Mobistar,3,1999
+28.0,,,Gabriel Fr\xe9d\xe9ric,13,Home Market - Ville de Charleroi,3,1999
+29.0,,,Bouvard Gilles,14,Home Market - Ville de Charleroi,3,1999
+28.0,,,Rault Dominique,15,BigMat - Auber 93,3,1999
+23.0,,,Parra Ivan Ramiro,16,Vitalicio Seguros - Grupo Generali,3,1999
+28.0,,,Solaun Cesar,17,Banesto,3,1999
+26.0,,,Oriol Christophe,18,Casino - AG2R,3,1999
+25.0,,,Salmon Benoit,19,Casino - AG2R,3,1999
+27.0,,,Castresana Angel,20,Euskaltel - Euskadi,3,1999
+29.0,,,Robin Jean-Cyril,21,La Fran\xe7aise des Jeux,3,1999
+28.0,,,Heulot Stephane,22,La Fran\xe7aise des Jeux,3,1999
+28.0,,,Moreau Christophe,23,Festina - Lotus,3,1999
+25.0,,,Demarbaix Sebastien,24,Lotto - Mobistar,3,1999
+30.0,,,Teyssier Francisque,25,Festina - Lotus,3,1999
+24.0,,,Verbrugghe Rik,26,Lotto - Mobistar,3,1999
+27.0,,,Voigt Jens,27,Credit agricole,3,1999
+26.0,,,Chaurreau I\xf1igo,28,Euskaltel - Euskadi,3,1999
+30.0,,,Simon Fran\xe7ois,29,Credit agricole,3,1999
+22.0,,,Lefevre Laurent,30,Festina - Lotus,3,1999
+23.0,,,Mancebo Francisco,31,Banesto,3,1999
+26.0,,,Fernandez Bingen,32,Euskaltel - Euskadi,3,1999
+24.0,,,Aerts Mario,33,Lotto - Mobistar,3,1999
+27.0,,,Guilbert Charles,34,Home Market - Ville de Charleroi,3,1999
+23.0,,,De Wolf Steve,35,Cofidis,3,1999
+29.0,,,Garcia David,36,Vitalicio Seguros - Grupo Generali,3,1999
+25.0,,,Kivilev Andrei,37,Festina - Lotus,3,1999
+28.0,,,Delrieu David,38,Casino - AG2R,3,1999
+26.0,,,Baranowski Dariusz,39,Banesto,3,1999
+25.0,,,Halgand Patrice,40,Festina - Lotus,3,1999
+24.0,,,Morin Anthony,41,La Fran\xe7aise des Jeux,3,1999
+27.0,,,Lopez De Munain Alberto,42,Euskaltel - Euskadi,3,1999
+27.0,,,Manchon Ernesto,43,Vitalicio Seguros - Grupo Generali,3,1999
+27.0,,,Julich Bobby,44,Cofidis,3,1999
+26.0,,,Verheyen Geert,45,Lotto - Mobistar,3,1999
+25.0,,,Langella Anthony,46,Credit agricole,3,1999
+21.0,,,Vogondy Nicolas,47,La Fran\xe7aise des Jeux,3,1999
+24.0,,,Bassons Christophe,48,La Fran\xe7aise des Jeux,3,1999
+29.0,,,Cali Vincent,49,Home Market - Ville de Charleroi,3,1999
+31.0,,,Chanteur Pascal,50,Casino - AG2R,3,1999
+32.0,,,Madouas Laurent,51,Festina - Lotus,3,1999
+36.0,,,Bourguignon Thierry,52,BigMat - Auber 93,3,1999
+27.0,,,Van Hyfte Paul,53,Lotto - Mobistar,3,1999
+31.0,,,Brochard Laurent,54,Festina - Lotus,3,1999
+27.0,,,Bessy Fr\xe9d\xe9ric,55,Casino - AG2R,3,1999
+23.0,,,Garcia Francisco Tomas,56,,3,1999
+25.0,,,Saugrain Cyril,57,La Fran\xe7aise des Jeux,3,1999
+27.0,,,Bernard J\xe9r\xf4me,58,Home Market - Ville de Charleroi,3,1999
+27.0,,,Gougot Fabrice,59,Casino - AG2R,3,1999
+22.0,,,Millar David,60,Cofidis,3,1999
+30.0,,,Bordenave Philippe,61,BigMat - Auber 93,3,1999
+27.0,,,Lebreton Lylian,62,BigMat - Auber 93,3,1999
+25.0,,,Hinault S\xe9bastien,63,Credit agricole,3,1999
+25.0,,,Rinero Christophe,64,Cofidis,3,1999
+26.0,,,Garcia Jose Vicente,65,Banesto,3,1999
+30.0,,,Farazijn Peter,66,Cofidis,3,1999
+26.0,,,Wuyts Peter,67,Lotto - Mobistar,3,1999
+24.0,,,Jenner Christopher,68,Credit agricole,3,1999
+35.0,,,Pillon Laurent,69,Home Market - Ville de Charleroi,3,1999
+30.0,,,Boardman Christopher,70,Credit agricole,3,1999
+29.0,,,Desbiens Laurent,71,Cofidis,3,1999
+28.0,,,Vasseur C\xe9dric,72,Credit agricole,3,1999
+31.0,,,Capelle Christophe,73,BigMat - Auber 93,3,1999
+29.0,,,Magnusson Glenn,74,US Postal Service,3,1999
+27.0,,,Sivakov Alexei,75,BigMat - Auber 93,3,1999
+33.0,,,Meinert-Nielsen Peter,76,US Postal Service,3,1999
+31.0,,,Garmendia Aitor,77,Banesto,3,1999
+24.0,,,Dacruz Carlos,78,BigMat - Auber 93,3,1999
+28.0,,,Derame Pascal,79,US Postal Service,3,1999
+22.0,,,Silloniz Aitor,80,Euskaltel - Euskadi,3,1999
+23.0,,,Lastras Pablo,81,Banesto,3,1999
+29.0,,,Peers Chris,82,Lotto - Mobistar,3,1999
+26.0,,,Jalabert Nicolas,83,Cofidis,3,1999
+24.0,,,Nazon Damien,84,La Fran\xe7aise des Jeux,3,1999
+23.0,,,George David,85,US Postal Service,3,1999
+23.0,,,McGee Bradley,86,La Fran\xe7aise des Jeux,3,1999
+27.0,,,Aggiano Elio,87,Vitalicio Seguros - Grupo Generali,3,1999
+26.0,,,Barthe St\xe9phane,88,Casino - AG2R,3,1999
+30.0,,,Moncassin Fr\xe9d\xe9ric,89,Credit agricole,3,1999
+29.0,,,Cueff Stiphane,90,Home Market - Ville de Charleroi,3,1999
+23.0,,,Auger Guillaume,91,BigMat - Auber 93,3,1999
+23.0,,,Medina Ram\xf3n,92,Vitalicio Seguros - Grupo Generali,3,1999
+23.0,,,Capelle Ludovic,93,Home Market - Ville de Charleroi,3,1999
+26.0,,,Casero Angel Luis,94,Vitalicio Seguros - Grupo Generali,3,1999
+29.0,,50.0,Desbiens Laurent,1,Cofidis,4,1999
+26.0,,30.0,Wuyts Peter,2,Lotto - Mobistar,4,1999
+24.0,,18.0,Nazon Damien,3,La Fran\xe7aise des Jeux,4,1999
+23.0,,13.0,Osa Unai,4,Banesto,4,1999
+28.0,,10.0,Heulot Stephane,5,La Fran\xe7aise des Jeux,4,1999
+26.0,,7.0,Verheyen Geert,6,Lotto - Mobistar,4,1999
+31.0,,4.0,Brochard Laurent,7,Festina - Lotus,4,1999
+25.0,,3.0,Vinokourov Alexandre,8,Casino - AG2R,4,1999
+31.0,,2.0,Chanteur Pascal,9,Casino - AG2R,4,1999
+30.0,,1.0,Simon Fran\xe7ois,10,Credit agricole,4,1999
+28.0,,,Belli Wladimir,11,Festina - Lotus,4,1999
+28.0,,,Gabriel Fr\xe9d\xe9ric,12,Home Market - Ville de Charleroi,4,1999
+27.0,,,Castresana Angel,13,Euskaltel - Euskadi,4,1999
+27.0,,,Bessy Fr\xe9d\xe9ric,14,Casino - AG2R,4,1999
+29.0,,,Bouvard Gilles,15,Home Market - Ville de Charleroi,4,1999
+27.0,,,Armstrong Lance,16,US Postal Service,4,1999
+28.0,,,Moreau Christophe,17,Festina - Lotus,4,1999
+24.0,,,Aerts Mario,18,Lotto - Mobistar,4,1999
+25.0,,,Langella Anthony,19,Credit agricole,4,1999
+25.0,,,Demarbaix Sebastien,20,Lotto - Mobistar,4,1999
+27.0,,,Gougot Fabrice,21,Casino - AG2R,4,1999
+27.0,,,van de Wouwer Kurt,22,Lotto - Mobistar,4,1999
+26.0,,,Livingston Kevin,23,US Postal Service,4,1999
+36.0,,,Bourguignon Thierry,24,BigMat - Auber 93,4,1999
+28.0,,,Hamilton Tyler,25,US Postal Service,4,1999
+25.0,,,Beloki Joseba,26,Euskaltel - Euskadi,4,1999
+26.0,,,Vaughters Jonathan,27,US Postal Service,4,1999
+26.0,,,Del Olmo Txema,28,Euskaltel - Euskadi,4,1999
+26.0,,,Oriol Christophe,29,Casino - AG2R,4,1999
+25.0,,,Kivilev Andrei,30,Festina - Lotus,4,1999
+28.0,,,Solaun Cesar,31,Banesto,4,1999
+25.0,,,Salmon Benoit,32,Casino - AG2R,4,1999
+23.0,,,Mancebo Francisco,33,Banesto,4,1999
+28.0,,,Rault Dominique,34,BigMat - Auber 93,4,1999
+29.0,,,Robin Jean-Cyril,35,La Fran\xe7aise des Jeux,4,1999
+29.0,,,Laiseka jaio Roberto,36,Euskaltel - Euskadi,4,1999
+30.0,,,Teyssier Francisque,37,Festina - Lotus,4,1999
+27.0,,,Guilbert Charles,38,Home Market - Ville de Charleroi,4,1999
+27.0,,,Lebreton Lylian,39,BigMat - Auber 93,4,1999
+28.0,,,Vasseur C\xe9dric,40,Credit agricole,4,1999
+24.0,,,Verbrugghe Rik,41,Lotto - Mobistar,4,1999
+29.0,,,Garcia David,42,Vitalicio Seguros - Grupo Generali,4,1999
+25.0,,,Rinero Christophe,43,Cofidis,4,1999
+26.0,,,Chaurreau I\xf1igo,44,Euskaltel - Euskadi,4,1999
+25.0,,,Bassons Christophe,45,La Fran\xe7aise des Jeux,4,1999
+25.0,,,Halgand Patrice,46,Festina - Lotus,4,1999
+27.0,,,Sivakov Alexei,47,BigMat - Auber 93,4,1999
+27.0,,,Voigt Jens,48,Credit agricole,4,1999
+23.0,,,Garcia Francisco Tomas,49,,4,1999
+27.0,,,Julich Bobby,50,Cofidis,4,1999
+32.0,,,Madouas Laurent,51,Festina - Lotus,4,1999
+29.0,,,Cali Vincent,52,Home Market - Ville de Charleroi,4,1999
+24.0,,,Morin Anthony,53,La Fran\xe7aise des Jeux,4,1999
+27.0,,,Van Hyfte Paul,54,Lotto - Mobistar,4,1999
+28.0,,,Delrieu David,55,Casino - AG2R,4,1999
+24.0,,,Dacruz Carlos,56,BigMat - Auber 93,4,1999
+29.0,,,Peers Chris,57,Lotto - Mobistar,4,1999
+23.0,,,Lastras Pablo,58,Banesto,4,1999
+30.0,,,Moncassin Fr\xe9d\xe9ric,59,Credit agricole,4,1999
+24.0,,,Jenner Christopher,60,Credit agricole,4,1999
+22.0,,,Silloniz Aitor,61,Euskaltel - Euskadi,4,1999
+26.0,,,Fernandez Bingen,62,Euskaltel - Euskadi,4,1999
+25.0,,,Hinault S\xe9bastien,63,Credit agricole,4,1999
+30.0,,,Boardman Christopher,64,Credit agricole,4,1999
+30.0,,,Farazijn Peter,65,Cofidis,4,1999
+22.0,,,Lefevre Laurent,66,Festina - Lotus,4,1999
+30.0,,,Bordenave Philippe,67,BigMat - Auber 93,4,1999
+23.0,,,Auger Guillaume,68,BigMat - Auber 93,4,1999
+26.0,,,Barthe St\xe9phane,69,Casino - AG2R,4,1999
+28.0,,,Derame Pascal,70,US Postal Service,4,1999
+27.0,,,Manchon Ernesto,71,Vitalicio Seguros - Grupo Generali,4,1999
+23.0,,,Parra Ivan Ramiro,72,Vitalicio Seguros - Grupo Generali,4,1999
+35.0,,,Pillon Laurent,73,Home Market - Ville de Charleroi,4,1999
+21.0,,,Vogondy Nicolas,74,La Fran\xe7aise des Jeux,4,1999
+33.0,,,Meinert-Nielsen Peter,75,US Postal Service,4,1999
+29.0,,,Magnusson Glenn,76,US Postal Service,4,1999
+23.0,,,McGee Bradley,77,La Fran\xe7aise des Jeux,4,1999
+23.0,,,De Wolf Steve,78,Cofidis,4,1999
+24.0,,,Moncouti\xe9 David,79,Cofidis,4,1999
+25.0,,,Saugrain Cyril,80,La Fran\xe7aise des Jeux,4,1999
+31.0,,,Capelle Christophe,81,BigMat - Auber 93,4,1999
+26.0,,,Baranowski Dariusz,82,Banesto,4,1999
+22.0,,,Millar David,83,Cofidis,4,1999
+23.0,,,George David,84,US Postal Service,4,1999
+27.0,,,Lopez De Munain Alberto,85,Euskaltel - Euskadi,4,1999
+27.0,,,Aggiano Elio,86,Vitalicio Seguros - Grupo Generali,4,1999
+27.0,,,Bernard J\xe9r\xf4me,87,Home Market - Ville de Charleroi,4,1999
+31.0,,,Garmendia Aitor,88,Banesto,4,1999
+26.0,,,Garcia Jose Vicente,89,Banesto,4,1999
+32.0,,50.0,Madouas Laurent,1,Festina - Lotus,5,1999
+27.0,,30.0,Lebreton Lylian,2,BigMat - Auber 93,5,1999
+26.0,,18.0,Barthe St\xe9phane,3,Casino - AG2R,5,1999
+31.0,,13.0,Capelle Christophe,4,BigMat - Auber 93,5,1999
+24.0,,10.0,Nazon Damien,5,La Fran\xe7aise des Jeux,5,1999
+30.0,,7.0,Moncassin Fr\xe9d\xe9ric,6,Credit agricole,5,1999
+25.0,,4.0,Hinault S\xe9bastien,7,Credit agricole,5,1999
+28.0,,3.0,Belli Wladimir,8,Festina - Lotus,5,1999
+28.0,,2.0,Moreau Christophe,9,Festina - Lotus,5,1999
+26.0,,1.0,Verheyen Geert,10,Lotto - Mobistar,5,1999
+30.0,,,Simon Fran\xe7ois,11,Credit agricole,5,1999
+31.0,,,Chanteur Pascal,12,Casino - AG2R,5,1999
+29.0,,,Peers Chris,13,Lotto - Mobistar,5,1999
+31.0,,,Brochard Laurent,14,Festina - Lotus,5,1999
+35.0,,,Pillon Laurent,15,Home Market - Ville de Charleroi,5,1999
+25.0,,,Demarbaix Sebastien,16,Lotto - Mobistar,5,1999
+27.0,,,Bessy Fr\xe9d\xe9ric,17,Casino - AG2R,5,1999
+27.0,,,Bernard J\xe9r\xf4me,18,Home Market - Ville de Charleroi,5,1999
+27.0,,,Van Hyfte Paul,19,Lotto - Mobistar,5,1999
+28.0,,,Gabriel Fr\xe9d\xe9ric,20,Home Market - Ville de Charleroi,5,1999
+23.0,,,Osa Unai,21,Banesto,5,1999
+24.0,,,Jenner Christopher,22,Credit agricole,5,1999
+25.0,,,Kivilev Andrei,23,Festina - Lotus,5,1999
+25.0,,,Vinokourov Alexandre,24,Casino - AG2R,5,1999
+30.0,,,Farazijn Peter,25,Cofidis,5,1999
+29.0,,,Garcia David,26,Vitalicio Seguros - Grupo Generali,5,1999
+27.0,,,van de Wouwer Kurt,27,Lotto - Mobistar,5,1999
+30.0,,,Teyssier Francisque,28,Festina - Lotus,5,1999
+27.0,,,Armstrong Lance,29,US Postal Service,5,1999
+23.0,,,Mancebo Francisco,30,Banesto,5,1999
+29.0,,,Magnusson Glenn,31,US Postal Service,5,1999
+22.0,,,Silloniz Aitor,32,Euskaltel - Euskadi,5,1999
+23.0,,,Lastras Pablo,33,Banesto,5,1999
+29.0,,,Bouvard Gilles,34,Home Market - Ville de Charleroi,5,1999
+27.0,,,Guilbert Charles,35,Home Market - Ville de Charleroi,5,1999
+24.0,,,Morin Anthony,36,La Fran\xe7aise des Jeux,5,1999
+27.0,,,Castresana Angel,37,Euskaltel - Euskadi,5,1999
+25.0,,,Bassons Christophe,38,La Fran\xe7aise des Jeux,5,1999
+36.0,,,Bourguignon Thierry,39,BigMat - Auber 93,5,1999
+27.0,,,Manchon Ernesto,40,Vitalicio Seguros - Grupo Generali,5,1999
+25.0,,,Langella Anthony,41,Credit agricole,5,1999
+29.0,,,Cali Vincent,42,Home Market - Ville de Charleroi,5,1999
+28.0,,,Heulot Stephane,43,La Fran\xe7aise des Jeux,5,1999
+26.0,,,Vaughters Jonathan,44,US Postal Service,5,1999
+24.0,,,Aerts Mario,45,Lotto - Mobistar,5,1999
+27.0,,,Sivakov Alexei,46,BigMat - Auber 93,5,1999
+25.0,,,Saugrain Cyril,47,La Fran\xe7aise des Jeux,5,1999
+27.0,,,Julich Bobby,48,Cofidis,5,1999
+28.0,,,Hamilton Tyler,49,US Postal Service,5,1999
+27.0,,,Gougot Fabrice,50,Casino - AG2R,5,1999
+26.0,,,Del Olmo Txema,51,Euskaltel - Euskadi,5,1999
+23.0,,,De Wolf Steve,52,Cofidis,5,1999
+21.0,,,Vogondy Nicolas,53,La Fran\xe7aise des Jeux,5,1999
+27.0,,,Voigt Jens,54,Credit agricole,5,1999
+25.0,,,Beloki Joseba,55,Euskaltel - Euskadi,5,1999
+30.0,,,Bordenave Philippe,56,BigMat - Auber 93,5,1999
+29.0,,,Robin Jean-Cyril,57,La Fran\xe7aise des Jeux,5,1999
+28.0,,,Rault Dominique,58,BigMat - Auber 93,5,1999
+24.0,,,Verbrugghe Rik,59,Lotto - Mobistar,5,1999
+26.0,,,Chaurreau I\xf1igo,60,Euskaltel - Euskadi,5,1999
+30.0,,,Boardman Christopher,61,Credit agricole,5,1999
+28.0,,,Solaun Cesar,62,Banesto,5,1999
+23.0,,,Garcia Francisco Tomas,63,,5,1999
+26.0,,,Oriol Christophe,64,Casino - AG2R,5,1999
+25.0,,,Salmon Benoit,65,Casino - AG2R,5,1999
+26.0,,,Livingston Kevin,66,US Postal Service,5,1999
+22.0,,,Millar David,67,Cofidis,5,1999
+28.0,,,Delrieu David,68,Casino - AG2R,5,1999
+23.0,,,Parra Ivan Ramiro,69,Vitalicio Seguros - Grupo Generali,5,1999
+28.0,,,Vasseur C\xe9dric,70,Credit agricole,5,1999
+24.0,,,Dacruz Carlos,71,BigMat - Auber 93,5,1999
+25.0,,,Rinero Christophe,72,Cofidis,5,1999
+26.0,,,Fernandez Bingen,73,Euskaltel - Euskadi,5,1999
+26.0,,,Baranowski Dariusz,74,Banesto,5,1999
+22.0,,,Lefevre Laurent,75,Festina - Lotus,5,1999
+29.0,,,Laiseka jaio Roberto,76,Euskaltel - Euskadi,5,1999
+24.0,,,Moncouti\xe9 David,77,Cofidis,5,1999
+29.0,,,Desbiens Laurent,78,Cofidis,5,1999
+27.0,,,Lopez De Munain Alberto,79,Euskaltel - Euskadi,5,1999
+26.0,,,Garcia Jose Vicente,80,Banesto,5,1999
+33.0,,,Meinert-Nielsen Peter,81,US Postal Service,5,1999
+31.0,,,Garmendia Aitor,82,Banesto,5,1999
+23.0,,,Auger Guillaume,83,BigMat - Auber 93,5,1999
+26.0,,,Wuyts Peter,84,Lotto - Mobistar,5,1999
+27.0,,,Aggiano Elio,85,Vitalicio Seguros - Grupo Generali,5,1999
+23.0,,,George David,86,US Postal Service,5,1999
+28.0,,,Derame Pascal,87,US Postal Service,5,1999
+24.0,,50.0,Moncouti\xe9 David,1,Cofidis,6,1999
+26.0,,30.0,Livingston Kevin,2,US Postal Service,6,1999
+25.0,,18.0,Beloki Joseba,3,Euskaltel - Euskadi,6,1999
+28.0,,13.0,Belli Wladimir,4,Festina - Lotus,6,1999
+24.0,,10.0,Osa Unai,5,Banesto,6,1999
+29.0,,7.0,Bouvard Gilles,6,Home Market - Ville de Charleroi,6,1999
+25.0,,4.0,Vinokourov Alexandre,7,Casino - AG2R,6,1999
+28.0,,3.0,Vasseur C\xe9dric,8,Credit agricole,6,1999
+27.0,,2.0,van de Wouwer Kurt,9,Lotto - Mobistar,6,1999
+29.0,,1.0,Laiseka jaio Roberto,10,Euskaltel - Euskadi,6,1999
+28.0,,,Heulot Stephane,11,La Fran\xe7aise des Jeux,6,1999
+25.0,,,Demarbaix Sebastien,12,Lotto - Mobistar,6,1999
+30.0,,,Simon Fran\xe7ois,13,Credit agricole,6,1999
+27.0,,,Armstrong Lance,14,US Postal Service,6,1999
+26.0,,,Vaughters Jonathan,15,US Postal Service,6,1999
+23.0,,,Mancebo Francisco,16,Banesto,6,1999
+24.0,,,Aerts Mario,17,Lotto - Mobistar,6,1999
+26.0,,,Del Olmo Txema,18,Euskaltel - Euskadi,6,1999
+28.0,,,Solaun Cesar,19,Banesto,6,1999
+28.0,,,Gabriel Fr\xe9d\xe9ric,20,Home Market - Ville de Charleroi,6,1999
+27.0,,,Julich Bobby,21,Cofidis,6,1999
+23.0,,,Garcia Francisco Tomas,22,,6,1999
+28.0,,,Hamilton Tyler,24,US Postal Service,6,1999
+27.0,,,Castresana Angel,25,Euskaltel - Euskadi,6,1999
+29.0,,,Robin Jean-Cyril,26,La Fran\xe7aise des Jeux,6,1999
+28.0,,,Rault Dominique,27,BigMat - Auber 93,6,1999
+27.0,,,Voigt Jens,28,Credit agricole,6,1999
+24.0,,,Verbrugghe Rik,29,Lotto - Mobistar,6,1999
+24.0,,,Morin Anthony,30,La Fran\xe7aise des Jeux,6,1999
+28.0,,,Moreau Christophe,31,Festina - Lotus,6,1999
+27.0,,,Guilbert Charles,32,Home Market - Ville de Charleroi,6,1999
+31.0,,,Brochard Laurent,33,Festina - Lotus,6,1999
+23.0,,,De Wolf Steve,34,Cofidis,6,1999
+29.0,,,Cali Vincent,35,Home Market - Ville de Charleroi,6,1999
+26.0,,,Oriol Christophe,36,Casino - AG2R,6,1999
+26.0,,,Chaurreau I\xf1igo,37,Euskaltel - Euskadi,6,1999
+26.0,,,Fernandez Bingen,38,Euskaltel - Euskadi,6,1999
+27.0,,,Van Hyfte Paul,39,Lotto - Mobistar,6,1999
+25.0,,,Bassons Christophe,40,La Fran\xe7aise des Jeux,6,1999
+26.0,,,Wuyts Peter,41,Lotto - Mobistar,6,1999
+32.0,,,Madouas Laurent,42,Festina - Lotus,6,1999
+25.0,,,Hinault S\xe9bastien,43,Credit agricole,6,1999
+27.0,,,Manchon Ernesto,44,Vitalicio Seguros - Grupo Generali,6,1999
+29.0,,,Garcia David,45,Vitalicio Seguros - Grupo Generali,6,1999
+27.0,,,Bessy Fr\xe9d\xe9ric,46,Casino - AG2R,6,1999
+27.0,,,Lebreton Lylian,47,BigMat - Auber 93,6,1999
+31.0,,,Chanteur Pascal,48,Casino - AG2R,6,1999
+24.0,,,Jenner Christopher,49,Credit agricole,6,1999
+30.0,,,Farazijn Peter,50,Cofidis,6,1999
+25.0,,,Langella Anthony,51,Credit agricole,6,1999
+30.0,,,Boardman Christopher,52,Credit agricole,6,1999
+22.0,,,Silloniz Aitor,53,Euskaltel - Euskadi,6,1999
+27.0,,,Gougot Fabrice,54,Casino - AG2R,6,1999
+27.0,,,Sivakov Alexei,55,BigMat - Auber 93,6,1999
+30.0,,,Teyssier Francisque,56,Festina - Lotus,6,1999
+27.0,,,Lopez De Munain Alberto,57,Euskaltel - Euskadi,6,1999
+25.0,,,Kivilev Andrei,58,Festina - Lotus,6,1999
+23.0,,,Auger Guillaume,59,BigMat - Auber 93,6,1999
+25.0,,,Saugrain Cyril,60,La Fran\xe7aise des Jeux,6,1999
+23.0,,,Lastras Pablo,61,Banesto,6,1999
+35.0,,,Pillon Laurent,62,Home Market - Ville de Charleroi,6,1999
+29.0,,,Magnusson Glenn,63,US Postal Service,6,1999
+30.0,,,Bordenave Philippe,64,BigMat - Auber 93,6,1999
+28.0,,,Delrieu David,65,Casino - AG2R,6,1999
+21.0,,,Vogondy Nicolas,66,La Fran\xe7aise des Jeux,6,1999
+23.0,,,Parra Ivan Ramiro,67,Vitalicio Seguros - Grupo Generali,6,1999
+33.0,,,Meinert-Nielsen Peter,68,US Postal Service,6,1999
+22.0,,,Lefevre Laurent,69,Festina - Lotus,6,1999
+25.0,,50.0,Bassons Christophe,1,La Fran\xe7aise des Jeux,7,1999
+27.0,,30.0,Armstrong Lance,2,US Postal Service,7,1999
+26.0,,18.0,Verheyen Geert,3,Lotto - Mobistar,7,1999
+28.0,,13.0,Heulot Stephane,4,La Fran\xe7aise des Jeux,7,1999
+28.0,,10.0,Belli Wladimir,5,Festina - Lotus,7,1999
+30.0,,7.0,Simon Fran\xe7ois,6,Credit agricole,7,1999
+28.0,,4.0,Moreau Christophe,7,Festina - Lotus,7,1999
+28.0,,3.0,Vasseur C\xe9dric,8,Credit agricole,7,1999
+24.0,,2.0,Osa Unai,9,Banesto,7,1999
+27.0,,1.0,Voigt Jens,10,Credit agricole,7,1999
+25.0,,,Vinokourov Alexandre,11,Casino - AG2R,7,1999
+26.0,,,Livingston Kevin,12,US Postal Service,7,1999
+25.0,,,Kivilev Andrei,13,Festina - Lotus,7,1999
+31.0,,,Brochard Laurent,14,Festina - Lotus,7,1999
+25.0,,,Beloki Joseba,15,Euskaltel - Euskadi,7,1999
+27.0,,,Sivakov Alexei,16,BigMat - Auber 93,7,1999
+27.0,,,Julich Bobby,17,Cofidis,7,1999
+29.0,,,Bouvard Gilles,18,Home Market - Ville de Charleroi,7,1999
+23.0,,,Mancebo Francisco,19,Banesto,7,1999
+24.0,,,Aerts Mario,20,Lotto - Mobistar,7,1999
+28.0,,,Gabriel Fr\xe9d\xe9ric,21,Home Market - Ville de Charleroi,7,1999
+26.0,,,Del Olmo Txema,22,Euskaltel - Euskadi,7,1999
+24.0,,,Verbrugghe Rik,23,Lotto - Mobistar,7,1999
+25.0,,,Demarbaix Sebastien,24,Lotto - Mobistar,7,1999
+28.0,,,Hamilton Tyler,25,US Postal Service,7,1999
+27.0,,,Castresana Angel,26,Euskaltel - Euskadi,7,1999
+32.0,,,Madouas Laurent,27,Festina - Lotus,7,1999
+26.0,,,Chaurreau I\xf1igo,28,Euskaltel - Euskadi,7,1999
+25.0,,,Langella Anthony,29,Credit agricole,7,1999
+23.0,,,De Wolf Steve,30,Cofidis,7,1999
+29.0,,,Robin Jean-Cyril,31,La Fran\xe7aise des Jeux,7,1999
+27.0,,,van de Wouwer Kurt,32,Lotto - Mobistar,7,1999
+31.0,,,Chanteur Pascal,33,Casino - AG2R,7,1999
+28.0,,,Solaun Cesar,34,Banesto,7,1999
+27.0,,,Guilbert Charles,35,Home Market - Ville de Charleroi,7,1999
+24.0,,,Morin Anthony,36,La Fran\xe7aise des Jeux,7,1999
+26.0,,,Vaughters Jonathan,37,US Postal Service,7,1999
+23.0,,,Garcia Francisco Tomas,38,,7,1999
+28.0,,,Rault Dominique,39,BigMat - Auber 93,7,1999
+27.0,,,Lebreton Lylian,40,BigMat - Auber 93,7,1999
+29.0,,,Laiseka jaio Roberto,41,Euskaltel - Euskadi,7,1999
+27.0,,,Gougot Fabrice,42,Casino - AG2R,7,1999
+24.0,,,Moncouti\xe9 David,43,Cofidis,7,1999
+30.0,,,Bordenave Philippe,44,BigMat - Auber 93,7,1999
+26.0,,,Oriol Christophe,45,Casino - AG2R,7,1999
+30.0,,,Teyssier Francisque,46,Festina - Lotus,7,1999
+27.0,,,Bessy Fr\xe9d\xe9ric,47,Casino - AG2R,7,1999
+23.0,,,Parra Ivan Ramiro,48,Vitalicio Seguros - Grupo Generali,7,1999
+22.0,,,Lefevre Laurent,49,Festina - Lotus,7,1999
+30.0,,,Boardman Christopher,50,Credit agricole,7,1999
+21.0,,,Vogondy Nicolas,51,La Fran\xe7aise des Jeux,7,1999
+24.0,,,Jenner Christopher,52,Credit agricole,7,1999
+25.0,,,Hinault S\xe9bastien,53,Credit agricole,7,1999
+28.0,,,Delrieu David,54,Casino - AG2R,7,1999
+27.0,,,Van Hyfte Paul,55,Lotto - Mobistar,7,1999
+26.0,,,Wuyts Peter,56,Lotto - Mobistar,7,1999
+22.0,,,Silloniz Aitor,57,Euskaltel - Euskadi,7,1999
+29.0,,,Garcia David,58,Vitalicio Seguros - Grupo Generali,7,1999
+23.0,,,Lastras Pablo,59,Banesto,7,1999
+27.0,,,Manchon Ernesto,60,Vitalicio Seguros - Grupo Generali,7,1999
+26.0,,,Fernandez Bingen,61,Euskaltel - Euskadi,7,1999
+27.0,,,Lopez De Munain Alberto,62,Euskaltel - Euskadi,7,1999
+26.0,,,Barthe St\xe9phane,63,Casino - AG2R,7,1999

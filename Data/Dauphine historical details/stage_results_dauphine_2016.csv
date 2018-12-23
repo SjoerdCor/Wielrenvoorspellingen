@@ -1,0 +1,1359 @@
+Age,Avg,BIB,GC,GC-Time,Pnt,Rider,Rnk,Team,Time,UCI,UCI.1,stage,year
+33,20.69,21,1.0,+0:00,50.0,Contador Alberto,1,Tinkoff,11:36 11:36,6.0,60.0,0,2016
+31,20.513,11,2.0,+0:06,30.0,Porte Richie,2,BMC Racing Team,0:06 0:06,4.0,25.0,0,2016
+31,20.31,1,3.0,+0:13,18.0,Froome Christopher,3,Team Sky,0:13 0:13,2.0,10.0,0,2016
+29,20.084,41,4.0,+0:21,13.0,Martin Daniel,4,Etixx - Quick Step,0:21 0:21,1.0,,0,2016
+23,20.0,42,5.0,+0:24,10.0,Alaphilippe Julian,5,Etixx - Quick Step,0:24 0:24,1.0,,0,2016
+28,19.972,5,6.0,+0:25,7.0,Poels Wout,6,Team Sky,0:25 0:25,,,0,2016
+25,19.862000000000002,61,7.0,+0:29,4.0,Bardet Romain,7,AG2R La Mondiale,0:29 0:29,,,0,2016
+23,19.807000000000002,78,8.0,+0:31,3.0,Yates Adam,8,Orica GreenEDGE,0:31 0:31,,,0,2016
+27,19.645,56,9.0,+0:37,2.0,Rosa Diego,9,Astana Pro Team,0:37 0:37,,,0,2016
+25,19.592,133,10.0,+0:39,1.0,Herrada Jes\xfas,10,Movistar Team,0:39 0:39,,,0,2016
+32,19.486,106,11.0,+0:43,,Navarro Daniel,11,"Cofidis, Solutions Cr\xe9dits",0:43 0:43,,,0,2016
+26,19.459,4,12.0,+0:44,,Landa Mikel,12,Team Sky,0:44 0:44,,,0,2016
+26,19.433,3,13.0,+0:45,,Kwiatkowski Michal,13,Team Sky,0:45 0:45,,,0,2016
+34,19.407,181,14.0,+0:46,,Gasparotto Enrico,14,Wanty - Groupe Gobert,0:46 0:46,,,0,2016
+29,19.355,126,15.0,+0:48,,Mollema Bauke,15,Trek - Segafredo,0:48 0:48,,,0,2016
+35,19.329,121,16.0,+0:49,,Hesjedal Ryder,16,Trek - Segafredo,0:49 0:49,,,0,2016
+26,19.250999999999998,31,17.0,+0:52,,Pinot Thibaut,17,FDJ,0:52 0:52,,,0,2016
+23,19.250999999999998,203,18.0,+0:52,,Conti Valerio,18,Lampre - Merida,",, 0:52",,,0,2016
+35,19.226,113,19.0,+0:53,,Cummings Stephen,19,Team Dimension Data,0:53 0:53,,,0,2016
+24,19.2,201,20.0,+0:54,,Meintjes Louis,20,Lampre - Merida,0:54 0:54,,,0,2016
+28,19.2,14,21.0,+0:54,,Caruso Damiano,21,BMC Racing Team,",, 0:54",,,0,2016
+29,19.2,16,22.0,+0:54,,Hermans Ben,22,BMC Racing Team,",, 0:54",,,0,2016
+31,19.2,52,23.0,+0:54,,Cataldo Dario,23,Astana Pro Team,",, 0:54",,,0,2016
+29,19.174,171,24.0,+0:55,,Coppel J\xe9rome,24,IAM Cycling,0:55 0:55,,,0,2016
+23,19.174,191,25.0,+0:55,,Buchmann Emanuel,25,Bora - Argon 18,",, 0:55",,,0,2016
+31,19.098,75,26.0,+0:58,,Impey Daryl,26,Orica GreenEDGE,0:58 0:58,,,0,2016
+32,19.098,12,27.0,+0:58,,Bookwalter Brent,27,BMC Racing Team,",, 0:58",,,0,2016
+22,19.073,98,28.0,+0:59,,Vervaeke Louis,28,Lotto Soudal,0:59 0:59,,,0,2016
+24,19.048,204,29.0,+1:00,,Grmay Tsgabu,29,Lampre - Merida,1:00 1:00,,,0,2016
+26,19.022000000000002,15,30.0,+1:01,,Dennis Rohan,30,BMC Racing Team,1:01 1:01,,,0,2016
+37,18.997,81,31.0,+1:02,,Rodr\xedguez Joaquim,31,Team Katusha,1:02 1:02,,,0,2016
+33,18.997,111,32.0,+1:02,,Anton Igor,32,Team Dimension Data,",, 1:02",,,0,2016
+27,18.972,35,33.0,+1:03,,Reichenbach Sebastien,33,FDJ,1:03 1:03,,,0,2016
+29,18.898,151,34.0,+1:06,,Rolland Pierre,34,Cannondale Pro Cycling Team,1:06 1:06,,,0,2016
+30,18.848,25,35.0,+1:08,,Kreuziger Roman,35,Tinkoff,1:08 1:08,,,0,2016
+25,18.848,51,36.0,+1:08,,Aru Fabio,36,Astana Pro Team,",, 1:08",,,0,2016
+22,18.824,137,37.0,+1:09,,Soler Marc,37,Movistar Team,1:09 1:09,,,0,2016
+25,18.824,23,38.0,+1:09,,Hansen Jesper,38,Tinkoff,",, 1:09",,,0,2016
+33,18.774,173,39.0,+1:11,,Clement Stef,39,IAM Cycling,1:11 1:11,,,0,2016
+24,18.75,135,40.0,+1:12,,Pedrero Antonio,40,Movistar Team,1:12 1:12,,,0,2016
+28,18.75,2,41.0,+1:12,,Henao Sergio Luis,41,Team Sky,",, 1:12",,,0,2016
+28,18.726,65,42.0,+1:13,,Gastauer Ben,42,AG2R La Mondiale,1:13 1:13,,,0,2016
+30,18.726,62,43.0,+1:13,,Bakelants Jan,43,AG2R La Mondiale,",, 1:13",,,0,2016
+34,18.726,131,44.0,+1:13,,Moreno Daniel,44,Movistar Team,",, 1:13",,,0,2016
+33,18.701,34,45.0,+1:14,,Morabito Steve,45,FDJ,1:14 1:14,,,0,2016
+28,18.701,91,46.0,+1:14,,Gallopin Tony,46,Lotto Soudal,",, 1:14",,,0,2016
+28,18.701,68,47.0,+1:14,,Vuillermoz Alexis,47,AG2R La Mondiale,",, 1:14",,,0,2016
+29,18.653,24,48.0,+1:16,,Ki\u0161erlovski Robert,48,Tinkoff,1:16 1:16,,,0,2016
+25,18.629,114,49.0,+1:17,,Fraile Omar,49,Team Dimension Data,1:17 1:17,,,0,2016
+24,18.629,196,50.0,+1:17,,Konrad Patrick,50,Bora - Argon 18,",, 1:17",,,0,2016
+28,18.605,148,51.0,+1:18,,Sicard Romain,51,Direct Energie,1:18 1:18,,,0,2016
+27,18.581,134,52.0,+1:19,,Oliveira Nelson,52,Movistar Team,1:19 1:19,,,0,2016
+26,18.557000000000002,157,53.0,+1:20,,Slagter Tom-Jelte,53,Cannondale Pro Cycling Team,1:20 1:20,,,0,2016
+23,18.557000000000002,136,54.0,+1:20,,Quintana Dayer,54,Movistar Team,",, 1:20",,,0,2016
+35,18.533,195,55.0,+1:21,,Huzarski Bartosz,55,Bora - Argon 18,1:21 1:21,,,0,2016
+22,18.533,73,56.0,+1:21,,Haig Jack,56,Orica GreenEDGE,",, 1:21",,,0,2016
+30,18.533,63,57.0,+1:21,,Ch\xe9rel Micka\xebl,57,AG2R La Mondiale,",, 1:21",,,0,2016
+23,18.509,67,58.0,+1:22,,Gougeard Alexis,58,AG2R La Mondiale,1:22 1:22,,,0,2016
+29,18.485,93,59.0,+1:23,,De Clercq Bart,59,Lotto Soudal,1:23 1:23,,,0,2016
+26,18.462,161,60.0,+1:24,,Bennett George,60,Team LottoNL-Jumbo,1:24 1:24,,,0,2016
+32,18.462,116,61.0,+1:24,,Pauwels Serge,61,Team Dimension Data,",, 1:24",,,0,2016
+31,18.414,45,62.0,+1:26,,Martin Tony,62,Etixx - Quick Step,1:26 1:26,,,0,2016
+36,18.414,141,63.0,+1:26,,Voeckler Thomas,63,Direct Energie,",, 1:26",,,0,2016
+20,18.414,44,64.0,+1:26,,De Plus Laurens,64,Etixx - Quick Step,",, 1:26",,,0,2016
+21,18.367,168,65.0,+1:28,,Vermeulen Alexey,65,Team LottoNL-Jumbo,1:28 1:28,,,0,2016
+24,18.344,28,66.0,+1:29,,Valgren Michael,66,Tinkoff,1:29 1:29,,,0,2016
+22,18.344,207,67.0,+1:29,,Pibernik Luka,67,Lampre - Merida,",, 1:29",,,0,2016
+25,18.274,132,68.0,+1:32,,Fern\xe1ndez Rub\xe9n,68,Movistar Team,1:32 1:32,,,0,2016
+32,18.274,57,69.0,+1:32,,Sanchez Luis Leon,69,Astana Pro Team,",, 1:32",,,0,2016
+25,18.274,205,70.0,+1:32,,Koshevoy Ilia,70,Lampre - Merida,",, 1:32",,,0,2016
+29,18.250999999999998,94,71.0,+1:33,,De Gendt Thomas,71,Lotto Soudal,1:33 1:33,,,0,2016
+32,18.227999999999998,147,72.0,+1:34,,Quemeneur Perrig,72,Direct Energie,1:34 1:34,,,0,2016
+33,18.205,87,73.0,+1:35,,Van den Broeck Jurgen,73,Team Katusha,1:35 1:35,,,0,2016
+26,18.205,105,74.0,+1:35,,Molard Rudy,74,"Cofidis, Solutions Cr\xe9dits",",, 1:35",,,0,2016
+32,18.182000000000002,53,75.0,+1:36,,Grivko Andrei,75,Astana Pro Team,1:36 1:36,,,0,2016
+22,18.136,185,76.0,+1:38,,Martin Guillaume,76,Wanty - Groupe Gobert,1:38 1:38,,,0,2016
+23,18.136,142,77.0,+1:38,,Calmejane Lilian,77,Direct Energie,",, 1:38",,,0,2016
+32,18.09,27,78.0,+1:40,,Trofimov Yuri,78,Tinkoff,1:40 1:40,,,0,2016
+31,18.09,152,79.0,+1:40,,Bauer Jack,79,Cannondale Pro Cycling Team,",, 1:40",,,0,2016
+28,18.067999999999998,146,80.0,+1:41,,Nauleau Bryan,80,Direct Energie,1:41 1:41,,,0,2016
+26,18.067999999999998,6,81.0,+1:41,,Puccio Salvatore,81,Team Sky,",, 1:41",,,0,2016
+28,18.045,66,82.0,+1:42,,Gautier Cyril,82,AG2R La Mondiale,1:42 1:42,,,0,2016
+31,18.023,153,83.0,+1:43,,Cardoso Andr\xe9,83,Cannondale Pro Cycling Team,1:43 1:43,,,0,2016
+23,17.977999999999998,55,84.0,+1:45,,Lutsenko Alexey,84,Astana Pro Team,1:45 1:45,,,0,2016
+29,17.977999999999998,43,85.0,+1:45,,Bouet Maxime,85,Etixx - Quick Step,",, 1:45",,,0,2016
+26,17.955,7,86.0,+1:46,,Rowe Luke,86,Team Sky,1:46 1:46,,,0,2016
+27,17.955,118,87.0,+1:46,,Teklehaimanot Daniel,87,Team Dimension Data,",, 1:46",,,0,2016
+27,17.955,115,88.0,+1:46,,Haas Nathan,88,Team Dimension Data,",, 1:46",,,0,2016
+29,17.955,112,89.0,+1:46,,Boasson Hagen Edvald,89,Team Dimension Data,",, 1:46",,,0,2016
+35,17.887999999999998,206,90.0,+1:49,,Mori Manuele,90,Lampre - Merida,1:49 1:49,,,0,2016
+32,17.887999999999998,97,91.0,+1:49,,Marczynski Tomasz,91,Lotto Soudal,",, 1:49",,,0,2016
+30,17.866,184,92.0,+1:50,,Degand Thomas,92,Wanty - Groupe Gobert,1:50 1:50,,,0,2016
+31,17.866,77,93.0,+1:50,,Meier Christian,93,Orica GreenEDGE,",, 1:50",,,0,2016
+23,17.866,74,94.0,+1:50,,Howson Damien,94,Orica GreenEDGE,",, 1:50",,,0,2016
+32,17.844,37,95.0,+1:51,,Roy J\xe9r\xe9my,95,FDJ,1:51 1:51,,,0,2016
+24,17.822,123,96.0,+1:52,,Bernard Julien,96,Trek - Segafredo,1:52 1:52,,,0,2016
+31,17.778,145,97.0,+1:54,,Jeandesboz Fabrice,97,Direct Energie,1:54 1:54,,,0,2016
+28,17.778,154,98.0,+1:54,,Howes Alex,98,Cannondale Pro Cycling Team,",, 1:54",,,0,2016
+36,17.778,71,99.0,+1:54,,Gerrans Simon,99,Orica GreenEDGE,",, 1:54",,,0,2016
+23,17.756,172,100.0,+1:55,,Chevrier Cl\xe9ment,100,IAM Cycling,1:55 1:55,,,0,2016
+32,17.712,47,101.0,+1:57,,Vandenbergh Stijn,101,Etixx - Quick Step,1:57 1:57,,,0,2016
+27,17.669,187,102.0,+1:59,,Thurau Bjorn,102,Wanty - Groupe Gobert,1:59 1:59,,,0,2016
+24,17.647000000000002,217,103.0,+2:00,,van der Haar Lars,103,Team Giant - Alpecin,2:00 2:00,,,0,2016
+39,17.647000000000002,128,104.0,+2:00,,Zubeldia Haimar,104,Trek - Segafredo,",, 2:00",,,0,2016
+30,17.604,198,105.0,+2:02,,Voss Paul,105,Bora - Argon 18,2:02 2:02,,,0,2016
+27,17.561,214,106.0,+2:04,,Haga Chad,106,Team Giant - Alpecin,2:04 2:04,,,0,2016
+38,17.54,58,107.0,+2:05,,Tiralongo Paolo,107,Astana Pro Team,2:05 2:05,,,0,2016
+27,17.54,155,108.0,+2:05,,King Benjamin,108,Cannondale Pro Cycling Team,",, 2:05",,,0,2016
+25,17.518,202,109.0,+2:06,,Cattaneo Mattia,109,Lampre - Merida,2:06 2:06,,,0,2016
+28,17.518,164,110.0,+2:06,,Keizer Martijn,110,Team LottoNL-Jumbo,",, 2:06",,,0,2016
+26,17.497,197,111.0,+2:07,,Nerz Dominik,111,Bora - Argon 18,2:07 2:07,,,0,2016
+24,17.497,143,112.0,+2:07,,Duchesne Antoine,112,Direct Energie,",, 2:07",,,0,2016
+31,17.476,18,113.0,+2:08,,Van Avermaet Greg,113,BMC Racing Team,2:08 2:08,,,0,2016
+26,17.455,117,114.0,+2:09,,Reguigui Youcef,114,Team Dimension Data,2:09 2:09,,,0,2016
+24,17.37,158,115.0,+2:13,,van Baarle Dylan,115,Cannondale Pro Cycling Team,2:13 2:13,,,0,2016
+23,17.37,103,116.0,+2:13,,Laporte Christophe,116,"Cofidis, Solutions Cr\xe9dits",",, 2:13",,,0,2016
+39,17.37,88,117.0,+2:13,,Vicioso \xc1ngel,117,Team Katusha,",, 2:13",,,0,2016
+27,17.349,215,118.0,+2:14,,Jones Carter,118,Team Giant - Alpecin,2:14 2:14,,,0,2016
+27,17.349,96,119.0,+2:14,,Dockx Gert,119,Lotto Soudal,",, 2:14",,,0,2016
+22,17.349,208,120.0,+2:14,,Zurlo Federico,120,Lampre - Merida,",, 2:14",,,0,2016
+34,17.329,17,121.0,+2:15,,Moinard Ama\xebl,121,BMC Racing Team,2:15 2:15,,,0,2016
+22,17.308,174,122.0,+2:16,,Enger Sondre Holst,122,IAM Cycling,2:16 2:16,,,0,2016
+27,17.287,38,123.0,+2:17,,Vichot Arthur,123,FDJ,2:17 2:17,,,0,2016
+35,17.266,64,124.0,+2:18,,Dumoulin Samuel,124,AG2R La Mondiale,2:18 2:18,,,0,2016
+27,17.266,186,125.0,+2:18,,Minnaard Marco,125,Wanty - Groupe Gobert,",, 2:18",,,0,2016
+25,17.204,176,126.0,+2:21,,Naesen Oliver,126,IAM Cycling,2:21 2:21,,,0,2016
+34,17.204,85,127.0,+2:21,,Losada Alberto,127,Team Katusha,",, 2:21",,,0,2016
+33,17.184,213,128.0,+2:22,,de Kort Koen,128,Team Giant - Alpecin,2:22 2:22,,,0,2016
+33,17.184,104,129.0,+2:22,,Lemoine Cyril,129,"Cofidis, Solutions Cr\xe9dits",",, 2:22",,,0,2016
+22,17.122,22,130.0,+2:25,,Gogl Michael,130,Tinkoff,2:25 2:25,,,0,2016
+37,17.082,188,131.0,+2:27,,Veuchelen Frederik,131,Wanty - Groupe Gobert,2:27 2:27,,,0,2016
+23,17.062,166,132.0,+2:28,,Teunissen Mike,132,Team LottoNL-Jumbo,2:28 2:28,,,0,2016
+29,17.041,36,133.0,+2:29,,Roux Anthony,133,FDJ,2:29 2:29,,,0,2016
+36,17.021,26,134.0,+2:30,,Paulinho S\xe9rgio,134,Tinkoff,2:30 2:30,,,0,2016
+28,16.961,107,135.0,+2:33,,Soupe Geoffrey,135,"Cofidis, Solutions Cr\xe9dits",2:33 2:33,,,0,2016
+28,16.941,183,136.0,+2:34,,Claeys Dimitri,136,Wanty - Groupe Gobert,2:34 2:34,,,0,2016
+27,16.921,211,137.0,+2:35,,Degenkolb John,137,Team Giant - Alpecin,2:35 2:35,,,0,2016
+28,16.901,175,138.0,+2:36,,Fumeaux Jonathan,138,IAM Cycling,2:36 2:36,,,0,2016
+27,16.901,76,139.0,+2:36,,Keukeleire Jens,139,Orica GreenEDGE,",, 2:36",,,0,2016
+31,16.862000000000002,33,140.0,+2:38,,Ladagnous Matthieu,140,FDJ,2:38 2:38,,,0,2016
+36,16.822,212,141.0,+2:40,,Curvers Roy,141,Team Giant - Alpecin,2:40 2:40,,,0,2016
+25,16.764,83,142.0,+2:43,,Haller Marco,142,Team Katusha,2:43 2:43,,,0,2016
+26,16.725,182,143.0,+2:45,,Backaert Frederik,143,Wanty - Groupe Gobert,2:45 2:45,,,0,2016
+31,16.725,156,144.0,+2:45,,Langeveld Sebastian,144,Cannondale Pro Cycling Team,",, 2:45",,,0,2016
+34,16.705,138,145.0,+2:46,,Ventoso Francisco,145,Movistar Team,2:46 2:46,,,0,2016
+24,16.686,218,146.0,+2:47,,Waeytens Zico,146,Team Giant - Alpecin,2:47 2:47,,,0,2016
+26,16.667,95,147.0,+2:48,,Debusschere Jens,147,Lotto Soudal,2:48 2:48,,,0,2016
+30,16.647000000000002,54,148.0,+2:49,,Gruzdev Dmitriy,148,Astana Pro Team,2:49 2:49,,,0,2016
+25,16.552,127,149.0,+2:54,,Theuns Edward,149,Trek - Segafredo,2:54 2:54,,,0,2016
+29,16.552,8,150.0,+2:54,,Stannard Ian,150,Team Sky,",, 2:54",,,0,2016
+36,16.533,125,151.0,+2:55,,Irizar Markel,151,Trek - Segafredo,2:55 2:55,,,0,2016
+32,16.514,46,152.0,+2:56,,Terpstra Niki,152,Etixx - Quick Step,2:56 2:56,,,0,2016
+28,16.438,193,153.0,+3:00,,Benedetti Cesare,153,Bora - Argon 18,3:00 3:00,,,0,2016
+33,16.364,32,154.0,+3:04,,Bonnet William,154,FDJ,3:04 3:04,,,0,2016
+28,16.29,144,155.0,+3:08,,Hurel Tony,155,Direct Energie,3:08 3:08,,,0,2016
+28,16.271,84,156.0,+3:09,,Kristoff Alexander,156,Team Katusha,3:09 3:09,,,0,2016
+33,16.234,122,157.0,+3:11,,Beppu Fumiyuki,157,Trek - Segafredo,3:11 3:11,,,0,2016
+26,16.198,108,158.0,+3:13,,Vanbilsen Kenneth,158,"Cofidis, Solutions Cr\xe9dits",3:13 3:13,,,0,2016
+34,16.18,177,159.0,+3:14,,Saramotins Aleksejs,159,IAM Cycling,3:14 3:14,,,0,2016
+25,16.107,101,160.0,+3:18,,Bouhanni Nacer,160,"Cofidis, Solutions Cr\xe9dits",3:18 3:18,,,0,2016
+31,16.070999999999998,86,161.0,+3:20,,M\xf8rk\xf8v Michael,161,Team Katusha,3:20 3:20,,,0,2016
+32,16.035999999999998,13,162.0,+3:22,,Burghardt Marcus,162,BMC Racing Team,3:22 3:22,,,0,2016
+27,16.018,216,163.0,+3:23,,Sinkeldam Ramon,163,Team Giant - Alpecin,3:23 3:23,,,0,2016
+24,15.982000000000001,162,164.0,+3:25,,Campenaerts Victor,164,Team LottoNL-Jumbo,3:25 3:25,,,0,2016
+28,15.947000000000001,82,165.0,+3:27,,Guarnieri Jacopo,165,Team Katusha,3:27 3:27,,,0,2016
+28,15.947000000000001,167,166.0,+3:27,,van Winden Dennis,166,Team LottoNL-Jumbo,",, 3:27",,,0,2016
+31,15.877,48,167.0,+3:31,,Velits Martin,167,Etixx - Quick Step,3:31 3:31,,,0,2016
+22,15.877,124,168.0,+3:31,,Bonifazio Niccolo,168,Trek - Segafredo,",, 3:31",,,0,2016
+27,15.789000000000001,192,169.0,+3:36,,Archbold Shane,169,Bora - Argon 18,3:36 3:36,,,0,2016
+29,15.755,72,170.0,+3:38,,Docker Mitchell,170,Orica GreenEDGE,3:38 3:38,,,0,2016
+22,15.568,165,171.0,+3:49,,Lammertink Steven,171,Team LottoNL-Jumbo,3:49 3:49,,,0,2016
+24,15.550999999999998,163,172.0,+3:50,,Hofland Moreno,172,Team LottoNL-Jumbo,3:50 3:50,,,0,2016
+29,14.937999999999999,178,173.0,+4:28,,van Genechten Jonas,173,IAM Cycling,4:28 4:28,,,0,2016
+29,14.845,92,174.0,+4:34,,Boeckmans Kris,174,Lotto Soudal,4:34 4:34,,,0,2016
+35,14.784,102,175.0,+4:38,,Bozic Borut,175,"Cofidis, Solutions Cr\xe9dits",4:38 4:38,,,0,2016
+25,14.357000000000001,194,176.0,+5:00,,Bennett Sam,176,Bora - Argon 18,5:07 5:07,,,0,2016
+25,,101,140.0,+3:08,50.0,Bouhanni Nacer,1,"Cofidis, Solutions Cr\xe9dits",4:27:53 4:27:53,6.0,60.0,1,2016
+26,,95,125.0,+2:42,30.0,Debusschere Jens,2,Lotto Soudal,",, ,,",4.0,25.0,1,2016
+25,,194,171.0,+5:03,18.0,Bennett Sam,3,Bora - Argon 18,",, ,,",2.0,10.0,1,2016
+29,,112,74.0,+1:46,13.0,Boasson Hagen Edvald,4,Team Dimension Data,",, ,,",1.0,,1,2016
+29,,178,168.0,+4:28,10.0,van Genechten Jonas,5,IAM Cycling,",, ,,",1.0,,1,2016
+24,,163,160.0,+3:50,7.0,Hofland Moreno,6,Team LottoNL-Jumbo,",, ,,",,,1,2016
+28,,144,141.0,+3:08,4.0,Hurel Tony,7,Direct Energie,",, ,,",,,1,2016
+22,,174,106.0,+2:16,3.0,Enger Sondre Holst,8,IAM Cycling,",, ,,",,,1,2016
+31,,75,26.0,+0:58,2.0,Impey Daryl,9,Orica GreenEDGE,",, ,,",,,1,2016
+25,,127,129.0,+2:54,1.0,Theuns Edward,10,Trek - Segafredo,",, ,,",,,1,2016
+28,,84,142.0,+3:09,,Kristoff Alexander,11,Team Katusha,",, ,,",,,1,2016
+27,,211,121.0,+2:35,,Degenkolb John,12,Team Giant - Alpecin,",, ,,",,,1,2016
+22,,208,102.0,+2:14,,Zurlo Federico,13,Lampre - Merida,",, ,,",,,1,2016
+27,,216,149.0,+3:23,,Sinkeldam Ramon,14,Team Giant - Alpecin,",, ,,",,,1,2016
+35,,64,109.0,+2:18,,Dumoulin Samuel,15,AG2R La Mondiale,",, ,,",,,1,2016
+31,,152,68.0,+1:40,,Bauer Jack,16,Cannondale Pro Cycling Team,",, ,,",,,1,2016
+28,,14,19.0,+0:54,,Caruso Damiano,17,BMC Racing Team,",, ,,",,,1,2016
+27,,115,75.0,+1:46,,Haas Nathan,18,Team Dimension Data,",, ,,",,,1,2016
+26,,117,100.0,+2:09,,Reguigui Youcef,19,Team Dimension Data,",, ,,",,,1,2016
+31,,18,99.0,+2:08,,Van Avermaet Greg,20,BMC Racing Team,",, ,,",,,1,2016
+28,,82,152.0,+3:27,,Guarnieri Jacopo,21,Team Katusha,",, ,,",,,1,2016
+32,,53,65.0,+1:36,,Grivko Andrei,22,Astana Pro Team,",, ,,",,,1,2016
+28,,91,43.0,+1:14,,Gallopin Tony,23,Lotto Soudal,",, ,,",,,1,2016
+25,,61,7.0,+0:29,,Bardet Romain,24,AG2R La Mondiale,",, ,,",,,1,2016
+22,,137,36.0,+1:09,,Soler Marc,25,Movistar Team,",, ,,",,,1,2016
+31,,77,79.0,+1:50,,Meier Christian,26,Orica GreenEDGE,",, ,,",,,1,2016
+26,,197,98.0,+2:07,,Nerz Dominik,27,Bora - Argon 18,",, ,,",,,1,2016
+31,,1,3.0,+0:13,,Froome Christopher,28,Team Sky,",, ,,",,,1,2016
+23,,42,5.0,+0:24,,Alaphilippe Julian,29,Etixx - Quick Step,",, ,,",,,1,2016
+33,,213,115.0,+2:22,,de Kort Koen,30,Team Giant - Alpecin,",, ,,",,,1,2016
+27,,56,9.0,+0:37,,Rosa Diego,31,Astana Pro Team,",, ,,",,,1,2016
+28,,167,153.0,+3:27,,van Winden Dennis,32,Team LottoNL-Jumbo,",, ,,",,,1,2016
+28,,68,44.0,+1:14,,Vuillermoz Alexis,33,AG2R La Mondiale,",, ,,",,,1,2016
+28,,5,6.0,+0:25,,Poels Wout,34,Team Sky,",, ,,",,,1,2016
+23,,191,23.0,+0:55,,Buchmann Emanuel,35,Bora - Argon 18,",, ,,",,,1,2016
+26,,161,56.0,+1:24,,Bennett George,36,Team LottoNL-Jumbo,",, ,,",,,1,2016
+27,,187,90.0,+1:59,,Thurau Bjorn,37,Wanty - Groupe Gobert,",, ,,",,,1,2016
+22,,207,61.0,+1:29,,Pibernik Luka,38,Lampre - Merida,",, ,,",,,1,2016
+25,,133,10.0,+0:39,,Herrada Jes\xfas,39,Movistar Team,",, ,,",,,1,2016
+30,,25,34.0,+1:08,,Kreuziger Roman,40,Tinkoff,",, ,,",,,1,2016
+25,,176,113.0,+2:21,,Naesen Oliver,41,IAM Cycling,",, ,,",,,1,2016
+31,,86,147.0,+3:20,,M\xf8rk\xf8v Michael,42,Team Katusha,",, ,,",,,1,2016
+25,,132,62.0,+1:32,,Fern\xe1ndez Rub\xe9n,43,Movistar Team,",, ,,",,,1,2016
+31,,11,2.0,+0:06,,Porte Richie,44,BMC Racing Team,",, ,,",,,1,2016
+33,,32,135.0,+3:04,,Bonnet William,45,FDJ,",, ,,",,,1,2016
+23,,166,117.0,+2:28,,Teunissen Mike,46,Team LottoNL-Jumbo,",, ,,",,,1,2016
+26,,3,13.0,+0:45,,Kwiatkowski Michal,47,Team Sky,",, ,,",,,1,2016
+34,,181,14.0,+0:46,,Gasparotto Enrico,48,Wanty - Groupe Gobert,",, ,,",,,1,2016
+33,,21,1.0,+0:00,,Contador Alberto,49,Tinkoff,",, ,,",,,1,2016
+28,,2,38.0,+1:12,,Henao Sergio Luis,50,Team Sky,",, ,,",,,1,2016
+31,,52,20.0,+0:54,,Cataldo Dario,51,Astana Pro Team,",, ,,",,,1,2016
+29,,41,4.0,+0:21,,Martin Daniel,52,Etixx - Quick Step,",, ,,",,,1,2016
+31,,153,70.0,+1:43,,Cardoso Andr\xe9,53,Cannondale Pro Cycling Team,",, ,,",,,1,2016
+28,,148,47.0,+1:18,,Sicard Romain,54,Direct Energie,",, ,,",,,1,2016
+29,,171,24.0,+0:55,,Coppel J\xe9rome,55,IAM Cycling,",, ,,",,,1,2016
+32,,57,63.0,+1:32,,Sanchez Luis Leon,56,Astana Pro Team,",, ,,",,,1,2016
+30,,62,42.0,+1:13,,Bakelants Jan,57,AG2R La Mondiale,",, ,,",,,1,2016
+32,,12,25.0,+0:58,,Bookwalter Brent,58,BMC Racing Team,",, ,,",,,1,2016
+35,,206,78.0,+1:49,,Mori Manuele,59,Lampre - Merida,",, ,,",,,1,2016
+23,,78,8.0,+0:31,,Yates Adam,60,Orica GreenEDGE,",, ,,",,,1,2016
+24,,201,21.0,+0:54,,Meintjes Louis,61,Lampre - Merida,",, ,,",,,1,2016
+29,,36,118.0,+2:29,,Roux Anthony,62,FDJ,",, ,,",,,1,2016
+27,,35,32.0,+1:03,,Reichenbach Sebastien,63,FDJ,",, ,,",,,1,2016
+28,,154,84.0,+1:54,,Howes Alex,64,Cannondale Pro Cycling Team,",, ,,",,,1,2016
+31,,48,156.0,+3:31,,Velits Martin,65,Etixx - Quick Step,",, ,,",,,1,2016
+23,,55,73.0,+1:45,,Lutsenko Alexey,66,Astana Pro Team,",, ,,",,,1,2016
+22,,124,155.0,+3:31,,Bonifazio Niccolo,67,Trek - Segafredo,",, ,,",,,1,2016
+22,,185,67.0,+1:38,,Martin Guillaume,68,Wanty - Groupe Gobert,",, ,,",,,1,2016
+32,,106,11.0,+0:43,,Navarro Daniel,69,"Cofidis, Solutions Cr\xe9dits",",, ,,",,,1,2016
+29,,151,33.0,+1:06,,Rolland Pierre,70,Cannondale Pro Cycling Team,",, ,,",,,1,2016
+32,,97,77.0,+1:49,,Marczynski Tomasz,71,Lotto Soudal,",, ,,",,,1,2016
+24,,196,46.0,+1:17,,Konrad Patrick,72,Bora - Argon 18,",, ,,",,,1,2016
+22,,73,51.0,+1:21,,Haig Jack,73,Orica GreenEDGE,",, ,,",,,1,2016
+36,,71,85.0,+1:54,,Gerrans Simon,74,Orica GreenEDGE,",, ,,",,,1,2016
+38,,58,97.0,+2:05,,Tiralongo Paolo,75,Astana Pro Team,",, ,,",,,1,2016
+23,,172,87.0,+1:55,,Chevrier Cl\xe9ment,76,IAM Cycling,",, ,,",,,1,2016
+20,,44,59.0,+1:26,,De Plus Laurens,77,Etixx - Quick Step,",, ,,",,,1,2016
+23,,67,54.0,+1:22,,Gougeard Alexis,78,AG2R La Mondiale,",, ,,",,,1,2016
+28,,193,133.0,+3:00,,Benedetti Cesare,79,Bora - Argon 18,",, ,,",,,1,2016
+27,,96,103.0,+2:14,,Dockx Gert,80,Lotto Soudal,",, ,,",,,1,2016
+29,,16,22.0,+0:54,,Hermans Ben,81,BMC Racing Team,",, ,,",,,1,2016
+28,,66,69.0,+1:42,,Gautier Cyril,82,AG2R La Mondiale,",, ,,",,,1,2016
+23,,136,50.0,+1:20,,Quintana Dayer,83,Movistar Team,",, ,,",,,1,2016
+26,,15,29.0,+1:01,,Dennis Rohan,84,BMC Racing Team,",, ,,",,,1,2016
+25,,51,35.0,+1:08,,Aru Fabio,85,Astana Pro Team,",, ,,",,,1,2016
+29,,24,45.0,+1:16,,Ki\u0161erlovski Robert,86,Tinkoff,",, ,,",,,1,2016
+26,,31,17.0,+0:52,,Pinot Thibaut,87,FDJ,",, ,,",,,1,2016
+27,,38,107.0,+2:17,,Vichot Arthur,88,FDJ,",, ,,",,,1,2016
+26,,4,12.0,+0:44,,Landa Mikel,89,Team Sky,",, ,,",,,1,2016
+29,,93,55.0,+1:23,,De Clercq Bart,90,Lotto Soudal,",, ,,",,,1,2016
+33,,111,30.0,+1:02,,Anton Igor,91,Team Dimension Data,",, ,,",,,1,2016
+31,,33,122.0,+2:38,,Ladagnous Matthieu,92,FDJ,",, ,,",,,1,2016
+39,,128,92.0,+2:00,,Zubeldia Haimar,93,Trek - Segafredo,",, ,,",,,1,2016
+30,,198,94.0,+2:02,,Voss Paul,94,Bora - Argon 18,",, ,,",,,1,2016
+23,,203,18.0,+0:52,,Conti Valerio,95,Lampre - Merida,",, ,,",,,1,2016
+33,,87,64.0,+1:35,,Van den Broeck Jurgen,96,Team Katusha,",, ,,",,,1,2016
+30,,63,52.0,+1:21,,Ch\xe9rel Micka\xebl,97,AG2R La Mondiale,",, ,,",,,1,2016
+29,,126,15.0,+0:48,,Mollema Bauke,98,Trek - Segafredo,",, ,,",,,1,2016
+23,,142,66.0,+1:38,,Calmejane Lilian,99,Direct Energie,",, ,,",,,1,2016
+24,,162,150.0,+3:25,,Campenaerts Victor,100,Team LottoNL-Jumbo,",, ,,",,,1,2016
+27,,134,49.0,+1:19,,Oliveira Nelson,101,Movistar Team,",, ,,",,,1,2016
+31,,145,83.0,+1:54,,Jeandesboz Fabrice,102,Direct Energie,",, ,,",,,1,2016
+34,,138,127.0,+2:46,,Ventoso Francisco,103,Movistar Team,",, ,,",,,1,2016
+32,,47,88.0,+1:57,,Vandenbergh Stijn,104,Etixx - Quick Step,",, ,,",,,1,2016
+28,,65,40.0,+1:13,,Gastauer Ben,105,AG2R La Mondiale,",, ,,",,,1,2016
+23,,103,101.0,+2:13,,Laporte Christophe,106,"Cofidis, Solutions Cr\xe9dits",",, ,,",,,1,2016
+24,,204,28.0,+1:00,,Grmay Tsgabu,107,Lampre - Merida,",, ,,",,,1,2016
+27,,118,76.0,+1:46,,Teklehaimanot Daniel,108,Team Dimension Data,",, ,,",,,1,2016
+35,,121,16.0,+0:49,,Hesjedal Ryder,109,Trek - Segafredo,",, ,,",,,1,2016
+24,,123,82.0,+1:52,,Bernard Julien,110,Trek - Segafredo,",, ,,",,,1,2016
+32,,37,80.0,+1:51,,Roy J\xe9r\xe9my,111,FDJ,",, ,,",,,1,2016
+32,,46,131.0,+2:56,,Terpstra Niki,112,Etixx - Quick Step,",, ,,",,,1,2016
+34,,17,105.0,+2:15,,Moinard Ama\xebl,113,BMC Racing Team,",, ,,",,,1,2016
+37,,188,116.0,+2:27,,Veuchelen Frederik,114,Wanty - Groupe Gobert,",, ,,",,,1,2016
+32,,116,57.0,+1:24,,Pauwels Serge,115,Team Dimension Data,",, ,,",,,1,2016
+33,,173,37.0,+1:11,,Clement Stef,116,IAM Cycling,",, ,,",,,1,2016
+27,,186,110.0,+2:18,,Minnaard Marco,117,Wanty - Groupe Gobert,",, ,,",,,1,2016
+31,,156,126.0,+2:45,,Langeveld Sebastian,118,Cannondale Pro Cycling Team,",, ,,",,,1,2016
+35,,195,53.0,+1:21,,Huzarski Bartosz,119,Bora - Argon 18,",, ,,",,,1,2016
+28,,107,120.0,+2:33,,Soupe Geoffrey,120,"Cofidis, Solutions Cr\xe9dits",",, ,,",,,1,2016
+37,,81,31.0,+1:02,,Rodr\xedguez Joaquim,121,Team Katusha,",, ,,",,,1,2016
+22,,98,27.0,+0:59,,Vervaeke Louis,122,Lotto Soudal,",, ,,",,,1,2016
+27,,192,157.0,+3:36,,Archbold Shane,123,Bora - Argon 18,",, ,,",,,1,2016
+34,,131,41.0,+1:13,,Moreno Daniel,124,Movistar Team,",, ,,",,,1,2016
+29,,43,72.0,+1:45,,Bouet Maxime,125,Etixx - Quick Step,",, ,,",,,1,2016
+31,,45,58.0,+1:26,,Martin Tony,126,Etixx - Quick Step,",, ,,",,,1,2016
+21,,168,60.0,+1:28,,Vermeulen Alexey,127,Team LottoNL-Jumbo,",, ,,",,,1,2016
+34,,85,112.0,+2:21,,Losada Alberto,128,Team Katusha,",, ,,",,,1,2016
+24,,135,39.0,+1:12,,Pedrero Antonio,129,Movistar Team,",, ,,",,,1,2016
+27,,76,130.0,+2:54,,Keukeleire Jens,130,Orica GreenEDGE,0:18 0:18,,,1,2016
+36,,141,81.0,+1:52,,Voeckler Thomas,131,Direct Energie,0:26 0:26,,,1,2016
+35,,113,48.0,+1:19,,Cummings Stephen,132,Team Dimension Data,",, 0:26",,,1,2016
+25,,205,91.0,+2:00,,Koshevoy Ilia,133,Lampre - Merida,0:28 0:28,,,1,2016
+29,,94,93.0,+2:01,,De Gendt Thomas,134,Lotto Soudal,",, 0:28",,,1,2016
+28,,183,134.0,+3:02,,Claeys Dimitri,135,Wanty - Groupe Gobert,",, 0:28",,,1,2016
+32,,147,95.0,+2:02,,Quemeneur Perrig,136,Direct Energie,",, 0:28",,,1,2016
+26,,105,96.0,+2:03,,Molard Rudy,137,"Cofidis, Solutions Cr\xe9dits",",, 0:28",,,1,2016
+30,,184,111.0,+2:18,,Degand Thomas,138,Wanty - Groupe Gobert,",, 0:28",,,1,2016
+26,,157,86.0,+1:55,,Slagter Tom-Jelte,139,Cannondale Pro Cycling Team,0:35 0:35,,,1,2016
+28,,175,143.0,+3:11,,Fumeaux Jonathan,140,IAM Cycling,",, 0:35",,,1,2016
+26,,7,114.0,+2:21,,Rowe Luke,141,Team Sky,",, 0:35",,,1,2016
+25,,23,71.0,+1:44,,Hansen Jesper,142,Tinkoff,",, 0:35",,,1,2016
+32,,27,104.0,+2:15,,Trofimov Yuri,143,Tinkoff,",, 0:35",,,1,2016
+33,,34,89.0,+1:58,,Morabito Steve,144,FDJ,0:44 0:44,,,1,2016
+33,,104,148.0,+3:20,,Lemoine Cyril,145,"Cofidis, Solutions Cr\xe9dits",0:58 0:58,,,1,2016
+33,,122,163.0,+4:11,,Beppu Fumiyuki,146,Trek - Segafredo,1:00 1:00,,,1,2016
+27,,155,136.0,+3:05,,King Benjamin,147,Cannondale Pro Cycling Team,",, 1:00",,,1,2016
+24,,143,139.0,+3:07,,Duchesne Antoine,148,Direct Energie,",, 1:00",,,1,2016
+24,,158,144.0,+3:13,,van Baarle Dylan,149,Cannondale Pro Cycling Team,",, 1:00",,,1,2016
+28,,146,123.0,+2:41,,Nauleau Bryan,150,Direct Energie,",, 1:00",,,1,2016
+26,,6,124.0,+2:41,,Puccio Salvatore,151,Team Sky,",, 1:00",,,1,2016
+36,,212,158.0,+3:40,,Curvers Roy,152,Team Giant - Alpecin,",, 1:00",,,1,2016
+25,,202,138.0,+3:06,,Cattaneo Mattia,153,Lampre - Merida,",, 1:00",,,1,2016
+39,,88,145.0,+3:13,,Vicioso \xc1ngel,154,Team Katusha,",, 1:00",,,1,2016
+36,,125,162.0,+3:55,,Irizar Markel,155,Trek - Segafredo,",, 1:00",,,1,2016
+23,,74,128.0,+2:50,,Howson Damien,156,Orica GreenEDGE,",, 1:00",,,1,2016
+24,,28,119.0,+2:29,,Valgren Michael,157,Tinkoff,",, 1:00",,,1,2016
+30,,54,159.0,+3:49,,Gruzdev Dmitriy,158,Astana Pro Team,",, 1:00",,,1,2016
+25,,114,108.0,+2:17,,Fraile Omar,159,Team Dimension Data,",, 1:00",,,1,2016
+29,,8,161.0,+3:54,,Stannard Ian,160,Team Sky,",, 1:00",,,1,2016
+22,,22,151.0,+3:25,,Gogl Michael,161,Tinkoff,",, 1:00",,,1,2016
+36,,26,154.0,+3:30,,Paulinho S\xe9rgio,162,Tinkoff,",, 1:00",,,1,2016
+22,,165,169.0,+4:49,,Lammertink Steven,163,Team LottoNL-Jumbo,",, 1:00",,,1,2016
+24,,217,132.0,+3:00,,van der Haar Lars,164,Team Giant - Alpecin,",, 1:00",,,1,2016
+27,,215,146.0,+3:14,,Jones Carter,165,Team Giant - Alpecin,",, 1:00",,,1,2016
+29,,92,172.0,+5:34,,Boeckmans Kris,166,Lotto Soudal,",, 1:00",,,1,2016
+28,,164,137.0,+3:06,,Keizer Martijn,167,Team LottoNL-Jumbo,",, 1:00",,,1,2016
+34,,177,164.0,+4:14,,Saramotins Aleksejs,168,IAM Cycling,",, 1:00",,,1,2016
+32,,13,166.0,+4:22,,Burghardt Marcus,169,BMC Racing Team,",, 1:00",,,1,2016
+24,,218,165.0,+4:15,,Waeytens Zico,170,Team Giant - Alpecin,1:28 1:28,,,1,2016
+25,,83,167.0,+4:22,,Haller Marco,171,Team Katusha,1:39 1:39,,,1,2016
+29,,72,173.0,+5:41,,Docker Mitchell,172,Orica GreenEDGE,2:03 2:03,,,1,2016
+26,,108,174.0,+5:53,,Vanbilsen Kenneth,173,"Cofidis, Solutions Cr\xe9dits",2:40 2:40,,,1,2016
+35,,102,175.0,+7:18,,Bozic Borut,174,"Cofidis, Solutions Cr\xe9dits",",, 2:40",,,1,2016
+27,,214,170.0,+4:56,,Haga Chad,175,Team Giant - Alpecin,2:52 2:52,,,1,2016
+26,,182,176.0,+8:51,,Backaert Frederik,176,Wanty - Groupe Gobert,6:06 6:06,,,1,2016
+25,,133,6.0,+0:27,50.0,Herrada Jes\xfas,1,Movistar Team,4:13:43 4:13:43,6.0,60.0,2,2016
+28,,91,20.0,+1:08,30.0,Gallopin Tony,2,Lotto Soudal,0:02 0:02,4.0,25.0,2,2016
+32,,116,29.0,+1:20,18.0,Pauwels Serge,3,Team Dimension Data,",, 0:02",2.0,10.0,2,2016
+31,,145,40.0,+1:54,13.0,Jeandesboz Fabrice,4,Direct Energie,",, 0:02",1.0,,2,2016
+34,,131,24.0,+1:13,10.0,Moreno Daniel,5,Movistar Team,",, 0:02",1.0,,2,2016
+29,,126,10.0,+0:48,7.0,Mollema Bauke,6,Trek - Segafredo,",, 0:02",,,2,2016
+31,,18,47.0,+2:08,4.0,Van Avermaet Greg,7,BMC Racing Team,",, 0:02",,,2,2016
+31,,1,3.0,+0:13,3.0,Froome Christopher,8,Team Sky,",, 0:02",,,2,2016
+23,,203,13.0,+0:52,2.0,Conti Valerio,9,Lampre - Merida,",, 0:02",,,2,2016
+37,,81,16.0,+1:02,1.0,Rodr\xedguez Joaquim,10,Team Katusha,",, 0:02",,,2,2016
+22,,185,36.0,+1:38,,Martin Guillaume,11,Wanty - Groupe Gobert,",, 0:02",,,2,2016
+29,,41,4.0,+0:21,,Martin Daniel,12,Etixx - Quick Step,",, 0:02",,,2,2016
+29,,151,19.0,+1:06,,Rolland Pierre,13,Cannondale Pro Cycling Team,",, 0:02",,,2,2016
+32,,57,33.0,+1:32,,Sanchez Luis Leon,14,Astana Pro Team,",, 0:02",,,2,2016
+31,,11,2.0,+0:06,,Porte Richie,15,BMC Racing Team,",, 0:02",,,2,2016
+32,,106,9.0,+0:43,,Navarro Daniel,16,"Cofidis, Solutions Cr\xe9dits",",, 0:02",,,2,2016
+29,,93,30.0,+1:23,,De Clercq Bart,17,Lotto Soudal,",, 0:02",,,2,2016
+28,,2,21.0,+1:12,,Henao Sergio Luis,18,Team Sky,",, 0:02",,,2,2016
+35,,121,11.0,+0:49,,Hesjedal Ryder,19,Trek - Segafredo,",, 0:02",,,2,2016
+23,,78,7.0,+0:31,,Yates Adam,20,Orica GreenEDGE,",, 0:02",,,2,2016
+27,,35,18.0,+1:03,,Reichenbach Sebastien,21,FDJ,",, 0:02",,,2,2016
+27,,56,8.0,+0:37,,Rosa Diego,22,Astana Pro Team,",, 0:02",,,2,2016
+33,,21,1.0,+0:00,,Contador Alberto,23,Tinkoff,",, 0:02",,,2,2016
+26,,31,12.0,+0:52,,Pinot Thibaut,24,FDJ,",, 0:02",,,2,2016
+30,,62,25.0,+1:13,,Bakelants Jan,25,AG2R La Mondiale,",, 0:02",,,2,2016
+33,,87,34.0,+1:35,,Van den Broeck Jurgen,26,Team Katusha,",, 0:02",,,2,2016
+33,,111,15.0,+1:02,,Anton Igor,27,Team Dimension Data,",, 0:02",,,2,2016
+23,,42,5.0,+0:24,,Alaphilippe Julian,28,Etixx - Quick Step,",, 0:02",,,2,2016
+24,,201,14.0,+0:54,,Meintjes Louis,29,Lampre - Merida,",, 0:02",,,2,2016
+30,,198,49.0,+2:14,,Voss Paul,30,Bora - Argon 18,0:14 0:14,,,2,2016
+33,,173,31.0,+1:23,,Clement Stef,31,IAM Cycling,",, 0:14",,,2,2016
+27,,187,50.0,+2:14,,Thurau Bjorn,32,Wanty - Groupe Gobert,0:17 0:17,,,2,2016
+26,,197,53.0,+2:22,,Nerz Dominik,33,Bora - Argon 18,",, 0:17",,,2,2016
+26,,161,39.0,+1:42,,Bennett George,34,Team LottoNL-Jumbo,0:20 0:20,,,2,2016
+27,,115,45.0,+2:05,,Haas Nathan,35,Team Dimension Data,0:21 0:21,,,2,2016
+25,,51,32.0,+1:27,,Aru Fabio,36,Astana Pro Team,",, 0:21",,,2,2016
+26,,4,17.0,+1:03,,Landa Mikel,37,Team Sky,",, 0:21",,,2,2016
+22,,98,28.0,+1:18,,Vervaeke Louis,38,Lotto Soudal,",, 0:21",,,2,2016
+29,,171,26.0,+1:14,,Coppel J\xe9rome,39,IAM Cycling,",, 0:21",,,2,2016
+24,,196,35.0,+1:36,,Konrad Patrick,40,Bora - Argon 18,",, 0:21",,,2,2016
+31,,153,43.0,+2:02,,Cardoso Andr\xe9,41,Cannondale Pro Cycling Team,",, 0:21",,,2,2016
+32,,53,41.0,+1:55,,Grivko Andrei,42,Astana Pro Team,",, 0:21",,,2,2016
+28,,14,23.0,+1:13,,Caruso Damiano,43,BMC Racing Team,",, 0:21",,,2,2016
+27,,38,57.0,+2:36,,Vichot Arthur,44,FDJ,",, 0:21",,,2,2016
+23,,136,37.0,+1:39,,Quintana Dayer,45,Movistar Team,",, 0:21",,,2,2016
+23,,191,27.0,+1:18,,Buchmann Emanuel,46,Bora - Argon 18,0:25 0:25,,,2,2016
+28,,148,38.0,+1:41,,Sicard Romain,47,Direct Energie,",, 0:25",,,2,2016
+32,,147,54.0,+2:29,,Quemeneur Perrig,48,Direct Energie,0:29 0:29,,,2,2016
+26,,105,59.0,+2:38,,Molard Rudy,49,"Cofidis, Solutions Cr\xe9dits",0:37 0:37,,,2,2016
+28,,66,51.0,+2:19,,Gautier Cyril,50,AG2R La Mondiale,0:39 0:39,,,2,2016
+25,,61,22.0,+1:12,,Bardet Romain,51,AG2R La Mondiale,0:45 0:45,,,2,2016
+33,,34,61.0,+2:43,,Morabito Steve,52,FDJ,0:47 0:47,,,2,2016
+27,,134,46.0,+2:07,,Oliveira Nelson,53,Movistar Team,0:50 0:50,,,2,2016
+30,,25,42.0,+1:56,,Kreuziger Roman,54,Tinkoff,",, 0:50",,,2,2016
+35,,113,52.0,+2:21,,Cummings Stephen,55,Team Dimension Data,1:04 1:04,,,2,2016
+30,,63,58.0,+2:36,,Ch\xe9rel Micka\xebl,56,AG2R La Mondiale,1:17 1:17,,,2,2016
+29,,16,48.0,+2:09,,Hermans Ben,57,BMC Racing Team,",, 1:17",,,2,2016
+20,,44,60.0,+2:41,,De Plus Laurens,58,Etixx - Quick Step,",, 1:17",,,2,2016
+29,,24,55.0,+2:31,,Ki\u0161erlovski Robert,59,Tinkoff,",, 1:17",,,2,2016
+28,,68,56.0,+2:32,,Vuillermoz Alexis,60,AG2R La Mondiale,1:20 1:20,,,2,2016
+28,,5,44.0,+2:03,,Poels Wout,61,Team Sky,1:40 1:40,,,2,2016
+22,,73,62.0,+2:59,,Haig Jack,62,Orica GreenEDGE,",, 1:40",,,2,2016
+34,,85,66.0,+4:07,,Losada Alberto,63,Team Katusha,1:48 1:48,,,2,2016
+35,,206,64.0,+3:47,,Mori Manuele,64,Lampre - Merida,2:00 2:00,,,2,2016
+25,,132,63.0,+3:30,,Fern\xe1ndez Rub\xe9n,65,Movistar Team,",, 2:00",,,2,2016
+35,,195,65.0,+3:52,,Huzarski Bartosz,66,Bora - Argon 18,2:33 2:33,,,2,2016
+23,,172,67.0,+4:36,,Chevrier Cl\xe9ment,67,IAM Cycling,2:43 2:43,,,2,2016
+25,,176,71.0,+5:17,,Naesen Oliver,68,IAM Cycling,2:58 2:58,,,2,2016
+36,,141,68.0,+4:48,,Voeckler Thomas,69,Direct Energie,",, 2:58",,,2,2016
+25,,23,69.0,+4:58,,Hansen Jesper,70,Tinkoff,3:16 3:16,,,2,2016
+28,,65,70.0,+5:05,,Gastauer Ben,71,AG2R La Mondiale,3:54 3:54,,,2,2016
+36,,71,72.0,+5:54,,Gerrans Simon,72,Orica GreenEDGE,4:02 4:02,,,2,2016
+38,,58,73.0,+6:05,,Tiralongo Paolo,73,Astana Pro Team,",, 4:02",,,2,2016
+22,,137,76.0,+6:30,,Soler Marc,74,Movistar Team,5:23 5:23,,,2,2016
+24,,135,77.0,+6:33,,Pedrero Antonio,75,Movistar Team,",, 5:23",,,2,2016
+28,,193,81.0,+8:24,,Benedetti Cesare,76,Bora - Argon 18,5:26 5:26,,,2,2016
+34,,17,80.0,+7:39,,Moinard Ama\xebl,77,BMC Racing Team,",, 5:26",,,2,2016
+23,,67,78.0,+6:47,,Gougeard Alexis,78,AG2R La Mondiale,5:27 5:27,,,2,2016
+32,,12,74.0,+6:26,,Bookwalter Brent,79,BMC Racing Team,5:30 5:30,,,2,2016
+24,,204,75.0,+6:28,,Grmay Tsgabu,80,Lampre - Merida,",, 5:30",,,2,2016
+27,,186,84.0,+8:58,,Minnaard Marco,81,Wanty - Groupe Gobert,6:42 6:42,,,2,2016
+28,,175,87.0,+9:51,,Fumeaux Jonathan,82,IAM Cycling,",, 6:42",,,2,2016
+39,,128,83.0,+8:40,,Zubeldia Haimar,83,Trek - Segafredo,",, 6:42",,,2,2016
+32,,37,82.0,+8:31,,Roy J\xe9r\xe9my,84,FDJ,",, 6:42",,,2,2016
+32,,13,93.0,+11:02,,Burghardt Marcus,85,BMC Racing Team,",, 6:42",,,2,2016
+27,,76,86.0,+9:34,,Keukeleire Jens,86,Orica GreenEDGE,",, 6:42",,,2,2016
+34,,181,79.0,+7:26,,Gasparotto Enrico,87,Wanty - Groupe Gobert,",, 6:42",,,2,2016
+39,,88,90.0,+10:25,,Vicioso \xc1ngel,88,Team Katusha,7:14 7:14,,,2,2016
+31,,52,85.0,+9:26,,Cataldo Dario,89,Astana Pro Team,8:34 8:34,,,2,2016
+22,,207,88.0,+10:01,,Pibernik Luka,90,Lampre - Merida,",, 8:34",,,2,2016
+24,,123,91.0,+10:27,,Bernard Julien,91,Trek - Segafredo,8:37 8:37,,,2,2016
+23,,142,89.0,+10:13,,Calmejane Lilian,92,Direct Energie,",, 8:37",,,2,2016
+21,,168,92.0,+10:52,,Vermeulen Alexey,93,Team LottoNL-Jumbo,9:26 9:26,,,2,2016
+29,,112,95.0,+11:10,,Boasson Hagen Edvald,94,Team Dimension Data,",, 9:26",,,2,2016
+29,,36,101.0,+11:53,,Roux Anthony,95,FDJ,",, 9:26",,,2,2016
+24,,217,104.0,+12:24,,van der Haar Lars,96,Team Giant - Alpecin,",, 9:26",,,2,2016
+26,,157,97.0,+11:19,,Slagter Tom-Jelte,97,Cannondale Pro Cycling Team,",, 9:26",,,2,2016
+29,,94,98.0,+11:25,,De Gendt Thomas,98,Lotto Soudal,",, 9:26",,,2,2016
+29,,43,94.0,+11:09,,Bouet Maxime,99,Etixx - Quick Step,",, 9:26",,,2,2016
+27,,96,100.0,+11:38,,Dockx Gert,100,Lotto Soudal,",, 9:26",,,2,2016
+26,,182,131.0,+18:15,,Backaert Frederik,101,Wanty - Groupe Gobert,",, 9:26",,,2,2016
+32,,97,96.0,+11:13,,Marczynski Tomasz,102,Lotto Soudal,",, 9:26",,,2,2016
+34,,138,102.0,+12:10,,Ventoso Francisco,103,Movistar Team,",, 9:26",,,2,2016
+33,,32,106.0,+12:28,,Bonnet William,104,FDJ,",, 9:26",,,2,2016
+28,,183,108.0,+12:46,,Claeys Dimitri,105,Wanty - Groupe Gobert,9:46 9:46,,,2,2016
+24,,143,111.0,+13:25,,Duchesne Antoine,106,Direct Energie,10:20 10:20,,,2,2016
+26,,15,99.0,+11:27,,Dennis Rohan,107,BMC Racing Team,10:28 10:28,,,2,2016
+31,,152,103.0,+12:17,,Bauer Jack,108,Cannondale Pro Cycling Team,10:39 10:39,,,2,2016
+28,,154,107.0,+12:31,,Howes Alex,109,Cannondale Pro Cycling Team,",, 10:39",,,2,2016
+31,,45,109.0,+12:53,,Martin Tony,110,Etixx - Quick Step,11:29 11:29,,,2,2016
+31,,75,105.0,+12:25,,Impey Daryl,111,Orica GreenEDGE,",, 11:29",,,2,2016
+27,,118,110.0,+13:13,,Teklehaimanot Daniel,112,Team Dimension Data,",, 11:29",,,2,2016
+37,,188,117.0,+15:02,,Veuchelen Frederik,113,Wanty - Groupe Gobert,12:37 12:37,,,2,2016
+26,,117,114.0,+14:44,,Reguigui Youcef,114,Team Dimension Data,",, 12:37",,,2,2016
+36,,125,121.0,+16:30,,Irizar Markel,115,Trek - Segafredo,",, 12:37",,,2,2016
+31,,77,113.0,+14:25,,Meier Christian,116,Orica GreenEDGE,",, 12:37",,,2,2016
+28,,146,119.0,+15:16,,Nauleau Bryan,117,Direct Energie,",, 12:37",,,2,2016
+26,,7,116.0,+14:56,,Rowe Luke,118,Team Sky,",, 12:37",,,2,2016
+28,,144,120.0,+15:43,,Hurel Tony,119,Direct Energie,",, 12:37",,,2,2016
+31,,33,118.0,+15:13,,Ladagnous Matthieu,120,FDJ,",, 12:37",,,2,2016
+30,,184,115.0,+14:53,,Degand Thomas,121,Wanty - Groupe Gobert,",, 12:37",,,2,2016
+26,,3,112.0,+14:21,,Kwiatkowski Michal,122,Team Sky,13:38 13:38,,,2,2016
+27,,155,122.0,+16:41,,King Benjamin,123,Cannondale Pro Cycling Team,",, 13:38",,,2,2016
+24,,158,137.0,+18:49,,van Baarle Dylan,124,Cannondale Pro Cycling Team,15:38 15:38,,,2,2016
+24,,163,146.0,+19:26,,Hofland Moreno,125,Team LottoNL-Jumbo,",, 15:38",,,2,2016
+27,,216,139.0,+18:59,,Sinkeldam Ramon,126,Team Giant - Alpecin,",, 15:38",,,2,2016
+28,,164,136.0,+18:45,,Keizer Martijn,127,Team LottoNL-Jumbo,15:41 15:41,,,2,2016
+23,,166,129.0,+18:07,,Teunissen Mike,128,Team LottoNL-Jumbo,",, 15:41",,,2,2016
+33,,122,149.0,+19:50,,Beppu Fumiyuki,129,Trek - Segafredo,",, 15:41",,,2,2016
+25,,114,125.0,+17:56,,Fraile Omar,130,Team Dimension Data,",, 15:41",,,2,2016
+27,,214,153.0,+20:35,,Haga Chad,131,Team Giant - Alpecin,",, 15:41",,,2,2016
+33,,213,127.0,+18:01,,de Kort Koen,132,Team Giant - Alpecin,",, 15:41",,,2,2016
+36,,212,145.0,+19:19,,Curvers Roy,133,Team Giant - Alpecin,",, 15:41",,,2,2016
+27,,211,130.0,+18:14,,Degenkolb John,134,Team Giant - Alpecin,",, 15:41",,,2,2016
+31,,156,134.0,+18:24,,Langeveld Sebastian,135,Cannondale Pro Cycling Team,",, 15:41",,,2,2016
+32,,47,124.0,+17:36,,Vandenbergh Stijn,136,Etixx - Quick Step,",, 15:41",,,2,2016
+23,,55,123.0,+17:24,,Lutsenko Alexey,137,Astana Pro Team,",, 15:41",,,2,2016
+24,,162,140.0,+19:04,,Campenaerts Victor,138,Team LottoNL-Jumbo,",, 15:41",,,2,2016
+31,,48,142.0,+19:10,,Velits Martin,139,Etixx - Quick Step,",, 15:41",,,2,2016
+26,,6,132.0,+18:20,,Puccio Salvatore,140,Team Sky,",, 15:41",,,2,2016
+27,,215,138.0,+18:53,,Jones Carter,141,Team Giant - Alpecin,",, 15:41",,,2,2016
+24,,218,150.0,+19:54,,Waeytens Zico,142,Team Giant - Alpecin,",, 15:41",,,2,2016
+25,,83,151.0,+20:01,,Haller Marco,143,Team Katusha,",, 15:41",,,2,2016
+26,,95,133.0,+18:21,,Debusschere Jens,144,Lotto Soudal,",, 15:41",,,2,2016
+27,,192,143.0,+19:15,,Archbold Shane,145,Bora - Argon 18,",, 15:41",,,2,2016
+29,,8,148.0,+19:33,,Stannard Ian,146,Team Sky,",, 15:41",,,2,2016
+28,,167,141.0,+19:06,,van Winden Dennis,147,Team LottoNL-Jumbo,",, 15:41",,,2,2016
+30,,54,147.0,+19:28,,Gruzdev Dmitriy,148,Astana Pro Team,",, 15:41",,,2,2016
+25,,127,135.0,+18:41,,Theuns Edward,149,Trek - Segafredo,15:49 15:49,,,2,2016
+22,,208,126.0,+18:01,,Zurlo Federico,150,Lampre - Merida,",, 15:49",,,2,2016
+22,,124,144.0,+19:18,,Bonifazio Niccolo,151,Trek - Segafredo,",, 15:49",,,2,2016
+34,,177,152.0,+20:01,,Saramotins Aleksejs,152,IAM Cycling,",, 15:49",,,2,2016
+22,,174,128.0,+18:03,,Enger Sondre Holst,153,IAM Cycling,",, 15:49",,,2,2016
+29,,72,171.0,+25:08,,Docker Mitchell,154,Orica GreenEDGE,19:29 19:29,,,2,2016
+23,,74,160.0,+22:17,,Howson Damien,155,Orica GreenEDGE,",, 19:29",,,2,2016
+32,,27,155.0,+21:42,,Trofimov Yuri,156,Tinkoff,",, 19:29",,,2,2016
+36,,26,168.0,+22:57,,Paulinho S\xe9rgio,157,Tinkoff,",, 19:29",,,2,2016
+31,,86,165.0,+22:47,,M\xf8rk\xf8v Michael,158,Team Katusha,",, 19:29",,,2,2016
+24,,28,158.0,+21:56,,Valgren Michael,159,Tinkoff,",, 19:29",,,2,2016
+25,,202,162.0,+22:33,,Cattaneo Mattia,160,Lampre - Merida,",, 19:29",,,2,2016
+25,,205,154.0,+21:27,,Koshevoy Ilia,161,Lampre - Merida,",, 19:29",,,2,2016
+28,,82,167.0,+22:54,,Guarnieri Jacopo,162,Team Katusha,",, 19:29",,,2,2016
+22,,22,166.0,+22:52,,Gogl Michael,163,Tinkoff,",, 19:29",,,2,2016
+35,,64,156.0,+21:45,,Dumoulin Samuel,164,AG2R La Mondiale,",, 19:29",,,2,2016
+26,,108,172.0,+25:20,,Vanbilsen Kenneth,165,"Cofidis, Solutions Cr\xe9dits",",, 19:29",,,2,2016
+35,,102,173.0,+26:45,,Bozic Borut,166,"Cofidis, Solutions Cr\xe9dits",",, 19:29",,,2,2016
+25,,194,170.0,+24:30,,Bennett Sam,167,Bora - Argon 18,",, 19:29",,,2,2016
+25,,101,163.0,+22:35,,Bouhanni Nacer,168,"Cofidis, Solutions Cr\xe9dits",",, 19:29",,,2,2016
+23,,103,157.0,+21:49,,Laporte Christophe,169,"Cofidis, Solutions Cr\xe9dits",19:38 19:38,,,2,2016
+28,,107,159.0,+22:09,,Soupe Geoffrey,170,"Cofidis, Solutions Cr\xe9dits",",, 19:38",,,2,2016
+28,,84,164.0,+22:45,,Kristoff Alexander,171,Team Katusha,",, 19:38",,,2,2016
+32,,46,161.0,+22:32,,Terpstra Niki,172,Etixx - Quick Step,",, 19:38",,,2,2016
+33,,104,169.0,+23:01,,Lemoine Cyril,173,"Cofidis, Solutions Cr\xe9dits",19:43 19:43,,,2,2016
+22,,165,174.0,+32:47,,Lammertink Steven,174,Team LottoNL-Jumbo,28:00 28:00,,,2,2016
+29,,92,175.0,+34:02,,Boeckmans Kris,175,Lotto Soudal,28:30 28:30,,,2,2016
+29,,178,,+ -8:53:14,,van Genechten Jonas,DNF,IAM Cycling,-4:13:43 -4:13:43,,,2,2016
+25,,51,27.0,+1:15,50.0,Aru Fabio,1,Astana Pro Team,4:19:54 4:19:54,6.0,60.0,3,2016
+28,,84,121.0,+22:39,30.0,Kristoff Alexander,2,Team Katusha,0:02 0:02,4.0,25.0,3,2016
+22,,124,107.0,+19:14,18.0,Bonifazio Niccolo,3,Trek - Segafredo,",, 0:02",2.0,10.0,3,2016
+23,,42,5.0,+0:24,13.0,Alaphilippe Julian,4,Etixx - Quick Step,",, 0:02",1.0,,3,2016
+29,,112,83.0,+11:10,10.0,Boasson Hagen Edvald,5,Team Dimension Data,",, 0:02",1.0,,3,2016
+25,,194,133.0,+24:30,7.0,Bennett Sam,6,Bora - Argon 18,",, 0:02",,,3,2016
+31,,75,90.0,+12:25,4.0,Impey Daryl,7,Orica GreenEDGE,",, 0:02",,,3,2016
+25,,101,120.0,+22:35,3.0,Bouhanni Nacer,8,"Cofidis, Solutions Cr\xe9dits",",, 0:02",,,3,2016
+34,,181,70.0,+7:26,2.0,Gasparotto Enrico,9,Wanty - Groupe Gobert,",, 0:02",,,3,2016
+27,,38,51.0,+2:36,1.0,Vichot Arthur,10,FDJ,",, 0:02",,,3,2016
+31,,18,44.0,+2:08,,Van Avermaet Greg,11,BMC Racing Team,",, 0:02",,,3,2016
+22,,207,76.0,+10:01,,Pibernik Luka,12,Lampre - Merida,",, 0:02",,,3,2016
+29,,36,87.0,+11:53,,Roux Anthony,13,FDJ,",, 0:02",,,3,2016
+27,,211,105.0,+18:14,,Degenkolb John,14,Team Giant - Alpecin,",, 0:02",,,3,2016
+25,,176,63.0,+5:17,,Naesen Oliver,15,IAM Cycling,",, 0:02",,,3,2016
+35,,64,118.0,+21:45,,Dumoulin Samuel,16,AG2R La Mondiale,",, 0:02",,,3,2016
+23,,203,13.0,+0:52,,Conti Valerio,17,Lampre - Merida,",, 0:02",,,3,2016
+27,,187,47.0,+2:14,,Thurau Bjorn,18,Wanty - Groupe Gobert,",, 0:02",,,3,2016
+35,,206,58.0,+3:47,,Mori Manuele,19,Lampre - Merida,",, 0:02",,,3,2016
+20,,44,54.0,+2:41,,De Plus Laurens,20,Etixx - Quick Step,",, 0:02",,,3,2016
+27,,56,8.0,+0:37,,Rosa Diego,21,Astana Pro Team,",, 0:02",,,3,2016
+32,,116,29.0,+1:20,,Pauwels Serge,22,Team Dimension Data,",, 0:02",,,3,2016
+31,,1,3.0,+0:13,,Froome Christopher,23,Team Sky,",, 0:02",,,3,2016
+25,,61,22.0,+1:12,,Bardet Romain,24,AG2R La Mondiale,",, 0:02",,,3,2016
+23,,191,28.0,+1:18,,Buchmann Emanuel,25,Bora - Argon 18,",, 0:02",,,3,2016
+28,,5,42.0,+2:03,,Poels Wout,26,Team Sky,",, 0:02",,,3,2016
+32,,53,40.0,+1:55,,Grivko Andrei,27,Astana Pro Team,",, 0:02",,,3,2016
+30,,63,52.0,+2:36,,Ch\xe9rel Micka\xebl,28,AG2R La Mondiale,",, 0:02",,,3,2016
+28,,91,20.0,+1:08,,Gallopin Tony,29,Lotto Soudal,",, 0:02",,,3,2016
+29,,41,4.0,+0:21,,Martin Daniel,30,Etixx - Quick Step,",, 0:02",,,3,2016
+23,,78,7.0,+0:31,,Yates Adam,31,Orica GreenEDGE,",, 0:02",,,3,2016
+30,,198,46.0,+2:14,,Voss Paul,32,Bora - Argon 18,",, 0:02",,,3,2016
+26,,6,106.0,+18:20,,Puccio Salvatore,33,Team Sky,",, 0:02",,,3,2016
+24,,201,14.0,+0:54,,Meintjes Louis,34,Lampre - Merida,",, 0:02",,,3,2016
+26,,161,38.0,+1:42,,Bennett George,35,Team LottoNL-Jumbo,",, 0:02",,,3,2016
+31,,11,2.0,+0:06,,Porte Richie,36,BMC Racing Team,",, 0:02",,,3,2016
+33,,87,33.0,+1:35,,Van den Broeck Jurgen,37,Team Katusha,",, 0:02",,,3,2016
+32,,12,68.0,+6:26,,Bookwalter Brent,38,BMC Racing Team,",, 0:02",,,3,2016
+33,,21,1.0,+0:00,,Contador Alberto,39,Tinkoff,",, 0:02",,,3,2016
+24,,217,89.0,+12:24,,van der Haar Lars,40,Team Giant - Alpecin,",, 0:02",,,3,2016
+23,,55,101.0,+17:24,,Lutsenko Alexey,41,Astana Pro Team,",, 0:02",,,3,2016
+34,,17,71.0,+7:39,,Moinard Ama\xebl,42,BMC Racing Team,",, 0:02",,,3,2016
+33,,111,15.0,+1:02,,Anton Igor,43,Team Dimension Data,",, 0:02",,,3,2016
+24,,204,69.0,+6:28,,Grmay Tsgabu,44,Lampre - Merida,",, 0:02",,,3,2016
+26,,105,53.0,+2:38,,Molard Rudy,45,"Cofidis, Solutions Cr\xe9dits",",, 0:02",,,3,2016
+31,,153,41.0,+2:02,,Cardoso Andr\xe9,46,Cannondale Pro Cycling Team,",, 0:02",,,3,2016
+28,,148,37.0,+1:41,,Sicard Romain,47,Direct Energie,",, 0:02",,,3,2016
+32,,97,84.0,+11:13,,Marczynski Tomasz,48,Lotto Soudal,",, 0:02",,,3,2016
+30,,16,45.0,+2:09,,Hermans Ben,49,BMC Racing Team,",, 0:02",,,3,2016
+22,,185,35.0,+1:38,,Martin Guillaume,50,Wanty - Groupe Gobert,",, 0:02",,,3,2016
+26,,197,49.0,+2:22,,Nerz Dominik,51,Bora - Argon 18,",, 0:02",,,3,2016
+25,,132,57.0,+3:30,,Fern\xe1ndez Rub\xe9n,52,Movistar Team,",, 0:02",,,3,2016
+25,,133,6.0,+0:27,,Herrada Jes\xfas,53,Movistar Team,",, 0:02",,,3,2016
+29,,93,30.0,+1:23,,De Clercq Bart,54,Lotto Soudal,",, 0:02",,,3,2016
+23,,136,36.0,+1:39,,Quintana Dayer,55,Movistar Team,",, 0:02",,,3,2016
+28,,2,21.0,+1:12,,Henao Sergio Luis,56,Team Sky,",, 0:02",,,3,2016
+28,,66,48.0,+2:19,,Gautier Cyril,57,AG2R La Mondiale,",, 0:02",,,3,2016
+29,,151,19.0,+1:06,,Rolland Pierre,58,Cannondale Pro Cycling Team,",, 0:02",,,3,2016
+32,,106,9.0,+0:43,,Navarro Daniel,59,"Cofidis, Solutions Cr\xe9dits",",, 0:02",,,3,2016
+29,,126,10.0,+0:48,,Mollema Bauke,60,Trek - Segafredo,",, 0:02",,,3,2016
+27,,134,43.0,+2:07,,Oliveira Nelson,61,Movistar Team,",, 0:02",,,3,2016
+27,,35,18.0,+1:03,,Reichenbach Sebastien,62,FDJ,",, 0:02",,,3,2016
+33,,173,31.0,+1:23,,Clement Stef,63,IAM Cycling,",, 0:02",,,3,2016
+25,,23,62.0,+4:58,,Hansen Jesper,64,Tinkoff,",, 0:02",,,3,2016
+34,,131,24.0,+1:13,,Moreno Daniel,65,Movistar Team,",, 0:02",,,3,2016
+26,,157,85.0,+11:19,,Slagter Tom-Jelte,66,Cannondale Pro Cycling Team,",, 0:02",,,3,2016
+30,,62,25.0,+1:13,,Bakelants Jan,67,AG2R La Mondiale,",, 0:02",,,3,2016
+33,,213,104.0,+18:01,,de Kort Koen,68,Team Giant - Alpecin,",, 0:02",,,3,2016
+26,,4,17.0,+1:03,,Landa Mikel,69,Team Sky,",, 0:02",,,3,2016
+28,,14,23.0,+1:13,,Caruso Damiano,70,BMC Racing Team,",, 0:02",,,3,2016
+28,,68,50.0,+2:32,,Vuillermoz Alexis,71,AG2R La Mondiale,",, 0:02",,,3,2016
+35,,121,11.0,+0:49,,Hesjedal Ryder,72,Trek - Segafredo,",, 0:02",,,3,2016
+38,,58,67.0,+6:05,,Tiralongo Paolo,73,Astana Pro Team,",, 0:02",,,3,2016
+29,,43,82.0,+11:09,,Bouet Maxime,74,Etixx - Quick Step,",, 0:02",,,3,2016
+29,,171,26.0,+1:14,,Coppel J\xe9rome,75,IAM Cycling,",, 0:02",,,3,2016
+26,,31,12.0,+0:52,,Pinot Thibaut,76,FDJ,",, 0:02",,,3,2016
+37,,81,16.0,+1:02,,Rodr\xedguez Joaquim,77,Team Katusha,",, 0:02",,,3,2016
+32,,57,32.0,+1:32,,Sanchez Luis Leon,78,Astana Pro Team,",, 0:02",,,3,2016
+33,,34,55.0,+2:43,,Morabito Steve,79,FDJ,",, 0:02",,,3,2016
+39,,128,73.0,+8:40,,Zubeldia Haimar,80,Trek - Segafredo,",, 0:02",,,3,2016
+23,,172,60.0,+4:36,,Chevrier Cl\xe9ment,81,IAM Cycling,",, 0:02",,,3,2016
+31,,145,39.0,+1:54,,Jeandesboz Fabrice,82,Direct Energie,",, 0:02",,,3,2016
+28,,193,72.0,+8:24,,Benedetti Cesare,83,Bora - Argon 18,",, 0:02",,,3,2016
+36,,71,66.0,+5:54,,Gerrans Simon,84,Orica GreenEDGE,",, 0:02",,,3,2016
+24,,196,34.0,+1:36,,Konrad Patrick,85,Bora - Argon 18,",, 0:02",,,3,2016
+31,,52,74.0,+9:26,,Cataldo Dario,86,Astana Pro Team,",, 0:02",,,3,2016
+26,,7,94.0,+14:56,,Rowe Luke,87,Team Sky,",, 0:02",,,3,2016
+26,,15,86.0,+11:27,,Dennis Rohan,88,BMC Racing Team,",, 0:02",,,3,2016
+27,,192,110.0,+19:44,,Archbold Shane,89,Bora - Argon 18,0:31 0:31,,,3,2016
+27,,76,77.0,+10:16,,Keukeleire Jens,90,Orica GreenEDGE,0:44 0:44,,,3,2016
+34,,85,61.0,+4:54,,Losada Alberto,91,Team Katusha,0:49 0:49,,,3,2016
+36,,141,65.0,+5:39,,Voeckler Thomas,92,Direct Energie,0:53 0:53,,,3,2016
+28,,175,79.0,+10:42,,Fumeaux Jonathan,93,IAM Cycling,",, 0:53",,,3,2016
+29,,24,59.0,+3:53,,Ki\u0161erlovski Robert,94,Tinkoff,1:24 1:24,,,3,2016
+30,,25,56.0,+3:21,,Kreuziger Roman,95,Tinkoff,1:27 1:27,,,3,2016
+27,,214,124.0,+23:01,,Haga Chad,96,Team Giant - Alpecin,2:28 2:28,,,3,2016
+39,,88,91.0,+13:27,,Vicioso \xc1ngel,97,Team Katusha,3:04 3:04,,,3,2016
+35,,113,64.0,+5:25,,Cummings Stephen,98,Team Dimension Data,3:06 3:06,,,3,2016
+31,,45,99.0,+16:45,,Martin Tony,99,Etixx - Quick Step,3:54 3:54,,,3,2016
+27,,96,98.0,+16:10,,Dockx Gert,100,Lotto Soudal,4:34 4:34,,,3,2016
+32,,13,97.0,+15:34,,Burghardt Marcus,101,BMC Racing Team,",, 4:34",,,3,2016
+27,,155,114.0,+21:13,,King Benjamin,102,Cannondale Pro Cycling Team,",, 4:34",,,3,2016
+23,,142,93.0,+14:45,,Calmejane Lilian,103,Direct Energie,",, 4:34",,,3,2016
+33,,104,143.0,+27:33,,Lemoine Cyril,104,"Cofidis, Solutions Cr\xe9dits",",, 4:34",,,3,2016
+28,,107,139.0,+26:41,,Soupe Geoffrey,105,"Cofidis, Solutions Cr\xe9dits",",, 4:34",,,3,2016
+25,,83,134.0,+24:33,,Haller Marco,106,Team Katusha,",, 4:34",,,3,2016
+26,,182,130.0,+23:56,,Backaert Frederik,107,Wanty - Groupe Gobert,5:43 5:43,,,3,2016
+23,,166,128.0,+23:48,,Teunissen Mike,108,Team LottoNL-Jumbo,",, 5:43",,,3,2016
+25,,114,136.0,+24:54,,Fraile Omar,109,Team Dimension Data,7:00 7:00,,,3,2016
+37,,188,119.0,+22:00,,Veuchelen Frederik,110,Wanty - Groupe Gobert,",, 7:00",,,3,2016
+26,,117,117.0,+21:42,,Reguigui Youcef,111,Team Dimension Data,",, 7:00",,,3,2016
+33,,32,108.0,+19:26,,Bonnet William,112,FDJ,",, 7:00",,,3,2016
+27,,118,111.0,+20:11,,Teklehaimanot Daniel,113,Team Dimension Data,",, 7:00",,,3,2016
+35,,195,80.0,+10:50,,Huzarski Bartosz,114,Bora - Argon 18,",, 7:00",,,3,2016
+24,,143,112.0,+20:23,,Duchesne Antoine,115,Direct Energie,",, 7:00",,,3,2016
+32,,47,135.0,+24:34,,Vandenbergh Stijn,116,Etixx - Quick Step,",, 7:00",,,3,2016
+31,,48,138.0,+26:08,,Velits Martin,117,Etixx - Quick Step,",, 7:00",,,3,2016
+36,,125,125.0,+23:28,,Irizar Markel,118,Trek - Segafredo,",, 7:00",,,3,2016
+24,,218,140.0,+26:52,,Waeytens Zico,119,Team Giant - Alpecin,",, 7:00",,,3,2016
+24,,123,102.0,+17:25,,Bernard Julien,120,Trek - Segafredo,",, 7:00",,,3,2016
+31,,77,115.0,+21:23,,Meier Christian,121,Orica GreenEDGE,",, 7:00",,,3,2016
+22,,174,137.0,+25:01,,Enger Sondre Holst,122,IAM Cycling,",, 7:00",,,3,2016
+28,,65,88.0,+12:03,,Gastauer Ben,123,AG2R La Mondiale,",, 7:00",,,3,2016
+31,,86,150.0,+29:45,,M\xf8rk\xf8v Michael,124,Team Katusha,",, 7:00",,,3,2016
+22,,98,75.0,+9:44,,Vervaeke Louis,125,Lotto Soudal,8:28 8:28,,,3,2016
+30,,184,126.0,+23:28,,Degand Thomas,126,Wanty - Groupe Gobert,8:37 8:37,,,3,2016
+28,,146,129.0,+23:51,,Nauleau Bryan,127,Direct Energie,",, 8:37",,,3,2016
+31,,33,127.0,+23:48,,Ladagnous Matthieu,128,FDJ,",, 8:37",,,3,2016
+32,,147,81.0,+11:04,,Quemeneur Perrig,129,Direct Energie,",, 8:37",,,3,2016
+28,,144,132.0,+24:18,,Hurel Tony,130,Direct Energie,",, 8:37",,,3,2016
+27,,115,78.0,+10:40,,Haas Nathan,131,Team Dimension Data,",, 8:37",,,3,2016
+27,,186,103.0,+17:33,,Minnaard Marco,132,Wanty - Groupe Gobert,",, 8:37",,,3,2016
+25,,205,152.0,+30:02,,Koshevoy Ilia,133,Lampre - Merida,",, 8:37",,,3,2016
+33,,122,149.0,+28:25,,Beppu Fumiyuki,134,Trek - Segafredo,",, 8:37",,,3,2016
+36,,212,145.0,+27:54,,Curvers Roy,135,Team Giant - Alpecin,",, 8:37",,,3,2016
+26,,3,123.0,+22:56,,Kwiatkowski Michal,136,Team Sky,",, 8:37",,,3,2016
+21,,168,109.0,+19:27,,Vermeulen Alexey,137,Team LottoNL-Jumbo,",, 8:37",,,3,2016
+32,,37,100.0,+17:06,,Roy J\xe9r\xe9my,138,FDJ,",, 8:37",,,3,2016
+29,,8,148.0,+28:08,,Stannard Ian,139,Team Sky,",, 8:37",,,3,2016
+24,,163,146.0,+28:01,,Hofland Moreno,140,Team LottoNL-Jumbo,",, 8:37",,,3,2016
+30,,54,147.0,+28:03,,Gruzdev Dmitriy,141,Astana Pro Team,",, 8:37",,,3,2016
+34,,138,113.0,+20:45,,Ventoso Francisco,142,Movistar Team,",, 8:37",,,3,2016
+23,,67,96.0,+15:22,,Gougeard Alexis,143,AG2R La Mondiale,",, 8:37",,,3,2016
+27,,216,144.0,+27:34,,Sinkeldam Ramon,144,Team Giant - Alpecin,",, 8:37",,,3,2016
+24,,135,95.0,+15:08,,Pedrero Antonio,145,Movistar Team,",, 8:37",,,3,2016
+23,,103,158.0,+33:19,,Laporte Christophe,146,"Cofidis, Solutions Cr\xe9dits",11:32 11:32,,,3,2016
+23,,74,162.0,+33:47,,Howson Damien,147,Orica GreenEDGE,",, 11:32",,,3,2016
+36,,26,168.0,+34:27,,Paulinho S\xe9rgio,148,Tinkoff,",, 11:32",,,3,2016
+25,,202,165.0,+34:03,,Cattaneo Mattia,149,Lampre - Merida,",, 11:32",,,3,2016
+34,,177,156.0,+31:31,,Saramotins Aleksejs,150,IAM Cycling,",, 11:32",,,3,2016
+24,,28,160.0,+33:26,,Valgren Michael,151,Tinkoff,",, 11:32",,,3,2016
+26,,95,151.0,+29:51,,Debusschere Jens,152,Lotto Soudal,",, 11:32",,,3,2016
+29,,94,122.0,+22:55,,De Gendt Thomas,153,Lotto Soudal,",, 11:32",,,3,2016
+25,,127,153.0,+30:11,,Theuns Edward,154,Trek - Segafredo,",, 11:32",,,3,2016
+28,,183,131.0,+24:16,,Claeys Dimitri,155,Wanty - Groupe Gobert,",, 11:32",,,3,2016
+22,,22,166.0,+34:22,,Gogl Michael,156,Tinkoff,",, 11:32",,,3,2016
+22,,73,92.0,+14:29,,Haig Jack,157,Orica GreenEDGE,",, 11:32",,,3,2016
+28,,167,155.0,+30:36,,van Winden Dennis,158,Team LottoNL-Jumbo,",, 11:32",,,3,2016
+28,,82,167.0,+34:24,,Guarnieri Jacopo,159,Team Katusha,",, 11:32",,,3,2016
+27,,215,154.0,+30:23,,Jones Carter,160,Team Giant - Alpecin,",, 11:32",,,3,2016
+31,,156,159.0,+33:23,,Langeveld Sebastian,161,Cannondale Pro Cycling Team,15:01 15:01,,,3,2016
+28,,154,142.0,+27:30,,Howes Alex,162,Cannondale Pro Cycling Team,",, 15:01",,,3,2016
+24,,162,164.0,+34:03,,Campenaerts Victor,163,Team LottoNL-Jumbo,",, 15:01",,,3,2016
+28,,164,161.0,+33:44,,Keizer Martijn,164,Team LottoNL-Jumbo,",, 15:01",,,3,2016
+22,,208,157.0,+33:00,,Zurlo Federico,165,Lampre - Merida,",, 15:01",,,3,2016
+31,,152,141.0,+27:16,,Bauer Jack,166,Cannondale Pro Cycling Team,",, 15:01",,,3,2016
+22,,137,116.0,+21:29,,Soler Marc,167,Movistar Team,",, 15:01",,,3,2016
+35,,102,171.0,+41:44,,Bozic Borut,168,"Cofidis, Solutions Cr\xe9dits",",, 15:01",,,3,2016
+24,,158,163.0,+33:48,,van Baarle Dylan,169,Cannondale Pro Cycling Team,",, 15:01",,,3,2016
+32,,46,169.0,+37:31,,Terpstra Niki,170,Etixx - Quick Step,",, 15:01",,,3,2016
+26,,108,170.0,+40:19,,Vanbilsen Kenneth,171,"Cofidis, Solutions Cr\xe9dits",",, 15:01",,,3,2016
+29,,92,172.0,+49:01,,Boeckmans Kris,172,Lotto Soudal,",, 15:01",,,3,2016
+22,,165,,+ - 13:13:10,,Lammertink Steven,DNS,Team LottoNL-Jumbo,-4:19:54 -4:19:54,,,3,2016
+29,,72,,+ - 13:13:10,,Docker Mitchell,DNS,Orica GreenEDGE,",, -4:19:54",,,3,2016
+32,,27,,+ - 13:13:10,,Trofimov Yuri,DNS,Tinkoff,",, -4:19:54",,,3,2016
+29,,112,77.0,+10:51,50.0,Boasson Hagen Edvald,1,Team Dimension Data,4:39:26 4:39:26,6.0,60.0,4,2016
+23,,42,4.0,+0:09,30.0,Alaphilippe Julian,2,Etixx - Quick Step,",, ,,",4.0,25.0,4,2016
+25,,101,117.0,+22:22,18.0,Bouhanni Nacer,3,"Cofidis, Solutions Cr\xe9dits",",, ,,",2.0,10.0,4,2016
+26,,95,150.0,+29:42,13.0,Debusschere Jens,4,Lotto Soudal,",, ,,",1.0,,4,2016
+31,,18,42.0,+1:59,10.0,Van Avermaet Greg,5,BMC Racing Team,",, ,,",1.0,,4,2016
+35,,64,113.0,+21:36,7.0,Dumoulin Samuel,6,AG2R La Mondiale,",, ,,",,,4,2016
+27,,76,74.0,+10:07,4.0,Keukeleire Jens,7,Orica GreenEDGE,",, ,,",,,4,2016
+27,,211,100.0,+18:05,3.0,Degenkolb John,8,Team Giant - Alpecin,",, ,,",,,4,2016
+25,,194,127.0,+24:21,2.0,Bennett Sam,9,Bora - Argon 18,",, ,,",,,4,2016
+22,,207,73.0,+9:52,1.0,Pibernik Luka,10,Lampre - Merida,",, ,,",,,4,2016
+25,,61,19.0,+1:03,,Bardet Romain,11,AG2R La Mondiale,",, ,,",,,4,2016
+32,,12,63.0,+6:17,,Bookwalter Brent,12,BMC Racing Team,",, ,,",,,4,2016
+22,,124,103.0,+19:05,,Bonifazio Niccolo,13,Trek - Segafredo,",, ,,",,,4,2016
+31,,1,2.0,+0:04,,Froome Christopher,14,Team Sky,",, ,,",,,4,2016
+30,,62,21.0,+1:04,,Bakelants Jan,15,AG2R La Mondiale,",, ,,",,,4,2016
+28,,5,40.0,+1:54,,Poels Wout,16,Team Sky,",, ,,",,,4,2016
+28,,14,20.0,+1:04,,Caruso Damiano,17,BMC Racing Team,",, ,,",,,4,2016
+28,,84,120.0,+22:30,,Kristoff Alexander,18,Team Katusha,",, ,,",,,4,2016
+22,,174,130.0,+24:52,,Enger Sondre Holst,19,IAM Cycling,",, ,,",,,4,2016
+29,,41,5.0,+0:12,,Martin Daniel,20,Etixx - Quick Step,",, ,,",,,4,2016
+28,,144,123.0,+24:09,,Hurel Tony,21,Direct Energie,",, ,,",,,4,2016
+34,,131,24.0,+1:11,,Moreno Daniel,22,Movistar Team,0:07 0:07,,,4,2016
+27,,56,8.0,+0:35,,Rosa Diego,23,Astana Pro Team,",, 0:07",,,4,2016
+28,,91,23.0,+1:08,,Gallopin Tony,24,Lotto Soudal,0:09 0:09,,,4,2016
+32,,53,41.0,+1:55,,Grivko Andrei,25,Astana Pro Team,",, 0:09",,,4,2016
+28,,2,25.0,+1:12,,Henao Sergio Luis,26,Team Sky,",, 0:09",,,4,2016
+25,,132,56.0,+3:30,,Fern\xe1ndez Rub\xe9n,27,Movistar Team,",, 0:09",,,4,2016
+29,,171,26.0,+1:14,,Coppel J\xe9rome,28,IAM Cycling,",, 0:09",,,4,2016
+33,,21,1.0,+0:00,,Contador Alberto,29,Tinkoff,",, 0:09",,,4,2016
+32,,57,32.0,+1:32,,Sanchez Luis Leon,30,Astana Pro Team,",, 0:09",,,4,2016
+31,,11,3.0,+0:06,,Porte Richie,31,BMC Racing Team,",, 0:09",,,4,2016
+23,,78,7.0,+0:31,,Yates Adam,32,Orica GreenEDGE,",, 0:09",,,4,2016
+27,,38,49.0,+2:36,,Vichot Arthur,33,FDJ,",, 0:09",,,4,2016
+24,,201,14.0,+0:54,,Meintjes Louis,34,Lampre - Merida,",, 0:09",,,4,2016
+26,,31,12.0,+0:52,,Pinot Thibaut,35,FDJ,",, 0:09",,,4,2016
+34,,181,68.0,+7:26,,Gasparotto Enrico,36,Wanty - Groupe Gobert,",, 0:09",,,4,2016
+27,,115,76.0,+10:40,,Haas Nathan,37,Team Dimension Data,",, 0:09",,,4,2016
+27,,187,46.0,+2:14,,Thurau Bjorn,38,Wanty - Groupe Gobert,",, 0:09",,,4,2016
+32,,116,29.0,+1:20,,Pauwels Serge,39,Team Dimension Data,",, 0:09",,,4,2016
+25,,133,6.0,+0:27,,Herrada Jes\xfas,40,Movistar Team,",, 0:09",,,4,2016
+30,,63,50.0,+2:36,,Ch\xe9rel Micka\xebl,41,AG2R La Mondiale,",, 0:09",,,4,2016
+26,,197,47.0,+2:22,,Nerz Dominik,42,Bora - Argon 18,",, 0:09",,,4,2016
+25,,51,27.0,+1:15,,Aru Fabio,43,Astana Pro Team,",, 0:09",,,4,2016
+29,,126,10.0,+0:48,,Mollema Bauke,44,Trek - Segafredo,",, 0:09",,,4,2016
+31,,153,43.0,+2:02,,Cardoso Andr\xe9,45,Cannondale Pro Cycling Team,",, 0:09",,,4,2016
+28,,154,141.0,+27:30,,Howes Alex,46,Cannondale Pro Cycling Team,",, 0:09",,,4,2016
+29,,151,22.0,+1:06,,Rolland Pierre,47,Cannondale Pro Cycling Team,",, 0:09",,,4,2016
+23,,203,13.0,+0:52,,Conti Valerio,48,Lampre - Merida,",, 0:09",,,4,2016
+29,,36,82.0,+11:53,,Roux Anthony,49,FDJ,",, 0:09",,,4,2016
+27,,35,18.0,+1:03,,Reichenbach Sebastien,50,FDJ,",, 0:09",,,4,2016
+29,,93,30.0,+1:23,,De Clercq Bart,51,Lotto Soudal,",, 0:09",,,4,2016
+23,,191,28.0,+1:18,,Buchmann Emanuel,52,Bora - Argon 18,",, 0:09",,,4,2016
+31,,152,139.0,+27:16,,Bauer Jack,53,Cannondale Pro Cycling Team,",, 0:09",,,4,2016
+23,,185,35.0,+1:38,,Martin Guillaume,54,Wanty - Groupe Gobert,",, 0:09",,,4,2016
+26,,161,38.0,+1:42,,Bennett George,55,Team LottoNL-Jumbo,",, 0:09",,,4,2016
+28,,148,37.0,+1:41,,Sicard Romain,56,Direct Energie,",, 0:09",,,4,2016
+23,,103,153.0,+33:19,,Laporte Christophe,57,"Cofidis, Solutions Cr\xe9dits",",, 0:09",,,4,2016
+32,,106,9.0,+0:43,,Navarro Daniel,58,"Cofidis, Solutions Cr\xe9dits",",, 0:09",,,4,2016
+30,,16,45.0,+2:09,,Hermans Ben,59,BMC Racing Team,",, 0:09",,,4,2016
+33,,173,31.0,+1:23,,Clement Stef,60,IAM Cycling,",, 0:09",,,4,2016
+27,,134,44.0,+2:07,,Oliveira Nelson,61,Movistar Team,",, 0:09",,,4,2016
+36,,125,121.0,+23:28,,Irizar Markel,62,Trek - Segafredo,",, 0:09",,,4,2016
+35,,121,11.0,+0:49,,Hesjedal Ryder,63,Trek - Segafredo,",, 0:09",,,4,2016
+26,,4,17.0,+1:03,,Landa Mikel,64,Team Sky,",, 0:09",,,4,2016
+23,,172,60.0,+4:36,,Chevrier Cl\xe9ment,65,IAM Cycling,",, 0:09",,,4,2016
+28,,68,48.0,+2:32,,Vuillermoz Alexis,66,AG2R La Mondiale,",, 0:09",,,4,2016
+26,,117,115.0,+21:42,,Reguigui Youcef,67,Team Dimension Data,",, 0:09",,,4,2016
+20,,44,52.0,+2:41,,De Plus Laurens,68,Etixx - Quick Step,",, 0:09",,,4,2016
+26,,182,122.0,+23:56,,Backaert Frederik,69,Wanty - Groupe Gobert,",, 0:09",,,4,2016
+31,,145,39.0,+1:54,,Jeandesboz Fabrice,70,Direct Energie,",, 0:09",,,4,2016
+34,,85,61.0,+4:54,,Losada Alberto,71,Team Katusha,",, 0:09",,,4,2016
+33,,87,33.0,+1:35,,Van den Broeck Jurgen,72,Team Katusha,",, 0:09",,,4,2016
+23,,136,36.0,+1:39,,Quintana Dayer,73,Movistar Team,",, 0:09",,,4,2016
+37,,81,16.0,+1:02,,Rodr\xedguez Joaquim,74,Team Katusha,",, 0:09",,,4,2016
+24,,196,34.0,+1:36,,Konrad Patrick,75,Bora - Argon 18,",, 0:09",,,4,2016
+25,,127,152.0,+30:11,,Theuns Edward,76,Trek - Segafredo,",, 0:09",,,4,2016
+39,,128,70.0,+8:40,,Zubeldia Haimar,77,Trek - Segafredo,",, 0:09",,,4,2016
+33,,111,15.0,+1:02,,Anton Igor,78,Team Dimension Data,",, 0:09",,,4,2016
+32,,47,128.0,+24:34,,Vandenbergh Stijn,79,Etixx - Quick Step,",, 0:09",,,4,2016
+27,,216,142.0,+27:34,,Sinkeldam Ramon,80,Team Giant - Alpecin,",, 0:09",,,4,2016
+24,,204,65.0,+6:28,,Grmay Tsgabu,81,Lampre - Merida,",, 0:09",,,4,2016
+28,,107,134.0,+26:41,,Soupe Geoffrey,82,"Cofidis, Solutions Cr\xe9dits",",, 0:09",,,4,2016
+27,,186,96.0,+17:33,,Minnaard Marco,83,Wanty - Groupe Gobert,",, 0:09",,,4,2016
+33,,122,143.0,+28:25,,Beppu Fumiyuki,84,Trek - Segafredo,",, 0:09",,,4,2016
+28,,66,51.0,+2:41,,Gautier Cyril,85,AG2R La Mondiale,0:31 0:31,,,4,2016
+33,,32,105.0,+19:50,,Bonnet William,86,FDJ,0:33 0:33,,,4,2016
+30,,25,57.0,+3:45,,Kreuziger Roman,87,Tinkoff,",, 0:33",,,4,2016
+25,,176,62.0,+5:41,,Naesen Oliver,88,IAM Cycling,",, 0:33",,,4,2016
+31,,33,125.0,+24:12,,Ladagnous Matthieu,89,FDJ,",, 0:33",,,4,2016
+24,,28,155.0,+33:50,,Valgren Michael,90,Tinkoff,",, 0:33",,,4,2016
+34,,138,110.0,+21:09,,Ventoso Francisco,91,Movistar Team,",, 0:33",,,4,2016
+27,,155,114.0,+21:37,,King Benjamin,92,Cannondale Pro Cycling Team,",, 0:33",,,4,2016
+29,,24,58.0,+4:17,,Ki\u0161erlovski Robert,93,Tinkoff,",, 0:33",,,4,2016
+31,,86,151.0,+30:09,,M\xf8rk\xf8v Michael,94,Team Katusha,",, 0:33",,,4,2016
+32,,97,80.0,+11:37,,Marczynski Tomasz,95,Lotto Soudal,",, 0:33",,,4,2016
+22,,73,90.0,+14:53,,Haig Jack,96,Orica GreenEDGE,",, 0:33",,,4,2016
+21,,168,106.0,+19:58,,Vermeulen Alexey,97,Team LottoNL-Jumbo,0:40 0:40,,,4,2016
+32,,37,97.0,+17:37,,Roy J\xe9r\xe9my,98,FDJ,",, 0:40",,,4,2016
+24,,123,98.0,+17:56,,Bernard Julien,99,Trek - Segafredo,",, 0:40",,,4,2016
+23,,142,91.0,+15:16,,Calmejane Lilian,100,Direct Energie,",, 0:40",,,4,2016
+28,,175,78.0,+11:13,,Fumeaux Jonathan,101,IAM Cycling,",, 0:40",,,4,2016
+36,,71,64.0,+6:25,,Gerrans Simon,102,Orica GreenEDGE,",, 0:40",,,4,2016
+38,,58,66.0,+6:36,,Tiralongo Paolo,103,Astana Pro Team,",, 0:40",,,4,2016
+33,,34,54.0,+3:14,,Morabito Steve,104,FDJ,",, 0:40",,,4,2016
+35,,206,59.0,+4:18,,Mori Manuele,105,Lampre - Merida,",, 0:40",,,4,2016
+31,,48,135.0,+26:44,,Velits Martin,106,Etixx - Quick Step,0:45 0:45,,,4,2016
+32,,147,81.0,+11:40,,Quemeneur Perrig,107,Direct Energie,",, 0:45",,,4,2016
+28,,65,84.0,+12:39,,Gastauer Ben,108,AG2R La Mondiale,",, 0:45",,,4,2016
+28,,183,131.0,+24:52,,Claeys Dimitri,109,Wanty - Groupe Gobert,",, 0:45",,,4,2016
+26,,105,55.0,+3:14,,Molard Rudy,110,"Cofidis, Solutions Cr\xe9dits",",, 0:45",,,4,2016
+35,,195,79.0,+11:26,,Huzarski Bartosz,111,Bora - Argon 18,",, 0:45",,,4,2016
+27,,118,109.0,+20:47,,Teklehaimanot Daniel,112,Team Dimension Data,",, 0:45",,,4,2016
+26,,157,83.0,+12:00,,Slagter Tom-Jelte,113,Cannondale Pro Cycling Team,0:50 0:50,,,4,2016
+25,,114,132.0,+25:35,,Fraile Omar,114,Team Dimension Data,",, 0:50",,,4,2016
+31,,52,75.0,+10:07,,Cataldo Dario,115,Astana Pro Team,",, 0:50",,,4,2016
+30,,184,124.0,+24:09,,Degand Thomas,116,Wanty - Groupe Gobert,",, 0:50",,,4,2016
+33,,213,102.0,+18:44,,de Kort Koen,117,Team Giant - Alpecin,0:52 0:52,,,4,2016
+36,,212,144.0,+28:37,,Curvers Roy,118,Team Giant - Alpecin,",, 0:52",,,4,2016
+29,,8,145.0,+28:51,,Stannard Ian,119,Team Sky,",, 0:52",,,4,2016
+26,,7,93.0,+15:44,,Rowe Luke,120,Team Sky,0:57 0:57,,,4,2016
+30,,198,53.0,+3:02,,Voss Paul,121,Bora - Argon 18,",, 0:57",,,4,2016
+22,,137,118.0,+22:25,,Soler Marc,122,Movistar Team,1:05 1:05,,,4,2016
+23,,166,129.0,+24:49,,Teunissen Mike,123,Team LottoNL-Jumbo,1:10 1:10,,,4,2016
+24,,163,147.0,+29:02,,Hofland Moreno,124,Team LottoNL-Jumbo,",, 1:10",,,4,2016
+31,,77,119.0,+22:26,,Meier Christian,125,Orica GreenEDGE,1:12 1:12,,,4,2016
+31,,75,87.0,+13:28,,Impey Daryl,126,Orica GreenEDGE,",, 1:12",,,4,2016
+28,,82,160.0,+35:27,,Guarnieri Jacopo,127,Team Katusha,",, 1:12",,,4,2016
+31,,156,157.0,+34:34,,Langeveld Sebastian,128,Cannondale Pro Cycling Team,1:20 1:20,,,4,2016
+24,,158,159.0,+34:59,,van Baarle Dylan,129,Cannondale Pro Cycling Team,",, 1:20",,,4,2016
+30,,54,149.0,+29:18,,Gruzdev Dmitriy,130,Astana Pro Team,1:24 1:24,,,4,2016
+23,,55,101.0,+18:39,,Lutsenko Alexey,131,Astana Pro Team,",, 1:24",,,4,2016
+36,,141,67.0,+6:54,,Voeckler Thomas,132,Direct Energie,",, 1:24",,,4,2016
+36,,26,161.0,+35:42,,Paulinho S\xe9rgio,133,Tinkoff,",, 1:24",,,4,2016
+24,,143,116.0,+21:44,,Duchesne Antoine,134,Direct Energie,1:30 1:30,,,4,2016
+33,,104,146.0,+29:00,,Lemoine Cyril,135,"Cofidis, Solutions Cr\xe9dits",1:36 1:36,,,4,2016
+22,,22,162.0,+35:49,,Gogl Michael,136,Tinkoff,",, 1:36",,,4,2016
+32,,13,95.0,+17:08,,Burghardt Marcus,137,BMC Racing Team,1:43 1:43,,,4,2016
+34,,17,71.0,+9:13,,Moinard Ama\xebl,138,BMC Racing Team,",, 1:43",,,4,2016
+27,,192,111.0,+21:20,,Archbold Shane,139,Bora - Argon 18,1:45 1:45,,,4,2016
+29,,43,85.0,+12:45,,Bouet Maxime,140,Etixx - Quick Step,",, 1:45",,,4,2016
+24,,218,148.0,+29:03,,Waeytens Zico,141,Team Giant - Alpecin,2:20 2:20,,,4,2016
+37,,188,126.0,+24:13,,Veuchelen Frederik,142,Wanty - Groupe Gobert,2:22 2:22,,,4,2016
+26,,15,88.0,+13:42,,Dennis Rohan,143,BMC Racing Team,2:24 2:24,,,4,2016
+32,,46,167.0,+40:05,,Terpstra Niki,144,Etixx - Quick Step,2:43 2:43,,,4,2016
+25,,83,138.0,+27:08,,Haller Marco,145,Team Katusha,2:44 2:44,,,4,2016
+35,,113,69.0,+8:02,,Cummings Stephen,146,Team Dimension Data,2:46 2:46,,,4,2016
+24,,162,165.0,+36:40,,Campenaerts Victor,147,Team LottoNL-Jumbo,",, 2:46",,,4,2016
+28,,167,154.0,+33:19,,van Winden Dennis,148,Team LottoNL-Jumbo,2:52 2:52,,,4,2016
+28,,164,164.0,+36:36,,Keizer Martijn,149,Team LottoNL-Jumbo,3:01 3:01,,,4,2016
+28,,146,137.0,+26:59,,Nauleau Bryan,150,Direct Energie,3:17 3:17,,,4,2016
+26,,6,112.0,+21:35,,Puccio Salvatore,151,Team Sky,3:24 3:24,,,4,2016
+25,,202,166.0,+37:18,,Cattaneo Mattia,152,Lampre - Merida,",, 3:24",,,4,2016
+27,,214,133.0,+26:16,,Haga Chad,153,Team Giant - Alpecin,",, 3:24",,,4,2016
+22,,208,163.0,+36:15,,Zurlo Federico,154,Lampre - Merida,",, 3:24",,,4,2016
+31,,45,107.0,+20:00,,Martin Tony,155,Etixx - Quick Step,",, 3:24",,,4,2016
+23,,67,92.0,+15:22,,Gougeard Alexis,156,AG2R La Mondiale,0:09 0:09,,,4,2016
+24,,217,94.0,+15:48,,van der Haar Lars,157,Team Giant - Alpecin,3:33 3:33,,,4,2016
+26,,3,136.0,+26:46,,Kwiatkowski Michal,158,Team Sky,3:59 3:59,,,4,2016
+29,,94,140.0,+27:21,,De Gendt Thomas,159,Lotto Soudal,4:35 4:35,,,4,2016
+27,,96,108.0,+20:36,,Dockx Gert,160,Lotto Soudal,",, 4:35",,,4,2016
+27,,215,158.0,+34:49,,Jones Carter,161,Team Giant - Alpecin,",, 4:35",,,4,2016
+25,,23,72.0,+9:24,,Hansen Jesper,162,Tinkoff,",, 4:35",,,4,2016
+25,,205,156.0,+34:28,,Koshevoy Ilia,163,Lampre - Merida,",, 4:35",,,4,2016
+39,,88,99.0,+17:57,,Vicioso \xc1ngel,164,Team Katusha,4:39 4:39,,,4,2016
+24,,135,104.0,+19:38,,Pedrero Antonio,165,Movistar Team,",, 4:39",,,4,2016
+22,,98,89.0,+14:14,,Vervaeke Louis,166,Lotto Soudal,",, 4:39",,,4,2016
+28,,193,86.0,+12:57,,Benedetti Cesare,167,Bora - Argon 18,4:42 4:42,,,4,2016
+26,,108,170.0,+45:04,,Vanbilsen Kenneth,168,"Cofidis, Solutions Cr\xe9dits",4:54 4:54,,,4,2016
+35,,102,169.0,+41:44,,Bozic Borut,169,"Cofidis, Solutions Cr\xe9dits",0:09 0:09,,,4,2016
+29,,92,171.0,+53:46,,Boeckmans Kris,170,Lotto Soudal,4:54 4:54,,,4,2016
+34,,177,168.0,+40:20,,Saramotins Aleksejs,171,IAM Cycling,8:58 8:58,,,4,2016
+23,,74,,+ - 17:52:45,,Howson Damien,DNS,Orica GreenEDGE,-4:39:26 -4:39:26,,,4,2016
+31,,1,1.0,+0:00,50.0,Froome Christopher,1,Team Sky,3:32:20 3:32:20,6.0,60.0,5,2016
+31,,11,2.0,+0:07,30.0,Porte Richie,2,BMC Racing Team,0:01 0:01,4.0,25.0,5,2016
+23,,78,6.0,+0:52,18.0,Yates Adam,3,Orica GreenEDGE,0:19 0:19,2.0,10.0,5,2016
+29,,41,4.0,+0:37,13.0,Martin Daniel,4,Etixx - Quick Step,",, 0:19",1.0,,5,2016
+33,,21,3.0,+0:27,10.0,Contador Alberto,5,Tinkoff,0:21 0:21,1.0,,5,2016
+25,,61,11.0,+1:34,7.0,Bardet Romain,6,AG2R La Mondiale,0:25 0:25,,,5,2016
+29,,151,13.0,+1:39,4.0,Rolland Pierre,7,Cannondale Pro Cycling Team,0:27 0:27,,,5,2016
+29,,126,9.0,+1:21,3.0,Mollema Bauke,8,Trek - Segafredo,",, 0:27",,,5,2016
+24,,201,10.0,+1:27,2.0,Meintjes Louis,9,Lampre - Merida,",, 0:27",,,5,2016
+23,,42,5.0,+0:42,1.0,Alaphilippe Julian,10,Etixx - Quick Step,",, 0:27",,,5,2016
+27,,56,7.0,+1:08,,Rosa Diego,11,Astana Pro Team,",, 0:27",,,5,2016
+37,,81,12.0,+1:35,,Rodr\xedguez Joaquim,12,Team Katusha,",, 0:27",,,5,2016
+32,,106,8.0,+1:16,,Navarro Daniel,13,"Cofidis, Solutions Cr\xe9dits",",, 0:27",,,5,2016
+26,,4,14.0,+1:40,,Landa Mikel,14,Team Sky,0:31 0:31,,,5,2016
+23,,203,16.0,+2:05,,Conti Valerio,15,Lampre - Merida,1:07 1:07,,,5,2016
+28,,14,17.0,+2:17,,Caruso Damiano,16,BMC Racing Team,",, 1:07",,,5,2016
+23,,191,19.0,+2:33,,Buchmann Emanuel,17,Bora - Argon 18,1:09 1:09,,,5,2016
+33,,173,20.0,+2:38,,Clement Stef,18,IAM Cycling,",, 1:09",,,5,2016
+28,,2,18.0,+2:30,,Henao Sergio Luis,19,Team Sky,1:12 1:12,,,5,2016
+22,,73,69.0,+16:22,,Haig Jack,20,Orica GreenEDGE,1:23 1:23,,,5,2016
+25,,133,15.0,+1:56,,Herrada Jes\xfas,21,Movistar Team,",, 1:23",,,5,2016
+32,,116,22.0,+2:54,,Pauwels Serge,22,Team Dimension Data,1:28 1:28,,,5,2016
+20,,44,35.0,+4:15,,De Plus Laurens,23,Etixx - Quick Step,",, 1:28",,,5,2016
+29,,93,24.0,+3:05,,De Clercq Bart,24,Lotto Soudal,1:36 1:36,,,5,2016
+30,,62,21.0,+2:49,,Bakelants Jan,25,AG2R La Mondiale,1:39 1:39,,,5,2016
+26,,161,30.0,+3:36,,Bennett George,26,Team LottoNL-Jumbo,1:48 1:48,,,5,2016
+33,,111,23.0,+2:56,,Anton Igor,27,Team Dimension Data,",, 1:48",,,5,2016
+23,,185,28.0,+3:32,,Martin Guillaume,28,Wanty - Groupe Gobert,",, 1:48",,,5,2016
+27,,155,87.0,+23:31,,King Benjamin,29,Cannondale Pro Cycling Team,",, 1:48",,,5,2016
+34,,131,25.0,+3:05,,Moreno Daniel,30,Movistar Team,",, 1:48",,,5,2016
+34,,181,49.0,+9:25,,Gasparotto Enrico,31,Wanty - Groupe Gobert,1:53 1:53,,,5,2016
+28,,148,32.0,+3:43,,Sicard Romain,32,Direct Energie,1:56 1:56,,,5,2016
+32,,57,29.0,+3:35,,Sanchez Luis Leon,33,Astana Pro Team,1:57 1:57,,,5,2016
+31,,52,57.0,+12:10,,Cataldo Dario,34,Astana Pro Team,",, 1:57",,,5,2016
+25,,51,26.0,+3:18,,Aru Fabio,35,Astana Pro Team,",, 1:57",,,5,2016
+23,,136,31.0,+3:42,,Quintana Dayer,36,Movistar Team,",, 1:57",,,5,2016
+30,,16,34.0,+4:12,,Hermans Ben,37,BMC Racing Team,",, 1:57",,,5,2016
+30,,25,40.0,+5:48,,Kreuziger Roman,38,Tinkoff,",, 1:57",,,5,2016
+28,,5,33.0,+3:57,,Poels Wout,39,Team Sky,",, 1:57",,,5,2016
+26,,31,27.0,+3:29,,Pinot Thibaut,40,FDJ,2:31 2:31,,,5,2016
+27,,187,37.0,+4:56,,Thurau Bjorn,41,Wanty - Groupe Gobert,2:36 2:36,,,5,2016
+32,,53,38.0,+5:21,,Grivko Andrei,42,Astana Pro Team,3:20 3:20,,,5,2016
+30,,63,41.0,+6:02,,Ch\xe9rel Micka\xebl,43,AG2R La Mondiale,",, 3:20",,,5,2016
+28,,66,42.0,+6:07,,Gautier Cyril,44,AG2R La Mondiale,",, 3:20",,,5,2016
+31,,153,39.0,+5:28,,Cardoso Andr\xe9,45,Cannondale Pro Cycling Team,",, 3:20",,,5,2016
+27,,35,36.0,+4:29,,Reichenbach Sebastien,46,FDJ,",, 3:20",,,5,2016
+31,,145,43.0,+6:15,,Jeandesboz Fabrice,47,Direct Energie,4:15 4:15,,,5,2016
+32,,37,82.0,+22:02,,Roy J\xe9r\xe9my,48,FDJ,4:19 4:19,,,5,2016
+33,,87,44.0,+6:59,,Van den Broeck Jurgen,49,Team Katusha,5:18 5:18,,,5,2016
+29,,24,50.0,+9:49,,Ki\u0161erlovski Robert,50,Tinkoff,5:26 5:26,,,5,2016
+39,,128,62.0,+14:28,,Zubeldia Haimar,51,Trek - Segafredo,5:42 5:42,,,5,2016
+23,,172,53.0,+10:24,,Chevrier Cl\xe9ment,52,IAM Cycling,",, 5:42",,,5,2016
+33,,34,47.0,+9:02,,Morabito Steve,53,FDJ,",, 5:42",,,5,2016
+27,,134,45.0,+7:55,,Oliveira Nelson,54,Movistar Team,",, 5:42",,,5,2016
+25,,23,65.0,+15:12,,Hansen Jesper,55,Tinkoff,",, 5:42",,,5,2016
+24,,196,46.0,+8:23,,Konrad Patrick,56,Bora - Argon 18,6:41 6:41,,,5,2016
+34,,17,68.0,+16:13,,Moinard Ama\xebl,57,BMC Racing Team,6:54 6:54,,,5,2016
+29,,112,72.0,+18:39,,Boasson Hagen Edvald,58,Team Dimension Data,7:42 7:42,,,5,2016
+35,,195,74.0,+19:14,,Huzarski Bartosz,59,Bora - Argon 18,",, 7:42",,,5,2016
+28,,68,54.0,+10:36,,Vuillermoz Alexis,60,AG2R La Mondiale,7:58 7:58,,,5,2016
+29,,171,48.0,+9:18,,Coppel J\xe9rome,61,IAM Cycling,",, 7:58",,,5,2016
+28,,65,77.0,+20:43,,Gastauer Ben,62,AG2R La Mondiale,",, 7:58",,,5,2016
+24,,218,117.0,+37:07,,Waeytens Zico,63,Team Giant - Alpecin,",, 7:58",,,5,2016
+33,,213,92.0,+26:48,,de Kort Koen,64,Team Giant - Alpecin,",, 7:58",,,5,2016
+38,,58,63.0,+14:40,,Tiralongo Paolo,65,Astana Pro Team,",, 7:58",,,5,2016
+34,,85,58.0,+12:58,,Losada Alberto,66,Team Katusha,",, 7:58",,,5,2016
+32,,13,89.0,+25:16,,Burghardt Marcus,67,BMC Racing Team,8:02 8:02,,,5,2016
+31,,45,95.0,+28:08,,Martin Tony,68,Etixx - Quick Step,",, 8:02",,,5,2016
+25,,176,64.0,+14:44,,Naesen Oliver,69,IAM Cycling,8:57 8:57,,,5,2016
+31,,18,55.0,+11:02,,Van Avermaet Greg,70,BMC Racing Team,",, 8:57",,,5,2016
+29,,43,79.0,+21:48,,Bouet Maxime,71,Etixx - Quick Step,",, 8:57",,,5,2016
+29,,94,111.0,+36:24,,De Gendt Thomas,72,Lotto Soudal,",, 8:57",,,5,2016
+24,,162,134.0,+45:43,,Campenaerts Victor,73,Team LottoNL-Jumbo,",, 8:57",,,5,2016
+35,,206,60.0,+13:21,,Mori Manuele,74,Lampre - Merida,",, 8:57",,,5,2016
+36,,71,67.0,+15:28,,Gerrans Simon,75,Orica GreenEDGE,",, 8:57",,,5,2016
+31,,75,84.0,+22:31,,Impey Daryl,76,Orica GreenEDGE,",, 8:57",,,5,2016
+35,,64,98.0,+30:39,,Dumoulin Samuel,77,AG2R La Mondiale,",, 8:57",,,5,2016
+32,,12,66.0,+15:20,,Bookwalter Brent,78,BMC Racing Team,",, 8:57",,,5,2016
+28,,154,114.0,+36:33,,Howes Alex,79,Cannondale Pro Cycling Team,",, 8:57",,,5,2016
+28,,91,52.0,+10:11,,Gallopin Tony,80,Lotto Soudal,",, 8:57",,,5,2016
+24,,123,93.0,+26:59,,Bernard Julien,81,Trek - Segafredo,",, 8:57",,,5,2016
+27,,96,96.0,+29:39,,Dockx Gert,82,Lotto Soudal,",, 8:57",,,5,2016
+27,,38,56.0,+11:39,,Vichot Arthur,83,FDJ,",, 8:57",,,5,2016
+35,,121,51.0,+10:04,,Hesjedal Ryder,84,Trek - Segafredo,9:09 9:09,,,5,2016
+23,,55,94.0,+27:54,,Lutsenko Alexey,85,Astana Pro Team,",, 9:09",,,5,2016
+22,,207,75.0,+20:09,,Pibernik Luka,86,Lampre - Merida,10:11 10:11,,,5,2016
+37,,188,107.0,+34:30,,Veuchelen Frederik,87,Wanty - Groupe Gobert,",, 10:11",,,5,2016
+35,,113,71.0,+18:19,,Cummings Stephen,88,Team Dimension Data,",, 10:11",,,5,2016
+26,,7,91.0,+26:01,,Rowe Luke,89,Team Sky,",, 10:11",,,5,2016
+29,,8,121.0,+39:08,,Stannard Ian,90,Team Sky,",, 10:11",,,5,2016
+26,,157,83.0,+22:17,,Slagter Tom-Jelte,91,Cannondale Pro Cycling Team,",, 10:11",,,5,2016
+26,,6,101.0,+31:52,,Puccio Salvatore,92,Team Sky,",, 10:11",,,5,2016
+32,,47,108.0,+34:51,,Vandenbergh Stijn,93,Etixx - Quick Step,",, 10:11",,,5,2016
+28,,164,136.0,+46:53,,Keizer Martijn,94,Team LottoNL-Jumbo,",, 10:11",,,5,2016
+24,,158,133.0,+45:16,,van Baarle Dylan,95,Cannondale Pro Cycling Team,",, 10:11",,,5,2016
+27,,76,76.0,+20:24,,Keukeleire Jens,96,Orica GreenEDGE,",, 10:11",,,5,2016
+24,,204,70.0,+16:45,,Grmay Tsgabu,97,Lampre - Merida,",, 10:11",,,5,2016
+27,,115,78.0,+20:57,,Haas Nathan,98,Team Dimension Data,",, 10:11",,,5,2016
+28,,193,86.0,+23:14,,Benedetti Cesare,99,Bora - Argon 18,",, 10:11",,,5,2016
+26,,182,106.0,+34:13,,Backaert Frederik,100,Wanty - Groupe Gobert,",, 10:11",,,5,2016
+30,,198,59.0,+13:19,,Voss Paul,101,Bora - Argon 18,",, 10:11",,,5,2016
+32,,147,81.0,+21:57,,Quemeneur Perrig,102,Direct Energie,",, 10:11",,,5,2016
+31,,77,103.0,+32:43,,Meier Christian,103,Orica GreenEDGE,",, 10:11",,,5,2016
+32,,97,80.0,+21:54,,Marczynski Tomasz,104,Lotto Soudal,",, 10:11",,,5,2016
+34,,138,99.0,+31:26,,Ventoso Francisco,105,Movistar Team,",, 10:11",,,5,2016
+26,,105,61.0,+13:31,,Molard Rudy,106,"Cofidis, Solutions Cr\xe9dits",",, 10:11",,,5,2016
+22,,137,105.0,+33:13,,Soler Marc,107,Movistar Team,10:42 10:42,,,5,2016
+24,,135,97.0,+30:30,,Pedrero Antonio,108,Movistar Team,10:46 10:46,,,5,2016
+26,,15,90.0,+25:49,,Dennis Rohan,109,BMC Racing Team,12:01 12:01,,,5,2016
+29,,36,88.0,+24:00,,Roux Anthony,110,FDJ,",, 12:01",,,5,2016
+36,,141,73.0,+19:03,,Voeckler Thomas,111,Direct Energie,12:03 12:03,,,5,2016
+28,,144,113.0,+36:29,,Hurel Tony,112,Direct Energie,12:14 12:14,,,5,2016
+27,,118,104.0,+33:07,,Teklehaimanot Daniel,113,Team Dimension Data,",, 12:14",,,5,2016
+31,,33,115.0,+36:34,,Ladagnous Matthieu,114,FDJ,12:16 12:16,,,5,2016
+33,,32,102.0,+32:12,,Bonnet William,115,FDJ,",, 12:16",,,5,2016
+33,,104,125.0,+41:22,,Lemoine Cyril,116,"Cofidis, Solutions Cr\xe9dits",",, 12:16",,,5,2016
+28,,183,118.0,+37:34,,Claeys Dimitri,117,Wanty - Groupe Gobert,12:36 12:36,,,5,2016
+24,,28,135.0,+46:35,,Valgren Michael,118,Tinkoff,12:39 12:39,,,5,2016
+25,,114,122.0,+39:46,,Fraile Omar,119,Team Dimension Data,14:05 14:05,,,5,2016
+22,,174,123.0,+40:18,,Enger Sondre Holst,120,IAM Cycling,15:20 15:20,,,5,2016
+36,,26,146.0,+51:56,,Paulinho S\xe9rgio,121,Tinkoff,16:08 16:08,,,5,2016
+22,,22,147.0,+52:03,,Gogl Michael,122,Tinkoff,",, 16:08",,,5,2016
+39,,88,116.0,+36:46,,Vicioso \xc1ngel,123,Team Katusha,18:43 18:43,,,5,2016
+24,,217,112.0,+36:26,,van der Haar Lars,124,Team Giant - Alpecin,20:32 20:32,,,5,2016
+25,,127,145.0,+50:49,,Theuns Edward,125,Trek - Segafredo,",, 20:32",,,5,2016
+27,,186,119.0,+38:11,,Minnaard Marco,126,Wanty - Groupe Gobert,",, 20:32",,,5,2016
+25,,202,155.0,+57:56,,Cattaneo Mattia,127,Lampre - Merida,",, 20:32",,,5,2016
+36,,125,130.0,+44:06,,Irizar Markel,128,Trek - Segafredo,",, 20:32",,,5,2016
+28,,175,100.0,+31:51,,Fumeaux Jonathan,129,IAM Cycling,",, 20:32",,,5,2016
+21,,168,124.0,+40:36,,Vermeulen Alexey,130,Team LottoNL-Jumbo,",, 20:32",,,5,2016
+31,,48,137.0,+47:22,,Velits Martin,131,Etixx - Quick Step,",, 20:32",,,5,2016
+27,,215,151.0,+55:27,,Jones Carter,132,Team Giant - Alpecin,",, 20:32",,,5,2016
+24,,163,142.0,+49:40,,Hofland Moreno,133,Team LottoNL-Jumbo,",, 20:32",,,5,2016
+24,,143,128.0,+42:22,,Duchesne Antoine,134,Direct Energie,",, 20:32",,,5,2016
+36,,212,141.0,+49:15,,Curvers Roy,135,Team Giant - Alpecin,",, 20:32",,,5,2016
+22,,208,154.0,+56:53,,Zurlo Federico,136,Lampre - Merida,",, 20:32",,,5,2016
+23,,142,110.0,+35:54,,Calmejane Lilian,137,Direct Energie,",, 20:32",,,5,2016
+28,,146,138.0,+47:37,,Nauleau Bryan,138,Direct Energie,",, 20:32",,,5,2016
+26,,117,127.0,+42:20,,Reguigui Youcef,139,Team Dimension Data,",, 20:32",,,5,2016
+30,,184,131.0,+44:47,,Degand Thomas,140,Wanty - Groupe Gobert,",, 20:32",,,5,2016
+26,,197,85.0,+23:00,,Nerz Dominik,141,Bora - Argon 18,",, 20:32",,,5,2016
+25,,194,132.0,+44:59,,Bennett Sam,142,Bora - Argon 18,",, 20:32",,,5,2016
+28,,84,129.0,+43:08,,Kristoff Alexander,143,Team Katusha,",, 20:32",,,5,2016
+26,,95,143.0,+50:20,,Debusschere Jens,144,Lotto Soudal,",, 20:32",,,5,2016
+31,,86,144.0,+50:47,,M\xf8rk\xf8v Michael,145,Team Katusha,",, 20:32",,,5,2016
+22,,98,109.0,+34:52,,Vervaeke Louis,146,Lotto Soudal,",, 20:32",,,5,2016
+27,,192,126.0,+41:58,,Archbold Shane,147,Bora - Argon 18,",, 20:32",,,5,2016
+31,,152,140.0,+47:54,,Bauer Jack,148,Cannondale Pro Cycling Team,",, 20:32",,,5,2016
+28,,82,153.0,+56:05,,Guarnieri Jacopo,149,Team Katusha,",, 20:32",,,5,2016
+25,,83,139.0,+47:46,,Haller Marco,150,Team Katusha,",, 20:32",,,5,2016
+31,,156,150.0,+55:12,,Langeveld Sebastian,151,Cannondale Pro Cycling Team,",, 20:32",,,5,2016
+27,,211,120.0,+38:43,,Degenkolb John,152,Team Giant - Alpecin,",, 20:32",,,5,2016
+32,,46,157.0,+1:00:43,,Terpstra Niki,153,Etixx - Quick Step,",, 20:32",,,5,2016
+28,,167,156.0,+1:00:41,,van Winden Dennis,154,Team LottoNL-Jumbo,27:16 27:16,,,5,2016
+27,,216,149.0,+54:56,,Sinkeldam Ramon,155,Team Giant - Alpecin,",, 27:16",,,5,2016
+23,,166,148.0,+52:11,,Teunissen Mike,156,Team LottoNL-Jumbo,",, 27:16",,,5,2016
+33,,122,152.0,+55:47,,Beppu Fumiyuki,157,Trek - Segafredo,",, 27:16",,,5,2016
+34,,177,158.0,+1:07:42,,Saramotins Aleksejs,158,IAM Cycling,",, 27:16",,,5,2016
+35,,102,159.0,+1:09:06,,Bozic Borut,159,"Cofidis, Solutions Cr\xe9dits",",, 27:16",,,5,2016
+25,,205,,+ - 21:24:59,,Koshevoy Ilia,DNF,Lampre - Merida,-3:32:20 -3:32:20,,,5,2016
+25,,132,,+ - 21:24:59,,Fern\xe1ndez Rub\xe9n,DNF,Movistar Team,",, -3:32:20",,,5,2016
+26,,108,,+ - 21:24:59,,Vanbilsen Kenneth,DNF,"Cofidis, Solutions Cr\xe9dits",",, -3:32:20",,,5,2016
+25,,101,,+ - 21:24:59,,Bouhanni Nacer,DNF,"Cofidis, Solutions Cr\xe9dits",",, -3:32:20",,,5,2016
+29,,92,,+ - 21:24:59,,Boeckmans Kris,DNF,Lotto Soudal,",, -3:32:20",,,5,2016
+30,,54,,+ - 21:24:59,,Gruzdev Dmitriy,DNF,Astana Pro Team,",, -3:32:20",,,5,2016
+26,,3,,+ - 21:24:59,,Kwiatkowski Michal,DNF,Team Sky,",, -3:32:20",,,5,2016
+22,,124,,+ - 21:24:59,,Bonifazio Niccolo,DNS,Trek - Segafredo,",, -3:32:20",,,5,2016
+23,,103,,+ - 21:24:59,,Laporte Christophe,DNS,"Cofidis, Solutions Cr\xe9dits",",, -3:32:20",,,5,2016
+27,,214,,+ - 21:24:59,,Haga Chad,DNS,Team Giant - Alpecin,",, -3:32:20",,,5,2016
+23,,67,,+ - 21:24:59,,Gougeard Alexis,DNS,AG2R La Mondiale,",, -3:32:20",,,5,2016
+28,,107,,+ - 21:24:59,,Soupe Geoffrey,HD,"Cofidis, Solutions Cr\xe9dits",37:48 37:48,,,5,2016
+26,,31,10.0,+2:12,50.0,Pinot Thibaut,1,FDJ,4:24:16 4:24:16,6.0,60.0,6,2016
+25,,61,3.0,+0:21,30.0,Bardet Romain,2,AG2R La Mondiale,",, ,,",4.0,25.0,6,2016
+29,,41,4.0,+0:30,18.0,Martin Daniel,3,Etixx - Quick Step,1:04 1:04,2.0,10.0,6,2016
+31,,1,1.0,+0:00,13.0,Froome Christopher,4,Team Sky,1:07 1:07,1.0,,6,2016
+24,,201,9.0,+1:35,10.0,Meintjes Louis,5,Lampre - Merida,1:15 1:15,1.0,,6,2016
+33,,21,5.0,+0:35,7.0,Contador Alberto,6,Tinkoff,",, 1:15",,,6,2016
+27,,56,8.0,+1:18,4.0,Rosa Diego,7,Astana Pro Team,1:17 1:17,,,6,2016
+23,,78,7.0,+1:02,3.0,Yates Adam,8,Orica GreenEDGE,",, 1:17",,,6,2016
+24,,42,6.0,+0:56,2.0,Alaphilippe Julian,9,Etixx - Quick Step,1:21 1:21,,,6,2016
+31,,11,2.0,+0:21,1.0,Porte Richie,10,BMC Racing Team,",, 1:21",,,6,2016
+26,,161,15.0,+4:16,,Bennett George,11,Team LottoNL-Jumbo,1:47 1:47,,,6,2016
+30,,25,22.0,+6:36,,Kreuziger Roman,12,Tinkoff,1:55 1:55,,,6,2016
+30,,16,16.0,+5:10,,Hermans Ben,13,BMC Racing Team,2:05 2:05,,,6,2016
+29,,151,11.0,+2:39,,Rolland Pierre,14,Cannondale Pro Cycling Team,2:07 2:07,,,6,2016
+28,,2,14.0,+3:34,,Henao Sergio Luis,15,Team Sky,2:11 2:11,,,6,2016
+26,,4,12.0,+3:02,,Landa Mikel,16,Team Sky,2:29 2:29,,,6,2016
+33,,87,25.0,+8:27,,Van den Broeck Jurgen,17,Team Katusha,2:35 2:35,,,6,2016
+32,,106,13.0,+3:16,,Navarro Daniel,18,"Cofidis, Solutions Cr\xe9dits",3:07 3:07,,,6,2016
+30,,62,20.0,+5:47,,Bakelants Jan,19,AG2R La Mondiale,4:05 4:05,,,6,2016
+33,,173,19.0,+5:44,,Clement Stef,20,IAM Cycling,4:13 4:13,,,6,2016
+23,,191,18.0,+5:39,,Buchmann Emanuel,21,Bora - Argon 18,",, 4:13",,,6,2016
+28,,14,17.0,+5:23,,Caruso Damiano,22,BMC Racing Team,",, 4:13",,,6,2016
+29,,24,29.0,+13:56,,Ki\u0161erlovski Robert,23,Tinkoff,5:14 5:14,,,6,2016
+37,,81,21.0,+6:22,,Rodr\xedguez Joaquim,24,Team Katusha,5:54 5:54,,,6,2016
+29,,93,24.0,+7:52,,De Clercq Bart,25,Lotto Soudal,",, 5:54",,,6,2016
+25,,133,23.0,+6:43,,Herrada Jes\xfas,26,Movistar Team,",, 5:54",,,6,2016
+30,,63,27.0,+10:49,,Ch\xe9rel Micka\xebl,27,AG2R La Mondiale,",, 5:54",,,6,2016
+20,,44,26.0,+9:21,,De Plus Laurens,28,Etixx - Quick Step,6:13 6:13,,,6,2016
+31,,52,41.0,+21:19,,Cataldo Dario,29,Astana Pro Team,10:16 10:16,,,6,2016
+23,,185,28.0,+13:38,,Martin Guillaume,30,Wanty - Groupe Gobert,11:13 11:13,,,6,2016
+31,,75,52.0,+32:37,,Impey Daryl,31,Orica GreenEDGE,",, 11:13",,,6,2016
+31,,153,31.0,+15:34,,Cardoso Andr\xe9,32,Cannondale Pro Cycling Team,",, 11:13",,,6,2016
+29,,171,39.0,+19:24,,Coppel J\xe9rome,33,IAM Cycling,",, 11:13",,,6,2016
+28,,148,30.0,+14:06,,Sicard Romain,34,Direct Energie,11:30 11:30,,,6,2016
+32,,147,55.0,+34:50,,Quemeneur Perrig,35,Direct Energie,14:00 14:00,,,6,2016
+28,,193,60.0,+37:15,,Benedetti Cesare,36,Bora - Argon 18,15:08 15:08,,,6,2016
+23,,203,32.0,+16:45,,Conti Valerio,37,Lampre - Merida,15:47 15:47,,,6,2016
+22,,73,51.0,+31:02,,Haig Jack,38,Orica GreenEDGE,",, 15:47",,,6,2016
+34,,131,34.0,+17:45,,Moreno Daniel,39,Movistar Team,",, 15:47",,,6,2016
+27,,187,40.0,+19:36,,Thurau Bjorn,40,Wanty - Groupe Gobert,",, 15:47",,,6,2016
+39,,128,49.0,+29:08,,Zubeldia Haimar,41,Trek - Segafredo,",, 15:47",,,6,2016
+32,,116,33.0,+17:34,,Pauwels Serge,42,Team Dimension Data,",, 15:47",,,6,2016
+23,,136,37.0,+18:22,,Quintana Dayer,43,Movistar Team,",, 15:47",,,6,2016
+35,,113,54.0,+32:59,,Cummings Stephen,44,Team Dimension Data,",, 15:47",,,6,2016
+28,,91,43.0,+24:51,,Gallopin Tony,45,Lotto Soudal,",, 15:47",,,6,2016
+28,,5,38.0,+18:37,,Poels Wout,46,Team Sky,",, 15:47",,,6,2016
+32,,57,36.0,+18:15,,Sanchez Luis Leon,47,Astana Pro Team,",, 15:47",,,6,2016
+25,,51,35.0,+17:58,,Aru Fabio,48,Astana Pro Team,",, 15:47",,,6,2016
+31,,45,77.0,+45:32,,Martin Tony,49,Etixx - Quick Step,18:31 18:31,,,6,2016
+32,,47,88.0,+53:17,,Vandenbergh Stijn,50,Etixx - Quick Step,19:33 19:33,,,6,2016
+28,,68,48.0,+29:02,,Vuillermoz Alexis,51,AG2R La Mondiale,",, 19:33",,,6,2016
+28,,65,65.0,+39:09,,Gastauer Ben,52,AG2R La Mondiale,",, 19:33",,,6,2016
+33,,34,46.0,+27:36,,Morabito Steve,53,FDJ,19:41 19:41,,,6,2016
+27,,35,42.0,+23:03,,Reichenbach Sebastien,54,FDJ,",, 19:41",,,6,2016
+24,,204,56.0,+35:19,,Grmay Tsgabu,55,Lampre - Merida,",, 19:41",,,6,2016
+27,,155,72.0,+42:05,,King Benjamin,56,Cannondale Pro Cycling Team,",, 19:41",,,6,2016
+27,,134,44.0,+26:29,,Oliveira Nelson,57,Movistar Team,",, 19:41",,,6,2016
+32,,37,68.0,+40:36,,Roy J\xe9r\xe9my,58,FDJ,",, 19:41",,,6,2016
+22,,98,89.0,+53:26,,Vervaeke Louis,59,Lotto Soudal,",, 19:41",,,6,2016
+21,,168,103.0,+1:02:16,,Vermeulen Alexey,60,Team LottoNL-Jumbo,22:47 22:47,,,6,2016
+29,,36,78.0,+45:40,,Roux Anthony,61,FDJ,",, 22:47",,,6,2016
+34,,17,63.0,+37:53,,Moinard Ama\xebl,62,BMC Racing Team,",, 22:47",,,6,2016
+32,,12,58.0,+37:00,,Bookwalter Brent,63,BMC Racing Team,",, 22:47",,,6,2016
+26,,15,84.0,+47:29,,Dennis Rohan,64,BMC Racing Team,",, 22:47",,,6,2016
+22,,137,94.0,+54:53,,Soler Marc,65,Movistar Team,",, 22:47",,,6,2016
+32,,53,45.0,+27:01,,Grivko Andrei,66,Astana Pro Team,",, 22:47",,,6,2016
+29,,43,80.0,+46:03,,Bouet Maxime,67,Etixx - Quick Step,25:22 25:22,,,6,2016
+35,,206,61.0,+37:36,,Mori Manuele,68,Lampre - Merida,",, 25:22",,,6,2016
+29,,94,102.0,+1:00:39,,De Gendt Thomas,69,Lotto Soudal,",, 25:22",,,6,2016
+27,,186,104.0,+1:02:26,,Minnaard Marco,70,Wanty - Groupe Gobert,",, 25:22",,,6,2016
+24,,196,53.0,+32:38,,Konrad Patrick,71,Bora - Argon 18,",, 25:22",,,6,2016
+24,,28,120.0,+1:10:50,,Valgren Michael,72,Tinkoff,",, 25:22",,,6,2016
+31,,145,50.0,+30:30,,Jeandesboz Fabrice,73,Direct Energie,",, 25:22",,,6,2016
+24,,158,122.0,+1:12:06,,van Baarle Dylan,74,Cannondale Pro Cycling Team,27:57 27:57,,,6,2016
+36,,212,131.0,+1:16:05,,Curvers Roy,75,Team Giant - Alpecin,",, 27:57",,,6,2016
+23,,166,136.0,+1:19:01,,Teunissen Mike,76,Team LottoNL-Jumbo,",, 27:57",,,6,2016
+26,,157,85.0,+49:07,,Slagter Tom-Jelte,77,Cannondale Pro Cycling Team,",, 27:57",,,6,2016
+36,,71,73.0,+42:18,,Gerrans Simon,78,Orica GreenEDGE,",, 27:57",,,6,2016
+33,,213,90.0,+53:38,,de Kort Koen,79,Team Giant - Alpecin,",, 27:57",,,6,2016
+31,,77,99.0,+59:33,,Meier Christian,80,Orica GreenEDGE,",, 27:57",,,6,2016
+22,,207,83.0,+46:59,,Pibernik Luka,81,Lampre - Merida,",, 27:57",,,6,2016
+28,,175,96.0,+58:41,,Fumeaux Jonathan,82,IAM Cycling,",, 27:57",,,6,2016
+24,,123,91.0,+53:49,,Bernard Julien,83,Trek - Segafredo,",, 27:57",,,6,2016
+23,,55,92.0,+54:44,,Lutsenko Alexey,84,Astana Pro Team,",, 27:57",,,6,2016
+27,,96,95.0,+56:29,,Dockx Gert,85,Lotto Soudal,",, 27:57",,,6,2016
+38,,58,69.0,+41:30,,Tiralongo Paolo,86,Astana Pro Team,",, 27:57",,,6,2016
+23,,172,59.0,+37:14,,Chevrier Cl\xe9ment,87,IAM Cycling,",, 27:57",,,6,2016
+34,,181,57.0,+36:15,,Gasparotto Enrico,88,Wanty - Groupe Gobert,",, 27:57",,,6,2016
+25,,176,70.0,+41:34,,Naesen Oliver,89,IAM Cycling,",, 27:57",,,6,2016
+32,,13,86.0,+52:06,,Burghardt Marcus,90,BMC Racing Team,",, 27:57",,,6,2016
+29,,126,47.0,+28:11,,Mollema Bauke,91,Trek - Segafredo,",, 27:57",,,6,2016
+28,,183,109.0,+1:04:24,,Claeys Dimitri,92,Wanty - Groupe Gobert,",, 27:57",,,6,2016
+28,,154,106.0,+1:03:23,,Howes Alex,93,Cannondale Pro Cycling Team,",, 27:57",,,6,2016
+31,,33,107.0,+1:03:24,,Ladagnous Matthieu,94,FDJ,",, 27:57",,,6,2016
+30,,198,67.0,+40:09,,Voss Paul,95,Bora - Argon 18,",, 27:57",,,6,2016
+34,,85,66.0,+39:48,,Losada Alberto,96,Team Katusha,",, 27:57",,,6,2016
+26,,6,97.0,+58:42,,Puccio Salvatore,97,Team Sky,",, 27:57",,,6,2016
+25,,23,71.0,+42:02,,Hansen Jesper,98,Tinkoff,",, 27:57",,,6,2016
+31,,152,126.0,+1:14:44,,Bauer Jack,99,Cannondale Pro Cycling Team,",, 27:57",,,6,2016
+31,,18,62.0,+37:52,,Van Avermaet Greg,100,BMC Racing Team,",, 27:57",,,6,2016
+35,,195,81.0,+46:04,,Huzarski Bartosz,101,Bora - Argon 18,",, 27:57",,,6,2016
+29,,8,111.0,+1:05:58,,Stannard Ian,102,Team Sky,",, 27:57",,,6,2016
+36,,141,79.0,+45:53,,Voeckler Thomas,103,Direct Energie,",, 27:57",,,6,2016
+27,,192,115.0,+1:08:48,,Archbold Shane,104,Bora - Argon 18,",, 27:57",,,6,2016
+36,,26,135.0,+1:18:46,,Paulinho S\xe9rgio,105,Tinkoff,",, 27:57",,,6,2016
+29,,112,76.0,+45:29,,Boasson Hagen Edvald,106,Team Dimension Data,",, 27:57",,,6,2016
+27,,118,100.0,+59:57,,Teklehaimanot Daniel,107,Team Dimension Data,",, 27:57",,,6,2016
+34,,138,101.0,+1:00:38,,Ventoso Francisco,108,Movistar Team,30:19 30:19,,,6,2016
+24,,162,127.0,+1:14:55,,Campenaerts Victor,109,Team LottoNL-Jumbo,",, 30:19",,,6,2016
+37,,188,113.0,+1:07:21,,Veuchelen Frederik,110,Wanty - Groupe Gobert,33:58 33:58,,,6,2016
+28,,146,139.0,+1:20:28,,Nauleau Bryan,111,Direct Energie,",, 33:58",,,6,2016
+24,,217,116.0,+1:09:17,,van der Haar Lars,112,Team Giant - Alpecin,",, 33:58",,,6,2016
+31,,48,138.0,+1:20:13,,Velits Martin,113,Etixx - Quick Step,",, 33:58",,,6,2016
+36,,125,132.0,+1:16:57,,Irizar Markel,114,Trek - Segafredo,",, 33:58",,,6,2016
+26,,182,112.0,+1:07:04,,Backaert Frederik,115,Wanty - Groupe Gobert,",, 33:58",,,6,2016
+26,,105,82.0,+46:22,,Molard Rudy,116,"Cofidis, Solutions Cr\xe9dits",",, 33:58",,,6,2016
+27,,76,87.0,+53:15,,Keukeleire Jens,117,Orica GreenEDGE,",, 33:58",,,6,2016
+30,,184,133.0,+1:17:38,,Degand Thomas,118,Wanty - Groupe Gobert,",, 33:58",,,6,2016
+35,,64,108.0,+1:03:30,,Dumoulin Samuel,119,AG2R La Mondiale,",, 33:58",,,6,2016
+25,,202,151.0,+1:30:47,,Cattaneo Mattia,120,Lampre - Merida,",, 33:58",,,6,2016
+28,,167,152.0,+1:33:32,,van Winden Dennis,121,Team LottoNL-Jumbo,",, 33:58",,,6,2016
+33,,104,125.0,+1:14:13,,Lemoine Cyril,122,"Cofidis, Solutions Cr\xe9dits",",, 33:58",,,6,2016
+24,,143,129.0,+1:15:13,,Duchesne Antoine,123,Direct Energie,",, 33:58",,,6,2016
+28,,82,149.0,+1:28:56,,Guarnieri Jacopo,124,Team Katusha,",, 33:58",,,6,2016
+22,,174,124.0,+1:13:09,,Enger Sondre Holst,125,IAM Cycling,",, 33:58",,,6,2016
+23,,142,114.0,+1:08:45,,Calmejane Lilian,126,Direct Energie,",, 33:58",,,6,2016
+26,,117,128.0,+1:15:11,,Reguigui Youcef,127,Team Dimension Data,",, 33:58",,,6,2016
+24,,163,141.0,+1:22:31,,Hofland Moreno,128,Team LottoNL-Jumbo,",, 33:58",,,6,2016
+28,,164,137.0,+1:19:44,,Keizer Martijn,129,Team LottoNL-Jumbo,",, 33:58",,,6,2016
+25,,114,123.0,+1:12:37,,Fraile Omar,130,Team Dimension Data,",, 33:58",,,6,2016
+25,,194,134.0,+1:17:50,,Bennett Sam,131,Bora - Argon 18,",, 33:58",,,6,2016
+28,,66,64.0,+38:58,,Gautier Cyril,132,AG2R La Mondiale,",, 33:58",,,6,2016
+32,,46,153.0,+1:33:34,,Terpstra Niki,133,Etixx - Quick Step,",, 33:58",,,6,2016
+27,,215,148.0,+1:28:18,,Jones Carter,134,Team Giant - Alpecin,",, 33:58",,,6,2016
+27,,216,146.0,+1:27:47,,Sinkeldam Ramon,135,Team Giant - Alpecin,",, 33:58",,,6,2016
+25,,127,144.0,+1:23:40,,Theuns Edward,136,Trek - Segafredo,",, 33:58",,,6,2016
+26,,7,98.0,+58:52,,Rowe Luke,137,Team Sky,",, 33:58",,,6,2016
+28,,144,117.0,+1:09:20,,Hurel Tony,138,Direct Energie,",, 33:58",,,6,2016
+32,,97,93.0,+54:45,,Marczynski Tomasz,139,Lotto Soudal,",, 33:58",,,6,2016
+27,,38,75.0,+44:30,,Vichot Arthur,140,FDJ,",, 33:58",,,6,2016
+24,,218,119.0,+1:09:58,,Waeytens Zico,141,Team Giant - Alpecin,",, 33:58",,,6,2016
+26,,95,142.0,+1:23:11,,Debusschere Jens,142,Lotto Soudal,",, 33:58",,,6,2016
+22,,208,150.0,+1:29:44,,Zurlo Federico,143,Lampre - Merida,",, 33:58",,,6,2016
+33,,32,110.0,+1:05:03,,Bonnet William,144,FDJ,",, 33:58",,,6,2016
+39,,88,118.0,+1:09:37,,Vicioso \xc1ngel,145,Team Katusha,",, 33:58",,,6,2016
+35,,121,74.0,+42:55,,Hesjedal Ryder,146,Trek - Segafredo,",, 33:58",,,6,2016
+31,,86,143.0,+1:23:38,,M\xf8rk\xf8v Michael,147,Team Katusha,",, 33:58",,,6,2016
+31,,156,147.0,+1:28:03,,Langeveld Sebastian,148,Cannondale Pro Cycling Team,",, 33:58",,,6,2016
+28,,84,130.0,+1:15:59,,Kristoff Alexander,149,Team Katusha,",, 33:58",,,6,2016
+22,,22,145.0,+1:24:54,,Gogl Michael,150,Tinkoff,",, 33:58",,,6,2016
+25,,83,140.0,+1:20:37,,Haller Marco,151,Team Katusha,",, 33:58",,,6,2016
+24,,135,105.0,+1:03:21,,Pedrero Antonio,152,Movistar Team,",, 33:58",,,6,2016
+27,,211,121.0,+1:11:34,,Degenkolb John,153,Team Giant - Alpecin,",, 33:58",,,6,2016
+34,,177,,+ - 25:50:22,,Saramotins Aleksejs,DNF,IAM Cycling,-4:24:16 -4:24:16,,,6,2016
+33,,122,,+ - 25:50:22,,Beppu Fumiyuki,DNF,Trek - Segafredo,",, -4:24:16",,,6,2016
+27,,115,,+ - 25:50:22,,Haas Nathan,DNF,Team Dimension Data,",, -4:24:16",,,6,2016
+33,,111,,+ - 25:50:22,,Anton Igor,DNF,Team Dimension Data,",, -4:24:16",,,6,2016
+35,,102,,+ - 25:50:22,,Bozic Borut,DNF,"Cofidis, Solutions Cr\xe9dits",",, -4:24:16",,,6,2016
+26,,197,,+ - 25:50:22,,Nerz Dominik,DNS,Bora - Argon 18,",, -4:24:16",,,6,2016
+35,,113,35.0,+28:46,50.0,Cummings Stephen,1,Team Dimension Data,4:05:06 4:05:06,6.0,60.0,7,2016
+29,,41,3.0,+0:19,30.0,Martin Daniel,2,Etixx - Quick Step,3:58 3:58,4.0,25.0,7,2016
+25,,61,2.0,+0:12,18.0,Bardet Romain,3,AG2R La Mondiale,",, 3:58",2.0,10.0,7,2016
+28,,5,25.0,+18:32,13.0,Poels Wout,4,Team Sky,",, 3:58",1.0,,7,2016
+23,,78,7.0,+0:57,10.0,Yates Adam,5,Orica GreenEDGE,",, 3:58",1.0,,7,2016
+24,,42,6.0,+0:51,7.0,Alaphilippe Julian,6,Etixx - Quick Step,",, 3:58",,,7,2016
+27,,56,8.0,+1:13,4.0,Rosa Diego,7,Astana Pro Team,",, 3:58",,,7,2016
+24,,201,9.0,+1:30,3.0,Meintjes Louis,8,Lampre - Merida,",, 3:58",,,7,2016
+31,,11,4.0,+0:21,2.0,Porte Richie,9,BMC Racing Team,4:03 4:03,,,7,2016
+31,,1,1.0,+0:00,1.0,Froome Christopher,10,Team Sky,",, 4:03",,,7,2016
+33,,21,5.0,+0:35,,Contador Alberto,11,Tinkoff,",, 4:03",,,7,2016
+28,,2,13.0,+3:36,,Henao Sergio Luis,12,Team Sky,4:05 4:05,,,7,2016
+29,,93,18.0,+7:56,,De Clercq Bart,13,Lotto Soudal,4:07 4:07,,,7,2016
+33,,173,15.0,+5:48,,Clement Stef,14,IAM Cycling,",, 4:07",,,7,2016
+32,,106,11.0,+3:20,,Navarro Daniel,15,"Cofidis, Solutions Cr\xe9dits",",, 4:07",,,7,2016
+29,,151,10.0,+2:43,,Rolland Pierre,16,Cannondale Pro Cycling Team,",, 4:07",,,7,2016
+26,,4,12.0,+3:21,,Landa Mikel,17,Team Sky,4:22 4:22,,,7,2016
+30,,25,19.0,+7:58,,Kreuziger Roman,18,Tinkoff,5:25 5:25,,,7,2016
+26,,161,14.0,+5:38,,Bennett George,19,Team LottoNL-Jumbo,",, 5:25",,,7,2016
+30,,62,17.0,+7:42,,Bakelants Jan,20,AG2R La Mondiale,5:58 5:58,,,7,2016
+30,,63,23.0,+12:44,,Ch\xe9rel Micka\xebl,21,AG2R La Mondiale,",, 5:58",,,7,2016
+23,,136,28.0,+20:28,,Quintana Dayer,22,Movistar Team,6:09 6:09,,,7,2016
+23,,191,20.0,+8:13,,Buchmann Emanuel,23,Bora - Argon 18,6:37 6:37,,,7,2016
+26,,31,16.0,+6:05,,Pinot Thibaut,24,FDJ,7:56 7:56,,,7,2016
+28,,14,21.0,+9:16,,Caruso Damiano,25,BMC Racing Team,",, 7:56",,,7,2016
+31,,153,27.0,+19:27,,Cardoso Andr\xe9,26,Cannondale Pro Cycling Team,",, 7:56",,,7,2016
+29,,112,53.0,+49:22,,Boasson Hagen Edvald,27,Team Dimension Data,",, 7:56",,,7,2016
+22,,73,39.0,+34:55,,Haig Jack,28,Orica GreenEDGE,",, 7:56",,,7,2016
+24,,135,81.0,+1:07:14,,Pedrero Antonio,29,Movistar Team,",, 7:56",,,7,2016
+34,,131,30.0,+21:38,,Moreno Daniel,30,Movistar Team,",, 7:56",,,7,2016
+28,,68,38.0,+34:30,,Vuillermoz Alexis,31,AG2R La Mondiale,9:31 9:31,,,7,2016
+32,,57,33.0,+23:43,,Sanchez Luis Leon,32,Astana Pro Team,",, 9:31",,,7,2016
+29,,24,26.0,+19:24,,Ki\u0161erlovski Robert,33,Tinkoff,",, 9:31",,,7,2016
+21,,168,82.0,+1:07:53,,Vermeulen Alexey,34,Team LottoNL-Jumbo,9:40 9:40,,,7,2016
+31,,152,92.0,+1:20:27,,Bauer Jack,35,Cannondale Pro Cycling Team,9:46 9:46,,,7,2016
+30,,16,22.0,+11:24,,Hermans Ben,36,BMC Racing Team,10:17 10:17,,,7,2016
+23,,203,32.0,+22:59,,Conti Valerio,37,Lampre - Merida,",, 10:17",,,7,2016
+23,,185,29.0,+21:03,,Martin Guillaume,38,Wanty - Groupe Gobert,11:28 11:28,,,7,2016
+31,,75,46.0,+41:32,,Impey Daryl,39,Orica GreenEDGE,12:58 12:58,,,7,2016
+32,,13,69.0,+1:01:01,,Burghardt Marcus,40,BMC Racing Team,",, 12:58",,,7,2016
+39,,128,42.0,+38:03,,Zubeldia Haimar,41,Trek - Segafredo,",, 12:58",,,7,2016
+34,,17,50.0,+46:48,,Moinard Ama\xebl,42,BMC Racing Team,",, 12:58",,,7,2016
+26,,157,66.0,+58:02,,Slagter Tom-Jelte,43,Cannondale Pro Cycling Team,",, 12:58",,,7,2016
+32,,12,49.0,+45:55,,Bookwalter Brent,44,BMC Racing Team,",, 12:58",,,7,2016
+24,,28,90.0,+1:19:45,,Valgren Michael,45,Tinkoff,",, 12:58",,,7,2016
+33,,87,24.0,+17:22,,Van den Broeck Jurgen,46,Team Katusha,",, 12:58",,,7,2016
+36,,141,58.0,+54:48,,Voeckler Thomas,47,Direct Energie,",, 12:58",,,7,2016
+23,,55,75.0,+1:03:56,,Lutsenko Alexey,48,Astana Pro Team,13:15 13:15,,,7,2016
+29,,8,89.0,+1:16:34,,Stannard Ian,49,Team Sky,14:39 14:39,,,7,2016
+28,,66,54.0,+49:34,,Gautier Cyril,50,AG2R La Mondiale,",, 14:39",,,7,2016
+22,,207,64.0,+57:35,,Pibernik Luka,51,Lampre - Merida,",, 14:39",,,7,2016
+33,,34,43.0,+38:12,,Morabito Steve,52,FDJ,",, 14:39",,,7,2016
+29,,171,37.0,+30:00,,Coppel J\xe9rome,53,IAM Cycling,",, 14:39",,,7,2016
+24,,204,48.0,+45:55,,Grmay Tsgabu,54,Lampre - Merida,",, 14:39",,,7,2016
+28,,65,55.0,+49:45,,Gastauer Ben,55,AG2R La Mondiale,",, 14:39",,,7,2016
+26,,6,85.0,+1:09:18,,Puccio Salvatore,56,Team Sky,",, 14:39",,,7,2016
+29,,43,61.0,+56:39,,Bouet Maxime,57,Etixx - Quick Step,",, 14:39",,,7,2016
+27,,134,41.0,+37:05,,Oliveira Nelson,58,Movistar Team,",, 14:39",,,7,2016
+30,,198,56.0,+50:45,,Voss Paul,59,Bora - Argon 18,",, 14:39",,,7,2016
+22,,137,79.0,+1:05:29,,Soler Marc,60,Movistar Team,",, 14:39",,,7,2016
+28,,148,34.0,+26:09,,Sicard Romain,61,Direct Energie,16:06 16:06,,,7,2016
+27,,118,87.0,+1:12:11,,Teklehaimanot Daniel,62,Team Dimension Data,16:17 16:17,,,7,2016
+26,,15,68.0,+59:43,,Dennis Rohan,63,BMC Racing Team,",, 16:17",,,7,2016
+31,,45,65.0,+57:46,,Martin Tony,64,Etixx - Quick Step,",, 16:17",,,7,2016
+32,,37,57.0,+54:05,,Roy J\xe9r\xe9my,65,FDJ,17:32 17:32,,,7,2016
+25,,23,60.0,+55:31,,Hansen Jesper,66,Tinkoff,",, 17:32",,,7,2016
+20,,44,31.0,+22:50,,De Plus Laurens,67,Etixx - Quick Step,",, 17:32",,,7,2016
+31,,52,40.0,+35:29,,Cataldo Dario,68,Astana Pro Team,18:13 18:13,,,7,2016
+28,,91,44.0,+39:37,,Gallopin Tony,69,Lotto Soudal,18:49 18:49,,,7,2016
+29,,36,70.0,+1:01:25,,Roux Anthony,70,FDJ,19:48 19:48,,,7,2016
+38,,58,72.0,+1:03:40,,Tiralongo Paolo,71,Astana Pro Team,26:13 26:13,,,7,2016
+25,,51,45.0,+40:08,,Aru Fabio,72,Astana Pro Team,",, 26:13",,,7,2016
+26,,182,102.0,+1:29:14,,Backaert Frederik,73,Wanty - Groupe Gobert,",, 26:13",,,7,2016
+23,,172,67.0,+59:24,,Chevrier Cl\xe9ment,74,IAM Cycling,",, 26:13",,,7,2016
+27,,155,77.0,+1:04:15,,King Benjamin,75,Cannondale Pro Cycling Team,",, 26:13",,,7,2016
+32,,53,51.0,+49:11,,Grivko Andrei,76,Astana Pro Team,",, 26:13",,,7,2016
+26,,105,83.0,+1:08:32,,Molard Rudy,77,"Cofidis, Solutions Cr\xe9dits",",, 26:13",,,7,2016
+31,,33,99.0,+1:25:34,,Ladagnous Matthieu,78,FDJ,",, 26:13",,,7,2016
+31,,77,94.0,+1:21:43,,Meier Christian,79,Orica GreenEDGE,",, 26:13",,,7,2016
+24,,158,107.0,+1:34:16,,van Baarle Dylan,80,Cannondale Pro Cycling Team,",, 26:13",,,7,2016
+29,,94,96.0,+1:22:49,,De Gendt Thomas,81,Lotto Soudal,",, 26:13",,,7,2016
+37,,188,103.0,+1:29:31,,Veuchelen Frederik,82,Wanty - Groupe Gobert,",, 26:13",,,7,2016
+24,,143,111.0,+1:37:23,,Duchesne Antoine,83,Direct Energie,",, 26:13",,,7,2016
+25,,176,73.0,+1:03:44,,Naesen Oliver,84,IAM Cycling,",, 26:13",,,7,2016
+28,,154,98.0,+1:25:33,,Howes Alex,85,Cannondale Pro Cycling Team,",, 26:13",,,7,2016
+32,,147,63.0,+57:00,,Quemeneur Perrig,86,Direct Energie,",, 26:13",,,7,2016
+27,,76,88.0,+1:15:25,,Keukeleire Jens,87,Orica GreenEDGE,",, 26:13",,,7,2016
+25,,202,129.0,+1:52:57,,Cattaneo Mattia,88,Lampre - Merida,",, 26:13",,,7,2016
+26,,7,93.0,+1:21:02,,Rowe Luke,89,Team Sky,",, 26:13",,,7,2016
+25,,133,36.0,+28:53,,Herrada Jes\xfas,90,Movistar Team,",, 26:13",,,7,2016
+35,,121,78.0,+1:05:05,,Hesjedal Ryder,91,Trek - Segafredo,",, 26:13",,,7,2016
+24,,196,59.0,+54:48,,Konrad Patrick,92,Bora - Argon 18,",, 26:13",,,7,2016
+22,,22,122.0,+1:47:04,,Gogl Michael,93,Tinkoff,",, 26:13",,,7,2016
+27,,211,112.0,+1:37:51,,Degenkolb John,94,Team Giant - Alpecin,30:20 30:20,,,7,2016
+25,,127,127.0,+1:49:57,,Theuns Edward,95,Trek - Segafredo,",, 30:20",,,7,2016
+24,,217,108.0,+1:35:34,,van der Haar Lars,96,Team Giant - Alpecin,",, 30:20",,,7,2016
+28,,183,105.0,+1:30:41,,Claeys Dimitri,97,Wanty - Groupe Gobert,",, 30:20",,,7,2016
+27,,186,101.0,+1:28:43,,Minnaard Marco,98,Wanty - Groupe Gobert,",, 30:20",,,7,2016
+28,,193,71.0,+1:03:32,,Benedetti Cesare,99,Bora - Argon 18,",, 30:20",,,7,2016
+24,,163,124.0,+1:48:48,,Hofland Moreno,100,Team LottoNL-Jumbo,",, 30:20",,,7,2016
+24,,123,91.0,+1:20:06,,Bernard Julien,101,Trek - Segafredo,",, 30:20",,,7,2016
+36,,71,84.0,+1:08:35,,Gerrans Simon,102,Orica GreenEDGE,",, 30:20",,,7,2016
+22,,174,114.0,+1:39:26,,Enger Sondre Holst,103,IAM Cycling,",, 30:20",,,7,2016
+32,,116,47.0,+43:51,,Pauwels Serge,104,Team Dimension Data,",, 30:20",,,7,2016
+34,,85,80.0,+1:06:05,,Losada Alberto,105,Team Katusha,",, 30:20",,,7,2016
+25,,194,117.0,+1:44:07,,Bennett Sam,106,Bora - Argon 18,",, 30:20",,,7,2016
+27,,35,52.0,+49:20,,Reichenbach Sebastien,107,FDJ,",, 30:20",,,7,2016
+28,,164,120.0,+1:46:01,,Keizer Martijn,108,Team LottoNL-Jumbo,",, 30:20",,,7,2016
+28,,175,97.0,+1:24:58,,Fumeaux Jonathan,109,IAM Cycling,",, 30:20",,,7,2016
+24,,218,110.0,+1:36:15,,Waeytens Zico,110,Team Giant - Alpecin,",, 30:20",,,7,2016
+27,,215,130.0,+1:54:35,,Jones Carter,111,Team Giant - Alpecin,",, 30:20",,,7,2016
+39,,88,109.0,+1:35:54,,Vicioso \xc1ngel,112,Team Katusha,",, 30:20",,,7,2016
+24,,162,115.0,+1:41:12,,Campenaerts Victor,113,Team LottoNL-Jumbo,",, 30:20",,,7,2016
+31,,145,62.0,+56:47,,Jeandesboz Fabrice,114,Direct Energie,",, 30:20",,,7,2016
+35,,206,74.0,+1:03:53,,Mori Manuele,115,Lampre - Merida,",, 30:20",,,7,2016
+35,,64,104.0,+1:29:47,,Dumoulin Samuel,116,AG2R La Mondiale,",, 30:20",,,7,2016
+27,,38,86.0,+1:10:47,,Vichot Arthur,117,FDJ,",, 30:20",,,7,2016
+31,,18,76.0,+1:04:09,,Van Avermaet Greg,118,BMC Racing Team,",, 30:20",,,7,2016
+34,,138,100.0,+1:26:55,,Ventoso Francisco,119,Movistar Team,",, 30:20",,,7,2016
+22,,208,131.0,+1:56:01,,Zurlo Federico,120,Lampre - Merida,",, 30:20",,,7,2016
+31,,86,128.0,+1:52:46,,M\xf8rk\xf8v Michael,121,Team Katusha,33:11 33:11,,,7,2016
+25,,83,126.0,+1:49:45,,Haller Marco,122,Team Katusha,",, 33:11",,,7,2016
+36,,125,121.0,+1:46:05,,Irizar Markel,123,Trek - Segafredo,",, 33:11",,,7,2016
+33,,213,95.0,+1:22:46,,de Kort Koen,124,Team Giant - Alpecin,",, 33:11",,,7,2016
+36,,212,119.0,+1:45:13,,Curvers Roy,125,Team Giant - Alpecin,",, 33:11",,,7,2016
+33,,32,106.0,+1:34:11,,Bonnet William,126,FDJ,",, 33:11",,,7,2016
+31,,48,125.0,+1:49:21,,Velits Martin,127,Etixx - Quick Step,",, 33:11",,,7,2016
+28,,82,133.0,+1:58:04,,Guarnieri Jacopo,128,Team Katusha,",, 33:11",,,7,2016
+27,,192,113.0,+1:37:56,,Archbold Shane,129,Bora - Argon 18,",, 33:11",,,7,2016
+28,,84,118.0,+1:45:07,,Kristoff Alexander,130,Team Katusha,",, 33:11",,,7,2016
+23,,166,123.0,+1:48:09,,Teunissen Mike,131,Team LottoNL-Jumbo,",, 33:11",,,7,2016
+28,,167,135.0,+2:02:40,,van Winden Dennis,132,Team LottoNL-Jumbo,",, 33:11",,,7,2016
+31,,156,132.0,+1:57:11,,Langeveld Sebastian,133,Cannondale Pro Cycling Team,",, 33:11",,,7,2016
+33,,104,116.0,+1:43:21,,Lemoine Cyril,134,"Cofidis, Solutions Cr\xe9dits",",, 33:11",,,7,2016
+27,,216,134.0,+2:00:58,,Sinkeldam Ramon,135,Team Giant - Alpecin,37:14 37:14,,,7,2016
+32,,46,,+ - 29:59:31,,Terpstra Niki,DNF,Etixx - Quick Step,-4:05:06 -4:05:06,,,7,2016
+32,,47,,+ - 29:59:31,,Vandenbergh Stijn,DNF,Etixx - Quick Step,",, -4:05:06",,,7,2016
+37,,81,,+ - 29:59:31,,Rodr\xedguez Joaquim,DNF,Team Katusha,",, -4:05:06",,,7,2016
+26,,95,,+ - 29:59:31,,Debusschere Jens,DNF,Lotto Soudal,",, -4:05:06",,,7,2016
+27,,96,,+ - 29:59:31,,Dockx Gert,DNF,Lotto Soudal,",, -4:05:06",,,7,2016
+22,,98,,+ - 29:59:31,,Vervaeke Louis,DNF,Lotto Soudal,",, -4:05:06",,,7,2016
+25,,114,,+ - 29:59:31,,Fraile Omar,DNF,Team Dimension Data,",, -4:05:06",,,7,2016
+26,,117,,+ - 29:59:31,,Reguigui Youcef,DNF,Team Dimension Data,",, -4:05:06",,,7,2016
+29,,126,,+ - 29:59:31,,Mollema Bauke,DNF,Trek - Segafredo,",, -4:05:06",,,7,2016
+23,,142,,+ - 29:59:31,,Calmejane Lilian,DNF,Direct Energie,",, -4:05:06",,,7,2016
+28,,144,,+ - 29:59:31,,Hurel Tony,DNF,Direct Energie,",, -4:05:06",,,7,2016
+28,,146,,+ - 29:59:31,,Nauleau Bryan,DNF,Direct Energie,",, -4:05:06",,,7,2016
+30,,184,,+ - 29:59:31,,Degand Thomas,DNF,Wanty - Groupe Gobert,",, -4:05:06",,,7,2016
+35,,195,,+ - 29:59:31,,Huzarski Bartosz,DNF,Bora - Argon 18,",, -4:05:06",,,7,2016
+36,,26,,+ - 29:59:31,,Paulinho S\xe9rgio,DNF,Tinkoff,",, -4:05:06",,,7,2016
+32,,97,,+ - 29:59:31,,Marczynski Tomasz,DNS,Lotto Soudal,",, -4:05:06",,,7,2016
+34,,181,,+ - 29:59:31,,Gasparotto Enrico,DNS,Wanty - Groupe Gobert,",, -4:05:06",,,7,2016
+27,,187,,+ - 29:59:31,,Thurau Bjorn,DNS,Wanty - Groupe Gobert,",, -4:05:06",,,7,2016

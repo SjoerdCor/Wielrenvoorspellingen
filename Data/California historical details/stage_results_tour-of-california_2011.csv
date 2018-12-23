@@ -1,0 +1,959 @@
+Age,Avg,BIB,GC,GC-Time,Pnt,Rider,Rnk,Team,Time,UCI,stage,year
+23,,38.0,,+0:00,30.0,Swift Ben,1,Sky Procycling,2:47:12 2:47:12,20.0,2,2011
+21,,61.0,,+0:00,18.0,Sagan Peter,2,Liquigas - Cannondale,",, ,,",14.0,2,2011
+24,,23.0,,+0:00,12.0,Goss Matthew,3,HTC - High Road,",, ,,",8.0,2,2011
+25,,126.0,,+0:00,7.0,Lacombe Keven,4,Spidertech Powered by C10,",, ,,",7.0,2,2011
+30,,73.0,,+0:00,4.0,Haedo Juan Jose,5,Saxo Bank - Sungard,",, ,,",6.0,2,2011
+31,,142.0,,+0:00,3.0,Borrajo Alejandro Alberto,6,Jamis - Sutter Home presented by Colavita,",, ,,",5.0,2,2011
+33,,14.0,,+0:00,2.0,Hushovd Thor,7,Team Garmin - Cerv\xe9lo,",, ,,",4.0,2,2011
+20,,48.0,,+0:00,1.0,Phinney Taylor,8,BMC Racing Team,",, ,,",2.0,2,2011
+35,,81.0,,+0:00,,Freire Oscar,9,Rabobank Cycling Team,",, ,,",,2,2011
+29,,176.0,,+0:00,,Milne Shawn,10,Kenda Presented By Gear Grinder,",, ,,",,2,2011
+34,,35.0,,+0:00,,Henderson Gregory,11,Sky Procycling,",, ,,",,2,2011
+36,,164.0,,+0:00,,Candelario Alex,12,Kelly Benefit Strategies - OptumHealth,",, ,,",,2,2011
+33,,92.0,,+0:00,,F\xf6rster Robert,13,UnitedHealthcare Presented by Maxxis,",, ,,",,2,2011
+20,,85.0,,+0:00,,Matthews Michael,14,Rabobank Cycling Team,",, ,,",,2,2011
+33,,136.0,,+0:00,,Pipp Frank Kevin,15,Bissell Pro Cycling,",, ,,",,2,2011
+39,,6.0,,+0:00,,Horner Chris,16,RadioShack,",, ,,",,2,2011
+27,,118.0,,+0:00,,Schillinger Andreas,17,Team Netapp,",, ,,",,2,2011
+28,,55.0,,+0:00,,Gerdemann Linus,18,Leopard Trek,",, ,,",,2,2011
+33,,12.0,,+0:00,,Danielson Thomas,19,Team Garmin - Cerv\xe9lo,",, ,,",,2,2011
+29,,154.0,,+0:00,,Hanson Ken,20,Jelly Belly presented by Kenda,",, ,,",,2,2011
+21,,25.0,,+0:00,,Howard Leigh,21,HTC - High Road,",, ,,",,2,2011
+26,,105.0,,+0:00,,Ile\u0161i\u010d Aldo Ino,22,Team Type 1 - SANOFI,",, ,,",,2,2011
+22,,1.0,,+0:00,,King Benjamin,23,RadioShack,",, ,,",,2,2011
+37,,8.0,,+0:00,,Leipheimer Levi,24,RadioShack,",, ,,",,2,2011
+37,,46.0,,+0:00,,Hincapie George,25,BMC Racing Team,",, ,,",,2,2011
+34,,17.0,,+0:00,,Vande Velde Christian,26,Team Garmin - Cerv\xe9lo,",, ,,",,2,2011
+26,,28.0,,+0:00,,Velits Peter,27,HTC - High Road,",, ,,",,2,2011
+28,,143.0,,+0:00,,Borrajo Anibal Andres,28,Jamis - Sutter Home presented by Colavita,",, ,,",,2,2011
+27,,42.0,,+0:00,,Bookwalter Brent,29,BMC Racing Team,",, ,,",,2,2011
+23,,62.0,,+0:00,,Caruso Damiano,30,Liquigas - Cannondale,",, ,,",,2,2011
+32,,72.0,,+0:00,,Cooke Baden,31,Saxo Bank - Sungard,",, ,,",,2,2011
+22,,15.0,,+0:00,,Talansky Andrew,32,Team Garmin - Cerv\xe9lo,",, ,,",,2,2011
+30,,13.0,,+0:00,,Hesjedal Ryder,33,Team Garmin - Cerv\xe9lo,",, ,,",,2,2011
+35,,132.0,,+0:00,,Baldwin Christopher,34,Bissell Pro Cycling,",, ,,",,2,2011
+37,,36.0,,+0:00,,Hunt Jeremy,35,Sky Procycling,",, ,,",,2,2011
+32,,26.0,,+0:00,,Pate Danny,36,HTC - High Road,",, ,,",,2,2011
+28,,125.0,,+0:00,,Gilbert Martin,37,Spidertech Powered by C10,",, ,,",,2,2011
+28,,64.0,,+0:00,,King Edward,38,Liquigas - Cannondale,",, ,,",,2,2011
+30,,148.0,,+0:00,,Wren Tyler,39,Jamis - Sutter Home presented by Colavita,",, ,,",,2,2011
+22,,21.0,,+0:00,,van Garderen Tejay,40,HTC - High Road,",, ,,",,2,2011
+30,,71.0,,+0:00,,Larsson Gustav,41,Saxo Bank - Sungard,",, ,,",,2,2011
+33,,95.0,,+0:00,,Menzies Karl,42,UnitedHealthcare Presented by Maxxis,",, ,,",,2,2011
+29,,127.0,,+0:00,,Mccarty Jonathan Patrick,43,Spidertech Powered by C10,",, ,,",,2,2011
+30,,116.0,,+0:00,,Huzarski Bartosz,44,Team Netapp,",, ,,",,2,2011
+25,,33.0,,+0:00,,Froome Christopher,45,Sky Procycling,",, ,,",,2,2011
+34,,168.0,,+0:00,,Mumford Jonathan Reid,46,Kelly Benefit Strategies - OptumHealth,",, ,,",,2,2011
+24,,65.0,,+0:00,,Oss Daniel,47,Liquigas - Cannondale,0:09 0:09,,2,2011
+31,,5.0,,+0:00,,Irizar Markel,48,RadioShack,0:11 0:11,,2,2011
+26,,54.0,,+0:00,,Fuglsang Jakob,49,Leopard Trek,",, 0:11",,2,2011
+33,,43.0,,+0:00,,Louder Jeff,50,BMC Racing Team,",, 0:11",,2,2011
+32,,141.0,,+0:00,,Romero Amaran Luis,51,Jamis - Sutter Home presented by Colavita,",, 0:11",,2,2011
+28,,44.0,,+0:00,,Morabito Steve,52,BMC Racing Team,",, 0:11",,2,2011
+28,,167.0,,+0:00,,Friedman Michael,53,Kelly Benefit Strategies - OptumHealth,",, 0:11",,2,2011
+32,,134.0,,+0:00,,Jacques-Maynes Andy,54,Bissell Pro Cycling,",, 0:11",,2,2011
+21,,41.0,,+0:00,,Eijssen Yannick,55,BMC Racing Team,0:15 0:15,,2,2011
+29,,91.0,,+0:00,,Sutherland Rory,56,UnitedHealthcare Presented by Maxxis,",, 0:15",,2,2011
+26,,7.0,,+0:00,,Busche Matthew,57,RadioShack,",, 0:15",,2,2011
+32,,11.0,,+0:00,,Zabriskie David,58,Team Garmin - Cerv\xe9lo,",, 0:15",,2,2011
+31,,93.0,,+0:00,,Jones Chris,59,UnitedHealthcare Presented by Maxxis,",, 0:15",,2,2011
+39,,58.0,,+0:00,,Voigt Jens,60,Leopard Trek,",, 0:15",,2,2011
+30,,87.0,,+0:00,,ten Dam Laurens,61,Rabobank Cycling Team,",, 0:15",,2,2011
+31,,66.0,,+0:00,,Bellotti Francesco,62,Liquigas - Cannondale,",, 0:15",,2,2011
+24,,103.0,,+0:00,,Dugan William,63,Team Type 1 - SANOFI,",, 0:15",,2,2011
+23,,117.0,,+0:00,,K\xf6nig Leopold,64,Team Netapp,",, 0:15",,2,2011
+25,,162.0,,+0:00,,Anthony Jesse,65,Kelly Benefit Strategies - OptumHealth,",, 0:15",,2,2011
+30,,138.0,,+0:00,,Vennell Jeremy,66,Bissell Pro Cycling,",, 0:15",,2,2011
+26,,107.0,,+0:00,,Kocjan Jure,67,Team Type 1 - SANOFI,",, 0:15",,2,2011
+29,,104.0,,+0:00,,Efimkin Alexander,68,Team Type 1 - SANOFI,",, 0:15",,2,2011
+30,,22.0,,+0:00,,Eisel Bernhard,69,HTC - High Road,",, 0:15",,2,2011
+23,,122.0,,+0:00,,Anderson Ryan,70,Spidertech Powered by C10,",, 0:15",,2,2011
+31,,76.0,,+0:00,,Nuyens Nick,71,Saxo Bank - Sungard,",, 0:15",,2,2011
+32,,101.0,,+0:00,,Bertogliati Rubens,72,Team Type 1 - SANOFI,",, 0:15",,2,2011
+29,,111.0,,+0:00,,Del Nero Jes\xfas,73,Team Netapp,",, 0:15",,2,2011
+27,,68.0,,+0:00,,Wurf Cameron,74,Liquigas - Cannondale,",, 0:15",,2,2011
+27,,158.0,,+0:00,,Powers Jeremy,75,Jelly Belly presented by Kenda,",, 0:15",,2,2011
+29,,47.0,,+0:00,,Moinard Ama\xebl,76,BMC Racing Team,",, 0:15",,2,2011
+35,,86.0,,+0:00,,Niermann Grischa,77,Rabobank Cycling Team,",, 0:15",,2,2011
+25,,51.0,,+0:00,,Schleck Andy,78,Leopard Trek,",, 0:15",,2,2011
+32,,171.0,,+0:00,,Day Benjamin,79,Kenda Presented By Gear Grinder,",, 0:15",,2,2011
+24,,18.0,,+0:00,,Martin Daniel,80,Team Garmin - Cerv\xe9lo,",, 0:15",,2,2011
+25,,178.0,,+0:00,,Stemper James,81,Kenda Presented By Gear Grinder,",, 0:15",,2,2011
+25,,82.0,,+0:00,,Boom Lars,82,Rabobank Cycling Team,",, 0:15",,2,2011
+31,,166.0,,+0:00,,Donald Jason,83,Kelly Benefit Strategies - OptumHealth,",, 0:15",,2,2011
+30,,67.0,,+0:00,,Da Dalto Mauro,84,Liquigas - Cannondale,",, 0:15",,2,2011
+32,,145.0,,+0:00,,Zirbel Tom,85,Jamis - Sutter Home presented by Colavita,",, 0:15",,2,2011
+23,,52.0,,+0:00,,Denifl Stefan,86,Leopard Trek,",, 0:15",,2,2011
+28,,177.0,,+0:00,,Rytlewski Jake,87,Kenda Presented By Gear Grinder,",, 0:15",,2,2011
+27,,124.0,,+0:00,,Euser Lucas,88,Spidertech Powered by C10,",, 0:15",,2,2011
+33,,88.0,,+0:00,,Tjallingii Maarten,89,Rabobank Cycling Team,",, 0:15",,2,2011
+26,,94.0,,+0:00,,Meier Christian,90,UnitedHealthcare Presented by Maxxis,",, 0:15",,2,2011
+29,,,,+0:00,,White Bradley,91,,",, 0:15",,2,2011
+28,,157.0,,+0:00,,Dickeson William,92,Jelly Belly presented by Kenda,",, 0:15",,2,2011
+33,,34.0,,+0:00,,Hayman Mathew,93,Sky Procycling,",, 0:15",,2,2011
+28,,114.0,,+0:00,,Dietziker Andreas,94,Team Netapp,",, 0:15",,2,2011
+26,,112.0,,+0:00,,B\xe1rta Jan,95,Team Netapp,",, 0:15",,2,2011
+22,,32.0,,+0:00,,Dowsett Alex,96,Sky Procycling,0:26 0:26,,2,2011
+23,,37.0,,+0:00,,Stannard Ian,97,Sky Procycling,",, 0:26",,2,2011
+23,,83.0,,+0:00,,Vermeltfoort Coen,98,Rabobank Cycling Team,",, 0:26",,2,2011
+30,,16.0,,+0:00,,Vansummeren Johan,99,Team Garmin - Cerv\xe9lo,",, 0:26",,2,2011
+29,,163.0,,+0:00,,Bowman Dan,100,Kelly Benefit Strategies - OptumHealth,",, 0:26",,2,2011
+30,,165.0,,+0:00,,Creed Michael,101,Kelly Benefit Strategies - OptumHealth,",, 0:26",,2,2011
+32,,96.0,,+0:00,,Pinfold Andrew,102,UnitedHealthcare Presented by Maxxis,",, 0:26",,2,2011
+28,,146.0,,+0:00,,Guptill Andy,103,Jamis - Sutter Home presented by Colavita,",, 0:26",,2,2011
+37,,4.0,,+0:00,,McCartney Jason,104,RadioShack,",, 0:26",,2,2011
+34,,2.0,,+0:00,,Zubeldia Haimar,105,RadioShack,",, 0:26",,2,2011
+26,,56.0,,+0:00,,Lund Anders,106,Leopard Trek,",, 0:26",,2,2011
+21,,45.0,,+0:00,,Roe Timothy,107,BMC Racing Team,0:33 0:33,,2,2011
+29,,78.0,,+0:00,,Vandborg Brian,108,Saxo Bank - Sungard,0:41 0:41,,2,2011
+26,,27.0,,+0:00,,Velits Martin,109,HTC - High Road,",, 0:41",,2,2011
+29,,175.0,,+0:00,,Kilun Roman,110,Kenda Presented By Gear Grinder,",, 0:41",,2,2011
+34,,106.0,,+0:00,,Kobzarenko Valery,111,Team Type 1 - SANOFI,",, 0:41",,2,2011
+25,,137.0,,+0:00,,Thomson Jay Robert,112,Bissell Pro Cycling,",, 0:41",,2,2011
+27,,108.0,,+0:00,,Megias Javier,113,Team Type 1 - SANOFI,",, 0:41",,2,2011
+26,,172.0,,+0:00,,Damiani Luca,114,Kenda Presented By Gear Grinder,",, 0:41",,2,2011
+25,,173.0,,+0:00,,Gaimon Phillip,115,Kenda Presented By Gear Grinder,",, 0:41",,2,2011
+26,,133.0,,+0:00,,Britton Rob,116,Bissell Pro Cycling,",, 0:41",,2,2011
+28,,123.0,,+0:00,,Bell Zach,117,Spidertech Powered by C10,",, 0:41",,2,2011
+28,,57.0,,+0:00,,Pedersen Martin,118,Leopard Trek,",, 0:41",,2,2011
+21,,79.0,,+0:00,,Majka Rafa\u0142,119,Saxo Bank - Sungard,",, 0:41",,2,2011
+27,,84.0,,+0:00,,Martens Paul,120,Rabobank Cycling Team,",, 0:41",,2,2011
+38,,161.0,,+0:00,,Bajadali Andrew,121,Kelly Benefit Strategies - OptumHealth,",, 0:41",,2,2011
+32,,131.0,,+0:00,,Jacques-Maynes Benjamin,122,Bissell Pro Cycling,",, 0:41",,2,2011
+34,,121.0,,+0:00,,Tuft Svein,123,Spidertech Powered by C10,",, 0:41",,2,2011
+29,,135.0,,+0:00,,Mach Paul,124,Bissell Pro Cycling,",, 0:41",,2,2011
+25,,77.0,,+0:00,,Jorgensen Jonas Aaen,125,Saxo Bank - Sungard,",, 0:41",,2,2011
+26,,53.0,,+0:00,,Mortensen Martin,126,Leopard Trek,",, 0:41",,2,2011
+34,,102.0,,+0:00,,Bodrogi Laszlo,127,Team Type 1 - SANOFI,",, 0:41",,2,2011
+34,,147.0,,+0:00,,Antogna Jose Fernando,128,Jamis - Sutter Home presented by Colavita,",, 0:41",,2,2011
+25,,115.0,,+0:00,,Gottfried Alexander,129,Team Netapp,0:52 0:52,,2,2011
+33,,97.0,,+0:00,,Wegelius Charles,130,UnitedHealthcare Presented by Maxxis,0:59 0:59,,2,2011
+27,,152.0,,+0:00,,Hagman Alex,131,Jelly Belly presented by Kenda,",, 0:59",,2,2011
+21,,156.0,,+0:00,,Loutit Alastair,132,Jelly Belly presented by Kenda,1:19 1:19,,2,2011
+28,,74.0,,+0:00,,Haedo Lucas Sebastian,133,Saxo Bank - Sungard,1:21 1:21,,2,2011
+28,,63.0,,+0:00,,Duggan Timothy,134,Liquigas - Cannondale,1:23 1:23,,2,2011
+36,,31.0,,+0:00,,Arvesen Kurt-Asle,135,Sky Procycling,",, 1:23",,2,2011
+29,,174.0,,+0:00,,Hartley Chad,136,Kenda Presented By Gear Grinder,",, 1:23",,2,2011
+35,,24.0,,+0:00,,Grabsch Bert,137,HTC - High Road,",, 1:23",,2,2011
+31,,3.0,,+0:00,,Muravyev Dmitriy,138,RadioShack,",, 1:23",,2,2011
+27,,128.0,,+0:00,,Routley Will,139,Spidertech Powered by C10,",, 1:23",,2,2011
+31,,151.0,,+0:00,,van Ulden Bernard,140,Jelly Belly presented by Kenda,2:04 2:04,,2,2011
+24,,113.0,,+0:00,,Seubert Timon,141,Team Netapp,2:13 2:13,,2,2011
+26,,155.0,,+0:00,,Hernandez Sergio,142,Jelly Belly presented by Kenda,2:16 2:16,,2,2011
+24,,144.0,,+0:00,,Driscoll James,143,Jamis - Sutter Home presented by Colavita,2:56 2:56,,2,2011
+24,,153.0,,+0:00,,Hamilton Nic,144,Jelly Belly presented by Kenda,3:31 3:31,,2,2011
+34,,35.0,,+0:00,30.0,Henderson Gregory,1,Sky Procycling,5:14:29 5:14:29,20.0,3,2011
+30,,73.0,,+0:00,18.0,Haedo Juan Jose,2,Saxo Bank - Sungard,",, ,,",14.0,3,2011
+33,,14.0,,+0:00,12.0,Hushovd Thor,3,Team Garmin - Cerv\xe9lo,",, ,,",8.0,3,2011
+21,,61.0,,+0:00,7.0,Sagan Peter,4,Liquigas - Cannondale,",, ,,",7.0,3,2011
+21,,25.0,,+0:00,4.0,Howard Leigh,5,HTC - High Road,",, ,,",6.0,3,2011
+25,,126.0,,+0:00,3.0,Lacombe Keven,6,Spidertech Powered by C10,",, ,,",5.0,3,2011
+33,,92.0,,+0:00,2.0,F\xf6rster Robert,7,UnitedHealthcare Presented by Maxxis,",, ,,",4.0,3,2011
+20,,48.0,,+0:00,1.0,Phinney Taylor,8,BMC Racing Team,",, ,,",2.0,3,2011
+26,,107.0,,+0:00,,Kocjan Jure,9,Team Type 1 - SANOFI,",, ,,",,3,2011
+36,,164.0,,+0:00,,Candelario Alex,10,Kelly Benefit Strategies - OptumHealth,",, ,,",,3,2011
+23,,38.0,,+0:00,,Swift Ben,11,Sky Procycling,",, ,,",,3,2011
+23,,62.0,,+0:00,,Caruso Damiano,12,Liquigas - Cannondale,",, ,,",,3,2011
+30,,13.0,,+0:00,,Hesjedal Ryder,13,Team Garmin - Cerv\xe9lo,",, ,,",,3,2011
+32,,96.0,,+0:00,,Pinfold Andrew,14,UnitedHealthcare Presented by Maxxis,",, ,,",,3,2011
+29,,154.0,,+0:00,,Hanson Ken,15,Jelly Belly presented by Kenda,",, ,,",,3,2011
+26,,105.0,,+0:00,,Ile\u0161i\u010d Aldo Ino,16,Team Type 1 - SANOFI,",, ,,",,3,2011
+37,,46.0,,+0:00,,Hincapie George,17,BMC Racing Team,",, ,,",,3,2011
+27,,42.0,,+0:00,,Bookwalter Brent,18,BMC Racing Team,",, ,,",,3,2011
+22,,21.0,,+0:00,,van Garderen Tejay,19,HTC - High Road,",, ,,",,3,2011
+33,,136.0,,+0:00,,Pipp Frank Kevin,20,Bissell Pro Cycling,",, ,,",,3,2011
+22,,15.0,,+0:00,,Talansky Andrew,21,Team Garmin - Cerv\xe9lo,",, ,,",,3,2011
+34,,17.0,,+0:00,,Vande Velde Christian,22,Team Garmin - Cerv\xe9lo,",, ,,",,3,2011
+29,,176.0,,+0:00,,Milne Shawn,23,Kenda Presented By Gear Grinder,",, ,,",,3,2011
+37,,8.0,,+0:00,,Leipheimer Levi,24,RadioShack,",, ,,",,3,2011
+28,,55.0,,+0:00,,Gerdemann Linus,25,Leopard Trek,",, ,,",,3,2011
+33,,12.0,,+0:00,,Danielson Thomas,26,Team Garmin - Cerv\xe9lo,",, ,,",,3,2011
+35,,81.0,,+0:00,,Freire Oscar,27,Rabobank Cycling Team,",, ,,",,3,2011
+39,,6.0,,+0:00,,Horner Chris,28,RadioShack,",, ,,",,3,2011
+32,,26.0,,+0:00,,Pate Danny,29,HTC - High Road,",, ,,",,3,2011
+25,,162.0,,+0:00,,Anthony Jesse,30,Kelly Benefit Strategies - OptumHealth,",, ,,",,3,2011
+30,,138.0,,+0:00,,Vennell Jeremy,31,Bissell Pro Cycling,",, ,,",,3,2011
+25,,33.0,,+0:00,,Froome Christopher,32,Sky Procycling,",, ,,",,3,2011
+30,,148.0,,+0:00,,Wren Tyler,33,Jamis - Sutter Home presented by Colavita,",, ,,",,3,2011
+31,,142.0,,+0:00,,Borrajo Alejandro Alberto,34,Jamis - Sutter Home presented by Colavita,",, ,,",,3,2011
+34,,102.0,,+0:00,,Bodrogi Laszlo,35,Team Type 1 - SANOFI,",, ,,",,3,2011
+25,,137.0,,+0:00,,Thomson Jay Robert,36,Bissell Pro Cycling,",, ,,",,3,2011
+28,,125.0,,+0:00,,Gilbert Martin,37,Spidertech Powered by C10,",, ,,",,3,2011
+30,,71.0,,+0:00,,Larsson Gustav,38,Saxo Bank - Sungard,",, ,,",,3,2011
+28,,44.0,,+0:00,,Morabito Steve,39,BMC Racing Team,",, ,,",,3,2011
+28,,167.0,,+0:00,,Friedman Michael,40,Kelly Benefit Strategies - OptumHealth,",, ,,",,3,2011
+26,,28.0,,+0:00,,Velits Peter,41,HTC - High Road,",, ,,",,3,2011
+29,,47.0,,+0:00,,Moinard Ama\xebl,42,BMC Racing Team,",, ,,",,3,2011
+26,,54.0,,+0:00,,Fuglsang Jakob,43,Leopard Trek,",, ,,",,3,2011
+34,,168.0,,+0:00,,Mumford Jonathan Reid,44,Kelly Benefit Strategies - OptumHealth,",, ,,",,3,2011
+24,,18.0,,+0:00,,Martin Daniel,45,Team Garmin - Cerv\xe9lo,",, ,,",,3,2011
+30,,67.0,,+0:00,,Da Dalto Mauro,46,Liquigas - Cannondale,",, ,,",,3,2011
+24,,65.0,,+0:00,,Oss Daniel,47,Liquigas - Cannondale,",, ,,",,3,2011
+32,,141.0,,+0:00,,Romero Amaran Luis,48,Jamis - Sutter Home presented by Colavita,",, ,,",,3,2011
+35,,86.0,,+0:00,,Niermann Grischa,49,Rabobank Cycling Team,",, ,,",,3,2011
+25,,51.0,,+0:00,,Schleck Andy,50,Leopard Trek,",, ,,",,3,2011
+30,,87.0,,+0:00,,ten Dam Laurens,51,Rabobank Cycling Team,",, ,,",,3,2011
+29,,91.0,,+0:00,,Sutherland Rory,52,UnitedHealthcare Presented by Maxxis,",, ,,",,3,2011
+23,,83.0,,+0:00,,Vermeltfoort Coen,53,Rabobank Cycling Team,",, ,,",,3,2011
+31,,166.0,,+0:00,,Donald Jason,54,Kelly Benefit Strategies - OptumHealth,",, ,,",,3,2011
+33,,88.0,,+0:00,,Tjallingii Maarten,55,Rabobank Cycling Team,",, ,,",,3,2011
+32,,101.0,,+0:00,,Bertogliati Rubens,56,Team Type 1 - SANOFI,",, ,,",,3,2011
+22,,1.0,,+0:00,,King Benjamin,57,RadioShack,",, ,,",,3,2011
+25,,178.0,,+0:00,,Stemper James,58,Kenda Presented By Gear Grinder,",, ,,",,3,2011
+29,,104.0,,+0:00,,Efimkin Alexander,59,Team Type 1 - SANOFI,",, ,,",,3,2011
+30,,116.0,,+0:00,,Huzarski Bartosz,60,Team Netapp,",, ,,",,3,2011
+23,,117.0,,+0:00,,K\xf6nig Leopold,61,Team Netapp,",, ,,",,3,2011
+32,,171.0,,+0:00,,Day Benjamin,62,Kenda Presented By Gear Grinder,",, ,,",,3,2011
+27,,124.0,,+0:00,,Euser Lucas,63,Spidertech Powered by C10,",, ,,",,3,2011
+31,,93.0,,+0:00,,Jones Chris,64,UnitedHealthcare Presented by Maxxis,",, ,,",,3,2011
+34,,106.0,,+0:00,,Kobzarenko Valery,65,Team Type 1 - SANOFI,",, ,,",,3,2011
+21,,41.0,,+0:00,,Eijssen Yannick,66,BMC Racing Team,",, ,,",,3,2011
+29,,127.0,,+0:00,,Mccarty Jonathan Patrick,67,Spidertech Powered by C10,",, ,,",,3,2011
+27,,68.0,,+0:00,,Wurf Cameron,68,Liquigas - Cannondale,",, ,,",,3,2011
+28,,114.0,,+0:00,,Dietziker Andreas,69,Team Netapp,",, ,,",,3,2011
+28,,64.0,,+0:00,,King Edward,70,Liquigas - Cannondale,",, ,,",,3,2011
+33,,97.0,,+0:00,,Wegelius Charles,71,UnitedHealthcare Presented by Maxxis,",, ,,",,3,2011
+32,,11.0,,+0:00,,Zabriskie David,72,Team Garmin - Cerv\xe9lo,",, ,,",,3,2011
+28,,57.0,,+0:00,,Pedersen Martin,73,Leopard Trek,",, ,,",,3,2011
+28,,143.0,,+0:00,,Borrajo Anibal Andres,74,Jamis - Sutter Home presented by Colavita,",, ,,",,3,2011
+34,,2.0,,+0:00,,Zubeldia Haimar,75,RadioShack,",, ,,",,3,2011
+28,,146.0,,+0:00,,Guptill Andy,76,Jamis - Sutter Home presented by Colavita,",, ,,",,3,2011
+32,,131.0,,+0:00,,Jacques-Maynes Benjamin,77,Bissell Pro Cycling,",, ,,",,3,2011
+23,,52.0,,+0:00,,Denifl Stefan,78,Leopard Trek,",, ,,",,3,2011
+29,,,,+0:00,,White Bradley,79,,",, ,,",,3,2011
+27,,84.0,,+0:00,,Martens Paul,80,Rabobank Cycling Team,",, ,,",,3,2011
+29,,78.0,,+0:00,,Vandborg Brian,81,Saxo Bank - Sungard,",, ,,",,3,2011
+28,,123.0,,+0:00,,Bell Zach,82,Spidertech Powered by C10,",, ,,",,3,2011
+31,,66.0,,+0:00,,Bellotti Francesco,83,Liquigas - Cannondale,",, ,,",,3,2011
+35,,132.0,,+0:00,,Baldwin Christopher,84,Bissell Pro Cycling,",, ,,",,3,2011
+31,,76.0,,+0:00,,Nuyens Nick,85,Saxo Bank - Sungard,",, ,,",,3,2011
+29,,174.0,,+0:00,,Hartley Chad,86,Kenda Presented By Gear Grinder,",, ,,",,3,2011
+24,,113.0,,+0:00,,Seubert Timon,87,Team Netapp,",, ,,",,3,2011
+26,,172.0,,+0:00,,Damiani Luca,88,Kenda Presented By Gear Grinder,",, ,,",,3,2011
+33,,34.0,,+0:00,,Hayman Mathew,89,Sky Procycling,",, ,,",,3,2011
+26,,56.0,,+0:00,,Lund Anders,90,Leopard Trek,",, ,,",,3,2011
+33,,95.0,,+0:00,,Menzies Karl,91,UnitedHealthcare Presented by Maxxis,",, ,,",,3,2011
+33,,43.0,,+0:00,,Louder Jeff,92,BMC Racing Team,",, ,,",,3,2011
+28,,177.0,,+0:00,,Rytlewski Jake,93,Kenda Presented By Gear Grinder,",, ,,",,3,2011
+30,,16.0,,+0:00,,Vansummeren Johan,94,Team Garmin - Cerv\xe9lo,",, ,,",,3,2011
+26,,155.0,,+0:00,,Hernandez Sergio,95,Jelly Belly presented by Kenda,",, ,,",,3,2011
+26,,133.0,,+0:00,,Britton Rob,96,Bissell Pro Cycling,",, ,,",,3,2011
+31,,151.0,,+0:00,,van Ulden Bernard,97,Jelly Belly presented by Kenda,",, ,,",,3,2011
+31,,5.0,,+0:00,,Irizar Markel,98,RadioShack,",, ,,",,3,2011
+29,,163.0,,+0:00,,Bowman Dan,99,Kelly Benefit Strategies - OptumHealth,",, ,,",,3,2011
+29,,135.0,,+0:00,,Mach Paul,100,Bissell Pro Cycling,",, ,,",,3,2011
+21,,45.0,,+0:00,,Roe Timothy,101,BMC Racing Team,",, ,,",,3,2011
+26,,53.0,,+0:00,,Mortensen Martin,102,Leopard Trek,",, ,,",,3,2011
+23,,37.0,,+0:00,,Stannard Ian,103,Sky Procycling,",, ,,",,3,2011
+27,,158.0,,+0:00,,Powers Jeremy,104,Jelly Belly presented by Kenda,",, ,,",,3,2011
+31,,3.0,,+0:00,,Muravyev Dmitriy,105,RadioShack,",, ,,",,3,2011
+32,,145.0,,+0:00,,Zirbel Tom,106,Jamis - Sutter Home presented by Colavita,",, ,,",,3,2011
+34,,121.0,,+0:00,,Tuft Svein,107,Spidertech Powered by C10,",, ,,",,3,2011
+26,,7.0,,+0:00,,Busche Matthew,108,RadioShack,",, ,,",,3,2011
+21,,156.0,,+0:00,,Loutit Alastair,109,Jelly Belly presented by Kenda,",, ,,",,3,2011
+29,,175.0,,+0:00,,Kilun Roman,110,Kenda Presented By Gear Grinder,",, ,,",,3,2011
+37,,36.0,,+0:00,,Hunt Jeremy,111,Sky Procycling,",, ,,",,3,2011
+28,,63.0,,+0:00,,Duggan Timothy,112,Liquigas - Cannondale,",, ,,",,3,2011
+34,,147.0,,+0:00,,Antogna Jose Fernando,113,Jamis - Sutter Home presented by Colavita,0:20 0:20,,3,2011
+26,,94.0,,+0:00,,Meier Christian,114,UnitedHealthcare Presented by Maxxis,0:30 0:30,,3,2011
+23,,122.0,,+0:00,,Anderson Ryan,115,Spidertech Powered by C10,",, 0:30",,3,2011
+38,,161.0,,+0:00,,Bajadali Andrew,116,Kelly Benefit Strategies - OptumHealth,",, 0:30",,3,2011
+35,,24.0,,+0:00,,Grabsch Bert,117,HTC - High Road,",, 0:30",,3,2011
+27,,128.0,,+0:00,,Routley Will,118,Spidertech Powered by C10,",, 0:30",,3,2011
+25,,82.0,,+0:00,,Boom Lars,119,Rabobank Cycling Team,0:36 0:36,,3,2011
+25,,77.0,,+0:00,,Jorgensen Jonas Aaen,120,Saxo Bank - Sungard,0:43 0:43,,3,2011
+28,,74.0,,+0:00,,Haedo Lucas Sebastian,121,Saxo Bank - Sungard,",, 0:43",,3,2011
+32,,72.0,,+0:00,,Cooke Baden,122,Saxo Bank - Sungard,",, 0:43",,3,2011
+26,,27.0,,+0:00,,Velits Martin,123,HTC - High Road,1:22 1:22,,3,2011
+30,,22.0,,+0:00,,Eisel Bernhard,124,HTC - High Road,",, 1:22",,3,2011
+24,,23.0,,+0:00,,Goss Matthew,125,HTC - High Road,",, 1:22",,3,2011
+26,,112.0,,+0:00,,B\xe1rta Jan,126,Team Netapp,2:08 2:08,,3,2011
+32,,134.0,,+0:00,,Jacques-Maynes Andy,127,Bissell Pro Cycling,",, 2:08",,3,2011
+22,,32.0,,+0:00,,Dowsett Alex,128,Sky Procycling,2:18 2:18,,3,2011
+20,,85.0,,+0:00,,Matthews Michael,129,Rabobank Cycling Team,",, 2:18",,3,2011
+25,,115.0,,+0:00,,Gottfried Alexander,130,Team Netapp,3:53 3:53,,3,2011
+30,,165.0,,+0:00,,Creed Michael,131,Kelly Benefit Strategies - OptumHealth,4:02 4:02,,3,2011
+39,,58.0,,+0:00,,Voigt Jens,132,Leopard Trek,4:37 4:37,,3,2011
+27,,118.0,,+0:00,,Schillinger Andreas,133,Team Netapp,5:53 5:53,,3,2011
+24,,103.0,,+0:00,,Dugan William,134,Team Type 1 - SANOFI,6:41 6:41,,3,2011
+36,,31.0,,+0:00,,Arvesen Kurt-Asle,135,Sky Procycling,9:15 9:15,,3,2011
+37,,4.0,,+0:00,,McCartney Jason,136,RadioShack,",, 9:15",,3,2011
+24,,153.0,,+0:00,,Hamilton Nic,137,Jelly Belly presented by Kenda,",, 9:15",,3,2011
+21,,79.0,,+0:00,,Majka Rafa\u0142,138,Saxo Bank - Sungard,",, 9:15",,3,2011
+25,,173.0,,+0:00,,Gaimon Phillip,139,Kenda Presented By Gear Grinder,",, 9:15",,3,2011
+29,,111.0,,+0:00,,Del Nero Jes\xfas,140,Team Netapp,",, 9:15",,3,2011
+27,,108.0,,+0:00,,Megias Javier,141,Team Type 1 - SANOFI,",, 9:15",,3,2011
+24,,144.0,,+0:00,,Driscoll James,142,Jamis - Sutter Home presented by Colavita,",, 9:15",,3,2011
+27,,152.0,,+0:00,,Hagman Alex,143,Jelly Belly presented by Kenda,",, 9:15",,3,2011
+28,,157.0,,+0:00,,Dickeson William,144,Jelly Belly presented by Kenda,",, 9:15",,3,2011
+39,,6.0,,+0:00,30.0,Horner Chris,1,RadioShack,3:27:51 3:27:51,20.0,4,2011
+25,,51.0,,+0:00,18.0,Schleck Andy,2,Leopard Trek,1:15 1:15,14.0,4,2011
+29,,91.0,,+0:00,12.0,Sutherland Rory,3,UnitedHealthcare Presented by Maxxis,",, 1:15",8.0,4,2011
+37,,8.0,,+0:00,7.0,Leipheimer Levi,4,RadioShack,",, 1:15",7.0,4,2011
+33,,12.0,,+0:00,4.0,Danielson Thomas,5,Team Garmin - Cerv\xe9lo,1:22 1:22,6.0,4,2011
+34,,17.0,,+0:00,3.0,Vande Velde Christian,6,Team Garmin - Cerv\xe9lo,1:29 1:29,5.0,4,2011
+30,,13.0,,+0:00,2.0,Hesjedal Ryder,7,Team Garmin - Cerv\xe9lo,1:36 1:36,4.0,4,2011
+30,,87.0,,+0:00,1.0,ten Dam Laurens,8,Rabobank Cycling Team,1:45 1:45,2.0,4,2011
+22,,15.0,,+0:00,,Talansky Andrew,9,Team Garmin - Cerv\xe9lo,1:50 1:50,,4,2011
+28,,55.0,,+0:00,,Gerdemann Linus,10,Leopard Trek,",, 1:50",,4,2011
+24,,18.0,,+0:00,,Martin Daniel,11,Team Garmin - Cerv\xe9lo,",, 1:50",,4,2011
+22,,21.0,,+0:00,,van Garderen Tejay,12,HTC - High Road,2:05 2:05,,4,2011
+28,,44.0,,+0:00,,Morabito Steve,13,BMC Racing Team,2:27 2:27,,4,2011
+27,,42.0,,+0:00,,Bookwalter Brent,14,BMC Racing Team,2:33 2:33,,4,2011
+29,,127.0,,+0:00,,Mccarty Jonathan Patrick,15,Spidertech Powered by C10,",, 2:33",,4,2011
+21,,61.0,,+0:00,,Sagan Peter,16,Liquigas - Cannondale,2:50 2:50,,4,2011
+25,,33.0,,+0:00,,Froome Christopher,17,Sky Procycling,2:53 2:53,,4,2011
+23,,62.0,,+0:00,,Caruso Damiano,18,Liquigas - Cannondale,3:04 3:04,,4,2011
+29,,47.0,,+0:00,,Moinard Ama\xebl,19,BMC Racing Team,",, 3:04",,4,2011
+26,,94.0,,+0:00,,Meier Christian,20,UnitedHealthcare Presented by Maxxis,3:25 3:25,,4,2011
+30,,71.0,,+0:00,,Larsson Gustav,21,Saxo Bank - Sungard,",, 3:25",,4,2011
+37,,46.0,,+0:00,,Hincapie George,22,BMC Racing Team,",, 3:25",,4,2011
+35,,86.0,,+0:00,,Niermann Grischa,23,Rabobank Cycling Team,3:37 3:37,,4,2011
+21,,79.0,,+0:00,,Majka Rafa\u0142,24,Saxo Bank - Sungard,",, 3:37",,4,2011
+26,,133.0,,+0:00,,Britton Rob,25,Bissell Pro Cycling,",, 3:37",,4,2011
+30,,148.0,,+0:00,,Wren Tyler,26,Jamis - Sutter Home presented by Colavita,3:59 3:59,,4,2011
+31,,66.0,,+0:00,,Bellotti Francesco,27,Liquigas - Cannondale,4:08 4:08,,4,2011
+29,,104.0,,+0:00,,Efimkin Alexander,28,Team Type 1 - SANOFI,4:10 4:10,,4,2011
+21,,41.0,,+0:00,,Eijssen Yannick,29,BMC Racing Team,4:13 4:13,,4,2011
+32,,141.0,,+0:00,,Romero Amaran Luis,30,Jamis - Sutter Home presented by Colavita,4:23 4:23,,4,2011
+35,,132.0,,+0:00,,Baldwin Christopher,31,Bissell Pro Cycling,4:30 4:30,,4,2011
+32,,11.0,,+0:00,,Zabriskie David,32,Team Garmin - Cerv\xe9lo,4:40 4:40,,4,2011
+29,,78.0,,+0:00,,Vandborg Brian,33,Saxo Bank - Sungard,",, 4:40",,4,2011
+32,,171.0,,+0:00,,Day Benjamin,34,Kenda Presented By Gear Grinder,5:16 5:16,,4,2011
+26,,7.0,,+0:00,,Busche Matthew,35,RadioShack,6:00 6:00,,4,2011
+31,,93.0,,+0:00,,Jones Chris,36,UnitedHealthcare Presented by Maxxis,6:32 6:32,,4,2011
+32,,26.0,,+0:00,,Pate Danny,37,HTC - High Road,",, 6:32",,4,2011
+27,,84.0,,+0:00,,Martens Paul,38,Rabobank Cycling Team,",, 6:32",,4,2011
+33,,43.0,,+0:00,,Louder Jeff,39,BMC Racing Team,",, 6:32",,4,2011
+21,,45.0,,+0:00,,Roe Timothy,40,BMC Racing Team,7:10 7:10,,4,2011
+39,,58.0,,+0:00,,Voigt Jens,41,Leopard Trek,7:52 7:52,,4,2011
+26,,28.0,,+0:00,,Velits Peter,42,HTC - High Road,8:14 8:14,,4,2011
+34,,2.0,,+0:00,,Zubeldia Haimar,43,RadioShack,10:39 10:39,,4,2011
+27,,124.0,,+0:00,,Euser Lucas,44,Spidertech Powered by C10,10:45 10:45,,4,2011
+38,,161.0,,+0:00,,Bajadali Andrew,45,Kelly Benefit Strategies - OptumHealth,10:52 10:52,,4,2011
+32,,101.0,,+0:00,,Bertogliati Rubens,46,Team Type 1 - SANOFI,11:02 11:02,,4,2011
+28,,177.0,,+0:00,,Rytlewski Jake,47,Kenda Presented By Gear Grinder,11:30 11:30,,4,2011
+25,,137.0,,+0:00,,Thomson Jay Robert,48,Bissell Pro Cycling,",, 11:30",,4,2011
+31,,166.0,,+0:00,,Donald Jason,49,Kelly Benefit Strategies - OptumHealth,",, 11:30",,4,2011
+33,,136.0,,+0:00,,Pipp Frank Kevin,50,Bissell Pro Cycling,",, 11:30",,4,2011
+32,,145.0,,+0:00,,Zirbel Tom,51,Jamis - Sutter Home presented by Colavita,",, 11:30",,4,2011
+27,,108.0,,+0:00,,Megias Javier,52,Team Type 1 - SANOFI,",, 11:30",,4,2011
+29,,135.0,,+0:00,,Mach Paul,53,Bissell Pro Cycling,11:59 11:59,,4,2011
+26,,54.0,,+0:00,,Fuglsang Jakob,54,Leopard Trek,12:27 12:27,,4,2011
+33,,88.0,,+0:00,,Tjallingii Maarten,55,Rabobank Cycling Team,12:40 12:40,,4,2011
+25,,162.0,,+0:00,,Anthony Jesse,56,Kelly Benefit Strategies - OptumHealth,",, 12:40",,4,2011
+36,,164.0,,+0:00,,Candelario Alex,57,Kelly Benefit Strategies - OptumHealth,",, 12:40",,4,2011
+34,,106.0,,+0:00,,Kobzarenko Valery,58,Team Type 1 - SANOFI,13:33 13:33,,4,2011
+31,,3.0,,+0:00,,Muravyev Dmitriy,59,RadioShack,14:12 14:12,,4,2011
+22,,1.0,,+0:00,,King Benjamin,60,RadioShack,",, 14:12",,4,2011
+25,,115.0,,+0:00,,Gottfried Alexander,61,Team Netapp,",, 14:12",,4,2011
+25,,178.0,,+0:00,,Stemper James,62,Kenda Presented By Gear Grinder,",, 14:12",,4,2011
+30,,116.0,,+0:00,,Huzarski Bartosz,63,Team Netapp,",, 14:12",,4,2011
+34,,102.0,,+0:00,,Bodrogi Laszlo,64,Team Type 1 - SANOFI,",, 14:12",,4,2011
+35,,81.0,,+0:00,,Freire Oscar,65,Rabobank Cycling Team,14:42 14:42,,4,2011
+32,,131.0,,+0:00,,Jacques-Maynes Benjamin,66,Bissell Pro Cycling,15:19 15:19,,4,2011
+30,,138.0,,+0:00,,Vennell Jeremy,67,Bissell Pro Cycling,15:23 15:23,,4,2011
+34,,35.0,,+0:00,,Henderson Gregory,68,Sky Procycling,",, 15:23",,4,2011
+26,,155.0,,+0:00,,Hernandez Sergio,69,Jelly Belly presented by Kenda,16:19 16:19,,4,2011
+27,,68.0,,+0:00,,Wurf Cameron,70,Liquigas - Cannondale,17:24 17:24,,4,2011
+37,,4.0,,+0:00,,McCartney Jason,71,RadioShack,22:05 22:05,,4,2011
+33,,97.0,,+0:00,,Wegelius Charles,72,UnitedHealthcare Presented by Maxxis,",, 22:05",,4,2011
+28,,57.0,,+0:00,,Pedersen Martin,73,Leopard Trek,",, 22:05",,4,2011
+21,,156.0,,+0:00,,Loutit Alastair,74,Jelly Belly presented by Kenda,23:07 23:07,,4,2011
+26,,112.0,,+0:00,,B\xe1rta Jan,75,Team Netapp,24:43 24:43,,4,2011
+32,,134.0,,+0:00,,Jacques-Maynes Andy,76,Bissell Pro Cycling,",, 24:43",,4,2011
+20,,48.0,,+0:00,,Phinney Taylor,77,BMC Racing Team,",, 24:43",,4,2011
+31,,151.0,,+0:00,,van Ulden Bernard,78,Jelly Belly presented by Kenda,",, 24:43",,4,2011
+27,,128.0,,+0:00,,Routley Will,79,Spidertech Powered by C10,",, 24:43",,4,2011
+28,,146.0,,+0:00,,Guptill Andy,80,Jamis - Sutter Home presented by Colavita,",, 24:43",,4,2011
+33,,92.0,,+0:00,,F\xf6rster Robert,81,UnitedHealthcare Presented by Maxxis,",, 24:43",,4,2011
+28,,114.0,,+0:00,,Dietziker Andreas,82,Team Netapp,",, 24:43",,4,2011
+29,,,,+0:00,,White Bradley,83,,",, 24:43",,4,2011
+26,,53.0,,+0:00,,Mortensen Martin,84,Leopard Trek,",, 24:43",,4,2011
+31,,5.0,,+0:00,,Irizar Markel,85,RadioShack,",, 24:43",,4,2011
+25,,77.0,,+0:00,,Jorgensen Jonas Aaen,86,Saxo Bank - Sungard,",, 24:43",,4,2011
+23,,37.0,,+0:00,,Stannard Ian,87,Sky Procycling,",, 24:43",,4,2011
+30,,73.0,,+0:00,,Haedo Juan Jose,88,Saxo Bank - Sungard,",, 24:43",,4,2011
+32,,72.0,,+0:00,,Cooke Baden,89,Saxo Bank - Sungard,",, 24:43",,4,2011
+30,,67.0,,+0:00,,Da Dalto Mauro,90,Liquigas - Cannondale,",, 24:43",,4,2011
+35,,24.0,,+0:00,,Grabsch Bert,91,HTC - High Road,",, 24:43",,4,2011
+23,,52.0,,+0:00,,Denifl Stefan,92,Leopard Trek,",, 24:43",,4,2011
+24,,23.0,,+0:00,,Goss Matthew,93,HTC - High Road,",, 24:43",,4,2011
+22,,32.0,,+0:00,,Dowsett Alex,94,Sky Procycling,",, 24:43",,4,2011
+24,,65.0,,+0:00,,Oss Daniel,95,Liquigas - Cannondale,",, 24:43",,4,2011
+33,,34.0,,+0:00,,Hayman Mathew,96,Sky Procycling,",, 24:43",,4,2011
+31,,76.0,,+0:00,,Nuyens Nick,97,Saxo Bank - Sungard,",, 24:43",,4,2011
+29,,154.0,,+0:00,,Hanson Ken,98,Jelly Belly presented by Kenda,",, 24:43",,4,2011
+27,,152.0,,+0:00,,Hagman Alex,99,Jelly Belly presented by Kenda,",, 24:43",,4,2011
+28,,64.0,,+0:00,,King Edward,100,Liquigas - Cannondale,",, 24:43",,4,2011
+28,,63.0,,+0:00,,Duggan Timothy,101,Liquigas - Cannondale,",, 24:43",,4,2011
+26,,27.0,,+0:00,,Velits Martin,102,HTC - High Road,",, 24:43",,4,2011
+29,,175.0,,+0:00,,Kilun Roman,103,Kenda Presented By Gear Grinder,",, 24:43",,4,2011
+23,,83.0,,+0:00,,Vermeltfoort Coen,104,Rabobank Cycling Team,",, 24:43",,4,2011
+26,,172.0,,+0:00,,Damiani Luca,105,Kenda Presented By Gear Grinder,",, 24:43",,4,2011
+23,,117.0,,+0:00,,K\xf6nig Leopold,106,Team Netapp,",, 24:43",,4,2011
+29,,111.0,,+0:00,,Del Nero Jes\xfas,107,Team Netapp,",, 24:43",,4,2011
+26,,56.0,,+0:00,,Lund Anders,108,Leopard Trek,",, 24:43",,4,2011
+26,,107.0,,+0:00,,Kocjan Jure,109,Team Type 1 - SANOFI,",, 24:43",,4,2011
+21,,25.0,,+0:00,,Howard Leigh,110,HTC - High Road,",, 24:43",,4,2011
+25,,173.0,,+0:00,,Gaimon Phillip,111,Kenda Presented By Gear Grinder,",, 24:43",,4,2011
+28,,167.0,,+0:00,,Friedman Michael,112,Kelly Benefit Strategies - OptumHealth,",, 24:43",,4,2011
+34,,168.0,,+0:00,,Mumford Jonathan Reid,113,Kelly Benefit Strategies - OptumHealth,",, 24:43",,4,2011
+29,,176.0,,+0:00,,Milne Shawn,114,Kenda Presented By Gear Grinder,",, 24:43",,4,2011
+29,,163.0,,+0:00,,Bowman Dan,115,Kelly Benefit Strategies - OptumHealth,",, 24:43",,4,2011
+28,,74.0,,+0:00,,Haedo Lucas Sebastian,116,Saxo Bank - Sungard,",, 24:43",,4,2011
+24,,113.0,,+0:00,,Seubert Timon,117,Team Netapp,",, 24:43",,4,2011
+23,,38.0,,+0:00,,Swift Ben,118,Sky Procycling,",, 24:43",,4,2011
+30,,22.0,,+0:00,,Eisel Bernhard,119,HTC - High Road,",, 24:43",,4,2011
+27,,158.0,,+0:00,,Powers Jeremy,120,Jelly Belly presented by Kenda,",, 24:43",,4,2011
+34,,147.0,,+0:00,,Antogna Jose Fernando,121,Jamis - Sutter Home presented by Colavita,",, 24:43",,4,2011
+28,,143.0,,+0:00,,Borrajo Anibal Andres,122,Jamis - Sutter Home presented by Colavita,",, 24:43",,4,2011
+23,,122.0,,+0:00,,Anderson Ryan,123,Spidertech Powered by C10,",, 24:43",,4,2011
+24,,144.0,,+0:00,,Driscoll James,124,Jamis - Sutter Home presented by Colavita,",, 24:43",,4,2011
+27,,118.0,,+0:00,,Schillinger Andreas,125,Team Netapp,",, 24:43",,4,2011
+34,,121.0,,+0:00,,Tuft Svein,126,Spidertech Powered by C10,",, 24:43",,4,2011
+28,,123.0,,+0:00,,Bell Zach,127,Spidertech Powered by C10,",, 24:43",,4,2011
+28,,157.0,,+0:00,,Dickeson William,128,Jelly Belly presented by Kenda,",, 24:43",,4,2011
+25,,126.0,,+0:00,,Lacombe Keven,129,Spidertech Powered by C10,",, 24:43",,4,2011
+25,,82.0,,+0:00,,Boom Lars,130,Rabobank Cycling Team,",, 24:43",,4,2011
+32,,96.0,,+0:00,,Pinfold Andrew,131,UnitedHealthcare Presented by Maxxis,",, 24:43",,4,2011
+33,,95.0,,+0:00,,Menzies Karl,132,UnitedHealthcare Presented by Maxxis,",, 24:43",,4,2011
+33,,14.0,,+0:00,,Hushovd Thor,133,Team Garmin - Cerv\xe9lo,",, 24:43",,4,2011
+31,,142.0,,+0:00,,Borrajo Alejandro Alberto,134,Jamis - Sutter Home presented by Colavita,",, 24:43",,4,2011
+26,,105.0,,+0:00,,Ile\u0161i\u010d Aldo Ino,135,Team Type 1 - SANOFI,",, 24:43",,4,2011
+30,,165.0,,+0:00,,Creed Michael,136,Kelly Benefit Strategies - OptumHealth,24:56 24:56,,4,2011
+28,,125.0,,+0:00,,Gilbert Martin,137,Spidertech Powered by C10,",, 24:56",,4,2011
+30,,16.0,,+0:00,,Vansummeren Johan,138,Team Garmin - Cerv\xe9lo,",, 24:56",,4,2011
+29,,174.0,,+0:00,,Hartley Chad,DNF,Kenda Presented By Gear Grinder,-3:27:51 -3:27:51,,4,2011
+37,,36.0,,+0:00,,Hunt Jeremy,DNF,Sky Procycling,",, -3:27:51",,4,2011
+36,,31.0,,+0:00,,Arvesen Kurt-Asle,DNF,Sky Procycling,",, -3:27:51",,4,2011
+24,,153.0,,+0:00,,Hamilton Nic,DNF,Jelly Belly presented by Kenda,",, -3:27:51",,4,2011
+24,,103.0,,+0:00,,Dugan William,DNS,Team Type 1 - SANOFI,",, -3:27:51",,4,2011
+20,,85.0,,+0:00,,Matthews Michael,DNS,Rabobank Cycling Team,",, -3:27:51",,4,2011
+21,,61.0,,+0:00,30.0,Sagan Peter,1,Liquigas - Cannondale,5:16:03 5:16:03,20.0,5,2011
+21,,25.0,,+0:00,18.0,Howard Leigh,2,HTC - High Road,",, ,,",14.0,5,2011
+23,,38.0,,+0:00,12.0,Swift Ben,3,Sky Procycling,",, ,,",8.0,5,2011
+27,,84.0,,+0:00,7.0,Martens Paul,4,Rabobank Cycling Team,",, ,,",7.0,5,2011
+36,,164.0,,+0:00,4.0,Candelario Alex,5,Kelly Benefit Strategies - OptumHealth,",, ,,",6.0,5,2011
+25,,77.0,,+0:00,3.0,Jorgensen Jonas Aaen,6,Saxo Bank - Sungard,",, ,,",5.0,5,2011
+23,,83.0,,+0:00,2.0,Vermeltfoort Coen,7,Rabobank Cycling Team,",, ,,",4.0,5,2011
+20,,48.0,,+0:00,1.0,Phinney Taylor,8,BMC Racing Team,",, ,,",2.0,5,2011
+33,,136.0,,+0:00,,Pipp Frank Kevin,9,Bissell Pro Cycling,",, ,,",,5,2011
+25,,115.0,,+0:00,,Gottfried Alexander,10,Team Netapp,",, ,,",,5,2011
+39,,6.0,,+0:00,,Horner Chris,11,RadioShack,",, ,,",,5,2011
+35,,86.0,,+0:00,,Niermann Grischa,12,Rabobank Cycling Team,",, ,,",,5,2011
+33,,12.0,,+0:00,,Danielson Thomas,13,Team Garmin - Cerv\xe9lo,",, ,,",,5,2011
+34,,17.0,,+0:00,,Vande Velde Christian,14,Team Garmin - Cerv\xe9lo,",, ,,",,5,2011
+30,,13.0,,+0:00,,Hesjedal Ryder,15,Team Garmin - Cerv\xe9lo,",, ,,",,5,2011
+30,,87.0,,+0:00,,ten Dam Laurens,16,Rabobank Cycling Team,",, ,,",,5,2011
+37,,46.0,,+0:00,,Hincapie George,17,BMC Racing Team,",, ,,",,5,2011
+32,,141.0,,+0:00,,Romero Amaran Luis,18,Jamis - Sutter Home presented by Colavita,",, ,,",,5,2011
+31,,142.0,,+0:00,,Borrajo Alejandro Alberto,19,Jamis - Sutter Home presented by Colavita,",, ,,",,5,2011
+29,,91.0,,+0:00,,Sutherland Rory,20,UnitedHealthcare Presented by Maxxis,",, ,,",,5,2011
+26,,53.0,,+0:00,,Mortensen Martin,21,Leopard Trek,",, ,,",,5,2011
+30,,148.0,,+0:00,,Wren Tyler,22,Jamis - Sutter Home presented by Colavita,",, ,,",,5,2011
+37,,8.0,,+0:00,,Leipheimer Levi,23,RadioShack,",, ,,",,5,2011
+28,,44.0,,+0:00,,Morabito Steve,24,BMC Racing Team,",, ,,",,5,2011
+24,,65.0,,+0:00,,Oss Daniel,25,Liquigas - Cannondale,",, ,,",,5,2011
+26,,7.0,,+0:00,,Busche Matthew,26,RadioShack,",, ,,",,5,2011
+21,,79.0,,+0:00,,Majka Rafa\u0142,27,Saxo Bank - Sungard,",, ,,",,5,2011
+34,,102.0,,+0:00,,Bodrogi Laszlo,28,Team Type 1 - SANOFI,",, ,,",,5,2011
+34,,35.0,,+0:00,,Henderson Gregory,29,Sky Procycling,",, ,,",,5,2011
+28,,123.0,,+0:00,,Bell Zach,30,Spidertech Powered by C10,",, ,,",,5,2011
+30,,67.0,,+0:00,,Da Dalto Mauro,31,Liquigas - Cannondale,",, ,,",,5,2011
+30,,116.0,,+0:00,,Huzarski Bartosz,32,Team Netapp,",, ,,",,5,2011
+25,,51.0,,+0:00,,Schleck Andy,33,Leopard Trek,",, ,,",,5,2011
+28,,55.0,,+0:00,,Gerdemann Linus,34,Leopard Trek,",, ,,",,5,2011
+26,,28.0,,+0:00,,Velits Peter,35,HTC - High Road,",, ,,",,5,2011
+29,,47.0,,+0:00,,Moinard Ama\xebl,36,BMC Racing Team,",, ,,",,5,2011
+22,,21.0,,+0:00,,van Garderen Tejay,37,HTC - High Road,",, ,,",,5,2011
+34,,106.0,,+0:00,,Kobzarenko Valery,38,Team Type 1 - SANOFI,",, ,,",,5,2011
+28,,57.0,,+0:00,,Pedersen Martin,39,Leopard Trek,",, ,,",,5,2011
+29,,78.0,,+0:00,,Vandborg Brian,40,Saxo Bank - Sungard,",, ,,",,5,2011
+32,,26.0,,+0:00,,Pate Danny,41,HTC - High Road,",, ,,",,5,2011
+34,,2.0,,+0:00,,Zubeldia Haimar,42,RadioShack,",, ,,",,5,2011
+33,,97.0,,+0:00,,Wegelius Charles,43,UnitedHealthcare Presented by Maxxis,",, ,,",,5,2011
+27,,124.0,,+0:00,,Euser Lucas,44,Spidertech Powered by C10,",, ,,",,5,2011
+32,,11.0,,+0:00,,Zabriskie David,45,Team Garmin - Cerv\xe9lo,",, ,,",,5,2011
+33,,34.0,,+0:00,,Hayman Mathew,46,Sky Procycling,0:10 0:10,,5,2011
+30,,138.0,,+0:00,,Vennell Jeremy,47,Bissell Pro Cycling,0:18 0:18,,5,2011
+28,,74.0,,+0:00,,Haedo Lucas Sebastian,48,Saxo Bank - Sungard,0:40 0:40,,5,2011
+28,,143.0,,+0:00,,Borrajo Anibal Andres,49,Jamis - Sutter Home presented by Colavita,",, 0:40",,5,2011
+25,,82.0,,+0:00,,Boom Lars,50,Rabobank Cycling Team,0:42 0:42,,5,2011
+22,,15.0,,+0:00,,Talansky Andrew,51,Team Garmin - Cerv\xe9lo,0:47 0:47,,5,2011
+27,,42.0,,+0:00,,Bookwalter Brent,52,BMC Racing Team,",, 0:47",,5,2011
+26,,133.0,,+0:00,,Britton Rob,53,Bissell Pro Cycling,",, 0:47",,5,2011
+30,,22.0,,+0:00,,Eisel Bernhard,54,HTC - High Road,",, 0:47",,5,2011
+29,,104.0,,+0:00,,Efimkin Alexander,55,Team Type 1 - SANOFI,",, 0:47",,5,2011
+24,,23.0,,+0:00,,Goss Matthew,56,HTC - High Road,",, 0:47",,5,2011
+32,,72.0,,+0:00,,Cooke Baden,57,Saxo Bank - Sungard,",, 0:47",,5,2011
+26,,94.0,,+0:00,,Meier Christian,58,UnitedHealthcare Presented by Maxxis,",, 0:47",,5,2011
+26,,107.0,,+0:00,,Kocjan Jure,59,Team Type 1 - SANOFI,",, 0:47",,5,2011
+32,,96.0,,+0:00,,Pinfold Andrew,60,UnitedHealthcare Presented by Maxxis,",, 0:47",,5,2011
+31,,93.0,,+0:00,,Jones Chris,61,UnitedHealthcare Presented by Maxxis,",, 0:47",,5,2011
+26,,56.0,,+0:00,,Lund Anders,62,Leopard Trek,",, 0:47",,5,2011
+32,,171.0,,+0:00,,Day Benjamin,63,Kenda Presented By Gear Grinder,",, 0:47",,5,2011
+29,,127.0,,+0:00,,Mccarty Jonathan Patrick,64,Spidertech Powered by C10,",, 0:47",,5,2011
+32,,101.0,,+0:00,,Bertogliati Rubens,65,Team Type 1 - SANOFI,",, 0:47",,5,2011
+23,,62.0,,+0:00,,Caruso Damiano,66,Liquigas - Cannondale,",, 0:47",,5,2011
+25,,33.0,,+0:00,,Froome Christopher,67,Sky Procycling,",, 0:47",,5,2011
+23,,37.0,,+0:00,,Stannard Ian,68,Sky Procycling,",, 0:47",,5,2011
+31,,76.0,,+0:00,,Nuyens Nick,69,Saxo Bank - Sungard,",, 0:47",,5,2011
+26,,155.0,,+0:00,,Hernandez Sergio,70,Jelly Belly presented by Kenda,",, 0:47",,5,2011
+28,,114.0,,+0:00,,Dietziker Andreas,71,Team Netapp,",, 0:47",,5,2011
+32,,145.0,,+0:00,,Zirbel Tom,72,Jamis - Sutter Home presented by Colavita,",, 0:47",,5,2011
+24,,113.0,,+0:00,,Seubert Timon,73,Team Netapp,",, 0:47",,5,2011
+28,,64.0,,+0:00,,King Edward,74,Liquigas - Cannondale,",, 0:47",,5,2011
+34,,121.0,,+0:00,,Tuft Svein,75,Spidertech Powered by C10,",, 0:47",,5,2011
+31,,66.0,,+0:00,,Bellotti Francesco,76,Liquigas - Cannondale,",, 0:47",,5,2011
+27,,68.0,,+0:00,,Wurf Cameron,77,Liquigas - Cannondale,",, 0:47",,5,2011
+39,,58.0,,+0:00,,Voigt Jens,78,Leopard Trek,",, 0:47",,5,2011
+26,,54.0,,+0:00,,Fuglsang Jakob,79,Leopard Trek,",, 0:47",,5,2011
+28,,177.0,,+0:00,,Rytlewski Jake,80,Kenda Presented By Gear Grinder,",, 0:47",,5,2011
+28,,63.0,,+0:00,,Duggan Timothy,81,Liquigas - Cannondale,",, 0:47",,5,2011
+28,,146.0,,+0:00,,Guptill Andy,82,Jamis - Sutter Home presented by Colavita,",, 0:47",,5,2011
+30,,165.0,,+0:00,,Creed Michael,83,Kelly Benefit Strategies - OptumHealth,",, 0:47",,5,2011
+25,,137.0,,+0:00,,Thomson Jay Robert,84,Bissell Pro Cycling,",, 0:47",,5,2011
+29,,135.0,,+0:00,,Mach Paul,85,Bissell Pro Cycling,",, 0:47",,5,2011
+34,,168.0,,+0:00,,Mumford Jonathan Reid,86,Kelly Benefit Strategies - OptumHealth,",, 0:47",,5,2011
+35,,132.0,,+0:00,,Baldwin Christopher,87,Bissell Pro Cycling,",, 0:47",,5,2011
+33,,88.0,,+0:00,,Tjallingii Maarten,88,Rabobank Cycling Team,",, 0:47",,5,2011
+24,,18.0,,+0:00,,Martin Daniel,89,Team Garmin - Cerv\xe9lo,",, 0:47",,5,2011
+30,,16.0,,+0:00,,Vansummeren Johan,90,Team Garmin - Cerv\xe9lo,",, 0:47",,5,2011
+31,,166.0,,+0:00,,Donald Jason,91,Kelly Benefit Strategies - OptumHealth,",, 0:47",,5,2011
+38,,161.0,,+0:00,,Bajadali Andrew,92,Kelly Benefit Strategies - OptumHealth,",, 0:47",,5,2011
+29,,154.0,,+0:00,,Hanson Ken,93,Jelly Belly presented by Kenda,",, 0:47",,5,2011
+31,,151.0,,+0:00,,van Ulden Bernard,94,Jelly Belly presented by Kenda,",, 0:47",,5,2011
+29,,163.0,,+0:00,,Bowman Dan,95,Kelly Benefit Strategies - OptumHealth,",, 0:47",,5,2011
+27,,128.0,,+0:00,,Routley Will,96,Spidertech Powered by C10,",, 0:47",,5,2011
+21,,45.0,,+0:00,,Roe Timothy,97,BMC Racing Team,",, 0:47",,5,2011
+21,,41.0,,+0:00,,Eijssen Yannick,98,BMC Racing Team,1:01 1:01,,5,2011
+35,,81.0,,+0:00,,Freire Oscar,99,Rabobank Cycling Team,2:21 2:21,,5,2011
+31,,5.0,,+0:00,,Irizar Markel,100,RadioShack,2:36 2:36,,5,2011
+22,,1.0,,+0:00,,King Benjamin,101,RadioShack,",, 2:36",,5,2011
+31,,3.0,,+0:00,,Muravyev Dmitriy,102,RadioShack,",, 2:36",,5,2011
+27,,108.0,,+0:00,,Megias Javier,103,Team Type 1 - SANOFI,3:18 3:18,,5,2011
+33,,43.0,,+0:00,,Louder Jeff,104,BMC Racing Team,3:42 3:42,,5,2011
+25,,162.0,,+0:00,,Anthony Jesse,105,Kelly Benefit Strategies - OptumHealth,3:59 3:59,,5,2011
+26,,27.0,,+0:00,,Velits Martin,106,HTC - High Road,",, 3:59",,5,2011
+33,,92.0,,+0:00,,F\xf6rster Robert,107,UnitedHealthcare Presented by Maxxis,",, 3:59",,5,2011
+29,,175.0,,+0:00,,Kilun Roman,108,Kenda Presented By Gear Grinder,",, 3:59",,5,2011
+30,,73.0,,+0:00,,Haedo Juan Jose,109,Saxo Bank - Sungard,",, 3:59",,5,2011
+32,,134.0,,+0:00,,Jacques-Maynes Andy,110,Bissell Pro Cycling,4:10 4:10,,5,2011
+23,,117.0,,+0:00,,K\xf6nig Leopold,111,Team Netapp,4:31 4:31,,5,2011
+27,,118.0,,+0:00,,Schillinger Andreas,112,Team Netapp,7:13 7:13,,5,2011
+26,,112.0,,+0:00,,B\xe1rta Jan,113,Team Netapp,7:31 7:31,,5,2011
+29,,176.0,,+0:00,,Milne Shawn,114,Kenda Presented By Gear Grinder,",, 7:31",,5,2011
+25,,173.0,,+0:00,,Gaimon Phillip,115,Kenda Presented By Gear Grinder,9:57 9:57,,5,2011
+28,,157.0,,+0:00,,Dickeson William,116,Jelly Belly presented by Kenda,",, 9:57",,5,2011
+25,,178.0,,+0:00,,Stemper James,117,Kenda Presented By Gear Grinder,",, 9:57",,5,2011
+27,,152.0,,+0:00,,Hagman Alex,118,Jelly Belly presented by Kenda,",, 9:57",,5,2011
+24,,144.0,,+0:00,,Driscoll James,119,Jamis - Sutter Home presented by Colavita,",, 9:57",,5,2011
+23,,52.0,,+0:00,,Denifl Stefan,120,Leopard Trek,",, 9:57",,5,2011
+27,,158.0,,+0:00,,Powers Jeremy,121,Jelly Belly presented by Kenda,",, 9:57",,5,2011
+28,,167.0,,+0:00,,Friedman Michael,122,Kelly Benefit Strategies - OptumHealth,",, 9:57",,5,2011
+26,,105.0,,+0:00,,Ile\u0161i\u010d Aldo Ino,123,Team Type 1 - SANOFI,",, 9:57",,5,2011
+29,,111.0,,+0:00,,Del Nero Jes\xfas,124,Team Netapp,",, 9:57",,5,2011
+25,,126.0,,+0:00,,Lacombe Keven,125,Spidertech Powered by C10,",, 9:57",,5,2011
+37,,4.0,,+0:00,,McCartney Jason,126,RadioShack,",, 9:57",,5,2011
+33,,95.0,,+0:00,,Menzies Karl,127,UnitedHealthcare Presented by Maxxis,",, 9:57",,5,2011
+29,,,,+0:00,,White Bradley,128,,",, 9:57",,5,2011
+28,,125.0,,+0:00,,Gilbert Martin,129,Spidertech Powered by C10,11:08 11:08,,5,2011
+26,,172.0,,+0:00,,Damiani Luca,130,Kenda Presented By Gear Grinder,",, 11:08",,5,2011
+34,,147.0,,+0:00,,Antogna Jose Fernando,131,Jamis - Sutter Home presented by Colavita,",, 11:08",,5,2011
+23,,122.0,,+0:00,,Anderson Ryan,132,Spidertech Powered by C10,",, 11:08",,5,2011
+21,,156.0,,+0:00,,Loutit Alastair,133,Jelly Belly presented by Kenda,13:33 13:33,,5,2011
+33,,14.0,,+0:00,,Hushovd Thor,DNF,Team Garmin - Cerv\xe9lo,-5:16:03 -5:16:03,,5,2011
+35,,24.0,,+0:00,,Grabsch Bert,DNF,HTC - High Road,",, -5:16:03",,5,2011
+22,,32.0,,+0:00,,Dowsett Alex,DNF,Sky Procycling,",, -5:16:03",,5,2011
+32,,131.0,,+0:00,,Jacques-Maynes Benjamin,DNF,Bissell Pro Cycling,",, -5:16:03",,5,2011
+30,,71.0,,+0:00,,Larsson Gustav,DNF,Saxo Bank - Sungard,",, -5:16:03",,5,2011
+32,47.281000000000006,11.0,,+0:00,30.0,Zabriskie David,1,Team Garmin - Cerv\xe9lo,30:35 30:35,20.0,6,2011
+37,46.923,8.0,,+0:00,18.0,Leipheimer Levi,2,RadioShack,0:14 0:14,14.0,6,2011
+22,46.272,21.0,,+0:00,12.0,van Garderen Tejay,3,HTC - High Road,0:40 0:40,8.0,6,2011
+26,46.075,28.0,,+0:00,7.0,Velits Peter,4,HTC - High Road,0:48 0:48,7.0,6,2011
+33,46.051,88.0,,+0:00,4.0,Tjallingii Maarten,5,Rabobank Cycling Team,0:49 0:49,6.0,6,2011
+39,46.001999999999995,6.0,,+0:00,3.0,Horner Chris,6,RadioShack,0:51 0:51,5.0,6,2011
+26,45.953,54.0,,+0:00,2.0,Fuglsang Jakob,7,Leopard Trek,0:53 0:53,4.0,6,2011
+30,45.808,138.0,,+0:00,1.0,Vennell Jeremy,8,Bissell Pro Cycling,0:59 0:59,2.0,6,2011
+29,45.808,91.0,,+0:00,,Sutherland Rory,9,UnitedHealthcare Presented by Maxxis,",, 0:59",,6,2011
+34,45.75899999999999,17.0,,+0:00,,Vande Velde Christian,10,Team Garmin - Cerv\xe9lo,1:01 1:01,,6,2011
+22,45.543,15.0,,+0:00,,Talansky Andrew,11,Team Garmin - Cerv\xe9lo,1:10 1:10,,6,2011
+32,45.543,26.0,,+0:00,,Pate Danny,12,HTC - High Road,",, 1:10",,6,2011
+33,45.472,12.0,,+0:00,,Danielson Thomas,13,Team Garmin - Cerv\xe9lo,1:13 1:13,,6,2011
+21,45.424,61.0,,+0:00,,Sagan Peter,14,Liquigas - Cannondale,1:15 1:15,,6,2011
+28,45.14,55.0,,+0:00,,Gerdemann Linus,15,Leopard Trek,1:27 1:27,,6,2011
+27,45.14,42.0,,+0:00,,Bookwalter Brent,16,BMC Racing Team,",, 1:27",,6,2011
+34,45.047,102.0,,+0:00,,Bodrogi Laszlo,17,Team Type 1 - SANOFI,1:31 1:31,,6,2011
+23,45.023,37.0,,+0:00,,Stannard Ian,18,Sky Procycling,1:32 1:32,,6,2011
+30,44.977,87.0,,+0:00,,ten Dam Laurens,19,Rabobank Cycling Team,1:34 1:34,,6,2011
+35,44.977,86.0,,+0:00,,Niermann Grischa,20,Rabobank Cycling Team,",, 1:34",,6,2011
+20,44.907,48.0,,+0:00,,Phinney Taylor,21,BMC Racing Team,1:37 1:37,,6,2011
+26,44.86,33.0,,+0:00,,Froome Christopher,22,Sky Procycling,1:39 1:39,,6,2011
+30,44.791000000000004,13.0,,+0:00,,Hesjedal Ryder,23,Team Garmin - Cerv\xe9lo,1:42 1:42,,6,2011
+28,44.791000000000004,44.0,,+0:00,,Morabito Steve,24,BMC Racing Team,",, 1:42",,6,2011
+37,44.745,46.0,,+0:00,,Hincapie George,25,BMC Racing Team,1:44 1:44,,6,2011
+29,44.699,78.0,,+0:00,,Vandborg Brian,26,Saxo Bank - Sungard,1:46 1:46,,6,2011
+31,44.653,151.0,,+0:00,,van Ulden Bernard,27,Jelly Belly presented by Kenda,1:48 1:48,,6,2011
+26,44.653,53.0,,+0:00,,Mortensen Martin,28,Leopard Trek,",, 1:48",,6,2011
+32,44.607,101.0,,+0:00,,Bertogliati Rubens,29,Team Type 1 - SANOFI,1:50 1:50,,6,2011
+26,44.607,133.0,,+0:00,,Britton Rob,30,Bissell Pro Cycling,",, 1:50",,6,2011
+25,44.446999999999996,82.0,,+0:00,,Boom Lars,31,Rabobank Cycling Team,1:57 1:57,,6,2011
+23,44.379,62.0,,+0:00,,Caruso Damiano,32,Liquigas - Cannondale,2:00 2:00,,6,2011
+27,44.356,84.0,,+0:00,,Martens Paul,33,Rabobank Cycling Team,2:01 2:01,,6,2011
+24,44.333,65.0,,+0:00,,Oss Daniel,34,Liquigas - Cannondale,2:02 2:02,,6,2011
+32,44.265,141.0,,+0:00,,Romero Amaran Luis,35,Jamis - Sutter Home presented by Colavita,2:05 2:05,,6,2011
+33,44.198,136.0,,+0:00,,Pipp Frank Kevin,36,Bissell Pro Cycling,2:08 2:08,,6,2011
+32,44.041000000000004,171.0,,+0:00,,Day Benjamin,37,Kenda Presented By Gear Grinder,2:15 2:15,,6,2011
+25,44.041000000000004,51.0,,+0:00,,Schleck Andy,38,Leopard Trek,",, 2:15",,6,2011
+30,44.041000000000004,116.0,,+0:00,,Huzarski Bartosz,39,Team Netapp,",, 2:15",,6,2011
+33,44.018,97.0,,+0:00,,Wegelius Charles,40,UnitedHealthcare Presented by Maxxis,2:16 2:16,,6,2011
+28,43.974,157.0,,+0:00,,Dickeson William,41,Jelly Belly presented by Kenda,2:18 2:18,,6,2011
+29,43.951,176.0,,+0:00,,Milne Shawn,42,Kenda Presented By Gear Grinder,2:19 2:19,,6,2011
+26,43.708,112.0,,+0:00,,B\xe1rta Jan,43,Team Netapp,2:30 2:30,,6,2011
+33,43.68600000000001,34.0,,+0:00,,Hayman Mathew,44,Sky Procycling,2:31 2:31,,6,2011
+28,43.663999999999994,123.0,,+0:00,,Bell Zach,45,Spidertech Powered by C10,2:32 2:32,,6,2011
+34,43.663999999999994,2.0,,+0:00,,Zubeldia Haimar,46,RadioShack,",, 2:32",,6,2011
+34,43.598,35.0,,+0:00,,Henderson Gregory,47,Sky Procycling,2:35 2:35,,6,2011
+34,43.598,121.0,,+0:00,,Tuft Svein,48,Spidertech Powered by C10,",, 2:35",,6,2011
+29,43.532,47.0,,+0:00,,Moinard Ama\xebl,49,BMC Racing Team,2:38 2:38,,6,2011
+35,43.489,132.0,,+0:00,,Baldwin Christopher,50,Bissell Pro Cycling,2:40 2:40,,6,2011
+24,43.402,113.0,,+0:00,,Seubert Timon,51,Team Netapp,2:44 2:44,,6,2011
+23,43.38,83.0,,+0:00,,Vermeltfoort Coen,52,Rabobank Cycling Team,2:45 2:45,,6,2011
+26,43.336999999999996,94.0,,+0:00,,Meier Christian,53,UnitedHealthcare Presented by Maxxis,2:47 2:47,,6,2011
+31,43.315,5.0,,+0:00,,Irizar Markel,54,RadioShack,2:48 2:48,,6,2011
+32,43.272,134.0,,+0:00,,Jacques-Maynes Andy,55,Bissell Pro Cycling,2:50 2:50,,6,2011
+21,43.229,79.0,,+0:00,,Majka Rafa\u0142,56,Saxo Bank - Sungard,2:52 2:52,,6,2011
+25,43.207,137.0,,+0:00,,Thomson Jay Robert,57,Bissell Pro Cycling,2:53 2:53,,6,2011
+29,43.163999999999994,104.0,,+0:00,,Efimkin Alexander,58,Team Type 1 - SANOFI,2:55 2:55,,6,2011
+31,43.143,66.0,,+0:00,,Bellotti Francesco,59,Liquigas - Cannondale,2:56 2:56,,6,2011
+31,43.036,166.0,,+0:00,,Donald Jason,60,Kelly Benefit Strategies - OptumHealth,3:01 3:01,,6,2011
+21,42.887,25.0,,+0:00,,Howard Leigh,61,HTC - High Road,3:08 3:08,,6,2011
+30,42.887,165.0,,+0:00,,Creed Michael,62,Kelly Benefit Strategies - OptumHealth,",, 3:08",,6,2011
+21,42.823,45.0,,+0:00,,Roe Timothy,63,BMC Racing Team,3:11 3:11,,6,2011
+26,42.823,27.0,,+0:00,,Velits Martin,64,HTC - High Road,",, 3:11",,6,2011
+22,42.781000000000006,1.0,,+0:00,,King Benjamin,65,RadioShack,3:13 3:13,,6,2011
+33,42.76,43.0,,+0:00,,Louder Jeff,66,BMC Racing Team,3:14 3:14,,6,2011
+29,42.696999999999996,,,+0:00,,White Bradley,67,,3:17 3:17,,6,2011
+37,42.655,4.0,,+0:00,,McCartney Jason,68,RadioShack,3:19 3:19,,6,2011
+28,42.63399999999999,177.0,,+0:00,,Rytlewski Jake,69,Kenda Presented By Gear Grinder,3:20 3:20,,6,2011
+27,42.55,68.0,,+0:00,,Wurf Cameron,70,Liquigas - Cannondale,3:24 3:24,,6,2011
+28,42.50899999999999,167.0,,+0:00,,Friedman Michael,71,Kelly Benefit Strategies - OptumHealth,3:26 3:26,,6,2011
+25,42.488,178.0,,+0:00,,Stemper James,72,Kenda Presented By Gear Grinder,3:27 3:27,,6,2011
+34,42.467,168.0,,+0:00,,Mumford Jonathan Reid,73,Kelly Benefit Strategies - OptumHealth,3:28 3:28,,6,2011
+30,42.446000000000005,16.0,,+0:00,,Vansummeren Johan,74,Team Garmin - Cerv\xe9lo,3:29 3:29,,6,2011
+28,42.405,74.0,,+0:00,,Haedo Lucas Sebastian,75,Saxo Bank - Sungard,3:31 3:31,,6,2011
+25,42.321999999999996,162.0,,+0:00,,Anthony Jesse,76,Kelly Benefit Strategies - OptumHealth,3:35 3:35,,6,2011
+28,42.301,63.0,,+0:00,,Duggan Timothy,77,Liquigas - Cannondale,3:36 3:36,,6,2011
+26,42.281000000000006,155.0,,+0:00,,Hernandez Sergio,78,Jelly Belly presented by Kenda,3:37 3:37,,6,2011
+28,42.24,64.0,,+0:00,,King Edward,79,Liquigas - Cannondale,3:39 3:39,,6,2011
+31,42.24,93.0,,+0:00,,Jones Chris,80,UnitedHealthcare Presented by Maxxis,",, 3:39",,6,2011
+29,42.178000000000004,175.0,,+0:00,,Kilun Roman,81,Kenda Presented By Gear Grinder,3:42 3:42,,6,2011
+23,42.157,122.0,,+0:00,,Anderson Ryan,82,Spidertech Powered by C10,3:43 3:43,,6,2011
+23,42.157,38.0,,+0:00,,Swift Ben,83,Sky Procycling,",, 3:43",,6,2011
+26,42.157,7.0,,+0:00,,Busche Matthew,84,RadioShack,",, 3:43",,6,2011
+34,42.117,106.0,,+0:00,,Kobzarenko Valery,85,Team Type 1 - SANOFI,3:45 3:45,,6,2011
+26,42.096000000000004,105.0,,+0:00,,Ile\u0161i\u010d Aldo Ino,86,Team Type 1 - SANOFI,3:46 3:46,,6,2011
+27,42.096000000000004,108.0,,+0:00,,Megias Javier,87,Team Type 1 - SANOFI,",, 3:46",,6,2011
+30,42.096000000000004,67.0,,+0:00,,Da Dalto Mauro,88,Liquigas - Cannondale,",, 3:46",,6,2011
+29,42.015,135.0,,+0:00,,Mach Paul,89,Bissell Pro Cycling,3:50 3:50,,6,2011
+24,41.994,23.0,,+0:00,,Goss Matthew,90,HTC - High Road,3:51 3:51,,6,2011
+24,41.994,18.0,,+0:00,,Martin Daniel,91,Team Garmin - Cerv\xe9lo,",, 3:51",,6,2011
+29,41.95399999999999,111.0,,+0:00,,Del Nero Jes\xfas,92,Team Netapp,3:53 3:53,,6,2011
+26,41.95399999999999,56.0,,+0:00,,Lund Anders,93,Leopard Trek,",, 3:53",,6,2011
+32,41.913000000000004,72.0,,+0:00,,Cooke Baden,94,Saxo Bank - Sungard,3:55 3:55,,6,2011
+33,41.832,95.0,,+0:00,,Menzies Karl,95,UnitedHealthcare Presented by Maxxis,3:59 3:59,,6,2011
+32,41.812,96.0,,+0:00,,Pinfold Andrew,96,UnitedHealthcare Presented by Maxxis,4:00 4:00,,6,2011
+30,41.792,73.0,,+0:00,,Haedo Juan Jose,97,Saxo Bank - Sungard,4:01 4:01,,6,2011
+32,41.772,145.0,,+0:00,,Zirbel Tom,98,Jamis - Sutter Home presented by Colavita,4:02 4:02,,6,2011
+28,41.772,57.0,,+0:00,,Pedersen Martin,99,Leopard Trek,",, 4:02",,6,2011
+36,41.751999999999995,164.0,,+0:00,,Candelario Alex,100,Kelly Benefit Strategies - OptumHealth,4:03 4:03,,6,2011
+34,41.631,147.0,,+0:00,,Antogna Jose Fernando,101,Jamis - Sutter Home presented by Colavita,4:09 4:09,,6,2011
+33,41.631,92.0,,+0:00,,F\xf6rster Robert,102,UnitedHealthcare Presented by Maxxis,",, 4:09",,6,2011
+29,41.592,127.0,,+0:00,,Mccarty Jonathan Patrick,103,Spidertech Powered by C10,4:11 4:11,,6,2011
+21,41.571999999999996,41.0,,+0:00,,Eijssen Yannick,104,BMC Racing Team,4:12 4:12,,6,2011
+26,41.552,172.0,,+0:00,,Damiani Luca,105,Kenda Presented By Gear Grinder,4:13 4:13,,6,2011
+30,41.532,148.0,,+0:00,,Wren Tyler,106,Jamis - Sutter Home presented by Colavita,4:14 4:14,,6,2011
+28,41.512,143.0,,+0:00,,Borrajo Anibal Andres,107,Jamis - Sutter Home presented by Colavita,4:15 4:15,,6,2011
+27,41.472,124.0,,+0:00,,Euser Lucas,108,Spidertech Powered by C10,4:17 4:17,,6,2011
+24,41.452,144.0,,+0:00,,Driscoll James,109,Jamis - Sutter Home presented by Colavita,4:18 4:18,,6,2011
+27,41.393,158.0,,+0:00,,Powers Jeremy,110,Jelly Belly presented by Kenda,4:21 4:21,,6,2011
+31,41.393,3.0,,+0:00,,Muravyev Dmitriy,111,RadioShack,",, 4:21",,6,2011
+25,41.373000000000005,115.0,,+0:00,,Gottfried Alexander,112,Team Netapp,4:22 4:22,,6,2011
+28,41.216,114.0,,+0:00,,Dietziker Andreas,113,Team Netapp,4:30 4:30,,6,2011
+25,41.177,77.0,,+0:00,,Jorgensen Jonas Aaen,114,Saxo Bank - Sungard,4:32 4:32,,6,2011
+31,41.157,76.0,,+0:00,,Nuyens Nick,115,Saxo Bank - Sungard,4:33 4:33,,6,2011
+25,41.06,126.0,,+0:00,,Lacombe Keven,116,Spidertech Powered by C10,4:38 4:38,,6,2011
+35,41.041000000000004,81.0,,+0:00,,Freire Oscar,117,Rabobank Cycling Team,4:39 4:39,,6,2011
+25,40.983000000000004,173.0,,+0:00,,Gaimon Phillip,118,Kenda Presented By Gear Grinder,4:42 4:42,,6,2011
+28,40.963,125.0,,+0:00,,Gilbert Martin,119,Spidertech Powered by C10,4:43 4:43,,6,2011
+27,40.867,152.0,,+0:00,,Hagman Alex,120,Jelly Belly presented by Kenda,4:48 4:48,,6,2011
+21,40.809,156.0,,+0:00,,Loutit Alastair,121,Jelly Belly presented by Kenda,4:51 4:51,,6,2011
+26,40.79,107.0,,+0:00,,Kocjan Jure,122,Team Type 1 - SANOFI,4:52 4:52,,6,2011
+30,40.79,22.0,,+0:00,,Eisel Bernhard,123,HTC - High Road,",, 4:52",,6,2011
+38,40.732,161.0,,+0:00,,Bajadali Andrew,124,Kelly Benefit Strategies - OptumHealth,4:55 4:55,,6,2011
+28,40.523,146.0,,+0:00,,Guptill Andy,125,Jamis - Sutter Home presented by Colavita,5:06 5:06,,6,2011
+27,40.41,118.0,,+0:00,,Schillinger Andreas,126,Team Netapp,5:12 5:12,,6,2011
+29,40.316,154.0,,+0:00,,Hanson Ken,127,Jelly Belly presented by Kenda,5:17 5:17,,6,2011
+29,40.223,163.0,,+0:00,,Bowman Dan,128,Kelly Benefit Strategies - OptumHealth,5:22 5:22,,6,2011
+23,40.037,52.0,,+0:00,,Denifl Stefan,129,Leopard Trek,5:32 5:32,,6,2011
+27,39.798,128.0,,+0:00,,Routley Will,130,Spidertech Powered by C10,5:45 5:45,,6,2011
+31,38.732,142.0,,+0:00,,Borrajo Alejandro Alberto,131,Jamis - Sutter Home presented by Colavita,6:45 6:45,,6,2011
+37,,8.0,,+0:00,30.0,Leipheimer Levi,1,RadioShack,3:33:01 3:33:01,20.0,7,2011
+39,,6.0,,+0:00,18.0,Horner Chris,2,RadioShack,",, ,,",14.0,7,2011
+30,,87.0,,+0:00,12.0,ten Dam Laurens,3,Rabobank Cycling Team,0:43 0:43,8.0,7,2011
+33,,12.0,,+0:00,7.0,Danielson Thomas,4,Team Garmin - Cerv\xe9lo,1:01 1:01,7.0,7,2011
+28,,44.0,,+0:00,4.0,Morabito Steve,5,BMC Racing Team,1:21 1:21,6.0,7,2011
+29,,104.0,,+0:00,3.0,Efimkin Alexander,6,Team Type 1 - SANOFI,",, 1:21",5.0,7,2011
+22,,21.0,,+0:00,2.0,van Garderen Tejay,7,HTC - High Road,1:29 1:29,4.0,7,2011
+23,,62.0,,+0:00,1.0,Caruso Damiano,8,Liquigas - Cannondale,1:39 1:39,2.0,7,2011
+25,,51.0,,+0:00,,Schleck Andy,9,Leopard Trek,",, 1:39",,7,2011
+34,,17.0,,+0:00,,Vande Velde Christian,10,Team Garmin - Cerv\xe9lo,",, 1:39",,7,2011
+21,,79.0,,+0:00,,Majka Rafa\u0142,11,Saxo Bank - Sungard,2:09 2:09,,7,2011
+31,,66.0,,+0:00,,Bellotti Francesco,12,Liquigas - Cannondale,2:29 2:29,,7,2011
+29,,91.0,,+0:00,,Sutherland Rory,13,UnitedHealthcare Presented by Maxxis,2:34 2:34,,7,2011
+33,,97.0,,+0:00,,Wegelius Charles,14,UnitedHealthcare Presented by Maxxis,",, 2:34",,7,2011
+24,,18.0,,+0:00,,Martin Daniel,15,Team Garmin - Cerv\xe9lo,2:49 2:49,,7,2011
+26,,7.0,,+0:00,,Busche Matthew,16,RadioShack,2:56 2:56,,7,2011
+26,,94.0,,+0:00,,Meier Christian,17,UnitedHealthcare Presented by Maxxis,3:10 3:10,,7,2011
+29,,78.0,,+0:00,,Vandborg Brian,18,Saxo Bank - Sungard,",, 3:10",,7,2011
+27,,84.0,,+0:00,,Martens Paul,19,Rabobank Cycling Team,3:15 3:15,,7,2011
+32,,26.0,,+0:00,,Pate Danny,20,HTC - High Road,",, 3:15",,7,2011
+32,,141.0,,+0:00,,Romero Amaran Luis,21,Jamis - Sutter Home presented by Colavita,3:19 3:19,,7,2011
+32,,145.0,,+0:00,,Zirbel Tom,22,Jamis - Sutter Home presented by Colavita,3:23 3:23,,7,2011
+30,,13.0,,+0:00,,Hesjedal Ryder,23,Team Garmin - Cerv\xe9lo,3:49 3:49,,7,2011
+28,,55.0,,+0:00,,Gerdemann Linus,24,Leopard Trek,3:56 3:56,,7,2011
+26,,28.0,,+0:00,,Velits Peter,25,HTC - High Road,4:08 4:08,,7,2011
+26,,133.0,,+0:00,,Britton Rob,26,Bissell Pro Cycling,4:30 4:30,,7,2011
+27,,42.0,,+0:00,,Bookwalter Brent,27,BMC Racing Team,4:34 4:34,,7,2011
+30,,116.0,,+0:00,,Huzarski Bartosz,28,Team Netapp,4:48 4:48,,7,2011
+35,,132.0,,+0:00,,Baldwin Christopher,29,Bissell Pro Cycling,5:19 5:19,,7,2011
+35,,86.0,,+0:00,,Niermann Grischa,30,Rabobank Cycling Team,5:37 5:37,,7,2011
+29,,47.0,,+0:00,,Moinard Ama\xebl,31,BMC Racing Team,6:25 6:25,,7,2011
+22,,15.0,,+0:00,,Talansky Andrew,32,Team Garmin - Cerv\xe9lo,",, 6:25",,7,2011
+37,,46.0,,+0:00,,Hincapie George,33,BMC Racing Team,",, 6:25",,7,2011
+23,,37.0,,+0:00,,Stannard Ian,34,Sky Procycling,",, 6:25",,7,2011
+26,,54.0,,+0:00,,Fuglsang Jakob,35,Leopard Trek,6:33 6:33,,7,2011
+25,,173.0,,+0:00,,Gaimon Phillip,36,Kenda Presented By Gear Grinder,7:39 7:39,,7,2011
+29,,135.0,,+0:00,,Mach Paul,37,Bissell Pro Cycling,7:52 7:52,,7,2011
+31,,93.0,,+0:00,,Jones Chris,38,UnitedHealthcare Presented by Maxxis,8:48 8:48,,7,2011
+31,,3.0,,+0:00,,Muravyev Dmitriy,39,RadioShack,",, 8:48",,7,2011
+28,,63.0,,+0:00,,Duggan Timothy,40,Liquigas - Cannondale,9:56 9:56,,7,2011
+26,,155.0,,+0:00,,Hernandez Sergio,41,Jelly Belly presented by Kenda,",, 9:56",,7,2011
+27,,124.0,,+0:00,,Euser Lucas,42,Spidertech Powered by C10,",, 9:56",,7,2011
+34,,2.0,,+0:00,,Zubeldia Haimar,43,RadioShack,",, 9:56",,7,2011
+30,,165.0,,+0:00,,Creed Michael,44,Kelly Benefit Strategies - OptumHealth,",, 9:56",,7,2011
+27,,108.0,,+0:00,,Megias Javier,45,Team Type 1 - SANOFI,",, 9:56",,7,2011
+26,,56.0,,+0:00,,Lund Anders,46,Leopard Trek,",, 9:56",,7,2011
+30,,16.0,,+0:00,,Vansummeren Johan,47,Team Garmin - Cerv\xe9lo,",, 9:56",,7,2011
+34,,102.0,,+0:00,,Bodrogi Laszlo,48,Team Type 1 - SANOFI,10:50 10:50,,7,2011
+24,,144.0,,+0:00,,Driscoll James,49,Jamis - Sutter Home presented by Colavita,11:19 11:19,,7,2011
+34,,35.0,,+0:00,,Henderson Gregory,50,Sky Procycling,11:20 11:20,,7,2011
+22,,1.0,,+0:00,,King Benjamin,51,RadioShack,14:11 14:11,,7,2011
+30,,22.0,,+0:00,,Eisel Bernhard,52,HTC - High Road,",, 14:11",,7,2011
+33,,88.0,,+0:00,,Tjallingii Maarten,53,Rabobank Cycling Team,",, 14:11",,7,2011
+32,,101.0,,+0:00,,Bertogliati Rubens,54,Team Type 1 - SANOFI,",, 14:11",,7,2011
+33,,34.0,,+0:00,,Hayman Mathew,55,Sky Procycling,",, 14:11",,7,2011
+23,,38.0,,+0:00,,Swift Ben,56,Sky Procycling,",, 14:11",,7,2011
+34,,106.0,,+0:00,,Kobzarenko Valery,57,Team Type 1 - SANOFI,",, 14:11",,7,2011
+26,,27.0,,+0:00,,Velits Martin,58,HTC - High Road,",, 14:11",,7,2011
+24,,65.0,,+0:00,,Oss Daniel,59,Liquigas - Cannondale,",, 14:11",,7,2011
+31,,5.0,,+0:00,,Irizar Markel,60,RadioShack,",, 14:11",,7,2011
+28,,74.0,,+0:00,,Haedo Lucas Sebastian,61,Saxo Bank - Sungard,",, 14:11",,7,2011
+35,,81.0,,+0:00,,Freire Oscar,62,Rabobank Cycling Team,",, 14:11",,7,2011
+32,,11.0,,+0:00,,Zabriskie David,63,Team Garmin - Cerv\xe9lo,",, 14:11",,7,2011
+33,,43.0,,+0:00,,Louder Jeff,64,BMC Racing Team,",, 14:11",,7,2011
+29,,127.0,,+0:00,,Mccarty Jonathan Patrick,65,Spidertech Powered by C10,15:06 15:06,,7,2011
+31,,76.0,,+0:00,,Nuyens Nick,66,Saxo Bank - Sungard,16:02 16:02,,7,2011
+24,,23.0,,+0:00,,Goss Matthew,67,HTC - High Road,",, 16:02",,7,2011
+28,,114.0,,+0:00,,Dietziker Andreas,68,Team Netapp,",, 16:02",,7,2011
+21,,25.0,,+0:00,,Howard Leigh,69,HTC - High Road,",, 16:02",,7,2011
+30,,138.0,,+0:00,,Vennell Jeremy,70,Bissell Pro Cycling,",, 16:02",,7,2011
+25,,137.0,,+0:00,,Thomson Jay Robert,71,Bissell Pro Cycling,17:17 17:17,,7,2011
+30,,148.0,,+0:00,,Wren Tyler,72,Jamis - Sutter Home presented by Colavita,",, 17:17",,7,2011
+37,,4.0,,+0:00,,McCartney Jason,73,RadioShack,",, 17:17",,7,2011
+28,,57.0,,+0:00,,Pedersen Martin,74,Leopard Trek,",, 17:17",,7,2011
+34,,168.0,,+0:00,,Mumford Jonathan Reid,75,Kelly Benefit Strategies - OptumHealth,",, 17:17",,7,2011
+26,,112.0,,+0:00,,B\xe1rta Jan,76,Team Netapp,",, 17:17",,7,2011
+28,,64.0,,+0:00,,King Edward,77,Liquigas - Cannondale,",, 17:17",,7,2011
+21,,45.0,,+0:00,,Roe Timothy,78,BMC Racing Team,",, 17:17",,7,2011
+29,,163.0,,+0:00,,Bowman Dan,79,Kelly Benefit Strategies - OptumHealth,",, 17:17",,7,2011
+30,,67.0,,+0:00,,Da Dalto Mauro,80,Liquigas - Cannondale,",, 17:17",,7,2011
+21,,61.0,,+0:00,,Sagan Peter,81,Liquigas - Cannondale,",, 17:17",,7,2011
+29,,176.0,,+0:00,,Milne Shawn,82,Kenda Presented By Gear Grinder,",, 17:17",,7,2011
+27,,68.0,,+0:00,,Wurf Cameron,83,Liquigas - Cannondale,",, 17:17",,7,2011
+31,,151.0,,+0:00,,van Ulden Bernard,84,Jelly Belly presented by Kenda,17:39 17:39,,7,2011
+25,,115.0,,+0:00,,Gottfried Alexander,85,Team Netapp,17:40 17:40,,7,2011
+23,,52.0,,+0:00,,Denifl Stefan,86,Leopard Trek,17:57 17:57,,7,2011
+27,,158.0,,+0:00,,Powers Jeremy,87,Jelly Belly presented by Kenda,18:25 18:25,,7,2011
+25,,77.0,,+0:00,,Jorgensen Jonas Aaen,88,Saxo Bank - Sungard,18:35 18:35,,7,2011
+36,,164.0,,+0:00,,Candelario Alex,89,Kelly Benefit Strategies - OptumHealth,",, 18:35",,7,2011
+38,,161.0,,+0:00,,Bajadali Andrew,90,Kelly Benefit Strategies - OptumHealth,",, 18:35",,7,2011
+32,,96.0,,+0:00,,Pinfold Andrew,91,UnitedHealthcare Presented by Maxxis,32:21 32:21,,7,2011
+28,,177.0,,+0:00,,Rytlewski Jake,92,Kenda Presented By Gear Grinder,",, 32:21",,7,2011
+31,,166.0,,+0:00,,Donald Jason,93,Kelly Benefit Strategies - OptumHealth,",, 32:21",,7,2011
+32,,72.0,,+0:00,,Cooke Baden,94,Saxo Bank - Sungard,",, 32:21",,7,2011
+32,,134.0,,+0:00,,Jacques-Maynes Andy,95,Bissell Pro Cycling,",, 32:21",,7,2011
+29,,111.0,,+0:00,,Del Nero Jes\xfas,96,Team Netapp,",, 32:21",,7,2011
+26,,172.0,,+0:00,,Damiani Luca,97,Kenda Presented By Gear Grinder,",, 32:21",,7,2011
+23,,83.0,,+0:00,,Vermeltfoort Coen,98,Rabobank Cycling Team,",, 32:21",,7,2011
+28,,146.0,,+0:00,,Guptill Andy,99,Jamis - Sutter Home presented by Colavita,",, 32:21",,7,2011
+20,,48.0,,+0:00,,Phinney Taylor,100,BMC Racing Team,",, 32:21",,7,2011
+28,,123.0,,+0:00,,Bell Zach,101,Spidertech Powered by C10,",, 32:21",,7,2011
+25,,178.0,,+0:00,,Stemper James,102,Kenda Presented By Gear Grinder,",, 32:21",,7,2011
+33,,136.0,,+0:00,,Pipp Frank Kevin,103,Bissell Pro Cycling,",, 32:21",,7,2011
+25,,126.0,,+0:00,,Lacombe Keven,104,Spidertech Powered by C10,",, 32:21",,7,2011
+26,,53.0,,+0:00,,Mortensen Martin,105,Leopard Trek,",, 32:21",,7,2011
+28,,125.0,,+0:00,,Gilbert Martin,106,Spidertech Powered by C10,",, 32:21",,7,2011
+26,,107.0,,+0:00,,Kocjan Jure,107,Team Type 1 - SANOFI,",, 32:21",,7,2011
+21,,41.0,,+0:00,,Eijssen Yannick,108,BMC Racing Team,",, 32:21",,7,2011
+27,,128.0,,+0:00,,Routley Will,109,Spidertech Powered by C10,",, 32:21",,7,2011
+34,,147.0,,+0:00,,Antogna Jose Fernando,110,Jamis - Sutter Home presented by Colavita,",, 32:21",,7,2011
+23,,122.0,,+0:00,,Anderson Ryan,111,Spidertech Powered by C10,",, 32:21",,7,2011
+34,,121.0,,+0:00,,Tuft Svein,112,Spidertech Powered by C10,",, 32:21",,7,2011
+28,,167.0,,+0:00,,Friedman Michael,113,Kelly Benefit Strategies - OptumHealth,",, 32:21",,7,2011
+28,,143.0,,+0:00,,Borrajo Anibal Andres,114,Jamis - Sutter Home presented by Colavita,",, 32:21",,7,2011
+29,,175.0,,+0:00,,Kilun Roman,115,Kenda Presented By Gear Grinder,",, 32:21",,7,2011
+24,,113.0,,+0:00,,Seubert Timon,116,Team Netapp,",, 32:21",,7,2011
+32,,171.0,,+0:00,,Day Benjamin,117,Kenda Presented By Gear Grinder,",, 32:21",,7,2011
+26,,33.0,,+0:00,,Froome Christopher,118,Sky Procycling,",, 32:21",,7,2011
+30,,73.0,,+0:00,,Haedo Juan Jose,119,Saxo Bank - Sungard,",, 32:21",,7,2011
+27,,152.0,,+0:00,,Hagman Alex,120,Jelly Belly presented by Kenda,",, 32:21",,7,2011
+29,,154.0,,+0:00,,Hanson Ken,121,Jelly Belly presented by Kenda,",, 32:21",,7,2011
+26,,105.0,,+0:00,,Ile\u0161i\u010d Aldo Ino,122,Team Type 1 - SANOFI,",, 32:21",,7,2011
+33,,92.0,,+0:00,,F\xf6rster Robert,123,UnitedHealthcare Presented by Maxxis,",, 32:21",,7,2011
+28,,157.0,,+0:00,,Dickeson William,124,Jelly Belly presented by Kenda,",, 32:21",,7,2011
+33,,95.0,,+0:00,,Menzies Karl,125,UnitedHealthcare Presented by Maxxis,",, 32:21",,7,2011
+29,,,,+0:00,,White Bradley,126,,",, 32:21",,7,2011
+31,,142.0,,+0:00,,Borrajo Alejandro Alberto,DNF,Jamis - Sutter Home presented by Colavita,-3:33:01 -3:33:01,,7,2011
+21,,156.0,,+0:00,,Loutit Alastair,DNF,Jelly Belly presented by Kenda,",, -3:33:01",,7,2011
+25,,162.0,,+0:00,,Anthony Jesse,DNF,Kelly Benefit Strategies - OptumHealth,",, -3:33:01",,7,2011
+25,,82.0,,+0:00,,Boom Lars,DNF,Rabobank Cycling Team,",, -3:33:01",,7,2011
+27,,118.0,,+0:00,,Schillinger Andreas,DNF,Team Netapp,",, -3:33:01",,7,2011
+24,,23.0,75.0,+44:18,30.0,Goss Matthew,1,HTC - High Road,2:56:39 2:56:39,20.0,8,2011
+21,,61.0,35.0,+20:09,18.0,Sagan Peter,2,Liquigas - Cannondale,",, ,,",14.0,8,2011
+34,,35.0,46.0,+28:13,12.0,Henderson Gregory,3,Sky Procycling,",, ,,",8.0,8,2011
+35,,81.0,56.0,+34:59,7.0,Freire Oscar,4,Rabobank Cycling Team,",, ,,",7.0,8,2011
+25,,126.0,117.0,+1:10:48,4.0,Lacombe Keven,5,Spidertech Powered by C10,",, ,,",6.0,8,2011
+20,,48.0,93.0,+57:50,3.0,Phinney Taylor,6,BMC Racing Team,",, ,,",5.0,8,2011
+26,,107.0,104.0,+1:02:07,2.0,Kocjan Jure,7,Team Type 1 - SANOFI,",, ,,",4.0,8,2011
+29,,154.0,105.0,+1:02:17,1.0,Hanson Ken,8,Jelly Belly presented by Kenda,",, ,,",2.0,8,2011
+28,,143.0,99.0,+1:01:08,,Borrajo Anibal Andres,9,Jamis - Sutter Home presented by Colavita,",, ,,",,8,2011
+30,,73.0,110.0,+1:04:07,,Haedo Juan Jose,10,Saxo Bank - Sungard,",, ,,",,8,2011
+29,,176.0,90.0,+50:59,,Milne Shawn,11,Kenda Presented By Gear Grinder,",, ,,",,8,2011
+24,,113.0,103.0,+1:01:57,,Seubert Timon,12,Team Netapp,",, ,,",,8,2011
+36,,164.0,55.0,+34:27,,Candelario Alex,13,Kelly Benefit Strategies - OptumHealth,",, ,,",,8,2011
+26,,94.0,20.0,+9:58,,Meier Christian,14,UnitedHealthcare Presented by Maxxis,",, ,,",,8,2011
+21,,25.0,72.0,+42:56,,Howard Leigh,15,HTC - High Road,",, ,,",,8,2011
+34,,136.0,77.0,+45:08,,Pipp Frank Kevin,16,Bissell Pro Cycling,",, ,,",,8,2011
+32,,96.0,100.0,+1:01:26,,Pinfold Andrew,17,UnitedHealthcare Presented by Maxxis,",, ,,",,8,2011
+31,,93.0,32.0,+19:10,,Jones Chris,18,UnitedHealthcare Presented by Maxxis,",, ,,",,8,2011
+26,,105.0,115.0,+1:09:56,,Ile\u0161i\u010d Aldo Ino,19,Team Type 1 - SANOFI,",, ,,",,8,2011
+33,,12.0,3.0,+2:45,,Danielson Thomas,20,Team Garmin - Cerv\xe9lo,",, ,,",,8,2011
+28,,114.0,80.0,+45:26,,Dietziker Andreas,21,Team Netapp,",, ,,",,8,2011
+30,,16.0,61.0,+38:43,,Vansummeren Johan,22,Team Garmin - Cerv\xe9lo,",, ,,",,8,2011
+23,,83.0,96.0,+59:24,,Vermeltfoort Coen,23,Rabobank Cycling Team,",, ,,",,8,2011
+32,,141.0,16.0,+9:07,,Romero Amaran Luis,24,Jamis - Sutter Home presented by Colavita,",, ,,",,8,2011
+35,,132.0,27.0,+12:22,,Baldwin Christopher,25,Bissell Pro Cycling,",, ,,",,8,2011
+30,,13.0,10.0,+6:16,,Hesjedal Ryder,26,Team Garmin - Cerv\xe9lo,",, ,,",,8,2011
+27,,42.0,15.0,+8:50,,Bookwalter Brent,27,BMC Racing Team,",, ,,",,8,2011
+22,,21.0,5.0,+3:23,,van Garderen Tejay,28,HTC - High Road,",, ,,",,8,2011
+35,,17.0,4.0,+3:18,,Vande Velde Christian,29,Team Garmin - Cerv\xe9lo,",, ,,",,8,2011
+25,,51.0,8.0,+4:33,,Schleck Andy,30,Leopard Trek,",, ,,",,8,2011
+22,,15.0,17.0,+9:21,,Talansky Andrew,31,Team Garmin - Cerv\xe9lo,",, ,,",,8,2011
+37,,46.0,22.0,+10:43,,Hincapie George,32,BMC Racing Team,",, ,,",,8,2011
+23,,38.0,69.0,+41:32,,Swift Ben,33,Sky Procycling,",, ,,",,8,2011
+26,,54.0,34.0,+20:00,,Fuglsang Jakob,34,Leopard Trek,",, ,,",,8,2011
+28,,44.0,9.0,+4:50,,Morabito Steve,35,BMC Racing Team,",, ,,",,8,2011
+28,,55.0,11.0,+6:22,,Gerdemann Linus,36,Leopard Trek,",, ,,",,8,2011
+34,,106.0,49.0,+31:19,,Kobzarenko Valery,37,Team Type 1 - SANOFI,",, ,,",,8,2011
+32,,134.0,111.0,+1:05:29,,Jacques-Maynes Andy,38,Bissell Pro Cycling,",, ,,",,8,2011
+30,,87.0,6.0,+3:26,,ten Dam Laurens,39,Rabobank Cycling Team,",, ,,",,8,2011
+25,,137.0,51.0,+32:17,,Thomson Jay Robert,40,Bissell Pro Cycling,",, ,,",,8,2011
+29,,104.0,13.0,+8:37,,Efimkin Alexander,41,Team Type 1 - SANOFI,",, ,,",,8,2011
+35,,86.0,21.0,+10:12,,Niermann Grischa,42,Rabobank Cycling Team,",, ,,",,8,2011
+24,,18.0,14.0,+8:39,,Martin Daniel,43,Team Garmin - Cerv\xe9lo,",, ,,",,8,2011
+29,,91.0,7.0,+4:12,,Sutherland Rory,44,UnitedHealthcare Presented by Maxxis,",, ,,",,8,2011
+27,,158.0,92.0,+56:50,,Powers Jeremy,45,Jelly Belly presented by Kenda,",, ,,",,8,2011
+30,,165.0,71.0,+42:22,,Creed Michael,46,Kelly Benefit Strategies - OptumHealth,",, ,,",,8,2011
+33,,43.0,43.0,+26:59,,Louder Jeff,47,BMC Racing Team,",, ,,",,8,2011
+31,,66.0,18.0,+9:44,,Bellotti Francesco,48,Liquigas - Cannondale,",, ,,",,8,2011
+35,,168.0,79.0,+45:24,,Mumford Jonathan Reid,49,Kelly Benefit Strategies - OptumHealth,",, ,,",,8,2011
+28,,123.0,97.0,+59:26,,Bell Zach,50,Spidertech Powered by C10,",, ,,",,8,2011
+28,,125.0,119.0,+1:12:17,,Gilbert Martin,51,Spidertech Powered by C10,",, ,,",,8,2011
+26,,56.0,62.0,+38:54,,Lund Anders,52,Leopard Trek,",, ,,",,8,2011
+32,,145.0,31.0,+19:06,,Zirbel Tom,53,Jamis - Sutter Home presented by Colavita,",, ,,",,8,2011
+26,,155.0,50.0,+32:04,,Hernandez Sergio,54,Jelly Belly presented by Kenda,",, ,,",,8,2011
+29,,111.0,124.0,+1:19:33,,Del Nero Jes\xfas,55,Team Netapp,",, ,,",,8,2011
+31,,166.0,85.0,+47:03,,Donald Jason,56,Kelly Benefit Strategies - OptumHealth,",, ,,",,8,2011
+34,,102.0,41.0,+26:23,,Bodrogi Laszlo,57,Team Type 1 - SANOFI,",, ,,",,8,2011
+23,,62.0,12.0,+6:39,,Caruso Damiano,58,Liquigas - Cannondale,",, ,,",,8,2011
+33,,95.0,116.0,+1:10:09,,Menzies Karl,59,UnitedHealthcare Presented by Maxxis,",, ,,",,8,2011
+28,,64.0,82.0,+45:35,,King Edward,60,Liquigas - Cannondale,",, ,,",,8,2011
+32,,101.0,44.0,+27:14,,Bertogliati Rubens,61,Team Type 1 - SANOFI,",, ,,",,8,2011
+34,,2.0,38.0,+22:42,,Zubeldia Haimar,62,RadioShack,",, ,,",,8,2011
+37,,8.0,2.0,+0:38,,Leipheimer Levi,63,RadioShack,",, ,,",,8,2011
+26,,7.0,26.0,+12:03,,Busche Matthew,64,RadioShack,",, ,,",,8,2011
+39,,6.0,1.0,+0:00,,Horner Chris,65,RadioShack,",, ,,",,8,2011
+31,,5.0,74.0,+43:38,,Irizar Markel,66,RadioShack,",, ,,",,8,2011
+31,,76.0,81.0,+45:29,,Nuyens Nick,67,Saxo Bank - Sungard,",, ,,",,8,2011
+29,,78.0,19.0,+9:46,,Vandborg Brian,68,Saxo Bank - Sungard,",, ,,",,8,2011
+21,,79.0,30.0,+17:43,,Majka Rafa\u0142,69,Saxo Bank - Sungard,",, ,,",,8,2011
+27,,108.0,58.0,+37:35,,Megias Javier,70,Team Type 1 - SANOFI,",, ,,",,8,2011
+27,,84.0,24.0,+11:38,,Martens Paul,71,Rabobank Cycling Team,",, ,,",,8,2011
+29,,163.0,87.0,+47:44,,Bowman Dan,72,Kelly Benefit Strategies - OptumHealth,",, ,,",,8,2011
+24,,65.0,64.0,+40:14,,Oss Daniel,73,Liquigas - Cannondale,",, ,,",,8,2011
+21,,41.0,67.0,+41:11,,Eijssen Yannick,74,BMC Racing Team,",, ,,",,8,2011
+28,,57.0,73.0,+43:14,,Pedersen Martin,75,Leopard Trek,",, ,,",,8,2011
+34,,121.0,98.0,+1:00:16,,Tuft Svein,76,Spidertech Powered by C10,",, ,,",,8,2011
+30,,67.0,78.0,+45:10,,Da Dalto Mauro,77,Liquigas - Cannondale,",, ,,",,8,2011
+28,,146.0,107.0,+1:02:32,,Guptill Andy,78,Jamis - Sutter Home presented by Colavita,",, ,,",,8,2011
+28,,177.0,86.0,+47:22,,Rytlewski Jake,79,Kenda Presented By Gear Grinder,",, ,,",,8,2011
+26,,133.0,23.0,+10:51,,Britton Rob,80,Bissell Pro Cycling,0:17 0:17,,8,2011
+29,,127.0,37.0,+22:03,,Mccarty Jonathan Patrick,81,Spidertech Powered by C10,",, 0:17",,8,2011
+24,,144.0,102.0,+1:01:54,,Driscoll James,82,Jamis - Sutter Home presented by Colavita,",, 0:17",,8,2011
+27,,124.0,39.0,+24:39,,Euser Lucas,83,Spidertech Powered by C10,",, 0:17",,8,2011
+31,,151.0,84.0,+46:27,,van Ulden Bernard,84,Jelly Belly presented by Kenda,",, 0:17",,8,2011
+28,,63.0,63.0,+39:51,,Duggan Timothy,85,Liquigas - Cannondale,",, 0:17",,8,2011
+23,,122.0,118.0,+1:12:06,,Anderson Ryan,86,Spidertech Powered by C10,",, 0:17",,8,2011
+33,,97.0,45.0,+27:20,,Wegelius Charles,87,UnitedHealthcare Presented by Maxxis,",, 0:17",,8,2011
+29,,47.0,25.0,+11:48,,Moinard Ama\xebl,88,BMC Racing Team,",, 0:17",,8,2011
+30,,148.0,40.0,+24:56,,Wren Tyler,89,Jamis - Sutter Home presented by Colavita,",, 0:17",,8,2011
+27,,68.0,60.0,+38:33,,Wurf Cameron,90,Liquigas - Cannondale,",, 0:17",,8,2011
+25,,115.0,65.0,+40:31,,Gottfried Alexander,91,Team Netapp,0:23 0:23,,8,2011
+33,,88.0,47.0,+28:14,,Tjallingii Maarten,92,Rabobank Cycling Team,",, 0:23",,8,2011
+33,,34.0,68.0,+41:28,,Hayman Mathew,93,Sky Procycling,0:29 0:29,,8,2011
+23,,37.0,54.0,+33:32,,Stannard Ian,94,Sky Procycling,0:30 0:30,,8,2011
+26,,53.0,95.0,+59:17,,Mortensen Martin,95,Leopard Trek,0:35 0:35,,8,2011
+30,,116.0,36.0,+21:06,,Huzarski Bartosz,96,Team Netapp,0:42 0:42,,8,2011
+30,,138.0,53.0,+32:50,,Vennell Jeremy,97,Bissell Pro Cycling,0:44 0:44,,8,2011
+21,,45.0,48.0,+28:52,,Roe Timothy,98,BMC Racing Team,0:45 0:45,,8,2011
+26,,112.0,91.0,+54:12,,B\xe1rta Jan,99,Team Netapp,",, 0:45",,8,2011
+30,,22.0,76.0,+44:42,,Eisel Bernhard,100,HTC - High Road,",, 0:45",,8,2011
+32,,11.0,33.0,+19:12,,Zabriskie David,101,Team Garmin - Cerv\xe9lo,0:57 0:57,,8,2011
+25,,77.0,89.0,+49:54,,Jorgensen Jonas Aaen,102,Saxo Bank - Sungard,1:31 1:31,,8,2011
+28,,74.0,83.0,+45:49,,Haedo Lucas Sebastian,103,Saxo Bank - Sungard,",, 1:31",,8,2011
+32,,72.0,106.0,+1:02:26,,Cooke Baden,104,Saxo Bank - Sungard,",, 1:31",,8,2011
+26,,28.0,29.0,+13:52,,Velits Peter,105,HTC - High Road,1:33 1:33,,8,2011
+26,,27.0,88.0,+48:49,,Velits Martin,106,HTC - High Road,",, 1:33",,8,2011
+22,,1.0,57.0,+35:15,,King Benjamin,107,RadioShack,1:54 1:54,,8,2011
+37,,4.0,108.0,+1:03:22,,McCartney Jason,108,RadioShack,",, 1:54",,8,2011
+29,,135.0,42.0,+26:37,,Mach Paul,109,Bissell Pro Cycling,2:19 2:19,,8,2011
+31,,3.0,52.0,+32:48,,Muravyev Dmitriy,110,RadioShack,",, 2:19",,8,2011
+32,,171.0,70.0,+42:22,,Day Benjamin,111,Kenda Presented By Gear Grinder,",, 2:19",,8,2011
+32,,26.0,28.0,+12:25,,Pate Danny,112,HTC - High Road,",, 2:19",,8,2011
+29,,175.0,112.0,+1:06:54,,Kilun Roman,113,Kenda Presented By Gear Grinder,",, 2:19",,8,2011
+38,,161.0,59.0,+37:48,,Bajadali Andrew,114,Kelly Benefit Strategies - OptumHealth,",, 2:19",,8,2011
+27,,152.0,126.0,+1:23:31,,Hagman Alex,115,Jelly Belly presented by Kenda,",, 2:19",,8,2011
+34,,147.0,122.0,+1:15:13,,Antogna Jose Fernando,116,Jamis - Sutter Home presented by Colavita,2:48 2:48,,8,2011
+25,,173.0,94.0,+58:52,,Gaimon Phillip,117,Kenda Presented By Gear Grinder,",, 2:48",,8,2011
+27,,128.0,113.0,+1:07:44,,Routley Will,118,Spidertech Powered by C10,3:06 3:06,,8,2011
+26,,33.0,66.0,+40:46,,Froome Christopher,119,Sky Procycling,4:00 4:00,,8,2011
+33,,92.0,114.0,+1:08:21,,F\xf6rster Robert,120,UnitedHealthcare Presented by Maxxis,",, 4:00",,8,2011
+28,,167.0,121.0,+1:13:50,,Friedman Michael,121,Kelly Benefit Strategies - OptumHealth,4:05 4:05,,8,2011
+29,,,120.0,+1:13:44,,White Bradley,122,,4:06 4:06,,8,2011
+25,,178.0,109.0,+1:03:33,,Stemper James,123,Kenda Presented By Gear Grinder,4:12 4:12,,8,2011
+26,,172.0,123.0,+1:16:27,,Damiani Luca,124,Kenda Presented By Gear Grinder,",, 4:12",,8,2011
+23,,52.0,101.0,+1:01:49,,Denifl Stefan,125,Leopard Trek,4:16 4:16,,8,2011
+28,,157.0,125.0,+1:22:14,,Dickeson William,126,Jelly Belly presented by Kenda,",, 4:16",,8,2011

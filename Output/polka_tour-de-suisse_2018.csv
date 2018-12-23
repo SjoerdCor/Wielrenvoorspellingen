@@ -1,0 +1,177 @@
+Age,BIB,Pnt,Prev,Rider,Rnk,Team,\u25bc\u25b2,stage,year
+22,207,9.0,,Zaccanti Filippo,1,Nippo - Vini Fantini - Europa Ovini,,2,2018
+34,195,6.0,,Quemeneur Perrig,2,Direct Energie,,2,2018
+31,75,3.0,,Oss Daniel,3,BORA - hansgrohe,,2,2018
+25,185,3.0,,Watson Calvin,4,Aqua Blue Sport,,2,2018
+29,97,2.0,,Vichot Arthur,5,Groupama - FDJ,,2,2018
+33,11,1.0,,Porte Richie,6,BMC Racing Team,,2,2018
+22,207,17.0,1.0,Zaccanti Filippo,1,Nippo - Vini Fantini - Europa Ovini,-,3,2018
+23,193,12.0,,Grellier Fabien,2,Direct Energie,-,3,2018
+34,195,6.0,2.0,Quemeneur Perrig,3,Direct Energie,\u25bc1,3,2018
+25,185,6.0,4.0,Watson Calvin,4,Aqua Blue Sport,-,3,2018
+23,35,3.0,,Andersen S\xf8ren Kragh,5,Team Sunweb,-,3,2018
+31,75,3.0,3.0,Oss Daniel,6,BORA - hansgrohe,\u25bc3,3,2018
+33,11,2.0,6.0,Porte Richie,7,BMC Racing Team,\u25bc1,3,2018
+27,31,2.0,,Kelderman Wilco,8,Team Sunweb,-,3,2018
+29,97,2.0,5.0,Vichot Arthur,9,Groupama - FDJ,\u25bc4,3,2018
+28,23,1.0,,Juul-Jensen Christopher,10,Mitchelton-Scott,-,3,2018
+22,207,,1.0,Zaccanti Filippo,1,Nippo - Vini Fantini - Europa Ovini,-,4,2018
+23,193,,2.0,Grellier Fabien,2,Direct Energie,-,4,2018
+24,44,,,Peters Nans,3,AG2R La Mondiale,-,4,2018
+28,23,,10.0,Juul-Jensen Christopher,4,Mitchelton-Scott,\u25b26,4,2018
+34,195,,3.0,Quemeneur Perrig,5,Direct Energie,\u25bc2,4,2018
+25,185,,4.0,Watson Calvin,6,Aqua Blue Sport,\u25bc2,4,2018
+26,142,,,Brown Nathan,7,Team EF Education First-Drapac p/b Cannondale,-,4,2018
+23,35,,5.0,Andersen S\xf8ren Kragh,8,Team Sunweb,\u25bc3,4,2018
+24,194,,,Ourselin Paul,9,Direct Energie,-,4,2018
+31,75,,6.0,Oss Daniel,10,BORA - hansgrohe,\u25bc4,4,2018
+27,43,,,Dillier Silvan,11,AG2R La Mondiale,-,4,2018
+27,182,,,Christian Mark,12,Aqua Blue Sport,-,4,2018
+33,11,,7.0,Porte Richie,13,BMC Racing Team,\u25bc6,4,2018
+27,31,,8.0,Kelderman Wilco,14,Team Sunweb,\u25bc6,4,2018
+29,97,,9.0,Vichot Arthur,15,Groupama - FDJ,\u25bc6,4,2018
+30,196,22.0,,Sicard Romain,1,Direct Energie,-,5,2018
+27,187,20.0,,Warbasse Larry,2,Aqua Blue Sport,-,5,2018
+22,207,17.0,1.0,Zaccanti Filippo,3,Nippo - Vini Fantini - Europa Ovini,\u25bc2,5,2018
+24,44,16.0,3.0,Peters Nans,4,AG2R La Mondiale,\u25bc1,5,2018
+31,75,15.0,10.0,Oss Daniel,5,BORA - hansgrohe,\u25b25,5,2018
+25,6,15.0,,Smit Willie,6,Team Katusha - Alpecin,-,5,2018
+28,177,12.0,,Ulissi Diego,7,UAE-Team Emirates,-,5,2018
+23,193,12.0,2.0,Grellier Fabien,8,Direct Energie,\u25bc6,5,2018
+23,126,8.0,,Mas Enric,9,Quick-Step Floors,-,5,2018
+28,136,8.0,,Slagter Tom-Jelte,10,Team Dimension Data,-,5,2018
+28,23,7.0,4.0,Juul-Jensen Christopher,11,Mitchelton-Scott,\u25bc7,5,2018
+27,31,6.0,14.0,Kelderman Wilco,12,Team Sunweb,\u25b22,5,2018
+34,195,6.0,5.0,Quemeneur Perrig,13,Direct Energie,\u25bc8,5,2018
+25,185,6.0,6.0,Watson Calvin,14,Aqua Blue Sport,\u25bc8,5,2018
+36,62,4.0,,Gasparotto Enrico,15,Bahrain Merida Pro Cycling Team,-,5,2018
+27,52,4.0,,Fraile Omar,16,Astana Pro Team,-,5,2018
+26,142,4.0,7.0,Brown Nathan,17,Team EF Education First-Drapac p/b Cannondale,\u25bc10,5,2018
+23,35,3.0,8.0,Andersen S\xf8ren Kragh,18,Team Sunweb,\u25bc10,5,2018
+24,194,3.0,9.0,Ourselin Paul,19,Direct Energie,\u25bc10,5,2018
+27,43,3.0,11.0,Dillier Silvan,20,AG2R La Mondiale,\u25bc9,5,2018
+27,182,3.0,12.0,Christian Mark,21,Aqua Blue Sport,\u25bc9,5,2018
+33,11,2.0,13.0,Porte Richie,22,BMC Racing Team,\u25bc9,5,2018
+29,97,2.0,15.0,Vichot Arthur,23,Groupama - FDJ,\u25bc8,5,2018
+31,81,2.0,,Mollema Bauke,24,Trek - Segafredo,-,5,2018
+27,182,33.0,21.0,Christian Mark,1,Aqua Blue Sport,\u25b220,6,2018
+29,3,32.0,,Haas Nathan,2,Team Katusha - Alpecin,-,6,2018
+30,196,22.0,1.0,Sicard Romain,3,Direct Energie,\u25bc2,6,2018
+27,187,20.0,2.0,Warbasse Larry,4,Aqua Blue Sport,\u25bc2,6,2018
+31,197,20.0,,Taaram\xe4e Rein,5,Direct Energie,-,6,2018
+22,207,17.0,3.0,Zaccanti Filippo,6,Nippo - Vini Fantini - Europa Ovini,\u25bc3,6,2018
+24,44,16.0,4.0,Peters Nans,7,AG2R La Mondiale,\u25bc3,6,2018
+35,105,16.0,,Monfort Maxime,8,Lotto Soudal,-,6,2018
+31,75,15.0,5.0,Oss Daniel,9,BORA - hansgrohe,\u25bc4,6,2018
+25,6,15.0,6.0,Smit Willie,10,Team Katusha - Alpecin,\u25bc4,6,2018
+23,35,14.0,18.0,Andersen S\xf8ren Kragh,11,Team Sunweb,\u25b27,6,2018
+28,177,12.0,7.0,Ulissi Diego,12,UAE-Team Emirates,\u25bc5,6,2018
+23,193,12.0,8.0,Grellier Fabien,13,Direct Energie,\u25bc5,6,2018
+34,195,12.0,13.0,Quemeneur Perrig,14,Direct Energie,\u25bc1,6,2018
+23,126,8.0,9.0,Mas Enric,15,Quick-Step Floors,\u25bc6,6,2018
+28,136,8.0,10.0,Slagter Tom-Jelte,16,Team Dimension Data,\u25bc6,6,2018
+28,23,7.0,11.0,Juul-Jensen Christopher,17,Mitchelton-Scott,\u25bc6,6,2018
+27,31,6.0,12.0,Kelderman Wilco,18,Team Sunweb,\u25bc6,6,2018
+25,185,6.0,14.0,Watson Calvin,19,Aqua Blue Sport,\u25bc5,6,2018
+36,62,4.0,15.0,Gasparotto Enrico,20,Bahrain Merida Pro Cycling Team,\u25bc5,6,2018
+27,52,4.0,16.0,Fraile Omar,21,Astana Pro Team,\u25bc5,6,2018
+26,142,4.0,17.0,Brown Nathan,22,Team EF Education First-Drapac p/b Cannondale,\u25bc5,6,2018
+24,194,3.0,19.0,Ourselin Paul,23,Direct Energie,\u25bc4,6,2018
+27,43,3.0,20.0,Dillier Silvan,24,AG2R La Mondiale,\u25bc4,6,2018
+33,11,2.0,22.0,Porte Richie,25,BMC Racing Team,\u25bc3,6,2018
+29,97,2.0,23.0,Vichot Arthur,26,Groupama - FDJ,\u25bc3,6,2018
+31,81,2.0,24.0,Mollema Bauke,27,Trek - Segafredo,\u25bc3,6,2018
+24,83,1.0,,Gogl Michael,28,Trek - Segafredo,-,6,2018
+27,182,36.0,1.0,Christian Mark,1,Aqua Blue Sport,-,7,2018
+29,3,32.0,2.0,Haas Nathan,2,Team Katusha - Alpecin,-,7,2018
+30,196,24.0,3.0,Sicard Romain,3,Direct Energie,-,7,2018
+28,111,20.0,,Quintana Nairo,4,Movistar Team,-,7,2018
+27,187,20.0,4.0,Warbasse Larry,5,Aqua Blue Sport,\u25bc1,7,2018
+31,197,20.0,5.0,Taaram\xe4e Rein,6,Direct Energie,\u25bc1,7,2018
+22,207,17.0,6.0,Zaccanti Filippo,7,Nippo - Vini Fantini - Europa Ovini,\u25bc1,7,2018
+24,44,16.0,7.0,Peters Nans,8,AG2R La Mondiale,\u25bc1,7,2018
+35,105,16.0,8.0,Monfort Maxime,9,Lotto Soudal,\u25bc1,7,2018
+31,75,15.0,9.0,Oss Daniel,10,BORA - hansgrohe,\u25bc1,7,2018
+33,51,15.0,,Fuglsang Jakob,11,Astana Pro Team,-,7,2018
+25,6,15.0,10.0,Smit Willie,12,Team Katusha - Alpecin,\u25bc2,7,2018
+23,35,14.0,11.0,Andersen S\xf8ren Kragh,13,Team Sunweb,\u25bc2,7,2018
+23,126,14.0,15.0,Mas Enric,14,Quick-Step Floors,\u25b21,7,2018
+28,177,12.0,12.0,Ulissi Diego,15,UAE-Team Emirates,\u25bc3,7,2018
+23,193,12.0,13.0,Grellier Fabien,16,Direct Energie,\u25bc3,7,2018
+33,11,12.0,25.0,Porte Richie,17,BMC Racing Team,\u25b28,7,2018
+34,195,12.0,14.0,Quemeneur Perrig,18,Direct Energie,\u25bc4,7,2018
+27,31,10.0,18.0,Kelderman Wilco,19,Team Sunweb,\u25bc1,7,2018
+28,136,8.0,16.0,Slagter Tom-Jelte,20,Team Dimension Data,\u25bc4,7,2018
+28,23,7.0,17.0,Juul-Jensen Christopher,21,Mitchelton-Scott,\u25bc4,7,2018
+25,185,6.0,19.0,Watson Calvin,22,Aqua Blue Sport,\u25bc3,7,2018
+36,62,4.0,20.0,Gasparotto Enrico,23,Bahrain Merida Pro Cycling Team,\u25bc3,7,2018
+27,52,4.0,21.0,Fraile Omar,24,Astana Pro Team,\u25bc3,7,2018
+26,142,4.0,22.0,Brown Nathan,25,Team EF Education First-Drapac p/b Cannondale,\u25bc3,7,2018
+24,194,3.0,23.0,Ourselin Paul,26,Direct Energie,\u25bc3,7,2018
+27,43,3.0,24.0,Dillier Silvan,27,AG2R La Mondiale,\u25bc3,7,2018
+31,81,2.0,27.0,Mollema Bauke,28,Trek - Segafredo,\u25bc1,7,2018
+29,97,2.0,26.0,Vichot Arthur,29,Groupama - FDJ,\u25bc3,7,2018
+24,153,1.0,,Bouwman Koen,30,Team LottoNL-Jumbo,-,7,2018
+24,83,1.0,28.0,Gogl Michael,31,Trek - Segafredo,\u25bc3,7,2018
+27,182,36.0,1.0,Christian Mark,1,Aqua Blue Sport,-,8,2018
+29,3,32.0,2.0,Haas Nathan,2,Team Katusha - Alpecin,-,8,2018
+30,196,24.0,3.0,Sicard Romain,3,Direct Energie,-,8,2018
+28,111,20.0,4.0,Quintana Nairo,4,Movistar Team,-,8,2018
+27,187,20.0,5.0,Warbasse Larry,5,Aqua Blue Sport,-,8,2018
+31,197,20.0,6.0,Taaram\xe4e Rein,6,Direct Energie,-,8,2018
+22,207,17.0,7.0,Zaccanti Filippo,7,Nippo - Vini Fantini - Europa Ovini,-,8,2018
+24,44,16.0,8.0,Peters Nans,8,AG2R La Mondiale,-,8,2018
+35,105,16.0,9.0,Monfort Maxime,9,Lotto Soudal,-,8,2018
+31,75,15.0,10.0,Oss Daniel,10,BORA - hansgrohe,-,8,2018
+33,51,15.0,11.0,Fuglsang Jakob,11,Astana Pro Team,-,8,2018
+25,6,15.0,12.0,Smit Willie,12,Team Katusha - Alpecin,-,8,2018
+23,35,14.0,13.0,Andersen S\xf8ren Kragh,13,Team Sunweb,-,8,2018
+23,126,14.0,14.0,Mas Enric,14,Quick-Step Floors,-,8,2018
+28,177,12.0,15.0,Ulissi Diego,15,UAE-Team Emirates,-,8,2018
+23,193,12.0,16.0,Grellier Fabien,16,Direct Energie,-,8,2018
+33,11,12.0,17.0,Porte Richie,17,BMC Racing Team,-,8,2018
+34,195,12.0,18.0,Quemeneur Perrig,18,Direct Energie,-,8,2018
+27,31,10.0,19.0,Kelderman Wilco,19,Team Sunweb,-,8,2018
+28,136,8.0,20.0,Slagter Tom-Jelte,20,Team Dimension Data,-,8,2018
+28,23,7.0,21.0,Juul-Jensen Christopher,21,Mitchelton-Scott,-,8,2018
+25,185,6.0,22.0,Watson Calvin,22,Aqua Blue Sport,-,8,2018
+36,62,4.0,23.0,Gasparotto Enrico,23,Bahrain Merida Pro Cycling Team,-,8,2018
+27,52,4.0,24.0,Fraile Omar,24,Astana Pro Team,-,8,2018
+26,142,4.0,25.0,Brown Nathan,25,Team EF Education First-Drapac p/b Cannondale,-,8,2018
+24,194,3.0,26.0,Ourselin Paul,26,Direct Energie,-,8,2018
+27,43,3.0,27.0,Dillier Silvan,27,AG2R La Mondiale,-,8,2018
+31,81,2.0,28.0,Mollema Bauke,28,Trek - Segafredo,-,8,2018
+29,97,2.0,29.0,Vichot Arthur,29,Groupama - FDJ,-,8,2018
+24,153,1.0,30.0,Bouwman Koen,30,Team LottoNL-Jumbo,-,8,2018
+24,83,1.0,31.0,Gogl Michael,31,Trek - Segafredo,-,8,2018
+27,182,36.0,1.0,Christian Mark,1,Aqua Blue Sport,-,9,2018
+29,3,32.0,2.0,Haas Nathan,2,Team Katusha - Alpecin,-,9,2018
+30,196,24.0,3.0,Sicard Romain,3,Direct Energie,-,9,2018
+28,111,20.0,4.0,Quintana Nairo,4,Movistar Team,-,9,2018
+27,187,20.0,5.0,Warbasse Larry,5,Aqua Blue Sport,-,9,2018
+31,197,20.0,6.0,Taaram\xe4e Rein,6,Direct Energie,-,9,2018
+22,207,17.0,7.0,Zaccanti Filippo,7,Nippo - Vini Fantini - Europa Ovini,-,9,2018
+24,44,16.0,8.0,Peters Nans,8,AG2R La Mondiale,-,9,2018
+35,105,16.0,9.0,Monfort Maxime,9,Lotto Soudal,-,9,2018
+31,75,15.0,10.0,Oss Daniel,10,BORA - hansgrohe,-,9,2018
+33,51,15.0,11.0,Fuglsang Jakob,11,Astana Pro Team,-,9,2018
+25,6,15.0,12.0,Smit Willie,12,Team Katusha - Alpecin,-,9,2018
+23,35,14.0,13.0,Andersen S\xf8ren Kragh,13,Team Sunweb,-,9,2018
+23,126,14.0,14.0,Mas Enric,14,Quick-Step Floors,-,9,2018
+28,177,12.0,15.0,Ulissi Diego,15,UAE-Team Emirates,-,9,2018
+23,193,12.0,16.0,Grellier Fabien,16,Direct Energie,-,9,2018
+33,11,12.0,17.0,Porte Richie,17,BMC Racing Team,-,9,2018
+34,195,12.0,18.0,Quemeneur Perrig,18,Direct Energie,-,9,2018
+27,31,10.0,19.0,Kelderman Wilco,19,Team Sunweb,-,9,2018
+28,136,8.0,20.0,Slagter Tom-Jelte,20,Team Dimension Data,-,9,2018
+28,23,7.0,21.0,Juul-Jensen Christopher,21,Mitchelton-Scott,-,9,2018
+25,185,6.0,22.0,Watson Calvin,22,Aqua Blue Sport,-,9,2018
+36,62,4.0,23.0,Gasparotto Enrico,23,Bahrain Merida Pro Cycling Team,-,9,2018
+27,52,4.0,24.0,Fraile Omar,24,Astana Pro Team,-,9,2018
+26,142,4.0,25.0,Brown Nathan,25,Team EF Education First-Drapac p/b Cannondale,-,9,2018
+24,194,3.0,26.0,Ourselin Paul,26,Direct Energie,-,9,2018
+27,43,3.0,27.0,Dillier Silvan,27,AG2R La Mondiale,-,9,2018
+29,97,2.0,29.0,Vichot Arthur,28,Groupama - FDJ,\u25b21,9,2018
+31,81,2.0,28.0,Mollema Bauke,29,Trek - Segafredo,\u25bc1,9,2018
+24,153,1.0,30.0,Bouwman Koen,30,Team LottoNL-Jumbo,-,9,2018
+24,83,1.0,31.0,Gogl Michael,31,Trek - Segafredo,-,9,2018

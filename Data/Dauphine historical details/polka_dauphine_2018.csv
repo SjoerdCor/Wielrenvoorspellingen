@@ -1,0 +1,150 @@
+Age,BIB,Pnt,Prev,Rider,Rnk,Team,\u25bc\u25b2,stage,year
+32,143,9,,Feillu Brice,1,Team Fortuneo - Samsic,,1,2018
+30,82,8,,Edet Nicolas,2,"Cofidis, Solutions Cr\xe9dits",,1,2018
+26,154,2,,Craddock Lawson,3,Team EF Education First-Drapac p/b Cannondale,,1,2018
+32,21,1,,Thomas Geraint,4,Team Sky,,1,2018
+29,86,1,,Teklehaimanot Daniel,5,"Cofidis, Solutions Cr\xe9dits",,1,2018
+32,143,9,1.0,Feillu Brice,1,Team Fortuneo - Samsic,-,2,2018
+31,146,9,,Perichon Pierre-Luc,2,Team Fortuneo - Samsic,-,2,2018
+30,82,8,2.0,Edet Nicolas,3,"Cofidis, Solutions Cr\xe9dits",\u25bc1,2,2018
+26,6,3,,Stalnov Nikita,4,Astana Pro Team,-,2,2018
+26,154,2,3.0,Craddock Lawson,5,Team EF Education First-Drapac p/b Cannondale,\u25bc2,2,2018
+32,21,1,4.0,Thomas Geraint,6,Team Sky,\u25bc2,2,2018
+26,113,1,,Duchesne Antoine,7,Groupama - FDJ,-,2,2018
+29,86,1,5.0,Teklehaimanot Daniel,8,"Cofidis, Solutions Cr\xe9dits",\u25bc3,2,2018
+33,2,15,,Cataldo Dario,1,Astana Pro Team,-,4,2018
+31,153,12,,Clarke Simon,2,Team EF Education First-Drapac p/b Cannondale,-,4,2018
+23,164,10,,Eiking Odd Christian,3,Wanty - Groupe Gobert,-,4,2018
+32,143,9,1.0,Feillu Brice,4,Team Fortuneo - Samsic,\u25bc3,4,2018
+31,146,9,2.0,Perichon Pierre-Luc,5,Team Fortuneo - Samsic,\u25bc3,4,2018
+30,82,8,3.0,Edet Nicolas,6,"Cofidis, Solutions Cr\xe9dits",\u25bc3,4,2018
+27,122,8,,Boswell Ian,7,Team Katusha - Alpecin,-,4,2018
+24,16,6,,Ravasi Edward,8,UAE-Team Emirates,-,4,2018
+25,101,5,,Alaphilippe Julian,9,Quick-Step Floors,-,4,2018
+31,171,5,,Boasson Hagen Edvald,10,Team Dimension Data,-,4,2018
+29,212,5,,Courteille Arnaud,11,Vital Concept Cycling Club,-,4,2018
+32,21,3,6.0,Thomas Geraint,12,Team Sky,\u25bc6,4,2018
+31,11,3,,Martin Daniel,13,UAE-Team Emirates,-,4,2018
+29,74,3,,Keukeleire Jens,14,Lotto Soudal,-,4,2018
+26,6,3,4.0,Stalnov Nikita,15,Astana Pro Team,\u25bc11,4,2018
+26,65,2,,P\xf6stlberger Lukas,16,BORA - hansgrohe,-,4,2018
+26,154,2,5.0,Craddock Lawson,17,Team EF Education First-Drapac p/b Cannondale,\u25bc12,4,2018
+27,31,1,,Bardet Romain,18,AG2R La Mondiale,-,4,2018
+23,23,1,,Geoghegan Hart Tao,19,Team Sky,-,4,2018
+26,113,1,7.0,Duchesne Antoine,20,Groupama - FDJ,\u25bc13,4,2018
+29,86,1,8.0,Teklehaimanot Daniel,21,"Cofidis, Solutions Cr\xe9dits",\u25bc13,4,2018
+33,2,23,1.0,Cataldo Dario,1,Astana Pro Team,-,5,2018
+31,11,18,13.0,Martin Daniel,2,UAE-Team Emirates,\u25b211,5,2018
+32,21,15,12.0,Thomas Geraint,3,Team Sky,\u25b29,5,2018
+30,82,14,6.0,Edet Nicolas,4,"Cofidis, Solutions Cr\xe9dits",\u25b22,5,2018
+31,153,12,2.0,Clarke Simon,5,Team EF Education First-Drapac p/b Cannondale,\u25bc3,5,2018
+25,131,10,,Yates Adam,6,Mitchelton-Scott,-,5,2018
+23,164,10,3.0,Eiking Odd Christian,7,Wanty - Groupe Gobert,\u25bc4,5,2018
+32,143,9,4.0,Feillu Brice,8,Team Fortuneo - Samsic,\u25bc4,5,2018
+31,146,9,5.0,Perichon Pierre-Luc,9,Team Fortuneo - Samsic,\u25bc4,5,2018
+25,61,8,,Buchmann Emanuel,10,BORA - hansgrohe,-,5,2018
+27,122,8,7.0,Boswell Ian,11,Team Katusha - Alpecin,\u25bc4,5,2018
+24,16,8,8.0,Ravasi Edward,12,UAE-Team Emirates,\u25bc4,5,2018
+27,31,6,18.0,Bardet Romain,13,AG2R La Mondiale,\u25b25,5,2018
+34,84,6,,Navarro Daniel,14,"Cofidis, Solutions Cr\xe9dits",-,5,2018
+25,101,5,9.0,Alaphilippe Julian,15,Quick-Step Floors,\u25bc6,5,2018
+31,171,5,10.0,Boasson Hagen Edvald,16,Team Dimension Data,\u25bc6,5,2018
+29,212,5,11.0,Courteille Arnaud,17,Vital Concept Cycling Club,\u25bc6,5,2018
+30,41,4,,Caruso Damiano,18,BMC Racing Team,-,5,2018
+28,121,3,,Zakarin Ilnur,19,Team Katusha - Alpecin,-,5,2018
+29,74,3,14.0,Keukeleire Jens,20,Lotto Soudal,\u25bc6,5,2018
+26,6,3,15.0,Stalnov Nikita,21,Astana Pro Team,\u25bc6,5,2018
+22,102,3,,De Plus Laurens,22,Quick-Step Floors,-,5,2018
+24,161,2,,Martin Guillaume,23,Wanty - Groupe Gobert,-,5,2018
+23,123,2,,Fabbro Matteo,24,Team Katusha - Alpecin,-,5,2018
+26,65,2,16.0,P\xf6stlberger Lukas,25,BORA - hansgrohe,\u25bc9,5,2018
+26,154,2,17.0,Craddock Lawson,26,Team EF Education First-Drapac p/b Cannondale,\u25bc9,5,2018
+24,181,1,,Tolhoek Antwan,27,Team LottoNL-Jumbo,-,5,2018
+23,23,1,19.0,Geoghegan Hart Tao,28,Team Sky,\u25bc9,5,2018
+25,34,1,,Gougeard Alexis,29,AG2R La Mondiale,-,5,2018
+26,113,1,20.0,Duchesne Antoine,30,Groupama - FDJ,\u25bc10,5,2018
+29,86,1,21.0,Teklehaimanot Daniel,31,"Cofidis, Solutions Cr\xe9dits",\u25bc10,5,2018
+33,2,53,1.0,Cataldo Dario,1,Astana Pro Team,-,6,2018
+28,1,37,,Bilbao Pello,2,Astana Pro Team,-,6,2018
+26,141,25,,Barguil Warren,3,Team Fortuneo - Samsic,-,6,2018
+31,11,24,2.0,Martin Daniel,4,UAE-Team Emirates,\u25bc2,6,2018
+32,21,23,3.0,Thomas Geraint,5,Team Sky,\u25bc2,6,2018
+27,122,18,11.0,Boswell Ian,6,Team Katusha - Alpecin,\u25b25,6,2018
+30,82,14,4.0,Edet Nicolas,7,"Cofidis, Solutions Cr\xe9dits",\u25bc3,6,2018
+34,175,13,,Pauwels Serge,8,Team Dimension Data,-,6,2018
+25,131,12,6.0,Yates Adam,9,Mitchelton-Scott,\u25bc3,6,2018
+31,153,12,5.0,Clarke Simon,10,Team EF Education First-Drapac p/b Cannondale,\u25bc5,6,2018
+27,31,10,13.0,Bardet Romain,11,AG2R La Mondiale,\u25b22,6,2018
+32,143,9,8.0,Feillu Brice,12,Team Fortuneo - Samsic,\u25bc4,6,2018
+31,146,9,9.0,Perichon Pierre-Luc,13,Team Fortuneo - Samsic,\u25bc4,6,2018
+25,61,9,10.0,Buchmann Emanuel,14,BORA - hansgrohe,\u25bc4,6,2018
+24,16,8,12.0,Ravasi Edward,15,UAE-Team Emirates,\u25bc3,6,2018
+34,84,6,14.0,Navarro Daniel,16,"Cofidis, Solutions Cr\xe9dits",\u25bc2,6,2018
+25,13,6,,Conti Valerio,17,UAE-Team Emirates,-,6,2018
+27,32,6,,Domont Axel,18,AG2R La Mondiale,-,6,2018
+23,136,6,,Power Robert,19,Mitchelton-Scott,-,6,2018
+25,101,5,15.0,Alaphilippe Julian,20,Quick-Step Floors,\u25bc5,6,2018
+31,171,5,16.0,Boasson Hagen Edvald,21,Team Dimension Data,\u25bc5,6,2018
+26,204,5,,Grmay Tsgabu,22,Trek - Segafredo,-,6,2018
+34,44,5,,Bookwalter Brent,23,BMC Racing Team,-,6,2018
+29,212,5,17.0,Courteille Arnaud,24,Vital Concept Cycling Club,\u25bc7,6,2018
+30,41,4,18.0,Caruso Damiano,25,BMC Racing Team,\u25bc7,6,2018
+27,81,4,,Herrada Jes\xfas,26,"Cofidis, Solutions Cr\xe9dits",-,6,2018
+28,121,3,19.0,Zakarin Ilnur,27,Team Katusha - Alpecin,\u25bc8,6,2018
+29,74,3,20.0,Keukeleire Jens,28,Lotto Soudal,\u25bc8,6,2018
+26,6,3,21.0,Stalnov Nikita,29,Astana Pro Team,\u25bc8,6,2018
+22,102,3,22.0,De Plus Laurens,30,Quick-Step Floors,\u25bc8,6,2018
+25,161,2,23.0,Martin Guillaume,31,Wanty - Groupe Gobert,\u25bc8,6,2018
+28,115,2,,Molard Rudy,32,Groupama - FDJ,-,6,2018
+23,93,2,,Carretero H\xe9ctor,33,Movistar Team,-,6,2018
+21,185,2,,Powless Neilson,34,Team LottoNL-Jumbo,-,6,2018
+26,65,2,25.0,P\xf6stlberger Lukas,35,BORA - hansgrohe,\u25bc10,6,2018
+23,123,2,24.0,Fabbro Matteo,36,Team Katusha - Alpecin,\u25bc12,6,2018
+26,154,2,26.0,Craddock Lawson,37,Team EF Education First-Drapac p/b Cannondale,\u25bc11,6,2018
+24,181,1,27.0,Tolhoek Antwan,38,Team LottoNL-Jumbo,\u25bc11,6,2018
+23,23,1,28.0,Geoghegan Hart Tao,39,Team Sky,\u25bc11,6,2018
+26,113,1,30.0,Duchesne Antoine,40,Groupama - FDJ,\u25bc10,6,2018
+25,34,1,29.0,Gougeard Alexis,41,AG2R La Mondiale,\u25bc12,6,2018
+29,86,1,31.0,Teklehaimanot Daniel,42,"Cofidis, Solutions Cr\xe9dits",\u25bc11,6,2018
+33,2,53,1.0,Cataldo Dario,1,Astana Pro Team,-,7,2018
+28,1,37,2.0,Bilbao Pello,2,Astana Pro Team,-,7,2018
+34,84,28,16.0,Navarro Daniel,3,"Cofidis, Solutions Cr\xe9dits",\u25b213,7,2018
+32,21,26,5.0,Thomas Geraint,4,Team Sky,\u25b21,7,2018
+31,11,25,4.0,Martin Daniel,5,UAE-Team Emirates,\u25bc1,7,2018
+26,141,25,3.0,Barguil Warren,6,Team Fortuneo - Samsic,\u25bc3,7,2018
+25,131,22,9.0,Yates Adam,7,Mitchelton-Scott,\u25b22,7,2018
+21,111,21,,Gaudu David,8,Groupama - FDJ,-,7,2018
+24,181,20,38.0,Tolhoek Antwan,9,Team LottoNL-Jumbo,\u25b229,7,2018
+25,101,19,20.0,Alaphilippe Julian,10,Quick-Step Floors,\u25b210,7,2018
+24,16,18,15.0,Ravasi Edward,11,UAE-Team Emirates,\u25b24,7,2018
+27,122,18,6.0,Boswell Ian,12,Team Katusha - Alpecin,\u25bc6,7,2018
+27,31,16,11.0,Bardet Romain,13,AG2R La Mondiale,\u25bc2,7,2018
+31,151,15,,Rolland Pierre,14,Team EF Education First-Drapac p/b Cannondale,-,7,2018
+30,82,14,7.0,Edet Nicolas,15,"Cofidis, Solutions Cr\xe9dits",\u25bc8,7,2018
+25,61,13,14.0,Buchmann Emanuel,16,BORA - hansgrohe,\u25bc2,7,2018
+34,175,13,8.0,Pauwels Serge,17,Team Dimension Data,\u25bc9,7,2018
+31,153,12,10.0,Clarke Simon,18,Team EF Education First-Drapac p/b Cannondale,\u25bc8,7,2018
+32,143,9,12.0,Feillu Brice,19,Team Fortuneo - Samsic,\u25bc7,7,2018
+31,146,9,13.0,Perichon Pierre-Luc,20,Team Fortuneo - Samsic,\u25bc7,7,2018
+25,13,6,17.0,Conti Valerio,21,UAE-Team Emirates,\u25bc4,7,2018
+27,32,6,18.0,Domont Axel,22,AG2R La Mondiale,\u25bc4,7,2018
+23,136,6,19.0,Power Robert,23,Mitchelton-Scott,\u25bc4,7,2018
+31,171,5,21.0,Boasson Hagen Edvald,24,Team Dimension Data,\u25bc3,7,2018
+26,204,5,22.0,Grmay Tsgabu,25,Trek - Segafredo,\u25bc3,7,2018
+34,44,5,23.0,Bookwalter Brent,26,BMC Racing Team,\u25bc3,7,2018
+29,212,5,24.0,Courteille Arnaud,27,Vital Concept Cycling Club,\u25bc3,7,2018
+30,41,4,25.0,Caruso Damiano,28,BMC Racing Team,\u25bc3,7,2018
+27,81,4,26.0,Herrada Jes\xfas,29,"Cofidis, Solutions Cr\xe9dits",\u25bc3,7,2018
+28,121,3,27.0,Zakarin Ilnur,30,Team Katusha - Alpecin,\u25bc3,7,2018
+23,23,3,39.0,Geoghegan Hart Tao,31,Team Sky,\u25b28,7,2018
+29,74,3,28.0,Keukeleire Jens,32,Lotto Soudal,\u25bc4,7,2018
+26,6,3,29.0,Stalnov Nikita,33,Astana Pro Team,\u25bc4,7,2018
+25,161,2,31.0,Martin Guillaume,34,Wanty - Groupe Gobert,\u25bc3,7,2018
+28,115,2,32.0,Molard Rudy,35,Groupama - FDJ,\u25bc3,7,2018
+23,93,2,33.0,Carretero H\xe9ctor,36,Movistar Team,\u25bc3,7,2018
+21,185,2,34.0,Powless Neilson,37,Team LottoNL-Jumbo,\u25bc3,7,2018
+26,65,2,35.0,P\xf6stlberger Lukas,38,BORA - hansgrohe,\u25bc3,7,2018
+23,123,2,36.0,Fabbro Matteo,39,Team Katusha - Alpecin,\u25bc3,7,2018
+26,154,2,37.0,Craddock Lawson,40,Team EF Education First-Drapac p/b Cannondale,\u25bc3,7,2018
+29,86,1,42.0,Teklehaimanot Daniel,41,"Cofidis, Solutions Cr\xe9dits",\u25b21,7,2018
+26,113,1,40.0,Duchesne Antoine,42,Groupama - FDJ,\u25bc2,7,2018
