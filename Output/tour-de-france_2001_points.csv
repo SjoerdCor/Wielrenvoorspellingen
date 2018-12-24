@@ -1,0 +1,1771 @@
+Age,BIB,GC,GC-Time,Pnt,Prev,Rider,Rnk,Team,Time,stage,year,▼▲
+30,31,,,15.0,,Moreau Christophe,1,Festina,,0,2001,
+27,24,,,12.0,,González de Galdeano Igor,2,O.N.C.E. - Eroski,,0,2001,
+27,11,,,8.0,,Ullrich Jan,4,Team Telekom,,0,2001,
+25,32,,,6.0,,Brard Florent,5,Festina,,0,2001,
+28,151,,,5.0,,Botero Santiago,6,Kelme - Costa Blanca,,0,2001,
+27,21,,,4.0,,Beloki Joseba,7,O.N.C.E. - Eroski,,0,2001,
+27,107,,,3.0,,O'Grady Stuart,8,Crédit Agricole,,0,2001,
+26,28,,,2.0,,Sastre Carlos,9,O.N.C.E. - Eroski,,0,2001,
+27,158,,,1.0,,Tauler Toni,10,Kelme - Costa Blanca,,0,2001,
+31,19,,,35.0,,Zabel Erik,1,Team Telekom,,1,2001,-
+28,191,,,30.0,,Vainšteins Romāns,2,Domo - Farm Frites,,1,2001,-
+31,127,,,30.0,,Kirsipuu Jaan,3,AG2R Prévoyance,,1,2001,-
+23,182,,,26.0,,Casper Jimmy,4,La Française des Jeux,,1,2001,-
+23,104,,,24.0,,Hushovd Thor,5,Crédit Agricole,,1,2001,-
+27,165,,,20.0,,Nazon Damien,6,Bonjour,,1,2001,-
+27,53,,,19.0,,de Jongh Steven,7,Rabobank ProTeam,,1,2001,-
+33,204,,,18.0,,Capelle Christophe,8,BigMat - Auber 93,,1,2001,-
+32,178,,,18.0,,Svorada Ján,9,Lampre - Daikin,,1,2001,-
+27,107,,,17.0,8.0,O'Grady Stuart,10,Crédit Agricole,,1,2001,▼2
+28,39,,,17.0,,Teutenberg Sven,11,Festina,,1,2001,-
+29,76,,,16.0,,Mattan Nico,12,Cofidis,,1,2001,-
+30,31,,,15.0,1.0,Moreau Christophe,13,Festina,,1,2001,▼12
+26,45,,,15.0,,Ivanov Serguei,14,Fassa Bortolo,,1,2001,-
+29,64,,,13.0,,Blijlevens Jeroen,15,Lotto - Adecco,,1,2001,-
+27,24,,,12.0,2.0,González de Galdeano Igor,16,O.N.C.E. - Eroski,,1,2001,▼14
+27,11,,,12.0,4.0,Ullrich Jan,17,Team Telekom,,1,2001,▼13
+27,111,,,11.0,,Etxebarria David,18,Euskaltel - Euskadi,,1,2001,-
+27,66,,,10.0,,Mikhailov Guennadi,20,Lotto - Adecco,,1,2001,-
+28,146,,,10.0,,Oriol Christophe,21,Jean Delatour,,1,2001,-
+34,183,,,10.0,,Durand Jacky,22,La Française des Jeux,,1,2001,-
+27,47,,,9.0,,Petacchi Alessandro,23,Fassa Bortolo,,1,2001,-
+27,83,,,8.0,,Bettini Paolo,24,Mapei - Quickstep,,1,2001,-
+27,56,,,7.0,,Lotz Marc,25,Rabobank ProTeam,,1,2001,-
+25,32,,,6.0,5.0,Brard Florent,26,Festina,,1,2001,▼21
+29,208,,,6.0,,Sivakov Alexei,27,BigMat - Auber 93,,1,2001,-
+28,151,,,5.0,6.0,Botero Santiago,28,Kelme - Costa Blanca,,1,2001,▼22
+29,101,,,5.0,,Julich Bobby,29,Crédit Agricole,,1,2001,-
+27,21,,,4.0,7.0,Beloki Joseba,30,O.N.C.E. - Eroski,,1,2001,▼23
+32,169,,,3.0,,Simon François,31,Bonjour,,1,2001,-
+26,28,,,2.0,9.0,Sastre Carlos,32,O.N.C.E. - Eroski,,1,2001,▼23
+25,125,,,2.0,,Capelle Ludovic,33,AG2R Prévoyance,,1,2001,-
+27,49,,,2.0,,Tosatto Matteo,34,Fassa Bortolo,,1,2001,-
+27,158,,,1.0,10.0,Tauler Toni,35,Kelme - Costa Blanca,,1,2001,▼25
+28,132,,,1.0,,Blaudzun Michael,36,CSC ProTeam - Tiscali,,1,2001,-
+31,127,,,45.0,3.0,Kirsipuu Jaan,1,AG2R Prévoyance,,2,2001,▲2
+27,107,,,43.0,10.0,O'Grady Stuart,2,Crédit Agricole,,2,2001,▲8
+31,19,,,40.0,1.0,Zabel Erik,3,Team Telekom,,2,2001,▼2
+32,59,,,35.0,,Wauters Marc,4,Rabobank ProTeam,,2,2001,-
+29,38,,,30.0,,Pretot Arnaud,5,Festina,,2,2001,-
+28,191,,,30.0,2.0,Vainšteins Romāns,6,Domo - Farm Frites,,2,2001,▼4
+24,176,,,26.0,,Hunter Robert,7,Lampre - Daikin,,2,2001,-
+23,182,,,26.0,4.0,Casper Jimmy,8,La Française des Jeux,,2,2001,▼4
+30,193,,,26.0,,Knaven Servais,9,Domo - Farm Frites,,2,2001,-
+33,204,,,26.0,8.0,Capelle Christophe,10,BigMat - Auber 93,,2,2001,▼2
+23,104,,,24.0,5.0,Hushovd Thor,11,Crédit Agricole,,2,2001,▼6
+28,39,,,24.0,11.0,Teutenberg Sven,12,Festina,,2,2001,▼1
+32,178,,,23.0,9.0,Svorada Ján,13,Lampre - Daikin,,2,2001,▼4
+33,84,,,20.0,,Bramati Davide,14,Mapei - Quickstep,,2,2001,-
+27,165,,,20.0,6.0,Nazon Damien,15,Bonjour,,2,2001,▼9
+26,61,,,19.0,,Verbrugghe Rik,16,Lotto - Adecco,,2,2001,-
+27,53,,,19.0,7.0,de Jongh Steven,17,Rabobank ProTeam,,2,2001,▼10
+29,101,,,19.0,29.0,Julich Bobby,18,Crédit Agricole,,2,2001,▲11
+23,43,,,18.0,,Basso Ivan,19,Fassa Bortolo,,2,2001,-
+31,195,,,17.0,,Milesi Marco,20,Domo - Farm Frites,,2,2001,-
+26,175,,,17.0,,Frutti Matteo,21,Lampre - Daikin,,2,2001,-
+30,54,,,16.0,,Dekker Erik,22,Rabobank ProTeam,,2,2001,-
+29,76,,,16.0,12.0,Mattan Nico,23,Cofidis,,2,2001,▼11
+30,31,,,15.0,13.0,Moreau Christophe,24,Festina,,2,2001,▼11
+29,68,,,15.0,,Van Hyfte Paul,25,Lotto - Adecco,,2,2001,-
+26,45,,,15.0,14.0,Ivanov Serguei,26,Fassa Bortolo,,2,2001,▼12
+29,109,,,14.0,,Voigt Jens,27,Crédit Agricole,,2,2001,-
+33,179,,,13.0,,Verstrepen Johan,28,Lampre - Daikin,,2,2001,-
+29,64,,,13.0,15.0,Blijlevens Jeroen,29,Lotto - Adecco,,2,2001,▼14
+27,47,,,13.0,23.0,Petacchi Alessandro,30,Fassa Bortolo,,2,2001,▼7
+27,24,,,12.0,16.0,González de Galdeano Igor,31,O.N.C.E. - Eroski,,2,2001,▼15
+27,11,,,12.0,17.0,Ullrich Jan,32,Team Telekom,,2,2001,▼15
+27,106,,,12.0,,Morin Anthony,33,Crédit Agricole,,2,2001,-
+27,111,,,11.0,18.0,Etxebarria David,34,Euskaltel - Euskadi,,2,2001,▼16
+27,66,,,10.0,20.0,Mikhailov Guennadi,36,Lotto - Adecco,,2,2001,▼16
+28,146,,,10.0,21.0,Oriol Christophe,37,Jean Delatour,,2,2001,▼16
+34,183,,,10.0,22.0,Durand Jacky,38,La Française des Jeux,,2,2001,▼16
+27,83,,,8.0,24.0,Bettini Paolo,39,Mapei - Quickstep,,2,2001,▼15
+27,49,,,8.0,34.0,Tosatto Matteo,40,Fassa Bortolo,,2,2001,▼6
+27,56,,,7.0,25.0,Lotz Marc,41,Rabobank ProTeam,,2,2001,▼16
+25,32,,,6.0,26.0,Brard Florent,42,Festina,,2,2001,▼16
+28,166,,,6.0,,Perreaudeau Olivier,43,Bonjour,,2,2001,-
+29,208,,,6.0,27.0,Sivakov Alexei,44,BigMat - Auber 93,,2,2001,▼17
+28,151,,,5.0,28.0,Botero Santiago,45,Kelme - Costa Blanca,,2,2001,▼17
+32,169,,,5.0,31.0,Simon François,46,Bonjour,,2,2001,▼15
+27,21,,,4.0,30.0,Beloki Joseba,47,O.N.C.E. - Eroski,,2,2001,▼17
+26,52,,,4.0,,de Groot Bram,48,Rabobank ProTeam,,2,2001,-
+26,28,,,2.0,32.0,Sastre Carlos,49,O.N.C.E. - Eroski,,2,2001,▼17
+25,125,,,2.0,33.0,Capelle Ludovic,50,AG2R Prévoyance,,2,2001,▼17
+36,174,,,2.0,,Dierckxsens Ludo,51,Lampre - Daikin,,2,2001,-
+27,158,,,1.0,35.0,Tauler Toni,52,Kelme - Costa Blanca,,2,2001,▼17
+27,155,,,1.0,,Gutiérrez José Enrique,53,Kelme - Costa Blanca,,2,2001,-
+28,132,,,1.0,36.0,Blaudzun Michael,54,CSC ProTeam - Tiscali,,2,2001,▼18
+31,19,,,75.0,3.0,Zabel Erik,1,Team Telekom,,3,2001,▲2
+31,127,,,47.0,1.0,Kirsipuu Jaan,2,AG2R Prévoyance,,3,2001,▼1
+27,107,,,45.0,2.0,O'Grady Stuart,3,Crédit Agricole,,3,2001,▼1
+33,204,,,45.0,10.0,Capelle Christophe,4,BigMat - Auber 93,,3,2001,▲6
+32,59,,,35.0,4.0,Wauters Marc,5,Rabobank ProTeam,,3,2001,▼1
+30,31,,,30.0,24.0,Moreau Christophe,6,Festina,,3,2001,▲18
+30,185,,,30.0,,Magnien Emmanuel,7,La Française des Jeux,,3,2001,-
+28,191,,,30.0,6.0,Vainšteins Romāns,8,Domo - Farm Frites,,3,2001,▼2
+29,38,,,30.0,5.0,Pretot Arnaud,9,Festina,,3,2001,▼4
+24,176,,,30.0,7.0,Hunter Robert,10,Lampre - Daikin,,3,2001,▼3
+27,66,,,30.0,36.0,Mikhailov Guennadi,11,Lotto - Adecco,,3,2001,▲25
+32,169,,,27.0,46.0,Simon François,12,Bonjour,,3,2001,▲34
+27,86,,,26.0,,Garzelli Stefano,13,Mapei - Quickstep,,3,2001,-
+23,182,,,26.0,8.0,Casper Jimmy,14,La Française des Jeux,,3,2001,▼6
+30,193,,,26.0,9.0,Knaven Servais,16,Domo - Farm Frites,,3,2001,▼7
+27,11,,,25.0,32.0,Ullrich Jan,17,Team Telekom,,3,2001,▲15
+33,42,,,24.0,,Baldato Fabio,18,Fassa Bortolo,,3,2001,-
+23,104,,,24.0,11.0,Hushovd Thor,19,Crédit Agricole,,3,2001,▼8
+28,39,,,24.0,12.0,Teutenberg Sven,20,Festina,,3,2001,▼8
+32,178,,,23.0,13.0,Svorada Ján,21,Lampre - Daikin,,3,2001,▼8
+27,53,,,21.0,17.0,de Jongh Steven,22,Rabobank ProTeam,,3,2001,▼5
+27,165,,,20.0,15.0,Nazon Damien,23,Bonjour,,3,2001,▼8
+33,84,,,20.0,14.0,Bramati Davide,24,Mapei - Quickstep,,3,2001,▼10
+26,61,,,19.0,16.0,Verbrugghe Rik,25,Lotto - Adecco,,3,2001,▼9
+29,101,,,19.0,18.0,Julich Bobby,26,Crédit Agricole,,3,2001,▼8
+27,47,,,19.0,30.0,Petacchi Alessandro,27,Fassa Bortolo,,3,2001,▲3
+27,163,,,18.0,,Bouyer Franck,28,Bonjour,,3,2001,-
+23,43,,,18.0,19.0,Basso Ivan,29,Fassa Bortolo,,3,2001,▼10
+31,63,,,17.0,,Baguet Serge,30,Lotto - Adecco,,3,2001,-
+31,195,,,17.0,20.0,Milesi Marco,31,Domo - Farm Frites,,3,2001,▼11
+26,175,,,17.0,21.0,Frutti Matteo,32,Lampre - Daikin,,3,2001,▼11
+27,24,,,16.0,31.0,González de Galdeano Igor,33,O.N.C.E. - Eroski,,3,2001,▼2
+27,21,,,16.0,47.0,Beloki Joseba,34,O.N.C.E. - Eroski,,3,2001,▲13
+29,76,,,16.0,23.0,Mattan Nico,35,Cofidis,,3,2001,▼12
+30,54,,,16.0,22.0,Dekker Erik,36,Rabobank ProTeam,,3,2001,▼14
+29,68,,,15.0,25.0,Van Hyfte Paul,37,Lotto - Adecco,,3,2001,▼12
+26,45,,,15.0,26.0,Ivanov Serguei,38,Fassa Bortolo,,3,2001,▼12
+27,155,,,15.0,53.0,Gutiérrez José Enrique,39,Kelme - Costa Blanca,,3,2001,▲14
+29,109,,,15.0,27.0,Voigt Jens,40,Crédit Agricole,,3,2001,▼13
+33,179,,,13.0,28.0,Verstrepen Johan,41,Lampre - Daikin,,3,2001,▼13
+29,64,,,13.0,29.0,Blijlevens Jeroen,42,Lotto - Adecco,,3,2001,▼13
+27,106,,,12.0,33.0,Morin Anthony,43,Crédit Agricole,,3,2001,▼10
+29,51,,,11.0,,Boogerd Michael,44,Rabobank ProTeam,,3,2001,-
+27,111,,,11.0,34.0,Etxebarria David,45,Euskaltel - Euskadi,,3,2001,▼11
+27,74,,,10.0,,Kivilev Andrei,46,Cofidis,,3,2001,-
+28,146,,,10.0,37.0,Oriol Christophe,47,Jean Delatour,,3,2001,▼10
+29,184,,,10.0,,Guesdon Frédéric,48,La Française des Jeux,,3,2001,-
+28,135,,,10.0,,Jalabert Nicolas,49,CSC ProTeam - Tiscali,,3,2001,-
+34,183,,,10.0,38.0,Durand Jacky,50,La Française des Jeux,,3,2001,▼12
+25,91,,,9.0,,Mancebo Francisco,51,Ibanesto.com,,3,2001,-
+24,157,,,8.0,,Sevilla Óscar,52,Kelme - Costa Blanca,,3,2001,-
+27,83,,,8.0,39.0,Bettini Paolo,53,Mapei - Quickstep,,3,2001,▼14
+27,49,,,8.0,40.0,Tosatto Matteo,54,Fassa Bortolo,,3,2001,▼14
+30,161,,,7.0,,Rous Didier,55,Bonjour,,3,2001,-
+27,56,,,7.0,41.0,Lotz Marc,56,Rabobank ProTeam,,3,2001,▼15
+25,32,,,6.0,42.0,Brard Florent,57,Festina,,3,2001,▼15
+28,147,,,6.0,,Roux Laurent,58,Jean Delatour,,3,2001,-
+29,208,,,6.0,44.0,Sivakov Alexei,59,BigMat - Auber 93,,3,2001,▼15
+28,166,,,6.0,43.0,Perreaudeau Olivier,60,Bonjour,,3,2001,▼17
+28,151,,,5.0,45.0,Botero Santiago,61,Kelme - Costa Blanca,,3,2001,▼16
+28,194,,,5.0,,Merckx Axel,62,Domo - Farm Frites,,3,2001,-
+26,52,,,4.0,48.0,de Groot Bram,63,Rabobank ProTeam,,3,2001,▼15
+30,44,,,3.0,,Belli Wladimir,64,Fassa Bortolo,,3,2001,-
+26,28,,,2.0,49.0,Sastre Carlos,65,O.N.C.E. - Eroski,,3,2001,▼16
+29,67,,,2.0,,van de Wouwer Kurt,66,Lotto - Adecco,,3,2001,-
+25,125,,,2.0,50.0,Capelle Ludovic,67,AG2R Prévoyance,,3,2001,▼17
+36,174,,,2.0,51.0,Dierckxsens Ludo,68,Lampre - Daikin,,3,2001,▼17
+27,158,,,1.0,52.0,Tauler Toni,69,Kelme - Costa Blanca,,3,2001,▼17
+28,132,,,1.0,54.0,Blaudzun Michael,70,CSC ProTeam - Tiscali,,3,2001,▼16
+31,19,,,75.0,1.0,Zabel Erik,1,Team Telekom,,4,2001,-
+27,107,,,69.0,3.0,O'Grady Stuart,2,Crédit Agricole,,4,2001,▲1
+24,176,,,49.0,10.0,Hunter Robert,3,Lampre - Daikin,,4,2001,▲7
+31,127,,,47.0,2.0,Kirsipuu Jaan,4,AG2R Prévoyance,,4,2001,▼2
+27,165,,,46.0,23.0,Nazon Damien,5,Bonjour,,4,2001,▲18
+33,204,,,45.0,4.0,Capelle Christophe,6,BigMat - Auber 93,,4,2001,▼2
+28,39,,,44.0,20.0,Teutenberg Sven,7,Festina,,4,2001,▲13
+32,169,,,42.0,12.0,Simon François,8,Bonjour,,4,2001,▲4
+27,47,,,41.0,27.0,Petacchi Alessandro,9,Fassa Bortolo,,4,2001,▲18
+30,31,,,38.0,6.0,Moreau Christophe,10,Festina,,4,2001,▼4
+32,131,,,35.0,,Jalabert Laurent,11,CSC ProTeam - Tiscali,,4,2001,-
+32,59,,,35.0,5.0,Wauters Marc,12,Rabobank ProTeam,,4,2001,▼7
+36,174,,,32.0,68.0,Dierckxsens Ludo,13,Lampre - Daikin,,4,2001,▲55
+29,68,,,32.0,37.0,Van Hyfte Paul,14,Lotto - Adecco,,4,2001,▲23
+30,185,,,30.0,7.0,Magnien Emmanuel,15,La Française des Jeux,,4,2001,▼8
+29,38,,,30.0,9.0,Pretot Arnaud,16,Festina,,4,2001,▼7
+28,191,,,30.0,8.0,Vainšteins Romāns,17,Domo - Farm Frites,,4,2001,▼9
+27,66,,,30.0,11.0,Mikhailov Guennadi,18,Lotto - Adecco,,4,2001,▼7
+31,63,,,30.0,30.0,Baguet Serge,19,Lotto - Adecco,,4,2001,▲11
+27,86,,,26.0,13.0,Garzelli Stefano,20,Mapei - Quickstep,,4,2001,▼7
+23,182,,,26.0,14.0,Casper Jimmy,21,La Française des Jeux,,4,2001,▼7
+30,193,,,26.0,16.0,Knaven Servais,23,Domo - Farm Frites,,4,2001,▼7
+23,104,,,26.0,19.0,Hushovd Thor,24,Crédit Agricole,,4,2001,▼5
+27,11,,,25.0,17.0,Ullrich Jan,25,Team Telekom,,4,2001,▼8
+27,197,,,24.0,,Rodriguez Fred,26,Domo - Farm Frites,,4,2001,-
+33,42,,,24.0,18.0,Baldato Fabio,27,Fassa Bortolo,,4,2001,▼9
+32,178,,,23.0,21.0,Svorada Ján,28,Lampre - Daikin,,4,2001,▼7
+27,53,,,21.0,22.0,de Jongh Steven,29,Rabobank ProTeam,,4,2001,▼7
+33,84,,,20.0,24.0,Bramati Davide,30,Mapei - Quickstep,,4,2001,▼6
+27,21,,,20.0,34.0,Beloki Joseba,31,O.N.C.E. - Eroski,,4,2001,▲3
+26,61,,,19.0,25.0,Verbrugghe Rik,32,Lotto - Adecco,,4,2001,▼7
+29,101,,,19.0,26.0,Julich Bobby,33,Crédit Agricole,,4,2001,▼7
+23,43,,,18.0,29.0,Basso Ivan,34,Fassa Bortolo,,4,2001,▼5
+27,163,,,18.0,28.0,Bouyer Franck,35,Bonjour,,4,2001,▼7
+30,18,,,18.0,,Wesemann Steffen,36,Team Telekom,,4,2001,-
+27,56,,,18.0,56.0,Lotz Marc,37,Rabobank ProTeam,,4,2001,▲19
+31,195,,,17.0,31.0,Milesi Marco,38,Domo - Farm Frites,,4,2001,▼7
+26,175,,,17.0,32.0,Frutti Matteo,39,Lampre - Daikin,,4,2001,▼7
+27,24,,,16.0,33.0,González de Galdeano Igor,40,O.N.C.E. - Eroski,,4,2001,▼7
+23,209,,,16.0,,Talabardon Sébastien,41,BigMat - Auber 93,,4,2001,-
+29,76,,,16.0,35.0,Mattan Nico,42,Cofidis,,4,2001,▼7
+30,54,,,16.0,36.0,Dekker Erik,43,Rabobank ProTeam,,4,2001,▼7
+27,155,,,16.0,39.0,Gutiérrez José Enrique,44,Kelme - Costa Blanca,,4,2001,▼5
+34,183,,,16.0,50.0,Durand Jacky,45,La Française des Jeux,,4,2001,▲5
+26,45,,,15.0,38.0,Ivanov Serguei,46,Fassa Bortolo,,4,2001,▼8
+29,109,,,15.0,40.0,Voigt Jens,47,Crédit Agricole,,4,2001,▼7
+27,49,,,15.0,54.0,Tosatto Matteo,48,Fassa Bortolo,,4,2001,▲6
+33,179,,,13.0,41.0,Verstrepen Johan,49,Lampre - Daikin,,4,2001,▼8
+29,64,,,13.0,42.0,Blijlevens Jeroen,50,Lotto - Adecco,,4,2001,▼8
+29,184,,,13.0,48.0,Guesdon Frédéric,51,La Française des Jeux,,4,2001,▼3
+32,89,,,12.0,,Zanini Stefano,52,Mapei - Quickstep,,4,2001,-
+27,106,,,12.0,43.0,Morin Anthony,53,Crédit Agricole,,4,2001,▼10
+29,51,,,11.0,44.0,Boogerd Michael,54,Rabobank ProTeam,,4,2001,▼10
+27,111,,,11.0,45.0,Etxebarria David,55,Euskaltel - Euskadi,,4,2001,▼10
+30,97,,,10.0,,Odriozola Jon,56,Ibanesto.com,,4,2001,-
+27,74,,,10.0,46.0,Kivilev Andrei,57,Cofidis,,4,2001,▼11
+28,135,,,10.0,49.0,Jalabert Nicolas,58,CSC ProTeam - Tiscali,,4,2001,▼9
+28,146,,,10.0,47.0,Oriol Christophe,59,Jean Delatour,,4,2001,▼12
+26,138,,,9.0,,Sørensen Nicki,60,CSC ProTeam - Tiscali,,4,2001,-
+25,91,,,9.0,51.0,Mancebo Francisco,61,Ibanesto.com,,4,2001,▼10
+24,157,,,8.0,52.0,Sevilla Óscar,62,Kelme - Costa Blanca,,4,2001,▼10
+27,83,,,8.0,53.0,Bettini Paolo,63,Mapei - Quickstep,,4,2001,▼10
+30,161,,,7.0,55.0,Rous Didier,64,Bonjour,,4,2001,▼9
+25,32,,,6.0,57.0,Brard Florent,65,Festina,,4,2001,▼8
+33,141,,,6.0,,Brochard Laurent,66,Jean Delatour,,4,2001,-
+28,166,,,6.0,60.0,Perreaudeau Olivier,67,Bonjour,,4,2001,▼7
+29,208,,,6.0,59.0,Sivakov Alexei,68,BigMat - Auber 93,,4,2001,▼9
+28,147,,,6.0,58.0,Roux Laurent,69,Jean Delatour,,4,2001,▼11
+32,187,,,6.0,,Mengin Christophe,70,La Française des Jeux,,4,2001,-
+28,151,,,5.0,61.0,Botero Santiago,71,Kelme - Costa Blanca,,4,2001,▼10
+29,48,,,5.0,,Pozzi Oscar,72,Fassa Bortolo,,4,2001,-
+28,194,,,5.0,62.0,Merckx Axel,73,Domo - Farm Frites,,4,2001,▼11
+30,44,,,5.0,64.0,Belli Wladimir,74,Fassa Bortolo,,4,2001,▼10
+26,52,,,4.0,63.0,de Groot Bram,75,Rabobank ProTeam,,4,2001,▼12
+31,122,,,4.0,,Agnolutto Christophe,76,AG2R Prévoyance,,4,2001,-
+27,103,,,4.0,,Hinault Sébastien,77,Crédit Agricole,,4,2001,-
+27,145,,,4.0,,Halgand Patrice,78,Jean Delatour,,4,2001,-
+26,28,,,2.0,65.0,Sastre Carlos,79,O.N.C.E. - Eroski,,4,2001,▼14
+29,67,,,2.0,66.0,van de Wouwer Kurt,80,Lotto - Adecco,,4,2001,▼14
+25,125,,,2.0,67.0,Capelle Ludovic,81,AG2R Prévoyance,,4,2001,▼14
+27,158,,,1.0,69.0,Tauler Toni,82,Kelme - Costa Blanca,,4,2001,▼13
+28,132,,,1.0,70.0,Blaudzun Michael,83,CSC ProTeam - Tiscali,,4,2001,▼13
+24,26,7.0,+1:12,,2.0,Jaksche Jörg,1,O.N.C.E. - Eroski,20:55:33 20:55:33,5,2001,▲1
+22,25,9.0,+1:20,,3.0,Gutiérrez José Iván,2,O.N.C.E. - Eroski,0:08 0:08,5,2001,▲1
+25,32,11.0,+1:24,,1.0,Brard Florent,3,Festina,0:12 0:12,5,2001,▼2
+24,157,22.0,+2:39,,6.0,Sevilla Óscar,4,Kelme - Costa Blanca,1:27 1:27,5,2001,▲2
+25,91,36.0,+4:40,,5.0,Mancebo Francisco,5,Ibanesto.com,3:28 3:28,5,2001,-
+23,43,43.0,+4:55,,4.0,Basso Ivan,6,Fassa Bortolo,3:43 3:43,5,2001,▼2
+25,181,52.0,+6:14,,7.0,Montgomery Sven,7,La Française des Jeux,5:02 5:02,5,2001,-
+25,9,59.0,+7:14,,8.0,Vande Velde Christian,8,US Postal Service,6:02 6:02,5,2001,-
+24,176,68.0,+12:55,,10.0,Hunter Robert,9,Lampre - Daikin,11:43 11:43,5,2001,▲1
+23,209,70.0,+13:06,,9.0,Talabardon Sébastien,10,BigMat - Auber 93,11:54 11:54,5,2001,▼1
+22,164,76.0,+14:47,,11.0,Chavanel Sylvain,11,Bonjour,13:35 13:35,5,2001,-
+23,207,83.0,+19:19,,12.0,Lamouller Loïc,12,BigMat - Auber 93,18:07 18:07,5,2001,-
+25,95,101.0,+22:57,,15.0,Jiménez Eladio,13,Ibanesto.com,21:45 21:45,5,2001,▲2
+24,119,109.0,+23:49,,14.0,Zubeldia Haimar,14,Euskaltel - Euskadi,22:37 22:37,5,2001,-
+23,189,111.0,+23:55,,13.0,Vogondy Nicolas,15,La Française des Jeux,22:43 22:43,5,2001,▼2
+23,96,138.0,+29:07,,17.0,Menchov Denis,16,Ibanesto.com,27:55 27:55,5,2001,▲1
+23,104,140.0,+29:49,,20.0,Hushovd Thor,17,Crédit Agricole,28:37 28:37,5,2001,▲3
+25,172,146.0,+30:35,,16.0,Belohvoščiks Raivis,18,Lampre - Daikin,29:23 29:23,5,2001,▼2
+25,125,147.0,+30:54,,18.0,Capelle Ludovic,19,AG2R Prévoyance,29:42 29:42,5,2001,▼1
+25,186,155.0,+33:06,,19.0,McGee Bradley,20,La Française des Jeux,31:54 31:54,5,2001,▼1
+25,202,157.0,+33:48,,21.0,Auger Guillaume,21,BigMat - Auber 93,32:36 32:36,5,2001,-
+25,177,170.0,+38:31,,22.0,Pinotti Marco,22,Lampre - Daikin,37:19 37:19,5,2001,-
+23,182,172.0,+39:00,,23.0,Casper Jimmy,23,La Française des Jeux,37:48 37:48,5,2001,-
+22,173,180.0,+43:05,,24.0,Bertogliati Rubens,24,Lampre - Daikin,41:53 41:53,5,2001,-
+24,71,185.0,+47:02,,25.0,Millar David,25,Cofidis,45:50 45:50,5,2001,-
+31,19,,,93.0,1.0,Zabel Erik,1,Team Telekom,,6,2001,-
+27,107,,,85.0,2.0,O'Grady Stuart,2,Crédit Agricole,,6,2001,-
+31,127,,,72.0,4.0,Kirsipuu Jaan,3,AG2R Prévoyance,,6,2001,▲1
+27,165,,,68.0,5.0,Nazon Damien,4,Bonjour,,6,2001,▲1
+33,204,,,58.0,6.0,Capelle Christophe,5,BigMat - Auber 93,,6,2001,▲1
+24,176,,,49.0,3.0,Hunter Robert,6,Lampre - Daikin,,6,2001,▼3
+32,169,,,47.0,8.0,Simon François,7,Bonjour,,6,2001,▲1
+28,39,,,44.0,7.0,Teutenberg Sven,8,Festina,,6,2001,▼1
+32,178,,,43.0,28.0,Svorada Ján,9,Lampre - Daikin,,6,2001,▲19
+27,47,,,42.0,9.0,Petacchi Alessandro,10,Fassa Bortolo,,6,2001,▼1
+28,191,,,41.0,16.0,Vainšteins Romāns,11,Domo - Farm Frites,,6,2001,▲5
+23,182,,,41.0,21.0,Casper Jimmy,12,La Française des Jeux,,6,2001,▲9
+30,31,,,38.0,10.0,Moreau Christophe,13,Festina,,6,2001,▼3
+31,63,,,36.0,19.0,Baguet Serge,14,Lotto - Adecco,,6,2001,▲5
+32,131,,,35.0,12.0,Jalabert Laurent,15,CSC ProTeam - Tiscali,,6,2001,▼3
+32,59,,,35.0,11.0,Wauters Marc,16,Rabobank ProTeam,,6,2001,▼5
+36,174,,,32.0,13.0,Dierckxsens Ludo,17,Lampre - Daikin,,6,2001,▼4
+29,68,,,32.0,14.0,Van Hyfte Paul,18,Lotto - Adecco,,6,2001,▼4
+30,185,,,30.0,17.0,Magnien Emmanuel,19,La Française des Jeux,,6,2001,▼2
+29,38,,,30.0,15.0,Pretot Arnaud,20,Festina,,6,2001,▼5
+27,66,,,30.0,18.0,Mikhailov Guennadi,21,Lotto - Adecco,,6,2001,▼3
+29,76,,,30.0,42.0,Mattan Nico,22,Cofidis,,6,2001,▲20
+27,86,,,26.0,20.0,Garzelli Stefano,23,Mapei - Quickstep,,6,2001,▼3
+30,193,,,26.0,24.0,Knaven Servais,25,Domo - Farm Frites,,6,2001,▼1
+23,104,,,26.0,23.0,Hushovd Thor,26,Crédit Agricole,,6,2001,▼3
+27,11,,,25.0,25.0,Ullrich Jan,27,Team Telekom,,6,2001,▼2
+26,61,,,25.0,32.0,Verbrugghe Rik,28,Lotto - Adecco,,6,2001,▲4
+27,197,,,24.0,26.0,Rodriguez Fred,29,Domo - Farm Frites,,6,2001,▼3
+33,42,,,24.0,27.0,Baldato Fabio,30,Fassa Bortolo,,6,2001,▼3
+27,53,,,21.0,29.0,de Jongh Steven,31,Rabobank ProTeam,,6,2001,▼2
+27,111,,,21.0,55.0,Etxebarria David,32,Euskaltel - Euskadi,,6,2001,▲23
+33,84,,,20.0,30.0,Bramati Davide,33,Mapei - Quickstep,,6,2001,▼3
+27,21,,,20.0,31.0,Beloki Joseba,34,O.N.C.E. - Eroski,,6,2001,▼3
+26,45,,,19.0,46.0,Ivanov Serguei,35,Fassa Bortolo,,6,2001,▲11
+29,101,,,19.0,33.0,Julich Bobby,36,Crédit Agricole,,6,2001,▼3
+27,163,,,18.0,34.0,Bouyer Franck,37,Bonjour,,6,2001,▼3
+23,43,,,18.0,35.0,Basso Ivan,38,Fassa Bortolo,,6,2001,▼3
+29,208,,,18.0,67.0,Sivakov Alexei,39,BigMat - Auber 93,,6,2001,▲28
+27,155,,,18.0,44.0,Gutiérrez José Enrique,40,Kelme - Costa Blanca,,6,2001,▲4
+30,18,,,18.0,36.0,Wesemann Steffen,41,Team Telekom,,6,2001,▼5
+27,56,,,18.0,37.0,Lotz Marc,42,Rabobank ProTeam,,6,2001,▼5
+31,195,,,17.0,38.0,Milesi Marco,43,Domo - Farm Frites,,6,2001,▼5
+26,175,,,17.0,39.0,Frutti Matteo,44,Lampre - Daikin,,6,2001,▼5
+27,24,,,16.0,40.0,González de Galdeano Igor,45,O.N.C.E. - Eroski,,6,2001,▼5
+30,54,,,16.0,43.0,Dekker Erik,46,Rabobank ProTeam,,6,2001,▼3
+23,209,,,16.0,41.0,Talabardon Sébastien,47,BigMat - Auber 93,,6,2001,▼6
+27,106,,,16.0,52.0,Morin Anthony,48,Crédit Agricole,,6,2001,▲4
+34,183,,,16.0,45.0,Durand Jacky,49,La Française des Jeux,,6,2001,▼4
+33,179,,,15.0,50.0,Verstrepen Johan,50,Lampre - Daikin,,6,2001,-
+29,109,,,15.0,47.0,Voigt Jens,51,Crédit Agricole,,6,2001,▼4
+27,49,,,15.0,48.0,Tosatto Matteo,52,Fassa Bortolo,,6,2001,▼4
+29,64,,,13.0,49.0,Blijlevens Jeroen,53,Lotto - Adecco,,6,2001,▼4
+29,184,,,13.0,51.0,Guesdon Frédéric,54,La Française des Jeux,,6,2001,▼3
+32,89,,,12.0,53.0,Zanini Stefano,55,Mapei - Quickstep,,6,2001,▼2
+29,51,,,11.0,54.0,Boogerd Michael,56,Rabobank ProTeam,,6,2001,▼2
+28,194,,,11.0,73.0,Merckx Axel,57,Domo - Farm Frites,,6,2001,▲16
+27,74,,,10.0,56.0,Kivilev Andrei,58,Cofidis,,6,2001,▼2
+30,97,,,10.0,57.0,Odriozola Jon,59,Ibanesto.com,,6,2001,▼2
+28,135,,,10.0,59.0,Jalabert Nicolas,60,CSC ProTeam - Tiscali,,6,2001,▼1
+31,82,,,10.0,,Bartoli Michele,61,Mapei - Quickstep,,6,2001,-
+28,146,,,10.0,58.0,Oriol Christophe,62,Jean Delatour,,6,2001,▼4
+30,203,,,9.0,,Auger Ludovic,63,BigMat - Auber 93,,6,2001,-
+25,91,,,9.0,61.0,Mancebo Francisco,64,Ibanesto.com,,6,2001,▼3
+26,138,,,9.0,60.0,Sørensen Nicki,65,CSC ProTeam - Tiscali,,6,2001,▼5
+25,202,,,8.0,,Auger Guillaume,66,BigMat - Auber 93,,6,2001,-
+24,157,,,8.0,62.0,Sevilla Óscar,67,Kelme - Costa Blanca,,6,2001,▼5
+27,83,,,8.0,63.0,Bettini Paolo,68,Mapei - Quickstep,,6,2001,▼5
+33,141,,,8.0,68.0,Brochard Laurent,69,Jean Delatour,,6,2001,▼1
+26,124,,,7.0,,Botcharov Alexandre,70,AG2R Prévoyance,,6,2001,-
+30,161,,,7.0,64.0,Rous Didier,71,Bonjour,,6,2001,▼7
+25,32,,,6.0,65.0,Brard Florent,72,Festina,,6,2001,▼7
+32,205,,,6.0,,Gouvenou Thierry,73,BigMat - Auber 93,,6,2001,-
+28,147,,,6.0,69.0,Roux Laurent,74,Jean Delatour,,6,2001,▼5
+28,166,,,6.0,66.0,Perreaudeau Olivier,75,Bonjour,,6,2001,▼9
+32,187,,,6.0,70.0,Mengin Christophe,76,La Française des Jeux,,6,2001,▼6
+28,151,,,5.0,71.0,Botero Santiago,77,Kelme - Costa Blanca,,6,2001,▼6
+29,48,,,5.0,72.0,Pozzi Oscar,78,Fassa Bortolo,,6,2001,▼6
+30,44,,,5.0,74.0,Belli Wladimir,79,Fassa Bortolo,,6,2001,▼5
+28,132,,,4.0,83.0,Blaudzun Michael,80,CSC ProTeam - Tiscali,,6,2001,▲3
+26,52,,,4.0,76.0,de Groot Bram,81,Rabobank ProTeam,,6,2001,▼5
+31,122,,,4.0,75.0,Agnolutto Christophe,82,AG2R Prévoyance,,6,2001,▼7
+27,103,,,4.0,77.0,Hinault Sébastien,83,Crédit Agricole,,6,2001,▼6
+27,145,,,4.0,78.0,Halgand Patrice,84,Jean Delatour,,6,2001,▼6
+26,28,,,2.0,79.0,Sastre Carlos,85,O.N.C.E. - Eroski,,6,2001,▼6
+25,125,,,2.0,80.0,Capelle Ludovic,86,AG2R Prévoyance,,6,2001,▼6
+29,67,,,2.0,81.0,van de Wouwer Kurt,87,Lotto - Adecco,,6,2001,▼6
+27,158,,,1.0,82.0,Tauler Toni,88,Kelme - Costa Blanca,,6,2001,▼6
+31,19,,,93.0,1.0,Zabel Erik,1,Team Telekom,,7,2001,-
+27,107,,,90.0,2.0,O'Grady Stuart,2,Crédit Agricole,,7,2001,-
+31,127,,,72.0,3.0,Kirsipuu Jaan,3,AG2R Prévoyance,,7,2001,-
+27,165,,,68.0,4.0,Nazon Damien,4,Bonjour,,7,2001,-
+33,204,,,58.0,5.0,Capelle Christophe,5,BigMat - Auber 93,,7,2001,-
+32,131,,,55.0,15.0,Jalabert Laurent,6,CSC ProTeam - Tiscali,,7,2001,▲9
+32,169,,,50.0,7.0,Simon François,7,Bonjour,,7,2001,-
+24,176,,,49.0,6.0,Hunter Robert,8,Lampre - Daikin,,7,2001,▼2
+28,39,,,44.0,8.0,Teutenberg Sven,9,Festina,,7,2001,▼1
+32,178,,,43.0,9.0,Svorada Ján,10,Lampre - Daikin,,7,2001,▼1
+27,47,,,42.0,10.0,Petacchi Alessandro,11,Fassa Bortolo,,7,2001,▼1
+28,191,,,41.0,11.0,Vainšteins Romāns,12,Domo - Farm Frites,,7,2001,▼1
+23,182,,,41.0,12.0,Casper Jimmy,13,La Française des Jeux,,7,2001,▼1
+30,31,,,38.0,13.0,Moreau Christophe,14,Festina,,7,2001,▼1
+23,43,,,36.0,38.0,Basso Ivan,15,Fassa Bortolo,,7,2001,▲23
+31,63,,,36.0,14.0,Baguet Serge,16,Lotto - Adecco,,7,2001,▼2
+32,59,,,35.0,16.0,Wauters Marc,17,Rabobank ProTeam,,7,2001,▼1
+29,109,,,32.0,51.0,Voigt Jens,18,Crédit Agricole,,7,2001,▲33
+36,174,,,32.0,17.0,Dierckxsens Ludo,19,Lampre - Daikin,,7,2001,▼2
+29,68,,,32.0,18.0,Van Hyfte Paul,20,Lotto - Adecco,,7,2001,▼2
+27,111,,,31.0,32.0,Etxebarria David,21,Euskaltel - Euskadi,,7,2001,▲11
+27,66,,,31.0,21.0,Mikhailov Guennadi,22,Lotto - Adecco,,7,2001,▼1
+30,185,,,30.0,19.0,Magnien Emmanuel,23,La Française des Jeux,,7,2001,▼4
+29,76,,,30.0,22.0,Mattan Nico,24,Cofidis,,7,2001,▼2
+27,86,,,26.0,23.0,Garzelli Stefano,25,Mapei - Quickstep,,7,2001,▼2
+30,193,,,26.0,25.0,Knaven Servais,27,Domo - Farm Frites,,7,2001,▼2
+23,104,,,26.0,26.0,Hushovd Thor,28,Crédit Agricole,,7,2001,▼2
+28,147,,,25.0,74.0,Roux Laurent,29,Jean Delatour,,7,2001,▲45
+27,11,,,25.0,27.0,Ullrich Jan,30,Team Telekom,,7,2001,▼3
+26,61,,,25.0,28.0,Verbrugghe Rik,31,Lotto - Adecco,,7,2001,▼3
+33,42,,,24.0,30.0,Baldato Fabio,32,Fassa Bortolo,,7,2001,▼2
+27,197,,,24.0,29.0,Rodriguez Fred,33,Domo - Farm Frites,,7,2001,▼4
+27,163,,,24.0,37.0,Bouyer Franck,34,Bonjour,,7,2001,▲3
+29,101,,,23.0,36.0,Julich Bobby,35,Crédit Agricole,,7,2001,▲1
+33,141,,,22.0,69.0,Brochard Laurent,36,Jean Delatour,,7,2001,▲33
+27,49,,,22.0,52.0,Tosatto Matteo,37,Fassa Bortolo,,7,2001,▲15
+33,84,,,20.0,33.0,Bramati Davide,38,Mapei - Quickstep,,7,2001,▼5
+27,21,,,20.0,34.0,Beloki Joseba,39,O.N.C.E. - Eroski,,7,2001,▼5
+27,155,,,20.0,40.0,Gutiérrez José Enrique,40,Kelme - Costa Blanca,,7,2001,-
+26,45,,,19.0,35.0,Ivanov Serguei,41,Fassa Bortolo,,7,2001,▼6
+26,175,,,19.0,44.0,Frutti Matteo,42,Lampre - Daikin,,7,2001,▲2
+29,208,,,18.0,39.0,Sivakov Alexei,43,BigMat - Auber 93,,7,2001,▼4
+30,18,,,18.0,41.0,Wesemann Steffen,44,Team Telekom,,7,2001,▼3
+27,56,,,18.0,42.0,Lotz Marc,45,Rabobank ProTeam,,7,2001,▼3
+31,195,,,17.0,43.0,Milesi Marco,46,Domo - Farm Frites,,7,2001,▼3
+27,24,,,16.0,45.0,González de Galdeano Igor,47,O.N.C.E. - Eroski,,7,2001,▼2
+30,54,,,16.0,46.0,Dekker Erik,48,Rabobank ProTeam,,7,2001,▼2
+23,209,,,16.0,47.0,Talabardon Sébastien,49,BigMat - Auber 93,,7,2001,▼2
+27,106,,,16.0,48.0,Morin Anthony,50,Crédit Agricole,,7,2001,▼2
+34,183,,,16.0,49.0,Durand Jacky,51,La Française des Jeux,,7,2001,▼2
+32,73,,,15.0,,Cuesta Iñigo,52,Cofidis,,7,2001,-
+33,179,,,15.0,50.0,Verstrepen Johan,53,Lampre - Daikin,,7,2001,▼3
+29,64,,,13.0,53.0,Blijlevens Jeroen,54,Lotto - Adecco,,7,2001,▼1
+29,184,,,13.0,54.0,Guesdon Frédéric,55,La Française des Jeux,,7,2001,▼1
+27,83,,,12.0,68.0,Bettini Paolo,56,Mapei - Quickstep,,7,2001,▲12
+28,135,,,12.0,60.0,Jalabert Nicolas,57,CSC ProTeam - Tiscali,,7,2001,▲3
+29,51,,,11.0,56.0,Boogerd Michael,58,Rabobank ProTeam,,7,2001,▼2
+28,194,,,11.0,57.0,Merckx Axel,59,Domo - Farm Frites,,7,2001,▼2
+30,97,,,10.0,59.0,Odriozola Jon,60,Ibanesto.com,,7,2001,▼1
+27,74,,,10.0,58.0,Kivilev Andrei,61,Cofidis,,7,2001,▼3
+31,82,,,10.0,61.0,Bartoli Michele,62,Mapei - Quickstep,,7,2001,▼1
+28,146,,,10.0,62.0,Oriol Christophe,63,Jean Delatour,,7,2001,▼1
+27,17,,,9.0,,Vinokourov Alexandre,64,Team Telekom,,7,2001,-
+30,203,,,9.0,63.0,Auger Ludovic,65,BigMat - Auber 93,,7,2001,▼2
+26,138,,,9.0,65.0,Sørensen Nicki,66,CSC ProTeam - Tiscali,,7,2001,▼1
+25,91,,,9.0,64.0,Mancebo Francisco,67,Ibanesto.com,,7,2001,▼3
+25,202,,,8.0,66.0,Auger Guillaume,68,BigMat - Auber 93,,7,2001,▼2
+24,157,,,8.0,67.0,Sevilla Óscar,69,Kelme - Costa Blanca,,7,2001,▼2
+26,124,,,7.0,70.0,Botcharov Alexandre,70,AG2R Prévoyance,,7,2001,-
+30,161,,,7.0,71.0,Rous Didier,71,Bonjour,,7,2001,-
+25,32,,,6.0,72.0,Brard Florent,72,Festina,,7,2001,-
+32,205,,,6.0,73.0,Gouvenou Thierry,73,BigMat - Auber 93,,7,2001,-
+28,166,,,6.0,75.0,Perreaudeau Olivier,74,Bonjour,,7,2001,▲1
+32,187,,,6.0,76.0,Mengin Christophe,75,La Française des Jeux,,7,2001,▲1
+29,118,,,6.0,,López de Munain Alberto,76,Euskaltel - Euskadi,,7,2001,-
+28,151,,,5.0,77.0,Botero Santiago,77,Kelme - Costa Blanca,,7,2001,-
+29,48,,,5.0,78.0,Pozzi Oscar,78,Fassa Bortolo,,7,2001,-
+30,44,,,5.0,79.0,Belli Wladimir,79,Fassa Bortolo,,7,2001,-
+28,132,,,4.0,80.0,Blaudzun Michael,80,CSC ProTeam - Tiscali,,7,2001,-
+28,137,,,4.0,,Piil Jakob Storm,81,CSC ProTeam - Tiscali,,7,2001,-
+31,122,,,4.0,82.0,Agnolutto Christophe,82,AG2R Prévoyance,,7,2001,-
+26,52,,,4.0,81.0,de Groot Bram,83,Rabobank ProTeam,,7,2001,▼2
+27,103,,,4.0,83.0,Hinault Sébastien,84,Crédit Agricole,,7,2001,▼1
+27,145,,,4.0,84.0,Halgand Patrice,85,Jean Delatour,,7,2001,▼1
+26,28,,,2.0,85.0,Sastre Carlos,86,O.N.C.E. - Eroski,,7,2001,▼1
+29,67,,,2.0,87.0,van de Wouwer Kurt,87,Lotto - Adecco,,7,2001,-
+25,125,,,2.0,86.0,Capelle Ludovic,88,AG2R Prévoyance,,7,2001,▼2
+27,158,,,1.0,88.0,Tauler Toni,89,Kelme - Costa Blanca,,7,2001,▼1
+27,107,,,116.0,2.0,O'Grady Stuart,1,Crédit Agricole,,8,2001,▲1
+31,19,,,103.0,1.0,Zabel Erik,2,Team Telekom,,8,2001,▼1
+31,127,,,72.0,3.0,Kirsipuu Jaan,3,AG2R Prévoyance,,8,2001,-
+27,165,,,68.0,4.0,Nazon Damien,4,Bonjour,,8,2001,-
+28,39,,,66.0,9.0,Teutenberg Sven,5,Festina,,8,2001,▲4
+32,59,,,65.0,17.0,Wauters Marc,6,Rabobank ProTeam,,8,2001,▲11
+33,204,,,65.0,5.0,Capelle Christophe,7,BigMat - Auber 93,,8,2001,▼2
+32,169,,,64.0,7.0,Simon François,8,Bonjour,,8,2001,▼1
+24,176,,,60.0,8.0,Hunter Robert,9,Lampre - Daikin,,8,2001,▼1
+30,193,,,58.0,27.0,Knaven Servais,10,Domo - Farm Frites,,8,2001,▲17
+32,131,,,55.0,6.0,Jalabert Laurent,11,CSC ProTeam - Tiscali,,8,2001,▼5
+30,54,,,55.0,48.0,Dekker Erik,12,Rabobank ProTeam,,8,2001,▲36
+36,174,,,49.0,19.0,Dierckxsens Ludo,13,Lampre - Daikin,,8,2001,▲6
+30,31,,,43.0,14.0,Moreau Christophe,14,Festina,,8,2001,-
+32,178,,,43.0,10.0,Svorada Ján,15,Lampre - Daikin,,8,2001,▼5
+34,183,,,43.0,51.0,Durand Jacky,16,La Française des Jeux,,8,2001,▲35
+27,47,,,42.0,11.0,Petacchi Alessandro,17,Fassa Bortolo,,8,2001,▼6
+28,191,,,41.0,12.0,Vainšteins Romāns,18,Domo - Farm Frites,,8,2001,▼6
+23,182,,,41.0,13.0,Casper Jimmy,19,La Française des Jeux,,8,2001,▼6
+31,63,,,36.0,16.0,Baguet Serge,20,Lotto - Adecco,,8,2001,▼4
+29,109,,,34.0,18.0,Voigt Jens,21,Crédit Agricole,,8,2001,▼3
+26,154,,,32.0,,González Aitor,22,Kelme - Costa Blanca,,8,2001,-
+29,68,,,32.0,20.0,Van Hyfte Paul,23,Lotto - Adecco,,8,2001,▼3
+27,111,,,31.0,21.0,Etxebarria David,24,Euskaltel - Euskadi,,8,2001,▼3
+27,66,,,31.0,22.0,Mikhailov Guennadi,25,Lotto - Adecco,,8,2001,▼3
+30,185,,,30.0,23.0,Magnien Emmanuel,26,La Française des Jeux,,8,2001,▼3
+29,76,,,30.0,24.0,Mattan Nico,27,Cofidis,,8,2001,▼3
+27,11,,,29.0,30.0,Ullrich Jan,28,Team Telekom,,8,2001,▲2
+27,155,,,28.0,40.0,Gutiérrez José Enrique,29,Kelme - Costa Blanca,,8,2001,▲11
+26,175,,,28.0,42.0,Frutti Matteo,30,Lampre - Daikin,,8,2001,▲12
+27,86,,,26.0,25.0,Garzelli Stefano,31,Mapei - Quickstep,,8,2001,▼6
+23,104,,,26.0,28.0,Hushovd Thor,33,Crédit Agricole,,8,2001,▼5
+28,147,,,25.0,29.0,Roux Laurent,34,Jean Delatour,,8,2001,▼5
+26,61,,,25.0,31.0,Verbrugghe Rik,35,Lotto - Adecco,,8,2001,▼4
+33,42,,,24.0,32.0,Baldato Fabio,36,Fassa Bortolo,,8,2001,▼4
+27,197,,,24.0,33.0,Rodriguez Fred,37,Domo - Farm Frites,,8,2001,▼4
+27,163,,,24.0,34.0,Bouyer Franck,38,Bonjour,,8,2001,▼4
+29,101,,,23.0,35.0,Julich Bobby,39,Crédit Agricole,,8,2001,▼4
+27,74,,,23.0,61.0,Kivilev Andrei,40,Cofidis,,8,2001,▲21
+33,141,,,22.0,36.0,Brochard Laurent,41,Jean Delatour,,8,2001,▼5
+26,52,,,22.0,83.0,de Groot Bram,42,Rabobank ProTeam,,8,2001,▲41
+27,49,,,22.0,37.0,Tosatto Matteo,43,Fassa Bortolo,,8,2001,▼6
+33,84,,,20.0,38.0,Bramati Davide,44,Mapei - Quickstep,,8,2001,▼6
+27,21,,,20.0,39.0,Beloki Joseba,45,O.N.C.E. - Eroski,,8,2001,▼6
+26,45,,,19.0,41.0,Ivanov Serguei,46,Fassa Bortolo,,8,2001,▼5
+26,129,,,19.0,,Turpin Ludovic,47,AG2R Prévoyance,,8,2001,-
+29,208,,,18.0,43.0,Sivakov Alexei,48,BigMat - Auber 93,,8,2001,▼5
+30,18,,,18.0,44.0,Wesemann Steffen,49,Team Telekom,,8,2001,▼5
+27,56,,,18.0,45.0,Lotz Marc,50,Rabobank ProTeam,,8,2001,▼5
+31,195,,,17.0,46.0,Milesi Marco,51,Domo - Farm Frites,,8,2001,▼5
+27,24,,,16.0,47.0,González de Galdeano Igor,52,O.N.C.E. - Eroski,,8,2001,▼5
+29,46,,,16.0,,Loda Nicola,53,Fassa Bortolo,,8,2001,-
+23,209,,,16.0,49.0,Talabardon Sébastien,54,BigMat - Auber 93,,8,2001,▼5
+27,106,,,16.0,50.0,Morin Anthony,55,Crédit Agricole,,8,2001,▼5
+32,73,,,15.0,52.0,Cuesta Iñigo,56,Cofidis,,8,2001,▼4
+33,179,,,15.0,53.0,Verstrepen Johan,57,Lampre - Daikin,,8,2001,▼4
+25,202,,,14.0,68.0,Auger Guillaume,58,BigMat - Auber 93,,8,2001,▲10
+29,64,,,13.0,54.0,Blijlevens Jeroen,59,Lotto - Adecco,,8,2001,▼5
+29,184,,,13.0,55.0,Guesdon Frédéric,60,La Française des Jeux,,8,2001,▼5
+27,83,,,12.0,56.0,Bettini Paolo,61,Mapei - Quickstep,,8,2001,▼5
+33,34,,,12.0,,Chanteur Pascal,62,Festina,,8,2001,-
+28,135,,,12.0,57.0,Jalabert Nicolas,63,CSC ProTeam - Tiscali,,8,2001,▼6
+29,51,,,11.0,58.0,Boogerd Michael,64,Rabobank ProTeam,,8,2001,▼6
+28,194,,,11.0,59.0,Merckx Axel,65,Domo - Farm Frites,,8,2001,▼6
+30,97,,,10.0,60.0,Odriozola Jon,66,Ibanesto.com,,8,2001,▼6
+31,82,,,10.0,62.0,Bartoli Michele,67,Mapei - Quickstep,,8,2001,▼5
+28,146,,,10.0,63.0,Oriol Christophe,68,Jean Delatour,,8,2001,▼5
+27,17,,,9.0,64.0,Vinokourov Alexandre,69,Team Telekom,,8,2001,▼5
+30,203,,,9.0,65.0,Auger Ludovic,70,BigMat - Auber 93,,8,2001,▼5
+26,138,,,9.0,66.0,Sørensen Nicki,71,CSC ProTeam - Tiscali,,8,2001,▼5
+25,91,,,9.0,67.0,Mancebo Francisco,72,Ibanesto.com,,8,2001,▼5
+24,157,,,8.0,69.0,Sevilla Óscar,73,Kelme - Costa Blanca,,8,2001,▼4
+26,124,,,7.0,70.0,Botcharov Alexandre,74,AG2R Prévoyance,,8,2001,▼4
+30,161,,,7.0,71.0,Rous Didier,75,Bonjour,,8,2001,▼4
+25,32,,,6.0,72.0,Brard Florent,76,Festina,,8,2001,▼4
+32,205,,,6.0,73.0,Gouvenou Thierry,77,BigMat - Auber 93,,8,2001,▼4
+28,166,,,6.0,74.0,Perreaudeau Olivier,78,Bonjour,,8,2001,▼4
+32,187,,,6.0,75.0,Mengin Christophe,79,La Française des Jeux,,8,2001,▼4
+29,118,,,6.0,76.0,López de Munain Alberto,80,Euskaltel - Euskadi,,8,2001,▼4
+28,151,,,5.0,77.0,Botero Santiago,81,Kelme - Costa Blanca,,8,2001,▼4
+29,48,,,5.0,78.0,Pozzi Oscar,82,Fassa Bortolo,,8,2001,▼4
+30,44,,,5.0,79.0,Belli Wladimir,83,Fassa Bortolo,,8,2001,▼4
+31,122,,,5.0,82.0,Agnolutto Christophe,84,AG2R Prévoyance,,8,2001,▼2
+28,132,,,4.0,80.0,Blaudzun Michael,85,CSC ProTeam - Tiscali,,8,2001,▼5
+27,103,,,4.0,84.0,Hinault Sébastien,86,Crédit Agricole,,8,2001,▼2
+28,137,,,4.0,81.0,Piil Jakob Storm,87,CSC ProTeam - Tiscali,,8,2001,▼6
+27,145,,,4.0,85.0,Halgand Patrice,88,Jean Delatour,,8,2001,▼3
+28,162,,,3.0,,Bénéteau Walter,89,Bonjour,,8,2001,-
+26,28,,,2.0,86.0,Sastre Carlos,90,O.N.C.E. - Eroski,,8,2001,▼4
+29,67,,,2.0,87.0,van de Wouwer Kurt,91,Lotto - Adecco,,8,2001,▼4
+25,125,,,2.0,88.0,Capelle Ludovic,92,AG2R Prévoyance,,8,2001,▼4
+27,158,,,1.0,89.0,Tauler Toni,93,Kelme - Costa Blanca,,8,2001,▼4
+27,107,,,136.0,1.0,O'Grady Stuart,1,Crédit Agricole,,9,2001,-
+31,19,,,127.0,2.0,Zabel Erik,2,Team Telekom,,9,2001,-
+27,165,,,90.0,4.0,Nazon Damien,3,Bonjour,,9,2001,▲1
+28,39,,,82.0,5.0,Teutenberg Sven,4,Festina,,9,2001,▲1
+32,169,,,76.0,8.0,Simon François,5,Bonjour,,9,2001,▲3
+31,127,,,72.0,3.0,Kirsipuu Jaan,6,AG2R Prévoyance,,9,2001,▼3
+32,59,,,65.0,6.0,Wauters Marc,7,Rabobank ProTeam,,9,2001,▼1
+27,111,,,65.0,24.0,Etxebarria David,8,Euskaltel - Euskadi,,9,2001,▲16
+33,204,,,65.0,7.0,Capelle Christophe,9,BigMat - Auber 93,,9,2001,▼2
+26,45,,,62.0,46.0,Ivanov Serguei,10,Fassa Bortolo,,9,2001,▲36
+24,176,,,60.0,9.0,Hunter Robert,11,Lampre - Daikin,,9,2001,▼2
+27,47,,,59.0,17.0,Petacchi Alessandro,12,Fassa Bortolo,,9,2001,▲5
+30,193,,,58.0,10.0,Knaven Servais,13,Domo - Farm Frites,,9,2001,▼3
+32,131,,,55.0,11.0,Jalabert Laurent,14,CSC ProTeam - Tiscali,,9,2001,▼3
+30,54,,,55.0,12.0,Dekker Erik,15,Rabobank ProTeam,,9,2001,▼3
+30,31,,,49.0,14.0,Moreau Christophe,16,Festina,,9,2001,▼2
+36,174,,,49.0,13.0,Dierckxsens Ludo,17,Lampre - Daikin,,9,2001,▼4
+27,155,,,46.0,29.0,Gutiérrez José Enrique,18,Kelme - Costa Blanca,,9,2001,▲11
+32,178,,,43.0,15.0,Svorada Ján,19,Lampre - Daikin,,9,2001,▼4
+34,183,,,43.0,16.0,Durand Jacky,20,La Française des Jeux,,9,2001,▼4
+28,191,,,41.0,18.0,Vainšteins Romāns,21,Domo - Farm Frites,,9,2001,▼3
+23,182,,,41.0,19.0,Casper Jimmy,22,La Française des Jeux,,9,2001,▼3
+25,186,,,38.0,,McGee Bradley,23,La Française des Jeux,,9,2001,-
+31,63,,,36.0,20.0,Baguet Serge,24,Lotto - Adecco,,9,2001,▼4
+29,109,,,34.0,21.0,Voigt Jens,25,Crédit Agricole,,9,2001,▼4
+26,154,,,32.0,22.0,González Aitor,26,Kelme - Costa Blanca,,9,2001,▼4
+29,68,,,32.0,23.0,Van Hyfte Paul,27,Lotto - Adecco,,9,2001,▼4
+27,66,,,31.0,25.0,Mikhailov Guennadi,28,Lotto - Adecco,,9,2001,▼3
+27,83,,,31.0,61.0,Bettini Paolo,29,Mapei - Quickstep,,9,2001,▲32
+26,61,,,31.0,35.0,Verbrugghe Rik,30,Lotto - Adecco,,9,2001,▲5
+30,185,,,30.0,26.0,Magnien Emmanuel,31,La Française des Jeux,,9,2001,▼5
+29,76,,,30.0,27.0,Mattan Nico,32,Cofidis,,9,2001,▼5
+27,11,,,29.0,28.0,Ullrich Jan,33,Team Telekom,,9,2001,▼5
+33,42,,,28.0,36.0,Baldato Fabio,34,Fassa Bortolo,,9,2001,▲2
+26,175,,,28.0,30.0,Frutti Matteo,35,Lampre - Daikin,,9,2001,▼5
+29,208,,,27.0,48.0,Sivakov Alexei,36,BigMat - Auber 93,,9,2001,▲12
+28,86,,,26.0,31.0,Garzelli Stefano,37,Mapei - Quickstep,,9,2001,▼6
+23,104,,,26.0,33.0,Hushovd Thor,39,Crédit Agricole,,9,2001,▼6
+28,147,,,25.0,34.0,Roux Laurent,40,Jean Delatour,,9,2001,▼6
+27,197,,,24.0,37.0,Rodriguez Fred,41,Domo - Farm Frites,,9,2001,▼4
+27,163,,,24.0,38.0,Bouyer Franck,42,Bonjour,,9,2001,▼4
+29,101,,,23.0,39.0,Julich Bobby,43,Crédit Agricole,,9,2001,▼4
+27,74,,,23.0,40.0,Kivilev Andrei,44,Cofidis,,9,2001,▼4
+33,141,,,22.0,41.0,Brochard Laurent,45,Jean Delatour,,9,2001,▼4
+26,52,,,22.0,42.0,de Groot Bram,46,Rabobank ProTeam,,9,2001,▼4
+27,49,,,22.0,43.0,Tosatto Matteo,47,Fassa Bortolo,,9,2001,▼4
+32,187,,,21.0,79.0,Mengin Christophe,48,La Française des Jeux,,9,2001,▲31
+29,51,,,21.0,64.0,Boogerd Michael,49,Rabobank ProTeam,,9,2001,▲15
+33,84,,,20.0,44.0,Bramati Davide,50,Mapei - Quickstep,,9,2001,▼6
+27,21,,,20.0,45.0,Beloki Joseba,51,O.N.C.E. - Eroski,,9,2001,▼6
+26,129,,,19.0,47.0,Turpin Ludovic,52,AG2R Prévoyance,,9,2001,▼5
+30,18,,,18.0,49.0,Wesemann Steffen,53,Team Telekom,,9,2001,▼4
+27,56,,,18.0,50.0,Lotz Marc,54,Rabobank ProTeam,,9,2001,▼4
+31,195,,,17.0,51.0,Milesi Marco,55,Domo - Farm Frites,,9,2001,▼4
+27,24,,,16.0,52.0,González de Galdeano Igor,56,O.N.C.E. - Eroski,,9,2001,▼4
+29,46,,,16.0,53.0,Loda Nicola,57,Fassa Bortolo,,9,2001,▼4
+23,209,,,16.0,54.0,Talabardon Sébastien,58,BigMat - Auber 93,,9,2001,▼4
+27,106,,,16.0,55.0,Morin Anthony,59,Crédit Agricole,,9,2001,▼4
+32,73,,,15.0,56.0,Cuesta Iñigo,60,Cofidis,,9,2001,▼4
+33,179,,,15.0,57.0,Verstrepen Johan,61,Lampre - Daikin,,9,2001,▼4
+25,172,,,14.0,,Belohvoščiks Raivis,62,Lampre - Daikin,,9,2001,-
+25,202,,,14.0,58.0,Auger Guillaume,63,BigMat - Auber 93,,9,2001,▼5
+28,199,,,13.0,,Wadecki Piotr,64,Domo - Farm Frites,,9,2001,-
+29,184,,,13.0,60.0,Guesdon Frédéric,65,La Française des Jeux,,9,2001,▼5
+33,34,,,12.0,62.0,Chanteur Pascal,66,Festina,,9,2001,▼4
+28,135,,,12.0,63.0,Jalabert Nicolas,67,CSC ProTeam - Tiscali,,9,2001,▼4
+31,143,,,11.0,,Bouvard Gilles,68,Jean Delatour,,9,2001,-
+28,194,,,11.0,65.0,Merckx Axel,69,Domo - Farm Frites,,9,2001,▼4
+28,151,,,10.0,81.0,Botero Santiago,70,Kelme - Costa Blanca,,9,2001,▲11
+30,97,,,10.0,66.0,Odriozola Jon,71,Ibanesto.com,,9,2001,▼5
+31,82,,,10.0,67.0,Bartoli Michele,72,Mapei - Quickstep,,9,2001,▼5
+28,146,,,10.0,68.0,Oriol Christophe,73,Jean Delatour,,9,2001,▼5
+27,17,,,9.0,69.0,Vinokourov Alexandre,74,Team Telekom,,9,2001,▼5
+30,203,,,9.0,70.0,Auger Ludovic,75,BigMat - Auber 93,,9,2001,▼5
+25,91,,,9.0,72.0,Mancebo Francisco,76,Ibanesto.com,,9,2001,▼4
+26,138,,,9.0,71.0,Sørensen Nicki,77,CSC ProTeam - Tiscali,,9,2001,▼6
+30,161,,,9.0,75.0,Rous Didier,78,Bonjour,,9,2001,▼3
+26,124,,,8.0,74.0,Botcharov Alexandre,79,AG2R Prévoyance,,9,2001,▼5
+25,177,,,8.0,,Pinotti Marco,80,Lampre - Daikin,,9,2001,-
+24,157,,,8.0,73.0,Sevilla Óscar,81,Kelme - Costa Blanca,,9,2001,▼8
+28,132,,,7.0,85.0,Blaudzun Michael,82,CSC ProTeam - Tiscali,,9,2001,▲3
+25,69,,,7.0,,Vermaut Steve,83,Lotto - Adecco,,9,2001,-
+25,32,,,6.0,76.0,Brard Florent,84,Festina,,9,2001,▼8
+32,205,,,6.0,77.0,Gouvenou Thierry,85,BigMat - Auber 93,,9,2001,▼8
+28,166,,,6.0,78.0,Perreaudeau Olivier,86,Bonjour,,9,2001,▼8
+29,118,,,6.0,80.0,López de Munain Alberto,87,Euskaltel - Euskadi,,9,2001,▼7
+29,48,,,5.0,82.0,Pozzi Oscar,88,Fassa Bortolo,,9,2001,▼6
+30,44,,,5.0,83.0,Belli Wladimir,89,Fassa Bortolo,,9,2001,▼6
+31,122,,,5.0,84.0,Agnolutto Christophe,90,AG2R Prévoyance,,9,2001,▼6
+29,136,,,4.0,,Larsen Nicolaj Bo,91,CSC ProTeam - Tiscali,,9,2001,-
+27,103,,,4.0,86.0,Hinault Sébastien,92,Crédit Agricole,,9,2001,▼6
+28,137,,,4.0,87.0,Piil Jakob Storm,93,CSC ProTeam - Tiscali,,9,2001,▼6
+27,145,,,4.0,88.0,Halgand Patrice,94,Jean Delatour,,9,2001,▼6
+28,162,,,3.0,89.0,Bénéteau Walter,95,Bonjour,,9,2001,▼6
+26,28,,,2.0,90.0,Sastre Carlos,96,O.N.C.E. - Eroski,,9,2001,▼6
+29,67,,,2.0,91.0,van de Wouwer Kurt,97,Lotto - Adecco,,9,2001,▼6
+25,125,,,2.0,92.0,Capelle Ludovic,98,AG2R Prévoyance,,9,2001,▼6
+22,164,,,2.0,,Chavanel Sylvain,99,Bonjour,,9,2001,-
+27,158,,,1.0,93.0,Tauler Toni,100,Kelme - Costa Blanca,,9,2001,▼7
+27,107,,,136.0,1.0,O'Grady Stuart,1,Crédit Agricole,,10,2001,-
+31,19,,,127.0,2.0,Zabel Erik,2,Team Telekom,,10,2001,-
+27,165,,,90.0,3.0,Nazon Damien,3,Bonjour,,10,2001,-
+28,39,,,82.0,4.0,Teutenberg Sven,4,Festina,,10,2001,-
+32,169,,,76.0,5.0,Simon François,5,Bonjour,,10,2001,-
+32,59,,,65.0,7.0,Wauters Marc,6,Rabobank ProTeam,,10,2001,▲1
+27,111,,,65.0,8.0,Etxebarria David,7,Euskaltel - Euskadi,,10,2001,▲1
+33,204,,,65.0,9.0,Capelle Christophe,8,BigMat - Auber 93,,10,2001,▲1
+30,31,,,62.0,16.0,Moreau Christophe,9,Festina,,10,2001,▲7
+26,45,,,62.0,10.0,Ivanov Serguei,10,Fassa Bortolo,,10,2001,-
+24,176,,,60.0,11.0,Hunter Robert,11,Lampre - Daikin,,10,2001,-
+27,47,,,59.0,12.0,Petacchi Alessandro,12,Fassa Bortolo,,10,2001,-
+30,193,,,58.0,13.0,Knaven Servais,13,Domo - Farm Frites,,10,2001,-
+32,131,,,55.0,14.0,Jalabert Laurent,14,CSC ProTeam - Tiscali,,10,2001,-
+30,54,,,55.0,15.0,Dekker Erik,15,Rabobank ProTeam,,10,2001,-
+36,174,,,49.0,17.0,Dierckxsens Ludo,16,Lampre - Daikin,,10,2001,▲1
+27,11,,,46.0,33.0,Ullrich Jan,18,Team Telekom,,10,2001,▲15
+28,147,,,46.0,40.0,Roux Laurent,19,Jean Delatour,,10,2001,▲21
+27,155,,,46.0,18.0,Gutiérrez José Enrique,20,Kelme - Costa Blanca,,10,2001,▼2
+32,178,,,43.0,19.0,Svorada Ján,21,Lampre - Daikin,,10,2001,▼2
+34,183,,,43.0,20.0,Durand Jacky,22,La Française des Jeux,,10,2001,▼2
+28,191,,,41.0,21.0,Vainšteins Romāns,23,Domo - Farm Frites,,10,2001,▼2
+23,182,,,41.0,22.0,Casper Jimmy,24,La Française des Jeux,,10,2001,▼2
+25,186,,,38.0,23.0,McGee Bradley,25,La Française des Jeux,,10,2001,▼2
+31,63,,,36.0,24.0,Baguet Serge,26,Lotto - Adecco,,10,2001,▼2
+27,21,,,35.0,51.0,Beloki Joseba,27,O.N.C.E. - Eroski,,10,2001,▲24
+29,109,,,34.0,25.0,Voigt Jens,28,Crédit Agricole,,10,2001,▼3
+29,68,,,32.0,27.0,Van Hyfte Paul,29,Lotto - Adecco,,10,2001,▼2
+27,66,,,31.0,28.0,Mikhailov Guennadi,30,Lotto - Adecco,,10,2001,▼2
+27,83,,,31.0,29.0,Bettini Paolo,31,Mapei - Quickstep,,10,2001,▼2
+26,61,,,31.0,30.0,Verbrugghe Rik,32,Lotto - Adecco,,10,2001,▼2
+30,185,,,30.0,31.0,Magnien Emmanuel,33,La Française des Jeux,,10,2001,▼2
+30,76,,,30.0,32.0,Mattan Nico,34,Cofidis,,10,2001,▼2
+33,42,,,28.0,34.0,Baldato Fabio,35,Fassa Bortolo,,10,2001,▼1
+26,175,,,28.0,35.0,Frutti Matteo,36,Lampre - Daikin,,10,2001,▼1
+29,208,,,27.0,36.0,Sivakov Alexei,37,BigMat - Auber 93,,10,2001,▼1
+27,74,,,27.0,44.0,Kivilev Andrei,38,Cofidis,,10,2001,▲6
+28,86,,,26.0,37.0,Garzelli Stefano,39,Mapei - Quickstep,,10,2001,▼2
+23,104,,,26.0,39.0,Hushovd Thor,40,Crédit Agricole,,10,2001,▼1
+29,51,,,26.0,49.0,Boogerd Michael,41,Rabobank ProTeam,,10,2001,▲8
+27,24,,,24.0,56.0,González de Galdeano Igor,42,O.N.C.E. - Eroski,,10,2001,▲14
+27,197,,,24.0,41.0,Rodriguez Fred,43,Domo - Farm Frites,,10,2001,▼2
+27,163,,,24.0,42.0,Bouyer Franck,44,Bonjour,,10,2001,▼2
+29,101,,,23.0,43.0,Julich Bobby,45,Crédit Agricole,,10,2001,▼2
+33,141,,,22.0,45.0,Brochard Laurent,46,Jean Delatour,,10,2001,▼1
+26,52,,,22.0,46.0,de Groot Bram,47,Rabobank ProTeam,,10,2001,▼1
+27,49,,,22.0,47.0,Tosatto Matteo,48,Fassa Bortolo,,10,2001,▼1
+32,187,,,21.0,48.0,Mengin Christophe,49,La Française des Jeux,,10,2001,▼1
+24,157,,,20.0,81.0,Sevilla Óscar,50,Kelme - Costa Blanca,,10,2001,▲31
+33,84,,,20.0,50.0,Bramati Davide,51,Mapei - Quickstep,,10,2001,▼1
+25,91,,,19.0,76.0,Mancebo Francisco,52,Ibanesto.com,,10,2001,▲24
+26,129,,,19.0,52.0,Turpin Ludovic,53,AG2R Prévoyance,,10,2001,▼1
+30,18,,,18.0,53.0,Wesemann Steffen,54,Team Telekom,,10,2001,▼1
+27,56,,,18.0,54.0,Lotz Marc,55,Rabobank ProTeam,,10,2001,▼1
+31,195,,,17.0,55.0,Milesi Marco,56,Domo - Farm Frites,,10,2001,▼1
+29,46,,,16.0,57.0,Loda Nicola,57,Fassa Bortolo,,10,2001,-
+23,209,,,16.0,58.0,Talabardon Sébastien,58,BigMat - Auber 93,,10,2001,-
+27,106,,,16.0,59.0,Morin Anthony,59,Crédit Agricole,,10,2001,-
+32,73,,,15.0,60.0,Cuesta Iñigo,60,Cofidis,,10,2001,-
+33,179,,,15.0,61.0,Verstrepen Johan,61,Lampre - Daikin,,10,2001,-
+25,172,,,14.0,62.0,Belohvoščiks Raivis,62,Lampre - Daikin,,10,2001,-
+25,202,,,14.0,63.0,Auger Guillaume,63,BigMat - Auber 93,,10,2001,-
+28,151,,,13.0,70.0,Botero Santiago,64,Kelme - Costa Blanca,,10,2001,▲6
+28,199,,,13.0,64.0,Wadecki Piotr,65,Domo - Farm Frites,,10,2001,▼1
+29,184,,,13.0,65.0,Guesdon Frédéric,66,La Française des Jeux,,10,2001,▼1
+33,34,,,12.0,66.0,Chanteur Pascal,67,Festina,,10,2001,▼1
+25,177,,,12.0,80.0,Pinotti Marco,68,Lampre - Daikin,,10,2001,▲12
+28,135,,,12.0,67.0,Jalabert Nicolas,69,CSC ProTeam - Tiscali,,10,2001,▼2
+27,17,,,11.0,74.0,Vinokourov Alexandre,70,Team Telekom,,10,2001,▲4
+31,143,,,11.0,68.0,Bouvard Gilles,71,Jean Delatour,,10,2001,▼3
+28,194,,,11.0,69.0,Merckx Axel,72,Domo - Farm Frites,,10,2001,▼3
+30,161,,,10.0,78.0,Rous Didier,73,Bonjour,,10,2001,▲5
+30,97,,,10.0,71.0,Odriozola Jon,74,Ibanesto.com,,10,2001,▼3
+31,82,,,10.0,72.0,Bartoli Michele,75,Mapei - Quickstep,,10,2001,▼3
+28,146,,,10.0,73.0,Oriol Christophe,76,Jean Delatour,,10,2001,▼3
+30,203,,,9.0,75.0,Auger Ludovic,77,BigMat - Auber 93,,10,2001,▼2
+26,138,,,9.0,77.0,Sørensen Nicki,78,CSC ProTeam - Tiscali,,10,2001,▼1
+26,124,,,8.0,79.0,Botcharov Alexandre,79,AG2R Prévoyance,,10,2001,-
+32,117,,,7.0,,Laiseka Roberto,80,Euskaltel - Euskadi,,10,2001,-
+28,132,,,7.0,82.0,Blaudzun Michael,81,CSC ProTeam - Tiscali,,10,2001,▲1
+25,69,,,7.0,83.0,Vermaut Steve,82,Lotto - Adecco,,10,2001,▲1
+25,32,,,6.0,84.0,Brard Florent,83,Festina,,10,2001,▲1
+29,99,,,6.0,,Piepoli Leonardo,84,Ibanesto.com,,10,2001,-
+32,205,,,6.0,85.0,Gouvenou Thierry,85,BigMat - Auber 93,,10,2001,-
+28,166,,,6.0,86.0,Perreaudeau Olivier,86,Bonjour,,10,2001,-
+29,118,,,6.0,87.0,López de Munain Alberto,87,Euskaltel - Euskadi,,10,2001,-
+27,158,,,5.0,100.0,Tauler Toni,88,Kelme - Costa Blanca,,10,2001,▲12
+29,48,,,5.0,88.0,Pozzi Oscar,89,Fassa Bortolo,,10,2001,▼1
+30,44,,,5.0,89.0,Belli Wladimir,90,Fassa Bortolo,,10,2001,▼1
+31,122,,,5.0,90.0,Agnolutto Christophe,91,AG2R Prévoyance,,10,2001,▼1
+28,137,,,4.0,93.0,Piil Jakob Storm,92,CSC ProTeam - Tiscali,,10,2001,▲1
+27,103,,,4.0,92.0,Hinault Sébastien,93,Crédit Agricole,,10,2001,▼1
+27,145,,,4.0,94.0,Halgand Patrice,94,Jean Delatour,,10,2001,-
+28,162,,,3.0,95.0,Bénéteau Walter,95,Bonjour,,10,2001,-
+26,28,,,2.0,96.0,Sastre Carlos,96,O.N.C.E. - Eroski,,10,2001,-
+25,181,,,2.0,,Montgomery Sven,97,La Française des Jeux,,10,2001,-
+29,67,,,2.0,97.0,van de Wouwer Kurt,98,Lotto - Adecco,,10,2001,▼1
+22,164,,,2.0,99.0,Chavanel Sylvain,99,Bonjour,,10,2001,-
+25,95,,,2.0,,Jiménez Eladio,100,Ibanesto.com,,10,2001,-
+27,107,,,136.0,1.0,O'Grady Stuart,1,Crédit Agricole,,11,2001,-
+31,19,,,127.0,2.0,Zabel Erik,2,Team Telekom,,11,2001,-
+27,165,,,90.0,3.0,Nazon Damien,3,Bonjour,,11,2001,-
+28,39,,,82.0,4.0,Teutenberg Sven,4,Festina,,11,2001,-
+32,169,,,76.0,5.0,Simon François,5,Bonjour,,11,2001,-
+30,31,,,65.0,9.0,Moreau Christophe,6,Festina,,11,2001,▲3
+32,59,,,65.0,6.0,Wauters Marc,7,Rabobank ProTeam,,11,2001,▼1
+27,111,,,65.0,7.0,Etxebarria David,8,Euskaltel - Euskadi,,11,2001,▼1
+33,204,,,65.0,8.0,Capelle Christophe,9,BigMat - Auber 93,,11,2001,▼1
+26,45,,,62.0,10.0,Ivanov Serguei,10,Fassa Bortolo,,11,2001,-
+24,176,,,60.0,11.0,Hunter Robert,12,Lampre - Daikin,,11,2001,▼1
+27,47,,,59.0,12.0,Petacchi Alessandro,13,Fassa Bortolo,,11,2001,▼1
+27,11,,,58.0,18.0,Ullrich Jan,14,Team Telekom,,11,2001,▲4
+30,193,,,58.0,13.0,Knaven Servais,15,Domo - Farm Frites,,11,2001,▼2
+32,131,,,55.0,14.0,Jalabert Laurent,16,CSC ProTeam - Tiscali,,11,2001,▼2
+30,54,,,55.0,15.0,Dekker Erik,17,Rabobank ProTeam,,11,2001,▼2
+36,174,,,49.0,16.0,Dierckxsens Ludo,18,Lampre - Daikin,,11,2001,▼2
+28,147,,,46.0,19.0,Roux Laurent,19,Jean Delatour,,11,2001,-
+27,155,,,46.0,20.0,Gutiérrez José Enrique,20,Kelme - Costa Blanca,,11,2001,-
+27,21,,,45.0,27.0,Beloki Joseba,21,O.N.C.E. - Eroski,,11,2001,▲6
+32,178,,,43.0,21.0,Svorada Ján,22,Lampre - Daikin,,11,2001,▼1
+34,183,,,43.0,22.0,Durand Jacky,23,La Française des Jeux,,11,2001,▼1
+28,191,,,41.0,23.0,Vainšteins Romāns,24,Domo - Farm Frites,,11,2001,▼1
+23,182,,,41.0,24.0,Casper Jimmy,25,La Française des Jeux,,11,2001,▼1
+25,186,,,38.0,25.0,McGee Bradley,26,La Française des Jeux,,11,2001,▼1
+31,63,,,36.0,26.0,Baguet Serge,27,Lotto - Adecco,,11,2001,▼1
+29,109,,,34.0,28.0,Voigt Jens,28,Crédit Agricole,,11,2001,-
+29,68,,,32.0,29.0,Van Hyfte Paul,29,Lotto - Adecco,,11,2001,-
+27,66,,,31.0,30.0,Mikhailov Guennadi,30,Lotto - Adecco,,11,2001,-
+27,83,,,31.0,31.0,Bettini Paolo,31,Mapei - Quickstep,,11,2001,-
+26,61,,,31.0,32.0,Verbrugghe Rik,32,Lotto - Adecco,,11,2001,-
+30,185,,,30.0,33.0,Magnien Emmanuel,33,La Française des Jeux,,11,2001,-
+30,76,,,30.0,34.0,Mattan Nico,34,Cofidis,,11,2001,-
+27,24,,,29.0,42.0,González de Galdeano Igor,35,O.N.C.E. - Eroski,,11,2001,▲7
+33,42,,,28.0,35.0,Baldato Fabio,36,Fassa Bortolo,,11,2001,▼1
+26,175,,,28.0,36.0,Frutti Matteo,37,Lampre - Daikin,,11,2001,▼1
+28,86,,,27.0,39.0,Garzelli Stefano,38,Mapei - Quickstep,,11,2001,▲1
+29,208,,,27.0,37.0,Sivakov Alexei,39,BigMat - Auber 93,,11,2001,▼2
+27,74,,,27.0,38.0,Kivilev Andrei,40,Cofidis,,11,2001,▼2
+23,104,,,26.0,40.0,Hushovd Thor,41,Crédit Agricole,,11,2001,▼1
+24,157,,,26.0,50.0,Sevilla Óscar,42,Kelme - Costa Blanca,,11,2001,▲8
+29,51,,,26.0,41.0,Boogerd Michael,43,Rabobank ProTeam,,11,2001,▼2
+27,197,,,24.0,43.0,Rodriguez Fred,44,Domo - Farm Frites,,11,2001,▼1
+27,163,,,24.0,44.0,Bouyer Franck,45,Bonjour,,11,2001,▼1
+29,101,,,23.0,45.0,Julich Bobby,46,Crédit Agricole,,11,2001,▼1
+33,141,,,22.0,46.0,Brochard Laurent,47,Jean Delatour,,11,2001,▼1
+26,52,,,22.0,47.0,de Groot Bram,48,Rabobank ProTeam,,11,2001,▼1
+27,49,,,22.0,48.0,Tosatto Matteo,49,Fassa Bortolo,,11,2001,▼1
+32,187,,,21.0,49.0,Mengin Christophe,50,La Française des Jeux,,11,2001,▼1
+33,84,,,20.0,51.0,Bramati Davide,51,Mapei - Quickstep,,11,2001,-
+25,91,,,19.0,52.0,Mancebo Francisco,52,Ibanesto.com,,11,2001,-
+26,129,,,19.0,53.0,Turpin Ludovic,53,AG2R Prévoyance,,11,2001,-
+30,18,,,18.0,54.0,Wesemann Steffen,54,Team Telekom,,11,2001,-
+27,56,,,18.0,55.0,Lotz Marc,55,Rabobank ProTeam,,11,2001,-
+28,151,,,17.0,64.0,Botero Santiago,56,Kelme - Costa Blanca,,11,2001,▲8
+31,195,,,17.0,56.0,Milesi Marco,57,Domo - Farm Frites,,11,2001,▼1
+23,209,,,16.0,58.0,Talabardon Sébastien,58,BigMat - Auber 93,,11,2001,-
+29,46,,,16.0,57.0,Loda Nicola,59,Fassa Bortolo,,11,2001,▼2
+27,106,,,16.0,59.0,Morin Anthony,60,Crédit Agricole,,11,2001,▼1
+32,117,,,15.0,80.0,Laiseka Roberto,61,Euskaltel - Euskadi,,11,2001,▲19
+32,73,,,15.0,60.0,Cuesta Iñigo,62,Cofidis,,11,2001,▼2
+33,179,,,15.0,61.0,Verstrepen Johan,63,Lampre - Daikin,,11,2001,▼2
+25,172,,,14.0,62.0,Belohvoščiks Raivis,64,Lampre - Daikin,,11,2001,▼2
+25,202,,,14.0,63.0,Auger Guillaume,65,BigMat - Auber 93,,11,2001,▼2
+28,199,,,13.0,65.0,Wadecki Piotr,66,Domo - Farm Frites,,11,2001,▼1
+29,184,,,13.0,66.0,Guesdon Frédéric,67,La Française des Jeux,,11,2001,▼1
+33,34,,,12.0,67.0,Chanteur Pascal,68,Festina,,11,2001,▼1
+25,177,,,12.0,68.0,Pinotti Marco,69,Lampre - Daikin,,11,2001,▼1
+28,135,,,12.0,69.0,Jalabert Nicolas,70,CSC ProTeam - Tiscali,,11,2001,▼1
+27,17,,,11.0,70.0,Vinokourov Alexandre,71,Team Telekom,,11,2001,▼1
+31,143,,,11.0,71.0,Bouvard Gilles,72,Jean Delatour,,11,2001,▼1
+28,194,,,11.0,72.0,Merckx Axel,73,Domo - Farm Frites,,11,2001,▼1
+30,161,,,10.0,73.0,Rous Didier,74,Bonjour,,11,2001,▼1
+30,97,,,10.0,74.0,Odriozola Jon,75,Ibanesto.com,,11,2001,▼1
+31,82,,,10.0,75.0,Bartoli Michele,76,Mapei - Quickstep,,11,2001,▼1
+28,146,,,10.0,76.0,Oriol Christophe,77,Jean Delatour,,11,2001,▼1
+30,203,,,9.0,77.0,Auger Ludovic,78,BigMat - Auber 93,,11,2001,▼1
+26,138,,,9.0,78.0,Sørensen Nicki,79,CSC ProTeam - Tiscali,,11,2001,▼1
+26,124,,,8.0,79.0,Botcharov Alexandre,80,AG2R Prévoyance,,11,2001,▼1
+28,132,,,7.0,81.0,Blaudzun Michael,81,CSC ProTeam - Tiscali,,11,2001,-
+25,69,,,7.0,82.0,Vermaut Steve,82,Lotto - Adecco,,11,2001,-
+25,32,,,6.0,83.0,Brard Florent,83,Festina,,11,2001,-
+29,99,,,6.0,84.0,Piepoli Leonardo,84,Ibanesto.com,,11,2001,-
+32,205,,,6.0,85.0,Gouvenou Thierry,85,BigMat - Auber 93,,11,2001,-
+28,166,,,6.0,86.0,Perreaudeau Olivier,86,Bonjour,,11,2001,-
+29,118,,,6.0,87.0,López de Munain Alberto,87,Euskaltel - Euskadi,,11,2001,-
+27,158,,,5.0,88.0,Tauler Toni,88,Kelme - Costa Blanca,,11,2001,-
+29,48,,,5.0,89.0,Pozzi Oscar,89,Fassa Bortolo,,11,2001,-
+30,44,,,5.0,90.0,Belli Wladimir,90,Fassa Bortolo,,11,2001,-
+31,122,,,5.0,91.0,Agnolutto Christophe,91,AG2R Prévoyance,,11,2001,-
+25,181,,,4.0,97.0,Montgomery Sven,92,La Française des Jeux,,11,2001,▲5
+28,137,,,4.0,92.0,Piil Jakob Storm,93,CSC ProTeam - Tiscali,,11,2001,▼1
+27,103,,,4.0,93.0,Hinault Sébastien,94,Crédit Agricole,,11,2001,▼1
+27,145,,,4.0,94.0,Halgand Patrice,95,Jean Delatour,,11,2001,▼1
+28,162,,,3.0,95.0,Bénéteau Walter,96,Bonjour,,11,2001,▼1
+26,28,,,2.0,96.0,Sastre Carlos,97,O.N.C.E. - Eroski,,11,2001,▼1
+29,67,,,2.0,98.0,van de Wouwer Kurt,98,Lotto - Adecco,,11,2001,-
+22,164,,,2.0,99.0,Chavanel Sylvain,99,Bonjour,,11,2001,-
+25,95,,,2.0,100.0,Jiménez Eladio,100,Ibanesto.com,,11,2001,-
+27,107,,,140.0,1.0,O'Grady Stuart,1,Crédit Agricole,,12,2001,-
+31,19,,,127.0,2.0,Zabel Erik,2,Team Telekom,,12,2001,-
+27,165,,,90.0,3.0,Nazon Damien,3,Bonjour,,12,2001,-
+28,39,,,82.0,4.0,Teutenberg Sven,4,Festina,,12,2001,-
+27,111,,,77.0,8.0,Etxebarria David,5,Euskaltel - Euskadi,,12,2001,▲3
+32,169,,,76.0,5.0,Simon François,7,Bonjour,,12,2001,▼2
+27,11,,,71.0,14.0,Ullrich Jan,8,Team Telekom,,12,2001,▲6
+32,59,,,65.0,7.0,Wauters Marc,9,Rabobank ProTeam,,12,2001,▼2
+33,204,,,65.0,9.0,Capelle Christophe,10,BigMat - Auber 93,,12,2001,▼1
+24,176,,,60.0,12.0,Hunter Robert,11,Lampre - Daikin,,12,2001,▲1
+27,47,,,59.0,13.0,Petacchi Alessandro,12,Fassa Bortolo,,12,2001,▲1
+30,193,,,58.0,15.0,Knaven Servais,13,Domo - Farm Frites,,12,2001,▲2
+32,131,,,55.0,16.0,Jalabert Laurent,14,CSC ProTeam - Tiscali,,12,2001,▲2
+30,54,,,55.0,17.0,Dekker Erik,15,Rabobank ProTeam,,12,2001,▲2
+27,21,,,54.0,21.0,Beloki Joseba,16,O.N.C.E. - Eroski,,12,2001,▲5
+36,174,,,49.0,18.0,Dierckxsens Ludo,17,Lampre - Daikin,,12,2001,▲1
+28,147,,,46.0,19.0,Roux Laurent,18,Jean Delatour,,12,2001,▲1
+27,155,,,46.0,20.0,Gutiérrez José Enrique,19,Kelme - Costa Blanca,,12,2001,▲1
+32,178,,,43.0,22.0,Svorada Ján,20,Lampre - Daikin,,12,2001,▲2
+34,183,,,43.0,23.0,Durand Jacky,21,La Française des Jeux,,12,2001,▲2
+31,63,,,42.0,27.0,Baguet Serge,22,Lotto - Adecco,,12,2001,▲5
+28,191,,,41.0,24.0,Vainšteins Romāns,23,Domo - Farm Frites,,12,2001,▲1
+23,182,,,41.0,25.0,Casper Jimmy,24,La Française des Jeux,,12,2001,▲1
+25,186,,,38.0,26.0,McGee Bradley,25,La Française des Jeux,,12,2001,▲1
+27,83,,,37.0,31.0,Bettini Paolo,26,Mapei - Quickstep,,12,2001,▲5
+24,157,,,36.0,42.0,Sevilla Óscar,27,Kelme - Costa Blanca,,12,2001,▲15
+29,109,,,34.0,28.0,Voigt Jens,28,Crédit Agricole,,12,2001,-
+29,51,,,33.0,43.0,Boogerd Michael,29,Rabobank ProTeam,,12,2001,▲14
+32,117,,,32.0,61.0,Laiseka Roberto,30,Euskaltel - Euskadi,,12,2001,▲31
+28,86,,,32.0,38.0,Garzelli Stefano,31,Mapei - Quickstep,,12,2001,▲7
+29,68,,,32.0,29.0,Van Hyfte Paul,32,Lotto - Adecco,,12,2001,▼3
+27,66,,,31.0,30.0,Mikhailov Guennadi,33,Lotto - Adecco,,12,2001,▼3
+26,61,,,31.0,32.0,Verbrugghe Rik,34,Lotto - Adecco,,12,2001,▼2
+30,185,,,30.0,33.0,Magnien Emmanuel,35,La Française des Jeux,,12,2001,▼2
+30,76,,,30.0,34.0,Mattan Nico,36,Cofidis,,12,2001,▼2
+27,24,,,29.0,35.0,González de Galdeano Igor,37,O.N.C.E. - Eroski,,12,2001,▼2
+33,42,,,28.0,36.0,Baldato Fabio,38,Fassa Bortolo,,12,2001,▼2
+26,175,,,28.0,37.0,Frutti Matteo,39,Lampre - Daikin,,12,2001,▼2
+29,208,,,27.0,39.0,Sivakov Alexei,40,BigMat - Auber 93,,12,2001,▼1
+27,74,,,27.0,40.0,Kivilev Andrei,41,Cofidis,,12,2001,▼1
+28,151,,,25.0,56.0,Botero Santiago,42,Kelme - Costa Blanca,,12,2001,▲14
+27,197,,,24.0,44.0,Rodriguez Fred,43,Domo - Farm Frites,,12,2001,▲1
+27,163,,,24.0,45.0,Bouyer Franck,44,Bonjour,,12,2001,▲1
+29,101,,,23.0,46.0,Julich Bobby,45,Crédit Agricole,,12,2001,▲1
+28,152,,,22.0,,Cárdenas Félix Rafael,46,Kelme - Costa Blanca,,12,2001,-
+33,141,,,22.0,47.0,Brochard Laurent,47,Jean Delatour,,12,2001,-
+27,49,,,22.0,49.0,Tosatto Matteo,48,Fassa Bortolo,,12,2001,▲1
+32,187,,,21.0,50.0,Mengin Christophe,49,La Française des Jeux,,12,2001,▲1
+33,84,,,20.0,51.0,Bramati Davide,50,Mapei - Quickstep,,12,2001,▲1
+25,91,,,20.0,52.0,Mancebo Francisco,51,Ibanesto.com,,12,2001,▲1
+26,129,,,19.0,53.0,Turpin Ludovic,52,AG2R Prévoyance,,12,2001,▲1
+30,18,,,18.0,54.0,Wesemann Steffen,53,Team Telekom,,12,2001,▲1
+27,56,,,18.0,55.0,Lotz Marc,54,Rabobank ProTeam,,12,2001,▲1
+27,17,,,17.0,71.0,Vinokourov Alexandre,55,Team Telekom,,12,2001,▲16
+29,46,,,16.0,59.0,Loda Nicola,56,Fassa Bortolo,,12,2001,▲3
+23,209,,,16.0,58.0,Talabardon Sébastien,57,BigMat - Auber 93,,12,2001,▲1
+27,106,,,16.0,60.0,Morin Anthony,58,Crédit Agricole,,12,2001,▲2
+32,73,,,15.0,62.0,Cuesta Iñigo,59,Cofidis,,12,2001,▲3
+33,179,,,15.0,63.0,Verstrepen Johan,60,Lampre - Daikin,,12,2001,▲3
+25,172,,,14.0,64.0,Belohvoščiks Raivis,61,Lampre - Daikin,,12,2001,▲3
+25,202,,,14.0,65.0,Auger Guillaume,62,BigMat - Auber 93,,12,2001,▲3
+30,161,,,14.0,74.0,Rous Didier,63,Bonjour,,12,2001,▲11
+28,199,,,13.0,66.0,Wadecki Piotr,64,Domo - Farm Frites,,12,2001,▲2
+29,184,,,13.0,67.0,Guesdon Frédéric,65,La Française des Jeux,,12,2001,▲2
+33,34,,,12.0,68.0,Chanteur Pascal,66,Festina,,12,2001,▲2
+26,124,,,12.0,80.0,Botcharov Alexandre,67,AG2R Prévoyance,,12,2001,▲13
+25,177,,,12.0,69.0,Pinotti Marco,68,Lampre - Daikin,,12,2001,▲1
+28,135,,,12.0,70.0,Jalabert Nicolas,69,CSC ProTeam - Tiscali,,12,2001,▲1
+31,143,,,11.0,72.0,Bouvard Gilles,70,Jean Delatour,,12,2001,▲2
+28,194,,,11.0,73.0,Merckx Axel,71,Domo - Farm Frites,,12,2001,▲2
+30,97,,,10.0,75.0,Odriozola Jon,72,Ibanesto.com,,12,2001,▲3
+31,82,,,10.0,76.0,Bartoli Michele,73,Mapei - Quickstep,,12,2001,▲3
+28,146,,,10.0,77.0,Oriol Christophe,74,Jean Delatour,,12,2001,▲3
+30,203,,,9.0,78.0,Auger Ludovic,75,BigMat - Auber 93,,12,2001,▲3
+26,138,,,9.0,79.0,Sørensen Nicki,76,CSC ProTeam - Tiscali,,12,2001,▲3
+28,132,,,7.0,81.0,Blaudzun Michael,77,CSC ProTeam - Tiscali,,12,2001,▲4
+25,69,,,7.0,82.0,Vermaut Steve,78,Lotto - Adecco,,12,2001,▲4
+25,32,,,6.0,83.0,Brard Florent,79,Festina,,12,2001,▲4
+29,99,,,6.0,84.0,Piepoli Leonardo,80,Ibanesto.com,,12,2001,▲4
+32,205,,,6.0,85.0,Gouvenou Thierry,81,BigMat - Auber 93,,12,2001,▲4
+28,166,,,6.0,86.0,Perreaudeau Olivier,82,Bonjour,,12,2001,▲4
+29,118,,,6.0,87.0,López de Munain Alberto,83,Euskaltel - Euskadi,,12,2001,▲4
+27,158,,,5.0,88.0,Tauler Toni,84,Kelme - Costa Blanca,,12,2001,▲4
+29,48,,,5.0,89.0,Pozzi Oscar,85,Fassa Bortolo,,12,2001,▲4
+30,44,,,5.0,90.0,Belli Wladimir,86,Fassa Bortolo,,12,2001,▲4
+31,122,,,5.0,91.0,Agnolutto Christophe,87,AG2R Prévoyance,,12,2001,▲4
+25,181,,,4.0,92.0,Montgomery Sven,88,La Française des Jeux,,12,2001,▲4
+28,113,,,4.0,,Chaurreau Íñigo,89,Euskaltel - Euskadi,,12,2001,-
+28,137,,,4.0,93.0,Piil Jakob Storm,90,CSC ProTeam - Tiscali,,12,2001,▲3
+27,103,,,4.0,94.0,Hinault Sébastien,91,Crédit Agricole,,12,2001,▲3
+27,145,,,4.0,95.0,Halgand Patrice,92,Jean Delatour,,12,2001,▲3
+28,29,,,3.0,,Serrano Marcos Antonio,93,O.N.C.E. - Eroski,,12,2001,-
+28,162,,,3.0,96.0,Bénéteau Walter,94,Bonjour,,12,2001,▲2
+26,28,,,2.0,97.0,Sastre Carlos,95,O.N.C.E. - Eroski,,12,2001,▲2
+22,164,,,2.0,99.0,Chavanel Sylvain,96,Bonjour,,12,2001,▲3
+25,95,,,2.0,100.0,Jiménez Eladio,97,Ibanesto.com,,12,2001,▲3
+27,107,,,140.0,1.0,O'Grady Stuart,1,Crédit Agricole,,13,2001,-
+31,19,,,127.0,2.0,Zabel Erik,2,Team Telekom,,13,2001,-
+27,165,,,90.0,3.0,Nazon Damien,4,Bonjour,,13,2001,▼1
+27,11,,,88.0,8.0,Ullrich Jan,5,Team Telekom,,13,2001,▲3
+28,39,,,82.0,4.0,Teutenberg Sven,6,Festina,,13,2001,▼2
+27,111,,,77.0,5.0,Etxebarria David,7,Euskaltel - Euskadi,,13,2001,▼2
+32,131,,,76.0,14.0,Jalabert Laurent,8,CSC ProTeam - Tiscali,,13,2001,▲6
+32,169,,,76.0,7.0,Simon François,9,Bonjour,,13,2001,▼2
+27,21,,,69.0,16.0,Beloki Joseba,10,O.N.C.E. - Eroski,,13,2001,▲6
+32,59,,,65.0,9.0,Wauters Marc,11,Rabobank ProTeam,,13,2001,▼2
+33,204,,,65.0,10.0,Capelle Christophe,12,BigMat - Auber 93,,13,2001,▼2
+27,47,,,59.0,12.0,Petacchi Alessandro,13,Fassa Bortolo,,13,2001,▼1
+30,193,,,58.0,13.0,Knaven Servais,14,Domo - Farm Frites,,13,2001,▼1
+30,54,,,55.0,15.0,Dekker Erik,15,Rabobank ProTeam,,13,2001,-
+28,86,,,48.0,31.0,Garzelli Stefano,16,Mapei - Quickstep,,13,2001,▲15
+28,147,,,46.0,18.0,Roux Laurent,17,Jean Delatour,,13,2001,▲1
+27,155,,,46.0,19.0,Gutiérrez José Enrique,18,Kelme - Costa Blanca,,13,2001,▲1
+32,178,,,43.0,20.0,Svorada Ján,19,Lampre - Daikin,,13,2001,▲1
+34,183,,,43.0,21.0,Durand Jacky,20,La Française des Jeux,,13,2001,▲1
+31,63,,,42.0,22.0,Baguet Serge,21,Lotto - Adecco,,13,2001,▲1
+28,191,,,41.0,23.0,Vainšteins Romāns,22,Domo - Farm Frites,,13,2001,▲1
+23,182,,,41.0,24.0,Casper Jimmy,23,La Française des Jeux,,13,2001,▲1
+24,157,,,40.0,27.0,Sevilla Óscar,24,Kelme - Costa Blanca,,13,2001,▲3
+27,24,,,39.0,37.0,González de Galdeano Igor,25,O.N.C.E. - Eroski,,13,2001,▲12
+25,186,,,38.0,25.0,McGee Bradley,26,La Française des Jeux,,13,2001,▼1
+27,83,,,37.0,26.0,Bettini Paolo,27,Mapei - Quickstep,,13,2001,▼1
+29,109,,,34.0,28.0,Voigt Jens,28,Crédit Agricole,,13,2001,-
+29,51,,,33.0,29.0,Boogerd Michael,29,Rabobank ProTeam,,13,2001,-
+27,74,,,33.0,41.0,Kivilev Andrei,30,Cofidis,,13,2001,▲11
+32,117,,,32.0,30.0,Laiseka Roberto,31,Euskaltel - Euskadi,,13,2001,▼1
+28,151,,,32.0,42.0,Botero Santiago,32,Kelme - Costa Blanca,,13,2001,▲10
+29,68,,,32.0,32.0,Van Hyfte Paul,33,Lotto - Adecco,,13,2001,▼1
+27,66,,,31.0,33.0,Mikhailov Guennadi,34,Lotto - Adecco,,13,2001,▼1
+26,61,,,31.0,34.0,Verbrugghe Rik,35,Lotto - Adecco,,13,2001,▼1
+30,185,,,30.0,35.0,Magnien Emmanuel,36,La Française des Jeux,,13,2001,▼1
+30,76,,,30.0,36.0,Mattan Nico,37,Cofidis,,13,2001,▼1
+33,42,,,28.0,38.0,Baldato Fabio,38,Fassa Bortolo,,13,2001,-
+26,175,,,28.0,39.0,Frutti Matteo,39,Lampre - Daikin,,13,2001,-
+29,208,,,27.0,40.0,Sivakov Alexei,40,BigMat - Auber 93,,13,2001,-
+27,163,,,24.0,44.0,Bouyer Franck,41,Bonjour,,13,2001,▲3
+25,91,,,23.0,51.0,Mancebo Francisco,42,Ibanesto.com,,13,2001,▲9
+29,101,,,23.0,45.0,Julich Bobby,43,Crédit Agricole,,13,2001,▲2
+28,152,,,22.0,46.0,Cárdenas Félix Rafael,44,Kelme - Costa Blanca,,13,2001,▲2
+33,141,,,22.0,47.0,Brochard Laurent,45,Jean Delatour,,13,2001,▲2
+27,49,,,22.0,48.0,Tosatto Matteo,46,Fassa Bortolo,,13,2001,▲2
+27,17,,,21.0,55.0,Vinokourov Alexandre,47,Team Telekom,,13,2001,▲8
+32,187,,,21.0,49.0,Mengin Christophe,48,La Française des Jeux,,13,2001,▲1
+33,84,,,20.0,50.0,Bramati Davide,49,Mapei - Quickstep,,13,2001,▲1
+26,129,,,19.0,52.0,Turpin Ludovic,50,AG2R Prévoyance,,13,2001,▲2
+27,56,,,18.0,54.0,Lotz Marc,51,Rabobank ProTeam,,13,2001,▲3
+29,46,,,16.0,56.0,Loda Nicola,52,Fassa Bortolo,,13,2001,▲4
+23,209,,,16.0,57.0,Talabardon Sébastien,53,BigMat - Auber 93,,13,2001,▲4
+27,106,,,16.0,58.0,Morin Anthony,54,Crédit Agricole,,13,2001,▲4
+32,73,,,15.0,59.0,Cuesta Iñigo,55,Cofidis,,13,2001,▲4
+33,179,,,15.0,60.0,Verstrepen Johan,56,Lampre - Daikin,,13,2001,▲4
+30,161,,,15.0,63.0,Rous Didier,57,Bonjour,,13,2001,▲6
+25,172,,,14.0,61.0,Belohvoščiks Raivis,58,Lampre - Daikin,,13,2001,▲3
+25,202,,,14.0,62.0,Auger Guillaume,59,BigMat - Auber 93,,13,2001,▲3
+26,124,,,14.0,67.0,Botcharov Alexandre,60,AG2R Prévoyance,,13,2001,▲7
+27,2,,,13.0,,Heras Roberto,61,US Postal Service,,13,2001,-
+28,199,,,13.0,64.0,Wadecki Piotr,62,Domo - Farm Frites,,13,2001,▲2
+29,184,,,13.0,65.0,Guesdon Frédéric,63,La Française des Jeux,,13,2001,▲2
+33,34,,,12.0,66.0,Chanteur Pascal,64,Festina,,13,2001,▲2
+25,177,,,12.0,68.0,Pinotti Marco,65,Lampre - Daikin,,13,2001,▲3
+28,135,,,12.0,69.0,Jalabert Nicolas,66,CSC ProTeam - Tiscali,,13,2001,▲3
+28,29,,,11.0,93.0,Serrano Marcos Antonio,67,O.N.C.E. - Eroski,,13,2001,▲26
+28,113,,,11.0,89.0,Chaurreau Íñigo,68,Euskaltel - Euskadi,,13,2001,▲21
+31,143,,,11.0,70.0,Bouvard Gilles,69,Jean Delatour,,13,2001,▲1
+28,194,,,11.0,71.0,Merckx Axel,70,Domo - Farm Frites,,13,2001,▲1
+30,97,,,10.0,72.0,Odriozola Jon,71,Ibanesto.com,,13,2001,▲1
+31,82,,,10.0,73.0,Bartoli Michele,72,Mapei - Quickstep,,13,2001,▲1
+28,146,,,10.0,74.0,Oriol Christophe,73,Jean Delatour,,13,2001,▲1
+30,203,,,9.0,75.0,Auger Ludovic,74,BigMat - Auber 93,,13,2001,▲1
+26,138,,,9.0,76.0,Sørensen Nicki,75,CSC ProTeam - Tiscali,,13,2001,▲1
+25,69,,,9.0,78.0,Vermaut Steve,76,Lotto - Adecco,,13,2001,▲2
+28,132,,,7.0,77.0,Blaudzun Michael,77,CSC ProTeam - Tiscali,,13,2001,-
+25,32,,,6.0,79.0,Brard Florent,78,Festina,,13,2001,▲1
+29,99,,,6.0,80.0,Piepoli Leonardo,79,Ibanesto.com,,13,2001,▲1
+32,205,,,6.0,81.0,Gouvenou Thierry,80,BigMat - Auber 93,,13,2001,▲1
+28,166,,,6.0,82.0,Perreaudeau Olivier,81,Bonjour,,13,2001,▲1
+29,118,,,6.0,83.0,López de Munain Alberto,82,Euskaltel - Euskadi,,13,2001,▲1
+27,158,,,5.0,84.0,Tauler Toni,83,Kelme - Costa Blanca,,13,2001,▲1
+29,48,,,5.0,85.0,Pozzi Oscar,84,Fassa Bortolo,,13,2001,▲1
+30,44,,,5.0,86.0,Belli Wladimir,85,Fassa Bortolo,,13,2001,▲1
+31,122,,,5.0,87.0,Agnolutto Christophe,86,AG2R Prévoyance,,13,2001,▲1
+25,181,,,4.0,88.0,Montgomery Sven,87,La Française des Jeux,,13,2001,▲1
+28,137,,,4.0,90.0,Piil Jakob Storm,88,CSC ProTeam - Tiscali,,13,2001,▲2
+27,103,,,4.0,91.0,Hinault Sébastien,89,Crédit Agricole,,13,2001,▲2
+27,145,,,4.0,92.0,Halgand Patrice,90,Jean Delatour,,13,2001,▲2
+28,162,,,3.0,94.0,Bénéteau Walter,91,Bonjour,,13,2001,▲3
+26,28,,,2.0,95.0,Sastre Carlos,92,O.N.C.E. - Eroski,,13,2001,▲3
+25,95,,,2.0,97.0,Jiménez Eladio,93,Ibanesto.com,,13,2001,▲4
+22,164,,,2.0,96.0,Chavanel Sylvain,94,Bonjour,,13,2001,▲2
+27,107,,,140.0,1.0,O'Grady Stuart,1,Crédit Agricole,,14,2001,-
+31,19,,,127.0,2.0,Zabel Erik,2,Team Telekom,,14,2001,-
+27,11,,,103.0,5.0,Ullrich Jan,4,Team Telekom,,14,2001,▲1
+27,165,,,92.0,4.0,Nazon Damien,5,Bonjour,,14,2001,▼1
+28,39,,,82.0,6.0,Teutenberg Sven,6,Festina,,14,2001,-
+27,21,,,79.0,10.0,Beloki Joseba,7,O.N.C.E. - Eroski,,14,2001,▲3
+27,111,,,77.0,7.0,Etxebarria David,8,Euskaltel - Euskadi,,14,2001,▼1
+32,131,,,76.0,8.0,Jalabert Laurent,9,CSC ProTeam - Tiscali,,14,2001,▼1
+32,169,,,76.0,9.0,Simon François,10,Bonjour,,14,2001,▼1
+32,59,,,65.0,11.0,Wauters Marc,11,Rabobank ProTeam,,14,2001,-
+33,204,,,65.0,12.0,Capelle Christophe,12,BigMat - Auber 93,,14,2001,-
+27,47,,,63.0,13.0,Petacchi Alessandro,13,Fassa Bortolo,,14,2001,-
+30,193,,,58.0,14.0,Knaven Servais,14,Domo - Farm Frites,,14,2001,-
+30,54,,,55.0,15.0,Dekker Erik,15,Rabobank ProTeam,,14,2001,-
+32,117,,,52.0,31.0,Laiseka Roberto,16,Euskaltel - Euskadi,,14,2001,▲15
+28,86,,,51.0,16.0,Garzelli Stefano,17,Mapei - Quickstep,,14,2001,▼1
+24,157,,,49.0,24.0,Sevilla Óscar,18,Kelme - Costa Blanca,,14,2001,▲6
+28,147,,,46.0,17.0,Roux Laurent,19,Jean Delatour,,14,2001,▼2
+27,155,,,46.0,18.0,Gutiérrez José Enrique,20,Kelme - Costa Blanca,,14,2001,▼2
+27,24,,,45.0,25.0,González de Galdeano Igor,21,O.N.C.E. - Eroski,,14,2001,▲4
+32,178,,,43.0,19.0,Svorada Ján,22,Lampre - Daikin,,14,2001,▼3
+34,183,,,43.0,20.0,Durand Jacky,23,La Française des Jeux,,14,2001,▼3
+31,63,,,42.0,21.0,Baguet Serge,24,Lotto - Adecco,,14,2001,▼3
+28,191,,,41.0,22.0,Vainšteins Romāns,25,Domo - Farm Frites,,14,2001,▼3
+23,182,,,41.0,23.0,Casper Jimmy,26,La Française des Jeux,,14,2001,▼3
+29,109,,,40.0,28.0,Voigt Jens,27,Crédit Agricole,,14,2001,▲1
+27,74,,,40.0,30.0,Kivilev Andrei,28,Cofidis,,14,2001,▲2
+25,186,,,38.0,26.0,McGee Bradley,29,La Française des Jeux,,14,2001,▼3
+27,83,,,37.0,27.0,Bettini Paolo,30,Mapei - Quickstep,,14,2001,▼3
+29,51,,,33.0,29.0,Boogerd Michael,31,Rabobank ProTeam,,14,2001,▼2
+28,151,,,32.0,32.0,Botero Santiago,32,Kelme - Costa Blanca,,14,2001,-
+29,68,,,32.0,33.0,Van Hyfte Paul,33,Lotto - Adecco,,14,2001,-
+27,66,,,31.0,34.0,Mikhailov Guennadi,34,Lotto - Adecco,,14,2001,-
+26,61,,,31.0,35.0,Verbrugghe Rik,35,Lotto - Adecco,,14,2001,-
+30,185,,,30.0,36.0,Magnien Emmanuel,36,La Française des Jeux,,14,2001,-
+30,76,,,30.0,37.0,Mattan Nico,37,Cofidis,,14,2001,-
+33,42,,,28.0,38.0,Baldato Fabio,38,Fassa Bortolo,,14,2001,-
+26,175,,,28.0,39.0,Frutti Matteo,39,Lampre - Daikin,,14,2001,-
+28,152,,,27.0,44.0,Cárdenas Félix Rafael,40,Kelme - Costa Blanca,,14,2001,▲4
+29,208,,,27.0,40.0,Sivakov Alexei,41,BigMat - Auber 93,,14,2001,▼1
+27,2,,,25.0,61.0,Heras Roberto,42,US Postal Service,,14,2001,▲19
+27,163,,,24.0,41.0,Bouyer Franck,43,Bonjour,,14,2001,▼2
+25,91,,,23.0,42.0,Mancebo Francisco,44,Ibanesto.com,,14,2001,▼2
+30,161,,,23.0,57.0,Rous Didier,45,Bonjour,,14,2001,▲12
+29,101,,,23.0,43.0,Julich Bobby,46,Crédit Agricole,,14,2001,▼3
+30,44,,,22.0,85.0,Belli Wladimir,47,Fassa Bortolo,,14,2001,▲38
+33,141,,,22.0,45.0,Brochard Laurent,48,Jean Delatour,,14,2001,▼3
+27,49,,,22.0,46.0,Tosatto Matteo,49,Fassa Bortolo,,14,2001,▼3
+27,17,,,21.0,47.0,Vinokourov Alexandre,50,Team Telekom,,14,2001,▼3
+32,187,,,21.0,48.0,Mengin Christophe,51,La Française des Jeux,,14,2001,▼3
+33,84,,,20.0,49.0,Bramati Davide,52,Mapei - Quickstep,,14,2001,▼3
+26,129,,,19.0,50.0,Turpin Ludovic,53,AG2R Prévoyance,,14,2001,▼3
+27,56,,,18.0,51.0,Lotz Marc,54,Rabobank ProTeam,,14,2001,▼3
+23,209,,,16.0,53.0,Talabardon Sébastien,55,BigMat - Auber 93,,14,2001,▼2
+29,46,,,16.0,52.0,Loda Nicola,56,Fassa Bortolo,,14,2001,▼4
+27,106,,,16.0,54.0,Morin Anthony,57,Crédit Agricole,,14,2001,▼3
+32,73,,,15.0,55.0,Cuesta Iñigo,58,Cofidis,,14,2001,▼3
+28,29,,,15.0,67.0,Serrano Marcos Antonio,59,O.N.C.E. - Eroski,,14,2001,▲8
+33,179,,,15.0,56.0,Verstrepen Johan,60,Lampre - Daikin,,14,2001,▼4
+25,172,,,14.0,58.0,Belohvoščiks Raivis,61,Lampre - Daikin,,14,2001,▼3
+25,202,,,14.0,59.0,Auger Guillaume,62,BigMat - Auber 93,,14,2001,▼3
+26,124,,,14.0,60.0,Botcharov Alexandre,63,AG2R Prévoyance,,14,2001,▼3
+28,113,,,13.0,68.0,Chaurreau Íñigo,64,Euskaltel - Euskadi,,14,2001,▲4
+28,199,,,13.0,62.0,Wadecki Piotr,65,Domo - Farm Frites,,14,2001,▼3
+29,184,,,13.0,63.0,Guesdon Frédéric,66,La Française des Jeux,,14,2001,▼3
+33,34,,,12.0,64.0,Chanteur Pascal,67,Festina,,14,2001,▼3
+25,177,,,12.0,65.0,Pinotti Marco,68,Lampre - Daikin,,14,2001,▼3
+28,135,,,12.0,66.0,Jalabert Nicolas,69,CSC ProTeam - Tiscali,,14,2001,▼3
+31,143,,,11.0,69.0,Bouvard Gilles,70,Jean Delatour,,14,2001,▼1
+28,194,,,11.0,70.0,Merckx Axel,71,Domo - Farm Frites,,14,2001,▼1
+30,97,,,10.0,71.0,Odriozola Jon,72,Ibanesto.com,,14,2001,▼1
+31,82,,,10.0,72.0,Bartoli Michele,73,Mapei - Quickstep,,14,2001,▼1
+28,146,,,10.0,73.0,Oriol Christophe,74,Jean Delatour,,14,2001,▼1
+30,203,,,9.0,74.0,Auger Ludovic,75,BigMat - Auber 93,,14,2001,▼1
+26,138,,,9.0,75.0,Sørensen Nicki,76,CSC ProTeam - Tiscali,,14,2001,▼1
+25,69,,,9.0,76.0,Vermaut Steve,77,Lotto - Adecco,,14,2001,▼1
+28,132,,,7.0,77.0,Blaudzun Michael,78,CSC ProTeam - Tiscali,,14,2001,▼1
+25,32,,,6.0,78.0,Brard Florent,79,Festina,,14,2001,▼1
+29,99,,,6.0,79.0,Piepoli Leonardo,80,Ibanesto.com,,14,2001,▼1
+32,205,,,6.0,80.0,Gouvenou Thierry,81,BigMat - Auber 93,,14,2001,▼1
+28,166,,,6.0,81.0,Perreaudeau Olivier,82,Bonjour,,14,2001,▼1
+31,168,,,6.0,,Robin Jean-Cyril,83,Bonjour,,14,2001,-
+29,118,,,6.0,82.0,López de Munain Alberto,84,Euskaltel - Euskadi,,14,2001,▼2
+27,158,,,5.0,83.0,Tauler Toni,85,Kelme - Costa Blanca,,14,2001,▼2
+29,48,,,5.0,84.0,Pozzi Oscar,86,Fassa Bortolo,,14,2001,▼2
+31,122,,,5.0,86.0,Agnolutto Christophe,87,AG2R Prévoyance,,14,2001,▼1
+25,181,,,4.0,87.0,Montgomery Sven,88,La Française des Jeux,,14,2001,▼1
+31,144,,,4.0,,Goubert Stéphane,89,Jean Delatour,,14,2001,-
+27,103,,,4.0,89.0,Hinault Sébastien,90,Crédit Agricole,,14,2001,▼1
+28,137,,,4.0,88.0,Piil Jakob Storm,91,CSC ProTeam - Tiscali,,14,2001,▼3
+27,145,,,4.0,90.0,Halgand Patrice,92,Jean Delatour,,14,2001,▼2
+28,162,,,3.0,91.0,Bénéteau Walter,93,Bonjour,,14,2001,▼2
+26,28,,,2.0,92.0,Sastre Carlos,94,O.N.C.E. - Eroski,,14,2001,▼2
+36,14,,,2.0,,Heppner Jens,95,Team Telekom,,14,2001,-
+22,164,,,2.0,94.0,Chavanel Sylvain,96,Bonjour,,14,2001,▼2
+25,95,,,2.0,93.0,Jiménez Eladio,97,Ibanesto.com,,14,2001,▼4
+26,77,,,1.0,,Moncoutié David,98,Cofidis,,14,2001,-
+27,107,,,140.0,1.0,O'Grady Stuart,1,Crédit Agricole,,15,2001,-
+31,19,,,127.0,2.0,Zabel Erik,2,Team Telekom,,15,2001,-
+27,11,,,103.0,4.0,Ullrich Jan,4,Team Telekom,,15,2001,-
+27,165,,,92.0,5.0,Nazon Damien,5,Bonjour,,15,2001,-
+27,47,,,89.0,13.0,Petacchi Alessandro,6,Fassa Bortolo,,15,2001,▲7
+28,39,,,82.0,6.0,Teutenberg Sven,7,Festina,,15,2001,▼1
+27,21,,,79.0,7.0,Beloki Joseba,8,O.N.C.E. - Eroski,,15,2001,▼1
+28,111,,,77.0,8.0,Etxebarria David,9,Euskaltel - Euskadi,,15,2001,▼1
+32,131,,,76.0,9.0,Jalabert Laurent,10,CSC ProTeam - Tiscali,,15,2001,▼1
+32,169,,,76.0,10.0,Simon François,11,Bonjour,,15,2001,▼1
+27,61,,,66.0,35.0,Verbrugghe Rik,12,Lotto - Adecco,,15,2001,▲23
+32,59,,,65.0,11.0,Wauters Marc,13,Rabobank ProTeam,,15,2001,▼2
+33,204,,,65.0,12.0,Capelle Christophe,14,BigMat - Auber 93,,15,2001,▼2
+30,54,,,64.0,15.0,Dekker Erik,15,Rabobank ProTeam,,15,2001,-
+30,193,,,58.0,14.0,Knaven Servais,16,Domo - Farm Frites,,15,2001,▼2
+29,51,,,54.0,31.0,Boogerd Michael,17,Rabobank ProTeam,,15,2001,▲14
+32,117,,,52.0,16.0,Laiseka Roberto,18,Euskaltel - Euskadi,,15,2001,▼2
+30,76,,,52.0,37.0,Mattan Nico,19,Cofidis,,15,2001,▲18
+28,86,,,51.0,17.0,Garzelli Stefano,20,Mapei - Quickstep,,15,2001,▼3
+24,157,,,49.0,18.0,Sevilla Óscar,21,Kelme - Costa Blanca,,15,2001,▼3
+31,63,,,48.0,24.0,Baguet Serge,22,Lotto - Adecco,,15,2001,▲2
+28,147,,,46.0,19.0,Roux Laurent,23,Jean Delatour,,15,2001,▼4
+27,155,,,46.0,20.0,Gutiérrez José Enrique,24,Kelme - Costa Blanca,,15,2001,▼4
+27,24,,,45.0,21.0,González de Galdeano Igor,25,O.N.C.E. - Eroski,,15,2001,▼4
+32,178,,,43.0,22.0,Svorada Ján,26,Lampre - Daikin,,15,2001,▼4
+34,183,,,43.0,23.0,Durand Jacky,27,La Française des Jeux,,15,2001,▼4
+28,152,,,42.0,40.0,Cárdenas Félix Rafael,28,Kelme - Costa Blanca,,15,2001,▲12
+25,177,,,42.0,68.0,Pinotti Marco,29,Lampre - Daikin,,15,2001,▲39
+27,163,,,42.0,43.0,Bouyer Franck,30,Bonjour,,15,2001,▲13
+28,191,,,41.0,25.0,Vainšteins Romāns,31,Domo - Farm Frites,,15,2001,▼6
+23,182,,,41.0,26.0,Casper Jimmy,32,La Française des Jeux,,15,2001,▼6
+29,109,,,40.0,27.0,Voigt Jens,33,Crédit Agricole,,15,2001,▼6
+27,74,,,40.0,28.0,Kivilev Andrei,34,Cofidis,,15,2001,▼6
+25,186,,,38.0,29.0,McGee Bradley,35,La Française des Jeux,,15,2001,▼6
+27,83,,,37.0,30.0,Bettini Paolo,36,Mapei - Quickstep,,15,2001,▼6
+29,101,,,36.0,46.0,Julich Bobby,37,Crédit Agricole,,15,2001,▲9
+28,151,,,32.0,32.0,Botero Santiago,38,Kelme - Costa Blanca,,15,2001,▼6
+28,135,,,32.0,69.0,Jalabert Nicolas,39,CSC ProTeam - Tiscali,,15,2001,▲30
+29,68,,,32.0,33.0,Van Hyfte Paul,40,Lotto - Adecco,,15,2001,▼7
+27,66,,,31.0,34.0,Mikhailov Guennadi,41,Lotto - Adecco,,15,2001,▼7
+30,185,,,30.0,36.0,Magnien Emmanuel,42,La Française des Jeux,,15,2001,▼6
+33,42,,,28.0,38.0,Baldato Fabio,43,Fassa Bortolo,,15,2001,▼5
+26,175,,,28.0,39.0,Frutti Matteo,44,Lampre - Daikin,,15,2001,▼5
+29,208,,,27.0,41.0,Sivakov Alexei,45,BigMat - Auber 93,,15,2001,▼4
+22,164,,,26.0,96.0,Chavanel Sylvain,46,Bonjour,,15,2001,▲50
+27,2,,,25.0,42.0,Heras Roberto,47,US Postal Service,,15,2001,▼5
+33,141,,,25.0,48.0,Brochard Laurent,48,Jean Delatour,,15,2001,-
+27,49,,,25.0,49.0,Tosatto Matteo,49,Fassa Bortolo,,15,2001,-
+25,91,,,23.0,44.0,Mancebo Francisco,50,Ibanesto.com,,15,2001,▼6
+30,161,,,23.0,45.0,Rous Didier,51,Bonjour,,15,2001,▼6
+30,44,,,22.0,47.0,Belli Wladimir,52,Fassa Bortolo,,15,2001,▼5
+27,17,,,21.0,50.0,Vinokourov Alexandre,53,Team Telekom,,15,2001,▼3
+32,187,,,21.0,51.0,Mengin Christophe,54,La Française des Jeux,,15,2001,▼3
+33,84,,,20.0,52.0,Bramati Davide,55,Mapei - Quickstep,,15,2001,▼3
+26,129,,,19.0,53.0,Turpin Ludovic,56,AG2R Prévoyance,,15,2001,▼3
+31,143,,,19.0,70.0,Bouvard Gilles,57,Jean Delatour,,15,2001,▲13
+27,56,,,18.0,54.0,Lotz Marc,58,Rabobank ProTeam,,15,2001,▼4
+28,171,,,17.0,,Serpellini Marco,59,Lampre - Daikin,,15,2001,-
+28,81,,,16.0,,Nardello Daniele,60,Mapei - Quickstep,,15,2001,-
+29,46,,,16.0,56.0,Loda Nicola,61,Fassa Bortolo,,15,2001,▼5
+23,209,,,16.0,55.0,Talabardon Sébastien,62,BigMat - Auber 93,,15,2001,▼7
+27,106,,,16.0,57.0,Morin Anthony,63,Crédit Agricole,,15,2001,▼6
+34,36,,,16.0,,Lino Pascal,64,Festina,,15,2001,-
+32,73,,,15.0,58.0,Cuesta Iñigo,65,Cofidis,,15,2001,▼7
+28,29,,,15.0,59.0,Serrano Marcos Antonio,66,O.N.C.E. - Eroski,,15,2001,▼7
+33,179,,,15.0,60.0,Verstrepen Johan,67,Lampre - Daikin,,15,2001,▼7
+30,156,,,14.0,,Pascual Javier,68,Kelme - Costa Blanca,,15,2001,-
+25,172,,,14.0,61.0,Belohvoščiks Raivis,69,Lampre - Daikin,,15,2001,▼8
+25,202,,,14.0,62.0,Auger Guillaume,70,BigMat - Auber 93,,15,2001,▼8
+26,124,,,14.0,63.0,Botcharov Alexandre,71,AG2R Prévoyance,,15,2001,▼8
+28,113,,,13.0,64.0,Chaurreau Íñigo,72,Euskaltel - Euskadi,,15,2001,▼8
+28,199,,,13.0,65.0,Wadecki Piotr,73,Domo - Farm Frites,,15,2001,▼8
+25,69,,,13.0,77.0,Vermaut Steve,74,Lotto - Adecco,,15,2001,▲3
+29,184,,,13.0,66.0,Guesdon Frédéric,75,La Française des Jeux,,15,2001,▼9
+27,121,,,12.0,,Salmon Benoît,76,AG2R Prévoyance,,15,2001,-
+33,34,,,12.0,67.0,Chanteur Pascal,77,Festina,,15,2001,▼10
+25,26,,,11.0,,Jaksche Jörg,78,O.N.C.E. - Eroski,,15,2001,-
+28,194,,,11.0,71.0,Merckx Axel,79,Domo - Farm Frites,,15,2001,▼8
+30,97,,,10.0,72.0,Odriozola Jon,80,Ibanesto.com,,15,2001,▼8
+31,144,,,10.0,89.0,Goubert Stéphane,81,Jean Delatour,,15,2001,▲8
+31,82,,,10.0,73.0,Bartoli Michele,82,Mapei - Quickstep,,15,2001,▼9
+28,146,,,10.0,74.0,Oriol Christophe,83,Jean Delatour,,15,2001,▼9
+30,203,,,9.0,75.0,Auger Ludovic,84,BigMat - Auber 93,,15,2001,▼9
+26,138,,,9.0,76.0,Sørensen Nicki,85,CSC ProTeam - Tiscali,,15,2001,▼9
+28,132,,,7.0,78.0,Blaudzun Michael,86,CSC ProTeam - Tiscali,,15,2001,▼8
+27,188,,,7.0,,Schnider Daniel,87,La Française des Jeux,,15,2001,-
+36,14,,,7.0,95.0,Heppner Jens,88,Team Telekom,,15,2001,▲7
+25,32,,,6.0,79.0,Brard Florent,89,Festina,,15,2001,▼10
+29,99,,,6.0,80.0,Piepoli Leonardo,90,Ibanesto.com,,15,2001,▼10
+32,205,,,6.0,81.0,Gouvenou Thierry,91,BigMat - Auber 93,,15,2001,▼10
+28,166,,,6.0,82.0,Perreaudeau Olivier,92,Bonjour,,15,2001,▼10
+27,167,,,6.0,,Renier Franck,93,Bonjour,,15,2001,-
+31,168,,,6.0,83.0,Robin Jean-Cyril,94,Bonjour,,15,2001,▼11
+29,118,,,6.0,84.0,López de Munain Alberto,95,Euskaltel - Euskadi,,15,2001,▼11
+27,158,,,5.0,85.0,Tauler Toni,96,Kelme - Costa Blanca,,15,2001,▼11
+29,48,,,5.0,86.0,Pozzi Oscar,97,Fassa Bortolo,,15,2001,▼11
+31,122,,,5.0,87.0,Agnolutto Christophe,98,AG2R Prévoyance,,15,2001,▼11
+25,181,,,4.0,88.0,Montgomery Sven,99,La Française des Jeux,,15,2001,▼11
+29,102,,,4.0,,Bessy Frédéric,100,Crédit Agricole,,15,2001,-
+28,137,,,4.0,91.0,Piil Jakob Storm,101,CSC ProTeam - Tiscali,,15,2001,▼10
+27,103,,,4.0,90.0,Hinault Sébastien,102,Crédit Agricole,,15,2001,▼12
+27,145,,,4.0,92.0,Halgand Patrice,103,Jean Delatour,,15,2001,▼11
+28,162,,,3.0,93.0,Bénéteau Walter,104,Bonjour,,15,2001,▼11
+26,28,,,2.0,94.0,Sastre Carlos,105,O.N.C.E. - Eroski,,15,2001,▼11
+25,95,,,2.0,97.0,Jiménez Eladio,106,Ibanesto.com,,15,2001,▼9
+26,77,,,1.0,98.0,Moncoutié David,107,Cofidis,,15,2001,▼9
+27,107,,,157.0,1.0,O'Grady Stuart,1,Crédit Agricole,,16,2001,-
+31,19,,,145.0,2.0,Zabel Erik,2,Team Telekom,,16,2001,-
+27,11,,,117.0,4.0,Ullrich Jan,4,Team Telekom,,16,2001,-
+27,165,,,108.0,5.0,Nazon Damien,5,Bonjour,,16,2001,-
+27,47,,,89.0,6.0,Petacchi Alessandro,6,Fassa Bortolo,,16,2001,-
+27,21,,,85.0,8.0,Beloki Joseba,7,O.N.C.E. - Eroski,,16,2001,▲1
+28,39,,,82.0,7.0,Teutenberg Sven,8,Festina,,16,2001,▼1
+29,109,,,77.0,33.0,Voigt Jens,9,Crédit Agricole,,16,2001,▲24
+28,111,,,77.0,9.0,Etxebarria David,10,Euskaltel - Euskadi,,16,2001,▼1
+32,131,,,76.0,10.0,Jalabert Laurent,11,CSC ProTeam - Tiscali,,16,2001,▼1
+32,169,,,76.0,11.0,Simon François,12,Bonjour,,16,2001,▼1
+25,186,,,74.0,35.0,McGee Bradley,13,La Française des Jeux,,16,2001,▲22
+27,61,,,66.0,12.0,Verbrugghe Rik,14,Lotto - Adecco,,16,2001,▼2
+33,204,,,65.0,14.0,Capelle Christophe,15,BigMat - Auber 93,,16,2001,▼1
+30,54,,,64.0,15.0,Dekker Erik,16,Rabobank ProTeam,,16,2001,▼1
+29,51,,,59.0,17.0,Boogerd Michael,17,Rabobank ProTeam,,16,2001,-
+30,193,,,58.0,16.0,Knaven Servais,18,Domo - Farm Frites,,16,2001,▼2
+27,155,,,57.0,24.0,Gutiérrez José Enrique,19,Kelme - Costa Blanca,,16,2001,▲5
+32,117,,,52.0,18.0,Laiseka Roberto,20,Euskaltel - Euskadi,,16,2001,▼2
+30,76,,,52.0,19.0,Mattan Nico,21,Cofidis,,16,2001,▼2
+28,86,,,51.0,20.0,Garzelli Stefano,22,Mapei - Quickstep,,16,2001,▼2
+24,157,,,50.0,21.0,Sevilla Óscar,23,Kelme - Costa Blanca,,16,2001,▼2
+27,74,,,48.0,34.0,Kivilev Andrei,24,Cofidis,,16,2001,▲10
+31,63,,,48.0,22.0,Baguet Serge,25,Lotto - Adecco,,16,2001,▼3
+28,147,,,46.0,23.0,Roux Laurent,26,Jean Delatour,,16,2001,▼3
+26,124,,,46.0,71.0,Botcharov Alexandre,27,AG2R Prévoyance,,16,2001,▲44
+27,24,,,45.0,25.0,González de Galdeano Igor,28,O.N.C.E. - Eroski,,16,2001,▼3
+32,178,,,43.0,26.0,Svorada Ján,29,Lampre - Daikin,,16,2001,▼3
+34,183,,,43.0,27.0,Durand Jacky,30,La Française des Jeux,,16,2001,▼3
+28,152,,,42.0,28.0,Cárdenas Félix Rafael,31,Kelme - Costa Blanca,,16,2001,▼3
+25,177,,,42.0,29.0,Pinotti Marco,32,Lampre - Daikin,,16,2001,▼3
+27,163,,,42.0,30.0,Bouyer Franck,33,Bonjour,,16,2001,▼3
+28,191,,,41.0,31.0,Vainšteins Romāns,34,Domo - Farm Frites,,16,2001,▼3
+23,182,,,41.0,32.0,Casper Jimmy,35,La Française des Jeux,,16,2001,▼3
+26,138,,,41.0,85.0,Sørensen Nicki,36,CSC ProTeam - Tiscali,,16,2001,▲49
+27,83,,,37.0,36.0,Bettini Paolo,37,Mapei - Quickstep,,16,2001,▼1
+29,101,,,36.0,37.0,Julich Bobby,38,Crédit Agricole,,16,2001,▼1
+25,91,,,35.0,50.0,Mancebo Francisco,39,Ibanesto.com,,16,2001,▲11
+28,151,,,32.0,38.0,Botero Santiago,40,Kelme - Costa Blanca,,16,2001,▼2
+28,135,,,32.0,39.0,Jalabert Nicolas,41,CSC ProTeam - Tiscali,,16,2001,▼2
+29,68,,,32.0,40.0,Van Hyfte Paul,42,Lotto - Adecco,,16,2001,▼2
+27,66,,,31.0,41.0,Mikhailov Guennadi,43,Lotto - Adecco,,16,2001,▼2
+30,185,,,30.0,42.0,Magnien Emmanuel,44,La Française des Jeux,,16,2001,▼2
+27,17,,,30.0,53.0,Vinokourov Alexandre,45,Team Telekom,,16,2001,▲8
+30,161,,,30.0,51.0,Rous Didier,46,Bonjour,,16,2001,▲5
+33,42,,,28.0,43.0,Baldato Fabio,47,Fassa Bortolo,,16,2001,▼4
+26,175,,,28.0,44.0,Frutti Matteo,48,Lampre - Daikin,,16,2001,▼4
+29,208,,,27.0,45.0,Sivakov Alexei,49,BigMat - Auber 93,,16,2001,▼4
+22,164,,,26.0,46.0,Chavanel Sylvain,50,Bonjour,,16,2001,▼4
+27,2,,,25.0,47.0,Heras Roberto,51,US Postal Service,,16,2001,▼4
+33,141,,,25.0,48.0,Brochard Laurent,52,Jean Delatour,,16,2001,▼4
+27,49,,,25.0,49.0,Tosatto Matteo,53,Fassa Bortolo,,16,2001,▼4
+31,44,,,22.0,52.0,Belli Wladimir,54,Fassa Bortolo,,16,2001,▼2
+27,37,,,22.0,,Pérez Luis,55,Festina,,16,2001,-
+31,143,,,22.0,57.0,Bouvard Gilles,56,Jean Delatour,,16,2001,▲1
+32,148,,,21.0,,Seigneur Eddy,57,Jean Delatour,,16,2001,-
+32,187,,,21.0,54.0,Mengin Christophe,58,La Française des Jeux,,16,2001,▼4
+30,201,,,20.0,,Heulot Stephane,59,BigMat - Auber 93,,16,2001,-
+33,84,,,20.0,55.0,Bramati Davide,60,Mapei - Quickstep,,16,2001,▼5
+26,129,,,19.0,56.0,Turpin Ludovic,61,AG2R Prévoyance,,16,2001,▼5
+27,145,,,19.0,103.0,Halgand Patrice,62,Jean Delatour,,16,2001,▲41
+27,56,,,18.0,58.0,Lotz Marc,63,Rabobank ProTeam,,16,2001,▼5
+28,171,,,17.0,59.0,Serpellini Marco,64,Lampre - Daikin,,16,2001,▼5
+28,81,,,16.0,60.0,Nardello Daniele,65,Mapei - Quickstep,,16,2001,▼5
+29,46,,,16.0,61.0,Loda Nicola,66,Fassa Bortolo,,16,2001,▼5
+23,209,,,16.0,62.0,Talabardon Sébastien,67,BigMat - Auber 93,,16,2001,▼5
+27,106,,,16.0,63.0,Morin Anthony,68,Crédit Agricole,,16,2001,▼5
+34,36,,,16.0,64.0,Lino Pascal,69,Festina,,16,2001,▼5
+32,73,,,15.0,65.0,Cuesta Iñigo,70,Cofidis,,16,2001,▼5
+28,29,,,15.0,66.0,Serrano Marcos Antonio,71,O.N.C.E. - Eroski,,16,2001,▼5
+28,113,,,15.0,72.0,Chaurreau Íñigo,72,Euskaltel - Euskadi,,16,2001,-
+33,179,,,15.0,67.0,Verstrepen Johan,73,Lampre - Daikin,,16,2001,▼6
+30,156,,,14.0,68.0,Pascual Javier,74,Kelme - Costa Blanca,,16,2001,▼6
+25,172,,,14.0,69.0,Belohvoščiks Raivis,75,Lampre - Daikin,,16,2001,▼6
+25,202,,,14.0,70.0,Auger Guillaume,76,BigMat - Auber 93,,16,2001,▼6
+26,62,,,13.0,,Aerts Mario,77,Lotto - Adecco,,16,2001,-
+28,199,,,13.0,73.0,Wadecki Piotr,78,Domo - Farm Frites,,16,2001,▼5
+25,69,,,13.0,74.0,Vermaut Steve,79,Lotto - Adecco,,16,2001,▼5
+29,184,,,13.0,75.0,Guesdon Frédéric,80,La Française des Jeux,,16,2001,▼5
+33,34,,,12.0,77.0,Chanteur Pascal,81,Festina,,16,2001,▼4
+27,121,,,12.0,76.0,Salmon Benoît,82,AG2R Prévoyance,,16,2001,▼6
+25,26,,,11.0,78.0,Jaksche Jörg,83,O.N.C.E. - Eroski,,16,2001,▼5
+28,194,,,11.0,79.0,Merckx Axel,84,Domo - Farm Frites,,16,2001,▼5
+30,97,,,10.0,80.0,Odriozola Jon,85,Ibanesto.com,,16,2001,▼5
+31,144,,,10.0,81.0,Goubert Stéphane,86,Jean Delatour,,16,2001,▼5
+31,82,,,10.0,82.0,Bartoli Michele,87,Mapei - Quickstep,,16,2001,▼5
+28,146,,,10.0,83.0,Oriol Christophe,88,Jean Delatour,,16,2001,▼5
+30,203,,,9.0,84.0,Auger Ludovic,89,BigMat - Auber 93,,16,2001,▼5
+29,102,,,8.0,100.0,Bessy Frédéric,90,Crédit Agricole,,16,2001,▲10
+28,132,,,7.0,86.0,Blaudzun Michael,91,CSC ProTeam - Tiscali,,16,2001,▼5
+27,188,,,7.0,87.0,Schnider Daniel,92,La Française des Jeux,,16,2001,▼5
+25,32,,,6.0,89.0,Brard Florent,93,Festina,,16,2001,▼4
+29,99,,,6.0,90.0,Piepoli Leonardo,94,Ibanesto.com,,16,2001,▼4
+32,205,,,6.0,91.0,Gouvenou Thierry,95,BigMat - Auber 93,,16,2001,▼4
+28,166,,,6.0,92.0,Perreaudeau Olivier,96,Bonjour,,16,2001,▼4
+27,167,,,6.0,93.0,Renier Franck,97,Bonjour,,16,2001,▼4
+31,168,,,6.0,94.0,Robin Jean-Cyril,98,Bonjour,,16,2001,▼4
+29,118,,,6.0,95.0,López de Munain Alberto,99,Euskaltel - Euskadi,,16,2001,▼4
+27,158,,,5.0,96.0,Tauler Toni,100,Kelme - Costa Blanca,,16,2001,▼4
+31,122,,,5.0,98.0,Agnolutto Christophe,101,AG2R Prévoyance,,16,2001,▼3
+27,103,,,4.0,102.0,Hinault Sébastien,102,Crédit Agricole,,16,2001,-
+28,137,,,4.0,101.0,Piil Jakob Storm,103,CSC ProTeam - Tiscali,,16,2001,▼2
+28,162,,,3.0,104.0,Bénéteau Walter,104,Bonjour,,16,2001,-
+26,28,,,2.0,105.0,Sastre Carlos,105,O.N.C.E. - Eroski,,16,2001,-
+25,95,,,2.0,106.0,Jiménez Eladio,106,Ibanesto.com,,16,2001,-
+26,77,,,1.0,107.0,Moncoutié David,107,Cofidis,,16,2001,-
+27,107,,,176.0,1.0,O'Grady Stuart,1,Crédit Agricole,,17,2001,-
+31,19,,,165.0,2.0,Zabel Erik,2,Team Telekom,,17,2001,-
+27,165,,,130.0,5.0,Nazon Damien,3,Bonjour,,17,2001,▲2
+27,11,,,117.0,4.0,Ullrich Jan,5,Team Telekom,,17,2001,▼1
+27,47,,,106.0,6.0,Petacchi Alessandro,6,Fassa Bortolo,,17,2001,-
+28,39,,,93.0,8.0,Teutenberg Sven,7,Festina,,17,2001,▲1
+27,21,,,89.0,7.0,Beloki Joseba,8,O.N.C.E. - Eroski,,17,2001,▼1
+31,63,,,87.0,25.0,Baguet Serge,9,Lotto - Adecco,,17,2001,▲16
+32,169,,,85.0,12.0,Simon François,10,Bonjour,,17,2001,▲2
+33,204,,,81.0,15.0,Capelle Christophe,11,BigMat - Auber 93,,17,2001,▲4
+29,109,,,80.0,9.0,Voigt Jens,12,Crédit Agricole,,17,2001,▼3
+28,111,,,77.0,10.0,Etxebarria David,13,Euskaltel - Euskadi,,17,2001,▼3
+32,131,,,76.0,11.0,Jalabert Laurent,14,CSC ProTeam - Tiscali,,17,2001,▼3
+25,186,,,74.0,13.0,McGee Bradley,15,La Française des Jeux,,17,2001,▼2
+32,178,,,67.0,29.0,Svorada Ján,16,Lampre - Daikin,,17,2001,▲13
+27,61,,,66.0,14.0,Verbrugghe Rik,17,Lotto - Adecco,,17,2001,▼3
+30,54,,,64.0,16.0,Dekker Erik,18,Rabobank ProTeam,,17,2001,▼2
+27,155,,,64.0,19.0,Gutiérrez José Enrique,19,Kelme - Costa Blanca,,17,2001,-
+30,76,,,62.0,21.0,Mattan Nico,20,Cofidis,,17,2001,▲1
+26,124,,,60.0,27.0,Botcharov Alexandre,21,AG2R Prévoyance,,17,2001,▲6
+28,191,,,59.0,34.0,Vainšteins Romāns,22,Domo - Farm Frites,,17,2001,▲12
+29,51,,,59.0,17.0,Boogerd Michael,23,Rabobank ProTeam,,17,2001,▼6
+30,193,,,58.0,18.0,Knaven Servais,24,Domo - Farm Frites,,17,2001,▼6
+32,117,,,52.0,20.0,Laiseka Roberto,25,Euskaltel - Euskadi,,17,2001,▼5
+28,86,,,51.0,22.0,Garzelli Stefano,26,Mapei - Quickstep,,17,2001,▼4
+24,157,,,50.0,23.0,Sevilla Óscar,27,Kelme - Costa Blanca,,17,2001,▼4
+27,74,,,50.0,24.0,Kivilev Andrei,28,Cofidis,,17,2001,▼4
+28,147,,,46.0,26.0,Roux Laurent,29,Jean Delatour,,17,2001,▼3
+27,24,,,45.0,28.0,González de Galdeano Igor,30,O.N.C.E. - Eroski,,17,2001,▼2
+30,185,,,45.0,44.0,Magnien Emmanuel,31,La Française des Jeux,,17,2001,▲13
+27,66,,,44.0,43.0,Mikhailov Guennadi,32,Lotto - Adecco,,17,2001,▲11
+34,183,,,43.0,30.0,Durand Jacky,33,La Française des Jeux,,17,2001,▼3
+28,152,,,42.0,31.0,Cárdenas Félix Rafael,34,Kelme - Costa Blanca,,17,2001,▼3
+25,177,,,42.0,32.0,Pinotti Marco,35,Lampre - Daikin,,17,2001,▼3
+28,137,,,42.0,103.0,Piil Jakob Storm,36,CSC ProTeam - Tiscali,,17,2001,▲67
+27,163,,,42.0,33.0,Bouyer Franck,37,Bonjour,,17,2001,▼4
+23,182,,,41.0,35.0,Casper Jimmy,38,La Française des Jeux,,17,2001,▼3
+26,138,,,41.0,36.0,Sørensen Nicki,39,CSC ProTeam - Tiscali,,17,2001,▼3
+27,83,,,37.0,37.0,Bettini Paolo,40,Mapei - Quickstep,,17,2001,▼3
+29,101,,,36.0,38.0,Julich Bobby,41,Crédit Agricole,,17,2001,▼3
+25,91,,,35.0,39.0,Mancebo Francisco,42,Ibanesto.com,,17,2001,▼3
+29,208,,,35.0,49.0,Sivakov Alexei,43,BigMat - Auber 93,,17,2001,▲6
+28,151,,,32.0,40.0,Botero Santiago,44,Kelme - Costa Blanca,,17,2001,▼4
+28,135,,,32.0,41.0,Jalabert Nicolas,45,CSC ProTeam - Tiscali,,17,2001,▼4
+29,68,,,32.0,42.0,Van Hyfte Paul,46,Lotto - Adecco,,17,2001,▼4
+33,141,,,31.0,52.0,Brochard Laurent,47,Jean Delatour,,17,2001,▲5
+27,17,,,30.0,45.0,Vinokourov Alexandre,48,Team Telekom,,17,2001,▼3
+30,161,,,30.0,46.0,Rous Didier,49,Bonjour,,17,2001,▼3
+33,75,,,28.0,,Lelli Massimiliano,50,Cofidis,,17,2001,-
+33,42,,,28.0,47.0,Baldato Fabio,51,Fassa Bortolo,,17,2001,▼4
+26,175,,,28.0,48.0,Frutti Matteo,52,Lampre - Daikin,,17,2001,▼4
+31,143,,,27.0,56.0,Bouvard Gilles,53,Jean Delatour,,17,2001,▲3
+22,164,,,26.0,50.0,Chavanel Sylvain,54,Bonjour,,17,2001,▼4
+27,2,,,25.0,51.0,Heras Roberto,55,US Postal Service,,17,2001,▼4
+27,49,,,25.0,53.0,Tosatto Matteo,56,Fassa Bortolo,,17,2001,▼3
+27,145,,,23.0,62.0,Halgand Patrice,57,Jean Delatour,,17,2001,▲5
+31,44,,,22.0,54.0,Belli Wladimir,58,Fassa Bortolo,,17,2001,▼4
+27,37,,,22.0,55.0,Pérez Luis,59,Festina,,17,2001,▼4
+30,97,,,22.0,85.0,Odriozola Jon,60,Ibanesto.com,,17,2001,▲25
+32,148,,,21.0,57.0,Seigneur Eddy,61,Jean Delatour,,17,2001,▼4
+32,187,,,21.0,58.0,Mengin Christophe,62,La Française des Jeux,,17,2001,▼4
+30,201,,,20.0,59.0,Heulot Stephane,63,BigMat - Auber 93,,17,2001,▼4
+33,84,,,20.0,60.0,Bramati Davide,64,Mapei - Quickstep,,17,2001,▼4
+26,129,,,19.0,61.0,Turpin Ludovic,65,AG2R Prévoyance,,17,2001,▼4
+25,69,,,19.0,79.0,Vermaut Steve,66,Lotto - Adecco,,17,2001,▲13
+27,56,,,18.0,63.0,Lotz Marc,67,Rabobank ProTeam,,17,2001,▼4
+28,171,,,17.0,64.0,Serpellini Marco,68,Lampre - Daikin,,17,2001,▼4
+28,81,,,16.0,65.0,Nardello Daniele,69,Mapei - Quickstep,,17,2001,▼4
+29,46,,,16.0,66.0,Loda Nicola,70,Fassa Bortolo,,17,2001,▼4
+23,209,,,16.0,67.0,Talabardon Sébastien,71,BigMat - Auber 93,,17,2001,▼4
+27,106,,,16.0,68.0,Morin Anthony,72,Crédit Agricole,,17,2001,▼4
+34,36,,,16.0,69.0,Lino Pascal,73,Festina,,17,2001,▼4
+32,73,,,15.0,70.0,Cuesta Iñigo,74,Cofidis,,17,2001,▼4
+28,29,,,15.0,71.0,Serrano Marcos Antonio,75,O.N.C.E. - Eroski,,17,2001,▼4
+28,113,,,15.0,72.0,Chaurreau Íñigo,76,Euskaltel - Euskadi,,17,2001,▼4
+33,179,,,15.0,73.0,Verstrepen Johan,77,Lampre - Daikin,,17,2001,▼4
+30,156,,,14.0,74.0,Pascual Javier,78,Kelme - Costa Blanca,,17,2001,▼4
+25,172,,,14.0,75.0,Belohvoščiks Raivis,79,Lampre - Daikin,,17,2001,▼4
+25,202,,,14.0,76.0,Auger Guillaume,80,BigMat - Auber 93,,17,2001,▼4
+26,62,,,13.0,77.0,Aerts Mario,81,Lotto - Adecco,,17,2001,▼4
+28,199,,,13.0,78.0,Wadecki Piotr,82,Domo - Farm Frites,,17,2001,▼4
+29,184,,,13.0,80.0,Guesdon Frédéric,83,La Française des Jeux,,17,2001,▼3
+33,34,,,12.0,81.0,Chanteur Pascal,84,Festina,,17,2001,▼3
+27,121,,,12.0,82.0,Salmon Benoît,85,AG2R Prévoyance,,17,2001,▼3
+25,26,,,11.0,83.0,Jaksche Jörg,86,O.N.C.E. - Eroski,,17,2001,▼3
+28,194,,,11.0,84.0,Merckx Axel,87,Domo - Farm Frites,,17,2001,▼3
+31,144,,,10.0,86.0,Goubert Stéphane,88,Jean Delatour,,17,2001,▼2
+31,82,,,10.0,87.0,Bartoli Michele,89,Mapei - Quickstep,,17,2001,▼2
+28,146,,,10.0,88.0,Oriol Christophe,90,Jean Delatour,,17,2001,▼2
+30,203,,,9.0,89.0,Auger Ludovic,91,BigMat - Auber 93,,17,2001,▼2
+29,102,,,8.0,90.0,Bessy Frédéric,92,Crédit Agricole,,17,2001,▼2
+28,132,,,7.0,91.0,Blaudzun Michael,93,CSC ProTeam - Tiscali,,17,2001,▼2
+27,188,,,7.0,92.0,Schnider Daniel,94,La Française des Jeux,,17,2001,▼2
+25,32,,,6.0,93.0,Brard Florent,95,Festina,,17,2001,▼2
+29,99,,,6.0,94.0,Piepoli Leonardo,96,Ibanesto.com,,17,2001,▼2
+32,205,,,6.0,95.0,Gouvenou Thierry,97,BigMat - Auber 93,,17,2001,▼2
+28,166,,,6.0,96.0,Perreaudeau Olivier,98,Bonjour,,17,2001,▼2
+27,167,,,6.0,97.0,Renier Franck,99,Bonjour,,17,2001,▼2
+29,118,,,6.0,99.0,López de Munain Alberto,100,Euskaltel - Euskadi,,17,2001,▼1
+31,168,,,6.0,98.0,Robin Jean-Cyril,101,Bonjour,,17,2001,▼3
+27,158,,,5.0,100.0,Tauler Toni,102,Kelme - Costa Blanca,,17,2001,▼2
+31,122,,,5.0,101.0,Agnolutto Christophe,103,AG2R Prévoyance,,17,2001,▼2
+27,103,,,4.0,102.0,Hinault Sébastien,104,Crédit Agricole,,17,2001,▼2
+28,162,,,3.0,104.0,Bénéteau Walter,105,Bonjour,,17,2001,▼1
+26,28,,,2.0,105.0,Sastre Carlos,106,O.N.C.E. - Eroski,,17,2001,▼1
+25,95,,,2.0,106.0,Jiménez Eladio,107,Ibanesto.com,,17,2001,▼1
+26,77,,,1.0,107.0,Moncoutié David,108,Cofidis,,17,2001,▼1
+28,115,,,1.0,,Etxebarria Unai,109,Euskaltel - Euskadi,,17,2001,-
+27,107,,,176.0,1.0,O'Grady Stuart,1,Crédit Agricole,,18,2001,-
+31,19,,,165.0,2.0,Zabel Erik,2,Team Telekom,,18,2001,-
+27,165,,,130.0,3.0,Nazon Damien,4,Bonjour,,18,2001,▼1
+27,11,,,127.0,5.0,Ullrich Jan,5,Team Telekom,,18,2001,-
+27,47,,,106.0,6.0,Petacchi Alessandro,6,Fassa Bortolo,,18,2001,-
+27,21,,,94.0,8.0,Beloki Joseba,7,O.N.C.E. - Eroski,,18,2001,▲1
+28,39,,,93.0,7.0,Teutenberg Sven,8,Festina,,18,2001,▼1
+31,63,,,87.0,9.0,Baguet Serge,9,Lotto - Adecco,,18,2001,-
+32,169,,,85.0,10.0,Simon François,10,Bonjour,,18,2001,-
+33,204,,,81.0,11.0,Capelle Christophe,11,BigMat - Auber 93,,18,2001,-
+29,109,,,80.0,12.0,Voigt Jens,12,Crédit Agricole,,18,2001,-
+28,111,,,77.0,13.0,Etxebarria David,13,Euskaltel - Euskadi,,18,2001,-
+32,131,,,76.0,14.0,Jalabert Laurent,14,CSC ProTeam - Tiscali,,18,2001,-
+25,186,,,74.0,15.0,McGee Bradley,15,La Française des Jeux,,18,2001,-
+32,178,,,67.0,16.0,Svorada Ján,16,Lampre - Daikin,,18,2001,-
+27,61,,,66.0,17.0,Verbrugghe Rik,17,Lotto - Adecco,,18,2001,-
+27,155,,,65.0,19.0,Gutiérrez José Enrique,18,Kelme - Costa Blanca,,18,2001,▲1
+30,54,,,64.0,18.0,Dekker Erik,19,Rabobank ProTeam,,18,2001,▼1
+30,76,,,62.0,20.0,Mattan Nico,20,Cofidis,,18,2001,-
+26,124,,,60.0,21.0,Botcharov Alexandre,21,AG2R Prévoyance,,18,2001,-
+28,191,,,59.0,22.0,Vainšteins Romāns,22,Domo - Farm Frites,,18,2001,-
+29,51,,,59.0,23.0,Boogerd Michael,23,Rabobank ProTeam,,18,2001,-
+30,193,,,58.0,24.0,Knaven Servais,24,Domo - Farm Frites,,18,2001,-
+27,24,,,57.0,30.0,González de Galdeano Igor,25,O.N.C.E. - Eroski,,18,2001,▲5
+32,117,,,52.0,25.0,Laiseka Roberto,26,Euskaltel - Euskadi,,18,2001,▼1
+28,86,,,51.0,26.0,Garzelli Stefano,27,Mapei - Quickstep,,18,2001,▼1
+24,157,,,50.0,27.0,Sevilla Óscar,28,Kelme - Costa Blanca,,18,2001,▼1
+27,74,,,50.0,28.0,Kivilev Andrei,29,Cofidis,,18,2001,▼1
+28,147,,,46.0,29.0,Roux Laurent,30,Jean Delatour,,18,2001,▼1
+30,185,,,45.0,31.0,Magnien Emmanuel,31,La Française des Jeux,,18,2001,-
+27,66,,,44.0,32.0,Mikhailov Guennadi,32,Lotto - Adecco,,18,2001,-
+34,183,,,43.0,33.0,Durand Jacky,33,La Française des Jeux,,18,2001,-
+28,152,,,42.0,34.0,Cárdenas Félix Rafael,34,Kelme - Costa Blanca,,18,2001,-
+25,177,,,42.0,35.0,Pinotti Marco,35,Lampre - Daikin,,18,2001,-
+28,137,,,42.0,36.0,Piil Jakob Storm,36,CSC ProTeam - Tiscali,,18,2001,-
+27,163,,,42.0,37.0,Bouyer Franck,37,Bonjour,,18,2001,-
+23,182,,,41.0,38.0,Casper Jimmy,38,La Française des Jeux,,18,2001,-
+26,138,,,41.0,39.0,Sørensen Nicki,39,CSC ProTeam - Tiscali,,18,2001,-
+29,101,,,40.0,41.0,Julich Bobby,40,Crédit Agricole,,18,2001,▲1
+30,161,,,38.0,49.0,Rous Didier,41,Bonjour,,18,2001,▲8
+27,83,,,37.0,40.0,Bettini Paolo,42,Mapei - Quickstep,,18,2001,▼2
+28,151,,,35.0,44.0,Botero Santiago,43,Kelme - Costa Blanca,,18,2001,▲1
+25,91,,,35.0,42.0,Mancebo Francisco,44,Ibanesto.com,,18,2001,▼2
+29,208,,,35.0,43.0,Sivakov Alexei,45,BigMat - Auber 93,,18,2001,▼2
+28,135,,,32.0,45.0,Jalabert Nicolas,46,CSC ProTeam - Tiscali,,18,2001,▼1
+27,17,,,32.0,48.0,Vinokourov Alexandre,47,Team Telekom,,18,2001,▲1
+29,68,,,32.0,46.0,Van Hyfte Paul,48,Lotto - Adecco,,18,2001,▼2
+33,141,,,31.0,47.0,Brochard Laurent,49,Jean Delatour,,18,2001,▼2
+33,75,,,28.0,50.0,Lelli Massimiliano,50,Cofidis,,18,2001,-
+33,42,,,28.0,51.0,Baldato Fabio,51,Fassa Bortolo,,18,2001,-
+26,175,,,28.0,52.0,Frutti Matteo,52,Lampre - Daikin,,18,2001,-
+31,143,,,27.0,53.0,Bouvard Gilles,53,Jean Delatour,,18,2001,-
+22,164,,,26.0,54.0,Chavanel Sylvain,54,Bonjour,,18,2001,-
+27,2,,,25.0,55.0,Heras Roberto,55,US Postal Service,,18,2001,-
+27,49,,,25.0,56.0,Tosatto Matteo,56,Fassa Bortolo,,18,2001,-
+27,145,,,23.0,57.0,Halgand Patrice,57,Jean Delatour,,18,2001,-
+31,44,,,22.0,58.0,Belli Wladimir,58,Fassa Bortolo,,18,2001,-
+27,37,,,22.0,59.0,Pérez Luis,59,Festina,,18,2001,-
+30,97,,,22.0,60.0,Odriozola Jon,60,Ibanesto.com,,18,2001,-
+28,29,,,21.0,75.0,Serrano Marcos Antonio,61,O.N.C.E. - Eroski,,18,2001,▲14
+32,148,,,21.0,61.0,Seigneur Eddy,62,Jean Delatour,,18,2001,▼1
+32,187,,,21.0,62.0,Mengin Christophe,63,La Française des Jeux,,18,2001,▼1
+30,201,,,20.0,63.0,Heulot Stephane,64,BigMat - Auber 93,,18,2001,▼1
+33,84,,,20.0,64.0,Bramati Davide,65,Mapei - Quickstep,,18,2001,▼1
+26,129,,,19.0,65.0,Turpin Ludovic,66,AG2R Prévoyance,,18,2001,▼1
+25,69,,,19.0,66.0,Vermaut Steve,67,Lotto - Adecco,,18,2001,▼1
+27,56,,,18.0,67.0,Lotz Marc,68,Rabobank ProTeam,,18,2001,▼1
+28,171,,,17.0,68.0,Serpellini Marco,69,Lampre - Daikin,,18,2001,▼1
+23,209,,,16.0,71.0,Talabardon Sébastien,70,BigMat - Auber 93,,18,2001,▲1
+28,81,,,16.0,69.0,Nardello Daniele,71,Mapei - Quickstep,,18,2001,▼2
+30,46,,,16.0,70.0,Loda Nicola,72,Fassa Bortolo,,18,2001,▼2
+27,106,,,16.0,72.0,Morin Anthony,73,Crédit Agricole,,18,2001,▼1
+34,36,,,16.0,73.0,Lino Pascal,74,Festina,,18,2001,▼1
+32,73,,,15.0,74.0,Cuesta Iñigo,75,Cofidis,,18,2001,▼1
+28,113,,,15.0,76.0,Chaurreau Íñigo,76,Euskaltel - Euskadi,,18,2001,-
+33,179,,,15.0,77.0,Verstrepen Johan,77,Lampre - Daikin,,18,2001,-
+25,172,,,14.0,79.0,Belohvoščiks Raivis,78,Lampre - Daikin,,18,2001,▲1
+30,156,,,14.0,78.0,Pascual Javier,79,Kelme - Costa Blanca,,18,2001,▼1
+25,202,,,14.0,80.0,Auger Guillaume,80,BigMat - Auber 93,,18,2001,-
+26,62,,,13.0,81.0,Aerts Mario,81,Lotto - Adecco,,18,2001,-
+28,199,,,13.0,82.0,Wadecki Piotr,82,Domo - Farm Frites,,18,2001,-
+29,184,,,13.0,83.0,Guesdon Frédéric,83,La Française des Jeux,,18,2001,-
+33,34,,,12.0,84.0,Chanteur Pascal,84,Festina,,18,2001,-
+27,121,,,12.0,85.0,Salmon Benoît,85,AG2R Prévoyance,,18,2001,-
+25,26,,,11.0,86.0,Jaksche Jörg,86,O.N.C.E. - Eroski,,18,2001,-
+28,194,,,11.0,87.0,Merckx Axel,87,Domo - Farm Frites,,18,2001,-
+31,144,,,10.0,88.0,Goubert Stéphane,88,Jean Delatour,,18,2001,-
+31,82,,,10.0,89.0,Bartoli Michele,89,Mapei - Quickstep,,18,2001,-
+28,146,,,10.0,90.0,Oriol Christophe,90,Jean Delatour,,18,2001,-
+30,203,,,9.0,91.0,Auger Ludovic,91,BigMat - Auber 93,,18,2001,-
+29,102,,,8.0,92.0,Bessy Frédéric,92,Crédit Agricole,,18,2001,-
+28,132,,,7.0,93.0,Blaudzun Michael,93,CSC ProTeam - Tiscali,,18,2001,-
+27,188,,,7.0,94.0,Schnider Daniel,94,La Française des Jeux,,18,2001,-
+25,32,,,6.0,95.0,Brard Florent,95,Festina,,18,2001,-
+29,99,,,6.0,96.0,Piepoli Leonardo,96,Ibanesto.com,,18,2001,-
+32,205,,,6.0,97.0,Gouvenou Thierry,97,BigMat - Auber 93,,18,2001,-
+28,166,,,6.0,98.0,Perreaudeau Olivier,98,Bonjour,,18,2001,-
+27,167,,,6.0,99.0,Renier Franck,99,Bonjour,,18,2001,-
+31,168,,,6.0,101.0,Robin Jean-Cyril,100,Bonjour,,18,2001,▲1
+29,118,,,6.0,100.0,López de Munain Alberto,101,Euskaltel - Euskadi,,18,2001,▼1
+27,158,,,5.0,102.0,Tauler Toni,102,Kelme - Costa Blanca,,18,2001,-
+31,122,,,5.0,103.0,Agnolutto Christophe,103,AG2R Prévoyance,,18,2001,-
+27,103,,,4.0,104.0,Hinault Sébastien,104,Crédit Agricole,,18,2001,-
+28,162,,,3.0,105.0,Bénéteau Walter,105,Bonjour,,18,2001,-
+26,28,,,2.0,106.0,Sastre Carlos,106,O.N.C.E. - Eroski,,18,2001,-
+25,95,,,2.0,107.0,Jiménez Eladio,107,Ibanesto.com,,18,2001,-
+26,77,,,1.0,108.0,Moncoutié David,108,Cofidis,,18,2001,-
+28,115,,,1.0,109.0,Etxebarria Unai,109,Euskaltel - Euskadi,,18,2001,-
+27,107,,,212.0,1.0,O'Grady Stuart,1,Crédit Agricole,,19,2001,-
+31,19,,,210.0,2.0,Zabel Erik,2,Team Telekom,,19,2001,-
+27,165,,,149.0,4.0,Nazon Damien,3,Bonjour,,19,2001,▲1
+27,11,,,127.0,5.0,Ullrich Jan,5,Team Telekom,,19,2001,-
+27,47,,,126.0,6.0,Petacchi Alessandro,6,Fassa Bortolo,,19,2001,-
+28,39,,,117.0,8.0,Teutenberg Sven,7,Festina,,19,2001,▲1
+32,169,,,99.0,10.0,Simon François,8,Bonjour,,19,2001,▲2
+33,204,,,98.0,11.0,Capelle Christophe,9,BigMat - Auber 93,,19,2001,▲2
+27,21,,,94.0,7.0,Beloki Joseba,10,O.N.C.E. - Eroski,,19,2001,▼3
+29,109,,,90.0,12.0,Voigt Jens,11,Crédit Agricole,,19,2001,▲1
+32,178,,,89.0,16.0,Svorada Ján,12,Lampre - Daikin,,19,2001,▲4
+31,63,,,87.0,9.0,Baguet Serge,13,Lotto - Adecco,,19,2001,▼4
+28,191,,,85.0,22.0,Vainšteins Romāns,14,Domo - Farm Frites,,19,2001,▲8
+27,155,,,80.0,18.0,Gutiérrez José Enrique,15,Kelme - Costa Blanca,,19,2001,▲3
+28,111,,,77.0,13.0,Etxebarria David,16,Euskaltel - Euskadi,,19,2001,▼3
+32,131,,,76.0,14.0,Jalabert Laurent,17,CSC ProTeam - Tiscali,,19,2001,▼3
+25,186,,,74.0,15.0,McGee Bradley,18,La Française des Jeux,,19,2001,▼3
+26,124,,,70.0,21.0,Botcharov Alexandre,19,AG2R Prévoyance,,19,2001,▲2
+27,61,,,66.0,17.0,Verbrugghe Rik,20,Lotto - Adecco,,19,2001,▼3
+30,54,,,64.0,19.0,Dekker Erik,21,Rabobank ProTeam,,19,2001,▼2
+30,76,,,64.0,20.0,Mattan Nico,22,Cofidis,,19,2001,▼2
+29,51,,,59.0,23.0,Boogerd Michael,23,Rabobank ProTeam,,19,2001,-
+30,193,,,58.0,24.0,Knaven Servais,24,Domo - Farm Frites,,19,2001,-
+27,24,,,57.0,25.0,González de Galdeano Igor,25,O.N.C.E. - Eroski,,19,2001,-
+23,182,,,57.0,38.0,Casper Jimmy,26,La Française des Jeux,,19,2001,▲12
+29,208,,,53.0,45.0,Sivakov Alexei,27,BigMat - Auber 93,,19,2001,▲18
+32,117,,,52.0,26.0,Laiseka Roberto,28,Euskaltel - Euskadi,,19,2001,▼2
+28,86,,,51.0,27.0,Garzelli Stefano,29,Mapei - Quickstep,,19,2001,▼2
+24,157,,,50.0,28.0,Sevilla Óscar,30,Kelme - Costa Blanca,,19,2001,▼2
+27,83,,,50.0,42.0,Bettini Paolo,31,Mapei - Quickstep,,19,2001,▲11
+27,74,,,50.0,29.0,Kivilev Andrei,32,Cofidis,,19,2001,▼3
+28,147,,,46.0,30.0,Roux Laurent,33,Jean Delatour,,19,2001,▼3
+30,185,,,45.0,31.0,Magnien Emmanuel,34,La Française des Jeux,,19,2001,▼3
+27,66,,,44.0,32.0,Mikhailov Guennadi,35,Lotto - Adecco,,19,2001,▼3
+34,183,,,43.0,33.0,Durand Jacky,36,La Française des Jeux,,19,2001,▼3
+28,152,,,42.0,34.0,Cárdenas Félix Rafael,37,Kelme - Costa Blanca,,19,2001,▼3
+25,177,,,42.0,35.0,Pinotti Marco,38,Lampre - Daikin,,19,2001,▼3
+28,137,,,42.0,36.0,Piil Jakob Storm,39,CSC ProTeam - Tiscali,,19,2001,▼3
+27,163,,,42.0,37.0,Bouyer Franck,40,Bonjour,,19,2001,▼3
+26,138,,,41.0,39.0,Sørensen Nicki,41,CSC ProTeam - Tiscali,,19,2001,▼2
+29,101,,,40.0,40.0,Julich Bobby,42,Crédit Agricole,,19,2001,▼2
+27,17,,,39.0,47.0,Vinokourov Alexandre,43,Team Telekom,,19,2001,▲4
+33,141,,,39.0,49.0,Brochard Laurent,44,Jean Delatour,,19,2001,▲5
+30,161,,,38.0,41.0,Rous Didier,45,Bonjour,,19,2001,▼4
+33,42,,,35.0,51.0,Baldato Fabio,46,Fassa Bortolo,,19,2001,▲5
+28,151,,,35.0,43.0,Botero Santiago,47,Kelme - Costa Blanca,,19,2001,▼4
+25,91,,,35.0,44.0,Mancebo Francisco,48,Ibanesto.com,,19,2001,▼4
+28,135,,,32.0,46.0,Jalabert Nicolas,49,CSC ProTeam - Tiscali,,19,2001,▼3
+29,68,,,32.0,48.0,Van Hyfte Paul,50,Lotto - Adecco,,19,2001,▼2
+33,75,,,28.0,50.0,Lelli Massimiliano,51,Cofidis,,19,2001,▼1
+26,175,,,28.0,52.0,Frutti Matteo,52,Lampre - Daikin,,19,2001,-
+31,143,,,27.0,53.0,Bouvard Gilles,53,Jean Delatour,,19,2001,-
+22,164,,,26.0,54.0,Chavanel Sylvain,54,Bonjour,,19,2001,-
+27,2,,,25.0,55.0,Heras Roberto,55,US Postal Service,,19,2001,-
+27,49,,,25.0,56.0,Tosatto Matteo,56,Fassa Bortolo,,19,2001,-
+27,145,,,23.0,57.0,Halgand Patrice,57,Jean Delatour,,19,2001,-
+31,44,,,22.0,58.0,Belli Wladimir,58,Fassa Bortolo,,19,2001,-
+27,37,,,22.0,59.0,Pérez Luis,59,Festina,,19,2001,-
+30,97,,,22.0,60.0,Odriozola Jon,60,Ibanesto.com,,19,2001,-
+28,29,,,21.0,61.0,Serrano Marcos Antonio,61,O.N.C.E. - Eroski,,19,2001,-
+32,148,,,21.0,62.0,Seigneur Eddy,62,Jean Delatour,,19,2001,-
+32,187,,,21.0,63.0,Mengin Christophe,63,La Française des Jeux,,19,2001,-
+30,203,,,21.0,91.0,Auger Ludovic,64,BigMat - Auber 93,,19,2001,▲27
+33,84,,,20.0,65.0,Bramati Davide,65,Mapei - Quickstep,,19,2001,-
+30,201,,,20.0,64.0,Heulot Stephane,66,BigMat - Auber 93,,19,2001,▼2
+26,129,,,19.0,66.0,Turpin Ludovic,67,AG2R Prévoyance,,19,2001,▼1
+27,56,,,19.0,68.0,Lotz Marc,68,Rabobank ProTeam,,19,2001,-
+25,69,,,19.0,67.0,Vermaut Steve,69,Lotto - Adecco,,19,2001,▼2
+28,132,,,18.0,93.0,Blaudzun Michael,70,CSC ProTeam - Tiscali,,19,2001,▲23
+28,171,,,17.0,69.0,Serpellini Marco,71,Lampre - Daikin,,19,2001,▼2
+30,46,,,16.0,72.0,Loda Nicola,72,Fassa Bortolo,,19,2001,-
+23,209,,,16.0,70.0,Talabardon Sébastien,73,BigMat - Auber 93,,19,2001,▼3
+28,81,,,16.0,71.0,Nardello Daniele,74,Mapei - Quickstep,,19,2001,▼3
+27,106,,,16.0,73.0,Morin Anthony,75,Crédit Agricole,,19,2001,▼2
+34,36,,,16.0,74.0,Lino Pascal,76,Festina,,19,2001,▼2
+32,73,,,15.0,75.0,Cuesta Iñigo,77,Cofidis,,19,2001,▼2
+28,113,,,15.0,76.0,Chaurreau Íñigo,78,Euskaltel - Euskadi,,19,2001,▼2
+33,179,,,15.0,77.0,Verstrepen Johan,79,Lampre - Daikin,,19,2001,▼2
+28,166,,,15.0,98.0,Perreaudeau Olivier,80,Bonjour,,19,2001,▲18
+30,156,,,14.0,79.0,Pascual Javier,81,Kelme - Costa Blanca,,19,2001,▼2
+25,172,,,14.0,78.0,Belohvoščiks Raivis,82,Lampre - Daikin,,19,2001,▼4
+25,202,,,14.0,80.0,Auger Guillaume,83,BigMat - Auber 93,,19,2001,▼3
+26,62,,,13.0,81.0,Aerts Mario,84,Lotto - Adecco,,19,2001,▼3
+28,199,,,13.0,82.0,Wadecki Piotr,85,Domo - Farm Frites,,19,2001,▼3
+29,184,,,13.0,83.0,Guesdon Frédéric,86,La Française des Jeux,,19,2001,▼3
+33,34,,,12.0,84.0,Chanteur Pascal,87,Festina,,19,2001,▼3
+27,121,,,12.0,85.0,Salmon Benoît,88,AG2R Prévoyance,,19,2001,▼3
+25,26,,,11.0,86.0,Jaksche Jörg,89,O.N.C.E. - Eroski,,19,2001,▼3
+28,194,,,11.0,87.0,Merckx Axel,90,Domo - Farm Frites,,19,2001,▼3
+31,144,,,10.0,88.0,Goubert Stéphane,91,Jean Delatour,,19,2001,▼3
+31,82,,,10.0,89.0,Bartoli Michele,92,Mapei - Quickstep,,19,2001,▼3
+28,146,,,10.0,90.0,Oriol Christophe,93,Jean Delatour,,19,2001,▼3
+29,102,,,8.0,92.0,Bessy Frédéric,94,Crédit Agricole,,19,2001,▼2
+27,188,,,7.0,94.0,Schnider Daniel,95,La Française des Jeux,,19,2001,▼1
+27,103,,,7.0,104.0,Hinault Sébastien,96,Crédit Agricole,,19,2001,▲8
+25,32,,,6.0,95.0,Brard Florent,97,Festina,,19,2001,▼2
+29,99,,,6.0,96.0,Piepoli Leonardo,98,Ibanesto.com,,19,2001,▼2
+32,205,,,6.0,97.0,Gouvenou Thierry,99,BigMat - Auber 93,,19,2001,▼2
+35,3,,,6.0,,Ekimov Viatcheslav,100,US Postal Service,,19,2001,-
+27,167,,,6.0,99.0,Renier Franck,101,Bonjour,,19,2001,▼2
+29,118,,,6.0,101.0,López de Munain Alberto,102,Euskaltel - Euskadi,,19,2001,▼1
+31,168,,,6.0,100.0,Robin Jean-Cyril,103,Bonjour,,19,2001,▼3
+27,158,,,5.0,102.0,Tauler Toni,104,Kelme - Costa Blanca,,19,2001,▼2
+31,122,,,5.0,103.0,Agnolutto Christophe,105,AG2R Prévoyance,,19,2001,▼2
+29,162,,,3.0,105.0,Bénéteau Walter,106,Bonjour,,19,2001,▼1
+26,28,,,2.0,106.0,Sastre Carlos,107,O.N.C.E. - Eroski,,19,2001,▼1
+25,95,,,2.0,107.0,Jiménez Eladio,108,Ibanesto.com,,19,2001,▼1
+26,77,,,1.0,108.0,Moncoutié David,109,Cofidis,,19,2001,▼1
+28,115,,,1.0,109.0,Etxebarria Unai,110,Euskaltel - Euskadi,,19,2001,▼1
+31,19,,,252.0,2.0,Zabel Erik,1,Team Telekom,,20,2001,▲1
+27,107,,,244.0,1.0,O'Grady Stuart,2,Crédit Agricole,,20,2001,▼1
+27,165,,,169.0,3.0,Nazon Damien,3,Bonjour,,20,2001,-
+27,47,,,148.0,6.0,Petacchi Alessandro,4,Fassa Bortolo,,20,2001,▲2
+28,39,,,141.0,7.0,Teutenberg Sven,5,Festina,,20,2001,▲2
+27,11,,,127.0,5.0,Ullrich Jan,7,Team Telekom,,20,2001,▼2
+32,178,,,124.0,12.0,Svorada Ján,8,Lampre - Daikin,,20,2001,▲4
+33,204,,,114.0,9.0,Capelle Christophe,9,BigMat - Auber 93,,20,2001,-
+32,169,,,108.0,8.0,Simon François,10,Bonjour,,20,2001,▼2
+28,191,,,99.0,14.0,Vainšteins Romāns,11,Domo - Farm Frites,,20,2001,▲3
+27,21,,,94.0,10.0,Beloki Joseba,12,O.N.C.E. - Eroski,,20,2001,▼2
+27,155,,,91.0,15.0,Gutiérrez José Enrique,13,Kelme - Costa Blanca,,20,2001,▲2
+29,109,,,90.0,11.0,Voigt Jens,14,Crédit Agricole,,20,2001,▼3
+31,63,,,87.0,13.0,Baguet Serge,15,Lotto - Adecco,,20,2001,▼2
+25,186,,,77.0,18.0,McGee Bradley,16,La Française des Jeux,,20,2001,▲2
+28,111,,,77.0,16.0,Etxebarria David,17,Euskaltel - Euskadi,,20,2001,▼1
+32,131,,,76.0,17.0,Jalabert Laurent,18,CSC ProTeam - Tiscali,,20,2001,▼1
+23,182,,,75.0,26.0,Casper Jimmy,19,La Française des Jeux,,20,2001,▲7
+26,124,,,70.0,19.0,Botcharov Alexandre,20,AG2R Prévoyance,,20,2001,▼1
+27,61,,,66.0,20.0,Verbrugghe Rik,21,Lotto - Adecco,,20,2001,▼1
+27,83,,,65.0,31.0,Bettini Paolo,22,Mapei - Quickstep,,20,2001,▲9
+30,54,,,64.0,21.0,Dekker Erik,23,Rabobank ProTeam,,20,2001,▼2
+30,76,,,64.0,22.0,Mattan Nico,24,Cofidis,,20,2001,▼2
+29,51,,,64.0,23.0,Boogerd Michael,25,Rabobank ProTeam,,20,2001,▼2
+27,66,,,63.0,35.0,Mikhailov Guennadi,26,Lotto - Adecco,,20,2001,▲9
+30,193,,,58.0,24.0,Knaven Servais,27,Domo - Farm Frites,,20,2001,▼3
+27,24,,,57.0,25.0,González de Galdeano Igor,28,O.N.C.E. - Eroski,,20,2001,▼3
+29,208,,,53.0,27.0,Sivakov Alexei,29,BigMat - Auber 93,,20,2001,▼2
+32,117,,,52.0,28.0,Laiseka Roberto,30,Euskaltel - Euskadi,,20,2001,▼2
+28,86,,,51.0,29.0,Garzelli Stefano,31,Mapei - Quickstep,,20,2001,▼2
+24,157,,,50.0,30.0,Sevilla Óscar,32,Kelme - Costa Blanca,,20,2001,▼2
+27,74,,,50.0,32.0,Kivilev Andrei,33,Cofidis,,20,2001,▼1
+28,147,,,46.0,33.0,Roux Laurent,34,Jean Delatour,,20,2001,▼1
+30,185,,,45.0,34.0,Magnien Emmanuel,35,La Française des Jeux,,20,2001,▼1
+27,17,,,45.0,43.0,Vinokourov Alexandre,36,Team Telekom,,20,2001,▲7
+34,183,,,43.0,36.0,Durand Jacky,37,La Française des Jeux,,20,2001,▼1
+28,152,,,42.0,37.0,Cárdenas Félix Rafael,38,Kelme - Costa Blanca,,20,2001,▼1
+25,177,,,42.0,38.0,Pinotti Marco,39,Lampre - Daikin,,20,2001,▼1
+28,137,,,42.0,39.0,Piil Jakob Storm,40,CSC ProTeam - Tiscali,,20,2001,▼1
+26,138,,,42.0,41.0,Sørensen Nicki,41,CSC ProTeam - Tiscali,,20,2001,-
+27,163,,,42.0,40.0,Bouyer Franck,42,Bonjour,,20,2001,▼2
+29,101,,,40.0,42.0,Julich Bobby,43,Crédit Agricole,,20,2001,▼1
+33,141,,,39.0,44.0,Brochard Laurent,44,Jean Delatour,,20,2001,-
+30,161,,,38.0,45.0,Rous Didier,45,Bonjour,,20,2001,-
+26,175,,,36.0,52.0,Frutti Matteo,46,Lampre - Daikin,,20,2001,▲6
+33,42,,,35.0,46.0,Baldato Fabio,47,Fassa Bortolo,,20,2001,▼1
+28,151,,,35.0,47.0,Botero Santiago,48,Kelme - Costa Blanca,,20,2001,▼1
+25,91,,,35.0,48.0,Mancebo Francisco,49,Ibanesto.com,,20,2001,▼1
+30,203,,,33.0,64.0,Auger Ludovic,50,BigMat - Auber 93,,20,2001,▲14
+28,135,,,32.0,49.0,Jalabert Nicolas,51,CSC ProTeam - Tiscali,,20,2001,▼2
+29,68,,,32.0,50.0,Van Hyfte Paul,52,Lotto - Adecco,,20,2001,▼2
+27,56,,,32.0,68.0,Lotz Marc,53,Rabobank ProTeam,,20,2001,▲15
+30,97,,,32.0,60.0,Odriozola Jon,54,Ibanesto.com,,20,2001,▲6
+33,75,,,28.0,51.0,Lelli Massimiliano,55,Cofidis,,20,2001,▼4
+31,143,,,27.0,53.0,Bouvard Gilles,56,Jean Delatour,,20,2001,▼3
+22,164,,,26.0,54.0,Chavanel Sylvain,57,Bonjour,,20,2001,▼3
+27,2,,,25.0,55.0,Heras Roberto,58,US Postal Service,,20,2001,▼3
+27,49,,,25.0,56.0,Tosatto Matteo,59,Fassa Bortolo,,20,2001,▼3
+28,132,,,25.0,70.0,Blaudzun Michael,60,CSC ProTeam - Tiscali,,20,2001,▲10
+27,145,,,23.0,57.0,Halgand Patrice,61,Jean Delatour,,20,2001,▼4
+31,44,,,22.0,58.0,Belli Wladimir,62,Fassa Bortolo,,20,2001,▼4
+27,37,,,22.0,59.0,Pérez Luis,63,Festina,,20,2001,▼4
+28,29,,,21.0,61.0,Serrano Marcos Antonio,64,O.N.C.E. - Eroski,,20,2001,▼3
+32,148,,,21.0,62.0,Seigneur Eddy,65,Jean Delatour,,20,2001,▼3
+32,187,,,21.0,63.0,Mengin Christophe,66,La Française des Jeux,,20,2001,▼3
+33,84,,,20.0,65.0,Bramati Davide,67,Mapei - Quickstep,,20,2001,▼2
+30,201,,,20.0,66.0,Heulot Stephane,68,BigMat - Auber 93,,20,2001,▼2
+30,46,,,20.0,72.0,Loda Nicola,69,Fassa Bortolo,,20,2001,▲3
+26,129,,,19.0,67.0,Turpin Ludovic,70,AG2R Prévoyance,,20,2001,▼3
+25,69,,,19.0,69.0,Vermaut Steve,71,Lotto - Adecco,,20,2001,▼2
+28,198,,,17.0,,van Heeswijk Max,72,Domo - Farm Frites,,20,2001,-
+28,171,,,17.0,71.0,Serpellini Marco,73,Lampre - Daikin,,20,2001,▼2
+23,209,,,16.0,73.0,Talabardon Sébastien,74,BigMat - Auber 93,,20,2001,▼1
+28,81,,,16.0,74.0,Nardello Daniele,75,Mapei - Quickstep,,20,2001,▼1
+27,106,,,16.0,75.0,Morin Anthony,76,Crédit Agricole,,20,2001,▼1
+34,36,,,16.0,76.0,Lino Pascal,77,Festina,,20,2001,▼1
+32,73,,,15.0,77.0,Cuesta Iñigo,78,Cofidis,,20,2001,▼1
+28,113,,,15.0,78.0,Chaurreau Íñigo,79,Euskaltel - Euskadi,,20,2001,▼1
+33,179,,,15.0,79.0,Verstrepen Johan,80,Lampre - Daikin,,20,2001,▼1
+28,166,,,15.0,80.0,Perreaudeau Olivier,81,Bonjour,,20,2001,▼1
+25,172,,,14.0,82.0,Belohvoščiks Raivis,82,Lampre - Daikin,,20,2001,-
+30,156,,,14.0,81.0,Pascual Javier,83,Kelme - Costa Blanca,,20,2001,▼2
+25,202,,,14.0,83.0,Auger Guillaume,84,BigMat - Auber 93,,20,2001,▼1
+26,62,,,13.0,84.0,Aerts Mario,85,Lotto - Adecco,,20,2001,▼1
+28,199,,,13.0,85.0,Wadecki Piotr,86,Domo - Farm Frites,,20,2001,▼1
+29,184,,,13.0,86.0,Guesdon Frédéric,87,La Française des Jeux,,20,2001,▼1
+33,34,,,12.0,87.0,Chanteur Pascal,88,Festina,,20,2001,▼1
+27,121,,,12.0,88.0,Salmon Benoît,89,AG2R Prévoyance,,20,2001,▼1
+31,82,,,12.0,92.0,Bartoli Michele,90,Mapei - Quickstep,,20,2001,▲2
+25,26,,,11.0,89.0,Jaksche Jörg,91,O.N.C.E. - Eroski,,20,2001,▼2
+31,122,,,11.0,105.0,Agnolutto Christophe,92,AG2R Prévoyance,,20,2001,▲13
+28,194,,,11.0,90.0,Merckx Axel,93,Domo - Farm Frites,,20,2001,▼3
+31,144,,,10.0,91.0,Goubert Stéphane,94,Jean Delatour,,20,2001,▼3
+28,146,,,10.0,93.0,Oriol Christophe,95,Jean Delatour,,20,2001,▼2
+29,102,,,8.0,94.0,Bessy Frédéric,96,Crédit Agricole,,20,2001,▼2
+27,188,,,7.0,95.0,Schnider Daniel,97,La Française des Jeux,,20,2001,▼2
+27,103,,,7.0,96.0,Hinault Sébastien,98,Crédit Agricole,,20,2001,▼2
+25,32,,,6.0,97.0,Brard Florent,99,Festina,,20,2001,▼2
+29,99,,,6.0,98.0,Piepoli Leonardo,100,Ibanesto.com,,20,2001,▼2
+32,205,,,6.0,99.0,Gouvenou Thierry,101,BigMat - Auber 93,,20,2001,▼2
+35,3,,,6.0,100.0,Ekimov Viatcheslav,102,US Postal Service,,20,2001,▼2
+27,167,,,6.0,101.0,Renier Franck,103,Bonjour,,20,2001,▼2
+29,118,,,6.0,102.0,López de Munain Alberto,104,Euskaltel - Euskadi,,20,2001,▼2
+31,168,,,6.0,103.0,Robin Jean-Cyril,105,Bonjour,,20,2001,▼2
+27,158,,,5.0,104.0,Tauler Toni,106,Kelme - Costa Blanca,,20,2001,▼2
+29,162,,,3.0,106.0,Bénéteau Walter,107,Bonjour,,20,2001,▼1
+26,28,,,2.0,107.0,Sastre Carlos,108,O.N.C.E. - Eroski,,20,2001,▼1
+25,95,,,2.0,108.0,Jiménez Eladio,109,Ibanesto.com,,20,2001,▼1
+26,77,,,1.0,109.0,Moncoutié David,110,Cofidis,,20,2001,▼1
+28,115,,,1.0,110.0,Etxebarria Unai,111,Euskaltel - Euskadi,,20,2001,▼1

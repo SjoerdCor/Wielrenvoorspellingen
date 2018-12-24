@@ -1,0 +1,1032 @@
+Age,BIB,Pnt,Prev,Rider,Rnk,Team,stage,year,▼▲
+34.0,183.0,10.0,,Durand Jacky,1.0,La Française des Jeux,1,2001,
+28.0,146.0,6.0,,Oriol Christophe,2.0,Jean Delatour,1,2001,
+27.0,145.0,2.0,,Halgand Patrice,3.0,Jean Delatour,1,2001,
+34.0,183.0,10.0,1.0,Durand Jacky,1.0,La Française des Jeux,2,2001,-
+28.0,146.0,6.0,2.0,Oriol Christophe,2.0,Jean Delatour,2,2001,-
+27.0,145.0,2.0,3.0,Halgand Patrice,3.0,Jean Delatour,2,2001,-
+27.0,121.0,20.0,,Salmon Benoît,1.0,AG2R Prévoyance,3,2001,-
+28.0,135.0,10.0,,Jalabert Nicolas,2.0,CSC ProTeam - Tiscali,3,2001,-
+34.0,183.0,10.0,1.0,Durand Jacky,3.0,La Française des Jeux,3,2001,▼2
+28.0,29.0,7.0,,Serrano Marcos Antonio,4.0,O.N.C.E. - Eroski,3,2001,-
+33.0,141.0,7.0,,Brochard Laurent,5.0,Jean Delatour,3,2001,-
+29.0,184.0,7.0,,Guesdon Frédéric,6.0,La Française des Jeux,3,2001,-
+28.0,146.0,6.0,2.0,Oriol Christophe,7.0,Jean Delatour,3,2001,▼5
+27.0,158.0,5.0,,Tauler Toni,8.0,Kelme - Costa Blanca,3,2001,-
+27.0,74.0,5.0,,Kivilev Andrei,9.0,Cofidis,3,2001,-
+27.0,83.0,5.0,,Bettini Paolo,10.0,Mapei - Quickstep,3,2001,-
+27.0,17.0,4.0,,Vinokourov Alexandre,11.0,Team Telekom,3,2001,-
+27.0,145.0,3.0,3.0,Halgand Patrice,12.0,Jean Delatour,3,2001,▼9
+26.0,61.0,3.0,,Verbrugghe Rik,14.0,Lotto - Adecco,3,2001,-
+26.0,15.0,1.0,,Klöden Andreas,15.0,Team Telekom,3,2001,-
+27.0,145.0,28.0,12.0,Halgand Patrice,1.0,Jean Delatour,4,2001,▲11
+27.0,121.0,26.0,1.0,Salmon Benoît,2.0,AG2R Prévoyance,4,2001,▼1
+28.0,135.0,10.0,2.0,Jalabert Nicolas,3.0,CSC ProTeam - Tiscali,4,2001,▼1
+34.0,183.0,10.0,3.0,Durand Jacky,4.0,La Française des Jeux,4,2001,▼1
+29.0,51.0,8.0,,Boogerd Michael,5.0,Rabobank ProTeam,4,2001,-
+31.0,122.0,7.0,,Agnolutto Christophe,6.0,AG2R Prévoyance,4,2001,-
+28.0,29.0,7.0,4.0,Serrano Marcos Antonio,7.0,O.N.C.E. - Eroski,4,2001,▼3
+33.0,141.0,7.0,5.0,Brochard Laurent,8.0,Jean Delatour,4,2001,▼3
+29.0,184.0,7.0,6.0,Guesdon Frédéric,9.0,La Française des Jeux,4,2001,▼3
+28.0,146.0,6.0,7.0,Oriol Christophe,10.0,Jean Delatour,4,2001,▼3
+27.0,158.0,5.0,8.0,Tauler Toni,11.0,Kelme - Costa Blanca,4,2001,▼3
+27.0,74.0,5.0,9.0,Kivilev Andrei,12.0,Cofidis,4,2001,▼3
+27.0,83.0,5.0,10.0,Bettini Paolo,13.0,Mapei - Quickstep,4,2001,▼3
+27.0,17.0,4.0,11.0,Vinokourov Alexandre,14.0,Team Telekom,4,2001,▼3
+29.0,101.0,3.0,,Julich Bobby,15.0,Crédit Agricole,4,2001,-
+26.0,61.0,3.0,14.0,Verbrugghe Rik,17.0,Lotto - Adecco,4,2001,▼3
+28.0,152.0,2.0,,Cárdenas Félix Rafael,18.0,Kelme - Costa Blanca,4,2001,-
+32.0,187.0,1.0,,Mengin Christophe,19.0,La Française des Jeux,4,2001,-
+34.0,12.0,1.0,,Bolts Udo,20.0,Team Telekom,4,2001,-
+26.0,15.0,1.0,15.0,Klöden Andreas,21.0,Team Telekom,4,2001,▼6
+27.0,145.0,37.0,1.0,Halgand Patrice,1.0,Jean Delatour,6,2001,-
+33.0,141.0,32.0,8.0,Brochard Laurent,2.0,Jean Delatour,6,2001,▲6
+27.0,121.0,29.0,2.0,Salmon Benoît,3.0,AG2R Prévoyance,6,2001,▼1
+26.0,61.0,21.0,17.0,Verbrugghe Rik,4.0,Lotto - Adecco,6,2001,▲13
+29.0,102.0,12.0,,Bessy Frédéric,5.0,Crédit Agricole,6,2001,-
+31.0,82.0,11.0,,Bartoli Michele,6.0,Mapei - Quickstep,6,2001,-
+28.0,135.0,10.0,3.0,Jalabert Nicolas,7.0,CSC ProTeam - Tiscali,6,2001,▼4
+34.0,183.0,10.0,4.0,Durand Jacky,8.0,La Française des Jeux,6,2001,▼4
+27.0,74.0,8.0,12.0,Kivilev Andrei,9.0,Cofidis,6,2001,▲3
+29.0,51.0,8.0,5.0,Boogerd Michael,10.0,Rabobank ProTeam,6,2001,▼5
+28.0,194.0,8.0,,Merckx Axel,11.0,Domo - Farm Frites,6,2001,-
+31.0,122.0,7.0,6.0,Agnolutto Christophe,12.0,AG2R Prévoyance,6,2001,▼6
+28.0,29.0,7.0,7.0,Serrano Marcos Antonio,13.0,O.N.C.E. - Eroski,6,2001,▼6
+29.0,184.0,7.0,9.0,Guesdon Frédéric,14.0,La Française des Jeux,6,2001,▼5
+28.0,146.0,6.0,10.0,Oriol Christophe,15.0,Jean Delatour,6,2001,▼5
+27.0,111.0,6.0,,Etxebarria David,16.0,Euskaltel - Euskadi,6,2001,-
+27.0,158.0,5.0,11.0,Tauler Toni,17.0,Kelme - Costa Blanca,6,2001,▼6
+27.0,83.0,5.0,13.0,Bettini Paolo,18.0,Mapei - Quickstep,6,2001,▼5
+27.0,17.0,5.0,14.0,Vinokourov Alexandre,19.0,Team Telekom,6,2001,▼5
+29.0,101.0,3.0,15.0,Julich Bobby,20.0,Crédit Agricole,6,2001,▼5
+28.0,152.0,2.0,18.0,Cárdenas Félix Rafael,22.0,Kelme - Costa Blanca,6,2001,▼4
+31.0,13.0,2.0,,Guerini Giuseppe,23.0,Team Telekom,6,2001,-
+28.0,147.0,1.0,,Roux Laurent,24.0,Jean Delatour,6,2001,-
+32.0,187.0,1.0,19.0,Mengin Christophe,25.0,La Française des Jeux,6,2001,▼6
+34.0,12.0,1.0,20.0,Bolts Udo,26.0,Team Telekom,6,2001,▼6
+26.0,15.0,1.0,21.0,Klöden Andreas,27.0,Team Telekom,6,2001,▼6
+27.0,145.0,60.0,1.0,Halgand Patrice,1.0,Jean Delatour,7,2001,-
+32.0,131.0,50.0,,Jalabert Laurent,2.0,CSC ProTeam - Tiscali,7,2001,-
+33.0,141.0,32.0,2.0,Brochard Laurent,3.0,Jean Delatour,7,2001,▼1
+32.0,73.0,31.0,,Cuesta Iñigo,4.0,Cofidis,7,2001,-
+27.0,121.0,29.0,3.0,Salmon Benoît,5.0,AG2R Prévoyance,7,2001,▼2
+29.0,109.0,27.0,,Voigt Jens,6.0,Crédit Agricole,7,2001,-
+28.0,147.0,26.0,24.0,Roux Laurent,7.0,Jean Delatour,7,2001,▲17
+23.0,43.0,23.0,,Basso Ivan,8.0,Fassa Bortolo,7,2001,-
+26.0,61.0,21.0,4.0,Verbrugghe Rik,9.0,Lotto - Adecco,7,2001,▼5
+29.0,118.0,20.0,,López de Munain Alberto,10.0,Euskaltel - Euskadi,7,2001,-
+27.0,74.0,13.0,9.0,Kivilev Andrei,11.0,Cofidis,7,2001,▼2
+29.0,102.0,12.0,5.0,Bessy Frédéric,12.0,Crédit Agricole,7,2001,▼7
+31.0,82.0,11.0,6.0,Bartoli Michele,13.0,Mapei - Quickstep,7,2001,▼7
+28.0,135.0,10.0,7.0,Jalabert Nicolas,14.0,CSC ProTeam - Tiscali,7,2001,▼7
+34.0,183.0,10.0,8.0,Durand Jacky,15.0,La Française des Jeux,7,2001,▼7
+31.0,122.0,9.0,12.0,Agnolutto Christophe,16.0,AG2R Prévoyance,7,2001,▼4
+29.0,51.0,9.0,10.0,Boogerd Michael,17.0,Rabobank ProTeam,7,2001,▼7
+27.0,17.0,9.0,19.0,Vinokourov Alexandre,18.0,Team Telekom,7,2001,▲1
+28.0,194.0,8.0,11.0,Merckx Axel,19.0,Domo - Farm Frites,7,2001,▼8
+28.0,29.0,7.0,13.0,Serrano Marcos Antonio,20.0,O.N.C.E. - Eroski,7,2001,▼7
+29.0,184.0,7.0,14.0,Guesdon Frédéric,21.0,La Française des Jeux,7,2001,▼7
+28.0,146.0,6.0,15.0,Oriol Christophe,22.0,Jean Delatour,7,2001,▼7
+28.0,115.0,6.0,,Etxebarria Unai,23.0,Euskaltel - Euskadi,7,2001,-
+27.0,111.0,6.0,16.0,Etxebarria David,24.0,Euskaltel - Euskadi,7,2001,▼8
+26.0,72.0,5.0,,Atienza Daniel,25.0,Cofidis,7,2001,-
+27.0,158.0,5.0,17.0,Tauler Toni,26.0,Kelme - Costa Blanca,7,2001,▼9
+27.0,83.0,5.0,18.0,Bettini Paolo,27.0,Mapei - Quickstep,7,2001,▼9
+24.0,157.0,,,Sevilla Óscar,29.0,Kelme - Costa Blanca,7,2001,-
+25.0,69.0,,,Vermaut Steve,30.0,Lotto - Adecco,7,2001,-
+31.0,144.0,,,Goubert Stéphane,31.0,Jean Delatour,7,2001,-
+29.0,101.0,,20.0,Julich Bobby,32.0,Crédit Agricole,7,2001,▼12
+27.0,11.0,,,Ullrich Jan,33.0,Team Telekom,7,2001,-
+28.0,152.0,,22.0,Cárdenas Félix Rafael,34.0,Kelme - Costa Blanca,7,2001,▼12
+26.0,15.0,,27.0,Klöden Andreas,35.0,Team Telekom,7,2001,▼8
+31.0,13.0,,23.0,Guerini Giuseppe,36.0,Team Telekom,7,2001,▼13
+32.0,187.0,,25.0,Mengin Christophe,37.0,La Française des Jeux,7,2001,▼12
+34.0,12.0,,26.0,Bolts Udo,38.0,Team Telekom,7,2001,▼12
+28.0,94.0,,,Garcia José Vicente,39.0,Ibanesto.com,7,2001,-
+27.0,145.0,60.0,1.0,Halgand Patrice,1.0,Jean Delatour,8,2001,-
+32.0,131.0,50.0,2.0,Jalabert Laurent,2.0,CSC ProTeam - Tiscali,8,2001,-
+33.0,141.0,32.0,3.0,Brochard Laurent,3.0,Jean Delatour,8,2001,-
+32.0,73.0,31.0,4.0,Cuesta Iñigo,4.0,Cofidis,8,2001,-
+27.0,121.0,29.0,5.0,Salmon Benoît,5.0,AG2R Prévoyance,8,2001,-
+29.0,109.0,27.0,6.0,Voigt Jens,6.0,Crédit Agricole,8,2001,-
+28.0,147.0,26.0,7.0,Roux Laurent,7.0,Jean Delatour,8,2001,-
+27.0,74.0,23.0,11.0,Kivilev Andrei,8.0,Cofidis,8,2001,▲3
+26.0,61.0,21.0,9.0,Verbrugghe Rik,9.0,Lotto - Adecco,8,2001,-
+29.0,118.0,20.0,10.0,López de Munain Alberto,10.0,Euskaltel - Euskadi,8,2001,-
+29.0,102.0,12.0,12.0,Bessy Frédéric,11.0,Crédit Agricole,8,2001,▲1
+31.0,82.0,11.0,13.0,Bartoli Michele,12.0,Mapei - Quickstep,8,2001,▲1
+26.0,129.0,10.0,,Turpin Ludovic,13.0,AG2R Prévoyance,8,2001,-
+28.0,135.0,10.0,14.0,Jalabert Nicolas,14.0,CSC ProTeam - Tiscali,8,2001,-
+34.0,183.0,10.0,15.0,Durand Jacky,15.0,La Française des Jeux,8,2001,-
+31.0,122.0,9.0,16.0,Agnolutto Christophe,16.0,AG2R Prévoyance,8,2001,-
+29.0,51.0,9.0,17.0,Boogerd Michael,17.0,Rabobank ProTeam,8,2001,-
+27.0,17.0,9.0,18.0,Vinokourov Alexandre,18.0,Team Telekom,8,2001,-
+28.0,194.0,8.0,19.0,Merckx Axel,19.0,Domo - Farm Frites,8,2001,-
+28.0,29.0,7.0,20.0,Serrano Marcos Antonio,20.0,O.N.C.E. - Eroski,8,2001,-
+29.0,184.0,7.0,21.0,Guesdon Frédéric,21.0,La Française des Jeux,8,2001,-
+28.0,146.0,6.0,22.0,Oriol Christophe,22.0,Jean Delatour,8,2001,-
+28.0,115.0,6.0,23.0,Etxebarria Unai,23.0,Euskaltel - Euskadi,8,2001,-
+27.0,111.0,6.0,24.0,Etxebarria David,24.0,Euskaltel - Euskadi,8,2001,-
+36.0,174.0,5.0,,Dierckxsens Ludo,25.0,Lampre - Daikin,8,2001,-
+27.0,107.0,5.0,,O'Grady Stuart,26.0,Crédit Agricole,8,2001,-
+26.0,72.0,5.0,25.0,Atienza Daniel,27.0,Cofidis,8,2001,▼2
+27.0,158.0,5.0,26.0,Tauler Toni,28.0,Kelme - Costa Blanca,8,2001,▼2
+27.0,83.0,5.0,27.0,Bettini Paolo,29.0,Mapei - Quickstep,8,2001,▼2
+24.0,157.0,4.0,29.0,Sevilla Óscar,30.0,Kelme - Costa Blanca,8,2001,▼1
+25.0,69.0,4.0,30.0,Vermaut Steve,32.0,Lotto - Adecco,8,2001,▼2
+33.0,34.0,3.0,,Chanteur Pascal,33.0,Festina,8,2001,-
+31.0,144.0,3.0,31.0,Goubert Stéphane,34.0,Jean Delatour,8,2001,▼3
+29.0,101.0,3.0,32.0,Julich Bobby,35.0,Crédit Agricole,8,2001,▼3
+27.0,11.0,3.0,33.0,Ullrich Jan,36.0,Team Telekom,8,2001,▼3
+28.0,152.0,2.0,34.0,Cárdenas Félix Rafael,37.0,Kelme - Costa Blanca,8,2001,▼3
+26.0,15.0,2.0,35.0,Klöden Andreas,38.0,Team Telekom,8,2001,▼3
+31.0,13.0,2.0,36.0,Guerini Giuseppe,39.0,Team Telekom,8,2001,▼3
+32.0,59.0,1.0,,Wauters Marc,40.0,Rabobank ProTeam,8,2001,-
+32.0,187.0,1.0,37.0,Mengin Christophe,41.0,La Française des Jeux,8,2001,▼4
+32.0,169.0,1.0,,Simon François,42.0,Bonjour,8,2001,-
+34.0,12.0,1.0,38.0,Bolts Udo,43.0,Team Telekom,8,2001,▼5
+28.0,94.0,1.0,39.0,Garcia José Vicente,44.0,Ibanesto.com,8,2001,▼5
+27.0,145.0,66.0,1.0,Halgand Patrice,1.0,Jean Delatour,9,2001,-
+32.0,131.0,50.0,2.0,Jalabert Laurent,2.0,CSC ProTeam - Tiscali,9,2001,-
+33.0,141.0,33.0,3.0,Brochard Laurent,3.0,Jean Delatour,9,2001,-
+32.0,73.0,31.0,4.0,Cuesta Iñigo,4.0,Cofidis,9,2001,-
+27.0,121.0,29.0,5.0,Salmon Benoît,5.0,AG2R Prévoyance,9,2001,-
+27.0,111.0,27.0,24.0,Etxebarria David,6.0,Euskaltel - Euskadi,9,2001,▲18
+29.0,109.0,27.0,6.0,Voigt Jens,7.0,Crédit Agricole,9,2001,▼1
+28.0,147.0,26.0,7.0,Roux Laurent,8.0,Jean Delatour,9,2001,▼1
+27.0,74.0,23.0,8.0,Kivilev Andrei,9.0,Cofidis,9,2001,▼1
+26.0,61.0,21.0,9.0,Verbrugghe Rik,10.0,Lotto - Adecco,9,2001,▼1
+29.0,118.0,20.0,10.0,López de Munain Alberto,11.0,Euskaltel - Euskadi,9,2001,▼1
+25.0,186.0,19.0,,McGee Bradley,12.0,La Française des Jeux,9,2001,-
+26.0,45.0,13.0,,Ivanov Serguei,13.0,Fassa Bortolo,9,2001,-
+29.0,102.0,12.0,11.0,Bessy Frédéric,14.0,Crédit Agricole,9,2001,▼3
+31.0,82.0,11.0,12.0,Bartoli Michele,15.0,Mapei - Quickstep,9,2001,▼3
+26.0,129.0,10.0,13.0,Turpin Ludovic,16.0,AG2R Prévoyance,9,2001,▼3
+28.0,135.0,10.0,14.0,Jalabert Nicolas,17.0,CSC ProTeam - Tiscali,9,2001,▼3
+34.0,183.0,10.0,15.0,Durand Jacky,18.0,La Française des Jeux,9,2001,▼3
+31.0,122.0,9.0,16.0,Agnolutto Christophe,19.0,AG2R Prévoyance,9,2001,▼3
+29.0,51.0,9.0,17.0,Boogerd Michael,20.0,Rabobank ProTeam,9,2001,▼3
+27.0,17.0,9.0,18.0,Vinokourov Alexandre,21.0,Team Telekom,9,2001,▼3
+28.0,194.0,8.0,19.0,Merckx Axel,22.0,Domo - Farm Frites,9,2001,▼3
+28.0,29.0,7.0,20.0,Serrano Marcos Antonio,23.0,O.N.C.E. - Eroski,9,2001,▼3
+29.0,184.0,7.0,21.0,Guesdon Frédéric,24.0,La Française des Jeux,9,2001,▼3
+28.0,146.0,6.0,22.0,Oriol Christophe,25.0,Jean Delatour,9,2001,▼3
+28.0,115.0,6.0,23.0,Etxebarria Unai,26.0,Euskaltel - Euskadi,9,2001,▼3
+36.0,174.0,5.0,25.0,Dierckxsens Ludo,27.0,Lampre - Daikin,9,2001,▼2
+27.0,107.0,5.0,26.0,O'Grady Stuart,28.0,Crédit Agricole,9,2001,▼2
+26.0,72.0,5.0,27.0,Atienza Daniel,29.0,Cofidis,9,2001,▼2
+27.0,158.0,5.0,28.0,Tauler Toni,30.0,Kelme - Costa Blanca,9,2001,▼2
+27.0,83.0,5.0,29.0,Bettini Paolo,31.0,Mapei - Quickstep,9,2001,▼2
+31.0,144.0,4.0,34.0,Goubert Stéphane,33.0,Jean Delatour,9,2001,▲1
+24.0,157.0,4.0,30.0,Sevilla Óscar,34.0,Kelme - Costa Blanca,9,2001,▼4
+25.0,69.0,4.0,32.0,Vermaut Steve,35.0,Lotto - Adecco,9,2001,▼3
+33.0,34.0,3.0,33.0,Chanteur Pascal,36.0,Festina,9,2001,▼3
+29.0,101.0,3.0,35.0,Julich Bobby,37.0,Crédit Agricole,9,2001,▼2
+27.0,11.0,3.0,36.0,Ullrich Jan,38.0,Team Telekom,9,2001,▼2
+28.0,152.0,2.0,37.0,Cárdenas Félix Rafael,39.0,Kelme - Costa Blanca,9,2001,▼2
+26.0,15.0,2.0,38.0,Klöden Andreas,40.0,Team Telekom,9,2001,▼2
+31.0,13.0,2.0,39.0,Guerini Giuseppe,41.0,Team Telekom,9,2001,▼2
+32.0,59.0,1.0,40.0,Wauters Marc,42.0,Rabobank ProTeam,9,2001,▼2
+32.0,187.0,1.0,41.0,Mengin Christophe,43.0,La Française des Jeux,9,2001,▼2
+32.0,169.0,1.0,42.0,Simon François,44.0,Bonjour,9,2001,▼2
+34.0,12.0,1.0,43.0,Bolts Udo,45.0,Team Telekom,9,2001,▼2
+28.0,94.0,1.0,44.0,Garcia José Vicente,46.0,Ibanesto.com,9,2001,▼2
+28.0,147.0,127.0,8.0,Roux Laurent,1.0,Jean Delatour,10,2001,▲7
+32.0,131.0,106.0,2.0,Jalabert Laurent,2.0,CSC ProTeam - Tiscali,10,2001,-
+25.0,95.0,80.0,,Jiménez Eladio,3.0,Ibanesto.com,10,2001,-
+27.0,145.0,69.0,1.0,Halgand Patrice,4.0,Jean Delatour,10,2001,▼3
+24.0,157.0,64.0,34.0,Sevilla Óscar,5.0,Kelme - Costa Blanca,10,2001,▲29
+27.0,11.0,62.0,38.0,Ullrich Jan,6.0,Team Telekom,10,2001,▲32
+29.0,51.0,53.0,20.0,Boogerd Michael,7.0,Rabobank ProTeam,10,2001,▲13
+28.0,86.0,48.0,,Garzelli Stefano,9.0,Mapei - Quickstep,10,2001,-
+27.0,158.0,42.0,30.0,Tauler Toni,10.0,Kelme - Costa Blanca,10,2001,▲20
+27.0,111.0,41.0,6.0,Etxebarria David,11.0,Euskaltel - Euskadi,10,2001,▼5
+27.0,21.0,40.0,,Beloki Joseba,12.0,O.N.C.E. - Eroski,10,2001,-
+30.0,31.0,38.0,,Moreau Christophe,13.0,Festina,10,2001,-
+33.0,141.0,34.0,3.0,Brochard Laurent,14.0,Jean Delatour,10,2001,▼11
+32.0,73.0,31.0,4.0,Cuesta Iñigo,15.0,Cofidis,10,2001,▼11
+27.0,121.0,29.0,5.0,Salmon Benoît,16.0,AG2R Prévoyance,10,2001,▼11
+27.0,74.0,29.0,9.0,Kivilev Andrei,17.0,Cofidis,10,2001,▼8
+29.0,109.0,27.0,7.0,Voigt Jens,18.0,Crédit Agricole,10,2001,▼11
+26.0,61.0,21.0,10.0,Verbrugghe Rik,19.0,Lotto - Adecco,10,2001,▼9
+29.0,118.0,20.0,11.0,López de Munain Alberto,20.0,Euskaltel - Euskadi,10,2001,▼9
+25.0,186.0,19.0,12.0,McGee Bradley,21.0,La Française des Jeux,10,2001,▼9
+25.0,91.0,18.0,,Mancebo Francisco,22.0,Ibanesto.com,10,2001,-
+30.0,44.0,16.0,,Belli Wladimir,23.0,Fassa Bortolo,10,2001,-
+26.0,72.0,15.0,29.0,Atienza Daniel,24.0,Cofidis,10,2001,▲5
+27.0,24.0,14.0,,González de Galdeano Igor,25.0,O.N.C.E. - Eroski,10,2001,-
+26.0,45.0,13.0,13.0,Ivanov Serguei,26.0,Fassa Bortolo,10,2001,▼13
+29.0,102.0,12.0,14.0,Bessy Frédéric,27.0,Crédit Agricole,10,2001,▼13
+32.0,117.0,12.0,,Laiseka Roberto,28.0,Euskaltel - Euskadi,10,2001,-
+29.0,67.0,12.0,,van de Wouwer Kurt,29.0,Lotto - Adecco,10,2001,-
+31.0,82.0,11.0,15.0,Bartoli Michele,30.0,Mapei - Quickstep,10,2001,▼15
+26.0,129.0,10.0,16.0,Turpin Ludovic,31.0,AG2R Prévoyance,10,2001,▼15
+28.0,135.0,10.0,17.0,Jalabert Nicolas,32.0,CSC ProTeam - Tiscali,10,2001,▼15
+34.0,183.0,10.0,18.0,Durand Jacky,33.0,La Française des Jeux,10,2001,▼15
+29.0,99.0,10.0,,Piepoli Leonardo,34.0,Ibanesto.com,10,2001,-
+31.0,122.0,9.0,19.0,Agnolutto Christophe,35.0,AG2R Prévoyance,10,2001,▼16
+27.0,17.0,9.0,21.0,Vinokourov Alexandre,36.0,Team Telekom,10,2001,▼15
+28.0,194.0,8.0,22.0,Merckx Axel,37.0,Domo - Farm Frites,10,2001,▼15
+26.0,15.0,8.0,40.0,Klöden Andreas,38.0,Team Telekom,10,2001,▲2
+28.0,113.0,8.0,,Chaurreau Íñigo,39.0,Euskaltel - Euskadi,10,2001,-
+28.0,29.0,7.0,23.0,Serrano Marcos Antonio,40.0,O.N.C.E. - Eroski,10,2001,▼17
+29.0,184.0,7.0,24.0,Guesdon Frédéric,41.0,La Française des Jeux,10,2001,▼17
+28.0,146.0,6.0,25.0,Oriol Christophe,42.0,Jean Delatour,10,2001,▼17
+28.0,115.0,6.0,26.0,Etxebarria Unai,43.0,Euskaltel - Euskadi,10,2001,▼17
+28.0,151.0,6.0,,Botero Santiago,44.0,Kelme - Costa Blanca,10,2001,-
+36.0,174.0,5.0,27.0,Dierckxsens Ludo,45.0,Lampre - Daikin,10,2001,▼18
+27.0,107.0,5.0,28.0,O'Grady Stuart,46.0,Crédit Agricole,10,2001,▼18
+27.0,83.0,5.0,31.0,Bettini Paolo,47.0,Mapei - Quickstep,10,2001,▼16
+30.0,161.0,5.0,,Rous Didier,48.0,Bonjour,10,2001,-
+31.0,144.0,4.0,33.0,Goubert Stéphane,49.0,Jean Delatour,10,2001,▼16
+25.0,69.0,4.0,35.0,Vermaut Steve,50.0,Lotto - Adecco,10,2001,▼15
+28.0,108.0,4.0,,Vaughters Jonathan,51.0,Crédit Agricole,10,2001,-
+33.0,34.0,3.0,36.0,Chanteur Pascal,52.0,Festina,10,2001,▼16
+29.0,101.0,3.0,37.0,Julich Bobby,53.0,Crédit Agricole,10,2001,▼16
+28.0,152.0,2.0,39.0,Cárdenas Félix Rafael,54.0,Kelme - Costa Blanca,10,2001,▼15
+31.0,13.0,2.0,41.0,Guerini Giuseppe,55.0,Team Telekom,10,2001,▼14
+25.0,181.0,2.0,,Montgomery Sven,56.0,La Française des Jeux,10,2001,-
+32.0,59.0,1.0,42.0,Wauters Marc,57.0,Rabobank ProTeam,10,2001,▼15
+32.0,187.0,1.0,43.0,Mengin Christophe,58.0,La Française des Jeux,10,2001,▼15
+32.0,169.0,1.0,44.0,Simon François,59.0,Bonjour,10,2001,▼15
+34.0,12.0,1.0,45.0,Bolts Udo,60.0,Team Telekom,10,2001,▼15
+28.0,94.0,1.0,46.0,Garcia José Vicente,61.0,Ibanesto.com,10,2001,▼15
+27.0,2.0,1.0,,Heras Roberto,62.0,US Postal Service,10,2001,-
+28.0,16.0,1.0,,Livingston Kevin,63.0,Team Telekom,10,2001,-
+28.0,147.0,127.0,1.0,Roux Laurent,1.0,Jean Delatour,11,2001,-
+32.0,131.0,106.0,2.0,Jalabert Laurent,2.0,CSC ProTeam - Tiscali,11,2001,-
+27.0,11.0,92.0,6.0,Ullrich Jan,3.0,Team Telekom,11,2001,▲3
+24.0,157.0,86.0,5.0,Sevilla Óscar,5.0,Kelme - Costa Blanca,11,2001,-
+25.0,95.0,80.0,3.0,Jiménez Eladio,6.0,Ibanesto.com,11,2001,▼3
+27.0,145.0,69.0,4.0,Halgand Patrice,7.0,Jean Delatour,11,2001,▼3
+27.0,21.0,66.0,12.0,Beloki Joseba,8.0,O.N.C.E. - Eroski,11,2001,▲4
+28.0,86.0,66.0,9.0,Garzelli Stefano,9.0,Mapei - Quickstep,11,2001,-
+29.0,51.0,53.0,7.0,Boogerd Michael,10.0,Rabobank ProTeam,11,2001,▼3
+30.0,31.0,52.0,13.0,Moreau Christophe,11.0,Festina,11,2001,▲2
+32.0,117.0,47.0,28.0,Laiseka Roberto,12.0,Euskaltel - Euskadi,11,2001,▲16
+27.0,158.0,42.0,10.0,Tauler Toni,13.0,Kelme - Costa Blanca,11,2001,▼3
+27.0,111.0,41.0,11.0,Etxebarria David,14.0,Euskaltel - Euskadi,11,2001,▼3
+32.0,73.0,37.0,15.0,Cuesta Iñigo,15.0,Cofidis,11,2001,-
+33.0,141.0,34.0,14.0,Brochard Laurent,16.0,Jean Delatour,11,2001,▼2
+27.0,121.0,29.0,16.0,Salmon Benoît,17.0,AG2R Prévoyance,11,2001,▼1
+27.0,74.0,29.0,17.0,Kivilev Andrei,18.0,Cofidis,11,2001,▼1
+29.0,109.0,27.0,18.0,Voigt Jens,19.0,Crédit Agricole,11,2001,▼1
+27.0,24.0,26.0,25.0,González de Galdeano Igor,20.0,O.N.C.E. - Eroski,11,2001,▲5
+26.0,61.0,21.0,19.0,Verbrugghe Rik,21.0,Lotto - Adecco,11,2001,▼2
+29.0,118.0,20.0,20.0,López de Munain Alberto,22.0,Euskaltel - Euskadi,11,2001,▼2
+25.0,186.0,19.0,21.0,McGee Bradley,23.0,La Française des Jeux,11,2001,▼2
+25.0,91.0,18.0,22.0,Mancebo Francisco,24.0,Ibanesto.com,11,2001,▼2
+25.0,181.0,18.0,56.0,Montgomery Sven,25.0,La Française des Jeux,11,2001,▲31
+30.0,44.0,16.0,23.0,Belli Wladimir,26.0,Fassa Bortolo,11,2001,▼3
+28.0,151.0,16.0,44.0,Botero Santiago,27.0,Kelme - Costa Blanca,11,2001,▲17
+26.0,72.0,15.0,24.0,Atienza Daniel,28.0,Cofidis,11,2001,▼4
+26.0,45.0,13.0,26.0,Ivanov Serguei,29.0,Fassa Bortolo,11,2001,▼3
+29.0,102.0,12.0,27.0,Bessy Frédéric,30.0,Crédit Agricole,11,2001,▼3
+29.0,67.0,12.0,29.0,van de Wouwer Kurt,31.0,Lotto - Adecco,11,2001,▼2
+31.0,82.0,11.0,30.0,Bartoli Michele,32.0,Mapei - Quickstep,11,2001,▼2
+26.0,129.0,10.0,31.0,Turpin Ludovic,33.0,AG2R Prévoyance,11,2001,▼2
+28.0,135.0,10.0,32.0,Jalabert Nicolas,34.0,CSC ProTeam - Tiscali,11,2001,▼2
+34.0,183.0,10.0,33.0,Durand Jacky,35.0,La Française des Jeux,11,2001,▼2
+28.0,152.0,10.0,54.0,Cárdenas Félix Rafael,36.0,Kelme - Costa Blanca,11,2001,▲18
+29.0,99.0,10.0,34.0,Piepoli Leonardo,37.0,Ibanesto.com,11,2001,▼3
+28.0,113.0,10.0,39.0,Chaurreau Íñigo,38.0,Euskaltel - Euskadi,11,2001,▲1
+31.0,122.0,9.0,35.0,Agnolutto Christophe,39.0,AG2R Prévoyance,11,2001,▼4
+27.0,17.0,9.0,36.0,Vinokourov Alexandre,40.0,Team Telekom,11,2001,▼4
+28.0,194.0,8.0,37.0,Merckx Axel,41.0,Domo - Farm Frites,11,2001,▼4
+26.0,15.0,8.0,38.0,Klöden Andreas,42.0,Team Telekom,11,2001,▼4
+28.0,29.0,7.0,40.0,Serrano Marcos Antonio,43.0,O.N.C.E. - Eroski,11,2001,▼3
+29.0,184.0,7.0,41.0,Guesdon Frédéric,44.0,La Française des Jeux,11,2001,▼3
+28.0,146.0,6.0,42.0,Oriol Christophe,45.0,Jean Delatour,11,2001,▼3
+28.0,115.0,6.0,43.0,Etxebarria Unai,46.0,Euskaltel - Euskadi,11,2001,▼3
+30.0,161.0,6.0,48.0,Rous Didier,47.0,Bonjour,11,2001,▲1
+36.0,174.0,5.0,45.0,Dierckxsens Ludo,48.0,Lampre - Daikin,11,2001,▼3
+27.0,107.0,5.0,46.0,O'Grady Stuart,49.0,Crédit Agricole,11,2001,▼3
+27.0,83.0,5.0,47.0,Bettini Paolo,50.0,Mapei - Quickstep,11,2001,▼3
+31.0,144.0,4.0,49.0,Goubert Stéphane,51.0,Jean Delatour,11,2001,▼2
+25.0,69.0,4.0,50.0,Vermaut Steve,52.0,Lotto - Adecco,11,2001,▼2
+26.0,28.0,4.0,,Sastre Carlos,53.0,O.N.C.E. - Eroski,11,2001,-
+28.0,108.0,4.0,51.0,Vaughters Jonathan,54.0,Crédit Agricole,11,2001,▼3
+33.0,34.0,3.0,52.0,Chanteur Pascal,55.0,Festina,11,2001,▼3
+29.0,101.0,3.0,53.0,Julich Bobby,56.0,Crédit Agricole,11,2001,▼3
+31.0,13.0,2.0,55.0,Guerini Giuseppe,57.0,Team Telekom,11,2001,▼2
+32.0,59.0,1.0,57.0,Wauters Marc,58.0,Rabobank ProTeam,11,2001,▼1
+32.0,187.0,1.0,58.0,Mengin Christophe,59.0,La Française des Jeux,11,2001,▼1
+32.0,169.0,1.0,59.0,Simon François,60.0,Bonjour,11,2001,▼1
+34.0,12.0,1.0,60.0,Bolts Udo,61.0,Team Telekom,11,2001,▼1
+28.0,94.0,1.0,61.0,Garcia José Vicente,62.0,Ibanesto.com,11,2001,▼1
+27.0,2.0,1.0,62.0,Heras Roberto,63.0,US Postal Service,11,2001,▼1
+28.0,16.0,1.0,63.0,Livingston Kevin,64.0,Team Telekom,11,2001,▼1
+28.0,147.0,157.0,1.0,Roux Laurent,1.0,Jean Delatour,12,2001,-
+27.0,11.0,110.0,3.0,Ullrich Jan,3.0,Team Telekom,12,2001,-
+32.0,131.0,106.0,2.0,Jalabert Laurent,4.0,CSC ProTeam - Tiscali,12,2001,▼2
+27.0,145.0,103.0,7.0,Halgand Patrice,5.0,Jean Delatour,12,2001,▲2
+24.0,157.0,98.0,5.0,Sevilla Óscar,6.0,Kelme - Costa Blanca,12,2001,▼1
+27.0,111.0,89.0,14.0,Etxebarria David,7.0,Euskaltel - Euskadi,12,2001,▲7
+25.0,95.0,80.0,6.0,Jiménez Eladio,8.0,Ibanesto.com,12,2001,▼2
+32.0,117.0,79.0,12.0,Laiseka Roberto,9.0,Euskaltel - Euskadi,12,2001,▲3
+27.0,21.0,76.0,8.0,Beloki Joseba,10.0,O.N.C.E. - Eroski,12,2001,▼2
+28.0,86.0,68.0,9.0,Garzelli Stefano,11.0,Mapei - Quickstep,12,2001,▼2
+28.0,152.0,66.0,36.0,Cárdenas Félix Rafael,12.0,Kelme - Costa Blanca,12,2001,▲24
+29.0,51.0,59.0,10.0,Boogerd Michael,13.0,Rabobank ProTeam,12,2001,▼3
+27.0,83.0,53.0,50.0,Bettini Paolo,14.0,Mapei - Quickstep,12,2001,▲36
+27.0,158.0,42.0,13.0,Tauler Toni,15.0,Kelme - Costa Blanca,12,2001,▼2
+28.0,151.0,42.0,27.0,Botero Santiago,16.0,Kelme - Costa Blanca,12,2001,▲11
+32.0,73.0,37.0,15.0,Cuesta Iñigo,17.0,Cofidis,12,2001,▼2
+26.0,72.0,37.0,28.0,Atienza Daniel,18.0,Cofidis,12,2001,▲10
+33.0,141.0,34.0,16.0,Brochard Laurent,19.0,Jean Delatour,12,2001,▼3
+27.0,17.0,31.0,40.0,Vinokourov Alexandre,20.0,Team Telekom,12,2001,▲20
+27.0,121.0,29.0,17.0,Salmon Benoît,21.0,AG2R Prévoyance,12,2001,▼4
+27.0,74.0,29.0,18.0,Kivilev Andrei,22.0,Cofidis,12,2001,▼4
+29.0,109.0,27.0,19.0,Voigt Jens,23.0,Crédit Agricole,12,2001,▼4
+27.0,24.0,26.0,20.0,González de Galdeano Igor,24.0,O.N.C.E. - Eroski,12,2001,▼4
+27.0,107.0,22.0,49.0,O'Grady Stuart,25.0,Crédit Agricole,12,2001,▲24
+26.0,61.0,21.0,21.0,Verbrugghe Rik,26.0,Lotto - Adecco,12,2001,▼5
+29.0,118.0,20.0,22.0,López de Munain Alberto,27.0,Euskaltel - Euskadi,12,2001,▼5
+25.0,186.0,19.0,23.0,McGee Bradley,28.0,La Française des Jeux,12,2001,▼5
+25.0,91.0,18.0,24.0,Mancebo Francisco,29.0,Ibanesto.com,12,2001,▼5
+25.0,181.0,18.0,25.0,Montgomery Sven,30.0,La Française des Jeux,12,2001,▼5
+30.0,44.0,16.0,26.0,Belli Wladimir,31.0,Fassa Bortolo,12,2001,▼5
+31.0,82.0,15.0,32.0,Bartoli Michele,32.0,Mapei - Quickstep,12,2001,-
+29.0,102.0,12.0,30.0,Bessy Frédéric,33.0,Crédit Agricole,12,2001,▼3
+28.0,113.0,11.0,38.0,Chaurreau Íñigo,34.0,Euskaltel - Euskadi,12,2001,▲4
+26.0,129.0,10.0,33.0,Turpin Ludovic,35.0,AG2R Prévoyance,12,2001,▼2
+28.0,135.0,10.0,34.0,Jalabert Nicolas,36.0,CSC ProTeam - Tiscali,12,2001,▼2
+34.0,183.0,10.0,35.0,Durand Jacky,37.0,La Française des Jeux,12,2001,▼2
+30.0,93.0,10.0,,Brożyna Tomasz,38.0,Ibanesto.com,12,2001,-
+29.0,99.0,10.0,37.0,Piepoli Leonardo,39.0,Ibanesto.com,12,2001,▼2
+31.0,122.0,9.0,39.0,Agnolutto Christophe,40.0,AG2R Prévoyance,12,2001,▼1
+28.0,194.0,8.0,41.0,Merckx Axel,41.0,Domo - Farm Frites,12,2001,-
+26.0,15.0,8.0,42.0,Klöden Andreas,42.0,Team Telekom,12,2001,-
+28.0,29.0,7.0,43.0,Serrano Marcos Antonio,43.0,O.N.C.E. - Eroski,12,2001,-
+29.0,184.0,7.0,44.0,Guesdon Frédéric,44.0,La Française des Jeux,12,2001,-
+28.0,146.0,6.0,45.0,Oriol Christophe,45.0,Jean Delatour,12,2001,-
+29.0,101.0,6.0,56.0,Julich Bobby,46.0,Crédit Agricole,12,2001,▲10
+28.0,115.0,6.0,46.0,Etxebarria Unai,47.0,Euskaltel - Euskadi,12,2001,▼1
+26.0,28.0,6.0,53.0,Sastre Carlos,48.0,O.N.C.E. - Eroski,12,2001,▲5
+30.0,161.0,6.0,47.0,Rous Didier,49.0,Bonjour,12,2001,▼2
+36.0,174.0,5.0,48.0,Dierckxsens Ludo,50.0,Lampre - Daikin,12,2001,▼2
+31.0,144.0,4.0,51.0,Goubert Stéphane,51.0,Jean Delatour,12,2001,-
+30.0,97.0,4.0,,Odriozola Jon,52.0,Ibanesto.com,12,2001,-
+25.0,69.0,4.0,52.0,Vermaut Steve,53.0,Lotto - Adecco,12,2001,▼1
+28.0,108.0,4.0,54.0,Vaughters Jonathan,54.0,Crédit Agricole,12,2001,-
+27.0,126.0,3.0,,Demarbaix Sebastien,55.0,AG2R Prévoyance,12,2001,-
+33.0,34.0,3.0,55.0,Chanteur Pascal,56.0,Festina,12,2001,▼1
+30.0,156.0,2.0,,Pascual Javier,57.0,Kelme - Costa Blanca,12,2001,-
+31.0,13.0,2.0,57.0,Guerini Giuseppe,58.0,Team Telekom,12,2001,▼1
+32.0,59.0,1.0,58.0,Wauters Marc,59.0,Rabobank ProTeam,12,2001,▼1
+32.0,187.0,1.0,59.0,Mengin Christophe,60.0,La Française des Jeux,12,2001,▼1
+22.0,25.0,1.0,,Gutiérrez José Iván,61.0,O.N.C.E. - Eroski,12,2001,-
+32.0,169.0,1.0,60.0,Simon François,62.0,Bonjour,12,2001,▼2
+34.0,12.0,1.0,61.0,Bolts Udo,63.0,Team Telekom,12,2001,▼2
+28.0,94.0,1.0,62.0,Garcia José Vicente,64.0,Ibanesto.com,12,2001,▼2
+27.0,2.0,1.0,63.0,Heras Roberto,65.0,US Postal Service,12,2001,▼2
+28.0,16.0,1.0,64.0,Livingston Kevin,66.0,Team Telekom,12,2001,▼2
+32.0,131.0,257.0,4.0,Jalabert Laurent,1.0,CSC ProTeam - Tiscali,13,2001,▲3
+28.0,147.0,195.0,1.0,Roux Laurent,2.0,Jean Delatour,13,2001,▼1
+27.0,11.0,171.0,3.0,Ullrich Jan,3.0,Team Telekom,13,2001,-
+28.0,86.0,142.0,11.0,Garzelli Stefano,5.0,Mapei - Quickstep,13,2001,▲6
+27.0,21.0,125.0,10.0,Beloki Joseba,6.0,O.N.C.E. - Eroski,13,2001,▲4
+27.0,17.0,119.0,20.0,Vinokourov Alexandre,7.0,Team Telekom,13,2001,▲13
+24.0,157.0,104.0,6.0,Sevilla Óscar,8.0,Kelme - Costa Blanca,13,2001,▼2
+27.0,145.0,103.0,5.0,Halgand Patrice,9.0,Jean Delatour,13,2001,▼4
+32.0,117.0,91.0,9.0,Laiseka Roberto,10.0,Euskaltel - Euskadi,13,2001,▼1
+27.0,111.0,89.0,7.0,Etxebarria David,11.0,Euskaltel - Euskadi,13,2001,▼4
+25.0,95.0,80.0,8.0,Jiménez Eladio,12.0,Ibanesto.com,13,2001,▼4
+28.0,151.0,75.0,16.0,Botero Santiago,13.0,Kelme - Costa Blanca,13,2001,▲3
+30.0,93.0,72.0,38.0,Brożyna Tomasz,14.0,Ibanesto.com,13,2001,▲24
+28.0,152.0,66.0,12.0,Cárdenas Félix Rafael,15.0,Kelme - Costa Blanca,13,2001,▼3
+25.0,69.0,66.0,53.0,Vermaut Steve,16.0,Lotto - Adecco,13,2001,▲37
+29.0,118.0,60.0,27.0,López de Munain Alberto,17.0,Euskaltel - Euskadi,13,2001,▲10
+27.0,158.0,59.0,15.0,Tauler Toni,18.0,Kelme - Costa Blanca,13,2001,▼3
+29.0,51.0,59.0,13.0,Boogerd Michael,19.0,Rabobank ProTeam,13,2001,▼6
+27.0,83.0,53.0,14.0,Bettini Paolo,20.0,Mapei - Quickstep,13,2001,▼6
+27.0,74.0,51.0,22.0,Kivilev Andrei,21.0,Cofidis,13,2001,▲1
+27.0,24.0,48.0,24.0,González de Galdeano Igor,22.0,O.N.C.E. - Eroski,13,2001,▲2
+32.0,73.0,37.0,17.0,Cuesta Iñigo,23.0,Cofidis,13,2001,▼6
+26.0,72.0,37.0,18.0,Atienza Daniel,24.0,Cofidis,13,2001,▼6
+27.0,2.0,37.0,65.0,Heras Roberto,25.0,US Postal Service,13,2001,▲40
+33.0,141.0,34.0,19.0,Brochard Laurent,26.0,Jean Delatour,13,2001,▼7
+27.0,121.0,29.0,21.0,Salmon Benoît,27.0,AG2R Prévoyance,13,2001,▼6
+29.0,109.0,27.0,23.0,Voigt Jens,28.0,Crédit Agricole,13,2001,▼5
+28.0,29.0,27.0,43.0,Serrano Marcos Antonio,29.0,O.N.C.E. - Eroski,13,2001,▲14
+28.0,113.0,25.0,34.0,Chaurreau Íñigo,30.0,Euskaltel - Euskadi,13,2001,▲4
+31.0,206.0,24.0,,Jan Xavier,31.0,BigMat - Auber 93,13,2001,-
+33.0,42.0,24.0,,Baldato Fabio,32.0,Fassa Bortolo,13,2001,-
+27.0,107.0,22.0,25.0,O'Grady Stuart,33.0,Crédit Agricole,13,2001,▼8
+25.0,91.0,22.0,29.0,Mancebo Francisco,34.0,Ibanesto.com,13,2001,▼5
+26.0,61.0,21.0,26.0,Verbrugghe Rik,35.0,Lotto - Adecco,13,2001,▼9
+25.0,181.0,20.0,30.0,Montgomery Sven,36.0,La Française des Jeux,13,2001,▼6
+25.0,186.0,19.0,28.0,McGee Bradley,37.0,La Française des Jeux,13,2001,▼9
+30.0,44.0,16.0,31.0,Belli Wladimir,38.0,Fassa Bortolo,13,2001,▼7
+31.0,82.0,15.0,32.0,Bartoli Michele,39.0,Mapei - Quickstep,13,2001,▼7
+29.0,102.0,12.0,33.0,Bessy Frédéric,40.0,Crédit Agricole,13,2001,▼7
+26.0,129.0,10.0,35.0,Turpin Ludovic,41.0,AG2R Prévoyance,13,2001,▼6
+28.0,135.0,10.0,36.0,Jalabert Nicolas,42.0,CSC ProTeam - Tiscali,13,2001,▼6
+34.0,183.0,10.0,37.0,Durand Jacky,43.0,La Française des Jeux,13,2001,▼6
+29.0,99.0,10.0,39.0,Piepoli Leonardo,44.0,Ibanesto.com,13,2001,▼5
+31.0,122.0,9.0,40.0,Agnolutto Christophe,45.0,AG2R Prévoyance,13,2001,▼5
+28.0,194.0,8.0,41.0,Merckx Axel,46.0,Domo - Farm Frites,13,2001,▼5
+26.0,15.0,8.0,42.0,Klöden Andreas,47.0,Team Telekom,13,2001,▼5
+26.0,77.0,8.0,,Moncoutié David,48.0,Cofidis,13,2001,-
+29.0,184.0,7.0,44.0,Guesdon Frédéric,49.0,La Française des Jeux,13,2001,▼5
+28.0,16.0,7.0,66.0,Livingston Kevin,50.0,Team Telekom,13,2001,▲16
+30.0,161.0,7.0,49.0,Rous Didier,51.0,Bonjour,13,2001,▼2
+28.0,146.0,6.0,45.0,Oriol Christophe,52.0,Jean Delatour,13,2001,▼7
+29.0,101.0,6.0,46.0,Julich Bobby,53.0,Crédit Agricole,13,2001,▼7
+28.0,115.0,6.0,47.0,Etxebarria Unai,54.0,Euskaltel - Euskadi,13,2001,▼7
+26.0,28.0,6.0,48.0,Sastre Carlos,55.0,O.N.C.E. - Eroski,13,2001,▼7
+31.0,144.0,4.0,51.0,Goubert Stéphane,56.0,Jean Delatour,13,2001,▼5
+30.0,97.0,4.0,52.0,Odriozola Jon,57.0,Ibanesto.com,13,2001,▼5
+31.0,168.0,4.0,,Robin Jean-Cyril,58.0,Bonjour,13,2001,-
+28.0,108.0,4.0,54.0,Vaughters Jonathan,59.0,Crédit Agricole,13,2001,▼5
+27.0,126.0,3.0,55.0,Demarbaix Sebastien,60.0,AG2R Prévoyance,13,2001,▼5
+33.0,34.0,3.0,56.0,Chanteur Pascal,61.0,Festina,13,2001,▼5
+30.0,156.0,2.0,57.0,Pascual Javier,62.0,Kelme - Costa Blanca,13,2001,▼5
+31.0,13.0,2.0,58.0,Guerini Giuseppe,63.0,Team Telekom,13,2001,▼5
+35.0,3.0,2.0,,Ekimov Viatcheslav,64.0,US Postal Service,13,2001,-
+26.0,124.0,2.0,,Botcharov Alexandre,65.0,AG2R Prévoyance,13,2001,-
+32.0,59.0,1.0,59.0,Wauters Marc,66.0,Rabobank ProTeam,13,2001,▼7
+32.0,187.0,1.0,60.0,Mengin Christophe,67.0,La Française des Jeux,13,2001,▼7
+22.0,25.0,1.0,61.0,Gutiérrez José Iván,68.0,O.N.C.E. - Eroski,13,2001,▼7
+32.0,169.0,1.0,62.0,Simon François,69.0,Bonjour,13,2001,▼7
+34.0,12.0,1.0,63.0,Bolts Udo,70.0,Team Telekom,13,2001,▼7
+27.0,7.0,1.0,,Peña Victor Hugo,71.0,US Postal Service,13,2001,-
+28.0,94.0,1.0,64.0,Garcia José Vicente,72.0,Ibanesto.com,13,2001,▼8
+28.0,8.0,1.0,,Rubiera José Luis,73.0,US Postal Service,13,2001,-
+28.0,5.0,1.0,,Hincapie George,74.0,US Postal Service,13,2001,-
+32.0,131.0,257.0,1.0,Jalabert Laurent,1.0,CSC ProTeam - Tiscali,14,2001,-
+27.0,11.0,211.0,3.0,Ullrich Jan,2.0,Team Telekom,14,2001,▲1
+28.0,147.0,195.0,2.0,Roux Laurent,4.0,Jean Delatour,14,2001,▼2
+28.0,86.0,164.0,5.0,Garzelli Stefano,5.0,Mapei - Quickstep,14,2001,-
+32.0,117.0,147.0,10.0,Laiseka Roberto,6.0,Euskaltel - Euskadi,14,2001,▲4
+27.0,21.0,145.0,6.0,Beloki Joseba,7.0,O.N.C.E. - Eroski,14,2001,▼1
+27.0,17.0,124.0,7.0,Vinokourov Alexandre,8.0,Team Telekom,14,2001,▼1
+24.0,157.0,120.0,8.0,Sevilla Óscar,9.0,Kelme - Costa Blanca,14,2001,▼1
+27.0,145.0,113.0,9.0,Halgand Patrice,10.0,Jean Delatour,14,2001,▼1
+30.0,44.0,105.0,38.0,Belli Wladimir,11.0,Fassa Bortolo,14,2001,▲27
+27.0,111.0,89.0,11.0,Etxebarria David,12.0,Euskaltel - Euskadi,14,2001,▼1
+28.0,152.0,86.0,15.0,Cárdenas Félix Rafael,13.0,Kelme - Costa Blanca,14,2001,▲2
+25.0,95.0,80.0,12.0,Jiménez Eladio,14.0,Ibanesto.com,14,2001,▼2
+25.0,181.0,77.0,36.0,Montgomery Sven,15.0,La Française des Jeux,14,2001,▲21
+28.0,151.0,75.0,13.0,Botero Santiago,16.0,Kelme - Costa Blanca,14,2001,▼3
+30.0,93.0,72.0,14.0,Brożyna Tomasz,17.0,Ibanesto.com,14,2001,▼3
+29.0,51.0,66.0,19.0,Boogerd Michael,18.0,Rabobank ProTeam,14,2001,▲1
+25.0,69.0,66.0,16.0,Vermaut Steve,19.0,Lotto - Adecco,14,2001,▼3
+27.0,74.0,64.0,21.0,Kivilev Andrei,20.0,Cofidis,14,2001,▲1
+29.0,118.0,60.0,17.0,López de Munain Alberto,21.0,Euskaltel - Euskadi,14,2001,▼4
+27.0,2.0,60.0,25.0,Heras Roberto,22.0,US Postal Service,14,2001,▲3
+27.0,158.0,59.0,18.0,Tauler Toni,23.0,Kelme - Costa Blanca,14,2001,▼5
+29.0,101.0,58.0,53.0,Julich Bobby,24.0,Crédit Agricole,14,2001,▲29
+27.0,24.0,58.0,22.0,González de Galdeano Igor,25.0,O.N.C.E. - Eroski,14,2001,▼3
+27.0,83.0,53.0,20.0,Bettini Paolo,26.0,Mapei - Quickstep,14,2001,▼6
+26.0,77.0,49.0,48.0,Moncoutié David,27.0,Cofidis,14,2001,▲21
+32.0,73.0,37.0,23.0,Cuesta Iñigo,28.0,Cofidis,14,2001,▼5
+26.0,72.0,37.0,24.0,Atienza Daniel,29.0,Cofidis,14,2001,▼5
+31.0,168.0,36.0,58.0,Robin Jean-Cyril,30.0,Bonjour,14,2001,▲28
+33.0,141.0,34.0,26.0,Brochard Laurent,31.0,Jean Delatour,14,2001,▼5
+26.0,62.0,34.0,,Aerts Mario,32.0,Lotto - Adecco,14,2001,-
+28.0,29.0,33.0,29.0,Serrano Marcos Antonio,33.0,O.N.C.E. - Eroski,14,2001,▼4
+29.0,109.0,32.0,28.0,Voigt Jens,34.0,Crédit Agricole,14,2001,▼6
+27.0,121.0,29.0,27.0,Salmon Benoît,35.0,AG2R Prévoyance,14,2001,▼8
+28.0,113.0,27.0,30.0,Chaurreau Íñigo,36.0,Euskaltel - Euskadi,14,2001,▼6
+31.0,144.0,26.0,56.0,Goubert Stéphane,37.0,Jean Delatour,14,2001,▲19
+33.0,42.0,24.0,32.0,Baldato Fabio,38.0,Fassa Bortolo,14,2001,▼6
+27.0,107.0,22.0,33.0,O'Grady Stuart,39.0,Crédit Agricole,14,2001,▼6
+25.0,91.0,22.0,34.0,Mancebo Francisco,40.0,Ibanesto.com,14,2001,▼6
+26.0,61.0,21.0,35.0,Verbrugghe Rik,41.0,Lotto - Adecco,14,2001,▼6
+30.0,161.0,21.0,51.0,Rous Didier,42.0,Bonjour,14,2001,▲9
+26.0,15.0,20.0,47.0,Klöden Andreas,43.0,Team Telekom,14,2001,▲4
+29.0,48.0,20.0,,Pozzi Oscar,44.0,Fassa Bortolo,14,2001,-
+25.0,186.0,19.0,37.0,McGee Bradley,45.0,La Française des Jeux,14,2001,▼8
+31.0,82.0,18.0,39.0,Bartoli Michele,46.0,Mapei - Quickstep,14,2001,▼7
+26.0,28.0,13.0,55.0,Sastre Carlos,47.0,O.N.C.E. - Eroski,14,2001,▲8
+29.0,102.0,12.0,40.0,Bessy Frédéric,48.0,Crédit Agricole,14,2001,▼8
+29.0,99.0,11.0,44.0,Piepoli Leonardo,49.0,Ibanesto.com,14,2001,▼5
+26.0,129.0,10.0,41.0,Turpin Ludovic,50.0,AG2R Prévoyance,14,2001,▼9
+28.0,135.0,10.0,42.0,Jalabert Nicolas,51.0,CSC ProTeam - Tiscali,14,2001,▼9
+34.0,183.0,10.0,43.0,Durand Jacky,52.0,La Française des Jeux,14,2001,▼9
+31.0,122.0,9.0,45.0,Agnolutto Christophe,53.0,AG2R Prévoyance,14,2001,▼8
+28.0,194.0,8.0,46.0,Merckx Axel,54.0,Domo - Farm Frites,14,2001,▼8
+23.0,96.0,8.0,,Menchov Denis,55.0,Ibanesto.com,14,2001,-
+29.0,184.0,7.0,49.0,Guesdon Frédéric,56.0,La Française des Jeux,14,2001,▼7
+28.0,16.0,7.0,50.0,Livingston Kevin,57.0,Team Telekom,14,2001,▼7
+28.0,146.0,6.0,52.0,Oriol Christophe,58.0,Jean Delatour,14,2001,▼6
+28.0,115.0,6.0,54.0,Etxebarria Unai,59.0,Euskaltel - Euskadi,14,2001,▼5
+30.0,97.0,6.0,57.0,Odriozola Jon,60.0,Ibanesto.com,14,2001,▼3
+36.0,14.0,4.0,,Heppner Jens,61.0,Team Telekom,14,2001,-
+28.0,108.0,4.0,59.0,Vaughters Jonathan,62.0,Crédit Agricole,14,2001,▼3
+27.0,126.0,3.0,60.0,Demarbaix Sebastien,63.0,AG2R Prévoyance,14,2001,▼3
+33.0,34.0,3.0,61.0,Chanteur Pascal,64.0,Festina,14,2001,▼3
+30.0,156.0,2.0,62.0,Pascual Javier,65.0,Kelme - Costa Blanca,14,2001,▼3
+31.0,13.0,2.0,63.0,Guerini Giuseppe,66.0,Team Telekom,14,2001,▼3
+35.0,3.0,2.0,64.0,Ekimov Viatcheslav,67.0,US Postal Service,14,2001,▼3
+26.0,124.0,2.0,65.0,Botcharov Alexandre,68.0,AG2R Prévoyance,14,2001,▼3
+32.0,59.0,1.0,66.0,Wauters Marc,69.0,Rabobank ProTeam,14,2001,▼3
+32.0,187.0,1.0,67.0,Mengin Christophe,70.0,La Française des Jeux,14,2001,▼3
+22.0,25.0,1.0,68.0,Gutiérrez José Iván,71.0,O.N.C.E. - Eroski,14,2001,▼3
+32.0,169.0,1.0,69.0,Simon François,72.0,Bonjour,14,2001,▼3
+34.0,12.0,1.0,70.0,Bolts Udo,73.0,Team Telekom,14,2001,▼3
+27.0,7.0,1.0,71.0,Peña Victor Hugo,74.0,US Postal Service,14,2001,▼3
+28.0,94.0,1.0,72.0,Garcia José Vicente,75.0,Ibanesto.com,14,2001,▼3
+28.0,8.0,1.0,73.0,Rubiera José Luis,76.0,US Postal Service,14,2001,▼3
+28.0,5.0,1.0,74.0,Hincapie George,77.0,US Postal Service,14,2001,▼3
+27.0,107.0,140.0,39.0,O'Grady Stuart,1.0,Crédit Agricole,15,2001,▲38
+31.0,19.0,127.0,,Zabel Erik,2.0,Team Telekom,15,2001,-
+27.0,11.0,103.0,2.0,Ullrich Jan,4.0,Team Telekom,15,2001,▼2
+27.0,165.0,92.0,,Nazon Damien,5.0,Bonjour,15,2001,-
+27.0,47.0,89.0,,Petacchi Alessandro,6.0,Fassa Bortolo,15,2001,-
+28.0,39.0,82.0,,Teutenberg Sven,7.0,Festina,15,2001,-
+27.0,21.0,79.0,7.0,Beloki Joseba,8.0,O.N.C.E. - Eroski,15,2001,▼1
+28.0,111.0,77.0,12.0,Etxebarria David,9.0,Euskaltel - Euskadi,15,2001,▲3
+32.0,131.0,76.0,1.0,Jalabert Laurent,10.0,CSC ProTeam - Tiscali,15,2001,▼9
+32.0,169.0,76.0,72.0,Simon François,11.0,Bonjour,15,2001,▲61
+27.0,61.0,66.0,41.0,Verbrugghe Rik,12.0,Lotto - Adecco,15,2001,▲29
+32.0,59.0,65.0,69.0,Wauters Marc,13.0,Rabobank ProTeam,15,2001,▲56
+33.0,204.0,65.0,,Capelle Christophe,14.0,BigMat - Auber 93,15,2001,-
+30.0,54.0,64.0,,Dekker Erik,15.0,Rabobank ProTeam,15,2001,-
+30.0,193.0,58.0,,Knaven Servais,16.0,Domo - Farm Frites,15,2001,-
+29.0,51.0,54.0,18.0,Boogerd Michael,17.0,Rabobank ProTeam,15,2001,▲1
+32.0,117.0,52.0,6.0,Laiseka Roberto,18.0,Euskaltel - Euskadi,15,2001,▼12
+30.0,76.0,52.0,,Mattan Nico,19.0,Cofidis,15,2001,-
+28.0,86.0,51.0,5.0,Garzelli Stefano,20.0,Mapei - Quickstep,15,2001,▼15
+24.0,157.0,49.0,9.0,Sevilla Óscar,21.0,Kelme - Costa Blanca,15,2001,▼12
+31.0,63.0,48.0,,Baguet Serge,22.0,Lotto - Adecco,15,2001,-
+28.0,147.0,46.0,4.0,Roux Laurent,23.0,Jean Delatour,15,2001,▼19
+27.0,155.0,46.0,,Gutiérrez José Enrique,24.0,Kelme - Costa Blanca,15,2001,-
+27.0,24.0,45.0,25.0,González de Galdeano Igor,25.0,O.N.C.E. - Eroski,15,2001,-
+32.0,178.0,43.0,,Svorada Ján,26.0,Lampre - Daikin,15,2001,-
+34.0,183.0,43.0,52.0,Durand Jacky,27.0,La Française des Jeux,15,2001,▲25
+28.0,152.0,42.0,13.0,Cárdenas Félix Rafael,28.0,Kelme - Costa Blanca,15,2001,▼15
+25.0,177.0,42.0,,Pinotti Marco,29.0,Lampre - Daikin,15,2001,-
+27.0,163.0,42.0,,Bouyer Franck,30.0,Bonjour,15,2001,-
+28.0,191.0,41.0,,Vainšteins Romāns,31.0,Domo - Farm Frites,15,2001,-
+23.0,182.0,41.0,,Casper Jimmy,32.0,La Française des Jeux,15,2001,-
+29.0,109.0,40.0,34.0,Voigt Jens,33.0,Crédit Agricole,15,2001,▲1
+27.0,74.0,40.0,20.0,Kivilev Andrei,34.0,Cofidis,15,2001,▼14
+25.0,186.0,38.0,45.0,McGee Bradley,35.0,La Française des Jeux,15,2001,▲10
+27.0,83.0,37.0,26.0,Bettini Paolo,36.0,Mapei - Quickstep,15,2001,▼10
+29.0,101.0,36.0,24.0,Julich Bobby,37.0,Crédit Agricole,15,2001,▼13
+28.0,151.0,32.0,16.0,Botero Santiago,38.0,Kelme - Costa Blanca,15,2001,▼22
+28.0,135.0,32.0,51.0,Jalabert Nicolas,39.0,CSC ProTeam - Tiscali,15,2001,▲12
+29.0,68.0,32.0,,Van Hyfte Paul,40.0,Lotto - Adecco,15,2001,-
+27.0,66.0,31.0,,Mikhailov Guennadi,41.0,Lotto - Adecco,15,2001,-
+30.0,185.0,30.0,,Magnien Emmanuel,42.0,La Française des Jeux,15,2001,-
+33.0,42.0,28.0,38.0,Baldato Fabio,43.0,Fassa Bortolo,15,2001,▼5
+26.0,175.0,28.0,,Frutti Matteo,44.0,Lampre - Daikin,15,2001,-
+29.0,208.0,27.0,,Sivakov Alexei,45.0,BigMat - Auber 93,15,2001,-
+22.0,164.0,26.0,,Chavanel Sylvain,46.0,Bonjour,15,2001,-
+27.0,2.0,25.0,22.0,Heras Roberto,47.0,US Postal Service,15,2001,▼25
+33.0,141.0,25.0,31.0,Brochard Laurent,48.0,Jean Delatour,15,2001,▼17
+27.0,49.0,25.0,,Tosatto Matteo,49.0,Fassa Bortolo,15,2001,-
+25.0,91.0,23.0,40.0,Mancebo Francisco,50.0,Ibanesto.com,15,2001,▼10
+30.0,161.0,23.0,42.0,Rous Didier,51.0,Bonjour,15,2001,▼9
+30.0,44.0,22.0,11.0,Belli Wladimir,52.0,Fassa Bortolo,15,2001,▼41
+27.0,17.0,21.0,8.0,Vinokourov Alexandre,53.0,Team Telekom,15,2001,▼45
+32.0,187.0,21.0,70.0,Mengin Christophe,54.0,La Française des Jeux,15,2001,▲16
+33.0,84.0,20.0,,Bramati Davide,55.0,Mapei - Quickstep,15,2001,-
+26.0,129.0,19.0,50.0,Turpin Ludovic,56.0,AG2R Prévoyance,15,2001,▼6
+31.0,143.0,19.0,,Bouvard Gilles,57.0,Jean Delatour,15,2001,-
+27.0,56.0,18.0,,Lotz Marc,58.0,Rabobank ProTeam,15,2001,-
+28.0,171.0,17.0,,Serpellini Marco,59.0,Lampre - Daikin,15,2001,-
+28.0,81.0,16.0,,Nardello Daniele,60.0,Mapei - Quickstep,15,2001,-
+29.0,46.0,16.0,,Loda Nicola,61.0,Fassa Bortolo,15,2001,-
+23.0,209.0,16.0,,Talabardon Sébastien,62.0,BigMat - Auber 93,15,2001,-
+27.0,106.0,16.0,,Morin Anthony,63.0,Crédit Agricole,15,2001,-
+34.0,36.0,16.0,,Lino Pascal,64.0,Festina,15,2001,-
+32.0,73.0,15.0,28.0,Cuesta Iñigo,65.0,Cofidis,15,2001,▼37
+28.0,29.0,15.0,33.0,Serrano Marcos Antonio,66.0,O.N.C.E. - Eroski,15,2001,▼33
+33.0,179.0,15.0,,Verstrepen Johan,67.0,Lampre - Daikin,15,2001,-
+30.0,156.0,14.0,65.0,Pascual Javier,68.0,Kelme - Costa Blanca,15,2001,▼3
+25.0,172.0,14.0,,Belohvoščiks Raivis,69.0,Lampre - Daikin,15,2001,-
+25.0,202.0,14.0,,Auger Guillaume,70.0,BigMat - Auber 93,15,2001,-
+26.0,124.0,14.0,68.0,Botcharov Alexandre,71.0,AG2R Prévoyance,15,2001,▼3
+28.0,113.0,13.0,36.0,Chaurreau Íñigo,72.0,Euskaltel - Euskadi,15,2001,▼36
+28.0,199.0,13.0,,Wadecki Piotr,73.0,Domo - Farm Frites,15,2001,-
+25.0,69.0,13.0,19.0,Vermaut Steve,74.0,Lotto - Adecco,15,2001,▼55
+29.0,184.0,13.0,56.0,Guesdon Frédéric,75.0,La Française des Jeux,15,2001,▼19
+27.0,121.0,12.0,35.0,Salmon Benoît,76.0,AG2R Prévoyance,15,2001,▼41
+33.0,34.0,12.0,64.0,Chanteur Pascal,77.0,Festina,15,2001,▼13
+25.0,26.0,11.0,,Jaksche Jörg,78.0,O.N.C.E. - Eroski,15,2001,-
+28.0,194.0,11.0,54.0,Merckx Axel,79.0,Domo - Farm Frites,15,2001,▼25
+30.0,97.0,10.0,60.0,Odriozola Jon,80.0,Ibanesto.com,15,2001,▼20
+31.0,144.0,10.0,37.0,Goubert Stéphane,81.0,Jean Delatour,15,2001,▼44
+31.0,82.0,10.0,46.0,Bartoli Michele,82.0,Mapei - Quickstep,15,2001,▼36
+28.0,146.0,10.0,58.0,Oriol Christophe,83.0,Jean Delatour,15,2001,▼25
+30.0,203.0,9.0,,Auger Ludovic,84.0,BigMat - Auber 93,15,2001,-
+26.0,138.0,9.0,,Sørensen Nicki,85.0,CSC ProTeam - Tiscali,15,2001,-
+28.0,132.0,7.0,,Blaudzun Michael,86.0,CSC ProTeam - Tiscali,15,2001,-
+27.0,188.0,7.0,,Schnider Daniel,87.0,La Française des Jeux,15,2001,-
+36.0,14.0,7.0,61.0,Heppner Jens,88.0,Team Telekom,15,2001,▼27
+25.0,32.0,6.0,,Brard Florent,89.0,Festina,15,2001,-
+29.0,99.0,6.0,49.0,Piepoli Leonardo,90.0,Ibanesto.com,15,2001,▼41
+32.0,205.0,6.0,,Gouvenou Thierry,91.0,BigMat - Auber 93,15,2001,-
+28.0,166.0,6.0,,Perreaudeau Olivier,92.0,Bonjour,15,2001,-
+27.0,167.0,6.0,,Renier Franck,93.0,Bonjour,15,2001,-
+31.0,168.0,6.0,30.0,Robin Jean-Cyril,94.0,Bonjour,15,2001,▼64
+29.0,118.0,6.0,21.0,López de Munain Alberto,95.0,Euskaltel - Euskadi,15,2001,▼74
+27.0,158.0,5.0,23.0,Tauler Toni,96.0,Kelme - Costa Blanca,15,2001,▼73
+29.0,48.0,5.0,44.0,Pozzi Oscar,97.0,Fassa Bortolo,15,2001,▼53
+31.0,122.0,5.0,53.0,Agnolutto Christophe,98.0,AG2R Prévoyance,15,2001,▼45
+25.0,181.0,4.0,15.0,Montgomery Sven,99.0,La Française des Jeux,15,2001,▼84
+29.0,102.0,4.0,48.0,Bessy Frédéric,100.0,Crédit Agricole,15,2001,▼52
+28.0,137.0,4.0,,Piil Jakob Storm,101.0,CSC ProTeam - Tiscali,15,2001,-
+27.0,103.0,4.0,,Hinault Sébastien,102.0,Crédit Agricole,15,2001,-
+27.0,145.0,4.0,10.0,Halgand Patrice,103.0,Jean Delatour,15,2001,▼93
+28.0,162.0,3.0,,Bénéteau Walter,104.0,Bonjour,15,2001,-
+26.0,28.0,2.0,47.0,Sastre Carlos,105.0,O.N.C.E. - Eroski,15,2001,▼58
+25.0,95.0,2.0,14.0,Jiménez Eladio,106.0,Ibanesto.com,15,2001,▼92
+26.0,77.0,1.0,27.0,Moncoutié David,107.0,Cofidis,15,2001,▼80
+32.0,131.0,257.0,10.0,Jalabert Laurent,1.0,CSC ProTeam - Tiscali,16,2001,▲9
+27.0,11.0,211.0,4.0,Ullrich Jan,2.0,Team Telekom,16,2001,▲2
+28.0,147.0,195.0,23.0,Roux Laurent,4.0,Jean Delatour,16,2001,▲19
+28.0,86.0,164.0,20.0,Garzelli Stefano,5.0,Mapei - Quickstep,16,2001,▲15
+32.0,117.0,147.0,18.0,Laiseka Roberto,6.0,Euskaltel - Euskadi,16,2001,▲12
+27.0,21.0,145.0,8.0,Beloki Joseba,7.0,O.N.C.E. - Eroski,16,2001,▲1
+27.0,17.0,134.0,53.0,Vinokourov Alexandre,8.0,Team Telekom,16,2001,▲45
+27.0,145.0,120.0,103.0,Halgand Patrice,9.0,Jean Delatour,16,2001,▲94
+24.0,157.0,120.0,21.0,Sevilla Óscar,10.0,Kelme - Costa Blanca,16,2001,▲11
+31.0,44.0,105.0,52.0,Belli Wladimir,11.0,Fassa Bortolo,16,2001,▲41
+28.0,111.0,89.0,9.0,Etxebarria David,12.0,Euskaltel - Euskadi,16,2001,▼3
+28.0,152.0,87.0,28.0,Cárdenas Félix Rafael,13.0,Kelme - Costa Blanca,16,2001,▲15
+25.0,95.0,80.0,106.0,Jiménez Eladio,14.0,Ibanesto.com,16,2001,▲92
+28.0,151.0,75.0,38.0,Botero Santiago,15.0,Kelme - Costa Blanca,16,2001,▲23
+30.0,93.0,72.0,,Brożyna Tomasz,16.0,Ibanesto.com,16,2001,-
+29.0,51.0,71.0,17.0,Boogerd Michael,17.0,Rabobank ProTeam,16,2001,-
+25.0,69.0,66.0,74.0,Vermaut Steve,18.0,Lotto - Adecco,16,2001,▲56
+27.0,74.0,64.0,34.0,Kivilev Andrei,19.0,Cofidis,16,2001,▲15
+29.0,118.0,60.0,95.0,López de Munain Alberto,20.0,Euskaltel - Euskadi,16,2001,▲75
+27.0,2.0,60.0,47.0,Heras Roberto,21.0,US Postal Service,16,2001,▲26
+27.0,158.0,59.0,96.0,Tauler Toni,22.0,Kelme - Costa Blanca,16,2001,▲74
+29.0,101.0,58.0,37.0,Julich Bobby,23.0,Crédit Agricole,16,2001,▲14
+27.0,24.0,58.0,25.0,González de Galdeano Igor,24.0,O.N.C.E. - Eroski,16,2001,▲1
+27.0,83.0,56.0,36.0,Bettini Paolo,25.0,Mapei - Quickstep,16,2001,▲11
+26.0,77.0,49.0,107.0,Moncoutié David,26.0,Cofidis,16,2001,▲81
+29.0,109.0,42.0,33.0,Voigt Jens,27.0,Crédit Agricole,16,2001,▲6
+33.0,141.0,39.0,48.0,Brochard Laurent,28.0,Jean Delatour,16,2001,▲20
+32.0,73.0,37.0,65.0,Cuesta Iñigo,29.0,Cofidis,16,2001,▲36
+26.0,72.0,37.0,,Atienza Daniel,30.0,Cofidis,16,2001,-
+31.0,168.0,36.0,94.0,Robin Jean-Cyril,31.0,Bonjour,16,2001,▲63
+26.0,62.0,35.0,,Aerts Mario,32.0,Lotto - Adecco,16,2001,-
+28.0,29.0,33.0,66.0,Serrano Marcos Antonio,33.0,O.N.C.E. - Eroski,16,2001,▲33
+27.0,121.0,29.0,76.0,Salmon Benoît,34.0,AG2R Prévoyance,16,2001,▲42
+28.0,113.0,27.0,72.0,Chaurreau Íñigo,35.0,Euskaltel - Euskadi,16,2001,▲37
+31.0,144.0,26.0,81.0,Goubert Stéphane,36.0,Jean Delatour,16,2001,▲45
+33.0,42.0,24.0,43.0,Baldato Fabio,37.0,Fassa Bortolo,16,2001,▲6
+27.0,107.0,22.0,1.0,O'Grady Stuart,38.0,Crédit Agricole,16,2001,▼37
+25.0,91.0,22.0,50.0,Mancebo Francisco,39.0,Ibanesto.com,16,2001,▲11
+27.0,61.0,21.0,12.0,Verbrugghe Rik,40.0,Lotto - Adecco,16,2001,▼28
+30.0,161.0,21.0,51.0,Rous Didier,41.0,Bonjour,16,2001,▲10
+26.0,15.0,20.0,,Klöden Andreas,42.0,Team Telekom,16,2001,-
+25.0,186.0,19.0,35.0,McGee Bradley,43.0,La Française des Jeux,16,2001,▼8
+31.0,82.0,18.0,82.0,Bartoli Michele,44.0,Mapei - Quickstep,16,2001,▲38
+26.0,28.0,16.0,105.0,Sastre Carlos,45.0,O.N.C.E. - Eroski,16,2001,▲60
+27.0,37.0,15.0,,Pérez Luis,46.0,Festina,16,2001,-
+29.0,102.0,15.0,100.0,Bessy Frédéric,47.0,Crédit Agricole,16,2001,▲53
+30.0,97.0,11.0,80.0,Odriozola Jon,48.0,Ibanesto.com,16,2001,▲32
+29.0,99.0,11.0,90.0,Piepoli Leonardo,49.0,Ibanesto.com,16,2001,▲41
+26.0,129.0,10.0,56.0,Turpin Ludovic,50.0,AG2R Prévoyance,16,2001,▲6
+28.0,135.0,10.0,39.0,Jalabert Nicolas,51.0,CSC ProTeam - Tiscali,16,2001,▼12
+34.0,183.0,10.0,27.0,Durand Jacky,52.0,La Française des Jeux,16,2001,▼25
+31.0,122.0,9.0,98.0,Agnolutto Christophe,53.0,AG2R Prévoyance,16,2001,▲45
+28.0,194.0,8.0,79.0,Merckx Axel,54.0,Domo - Farm Frites,16,2001,▲25
+23.0,96.0,8.0,,Menchov Denis,55.0,Ibanesto.com,16,2001,-
+29.0,184.0,7.0,75.0,Guesdon Frédéric,56.0,La Française des Jeux,16,2001,▲19
+28.0,16.0,7.0,,Livingston Kevin,57.0,Team Telekom,16,2001,-
+28.0,146.0,6.0,83.0,Oriol Christophe,58.0,Jean Delatour,16,2001,▲25
+26.0,138.0,6.0,85.0,Sørensen Nicki,59.0,CSC ProTeam - Tiscali,16,2001,▲26
+28.0,115.0,6.0,,Etxebarria Unai,60.0,Euskaltel - Euskadi,16,2001,-
+28.0,199.0,5.0,73.0,Wadecki Piotr,61.0,Domo - Farm Frites,16,2001,▲12
+26.0,124.0,5.0,71.0,Botcharov Alexandre,62.0,AG2R Prévoyance,16,2001,▲9
+25.0,177.0,3.0,29.0,Pinotti Marco,63.0,Lampre - Daikin,16,2001,▼34
+27.0,126.0,3.0,,Demarbaix Sebastien,64.0,AG2R Prévoyance,16,2001,-
+33.0,34.0,3.0,77.0,Chanteur Pascal,65.0,Festina,16,2001,▲12
+30.0,156.0,2.0,68.0,Pascual Javier,66.0,Kelme - Costa Blanca,16,2001,▲2
+31.0,13.0,2.0,,Guerini Giuseppe,67.0,Team Telekom,16,2001,-
+35.0,3.0,2.0,,Ekimov Viatcheslav,68.0,US Postal Service,16,2001,-
+30.0,76.0,1.0,19.0,Mattan Nico,69.0,Cofidis,16,2001,▼50
+27.0,163.0,1.0,30.0,Bouyer Franck,70.0,Bonjour,16,2001,▼40
+32.0,187.0,1.0,54.0,Mengin Christophe,71.0,La Française des Jeux,16,2001,▼17
+32.0,148.0,1.0,,Seigneur Eddy,72.0,Jean Delatour,16,2001,-
+22.0,25.0,1.0,,Gutiérrez José Iván,73.0,O.N.C.E. - Eroski,16,2001,-
+32.0,169.0,1.0,11.0,Simon François,74.0,Bonjour,16,2001,▼63
+34.0,12.0,1.0,,Bolts Udo,75.0,Team Telekom,16,2001,-
+27.0,7.0,1.0,,Peña Victor Hugo,76.0,US Postal Service,16,2001,-
+28.0,8.0,1.0,,Rubiera José Luis,77.0,US Postal Service,16,2001,-
+28.0,5.0,1.0,,Hincapie George,78.0,US Postal Service,16,2001,-
+32.0,131.0,257.0,1.0,Jalabert Laurent,1.0,CSC ProTeam - Tiscali,17,2001,-
+27.0,11.0,211.0,2.0,Ullrich Jan,2.0,Team Telekom,17,2001,-
+28.0,147.0,195.0,4.0,Roux Laurent,4.0,Jean Delatour,17,2001,-
+28.0,86.0,164.0,5.0,Garzelli Stefano,5.0,Mapei - Quickstep,17,2001,-
+32.0,117.0,147.0,6.0,Laiseka Roberto,6.0,Euskaltel - Euskadi,17,2001,-
+27.0,21.0,145.0,7.0,Beloki Joseba,7.0,O.N.C.E. - Eroski,17,2001,-
+27.0,17.0,134.0,8.0,Vinokourov Alexandre,8.0,Team Telekom,17,2001,-
+27.0,145.0,123.0,9.0,Halgand Patrice,9.0,Jean Delatour,17,2001,-
+24.0,157.0,120.0,10.0,Sevilla Óscar,10.0,Kelme - Costa Blanca,17,2001,-
+31.0,44.0,105.0,11.0,Belli Wladimir,11.0,Fassa Bortolo,17,2001,-
+28.0,111.0,89.0,12.0,Etxebarria David,12.0,Euskaltel - Euskadi,17,2001,-
+28.0,152.0,87.0,13.0,Cárdenas Félix Rafael,13.0,Kelme - Costa Blanca,17,2001,-
+25.0,95.0,80.0,14.0,Jiménez Eladio,14.0,Ibanesto.com,17,2001,-
+28.0,151.0,75.0,15.0,Botero Santiago,15.0,Kelme - Costa Blanca,17,2001,-
+30.0,93.0,72.0,16.0,Brożyna Tomasz,16.0,Ibanesto.com,17,2001,-
+29.0,51.0,71.0,17.0,Boogerd Michael,17.0,Rabobank ProTeam,17,2001,-
+25.0,69.0,66.0,18.0,Vermaut Steve,18.0,Lotto - Adecco,17,2001,-
+27.0,74.0,64.0,19.0,Kivilev Andrei,19.0,Cofidis,17,2001,-
+29.0,118.0,60.0,20.0,López de Munain Alberto,20.0,Euskaltel - Euskadi,17,2001,-
+27.0,2.0,60.0,21.0,Heras Roberto,21.0,US Postal Service,17,2001,-
+27.0,158.0,59.0,22.0,Tauler Toni,22.0,Kelme - Costa Blanca,17,2001,-
+29.0,101.0,58.0,23.0,Julich Bobby,23.0,Crédit Agricole,17,2001,-
+27.0,24.0,58.0,24.0,González de Galdeano Igor,24.0,O.N.C.E. - Eroski,17,2001,-
+27.0,83.0,56.0,25.0,Bettini Paolo,25.0,Mapei - Quickstep,17,2001,-
+26.0,77.0,49.0,26.0,Moncoutié David,26.0,Cofidis,17,2001,-
+29.0,109.0,42.0,27.0,Voigt Jens,27.0,Crédit Agricole,17,2001,-
+33.0,141.0,39.0,28.0,Brochard Laurent,28.0,Jean Delatour,17,2001,-
+27.0,121.0,39.0,34.0,Salmon Benoît,29.0,AG2R Prévoyance,17,2001,▲5
+32.0,73.0,37.0,29.0,Cuesta Iñigo,30.0,Cofidis,17,2001,▼1
+26.0,72.0,37.0,30.0,Atienza Daniel,31.0,Cofidis,17,2001,▼1
+31.0,168.0,36.0,31.0,Robin Jean-Cyril,32.0,Bonjour,17,2001,▼1
+26.0,62.0,35.0,32.0,Aerts Mario,33.0,Lotto - Adecco,17,2001,▼1
+28.0,29.0,33.0,33.0,Serrano Marcos Antonio,34.0,O.N.C.E. - Eroski,17,2001,▼1
+31.0,144.0,29.0,36.0,Goubert Stéphane,35.0,Jean Delatour,17,2001,▲1
+28.0,113.0,27.0,35.0,Chaurreau Íñigo,36.0,Euskaltel - Euskadi,17,2001,▼1
+33.0,42.0,24.0,37.0,Baldato Fabio,37.0,Fassa Bortolo,17,2001,-
+27.0,107.0,22.0,38.0,O'Grady Stuart,38.0,Crédit Agricole,17,2001,-
+25.0,91.0,22.0,39.0,Mancebo Francisco,39.0,Ibanesto.com,17,2001,-
+27.0,61.0,21.0,40.0,Verbrugghe Rik,40.0,Lotto - Adecco,17,2001,-
+30.0,161.0,21.0,41.0,Rous Didier,41.0,Bonjour,17,2001,-
+26.0,15.0,20.0,42.0,Klöden Andreas,42.0,Team Telekom,17,2001,-
+25.0,186.0,19.0,43.0,McGee Bradley,43.0,La Française des Jeux,17,2001,-
+31.0,82.0,18.0,44.0,Bartoli Michele,44.0,Mapei - Quickstep,17,2001,-
+26.0,28.0,16.0,45.0,Sastre Carlos,45.0,O.N.C.E. - Eroski,17,2001,-
+27.0,37.0,15.0,46.0,Pérez Luis,46.0,Festina,17,2001,-
+29.0,102.0,15.0,47.0,Bessy Frédéric,47.0,Crédit Agricole,17,2001,-
+30.0,97.0,11.0,48.0,Odriozola Jon,48.0,Ibanesto.com,17,2001,-
+29.0,99.0,11.0,49.0,Piepoli Leonardo,49.0,Ibanesto.com,17,2001,-
+26.0,129.0,10.0,50.0,Turpin Ludovic,50.0,AG2R Prévoyance,17,2001,-
+28.0,135.0,10.0,51.0,Jalabert Nicolas,51.0,CSC ProTeam - Tiscali,17,2001,-
+34.0,183.0,10.0,52.0,Durand Jacky,52.0,La Française des Jeux,17,2001,-
+31.0,122.0,9.0,53.0,Agnolutto Christophe,53.0,AG2R Prévoyance,17,2001,-
+28.0,194.0,8.0,54.0,Merckx Axel,54.0,Domo - Farm Frites,17,2001,-
+23.0,96.0,8.0,55.0,Menchov Denis,55.0,Ibanesto.com,17,2001,-
+29.0,184.0,7.0,56.0,Guesdon Frédéric,56.0,La Française des Jeux,17,2001,-
+28.0,16.0,7.0,57.0,Livingston Kevin,57.0,Team Telekom,17,2001,-
+28.0,146.0,6.0,58.0,Oriol Christophe,58.0,Jean Delatour,17,2001,-
+26.0,138.0,6.0,59.0,Sørensen Nicki,59.0,CSC ProTeam - Tiscali,17,2001,-
+28.0,115.0,6.0,60.0,Etxebarria Unai,60.0,Euskaltel - Euskadi,17,2001,-
+28.0,199.0,5.0,61.0,Wadecki Piotr,61.0,Domo - Farm Frites,17,2001,-
+26.0,124.0,5.0,62.0,Botcharov Alexandre,62.0,AG2R Prévoyance,17,2001,-
+25.0,177.0,3.0,63.0,Pinotti Marco,63.0,Lampre - Daikin,17,2001,-
+27.0,126.0,3.0,64.0,Demarbaix Sebastien,64.0,AG2R Prévoyance,17,2001,-
+33.0,34.0,3.0,65.0,Chanteur Pascal,65.0,Festina,17,2001,-
+27.0,49.0,2.0,,Tosatto Matteo,66.0,Fassa Bortolo,17,2001,-
+30.0,156.0,2.0,66.0,Pascual Javier,67.0,Kelme - Costa Blanca,17,2001,▼1
+31.0,13.0,2.0,67.0,Guerini Giuseppe,68.0,Team Telekom,17,2001,▼1
+35.0,3.0,2.0,68.0,Ekimov Viatcheslav,69.0,US Postal Service,17,2001,▼1
+30.0,76.0,1.0,69.0,Mattan Nico,70.0,Cofidis,17,2001,▼1
+27.0,163.0,1.0,70.0,Bouyer Franck,71.0,Bonjour,17,2001,▼1
+32.0,187.0,1.0,71.0,Mengin Christophe,72.0,La Française des Jeux,17,2001,▼1
+32.0,148.0,1.0,72.0,Seigneur Eddy,73.0,Jean Delatour,17,2001,▼1
+22.0,25.0,1.0,73.0,Gutiérrez José Iván,74.0,O.N.C.E. - Eroski,17,2001,▼1
+32.0,169.0,1.0,74.0,Simon François,75.0,Bonjour,17,2001,▼1
+34.0,12.0,1.0,75.0,Bolts Udo,76.0,Team Telekom,17,2001,▼1
+27.0,7.0,1.0,76.0,Peña Victor Hugo,77.0,US Postal Service,17,2001,▼1
+28.0,8.0,1.0,77.0,Rubiera José Luis,78.0,US Postal Service,17,2001,▼1
+28.0,5.0,1.0,78.0,Hincapie George,79.0,US Postal Service,17,2001,▼1
+32.0,131.0,257.0,1.0,Jalabert Laurent,1.0,CSC ProTeam - Tiscali,18,2001,-
+27.0,11.0,211.0,2.0,Ullrich Jan,2.0,Team Telekom,18,2001,-
+28.0,147.0,195.0,4.0,Roux Laurent,4.0,Jean Delatour,18,2001,-
+28.0,86.0,164.0,5.0,Garzelli Stefano,5.0,Mapei - Quickstep,18,2001,-
+32.0,117.0,147.0,6.0,Laiseka Roberto,6.0,Euskaltel - Euskadi,18,2001,-
+27.0,21.0,145.0,7.0,Beloki Joseba,7.0,O.N.C.E. - Eroski,18,2001,-
+27.0,17.0,134.0,8.0,Vinokourov Alexandre,8.0,Team Telekom,18,2001,-
+27.0,145.0,123.0,9.0,Halgand Patrice,9.0,Jean Delatour,18,2001,-
+24.0,157.0,120.0,10.0,Sevilla Óscar,10.0,Kelme - Costa Blanca,18,2001,-
+31.0,44.0,105.0,11.0,Belli Wladimir,11.0,Fassa Bortolo,18,2001,-
+28.0,111.0,89.0,12.0,Etxebarria David,12.0,Euskaltel - Euskadi,18,2001,-
+28.0,152.0,87.0,13.0,Cárdenas Félix Rafael,13.0,Kelme - Costa Blanca,18,2001,-
+25.0,95.0,80.0,14.0,Jiménez Eladio,14.0,Ibanesto.com,18,2001,-
+28.0,151.0,75.0,15.0,Botero Santiago,15.0,Kelme - Costa Blanca,18,2001,-
+30.0,93.0,72.0,16.0,Brożyna Tomasz,16.0,Ibanesto.com,18,2001,-
+29.0,51.0,71.0,17.0,Boogerd Michael,17.0,Rabobank ProTeam,18,2001,-
+25.0,69.0,66.0,18.0,Vermaut Steve,18.0,Lotto - Adecco,18,2001,-
+27.0,74.0,64.0,19.0,Kivilev Andrei,19.0,Cofidis,18,2001,-
+29.0,118.0,60.0,20.0,López de Munain Alberto,20.0,Euskaltel - Euskadi,18,2001,-
+27.0,2.0,60.0,21.0,Heras Roberto,21.0,US Postal Service,18,2001,-
+27.0,158.0,59.0,22.0,Tauler Toni,22.0,Kelme - Costa Blanca,18,2001,-
+29.0,101.0,58.0,23.0,Julich Bobby,23.0,Crédit Agricole,18,2001,-
+27.0,24.0,58.0,24.0,González de Galdeano Igor,24.0,O.N.C.E. - Eroski,18,2001,-
+27.0,83.0,56.0,25.0,Bettini Paolo,25.0,Mapei - Quickstep,18,2001,-
+26.0,77.0,49.0,26.0,Moncoutié David,26.0,Cofidis,18,2001,-
+29.0,109.0,42.0,27.0,Voigt Jens,27.0,Crédit Agricole,18,2001,-
+33.0,141.0,39.0,28.0,Brochard Laurent,28.0,Jean Delatour,18,2001,-
+27.0,121.0,39.0,29.0,Salmon Benoît,29.0,AG2R Prévoyance,18,2001,-
+32.0,73.0,37.0,30.0,Cuesta Iñigo,30.0,Cofidis,18,2001,-
+26.0,72.0,37.0,31.0,Atienza Daniel,31.0,Cofidis,18,2001,-
+31.0,168.0,36.0,32.0,Robin Jean-Cyril,32.0,Bonjour,18,2001,-
+26.0,62.0,35.0,33.0,Aerts Mario,33.0,Lotto - Adecco,18,2001,-
+28.0,29.0,33.0,34.0,Serrano Marcos Antonio,34.0,O.N.C.E. - Eroski,18,2001,-
+31.0,144.0,29.0,35.0,Goubert Stéphane,35.0,Jean Delatour,18,2001,-
+28.0,113.0,27.0,36.0,Chaurreau Íñigo,36.0,Euskaltel - Euskadi,18,2001,-
+33.0,42.0,24.0,37.0,Baldato Fabio,37.0,Fassa Bortolo,18,2001,-
+27.0,107.0,22.0,38.0,O'Grady Stuart,38.0,Crédit Agricole,18,2001,-
+25.0,91.0,22.0,39.0,Mancebo Francisco,39.0,Ibanesto.com,18,2001,-
+27.0,61.0,21.0,40.0,Verbrugghe Rik,40.0,Lotto - Adecco,18,2001,-
+30.0,161.0,21.0,41.0,Rous Didier,41.0,Bonjour,18,2001,-
+26.0,15.0,20.0,42.0,Klöden Andreas,42.0,Team Telekom,18,2001,-
+25.0,186.0,19.0,43.0,McGee Bradley,43.0,La Française des Jeux,18,2001,-
+31.0,82.0,18.0,44.0,Bartoli Michele,44.0,Mapei - Quickstep,18,2001,-
+26.0,28.0,16.0,45.0,Sastre Carlos,45.0,O.N.C.E. - Eroski,18,2001,-
+27.0,37.0,15.0,46.0,Pérez Luis,46.0,Festina,18,2001,-
+29.0,102.0,15.0,47.0,Bessy Frédéric,47.0,Crédit Agricole,18,2001,-
+30.0,97.0,11.0,48.0,Odriozola Jon,48.0,Ibanesto.com,18,2001,-
+29.0,99.0,11.0,49.0,Piepoli Leonardo,49.0,Ibanesto.com,18,2001,-
+26.0,129.0,10.0,50.0,Turpin Ludovic,50.0,AG2R Prévoyance,18,2001,-
+28.0,135.0,10.0,51.0,Jalabert Nicolas,51.0,CSC ProTeam - Tiscali,18,2001,-
+34.0,183.0,10.0,52.0,Durand Jacky,52.0,La Française des Jeux,18,2001,-
+31.0,122.0,9.0,53.0,Agnolutto Christophe,53.0,AG2R Prévoyance,18,2001,-
+28.0,194.0,8.0,54.0,Merckx Axel,54.0,Domo - Farm Frites,18,2001,-
+23.0,96.0,8.0,55.0,Menchov Denis,55.0,Ibanesto.com,18,2001,-
+29.0,184.0,7.0,56.0,Guesdon Frédéric,56.0,La Française des Jeux,18,2001,-
+28.0,16.0,7.0,57.0,Livingston Kevin,57.0,Team Telekom,18,2001,-
+28.0,146.0,6.0,58.0,Oriol Christophe,58.0,Jean Delatour,18,2001,-
+26.0,138.0,6.0,59.0,Sørensen Nicki,59.0,CSC ProTeam - Tiscali,18,2001,-
+28.0,115.0,6.0,60.0,Etxebarria Unai,60.0,Euskaltel - Euskadi,18,2001,-
+28.0,199.0,5.0,61.0,Wadecki Piotr,61.0,Domo - Farm Frites,18,2001,-
+26.0,124.0,5.0,62.0,Botcharov Alexandre,62.0,AG2R Prévoyance,18,2001,-
+25.0,177.0,3.0,63.0,Pinotti Marco,63.0,Lampre - Daikin,18,2001,-
+27.0,126.0,3.0,64.0,Demarbaix Sebastien,64.0,AG2R Prévoyance,18,2001,-
+33.0,34.0,3.0,65.0,Chanteur Pascal,65.0,Festina,18,2001,-
+27.0,49.0,2.0,66.0,Tosatto Matteo,66.0,Fassa Bortolo,18,2001,-
+30.0,156.0,2.0,67.0,Pascual Javier,67.0,Kelme - Costa Blanca,18,2001,-
+31.0,13.0,2.0,68.0,Guerini Giuseppe,68.0,Team Telekom,18,2001,-
+35.0,3.0,2.0,69.0,Ekimov Viatcheslav,69.0,US Postal Service,18,2001,-
+30.0,76.0,1.0,70.0,Mattan Nico,70.0,Cofidis,18,2001,-
+27.0,163.0,1.0,71.0,Bouyer Franck,71.0,Bonjour,18,2001,-
+32.0,187.0,1.0,72.0,Mengin Christophe,72.0,La Française des Jeux,18,2001,-
+32.0,148.0,1.0,73.0,Seigneur Eddy,73.0,Jean Delatour,18,2001,-
+22.0,25.0,1.0,74.0,Gutiérrez José Iván,74.0,O.N.C.E. - Eroski,18,2001,-
+32.0,169.0,1.0,75.0,Simon François,75.0,Bonjour,18,2001,-
+34.0,12.0,1.0,76.0,Bolts Udo,76.0,Team Telekom,18,2001,-
+27.0,7.0,1.0,77.0,Peña Victor Hugo,77.0,US Postal Service,18,2001,-
+28.0,8.0,1.0,78.0,Rubiera José Luis,78.0,US Postal Service,18,2001,-
+28.0,5.0,1.0,79.0,Hincapie George,79.0,US Postal Service,18,2001,-
+32.0,131.0,257.0,1.0,Jalabert Laurent,1.0,CSC ProTeam - Tiscali,19,2001,-
+27.0,11.0,211.0,2.0,Ullrich Jan,2.0,Team Telekom,19,2001,-
+28.0,147.0,200.0,4.0,Roux Laurent,3.0,Jean Delatour,19,2001,▲1
+28.0,86.0,164.0,5.0,Garzelli Stefano,5.0,Mapei - Quickstep,19,2001,-
+32.0,117.0,147.0,6.0,Laiseka Roberto,6.0,Euskaltel - Euskadi,19,2001,-
+27.0,21.0,145.0,7.0,Beloki Joseba,7.0,O.N.C.E. - Eroski,19,2001,-
+27.0,17.0,134.0,8.0,Vinokourov Alexandre,8.0,Team Telekom,19,2001,-
+27.0,145.0,123.0,9.0,Halgand Patrice,9.0,Jean Delatour,19,2001,-
+24.0,157.0,120.0,10.0,Sevilla Óscar,10.0,Kelme - Costa Blanca,19,2001,-
+31.0,44.0,105.0,11.0,Belli Wladimir,11.0,Fassa Bortolo,19,2001,-
+28.0,111.0,89.0,12.0,Etxebarria David,12.0,Euskaltel - Euskadi,19,2001,-
+28.0,152.0,87.0,13.0,Cárdenas Félix Rafael,13.0,Kelme - Costa Blanca,19,2001,-
+25.0,95.0,80.0,14.0,Jiménez Eladio,14.0,Ibanesto.com,19,2001,-
+28.0,151.0,75.0,15.0,Botero Santiago,15.0,Kelme - Costa Blanca,19,2001,-
+30.0,93.0,72.0,16.0,Brożyna Tomasz,16.0,Ibanesto.com,19,2001,-
+29.0,51.0,71.0,17.0,Boogerd Michael,17.0,Rabobank ProTeam,19,2001,-
+25.0,69.0,66.0,18.0,Vermaut Steve,18.0,Lotto - Adecco,19,2001,-
+27.0,74.0,64.0,19.0,Kivilev Andrei,19.0,Cofidis,19,2001,-
+29.0,118.0,60.0,20.0,López de Munain Alberto,20.0,Euskaltel - Euskadi,19,2001,-
+27.0,2.0,60.0,21.0,Heras Roberto,21.0,US Postal Service,19,2001,-
+27.0,158.0,59.0,22.0,Tauler Toni,22.0,Kelme - Costa Blanca,19,2001,-
+29.0,101.0,58.0,23.0,Julich Bobby,23.0,Crédit Agricole,19,2001,-
+27.0,24.0,58.0,24.0,González de Galdeano Igor,24.0,O.N.C.E. - Eroski,19,2001,-
+27.0,83.0,56.0,25.0,Bettini Paolo,25.0,Mapei - Quickstep,19,2001,-
+26.0,77.0,49.0,26.0,Moncoutié David,26.0,Cofidis,19,2001,-
+29.0,109.0,42.0,27.0,Voigt Jens,27.0,Crédit Agricole,19,2001,-
+33.0,141.0,39.0,28.0,Brochard Laurent,28.0,Jean Delatour,19,2001,-
+27.0,121.0,39.0,29.0,Salmon Benoît,29.0,AG2R Prévoyance,19,2001,-
+32.0,73.0,37.0,30.0,Cuesta Iñigo,30.0,Cofidis,19,2001,-
+26.0,72.0,37.0,31.0,Atienza Daniel,31.0,Cofidis,19,2001,-
+31.0,168.0,36.0,32.0,Robin Jean-Cyril,32.0,Bonjour,19,2001,-
+26.0,62.0,35.0,33.0,Aerts Mario,33.0,Lotto - Adecco,19,2001,-
+28.0,29.0,33.0,34.0,Serrano Marcos Antonio,34.0,O.N.C.E. - Eroski,19,2001,-
+31.0,144.0,29.0,35.0,Goubert Stéphane,35.0,Jean Delatour,19,2001,-
+28.0,113.0,27.0,36.0,Chaurreau Íñigo,36.0,Euskaltel - Euskadi,19,2001,-
+33.0,42.0,24.0,37.0,Baldato Fabio,37.0,Fassa Bortolo,19,2001,-
+27.0,107.0,22.0,38.0,O'Grady Stuart,38.0,Crédit Agricole,19,2001,-
+25.0,91.0,22.0,39.0,Mancebo Francisco,39.0,Ibanesto.com,19,2001,-
+27.0,61.0,21.0,40.0,Verbrugghe Rik,40.0,Lotto - Adecco,19,2001,-
+30.0,161.0,21.0,41.0,Rous Didier,41.0,Bonjour,19,2001,-
+26.0,15.0,20.0,42.0,Klöden Andreas,42.0,Team Telekom,19,2001,-
+25.0,186.0,19.0,43.0,McGee Bradley,43.0,La Française des Jeux,19,2001,-
+31.0,82.0,18.0,44.0,Bartoli Michele,44.0,Mapei - Quickstep,19,2001,-
+26.0,28.0,16.0,45.0,Sastre Carlos,45.0,O.N.C.E. - Eroski,19,2001,-
+27.0,37.0,15.0,46.0,Pérez Luis,46.0,Festina,19,2001,-
+29.0,102.0,15.0,47.0,Bessy Frédéric,47.0,Crédit Agricole,19,2001,-
+30.0,97.0,11.0,48.0,Odriozola Jon,48.0,Ibanesto.com,19,2001,-
+29.0,99.0,11.0,49.0,Piepoli Leonardo,49.0,Ibanesto.com,19,2001,-
+26.0,129.0,10.0,50.0,Turpin Ludovic,50.0,AG2R Prévoyance,19,2001,-
+28.0,135.0,10.0,51.0,Jalabert Nicolas,51.0,CSC ProTeam - Tiscali,19,2001,-
+34.0,183.0,10.0,52.0,Durand Jacky,52.0,La Française des Jeux,19,2001,-
+31.0,122.0,9.0,53.0,Agnolutto Christophe,53.0,AG2R Prévoyance,19,2001,-
+28.0,194.0,8.0,54.0,Merckx Axel,54.0,Domo - Farm Frites,19,2001,-
+23.0,96.0,8.0,55.0,Menchov Denis,55.0,Ibanesto.com,19,2001,-
+29.0,184.0,7.0,56.0,Guesdon Frédéric,56.0,La Française des Jeux,19,2001,-
+28.0,16.0,7.0,57.0,Livingston Kevin,57.0,Team Telekom,19,2001,-
+28.0,146.0,6.0,58.0,Oriol Christophe,58.0,Jean Delatour,19,2001,-
+26.0,138.0,6.0,59.0,Sørensen Nicki,59.0,CSC ProTeam - Tiscali,19,2001,-
+28.0,115.0,6.0,60.0,Etxebarria Unai,60.0,Euskaltel - Euskadi,19,2001,-
+28.0,199.0,5.0,61.0,Wadecki Piotr,61.0,Domo - Farm Frites,19,2001,-
+26.0,124.0,5.0,62.0,Botcharov Alexandre,62.0,AG2R Prévoyance,19,2001,-
+33.0,179.0,3.0,,Verstrepen Johan,63.0,Lampre - Daikin,19,2001,-
+25.0,177.0,3.0,63.0,Pinotti Marco,64.0,Lampre - Daikin,19,2001,▼1
+27.0,126.0,3.0,64.0,Demarbaix Sebastien,65.0,AG2R Prévoyance,19,2001,▼1
+33.0,34.0,3.0,65.0,Chanteur Pascal,66.0,Festina,19,2001,▼1
+27.0,49.0,2.0,66.0,Tosatto Matteo,67.0,Fassa Bortolo,19,2001,▼1
+30.0,156.0,2.0,67.0,Pascual Javier,68.0,Kelme - Costa Blanca,19,2001,▼1
+31.0,13.0,2.0,68.0,Guerini Giuseppe,69.0,Team Telekom,19,2001,▼1
+35.0,3.0,2.0,69.0,Ekimov Viatcheslav,70.0,US Postal Service,19,2001,▼1
+32.0,55.0,1.0,,den Bakker Maarten,71.0,Rabobank ProTeam,19,2001,-
+30.0,76.0,1.0,70.0,Mattan Nico,72.0,Cofidis,19,2001,▼2
+27.0,163.0,1.0,71.0,Bouyer Franck,73.0,Bonjour,19,2001,▼2
+32.0,187.0,1.0,72.0,Mengin Christophe,74.0,La Française des Jeux,19,2001,▼2
+32.0,148.0,1.0,73.0,Seigneur Eddy,75.0,Jean Delatour,19,2001,▼2
+22.0,25.0,1.0,74.0,Gutiérrez José Iván,76.0,O.N.C.E. - Eroski,19,2001,▼2
+32.0,169.0,1.0,75.0,Simon François,77.0,Bonjour,19,2001,▼2
+34.0,12.0,1.0,76.0,Bolts Udo,78.0,Team Telekom,19,2001,▼2
+27.0,7.0,1.0,77.0,Peña Victor Hugo,79.0,US Postal Service,19,2001,▼2
+28.0,8.0,1.0,78.0,Rubiera José Luis,80.0,US Postal Service,19,2001,▼2
+28.0,5.0,1.0,79.0,Hincapie George,81.0,US Postal Service,19,2001,▼2
+32.0,131.0,258.0,1.0,Jalabert Laurent,1.0,CSC ProTeam - Tiscali,20,2001,-
+27.0,11.0,211.0,2.0,Ullrich Jan,2.0,Team Telekom,20,2001,-
+28.0,147.0,200.0,3.0,Roux Laurent,3.0,Jean Delatour,20,2001,-
+28.0,86.0,164.0,5.0,Garzelli Stefano,5.0,Mapei - Quickstep,20,2001,-
+32.0,117.0,147.0,6.0,Laiseka Roberto,6.0,Euskaltel - Euskadi,20,2001,-
+27.0,21.0,145.0,7.0,Beloki Joseba,7.0,O.N.C.E. - Eroski,20,2001,-
+27.0,17.0,134.0,8.0,Vinokourov Alexandre,8.0,Team Telekom,20,2001,-
+27.0,145.0,123.0,9.0,Halgand Patrice,9.0,Jean Delatour,20,2001,-
+24.0,157.0,120.0,10.0,Sevilla Óscar,10.0,Kelme - Costa Blanca,20,2001,-
+31.0,44.0,108.0,11.0,Belli Wladimir,11.0,Fassa Bortolo,20,2001,-
+28.0,111.0,89.0,12.0,Etxebarria David,12.0,Euskaltel - Euskadi,20,2001,-
+28.0,152.0,87.0,13.0,Cárdenas Félix Rafael,13.0,Kelme - Costa Blanca,20,2001,-
+25.0,95.0,80.0,14.0,Jiménez Eladio,14.0,Ibanesto.com,20,2001,-
+28.0,151.0,75.0,15.0,Botero Santiago,15.0,Kelme - Costa Blanca,20,2001,-
+30.0,93.0,72.0,16.0,Brożyna Tomasz,16.0,Ibanesto.com,20,2001,-
+29.0,51.0,71.0,17.0,Boogerd Michael,17.0,Rabobank ProTeam,20,2001,-
+25.0,69.0,66.0,18.0,Vermaut Steve,18.0,Lotto - Adecco,20,2001,-
+27.0,74.0,64.0,19.0,Kivilev Andrei,19.0,Cofidis,20,2001,-
+29.0,118.0,60.0,20.0,López de Munain Alberto,20.0,Euskaltel - Euskadi,20,2001,-
+27.0,2.0,60.0,21.0,Heras Roberto,21.0,US Postal Service,20,2001,-
+27.0,158.0,59.0,22.0,Tauler Toni,22.0,Kelme - Costa Blanca,20,2001,-
+29.0,101.0,58.0,23.0,Julich Bobby,23.0,Crédit Agricole,20,2001,-
+27.0,24.0,58.0,24.0,González de Galdeano Igor,24.0,O.N.C.E. - Eroski,20,2001,-
+27.0,83.0,56.0,25.0,Bettini Paolo,25.0,Mapei - Quickstep,20,2001,-
+26.0,77.0,49.0,26.0,Moncoutié David,26.0,Cofidis,20,2001,-
+29.0,109.0,42.0,27.0,Voigt Jens,27.0,Crédit Agricole,20,2001,-
+33.0,141.0,39.0,28.0,Brochard Laurent,28.0,Jean Delatour,20,2001,-
+27.0,121.0,39.0,29.0,Salmon Benoît,29.0,AG2R Prévoyance,20,2001,-
+32.0,73.0,37.0,30.0,Cuesta Iñigo,30.0,Cofidis,20,2001,-
+26.0,72.0,37.0,31.0,Atienza Daniel,31.0,Cofidis,20,2001,-
+31.0,168.0,36.0,32.0,Robin Jean-Cyril,32.0,Bonjour,20,2001,-
+26.0,62.0,35.0,33.0,Aerts Mario,33.0,Lotto - Adecco,20,2001,-
+28.0,29.0,33.0,34.0,Serrano Marcos Antonio,34.0,O.N.C.E. - Eroski,20,2001,-
+31.0,144.0,29.0,35.0,Goubert Stéphane,35.0,Jean Delatour,20,2001,-
+28.0,113.0,27.0,36.0,Chaurreau Íñigo,36.0,Euskaltel - Euskadi,20,2001,-
+33.0,42.0,24.0,37.0,Baldato Fabio,37.0,Fassa Bortolo,20,2001,-
+27.0,107.0,22.0,38.0,O'Grady Stuart,38.0,Crédit Agricole,20,2001,-
+25.0,91.0,22.0,39.0,Mancebo Francisco,39.0,Ibanesto.com,20,2001,-
+27.0,61.0,21.0,40.0,Verbrugghe Rik,40.0,Lotto - Adecco,20,2001,-
+30.0,161.0,21.0,41.0,Rous Didier,41.0,Bonjour,20,2001,-
+26.0,15.0,20.0,42.0,Klöden Andreas,42.0,Team Telekom,20,2001,-
+25.0,186.0,19.0,43.0,McGee Bradley,43.0,La Française des Jeux,20,2001,-
+31.0,82.0,18.0,44.0,Bartoli Michele,44.0,Mapei - Quickstep,20,2001,-
+26.0,28.0,16.0,45.0,Sastre Carlos,45.0,O.N.C.E. - Eroski,20,2001,-
+27.0,37.0,15.0,46.0,Pérez Luis,46.0,Festina,20,2001,-
+29.0,102.0,15.0,47.0,Bessy Frédéric,47.0,Crédit Agricole,20,2001,-
+30.0,97.0,11.0,48.0,Odriozola Jon,48.0,Ibanesto.com,20,2001,-
+29.0,99.0,11.0,49.0,Piepoli Leonardo,49.0,Ibanesto.com,20,2001,-
+26.0,129.0,10.0,50.0,Turpin Ludovic,50.0,AG2R Prévoyance,20,2001,-
+28.0,135.0,10.0,51.0,Jalabert Nicolas,51.0,CSC ProTeam - Tiscali,20,2001,-
+34.0,183.0,10.0,52.0,Durand Jacky,52.0,La Française des Jeux,20,2001,-
+31.0,122.0,9.0,53.0,Agnolutto Christophe,53.0,AG2R Prévoyance,20,2001,-
+28.0,194.0,8.0,54.0,Merckx Axel,54.0,Domo - Farm Frites,20,2001,-
+23.0,96.0,8.0,55.0,Menchov Denis,55.0,Ibanesto.com,20,2001,-
+29.0,184.0,7.0,56.0,Guesdon Frédéric,56.0,La Française des Jeux,20,2001,-
+28.0,16.0,7.0,57.0,Livingston Kevin,57.0,Team Telekom,20,2001,-
+28.0,146.0,6.0,58.0,Oriol Christophe,58.0,Jean Delatour,20,2001,-
+26.0,138.0,6.0,59.0,Sørensen Nicki,59.0,CSC ProTeam - Tiscali,20,2001,-
+28.0,115.0,6.0,60.0,Etxebarria Unai,60.0,Euskaltel - Euskadi,20,2001,-
+22.0,173.0,5.0,,Bertogliati Rubens,61.0,Lampre - Daikin,20,2001,-
+28.0,199.0,5.0,61.0,Wadecki Piotr,62.0,Domo - Farm Frites,20,2001,▼1
+26.0,124.0,5.0,62.0,Botcharov Alexandre,63.0,AG2R Prévoyance,20,2001,▼1
+33.0,179.0,3.0,63.0,Verstrepen Johan,64.0,Lampre - Daikin,20,2001,▼1
+25.0,177.0,3.0,64.0,Pinotti Marco,65.0,Lampre - Daikin,20,2001,▼1
+27.0,126.0,3.0,65.0,Demarbaix Sebastien,66.0,AG2R Prévoyance,20,2001,▼1
+33.0,34.0,3.0,66.0,Chanteur Pascal,67.0,Festina,20,2001,▼1
+27.0,49.0,2.0,67.0,Tosatto Matteo,68.0,Fassa Bortolo,20,2001,▼1
+30.0,156.0,2.0,68.0,Pascual Javier,69.0,Kelme - Costa Blanca,20,2001,▼1
+31.0,13.0,2.0,69.0,Guerini Giuseppe,70.0,Team Telekom,20,2001,▼1
+35.0,3.0,2.0,70.0,Ekimov Viatcheslav,71.0,US Postal Service,20,2001,▼1
+32.0,55.0,1.0,71.0,den Bakker Maarten,72.0,Rabobank ProTeam,20,2001,▼1
+30.0,76.0,1.0,72.0,Mattan Nico,73.0,Cofidis,20,2001,▼1
+27.0,163.0,1.0,73.0,Bouyer Franck,74.0,Bonjour,20,2001,▼1
+32.0,187.0,1.0,74.0,Mengin Christophe,75.0,La Française des Jeux,20,2001,▼1
+32.0,148.0,1.0,75.0,Seigneur Eddy,76.0,Jean Delatour,20,2001,▼1
+22.0,25.0,1.0,76.0,Gutiérrez José Iván,77.0,O.N.C.E. - Eroski,20,2001,▼1
+32.0,169.0,1.0,77.0,Simon François,78.0,Bonjour,20,2001,▼1
+34.0,12.0,1.0,78.0,Bolts Udo,79.0,Team Telekom,20,2001,▼1
+27.0,7.0,1.0,79.0,Peña Victor Hugo,80.0,US Postal Service,20,2001,▼1
+28.0,8.0,1.0,80.0,Rubiera José Luis,81.0,US Postal Service,20,2001,▼1
+28.0,5.0,1.0,81.0,Hincapie George,82.0,US Postal Service,20,2001,▼1

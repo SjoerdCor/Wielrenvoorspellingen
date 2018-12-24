@@ -1,0 +1,923 @@
+Age,BIB,Pnt,Prev,Rider,Rnk,Team,stage,year,▼▲
+26.0,47.0,3.0,,Wegmann Fabian,1.0,Gerolsteiner,1,2006,
+24.0,179.0,2.0,,Sprick Matthieu,2.0,Bouygues Telecom,1,2006,
+33.0,123.0,1.0,,Etxebarria Unai,3.0,Euskaltel - Euskadi,1,2006,
+25.0,143.0,14.0,,de la Fuente David,1.0,Saunier Duval - Prodir,2,2006,-
+26.0,47.0,12.0,1.0,Wegmann Fabian,2.0,Gerolsteiner,2,2006,▼1
+24.0,124.0,10.0,,Hernández Aitor,3.0,Euskaltel - Euskadi,2,2006,-
+26.0,177.0,3.0,,Pineau Jérôme,4.0,Bouygues Telecom,2,2006,-
+24.0,179.0,2.0,2.0,Sprick Matthieu,5.0,Bouygues Telecom,2,2006,▼3
+30.0,176.0,2.0,,Lefèvre Laurent,6.0,Bouygues Telecom,2,2006,-
+33.0,123.0,1.0,3.0,Etxebarria Unai,7.0,Euskaltel - Euskadi,2,2006,▼4
+26.0,177.0,17.0,4.0,Pineau Jérôme,1,Bouygues Telecom,3,2006,▲3
+25.0,143.0,14.0,1.0,de la Fuente David,2,Saunier Duval - Prodir,3,2006,▼1
+26.0,47.0,12.0,2.0,Wegmann Fabian,3,Gerolsteiner,3,2006,▼1
+24.0,124.0,10.0,3.0,Hernández Aitor,4,Euskaltel - Euskadi,3,2006,▼1
+33.0,123.0,7.0,7.0,Etxebarria Unai,5,Euskaltel - Euskadi,3,2006,▲2
+35.0,32.0,6.0,,Arrieta José Luis,6,AG2R Prévoyance,3,2006,-
+28.0,196.0,6.0,,Laurent Christophe,7,Agritubel,3,2006,-
+34.0,17.0,6.0,,Voigt Jens,8,CSC ProTeam,3,2006,-
+27.0,24.0,4.0,,Kessler Matthias,9,T-Mobile Team,3,2006,-
+23.0,154.0,3.0,,Gilbert Philippe,10,Française des Jeux,3,2006,-
+34.0,52.0,2.0,,Boogerd Michael,11*,Rabobank ProTeam,3,2006,-
+24.0,179.0,2.0,5.0,Sprick Matthieu,12,Bouygues Telecom,3,2006,▼7
+30.0,176.0,2.0,6.0,Lefèvre Laurent,13,Bouygues Telecom,3,2006,▼7
+25.0,101.0,2.0,,Boonen Tom,14,Quickstep - Innergetic,3,2006,-
+26.0,177.0,21.0,1,Pineau Jérôme,1,Bouygues Telecom,4,2006,-
+25.0,143.0,17.0,2,de la Fuente David,2,Saunier Duval - Prodir,4,2006,-
+26.0,47.0,14.0,3,Wegmann Fabian,3,Gerolsteiner,4,2006,-
+24.0,124.0,10.0,4,Hernández Aitor,4,Euskaltel - Euskadi,4,2006,-
+33.0,123.0,7.0,5,Etxebarria Unai,5,Euskaltel - Euskadi,4,2006,-
+35.0,32.0,6.0,6,Arrieta José Luis,6,AG2R Prévoyance,4,2006,-
+28.0,196.0,6.0,7,Laurent Christophe,7,Agritubel,4,2006,-
+34.0,17.0,6.0,8,Voigt Jens,8,CSC ProTeam,4,2006,-
+30.0,176.0,5.0,13,Lefèvre Laurent,9,Bouygues Telecom,4,2006,▲4
+27.0,24.0,4.0,9,Kessler Matthias,10,T-Mobile Team,4,2006,▼1
+24.0,154.0,3.0,10,Gilbert Philippe,11,Française des Jeux,4,2006,▼1
+28.0,4.0,2.0,,Martínez Egoi,12,Discovery Channel,4,2006,-
+34.0,52.0,2.0,11*,Boogerd Michael,13*,Rabobank ProTeam,4,2006,-
+24.0,179.0,2.0,12,Sprick Matthieu,14,Bouygues Telecom,4,2006,▼2
+25.0,101.0,2.0,14,Boonen Tom,15,Quickstep - Innergetic,4,2006,▼1
+27.0,174.0,1.0,,Fédrigo Pierrick,16,Bouygues Telecom,4,2006,-
+26.0,193.0,1.0,,Coutouly Cédric,17,Agritubel,4,2006,-
+26.0,177.0,26.0,1,Pineau Jérôme,1,Bouygues Telecom,5,2006,-
+25.0,143.0,17.0,2,de la Fuente David,2,Saunier Duval - Prodir,5,2006,-
+26.0,47.0,15.0,3,Wegmann Fabian,3,Gerolsteiner,5,2006,-
+24.0,124.0,10.0,4,Hernández Aitor,4,Euskaltel - Euskadi,5,2006,-
+25.0,188.0,9.0,,Schröder Björn,5,Milram,5,2006,-
+33.0,123.0,7.0,5,Etxebarria Unai,6,Euskaltel - Euskadi,5,2006,▼1
+35.0,32.0,6.0,6,Arrieta José Luis,7,AG2R Prévoyance,5,2006,▼1
+28.0,196.0,6.0,7,Laurent Christophe,8,Agritubel,5,2006,▼1
+25.0,36.0,6.0,,Dumoulin Samuel,9,AG2R Prévoyance,5,2006,-
+34.0,17.0,6.0,8,Voigt Jens,10,CSC ProTeam,5,2006,▼2
+30.0,176.0,5.0,9,Lefèvre Laurent,11,Bouygues Telecom,5,2006,▼2
+27.0,24.0,4.0,10,Kessler Matthias,12,T-Mobile Team,5,2006,▼2
+24.0,154.0,3.0,11,Gilbert Philippe,13,Française des Jeux,5,2006,▼2
+27.0,174.0,3.0,16,Fédrigo Pierrick,14,Bouygues Telecom,5,2006,▲2
+34.0,52.0,2.0,13*,Boogerd Michael,15*,Rabobank ProTeam,5,2006,-
+28.0,4.0,2.0,12,Martínez Egoi,16,Discovery Channel,5,2006,▼4
+24.0,179.0,2.0,14,Sprick Matthieu,17,Bouygues Telecom,5,2006,▼3
+25.0,101.0,2.0,15,Boonen Tom,18,Quickstep - Innergetic,5,2006,▼3
+26.0,175.0,1.0,,Geslin Anthony,19,Bouygues Telecom,5,2006,-
+26.0,193.0,1.0,17,Coutouly Cédric,20,Agritubel,5,2006,▼3
+26.0,177.0,28.0,1,Pineau Jérôme,1,Bouygues Telecom,6,2006,-
+25.0,143.0,17.0,2,de la Fuente David,2,Saunier Duval - Prodir,6,2006,-
+26.0,47.0,15.0,3,Wegmann Fabian,3,Gerolsteiner,6,2006,-
+24.0,124.0,10.0,4,Hernández Aitor,4,Euskaltel - Euskadi,6,2006,-
+25.0,188.0,9.0,5,Schröder Björn,5,Milram,6,2006,-
+33.0,123.0,7.0,6,Etxebarria Unai,6,Euskaltel - Euskadi,6,2006,-
+35.0,32.0,6.0,7,Arrieta José Luis,7,AG2R Prévoyance,6,2006,-
+28.0,196.0,6.0,8,Laurent Christophe,8,Agritubel,6,2006,-
+25.0,36.0,6.0,9,Dumoulin Samuel,9,AG2R Prévoyance,6,2006,-
+34.0,17.0,6.0,10,Voigt Jens,10,CSC ProTeam,6,2006,-
+30.0,176.0,5.0,11,Lefèvre Laurent,11,Bouygues Telecom,6,2006,-
+27.0,24.0,4.0,12,Kessler Matthias,12,T-Mobile Team,6,2006,-
+36.0,22.0,4.0,,Guerini Giuseppe,13,T-Mobile Team,6,2006,-
+24.0,154.0,3.0,13,Gilbert Philippe,14,Française des Jeux,6,2006,▼1
+25.0,127.0,3.0,,López David,15,Euskaltel - Euskadi,6,2006,-
+27.0,174.0,3.0,14,Fédrigo Pierrick,16,Bouygues Telecom,6,2006,▼2
+34.0,52.0,2.0,15*,Boogerd Michael,17*,Rabobank ProTeam,6,2006,-
+28.0,4.0,2.0,16,Martínez Egoi,18,Discovery Channel,6,2006,▼2
+24.0,179.0,2.0,17,Sprick Matthieu,19,Bouygues Telecom,6,2006,▼2
+25.0,101.0,2.0,18,Boonen Tom,20,Quickstep - Innergetic,6,2006,▼2
+26.0,175.0,1.0,19,Geslin Anthony,21,Bouygues Telecom,6,2006,▼2
+30.0,104.0,1.0,,Garate Juan Manuel,22,Quickstep - Innergetic,6,2006,-
+26.0,193.0,1.0,20,Coutouly Cédric,23,Agritubel,6,2006,▼3
+26.0,177.0,28.0,1,Pineau Jérôme,1,Bouygues Telecom,7,2006,-
+25.0,143.0,17.0,2,de la Fuente David,2,Saunier Duval - Prodir,7,2006,-
+26.0,47.0,15.0,3,Wegmann Fabian,3,Gerolsteiner,7,2006,-
+24.0,124.0,10.0,4,Hernández Aitor,4,Euskaltel - Euskadi,7,2006,-
+25.0,188.0,9.0,5,Schröder Björn,5,Milram,7,2006,-
+33.0,123.0,7.0,6,Etxebarria Unai,6,Euskaltel - Euskadi,7,2006,-
+35.0,32.0,6.0,7,Arrieta José Luis,7,AG2R Prévoyance,7,2006,-
+28.0,196.0,6.0,8,Laurent Christophe,8,Agritubel,7,2006,-
+25.0,36.0,6.0,9,Dumoulin Samuel,9,AG2R Prévoyance,7,2006,-
+34.0,17.0,6.0,10,Voigt Jens,10,CSC ProTeam,7,2006,-
+30.0,176.0,5.0,11,Lefèvre Laurent,11,Bouygues Telecom,7,2006,-
+27.0,24.0,4.0,12,Kessler Matthias,12,T-Mobile Team,7,2006,-
+36.0,22.0,4.0,13,Guerini Giuseppe,13,T-Mobile Team,7,2006,-
+24.0,154.0,3.0,14,Gilbert Philippe,14,Française des Jeux,7,2006,-
+25.0,127.0,3.0,15,López David,15,Euskaltel - Euskadi,7,2006,-
+27.0,174.0,3.0,16,Fédrigo Pierrick,16,Bouygues Telecom,7,2006,-
+28.0,4.0,2.0,18,Martínez Egoi,17,Discovery Channel,7,2006,▲1
+34.0,52.0,2.0,17*,Boogerd Michael,18*,Rabobank ProTeam,7,2006,-
+24.0,179.0,2.0,19,Sprick Matthieu,19,Bouygues Telecom,7,2006,-
+25.0,101.0,2.0,20,Boonen Tom,20,Quickstep - Innergetic,7,2006,-
+26.0,175.0,1.0,21,Geslin Anthony,21,Bouygues Telecom,7,2006,-
+30.0,104.0,1.0,22,Garate Juan Manuel,22,Quickstep - Innergetic,7,2006,-
+26.0,193.0,1.0,23,Coutouly Cédric,23,Agritubel,7,2006,-
+26.0,177.0,28.0,1,Pineau Jérôme,1,Bouygues Telecom,8,2006,-
+25.0,143.0,17.0,2,de la Fuente David,2,Saunier Duval - Prodir,8,2006,-
+26.0,47.0,15.0,3,Wegmann Fabian,3,Gerolsteiner,8,2006,-
+27.0,34.0,13.0,,Calzati Sylvain,4,AG2R Prévoyance,8,2006,-
+24.0,124.0,10.0,4,Hernández Aitor,5,Euskaltel - Euskadi,8,2006,▼1
+25.0,188.0,9.0,5,Schröder Björn,6,Milram,8,2006,▼1
+33.0,123.0,7.0,6,Etxebarria Unai,7,Euskaltel - Euskadi,8,2006,▼1
+27.0,24.0,6.0,12,Kessler Matthias,8,T-Mobile Team,8,2006,▲4
+35.0,32.0,6.0,7,Arrieta José Luis,9,AG2R Prévoyance,8,2006,▼2
+28.0,196.0,6.0,8,Laurent Christophe,10,Agritubel,8,2006,▼2
+25.0,36.0,6.0,9,Dumoulin Samuel,11,AG2R Prévoyance,8,2006,▼2
+34.0,17.0,6.0,10,Voigt Jens,12,CSC ProTeam,8,2006,▼2
+30.0,176.0,5.0,11,Lefèvre Laurent,13,Bouygues Telecom,8,2006,▼2
+31.0,62.0,5.0,,Aerts Mario,14,Davitamon - Lotto,8,2006,-
+36.0,22.0,4.0,13,Guerini Giuseppe,15,T-Mobile Team,8,2006,▼2
+24.0,154.0,3.0,14,Gilbert Philippe,16,Française des Jeux,8,2006,▼2
+25.0,127.0,3.0,15,López David,17,Euskaltel - Euskadi,8,2006,▼2
+27.0,18.0,,,Zabriskie David,18*,CSC ProTeam,8,2006,-
+27.0,174.0,3.0,16,Fédrigo Pierrick,18,Bouygues Telecom,8,2006,▼2
+32.0,116.0,3.0,,Halgand Patrice,19,Crédit Agricole,8,2006,-
+28.0,4.0,3.0,17,Martínez Egoi,20,Discovery Channel,8,2006,▼3
+34.0,52.0,2.0,18*,Boogerd Michael,22*,Rabobank ProTeam,8,2006,-
+24.0,179.0,2.0,19,Sprick Matthieu,22,Bouygues Telecom,8,2006,▼3
+29.0,165.0,2.0,,Carlström Kjell,23,Liquigas,8,2006,-
+25.0,101.0,2.0,20,Boonen Tom,24,Quickstep - Innergetic,8,2006,▼4
+26.0,175.0,2.0,21,Geslin Anthony,25,Bouygues Telecom,8,2006,▼4
+30.0,104.0,1.0,22,Garate Juan Manuel,26,Quickstep - Innergetic,8,2006,▼4
+26.0,193.0,1.0,23,Coutouly Cédric,27,Agritubel,8,2006,▼4
+26.0,177.0,28.0,1,Pineau Jérôme,1,Bouygues Telecom,9,2006,-
+25.0,143.0,17.0,2,de la Fuente David,2,Saunier Duval - Prodir,9,2006,-
+26.0,47.0,15.0,3,Wegmann Fabian,3,Gerolsteiner,9,2006,-
+27.0,34.0,13.0,4,Calzati Sylvain,4,AG2R Prévoyance,9,2006,-
+24.0,124.0,10.0,5,Hernández Aitor,5,Euskaltel - Euskadi,9,2006,-
+25.0,188.0,9.0,6,Schröder Björn,6,Milram,9,2006,-
+33.0,123.0,7.0,7,Etxebarria Unai,7,Euskaltel - Euskadi,9,2006,-
+27.0,24.0,6.0,8,Kessler Matthias,8,T-Mobile Team,9,2006,-
+35.0,32.0,6.0,9,Arrieta José Luis,9,AG2R Prévoyance,9,2006,-
+28.0,196.0,6.0,10,Laurent Christophe,10,Agritubel,9,2006,-
+25.0,36.0,6.0,11,Dumoulin Samuel,11,AG2R Prévoyance,9,2006,-
+34.0,17.0,6.0,12,Voigt Jens,12,CSC ProTeam,9,2006,-
+30.0,176.0,5.0,13,Lefèvre Laurent,13,Bouygues Telecom,9,2006,-
+31.0,62.0,5.0,14,Aerts Mario,14,Davitamon - Lotto,9,2006,-
+36.0,22.0,4.0,15,Guerini Giuseppe,15,T-Mobile Team,9,2006,-
+24.0,154.0,3.0,16,Gilbert Philippe,16,Française des Jeux,9,2006,-
+25.0,127.0,3.0,17,López David,17,Euskaltel - Euskadi,9,2006,-
+27.0,18.0,,18*,Zabriskie David,18*,CSC ProTeam,9,2006,-
+27.0,174.0,3.0,18,Fédrigo Pierrick,18,Bouygues Telecom,9,2006,-
+32.0,116.0,3.0,19,Halgand Patrice,19,Crédit Agricole,9,2006,-
+28.0,4.0,3.0,20,Martínez Egoi,20,Discovery Channel,9,2006,-
+34.0,52.0,2.0,22*,Boogerd Michael,22*,Rabobank ProTeam,9,2006,-
+24.0,179.0,2.0,22,Sprick Matthieu,22,Bouygues Telecom,9,2006,-
+29.0,165.0,2.0,23,Carlström Kjell,23,Liquigas,9,2006,-
+25.0,101.0,2.0,24,Boonen Tom,24,Quickstep - Innergetic,9,2006,-
+26.0,175.0,2.0,25,Geslin Anthony,25,Bouygues Telecom,9,2006,-
+30.0,104.0,1.0,26,Garate Juan Manuel,26,Quickstep - Innergetic,9,2006,-
+26.0,193.0,1.0,27,Coutouly Cédric,27,Agritubel,9,2006,-
+31.0,35.0,54.0,,Dessel Cyril,1,AG2R Prévoyance,10,2006,-
+28.0,191.0,45.0,,Mercado Juan Miguel,2,Agritubel,10,2006,-
+29.0,126.0,38.0,,Landaluze Iñigo,3,Euskaltel - Euskadi,10,2006,-
+32.0,148.0,35.0,,Rinero Christophe,4,Saunier Duval - Prodir,10,2006,-
+26.0,177.0,28.0,1,Pineau Jérôme,5,Bouygues Telecom,10,2006,▼4
+29.0,125.0,26.0,,Isasi Iñaki,6,Euskaltel - Euskadi,10,2006,-
+33.0,136.0,24.0,,Moreni Cristian,7,"Cofidis, le Crédit par Téléphone",10,2006,-
+35.0,109.0,22.0,,Vasseur Cédric,8,Quickstep - Innergetic,10,2006,-
+25.0,143.0,17.0,2,de la Fuente David,9,Saunier Duval - Prodir,10,2006,▼7
+26.0,47.0,15.0,3,Wegmann Fabian,10,Gerolsteiner,10,2006,▼7
+27.0,34.0,13.0,4,Calzati Sylvain,11,AG2R Prévoyance,10,2006,▼7
+24.0,179.0,11.0,22,Sprick Matthieu,12,Bouygues Telecom,10,2006,▲10
+24.0,124.0,10.0,5,Hernández Aitor,13,Euskaltel - Euskadi,10,2006,▼8
+32.0,58.0,10.0,,Rasmussen Michael,14,Rabobank ProTeam,10,2006,-
+25.0,188.0,9.0,6,Schröder Björn,15,Milram,10,2006,▼9
+33.0,123.0,7.0,7,Etxebarria Unai,16,Euskaltel - Euskadi,10,2006,▼9
+27.0,24.0,6.0,8,Kessler Matthias,17,T-Mobile Team,10,2006,▼9
+35.0,32.0,6.0,9,Arrieta José Luis,18,AG2R Prévoyance,10,2006,▼9
+25.0,83.0,6.0,,Bennati Daniele,19,Lampre-Fondital,10,2006,-
+28.0,196.0,6.0,10,Laurent Christophe,20,Agritubel,10,2006,▼10
+25.0,36.0,6.0,11,Dumoulin Samuel,21,AG2R Prévoyance,10,2006,▼10
+34.0,17.0,6.0,12,Voigt Jens,22,CSC ProTeam,10,2006,▼10
+30.0,176.0,5.0,13,Lefèvre Laurent,23,Bouygues Telecom,10,2006,▼10
+31.0,152.0,5.0,,Da Cruz Carlos,24,Française des Jeux,10,2006,-
+31.0,62.0,5.0,14,Aerts Mario,25,Davitamon - Lotto,10,2006,▼11
+36.0,22.0,4.0,15,Guerini Giuseppe,26,T-Mobile Team,10,2006,▼11
+25.0,127.0,3.0,17,López David,27,Euskaltel - Euskadi,10,2006,▼10
+24.0,154.0,3.0,16,Gilbert Philippe,28,Française des Jeux,10,2006,▼12
+27.0,18.0,,18*,Zabriskie David,29*,CSC ProTeam,10,2006,-
+32.0,116.0,3.0,19,Halgand Patrice,29,Crédit Agricole,10,2006,▼10
+27.0,174.0,3.0,18,Fédrigo Pierrick,30,Bouygues Telecom,10,2006,▼12
+28.0,4.0,3.0,20,Martínez Egoi,31,Discovery Channel,10,2006,▼11
+34.0,52.0,2.0,22*,Boogerd Michael,33*,Rabobank ProTeam,10,2006,-
+29.0,165.0,2.0,23,Carlström Kjell,33,Liquigas,10,2006,▼10
+25.0,101.0,2.0,24,Boonen Tom,34,Quickstep - Innergetic,10,2006,▼10
+26.0,175.0,2.0,25,Geslin Anthony,35,Bouygues Telecom,10,2006,▼10
+30.0,104.0,1.0,26,Garate Juan Manuel,36,Quickstep - Innergetic,10,2006,▼10
+26.0,193.0,1.0,27,Coutouly Cédric,37,Agritubel,10,2006,▼10
+25.0,143.0,80.0,9,de la Fuente David,1,Saunier Duval - Prodir,11,2006,▲8
+31.0,35.0,62.0,1,Dessel Cyril,2,AG2R Prévoyance,11,2006,▼1
+26.0,47.0,61.0,10,Wegmann Fabian,3,Gerolsteiner,11,2006,▲7
+32.0,58.0,49.0,14,Rasmussen Michael,4,Rabobank ProTeam,11,2006,▲10
+28.0,191.0,45.0,2,Mercado Juan Miguel,5,Agritubel,11,2006,▼3
+34.0,52.0,41.0,33*,Boogerd Michael,6*,Rabobank ProTeam,11,2006,-
+29.0,126.0,41.0,3,Landaluze Iñigo,7,Euskaltel - Euskadi,11,2006,▼4
+28.0,55.0,38.0,,Flecha Juan Antonio,8,Rabobank ProTeam,11,2006,-
+30.0,71.0,,,Landis Floyd,9*,Phonak Hearing Systems,11,2006,-
+32.0,148.0,36.0,4,Rinero Christophe,9,Saunier Duval - Prodir,11,2006,▼5
+28.0,51.0,35.0,,Menchov Denis,10,Rabobank ProTeam,11,2006,-
+26.0,177.0,35.0,5,Pineau Jérôme,11,Bouygues Telecom,11,2006,▼6
+32.0,41.0,,,Leipheimer Levi,13*,Gerolsteiner,11,2006,-
+29.0,125.0,30.0,6,Isasi Iñaki,12,Euskaltel - Euskadi,11,2006,▼6
+31.0,14.0,28.0,,Sastre Carlos,13,CSC ProTeam,11,2006,-
+27.0,122.0,28.0,,Camaño Iker,14,Euskaltel - Euskadi,11,2006,-
+33.0,136.0,26.0,7,Moreni Cristian,15,"Cofidis, le Crédit par Téléphone",11,2006,▼8
+35.0,109.0,25.0,8,Vasseur Cédric,16,Quickstep - Innergetic,11,2006,▼8
+27.0,171.0,25.0,,Voeckler Thomas,17,Bouygues Telecom,11,2006,-
+29.0,61.0,24.0,,Evans Cadel,18,Davitamon - Lotto,11,2006,-
+35.0,31.0,22.0,,Moreau Christophe,19,AG2R Prévoyance,11,2006,-
+27.0,34.0,20.0,11,Calzati Sylvain,20,AG2R Prévoyance,11,2006,▼9
+35.0,32.0,16.0,18,Arrieta José Luis,21,AG2R Prévoyance,11,2006,▼3
+31.0,21.0,14.0,,Klöden Andreas,22,T-Mobile Team,11,2006,-
+30.0,111.0,13.0,,Caucchioli Pietro,23,Crédit Agricole,11,2006,-
+24.0,179.0,12.0,12,Sprick Matthieu,24,Bouygues Telecom,11,2006,▼12
+24.0,124.0,12.0,13,Hernández Aitor,25,Euskaltel - Euskadi,11,2006,▼12
+29.0,129.0,12.0,,Zubeldia Haimar,26,Euskaltel - Euskadi,11,2006,-
+26.0,15.0,11.0,,Schleck Fränk,27,CSC ProTeam,11,2006,-
+25.0,188.0,10.0,15,Schröder Björn,28,Milram,11,2006,▼13
+35.0,46.0,10.0,,Totschnig Georg,29,Gerolsteiner,11,2006,-
+33.0,123.0,10.0,16,Etxebarria Unai,30,Euskaltel - Euskadi,11,2006,▼14
+27.0,24.0,9.0,17,Kessler Matthias,31,T-Mobile Team,11,2006,▼14
+25.0,83.0,7.0,19,Bennati Daniele,32,Lampre-Fondital,11,2006,▼13
+28.0,196.0,7.0,20,Laurent Christophe,33,Agritubel,11,2006,▼13
+25.0,36.0,6.0,21,Dumoulin Samuel,34,AG2R Prévoyance,11,2006,▼13
+34.0,17.0,6.0,22,Voigt Jens,35,CSC ProTeam,11,2006,▼13
+30.0,176.0,6.0,23,Lefèvre Laurent,36,Bouygues Telecom,11,2006,▼13
+36.0,38.0,6.0,,Goubert Stéphane,37,AG2R Prévoyance,11,2006,-
+31.0,152.0,6.0,24,Da Cruz Carlos,38,Française des Jeux,11,2006,▼14
+31.0,62.0,5.0,25,Aerts Mario,39,Davitamon - Lotto,11,2006,▼14
+36.0,22.0,5.0,26,Guerini Giuseppe,40,T-Mobile Team,11,2006,▼14
+24.0,154.0,5.0,28,Gilbert Philippe,41,Française des Jeux,11,2006,▼13
+25.0,127.0,5.0,27,López David,42,Euskaltel - Euskadi,11,2006,▼15
+27.0,174.0,4.0,30,Fédrigo Pierrick,43,Bouygues Telecom,11,2006,▼13
+32.0,116.0,3.0,29,Halgand Patrice,44,Crédit Agricole,11,2006,▼15
+27.0,18.0,,29*,Zabriskie David,47*,CSC ProTeam,11,2006,-
+28.0,4.0,3.0,31,Martínez Egoi,45,Discovery Channel,11,2006,▼14
+29.0,165.0,3.0,33,Carlström Kjell,46,Liquigas,11,2006,▼13
+25.0,101.0,3.0,34,Boonen Tom,47,Quickstep - Innergetic,11,2006,▼13
+26.0,175.0,3.0,35,Geslin Anthony,48,Bouygues Telecom,11,2006,▼13
+30.0,104.0,2.0,36,Garate Juan Manuel,49,Quickstep - Innergetic,11,2006,▼13
+26.0,193.0,2.0,37,Coutouly Cédric,50,Agritubel,11,2006,▼13
+25.0,143.0,80.0,1,de la Fuente David,1,Saunier Duval - Prodir,12,2006,-
+31.0,35.0,62.0,2,Dessel Cyril,2,AG2R Prévoyance,12,2006,-
+26.0,47.0,61.0,3,Wegmann Fabian,3,Gerolsteiner,12,2006,-
+32.0,58.0,61.0,4,Rasmussen Michael,4,Rabobank ProTeam,12,2006,-
+28.0,191.0,45.0,5,Mercado Juan Miguel,5,Agritubel,12,2006,-
+34.0,52.0,41.0,6*,Boogerd Michael,6*,Rabobank ProTeam,12,2006,-
+29.0,126.0,41.0,7,Landaluze Iñigo,7,Euskaltel - Euskadi,12,2006,-
+28.0,55.0,38.0,8,Flecha Juan Antonio,8,Rabobank ProTeam,12,2006,-
+30.0,71.0,,9*,Landis Floyd,9*,Phonak Hearing Systems,12,2006,-
+32.0,148.0,36.0,9,Rinero Christophe,9,Saunier Duval - Prodir,12,2006,-
+28.0,51.0,35.0,10,Menchov Denis,10,Rabobank ProTeam,12,2006,-
+26.0,177.0,35.0,11,Pineau Jérôme,11,Bouygues Telecom,12,2006,-
+32.0,41.0,,13*,Leipheimer Levi,13*,Gerolsteiner,12,2006,-
+29.0,125.0,30.0,12,Isasi Iñaki,12,Euskaltel - Euskadi,12,2006,-
+31.0,14.0,28.0,13,Sastre Carlos,13,CSC ProTeam,12,2006,-
+27.0,122.0,28.0,14,Camaño Iker,14,Euskaltel - Euskadi,12,2006,-
+33.0,136.0,26.0,15,Moreni Cristian,15,"Cofidis, le Crédit par Téléphone",12,2006,-
+35.0,109.0,25.0,16,Vasseur Cédric,16,Quickstep - Innergetic,12,2006,-
+27.0,171.0,25.0,17,Voeckler Thomas,17,Bouygues Telecom,12,2006,-
+29.0,61.0,24.0,18,Evans Cadel,18,Davitamon - Lotto,12,2006,-
+35.0,31.0,22.0,19,Moreau Christophe,19,AG2R Prévoyance,12,2006,-
+27.0,34.0,20.0,20,Calzati Sylvain,20,AG2R Prévoyance,12,2006,-
+25.0,83.0,16.0,32,Bennati Daniele,21,Lampre-Fondital,12,2006,▲11
+35.0,32.0,14.0,21,Arrieta José Luis,22,AG2R Prévoyance,12,2006,▼1
+31.0,21.0,13.0,22,Klöden Andreas,23,T-Mobile Team,12,2006,▼1
+30.0,111.0,13.0,23,Caucchioli Pietro,24,Crédit Agricole,12,2006,▼1
+34.0,17.0,12.0,35,Voigt Jens,25,CSC ProTeam,12,2006,▲10
+24.0,179.0,12.0,24,Sprick Matthieu,26,Bouygues Telecom,12,2006,▼2
+24.0,124.0,12.0,25,Hernández Aitor,27,Euskaltel - Euskadi,12,2006,▼2
+29.0,129.0,12.0,26,Zubeldia Haimar,28,Euskaltel - Euskadi,12,2006,▼2
+26.0,15.0,11.0,27,Schleck Fränk,29,CSC ProTeam,12,2006,▼2
+36.0,22.0,10.0,40,Guerini Giuseppe,30,T-Mobile Team,12,2006,▲10
+25.0,188.0,10.0,28,Schröder Björn,31,Milram,12,2006,▼3
+33.0,3.0,,,Hincapie George,34*,Discovery Channel,12,2006,-
+28.0,97.0,9.0,,Pereiro Óscar,33,Caisse d'Epargne - Illes Balears,12,2006,-
+35.0,46.0,9.0,29,Totschnig Georg,34,Gerolsteiner,12,2006,▼5
+33.0,123.0,9.0,30,Etxebarria Unai,35,Euskaltel - Euskadi,12,2006,▼5
+27.0,24.0,9.0,31,Kessler Matthias,36,T-Mobile Team,12,2006,▼5
+28.0,196.0,7.0,33,Laurent Christophe,37,Agritubel,12,2006,▼4
+25.0,36.0,7.0,34,Dumoulin Samuel,38,AG2R Prévoyance,12,2006,▼4
+25.0,119.0,6.0,,Le Mével Christophe,39,Crédit Agricole,12,2006,-
+30.0,176.0,6.0,36,Lefèvre Laurent,40,Bouygues Telecom,12,2006,▼4
+36.0,38.0,6.0,37,Goubert Stéphane,41,AG2R Prévoyance,12,2006,▼4
+31.0,152.0,5.0,38,Da Cruz Carlos,42,Française des Jeux,12,2006,▼4
+31.0,62.0,5.0,39,Aerts Mario,43,Davitamon - Lotto,12,2006,▼4
+26.0,7.0,5.0,,Popovych Yaroslav,44,Discovery Channel,12,2006,-
+29.0,146.0,5.0,,Millar David,45,Saunier Duval - Prodir,12,2006,-
+24.0,154.0,5.0,41,Gilbert Philippe,46,Française des Jeux,12,2006,▼5
+25.0,127.0,4.0,42,López David,47,Euskaltel - Euskadi,12,2006,▼5
+27.0,174.0,3.0,43,Fédrigo Pierrick,48,Bouygues Telecom,12,2006,▼5
+32.0,116.0,3.0,44,Halgand Patrice,49,Crédit Agricole,12,2006,▼5
+27.0,18.0,,47*,Zabriskie David,52*,CSC ProTeam,12,2006,-
+28.0,4.0,3.0,45,Martínez Egoi,50,Discovery Channel,12,2006,▼5
+30.0,56.0,3.0,,Freire Óscar,51,Rabobank ProTeam,12,2006,-
+29.0,165.0,3.0,46,Carlström Kjell,52,Liquigas,12,2006,▼6
+26.0,82.0,3.0,,Ballan Alessandro,53,Lampre-Fondital,12,2006,-
+25.0,101.0,2.0,47,Boonen Tom,54,Quickstep - Innergetic,12,2006,▼7
+26.0,175.0,2.0,48,Geslin Anthony,55,Bouygues Telecom,12,2006,▼7
+30.0,104.0,2.0,49,Garate Juan Manuel,56,Quickstep - Innergetic,12,2006,▼7
+26.0,193.0,1.0,50,Coutouly Cédric,57,Agritubel,12,2006,▼7
+25.0,143.0,80.0,1,de la Fuente David,1,Saunier Duval - Prodir,13,2006,-
+31.0,35.0,62.0,2,Dessel Cyril,2,AG2R Prévoyance,13,2006,-
+26.0,47.0,61.0,3,Wegmann Fabian,3,Gerolsteiner,13,2006,-
+32.0,58.0,61.0,4,Rasmussen Michael,4,Rabobank ProTeam,13,2006,-
+28.0,191.0,45.0,5,Mercado Juan Miguel,5,Agritubel,13,2006,-
+34.0,52.0,41.0,6*,Boogerd Michael,6*,Rabobank ProTeam,13,2006,-
+29.0,126.0,41.0,7,Landaluze Iñigo,7,Euskaltel - Euskadi,13,2006,-
+28.0,55.0,38.0,8,Flecha Juan Antonio,8,Rabobank ProTeam,13,2006,-
+30.0,71.0,,9*,Landis Floyd,9*,Phonak Hearing Systems,13,2006,-
+32.0,148.0,36.0,9,Rinero Christophe,9,Saunier Duval - Prodir,13,2006,-
+28.0,51.0,35.0,10,Menchov Denis,10,Rabobank ProTeam,13,2006,-
+26.0,177.0,35.0,11,Pineau Jérôme,11,Bouygues Telecom,13,2006,-
+32.0,41.0,,13*,Leipheimer Levi,13*,Gerolsteiner,13,2006,-
+29.0,125.0,30.0,12,Isasi Iñaki,12,Euskaltel - Euskadi,13,2006,-
+31.0,14.0,28.0,13,Sastre Carlos,13,CSC ProTeam,13,2006,-
+27.0,122.0,28.0,14,Camaño Iker,14,Euskaltel - Euskadi,13,2006,-
+33.0,136.0,26.0,15,Moreni Cristian,15,"Cofidis, le Crédit par Téléphone",13,2006,-
+35.0,109.0,25.0,16,Vasseur Cédric,16,Quickstep - Innergetic,13,2006,-
+27.0,171.0,25.0,17,Voeckler Thomas,17,Bouygues Telecom,13,2006,-
+34.0,17.0,24.0,25,Voigt Jens,18,CSC ProTeam,13,2006,▲7
+29.0,61.0,22.0,18,Evans Cadel,19,Davitamon - Lotto,13,2006,▼1
+28.0,97.0,20.0,33,Pereiro Óscar,20,Caisse d'Epargne - Illes Balears,13,2006,▲13
+35.0,31.0,16.0,19,Moreau Christophe,21,AG2R Prévoyance,13,2006,▼2
+27.0,34.0,16.0,20,Calzati Sylvain,22,AG2R Prévoyance,13,2006,▼2
+25.0,83.0,15.0,21,Bennati Daniele,23,Lampre-Fondital,13,2006,▼2
+35.0,32.0,14.0,22,Arrieta José Luis,24,AG2R Prévoyance,13,2006,▼2
+31.0,21.0,13.0,23,Klöden Andreas,25,T-Mobile Team,13,2006,▼2
+30.0,111.0,13.0,24,Caucchioli Pietro,26,Crédit Agricole,13,2006,▼2
+24.0,179.0,12.0,26,Sprick Matthieu,27,Bouygues Telecom,13,2006,▼1
+24.0,124.0,12.0,27,Hernández Aitor,28,Euskaltel - Euskadi,13,2006,▼1
+27.0,134.0,12.0,,Chavanel Sylvain,29,"Cofidis, le Crédit par Téléphone",13,2006,-
+29.0,129.0,11.0,28,Zubeldia Haimar,30,Euskaltel - Euskadi,13,2006,▼2
+26.0,15.0,10.0,29,Schleck Fränk,31,CSC ProTeam,13,2006,▼2
+36.0,22.0,10.0,30,Guerini Giuseppe,32,T-Mobile Team,13,2006,▼2
+25.0,188.0,10.0,31,Schröder Björn,33,Milram,13,2006,▼2
+33.0,3.0,,34*,Hincapie George,36*,Discovery Channel,13,2006,-
+22.0,184.0,9.0,,Grivko Andrey,35,Milram,13,2006,-
+35.0,46.0,9.0,34,Totschnig Georg,36,Gerolsteiner,13,2006,▼2
+33.0,123.0,9.0,35,Etxebarria Unai,37,Euskaltel - Euskadi,13,2006,▼2
+27.0,24.0,7.0,36,Kessler Matthias,38,T-Mobile Team,13,2006,▼2
+28.0,196.0,7.0,37,Laurent Christophe,39,Agritubel,13,2006,▼2
+25.0,36.0,7.0,38,Dumoulin Samuel,40,AG2R Prévoyance,13,2006,▼2
+25.0,119.0,6.0,39,Le Mével Christophe,41,Crédit Agricole,13,2006,▼2
+30.0,176.0,6.0,40,Lefèvre Laurent,42,Bouygues Telecom,13,2006,▼2
+36.0,38.0,6.0,41,Goubert Stéphane,43,AG2R Prévoyance,13,2006,▼2
+31.0,152.0,5.0,42,Da Cruz Carlos,44,Française des Jeux,13,2006,▼2
+31.0,62.0,5.0,43,Aerts Mario,45,Davitamon - Lotto,13,2006,▼2
+26.0,7.0,5.0,44,Popovych Yaroslav,46,Discovery Channel,13,2006,▼2
+29.0,146.0,5.0,45,Millar David,47,Saunier Duval - Prodir,13,2006,▼2
+24.0,154.0,5.0,46,Gilbert Philippe,48,Française des Jeux,13,2006,▼2
+25.0,127.0,4.0,47,López David,49,Euskaltel - Euskadi,13,2006,▼2
+27.0,174.0,3.0,48,Fédrigo Pierrick,50,Bouygues Telecom,13,2006,▼2
+32.0,116.0,3.0,49,Halgand Patrice,51,Crédit Agricole,13,2006,▼2
+26.0,169.0,3.0,,Quinziato Manuel,52,Liquigas,13,2006,-
+27.0,18.0,,52*,Zabriskie David,55*,CSC ProTeam,13,2006,-
+28.0,4.0,3.0,50,Martínez Egoi,53,Discovery Channel,13,2006,▼3
+30.0,56.0,3.0,51,Freire Óscar,54,Rabobank ProTeam,13,2006,▼3
+29.0,165.0,3.0,52,Carlström Kjell,55,Liquigas,13,2006,▼3
+26.0,82.0,3.0,53,Ballan Alessandro,56,Lampre-Fondital,13,2006,▼3
+25.0,101.0,2.0,54,Boonen Tom,57,Quickstep - Innergetic,13,2006,▼3
+26.0,175.0,2.0,55,Geslin Anthony,58,Bouygues Telecom,13,2006,▼3
+30.0,104.0,2.0,56,Garate Juan Manuel,59,Quickstep - Innergetic,13,2006,▼3
+26.0,193.0,1.0,57,Coutouly Cédric,60,Agritubel,13,2006,▼3
+25.0,143.0,80.0,1,de la Fuente David,1,Saunier Duval - Prodir,14,2006,-
+32.0,58.0,73.0,4,Rasmussen Michael,2,Rabobank ProTeam,14,2006,▲2
+31.0,35.0,62.0,2,Dessel Cyril,3,AG2R Prévoyance,14,2006,▼1
+26.0,47.0,61.0,3,Wegmann Fabian,4,Gerolsteiner,14,2006,▼1
+34.0,52.0,61.0,6*,Boogerd Michael,5*,Rabobank ProTeam,14,2006,-
+28.0,191.0,61.0,5,Mercado Juan Miguel,6,Agritubel,14,2006,▼1
+29.0,126.0,45.0,7,Landaluze Iñigo,7,Euskaltel - Euskadi,14,2006,-
+28.0,55.0,38.0,8,Flecha Juan Antonio,8,Rabobank ProTeam,14,2006,-
+30.0,71.0,,9*,Landis Floyd,9*,Phonak Hearing Systems,14,2006,-
+32.0,148.0,36.0,9,Rinero Christophe,9,Saunier Duval - Prodir,14,2006,-
+31.0,85.0,35.0,,Commesso Salvatore,10,Lampre-Fondital,14,2006,-
+28.0,51.0,35.0,10,Menchov Denis,11,Rabobank ProTeam,14,2006,▼1
+27.0,174.0,31.0,50,Fédrigo Pierrick,12,Bouygues Telecom,14,2006,▲38
+26.0,177.0,30.0,11,Pineau Jérôme,13,Bouygues Telecom,14,2006,▼2
+32.0,41.0,,13*,Leipheimer Levi,15*,Gerolsteiner,14,2006,-
+29.0,125.0,30.0,12,Isasi Iñaki,14,Euskaltel - Euskadi,14,2006,▼2
+31.0,14.0,28.0,13,Sastre Carlos,15,CSC ProTeam,14,2006,▼2
+27.0,122.0,28.0,14,Camaño Iker,16,Euskaltel - Euskadi,14,2006,▼2
+33.0,136.0,26.0,15,Moreni Cristian,17,"Cofidis, le Crédit par Téléphone",14,2006,▼2
+26.0,15.0,25.0,31,Schleck Fränk,18,CSC ProTeam,14,2006,▲13
+35.0,109.0,25.0,16,Vasseur Cédric,19,Quickstep - Innergetic,14,2006,▼3
+29.0,129.0,24.0,30,Zubeldia Haimar,20,Euskaltel - Euskadi,14,2006,▲10
+27.0,171.0,24.0,17,Voeckler Thomas,21,Bouygues Telecom,14,2006,▼4
+31.0,62.0,22.0,45,Aerts Mario,22,Davitamon - Lotto,14,2006,▲23
+34.0,17.0,20.0,18,Voigt Jens,23,CSC ProTeam,14,2006,▼5
+29.0,61.0,20.0,19,Evans Cadel,24,Davitamon - Lotto,14,2006,▼5
+28.0,97.0,17.0,20,Pereiro Óscar,25,Caisse d'Epargne - Illes Balears,14,2006,▼5
+27.0,24.0,16.0,38,Kessler Matthias,26,T-Mobile Team,14,2006,▲12
+35.0,31.0,16.0,21,Moreau Christophe,27,AG2R Prévoyance,14,2006,▼6
+27.0,34.0,15.0,22,Calzati Sylvain,28,AG2R Prévoyance,14,2006,▼6
+25.0,83.0,14.0,23,Bennati Daniele,29,Lampre-Fondital,14,2006,▼6
+35.0,32.0,14.0,24,Arrieta José Luis,30,AG2R Prévoyance,14,2006,▼6
+31.0,21.0,13.0,25,Klöden Andreas,31,T-Mobile Team,14,2006,▼6
+30.0,111.0,13.0,26,Caucchioli Pietro,32,Crédit Agricole,14,2006,▼6
+24.0,179.0,12.0,27,Sprick Matthieu,33,Bouygues Telecom,14,2006,▼6
+24.0,124.0,12.0,28,Hernández Aitor,34,Euskaltel - Euskadi,14,2006,▼6
+27.0,134.0,12.0,29,Chavanel Sylvain,35,"Cofidis, le Crédit par Téléphone",14,2006,▼6
+36.0,22.0,11.0,32,Guerini Giuseppe,36,T-Mobile Team,14,2006,▼4
+25.0,188.0,10.0,33,Schröder Björn,37,Milram,14,2006,▼4
+33.0,3.0,,36*,Hincapie George,40*,Discovery Channel,14,2006,-
+22.0,184.0,9.0,35,Grivko Andrey,39,Milram,14,2006,▼4
+35.0,46.0,9.0,36,Totschnig Georg,40,Gerolsteiner,14,2006,▼4
+33.0,123.0,9.0,37,Etxebarria Unai,41,Euskaltel - Euskadi,14,2006,▼4
+36.0,38.0,7.0,43,Goubert Stéphane,42,AG2R Prévoyance,14,2006,▲1
+28.0,196.0,7.0,39,Laurent Christophe,43,Agritubel,14,2006,▼4
+25.0,36.0,7.0,40,Dumoulin Samuel,44,AG2R Prévoyance,14,2006,▼4
+25.0,119.0,6.0,41,Le Mével Christophe,45,Crédit Agricole,14,2006,▼4
+30.0,176.0,6.0,42,Lefèvre Laurent,46,Bouygues Telecom,14,2006,▼4
+31.0,152.0,6.0,44,Da Cruz Carlos,47,Française des Jeux,14,2006,▼3
+26.0,7.0,5.0,46,Popovych Yaroslav,48,Discovery Channel,14,2006,▼2
+29.0,146.0,5.0,47,Millar David,49,Saunier Duval - Prodir,14,2006,▼2
+32.0,25.0,5.0,,Mazzoleni Eddy,50,T-Mobile Team,14,2006,-
+25.0,127.0,4.0,49,López David,51,Euskaltel - Euskadi,14,2006,▼2
+24.0,154.0,3.0,48,Gilbert Philippe,52,Française des Jeux,14,2006,▼4
+32.0,116.0,3.0,51,Halgand Patrice,53,Crédit Agricole,14,2006,▼2
+26.0,169.0,3.0,52,Quinziato Manuel,54,Liquigas,14,2006,▼2
+27.0,18.0,,55*,Zabriskie David,57*,CSC ProTeam,14,2006,-
+28.0,4.0,3.0,53,Martínez Egoi,55,Discovery Channel,14,2006,▼2
+30.0,56.0,3.0,54,Freire Óscar,56,Rabobank ProTeam,14,2006,▼2
+24.0,106.0,3.0,,Rujano José Humberto,57,Quickstep - Innergetic,14,2006,-
+29.0,165.0,3.0,55,Carlström Kjell,58,Liquigas,14,2006,▼3
+26.0,82.0,2.0,56,Ballan Alessandro,59,Lampre-Fondital,14,2006,▼3
+26.0,175.0,2.0,58,Geslin Anthony,60,Bouygues Telecom,14,2006,▼2
+25.0,101.0,2.0,57,Boonen Tom,61,Quickstep - Innergetic,14,2006,▼4
+30.0,104.0,2.0,59,Garate Juan Manuel,62,Quickstep - Innergetic,14,2006,▼3
+26.0,193.0,1.0,60,Coutouly Cédric,63,Agritubel,14,2006,▼3
+25.0,143.0,108.0,1,de la Fuente David,1,Saunier Duval - Prodir,15,2006,-
+26.0,15.0,74.0,18,Schleck Fränk,2,CSC ProTeam,15,2006,▲16
+32.0,58.0,73.0,2,Rasmussen Michael,3,Rabobank ProTeam,15,2006,▼1
+30.0,71.0,,9*,Landis Floyd,4*,Phonak Hearing Systems,15,2006,-
+31.0,35.0,63.0,3,Dessel Cyril,4,AG2R Prévoyance,15,2006,▼1
+26.0,47.0,62.0,4,Wegmann Fabian,5,Gerolsteiner,15,2006,▼1
+34.0,52.0,61.0,5*,Boogerd Michael,7*,Rabobank ProTeam,15,2006,-
+33.0,166.0,61.0,,Garzelli Stefano,7,Liquigas,15,2006,-
+24.0,81.0,61.0,,Cunego Damiano,8,Lampre-Fondital,15,2006,-
+28.0,191.0,60.0,6,Mercado Juan Miguel,9,Agritubel,15,2006,▼3
+29.0,126.0,52.0,7,Landaluze Iñigo,10,Euskaltel - Euskadi,15,2006,▼3
+32.0,41.0,,15*,Leipheimer Levi,12*,Gerolsteiner,15,2006,-
+31.0,14.0,45.0,15,Sastre Carlos,11,CSC ProTeam,15,2006,▲4
+31.0,21.0,38.0,31,Klöden Andreas,12,T-Mobile Team,15,2006,▲19
+28.0,55.0,38.0,8,Flecha Juan Antonio,13,Rabobank ProTeam,15,2006,▼5
+32.0,148.0,37.0,9,Rinero Christophe,14,Saunier Duval - Prodir,15,2006,▼5
+31.0,85.0,36.0,10,Commesso Salvatore,15,Lampre-Fondital,15,2006,▼5
+28.0,51.0,36.0,11,Menchov Denis,16,Rabobank ProTeam,15,2006,▼5
+27.0,174.0,35.0,12,Fédrigo Pierrick,17,Bouygues Telecom,15,2006,▼5
+34.0,17.0,31.0,23,Voigt Jens,18,CSC ProTeam,15,2006,▲5
+26.0,177.0,30.0,13,Pineau Jérôme,19,Bouygues Telecom,15,2006,▼6
+27.0,134.0,30.0,35,Chavanel Sylvain,20,"Cofidis, le Crédit par Téléphone",15,2006,▲15
+29.0,125.0,29.0,14,Isasi Iñaki,21,Euskaltel - Euskadi,15,2006,▼7
+27.0,122.0,28.0,16,Camaño Iker,22,Euskaltel - Euskadi,15,2006,▼6
+33.0,136.0,26.0,17,Moreni Cristian,23,"Cofidis, le Crédit par Téléphone",15,2006,▼6
+30.0,89.0,26.0,,Vila Francisco Javier,24,Lampre-Fondital,15,2006,-
+35.0,109.0,25.0,19,Vasseur Cédric,25,Quickstep - Innergetic,15,2006,▼6
+27.0,145.0,24.0,,Lobato Rubén,26,Saunier Duval - Prodir,15,2006,-
+29.0,129.0,23.0,20,Zubeldia Haimar,27,Euskaltel - Euskadi,15,2006,▼7
+27.0,171.0,22.0,21,Voeckler Thomas,28,Bouygues Telecom,15,2006,▼7
+35.0,32.0,20.0,30,Arrieta José Luis,29,AG2R Prévoyance,15,2006,▲1
+32.0,25.0,20.0,50,Mazzoleni Eddy,30,T-Mobile Team,15,2006,▲20
+31.0,62.0,20.0,22,Aerts Mario,31,Davitamon - Lotto,15,2006,▼9
+29.0,61.0,19.0,24,Evans Cadel,32,Davitamon - Lotto,15,2006,▼8
+28.0,97.0,17.0,25,Pereiro Óscar,33,Caisse d'Epargne - Illes Balears,15,2006,▼8
+27.0,24.0,17.0,26,Kessler Matthias,34,T-Mobile Team,15,2006,▼8
+35.0,31.0,16.0,27,Moreau Christophe,35,AG2R Prévoyance,15,2006,▼8
+28.0,4.0,15.0,55,Martínez Egoi,36,Discovery Channel,15,2006,▲19
+27.0,34.0,14.0,28,Calzati Sylvain,37,AG2R Prévoyance,15,2006,▼9
+25.0,83.0,14.0,29,Bennati Daniele,38,Lampre-Fondital,15,2006,▼9
+30.0,111.0,14.0,32,Caucchioli Pietro,39,Crédit Agricole,15,2006,▼7
+24.0,179.0,13.0,33,Sprick Matthieu,40,Bouygues Telecom,15,2006,▼7
+24.0,124.0,13.0,34,Hernández Aitor,41,Euskaltel - Euskadi,15,2006,▼7
+36.0,22.0,12.0,36,Guerini Giuseppe,42,T-Mobile Team,15,2006,▼6
+25.0,188.0,11.0,37,Schröder Björn,43,Milram,15,2006,▼6
+33.0,3.0,,40*,Hincapie George,46*,Discovery Channel,15,2006,-
+27.0,18.0,,57*,Zabriskie David,47*,CSC ProTeam,15,2006,-
+27.0,113.0,9.0,,Charteau Anthony,45,Crédit Agricole,15,2006,-
+35.0,46.0,9.0,40,Totschnig Georg,46,Gerolsteiner,15,2006,▼6
+33.0,123.0,9.0,41,Etxebarria Unai,47,Euskaltel - Euskadi,15,2006,▼6
+36.0,38.0,9.0,42,Goubert Stéphane,48,AG2R Prévoyance,15,2006,▼6
+25.0,36.0,8.0,44,Dumoulin Samuel,49,AG2R Prévoyance,15,2006,▼5
+28.0,196.0,7.0,43,Laurent Christophe,50,Agritubel,15,2006,▼7
+25.0,119.0,7.0,45,Le Mével Christophe,51,Crédit Agricole,15,2006,▼6
+30.0,176.0,6.0,46,Lefèvre Laurent,52,Bouygues Telecom,15,2006,▼6
+33.0,76.0,6.0,,Merckx Axel,53,Phonak Hearing Systems,15,2006,-
+26.0,92.0,6.0,,Arroyo David,54,Caisse d'Epargne - Illes Balears,15,2006,-
+31.0,152.0,5.0,47,Da Cruz Carlos,55,Française des Jeux,15,2006,▼8
+26.0,7.0,5.0,48,Popovych Yaroslav,56,Discovery Channel,15,2006,▼8
+29.0,146.0,5.0,49,Millar David,57,Saunier Duval - Prodir,15,2006,▼8
+25.0,127.0,5.0,51,López David,58,Euskaltel - Euskadi,15,2006,▼7
+24.0,154.0,5.0,52,Gilbert Philippe,59,Française des Jeux,15,2006,▼7
+32.0,116.0,4.0,53,Halgand Patrice,60,Crédit Agricole,15,2006,▼7
+26.0,169.0,3.0,54,Quinziato Manuel,61,Liquigas,15,2006,▼7
+24.0,106.0,3.0,57,Rujano José Humberto,62,Quickstep - Innergetic,15,2006,▼5
+30.0,56.0,3.0,56,Freire Óscar,63,Rabobank ProTeam,15,2006,▼7
+29.0,165.0,3.0,58,Carlström Kjell,64,Liquigas,15,2006,▼6
+26.0,82.0,3.0,59,Ballan Alessandro,65,Lampre-Fondital,15,2006,▼6
+26.0,175.0,2.0,60,Geslin Anthony,66,Bouygues Telecom,15,2006,▼6
+30.0,104.0,2.0,62,Garate Juan Manuel,67,Quickstep - Innergetic,15,2006,▼5
+26.0,193.0,2.0,63,Coutouly Cédric,68,Agritubel,15,2006,▼5
+32.0,58.0,153.0,3,Rasmussen Michael,1,Rabobank ProTeam,16,2006,▲2
+25.0,143.0,108.0,1,de la Fuente David,2,Saunier Duval - Prodir,16,2006,▼1
+26.0,15.0,74.0,2,Schleck Fränk,3,CSC ProTeam,16,2006,▼1
+31.0,35.0,72.0,4,Dessel Cyril,4,AG2R Prévoyance,16,2006,-
+34.0,52.0,69.0,7*,Boogerd Michael,5*,Rabobank ProTeam,16,2006,-
+30.0,71.0,,4*,Landis Floyd,6*,Phonak Hearing Systems,16,2006,-
+31.0,14.0,69.0,11,Sastre Carlos,6,CSC ProTeam,16,2006,▲5
+32.0,41.0,,12*,Leipheimer Levi,8*,Gerolsteiner,16,2006,-
+26.0,47.0,63.0,5,Wegmann Fabian,7,Gerolsteiner,16,2006,▼2
+33.0,166.0,63.0,7,Garzelli Stefano,8,Liquigas,16,2006,▼1
+24.0,81.0,63.0,8,Cunego Damiano,9,Lampre-Fondital,16,2006,▼1
+31.0,21.0,61.0,12,Klöden Andreas,10,T-Mobile Team,16,2006,▲2
+28.0,97.0,60.0,33,Pereiro Óscar,11,Caisse d'Epargne - Illes Balears,16,2006,▲22
+28.0,191.0,52.0,9,Mercado Juan Miguel,12,Agritubel,16,2006,▼3
+29.0,88.0,52.0,,Valjavec Tadej,13,Lampre-Fondital,16,2006,-
+27.0,151.0,47.0,,Casar Sandy,14,Française des Jeux,16,2006,-
+29.0,126.0,45.0,10,Landaluze Iñigo,15,Euskaltel - Euskadi,16,2006,▼5
+27.0,34.0,42.0,37,Calzati Sylvain,16,AG2R Prévoyance,16,2006,▲21
+28.0,51.0,39.0,16,Menchov Denis,17,Rabobank ProTeam,16,2006,▼1
+28.0,55.0,38.0,13,Flecha Juan Antonio,18,Rabobank ProTeam,16,2006,▼5
+32.0,148.0,37.0,14,Rinero Christophe,19,Saunier Duval - Prodir,16,2006,▼5
+29.0,61.0,36.0,32,Evans Cadel,20,Davitamon - Lotto,16,2006,▲12
+31.0,85.0,36.0,15,Commesso Salvatore,21,Lampre-Fondital,16,2006,▼6
+27.0,174.0,35.0,17,Fédrigo Pierrick,22,Bouygues Telecom,16,2006,▼5
+34.0,17.0,34.0,18,Voigt Jens,23,CSC ProTeam,16,2006,▼5
+26.0,177.0,31.0,19,Pineau Jérôme,24,Bouygues Telecom,16,2006,▼5
+35.0,31.0,30.0,35,Moreau Christophe,25,AG2R Prévoyance,16,2006,▲10
+27.0,134.0,29.0,20,Chavanel Sylvain,26,"Cofidis, le Crédit par Téléphone",16,2006,▼6
+29.0,125.0,28.0,21,Isasi Iñaki,27,Euskaltel - Euskadi,16,2006,▼6
+27.0,122.0,28.0,22,Camaño Iker,28,Euskaltel - Euskadi,16,2006,▼6
+33.0,136.0,26.0,23,Moreni Cristian,29,"Cofidis, le Crédit par Téléphone",16,2006,▼6
+30.0,111.0,26.0,39,Caucchioli Pietro,30,Crédit Agricole,16,2006,▲9
+30.0,89.0,25.0,24,Vila Francisco Javier,31,Lampre-Fondital,16,2006,▼7
+35.0,109.0,24.0,25,Vasseur Cédric,32,Quickstep - Innergetic,16,2006,▼7
+27.0,145.0,24.0,26,Lobato Rubén,33,Saunier Duval - Prodir,16,2006,▼7
+29.0,129.0,23.0,27,Zubeldia Haimar,34,Euskaltel - Euskadi,16,2006,▼7
+27.0,171.0,22.0,28,Voeckler Thomas,35,Bouygues Telecom,16,2006,▼7
+35.0,32.0,20.0,29,Arrieta José Luis,36,AG2R Prévoyance,16,2006,▼7
+32.0,25.0,20.0,30,Mazzoleni Eddy,37,T-Mobile Team,16,2006,▼7
+31.0,62.0,20.0,31,Aerts Mario,38,Davitamon - Lotto,16,2006,▼7
+27.0,24.0,19.0,34,Kessler Matthias,39,T-Mobile Team,16,2006,▼5
+28.0,4.0,17.0,36,Martínez Egoi,40,Discovery Channel,16,2006,▼4
+29.0,99.0,17.0,,Zandio Xabier,41,Caisse d'Epargne - Illes Balears,16,2006,-
+32.0,84.0,14.0,,Bruseghin Marzio,42,Lampre-Fondital,16,2006,-
+31.0,131.0,14.0,,Moncoutié David,43,"Cofidis, le Crédit par Téléphone",16,2006,-
+24.0,179.0,13.0,40,Sprick Matthieu,44,Bouygues Telecom,16,2006,▼4
+24.0,124.0,12.0,41,Hernández Aitor,45,Euskaltel - Euskadi,16,2006,▼4
+26.0,7.0,12.0,56,Popovych Yaroslav,46,Discovery Channel,16,2006,▲10
+25.0,27.0,11.0,,Sinkewitz Patrik,47,T-Mobile Team,16,2006,-
+36.0,22.0,10.0,42,Guerini Giuseppe,48,T-Mobile Team,16,2006,▼6
+25.0,188.0,10.0,43,Schröder Björn,49,Milram,16,2006,▼6
+33.0,3.0,,46*,Hincapie George,52*,Discovery Channel,16,2006,-
+27.0,18.0,,47*,Zabriskie David,53*,CSC ProTeam,16,2006,-
+26.0,33.0,9.0,,Astarloza Mikel,51,AG2R Prévoyance,16,2006,-
+27.0,113.0,9.0,45,Charteau Anthony,52,Crédit Agricole,16,2006,▼7
+35.0,46.0,9.0,46,Totschnig Georg,53,Gerolsteiner,16,2006,▼7
+33.0,8.0,9.0,,Rubiera José Luis,54,Discovery Channel,16,2006,-
+33.0,123.0,8.0,47,Etxebarria Unai,55,Euskaltel - Euskadi,16,2006,▼8
+36.0,38.0,8.0,48,Goubert Stéphane,56,AG2R Prévoyance,16,2006,▼8
+25.0,36.0,7.0,49,Dumoulin Samuel,57,AG2R Prévoyance,16,2006,▼8
+28.0,196.0,7.0,50,Laurent Christophe,58,Agritubel,16,2006,▼8
+25.0,119.0,7.0,51,Le Mével Christophe,59,Crédit Agricole,16,2006,▼8
+30.0,176.0,6.0,52,Lefèvre Laurent,60,Bouygues Telecom,16,2006,▼8
+33.0,76.0,6.0,53,Merckx Axel,61,Phonak Hearing Systems,16,2006,▼8
+26.0,92.0,6.0,54,Arroyo David,62,Caisse d'Epargne - Illes Balears,16,2006,▼8
+30.0,137.0,5.0,,Parra Iván Ramiro,63,"Cofidis, le Crédit par Téléphone",16,2006,-
+31.0,152.0,5.0,55,Da Cruz Carlos,64,Française des Jeux,16,2006,▼9
+29.0,146.0,5.0,57,Millar David,65,Saunier Duval - Prodir,16,2006,▼8
+25.0,127.0,5.0,58,López David,66,Euskaltel - Euskadi,16,2006,▼8
+24.0,154.0,5.0,59,Gilbert Philippe,67,Française des Jeux,16,2006,▼8
+32.0,116.0,5.0,60,Halgand Patrice,68,Crédit Agricole,16,2006,▼8
+26.0,169.0,3.0,61,Quinziato Manuel,69,Liquigas,16,2006,▼8
+30.0,56.0,3.0,63,Freire Óscar,70,Rabobank ProTeam,16,2006,▼7
+24.0,106.0,3.0,62,Rujano José Humberto,71,Quickstep - Innergetic,16,2006,▼9
+29.0,165.0,3.0,64,Carlström Kjell,72,Liquigas,16,2006,▼8
+26.0,82.0,3.0,65,Ballan Alessandro,73,Lampre-Fondital,16,2006,▼8
+30.0,104.0,2.0,67,Garate Juan Manuel,74,Quickstep - Innergetic,16,2006,▼7
+26.0,175.0,2.0,66,Geslin Anthony,75,Bouygues Telecom,16,2006,▼9
+26.0,193.0,2.0,68,Coutouly Cédric,76,Agritubel,16,2006,▼8
+32.0,58.0,163.0,1,Rasmussen Michael,1,Rabobank ProTeam,17,2006,-
+30.0,71.0,,6*,Landis Floyd,2*,Phonak Hearing Systems,17,2006,-
+25.0,143.0,131.0,2,de la Fuente David,2,Saunier Duval - Prodir,17,2006,-
+31.0,14.0,113.0,6,Sastre Carlos,3,CSC ProTeam,17,2006,▲3
+26.0,15.0,99.0,3,Schleck Fränk,4,CSC ProTeam,17,2006,▼1
+34.0,52.0,94.0,5*,Boogerd Michael,6*,Rabobank ProTeam,17,2006,-
+24.0,81.0,94.0,9,Cunego Damiano,6,Lampre-Fondital,17,2006,▲3
+31.0,35.0,93.0,4,Dessel Cyril,7,AG2R Prévoyance,17,2006,▼3
+31.0,21.0,80.0,10,Klöden Andreas,8,T-Mobile Team,17,2006,▲2
+32.0,41.0,,8*,Leipheimer Levi,10*,Gerolsteiner,17,2006,-
+28.0,97.0,72.0,11,Pereiro Óscar,9,Caisse d'Epargne - Illes Balears,17,2006,▲2
+26.0,47.0,64.0,7,Wegmann Fabian,10,Gerolsteiner,17,2006,▼3
+33.0,166.0,63.0,8,Garzelli Stefano,11,Liquigas,17,2006,▼3
+35.0,31.0,63.0,25,Moreau Christophe,12,AG2R Prévoyance,17,2006,▲13
+29.0,88.0,61.0,13,Valjavec Tadej,13,Lampre-Fondital,17,2006,-
+32.0,116.0,60.0,68,Halgand Patrice,14,Crédit Agricole,17,2006,▲54
+25.0,27.0,60.0,47,Sinkewitz Patrik,15,T-Mobile Team,17,2006,▲32
+27.0,151.0,42.0,14,Casar Sandy,16,Française des Jeux,17,2006,▼2
+29.0,126.0,41.0,15,Landaluze Iñigo,17,Euskaltel - Euskadi,17,2006,▼2
+27.0,34.0,41.0,16,Calzati Sylvain,18,AG2R Prévoyance,17,2006,▼2
+28.0,51.0,39.0,17,Menchov Denis,19,Rabobank ProTeam,17,2006,▼2
+28.0,55.0,38.0,18,Flecha Juan Antonio,20,Rabobank ProTeam,17,2006,▼2
+32.0,148.0,37.0,19,Rinero Christophe,21,Saunier Duval - Prodir,17,2006,▼2
+29.0,61.0,36.0,20,Evans Cadel,22,Davitamon - Lotto,17,2006,▼2
+29.0,129.0,36.0,34,Zubeldia Haimar,23,Euskaltel - Euskadi,17,2006,▲11
+31.0,85.0,35.0,21,Commesso Salvatore,24,Lampre-Fondital,17,2006,▼3
+34.0,17.0,34.0,23,Voigt Jens,25,CSC ProTeam,17,2006,▼2
+27.0,174.0,34.0,22,Fédrigo Pierrick,26,Bouygues Telecom,17,2006,▼4
+26.0,177.0,31.0,24,Pineau Jérôme,27,Bouygues Telecom,17,2006,▼3
+27.0,134.0,30.0,26,Chavanel Sylvain,28,"Cofidis, le Crédit par Téléphone",17,2006,▼2
+29.0,125.0,30.0,27,Isasi Iñaki,29,Euskaltel - Euskadi,17,2006,▼2
+27.0,122.0,28.0,28,Camaño Iker,30,Euskaltel - Euskadi,17,2006,▼2
+33.0,136.0,26.0,29,Moreni Cristian,31,"Cofidis, le Crédit par Téléphone",17,2006,▼2
+30.0,111.0,26.0,30,Caucchioli Pietro,32,Crédit Agricole,17,2006,▼2
+30.0,89.0,25.0,31,Vila Francisco Javier,33,Lampre-Fondital,17,2006,▼2
+35.0,6.0,24.0,,Padrnos Pavel,34,Discovery Channel,17,2006,-
+35.0,109.0,24.0,32,Vasseur Cédric,35,Quickstep - Innergetic,17,2006,▼3
+32.0,13.0,23.0,,O'Grady Stuart,36,CSC ProTeam,17,2006,-
+27.0,145.0,23.0,33,Lobato Rubén,37,Saunier Duval - Prodir,17,2006,▼4
+27.0,171.0,22.0,35,Voeckler Thomas,38,Bouygues Telecom,17,2006,▼3
+30.0,86.0,22.0,,Righi Daniele,39,Lampre-Fondital,17,2006,-
+35.0,32.0,20.0,36,Arrieta José Luis,40,AG2R Prévoyance,17,2006,▼4
+30.0,104.0,20.0,74,Garate Juan Manuel,41,Quickstep - Innergetic,17,2006,▲33
+32.0,25.0,20.0,37,Mazzoleni Eddy,42,T-Mobile Team,17,2006,▼5
+31.0,62.0,19.0,38,Aerts Mario,43,Davitamon - Lotto,17,2006,▼5
+24.0,154.0,18.0,67,Gilbert Philippe,44,Française des Jeux,17,2006,▲23
+27.0,24.0,17.0,39,Kessler Matthias,45,T-Mobile Team,17,2006,▼6
+28.0,4.0,17.0,40,Martínez Egoi,46,Discovery Channel,17,2006,▼6
+29.0,99.0,16.0,41,Zandio Xabier,47,Caisse d'Epargne - Illes Balears,17,2006,▼6
+32.0,84.0,14.0,42,Bruseghin Marzio,48,Lampre-Fondital,17,2006,▼6
+31.0,131.0,14.0,43,Moncoutié David,49,"Cofidis, le Crédit par Téléphone",17,2006,▼6
+24.0,179.0,13.0,44,Sprick Matthieu,50,Bouygues Telecom,17,2006,▼6
+24.0,124.0,12.0,45,Hernández Aitor,51,Euskaltel - Euskadi,17,2006,▼6
+26.0,7.0,12.0,46,Popovych Yaroslav,52,Discovery Channel,17,2006,▼6
+25.0,119.0,11.0,59,Le Mével Christophe,53,Crédit Agricole,17,2006,▲6
+36.0,22.0,10.0,48,Guerini Giuseppe,54,T-Mobile Team,17,2006,▼6
+25.0,188.0,10.0,49,Schröder Björn,55,Milram,17,2006,▼6
+33.0,3.0,,52*,Hincapie George,58*,Discovery Channel,17,2006,-
+27.0,18.0,,53*,Zabriskie David,59*,CSC ProTeam,17,2006,-
+26.0,33.0,9.0,51,Astarloza Mikel,57,AG2R Prévoyance,17,2006,▼6
+27.0,113.0,9.0,52,Charteau Anthony,58,Crédit Agricole,17,2006,▼6
+35.0,46.0,9.0,53,Totschnig Georg,59,Gerolsteiner,17,2006,▼6
+33.0,8.0,9.0,54,Rubiera José Luis,60,Discovery Channel,17,2006,▼6
+33.0,123.0,8.0,55,Etxebarria Unai,61,Euskaltel - Euskadi,17,2006,▼6
+36.0,38.0,8.0,56,Goubert Stéphane,62,AG2R Prévoyance,17,2006,▼6
+25.0,36.0,7.0,57,Dumoulin Samuel,63,AG2R Prévoyance,17,2006,▼6
+28.0,196.0,7.0,58,Laurent Christophe,64,Agritubel,17,2006,▼6
+30.0,176.0,7.0,60,Lefèvre Laurent,65,Bouygues Telecom,17,2006,▼5
+26.0,92.0,6.0,62,Arroyo David,66,Caisse d'Epargne - Illes Balears,17,2006,▼4
+33.0,76.0,6.0,61,Merckx Axel,67,Phonak Hearing Systems,17,2006,▼6
+30.0,137.0,6.0,63,Parra Iván Ramiro,68,"Cofidis, le Crédit par Téléphone",17,2006,▼5
+31.0,152.0,5.0,64,Da Cruz Carlos,69,Française des Jeux,17,2006,▼5
+29.0,146.0,5.0,65,Millar David,70,Saunier Duval - Prodir,17,2006,▼5
+25.0,127.0,5.0,66,López David,71,Euskaltel - Euskadi,17,2006,▼5
+26.0,169.0,5.0,69,Quinziato Manuel,72,Liquigas,17,2006,▼3
+30.0,56.0,5.0,70,Freire Óscar,73,Rabobank ProTeam,17,2006,▼3
+29.0,165.0,3.0,72,Carlström Kjell,74,Liquigas,17,2006,▼2
+26.0,82.0,3.0,73,Ballan Alessandro,75,Lampre-Fondital,17,2006,▼2
+26.0,175.0,3.0,75,Geslin Anthony,76,Bouygues Telecom,17,2006,▼1
+26.0,193.0,2.0,76,Coutouly Cédric,77,Agritubel,17,2006,▼1
+32.0,58.0,163.0,1,Rasmussen Michael,1,Rabobank ProTeam,18,2006,-
+30.0,71.0,,2*,Landis Floyd,2*,Phonak Hearing Systems,18,2006,-
+25.0,143.0,131.0,2,de la Fuente David,2,Saunier Duval - Prodir,18,2006,-
+31.0,14.0,113.0,3,Sastre Carlos,3,CSC ProTeam,18,2006,-
+26.0,15.0,99.0,4,Schleck Fränk,4,CSC ProTeam,18,2006,-
+34.0,52.0,94.0,6*,Boogerd Michael,6*,Rabobank ProTeam,18,2006,-
+24.0,81.0,94.0,6,Cunego Damiano,6,Lampre-Fondital,18,2006,-
+31.0,35.0,93.0,7,Dessel Cyril,7,AG2R Prévoyance,18,2006,-
+32.0,41.0,,10*,Leipheimer Levi,9*,Gerolsteiner,18,2006,-
+31.0,21.0,80.0,8,Klöden Andreas,8,T-Mobile Team,18,2006,-
+28.0,97.0,72.0,9,Pereiro Óscar,9,Caisse d'Epargne - Illes Balears,18,2006,-
+26.0,47.0,66.0,10,Wegmann Fabian,10,Gerolsteiner,18,2006,-
+33.0,166.0,64.0,11,Garzelli Stefano,11,Liquigas,18,2006,-
+35.0,31.0,63.0,12,Moreau Christophe,12,AG2R Prévoyance,18,2006,-
+27.0,34.0,61.0,18,Calzati Sylvain,13,AG2R Prévoyance,18,2006,▲5
+29.0,88.0,60.0,13,Valjavec Tadej,14,Lampre-Fondital,18,2006,▼1
+32.0,116.0,60.0,14,Halgand Patrice,15,Crédit Agricole,18,2006,▼1
+25.0,27.0,48.0,15,Sinkewitz Patrik,16,T-Mobile Team,18,2006,▼1
+27.0,151.0,42.0,16,Casar Sandy,17,Française des Jeux,18,2006,▼1
+29.0,126.0,41.0,17,Landaluze Iñigo,18,Euskaltel - Euskadi,18,2006,▼1
+28.0,51.0,41.0,19,Menchov Denis,19,Rabobank ProTeam,18,2006,-
+28.0,55.0,39.0,20,Flecha Juan Antonio,20,Rabobank ProTeam,18,2006,-
+32.0,148.0,38.0,21,Rinero Christophe,21,Saunier Duval - Prodir,18,2006,-
+29.0,61.0,36.0,22,Evans Cadel,22,Davitamon - Lotto,18,2006,-
+29.0,129.0,36.0,23,Zubeldia Haimar,23,Euskaltel - Euskadi,18,2006,-
+31.0,85.0,35.0,24,Commesso Salvatore,24,Lampre-Fondital,18,2006,-
+29.0,125.0,34.0,29,Isasi Iñaki,25,Euskaltel - Euskadi,18,2006,▲4
+34.0,17.0,34.0,25,Voigt Jens,26,CSC ProTeam,18,2006,▼1
+27.0,174.0,31.0,26,Fédrigo Pierrick,27,Bouygues Telecom,18,2006,▼1
+26.0,177.0,31.0,27,Pineau Jérôme,28,Bouygues Telecom,18,2006,▼1
+27.0,134.0,30.0,28,Chavanel Sylvain,29,"Cofidis, le Crédit par Téléphone",18,2006,▼1
+27.0,122.0,30.0,30,Camaño Iker,30,Euskaltel - Euskadi,18,2006,-
+33.0,136.0,28.0,31,Moreni Cristian,31,"Cofidis, le Crédit par Téléphone",18,2006,-
+30.0,111.0,26.0,32,Caucchioli Pietro,32,Crédit Agricole,18,2006,-
+30.0,89.0,25.0,33,Vila Francisco Javier,33,Lampre-Fondital,18,2006,-
+35.0,6.0,24.0,34,Padrnos Pavel,34,Discovery Channel,18,2006,-
+35.0,109.0,24.0,35,Vasseur Cédric,35,Quickstep - Innergetic,18,2006,-
+32.0,13.0,23.0,36,O'Grady Stuart,36,CSC ProTeam,18,2006,-
+31.0,62.0,23.0,43,Aerts Mario,37,Davitamon - Lotto,18,2006,▲6
+27.0,145.0,22.0,37,Lobato Rubén,38,Saunier Duval - Prodir,18,2006,▼1
+27.0,171.0,22.0,38,Voeckler Thomas,39,Bouygues Telecom,18,2006,▼1
+28.0,4.0,21.0,46,Martínez Egoi,40,Discovery Channel,18,2006,▲6
+30.0,86.0,20.0,39,Righi Daniele,41,Lampre-Fondital,18,2006,▼2
+35.0,32.0,20.0,40,Arrieta José Luis,42,AG2R Prévoyance,18,2006,▼2
+30.0,104.0,20.0,41,Garate Juan Manuel,43,Quickstep - Innergetic,18,2006,▼2
+32.0,25.0,20.0,42,Mazzoleni Eddy,44,T-Mobile Team,18,2006,▼2
+24.0,154.0,19.0,44,Gilbert Philippe,45,Française des Jeux,18,2006,▼1
+27.0,24.0,18.0,45,Kessler Matthias,46,T-Mobile Team,18,2006,▼1
+29.0,99.0,17.0,47,Zandio Xabier,47,Caisse d'Epargne - Illes Balears,18,2006,-
+32.0,84.0,16.0,48,Bruseghin Marzio,48,Lampre-Fondital,18,2006,-
+31.0,131.0,14.0,49,Moncoutié David,49,"Cofidis, le Crédit par Téléphone",18,2006,-
+27.0,18.0,,59*,Zabriskie David,52*,CSC ProTeam,18,2006,-
+24.0,179.0,13.0,50,Sprick Matthieu,50,Bouygues Telecom,18,2006,-
+24.0,124.0,12.0,51,Hernández Aitor,51,Euskaltel - Euskadi,18,2006,-
+26.0,7.0,12.0,52,Popovych Yaroslav,52,Discovery Channel,18,2006,-
+25.0,119.0,12.0,53,Le Mével Christophe,53,Crédit Agricole,18,2006,-
+28.0,45.0,11.0,,Scholz Ronny,54,Gerolsteiner,18,2006,-
+26.0,169.0,10.0,72,Quinziato Manuel,55,Liquigas,18,2006,▲17
+36.0,22.0,10.0,54,Guerini Giuseppe,56,T-Mobile Team,18,2006,▼2
+25.0,188.0,10.0,55,Schröder Björn,57,Milram,18,2006,▼2
+33.0,3.0,,58*,Hincapie George,61*,Discovery Channel,18,2006,-
+32.0,108.0,10.0,,Tosatto Matteo,59,Quickstep - Innergetic,18,2006,-
+26.0,33.0,9.0,57,Astarloza Mikel,60,AG2R Prévoyance,18,2006,▼3
+27.0,113.0,9.0,58,Charteau Anthony,61,Crédit Agricole,18,2006,▼3
+35.0,46.0,9.0,59,Totschnig Georg,62,Gerolsteiner,18,2006,▼3
+33.0,8.0,9.0,60,Rubiera José Luis,63,Discovery Channel,18,2006,▼3
+33.0,123.0,8.0,61,Etxebarria Unai,64,Euskaltel - Euskadi,18,2006,▼3
+36.0,38.0,8.0,62,Goubert Stéphane,65,AG2R Prévoyance,18,2006,▼3
+25.0,36.0,7.0,63,Dumoulin Samuel,66,AG2R Prévoyance,18,2006,▼3
+28.0,196.0,7.0,64,Laurent Christophe,67,Agritubel,18,2006,▼3
+30.0,176.0,7.0,65,Lefèvre Laurent,68,Bouygues Telecom,18,2006,▼3
+26.0,92.0,6.0,66,Arroyo David,69,Caisse d'Epargne - Illes Balears,18,2006,▼3
+33.0,76.0,6.0,67,Merckx Axel,70,Phonak Hearing Systems,18,2006,▼3
+30.0,137.0,6.0,68,Parra Iván Ramiro,71,"Cofidis, le Crédit par Téléphone",18,2006,▼3
+31.0,152.0,5.0,69,Da Cruz Carlos,72,Française des Jeux,18,2006,▼3
+29.0,146.0,5.0,70,Millar David,73,Saunier Duval - Prodir,18,2006,▼3
+32.0,117.0,5.0,,Hinault Sébastien,74,Crédit Agricole,18,2006,-
+29.0,165.0,5.0,74,Carlström Kjell,75,Liquigas,18,2006,▼1
+26.0,82.0,5.0,75,Ballan Alessandro,76,Lampre-Fondital,18,2006,▼1
+26.0,175.0,3.0,76,Geslin Anthony,77,Bouygues Telecom,18,2006,▼1
+24.0,159.0,2.0,,Vaugrenard Benoît,78,Française des Jeux,18,2006,-
+26.0,193.0,2.0,77,Coutouly Cédric,79,Agritubel,18,2006,▼2
+32.0,58.0,163.0,1,Rasmussen Michael,1,Rabobank ProTeam,19,2006,-
+30.0,71.0,,2*,Landis Floyd,2*,Phonak Hearing Systems,19,2006,-
+25.0,143.0,131.0,2,de la Fuente David,2,Saunier Duval - Prodir,19,2006,-
+31.0,14.0,113.0,3,Sastre Carlos,3,CSC ProTeam,19,2006,-
+26.0,15.0,99.0,4,Schleck Fränk,4,CSC ProTeam,19,2006,-
+34.0,52.0,94.0,6*,Boogerd Michael,6*,Rabobank ProTeam,19,2006,-
+24.0,81.0,94.0,6,Cunego Damiano,6,Lampre-Fondital,19,2006,-
+31.0,35.0,93.0,7,Dessel Cyril,7,AG2R Prévoyance,19,2006,-
+32.0,41.0,,9*,Leipheimer Levi,9*,Gerolsteiner,19,2006,-
+31.0,21.0,80.0,8,Klöden Andreas,8,T-Mobile Team,19,2006,-
+28.0,97.0,72.0,9,Pereiro Óscar,9,Caisse d'Epargne - Illes Balears,19,2006,-
+26.0,47.0,66.0,10,Wegmann Fabian,10,Gerolsteiner,19,2006,-
+33.0,166.0,64.0,11,Garzelli Stefano,11,Liquigas,19,2006,-
+35.0,31.0,63.0,12,Moreau Christophe,12,AG2R Prévoyance,19,2006,-
+27.0,34.0,61.0,13,Calzati Sylvain,13,AG2R Prévoyance,19,2006,-
+29.0,88.0,60.0,14,Valjavec Tadej,14,Lampre-Fondital,19,2006,-
+32.0,116.0,60.0,15,Halgand Patrice,15,Crédit Agricole,19,2006,-
+25.0,27.0,48.0,16,Sinkewitz Patrik,16,T-Mobile Team,19,2006,-
+27.0,151.0,42.0,17,Casar Sandy,17,Française des Jeux,19,2006,-
+29.0,126.0,41.0,18,Landaluze Iñigo,18,Euskaltel - Euskadi,19,2006,-
+28.0,51.0,41.0,19,Menchov Denis,19,Rabobank ProTeam,19,2006,-
+28.0,55.0,39.0,20,Flecha Juan Antonio,20,Rabobank ProTeam,19,2006,-
+32.0,148.0,38.0,21,Rinero Christophe,21,Saunier Duval - Prodir,19,2006,-
+29.0,61.0,36.0,22,Evans Cadel,22,Davitamon - Lotto,19,2006,-
+29.0,129.0,36.0,23,Zubeldia Haimar,23,Euskaltel - Euskadi,19,2006,-
+31.0,85.0,35.0,24,Commesso Salvatore,24,Lampre-Fondital,19,2006,-
+29.0,125.0,34.0,25,Isasi Iñaki,25,Euskaltel - Euskadi,19,2006,-
+34.0,17.0,34.0,26,Voigt Jens,26,CSC ProTeam,19,2006,-
+27.0,174.0,31.0,27,Fédrigo Pierrick,27,Bouygues Telecom,19,2006,-
+26.0,177.0,31.0,28,Pineau Jérôme,28,Bouygues Telecom,19,2006,-
+27.0,134.0,30.0,29,Chavanel Sylvain,29,"Cofidis, le Crédit par Téléphone",19,2006,-
+27.0,122.0,30.0,30,Camaño Iker,30,Euskaltel - Euskadi,19,2006,-
+33.0,136.0,28.0,31,Moreni Cristian,31,"Cofidis, le Crédit par Téléphone",19,2006,-
+30.0,111.0,26.0,32,Caucchioli Pietro,32,Crédit Agricole,19,2006,-
+30.0,89.0,25.0,33,Vila Francisco Javier,33,Lampre-Fondital,19,2006,-
+35.0,6.0,24.0,34,Padrnos Pavel,34,Discovery Channel,19,2006,-
+35.0,109.0,24.0,35,Vasseur Cédric,35,Quickstep - Innergetic,19,2006,-
+32.0,13.0,23.0,36,O'Grady Stuart,36,CSC ProTeam,19,2006,-
+31.0,62.0,23.0,37,Aerts Mario,37,Davitamon - Lotto,19,2006,-
+27.0,145.0,22.0,38,Lobato Rubén,38,Saunier Duval - Prodir,19,2006,-
+27.0,171.0,22.0,39,Voeckler Thomas,39,Bouygues Telecom,19,2006,-
+28.0,4.0,21.0,40,Martínez Egoi,40,Discovery Channel,19,2006,-
+30.0,86.0,20.0,41,Righi Daniele,41,Lampre-Fondital,19,2006,-
+35.0,32.0,20.0,42,Arrieta José Luis,42,AG2R Prévoyance,19,2006,-
+30.0,104.0,20.0,43,Garate Juan Manuel,43,Quickstep - Innergetic,19,2006,-
+32.0,25.0,20.0,44,Mazzoleni Eddy,44,T-Mobile Team,19,2006,-
+24.0,154.0,19.0,45,Gilbert Philippe,45,Française des Jeux,19,2006,-
+27.0,24.0,18.0,46,Kessler Matthias,46,T-Mobile Team,19,2006,-
+29.0,99.0,17.0,47,Zandio Xabier,47,Caisse d'Epargne - Illes Balears,19,2006,-
+32.0,84.0,16.0,48,Bruseghin Marzio,48,Lampre-Fondital,19,2006,-
+31.0,131.0,14.0,49,Moncoutié David,49,"Cofidis, le Crédit par Téléphone",19,2006,-
+27.0,18.0,,52*,Zabriskie David,52*,CSC ProTeam,19,2006,-
+24.0,179.0,13.0,50,Sprick Matthieu,50,Bouygues Telecom,19,2006,-
+24.0,124.0,12.0,51,Hernández Aitor,51,Euskaltel - Euskadi,19,2006,-
+26.0,7.0,12.0,52,Popovych Yaroslav,52,Discovery Channel,19,2006,-
+25.0,119.0,12.0,53,Le Mével Christophe,53,Crédit Agricole,19,2006,-
+28.0,45.0,11.0,54,Scholz Ronny,54,Gerolsteiner,19,2006,-
+26.0,169.0,10.0,55,Quinziato Manuel,55,Liquigas,19,2006,-
+36.0,22.0,10.0,56,Guerini Giuseppe,56,T-Mobile Team,19,2006,-
+25.0,188.0,10.0,57,Schröder Björn,57,Milram,19,2006,-
+33.0,3.0,,61*,Hincapie George,61*,Discovery Channel,19,2006,-
+32.0,108.0,10.0,59,Tosatto Matteo,59,Quickstep - Innergetic,19,2006,-
+26.0,33.0,9.0,60,Astarloza Mikel,60,AG2R Prévoyance,19,2006,-
+27.0,113.0,9.0,61,Charteau Anthony,61,Crédit Agricole,19,2006,-
+35.0,46.0,9.0,62,Totschnig Georg,62,Gerolsteiner,19,2006,-
+33.0,8.0,9.0,63,Rubiera José Luis,63,Discovery Channel,19,2006,-
+33.0,123.0,8.0,64,Etxebarria Unai,64,Euskaltel - Euskadi,19,2006,-
+36.0,38.0,8.0,65,Goubert Stéphane,65,AG2R Prévoyance,19,2006,-
+25.0,36.0,7.0,66,Dumoulin Samuel,66,AG2R Prévoyance,19,2006,-
+28.0,196.0,7.0,67,Laurent Christophe,67,Agritubel,19,2006,-
+30.0,176.0,7.0,68,Lefèvre Laurent,68,Bouygues Telecom,19,2006,-
+26.0,92.0,6.0,69,Arroyo David,69,Caisse d'Epargne - Illes Balears,19,2006,-
+33.0,76.0,6.0,70,Merckx Axel,70,Phonak Hearing Systems,19,2006,-
+30.0,137.0,6.0,71,Parra Iván Ramiro,71,"Cofidis, le Crédit par Téléphone",19,2006,-
+31.0,152.0,5.0,72,Da Cruz Carlos,72,Française des Jeux,19,2006,-
+29.0,146.0,5.0,73,Millar David,73,Saunier Duval - Prodir,19,2006,-
+32.0,117.0,5.0,74,Hinault Sébastien,74,Crédit Agricole,19,2006,-
+29.0,165.0,5.0,75,Carlström Kjell,75,Liquigas,19,2006,-
+26.0,82.0,5.0,76,Ballan Alessandro,76,Lampre-Fondital,19,2006,-
+24.0,159.0,3.0,78,Vaugrenard Benoît,77,Française des Jeux,19,2006,▲1
+26.0,175.0,2.0,77,Geslin Anthony,78,Bouygues Telecom,19,2006,▼1
+26.0,193.0,2.0,79,Coutouly Cédric,79,Agritubel,19,2006,-
+32.0,58.0,166.0,1,Rasmussen Michael,1,Rabobank ProTeam,20,2006,-
+30.0,71.0,,2*,Landis Floyd,2*,Phonak Hearing Systems,20,2006,-
+25.0,143.0,131.0,2,de la Fuente David,2,Saunier Duval - Prodir,20,2006,-
+31.0,14.0,113.0,3,Sastre Carlos,3,CSC ProTeam,20,2006,-
+26.0,15.0,99.0,4,Schleck Fränk,4,CSC ProTeam,20,2006,-
+34.0,52.0,96.0,6*,Boogerd Michael,6*,Rabobank ProTeam,20,2006,-
+24.0,81.0,96.0,6,Cunego Damiano,6,Lampre-Fondital,20,2006,-
+31.0,35.0,93.0,7,Dessel Cyril,7,AG2R Prévoyance,20,2006,-
+32.0,41.0,,9*,Leipheimer Levi,9*,Gerolsteiner,20,2006,-
+31.0,21.0,80.0,8,Klöden Andreas,8,T-Mobile Team,20,2006,-
+28.0,97.0,72.0,9,Pereiro Óscar,9,Caisse d'Epargne - Illes Balears,20,2006,-
+26.0,47.0,66.0,10,Wegmann Fabian,10,Gerolsteiner,20,2006,-
+33.0,166.0,64.0,11,Garzelli Stefano,11,Liquigas,20,2006,-
+35.0,31.0,63.0,12,Moreau Christophe,12,AG2R Prévoyance,20,2006,-
+27.0,34.0,61.0,13,Calzati Sylvain,13,AG2R Prévoyance,20,2006,-
+29.0,88.0,60.0,14,Valjavec Tadej,14,Lampre-Fondital,20,2006,-
+32.0,116.0,60.0,15,Halgand Patrice,15,Crédit Agricole,20,2006,-
+25.0,27.0,48.0,16,Sinkewitz Patrik,16,T-Mobile Team,20,2006,-
+27.0,151.0,42.0,17,Casar Sandy,17,Française des Jeux,20,2006,-
+29.0,126.0,41.0,18,Landaluze Iñigo,18,Euskaltel - Euskadi,20,2006,-
+28.0,51.0,41.0,19,Menchov Denis,19,Rabobank ProTeam,20,2006,-
+28.0,55.0,39.0,20,Flecha Juan Antonio,20,Rabobank ProTeam,20,2006,-
+32.0,148.0,38.0,21,Rinero Christophe,21,Saunier Duval - Prodir,20,2006,-
+29.0,61.0,36.0,22,Evans Cadel,22,Davitamon - Lotto,20,2006,-
+29.0,129.0,36.0,23,Zubeldia Haimar,23,Euskaltel - Euskadi,20,2006,-
+31.0,85.0,35.0,24,Commesso Salvatore,24,Lampre-Fondital,20,2006,-
+29.0,125.0,34.0,25,Isasi Iñaki,25,Euskaltel - Euskadi,20,2006,-
+34.0,17.0,34.0,26,Voigt Jens,26,CSC ProTeam,20,2006,-
+27.0,174.0,31.0,27,Fédrigo Pierrick,27,Bouygues Telecom,20,2006,-
+26.0,177.0,31.0,28,Pineau Jérôme,28,Bouygues Telecom,20,2006,-
+27.0,134.0,30.0,29,Chavanel Sylvain,29,"Cofidis, le Crédit par Téléphone",20,2006,-
+27.0,122.0,30.0,30,Camaño Iker,30,Euskaltel - Euskadi,20,2006,-
+33.0,136.0,28.0,31,Moreni Cristian,31,"Cofidis, le Crédit par Téléphone",20,2006,-
+30.0,111.0,26.0,32,Caucchioli Pietro,32,Crédit Agricole,20,2006,-
+30.0,89.0,25.0,33,Vila Francisco Javier,33,Lampre-Fondital,20,2006,-
+35.0,6.0,24.0,34,Padrnos Pavel,34,Discovery Channel,20,2006,-
+35.0,109.0,24.0,35,Vasseur Cédric,35,Quickstep - Innergetic,20,2006,-
+32.0,13.0,23.0,36,O'Grady Stuart,36,CSC ProTeam,20,2006,-
+31.0,62.0,23.0,37,Aerts Mario,37,Davitamon - Lotto,20,2006,-
+27.0,145.0,22.0,38,Lobato Rubén,38,Saunier Duval - Prodir,20,2006,-
+27.0,171.0,22.0,39,Voeckler Thomas,39,Bouygues Telecom,20,2006,-
+28.0,4.0,21.0,40,Martínez Egoi,40,Discovery Channel,20,2006,-
+30.0,86.0,20.0,41,Righi Daniele,41,Lampre-Fondital,20,2006,-
+35.0,32.0,20.0,42,Arrieta José Luis,42,AG2R Prévoyance,20,2006,-
+30.0,104.0,20.0,43,Garate Juan Manuel,43,Quickstep - Innergetic,20,2006,-
+32.0,25.0,20.0,44,Mazzoleni Eddy,44,T-Mobile Team,20,2006,-
+24.0,154.0,19.0,45,Gilbert Philippe,45,Française des Jeux,20,2006,-
+27.0,24.0,18.0,46,Kessler Matthias,46,T-Mobile Team,20,2006,-
+29.0,99.0,17.0,47,Zandio Xabier,47,Caisse d'Epargne - Illes Balears,20,2006,-
+32.0,84.0,16.0,48,Bruseghin Marzio,48,Lampre-Fondital,20,2006,-
+31.0,131.0,14.0,49,Moncoutié David,49,"Cofidis, le Crédit par Téléphone",20,2006,-
+27.0,18.0,,52*,Zabriskie David,52*,CSC ProTeam,20,2006,-
+24.0,179.0,13.0,50,Sprick Matthieu,50,Bouygues Telecom,20,2006,-
+24.0,124.0,12.0,51,Hernández Aitor,51,Euskaltel - Euskadi,20,2006,-
+26.0,7.0,12.0,52,Popovych Yaroslav,52,Discovery Channel,20,2006,-
+25.0,119.0,12.0,53,Le Mével Christophe,53,Crédit Agricole,20,2006,-
+28.0,45.0,11.0,54,Scholz Ronny,54,Gerolsteiner,20,2006,-
+26.0,169.0,10.0,55,Quinziato Manuel,55,Liquigas,20,2006,-
+36.0,22.0,10.0,56,Guerini Giuseppe,56,T-Mobile Team,20,2006,-
+25.0,188.0,10.0,57,Schröder Björn,57,Milram,20,2006,-
+33.0,3.0,,61*,Hincapie George,61*,Discovery Channel,20,2006,-
+32.0,108.0,10.0,59,Tosatto Matteo,59,Quickstep - Innergetic,20,2006,-
+26.0,33.0,9.0,60,Astarloza Mikel,60,AG2R Prévoyance,20,2006,-
+27.0,113.0,9.0,61,Charteau Anthony,61,Crédit Agricole,20,2006,-
+35.0,46.0,9.0,62,Totschnig Georg,62,Gerolsteiner,20,2006,-
+33.0,8.0,9.0,63,Rubiera José Luis,63,Discovery Channel,20,2006,-
+33.0,123.0,8.0,64,Etxebarria Unai,64,Euskaltel - Euskadi,20,2006,-
+26.0,92.0,8.0,69,Arroyo David,65,Caisse d'Epargne - Illes Balears,20,2006,▲4
+36.0,38.0,7.0,65,Goubert Stéphane,66,AG2R Prévoyance,20,2006,▼1
+25.0,36.0,7.0,66,Dumoulin Samuel,67,AG2R Prévoyance,20,2006,▼1
+28.0,196.0,7.0,67,Laurent Christophe,68,Agritubel,20,2006,▼1
+30.0,176.0,6.0,68,Lefèvre Laurent,69,Bouygues Telecom,20,2006,▼1
+33.0,76.0,6.0,70,Merckx Axel,70,Phonak Hearing Systems,20,2006,-
+30.0,137.0,6.0,71,Parra Iván Ramiro,71,"Cofidis, le Crédit par Téléphone",20,2006,-
+31.0,152.0,6.0,72,Da Cruz Carlos,72,Française des Jeux,20,2006,-
+29.0,146.0,5.0,73,Millar David,73,Saunier Duval - Prodir,20,2006,-
+32.0,79.0,5.0,,Peña Victor Hugo,74,Phonak Hearing Systems,20,2006,-
+32.0,77.0,5.0,,Moerenhout Koos,75,Phonak Hearing Systems,20,2006,-
+32.0,117.0,5.0,74,Hinault Sébastien,76,Crédit Agricole,20,2006,▼2
+29.0,165.0,3.0,75,Carlström Kjell,77,Liquigas,20,2006,▼2
+26.0,82.0,3.0,76,Ballan Alessandro,78,Lampre-Fondital,20,2006,▼2
+24.0,159.0,2.0,77,Vaugrenard Benoît,79,Française des Jeux,20,2006,▼2
+26.0,175.0,2.0,78,Geslin Anthony,80,Bouygues Telecom,20,2006,▼2
+31.0,72.0,2.0,,Grabsch Bert,81,Phonak Hearing Systems,20,2006,-
+26.0,193.0,1.0,79,Coutouly Cédric,82,Agritubel,20,2006,▼3

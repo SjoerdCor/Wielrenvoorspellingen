@@ -1,0 +1,631 @@
+Age,BIB,Pnt,Prev,Rider,Rnk,Team,stage,year,▼▲
+28.0,32.0,1.0,,Gilbert Philippe,1.0,Omega Pharma-Lotto,1,2011,
+28.0,32.0,1.0,1.0,Gilbert Philippe,1.0,Omega Pharma-Lotto,3,2011,-
+25.0,133.0,1.0,,Delage Mickaël,2.0,FDJ,3,2011,-
+34.0,141.0,2.0,,Evans Cadel,1.0,BMC Racing Team,4,2011,-
+29.0,32.0,1.0,1.0,Gilbert Philippe,2.0,Omega Pharma-Lotto,4,2011,▼1
+25.0,133.0,1.0,2.0,Delage Mickaël,3.0,FDJ,4,2011,▼1
+28.0,204.0,1.0,,Hoogerland Johnny,4.0,Vacansoleil - DCM,4,2011,-
+28.0,1.0,1.0,,Contador Alberto,5.0,Saxo Bank - Sungard,4,2011,-
+34.0,141.0,2.0,1.0,Evans Cadel,1.0,BMC Racing Team,5,2011,-
+29.0,32.0,1.0,2.0,Gilbert Philippe,2.0,Omega Pharma-Lotto,5,2011,-
+25.0,133.0,1.0,3.0,Delage Mickaël,3.0,FDJ,5,2011,-
+28.0,204.0,1.0,4.0,Hoogerland Johnny,4.0,Vacansoleil - DCM,5,2011,-
+21.0,213.0,1.0,,Delaplace Anthony,5.0,Saur - Sojasun,5,2011,-
+28.0,1.0,1.0,5.0,Contador Alberto,6.0,Saxo Bank - Sungard,5,2011,▼1
+28.0,204.0,4.0,4.0,Hoogerland Johnny,1.0,Vacansoleil - DCM,6,2011,▲3
+24.0,137.0,3.0,,Roux Anthony,2.0,FDJ,6,2011,-
+34.0,141.0,2.0,1.0,Evans Cadel,3.0,BMC Racing Team,6,2011,▼2
+29.0,32.0,1.0,2.0,Gilbert Philippe,4.0,Omega Pharma-Lotto,6,2011,▼2
+25.0,133.0,1.0,3.0,Delage Mickaël,5.0,FDJ,6,2011,▼2
+21.0,213.0,1.0,5.0,Delaplace Anthony,6.0,Saur - Sojasun,6,2011,▼1
+28.0,209.0,1.0,,Westra Lieuwe,7.0,Vacansoleil - DCM,6,2011,-
+28.0,1.0,1.0,6.0,Contador Alberto,8.0,Saxo Bank - Sungard,6,2011,▼2
+28.0,204.0,4.0,1.0,Hoogerland Johnny,1.0,Vacansoleil - DCM,7,2011,-
+24.0,137.0,3.0,2.0,Roux Anthony,2.0,FDJ,7,2011,-
+34.0,141.0,2.0,3.0,Evans Cadel,3.0,BMC Racing Team,7,2011,-
+29.0,32.0,1.0,4.0,Gilbert Philippe,4.0,Omega Pharma-Lotto,7,2011,-
+25.0,133.0,1.0,5.0,Delage Mickaël,5.0,FDJ,7,2011,-
+28.0,209.0,1.0,7.0,Westra Lieuwe,6.0,Vacansoleil - DCM,7,2011,▲1
+21.0,213.0,1.0,6.0,Delaplace Anthony,7.0,Saur - Sojasun,7,2011,▼1
+28.0,1.0,1.0,8.0,Contador Alberto,8.0,Saxo Bank - Sungard,7,2011,-
+22.0,178.0,5.0,,van Garderen Tejay,1.0,HTC - High Road,8,2011,-
+24.0,83.0,5.0,,Costa Rui,2.0,Movistar Team,8,2011,-
+28.0,204.0,4.0,1.0,Hoogerland Johnny,3.0,Vacansoleil - DCM,8,2011,▼2
+24.0,137.0,3.0,2.0,Roux Anthony,4.0,FDJ,8,2011,▼2
+34.0,141.0,2.0,3.0,Evans Cadel,5.0,BMC Racing Team,8,2011,▼2
+29.0,32.0,2.0,4.0,Gilbert Philippe,6.0,Omega Pharma-Lotto,8,2011,▼2
+30.0,109.0,2.0,,Riblon Christophe,7.0,AG2R La Mondiale,8,2011,-
+26.0,155.0,1.0,,El Fares Julien,8.0,"Cofidis, le Crédit en Ligne",8,2011,-
+30.0,197.0,1.0,,Kolobnev Alexandr,9.0,Team Katusha,8,2011,-
+25.0,133.0,1.0,5.0,Delage Mickaël,10.0,FDJ,8,2011,▼5
+28.0,209.0,1.0,6.0,Westra Lieuwe,11.0,Vacansoleil - DCM,8,2011,▼5
+21.0,213.0,1.0,7.0,Delaplace Anthony,12.0,Saur - Sojasun,8,2011,▼5
+28.0,1.0,1.0,8.0,Contador Alberto,13.0,Saxo Bank - Sungard,8,2011,▼5
+23.0,183.0,1.0,,Gautier Cyril,14.0,Team Europcar,8,2011,-
+28.0,204.0,22.0,3.0,Hoogerland Johnny,1.0,Vacansoleil - DCM,9,2011,▲2
+32.0,181.0,16.0,,Voeckler Thomas,2.0,Team Europcar,9,2011,-
+22.0,178.0,5.0,1.0,van Garderen Tejay,3.0,HTC - High Road,9,2011,▼2
+24.0,83.0,5.0,2.0,Costa Rui,4.0,Movistar Team,9,2011,▼2
+32.0,131.0,5.0,,Casar Sandy,5.0,FDJ,9,2011,-
+33.0,112.0,4.0,,Flecha Juan Antonio,6.0,Sky Procycling,9,2011,-
+24.0,137.0,3.0,4.0,Roux Anthony,7.0,FDJ,9,2011,▼3
+34.0,141.0,2.0,5.0,Evans Cadel,8.0,BMC Racing Team,9,2011,▼3
+29.0,32.0,2.0,6.0,Gilbert Philippe,9.0,Omega Pharma-Lotto,9,2011,▼3
+30.0,109.0,2.0,7.0,Riblon Christophe,10.0,AG2R La Mondiale,9,2011,▼3
+27.0,47.0,1.0,,Sánchez Luis León,11.0,Rabobank Cycling Team,9,2011,-
+26.0,155.0,1.0,8.0,El Fares Julien,12.0,"Cofidis, le Crédit en Ligne",9,2011,▼4
+30.0,197.0,1.0,9.0,Kolobnev Alexandr,13.0,Team Katusha,9,2011,▼4
+25.0,133.0,1.0,10.0,Delage Mickaël,14.0,FDJ,9,2011,▼4
+28.0,209.0,1.0,11.0,Westra Lieuwe,15.0,Vacansoleil - DCM,9,2011,▼4
+21.0,213.0,1.0,12.0,Delaplace Anthony,16.0,Saur - Sojasun,9,2011,▼4
+28.0,1.0,1.0,13.0,Contador Alberto,17.0,Saxo Bank - Sungard,9,2011,▼4
+23.0,183.0,1.0,14.0,Gautier Cyril,18.0,Team Europcar,9,2011,▼4
+28.0,204.0,22.0,1.0,Hoogerland Johnny,1.0,Vacansoleil - DCM,10,2011,-
+32.0,181.0,17.0,2.0,Voeckler Thomas,2.0,Team Europcar,10,2011,-
+22.0,178.0,5.0,3.0,van Garderen Tejay,3.0,HTC - High Road,10,2011,-
+27.0,206.0,5.0,,Marcato Marco,4.0,Vacansoleil - DCM,10,2011,-
+24.0,83.0,5.0,4.0,Costa Rui,5.0,Movistar Team,10,2011,▼1
+32.0,131.0,5.0,5.0,Casar Sandy,6.0,FDJ,10,2011,▼1
+33.0,112.0,4.0,6.0,Flecha Juan Antonio,7.0,Sky Procycling,10,2011,▼1
+24.0,137.0,3.0,7.0,Roux Anthony,8.0,FDJ,10,2011,▼1
+34.0,141.0,2.0,8.0,Evans Cadel,9.0,BMC Racing Team,10,2011,▼1
+29.0,32.0,2.0,9.0,Gilbert Philippe,10.0,Omega Pharma-Lotto,10,2011,▼1
+21.0,213.0,2.0,16.0,Delaplace Anthony,11.0,Saur - Sojasun,10,2011,▲5
+30.0,109.0,2.0,10.0,Riblon Christophe,12.0,AG2R La Mondiale,10,2011,▼2
+27.0,47.0,1.0,11.0,Sánchez Luis León,13.0,Rabobank Cycling Team,10,2011,▼2
+26.0,155.0,1.0,12.0,El Fares Julien,14.0,"Cofidis, le Crédit en Ligne",10,2011,▼2
+25.0,133.0,1.0,14.0,Delage Mickaël,15.0,FDJ,10,2011,▼1
+28.0,209.0,1.0,15.0,Westra Lieuwe,16.0,Vacansoleil - DCM,10,2011,▼1
+28.0,1.0,1.0,17.0,Contador Alberto,17.0,Saxo Bank - Sungard,10,2011,-
+23.0,183.0,1.0,18.0,Gautier Cyril,18.0,Team Europcar,10,2011,-
+29.0,107.0,1.0,,Minard Sébastien,19.0,AG2R La Mondiale,10,2011,-
+28.0,204.0,22.0,1.0,Hoogerland Johnny,1.0,Vacansoleil - DCM,11,2011,-
+32.0,181.0,17.0,2.0,Voeckler Thomas,2.0,Team Europcar,11,2011,-
+22.0,178.0,5.0,3.0,van Garderen Tejay,3.0,HTC - High Road,11,2011,-
+27.0,206.0,5.0,4.0,Marcato Marco,4.0,Vacansoleil - DCM,11,2011,-
+24.0,83.0,5.0,5.0,Costa Rui,5.0,Movistar Team,11,2011,-
+32.0,131.0,5.0,6.0,Casar Sandy,6.0,FDJ,11,2011,-
+33.0,112.0,4.0,7.0,Flecha Juan Antonio,7.0,Sky Procycling,11,2011,-
+24.0,137.0,3.0,8.0,Roux Anthony,8.0,FDJ,11,2011,-
+34.0,141.0,2.0,9.0,Evans Cadel,9.0,BMC Racing Team,11,2011,-
+25.0,43.0,2.0,,Boom Lars,10.0,Rabobank Cycling Team,11,2011,-
+25.0,133.0,2.0,15.0,Delage Mickaël,11.0,FDJ,11,2011,▲4
+29.0,32.0,2.0,10.0,Gilbert Philippe,12.0,Omega Pharma-Lotto,11,2011,▼2
+21.0,213.0,2.0,11.0,Delaplace Anthony,13.0,Saur - Sojasun,11,2011,▼2
+30.0,109.0,2.0,12.0,Riblon Christophe,14.0,AG2R La Mondiale,11,2011,▼2
+27.0,47.0,1.0,13.0,Sánchez Luis León,15.0,Rabobank Cycling Team,11,2011,▼2
+26.0,155.0,1.0,14.0,El Fares Julien,16.0,"Cofidis, le Crédit en Ligne",11,2011,▼2
+28.0,209.0,1.0,16.0,Westra Lieuwe,17.0,Vacansoleil - DCM,11,2011,▼1
+28.0,1.0,1.0,17.0,Contador Alberto,18.0,Saxo Bank - Sungard,11,2011,▼1
+23.0,183.0,1.0,18.0,Gautier Cyril,19.0,Team Europcar,11,2011,▼1
+29.0,107.0,1.0,19.0,Minard Sébastien,20.0,AG2R La Mondiale,11,2011,▼1
+27.0,64.0,1.0,,Grivko Andrey,21.0,Pro Team Astana,11,2011,-
+33.0,21.0,40.0,,Sánchez Samuel,1.0,Euskaltel - Euskadi,12,2011,-
+26.0,38.0,32.0,,Vanendert Jelle,2.0,Omega Pharma-Lotto,12,2011,-
+28.0,138.0,24.0,,Roy Jérémy,3.0,FDJ,12,2011,-
+31.0,18.0,24.0,,Schleck Fränk,4.0,Leopard Trek,12,2011,-
+28.0,204.0,22.0,1.0,Hoogerland Johnny,5.0,Vacansoleil - DCM,12,2011,▼4
+25.0,117.0,18.0,,Thomas Geraint,6.0,Sky Procycling,12,2011,-
+24.0,106.0,18.0,,Kadri Blel,7.0,AG2R La Mondiale,12,2011,-
+32.0,181.0,17.0,2.0,Voeckler Thomas,8.0,Team Europcar,12,2011,▼6
+33.0,91.0,16.0,,Basso Ivan,9.0,Liquigas - Cannondale,12,2011,-
+29.0,25.0,16.0,,Pérez Rubén,10.0,Euskaltel - Euskadi,12,2011,-
+30.0,218.0,10.0,,Mangel Laurent,11.0,Saur - Sojasun,12,2011,-
+34.0,141.0,10.0,9.0,Evans Cadel,12.0,BMC Racing Team,12,2011,▼3
+22.0,178.0,5.0,3.0,van Garderen Tejay,13.0,HTC - High Road,12,2011,▼10
+27.0,206.0,5.0,4.0,Marcato Marco,14.0,Vacansoleil - DCM,12,2011,▼10
+24.0,83.0,5.0,5.0,Costa Rui,15.0,Movistar Team,12,2011,▼10
+32.0,131.0,5.0,6.0,Casar Sandy,16.0,FDJ,12,2011,▼10
+26.0,11.0,4.0,,Schleck Andy,17.0,Leopard Trek,12,2011,-
+25.0,66.0,4.0,,Kreuziger Roman,18.0,Pro Team Astana,12,2011,-
+33.0,112.0,4.0,7.0,Flecha Juan Antonio,19.0,Sky Procycling,12,2011,▼12
+24.0,137.0,3.0,8.0,Roux Anthony,20.0,FDJ,12,2011,▼12
+25.0,43.0,2.0,10.0,Boom Lars,21.0,Rabobank Cycling Team,12,2011,▼11
+25.0,133.0,2.0,11.0,Delage Mickaël,22.0,FDJ,12,2011,▼11
+29.0,32.0,2.0,12.0,Gilbert Philippe,23.0,Omega Pharma-Lotto,12,2011,▼11
+21.0,213.0,2.0,13.0,Delaplace Anthony,24.0,Saur - Sojasun,12,2011,▼11
+30.0,48.0,2.0,,ten Dam Laurens,25.0,Rabobank Cycling Team,12,2011,-
+30.0,109.0,2.0,14.0,Riblon Christophe,26.0,AG2R La Mondiale,12,2011,▼12
+26.0,155.0,1.0,16.0,El Fares Julien,27.0,"Cofidis, le Crédit en Ligne",12,2011,▼11
+27.0,47.0,1.0,15.0,Sánchez Luis León,28.0,Rabobank Cycling Team,12,2011,▼13
+28.0,209.0,1.0,17.0,Westra Lieuwe,29.0,Vacansoleil - DCM,12,2011,▼12
+28.0,1.0,1.0,18.0,Contador Alberto,30.0,Saxo Bank - Sungard,12,2011,▼12
+23.0,183.0,1.0,19.0,Gautier Cyril,31.0,Team Europcar,12,2011,▼12
+29.0,107.0,1.0,20.0,Minard Sébastien,32.0,AG2R La Mondiale,12,2011,▼12
+27.0,64.0,1.0,21.0,Grivko Andrey,33.0,Pro Team Astana,12,2011,▼12
+32.0,85.0,1.0,,Gutiérrez José Iván,34.0,Movistar Team,12,2011,-
+28.0,138.0,45.0,3.0,Roy Jérémy,1.0,FDJ,13,2011,▲2
+33.0,21.0,40.0,1.0,Sánchez Samuel,2.0,Euskaltel - Euskadi,13,2011,▼1
+26.0,38.0,34.0,2.0,Vanendert Jelle,3.0,Omega Pharma-Lotto,13,2011,▼1
+31.0,18.0,24.0,4.0,Schleck Fränk,4.0,Leopard Trek,13,2011,-
+28.0,204.0,22.0,5.0,Hoogerland Johnny,5.0,Vacansoleil - DCM,13,2011,-
+25.0,117.0,18.0,6.0,Thomas Geraint,6.0,Sky Procycling,13,2011,-
+24.0,106.0,18.0,7.0,Kadri Blel,7.0,AG2R La Mondiale,13,2011,-
+32.0,181.0,17.0,8.0,Voeckler Thomas,8.0,Team Europcar,13,2011,-
+33.0,91.0,16.0,9.0,Basso Ivan,9.0,Liquigas - Cannondale,13,2011,-
+36.0,157.0,16.0,,Moncoutié David,10.0,"Cofidis, le Crédit en Ligne",13,2011,-
+29.0,25.0,16.0,10.0,Pérez Rubén,11.0,Euskaltel - Euskadi,13,2011,▼1
+33.0,51.0,12.0,,Hushovd Thor,12.0,Team Garmin - Cervélo,13,2011,-
+30.0,218.0,10.0,11.0,Mangel Laurent,13.0,Saur - Sojasun,13,2011,▼2
+34.0,141.0,10.0,12.0,Evans Cadel,14.0,BMC Racing Team,13,2011,▼2
+29.0,194.0,8.0,,Gusev Vladimir,15.0,Team Katusha,13,2011,-
+22.0,178.0,5.0,13.0,van Garderen Tejay,16.0,HTC - High Road,13,2011,▼3
+27.0,206.0,5.0,14.0,Marcato Marco,17.0,Vacansoleil - DCM,13,2011,▼3
+24.0,83.0,5.0,15.0,Costa Rui,18.0,Movistar Team,13,2011,▼3
+32.0,131.0,5.0,16.0,Casar Sandy,19.0,FDJ,13,2011,▼3
+26.0,11.0,4.0,17.0,Schleck Andy,20.0,Leopard Trek,13,2011,▼3
+31.0,127.0,4.0,,Pineau Jérôme,21.0,Quickstep Cycling Team,13,2011,-
+33.0,112.0,4.0,19.0,Flecha Juan Antonio,22.0,Sky Procycling,13,2011,▼3
+25.0,66.0,4.0,18.0,Kreuziger Roman,23.0,Pro Team Astana,13,2011,▼5
+24.0,137.0,3.0,20.0,Roux Anthony,24.0,FDJ,13,2011,▼4
+25.0,133.0,2.0,22.0,Delage Mickaël,25.0,FDJ,13,2011,▼3
+29.0,32.0,2.0,23.0,Gilbert Philippe,26.0,Omega Pharma-Lotto,13,2011,▼3
+21.0,213.0,2.0,24.0,Delaplace Anthony,27.0,Saur - Sojasun,13,2011,▼3
+30.0,48.0,2.0,25.0,ten Dam Laurens,28.0,Rabobank Cycling Team,13,2011,▼3
+30.0,109.0,2.0,26.0,Riblon Christophe,29.0,AG2R La Mondiale,13,2011,▼3
+31.0,172.0,2.0,,Bak Lars Ytting,30.0,HTC - High Road,13,2011,-
+27.0,47.0,1.0,28.0,Sánchez Luis León,31.0,Rabobank Cycling Team,13,2011,▼3
+26.0,155.0,1.0,27.0,El Fares Julien,32.0,"Cofidis, le Crédit en Ligne",13,2011,▼5
+28.0,209.0,1.0,29.0,Westra Lieuwe,33.0,Vacansoleil - DCM,13,2011,▼4
+28.0,1.0,1.0,30.0,Contador Alberto,34.0,Saxo Bank - Sungard,13,2011,▼4
+23.0,183.0,1.0,31.0,Gautier Cyril,35.0,Team Europcar,13,2011,▼4
+32.0,85.0,1.0,34.0,Gutiérrez José Iván,36.0,Movistar Team,13,2011,▼2
+29.0,107.0,1.0,32.0,Minard Sébastien,37.0,AG2R La Mondiale,13,2011,▼5
+27.0,129.0,1.0,,Terpstra Niki,38.0,Quickstep Cycling Team,13,2011,-
+27.0,64.0,1.0,33.0,Grivko Andrey,39.0,Pro Team Astana,13,2011,▼6
+26.0,38.0,74.0,3.0,Vanendert Jelle,1.0,Omega Pharma-Lotto,14,2011,▲2
+33.0,21.0,72.0,2.0,Sánchez Samuel,2.0,Euskaltel - Euskadi,14,2011,-
+28.0,138.0,45.0,1.0,Roy Jérémy,3.0,FDJ,14,2011,▼2
+26.0,11.0,28.0,20.0,Schleck Andy,4.0,Leopard Trek,14,2011,▲16
+34.0,141.0,26.0,14.0,Evans Cadel,5.0,BMC Racing Team,14,2011,▲9
+31.0,18.0,24.0,4.0,Schleck Fränk,6.0,Leopard Trek,14,2011,▼2
+28.0,204.0,22.0,5.0,Hoogerland Johnny,7.0,Vacansoleil - DCM,14,2011,▼2
+32.0,121.0,20.0,,Chavanel Sylvain,8.0,Quickstep Cycling Team,14,2011,-
+32.0,131.0,19.0,19.0,Casar Sandy,9.0,FDJ,14,2011,▲10
+25.0,117.0,18.0,6.0,Thomas Geraint,10.0,Sky Procycling,14,2011,▼4
+24.0,106.0,18.0,7.0,Kadri Blel,11.0,AG2R La Mondiale,14,2011,▼4
+25.0,133.0,17.0,25.0,Delage Mickaël,12.0,FDJ,14,2011,▲13
+32.0,181.0,17.0,8.0,Voeckler Thomas,13.0,Team Europcar,14,2011,▼5
+33.0,91.0,16.0,9.0,Basso Ivan,14.0,Liquigas - Cannondale,14,2011,▼5
+36.0,157.0,16.0,10.0,Moncoutié David,15.0,"Cofidis, le Crédit en Ligne",14,2011,▼5
+29.0,25.0,16.0,11.0,Pérez Rubén,16.0,Euskaltel - Euskadi,14,2011,▼5
+33.0,51.0,12.0,12.0,Hushovd Thor,17.0,Team Garmin - Cervélo,14,2011,▼5
+30.0,218.0,10.0,13.0,Mangel Laurent,18.0,Saur - Sojasun,14,2011,▼5
+32.0,182.0,9.0,,Charteau Anthony,19.0,Team Europcar,14,2011,-
+23.0,22.0,8.0,,Izagirre Gorka,20.0,Euskaltel - Euskadi,14,2011,-
+24.0,118.0,8.0,,Urán Rigoberto,21.0,Sky Procycling,14,2011,-
+29.0,194.0,8.0,15.0,Gusev Vladimir,22.0,Team Katusha,14,2011,▼7
+24.0,45.0,7.0,,Mollema Bauke,23.0,Rabobank Cycling Team,14,2011,-
+22.0,178.0,5.0,16.0,van Garderen Tejay,24.0,HTC - High Road,14,2011,▼8
+27.0,206.0,5.0,17.0,Marcato Marco,25.0,Vacansoleil - DCM,14,2011,▼8
+24.0,83.0,5.0,18.0,Costa Rui,26.0,Movistar Team,14,2011,▼8
+28.0,1.0,5.0,34.0,Contador Alberto,27.0,Saxo Bank - Sungard,14,2011,▲7
+26.0,155.0,4.0,32.0,El Fares Julien,28.0,"Cofidis, le Crédit en Ligne",14,2011,▲4
+31.0,127.0,4.0,21.0,Pineau Jérôme,29.0,Quickstep Cycling Team,14,2011,▼8
+25.0,62.0,4.0,,Di Grégorio Rémy,30.0,Pro Team Astana,14,2011,-
+30.0,109.0,4.0,29.0,Riblon Christophe,31.0,AG2R La Mondiale,14,2011,▼2
+33.0,112.0,4.0,22.0,Flecha Juan Antonio,32.0,Sky Procycling,14,2011,▼10
+25.0,66.0,4.0,23.0,Kreuziger Roman,33.0,Pro Team Astana,14,2011,▼10
+24.0,137.0,3.0,24.0,Roux Anthony,34.0,FDJ,14,2011,▼10
+29.0,32.0,2.0,26.0,Gilbert Philippe,35.0,Omega Pharma-Lotto,14,2011,▼9
+27.0,47.0,2.0,31.0,Sánchez Luis León,36.0,Rabobank Cycling Team,14,2011,▼5
+21.0,213.0,2.0,27.0,Delaplace Anthony,37.0,Saur - Sojasun,14,2011,▼10
+30.0,48.0,2.0,28.0,ten Dam Laurens,38.0,Rabobank Cycling Team,14,2011,▼10
+34.0,56.0,2.0,,Millar David,39.0,Team Garmin - Cervélo,14,2011,-
+22.0,139.0,2.0,,Vichot Arthur,40.0,FDJ,14,2011,-
+31.0,172.0,2.0,30.0,Bak Lars Ytting,41.0,HTC - High Road,14,2011,▼11
+28.0,209.0,1.0,33.0,Westra Lieuwe,42.0,Vacansoleil - DCM,14,2011,▼9
+23.0,183.0,1.0,35.0,Gautier Cyril,43.0,Team Europcar,14,2011,▼8
+32.0,85.0,1.0,36.0,Gutiérrez José Iván,44.0,Movistar Team,14,2011,▼8
+29.0,107.0,1.0,37.0,Minard Sébastien,45.0,AG2R La Mondiale,14,2011,▼8
+27.0,129.0,1.0,38.0,Terpstra Niki,46.0,Quickstep Cycling Team,14,2011,▼8
+27.0,64.0,1.0,39.0,Grivko Andrey,47.0,Pro Team Astana,14,2011,▼8
+26.0,38.0,74.0,1.0,Vanendert Jelle,1.0,Omega Pharma-Lotto,15,2011,-
+33.0,21.0,72.0,2.0,Sánchez Samuel,2.0,Euskaltel - Euskadi,15,2011,-
+28.0,138.0,45.0,3.0,Roy Jérémy,3.0,FDJ,15,2011,-
+26.0,11.0,28.0,4.0,Schleck Andy,4.0,Leopard Trek,15,2011,-
+34.0,141.0,26.0,5.0,Evans Cadel,5.0,BMC Racing Team,15,2011,-
+31.0,18.0,24.0,6.0,Schleck Fränk,6.0,Leopard Trek,15,2011,-
+28.0,204.0,22.0,7.0,Hoogerland Johnny,7.0,Vacansoleil - DCM,15,2011,-
+32.0,121.0,20.0,8.0,Chavanel Sylvain,8.0,Quickstep Cycling Team,15,2011,-
+32.0,131.0,19.0,9.0,Casar Sandy,9.0,FDJ,15,2011,-
+25.0,117.0,18.0,10.0,Thomas Geraint,10.0,Sky Procycling,15,2011,-
+24.0,106.0,18.0,11.0,Kadri Blel,11.0,AG2R La Mondiale,15,2011,-
+25.0,133.0,17.0,12.0,Delage Mickaël,12.0,FDJ,15,2011,-
+32.0,181.0,17.0,13.0,Voeckler Thomas,13.0,Team Europcar,15,2011,-
+33.0,91.0,16.0,14.0,Basso Ivan,14.0,Liquigas - Cannondale,15,2011,-
+36.0,157.0,16.0,15.0,Moncoutié David,15.0,"Cofidis, le Crédit en Ligne",15,2011,-
+29.0,25.0,16.0,16.0,Pérez Rubén,16.0,Euskaltel - Euskadi,15,2011,-
+33.0,51.0,12.0,17.0,Hushovd Thor,17.0,Team Garmin - Cervélo,15,2011,-
+30.0,218.0,10.0,18.0,Mangel Laurent,18.0,Saur - Sojasun,15,2011,-
+32.0,182.0,9.0,19.0,Charteau Anthony,19.0,Team Europcar,15,2011,-
+23.0,22.0,8.0,20.0,Izagirre Gorka,20.0,Euskaltel - Euskadi,15,2011,-
+24.0,118.0,8.0,21.0,Urán Rigoberto,21.0,Sky Procycling,15,2011,-
+29.0,194.0,8.0,22.0,Gusev Vladimir,22.0,Team Katusha,15,2011,-
+24.0,45.0,7.0,23.0,Mollema Bauke,23.0,Rabobank Cycling Team,15,2011,-
+22.0,178.0,5.0,24.0,van Garderen Tejay,24.0,HTC - High Road,15,2011,-
+27.0,206.0,5.0,25.0,Marcato Marco,25.0,Vacansoleil - DCM,15,2011,-
+24.0,83.0,5.0,26.0,Costa Rui,26.0,Movistar Team,15,2011,-
+28.0,1.0,5.0,27.0,Contador Alberto,27.0,Saxo Bank - Sungard,15,2011,-
+26.0,155.0,4.0,28.0,El Fares Julien,28.0,"Cofidis, le Crédit en Ligne",15,2011,-
+31.0,127.0,4.0,29.0,Pineau Jérôme,29.0,Quickstep Cycling Team,15,2011,-
+25.0,62.0,4.0,30.0,Di Grégorio Rémy,30.0,Pro Team Astana,15,2011,-
+30.0,109.0,4.0,31.0,Riblon Christophe,31.0,AG2R La Mondiale,15,2011,-
+33.0,112.0,4.0,32.0,Flecha Juan Antonio,32.0,Sky Procycling,15,2011,-
+25.0,66.0,4.0,33.0,Kreuziger Roman,33.0,Pro Team Astana,15,2011,-
+24.0,137.0,3.0,34.0,Roux Anthony,34.0,FDJ,15,2011,-
+29.0,32.0,2.0,35.0,Gilbert Philippe,35.0,Omega Pharma-Lotto,15,2011,-
+27.0,47.0,2.0,36.0,Sánchez Luis León,36.0,Rabobank Cycling Team,15,2011,-
+21.0,213.0,2.0,37.0,Delaplace Anthony,37.0,Saur - Sojasun,15,2011,-
+30.0,48.0,2.0,38.0,ten Dam Laurens,38.0,Rabobank Cycling Team,15,2011,-
+34.0,56.0,2.0,39.0,Millar David,39.0,Team Garmin - Cervélo,15,2011,-
+22.0,139.0,2.0,40.0,Vichot Arthur,40.0,FDJ,15,2011,-
+31.0,172.0,2.0,41.0,Bak Lars Ytting,41.0,HTC - High Road,15,2011,-
+28.0,209.0,1.0,42.0,Westra Lieuwe,42.0,Vacansoleil - DCM,15,2011,-
+26.0,195.0,1.0,,Ignatyev Mikhail,43.0,Team Katusha,15,2011,-
+23.0,183.0,1.0,43.0,Gautier Cyril,44.0,Team Europcar,15,2011,▼1
+32.0,85.0,1.0,44.0,Gutiérrez José Iván,45.0,Movistar Team,15,2011,▼1
+29.0,107.0,1.0,45.0,Minard Sébastien,46.0,AG2R La Mondiale,15,2011,▼1
+27.0,129.0,1.0,46.0,Terpstra Niki,47.0,Quickstep Cycling Team,15,2011,▼1
+27.0,64.0,1.0,47.0,Grivko Andrey,48.0,Pro Team Astana,15,2011,▼1
+26.0,38.0,74.0,1.0,Vanendert Jelle,1.0,Omega Pharma-Lotto,16,2011,-
+33.0,21.0,72.0,2.0,Sánchez Samuel,2.0,Euskaltel - Euskadi,16,2011,-
+28.0,138.0,45.0,3.0,Roy Jérémy,3.0,FDJ,16,2011,-
+26.0,11.0,28.0,4.0,Schleck Andy,4.0,Leopard Trek,16,2011,-
+34.0,141.0,26.0,5.0,Evans Cadel,5.0,BMC Racing Team,16,2011,-
+31.0,18.0,24.0,6.0,Schleck Fränk,6.0,Leopard Trek,16,2011,-
+28.0,204.0,22.0,7.0,Hoogerland Johnny,7.0,Vacansoleil - DCM,16,2011,-
+32.0,121.0,20.0,8.0,Chavanel Sylvain,8.0,Quickstep Cycling Team,16,2011,-
+32.0,131.0,19.0,9.0,Casar Sandy,9.0,FDJ,16,2011,-
+25.0,117.0,18.0,10.0,Thomas Geraint,10.0,Sky Procycling,16,2011,-
+24.0,106.0,18.0,11.0,Kadri Blel,11.0,AG2R La Mondiale,16,2011,-
+25.0,133.0,17.0,12.0,Delage Mickaël,12.0,FDJ,16,2011,-
+32.0,181.0,17.0,13.0,Voeckler Thomas,13.0,Team Europcar,16,2011,-
+33.0,91.0,16.0,14.0,Basso Ivan,14.0,Liquigas - Cannondale,16,2011,-
+29.0,25.0,16.0,16.0,Pérez Rubén,15.0,Euskaltel - Euskadi,16,2011,▲1
+36.0,157.0,16.0,15.0,Moncoutié David,16.0,"Cofidis, le Crédit en Ligne",16,2011,▼1
+33.0,51.0,14.0,17.0,Hushovd Thor,17.0,Team Garmin - Cervélo,16,2011,-
+30.0,218.0,10.0,18.0,Mangel Laurent,18.0,Saur - Sojasun,16,2011,-
+32.0,182.0,9.0,19.0,Charteau Anthony,19.0,Team Europcar,16,2011,-
+23.0,22.0,8.0,20.0,Izagirre Gorka,20.0,Euskaltel - Euskadi,16,2011,-
+24.0,118.0,8.0,21.0,Urán Rigoberto,21.0,Sky Procycling,16,2011,-
+29.0,194.0,8.0,22.0,Gusev Vladimir,22.0,Team Katusha,16,2011,-
+24.0,45.0,7.0,23.0,Mollema Bauke,23.0,Rabobank Cycling Team,16,2011,-
+30.0,55.0,5.0,,Hesjedal Ryder,24.0,Team Garmin - Cervélo,16,2011,-
+22.0,178.0,5.0,24.0,van Garderen Tejay,25.0,HTC - High Road,16,2011,▼1
+27.0,206.0,5.0,25.0,Marcato Marco,26.0,Vacansoleil - DCM,16,2011,▼1
+24.0,83.0,5.0,26.0,Costa Rui,27.0,Movistar Team,16,2011,▼1
+28.0,1.0,5.0,27.0,Contador Alberto,28.0,Saxo Bank - Sungard,16,2011,▼1
+26.0,155.0,4.0,28.0,El Fares Julien,29.0,"Cofidis, le Crédit en Ligne",16,2011,▼1
+25.0,62.0,4.0,30.0,Di Grégorio Rémy,30.0,Pro Team Astana,16,2011,-
+33.0,112.0,4.0,32.0,Flecha Juan Antonio,31.0,Sky Procycling,16,2011,▲1
+30.0,109.0,4.0,31.0,Riblon Christophe,32.0,AG2R La Mondiale,16,2011,▼1
+31.0,127.0,4.0,29.0,Pineau Jérôme,33.0,Quickstep Cycling Team,16,2011,▼4
+25.0,66.0,4.0,33.0,Kreuziger Roman,34.0,Pro Team Astana,16,2011,▼1
+24.0,137.0,3.0,34.0,Roux Anthony,35.0,FDJ,16,2011,▼1
+24.0,114.0,3.0,,Boasson Hagen Edvald,36.0,Sky Procycling,16,2011,-
+29.0,32.0,2.0,35.0,Gilbert Philippe,37.0,Omega Pharma-Lotto,16,2011,▼2
+21.0,213.0,2.0,37.0,Delaplace Anthony,38.0,Saur - Sojasun,16,2011,▼1
+27.0,47.0,2.0,36.0,Sánchez Luis León,39.0,Rabobank Cycling Team,16,2011,▼3
+34.0,56.0,2.0,39.0,Millar David,40.0,Team Garmin - Cervélo,16,2011,▼1
+31.0,172.0,2.0,41.0,Bak Lars Ytting,41.0,HTC - High Road,16,2011,-
+22.0,139.0,2.0,40.0,Vichot Arthur,42.0,FDJ,16,2011,▼2
+30.0,48.0,2.0,38.0,ten Dam Laurens,43.0,Rabobank Cycling Team,16,2011,▼5
+26.0,195.0,1.0,43.0,Ignatyev Mikhail,44.0,Team Katusha,16,2011,▼1
+28.0,209.0,1.0,42.0,Westra Lieuwe,45.0,Vacansoleil - DCM,16,2011,▼3
+26.0,175.0,1.0,,Martin Tony,46.0,HTC - High Road,16,2011,-
+23.0,183.0,1.0,44.0,Gautier Cyril,47.0,Team Europcar,16,2011,▼3
+27.0,64.0,1.0,48.0,Grivko Andrey,48.0,Pro Team Astana,16,2011,-
+32.0,85.0,1.0,45.0,Gutiérrez José Iván,49.0,Movistar Team,16,2011,▼4
+29.0,107.0,1.0,46.0,Minard Sébastien,50.0,AG2R La Mondiale,16,2011,▼4
+27.0,129.0,1.0,47.0,Terpstra Niki,51.0,Quickstep Cycling Team,16,2011,▼4
+26.0,38.0,74.0,1.0,Vanendert Jelle,1.0,Omega Pharma-Lotto,17,2011,-
+33.0,21.0,72.0,2.0,Sánchez Samuel,2.0,Euskaltel - Euskadi,17,2011,-
+28.0,138.0,45.0,3.0,Roy Jérémy,3.0,FDJ,17,2011,-
+32.0,121.0,38.0,8.0,Chavanel Sylvain,4.0,Quickstep Cycling Team,17,2011,▲4
+26.0,11.0,28.0,4.0,Schleck Andy,5.0,Leopard Trek,17,2011,▼1
+29.0,25.0,26.0,15.0,Pérez Rubén,6.0,Euskaltel - Euskadi,17,2011,▲9
+34.0,141.0,26.0,5.0,Evans Cadel,7.0,BMC Racing Team,17,2011,▼2
+31.0,18.0,24.0,6.0,Schleck Fränk,8.0,Leopard Trek,17,2011,▼2
+28.0,204.0,22.0,7.0,Hoogerland Johnny,9.0,Vacansoleil - DCM,17,2011,▼2
+32.0,131.0,19.0,9.0,Casar Sandy,10.0,FDJ,17,2011,▼1
+25.0,117.0,18.0,10.0,Thomas Geraint,11.0,Sky Procycling,17,2011,▼1
+24.0,106.0,18.0,11.0,Kadri Blel,12.0,AG2R La Mondiale,17,2011,▼1
+25.0,133.0,17.0,12.0,Delage Mickaël,13.0,FDJ,17,2011,▼1
+32.0,181.0,17.0,13.0,Voeckler Thomas,14.0,Team Europcar,17,2011,▼1
+33.0,91.0,16.0,14.0,Basso Ivan,15.0,Liquigas - Cannondale,17,2011,▼1
+36.0,157.0,16.0,16.0,Moncoutié David,16.0,"Cofidis, le Crédit en Ligne",17,2011,-
+33.0,51.0,14.0,17.0,Hushovd Thor,17.0,Team Garmin - Cervélo,17,2011,-
+26.0,155.0,12.0,29.0,El Fares Julien,18.0,"Cofidis, le Crédit en Ligne",17,2011,▲11
+30.0,218.0,10.0,18.0,Mangel Laurent,19.0,Saur - Sojasun,17,2011,▼1
+24.0,45.0,10.0,23.0,Mollema Bauke,20.0,Rabobank Cycling Team,17,2011,▲3
+24.0,114.0,9.0,36.0,Boasson Hagen Edvald,21.0,Sky Procycling,17,2011,▲15
+32.0,182.0,9.0,19.0,Charteau Anthony,22.0,Team Europcar,17,2011,▼3
+23.0,22.0,8.0,20.0,Izagirre Gorka,23.0,Euskaltel - Euskadi,17,2011,▼3
+24.0,118.0,8.0,21.0,Urán Rigoberto,24.0,Sky Procycling,17,2011,▼3
+29.0,194.0,8.0,22.0,Gusev Vladimir,25.0,Team Katusha,17,2011,▼3
+33.0,49.0,7.0,,Tjallingii Maarten,26.0,Rabobank Cycling Team,17,2011,-
+30.0,55.0,5.0,24.0,Hesjedal Ryder,27.0,Team Garmin - Cervélo,17,2011,▼3
+22.0,178.0,5.0,25.0,van Garderen Tejay,28.0,HTC - High Road,17,2011,▼3
+27.0,206.0,5.0,26.0,Marcato Marco,29.0,Vacansoleil - DCM,17,2011,▼3
+24.0,83.0,5.0,27.0,Costa Rui,30.0,Movistar Team,17,2011,▼3
+28.0,1.0,5.0,28.0,Contador Alberto,31.0,Saxo Bank - Sungard,17,2011,▼3
+31.0,127.0,4.0,33.0,Pineau Jérôme,32.0,Quickstep Cycling Team,17,2011,▲1
+25.0,62.0,4.0,30.0,Di Grégorio Rémy,33.0,Pro Team Astana,17,2011,▼3
+30.0,109.0,4.0,32.0,Riblon Christophe,34.0,AG2R La Mondiale,17,2011,▼2
+33.0,112.0,4.0,31.0,Flecha Juan Antonio,35.0,Sky Procycling,17,2011,▼4
+26.0,216.0,4.0,,Hivert Jonathan,36.0,Saur - Sojasun,17,2011,-
+25.0,66.0,4.0,34.0,Kreuziger Roman,37.0,Pro Team Astana,17,2011,▼3
+24.0,137.0,3.0,35.0,Roux Anthony,38.0,FDJ,17,2011,▼3
+29.0,32.0,2.0,37.0,Gilbert Philippe,39.0,Omega Pharma-Lotto,17,2011,▼2
+27.0,47.0,2.0,39.0,Sánchez Luis León,40.0,Rabobank Cycling Team,17,2011,▼1
+21.0,213.0,2.0,38.0,Delaplace Anthony,41.0,Saur - Sojasun,17,2011,▼3
+30.0,48.0,2.0,43.0,ten Dam Laurens,42.0,Rabobank Cycling Team,17,2011,▲1
+34.0,56.0,2.0,40.0,Millar David,43.0,Team Garmin - Cervélo,17,2011,▼3
+22.0,139.0,2.0,42.0,Vichot Arthur,44.0,FDJ,17,2011,▼2
+34.0,63.0,2.0,,Fofonov Dmitriy,45.0,Pro Team Astana,17,2011,-
+31.0,172.0,2.0,41.0,Bak Lars Ytting,46.0,HTC - High Road,17,2011,▼5
+28.0,209.0,1.0,45.0,Westra Lieuwe,47.0,Vacansoleil - DCM,17,2011,▼2
+26.0,195.0,1.0,44.0,Ignatyev Mikhail,48.0,Team Katusha,17,2011,▼4
+26.0,175.0,1.0,46.0,Martin Tony,49.0,HTC - High Road,17,2011,▼3
+23.0,183.0,1.0,47.0,Gautier Cyril,50.0,Team Europcar,17,2011,▼3
+34.0,205.0,1.0,,Leukemans Björn,51.0,Vacansoleil - DCM,17,2011,-
+32.0,85.0,1.0,49.0,Gutiérrez José Iván,52.0,Movistar Team,17,2011,▼3
+29.0,107.0,1.0,50.0,Minard Sébastien,53.0,AG2R La Mondiale,17,2011,▼3
+27.0,129.0,1.0,51.0,Terpstra Niki,54.0,Quickstep Cycling Team,17,2011,▼3
+27.0,64.0,1.0,48.0,Grivko Andrey,55.0,Pro Team Astana,17,2011,▼7
+26.0,38.0,74.0,1.0,Vanendert Jelle,1.0,Omega Pharma-Lotto,18,2011,-
+33.0,21.0,72.0,2.0,Sánchez Samuel,2.0,Euskaltel - Euskadi,18,2011,-
+26.0,11.0,70.0,5.0,Schleck Andy,3.0,Leopard Trek,18,2011,▲2
+31.0,18.0,56.0,8.0,Schleck Fränk,4.0,Leopard Trek,18,2011,▲4
+34.0,141.0,50.0,7.0,Evans Cadel,5.0,BMC Racing Team,18,2011,▲2
+28.0,138.0,45.0,3.0,Roy Jérémy,6.0,FDJ,18,2011,▼3
+30.0,65.0,40.0,,Iglinskiy Maxim,7.0,Pro Team Astana,18,2011,-
+32.0,121.0,38.0,4.0,Chavanel Sylvain,8.0,Quickstep Cycling Team,18,2011,▼4
+28.0,204.0,38.0,9.0,Hoogerland Johnny,9.0,Vacansoleil - DCM,18,2011,-
+33.0,91.0,32.0,15.0,Basso Ivan,10.0,Liquigas - Cannondale,18,2011,▲5
+29.0,25.0,26.0,6.0,Pérez Rubén,11.0,Euskaltel - Euskadi,18,2011,▼5
+32.0,181.0,25.0,14.0,Voeckler Thomas,12.0,Team Europcar,18,2011,▲2
+28.0,15.0,20.0,,Monfort Maxime,13.0,Leopard Trek,18,2011,-
+27.0,125.0,20.0,,Devenyns Dries,14.0,Quickstep Cycling Team,18,2011,-
+32.0,131.0,19.0,10.0,Casar Sandy,15.0,FDJ,18,2011,▼5
+25.0,117.0,18.0,11.0,Thomas Geraint,16.0,Sky Procycling,18,2011,▼5
+24.0,106.0,18.0,12.0,Kadri Blel,17.0,AG2R La Mondiale,18,2011,▼5
+25.0,133.0,17.0,13.0,Delage Mickaël,18.0,FDJ,18,2011,▼5
+27.0,101.0,16.0,,Roche Nicolas,19.0,AG2R La Mondiale,18,2011,-
+36.0,157.0,16.0,16.0,Moncoutié David,20.0,"Cofidis, le Crédit en Ligne",18,2011,▼4
+33.0,51.0,14.0,17.0,Hushovd Thor,21.0,Team Garmin - Cervélo,18,2011,▼4
+26.0,155.0,12.0,18.0,El Fares Julien,22.0,"Cofidis, le Crédit en Ligne",18,2011,▼4
+30.0,218.0,10.0,19.0,Mangel Laurent,23.0,Saur - Sojasun,18,2011,▼4
+24.0,45.0,10.0,20.0,Mollema Bauke,24.0,Rabobank Cycling Team,18,2011,▼4
+24.0,114.0,9.0,21.0,Boasson Hagen Edvald,25.0,Sky Procycling,18,2011,▼4
+32.0,182.0,9.0,22.0,Charteau Anthony,26.0,Team Europcar,18,2011,▼4
+23.0,22.0,8.0,23.0,Izagirre Gorka,27.0,Euskaltel - Euskadi,18,2011,▼4
+24.0,118.0,8.0,24.0,Urán Rigoberto,28.0,Sky Procycling,18,2011,▼4
+29.0,194.0,8.0,25.0,Gusev Vladimir,29.0,Team Katusha,18,2011,▼4
+33.0,49.0,7.0,26.0,Tjallingii Maarten,30.0,Rabobank Cycling Team,18,2011,▼4
+23.0,198.0,6.0,,Silin Egor,31.0,Team Katusha,18,2011,-
+30.0,55.0,5.0,27.0,Hesjedal Ryder,32.0,Team Garmin - Cervélo,18,2011,▼5
+22.0,178.0,5.0,28.0,van Garderen Tejay,33.0,HTC - High Road,18,2011,▼5
+27.0,206.0,5.0,29.0,Marcato Marco,34.0,Vacansoleil - DCM,18,2011,▼5
+24.0,83.0,5.0,30.0,Costa Rui,35.0,Movistar Team,18,2011,▼5
+28.0,1.0,5.0,31.0,Contador Alberto,36.0,Saxo Bank - Sungard,18,2011,▼5
+24.0,188.0,4.0,,Rolland Pierre,37.0,Team Europcar,18,2011,-
+25.0,62.0,4.0,33.0,Di Grégorio Rémy,38.0,Pro Team Astana,18,2011,▼5
+31.0,127.0,4.0,32.0,Pineau Jérôme,39.0,Quickstep Cycling Team,18,2011,▼7
+30.0,109.0,4.0,34.0,Riblon Christophe,40.0,AG2R La Mondiale,18,2011,▼6
+33.0,112.0,4.0,35.0,Flecha Juan Antonio,41.0,Sky Procycling,18,2011,▼6
+26.0,216.0,4.0,36.0,Hivert Jonathan,42.0,Saur - Sojasun,18,2011,▼6
+25.0,66.0,4.0,37.0,Kreuziger Roman,43.0,Pro Team Astana,18,2011,▼6
+31.0,27.0,4.0,,Urtasun Pablo,44.0,Euskaltel - Euskadi,18,2011,-
+24.0,137.0,3.0,38.0,Roux Anthony,45.0,FDJ,18,2011,▼7
+29.0,32.0,2.0,39.0,Gilbert Philippe,46.0,Omega Pharma-Lotto,18,2011,▼7
+27.0,47.0,2.0,40.0,Sánchez Luis León,47.0,Rabobank Cycling Team,18,2011,▼7
+21.0,213.0,2.0,41.0,Delaplace Anthony,48.0,Saur - Sojasun,18,2011,▼7
+30.0,48.0,2.0,42.0,ten Dam Laurens,49.0,Rabobank Cycling Team,18,2011,▼7
+34.0,56.0,2.0,43.0,Millar David,50.0,Team Garmin - Cervélo,18,2011,▼7
+22.0,139.0,2.0,44.0,Vichot Arthur,51.0,FDJ,18,2011,▼7
+34.0,63.0,2.0,45.0,Fofonov Dmitriy,52.0,Pro Team Astana,18,2011,▼7
+31.0,172.0,2.0,46.0,Bak Lars Ytting,53.0,HTC - High Road,18,2011,▼7
+28.0,209.0,1.0,47.0,Westra Lieuwe,54.0,Vacansoleil - DCM,18,2011,▼7
+26.0,195.0,1.0,48.0,Ignatyev Mikhail,55.0,Team Katusha,18,2011,▼7
+26.0,175.0,1.0,49.0,Martin Tony,56.0,HTC - High Road,18,2011,▼7
+23.0,183.0,1.0,50.0,Gautier Cyril,57.0,Team Europcar,18,2011,▼7
+34.0,205.0,1.0,51.0,Leukemans Björn,58.0,Vacansoleil - DCM,18,2011,▼7
+32.0,85.0,1.0,52.0,Gutiérrez José Iván,59.0,Movistar Team,18,2011,▼7
+29.0,107.0,1.0,53.0,Minard Sébastien,60.0,AG2R La Mondiale,18,2011,▼7
+27.0,129.0,1.0,54.0,Terpstra Niki,61.0,Quickstep Cycling Team,18,2011,▼7
+27.0,64.0,1.0,55.0,Grivko Andrey,62.0,Pro Team Astana,18,2011,▼7
+33.0,21.0,108.0,2.0,Sánchez Samuel,1.0,Euskaltel - Euskadi,19,2011,▲1
+26.0,11.0,98.0,3.0,Schleck Andy,2.0,Leopard Trek,19,2011,▲1
+26.0,38.0,74.0,1.0,Vanendert Jelle,3.0,Omega Pharma-Lotto,19,2011,▼2
+34.0,141.0,58.0,5.0,Evans Cadel,4.0,BMC Racing Team,19,2011,▲1
+31.0,18.0,56.0,4.0,Schleck Fränk,5.0,Leopard Trek,19,2011,▼1
+28.0,1.0,51.0,36.0,Contador Alberto,6.0,Saxo Bank - Sungard,19,2011,▲30
+28.0,138.0,45.0,6.0,Roy Jérémy,7.0,FDJ,19,2011,▼1
+24.0,188.0,44.0,37.0,Rolland Pierre,8.0,Team Europcar,19,2011,▲29
+30.0,65.0,40.0,7.0,Iglinskiy Maxim,9.0,Pro Team Astana,19,2011,▼2
+28.0,204.0,40.0,9.0,Hoogerland Johnny,10.0,Vacansoleil - DCM,19,2011,▼1
+32.0,121.0,38.0,8.0,Chavanel Sylvain,11.0,Quickstep Cycling Team,19,2011,▼3
+33.0,91.0,32.0,10.0,Basso Ivan,12.0,Liquigas - Cannondale,19,2011,▼2
+29.0,25.0,26.0,11.0,Pérez Rubén,13.0,Euskaltel - Euskadi,19,2011,▼2
+32.0,181.0,25.0,12.0,Voeckler Thomas,14.0,Team Europcar,19,2011,▼2
+28.0,15.0,20.0,13.0,Monfort Maxime,15.0,Leopard Trek,19,2011,▼2
+28.0,125.0,20.0,14.0,Devenyns Dries,16.0,Quickstep Cycling Team,19,2011,▼2
+32.0,131.0,19.0,15.0,Casar Sandy,17.0,FDJ,19,2011,▼2
+23.0,22.0,18.0,27.0,Izagirre Gorka,18.0,Euskaltel - Euskadi,19,2011,▲9
+25.0,117.0,18.0,16.0,Thomas Geraint,19.0,Sky Procycling,19,2011,▼3
+24.0,106.0,18.0,17.0,Kadri Blel,20.0,AG2R La Mondiale,19,2011,▼3
+25.0,133.0,17.0,18.0,Delage Mickaël,21.0,FDJ,19,2011,▼3
+24.0,83.0,17.0,35.0,Costa Rui,22.0,Movistar Team,19,2011,▲13
+26.0,179.0,16.0,,Velits Peter,23.0,HTC - High Road,19,2011,-
+27.0,101.0,16.0,19.0,Roche Nicolas,24.0,AG2R La Mondiale,19,2011,▼5
+36.0,157.0,16.0,20.0,Moncoutié David,25.0,"Cofidis, le Crédit en Ligne",19,2011,▼5
+33.0,51.0,14.0,21.0,Hushovd Thor,26.0,Team Garmin - Cervélo,19,2011,▼5
+30.0,109.0,13.0,40.0,Riblon Christophe,27.0,AG2R La Mondiale,19,2011,▲13
+26.0,155.0,12.0,22.0,El Fares Julien,28.0,"Cofidis, le Crédit en Ligne",19,2011,▼6
+30.0,218.0,10.0,23.0,Mangel Laurent,29.0,Saur - Sojasun,19,2011,▼6
+24.0,45.0,10.0,24.0,Mollema Bauke,30.0,Rabobank Cycling Team,19,2011,▼6
+24.0,114.0,9.0,25.0,Boasson Hagen Edvald,31.0,Sky Procycling,19,2011,▼6
+32.0,182.0,9.0,26.0,Charteau Anthony,32.0,Team Europcar,19,2011,▼6
+24.0,118.0,8.0,28.0,Urán Rigoberto,33.0,Sky Procycling,19,2011,▼5
+29.0,194.0,8.0,29.0,Gusev Vladimir,34.0,Team Katusha,19,2011,▼5
+30.0,55.0,7.0,32.0,Hesjedal Ryder,35.0,Team Garmin - Cervélo,19,2011,▼3
+33.0,49.0,7.0,30.0,Tjallingii Maarten,36.0,Rabobank Cycling Team,19,2011,▼6
+23.0,198.0,6.0,31.0,Silin Egor,37.0,Team Katusha,19,2011,▼6
+22.0,178.0,5.0,33.0,van Garderen Tejay,38.0,HTC - High Road,19,2011,▼5
+27.0,206.0,5.0,34.0,Marcato Marco,39.0,Vacansoleil - DCM,19,2011,▼5
+25.0,62.0,4.0,38.0,Di Grégorio Rémy,40.0,Pro Team Astana,19,2011,▼2
+31.0,127.0,4.0,39.0,Pineau Jérôme,41.0,Quickstep Cycling Team,19,2011,▼2
+24.0,203.0,4.0,,De Gendt Thomas,42.0,Vacansoleil - DCM,19,2011,-
+26.0,216.0,4.0,42.0,Hivert Jonathan,43.0,Saur - Sojasun,19,2011,▼1
+33.0,112.0,4.0,41.0,Flecha Juan Antonio,44.0,Sky Procycling,19,2011,▼3
+25.0,66.0,4.0,43.0,Kreuziger Roman,45.0,Pro Team Astana,19,2011,▼2
+31.0,154.0,4.0,,Duque Leonardo Fabio,46.0,"Cofidis, le Crédit en Ligne",19,2011,-
+31.0,27.0,4.0,44.0,Urtasun Pablo,47.0,Euskaltel - Euskadi,19,2011,▼3
+24.0,137.0,3.0,45.0,Roux Anthony,48.0,FDJ,19,2011,▼3
+29.0,32.0,2.0,46.0,Gilbert Philippe,49.0,Omega Pharma-Lotto,19,2011,▼3
+27.0,47.0,2.0,47.0,Sánchez Luis León,50.0,Rabobank Cycling Team,19,2011,▼3
+21.0,213.0,2.0,48.0,Delaplace Anthony,51.0,Saur - Sojasun,19,2011,▼3
+30.0,48.0,2.0,49.0,ten Dam Laurens,52.0,Rabobank Cycling Team,19,2011,▼3
+34.0,56.0,2.0,50.0,Millar David,53.0,Team Garmin - Cervélo,19,2011,▼3
+22.0,139.0,2.0,51.0,Vichot Arthur,54.0,FDJ,19,2011,▼3
+34.0,63.0,2.0,52.0,Fofonov Dmitriy,55.0,Pro Team Astana,19,2011,▼3
+31.0,172.0,2.0,53.0,Bak Lars Ytting,56.0,HTC - High Road,19,2011,▼3
+28.0,209.0,1.0,54.0,Westra Lieuwe,57.0,Vacansoleil - DCM,19,2011,▼3
+26.0,195.0,1.0,55.0,Ignatyev Mikhail,58.0,Team Katusha,19,2011,▼3
+23.0,183.0,1.0,57.0,Gautier Cyril,59.0,Team Europcar,19,2011,▼2
+26.0,175.0,1.0,56.0,Martin Tony,60.0,HTC - High Road,19,2011,▼4
+32.0,85.0,1.0,59.0,Gutiérrez José Iván,61.0,Movistar Team,19,2011,▼2
+29.0,107.0,1.0,60.0,Minard Sébastien,62.0,AG2R La Mondiale,19,2011,▼2
+27.0,129.0,1.0,61.0,Terpstra Niki,63.0,Quickstep Cycling Team,19,2011,▼2
+27.0,64.0,1.0,62.0,Grivko Andrey,64.0,Pro Team Astana,19,2011,▼2
+33.0,21.0,108.0,1.0,Sánchez Samuel,1.0,Euskaltel - Euskadi,20,2011,-
+26.0,11.0,98.0,2.0,Schleck Andy,2.0,Leopard Trek,20,2011,-
+26.0,38.0,74.0,3.0,Vanendert Jelle,3.0,Omega Pharma-Lotto,20,2011,-
+34.0,141.0,58.0,4.0,Evans Cadel,4.0,BMC Racing Team,20,2011,-
+31.0,18.0,56.0,5.0,Schleck Fränk,5.0,Leopard Trek,20,2011,-
+28.0,1.0,51.0,6.0,Contador Alberto,6.0,Saxo Bank - Sungard,20,2011,-
+28.0,138.0,45.0,7.0,Roy Jérémy,7.0,FDJ,20,2011,-
+24.0,188.0,44.0,8.0,Rolland Pierre,8.0,Team Europcar,20,2011,-
+30.0,65.0,40.0,9.0,Iglinskiy Maxim,9.0,Pro Team Astana,20,2011,-
+28.0,204.0,40.0,10.0,Hoogerland Johnny,10.0,Vacansoleil - DCM,20,2011,-
+32.0,121.0,38.0,11.0,Chavanel Sylvain,11.0,Quickstep Cycling Team,20,2011,-
+33.0,91.0,32.0,12.0,Basso Ivan,12.0,Liquigas - Cannondale,20,2011,-
+29.0,25.0,26.0,13.0,Pérez Rubén,13.0,Euskaltel - Euskadi,20,2011,-
+32.0,181.0,25.0,14.0,Voeckler Thomas,14.0,Team Europcar,20,2011,-
+28.0,15.0,20.0,15.0,Monfort Maxime,15.0,Leopard Trek,20,2011,-
+28.0,125.0,20.0,16.0,Devenyns Dries,16.0,Quickstep Cycling Team,20,2011,-
+32.0,131.0,19.0,17.0,Casar Sandy,17.0,FDJ,20,2011,-
+23.0,22.0,18.0,18.0,Izagirre Gorka,18.0,Euskaltel - Euskadi,20,2011,-
+25.0,117.0,18.0,19.0,Thomas Geraint,19.0,Sky Procycling,20,2011,-
+24.0,106.0,18.0,20.0,Kadri Blel,20.0,AG2R La Mondiale,20,2011,-
+25.0,133.0,17.0,21.0,Delage Mickaël,21.0,FDJ,20,2011,-
+24.0,83.0,17.0,22.0,Costa Rui,22.0,Movistar Team,20,2011,-
+26.0,179.0,16.0,23.0,Velits Peter,23.0,HTC - High Road,20,2011,-
+27.0,101.0,16.0,24.0,Roche Nicolas,24.0,AG2R La Mondiale,20,2011,-
+36.0,157.0,16.0,25.0,Moncoutié David,25.0,"Cofidis, le Crédit en Ligne",20,2011,-
+33.0,51.0,14.0,26.0,Hushovd Thor,26.0,Team Garmin - Cervélo,20,2011,-
+30.0,109.0,13.0,27.0,Riblon Christophe,27.0,AG2R La Mondiale,20,2011,-
+26.0,155.0,12.0,28.0,El Fares Julien,28.0,"Cofidis, le Crédit en Ligne",20,2011,-
+30.0,218.0,10.0,29.0,Mangel Laurent,29.0,Saur - Sojasun,20,2011,-
+24.0,45.0,10.0,30.0,Mollema Bauke,30.0,Rabobank Cycling Team,20,2011,-
+24.0,114.0,9.0,31.0,Boasson Hagen Edvald,31.0,Sky Procycling,20,2011,-
+32.0,182.0,9.0,32.0,Charteau Anthony,32.0,Team Europcar,20,2011,-
+29.0,194.0,8.0,34.0,Gusev Vladimir,33.0,Team Katusha,20,2011,▲1
+24.0,118.0,8.0,33.0,Urán Rigoberto,34.0,Sky Procycling,20,2011,▼1
+30.0,55.0,7.0,35.0,Hesjedal Ryder,35.0,Team Garmin - Cervélo,20,2011,-
+33.0,49.0,7.0,36.0,Tjallingii Maarten,36.0,Rabobank Cycling Team,20,2011,-
+23.0,198.0,6.0,37.0,Silin Egor,37.0,Team Katusha,20,2011,-
+22.0,178.0,5.0,38.0,van Garderen Tejay,38.0,HTC - High Road,20,2011,-
+27.0,206.0,5.0,39.0,Marcato Marco,39.0,Vacansoleil - DCM,20,2011,-
+25.0,62.0,4.0,40.0,Di Grégorio Rémy,40.0,Pro Team Astana,20,2011,-
+31.0,127.0,4.0,41.0,Pineau Jérôme,41.0,Quickstep Cycling Team,20,2011,-
+24.0,203.0,4.0,42.0,De Gendt Thomas,42.0,Vacansoleil - DCM,20,2011,-
+26.0,216.0,4.0,43.0,Hivert Jonathan,43.0,Saur - Sojasun,20,2011,-
+33.0,112.0,4.0,44.0,Flecha Juan Antonio,44.0,Sky Procycling,20,2011,-
+25.0,66.0,4.0,45.0,Kreuziger Roman,45.0,Pro Team Astana,20,2011,-
+31.0,154.0,4.0,46.0,Duque Leonardo Fabio,46.0,"Cofidis, le Crédit en Ligne",20,2011,-
+31.0,27.0,4.0,47.0,Urtasun Pablo,47.0,Euskaltel - Euskadi,20,2011,-
+24.0,137.0,3.0,48.0,Roux Anthony,48.0,FDJ,20,2011,-
+29.0,32.0,2.0,49.0,Gilbert Philippe,49.0,Omega Pharma-Lotto,20,2011,-
+27.0,47.0,2.0,50.0,Sánchez Luis León,50.0,Rabobank Cycling Team,20,2011,-
+21.0,213.0,2.0,51.0,Delaplace Anthony,51.0,Saur - Sojasun,20,2011,-
+30.0,48.0,2.0,52.0,ten Dam Laurens,52.0,Rabobank Cycling Team,20,2011,-
+34.0,56.0,2.0,53.0,Millar David,53.0,Team Garmin - Cervélo,20,2011,-
+22.0,139.0,2.0,54.0,Vichot Arthur,54.0,FDJ,20,2011,-
+34.0,63.0,2.0,55.0,Fofonov Dmitriy,55.0,Pro Team Astana,20,2011,-
+31.0,172.0,2.0,56.0,Bak Lars Ytting,56.0,HTC - High Road,20,2011,-
+28.0,209.0,1.0,57.0,Westra Lieuwe,57.0,Vacansoleil - DCM,20,2011,-
+26.0,195.0,1.0,58.0,Ignatyev Mikhail,58.0,Team Katusha,20,2011,-
+23.0,183.0,1.0,59.0,Gautier Cyril,59.0,Team Europcar,20,2011,-
+26.0,175.0,1.0,60.0,Martin Tony,60.0,HTC - High Road,20,2011,-
+32.0,85.0,1.0,61.0,Gutiérrez José Iván,61.0,Movistar Team,20,2011,-
+29.0,107.0,1.0,62.0,Minard Sébastien,62.0,AG2R La Mondiale,20,2011,-
+27.0,129.0,1.0,63.0,Terpstra Niki,63.0,Quickstep Cycling Team,20,2011,-
+27.0,64.0,1.0,64.0,Grivko Andrey,64.0,Pro Team Astana,20,2011,-
+33.0,21.0,108.0,,Sánchez Samuel,1.0,Euskaltel - Euskadi,21,2011,
+26.0,11.0,98.0,,Schleck Andy,2.0,Leopard Trek,21,2011,
+26.0,38.0,74.0,,Vanendert Jelle,3.0,Omega Pharma-Lotto,21,2011,
+34.0,141.0,58.0,,Evans Cadel,4.0,BMC Racing Team,21,2011,
+31.0,18.0,56.0,,Schleck Fränk,5.0,Leopard Trek,21,2011,
+28.0,1.0,51.0,,Contador Alberto,6.0,Saxo Bank - Sungard,21,2011,
+28.0,138.0,45.0,,Roy Jérémy,7.0,FDJ,21,2011,
+24.0,188.0,44.0,,Rolland Pierre,8.0,Team Europcar,21,2011,
+30.0,65.0,40.0,,Iglinskiy Maxim,9.0,Pro Team Astana,21,2011,
+28.0,204.0,40.0,,Hoogerland Johnny,10.0,Vacansoleil - DCM,21,2011,
+32.0,121.0,38.0,,Chavanel Sylvain,11.0,Quickstep Cycling Team,21,2011,
+33.0,91.0,32.0,,Basso Ivan,12.0,Liquigas - Cannondale,21,2011,
+29.0,25.0,26.0,,Pérez Rubén,13.0,Euskaltel - Euskadi,21,2011,
+32.0,181.0,25.0,,Voeckler Thomas,14.0,Team Europcar,21,2011,
+28.0,15.0,20.0,,Monfort Maxime,15.0,Leopard Trek,21,2011,
+28.0,125.0,20.0,,Devenyns Dries,16.0,Quickstep Cycling Team,21,2011,
+32.0,131.0,19.0,,Casar Sandy,17.0,FDJ,21,2011,
+23.0,22.0,18.0,,Izagirre Gorka,18.0,Euskaltel - Euskadi,21,2011,
+25.0,117.0,18.0,,Thomas Geraint,19.0,Sky Procycling,21,2011,
+24.0,106.0,18.0,,Kadri Blel,20.0,AG2R La Mondiale,21,2011,
+25.0,133.0,17.0,,Delage Mickaël,21.0,FDJ,21,2011,
+24.0,83.0,17.0,,Costa Rui,22.0,Movistar Team,21,2011,
+26.0,179.0,16.0,,Velits Peter,23.0,HTC - High Road,21,2011,
+27.0,101.0,16.0,,Roche Nicolas,24.0,AG2R La Mondiale,21,2011,
+36.0,157.0,16.0,,Moncoutié David,25.0,"Cofidis, le Crédit en Ligne",21,2011,
+33.0,51.0,14.0,,Hushovd Thor,26.0,Team Garmin - Cervélo,21,2011,
+30.0,109.0,13.0,,Riblon Christophe,27.0,AG2R La Mondiale,21,2011,
+26.0,155.0,12.0,,El Fares Julien,28.0,"Cofidis, le Crédit en Ligne",21,2011,
+30.0,218.0,10.0,,Mangel Laurent,29.0,Saur - Sojasun,21,2011,
+24.0,45.0,10.0,,Mollema Bauke,30.0,Rabobank Cycling Team,21,2011,
+24.0,114.0,9.0,,Boasson Hagen Edvald,31.0,Sky Procycling,21,2011,
+32.0,182.0,9.0,,Charteau Anthony,32.0,Team Europcar,21,2011,
+29.0,194.0,8.0,,Gusev Vladimir,33.0,Team Katusha,21,2011,
+24.0,118.0,8.0,,Urán Rigoberto,34.0,Sky Procycling,21,2011,
+30.0,55.0,7.0,,Hesjedal Ryder,35.0,Team Garmin - Cervélo,21,2011,
+33.0,49.0,7.0,,Tjallingii Maarten,36.0,Rabobank Cycling Team,21,2011,
+23.0,198.0,6.0,,Silin Egor,37.0,Team Katusha,21,2011,
+22.0,178.0,5.0,,van Garderen Tejay,38.0,HTC - High Road,21,2011,
+27.0,206.0,5.0,,Marcato Marco,39.0,Vacansoleil - DCM,21,2011,
+25.0,62.0,4.0,,Di Grégorio Rémy,40.0,Pro Team Astana,21,2011,
+31.0,127.0,4.0,,Pineau Jérôme,41.0,Quickstep Cycling Team,21,2011,
+24.0,203.0,4.0,,De Gendt Thomas,42.0,Vacansoleil - DCM,21,2011,
+26.0,216.0,4.0,,Hivert Jonathan,43.0,Saur - Sojasun,21,2011,
+33.0,112.0,4.0,,Flecha Juan Antonio,44.0,Sky Procycling,21,2011,
+25.0,66.0,4.0,,Kreuziger Roman,45.0,Pro Team Astana,21,2011,
+31.0,154.0,4.0,,Duque Leonardo Fabio,46.0,"Cofidis, le Crédit en Ligne",21,2011,
+31.0,27.0,4.0,,Urtasun Pablo,47.0,Euskaltel - Euskadi,21,2011,
+24.0,137.0,3.0,,Roux Anthony,48.0,FDJ,21,2011,
+29.0,32.0,2.0,,Gilbert Philippe,49.0,Omega Pharma-Lotto,21,2011,
+27.0,47.0,2.0,,Sánchez Luis León,50.0,Rabobank Cycling Team,21,2011,
+21.0,213.0,2.0,,Delaplace Anthony,51.0,Saur - Sojasun,21,2011,
+30.0,48.0,2.0,,ten Dam Laurens,52.0,Rabobank Cycling Team,21,2011,
+34.0,56.0,2.0,,Millar David,53.0,Team Garmin - Cervélo,21,2011,
+22.0,139.0,2.0,,Vichot Arthur,54.0,FDJ,21,2011,
+34.0,63.0,2.0,,Fofonov Dmitriy,55.0,Pro Team Astana,21,2011,
+31.0,172.0,2.0,,Bak Lars Ytting,56.0,HTC - High Road,21,2011,
+28.0,209.0,1.0,,Westra Lieuwe,57.0,Vacansoleil - DCM,21,2011,
+26.0,195.0,1.0,,Ignatyev Mikhail,58.0,Team Katusha,21,2011,
+23.0,183.0,1.0,,Gautier Cyril,59.0,Team Europcar,21,2011,
+26.0,175.0,1.0,,Martin Tony,60.0,HTC - High Road,21,2011,
+32.0,85.0,1.0,,Gutiérrez José Iván,61.0,Movistar Team,21,2011,
+29.0,107.0,1.0,,Minard Sébastien,62.0,AG2R La Mondiale,21,2011,
+27.0,129.0,1.0,,Terpstra Niki,63.0,Quickstep Cycling Team,21,2011,
+27.0,64.0,1.0,,Grivko Andrey,64.0,Pro Team Astana,21,2011,

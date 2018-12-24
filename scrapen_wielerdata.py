@@ -75,6 +75,7 @@ def scrape_stage(url):
         df_list = pd.read_html(str(tables), flavor='bs4')
     except ValueError:
         print('No tables found! Skipping this iteration')
+        return stage_results_dict
 
     # 1 table -> only stage results
     # 2 tables -> only stage and general classification
@@ -171,6 +172,6 @@ def scrape_race(racename, years):
                          index=False, encoding='utf-8')
 #%%
 RACE = 'tour-de-france'
-YEARS = range(2018, 2016, -1)
+YEARS = range(2018, 1997, -1)
 
 scrape_race(RACE, YEARS)

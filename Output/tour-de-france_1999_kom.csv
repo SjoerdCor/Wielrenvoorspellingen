@@ -1,0 +1,1043 @@
+Age,BIB,Pnt,Prev,Rider,Rnk,Team,stage,year,▼▲
+28.0,105.0,5.0,,Piccoli Mariano,1.0,Lampre - Daikin - Colnago,0,1999,
+33.0,18.0,3.0,,Konishev Dimitri,2.0,Mercatone Uno - Bianchi,0,1999,
+30.0,13.0,1.0,,Barbero Sergio,3.0,Mercatone Uno - Bianchi,0,1999,
+28.0,105.0,8.0,1.0,Piccoli Mariano,1.0,Lampre - Daikin - Colnago,1,1999,-
+31.0,142.0,5.0,,Brochard Laurent,2.0,Festina - Lotus,1,1999,-
+33.0,18.0,4.0,2.0,Konishev Dimitri,3.0,Mercatone Uno - Bianchi,1,1999,▼1
+30.0,13.0,1.0,3.0,Barbero Sergio,4.0,Mercatone Uno - Bianchi,1,1999,▼1
+28.0,105.0,9.0,1.0,Piccoli Mariano,1.0,Lampre - Daikin - Colnago,3,1999,-
+24.0,175.0,5.0,,Giunti Massimo,2.0,Cantina Tollo - Alexia Alluminio,3,1999,-
+28.0,124.0,5.0,2.0,Cerezo Francisco,3.0,Vitalicio Seguros - Grupo Generali,3,1999,▼1
+31.0,142.0,5.0,3.0,Brochard Laurent,4.0,Festina - Lotus,3,1999,▼1
+33.0,18.0,4.0,4.0,Konishev Dimitri,5.0,Mercatone Uno - Bianchi,3,1999,▼1
+27.0,154.0,3.0,,Guesdon Frédéric,6.0,La Française des Jeux,3,1999,-
+30.0,131.0,3.0,5.0,Simon François,7.0,Credit agricole,3,1999,▼2
+26.0,37.0,1.0,6.0,Merckx Axel,8.0,Mapei - Quickstep,3,1999,▼2
+30.0,13.0,1.0,7.0,Barbero Sergio,9.0,Mercatone Uno - Bianchi,3,1999,▼2
+28.0,105.0,9.0,1.0,Piccoli Mariano,1.0,Lampre - Daikin - Colnago,4,1999,-
+25.0,158.0,5.0,,Morin Anthony,2.0,La Française des Jeux,4,1999,-
+24.0,175.0,5.0,2.0,Giunti Massimo,3.0,Cantina Tollo - Alexia Alluminio,4,1999,▼1
+28.0,124.0,5.0,3.0,Cerezo Francisco,4.0,Vitalicio Seguros - Grupo Generali,4,1999,▼1
+31.0,142.0,5.0,4.0,Brochard Laurent,5.0,Festina - Lotus,4,1999,▼1
+33.0,18.0,5.0,5.0,Konishev Dimitri,6.0,Mercatone Uno - Bianchi,4,1999,▼1
+26.0,179.0,3.0,,Mondini Gianpaolo,7.0,Cantina Tollo - Alexia Alluminio,4,1999,-
+27.0,154.0,3.0,6.0,Guesdon Frédéric,8.0,La Française des Jeux,4,1999,▼2
+30.0,131.0,3.0,7.0,Simon François,9.0,Credit agricole,4,1999,▼2
+26.0,37.0,1.0,8.0,Merckx Axel,10.0,Mapei - Quickstep,4,1999,▼2
+30.0,13.0,1.0,9.0,Barbero Sergio,11.0,Mercatone Uno - Bianchi,4,1999,▼2
+28.0,105.0,24.0,1.0,Piccoli Mariano,1.0,Lampre - Daikin - Colnago,5,1999,-
+31.0,142.0,15.0,5.0,Brochard Laurent,2.0,Festina - Lotus,5,1999,▲3
+26.0,79.0,6.0,,Secchiari Francesco,3.0,Saeco - Cannondale,5,1999,-
+25.0,158.0,5.0,2.0,Morin Anthony,4.0,La Française des Jeux,5,1999,▼2
+24.0,175.0,5.0,3.0,Giunti Massimo,5.0,Cantina Tollo - Alexia Alluminio,5,1999,▼2
+28.0,124.0,5.0,4.0,Cerezo Francisco,6.0,Vitalicio Seguros - Grupo Generali,5,1999,▼2
+33.0,18.0,5.0,6.0,Konishev Dimitri,7.0,Mercatone Uno - Bianchi,5,1999,▼1
+26.0,179.0,3.0,7.0,Mondini Gianpaolo,8.0,Cantina Tollo - Alexia Alluminio,5,1999,▼1
+27.0,154.0,3.0,8.0,Guesdon Frédéric,9.0,La Française des Jeux,5,1999,▼1
+30.0,131.0,3.0,9.0,Simon François,10.0,Credit agricole,5,1999,▼1
+27.0,93.0,3.0,,Bessy Frédéric,11.0,Casino - AG2R,5,1999,-
+26.0,37.0,1.0,10.0,Merckx Axel,12.0,Mapei - Quickstep,5,1999,▼2
+30.0,13.0,1.0,11.0,Barbero Sergio,13.0,Mercatone Uno - Bianchi,5,1999,▼2
+27.0,139.0,1.0,,Voigt Jens,14.0,Credit agricole,5,1999,-
+28.0,105.0,29.0,1.0,Piccoli Mariano,1.0,Lampre - Daikin - Colnago,6,1999,-
+31.0,142.0,15.0,2.0,Brochard Laurent,2.0,Festina - Lotus,6,1999,-
+26.0,79.0,6.0,3.0,Secchiari Francesco,3.0,Saeco - Cannondale,6,1999,-
+25.0,158.0,5.0,4.0,Morin Anthony,4.0,La Française des Jeux,6,1999,-
+24.0,175.0,5.0,5.0,Giunti Massimo,5.0,Cantina Tollo - Alexia Alluminio,6,1999,-
+28.0,124.0,5.0,6.0,Cerezo Francisco,6.0,Vitalicio Seguros - Grupo Generali,6,1999,-
+33.0,18.0,5.0,7.0,Konishev Dimitri,7.0,Mercatone Uno - Bianchi,6,1999,-
+33.0,107.0,3.0,,Spruch Zbigniew,8.0,Lampre - Daikin - Colnago,6,1999,-
+26.0,179.0,3.0,8.0,Mondini Gianpaolo,9.0,Cantina Tollo - Alexia Alluminio,6,1999,▼1
+27.0,154.0,3.0,9.0,Guesdon Frédéric,10.0,La Française des Jeux,6,1999,▼1
+30.0,131.0,3.0,10.0,Simon François,11.0,Credit agricole,6,1999,▼1
+27.0,93.0,3.0,11.0,Bessy Frédéric,12.0,Casino - AG2R,6,1999,▼1
+28.0,137.0,1.0,,Vasseur Cédric,13.0,Credit agricole,6,1999,-
+26.0,37.0,1.0,12.0,Merckx Axel,14.0,Mapei - Quickstep,6,1999,▼2
+30.0,13.0,1.0,13.0,Barbero Sergio,15.0,Mercatone Uno - Bianchi,6,1999,▼2
+27.0,139.0,1.0,14.0,Voigt Jens,16.0,Credit agricole,6,1999,▼2
+28.0,105.0,32.0,1.0,Piccoli Mariano,1.0,Lampre - Daikin - Colnago,7,1999,-
+31.0,142.0,15.0,2.0,Brochard Laurent,2.0,Festina - Lotus,7,1999,-
+27.0,196.0,13.0,,Lebreton Lylian,3.0,BigMat - Auber 93,7,1999,-
+32.0,84.0,11.0,,Durand Jacky,4.0,Lotto - Mobistar,7,1999,-
+26.0,79.0,6.0,3.0,Secchiari Francesco,5.0,Saeco - Cannondale,7,1999,▼2
+25.0,158.0,5.0,4.0,Morin Anthony,6.0,La Française des Jeux,7,1999,▼2
+24.0,175.0,5.0,5.0,Giunti Massimo,7.0,Cantina Tollo - Alexia Alluminio,7,1999,▼2
+28.0,124.0,5.0,6.0,Cerezo Francisco,8.0,Vitalicio Seguros - Grupo Generali,7,1999,▼2
+33.0,18.0,5.0,7.0,Konishev Dimitri,9.0,Mercatone Uno - Bianchi,7,1999,▼2
+33.0,107.0,3.0,8.0,Spruch Zbigniew,10.0,Lampre - Daikin - Colnago,7,1999,▼2
+26.0,179.0,3.0,9.0,Mondini Gianpaolo,11.0,Cantina Tollo - Alexia Alluminio,7,1999,▼2
+27.0,154.0,3.0,10.0,Guesdon Frédéric,12.0,La Française des Jeux,7,1999,▼2
+30.0,131.0,3.0,11.0,Simon François,13.0,Credit agricole,7,1999,▼2
+27.0,93.0,3.0,12.0,Bessy Frédéric,14.0,Casino - AG2R,7,1999,▼2
+28.0,137.0,1.0,13.0,Vasseur Cédric,15.0,Credit agricole,7,1999,▼2
+26.0,37.0,1.0,14.0,Merckx Axel,16.0,Mapei - Quickstep,7,1999,▼2
+30.0,13.0,1.0,15.0,Barbero Sergio,17.0,Mercatone Uno - Bianchi,7,1999,▼2
+27.0,139.0,1.0,16.0,Voigt Jens,18.0,Credit agricole,7,1999,▼2
+28.0,105.0,37.0,1.0,Piccoli Mariano,1.0,Lampre - Daikin - Colnago,8,1999,-
+31.0,142.0,15.0,2.0,Brochard Laurent,2.0,Festina - Lotus,8,1999,-
+27.0,196.0,13.0,3.0,Lebreton Lylian,3.0,BigMat - Auber 93,8,1999,-
+32.0,84.0,11.0,4.0,Durand Jacky,4.0,Lotto - Mobistar,8,1999,-
+28.0,184.0,10.0,,Hamilton Tyler,5.0,US Postal Service,8,1999,-
+26.0,79.0,6.0,5.0,Secchiari Francesco,6.0,Saeco - Cannondale,8,1999,▼1
+25.0,158.0,5.0,6.0,Morin Anthony,7.0,La Française des Jeux,8,1999,▼1
+24.0,175.0,5.0,7.0,Giunti Massimo,8.0,Cantina Tollo - Alexia Alluminio,8,1999,▼1
+28.0,124.0,5.0,8.0,Cerezo Francisco,9.0,Vitalicio Seguros - Grupo Generali,8,1999,▼1
+33.0,18.0,5.0,9.0,Konishev Dimitri,10.0,Mercatone Uno - Bianchi,8,1999,▼1
+27.0,57.0,5.0,,Peron Andrea,11.0,O.N.C.E. - Deutsche Bank,8,1999,-
+33.0,107.0,3.0,10.0,Spruch Zbigniew,12.0,Lampre - Daikin - Colnago,8,1999,▼2
+26.0,179.0,3.0,11.0,Mondini Gianpaolo,13.0,Cantina Tollo - Alexia Alluminio,8,1999,▼2
+27.0,154.0,3.0,12.0,Guesdon Frédéric,14.0,La Française des Jeux,8,1999,▼2
+30.0,131.0,3.0,13.0,Simon François,15.0,Credit agricole,8,1999,▼2
+27.0,93.0,3.0,14.0,Bessy Frédéric,16.0,Casino - AG2R,8,1999,▼2
+28.0,141.0,3.0,,Belli Wladimir,17.0,Festina - Lotus,8,1999,-
+28.0,137.0,1.0,15.0,Vasseur Cédric,18.0,Credit agricole,8,1999,▼3
+26.0,37.0,1.0,16.0,Merckx Axel,19.0,Mapei - Quickstep,8,1999,▼3
+30.0,13.0,1.0,17.0,Barbero Sergio,20.0,Mercatone Uno - Bianchi,8,1999,▼3
+30.0,74.0,1.0,,Dufaux Laurent,21.0,Saeco - Cannondale,8,1999,-
+27.0,139.0,1.0,18.0,Voigt Jens,22.0,Credit agricole,8,1999,▼4
+29.0,69.0,81.0,,Virenque Richard,1.0,Polti,9,1999,-
+28.0,105.0,78.0,1.0,Piccoli Mariano,3.0,Lampre - Daikin - Colnago,9,1999,▼2
+28.0,162.0,70.0,,Arrieta José Luis,4.0,Banesto,9,1999,-
+30.0,74.0,47.0,21.0,Dufaux Laurent,5.0,Saeco - Cannondale,9,1999,▲16
+31.0,161.0,42.0,,Zülle Alex,6.0,Banesto,9,1999,-
+25.0,113.0,42.0,,Contreras Carlos Alberto,7.0,Kelme - Costa Blanca,9,1999,-
+30.0,61.0,42.0,,Gotti Ivan,8.0,Polti,9,1999,-
+31.0,111.0,38.0,,Escartin Fernando,9.0,Kelme - Costa Blanca,9,1999,-
+33.0,18.0,30.0,10.0,Konishev Dimitri,10.0,Mercatone Uno - Bianchi,9,1999,-
+26.0,179.0,29.0,13.0,Mondini Gianpaolo,11.0,Cantina Tollo - Alexia Alluminio,9,1999,▲2
+30.0,43.0,26.0,,den Bakker Maarten,12.0,Rabobank ProTeam,9,1999,-
+31.0,142.0,25.0,2.0,Brochard Laurent,13.0,Festina - Lotus,9,1999,▼11
+28.0,163.0,25.0,,Beltrán Manuel,14.0,Banesto,9,1999,-
+27.0,196.0,18.0,3.0,Lebreton Lylian,15.0,BigMat - Auber 93,9,1999,▼12
+27.0,95.0,18.0,,Gougot Fabrice,16.0,Casino - AG2R,9,1999,-
+26.0,186.0,18.0,,Livingston Kevin,17.0,US Postal Service,9,1999,-
+27.0,46.0,12.0,,McEwen Robbie,18.0,Rabobank ProTeam,9,1999,-
+28.0,141.0,12.0,17.0,Belli Wladimir,19.0,Festina - Lotus,9,1999,▼2
+32.0,84.0,11.0,4.0,Durand Jacky,20.0,Lotto - Mobistar,9,1999,▼16
+28.0,184.0,10.0,5.0,Hamilton Tyler,21.0,US Postal Service,9,1999,▼16
+29.0,171.0,10.0,,Hamburger Bo,22.0,Cantina Tollo - Alexia Alluminio,9,1999,-
+31.0,8.0,10.0,,Meier Roland,23.0,Cofidis,9,1999,-
+29.0,112.0,10.0,,Castelblanco José Joaquin,24.0,Kelme - Costa Blanca,9,1999,-
+29.0,51.0,9.0,,Olano Abraham,25.0,O.N.C.E. - Deutsche Bank,9,1999,-
+26.0,77.0,8.0,,Savoldelli Paolo,26.0,Saeco - Cannondale,9,1999,-
+25.0,11.0,8.0,,Garzelli Stefano,27.0,Mercatone Uno - Bianchi,9,1999,-
+26.0,79.0,6.0,6.0,Secchiari Francesco,28.0,Saeco - Cannondale,9,1999,▼22
+28.0,49.0,6.0,,Zberg Beat,29.0,Rabobank ProTeam,9,1999,-
+27.0,86.0,6.0,,van de Wouwer Kurt,30.0,Lotto - Mobistar,9,1999,-
+27.0,118.0,6.0,,Pascual Rodríguez Javier,31.0,Kelme - Costa Blanca,9,1999,-
+25.0,158.0,5.0,7.0,Morin Anthony,32.0,La Française des Jeux,9,1999,▼25
+24.0,175.0,5.0,8.0,Giunti Massimo,33.0,Cantina Tollo - Alexia Alluminio,9,1999,▼25
+28.0,124.0,5.0,9.0,Cerezo Francisco,34.0,Vitalicio Seguros - Grupo Generali,9,1999,▼25
+27.0,57.0,5.0,11.0,Peron Andrea,35.0,O.N.C.E. - Deutsche Bank,9,1999,▼24
+28.0,148.0,4.0,,Moreau Christophe,36.0,Festina - Lotus,9,1999,-
+33.0,107.0,3.0,12.0,Spruch Zbigniew,37.0,Lampre - Daikin - Colnago,9,1999,▼25
+27.0,154.0,3.0,14.0,Guesdon Frédéric,38.0,La Française des Jeux,9,1999,▼24
+30.0,131.0,3.0,15.0,Simon François,39.0,Credit agricole,9,1999,▼24
+28.0,42.0,3.0,,Dekker Erik,40.0,Rabobank ProTeam,9,1999,-
+27.0,93.0,3.0,16.0,Bessy Frédéric,41.0,Casino - AG2R,9,1999,▼25
+27.0,64.0,3.0,,Crepaldi Mirco,42.0,Polti,9,1999,-
+26.0,59.0,2.0,,Serrano Marcos Antonio,43.0,O.N.C.E. - Deutsche Bank,9,1999,-
+24.0,176.0,2.0,,Ljungqvist Marcus,44.0,Cantina Tollo - Alexia Alluminio,9,1999,-
+26.0,38.0,2.0,,Nardello Daniele,45.0,Mapei - Quickstep,9,1999,-
+29.0,24.0,2.0,,Guerini Giuseppe,46.0,Team Telekom,9,1999,-
+28.0,137.0,1.0,18.0,Vasseur Cédric,47.0,Credit agricole,9,1999,▼29
+26.0,37.0,1.0,19.0,Merckx Axel,48.0,Mapei - Quickstep,9,1999,▼29
+30.0,13.0,1.0,20.0,Barbero Sergio,49.0,Mercatone Uno - Bianchi,9,1999,▼29
+26.0,121.0,1.0,,Casero Ángel Luis,50.0,Vitalicio Seguros - Grupo Generali,9,1999,-
+36.0,192.0,1.0,,Bourguignon Thierry,51.0,BigMat - Auber 93,9,1999,-
+27.0,139.0,1.0,22.0,Voigt Jens,52.0,Credit agricole,9,1999,▼30
+30.0,145.0,1.0,,Jeker Fabian,53.0,Festina - Lotus,9,1999,-
+29.0,69.0,160.0,1.0,Virenque Richard,1.0,Polti,10,1999,-
+28.0,105.0,100.0,3.0,Piccoli Mariano,3.0,Lampre - Daikin - Colnago,10,1999,-
+28.0,162.0,96.0,4.0,Arrieta José Luis,4.0,Banesto,10,1999,-
+31.0,161.0,86.0,6.0,Zülle Alex,5.0,Banesto,10,1999,▲1
+30.0,74.0,71.0,5.0,Dufaux Laurent,6.0,Saeco - Cannondale,10,1999,▼1
+33.0,18.0,70.0,10.0,Konishev Dimitri,7.0,Mercatone Uno - Bianchi,10,1999,▲3
+31.0,111.0,68.0,9.0,Escartin Fernando,8.0,Kelme - Costa Blanca,10,1999,▲1
+26.0,179.0,59.0,11.0,Mondini Gianpaolo,9.0,Cantina Tollo - Alexia Alluminio,10,1999,▲2
+25.0,113.0,53.0,7.0,Contreras Carlos Alberto,10.0,Kelme - Costa Blanca,10,1999,▼3
+28.0,155.0,48.0,,Heulot Stephane,11.0,La Française des Jeux,10,1999,-
+31.0,142.0,43.0,13.0,Brochard Laurent,12.0,Festina - Lotus,10,1999,▲1
+29.0,24.0,42.0,46.0,Guerini Giuseppe,13.0,Team Telekom,10,1999,▲33
+30.0,61.0,42.0,8.0,Gotti Ivan,14.0,Polti,10,1999,▼6
+31.0,8.0,40.0,23.0,Meier Roland,15.0,Cofidis,10,1999,▲8
+28.0,163.0,39.0,14.0,Beltrán Manuel,16.0,Banesto,10,1999,▼2
+36.0,192.0,36.0,51.0,Bourguignon Thierry,17.0,BigMat - Auber 93,10,1999,▲34
+30.0,31.0,35.0,,Tonkov Pavel,18.0,Mapei - Quickstep,10,1999,-
+27.0,57.0,30.0,35.0,Peron Andrea,19.0,O.N.C.E. - Deutsche Bank,10,1999,▲16
+30.0,43.0,26.0,12.0,den Bakker Maarten,20.0,Rabobank ProTeam,10,1999,▼8
+29.0,51.0,25.0,25.0,Olano Abraham,21.0,O.N.C.E. - Deutsche Bank,10,1999,▲4
+25.0,91.0,22.0,,Vinokourov Alexandre,22.0,Casino - AG2R,10,1999,-
+28.0,141.0,20.0,19.0,Belli Wladimir,23.0,Festina - Lotus,10,1999,▼4
+27.0,86.0,20.0,30.0,van de Wouwer Kurt,24.0,Lotto - Mobistar,10,1999,▲6
+27.0,196.0,18.0,15.0,Lebreton Lylian,25.0,BigMat - Auber 93,10,1999,▼10
+27.0,95.0,18.0,16.0,Gougot Fabrice,26.0,Casino - AG2R,10,1999,▼10
+26.0,186.0,18.0,17.0,Livingston Kevin,27.0,US Postal Service,10,1999,▼10
+32.0,182.0,16.0,,Andreu Frankie,28.0,US Postal Service,10,1999,-
+27.0,46.0,12.0,18.0,McEwen Robbie,29.0,Rabobank ProTeam,10,1999,▼11
+32.0,22.0,12.0,,Bolts Udo,30.0,Team Telekom,10,1999,-
+25.0,55.0,12.0,,González Santos,31.0,O.N.C.E. - Deutsche Bank,10,1999,-
+32.0,84.0,11.0,20.0,Durand Jacky,32.0,Lotto - Mobistar,10,1999,▼12
+28.0,184.0,10.0,21.0,Hamilton Tyler,33.0,US Postal Service,10,1999,▼12
+29.0,171.0,10.0,22.0,Hamburger Bo,34.0,Cantina Tollo - Alexia Alluminio,10,1999,▼12
+29.0,65.0,10.0,,Goubert Stéphane,35.0,Polti,10,1999,-
+29.0,112.0,10.0,24.0,Castelblanco José Joaquin,36.0,Kelme - Costa Blanca,10,1999,▼12
+25.0,11.0,8.0,27.0,Garzelli Stefano,37.0,Mercatone Uno - Bianchi,10,1999,▼10
+28.0,148.0,8.0,36.0,Moreau Christophe,38.0,Festina - Lotus,10,1999,▼2
+30.0,145.0,7.0,53.0,Jeker Fabian,39.0,Festina - Lotus,10,1999,▲14
+26.0,79.0,6.0,28.0,Secchiari Francesco,40.0,Saeco - Cannondale,10,1999,▼12
+28.0,49.0,6.0,29.0,Zberg Beat,41.0,Rabobank ProTeam,10,1999,▼12
+27.0,118.0,6.0,31.0,Pascual Rodríguez Javier,42.0,Kelme - Costa Blanca,10,1999,▼11
+25.0,53.0,6.0,,Etxebarria David,43.0,O.N.C.E. - Deutsche Bank,10,1999,-
+25.0,158.0,5.0,32.0,Morin Anthony,44.0,La Française des Jeux,10,1999,▼12
+24.0,175.0,5.0,33.0,Giunti Massimo,45.0,Cantina Tollo - Alexia Alluminio,10,1999,▼12
+28.0,124.0,5.0,34.0,Cerezo Francisco,46.0,Vitalicio Seguros - Grupo Generali,10,1999,▼12
+27.0,154.0,3.0,38.0,Guesdon Frédéric,47.0,La Française des Jeux,10,1999,▼9
+30.0,131.0,3.0,39.0,Simon François,48.0,Credit agricole,10,1999,▼9
+28.0,42.0,3.0,40.0,Dekker Erik,49.0,Rabobank ProTeam,10,1999,▼9
+27.0,93.0,3.0,41.0,Bessy Frédéric,50.0,Casino - AG2R,10,1999,▼9
+27.0,64.0,3.0,42.0,Crepaldi Mirco,51.0,Polti,10,1999,▼9
+26.0,59.0,3.0,43.0,Serrano Marcos Antonio,52.0,O.N.C.E. - Deutsche Bank,10,1999,▼9
+24.0,176.0,2.0,44.0,Ljungqvist Marcus,53.0,Cantina Tollo - Alexia Alluminio,10,1999,▼9
+26.0,38.0,2.0,45.0,Nardello Daniele,54.0,Mapei - Quickstep,10,1999,▼9
+25.0,99.0,2.0,,Salmon Benoît,55.0,Casino - AG2R,10,1999,-
+28.0,137.0,1.0,47.0,Vasseur Cédric,56.0,Credit agricole,10,1999,▼9
+30.0,13.0,1.0,49.0,Barbero Sergio,57.0,Mercatone Uno - Bianchi,10,1999,▼8
+26.0,121.0,1.0,50.0,Casero Ángel Luis,58.0,Vitalicio Seguros - Grupo Generali,10,1999,▼8
+27.0,139.0,1.0,52.0,Voigt Jens,59.0,Credit agricole,10,1999,▼7
+29.0,69.0,172.0,1.0,Virenque Richard,1.0,Polti,11,1999,-
+33.0,18.0,105.0,7.0,Konishev Dimitri,3.0,Mercatone Uno - Bianchi,11,1999,▲4
+28.0,105.0,100.0,3.0,Piccoli Mariano,4.0,Lampre - Daikin - Colnago,11,1999,▼1
+28.0,162.0,96.0,4.0,Arrieta José Luis,5.0,Banesto,11,1999,▼1
+31.0,161.0,87.0,5.0,Zülle Alex,6.0,Banesto,11,1999,▼1
+30.0,74.0,79.0,6.0,Dufaux Laurent,7.0,Saeco - Cannondale,11,1999,▼1
+31.0,111.0,68.0,8.0,Escartin Fernando,8.0,Kelme - Costa Blanca,11,1999,-
+27.0,179.0,59.0,9.0,Mondini Gianpaolo,9.0,Cantina Tollo - Alexia Alluminio,11,1999,-
+25.0,113.0,53.0,10.0,Contreras Carlos Alberto,10.0,Kelme - Costa Blanca,11,1999,-
+28.0,155.0,48.0,11.0,Heulot Stephane,11.0,La Française des Jeux,11,1999,-
+31.0,142.0,43.0,12.0,Brochard Laurent,12.0,Festina - Lotus,11,1999,-
+25.0,91.0,43.0,22.0,Vinokourov Alexandre,13.0,Casino - AG2R,11,1999,▲9
+29.0,24.0,42.0,13.0,Guerini Giuseppe,14.0,Team Telekom,11,1999,▼1
+30.0,61.0,42.0,14.0,Gotti Ivan,15.0,Polti,11,1999,▼1
+31.0,8.0,40.0,15.0,Meier Roland,16.0,Cofidis,11,1999,▼1
+28.0,163.0,39.0,16.0,Beltrán Manuel,17.0,Banesto,11,1999,▼1
+36.0,192.0,36.0,17.0,Bourguignon Thierry,18.0,BigMat - Auber 93,11,1999,▼1
+30.0,31.0,35.0,18.0,Tonkov Pavel,19.0,Mapei - Quickstep,11,1999,▼1
+24.0,87.0,32.0,,Verbrugghe Rik,20.0,Lotto - Mobistar,11,1999,-
+27.0,57.0,30.0,19.0,Peron Andrea,21.0,O.N.C.E. - Deutsche Bank,11,1999,▼2
+28.0,141.0,30.0,23.0,Belli Wladimir,22.0,Festina - Lotus,11,1999,▲1
+30.0,43.0,26.0,20.0,den Bakker Maarten,23.0,Rabobank ProTeam,11,1999,▼3
+29.0,51.0,25.0,21.0,Olano Abraham,24.0,O.N.C.E. - Deutsche Bank,11,1999,▼3
+34.0,103.0,20.0,,Dierckxsens Ludo,25.0,Lampre - Daikin - Colnago,11,1999,-
+27.0,86.0,20.0,24.0,van de Wouwer Kurt,26.0,Lotto - Mobistar,11,1999,▼2
+27.0,196.0,18.0,25.0,Lebreton Lylian,27.0,BigMat - Auber 93,11,1999,▼2
+27.0,95.0,18.0,26.0,Gougot Fabrice,28.0,Casino - AG2R,11,1999,▼2
+26.0,186.0,18.0,27.0,Livingston Kevin,29.0,US Postal Service,11,1999,▼2
+32.0,182.0,16.0,28.0,Andreu Frankie,30.0,US Postal Service,11,1999,▼2
+30.0,145.0,13.0,39.0,Jeker Fabian,31.0,Festina - Lotus,11,1999,▲8
+27.0,46.0,12.0,29.0,McEwen Robbie,32.0,Rabobank ProTeam,11,1999,▼3
+25.0,11.0,12.0,37.0,Garzelli Stefano,33.0,Mercatone Uno - Bianchi,11,1999,▲4
+32.0,22.0,12.0,30.0,Bolts Udo,34.0,Team Telekom,11,1999,▼4
+25.0,55.0,12.0,31.0,González Santos,35.0,O.N.C.E. - Deutsche Bank,11,1999,▼4
+32.0,84.0,11.0,32.0,Durand Jacky,36.0,Lotto - Mobistar,11,1999,▼4
+28.0,148.0,11.0,38.0,Moreau Christophe,37.0,Festina - Lotus,11,1999,▲1
+28.0,184.0,10.0,33.0,Hamilton Tyler,38.0,US Postal Service,11,1999,▼5
+29.0,171.0,10.0,34.0,Hamburger Bo,39.0,Cantina Tollo - Alexia Alluminio,11,1999,▼5
+29.0,65.0,10.0,35.0,Goubert Stéphane,40.0,Polti,11,1999,▼5
+29.0,112.0,10.0,36.0,Castelblanco José Joaquin,41.0,Kelme - Costa Blanca,11,1999,▼5
+26.0,79.0,6.0,40.0,Secchiari Francesco,42.0,Saeco - Cannondale,11,1999,▼2
+23.0,146.0,6.0,,Lefèvre Laurent,43.0,Festina - Lotus,11,1999,-
+28.0,49.0,6.0,41.0,Zberg Beat,44.0,Rabobank ProTeam,11,1999,▼3
+27.0,118.0,6.0,42.0,Pascual Rodríguez Javier,45.0,Kelme - Costa Blanca,11,1999,▼3
+25.0,53.0,6.0,43.0,Etxebarria David,46.0,O.N.C.E. - Deutsche Bank,11,1999,▼3
+25.0,158.0,5.0,44.0,Morin Anthony,47.0,La Française des Jeux,11,1999,▼3
+24.0,175.0,5.0,45.0,Giunti Massimo,48.0,Cantina Tollo - Alexia Alluminio,11,1999,▼3
+28.0,124.0,5.0,46.0,Cerezo Francisco,49.0,Vitalicio Seguros - Grupo Generali,11,1999,▼3
+29.0,17.0,5.0,,Forconi Riccardo,50.0,Mercatone Uno - Bianchi,11,1999,-
+27.0,154.0,3.0,47.0,Guesdon Frédéric,51.0,La Française des Jeux,11,1999,▼4
+30.0,131.0,3.0,48.0,Simon François,52.0,Credit agricole,11,1999,▼4
+28.0,42.0,3.0,49.0,Dekker Erik,53.0,Rabobank ProTeam,11,1999,▼4
+27.0,93.0,3.0,50.0,Bessy Frédéric,54.0,Casino - AG2R,11,1999,▼4
+25.0,134.0,3.0,,Hinault Sébastien,55.0,Credit agricole,11,1999,-
+27.0,64.0,3.0,51.0,Crepaldi Mirco,56.0,Polti,11,1999,▼5
+26.0,59.0,3.0,52.0,Serrano Marcos Antonio,57.0,O.N.C.E. - Deutsche Bank,11,1999,▼5
+28.0,183.0,2.0,,Derame Pascal,58.0,US Postal Service,11,1999,-
+28.0,34.0,2.0,,Fernandez Gines Manuel,59.0,Mapei - Quickstep,11,1999,-
+24.0,176.0,2.0,53.0,Ljungqvist Marcus,60.0,Cantina Tollo - Alexia Alluminio,11,1999,▼7
+26.0,38.0,2.0,54.0,Nardello Daniele,61.0,Mapei - Quickstep,11,1999,▼7
+25.0,99.0,2.0,55.0,Salmon Benoît,62.0,Casino - AG2R,11,1999,▼7
+28.0,137.0,1.0,56.0,Vasseur Cédric,63.0,Credit agricole,11,1999,▼7
+30.0,13.0,1.0,57.0,Barbero Sergio,64.0,Mercatone Uno - Bianchi,11,1999,▼7
+26.0,121.0,1.0,58.0,Casero Ángel Luis,65.0,Vitalicio Seguros - Grupo Generali,11,1999,▼7
+27.0,139.0,1.0,59.0,Voigt Jens,66.0,Credit agricole,11,1999,▼7
+23.0,188.0,1.0,,Vande Velde Christian,67.0,US Postal Service,11,1999,-
+29.0,69.0,174.0,1.0,Virenque Richard,1.0,Polti,12,1999,-
+33.0,18.0,105.0,3.0,Konishev Dimitri,3.0,Mercatone Uno - Bianchi,12,1999,-
+28.0,105.0,103.0,4.0,Piccoli Mariano,4.0,Lampre - Daikin - Colnago,12,1999,-
+28.0,162.0,96.0,5.0,Arrieta José Luis,5.0,Banesto,12,1999,-
+27.0,179.0,91.0,9.0,Mondini Gianpaolo,6.0,Cantina Tollo - Alexia Alluminio,12,1999,▲3
+31.0,161.0,87.0,6.0,Zülle Alex,7.0,Banesto,12,1999,▼1
+30.0,74.0,79.0,7.0,Dufaux Laurent,8.0,Saeco - Cannondale,12,1999,▼1
+31.0,111.0,68.0,8.0,Escartin Fernando,9.0,Kelme - Costa Blanca,12,1999,▼1
+28.0,155.0,59.0,11.0,Heulot Stephane,10.0,La Française des Jeux,12,1999,▲1
+25.0,113.0,53.0,10.0,Contreras Carlos Alberto,11.0,Kelme - Costa Blanca,12,1999,▼1
+31.0,8.0,48.0,16.0,Meier Roland,12.0,Cofidis,12,1999,▲4
+31.0,142.0,43.0,12.0,Brochard Laurent,13.0,Festina - Lotus,12,1999,▼1
+25.0,91.0,43.0,13.0,Vinokourov Alexandre,14.0,Casino - AG2R,12,1999,▼1
+29.0,24.0,42.0,14.0,Guerini Giuseppe,15.0,Team Telekom,12,1999,▼1
+31.0,6.0,40.0,,Lelli Massimiliano,16.0,Cofidis,12,1999,-
+28.0,163.0,39.0,17.0,Beltrán Manuel,17.0,Banesto,12,1999,-
+36.0,192.0,36.0,18.0,Bourguignon Thierry,18.0,BigMat - Auber 93,12,1999,-
+30.0,31.0,35.0,19.0,Tonkov Pavel,19.0,Mapei - Quickstep,12,1999,-
+23.0,2.0,33.0,,De Wolf Steve,20.0,Cofidis,12,1999,-
+24.0,87.0,32.0,20.0,Verbrugghe Rik,21.0,Lotto - Mobistar,12,1999,▼1
+27.0,57.0,30.0,21.0,Peron Andrea,22.0,O.N.C.E. - Deutsche Bank,12,1999,▼1
+28.0,141.0,30.0,22.0,Belli Wladimir,23.0,Festina - Lotus,12,1999,▼1
+35.0,23.0,29.0,,Elli Alberto,24.0,Team Telekom,12,1999,-
+30.0,43.0,26.0,23.0,den Bakker Maarten,25.0,Rabobank ProTeam,12,1999,▼2
+29.0,51.0,25.0,24.0,Olano Abraham,26.0,O.N.C.E. - Deutsche Bank,12,1999,▼2
+25.0,53.0,22.0,46.0,Etxebarria David,27.0,O.N.C.E. - Deutsche Bank,12,1999,▲19
+34.0,103.0,20.0,25.0,Dierckxsens Ludo,28.0,Lampre - Daikin - Colnago,12,1999,▼3
+29.0,3.0,20.0,,Desbiens Laurent,29.0,Cofidis,12,1999,-
+27.0,86.0,20.0,26.0,van de Wouwer Kurt,30.0,Lotto - Mobistar,12,1999,▼4
+27.0,196.0,18.0,27.0,Lebreton Lylian,31.0,BigMat - Auber 93,12,1999,▼4
+27.0,95.0,18.0,28.0,Gougot Fabrice,32.0,Casino - AG2R,12,1999,▼4
+26.0,186.0,18.0,29.0,Livingston Kevin,33.0,US Postal Service,12,1999,▼4
+27.0,93.0,17.0,54.0,Bessy Frédéric,34.0,Casino - AG2R,12,1999,▲20
+32.0,182.0,16.0,30.0,Andreu Frankie,35.0,US Postal Service,12,1999,▼5
+29.0,112.0,14.0,41.0,Castelblanco José Joaquin,36.0,Kelme - Costa Blanca,12,1999,▲5
+30.0,145.0,13.0,31.0,Jeker Fabian,37.0,Festina - Lotus,12,1999,▼6
+29.0,76.0,12.0,,Meier Armin,38.0,Saeco - Cannondale,12,1999,-
+27.0,46.0,12.0,32.0,McEwen Robbie,39.0,Rabobank ProTeam,12,1999,▼7
+28.0,34.0,12.0,59.0,Fernandez Gines Manuel,40.0,Mapei - Quickstep,12,1999,▲19
+26.0,11.0,12.0,33.0,Garzelli Stefano,41.0,Mercatone Uno - Bianchi,12,1999,▼8
+32.0,22.0,12.0,34.0,Bolts Udo,42.0,Team Telekom,12,1999,▼8
+25.0,55.0,12.0,35.0,González Santos,43.0,O.N.C.E. - Deutsche Bank,12,1999,▼8
+32.0,84.0,11.0,36.0,Durand Jacky,44.0,Lotto - Mobistar,12,1999,▼8
+28.0,148.0,11.0,37.0,Moreau Christophe,45.0,Festina - Lotus,12,1999,▼8
+28.0,184.0,10.0,38.0,Hamilton Tyler,46.0,US Postal Service,12,1999,▼8
+29.0,171.0,10.0,39.0,Hamburger Bo,47.0,Cantina Tollo - Alexia Alluminio,12,1999,▼8
+29.0,65.0,10.0,40.0,Goubert Stéphane,48.0,Polti,12,1999,▼8
+30.0,131.0,9.0,52.0,Simon François,49.0,Credit agricole,12,1999,▲3
+28.0,149.0,8.0,,Rous Didier,50.0,Festina - Lotus,12,1999,-
+26.0,79.0,6.0,42.0,Secchiari Francesco,51.0,Saeco - Cannondale,12,1999,▼9
+24.0,81.0,6.0,,Aerts Mario,52.0,Lotto - Mobistar,12,1999,-
+23.0,146.0,6.0,43.0,Lefèvre Laurent,53.0,Festina - Lotus,12,1999,▼10
+28.0,49.0,6.0,44.0,Zberg Beat,54.0,Rabobank ProTeam,12,1999,▼10
+27.0,118.0,6.0,45.0,Pascual Rodríguez Javier,55.0,Kelme - Costa Blanca,12,1999,▼10
+25.0,158.0,5.0,47.0,Morin Anthony,56.0,La Française des Jeux,12,1999,▼9
+24.0,175.0,5.0,48.0,Giunti Massimo,57.0,Cantina Tollo - Alexia Alluminio,12,1999,▼9
+28.0,124.0,5.0,49.0,Cerezo Francisco,58.0,Vitalicio Seguros - Grupo Generali,12,1999,▼9
+29.0,17.0,5.0,50.0,Forconi Riccardo,59.0,Mercatone Uno - Bianchi,12,1999,▼9
+30.0,195.0,5.0,,Gouvenou Thierry,60.0,BigMat - Auber 93,12,1999,-
+27.0,154.0,3.0,51.0,Guesdon Frédéric,61.0,La Française des Jeux,12,1999,▼10
+28.0,42.0,3.0,53.0,Dekker Erik,62.0,Rabobank ProTeam,12,1999,▼9
+32.0,147.0,3.0,,Madouas Laurent,63.0,Festina - Lotus,12,1999,-
+25.0,45.0,3.0,,Lotz Marc,64.0,Rabobank ProTeam,12,1999,-
+27.0,64.0,3.0,56.0,Crepaldi Mirco,65.0,Polti,12,1999,▼9
+25.0,134.0,3.0,55.0,Hinault Sébastien,66.0,Credit agricole,12,1999,▼11
+26.0,59.0,3.0,57.0,Serrano Marcos Antonio,67.0,O.N.C.E. - Deutsche Bank,12,1999,▼10
+28.0,183.0,2.0,58.0,Derame Pascal,68.0,US Postal Service,12,1999,▼10
+24.0,176.0,2.0,60.0,Ljungqvist Marcus,69.0,Cantina Tollo - Alexia Alluminio,12,1999,▼9
+26.0,38.0,2.0,61.0,Nardello Daniele,70.0,Mapei - Quickstep,12,1999,▼9
+25.0,99.0,2.0,62.0,Salmon Benoît,71.0,Casino - AG2R,12,1999,▼9
+28.0,137.0,1.0,63.0,Vasseur Cédric,72.0,Credit agricole,12,1999,▼9
+30.0,13.0,1.0,64.0,Barbero Sergio,73.0,Mercatone Uno - Bianchi,12,1999,▼9
+23.0,125.0,1.0,,García Francisco Tomas,74.0,Vitalicio Seguros - Grupo Generali,12,1999,-
+27.0,139.0,1.0,66.0,Voigt Jens,75.0,Credit agricole,12,1999,▼9
+26.0,121.0,1.0,65.0,Casero Ángel Luis,76.0,Vitalicio Seguros - Grupo Generali,12,1999,▼11
+23.0,188.0,1.0,67.0,Vande Velde Christian,77.0,US Postal Service,12,1999,▼10
+29.0,69.0,174.0,1.0,Virenque Richard,1.0,Polti,13,1999,-
+28.0,105.0,142.0,4.0,Piccoli Mariano,2.0,Lampre - Daikin - Colnago,13,1999,▲2
+33.0,18.0,105.0,3.0,Konishev Dimitri,4.0,Mercatone Uno - Bianchi,13,1999,▼1
+28.0,162.0,96.0,5.0,Arrieta José Luis,5.0,Banesto,13,1999,-
+27.0,179.0,91.0,6.0,Mondini Gianpaolo,6.0,Cantina Tollo - Alexia Alluminio,13,1999,-
+31.0,161.0,87.0,7.0,Zülle Alex,7.0,Banesto,13,1999,-
+30.0,74.0,79.0,8.0,Dufaux Laurent,8.0,Saeco - Cannondale,13,1999,-
+31.0,8.0,76.0,12.0,Meier Roland,9.0,Cofidis,13,1999,▲3
+31.0,111.0,68.0,9.0,Escartin Fernando,10.0,Kelme - Costa Blanca,13,1999,▼1
+28.0,155.0,59.0,10.0,Heulot Stephane,11.0,La Française des Jeux,13,1999,▼1
+25.0,113.0,53.0,11.0,Contreras Carlos Alberto,12.0,Kelme - Costa Blanca,13,1999,▼1
+31.0,142.0,43.0,13.0,Brochard Laurent,13.0,Festina - Lotus,13,1999,-
+25.0,91.0,43.0,14.0,Vinokourov Alexandre,14.0,Casino - AG2R,13,1999,-
+29.0,24.0,42.0,15.0,Guerini Giuseppe,15.0,Team Telekom,13,1999,-
+31.0,6.0,40.0,16.0,Lelli Massimiliano,16.0,Cofidis,13,1999,-
+30.0,35.0,40.0,,Lanfranchi Paolo,17.0,Mapei - Quickstep,13,1999,-
+28.0,163.0,39.0,17.0,Beltrán Manuel,18.0,Banesto,13,1999,▼1
+36.0,192.0,36.0,18.0,Bourguignon Thierry,19.0,BigMat - Auber 93,13,1999,▼1
+30.0,31.0,35.0,19.0,Tonkov Pavel,20.0,Mapei - Quickstep,13,1999,▼1
+23.0,2.0,33.0,20.0,De Wolf Steve,21.0,Cofidis,13,1999,▼1
+24.0,87.0,32.0,21.0,Verbrugghe Rik,22.0,Lotto - Mobistar,13,1999,▼1
+27.0,57.0,30.0,22.0,Peron Andrea,23.0,O.N.C.E. - Deutsche Bank,13,1999,▼1
+28.0,141.0,30.0,23.0,Belli Wladimir,24.0,Festina - Lotus,13,1999,▼1
+35.0,23.0,29.0,24.0,Elli Alberto,25.0,Team Telekom,13,1999,▼1
+30.0,43.0,26.0,25.0,den Bakker Maarten,26.0,Rabobank ProTeam,13,1999,▼1
+29.0,51.0,25.0,26.0,Olano Abraham,27.0,O.N.C.E. - Deutsche Bank,13,1999,▼1
+25.0,53.0,22.0,27.0,Etxebarria David,28.0,O.N.C.E. - Deutsche Bank,13,1999,▼1
+27.0,196.0,21.0,31.0,Lebreton Lylian,29.0,BigMat - Auber 93,13,1999,▲2
+34.0,103.0,20.0,28.0,Dierckxsens Ludo,30.0,Lampre - Daikin - Colnago,13,1999,▼2
+29.0,3.0,20.0,29.0,Desbiens Laurent,31.0,Cofidis,13,1999,▼2
+27.0,86.0,20.0,30.0,van de Wouwer Kurt,32.0,Lotto - Mobistar,13,1999,▼2
+27.0,95.0,18.0,32.0,Gougot Fabrice,33.0,Casino - AG2R,13,1999,▼1
+26.0,186.0,18.0,33.0,Livingston Kevin,34.0,US Postal Service,13,1999,▼1
+27.0,93.0,17.0,34.0,Bessy Frédéric,35.0,Casino - AG2R,13,1999,▼1
+32.0,182.0,16.0,35.0,Andreu Frankie,36.0,US Postal Service,13,1999,▼1
+29.0,168.0,15.0,,Peña Miguel Ángel,37.0,Banesto,13,1999,-
+29.0,112.0,14.0,36.0,Castelblanco José Joaquin,38.0,Kelme - Costa Blanca,13,1999,▼2
+30.0,145.0,13.0,37.0,Jeker Fabian,39.0,Festina - Lotus,13,1999,▼2
+29.0,76.0,12.0,38.0,Meier Armin,40.0,Saeco - Cannondale,13,1999,▼2
+27.0,46.0,12.0,39.0,McEwen Robbie,41.0,Rabobank ProTeam,13,1999,▼2
+28.0,34.0,12.0,40.0,Fernandez Gines Manuel,42.0,Mapei - Quickstep,13,1999,▼2
+26.0,11.0,12.0,41.0,Garzelli Stefano,43.0,Mercatone Uno - Bianchi,13,1999,▼2
+32.0,22.0,12.0,42.0,Bolts Udo,44.0,Team Telekom,13,1999,▼2
+25.0,55.0,12.0,43.0,González Santos,45.0,O.N.C.E. - Deutsche Bank,13,1999,▼2
+32.0,84.0,11.0,44.0,Durand Jacky,46.0,Lotto - Mobistar,13,1999,▼2
+24.0,73.0,11.0,,Commesso Salvatore,47.0,Saeco - Cannondale,13,1999,-
+28.0,148.0,11.0,45.0,Moreau Christophe,48.0,Festina - Lotus,13,1999,▼3
+28.0,184.0,10.0,46.0,Hamilton Tyler,49.0,US Postal Service,13,1999,▼3
+29.0,171.0,10.0,47.0,Hamburger Bo,50.0,Cantina Tollo - Alexia Alluminio,13,1999,▼3
+29.0,65.0,10.0,48.0,Goubert Stéphane,51.0,Polti,13,1999,▼3
+30.0,131.0,9.0,49.0,Simon François,52.0,Credit agricole,13,1999,▼3
+25.0,56.0,8.0,,Pérez Luis,53.0,O.N.C.E. - Deutsche Bank,13,1999,-
+28.0,149.0,8.0,50.0,Rous Didier,54.0,Festina - Lotus,13,1999,▼4
+28.0,28.0,7.0,,Totschnig Georg,55.0,Team Telekom,13,1999,-
+27.0,118.0,7.0,55.0,Pascual Rodríguez Javier,56.0,Kelme - Costa Blanca,13,1999,▼1
+26.0,79.0,6.0,51.0,Secchiari Francesco,57.0,Saeco - Cannondale,13,1999,▼6
+30.0,156.0,6.0,,Mengin Christophe,58.0,La Française des Jeux,13,1999,-
+30.0,4.0,6.0,,Farazijn Peter,59.0,Cofidis,13,1999,-
+28.0,49.0,6.0,54.0,Zberg Beat,60.0,Rabobank ProTeam,13,1999,▼6
+24.0,81.0,6.0,52.0,Aerts Mario,61.0,Lotto - Mobistar,13,1999,▼9
+23.0,146.0,6.0,53.0,Lefèvre Laurent,62.0,Festina - Lotus,13,1999,▼9
+26.0,164.0,5.0,,Garcia José Vicente,63.0,Banesto,13,1999,-
+25.0,158.0,5.0,56.0,Morin Anthony,64.0,La Française des Jeux,13,1999,▼8
+24.0,175.0,5.0,57.0,Giunti Massimo,65.0,Cantina Tollo - Alexia Alluminio,13,1999,▼8
+28.0,124.0,5.0,58.0,Cerezo Francisco,66.0,Vitalicio Seguros - Grupo Generali,13,1999,▼8
+29.0,17.0,5.0,59.0,Forconi Riccardo,67.0,Mercatone Uno - Bianchi,13,1999,▼8
+30.0,195.0,5.0,60.0,Gouvenou Thierry,68.0,BigMat - Auber 93,13,1999,▼8
+27.0,154.0,3.0,61.0,Guesdon Frédéric,69.0,La Française des Jeux,13,1999,▼8
+28.0,42.0,3.0,62.0,Dekker Erik,70.0,Rabobank ProTeam,13,1999,▼8
+32.0,147.0,3.0,63.0,Madouas Laurent,71.0,Festina - Lotus,13,1999,▼8
+25.0,45.0,3.0,64.0,Lotz Marc,72.0,Rabobank ProTeam,13,1999,▼8
+27.0,64.0,3.0,65.0,Crepaldi Mirco,73.0,Polti,13,1999,▼8
+25.0,134.0,3.0,66.0,Hinault Sébastien,74.0,Credit agricole,13,1999,▼8
+26.0,59.0,3.0,67.0,Serrano Marcos Antonio,75.0,O.N.C.E. - Deutsche Bank,13,1999,▼8
+28.0,183.0,2.0,68.0,Derame Pascal,76.0,US Postal Service,13,1999,▼8
+24.0,176.0,2.0,69.0,Ljungqvist Marcus,77.0,Cantina Tollo - Alexia Alluminio,13,1999,▼8
+26.0,38.0,2.0,70.0,Nardello Daniele,78.0,Mapei - Quickstep,13,1999,▼8
+25.0,99.0,2.0,71.0,Salmon Benoît,79.0,Casino - AG2R,13,1999,▼8
+28.0,137.0,1.0,72.0,Vasseur Cédric,80.0,Credit agricole,13,1999,▼8
+30.0,13.0,1.0,73.0,Barbero Sergio,81.0,Mercatone Uno - Bianchi,13,1999,▼8
+23.0,125.0,1.0,74.0,García Francisco Tomas,82.0,Vitalicio Seguros - Grupo Generali,13,1999,▼8
+27.0,139.0,1.0,75.0,Voigt Jens,83.0,Credit agricole,13,1999,▼8
+26.0,121.0,1.0,76.0,Casero Ángel Luis,84.0,Vitalicio Seguros - Grupo Generali,13,1999,▼8
+23.0,188.0,1.0,77.0,Vande Velde Christian,85.0,US Postal Service,13,1999,▼8
+29.0,69.0,174.0,1.0,Virenque Richard,1.0,Polti,14,1999,-
+28.0,105.0,142.0,2.0,Piccoli Mariano,2.0,Lampre - Daikin - Colnago,14,1999,-
+33.0,18.0,110.0,4.0,Konishev Dimitri,4.0,Mercatone Uno - Bianchi,14,1999,-
+28.0,162.0,96.0,5.0,Arrieta José Luis,5.0,Banesto,14,1999,-
+27.0,179.0,91.0,6.0,Mondini Gianpaolo,6.0,Cantina Tollo - Alexia Alluminio,14,1999,-
+31.0,161.0,87.0,7.0,Zülle Alex,7.0,Banesto,14,1999,-
+30.0,74.0,79.0,8.0,Dufaux Laurent,8.0,Saeco - Cannondale,14,1999,-
+31.0,8.0,76.0,9.0,Meier Roland,9.0,Cofidis,14,1999,-
+31.0,111.0,68.0,10.0,Escartin Fernando,10.0,Kelme - Costa Blanca,14,1999,-
+28.0,155.0,59.0,11.0,Heulot Stephane,11.0,La Française des Jeux,14,1999,-
+25.0,113.0,53.0,12.0,Contreras Carlos Alberto,12.0,Kelme - Costa Blanca,14,1999,-
+31.0,6.0,43.0,16.0,Lelli Massimiliano,13.0,Cofidis,14,1999,▲3
+31.0,142.0,43.0,13.0,Brochard Laurent,14.0,Festina - Lotus,14,1999,▼1
+25.0,91.0,43.0,14.0,Vinokourov Alexandre,15.0,Casino - AG2R,14,1999,▼1
+29.0,24.0,42.0,15.0,Guerini Giuseppe,16.0,Team Telekom,14,1999,▼1
+30.0,35.0,40.0,17.0,Lanfranchi Paolo,17.0,Mapei - Quickstep,14,1999,-
+28.0,163.0,39.0,18.0,Beltrán Manuel,18.0,Banesto,14,1999,-
+36.0,192.0,36.0,19.0,Bourguignon Thierry,19.0,BigMat - Auber 93,14,1999,-
+30.0,31.0,35.0,20.0,Tonkov Pavel,20.0,Mapei - Quickstep,14,1999,-
+23.0,2.0,33.0,21.0,De Wolf Steve,21.0,Cofidis,14,1999,-
+24.0,87.0,32.0,22.0,Verbrugghe Rik,22.0,Lotto - Mobistar,14,1999,-
+27.0,57.0,30.0,23.0,Peron Andrea,23.0,O.N.C.E. - Deutsche Bank,14,1999,-
+28.0,141.0,30.0,24.0,Belli Wladimir,24.0,Festina - Lotus,14,1999,-
+35.0,23.0,29.0,25.0,Elli Alberto,25.0,Team Telekom,14,1999,-
+30.0,43.0,26.0,26.0,den Bakker Maarten,26.0,Rabobank ProTeam,14,1999,-
+29.0,51.0,25.0,27.0,Olano Abraham,27.0,O.N.C.E. - Deutsche Bank,14,1999,-
+25.0,53.0,22.0,28.0,Etxebarria David,28.0,O.N.C.E. - Deutsche Bank,14,1999,-
+27.0,196.0,21.0,29.0,Lebreton Lylian,29.0,BigMat - Auber 93,14,1999,-
+34.0,103.0,20.0,30.0,Dierckxsens Ludo,30.0,Lampre - Daikin - Colnago,14,1999,-
+29.0,3.0,20.0,31.0,Desbiens Laurent,31.0,Cofidis,14,1999,-
+27.0,86.0,20.0,32.0,van de Wouwer Kurt,32.0,Lotto - Mobistar,14,1999,-
+27.0,95.0,18.0,33.0,Gougot Fabrice,33.0,Casino - AG2R,14,1999,-
+26.0,186.0,18.0,34.0,Livingston Kevin,34.0,US Postal Service,14,1999,-
+27.0,93.0,17.0,35.0,Bessy Frédéric,35.0,Casino - AG2R,14,1999,-
+32.0,182.0,16.0,36.0,Andreu Frankie,36.0,US Postal Service,14,1999,-
+32.0,84.0,15.0,46.0,Durand Jacky,37.0,Lotto - Mobistar,14,1999,▲9
+29.0,168.0,15.0,37.0,Peña Miguel Ángel,38.0,Banesto,14,1999,▼1
+29.0,112.0,14.0,38.0,Castelblanco José Joaquin,39.0,Kelme - Costa Blanca,14,1999,▼1
+30.0,145.0,13.0,39.0,Jeker Fabian,40.0,Festina - Lotus,14,1999,▼1
+29.0,76.0,12.0,40.0,Meier Armin,41.0,Saeco - Cannondale,14,1999,▼1
+27.0,46.0,12.0,41.0,McEwen Robbie,42.0,Rabobank ProTeam,14,1999,▼1
+28.0,34.0,12.0,42.0,Fernandez Gines Manuel,43.0,Mapei - Quickstep,14,1999,▼1
+26.0,11.0,12.0,43.0,Garzelli Stefano,44.0,Mercatone Uno - Bianchi,14,1999,▼1
+32.0,22.0,12.0,44.0,Bolts Udo,45.0,Team Telekom,14,1999,▼1
+25.0,55.0,12.0,45.0,González Santos,46.0,O.N.C.E. - Deutsche Bank,14,1999,▼1
+24.0,73.0,11.0,47.0,Commesso Salvatore,47.0,Saeco - Cannondale,14,1999,-
+28.0,148.0,11.0,48.0,Moreau Christophe,48.0,Festina - Lotus,14,1999,-
+28.0,184.0,10.0,49.0,Hamilton Tyler,49.0,US Postal Service,14,1999,-
+29.0,171.0,10.0,50.0,Hamburger Bo,50.0,Cantina Tollo - Alexia Alluminio,14,1999,-
+29.0,65.0,10.0,51.0,Goubert Stéphane,51.0,Polti,14,1999,-
+30.0,131.0,9.0,52.0,Simon François,52.0,Credit agricole,14,1999,-
+25.0,56.0,8.0,53.0,Pérez Luis,53.0,O.N.C.E. - Deutsche Bank,14,1999,-
+28.0,149.0,8.0,54.0,Rous Didier,54.0,Festina - Lotus,14,1999,-
+28.0,28.0,7.0,55.0,Totschnig Georg,55.0,Team Telekom,14,1999,-
+27.0,118.0,7.0,56.0,Pascual Rodríguez Javier,56.0,Kelme - Costa Blanca,14,1999,-
+26.0,79.0,6.0,57.0,Secchiari Francesco,57.0,Saeco - Cannondale,14,1999,-
+30.0,156.0,6.0,58.0,Mengin Christophe,58.0,La Française des Jeux,14,1999,-
+30.0,4.0,6.0,59.0,Farazijn Peter,59.0,Cofidis,14,1999,-
+28.0,49.0,6.0,60.0,Zberg Beat,60.0,Rabobank ProTeam,14,1999,-
+24.0,81.0,6.0,61.0,Aerts Mario,61.0,Lotto - Mobistar,14,1999,-
+23.0,146.0,6.0,62.0,Lefèvre Laurent,62.0,Festina - Lotus,14,1999,-
+34.0,33.0,5.0,,Faresin Gianni,63.0,Mapei - Quickstep,14,1999,-
+26.0,164.0,5.0,63.0,Garcia José Vicente,64.0,Banesto,14,1999,▼1
+25.0,158.0,5.0,64.0,Morin Anthony,65.0,La Française des Jeux,14,1999,▼1
+24.0,175.0,5.0,65.0,Giunti Massimo,66.0,Cantina Tollo - Alexia Alluminio,14,1999,▼1
+28.0,124.0,5.0,66.0,Cerezo Francisco,67.0,Vitalicio Seguros - Grupo Generali,14,1999,▼1
+29.0,17.0,5.0,67.0,Forconi Riccardo,68.0,Mercatone Uno - Bianchi,14,1999,▼1
+30.0,195.0,5.0,68.0,Gouvenou Thierry,69.0,BigMat - Auber 93,14,1999,▼1
+26.0,59.0,4.0,75.0,Serrano Marcos Antonio,70.0,O.N.C.E. - Deutsche Bank,14,1999,▲5
+27.0,154.0,3.0,69.0,Guesdon Frédéric,71.0,La Française des Jeux,14,1999,▼2
+28.0,42.0,3.0,70.0,Dekker Erik,72.0,Rabobank ProTeam,14,1999,▼2
+32.0,147.0,3.0,71.0,Madouas Laurent,73.0,Festina - Lotus,14,1999,▼2
+25.0,45.0,3.0,72.0,Lotz Marc,74.0,Rabobank ProTeam,14,1999,▼2
+27.0,64.0,3.0,73.0,Crepaldi Mirco,75.0,Polti,14,1999,▼2
+25.0,134.0,3.0,74.0,Hinault Sébastien,76.0,Credit agricole,14,1999,▼2
+28.0,183.0,2.0,76.0,Derame Pascal,77.0,US Postal Service,14,1999,▼1
+24.0,176.0,2.0,77.0,Ljungqvist Marcus,78.0,Cantina Tollo - Alexia Alluminio,14,1999,▼1
+26.0,38.0,2.0,78.0,Nardello Daniele,79.0,Mapei - Quickstep,14,1999,▼1
+25.0,99.0,2.0,79.0,Salmon Benoît,80.0,Casino - AG2R,14,1999,▼1
+28.0,137.0,1.0,80.0,Vasseur Cédric,81.0,Credit agricole,14,1999,▼1
+30.0,13.0,1.0,81.0,Barbero Sergio,82.0,Mercatone Uno - Bianchi,14,1999,▼1
+23.0,125.0,1.0,82.0,García Francisco Tomas,83.0,Vitalicio Seguros - Grupo Generali,14,1999,▼1
+27.0,139.0,1.0,83.0,Voigt Jens,84.0,Credit agricole,14,1999,▼1
+26.0,121.0,1.0,84.0,Casero Ángel Luis,85.0,Vitalicio Seguros - Grupo Generali,14,1999,▼1
+23.0,188.0,1.0,85.0,Vande Velde Christian,86.0,US Postal Service,14,1999,▼1
+29.0,69.0,237.0,1.0,Virenque Richard,1.0,Polti,15,1999,-
+28.0,105.0,168.0,2.0,Piccoli Mariano,2.0,Lampre - Daikin - Colnago,15,1999,-
+31.0,111.0,150.0,10.0,Escartin Fernando,4.0,Kelme - Costa Blanca,15,1999,▲6
+35.0,23.0,130.0,25.0,Elli Alberto,5.0,Team Telekom,15,1999,▲20
+30.0,74.0,129.0,8.0,Dufaux Laurent,6.0,Saeco - Cannondale,15,1999,▲2
+31.0,161.0,121.0,7.0,Zülle Alex,7.0,Banesto,15,1999,-
+33.0,18.0,112.0,4.0,Konishev Dimitri,8.0,Mercatone Uno - Bianchi,15,1999,▼4
+27.0,86.0,112.0,32.0,van de Wouwer Kurt,9.0,Lotto - Mobistar,15,1999,▲23
+28.0,162.0,110.0,5.0,Arrieta José Luis,10.0,Banesto,15,1999,▼5
+27.0,57.0,102.0,23.0,Peron Andrea,11.0,O.N.C.E. - Deutsche Bank,15,1999,▲12
+27.0,179.0,91.0,6.0,Mondini Gianpaolo,12.0,Cantina Tollo - Alexia Alluminio,15,1999,▼6
+31.0,8.0,82.0,9.0,Meier Roland,13.0,Cofidis,15,1999,▼4
+28.0,155.0,59.0,11.0,Heulot Stephane,14.0,La Française des Jeux,15,1999,▼3
+25.0,113.0,53.0,12.0,Contreras Carlos Alberto,15.0,Kelme - Costa Blanca,15,1999,▼3
+25.0,115.0,48.0,,Gomez Jose Javier,16.0,Kelme - Costa Blanca,15,1999,-
+31.0,142.0,47.0,14.0,Brochard Laurent,17.0,Festina - Lotus,15,1999,▼3
+31.0,6.0,43.0,13.0,Lelli Massimiliano,18.0,Cofidis,15,1999,▼5
+25.0,91.0,43.0,15.0,Vinokourov Alexandre,19.0,Casino - AG2R,15,1999,▼4
+28.0,163.0,43.0,18.0,Beltrán Manuel,20.0,Banesto,15,1999,▼2
+29.0,24.0,42.0,16.0,Guerini Giuseppe,21.0,Team Telekom,15,1999,▼5
+28.0,167.0,42.0,,Odriozola Jon,22.0,Banesto,15,1999,-
+30.0,35.0,40.0,17.0,Lanfranchi Paolo,23.0,Mapei - Quickstep,15,1999,▼6
+24.0,116.0,38.0,,Otxoa Javier,24.0,Kelme - Costa Blanca,15,1999,-
+28.0,141.0,38.0,24.0,Belli Wladimir,25.0,Festina - Lotus,15,1999,▼1
+29.0,126.0,37.0,,González de Galdeano Álvaro,26.0,Vitalicio Seguros - Grupo Generali,15,1999,-
+36.0,192.0,36.0,19.0,Bourguignon Thierry,27.0,BigMat - Auber 93,15,1999,▼8
+30.0,31.0,36.0,20.0,Tonkov Pavel,28.0,Mapei - Quickstep,15,1999,▼8
+23.0,2.0,34.0,21.0,De Wolf Steve,29.0,Cofidis,15,1999,▼8
+24.0,87.0,32.0,22.0,Verbrugghe Rik,30.0,Lotto - Mobistar,15,1999,▼8
+23.0,125.0,29.0,83.0,García Francisco Tomas,31.0,Vitalicio Seguros - Grupo Generali,15,1999,▲52
+25.0,53.0,26.0,28.0,Etxebarria David,32.0,O.N.C.E. - Deutsche Bank,15,1999,▼4
+30.0,43.0,26.0,26.0,den Bakker Maarten,33.0,Rabobank ProTeam,15,1999,▼7
+29.0,51.0,25.0,27.0,Olano Abraham,34.0,O.N.C.E. - Deutsche Bank,15,1999,▼7
+26.0,11.0,24.0,44.0,Garzelli Stefano,35.0,Mercatone Uno - Bianchi,15,1999,▲9
+27.0,196.0,21.0,29.0,Lebreton Lylian,36.0,BigMat - Auber 93,15,1999,▼7
+29.0,3.0,20.0,31.0,Desbiens Laurent,37.0,Cofidis,15,1999,▼6
+26.0,186.0,19.0,34.0,Livingston Kevin,38.0,US Postal Service,15,1999,▼4
+27.0,95.0,18.0,33.0,Gougot Fabrice,39.0,Casino - AG2R,15,1999,▼6
+29.0,65.0,18.0,51.0,Goubert Stéphane,40.0,Polti,15,1999,▲11
+27.0,93.0,17.0,35.0,Bessy Frédéric,41.0,Casino - AG2R,15,1999,▼6
+32.0,182.0,17.0,36.0,Andreu Frankie,42.0,US Postal Service,15,1999,▼6
+32.0,84.0,15.0,37.0,Durand Jacky,43.0,Lotto - Mobistar,15,1999,▼6
+29.0,168.0,15.0,38.0,Peña Miguel Ángel,44.0,Banesto,15,1999,▼6
+26.0,121.0,15.0,85.0,Casero Ángel Luis,45.0,Vitalicio Seguros - Grupo Generali,15,1999,▲40
+32.0,22.0,15.0,45.0,Bolts Udo,46.0,Team Telekom,15,1999,▼1
+29.0,112.0,14.0,39.0,Castelblanco José Joaquin,47.0,Kelme - Costa Blanca,15,1999,▼8
+30.0,145.0,13.0,40.0,Jeker Fabian,48.0,Festina - Lotus,15,1999,▼8
+29.0,76.0,12.0,41.0,Meier Armin,49.0,Saeco - Cannondale,15,1999,▼8
+27.0,46.0,12.0,42.0,McEwen Robbie,50.0,Rabobank ProTeam,15,1999,▼8
+28.0,34.0,12.0,43.0,Fernandez Gines Manuel,51.0,Mapei - Quickstep,15,1999,▼8
+26.0,38.0,12.0,79.0,Nardello Daniele,52.0,Mapei - Quickstep,15,1999,▲27
+25.0,55.0,12.0,46.0,González Santos,53.0,O.N.C.E. - Deutsche Bank,15,1999,▼7
+34.0,33.0,11.0,63.0,Faresin Gianni,54.0,Mapei - Quickstep,15,1999,▲9
+24.0,73.0,11.0,47.0,Commesso Salvatore,55.0,Saeco - Cannondale,15,1999,▼8
+28.0,148.0,11.0,48.0,Moreau Christophe,56.0,Festina - Lotus,15,1999,▼8
+28.0,184.0,10.0,49.0,Hamilton Tyler,57.0,US Postal Service,15,1999,▼8
+30.0,131.0,9.0,52.0,Simon François,58.0,Credit agricole,15,1999,▼6
+25.0,56.0,8.0,53.0,Pérez Luis,59.0,O.N.C.E. - Deutsche Bank,15,1999,▼6
+28.0,28.0,7.0,55.0,Totschnig Georg,60.0,Team Telekom,15,1999,▼5
+27.0,118.0,7.0,56.0,Pascual Rodríguez Javier,61.0,Kelme - Costa Blanca,15,1999,▼5
+30.0,156.0,6.0,58.0,Mengin Christophe,62.0,La Française des Jeux,15,1999,▼4
+30.0,4.0,6.0,59.0,Farazijn Peter,63.0,Cofidis,15,1999,▼4
+28.0,49.0,6.0,60.0,Zberg Beat,64.0,Rabobank ProTeam,15,1999,▼4
+24.0,81.0,6.0,61.0,Aerts Mario,65.0,Lotto - Mobistar,15,1999,▼4
+23.0,106.0,6.0,,Pinotti Marco,66.0,Lampre - Daikin - Colnago,15,1999,-
+23.0,146.0,6.0,62.0,Lefèvre Laurent,67.0,Festina - Lotus,15,1999,▼5
+26.0,164.0,5.0,64.0,Garcia José Vicente,68.0,Banesto,15,1999,▼4
+25.0,158.0,5.0,65.0,Morin Anthony,69.0,La Française des Jeux,15,1999,▼4
+24.0,175.0,5.0,66.0,Giunti Massimo,70.0,Cantina Tollo - Alexia Alluminio,15,1999,▼4
+28.0,124.0,5.0,67.0,Cerezo Francisco,71.0,Vitalicio Seguros - Grupo Generali,15,1999,▼4
+29.0,17.0,5.0,68.0,Forconi Riccardo,72.0,Mercatone Uno - Bianchi,15,1999,▼4
+30.0,195.0,5.0,69.0,Gouvenou Thierry,73.0,BigMat - Auber 93,15,1999,▼4
+26.0,59.0,4.0,70.0,Serrano Marcos Antonio,74.0,O.N.C.E. - Deutsche Bank,15,1999,▼4
+27.0,154.0,3.0,71.0,Guesdon Frédéric,75.0,La Française des Jeux,15,1999,▼4
+28.0,42.0,3.0,72.0,Dekker Erik,76.0,Rabobank ProTeam,15,1999,▼4
+32.0,147.0,3.0,73.0,Madouas Laurent,77.0,Festina - Lotus,15,1999,▼4
+25.0,45.0,3.0,74.0,Lotz Marc,78.0,Rabobank ProTeam,15,1999,▼4
+27.0,64.0,3.0,75.0,Crepaldi Mirco,79.0,Polti,15,1999,▼4
+25.0,134.0,3.0,76.0,Hinault Sébastien,80.0,Credit agricole,15,1999,▼4
+28.0,183.0,2.0,77.0,Derame Pascal,81.0,US Postal Service,15,1999,▼4
+24.0,176.0,2.0,78.0,Ljungqvist Marcus,82.0,Cantina Tollo - Alexia Alluminio,15,1999,▼4
+25.0,99.0,2.0,80.0,Salmon Benoît,83.0,Casino - AG2R,15,1999,▼3
+28.0,137.0,1.0,81.0,Vasseur Cédric,84.0,Credit agricole,15,1999,▼3
+30.0,13.0,1.0,82.0,Barbero Sergio,85.0,Mercatone Uno - Bianchi,15,1999,▼3
+27.0,139.0,1.0,84.0,Voigt Jens,86.0,Credit agricole,15,1999,▼2
+23.0,188.0,1.0,86.0,Vande Velde Christian,87.0,US Postal Service,15,1999,▼1
+29.0,69.0,273.0,1.0,Virenque Richard,1.0,Polti,16,1999,-
+35.0,23.0,226.0,5.0,Elli Alberto,2.0,Team Telekom,16,1999,▲3
+28.0,105.0,198.0,2.0,Piccoli Mariano,3.0,Lampre - Daikin - Colnago,16,1999,▼1
+31.0,111.0,194.0,4.0,Escartin Fernando,4.0,Kelme - Costa Blanca,16,1999,-
+31.0,161.0,152.0,7.0,Zülle Alex,6.0,Banesto,16,1999,▲1
+28.0,162.0,141.0,10.0,Arrieta José Luis,7.0,Banesto,16,1999,▲3
+30.0,74.0,141.0,6.0,Dufaux Laurent,8.0,Saeco - Cannondale,16,1999,▼2
+27.0,57.0,138.0,11.0,Peron Andrea,9.0,O.N.C.E. - Deutsche Bank,16,1999,▲2
+30.0,31.0,127.0,28.0,Tonkov Pavel,10.0,Mapei - Quickstep,16,1999,▲18
+33.0,18.0,112.0,8.0,Konishev Dimitri,11.0,Mercatone Uno - Bianchi,16,1999,▼3
+27.0,86.0,112.0,9.0,van de Wouwer Kurt,12.0,Lotto - Mobistar,16,1999,▼3
+25.0,53.0,100.0,32.0,Etxebarria David,13.0,O.N.C.E. - Deutsche Bank,16,1999,▲19
+31.0,8.0,100.0,13.0,Meier Roland,14.0,Cofidis,16,1999,▼1
+27.0,179.0,91.0,12.0,Mondini Gianpaolo,15.0,Cantina Tollo - Alexia Alluminio,16,1999,▼3
+25.0,113.0,79.0,15.0,Contreras Carlos Alberto,16.0,Kelme - Costa Blanca,16,1999,▼1
+28.0,155.0,59.0,14.0,Heulot Stephane,17.0,La Française des Jeux,16,1999,▼3
+25.0,91.0,56.0,19.0,Vinokourov Alexandre,18.0,Casino - AG2R,16,1999,▲1
+28.0,141.0,50.0,25.0,Belli Wladimir,19.0,Festina - Lotus,16,1999,▲6
+29.0,24.0,48.0,21.0,Guerini Giuseppe,20.0,Team Telekom,16,1999,▲1
+25.0,115.0,48.0,16.0,Gomez Jose Javier,21.0,Kelme - Costa Blanca,16,1999,▼5
+31.0,142.0,47.0,17.0,Brochard Laurent,22.0,Festina - Lotus,16,1999,▼5
+23.0,125.0,47.0,31.0,García Francisco Tomas,23.0,Vitalicio Seguros - Grupo Generali,16,1999,▲8
+31.0,6.0,43.0,18.0,Lelli Massimiliano,24.0,Cofidis,16,1999,▼6
+28.0,167.0,42.0,22.0,Odriozola Jon,25.0,Banesto,16,1999,▼3
+30.0,35.0,40.0,23.0,Lanfranchi Paolo,26.0,Mapei - Quickstep,16,1999,▼3
+24.0,116.0,38.0,24.0,Otxoa Javier,27.0,Kelme - Costa Blanca,16,1999,▼3
+29.0,126.0,37.0,26.0,González de Galdeano Álvaro,28.0,Vitalicio Seguros - Grupo Generali,16,1999,▼2
+36.0,192.0,36.0,27.0,Bourguignon Thierry,29.0,BigMat - Auber 93,16,1999,▼2
+26.0,11.0,36.0,35.0,Garzelli Stefano,30.0,Mercatone Uno - Bianchi,16,1999,▲5
+26.0,186.0,35.0,38.0,Livingston Kevin,31.0,US Postal Service,16,1999,▲7
+23.0,2.0,34.0,29.0,De Wolf Steve,32.0,Cofidis,16,1999,▼3
+24.0,87.0,32.0,30.0,Verbrugghe Rik,33.0,Lotto - Mobistar,16,1999,▼3
+27.0,46.0,30.0,50.0,McEwen Robbie,34.0,Rabobank ProTeam,16,1999,▲16
+30.0,43.0,26.0,33.0,den Bakker Maarten,35.0,Rabobank ProTeam,16,1999,▼2
+29.0,51.0,25.0,34.0,Olano Abraham,36.0,O.N.C.E. - Deutsche Bank,16,1999,▼2
+26.0,59.0,22.0,74.0,Serrano Marcos Antonio,37.0,O.N.C.E. - Deutsche Bank,16,1999,▲37
+27.0,196.0,21.0,36.0,Lebreton Lylian,38.0,BigMat - Auber 93,16,1999,▼2
+29.0,3.0,20.0,37.0,Desbiens Laurent,39.0,Cofidis,16,1999,▼2
+27.0,95.0,18.0,39.0,Gougot Fabrice,40.0,Casino - AG2R,16,1999,▼1
+29.0,65.0,18.0,40.0,Goubert Stéphane,41.0,Polti,16,1999,▼1
+30.0,131.0,17.0,58.0,Simon François,42.0,Credit agricole,16,1999,▲16
+27.0,93.0,17.0,41.0,Bessy Frédéric,43.0,Casino - AG2R,16,1999,▼2
+32.0,182.0,17.0,42.0,Andreu Frankie,44.0,US Postal Service,16,1999,▼2
+24.0,176.0,16.0,82.0,Ljungqvist Marcus,45.0,Cantina Tollo - Alexia Alluminio,16,1999,▲37
+32.0,84.0,15.0,43.0,Durand Jacky,46.0,Lotto - Mobistar,16,1999,▼3
+29.0,168.0,15.0,44.0,Peña Miguel Ángel,47.0,Banesto,16,1999,▼3
+26.0,121.0,15.0,45.0,Casero Ángel Luis,48.0,Vitalicio Seguros - Grupo Generali,16,1999,▼3
+32.0,22.0,15.0,46.0,Bolts Udo,49.0,Team Telekom,16,1999,▼3
+29.0,112.0,14.0,47.0,Castelblanco José Joaquin,50.0,Kelme - Costa Blanca,16,1999,▼3
+30.0,145.0,13.0,48.0,Jeker Fabian,51.0,Festina - Lotus,16,1999,▼3
+29.0,76.0,12.0,49.0,Meier Armin,52.0,Saeco - Cannondale,16,1999,▼3
+28.0,34.0,12.0,51.0,Fernandez Gines Manuel,53.0,Mapei - Quickstep,16,1999,▼2
+26.0,38.0,12.0,52.0,Nardello Daniele,54.0,Mapei - Quickstep,16,1999,▼2
+25.0,55.0,12.0,53.0,González Santos,55.0,O.N.C.E. - Deutsche Bank,16,1999,▼2
+34.0,33.0,11.0,54.0,Faresin Gianni,56.0,Mapei - Quickstep,16,1999,▼2
+24.0,73.0,11.0,55.0,Commesso Salvatore,57.0,Saeco - Cannondale,16,1999,▼2
+28.0,148.0,11.0,56.0,Moreau Christophe,58.0,Festina - Lotus,16,1999,▼2
+28.0,184.0,10.0,57.0,Hamilton Tyler,59.0,US Postal Service,16,1999,▼2
+28.0,28.0,9.0,60.0,Totschnig Georg,60.0,Team Telekom,16,1999,-
+25.0,56.0,8.0,59.0,Pérez Luis,61.0,O.N.C.E. - Deutsche Bank,16,1999,▼2
+27.0,118.0,7.0,61.0,Pascual Rodríguez Javier,62.0,Kelme - Costa Blanca,16,1999,▼1
+30.0,156.0,6.0,62.0,Mengin Christophe,63.0,La Française des Jeux,16,1999,▼1
+30.0,4.0,6.0,63.0,Farazijn Peter,64.0,Cofidis,16,1999,▼1
+28.0,49.0,6.0,64.0,Zberg Beat,65.0,Rabobank ProTeam,16,1999,▼1
+24.0,81.0,6.0,65.0,Aerts Mario,66.0,Lotto - Mobistar,16,1999,▼1
+23.0,106.0,6.0,66.0,Pinotti Marco,67.0,Lampre - Daikin - Colnago,16,1999,▼1
+23.0,146.0,6.0,67.0,Lefèvre Laurent,68.0,Festina - Lotus,16,1999,▼1
+26.0,101.0,6.0,,Serpellini Marco,69.0,Lampre - Daikin - Colnago,16,1999,-
+26.0,164.0,5.0,68.0,Garcia José Vicente,70.0,Banesto,16,1999,▼2
+25.0,158.0,5.0,69.0,Morin Anthony,71.0,La Française des Jeux,16,1999,▼2
+24.0,175.0,5.0,70.0,Giunti Massimo,72.0,Cantina Tollo - Alexia Alluminio,16,1999,▼2
+28.0,124.0,5.0,71.0,Cerezo Francisco,73.0,Vitalicio Seguros - Grupo Generali,16,1999,▼2
+29.0,17.0,5.0,72.0,Forconi Riccardo,74.0,Mercatone Uno - Bianchi,16,1999,▼2
+30.0,195.0,5.0,73.0,Gouvenou Thierry,75.0,BigMat - Auber 93,16,1999,▼2
+27.0,154.0,3.0,75.0,Guesdon Frédéric,76.0,La Française des Jeux,16,1999,▼1
+28.0,42.0,3.0,76.0,Dekker Erik,77.0,Rabobank ProTeam,16,1999,▼1
+32.0,147.0,3.0,77.0,Madouas Laurent,78.0,Festina - Lotus,16,1999,▼1
+25.0,45.0,3.0,78.0,Lotz Marc,79.0,Rabobank ProTeam,16,1999,▼1
+27.0,64.0,3.0,79.0,Crepaldi Mirco,80.0,Polti,16,1999,▼1
+25.0,134.0,3.0,80.0,Hinault Sébastien,81.0,Credit agricole,16,1999,▼1
+28.0,183.0,2.0,81.0,Derame Pascal,82.0,US Postal Service,16,1999,▼1
+25.0,99.0,2.0,83.0,Salmon Benoît,83.0,Casino - AG2R,16,1999,-
+28.0,137.0,1.0,84.0,Vasseur Cédric,84.0,Credit agricole,16,1999,-
+30.0,13.0,1.0,85.0,Barbero Sergio,85.0,Mercatone Uno - Bianchi,16,1999,-
+27.0,139.0,1.0,86.0,Voigt Jens,86.0,Credit agricole,16,1999,-
+23.0,188.0,1.0,87.0,Vande Velde Christian,87.0,US Postal Service,16,1999,-
+23.0,165.0,1.0,,Mancebo Francisco,88.0,Banesto,16,1999,-
+29.0,69.0,273.0,1.0,Virenque Richard,1.0,Polti,17,1999,-
+35.0,23.0,226.0,2.0,Elli Alberto,2.0,Team Telekom,17,1999,-
+28.0,105.0,201.0,3.0,Piccoli Mariano,3.0,Lampre - Daikin - Colnago,17,1999,-
+31.0,111.0,194.0,4.0,Escartin Fernando,4.0,Kelme - Costa Blanca,17,1999,-
+31.0,161.0,152.0,6.0,Zülle Alex,6.0,Banesto,17,1999,-
+28.0,162.0,141.0,7.0,Arrieta José Luis,7.0,Banesto,17,1999,-
+30.0,74.0,141.0,8.0,Dufaux Laurent,8.0,Saeco - Cannondale,17,1999,-
+27.0,57.0,138.0,9.0,Peron Andrea,9.0,O.N.C.E. - Deutsche Bank,17,1999,-
+33.0,18.0,112.0,11.0,Konishev Dimitri,10.0,Mercatone Uno - Bianchi,17,1999,▲1
+27.0,86.0,112.0,12.0,van de Wouwer Kurt,11.0,Lotto - Mobistar,17,1999,▲1
+25.0,53.0,100.0,13.0,Etxebarria David,12.0,O.N.C.E. - Deutsche Bank,17,1999,▲1
+31.0,8.0,100.0,14.0,Meier Roland,13.0,Cofidis,17,1999,▲1
+27.0,179.0,91.0,15.0,Mondini Gianpaolo,14.0,Cantina Tollo - Alexia Alluminio,17,1999,▲1
+25.0,113.0,79.0,16.0,Contreras Carlos Alberto,15.0,Kelme - Costa Blanca,17,1999,▲1
+28.0,155.0,59.0,17.0,Heulot Stephane,16.0,La Française des Jeux,17,1999,▲1
+25.0,91.0,56.0,18.0,Vinokourov Alexandre,17.0,Casino - AG2R,17,1999,▲1
+28.0,141.0,50.0,19.0,Belli Wladimir,18.0,Festina - Lotus,17,1999,▲1
+29.0,24.0,48.0,20.0,Guerini Giuseppe,19.0,Team Telekom,17,1999,▲1
+25.0,115.0,48.0,21.0,Gomez Jose Javier,20.0,Kelme - Costa Blanca,17,1999,▲1
+31.0,142.0,47.0,22.0,Brochard Laurent,21.0,Festina - Lotus,17,1999,▲1
+23.0,125.0,47.0,23.0,García Francisco Tomas,22.0,Vitalicio Seguros - Grupo Generali,17,1999,▲1
+31.0,6.0,43.0,24.0,Lelli Massimiliano,23.0,Cofidis,17,1999,▲1
+28.0,167.0,42.0,25.0,Odriozola Jon,24.0,Banesto,17,1999,▲1
+30.0,35.0,40.0,26.0,Lanfranchi Paolo,25.0,Mapei - Quickstep,17,1999,▲1
+24.0,116.0,38.0,27.0,Otxoa Javier,26.0,Kelme - Costa Blanca,17,1999,▲1
+29.0,126.0,37.0,28.0,González de Galdeano Álvaro,27.0,Vitalicio Seguros - Grupo Generali,17,1999,▲1
+36.0,192.0,36.0,29.0,Bourguignon Thierry,28.0,BigMat - Auber 93,17,1999,▲1
+26.0,11.0,36.0,30.0,Garzelli Stefano,29.0,Mercatone Uno - Bianchi,17,1999,▲1
+26.0,186.0,35.0,31.0,Livingston Kevin,30.0,US Postal Service,17,1999,▲1
+23.0,2.0,34.0,32.0,De Wolf Steve,31.0,Cofidis,17,1999,▲1
+24.0,87.0,32.0,33.0,Verbrugghe Rik,32.0,Lotto - Mobistar,17,1999,▲1
+27.0,46.0,30.0,34.0,McEwen Robbie,33.0,Rabobank ProTeam,17,1999,▲1
+30.0,43.0,26.0,35.0,den Bakker Maarten,34.0,Rabobank ProTeam,17,1999,▲1
+29.0,51.0,25.0,36.0,Olano Abraham,35.0,O.N.C.E. - Deutsche Bank,17,1999,▲1
+26.0,59.0,22.0,37.0,Serrano Marcos Antonio,36.0,O.N.C.E. - Deutsche Bank,17,1999,▲1
+27.0,196.0,21.0,38.0,Lebreton Lylian,37.0,BigMat - Auber 93,17,1999,▲1
+29.0,3.0,20.0,39.0,Desbiens Laurent,38.0,Cofidis,17,1999,▲1
+27.0,95.0,18.0,40.0,Gougot Fabrice,39.0,Casino - AG2R,17,1999,▲1
+29.0,65.0,18.0,41.0,Goubert Stéphane,40.0,Polti,17,1999,▲1
+30.0,131.0,17.0,42.0,Simon François,41.0,Credit agricole,17,1999,▲1
+27.0,93.0,17.0,43.0,Bessy Frédéric,42.0,Casino - AG2R,17,1999,▲1
+32.0,182.0,17.0,44.0,Andreu Frankie,43.0,US Postal Service,17,1999,▲1
+32.0,84.0,16.0,46.0,Durand Jacky,44.0,Lotto - Mobistar,17,1999,▲2
+24.0,176.0,16.0,45.0,Ljungqvist Marcus,45.0,Cantina Tollo - Alexia Alluminio,17,1999,-
+29.0,168.0,15.0,47.0,Peña Miguel Ángel,46.0,Banesto,17,1999,▲1
+26.0,121.0,15.0,48.0,Casero Ángel Luis,47.0,Vitalicio Seguros - Grupo Generali,17,1999,▲1
+32.0,22.0,15.0,49.0,Bolts Udo,48.0,Team Telekom,17,1999,▲1
+29.0,112.0,14.0,50.0,Castelblanco José Joaquin,49.0,Kelme - Costa Blanca,17,1999,▲1
+30.0,145.0,13.0,51.0,Jeker Fabian,50.0,Festina - Lotus,17,1999,▲1
+29.0,76.0,12.0,52.0,Meier Armin,51.0,Saeco - Cannondale,17,1999,▲1
+28.0,34.0,12.0,53.0,Fernandez Gines Manuel,52.0,Mapei - Quickstep,17,1999,▲1
+26.0,38.0,12.0,54.0,Nardello Daniele,53.0,Mapei - Quickstep,17,1999,▲1
+25.0,55.0,12.0,55.0,González Santos,54.0,O.N.C.E. - Deutsche Bank,17,1999,▲1
+34.0,33.0,11.0,56.0,Faresin Gianni,55.0,Mapei - Quickstep,17,1999,▲1
+24.0,73.0,11.0,57.0,Commesso Salvatore,56.0,Saeco - Cannondale,17,1999,▲1
+28.0,148.0,11.0,58.0,Moreau Christophe,57.0,Festina - Lotus,17,1999,▲1
+28.0,184.0,10.0,59.0,Hamilton Tyler,58.0,US Postal Service,17,1999,▲1
+28.0,28.0,9.0,60.0,Totschnig Georg,59.0,Team Telekom,17,1999,▲1
+25.0,56.0,8.0,61.0,Pérez Luis,60.0,O.N.C.E. - Deutsche Bank,17,1999,▲1
+27.0,118.0,7.0,62.0,Pascual Rodríguez Javier,61.0,Kelme - Costa Blanca,17,1999,▲1
+30.0,156.0,6.0,63.0,Mengin Christophe,62.0,La Française des Jeux,17,1999,▲1
+30.0,4.0,6.0,64.0,Farazijn Peter,63.0,Cofidis,17,1999,▲1
+28.0,49.0,6.0,65.0,Zberg Beat,64.0,Rabobank ProTeam,17,1999,▲1
+24.0,81.0,6.0,66.0,Aerts Mario,65.0,Lotto - Mobistar,17,1999,▲1
+23.0,106.0,6.0,67.0,Pinotti Marco,66.0,Lampre - Daikin - Colnago,17,1999,▲1
+23.0,146.0,6.0,68.0,Lefèvre Laurent,67.0,Festina - Lotus,17,1999,▲1
+26.0,101.0,6.0,69.0,Serpellini Marco,68.0,Lampre - Daikin - Colnago,17,1999,▲1
+27.0,122.0,5.0,,Aggiano Elio,69.0,Vitalicio Seguros - Grupo Generali,17,1999,-
+26.0,164.0,5.0,70.0,Garcia José Vicente,70.0,Banesto,17,1999,-
+25.0,158.0,5.0,71.0,Morin Anthony,71.0,La Française des Jeux,17,1999,-
+24.0,175.0,5.0,72.0,Giunti Massimo,72.0,Cantina Tollo - Alexia Alluminio,17,1999,-
+28.0,124.0,5.0,73.0,Cerezo Francisco,73.0,Vitalicio Seguros - Grupo Generali,17,1999,-
+29.0,17.0,5.0,74.0,Forconi Riccardo,74.0,Mercatone Uno - Bianchi,17,1999,-
+30.0,195.0,5.0,75.0,Gouvenou Thierry,75.0,BigMat - Auber 93,17,1999,-
+27.0,154.0,3.0,76.0,Guesdon Frédéric,76.0,La Française des Jeux,17,1999,-
+28.0,42.0,3.0,77.0,Dekker Erik,77.0,Rabobank ProTeam,17,1999,-
+32.0,147.0,3.0,78.0,Madouas Laurent,78.0,Festina - Lotus,17,1999,-
+25.0,45.0,3.0,79.0,Lotz Marc,79.0,Rabobank ProTeam,17,1999,-
+27.0,64.0,3.0,80.0,Crepaldi Mirco,80.0,Polti,17,1999,-
+25.0,134.0,3.0,81.0,Hinault Sébastien,81.0,Credit agricole,17,1999,-
+28.0,183.0,2.0,82.0,Derame Pascal,82.0,US Postal Service,17,1999,-
+25.0,99.0,2.0,83.0,Salmon Benoît,83.0,Casino - AG2R,17,1999,-
+28.0,137.0,1.0,84.0,Vasseur Cédric,84.0,Credit agricole,17,1999,-
+30.0,13.0,1.0,85.0,Barbero Sergio,85.0,Mercatone Uno - Bianchi,17,1999,-
+27.0,139.0,1.0,86.0,Voigt Jens,86.0,Credit agricole,17,1999,-
+23.0,188.0,1.0,87.0,Vande Velde Christian,87.0,US Postal Service,17,1999,-
+23.0,165.0,1.0,88.0,Mancebo Francisco,88.0,Banesto,17,1999,-
+29.0,69.0,273.0,1.0,Virenque Richard,1.0,Polti,18,1999,-
+35.0,23.0,226.0,2.0,Elli Alberto,2.0,Team Telekom,18,1999,-
+28.0,105.0,204.0,3.0,Piccoli Mariano,3.0,Lampre - Daikin - Colnago,18,1999,-
+31.0,111.0,194.0,4.0,Escartin Fernando,4.0,Kelme - Costa Blanca,18,1999,-
+31.0,161.0,152.0,6.0,Zülle Alex,6.0,Banesto,18,1999,-
+28.0,162.0,141.0,7.0,Arrieta José Luis,7.0,Banesto,18,1999,-
+30.0,74.0,141.0,8.0,Dufaux Laurent,8.0,Saeco - Cannondale,18,1999,-
+27.0,57.0,138.0,9.0,Peron Andrea,9.0,O.N.C.E. - Deutsche Bank,18,1999,-
+33.0,18.0,112.0,10.0,Konishev Dimitri,10.0,Mercatone Uno - Bianchi,18,1999,-
+27.0,86.0,112.0,11.0,van de Wouwer Kurt,11.0,Lotto - Mobistar,18,1999,-
+26.0,53.0,100.0,12.0,Etxebarria David,12.0,O.N.C.E. - Deutsche Bank,18,1999,-
+31.0,8.0,100.0,13.0,Meier Roland,13.0,Cofidis,18,1999,-
+27.0,179.0,91.0,14.0,Mondini Gianpaolo,14.0,Cantina Tollo - Alexia Alluminio,18,1999,-
+25.0,113.0,79.0,15.0,Contreras Carlos Alberto,15.0,Kelme - Costa Blanca,18,1999,-
+28.0,155.0,59.0,16.0,Heulot Stephane,16.0,La Française des Jeux,18,1999,-
+25.0,91.0,56.0,17.0,Vinokourov Alexandre,17.0,Casino - AG2R,18,1999,-
+28.0,141.0,50.0,18.0,Belli Wladimir,18.0,Festina - Lotus,18,1999,-
+29.0,24.0,48.0,19.0,Guerini Giuseppe,19.0,Team Telekom,18,1999,-
+25.0,115.0,48.0,20.0,Gomez Jose Javier,20.0,Kelme - Costa Blanca,18,1999,-
+31.0,142.0,47.0,21.0,Brochard Laurent,21.0,Festina - Lotus,18,1999,-
+23.0,125.0,47.0,22.0,García Francisco Tomas,22.0,Vitalicio Seguros - Grupo Generali,18,1999,-
+31.0,6.0,43.0,23.0,Lelli Massimiliano,23.0,Cofidis,18,1999,-
+28.0,167.0,42.0,24.0,Odriozola Jon,24.0,Banesto,18,1999,-
+30.0,35.0,40.0,25.0,Lanfranchi Paolo,25.0,Mapei - Quickstep,18,1999,-
+24.0,116.0,38.0,26.0,Otxoa Javier,26.0,Kelme - Costa Blanca,18,1999,-
+29.0,126.0,37.0,27.0,González de Galdeano Álvaro,27.0,Vitalicio Seguros - Grupo Generali,18,1999,-
+36.0,192.0,36.0,28.0,Bourguignon Thierry,28.0,BigMat - Auber 93,18,1999,-
+26.0,11.0,36.0,29.0,Garzelli Stefano,29.0,Mercatone Uno - Bianchi,18,1999,-
+26.0,186.0,35.0,30.0,Livingston Kevin,30.0,US Postal Service,18,1999,-
+23.0,2.0,34.0,31.0,De Wolf Steve,31.0,Cofidis,18,1999,-
+25.0,87.0,32.0,32.0,Verbrugghe Rik,32.0,Lotto - Mobistar,18,1999,-
+27.0,46.0,30.0,33.0,McEwen Robbie,33.0,Rabobank ProTeam,18,1999,-
+30.0,43.0,26.0,34.0,den Bakker Maarten,34.0,Rabobank ProTeam,18,1999,-
+29.0,51.0,25.0,35.0,Olano Abraham,35.0,O.N.C.E. - Deutsche Bank,18,1999,-
+27.0,93.0,22.0,42.0,Bessy Frédéric,36.0,Casino - AG2R,18,1999,▲6
+26.0,59.0,22.0,36.0,Serrano Marcos Antonio,37.0,O.N.C.E. - Deutsche Bank,18,1999,▼1
+27.0,196.0,21.0,37.0,Lebreton Lylian,38.0,BigMat - Auber 93,18,1999,▼1
+29.0,3.0,20.0,38.0,Desbiens Laurent,39.0,Cofidis,18,1999,▼1
+27.0,95.0,18.0,39.0,Gougot Fabrice,40.0,Casino - AG2R,18,1999,▼1
+29.0,65.0,18.0,40.0,Goubert Stéphane,41.0,Polti,18,1999,▼1
+30.0,131.0,17.0,41.0,Simon François,42.0,Credit agricole,18,1999,▼1
+32.0,182.0,17.0,43.0,Andreu Frankie,43.0,US Postal Service,18,1999,-
+32.0,84.0,16.0,44.0,Durand Jacky,44.0,Lotto - Mobistar,18,1999,-
+24.0,176.0,16.0,45.0,Ljungqvist Marcus,45.0,Cantina Tollo - Alexia Alluminio,18,1999,-
+29.0,168.0,15.0,46.0,Peña Miguel Ángel,46.0,Banesto,18,1999,-
+26.0,121.0,15.0,47.0,Casero Ángel Luis,47.0,Vitalicio Seguros - Grupo Generali,18,1999,-
+32.0,22.0,15.0,48.0,Bolts Udo,48.0,Team Telekom,18,1999,-
+29.0,112.0,14.0,49.0,Castelblanco José Joaquin,49.0,Kelme - Costa Blanca,18,1999,-
+30.0,145.0,13.0,50.0,Jeker Fabian,50.0,Festina - Lotus,18,1999,-
+29.0,76.0,12.0,51.0,Meier Armin,51.0,Saeco - Cannondale,18,1999,-
+28.0,34.0,12.0,52.0,Fernandez Gines Manuel,52.0,Mapei - Quickstep,18,1999,-
+26.0,38.0,12.0,53.0,Nardello Daniele,53.0,Mapei - Quickstep,18,1999,-
+25.0,55.0,12.0,54.0,González Santos,54.0,O.N.C.E. - Deutsche Bank,18,1999,-
+34.0,33.0,11.0,55.0,Faresin Gianni,55.0,Mapei - Quickstep,18,1999,-
+24.0,73.0,11.0,56.0,Commesso Salvatore,56.0,Saeco - Cannondale,18,1999,-
+28.0,148.0,11.0,57.0,Moreau Christophe,57.0,Festina - Lotus,18,1999,-
+28.0,184.0,10.0,58.0,Hamilton Tyler,58.0,US Postal Service,18,1999,-
+28.0,28.0,9.0,59.0,Totschnig Georg,59.0,Team Telekom,18,1999,-
+25.0,56.0,8.0,60.0,Pérez Luis,60.0,O.N.C.E. - Deutsche Bank,18,1999,-
+27.0,118.0,7.0,61.0,Pascual Rodríguez Javier,61.0,Kelme - Costa Blanca,18,1999,-
+30.0,156.0,6.0,62.0,Mengin Christophe,62.0,La Française des Jeux,18,1999,-
+30.0,4.0,6.0,63.0,Farazijn Peter,63.0,Cofidis,18,1999,-
+28.0,49.0,6.0,64.0,Zberg Beat,64.0,Rabobank ProTeam,18,1999,-
+24.0,81.0,6.0,65.0,Aerts Mario,65.0,Lotto - Mobistar,18,1999,-
+23.0,106.0,6.0,66.0,Pinotti Marco,66.0,Lampre - Daikin - Colnago,18,1999,-
+23.0,146.0,6.0,67.0,Lefèvre Laurent,67.0,Festina - Lotus,18,1999,-
+26.0,101.0,6.0,68.0,Serpellini Marco,68.0,Lampre - Daikin - Colnago,18,1999,-
+27.0,122.0,5.0,69.0,Aggiano Elio,69.0,Vitalicio Seguros - Grupo Generali,18,1999,-
+26.0,164.0,5.0,70.0,Garcia José Vicente,70.0,Banesto,18,1999,-
+25.0,158.0,5.0,71.0,Morin Anthony,71.0,La Française des Jeux,18,1999,-
+24.0,175.0,5.0,72.0,Giunti Massimo,72.0,Cantina Tollo - Alexia Alluminio,18,1999,-
+28.0,124.0,5.0,73.0,Cerezo Francisco,73.0,Vitalicio Seguros - Grupo Generali,18,1999,-
+29.0,17.0,5.0,74.0,Forconi Riccardo,74.0,Mercatone Uno - Bianchi,18,1999,-
+30.0,195.0,5.0,75.0,Gouvenou Thierry,75.0,BigMat - Auber 93,18,1999,-
+27.0,154.0,3.0,76.0,Guesdon Frédéric,76.0,La Française des Jeux,18,1999,-
+28.0,42.0,3.0,77.0,Dekker Erik,77.0,Rabobank ProTeam,18,1999,-
+32.0,147.0,3.0,78.0,Madouas Laurent,78.0,Festina - Lotus,18,1999,-
+25.0,45.0,3.0,79.0,Lotz Marc,79.0,Rabobank ProTeam,18,1999,-
+27.0,64.0,3.0,80.0,Crepaldi Mirco,80.0,Polti,18,1999,-
+25.0,134.0,3.0,81.0,Hinault Sébastien,81.0,Credit agricole,18,1999,-
+28.0,183.0,2.0,82.0,Derame Pascal,82.0,US Postal Service,18,1999,-
+25.0,99.0,2.0,83.0,Salmon Benoît,83.0,Casino - AG2R,18,1999,-
+29.0,151.0,1.0,,Robin Jean-Cyril,84.0,La Française des Jeux,18,1999,-
+28.0,137.0,1.0,84.0,Vasseur Cédric,85.0,Credit agricole,18,1999,▼1
+30.0,13.0,1.0,85.0,Barbero Sergio,86.0,Mercatone Uno - Bianchi,18,1999,▼1
+27.0,139.0,1.0,86.0,Voigt Jens,87.0,Credit agricole,18,1999,▼1
+23.0,188.0,1.0,87.0,Vande Velde Christian,88.0,US Postal Service,18,1999,▼1
+23.0,165.0,1.0,88.0,Mancebo Francisco,89.0,Banesto,18,1999,▼1
+29.0,69.0,273.0,1.0,Virenque Richard,1.0,Polti,19,1999,-
+35.0,23.0,226.0,2.0,Elli Alberto,2.0,Team Telekom,19,1999,-
+28.0,105.0,204.0,3.0,Piccoli Mariano,3.0,Lampre - Daikin - Colnago,19,1999,-
+31.0,111.0,194.0,4.0,Escartin Fernando,4.0,Kelme - Costa Blanca,19,1999,-
+31.0,161.0,152.0,6.0,Zülle Alex,6.0,Banesto,19,1999,-
+28.0,162.0,141.0,7.0,Arrieta José Luis,7.0,Banesto,19,1999,-
+30.0,74.0,141.0,8.0,Dufaux Laurent,8.0,Saeco - Cannondale,19,1999,-
+27.0,57.0,138.0,9.0,Peron Andrea,9.0,O.N.C.E. - Deutsche Bank,19,1999,-
+33.0,18.0,112.0,10.0,Konishev Dimitri,10.0,Mercatone Uno - Bianchi,19,1999,-
+27.0,86.0,112.0,11.0,van de Wouwer Kurt,11.0,Lotto - Mobistar,19,1999,-
+26.0,53.0,100.0,12.0,Etxebarria David,12.0,O.N.C.E. - Deutsche Bank,19,1999,-
+31.0,8.0,100.0,13.0,Meier Roland,13.0,Cofidis,19,1999,-
+27.0,179.0,91.0,14.0,Mondini Gianpaolo,14.0,Cantina Tollo - Alexia Alluminio,19,1999,-
+25.0,113.0,79.0,15.0,Contreras Carlos Alberto,15.0,Kelme - Costa Blanca,19,1999,-
+28.0,155.0,59.0,16.0,Heulot Stephane,16.0,La Française des Jeux,19,1999,-
+25.0,91.0,56.0,17.0,Vinokourov Alexandre,17.0,Casino - AG2R,19,1999,-
+28.0,141.0,50.0,18.0,Belli Wladimir,18.0,Festina - Lotus,19,1999,-
+29.0,24.0,48.0,19.0,Guerini Giuseppe,19.0,Team Telekom,19,1999,-
+25.0,115.0,48.0,20.0,Gomez Jose Javier,20.0,Kelme - Costa Blanca,19,1999,-
+31.0,142.0,47.0,21.0,Brochard Laurent,21.0,Festina - Lotus,19,1999,-
+23.0,125.0,47.0,22.0,García Francisco Tomas,22.0,Vitalicio Seguros - Grupo Generali,19,1999,-
+31.0,6.0,43.0,23.0,Lelli Massimiliano,23.0,Cofidis,19,1999,-
+28.0,167.0,42.0,24.0,Odriozola Jon,24.0,Banesto,19,1999,-
+30.0,35.0,40.0,25.0,Lanfranchi Paolo,25.0,Mapei - Quickstep,19,1999,-
+24.0,116.0,38.0,26.0,Otxoa Javier,26.0,Kelme - Costa Blanca,19,1999,-
+29.0,126.0,37.0,27.0,González de Galdeano Álvaro,27.0,Vitalicio Seguros - Grupo Generali,19,1999,-
+36.0,192.0,36.0,28.0,Bourguignon Thierry,28.0,BigMat - Auber 93,19,1999,-
+26.0,11.0,36.0,29.0,Garzelli Stefano,29.0,Mercatone Uno - Bianchi,19,1999,-
+26.0,186.0,35.0,30.0,Livingston Kevin,30.0,US Postal Service,19,1999,-
+23.0,2.0,34.0,31.0,De Wolf Steve,31.0,Cofidis,19,1999,-
+25.0,87.0,32.0,32.0,Verbrugghe Rik,32.0,Lotto - Mobistar,19,1999,-
+27.0,46.0,30.0,33.0,McEwen Robbie,33.0,Rabobank ProTeam,19,1999,-
+30.0,43.0,26.0,34.0,den Bakker Maarten,34.0,Rabobank ProTeam,19,1999,-
+29.0,51.0,25.0,35.0,Olano Abraham,35.0,O.N.C.E. - Deutsche Bank,19,1999,-
+27.0,93.0,22.0,36.0,Bessy Frédéric,36.0,Casino - AG2R,19,1999,-
+26.0,59.0,22.0,37.0,Serrano Marcos Antonio,37.0,O.N.C.E. - Deutsche Bank,19,1999,-
+27.0,196.0,21.0,38.0,Lebreton Lylian,38.0,BigMat - Auber 93,19,1999,-
+29.0,3.0,20.0,39.0,Desbiens Laurent,39.0,Cofidis,19,1999,-
+27.0,95.0,18.0,40.0,Gougot Fabrice,40.0,Casino - AG2R,19,1999,-
+29.0,65.0,18.0,41.0,Goubert Stéphane,41.0,Polti,19,1999,-
+30.0,131.0,17.0,42.0,Simon François,42.0,Credit agricole,19,1999,-
+32.0,182.0,17.0,43.0,Andreu Frankie,43.0,US Postal Service,19,1999,-
+32.0,84.0,16.0,44.0,Durand Jacky,44.0,Lotto - Mobistar,19,1999,-
+24.0,176.0,16.0,45.0,Ljungqvist Marcus,45.0,Cantina Tollo - Alexia Alluminio,19,1999,-
+29.0,168.0,15.0,46.0,Peña Miguel Ángel,46.0,Banesto,19,1999,-
+26.0,121.0,15.0,47.0,Casero Ángel Luis,47.0,Vitalicio Seguros - Grupo Generali,19,1999,-
+32.0,22.0,15.0,48.0,Bolts Udo,48.0,Team Telekom,19,1999,-
+29.0,112.0,14.0,49.0,Castelblanco José Joaquin,49.0,Kelme - Costa Blanca,19,1999,-
+30.0,145.0,13.0,50.0,Jeker Fabian,50.0,Festina - Lotus,19,1999,-
+29.0,76.0,12.0,51.0,Meier Armin,51.0,Saeco - Cannondale,19,1999,-
+28.0,34.0,12.0,52.0,Fernandez Gines Manuel,52.0,Mapei - Quickstep,19,1999,-
+26.0,38.0,12.0,53.0,Nardello Daniele,53.0,Mapei - Quickstep,19,1999,-
+25.0,55.0,12.0,54.0,González Santos,54.0,O.N.C.E. - Deutsche Bank,19,1999,-
+34.0,33.0,11.0,55.0,Faresin Gianni,55.0,Mapei - Quickstep,19,1999,-
+24.0,73.0,11.0,56.0,Commesso Salvatore,56.0,Saeco - Cannondale,19,1999,-
+28.0,148.0,11.0,57.0,Moreau Christophe,57.0,Festina - Lotus,19,1999,-
+28.0,184.0,10.0,58.0,Hamilton Tyler,58.0,US Postal Service,19,1999,-
+28.0,28.0,9.0,59.0,Totschnig Georg,59.0,Team Telekom,19,1999,-
+25.0,56.0,8.0,60.0,Pérez Luis,60.0,O.N.C.E. - Deutsche Bank,19,1999,-
+27.0,118.0,7.0,61.0,Pascual Rodríguez Javier,61.0,Kelme - Costa Blanca,19,1999,-
+30.0,156.0,6.0,62.0,Mengin Christophe,62.0,La Française des Jeux,19,1999,-
+30.0,4.0,6.0,63.0,Farazijn Peter,63.0,Cofidis,19,1999,-
+28.0,49.0,6.0,64.0,Zberg Beat,64.0,Rabobank ProTeam,19,1999,-
+24.0,81.0,6.0,65.0,Aerts Mario,65.0,Lotto - Mobistar,19,1999,-
+23.0,106.0,6.0,66.0,Pinotti Marco,66.0,Lampre - Daikin - Colnago,19,1999,-
+23.0,146.0,6.0,67.0,Lefèvre Laurent,67.0,Festina - Lotus,19,1999,-
+26.0,101.0,6.0,68.0,Serpellini Marco,68.0,Lampre - Daikin - Colnago,19,1999,-
+27.0,122.0,5.0,69.0,Aggiano Elio,69.0,Vitalicio Seguros - Grupo Generali,19,1999,-
+26.0,164.0,5.0,70.0,Garcia José Vicente,70.0,Banesto,19,1999,-
+25.0,158.0,5.0,71.0,Morin Anthony,71.0,La Française des Jeux,19,1999,-
+24.0,175.0,5.0,72.0,Giunti Massimo,72.0,Cantina Tollo - Alexia Alluminio,19,1999,-
+28.0,124.0,5.0,73.0,Cerezo Francisco,73.0,Vitalicio Seguros - Grupo Generali,19,1999,-
+29.0,17.0,5.0,74.0,Forconi Riccardo,74.0,Mercatone Uno - Bianchi,19,1999,-
+30.0,195.0,5.0,75.0,Gouvenou Thierry,75.0,BigMat - Auber 93,19,1999,-
+27.0,154.0,3.0,76.0,Guesdon Frédéric,76.0,La Française des Jeux,19,1999,-
+28.0,42.0,3.0,77.0,Dekker Erik,77.0,Rabobank ProTeam,19,1999,-
+32.0,147.0,3.0,78.0,Madouas Laurent,78.0,Festina - Lotus,19,1999,-
+25.0,45.0,3.0,79.0,Lotz Marc,79.0,Rabobank ProTeam,19,1999,-
+27.0,64.0,3.0,80.0,Crepaldi Mirco,80.0,Polti,19,1999,-
+25.0,134.0,3.0,81.0,Hinault Sébastien,81.0,Credit agricole,19,1999,-
+28.0,183.0,2.0,82.0,Derame Pascal,82.0,US Postal Service,19,1999,-
+25.0,99.0,2.0,83.0,Salmon Benoît,83.0,Casino - AG2R,19,1999,-
+29.0,151.0,1.0,84.0,Robin Jean-Cyril,84.0,La Française des Jeux,19,1999,-
+28.0,137.0,1.0,85.0,Vasseur Cédric,85.0,Credit agricole,19,1999,-
+30.0,13.0,1.0,86.0,Barbero Sergio,86.0,Mercatone Uno - Bianchi,19,1999,-
+27.0,139.0,1.0,87.0,Voigt Jens,87.0,Credit agricole,19,1999,-
+23.0,188.0,1.0,88.0,Vande Velde Christian,88.0,US Postal Service,19,1999,-
+23.0,165.0,1.0,89.0,Mancebo Francisco,89.0,Banesto,19,1999,-
+29.0,69.0,279.0,1.0,Virenque Richard,1.0,Polti,20,1999,-
+35.0,23.0,226.0,2.0,Elli Alberto,2.0,Team Telekom,20,1999,-
+28.0,105.0,205.0,3.0,Piccoli Mariano,3.0,Lampre - Daikin - Colnago,20,1999,-
+31.0,111.0,194.0,4.0,Escartin Fernando,4.0,Kelme - Costa Blanca,20,1999,-
+31.0,161.0,152.0,6.0,Zülle Alex,6.0,Banesto,20,1999,-
+28.0,162.0,141.0,7.0,Arrieta José Luis,7.0,Banesto,20,1999,-
+30.0,74.0,141.0,8.0,Dufaux Laurent,8.0,Saeco - Cannondale,20,1999,-
+27.0,57.0,138.0,9.0,Peron Andrea,9.0,O.N.C.E. - Deutsche Bank,20,1999,-
+27.0,86.0,117.0,11.0,van de Wouwer Kurt,10.0,Lotto - Mobistar,20,1999,▲1
+33.0,18.0,112.0,10.0,Konishev Dimitri,11.0,Mercatone Uno - Bianchi,20,1999,▼1
+26.0,53.0,100.0,12.0,Etxebarria David,12.0,O.N.C.E. - Deutsche Bank,20,1999,-
+31.0,8.0,100.0,13.0,Meier Roland,13.0,Cofidis,20,1999,-
+27.0,179.0,91.0,14.0,Mondini Gianpaolo,14.0,Cantina Tollo - Alexia Alluminio,20,1999,-
+25.0,113.0,79.0,15.0,Contreras Carlos Alberto,15.0,Kelme - Costa Blanca,20,1999,-
+28.0,155.0,59.0,16.0,Heulot Stephane,16.0,La Française des Jeux,20,1999,-
+25.0,91.0,56.0,17.0,Vinokourov Alexandre,17.0,Casino - AG2R,20,1999,-
+29.0,141.0,50.0,18.0,Belli Wladimir,18.0,Festina - Lotus,20,1999,-
+29.0,24.0,48.0,19.0,Guerini Giuseppe,19.0,Team Telekom,20,1999,-
+25.0,115.0,48.0,20.0,Gomez Jose Javier,20.0,Kelme - Costa Blanca,20,1999,-
+31.0,142.0,47.0,21.0,Brochard Laurent,21.0,Festina - Lotus,20,1999,-
+23.0,125.0,47.0,22.0,García Francisco Tomas,22.0,Vitalicio Seguros - Grupo Generali,20,1999,-
+31.0,6.0,43.0,23.0,Lelli Massimiliano,23.0,Cofidis,20,1999,-
+28.0,167.0,42.0,24.0,Odriozola Jon,24.0,Banesto,20,1999,-
+31.0,35.0,40.0,25.0,Lanfranchi Paolo,25.0,Mapei - Quickstep,20,1999,-
+24.0,116.0,38.0,26.0,Otxoa Javier,26.0,Kelme - Costa Blanca,20,1999,-
+29.0,126.0,37.0,27.0,González de Galdeano Álvaro,27.0,Vitalicio Seguros - Grupo Generali,20,1999,-
+36.0,192.0,36.0,28.0,Bourguignon Thierry,28.0,BigMat - Auber 93,20,1999,-
+26.0,11.0,36.0,29.0,Garzelli Stefano,29.0,Mercatone Uno - Bianchi,20,1999,-
+26.0,186.0,35.0,30.0,Livingston Kevin,30.0,US Postal Service,20,1999,-
+23.0,2.0,34.0,31.0,De Wolf Steve,31.0,Cofidis,20,1999,-
+25.0,87.0,32.0,32.0,Verbrugghe Rik,32.0,Lotto - Mobistar,20,1999,-
+27.0,46.0,30.0,33.0,McEwen Robbie,33.0,Rabobank ProTeam,20,1999,-
+30.0,43.0,26.0,34.0,den Bakker Maarten,34.0,Rabobank ProTeam,20,1999,-
+29.0,51.0,25.0,35.0,Olano Abraham,35.0,O.N.C.E. - Deutsche Bank,20,1999,-
+27.0,93.0,22.0,36.0,Bessy Frédéric,36.0,Casino - AG2R,20,1999,-
+26.0,59.0,22.0,37.0,Serrano Marcos Antonio,37.0,O.N.C.E. - Deutsche Bank,20,1999,-
+27.0,196.0,21.0,38.0,Lebreton Lylian,38.0,BigMat - Auber 93,20,1999,-
+29.0,3.0,20.0,39.0,Desbiens Laurent,39.0,Cofidis,20,1999,-
+27.0,95.0,18.0,40.0,Gougot Fabrice,40.0,Casino - AG2R,20,1999,-
+29.0,65.0,18.0,41.0,Goubert Stéphane,41.0,Polti,20,1999,-
+30.0,131.0,17.0,42.0,Simon François,42.0,Credit agricole,20,1999,-
+32.0,182.0,17.0,43.0,Andreu Frankie,43.0,US Postal Service,20,1999,-
+32.0,84.0,16.0,44.0,Durand Jacky,44.0,Lotto - Mobistar,20,1999,-
+24.0,176.0,16.0,45.0,Ljungqvist Marcus,45.0,Cantina Tollo - Alexia Alluminio,20,1999,-
+29.0,168.0,15.0,46.0,Peña Miguel Ángel,46.0,Banesto,20,1999,-
+26.0,121.0,15.0,47.0,Casero Ángel Luis,47.0,Vitalicio Seguros - Grupo Generali,20,1999,-
+32.0,22.0,15.0,48.0,Bolts Udo,48.0,Team Telekom,20,1999,-
+29.0,112.0,14.0,49.0,Castelblanco José Joaquin,49.0,Kelme - Costa Blanca,20,1999,-
+30.0,145.0,13.0,50.0,Jeker Fabian,50.0,Festina - Lotus,20,1999,-
+23.0,106.0,12.0,66.0,Pinotti Marco,51.0,Lampre - Daikin - Colnago,20,1999,▲15
+29.0,76.0,12.0,51.0,Meier Armin,52.0,Saeco - Cannondale,20,1999,▼1
+28.0,34.0,12.0,52.0,Fernandez Gines Manuel,53.0,Mapei - Quickstep,20,1999,▼1
+26.0,38.0,12.0,53.0,Nardello Daniele,54.0,Mapei - Quickstep,20,1999,▼1
+25.0,55.0,12.0,54.0,González Santos,55.0,O.N.C.E. - Deutsche Bank,20,1999,▼1
+34.0,33.0,11.0,55.0,Faresin Gianni,56.0,Mapei - Quickstep,20,1999,▼1
+24.0,73.0,11.0,56.0,Commesso Salvatore,57.0,Saeco - Cannondale,20,1999,▼1
+28.0,148.0,11.0,57.0,Moreau Christophe,58.0,Festina - Lotus,20,1999,▼1
+28.0,184.0,10.0,58.0,Hamilton Tyler,59.0,US Postal Service,20,1999,▼1
+28.0,28.0,9.0,59.0,Totschnig Georg,60.0,Team Telekom,20,1999,▼1
+25.0,56.0,8.0,60.0,Pérez Luis,61.0,O.N.C.E. - Deutsche Bank,20,1999,▼1
+27.0,118.0,7.0,61.0,Pascual Rodríguez Javier,62.0,Kelme - Costa Blanca,20,1999,▼1
+30.0,156.0,6.0,62.0,Mengin Christophe,63.0,La Française des Jeux,20,1999,▼1
+30.0,4.0,6.0,63.0,Farazijn Peter,64.0,Cofidis,20,1999,▼1
+28.0,49.0,6.0,64.0,Zberg Beat,65.0,Rabobank ProTeam,20,1999,▼1
+24.0,81.0,6.0,65.0,Aerts Mario,66.0,Lotto - Mobistar,20,1999,▼1
+23.0,146.0,6.0,67.0,Lefèvre Laurent,67.0,Festina - Lotus,20,1999,-
+26.0,101.0,6.0,68.0,Serpellini Marco,68.0,Lampre - Daikin - Colnago,20,1999,-
+27.0,122.0,5.0,69.0,Aggiano Elio,69.0,Vitalicio Seguros - Grupo Generali,20,1999,-
+26.0,164.0,5.0,70.0,Garcia José Vicente,70.0,Banesto,20,1999,-
+25.0,158.0,5.0,71.0,Morin Anthony,71.0,La Française des Jeux,20,1999,-
+24.0,175.0,5.0,72.0,Giunti Massimo,72.0,Cantina Tollo - Alexia Alluminio,20,1999,-
+28.0,124.0,5.0,73.0,Cerezo Francisco,73.0,Vitalicio Seguros - Grupo Generali,20,1999,-
+29.0,17.0,5.0,74.0,Forconi Riccardo,74.0,Mercatone Uno - Bianchi,20,1999,-
+30.0,195.0,5.0,75.0,Gouvenou Thierry,75.0,BigMat - Auber 93,20,1999,-
+27.0,154.0,3.0,76.0,Guesdon Frédéric,76.0,La Française des Jeux,20,1999,-
+28.0,42.0,3.0,77.0,Dekker Erik,77.0,Rabobank ProTeam,20,1999,-
+32.0,147.0,3.0,78.0,Madouas Laurent,78.0,Festina - Lotus,20,1999,-
+25.0,45.0,3.0,79.0,Lotz Marc,79.0,Rabobank ProTeam,20,1999,-
+27.0,64.0,3.0,80.0,Crepaldi Mirco,80.0,Polti,20,1999,-
+25.0,134.0,3.0,81.0,Hinault Sébastien,81.0,Credit agricole,20,1999,-
+29.0,183.0,2.0,82.0,Derame Pascal,82.0,US Postal Service,20,1999,-
+25.0,99.0,2.0,83.0,Salmon Benoît,83.0,Casino - AG2R,20,1999,-
+29.0,151.0,1.0,84.0,Robin Jean-Cyril,84.0,La Française des Jeux,20,1999,-
+28.0,137.0,1.0,85.0,Vasseur Cédric,85.0,Credit agricole,20,1999,-
+30.0,13.0,1.0,86.0,Barbero Sergio,86.0,Mercatone Uno - Bianchi,20,1999,-
+27.0,139.0,1.0,87.0,Voigt Jens,87.0,Credit agricole,20,1999,-
+23.0,188.0,1.0,88.0,Vande Velde Christian,88.0,US Postal Service,20,1999,-
+23.0,165.0,1.0,89.0,Mancebo Francisco,89.0,Banesto,20,1999,-

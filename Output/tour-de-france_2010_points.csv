@@ -1,0 +1,2771 @@
+Age,BIB,Pnt,Prev,Rider,Rnk,Team,stage,year,▼▲
+29,13,15.0,,Cancellara Fabian,1,Saxo Bank,0,2010,
+25,115,12.0,,Martin Tony,2,Team HTC - Columbia,0,2010,
+33,57,10.0,,Millar David,3,Team Garmin - Transitions,0,2010,
+38,21,8.0,,Armstrong Lance,4,RadioShack,0,2010,
+24,39,6.0,,Thomas Geraint,5,Sky Procycling,0,2010,
+27,1,,,Contador Alberto,6*,Astana,0,2010,
+26,53,5.0,,Farrar Tyler,6,Team Garmin - Transitions,0,2010,
+36,25,4.0,,Leipheimer Levi,7,RadioShack,0,2010,
+23,36,3.0,,Boasson Hagen Edvald,8,Sky Procycling,0,2010,
+27,141,2.0,,Gerdemann Linus,9,Milram,0,2010,
+36,208,35.0,,Petacchi Alessandro,1,Lampre - Farnese Vini,1,2010,-
+27,117,30.0,,Renshaw Mark,2,Team HTC - Columbia,1,2010,-
+32,95,26.0,,Hushovd Thor,3,Cervelo Test Team,1,2010,-
+38,75,24.0,,McEwen Robbie,4,Team Katusha,1,2010,-
+25,65,22.0,,Ladagnous Matthieu,5,Francaise des Jeux,1,2010,-
+23,46,20.0,,Oss Daniel,6,Liquigas - Doimo,1,2010,-
+25,169,19.0,,Rojas José Joaquín,7,Caisse d'Epargne,1,2010,-
+29,145,18.0,,Knees Christian,8,Milram,1,2010,-
+24,39,17.0,5,Thomas Geraint,9,Sky Procycling,1,2010,▼4
+28,186,17.0,,Pérez Rubén,10,Euskaltel - Euskadi,1,2010,-
+25,108,16.0,,Roelandts Jürgen,11,Omega Pharma-Lotto,1,2010,-
+29,13,15.0,1,Cancellara Fabian,12,Saxo Bank,1,2010,▼11
+27,141,15.0,9,Gerdemann Linus,13,Milram,1,2010,▼4
+26,158,15.0,,Turgot Sébastien,14,Bbox Bouygues Telecom,1,2010,-
+27,185,14.0,,Pérez Alan,15,Euskaltel - Euskadi,1,2010,-
+25,174,13.0,,El Fares Julien,16,"Cofidis, le Crédit en Ligne",1,2010,-
+24,192,12.0,,Boom Lars,17,Rabobank ProTeam,1,2010,-
+25,115,12.0,2,Martin Tony,18,Team HTC - Columbia,1,2010,▼16
+33,146,12.0,,Roberts Luke,19,Milram,1,2010,-
+28,139,10.0,,Wynants Maarten,20,Quickstep - Innergetic,1,2010,-
+33,57,10.0,3,Millar David,21,Team Garmin - Transitions,1,2010,▼18
+23,36,10.0,8,Boasson Hagen Edvald,22,Sky Procycling,1,2010,▼14
+27,119,10.0,,Siutsou Kanstantsin,23,Team HTC - Columbia,1,2010,-
+31,131,9.0,,Chavanel Sylvain,24,Quickstep - Innergetic,1,2010,-
+38,21,8.0,4,Armstrong Lance,25,RadioShack,1,2010,▼21
+29,132,,,Barredo Carlos,26*,Quickstep - Innergetic,1,2010,-
+34,32,7.0,,Barry Michael,26,Sky Procycling,1,2010,-
+27,1,,6*,Contador Alberto,28*,Astana,1,2010,-
+29,173,6.0,,Dumoulin Samuel,27,"Cofidis, le Crédit en Ligne",1,2010,-
+26,53,5.0,6,Farrar Tyler,28,Team Garmin - Transitions,1,2010,▼22
+28,176,5.0,,Minard Sébastien,29,"Cofidis, le Crédit en Ligne",1,2010,-
+36,25,4.0,7,Leipheimer Levi,30,RadioShack,1,2010,▼23
+28,133,4.0,,De Weert Kevin,31,Quickstep - Innergetic,1,2010,-
+25,143,3.0,,Fröhlinger Johannes,32,Milram,1,2010,-
+27,79,3.0,,Vorganov Eduard,33,Team Katusha,1,2010,-
+31,131,44.0,24,Chavanel Sylvain,1,Quickstep - Innergetic,2,2010,▲23
+36,208,35.0,1,Petacchi Alessandro,2,Lampre - Farnese Vini,2,2010,▼1
+25,108,34.0,11,Roelandts Jürgen,3,Omega Pharma-Lotto,2,2010,▲8
+27,117,30.0,2,Renshaw Mark,4,Team HTC - Columbia,2,2010,▼2
+32,95,26.0,3,Hushovd Thor,5,Cervelo Test Team,2,2010,▼2
+38,75,24.0,4,McEwen Robbie,6,Team Katusha,2,2010,▼2
+25,65,22.0,5,Ladagnous Matthieu,7,Francaise des Jeux,2,2010,▼2
+23,46,20.0,6,Oss Daniel,8,Liquigas - Doimo,2,2010,▼2
+25,169,19.0,7,Rojas José Joaquín,9,Caisse d'Epargne,2,2010,▼2
+26,158,19.0,14,Turgot Sébastien,10,Bbox Bouygues Telecom,2,2010,▲4
+29,145,18.0,8,Knees Christian,11,Milram,2,2010,▼3
+24,39,17.0,9,Thomas Geraint,12,Sky Procycling,2,2010,▼3
+28,186,17.0,10,Pérez Rubén,13,Euskaltel - Euskadi,2,2010,▼3
+29,13,15.0,12,Cancellara Fabian,14,Saxo Bank,2,2010,▼2
+27,141,15.0,13,Gerdemann Linus,15,Milram,2,2010,▼2
+27,185,14.0,15,Pérez Alan,16,Euskaltel - Euskadi,2,2010,▼1
+25,174,13.0,16,El Fares Julien,17,"Cofidis, le Crédit en Ligne",2,2010,▼1
+24,192,12.0,17,Boom Lars,18,Rabobank ProTeam,2,2010,▼1
+25,115,12.0,18,Martin Tony,19,Team HTC - Columbia,2,2010,▼1
+33,146,12.0,19,Roberts Luke,20,Milram,2,2010,▼1
+28,139,10.0,20,Wynants Maarten,21,Quickstep - Innergetic,2,2010,▼1
+33,57,10.0,21,Millar David,22,Team Garmin - Transitions,2,2010,▼1
+23,36,10.0,22,Boasson Hagen Edvald,23,Sky Procycling,2,2010,▼1
+27,119,10.0,23,Siutsou Kanstantsin,24,Team HTC - Columbia,2,2010,▼1
+38,21,8.0,25,Armstrong Lance,25,RadioShack,2,2010,-
+29,132,,26*,Barredo Carlos,26*,Quickstep - Innergetic,2,2010,-
+34,32,7.0,26,Barry Michael,26,Sky Procycling,2,2010,-
+27,1,,28*,Contador Alberto,28*,Astana,2,2010,-
+29,173,6.0,27,Dumoulin Samuel,27,"Cofidis, le Crédit en Ligne",2,2010,-
+28,176,5.0,29,Minard Sébastien,28,"Cofidis, le Crédit en Ligne",2,2010,▲1
+26,53,5.0,28,Farrar Tyler,29,Team Garmin - Transitions,2,2010,▼1
+36,25,4.0,30,Leipheimer Levi,30,RadioShack,2,2010,-
+28,133,4.0,31,De Weert Kevin,31,Quickstep - Innergetic,2,2010,-
+27,116,3.0,,Monfort Maxime,32,Team HTC - Columbia,2,2010,-
+25,143,3.0,32,Fröhlinger Johannes,33,Milram,2,2010,▼1
+25,204,2.0,,Gavazzi Francesco,34,Lampre - Farnese Vini,2,2010,-
+27,79,2.0,33,Vorganov Eduard,35,Team Katusha,2,2010,▼2
+32,95,63.0,5,Hushovd Thor,1,Cervelo Test Team,3,2010,▲4
+24,39,49.0,12,Thomas Geraint,2,Sky Procycling,3,2010,▲10
+31,131,44.0,1,Chavanel Sylvain,3,Quickstep - Innergetic,3,2010,▼2
+38,75,38.0,6,McEwen Robbie,4,Team Katusha,3,2010,▲2
+29,13,37.0,14,Cancellara Fabian,5,Saxo Bank,3,2010,▲9
+25,108,36.0,3,Roelandts Jürgen,6,Omega Pharma-Lotto,3,2010,▼3
+36,208,35.0,2,Petacchi Alessandro,7,Lampre - Farnese Vini,3,2010,▼5
+29,54,30.0,,Hesjedal Ryder,8,Team Garmin - Transitions,3,2010,-
+25,169,30.0,9,Rojas José Joaquín,9,Caisse d'Epargne,3,2010,-
+27,117,30.0,4,Renshaw Mark,10,Team HTC - Columbia,3,2010,▼6
+33,121,28.0,,Evans Cadel,11,BMC Racing Team,3,2010,-
+25,11,24.0,,Schleck Andy,12,Saxo Bank,3,2010,-
+25,65,24.0,7,Ladagnous Matthieu,13,Francaise des Jeux,3,2010,▼6
+23,46,22.0,8,Oss Daniel,14,Liquigas - Doimo,3,2010,▼6
+29,58,21.0,,Vansummeren Johan,15,Team Garmin - Transitions,3,2010,-
+27,1,,28*,Contador Alberto,16*,Astana,3,2010,-
+30,31,20.0,,Wiggins Bradley,16,Sky Procycling,3,2010,-
+29,145,20.0,11,Knees Christian,17,Milram,3,2010,▼6
+27,101,20.0,,Van den Broeck Jurgen,18,Omega Pharma-Lotto,3,2010,-
+26,158,19.0,10,Turgot Sébastien,19,Bbox Bouygues Telecom,3,2010,▼9
+28,186,19.0,13,Pérez Rubén,20,Euskaltel - Euskadi,3,2010,▼7
+24,144,19.0,,Kluge Roger,21,Milram,3,2010,-
+36,9,18.0,,Vinokourov Alexandre,22,Astana,3,2010,-
+32,191,,,Menchov Denis,24*,Rabobank ProTeam,3,2010,-
+33,57,18.0,22,Millar David,23,Team Garmin - Transitions,3,2010,▼1
+27,141,17.0,15,Gerdemann Linus,24,Milram,3,2010,▼9
+26,81,17.0,,Roche Nicolas,25,AG2R La Mondiale,3,2010,-
+25,174,17.0,17,El Fares Julien,26,"Cofidis, le Crédit en Ligne",3,2010,▼9
+27,185,16.0,16,Pérez Alan,27,Euskaltel - Euskadi,3,2010,▼11
+25,115,15.0,19,Martin Tony,28,Team HTC - Columbia,3,2010,▼9
+33,146,14.0,20,Roberts Luke,29,Milram,3,2010,▼9
+28,139,14.0,21,Wynants Maarten,30,Quickstep - Innergetic,3,2010,▼9
+24,192,14.0,18,Boom Lars,31,Rabobank ProTeam,3,2010,▼13
+24,214,12.0,,Durán Arkaitz,32,Footon-Servetto,3,2010,-
+23,36,12.0,23,Boasson Hagen Edvald,33,Sky Procycling,3,2010,▼10
+27,119,12.0,24,Siutsou Kanstantsin,34,Team HTC - Columbia,3,2010,▼10
+35,102,12.0,,Aerts Mario,35,Omega Pharma-Lotto,3,2010,-
+26,161,12.0,,Sánchez Luis León,36,Caisse d'Epargne,3,2010,-
+38,21,11.0,25,Armstrong Lance,37,RadioShack,3,2010,▼12
+24,44,10.0,,Kreuziger Roman,38,Liquigas - Doimo,3,2010,-
+29,132,,26*,Barredo Carlos,41*,Quickstep - Innergetic,3,2010,-
+26,37,10.0,,Löfkvist Thomas,39,Sky Procycling,3,2010,-
+34,32,9.0,26,Barry Michael,40,Sky Procycling,3,2010,▼14
+28,176,9.0,28,Minard Sébastien,41,"Cofidis, le Crédit en Ligne",3,2010,▼13
+23,156,8.0,,Rolland Pierre,42,Bbox Bouygues Telecom,3,2010,-
+36,25,8.0,30,Leipheimer Levi,43,RadioShack,3,2010,▼13
+28,133,7.0,31,De Weert Kevin,44,Quickstep - Innergetic,3,2010,▼13
+29,173,6.0,27,Dumoulin Samuel,45,"Cofidis, le Crédit en Ligne",3,2010,▼18
+27,116,5.0,32,Monfort Maxime,46,Team HTC - Columbia,3,2010,▼14
+26,38,5.0,,Pauwels Serge,47,Sky Procycling,3,2010,-
+29,33,5.0,,Cummings Steve,48,Sky Procycling,3,2010,-
+26,163,4.0,,Erviti Imanol,49,Caisse d'Epargne,3,2010,-
+25,143,4.0,33,Fröhlinger Johannes,50,Milram,3,2010,▼17
+23,142,4.0,,Ciolek Gerald,51,Milram,3,2010,-
+26,53,4.0,29,Farrar Tyler,52,Team Garmin - Transitions,3,2010,▼23
+28,72,4.0,,Brutt Pavel,53,Team Katusha,3,2010,-
+27,79,4.0,35,Vorganov Eduard,54,Team Katusha,3,2010,▼19
+26,56,4.0,,Maaskant Martijn,55,Team Garmin - Transitions,3,2010,-
+25,14,4.0,,Fuglsang Jakob,56,Saxo Bank,3,2010,-
+26,22,3.0,,Brajkovič Janez,57,RadioShack,3,2010,-
+30,118,2.0,,Rogers Michael,58,Team HTC - Columbia,3,2010,-
+35,24,2.0,,Klöden Andreas,59,RadioShack,3,2010,-
+29,89,2.0,,Riblon Christophe,60,AG2R La Mondiale,3,2010,-
+31,198,2.0,,Tankink Bram,61,Rabobank ProTeam,3,2010,-
+32,181,2.0,,Sánchez Samuel,62,Euskaltel - Euskadi,3,2010,-
+26,3,2.0,,Grivko Andrey,63,Astana,3,2010,-
+29,71,2.0,,Karpets Vladimir,64,Team Katusha,3,2010,-
+23,43,2.0,,Koren Kristijan,65,Liquigas - Doimo,3,2010,-
+29,61,2.0,,Le Mével Christophe,66,Francaise des Jeux,3,2010,-
+23,162,2.0,,Costa Rui,67,Caisse d'Epargne,3,2010,-
+31,62,2.0,,Casar Sandy,68,Francaise des Jeux,3,2010,-
+34,197,2.0,,Niermann Grischa,69,Rabobank ProTeam,3,2010,-
+24,195,2.0,,Gesink Robert,70,Rabobank ProTeam,3,2010,-
+38,23,2.0,,Horner Chris,71,RadioShack,3,2010,-
+36,205,2.0,,Hondo Danilo,72,Lampre - Farnese Vini,3,2010,-
+34,194,2.0,,Garate Juan Manuel,73,Rabobank ProTeam,3,2010,-
+35,91,2.0,,Sastre Carlos,74,Cervelo Test Team,3,2010,-
+32,41,2.0,,Basso Ivan,75,Liquigas - Doimo,3,2010,-
+29,175,2.0,,Kern Christophe,76,"Cofidis, le Crédit en Ligne",3,2010,-
+31,164,2.0,,Gutiérrez José Iván,77,Caisse d'Epargne,3,2010,-
+28,107,2.0,,Moreno Daniel,78,Omega Pharma-Lotto,3,2010,-
+30,122,2.0,,Ballan Alessandro,79,BMC Racing Team,3,2010,-
+30,28,2.0,,Popovych Yaroslav,80,RadioShack,3,2010,-
+31,84,2.0,,Elmiger Martin,81,AG2R La Mondiale,3,2010,-
+28,179,2.0,,Pauriol Rémi,82,"Cofidis, le Crédit en Ligne",3,2010,-
+32,34,2.0,,Flecha Juan Antonio,83,Sky Procycling,3,2010,-
+31,85,2.0,,Gadret John,84,AG2R La Mondiale,3,2010,-
+31,77,2.0,,Rodríguez Joaquim,85,Team Katusha,3,2010,-
+31,7,2.0,,Noval Benjamin,86,Astana,3,2010,-
+22,155,2.0,,Gautier Cyril,87,Bbox Bouygues Telecom,3,2010,-
+34,127,2.0,,Kroon Karsten,88,BMC Racing Team,3,2010,-
+29,203,2.0,,Da Dalto Mauro,89,Lampre - Farnese Vini,3,2010,-
+29,5,2.0,,Iglinskiy Maxim,90,Astana,3,2010,-
+23,219,2.0,,Valls Rafael,91,Footon-Servetto,3,2010,-
+33,182,2.0,,Isasi Iñaki,92,Euskaltel - Euskadi,3,2010,-
+32,183,2.0,,Martínez Egoi,93,Euskaltel - Euskadi,3,2010,-
+33,93,2.0,,Gustov Volodymyr,94,Cervelo Test Team,3,2010,-
+25,152,2.0,,Arashiro Yukiya,95,Bbox Bouygues Telecom,3,2010,-
+29,74,2.0,,Kolobnev Alexandr,96,Team Katusha,3,2010,-
+31,151,2.0,,Voeckler Thomas,97,Bbox Bouygues Telecom,3,2010,-
+27,178,2.0,,Monier Damien,98,"Cofidis, le Crédit en Ligne",3,2010,-
+30,135,2.0,,Pineau Jérôme,99,Quickstep - Innergetic,3,2010,-
+23,76,2.0,,Pliuschin Alexandr,100,Team Katusha,3,2010,-
+30,45,2.0,,Kuschynski Aleksandr,101,Liquigas - Doimo,3,2010,-
+30,168,2.0,,Plaza Rubén,102,Caisse d'Epargne,3,2010,-
+26,78,2.0,,Vandenbergh Stijn,103,Team Katusha,3,2010,-
+39,166,2.0,,Moreau Christophe,104,Caisse d'Epargne,3,2010,-
+35,113,2.0,,Grabsch Bert,105,Team HTC - Columbia,3,2010,-
+32,159,2.0,,Vogondy Nicolas,106,Bbox Bouygues Telecom,3,2010,-
+27,147,2.0,,Rohregger Thomas,107,Milram,3,2010,-
+25,215,2.0,,Eibegger Markus,108,Footon-Servetto,3,2010,-
+31,154,2.0,,Fédrigo Pierrick,109,Bbox Bouygues Telecom,3,2010,-
+24,63,2.0,,Di Grégorio Rémy,110,Francaise des Jeux,3,2010,-
+30,149,2.0,,Wegmann Fabian,111,Milram,3,2010,-
+32,218,2.0,,Pérez Aitor,112,Footon-Servetto,3,2010,-
+26,123,2.0,,Bookwalter Brent,113,BMC Racing Team,3,2010,-
+30,35,2.0,,Gerrans Simon,114,Sky Procycling,3,2010,-
+31,189,2.0,,Verdugo Gorka,115,Euskaltel - Euskadi,3,2010,-
+31,153,2.0,,Charteau Anthony,116,Bbox Bouygues Telecom,3,2010,-
+29,112,2.0,,Eisel Bernhard,117,Team HTC - Columbia,3,2010,-
+34,193,2.0,,Freire Óscar,118,Rabobank ProTeam,3,2010,-
+28,157,2.0,,Sprick Matthieu,119,Bbox Bouygues Telecom,3,2010,-
+33,138,2.0,,van de Walle Jurgen,120,Quickstep - Innergetic,3,2010,-
+32,8,2.0,,Tiralongo Paolo,121,Astana,3,2010,-
+26,6,2.0,,Navarro Daniel,122,Astana,3,2010,-
+27,187,2.0,,Txurruka Amets,123,Euskaltel - Euskadi,3,2010,-
+32,88,2.0,,Nocentini Rinaldo,124,AG2R La Mondiale,3,2010,-
+30,188,2.0,,Velasco Iván,125,Euskaltel - Euskadi,3,2010,-
+36,94,2.0,,Hunt Jeremy,126,Cervelo Test Team,3,2010,-
+25,204,2.0,34,Gavazzi Francesco,127,Lampre - Farnese Vini,3,2010,▼93
+23,82,2.0,,Bouet Maxime,128,AG2R La Mondiale,3,2010,-
+30,42,2.0,,Bellotti Francesco,129,Liquigas - Doimo,3,2010,-
+27,136,2.0,,Reda Francesco,130,Quickstep - Innergetic,3,2010,-
+32,48,2.0,,Szmyd Sylwester,131,Liquigas - Doimo,3,2010,-
+25,167,2.0,,Perget Mathieu,132,Caisse d'Epargne,3,2010,-
+35,172,2.0,,Augé Stéphane,133,"Cofidis, le Crédit en Ligne",3,2010,-
+25,111,2.0,,Cavendish Mark,134,Team HTC - Columbia,3,2010,-
+32,95,80.0,1,Hushovd Thor,1,Cervelo Test Team,4,2010,-
+36,208,70.0,7,Petacchi Alessandro,2,Lampre - Farnese Vini,4,2010,▲5
+38,75,62.0,4,McEwen Robbie,3,Team Katusha,4,2010,▲1
+24,39,56.0,2,Thomas Geraint,4,Sky Procycling,4,2010,▼2
+25,169,49.0,9,Rojas José Joaquín,5,Caisse d'Epargne,4,2010,▲4
+31,131,44.0,3,Chavanel Sylvain,6,Quickstep - Innergetic,4,2010,▼3
+23,46,40.0,14,Oss Daniel,7,Liquigas - Doimo,4,2010,▲7
+26,158,39.0,19,Turgot Sébastien,8,Bbox Bouygues Telecom,4,2010,▲11
+33,121,38.0,11,Evans Cadel,9,BMC Racing Team,4,2010,▲2
+23,36,38.0,33,Boasson Hagen Edvald,10,Sky Procycling,4,2010,▲23
+29,13,37.0,5,Cancellara Fabian,11,Saxo Bank,4,2010,▼6
+25,108,36.0,6,Roelandts Jürgen,12,Omega Pharma-Lotto,4,2010,▼6
+29,54,30.0,8,Hesjedal Ryder,13,Team Garmin - Transitions,4,2010,▼5
+27,117,30.0,10,Renshaw Mark,14,Team HTC - Columbia,4,2010,▼4
+35,52,30.0,,Dean Julian,15,Team Garmin - Transitions,4,2010,-
+25,11,24.0,12,Schleck Andy,16,Saxo Bank,4,2010,▼4
+30,31,24.0,16,Wiggins Bradley,17,Sky Procycling,4,2010,▼1
+25,65,24.0,13,Ladagnous Matthieu,18,Francaise des Jeux,4,2010,▼5
+33,55,22.0,,Hunter Robert,19,Team Garmin - Transitions,4,2010,-
+29,58,21.0,15,Vansummeren Johan,20,Team Garmin - Transitions,4,2010,▼5
+27,1,,16*,Contador Alberto,21*,Astana,4,2010,-
+29,145,20.0,17,Knees Christian,21,Milram,4,2010,▼4
+27,101,20.0,18,Van den Broeck Jurgen,22,Omega Pharma-Lotto,4,2010,▼4
+28,186,19.0,20,Pérez Rubén,23,Euskaltel - Euskadi,4,2010,▼3
+23,142,19.0,51,Ciolek Gerald,24,Milram,4,2010,▲27
+24,144,19.0,21,Kluge Roger,25,Milram,4,2010,▼4
+36,9,18.0,22,Vinokourov Alexandre,26,Astana,4,2010,▼4
+34,193,18.0,118,Freire Óscar,27,Rabobank ProTeam,4,2010,▲91
+32,191,,24*,Menchov Denis,29*,Rabobank ProTeam,4,2010,-
+33,57,18.0,23,Millar David,28,Team Garmin - Transitions,4,2010,▼5
+27,141,17.0,24,Gerdemann Linus,29,Milram,4,2010,▼5
+26,81,17.0,25,Roche Nicolas,30,AG2R La Mondiale,4,2010,▼5
+26,37,17.0,39,Löfkvist Thomas,31,Sky Procycling,4,2010,▲8
+29,132,,41*,Barredo Carlos,34*,Quickstep - Innergetic,4,2010,-
+25,174,16.0,26,El Fares Julien,32,"Cofidis, le Crédit en Ligne",4,2010,▼6
+25,111,16.0,134,Cavendish Mark,33,Team HTC - Columbia,4,2010,▲101
+26,123,15.0,113,Bookwalter Brent,34,BMC Racing Team,4,2010,▲79
+25,103,15.0,,de Greef Francis,35,Omega Pharma-Lotto,4,2010,-
+27,185,15.0,27,Pérez Alan,36,Euskaltel - Euskadi,4,2010,▼9
+25,115,15.0,28,Martin Tony,37,Team HTC - Columbia,4,2010,▼9
+32,181,14.0,62,Sánchez Samuel,38,Euskaltel - Euskadi,4,2010,▲24
+33,146,14.0,29,Roberts Luke,39,Milram,4,2010,▼10
+28,139,14.0,30,Wynants Maarten,40,Quickstep - Innergetic,4,2010,▼10
+24,192,14.0,31,Boom Lars,41,Rabobank ProTeam,4,2010,▼10
+24,214,14.0,32,Durán Arkaitz,42,Footon-Servetto,4,2010,▼10
+27,119,12.0,34,Siutsou Kanstantsin,43,Team HTC - Columbia,4,2010,▼9
+31,62,12.0,68,Casar Sandy,44,Francaise des Jeux,4,2010,▲24
+35,102,12.0,35,Aerts Mario,45,Omega Pharma-Lotto,4,2010,▼10
+29,165,12.0,,Kiryienka Vasil,46,Caisse d'Epargne,4,2010,-
+28,217,11.0,,Mayoz Iban,47,Footon-Servetto,4,2010,-
+26,161,11.0,36,Sánchez Luis León,48,Caisse d'Epargne,4,2010,▼12
+38,21,11.0,37,Armstrong Lance,49,RadioShack,4,2010,▼12
+24,44,10.0,38,Kreuziger Roman,50,Liquigas - Doimo,4,2010,▼12
+34,32,10.0,40,Barry Michael,51,Sky Procycling,4,2010,▼11
+28,176,10.0,41,Minard Sébastien,52,"Cofidis, le Crédit en Ligne",4,2010,▼11
+26,53,9.0,52,Farrar Tyler,53,Team Garmin - Transitions,4,2010,▼1
+33,182,8.0,92,Isasi Iñaki,54,Euskaltel - Euskadi,4,2010,▲38
+23,156,7.0,42,Rolland Pierre,55,Bbox Bouygues Telecom,4,2010,▼13
+32,159,7.0,106,Vogondy Nicolas,56,Bbox Bouygues Telecom,4,2010,▲50
+36,25,6.0,43,Leipheimer Levi,57,RadioShack,4,2010,▼14
+28,133,6.0,44,De Weert Kevin,58,Quickstep - Innergetic,4,2010,▼14
+30,105,6.0,,Lang Sebastian,59,Omega Pharma-Lotto,4,2010,-
+29,173,5.0,45,Dumoulin Samuel,60,"Cofidis, le Crédit en Ligne",4,2010,▼15
+27,116,5.0,46,Monfort Maxime,61,Team HTC - Columbia,4,2010,▼15
+26,38,5.0,47,Pauwels Serge,62,Sky Procycling,4,2010,▼15
+29,33,5.0,48,Cummings Steve,63,Sky Procycling,4,2010,▼15
+26,163,4.0,49,Erviti Imanol,64,Caisse d'Epargne,4,2010,▼15
+25,143,4.0,50,Fröhlinger Johannes,65,Milram,4,2010,▼15
+26,83,4.0,,Champion Dimitri,66,AG2R La Mondiale,4,2010,-
+28,72,4.0,53,Brutt Pavel,67,Team Katusha,4,2010,▼14
+27,79,4.0,54,Vorganov Eduard,68,Team Katusha,4,2010,▼14
+26,56,4.0,55,Maaskant Martijn,69,Team Garmin - Transitions,4,2010,▼14
+25,14,4.0,56,Fuglsang Jakob,70,Saxo Bank,4,2010,▼14
+26,22,3.0,57,Brajkovič Janez,71,RadioShack,4,2010,▼14
+30,118,2.0,58,Rogers Michael,72,Team HTC - Columbia,4,2010,▼14
+35,24,2.0,59,Klöden Andreas,73,RadioShack,4,2010,▼14
+29,89,2.0,60,Riblon Christophe,74,AG2R La Mondiale,4,2010,▼14
+31,198,2.0,61,Tankink Bram,75,Rabobank ProTeam,4,2010,▼14
+26,3,2.0,63,Grivko Andrey,76,Astana,4,2010,▼13
+29,71,2.0,64,Karpets Vladimir,77,Team Katusha,4,2010,▼13
+23,43,2.0,65,Koren Kristijan,78,Liquigas - Doimo,4,2010,▼13
+29,61,2.0,66,Le Mével Christophe,79,Francaise des Jeux,4,2010,▼13
+23,162,2.0,67,Costa Rui,80,Caisse d'Epargne,4,2010,▼13
+34,197,2.0,69,Niermann Grischa,81,Rabobank ProTeam,4,2010,▼12
+38,23,2.0,71,Horner Chris,82,RadioShack,4,2010,▼11
+34,194,2.0,73,Garate Juan Manuel,83,Rabobank ProTeam,4,2010,▼10
+35,91,2.0,74,Sastre Carlos,84,Cervelo Test Team,4,2010,▼10
+32,41,2.0,75,Basso Ivan,85,Liquigas - Doimo,4,2010,▼10
+29,175,2.0,76,Kern Christophe,86,"Cofidis, le Crédit en Ligne",4,2010,▼10
+31,164,2.0,77,Gutiérrez José Iván,87,Caisse d'Epargne,4,2010,▼10
+28,107,2.0,78,Moreno Daniel,88,Omega Pharma-Lotto,4,2010,▼10
+30,122,2.0,79,Ballan Alessandro,89,BMC Racing Team,4,2010,▼10
+30,28,2.0,80,Popovych Yaroslav,90,RadioShack,4,2010,▼10
+31,84,2.0,81,Elmiger Martin,91,AG2R La Mondiale,4,2010,▼10
+28,179,2.0,82,Pauriol Rémi,92,"Cofidis, le Crédit en Ligne",4,2010,▼10
+32,34,2.0,83,Flecha Juan Antonio,93,Sky Procycling,4,2010,▼10
+31,85,2.0,84,Gadret John,94,AG2R La Mondiale,4,2010,▼10
+31,77,2.0,85,Rodríguez Joaquim,95,Team Katusha,4,2010,▼10
+31,7,2.0,86,Noval Benjamin,96,Astana,4,2010,▼10
+22,155,2.0,87,Gautier Cyril,97,Bbox Bouygues Telecom,4,2010,▼10
+34,127,2.0,88,Kroon Karsten,98,BMC Racing Team,4,2010,▼10
+29,203,2.0,89,Da Dalto Mauro,99,Lampre - Farnese Vini,4,2010,▼10
+29,5,2.0,90,Iglinskiy Maxim,100,Astana,4,2010,▼10
+23,219,2.0,91,Valls Rafael,101,Footon-Servetto,4,2010,▼10
+32,183,2.0,93,Martínez Egoi,102,Euskaltel - Euskadi,4,2010,▼9
+33,93,2.0,94,Gustov Volodymyr,103,Cervelo Test Team,4,2010,▼9
+25,152,2.0,95,Arashiro Yukiya,104,Bbox Bouygues Telecom,4,2010,▼9
+29,74,2.0,96,Kolobnev Alexandr,105,Team Katusha,4,2010,▼9
+31,151,2.0,97,Voeckler Thomas,106,Bbox Bouygues Telecom,4,2010,▼9
+36,205,2.0,72,Hondo Danilo,107,Lampre - Farnese Vini,4,2010,▼35
+27,178,2.0,98,Monier Damien,108,"Cofidis, le Crédit en Ligne",4,2010,▼10
+30,135,2.0,99,Pineau Jérôme,109,Quickstep - Innergetic,4,2010,▼10
+23,76,2.0,100,Pliuschin Alexandr,110,Team Katusha,4,2010,▼10
+30,45,2.0,101,Kuschynski Aleksandr,111,Liquigas - Doimo,4,2010,▼10
+24,195,2.0,70,Gesink Robert,112,Rabobank ProTeam,4,2010,▼42
+30,168,2.0,102,Plaza Rubén,113,Caisse d'Epargne,4,2010,▼11
+26,78,2.0,103,Vandenbergh Stijn,114,Team Katusha,4,2010,▼11
+39,166,2.0,104,Moreau Christophe,115,Caisse d'Epargne,4,2010,▼11
+35,113,2.0,105,Grabsch Bert,116,Team HTC - Columbia,4,2010,▼11
+27,147,2.0,107,Rohregger Thomas,117,Milram,4,2010,▼10
+25,215,2.0,108,Eibegger Markus,118,Footon-Servetto,4,2010,▼10
+31,154,2.0,109,Fédrigo Pierrick,119,Bbox Bouygues Telecom,4,2010,▼10
+24,63,2.0,110,Di Grégorio Rémy,120,Francaise des Jeux,4,2010,▼10
+30,149,2.0,111,Wegmann Fabian,121,Milram,4,2010,▼10
+32,218,2.0,112,Pérez Aitor,122,Footon-Servetto,4,2010,▼10
+28,87,2.0,,Mondory Lloyd,123,AG2R La Mondiale,4,2010,-
+30,35,2.0,114,Gerrans Simon,124,Sky Procycling,4,2010,▼10
+31,189,2.0,115,Verdugo Gorka,125,Euskaltel - Euskadi,4,2010,▼10
+31,153,2.0,116,Charteau Anthony,126,Bbox Bouygues Telecom,4,2010,▼10
+28,157,2.0,119,Sprick Matthieu,127,Bbox Bouygues Telecom,4,2010,▼8
+33,138,2.0,120,van de Walle Jurgen,128,Quickstep - Innergetic,4,2010,▼8
+29,112,2.0,117,Eisel Bernhard,129,Team HTC - Columbia,4,2010,▼12
+32,8,2.0,121,Tiralongo Paolo,130,Astana,4,2010,▼9
+30,188,2.0,125,Velasco Iván,131,Euskaltel - Euskadi,4,2010,▼6
+32,88,2.0,124,Nocentini Rinaldo,132,AG2R La Mondiale,4,2010,▼8
+36,94,2.0,126,Hunt Jeremy,133,Cervelo Test Team,4,2010,▼7
+26,6,2.0,122,Navarro Daniel,134,Astana,4,2010,▼12
+25,204,2.0,127,Gavazzi Francesco,135,Lampre - Farnese Vini,4,2010,▼8
+30,42,2.0,129,Bellotti Francesco,136,Liquigas - Doimo,4,2010,▼7
+27,136,2.0,130,Reda Francesco,137,Quickstep - Innergetic,4,2010,▼7
+32,48,2.0,131,Szmyd Sylwester,138,Liquigas - Doimo,4,2010,▼7
+27,187,2.0,123,Txurruka Amets,139,Euskaltel - Euskadi,4,2010,▼16
+25,167,2.0,132,Perget Mathieu,140,Caisse d'Epargne,4,2010,▼8
+35,172,2.0,133,Augé Stéphane,141,"Cofidis, le Crédit en Ligne",4,2010,▼8
+23,82,2.0,128,Bouet Maxime,142,AG2R La Mondiale,4,2010,▼14
+36,15,2.0,,O'Grady Stuart,143,Saxo Bank,4,2010,-
+32,95,102.0,1,Hushovd Thor,1,Cervelo Test Team,5,2010,-
+36,208,88.0,2,Petacchi Alessandro,2,Lampre - Farnese Vini,5,2010,-
+38,75,81.0,3,McEwen Robbie,3,Team Katusha,5,2010,-
+25,169,73.0,5,Rojas José Joaquín,4,Caisse d'Epargne,5,2010,▲1
+23,36,64.0,10,Boasson Hagen Edvald,5,Sky Procycling,5,2010,▲5
+26,158,59.0,8,Turgot Sébastien,6,Bbox Bouygues Telecom,5,2010,▲2
+24,39,59.0,4,Thomas Geraint,7,Sky Procycling,5,2010,▼3
+23,46,54.0,7,Oss Daniel,8,Liquigas - Doimo,5,2010,▼1
+25,111,50.0,33,Cavendish Mark,9,Team HTC - Columbia,5,2010,▲24
+23,142,49.0,24,Ciolek Gerald,10,Milram,5,2010,▲14
+31,131,44.0,6,Chavanel Sylvain,11,Quickstep - Innergetic,5,2010,▼5
+33,121,42.0,9,Evans Cadel,12,BMC Racing Team,5,2010,▼3
+29,13,37.0,11,Cancellara Fabian,13,Saxo Bank,5,2010,▼2
+25,108,36.0,12,Roelandts Jürgen,14,Omega Pharma-Lotto,5,2010,▼2
+27,117,35.0,14,Renshaw Mark,15,Team HTC - Columbia,5,2010,▼1
+29,54,30.0,13,Hesjedal Ryder,16,Team Garmin - Transitions,5,2010,▼3
+35,52,30.0,15,Dean Julian,17,Team Garmin - Transitions,5,2010,▼2
+25,174,29.0,32,El Fares Julien,18,"Cofidis, le Crédit en Ligne",5,2010,▲14
+26,81,28.0,30,Roche Nicolas,19,AG2R La Mondiale,5,2010,▲11
+27,1,,21*,Contador Alberto,20*,Astana,5,2010,-
+30,31,27.0,17,Wiggins Bradley,20,Sky Procycling,5,2010,▼3
+25,11,24.0,16,Schleck Andy,21,Saxo Bank,5,2010,▼5
+25,65,24.0,18,Ladagnous Matthieu,22,Francaise des Jeux,5,2010,▼4
+26,53,24.0,53,Farrar Tyler,23,Team Garmin - Transitions,5,2010,▲30
+29,145,23.0,21,Knees Christian,24,Milram,5,2010,▼3
+33,55,22.0,19,Hunter Robert,25,Team Garmin - Transitions,5,2010,▼6
+29,58,22.0,20,Vansummeren Johan,26,Team Garmin - Transitions,5,2010,▼6
+29,173,21.0,60,Dumoulin Samuel,27,"Cofidis, le Crédit en Ligne",5,2010,▲33
+27,101,20.0,22,Van den Broeck Jurgen,28,Omega Pharma-Lotto,5,2010,▼6
+28,87,19.0,123,Mondory Lloyd,29,AG2R La Mondiale,5,2010,▲94
+28,186,19.0,23,Pérez Rubén,30,Euskaltel - Euskadi,5,2010,▼7
+24,144,19.0,25,Kluge Roger,31,Milram,5,2010,▼6
+34,193,18.0,27,Freire Óscar,32,Rabobank ProTeam,5,2010,▼5
+36,9,18.0,26,Vinokourov Alexandre,33,Astana,5,2010,▼7
+33,57,18.0,28,Millar David,34,Team Garmin - Transitions,5,2010,▼6
+27,141,17.0,29,Gerdemann Linus,35,Milram,5,2010,▼6
+32,191,,29*,Menchov Denis,37*,Rabobank ProTeam,5,2010,-
+31,164,17.0,87,Gutiérrez José Iván,36,Caisse d'Epargne,5,2010,▲51
+26,37,17.0,31,Löfkvist Thomas,37,Sky Procycling,5,2010,▼6
+36,205,16.0,107,Hondo Danilo,38,Lampre - Farnese Vini,5,2010,▲69
+26,123,16.0,34,Bookwalter Brent,39,BMC Racing Team,5,2010,▼5
+29,132,,34*,Barredo Carlos,42*,Quickstep - Innergetic,5,2010,-
+25,103,15.0,35,de Greef Francis,40,Omega Pharma-Lotto,5,2010,▼5
+27,185,15.0,36,Pérez Alan,41,Euskaltel - Euskadi,5,2010,▼5
+32,181,15.0,38,Sánchez Samuel,42,Euskaltel - Euskadi,5,2010,▼4
+25,115,14.0,37,Martin Tony,43,Team HTC - Columbia,5,2010,▼6
+33,146,14.0,39,Roberts Luke,44,Milram,5,2010,▼5
+25,152,14.0,104,Arashiro Yukiya,45,Bbox Bouygues Telecom,5,2010,▲59
+24,192,14.0,41,Boom Lars,46,Rabobank ProTeam,5,2010,▼5
+28,139,14.0,40,Wynants Maarten,47,Quickstep - Innergetic,5,2010,▼7
+32,34,13.0,93,Flecha Juan Antonio,48,Sky Procycling,5,2010,▲45
+27,119,12.0,43,Siutsou Kanstantsin,49,Team HTC - Columbia,5,2010,▼6
+24,214,12.0,42,Durán Arkaitz,50,Footon-Servetto,5,2010,▼8
+31,62,12.0,44,Casar Sandy,51,Francaise des Jeux,5,2010,▼7
+35,102,12.0,45,Aerts Mario,52,Omega Pharma-Lotto,5,2010,▼7
+26,3,12.0,76,Grivko Andrey,53,Astana,5,2010,▲23
+29,165,11.0,46,Kiryienka Vasil,54,Caisse d'Epargne,5,2010,▼8
+28,217,11.0,47,Mayoz Iban,55,Footon-Servetto,5,2010,▼8
+33,138,11.0,128,van de Walle Jurgen,56,Quickstep - Innergetic,5,2010,▲72
+26,161,11.0,48,Sánchez Luis León,57,Caisse d'Epargne,5,2010,▼9
+38,23,10.0,82,Horner Chris,58,RadioShack,5,2010,▲24
+38,21,10.0,49,Armstrong Lance,59,RadioShack,5,2010,▼10
+24,44,10.0,50,Kreuziger Roman,60,Liquigas - Doimo,5,2010,▼10
+32,183,10.0,102,Martínez Egoi,61,Euskaltel - Euskadi,5,2010,▲41
+34,32,10.0,51,Barry Michael,62,Sky Procycling,5,2010,▼11
+28,176,9.0,52,Minard Sébastien,63,"Cofidis, le Crédit en Ligne",5,2010,▼11
+23,156,8.0,55,Rolland Pierre,64,Bbox Bouygues Telecom,5,2010,▼9
+33,182,8.0,54,Isasi Iñaki,65,Euskaltel - Euskadi,5,2010,▼11
+32,159,7.0,56,Vogondy Nicolas,66,Bbox Bouygues Telecom,5,2010,▼10
+30,105,6.0,59,Lang Sebastian,67,Omega Pharma-Lotto,5,2010,▼8
+36,25,6.0,57,Leipheimer Levi,68,RadioShack,5,2010,▼11
+28,133,6.0,58,De Weert Kevin,69,Quickstep - Innergetic,5,2010,▼11
+26,83,5.0,66,Champion Dimitri,70,AG2R La Mondiale,5,2010,▼4
+28,72,5.0,67,Brutt Pavel,71,Team Katusha,5,2010,▼4
+26,163,5.0,64,Erviti Imanol,72,Caisse d'Epargne,5,2010,▼8
+29,33,4.0,63,Cummings Steve,73,Sky Procycling,5,2010,▼10
+27,116,4.0,61,Monfort Maxime,74,Team HTC - Columbia,5,2010,▼13
+25,143,4.0,65,Fröhlinger Johannes,75,Milram,5,2010,▼10
+26,38,4.0,62,Pauwels Serge,76,Sky Procycling,5,2010,▼14
+27,79,4.0,68,Vorganov Eduard,77,Team Katusha,5,2010,▼9
+35,172,4.0,141,Augé Stéphane,78,"Cofidis, le Crédit en Ligne",5,2010,▲63
+25,204,4.0,135,Gavazzi Francesco,79,Lampre - Farnese Vini,5,2010,▲56
+34,194,3.0,83,Garate Juan Manuel,80,Rabobank ProTeam,5,2010,▲3
+31,189,2.0,125,Verdugo Gorka,81,Euskaltel - Euskadi,5,2010,▲44
+30,188,2.0,131,Velasco Iván,82,Euskaltel - Euskadi,5,2010,▲49
+31,151,2.0,106,Voeckler Thomas,83,Bbox Bouygues Telecom,5,2010,▲23
+28,179,2.0,92,Pauriol Rémi,84,"Cofidis, le Crédit en Ligne",5,2010,▲8
+31,153,2.0,126,Charteau Anthony,85,Bbox Bouygues Telecom,5,2010,▲41
+31,154,2.0,119,Fédrigo Pierrick,86,Bbox Bouygues Telecom,5,2010,▲33
+30,168,2.0,113,Plaza Rubén,87,Caisse d'Epargne,5,2010,▲26
+24,195,2.0,112,Gesink Robert,88,Rabobank ProTeam,5,2010,▲24
+23,162,2.0,80,Costa Rui,89,Caisse d'Epargne,5,2010,▼9
+39,166,2.0,115,Moreau Christophe,90,Caisse d'Epargne,5,2010,▲25
+29,175,2.0,86,Kern Christophe,91,"Cofidis, le Crédit en Ligne",5,2010,▼5
+25,167,2.0,140,Perget Mathieu,92,Caisse d'Epargne,5,2010,▲48
+36,94,2.0,133,Hunt Jeremy,93,Cervelo Test Team,5,2010,▲40
+28,107,2.0,88,Moreno Daniel,94,Omega Pharma-Lotto,5,2010,▼6
+26,78,2.0,114,Vandenbergh Stijn,95,Team Katusha,5,2010,▲19
+23,82,2.0,142,Bouet Maxime,96,AG2R La Mondiale,5,2010,▲46
+31,84,2.0,91,Elmiger Martin,97,AG2R La Mondiale,5,2010,▼6
+31,85,2.0,94,Gadret John,98,AG2R La Mondiale,5,2010,▼4
+32,88,2.0,132,Nocentini Rinaldo,99,AG2R La Mondiale,5,2010,▲33
+29,89,2.0,74,Riblon Christophe,100,AG2R La Mondiale,5,2010,▼26
+25,215,2.0,118,Eibegger Markus,101,Footon-Servetto,5,2010,▲17
+33,93,2.0,103,Gustov Volodymyr,102,Cervelo Test Team,5,2010,▲1
+34,197,2.0,81,Niermann Grischa,103,Rabobank ProTeam,5,2010,▼22
+27,178,2.0,108,Monier Damien,104,"Cofidis, le Crédit en Ligne",5,2010,▲4
+31,77,2.0,95,Rodríguez Joaquim,105,Team Katusha,5,2010,▼10
+32,218,2.0,122,Pérez Aitor,106,Footon-Servetto,5,2010,▲16
+35,91,2.0,84,Sastre Carlos,107,Cervelo Test Team,5,2010,▼23
+29,203,2.0,99,Da Dalto Mauro,108,Lampre - Farnese Vini,5,2010,▼9
+31,198,2.0,75,Tankink Bram,109,Rabobank ProTeam,5,2010,▼34
+23,76,2.0,110,Pliuschin Alexandr,110,Team Katusha,5,2010,-
+25,14,2.0,70,Fuglsang Jakob,111,Saxo Bank,5,2010,▼41
+23,43,2.0,78,Koren Kristijan,112,Liquigas - Doimo,5,2010,▼34
+32,41,2.0,85,Basso Ivan,113,Liquigas - Doimo,5,2010,▼28
+26,56,2.0,69,Maaskant Martijn,114,Team Garmin - Transitions,5,2010,▼45
+31,7,2.0,96,Noval Benjamin,115,Astana,5,2010,▼19
+33,8,2.0,130,Tiralongo Paolo,116,Astana,5,2010,▲14
+29,5,2.0,100,Iglinskiy Maxim,117,Astana,5,2010,▼17
+30,45,2.0,111,Kuschynski Aleksandr,118,Liquigas - Doimo,5,2010,▼7
+30,42,2.0,136,Bellotti Francesco,119,Liquigas - Doimo,5,2010,▲17
+35,24,2.0,73,Klöden Andreas,120,RadioShack,5,2010,▼47
+32,48,2.0,138,Szmyd Sylwester,121,Liquigas - Doimo,5,2010,▲17
+30,35,2.0,124,Gerrans Simon,122,Sky Procycling,5,2010,▲2
+29,61,2.0,79,Le Mével Christophe,123,Francaise des Jeux,5,2010,▼44
+27,187,2.0,139,Txurruka Amets,124,Euskaltel - Euskadi,5,2010,▲15
+29,112,2.0,129,Eisel Bernhard,125,Team HTC - Columbia,5,2010,▲4
+30,28,2.0,90,Popovych Yaroslav,126,RadioShack,5,2010,▼36
+30,149,2.0,121,Wegmann Fabian,127,Milram,5,2010,▼6
+23,219,2.0,101,Valls Rafael,128,Footon-Servetto,5,2010,▼27
+30,118,2.0,72,Rogers Michael,129,Team HTC - Columbia,5,2010,▼57
+30,122,2.0,89,Ballan Alessandro,130,BMC Racing Team,5,2010,▼41
+34,127,2.0,98,Kroon Karsten,131,BMC Racing Team,5,2010,▼33
+30,135,2.0,109,Pineau Jérôme,132,Quickstep - Innergetic,5,2010,▼23
+27,136,2.0,137,Reda Francesco,133,Quickstep - Innergetic,5,2010,▲4
+26,22,2.0,71,Brajkovič Janez,134,RadioShack,5,2010,▼63
+28,157,2.0,127,Sprick Matthieu,135,Bbox Bouygues Telecom,5,2010,▼8
+35,113,2.0,116,Grabsch Bert,136,Team HTC - Columbia,5,2010,▼20
+22,155,2.0,97,Gautier Cyril,137,Bbox Bouygues Telecom,5,2010,▼40
+26,6,2.0,134,Navarro Daniel,138,Astana,5,2010,▼4
+29,74,2.0,105,Kolobnev Alexandr,139,Team Katusha,5,2010,▼34
+29,71,2.0,77,Karpets Vladimir,140,Team Katusha,5,2010,▼63
+24,63,2.0,120,Di Grégorio Rémy,141,Francaise des Jeux,5,2010,▼21
+27,147,2.0,117,Rohregger Thomas,142,Milram,5,2010,▼25
+37,126,2.0,,Hincapie George,143,BMC Racing Team,5,2010,-
+36,15,2.0,143,O'Grady Stuart,144,Saxo Bank,5,2010,▼1
+32,95,118.0,1,Hushovd Thor,1,Cervelo Test Team,6,2010,-
+36,208,114.0,2,Petacchi Alessandro,2,Lampre - Farnese Vini,6,2010,-
+38,75,105.0,3,McEwen Robbie,3,Team Katusha,6,2010,-
+25,169,92.0,4,Rojas José Joaquín,4,Caisse d'Epargne,6,2010,-
+25,111,85.0,9,Cavendish Mark,5,Team HTC - Columbia,6,2010,▲4
+23,36,82.0,5,Boasson Hagen Edvald,6,Sky Procycling,6,2010,▼1
+26,158,79.0,6,Turgot Sébastien,7,Bbox Bouygues Telecom,6,2010,▼1
+24,39,74.0,7,Thomas Geraint,8,Sky Procycling,6,2010,▼1
+23,142,71.0,10,Ciolek Gerald,9,Milram,6,2010,▲1
+23,46,54.0,8,Oss Daniel,10,Liquigas - Doimo,6,2010,▼2
+26,53,53.0,23,Farrar Tyler,11,Team Garmin - Transitions,6,2010,▲12
+27,117,48.0,15,Renshaw Mark,12,Team HTC - Columbia,6,2010,▲3
+25,108,47.0,14,Roelandts Jürgen,13,Omega Pharma-Lotto,6,2010,▲1
+33,121,46.0,12,Evans Cadel,14,BMC Racing Team,6,2010,▼2
+31,131,44.0,11,Chavanel Sylvain,15,Quickstep - Innergetic,6,2010,▼4
+33,55,39.0,25,Hunter Robert,16,Team Garmin - Transitions,6,2010,▲9
+29,13,37.0,13,Cancellara Fabian,17,Saxo Bank,6,2010,▼4
+25,65,34.0,22,Ladagnous Matthieu,18,Francaise des Jeux,6,2010,▲4
+28,87,33.0,29,Mondory Lloyd,19,AG2R La Mondiale,6,2010,▲10
+28,186,31.0,30,Pérez Rubén,20,Euskaltel - Euskadi,6,2010,▲10
+29,54,30.0,16,Hesjedal Ryder,21,Team Garmin - Transitions,6,2010,▼5
+25,174,29.0,18,El Fares Julien,22,"Cofidis, le Crédit en Ligne",6,2010,▼4
+29,173,29.0,27,Dumoulin Samuel,23,"Cofidis, le Crédit en Ligne",6,2010,▲4
+26,81,28.0,19,Roche Nicolas,24,AG2R La Mondiale,6,2010,▼5
+27,1,,20*,Contador Alberto,25*,Astana,6,2010,-
+24,144,27.0,31,Kluge Roger,25,Milram,6,2010,▲6
+35,52,26.0,17,Dean Julian,26,Team Garmin - Transitions,6,2010,▼9
+25,11,25.0,21,Schleck Andy,27,Saxo Bank,6,2010,▼6
+30,31,24.0,20,Wiggins Bradley,28,Sky Procycling,6,2010,▼8
+29,145,24.0,24,Knees Christian,29,Milram,6,2010,▼5
+30,105,22.0,67,Lang Sebastian,30,Omega Pharma-Lotto,6,2010,▲37
+29,58,21.0,26,Vansummeren Johan,31,Team Garmin - Transitions,6,2010,▼5
+25,152,21.0,45,Arashiro Yukiya,32,Bbox Bouygues Telecom,6,2010,▲13
+33,146,20.0,44,Roberts Luke,33,Milram,6,2010,▲11
+27,101,20.0,28,Van den Broeck Jurgen,34,Omega Pharma-Lotto,6,2010,▼6
+36,9,19.0,33,Vinokourov Alexandre,35,Astana,6,2010,▼2
+34,193,18.0,32,Freire Óscar,36,Rabobank ProTeam,6,2010,▼4
+32,191,,37*,Menchov Denis,38*,Rabobank ProTeam,6,2010,-
+33,57,18.0,34,Millar David,37,Team Garmin - Transitions,6,2010,▼3
+27,141,17.0,35,Gerdemann Linus,38,Milram,6,2010,▼3
+31,164,17.0,36,Gutiérrez José Iván,39,Caisse d'Epargne,6,2010,▼3
+26,37,17.0,37,Löfkvist Thomas,40,Sky Procycling,6,2010,▼3
+36,205,16.0,38,Hondo Danilo,41,Lampre - Farnese Vini,6,2010,▼3
+29,132,,42*,Barredo Carlos,44*,Quickstep - Innergetic,6,2010,-
+26,123,16.0,39,Bookwalter Brent,42,BMC Racing Team,6,2010,▼3
+25,103,15.0,40,de Greef Francis,43,Omega Pharma-Lotto,6,2010,▼3
+27,185,15.0,41,Pérez Alan,44,Euskaltel - Euskadi,6,2010,▼3
+25,115,15.0,43,Martin Tony,45,Team HTC - Columbia,6,2010,▼2
+32,181,14.0,42,Sánchez Samuel,46,Euskaltel - Euskadi,6,2010,▼4
+28,139,14.0,47,Wynants Maarten,47,Quickstep - Innergetic,6,2010,-
+24,192,14.0,46,Boom Lars,48,Rabobank ProTeam,6,2010,▼2
+24,214,14.0,50,Durán Arkaitz,49,Footon-Servetto,6,2010,▲1
+32,34,12.0,48,Flecha Juan Antonio,50,Sky Procycling,6,2010,▼2
+27,119,12.0,49,Siutsou Kanstantsin,51,Team HTC - Columbia,6,2010,▼2
+30,98,12.0,,Lancaster Brett,52,Cervelo Test Team,6,2010,-
+26,3,12.0,53,Grivko Andrey,53,Astana,6,2010,-
+31,62,12.0,51,Casar Sandy,54,Francaise des Jeux,6,2010,▼3
+35,102,12.0,52,Aerts Mario,55,Omega Pharma-Lotto,6,2010,▼3
+29,165,11.0,54,Kiryienka Vasil,56,Caisse d'Epargne,6,2010,▼2
+28,217,11.0,55,Mayoz Iban,57,Footon-Servetto,6,2010,▼2
+26,161,11.0,57,Sánchez Luis León,58,Caisse d'Epargne,6,2010,▼1
+38,21,11.0,59,Armstrong Lance,59,RadioShack,6,2010,-
+38,23,10.0,58,Horner Chris,60,RadioShack,6,2010,▼2
+33,138,10.0,56,van de Walle Jurgen,61,Quickstep - Innergetic,6,2010,▼5
+25,167,10.0,92,Perget Mathieu,62,Caisse d'Epargne,6,2010,▲30
+24,44,10.0,60,Kreuziger Roman,63,Liquigas - Doimo,6,2010,▼3
+28,176,10.0,63,Minard Sébastien,64,"Cofidis, le Crédit en Ligne",6,2010,▼1
+34,32,10.0,62,Barry Michael,65,Sky Procycling,6,2010,▼3
+32,183,9.0,61,Martínez Egoi,66,Euskaltel - Euskadi,6,2010,▼5
+33,182,9.0,65,Isasi Iñaki,67,Euskaltel - Euskadi,6,2010,▼2
+23,156,8.0,64,Rolland Pierre,68,Bbox Bouygues Telecom,6,2010,▼4
+32,159,8.0,66,Vogondy Nicolas,69,Bbox Bouygues Telecom,6,2010,▼3
+37,126,6.0,143,Hincapie George,70,BMC Racing Team,6,2010,▲73
+36,25,6.0,68,Leipheimer Levi,71,RadioShack,6,2010,▼3
+28,133,6.0,69,De Weert Kevin,72,Quickstep - Innergetic,6,2010,▼3
+27,116,6.0,74,Monfort Maxime,73,Team HTC - Columbia,6,2010,▲1
+26,38,5.0,76,Pauwels Serge,74,Sky Procycling,6,2010,▲2
+29,33,5.0,73,Cummings Steve,75,Sky Procycling,6,2010,▼2
+26,163,4.0,72,Erviti Imanol,76,Caisse d'Epargne,6,2010,▼4
+25,143,4.0,75,Fröhlinger Johannes,77,Milram,6,2010,▼2
+26,83,4.0,70,Champion Dimitri,78,AG2R La Mondiale,6,2010,▼8
+28,72,4.0,71,Brutt Pavel,79,Team Katusha,6,2010,▼8
+27,79,4.0,77,Vorganov Eduard,80,Team Katusha,6,2010,▼3
+30,149,4.0,127,Wegmann Fabian,81,Milram,6,2010,▲46
+25,12,4.0,,Breschel Matti,82,Saxo Bank,6,2010,-
+25,14,3.0,111,Fuglsang Jakob,83,Saxo Bank,6,2010,▲28
+26,22,3.0,134,Brajkovič Janez,84,RadioShack,6,2010,▲50
+30,118,3.0,129,Rogers Michael,85,Team HTC - Columbia,6,2010,▲44
+35,24,2.0,120,Klöden Andreas,86,RadioShack,6,2010,▲34
+29,89,2.0,100,Riblon Christophe,87,AG2R La Mondiale,6,2010,▲13
+31,198,2.0,109,Tankink Bram,88,Rabobank ProTeam,6,2010,▲21
+29,71,2.0,140,Karpets Vladimir,89,Team Katusha,6,2010,▲51
+23,43,2.0,112,Koren Kristijan,90,Liquigas - Doimo,6,2010,▲22
+29,61,2.0,123,Le Mével Christophe,91,Francaise des Jeux,6,2010,▲32
+23,162,2.0,89,Costa Rui,92,Caisse d'Epargne,6,2010,▼3
+34,197,2.0,103,Niermann Grischa,93,Rabobank ProTeam,6,2010,▲10
+24,195,2.0,88,Gesink Robert,94,Rabobank ProTeam,6,2010,▼6
+34,194,2.0,80,Garate Juan Manuel,95,Rabobank ProTeam,6,2010,▼15
+35,91,2.0,107,Sastre Carlos,96,Cervelo Test Team,6,2010,▲11
+32,41,2.0,113,Basso Ivan,97,Liquigas - Doimo,6,2010,▲16
+28,107,2.0,94,Moreno Daniel,98,Omega Pharma-Lotto,6,2010,▼4
+30,122,2.0,130,Ballan Alessandro,99,BMC Racing Team,6,2010,▲31
+30,28,2.0,126,Popovych Yaroslav,100,RadioShack,6,2010,▲26
+31,84,2.0,97,Elmiger Martin,101,AG2R La Mondiale,6,2010,▼4
+28,179,2.0,84,Pauriol Rémi,102,"Cofidis, le Crédit en Ligne",6,2010,▼18
+31,85,2.0,98,Gadret John,103,AG2R La Mondiale,6,2010,▼5
+31,77,2.0,105,Rodríguez Joaquim,104,Team Katusha,6,2010,▲1
+31,7,2.0,115,Noval Benjamin,105,Astana,6,2010,▲10
+22,155,2.0,137,Gautier Cyril,106,Bbox Bouygues Telecom,6,2010,▲31
+34,127,2.0,131,Kroon Karsten,107,BMC Racing Team,6,2010,▲24
+29,203,2.0,108,Da Dalto Mauro,108,Lampre - Farnese Vini,6,2010,-
+23,219,2.0,128,Valls Rafael,109,Footon-Servetto,6,2010,▲19
+33,93,2.0,102,Gustov Volodymyr,110,Cervelo Test Team,6,2010,▼8
+29,74,2.0,139,Kolobnev Alexandr,111,Team Katusha,6,2010,▲28
+31,151,2.0,83,Voeckler Thomas,112,Bbox Bouygues Telecom,6,2010,▼29
+26,56,2.0,114,Maaskant Martijn,113,Team Garmin - Transitions,6,2010,▲1
+27,178,2.0,104,Monier Damien,114,"Cofidis, le Crédit en Ligne",6,2010,▼10
+30,135,2.0,132,Pineau Jérôme,115,Quickstep - Innergetic,6,2010,▲17
+23,76,2.0,110,Pliuschin Alexandr,116,Team Katusha,6,2010,▼6
+29,5,2.0,117,Iglinskiy Maxim,117,Astana,6,2010,-
+30,45,2.0,118,Kuschynski Aleksandr,118,Liquigas - Doimo,6,2010,-
+30,168,2.0,87,Plaza Rubén,119,Caisse d'Epargne,6,2010,▼32
+39,166,2.0,90,Moreau Christophe,120,Caisse d'Epargne,6,2010,▼30
+27,147,2.0,142,Rohregger Thomas,121,Milram,6,2010,▲21
+26,78,2.0,95,Vandenbergh Stijn,122,Team Katusha,6,2010,▼27
+31,154,2.0,86,Fédrigo Pierrick,123,Bbox Bouygues Telecom,6,2010,▼37
+24,63,2.0,141,Di Grégorio Rémy,124,Francaise des Jeux,6,2010,▲17
+32,218,2.0,106,Pérez Aitor,125,Footon-Servetto,6,2010,▼19
+25,215,2.0,101,Eibegger Markus,126,Footon-Servetto,6,2010,▼25
+30,35,2.0,122,Gerrans Simon,127,Sky Procycling,6,2010,▼5
+31,189,2.0,81,Verdugo Gorka,128,Euskaltel - Euskadi,6,2010,▼47
+31,153,2.0,85,Charteau Anthony,129,Bbox Bouygues Telecom,6,2010,▼44
+28,157,2.0,135,Sprick Matthieu,130,Bbox Bouygues Telecom,6,2010,▲5
+29,112,2.0,125,Eisel Bernhard,131,Team HTC - Columbia,6,2010,▼6
+30,188,2.0,82,Velasco Iván,132,Euskaltel - Euskadi,6,2010,▼50
+36,94,2.0,93,Hunt Jeremy,133,Cervelo Test Team,6,2010,▼40
+25,204,2.0,79,Gavazzi Francesco,134,Lampre - Farnese Vini,6,2010,▼55
+32,88,2.0,99,Nocentini Rinaldo,135,AG2R La Mondiale,6,2010,▼36
+30,42,2.0,119,Bellotti Francesco,136,Liquigas - Doimo,6,2010,▼17
+32,48,2.0,121,Szmyd Sylwester,137,Liquigas - Doimo,6,2010,▼16
+35,172,2.0,78,Augé Stéphane,138,"Cofidis, le Crédit en Ligne",6,2010,▼60
+33,8,2.0,116,Tiralongo Paolo,139,Astana,6,2010,▼23
+35,113,2.0,136,Grabsch Bert,140,Team HTC - Columbia,6,2010,▼4
+27,136,2.0,133,Reda Francesco,141,Quickstep - Innergetic,6,2010,▼8
+23,82,2.0,96,Bouet Maxime,142,AG2R La Mondiale,6,2010,▼46
+26,6,2.0,138,Navarro Daniel,143,Astana,6,2010,▼5
+36,15,2.0,144,O'Grady Stuart,144,Saxo Bank,6,2010,-
+32,95,118.0,1,Hushovd Thor,1,Cervelo Test Team,7,2010,-
+36,208,114.0,2,Petacchi Alessandro,2,Lampre - Farnese Vini,7,2010,-
+38,75,105.0,3,McEwen Robbie,3,Team Katusha,7,2010,-
+25,169,92.0,4,Rojas José Joaquín,4,Caisse d'Epargne,7,2010,-
+25,111,85.0,5,Cavendish Mark,5,Team HTC - Columbia,7,2010,-
+23,36,82.0,6,Boasson Hagen Edvald,6,Sky Procycling,7,2010,-
+26,158,79.0,7,Turgot Sébastien,7,Bbox Bouygues Telecom,7,2010,-
+24,39,74.0,8,Thomas Geraint,8,Sky Procycling,7,2010,-
+23,142,71.0,9,Ciolek Gerald,9,Milram,7,2010,-
+31,131,69.0,15,Chavanel Sylvain,10,Quickstep - Innergetic,7,2010,▲5
+23,46,54.0,10,Oss Daniel,11,Liquigas - Doimo,7,2010,▼1
+33,121,53.0,14,Evans Cadel,12,BMC Racing Team,7,2010,▲2
+26,53,53.0,11,Farrar Tyler,13,Team Garmin - Transitions,7,2010,▼2
+27,117,48.0,12,Renshaw Mark,14,Team HTC - Columbia,7,2010,▼2
+25,108,47.0,13,Roelandts Jürgen,15,Omega Pharma-Lotto,7,2010,▼2
+29,54,43.0,21,Hesjedal Ryder,16,Team Garmin - Transitions,7,2010,▲5
+33,55,39.0,16,Hunter Robert,17,Team Garmin - Transitions,7,2010,▼1
+26,81,38.0,24,Roche Nicolas,18,AG2R La Mondiale,7,2010,▲6
+29,13,37.0,17,Cancellara Fabian,19,Saxo Bank,7,2010,▼2
+28,186,37.0,20,Pérez Rubén,20,Euskaltel - Euskadi,7,2010,-
+27,1,,25*,Contador Alberto,21*,Astana,7,2010,-
+25,65,35.0,18,Ladagnous Matthieu,21,Francaise des Jeux,7,2010,▼3
+36,205,34.0,41,Hondo Danilo,22,Lampre - Farnese Vini,7,2010,▲19
+28,87,33.0,19,Mondory Lloyd,23,AG2R La Mondiale,7,2010,▼4
+29,173,33.0,23,Dumoulin Samuel,24,"Cofidis, le Crédit en Ligne",7,2010,▼1
+29,145,33.0,29,Knees Christian,25,Milram,7,2010,▲4
+25,174,30.0,22,El Fares Julien,26,"Cofidis, le Crédit en Ligne",7,2010,▼4
+24,144,29.0,25,Kluge Roger,27,Milram,7,2010,▼2
+27,141,26.0,38,Gerdemann Linus,28,Milram,7,2010,▲10
+25,167,26.0,62,Perget Mathieu,29,Caisse d'Epargne,7,2010,▲33
+25,11,26.0,27,Schleck Andy,30,Saxo Bank,7,2010,▼3
+35,52,25.0,26,Dean Julian,31,Team Garmin - Transitions,7,2010,▼5
+30,31,25.0,28,Wiggins Bradley,32,Sky Procycling,7,2010,▼4
+23,219,24.0,109,Valls Rafael,33,Footon-Servetto,7,2010,▲76
+27,101,24.0,34,Van den Broeck Jurgen,34,Omega Pharma-Lotto,7,2010,-
+34,194,22.0,95,Garate Juan Manuel,35,Rabobank ProTeam,7,2010,▲60
+30,105,22.0,30,Lang Sebastian,36,Omega Pharma-Lotto,7,2010,▼6
+29,58,21.0,31,Vansummeren Johan,37,Team Garmin - Transitions,7,2010,▼6
+31,151,21.0,112,Voeckler Thomas,38,Bbox Bouygues Telecom,7,2010,▲74
+25,152,20.0,32,Arashiro Yukiya,39,Bbox Bouygues Telecom,7,2010,▼7
+33,146,20.0,33,Roberts Luke,40,Milram,7,2010,▼7
+36,9,20.0,35,Vinokourov Alexandre,41,Astana,7,2010,▼6
+34,193,18.0,36,Freire Óscar,42,Rabobank ProTeam,7,2010,▼6
+32,191,,38*,Menchov Denis,44*,Rabobank ProTeam,7,2010,-
+28,107,18.0,98,Moreno Daniel,43,Omega Pharma-Lotto,7,2010,▲55
+33,57,17.0,37,Millar David,44,Team Garmin - Transitions,7,2010,▼7
+31,164,17.0,39,Gutiérrez José Iván,45,Caisse d'Epargne,7,2010,▼6
+26,37,17.0,40,Löfkvist Thomas,46,Sky Procycling,7,2010,▼6
+31,154,16.0,123,Fédrigo Pierrick,47,Bbox Bouygues Telecom,7,2010,▲76
+38,21,16.0,59,Armstrong Lance,48,RadioShack,7,2010,▲11
+29,132,,44*,Barredo Carlos,51*,Quickstep - Innergetic,7,2010,-
+26,123,16.0,42,Bookwalter Brent,49,BMC Racing Team,7,2010,▼7
+25,103,15.0,43,de Greef Francis,50,Omega Pharma-Lotto,7,2010,▼7
+27,185,15.0,44,Pérez Alan,51,Euskaltel - Euskadi,7,2010,▼7
+32,181,15.0,46,Sánchez Samuel,52,Euskaltel - Euskadi,7,2010,▼6
+30,168,14.0,119,Plaza Rubén,53,Caisse d'Epargne,7,2010,▲66
+25,115,14.0,45,Martin Tony,54,Team HTC - Columbia,7,2010,▼9
+28,139,14.0,47,Wynants Maarten,55,Quickstep - Innergetic,7,2010,▼8
+24,192,14.0,48,Boom Lars,56,Rabobank ProTeam,7,2010,▼8
+26,161,14.0,58,Sánchez Luis León,57,Caisse d'Epargne,7,2010,▲1
+27,119,12.0,51,Siutsou Kanstantsin,58,Team HTC - Columbia,7,2010,▼7
+24,214,12.0,49,Durán Arkaitz,59,Footon-Servetto,7,2010,▼10
+32,34,12.0,50,Flecha Juan Antonio,60,Sky Procycling,7,2010,▼10
+30,98,12.0,52,Lancaster Brett,61,Cervelo Test Team,7,2010,▼9
+31,62,12.0,54,Casar Sandy,62,Francaise des Jeux,7,2010,▼8
+35,102,12.0,55,Aerts Mario,63,Omega Pharma-Lotto,7,2010,▼8
+26,3,12.0,53,Grivko Andrey,64,Astana,7,2010,▼11
+29,165,11.0,56,Kiryienka Vasil,65,Caisse d'Epargne,7,2010,▼9
+24,211,11.0,,Capecchi Eros,66,Footon-Servetto,7,2010,-
+28,217,11.0,57,Mayoz Iban,67,Footon-Servetto,7,2010,▼10
+38,23,11.0,60,Horner Chris,68,RadioShack,7,2010,▼8
+33,138,11.0,61,van de Walle Jurgen,69,Quickstep - Innergetic,7,2010,▼8
+24,44,10.0,63,Kreuziger Roman,70,Liquigas - Doimo,7,2010,▼7
+28,176,10.0,64,Minard Sébastien,71,"Cofidis, le Crédit en Ligne",7,2010,▼7
+22,155,10.0,106,Gautier Cyril,72,Bbox Bouygues Telecom,7,2010,▲34
+32,183,9.0,66,Martínez Egoi,73,Euskaltel - Euskadi,7,2010,▼7
+34,32,9.0,65,Barry Michael,74,Sky Procycling,7,2010,▼9
+23,156,8.0,68,Rolland Pierre,75,Bbox Bouygues Telecom,7,2010,▼7
+27,178,8.0,114,Monier Damien,76,"Cofidis, le Crédit en Ligne",7,2010,▲38
+32,159,8.0,69,Vogondy Nicolas,77,Bbox Bouygues Telecom,7,2010,▼8
+33,182,6.0,67,Isasi Iñaki,78,Euskaltel - Euskadi,7,2010,▼11
+37,126,6.0,70,Hincapie George,79,BMC Racing Team,7,2010,▼9
+36,25,6.0,71,Leipheimer Levi,80,RadioShack,7,2010,▼9
+28,133,6.0,72,De Weert Kevin,81,Quickstep - Innergetic,7,2010,▼9
+27,116,6.0,73,Monfort Maxime,82,Team HTC - Columbia,7,2010,▼9
+25,143,5.0,77,Fröhlinger Johannes,83,Milram,7,2010,▼6
+26,38,5.0,74,Pauwels Serge,84,Sky Procycling,7,2010,▼10
+26,163,4.0,76,Erviti Imanol,85,Caisse d'Epargne,7,2010,▼9
+29,33,4.0,75,Cummings Steve,86,Sky Procycling,7,2010,▼11
+28,72,4.0,79,Brutt Pavel,87,Team Katusha,7,2010,▼8
+26,83,4.0,78,Champion Dimitri,88,AG2R La Mondiale,7,2010,▼10
+30,149,4.0,81,Wegmann Fabian,89,Milram,7,2010,▼8
+27,79,4.0,80,Vorganov Eduard,90,Team Katusha,7,2010,▼10
+25,12,4.0,82,Breschel Matti,91,Saxo Bank,7,2010,▼9
+26,22,3.0,84,Brajkovič Janez,92,RadioShack,7,2010,▼8
+30,118,3.0,85,Rogers Michael,93,Team HTC - Columbia,7,2010,▼8
+29,61,3.0,91,Le Mével Christophe,94,Francaise des Jeux,7,2010,▼3
+24,195,2.0,94,Gesink Robert,95,Rabobank ProTeam,7,2010,▼1
+35,91,2.0,96,Sastre Carlos,96,Cervelo Test Team,7,2010,-
+32,41,2.0,97,Basso Ivan,97,Liquigas - Doimo,7,2010,-
+31,77,2.0,104,Rodríguez Joaquim,98,Team Katusha,7,2010,▲6
+35,24,2.0,86,Klöden Andreas,99,RadioShack,7,2010,▼13
+31,198,2.0,88,Tankink Bram,100,Rabobank ProTeam,7,2010,▼12
+29,71,2.0,89,Karpets Vladimir,101,Team Katusha,7,2010,▼12
+28,179,2.0,102,Pauriol Rémi,102,"Cofidis, le Crédit en Ligne",7,2010,-
+31,85,2.0,103,Gadret John,103,AG2R La Mondiale,7,2010,-
+30,135,2.0,115,Pineau Jérôme,104,Quickstep - Innergetic,7,2010,▲11
+29,89,2.0,87,Riblon Christophe,105,AG2R La Mondiale,7,2010,▼18
+34,197,2.0,93,Niermann Grischa,106,Rabobank ProTeam,7,2010,▼13
+29,74,2.0,111,Kolobnev Alexandr,107,Team Katusha,7,2010,▲4
+30,28,2.0,100,Popovych Yaroslav,108,RadioShack,7,2010,▼8
+33,93,2.0,110,Gustov Volodymyr,109,Cervelo Test Team,7,2010,▲1
+31,189,2.0,128,Verdugo Gorka,110,Euskaltel - Euskadi,7,2010,▲18
+25,14,2.0,83,Fuglsang Jakob,111,Saxo Bank,7,2010,▼28
+23,162,2.0,92,Costa Rui,112,Caisse d'Epargne,7,2010,▼20
+27,147,2.0,121,Rohregger Thomas,113,Milram,7,2010,▲8
+30,188,2.0,132,Velasco Iván,114,Euskaltel - Euskadi,7,2010,▲18
+30,45,2.0,118,Kuschynski Aleksandr,115,Liquigas - Doimo,7,2010,▲3
+39,166,2.0,120,Moreau Christophe,116,Caisse d'Epargne,7,2010,▲4
+32,218,2.0,125,Pérez Aitor,117,Footon-Servetto,7,2010,▲8
+30,122,2.0,99,Ballan Alessandro,118,BMC Racing Team,7,2010,▼19
+31,84,2.0,101,Elmiger Martin,119,AG2R La Mondiale,7,2010,▼18
+31,7,2.0,105,Noval Benjamin,120,Astana,7,2010,▼15
+29,203,2.0,108,Da Dalto Mauro,121,Lampre - Farnese Vini,7,2010,▼13
+23,76,2.0,116,Pliuschin Alexandr,122,Team Katusha,7,2010,▼6
+29,5,2.0,117,Iglinskiy Maxim,123,Astana,7,2010,▼6
+23,43,2.0,90,Koren Kristijan,124,Liquigas - Doimo,7,2010,▼34
+34,127,2.0,107,Kroon Karsten,125,BMC Racing Team,7,2010,▼18
+33,8,2.0,139,Tiralongo Paolo,126,Astana,7,2010,▲13
+26,56,2.0,113,Maaskant Martijn,127,Team Garmin - Transitions,7,2010,▼14
+24,63,2.0,124,Di Grégorio Rémy,128,Francaise des Jeux,7,2010,▼4
+30,35,2.0,127,Gerrans Simon,129,Sky Procycling,7,2010,▼2
+31,153,2.0,129,Charteau Anthony,130,Bbox Bouygues Telecom,7,2010,▼1
+32,48,2.0,137,Szmyd Sylwester,131,Liquigas - Doimo,7,2010,▲6
+28,157,2.0,130,Sprick Matthieu,132,Bbox Bouygues Telecom,7,2010,▼2
+32,88,2.0,135,Nocentini Rinaldo,133,AG2R La Mondiale,7,2010,▲2
+25,215,2.0,126,Eibegger Markus,134,Footon-Servetto,7,2010,▼8
+26,6,2.0,143,Navarro Daniel,135,Astana,7,2010,▲8
+29,112,2.0,131,Eisel Bernhard,136,Team HTC - Columbia,7,2010,▼5
+25,204,2.0,134,Gavazzi Francesco,137,Lampre - Farnese Vini,7,2010,▼3
+36,94,2.0,133,Hunt Jeremy,138,Cervelo Test Team,7,2010,▼5
+30,42,2.0,136,Bellotti Francesco,139,Liquigas - Doimo,7,2010,▼3
+23,82,2.0,142,Bouet Maxime,140,AG2R La Mondiale,7,2010,▲2
+35,172,2.0,138,Augé Stéphane,141,"Cofidis, le Crédit en Ligne",7,2010,▼3
+35,113,2.0,140,Grabsch Bert,142,Team HTC - Columbia,7,2010,▼2
+27,136,2.0,141,Reda Francesco,143,Quickstep - Innergetic,7,2010,▼2
+26,78,2.0,122,Vandenbergh Stijn,144,Team Katusha,7,2010,▼22
+36,15,2.0,144,O'Grady Stuart,145,Saxo Bank,7,2010,▼1
+32,95,118.0,1,Hushovd Thor,1,Cervelo Test Team,8,2010,-
+36,208,114.0,2,Petacchi Alessandro,2,Lampre - Farnese Vini,8,2010,-
+38,75,105.0,3,McEwen Robbie,3,Team Katusha,8,2010,-
+25,169,92.0,4,Rojas José Joaquín,4,Caisse d'Epargne,8,2010,-
+25,111,85.0,5,Cavendish Mark,5,Team HTC - Columbia,8,2010,-
+23,36,82.0,6,Boasson Hagen Edvald,6,Sky Procycling,8,2010,-
+26,158,79.0,7,Turgot Sébastien,7,Bbox Bouygues Telecom,8,2010,-
+24,39,74.0,8,Thomas Geraint,8,Sky Procycling,8,2010,-
+23,142,71.0,9,Ciolek Gerald,9,Milram,8,2010,-
+31,131,69.0,10,Chavanel Sylvain,10,Quickstep - Innergetic,8,2010,-
+33,121,63.0,12,Evans Cadel,11,BMC Racing Team,8,2010,▲1
+23,46,54.0,11,Oss Daniel,12,Liquigas - Doimo,8,2010,▼1
+26,53,53.0,13,Farrar Tyler,13,Team Garmin - Transitions,8,2010,-
+27,117,48.0,14,Renshaw Mark,14,Team HTC - Columbia,8,2010,-
+25,108,47.0,15,Roelandts Jürgen,15,Omega Pharma-Lotto,8,2010,-
+27,1,,21*,Contador Alberto,16*,Astana,8,2010,-
+25,11,47.0,30,Schleck Andy,16,Saxo Bank,8,2010,▲14
+29,54,45.0,16,Hesjedal Ryder,17,Team Garmin - Transitions,8,2010,▼1
+33,55,45.0,17,Hunter Robert,18,Team Garmin - Transitions,8,2010,▼1
+26,81,39.0,18,Roche Nicolas,19,AG2R La Mondiale,8,2010,▼1
+29,13,38.0,19,Cancellara Fabian,20,Saxo Bank,8,2010,▼1
+28,186,37.0,20,Pérez Rubén,21,Euskaltel - Euskadi,8,2010,▼1
+25,65,37.0,21,Ladagnous Matthieu,22,Francaise des Jeux,8,2010,▼1
+36,205,34.0,22,Hondo Danilo,23,Lampre - Farnese Vini,8,2010,▼1
+28,87,33.0,23,Mondory Lloyd,24,AG2R La Mondiale,8,2010,▼1
+29,173,33.0,24,Dumoulin Samuel,25,"Cofidis, le Crédit en Ligne",8,2010,▼1
+27,101,33.0,34,Van den Broeck Jurgen,26,Omega Pharma-Lotto,8,2010,▲8
+32,181,31.0,52,Sánchez Samuel,27,Euskaltel - Euskadi,8,2010,▲25
+29,145,31.0,25,Knees Christian,28,Milram,8,2010,▼3
+25,174,30.0,26,El Fares Julien,29,"Cofidis, le Crédit en Ligne",8,2010,▼3
+24,144,29.0,27,Kluge Roger,30,Milram,8,2010,▼3
+25,167,26.0,29,Perget Mathieu,31,Caisse d'Epargne,8,2010,▼2
+27,141,26.0,28,Gerdemann Linus,32,Milram,8,2010,▼4
+35,52,26.0,31,Dean Julian,33,Team Garmin - Transitions,8,2010,▼2
+30,31,25.0,32,Wiggins Bradley,34,Sky Procycling,8,2010,▼2
+23,219,24.0,33,Valls Rafael,35,Footon-Servetto,8,2010,▼2
+35,102,24.0,63,Aerts Mario,36,Omega Pharma-Lotto,8,2010,▲27
+32,191,,44*,Menchov Denis,38*,Rabobank ProTeam,8,2010,-
+24,44,23.0,70,Kreuziger Roman,37,Liquigas - Doimo,8,2010,▲33
+34,194,23.0,35,Garate Juan Manuel,38,Rabobank ProTeam,8,2010,▼3
+30,105,22.0,36,Lang Sebastian,39,Omega Pharma-Lotto,8,2010,▼3
+29,58,22.0,37,Vansummeren Johan,40,Team Garmin - Transitions,8,2010,▼3
+31,151,21.0,38,Voeckler Thomas,41,Bbox Bouygues Telecom,8,2010,▼3
+33,146,21.0,40,Roberts Luke,42,Milram,8,2010,▼2
+25,152,20.0,39,Arashiro Yukiya,43,Bbox Bouygues Telecom,8,2010,▼4
+36,9,20.0,41,Vinokourov Alexandre,44,Astana,8,2010,▼3
+34,193,20.0,42,Freire Óscar,45,Rabobank ProTeam,8,2010,▼3
+24,195,18.0,95,Gesink Robert,46,Rabobank ProTeam,8,2010,▲49
+28,107,18.0,43,Moreno Daniel,47,Omega Pharma-Lotto,8,2010,▼4
+33,57,17.0,44,Millar David,48,Team Garmin - Transitions,8,2010,▼4
+31,164,17.0,45,Gutiérrez José Iván,49,Caisse d'Epargne,8,2010,▼4
+26,37,17.0,46,Löfkvist Thomas,50,Sky Procycling,8,2010,▼4
+31,154,16.0,47,Fédrigo Pierrick,51,Bbox Bouygues Telecom,8,2010,▼4
+38,21,16.0,48,Armstrong Lance,52,RadioShack,8,2010,▼4
+29,132,,51*,Barredo Carlos,55*,Quickstep - Innergetic,8,2010,-
+26,123,16.0,49,Bookwalter Brent,53,BMC Racing Team,8,2010,▼4
+25,103,15.0,50,de Greef Francis,54,Omega Pharma-Lotto,8,2010,▼4
+27,185,15.0,51,Pérez Alan,55,Euskaltel - Euskadi,8,2010,▼4
+30,168,15.0,53,Plaza Rubén,56,Caisse d'Epargne,8,2010,▼3
+25,115,14.0,54,Martin Tony,57,Team HTC - Columbia,8,2010,▼3
+36,25,14.0,80,Leipheimer Levi,58,RadioShack,8,2010,▲22
+28,176,14.0,71,Minard Sébastien,59,"Cofidis, le Crédit en Ligne",8,2010,▲12
+36,196,14.0,,Moerenhout Koos,60,Rabobank ProTeam,8,2010,-
+28,139,13.0,55,Wynants Maarten,61,Quickstep - Innergetic,8,2010,▼6
+24,192,13.0,56,Boom Lars,62,Rabobank ProTeam,8,2010,▼6
+26,161,12.0,57,Sánchez Luis León,63,Caisse d'Epargne,8,2010,▼6
+27,119,12.0,58,Siutsou Kanstantsin,64,Team HTC - Columbia,8,2010,▼6
+24,214,12.0,59,Durán Arkaitz,65,Footon-Servetto,8,2010,▼6
+32,34,12.0,60,Flecha Juan Antonio,66,Sky Procycling,8,2010,▼6
+30,98,12.0,61,Lancaster Brett,67,Cervelo Test Team,8,2010,▼6
+31,62,12.0,62,Casar Sandy,68,Francaise des Jeux,8,2010,▼6
+24,211,12.0,66,Capecchi Eros,69,Footon-Servetto,8,2010,▼3
+26,3,12.0,64,Grivko Andrey,70,Astana,8,2010,▼6
+29,165,11.0,65,Kiryienka Vasil,71,Caisse d'Epargne,8,2010,▼6
+28,217,11.0,67,Mayoz Iban,72,Footon-Servetto,8,2010,▼5
+38,23,11.0,68,Horner Chris,73,RadioShack,8,2010,▼5
+33,138,11.0,69,van de Walle Jurgen,74,Quickstep - Innergetic,8,2010,▼5
+32,41,10.0,97,Basso Ivan,75,Liquigas - Doimo,8,2010,▲22
+32,183,10.0,73,Martínez Egoi,76,Euskaltel - Euskadi,8,2010,▼3
+22,155,10.0,72,Gautier Cyril,77,Bbox Bouygues Telecom,8,2010,▼5
+34,32,9.0,74,Barry Michael,78,Sky Procycling,8,2010,▼4
+35,91,8.0,96,Sastre Carlos,79,Cervelo Test Team,8,2010,▲17
+30,118,8.0,93,Rogers Michael,80,Team HTC - Columbia,8,2010,▲13
+27,178,8.0,76,Monier Damien,81,"Cofidis, le Crédit en Ligne",8,2010,▼5
+28,133,7.0,81,De Weert Kevin,82,Quickstep - Innergetic,8,2010,▼1
+29,89,6.0,105,Riblon Christophe,83,AG2R La Mondiale,8,2010,▲22
+23,156,6.0,75,Rolland Pierre,84,Bbox Bouygues Telecom,8,2010,▼9
+26,163,6.0,85,Erviti Imanol,85,Caisse d'Epargne,8,2010,-
+32,159,6.0,77,Vogondy Nicolas,86,Bbox Bouygues Telecom,8,2010,▼9
+37,126,6.0,79,Hincapie George,87,BMC Racing Team,8,2010,▼8
+33,182,6.0,78,Isasi Iñaki,88,Euskaltel - Euskadi,8,2010,▼10
+31,77,6.0,98,Rodríguez Joaquim,89,Team Katusha,8,2010,▲9
+27,116,6.0,82,Monfort Maxime,90,Team HTC - Columbia,8,2010,▼8
+25,143,6.0,83,Fröhlinger Johannes,91,Milram,8,2010,▼8
+26,38,5.0,84,Pauwels Serge,92,Sky Procycling,8,2010,▼8
+29,33,4.0,86,Cummings Steve,93,Sky Procycling,8,2010,▼7
+28,72,4.0,87,Brutt Pavel,94,Team Katusha,8,2010,▼7
+26,83,4.0,88,Champion Dimitri,95,AG2R La Mondiale,8,2010,▼7
+30,149,4.0,89,Wegmann Fabian,96,Milram,8,2010,▼7
+27,79,4.0,90,Vorganov Eduard,97,Team Katusha,8,2010,▼7
+25,12,4.0,91,Breschel Matti,98,Saxo Bank,8,2010,▼7
+35,24,3.0,99,Klöden Andreas,99,RadioShack,8,2010,-
+31,85,3.0,103,Gadret John,100,AG2R La Mondiale,8,2010,▲3
+29,61,3.0,94,Le Mével Christophe,101,Francaise des Jeux,8,2010,▼7
+28,179,2.0,102,Pauriol Rémi,102,"Cofidis, le Crédit en Ligne",8,2010,-
+34,197,2.0,106,Niermann Grischa,103,Rabobank ProTeam,8,2010,▲3
+26,22,2.0,92,Brajkovič Janez,104,RadioShack,8,2010,▼12
+31,198,2.0,100,Tankink Bram,105,Rabobank ProTeam,8,2010,▼5
+33,93,2.0,109,Gustov Volodymyr,106,Cervelo Test Team,8,2010,▲3
+28,177,2.0,,Moinard Amaël,107,"Cofidis, le Crédit en Ligne",8,2010,-
+31,189,2.0,110,Verdugo Gorka,108,Euskaltel - Euskadi,8,2010,▲2
+30,188,2.0,114,Velasco Iván,109,Euskaltel - Euskadi,8,2010,▲5
+25,14,2.0,111,Fuglsang Jakob,110,Saxo Bank,8,2010,▲1
+29,71,2.0,101,Karpets Vladimir,111,Team Katusha,8,2010,▼10
+30,135,2.0,104,Pineau Jérôme,112,Quickstep - Innergetic,8,2010,▼8
+30,28,2.0,108,Popovych Yaroslav,113,RadioShack,8,2010,▼5
+30,45,2.0,115,Kuschynski Aleksandr,114,Liquigas - Doimo,8,2010,▲1
+29,74,2.0,107,Kolobnev Alexandr,115,Team Katusha,8,2010,▼8
+31,153,2.0,130,Charteau Anthony,116,Bbox Bouygues Telecom,8,2010,▲14
+39,166,2.0,116,Moreau Christophe,117,Caisse d'Epargne,8,2010,▼1
+26,6,2.0,135,Navarro Daniel,118,Astana,8,2010,▲17
+32,48,2.0,131,Szmyd Sylwester,119,Liquigas - Doimo,8,2010,▲12
+23,162,2.0,112,Costa Rui,120,Caisse d'Epargne,8,2010,▼8
+27,147,2.0,113,Rohregger Thomas,121,Milram,8,2010,▼8
+33,8,2.0,126,Tiralongo Paolo,122,Astana,8,2010,▲4
+30,122,2.0,118,Ballan Alessandro,123,BMC Racing Team,8,2010,▼5
+31,7,2.0,120,Noval Benjamin,124,Astana,8,2010,▼4
+23,76,2.0,122,Pliuschin Alexandr,125,Team Katusha,8,2010,▼3
+28,157,2.0,132,Sprick Matthieu,126,Bbox Bouygues Telecom,8,2010,▲6
+24,63,2.0,128,Di Grégorio Rémy,127,Francaise des Jeux,8,2010,▲1
+32,218,2.0,117,Pérez Aitor,128,Footon-Servetto,8,2010,▼11
+31,84,2.0,119,Elmiger Martin,129,AG2R La Mondiale,8,2010,▼10
+29,203,2.0,121,Da Dalto Mauro,130,Lampre - Farnese Vini,8,2010,▼9
+30,42,2.0,139,Bellotti Francesco,131,Liquigas - Doimo,8,2010,▲8
+29,5,2.0,123,Iglinskiy Maxim,132,Astana,8,2010,▼9
+32,88,2.0,133,Nocentini Rinaldo,133,AG2R La Mondiale,8,2010,-
+23,43,2.0,124,Koren Kristijan,134,Liquigas - Doimo,8,2010,▼10
+34,127,2.0,125,Kroon Karsten,135,BMC Racing Team,8,2010,▼10
+26,56,2.0,127,Maaskant Martijn,136,Team Garmin - Transitions,8,2010,▼9
+25,204,2.0,137,Gavazzi Francesco,137,Lampre - Farnese Vini,8,2010,-
+23,82,2.0,140,Bouet Maxime,138,AG2R La Mondiale,8,2010,▲2
+30,35,2.0,129,Gerrans Simon,139,Sky Procycling,8,2010,▼10
+25,215,2.0,134,Eibegger Markus,140,Footon-Servetto,8,2010,▼6
+29,112,2.0,136,Eisel Bernhard,141,Team HTC - Columbia,8,2010,▼5
+36,94,2.0,138,Hunt Jeremy,142,Cervelo Test Team,8,2010,▼4
+35,172,2.0,141,Augé Stéphane,143,"Cofidis, le Crédit en Ligne",8,2010,▼2
+35,113,2.0,142,Grabsch Bert,144,Team HTC - Columbia,8,2010,▼2
+27,136,2.0,143,Reda Francesco,145,Quickstep - Innergetic,8,2010,▼2
+36,15,2.0,145,O'Grady Stuart,146,Saxo Bank,8,2010,▼1
+32,95,124.0,1,Hushovd Thor,1,Cervelo Test Team,9,2010,-
+36,208,114.0,2,Petacchi Alessandro,2,Lampre - Farnese Vini,9,2010,-
+38,75,105.0,3,McEwen Robbie,3,Team Katusha,9,2010,-
+25,169,92.0,4,Rojas José Joaquín,4,Caisse d'Epargne,9,2010,-
+25,111,85.0,5,Cavendish Mark,5,Team HTC - Columbia,9,2010,-
+23,36,82.0,6,Boasson Hagen Edvald,6,Sky Procycling,9,2010,-
+26,158,79.0,7,Turgot Sébastien,7,Bbox Bouygues Telecom,9,2010,-
+24,39,74.0,8,Thomas Geraint,8,Sky Procycling,9,2010,-
+23,142,71.0,9,Ciolek Gerald,9,Milram,9,2010,-
+31,131,69.0,10,Chavanel Sylvain,10,Quickstep - Innergetic,9,2010,-
+33,121,63.0,11,Evans Cadel,11,BMC Racing Team,9,2010,-
+27,1,,16*,Contador Alberto,12*,Astana,9,2010,-
+25,11,57.0,16,Schleck Andy,12,Saxo Bank,9,2010,▲4
+23,46,54.0,12,Oss Daniel,13,Liquigas - Doimo,9,2010,▼1
+26,53,54.0,13,Farrar Tyler,14,Team Garmin - Transitions,9,2010,▼1
+27,117,53.0,14,Renshaw Mark,15,Team HTC - Columbia,9,2010,▼1
+25,108,48.0,15,Roelandts Jürgen,16,Omega Pharma-Lotto,9,2010,▼1
+29,54,47.0,17,Hesjedal Ryder,17,Team Garmin - Transitions,9,2010,-
+32,181,45.0,27,Sánchez Samuel,18,Euskaltel - Euskadi,9,2010,▲9
+33,55,39.0,18,Hunter Robert,19,Team Garmin - Transitions,9,2010,▼1
+26,81,39.0,19,Roche Nicolas,20,AG2R La Mondiale,9,2010,▼1
+29,13,38.0,20,Cancellara Fabian,21,Saxo Bank,9,2010,▼1
+28,186,37.0,21,Pérez Rubén,22,Euskaltel - Euskadi,9,2010,▼1
+31,62,37.0,68,Casar Sandy,23,Francaise des Jeux,9,2010,▲45
+25,65,35.0,22,Ladagnous Matthieu,24,Francaise des Jeux,9,2010,▼2
+36,205,34.0,23,Hondo Danilo,25,Lampre - Farnese Vini,9,2010,▼2
+28,87,33.0,24,Mondory Lloyd,26,AG2R La Mondiale,9,2010,▼2
+29,173,33.0,25,Dumoulin Samuel,27,"Cofidis, le Crédit en Ligne",9,2010,▼2
+27,101,33.0,26,Van den Broeck Jurgen,28,Omega Pharma-Lotto,9,2010,▼2
+29,145,31.0,28,Knees Christian,29,Milram,9,2010,▼1
+25,174,30.0,29,El Fares Julien,30,"Cofidis, le Crédit en Ligne",9,2010,▼1
+26,161,29.0,63,Sánchez Luis León,31,Caisse d'Epargne,9,2010,▲32
+32,191,,38*,Menchov Denis,33*,Rabobank ProTeam,9,2010,-
+25,167,29.0,31,Perget Mathieu,32,Caisse d'Epargne,9,2010,▼1
+27,141,26.0,32,Gerdemann Linus,33,Milram,9,2010,▼1
+35,52,26.0,33,Dean Julian,34,Team Garmin - Transitions,9,2010,▼1
+30,31,26.0,34,Wiggins Bradley,35,Sky Procycling,9,2010,▼1
+23,219,25.0,35,Valls Rafael,36,Footon-Servetto,9,2010,▼1
+35,102,24.0,36,Aerts Mario,37,Omega Pharma-Lotto,9,2010,▼1
+31,164,24.0,49,Gutiérrez José Iván,38,Caisse d'Epargne,9,2010,▲11
+24,195,23.0,46,Gesink Robert,39,Rabobank ProTeam,9,2010,▲7
+24,44,22.0,37,Kreuziger Roman,40,Liquigas - Doimo,9,2010,▼3
+34,194,22.0,38,Garate Juan Manuel,41,Rabobank ProTeam,9,2010,▼3
+30,105,22.0,39,Lang Sebastian,42,Omega Pharma-Lotto,9,2010,▼3
+29,58,22.0,40,Vansummeren Johan,43,Team Garmin - Transitions,9,2010,▼3
+31,151,21.0,41,Voeckler Thomas,44,Bbox Bouygues Telecom,9,2010,▼3
+25,152,21.0,43,Arashiro Yukiya,45,Bbox Bouygues Telecom,9,2010,▼2
+33,146,20.0,42,Roberts Luke,46,Milram,9,2010,▼4
+36,25,20.0,58,Leipheimer Levi,47,RadioShack,9,2010,▲11
+36,9,20.0,44,Vinokourov Alexandre,48,Astana,9,2010,▼4
+34,193,19.0,45,Freire Óscar,49,Rabobank ProTeam,9,2010,▼4
+28,107,18.0,47,Moreno Daniel,50,Omega Pharma-Lotto,9,2010,▼3
+39,166,18.0,117,Moreau Christophe,51,Caisse d'Epargne,9,2010,▲66
+33,57,17.0,48,Millar David,52,Team Garmin - Transitions,9,2010,▼4
+26,37,17.0,50,Löfkvist Thomas,53,Sky Procycling,9,2010,▼3
+31,154,17.0,51,Fédrigo Pierrick,54,Bbox Bouygues Telecom,9,2010,▼3
+38,21,16.0,52,Armstrong Lance,55,RadioShack,9,2010,▼3
+28,201,16.0,,Cunego Damiano,56,Lampre - Farnese Vini,9,2010,-
+29,132,,55*,Barredo Carlos,59*,Quickstep - Innergetic,9,2010,-
+26,123,15.0,53,Bookwalter Brent,57,BMC Racing Team,9,2010,▼4
+25,103,15.0,54,de Greef Francis,58,Omega Pharma-Lotto,9,2010,▼4
+27,185,15.0,55,Pérez Alan,59,Euskaltel - Euskadi,9,2010,▼4
+30,168,15.0,56,Plaza Rubén,60,Caisse d'Epargne,9,2010,▼4
+31,153,14.0,116,Charteau Anthony,61,Bbox Bouygues Telecom,9,2010,▲55
+25,115,14.0,57,Martin Tony,62,Team HTC - Columbia,9,2010,▼5
+28,176,14.0,59,Minard Sébastien,63,"Cofidis, le Crédit en Ligne",9,2010,▼4
+36,196,14.0,60,Moerenhout Koos,64,Rabobank ProTeam,9,2010,▼4
+24,192,14.0,62,Boom Lars,65,Rabobank ProTeam,9,2010,▼3
+28,139,13.0,61,Wynants Maarten,66,Quickstep - Innergetic,9,2010,▼5
+31,77,12.0,89,Rodríguez Joaquim,67,Team Katusha,9,2010,▲22
+27,119,12.0,64,Siutsou Kanstantsin,68,Team HTC - Columbia,9,2010,▼4
+32,34,12.0,66,Flecha Juan Antonio,69,Sky Procycling,9,2010,▼3
+24,214,12.0,65,Durán Arkaitz,70,Footon-Servetto,9,2010,▼5
+30,98,12.0,67,Lancaster Brett,71,Cervelo Test Team,9,2010,▼4
+24,211,12.0,69,Capecchi Eros,72,Footon-Servetto,9,2010,▼3
+29,165,12.0,71,Kiryienka Vasil,73,Caisse d'Epargne,9,2010,▼2
+26,3,12.0,70,Grivko Andrey,74,Astana,9,2010,▼4
+28,217,11.0,72,Mayoz Iban,75,Footon-Servetto,9,2010,▼3
+32,41,11.0,75,Basso Ivan,76,Liquigas - Doimo,9,2010,▼1
+38,23,11.0,73,Horner Chris,77,RadioShack,9,2010,▼4
+33,138,10.0,74,van de Walle Jurgen,78,Quickstep - Innergetic,9,2010,▼4
+28,133,10.0,82,De Weert Kevin,79,Quickstep - Innergetic,9,2010,▲3
+22,155,10.0,77,Gautier Cyril,80,Bbox Bouygues Telecom,9,2010,▼3
+32,183,10.0,76,Martínez Egoi,81,Euskaltel - Euskadi,9,2010,▼5
+25,143,8.0,91,Fröhlinger Johannes,82,Milram,9,2010,▲9
+34,32,8.0,78,Barry Michael,83,Sky Procycling,9,2010,▼5
+35,91,8.0,79,Sastre Carlos,84,Cervelo Test Team,9,2010,▼5
+30,118,8.0,80,Rogers Michael,85,Team HTC - Columbia,9,2010,▼5
+27,178,8.0,81,Monier Damien,86,"Cofidis, le Crédit en Ligne",9,2010,▼5
+29,89,7.0,83,Riblon Christophe,87,AG2R La Mondiale,9,2010,▼4
+23,156,6.0,84,Rolland Pierre,88,Bbox Bouygues Telecom,9,2010,▼4
+26,163,6.0,85,Erviti Imanol,89,Caisse d'Epargne,9,2010,▼4
+32,159,6.0,86,Vogondy Nicolas,90,Bbox Bouygues Telecom,9,2010,▼4
+38,19,6.0,,Voigt Jens,91,Saxo Bank,9,2010,-
+37,126,6.0,87,Hincapie George,92,BMC Racing Team,9,2010,▼5
+33,182,6.0,88,Isasi Iñaki,93,Euskaltel - Euskadi,9,2010,▼5
+27,116,6.0,90,Monfort Maxime,94,Team HTC - Columbia,9,2010,▼4
+26,38,6.0,92,Pauwels Serge,95,Sky Procycling,9,2010,▼3
+28,72,6.0,94,Brutt Pavel,96,Team Katusha,9,2010,▼2
+29,33,4.0,93,Cummings Steve,97,Sky Procycling,9,2010,▼4
+26,83,4.0,95,Champion Dimitri,98,AG2R La Mondiale,9,2010,▼3
+30,149,4.0,96,Wegmann Fabian,99,Milram,9,2010,▼3
+25,12,4.0,98,Breschel Matti,100,Saxo Bank,9,2010,▼2
+27,79,4.0,97,Vorganov Eduard,101,Team Katusha,9,2010,▼4
+35,24,3.0,99,Klöden Andreas,102,RadioShack,9,2010,▼3
+31,85,3.0,100,Gadret John,103,AG2R La Mondiale,9,2010,▼3
+29,61,3.0,101,Le Mével Christophe,104,Francaise des Jeux,9,2010,▼3
+33,93,2.0,106,Gustov Volodymyr,105,Cervelo Test Team,9,2010,▲1
+28,179,2.0,102,Pauriol Rémi,106,"Cofidis, le Crédit en Ligne",9,2010,▼4
+26,22,2.0,104,Brajkovič Janez,107,RadioShack,9,2010,▼3
+31,198,2.0,105,Tankink Bram,108,Rabobank ProTeam,9,2010,▼3
+31,189,2.0,108,Verdugo Gorka,109,Euskaltel - Euskadi,9,2010,▼1
+34,197,2.0,103,Niermann Grischa,110,Rabobank ProTeam,9,2010,▼7
+28,177,2.0,107,Moinard Amaël,111,"Cofidis, le Crédit en Ligne",9,2010,▼4
+26,6,2.0,118,Navarro Daniel,112,Astana,9,2010,▲6
+30,135,2.0,112,Pineau Jérôme,113,Quickstep - Innergetic,9,2010,▼1
+32,48,2.0,119,Szmyd Sylwester,114,Liquigas - Doimo,9,2010,▲5
+30,188,2.0,109,Velasco Iván,115,Euskaltel - Euskadi,9,2010,▼6
+25,14,2.0,110,Fuglsang Jakob,116,Saxo Bank,9,2010,▼6
+33,8,2.0,122,Tiralongo Paolo,117,Astana,9,2010,▲5
+30,28,2.0,113,Popovych Yaroslav,118,RadioShack,9,2010,▼5
+27,147,2.0,121,Rohregger Thomas,119,Milram,9,2010,▲2
+30,45,2.0,114,Kuschynski Aleksandr,120,Liquigas - Doimo,9,2010,▼6
+23,162,2.0,120,Costa Rui,121,Caisse d'Epargne,9,2010,▼1
+29,74,2.0,115,Kolobnev Alexandr,122,Team Katusha,9,2010,▼7
+30,122,2.0,123,Ballan Alessandro,123,BMC Racing Team,9,2010,-
+31,7,2.0,124,Noval Benjamin,124,Astana,9,2010,-
+29,5,2.0,132,Iglinskiy Maxim,125,Astana,9,2010,▲7
+32,88,2.0,133,Nocentini Rinaldo,126,AG2R La Mondiale,9,2010,▲7
+24,63,2.0,127,Di Grégorio Rémy,127,Francaise des Jeux,9,2010,-
+32,218,2.0,128,Pérez Aitor,128,Footon-Servetto,9,2010,-
+28,157,2.0,126,Sprick Matthieu,129,Bbox Bouygues Telecom,9,2010,▼3
+23,43,2.0,134,Koren Kristijan,130,Liquigas - Doimo,9,2010,▲4
+23,82,2.0,138,Bouet Maxime,131,AG2R La Mondiale,9,2010,▲7
+23,76,2.0,125,Pliuschin Alexandr,132,Team Katusha,9,2010,▼7
+30,42,2.0,131,Bellotti Francesco,133,Liquigas - Doimo,9,2010,▼2
+25,204,2.0,137,Gavazzi Francesco,134,Lampre - Farnese Vini,9,2010,▲3
+34,127,2.0,135,Kroon Karsten,135,BMC Racing Team,9,2010,-
+31,84,2.0,129,Elmiger Martin,136,AG2R La Mondiale,9,2010,▼7
+29,203,2.0,130,Da Dalto Mauro,137,Lampre - Farnese Vini,9,2010,▼7
+26,56,2.0,136,Maaskant Martijn,138,Team Garmin - Transitions,9,2010,▼2
+29,112,2.0,141,Eisel Bernhard,139,Team HTC - Columbia,9,2010,▲2
+36,94,2.0,142,Hunt Jeremy,140,Cervelo Test Team,9,2010,▲2
+35,172,2.0,143,Augé Stéphane,141,"Cofidis, le Crédit en Ligne",9,2010,▲2
+35,113,2.0,144,Grabsch Bert,142,Team HTC - Columbia,9,2010,▲2
+27,136,2.0,145,Reda Francesco,143,Quickstep - Innergetic,9,2010,▲2
+36,15,2.0,146,O'Grady Stuart,144,Saxo Bank,9,2010,▲2
+32,95,138.0,1,Hushovd Thor,1,Cervelo Test Team,10,2010,-
+36,208,131.0,2,Petacchi Alessandro,2,Lampre - Farnese Vini,10,2010,-
+38,75,116.0,3,McEwen Robbie,3,Team Katusha,10,2010,-
+25,169,98.0,4,Rojas José Joaquín,4,Caisse d'Epargne,10,2010,-
+25,111,97.0,5,Cavendish Mark,5,Team HTC - Columbia,10,2010,-
+26,158,86.0,7,Turgot Sébastien,6,Bbox Bouygues Telecom,10,2010,▲1
+23,36,82.0,6,Boasson Hagen Edvald,7,Sky Procycling,10,2010,▼1
+24,39,74.0,8,Thomas Geraint,8,Sky Procycling,10,2010,-
+23,142,71.0,9,Ciolek Gerald,9,Milram,10,2010,-
+31,131,69.0,10,Chavanel Sylvain,10,Quickstep - Innergetic,10,2010,-
+33,121,63.0,11,Evans Cadel,11,BMC Racing Team,10,2010,-
+27,1,,12*,Contador Alberto,12*,Astana,10,2010,-
+25,11,57.0,12,Schleck Andy,12,Saxo Bank,10,2010,-
+23,46,54.0,13,Oss Daniel,13,Liquigas - Doimo,10,2010,-
+26,53,54.0,14,Farrar Tyler,14,Team Garmin - Transitions,10,2010,-
+26,81,53.0,20,Roche Nicolas,15,AG2R La Mondiale,10,2010,▲5
+25,108,52.0,16,Roelandts Jürgen,16,Omega Pharma-Lotto,10,2010,-
+27,117,51.0,15,Renshaw Mark,17,Team HTC - Columbia,10,2010,▼2
+29,54,48.0,17,Hesjedal Ryder,18,Team Garmin - Transitions,10,2010,▼1
+35,102,45.0,37,Aerts Mario,19,Omega Pharma-Lotto,10,2010,▲18
+28,87,43.0,26,Mondory Lloyd,20,AG2R La Mondiale,10,2010,▲6
+29,165,41.0,73,Kiryienka Vasil,21,Caisse d'Epargne,10,2010,▲52
+32,181,39.0,18,Sánchez Samuel,22,Euskaltel - Euskadi,10,2010,▼4
+33,55,39.0,19,Hunter Robert,23,Team Garmin - Transitions,10,2010,▼4
+29,13,39.0,21,Cancellara Fabian,24,Saxo Bank,10,2010,▼3
+28,186,37.0,22,Pérez Rubén,25,Euskaltel - Euskadi,10,2010,▼3
+31,62,37.0,23,Casar Sandy,26,Francaise des Jeux,10,2010,▼3
+25,65,35.0,24,Ladagnous Matthieu,27,Francaise des Jeux,10,2010,▼3
+36,205,34.0,25,Hondo Danilo,28,Lampre - Farnese Vini,10,2010,▼3
+29,173,33.0,27,Dumoulin Samuel,29,"Cofidis, le Crédit en Ligne",10,2010,▼2
+27,101,33.0,28,Van den Broeck Jurgen,30,Omega Pharma-Lotto,10,2010,▼2
+29,145,31.0,29,Knees Christian,31,Milram,10,2010,▼2
+25,174,30.0,30,El Fares Julien,32,"Cofidis, le Crédit en Ligne",10,2010,▼2
+26,161,29.0,31,Sánchez Luis León,33,Caisse d'Epargne,10,2010,▼2
+30,105,29.0,42,Lang Sebastian,34,Omega Pharma-Lotto,10,2010,▲8
+32,191,,33*,Menchov Denis,36*,Rabobank ProTeam,10,2010,-
+25,167,26.0,32,Perget Mathieu,35,Caisse d'Epargne,10,2010,▼3
+27,141,26.0,33,Gerdemann Linus,36,Milram,10,2010,▼3
+30,27,26.0,,Paulinho Sérgio Miguel,37,RadioShack,10,2010,-
+35,52,26.0,34,Dean Julian,38,Team Garmin - Transitions,10,2010,▼4
+30,31,25.0,35,Wiggins Bradley,39,Sky Procycling,10,2010,▼4
+23,219,25.0,36,Valls Rafael,40,Footon-Servetto,10,2010,▼4
+23,156,24.0,88,Rolland Pierre,41,Bbox Bouygues Telecom,10,2010,▲47
+31,164,24.0,38,Gutiérrez José Iván,42,Caisse d'Epargne,10,2010,▼4
+24,195,24.0,39,Gesink Robert,43,Rabobank ProTeam,10,2010,▼4
+24,44,22.0,40,Kreuziger Roman,44,Liquigas - Doimo,10,2010,▼4
+34,194,22.0,41,Garate Juan Manuel,45,Rabobank ProTeam,10,2010,▼4
+26,134,22.0,,Devenyns Dries,46,Quickstep - Innergetic,10,2010,-
+29,58,22.0,43,Vansummeren Johan,47,Team Garmin - Transitions,10,2010,▼4
+31,151,22.0,44,Voeckler Thomas,48,Bbox Bouygues Telecom,10,2010,▼4
+25,152,21.0,45,Arashiro Yukiya,49,Bbox Bouygues Telecom,10,2010,▼4
+33,146,20.0,46,Roberts Luke,50,Milram,10,2010,▼4
+36,25,20.0,47,Leipheimer Levi,51,RadioShack,10,2010,▼4
+36,9,20.0,48,Vinokourov Alexandre,52,Astana,10,2010,▼4
+34,193,19.0,49,Freire Óscar,53,Rabobank ProTeam,10,2010,▼4
+28,107,18.0,50,Moreno Daniel,54,Omega Pharma-Lotto,10,2010,▼4
+39,166,18.0,51,Moreau Christophe,55,Caisse d'Epargne,10,2010,▼4
+23,82,17.0,131,Bouet Maxime,56,AG2R La Mondiale,10,2010,▲75
+33,57,17.0,52,Millar David,57,Team Garmin - Transitions,10,2010,▼5
+26,37,17.0,53,Löfkvist Thomas,58,Sky Procycling,10,2010,▼5
+31,154,17.0,54,Fédrigo Pierrick,59,Bbox Bouygues Telecom,10,2010,▼5
+38,21,16.0,55,Armstrong Lance,60,RadioShack,10,2010,▼5
+28,179,16.0,106,Pauriol Rémi,61,"Cofidis, le Crédit en Ligne",10,2010,▲45
+28,201,15.0,56,Cunego Damiano,62,Lampre - Farnese Vini,10,2010,▼6
+29,132,,59*,Barredo Carlos,65*,Quickstep - Innergetic,10,2010,-
+26,123,15.0,57,Bookwalter Brent,63,BMC Racing Team,10,2010,▼6
+25,103,15.0,58,de Greef Francis,64,Omega Pharma-Lotto,10,2010,▼6
+27,185,15.0,59,Pérez Alan,65,Euskaltel - Euskadi,10,2010,▼6
+30,168,15.0,60,Plaza Rubén,66,Caisse d'Epargne,10,2010,▼6
+31,153,14.0,61,Charteau Anthony,67,Bbox Bouygues Telecom,10,2010,▼6
+25,115,14.0,62,Martin Tony,68,Team HTC - Columbia,10,2010,▼6
+28,176,14.0,63,Minard Sébastien,69,"Cofidis, le Crédit en Ligne",10,2010,▼6
+36,196,14.0,64,Moerenhout Koos,70,Rabobank ProTeam,10,2010,▼6
+24,192,14.0,65,Boom Lars,71,Rabobank ProTeam,10,2010,▼6
+28,139,13.0,66,Wynants Maarten,72,Quickstep - Innergetic,10,2010,▼6
+31,77,12.0,67,Rodríguez Joaquim,73,Team Katusha,10,2010,▼6
+27,119,12.0,68,Siutsou Kanstantsin,74,Team HTC - Columbia,10,2010,▼6
+32,34,12.0,69,Flecha Juan Antonio,75,Sky Procycling,10,2010,▼6
+24,214,12.0,70,Durán Arkaitz,76,Footon-Servetto,10,2010,▼6
+30,98,12.0,71,Lancaster Brett,77,Cervelo Test Team,10,2010,▼6
+24,211,12.0,72,Capecchi Eros,78,Footon-Servetto,10,2010,▼6
+26,3,12.0,74,Grivko Andrey,79,Astana,10,2010,▼5
+28,217,12.0,75,Mayoz Iban,80,Footon-Servetto,10,2010,▼5
+32,41,11.0,76,Basso Ivan,81,Liquigas - Doimo,10,2010,▼5
+38,23,11.0,77,Horner Chris,82,RadioShack,10,2010,▼5
+33,138,10.0,78,van de Walle Jurgen,83,Quickstep - Innergetic,10,2010,▼5
+27,178,10.0,86,Monier Damien,84,"Cofidis, le Crédit en Ligne",10,2010,▲2
+28,133,10.0,79,De Weert Kevin,85,Quickstep - Innergetic,10,2010,▼6
+22,155,10.0,80,Gautier Cyril,86,Bbox Bouygues Telecom,10,2010,▼6
+32,183,8.0,81,Martínez Egoi,87,Euskaltel - Euskadi,10,2010,▼6
+25,143,8.0,82,Fröhlinger Johannes,88,Milram,10,2010,▼6
+34,32,8.0,83,Barry Michael,89,Sky Procycling,10,2010,▼6
+35,91,8.0,84,Sastre Carlos,90,Cervelo Test Team,10,2010,▼6
+30,118,8.0,85,Rogers Michael,91,Team HTC - Columbia,10,2010,▼6
+29,89,8.0,87,Riblon Christophe,92,AG2R La Mondiale,10,2010,▼5
+26,163,7.0,89,Erviti Imanol,93,Caisse d'Epargne,10,2010,▼4
+38,19,6.0,91,Voigt Jens,94,Saxo Bank,10,2010,▼3
+32,159,6.0,90,Vogondy Nicolas,95,Bbox Bouygues Telecom,10,2010,▼5
+37,126,6.0,92,Hincapie George,96,BMC Racing Team,10,2010,▼4
+33,182,6.0,93,Isasi Iñaki,97,Euskaltel - Euskadi,10,2010,▼4
+23,43,6.0,130,Koren Kristijan,98,Liquigas - Doimo,10,2010,▲32
+27,116,6.0,94,Monfort Maxime,99,Team HTC - Columbia,10,2010,▼5
+25,12,6.0,100,Breschel Matti,100,Saxo Bank,10,2010,-
+26,38,5.0,95,Pauwels Serge,101,Sky Procycling,10,2010,▼6
+28,72,4.0,96,Brutt Pavel,102,Team Katusha,10,2010,▼6
+29,33,4.0,97,Cummings Steve,103,Sky Procycling,10,2010,▼6
+26,83,4.0,98,Champion Dimitri,104,AG2R La Mondiale,10,2010,▼6
+30,149,4.0,99,Wegmann Fabian,105,Milram,10,2010,▼6
+27,79,4.0,101,Vorganov Eduard,106,Team Katusha,10,2010,▼5
+35,24,4.0,102,Klöden Andreas,107,RadioShack,10,2010,▼5
+31,85,3.0,103,Gadret John,108,AG2R La Mondiale,10,2010,▼5
+29,61,3.0,104,Le Mével Christophe,109,Francaise des Jeux,10,2010,▼5
+26,22,2.0,107,Brajkovič Janez,110,RadioShack,10,2010,▼3
+31,198,2.0,108,Tankink Bram,111,Rabobank ProTeam,10,2010,▼3
+33,93,2.0,105,Gustov Volodymyr,112,Cervelo Test Team,10,2010,▼7
+31,189,2.0,109,Verdugo Gorka,113,Euskaltel - Euskadi,10,2010,▼4
+34,197,2.0,110,Niermann Grischa,114,Rabobank ProTeam,10,2010,▼4
+28,177,2.0,111,Moinard Amaël,115,"Cofidis, le Crédit en Ligne",10,2010,▼4
+26,6,2.0,112,Navarro Daniel,116,Astana,10,2010,▼4
+32,48,2.0,114,Szmyd Sylwester,117,Liquigas - Doimo,10,2010,▼3
+30,135,2.0,113,Pineau Jérôme,118,Quickstep - Innergetic,10,2010,▼5
+30,188,2.0,115,Velasco Iván,119,Euskaltel - Euskadi,10,2010,▼4
+25,14,2.0,116,Fuglsang Jakob,120,Saxo Bank,10,2010,▼4
+33,8,2.0,117,Tiralongo Paolo,121,Astana,10,2010,▼4
+30,28,2.0,118,Popovych Yaroslav,122,RadioShack,10,2010,▼4
+27,147,2.0,119,Rohregger Thomas,123,Milram,10,2010,▼4
+30,45,2.0,120,Kuschynski Aleksandr,124,Liquigas - Doimo,10,2010,▼4
+23,162,2.0,121,Costa Rui,125,Caisse d'Epargne,10,2010,▼4
+29,74,2.0,122,Kolobnev Alexandr,126,Team Katusha,10,2010,▼4
+31,7,2.0,124,Noval Benjamin,127,Astana,10,2010,▼3
+30,122,2.0,123,Ballan Alessandro,128,BMC Racing Team,10,2010,▼5
+29,5,2.0,125,Iglinskiy Maxim,129,Astana,10,2010,▼4
+32,88,2.0,126,Nocentini Rinaldo,130,AG2R La Mondiale,10,2010,▼4
+24,63,2.0,127,Di Grégorio Rémy,131,Francaise des Jeux,10,2010,▼4
+32,218,2.0,128,Pérez Aitor,132,Footon-Servetto,10,2010,▼4
+28,157,2.0,129,Sprick Matthieu,133,Bbox Bouygues Telecom,10,2010,▼4
+23,76,2.0,132,Pliuschin Alexandr,134,Team Katusha,10,2010,▼2
+30,42,2.0,133,Bellotti Francesco,135,Liquigas - Doimo,10,2010,▼2
+25,204,2.0,134,Gavazzi Francesco,136,Lampre - Farnese Vini,10,2010,▼2
+31,84,2.0,136,Elmiger Martin,137,AG2R La Mondiale,10,2010,▼1
+29,203,2.0,137,Da Dalto Mauro,138,Lampre - Farnese Vini,10,2010,▼1
+34,127,2.0,135,Kroon Karsten,139,BMC Racing Team,10,2010,▼4
+26,56,2.0,138,Maaskant Martijn,140,Team Garmin - Transitions,10,2010,▼2
+29,112,2.0,139,Eisel Bernhard,141,Team HTC - Columbia,10,2010,▼2
+36,94,2.0,140,Hunt Jeremy,142,Cervelo Test Team,10,2010,▼2
+35,172,2.0,141,Augé Stéphane,143,"Cofidis, le Crédit en Ligne",10,2010,▼2
+35,113,2.0,142,Grabsch Bert,144,Team HTC - Columbia,10,2010,▼2
+27,136,2.0,143,Reda Francesco,145,Quickstep - Innergetic,10,2010,▼2
+36,15,2.0,144,O'Grady Stuart,146,Saxo Bank,10,2010,▼2
+36,208,161.0,2,Petacchi Alessandro,1,Lampre - Farnese Vini,11,2010,▲1
+32,95,157.0,1,Hushovd Thor,2,Cervelo Test Team,11,2010,▼1
+38,75,138.0,3,McEwen Robbie,3,Team Katusha,11,2010,-
+25,111,132.0,5,Cavendish Mark,4,Team HTC - Columbia,11,2010,▲1
+25,169,122.0,4,Rojas José Joaquín,5,Caisse d'Epargne,11,2010,▼1
+26,158,101.0,6,Turgot Sébastien,6,Bbox Bouygues Telecom,11,2010,-
+23,36,96.0,7,Boasson Hagen Edvald,7,Sky Procycling,11,2010,-
+23,142,87.0,9,Ciolek Gerald,8,Milram,11,2010,▲1
+26,53,79.0,14,Farrar Tyler,9,Team Garmin - Transitions,11,2010,▲5
+24,39,74.0,8,Thomas Geraint,10,Sky Procycling,11,2010,▼2
+31,131,69.0,10,Chavanel Sylvain,11,Quickstep - Innergetic,11,2010,▼1
+25,108,68.0,16,Roelandts Jürgen,12,Omega Pharma-Lotto,11,2010,▲4
+33,121,63.0,11,Evans Cadel,13,BMC Racing Team,11,2010,▼2
+26,81,61.0,15,Roche Nicolas,14,AG2R La Mondiale,11,2010,▲1
+28,87,59.0,20,Mondory Lloyd,15,AG2R La Mondiale,11,2010,▲5
+27,1,,12*,Contador Alberto,16*,Astana,11,2010,-
+25,11,57.0,12,Schleck Andy,16,Saxo Bank,11,2010,▼4
+23,46,54.0,13,Oss Daniel,17,Liquigas - Doimo,11,2010,▼4
+32,181,54.0,22,Sánchez Samuel,18,Euskaltel - Euskadi,11,2010,▲4
+28,186,50.0,25,Pérez Rubén,19,Euskaltel - Euskadi,11,2010,▲6
+27,117,49.0,17,Renshaw Mark,20,Team HTC - Columbia,11,2010,▼3
+29,54,48.0,18,Hesjedal Ryder,21,Team Garmin - Transitions,11,2010,▼3
+35,102,45.0,19,Aerts Mario,22,Omega Pharma-Lotto,11,2010,▼3
+25,152,43.0,49,Arashiro Yukiya,23,Bbox Bouygues Telecom,11,2010,▲26
+36,205,40.0,28,Hondo Danilo,24,Lampre - Farnese Vini,11,2010,▲4
+29,165,39.0,21,Kiryienka Vasil,25,Caisse d'Epargne,11,2010,▼4
+33,55,39.0,23,Hunter Robert,26,Team Garmin - Transitions,11,2010,▼3
+29,13,39.0,24,Cancellara Fabian,27,Saxo Bank,11,2010,▼3
+31,62,37.0,26,Casar Sandy,28,Francaise des Jeux,11,2010,▼2
+29,145,35.0,31,Knees Christian,29,Milram,11,2010,▲2
+25,65,35.0,27,Ladagnous Matthieu,30,Francaise des Jeux,11,2010,▼3
+29,173,34.0,29,Dumoulin Samuel,31,"Cofidis, le Crédit en Ligne",11,2010,▼2
+27,101,33.0,30,Van den Broeck Jurgen,32,Omega Pharma-Lotto,11,2010,▼2
+34,193,31.0,53,Freire Óscar,33,Rabobank ProTeam,11,2010,▲20
+33,146,31.0,50,Roberts Luke,34,Milram,11,2010,▲16
+25,174,30.0,32,El Fares Julien,35,"Cofidis, le Crédit en Ligne",11,2010,▼3
+26,161,29.0,33,Sánchez Luis León,36,Caisse d'Epargne,11,2010,▼3
+35,52,29.0,38,Dean Julian,37,Team Garmin - Transitions,11,2010,▲1
+30,105,28.0,34,Lang Sebastian,38,Omega Pharma-Lotto,11,2010,▼4
+32,191,,36*,Menchov Denis,40*,Rabobank ProTeam,11,2010,-
+25,167,26.0,35,Perget Mathieu,39,Caisse d'Epargne,11,2010,▼4
+27,141,26.0,36,Gerdemann Linus,40,Milram,11,2010,▼4
+30,27,26.0,37,Paulinho Sérgio Miguel,41,RadioShack,11,2010,▼4
+30,31,26.0,39,Wiggins Bradley,42,Sky Procycling,11,2010,▼3
+23,219,25.0,40,Valls Rafael,43,Footon-Servetto,11,2010,▼3
+23,156,24.0,41,Rolland Pierre,44,Bbox Bouygues Telecom,11,2010,▼3
+31,164,24.0,42,Gutiérrez José Iván,45,Caisse d'Epargne,11,2010,▼3
+24,195,24.0,43,Gesink Robert,46,Rabobank ProTeam,11,2010,▼3
+24,44,22.0,44,Kreuziger Roman,47,Liquigas - Doimo,11,2010,▼3
+34,194,22.0,45,Garate Juan Manuel,48,Rabobank ProTeam,11,2010,▼3
+26,134,22.0,46,Devenyns Dries,49,Quickstep - Innergetic,11,2010,▼3
+29,58,22.0,47,Vansummeren Johan,50,Team Garmin - Transitions,11,2010,▼3
+31,151,22.0,48,Voeckler Thomas,51,Bbox Bouygues Telecom,11,2010,▼3
+36,25,21.0,51,Leipheimer Levi,52,RadioShack,11,2010,▼1
+36,9,20.0,52,Vinokourov Alexandre,53,Astana,11,2010,▼1
+28,107,19.0,54,Moreno Daniel,54,Omega Pharma-Lotto,11,2010,-
+39,166,18.0,55,Moreau Christophe,55,Caisse d'Epargne,11,2010,-
+23,82,17.0,56,Bouet Maxime,56,AG2R La Mondiale,11,2010,-
+33,57,17.0,57,Millar David,57,Team Garmin - Transitions,11,2010,-
+26,37,17.0,58,Löfkvist Thomas,58,Sky Procycling,11,2010,-
+28,133,17.0,85,De Weert Kevin,59,Quickstep - Innergetic,11,2010,▲26
+31,154,16.0,59,Fédrigo Pierrick,60,Bbox Bouygues Telecom,11,2010,▼1
+38,21,16.0,60,Armstrong Lance,61,RadioShack,11,2010,▼1
+28,179,16.0,61,Pauriol Rémi,62,"Cofidis, le Crédit en Ligne",11,2010,▼1
+32,183,15.0,87,Martínez Egoi,63,Euskaltel - Euskadi,11,2010,▲24
+28,201,15.0,62,Cunego Damiano,64,Lampre - Farnese Vini,11,2010,▼2
+29,132,,65*,Barredo Carlos,67*,Quickstep - Innergetic,11,2010,-
+26,123,15.0,63,Bookwalter Brent,65,BMC Racing Team,11,2010,▼2
+25,103,15.0,64,de Greef Francis,66,Omega Pharma-Lotto,11,2010,▼2
+28,185,15.0,65,Pérez Alan,67,Euskaltel - Euskadi,11,2010,▼2
+30,168,15.0,66,Plaza Rubén,68,Caisse d'Epargne,11,2010,▼2
+31,153,14.0,67,Charteau Anthony,69,Bbox Bouygues Telecom,11,2010,▼2
+25,115,14.0,68,Martin Tony,70,Team HTC - Columbia,11,2010,▼2
+28,176,14.0,69,Minard Sébastien,71,"Cofidis, le Crédit en Ligne",11,2010,▼2
+36,196,14.0,70,Moerenhout Koos,72,Rabobank ProTeam,11,2010,▼2
+24,192,14.0,71,Boom Lars,73,Rabobank ProTeam,11,2010,▼2
+28,139,13.0,72,Wynants Maarten,74,Quickstep - Innergetic,11,2010,▼2
+35,172,12.0,143,Augé Stéphane,75,"Cofidis, le Crédit en Ligne",11,2010,▲68
+31,77,12.0,73,Rodríguez Joaquim,76,Team Katusha,11,2010,▼3
+27,119,12.0,74,Siutsou Kanstantsin,77,Team HTC - Columbia,11,2010,▼3
+32,34,12.0,75,Flecha Juan Antonio,78,Sky Procycling,11,2010,▼3
+24,214,12.0,76,Durán Arkaitz,79,Footon-Servetto,11,2010,▼3
+30,98,12.0,77,Lancaster Brett,80,Cervelo Test Team,11,2010,▼3
+24,211,12.0,78,Capecchi Eros,81,Footon-Servetto,11,2010,▼3
+26,3,12.0,79,Grivko Andrey,82,Astana,11,2010,▼3
+30,64,12.0,,Geslin Anthony,83,Francaise des Jeux,11,2010,-
+28,217,11.0,80,Mayoz Iban,84,Footon-Servetto,11,2010,▼4
+32,41,11.0,81,Basso Ivan,85,Liquigas - Doimo,11,2010,▼4
+38,23,10.0,82,Horner Chris,86,RadioShack,11,2010,▼4
+33,138,10.0,83,van de Walle Jurgen,87,Quickstep - Innergetic,11,2010,▼4
+27,178,10.0,84,Monier Damien,88,"Cofidis, le Crédit en Ligne",11,2010,▼4
+22,155,10.0,86,Gautier Cyril,89,Bbox Bouygues Telecom,11,2010,▼3
+25,143,10.0,88,Fröhlinger Johannes,90,Milram,11,2010,▼2
+34,32,8.0,89,Barry Michael,91,Sky Procycling,11,2010,▼2
+35,91,8.0,90,Sastre Carlos,92,Cervelo Test Team,11,2010,▼2
+37,126,8.0,96,Hincapie George,93,BMC Racing Team,11,2010,▲3
+30,118,8.0,91,Rogers Michael,94,Team HTC - Columbia,11,2010,▼3
+29,89,7.0,92,Riblon Christophe,95,AG2R La Mondiale,11,2010,▼3
+26,163,7.0,93,Erviti Imanol,96,Caisse d'Epargne,11,2010,▼3
+32,159,6.0,95,Vogondy Nicolas,97,Bbox Bouygues Telecom,11,2010,▼2
+38,19,6.0,94,Voigt Jens,98,Saxo Bank,11,2010,▼4
+33,182,6.0,97,Isasi Iñaki,99,Euskaltel - Euskadi,11,2010,▼2
+23,43,6.0,98,Koren Kristijan,100,Liquigas - Doimo,11,2010,▼2
+27,116,6.0,99,Monfort Maxime,101,Team HTC - Columbia,11,2010,▼2
+25,12,6.0,100,Breschel Matti,102,Saxo Bank,11,2010,▼2
+26,38,5.0,101,Pauwels Serge,103,Sky Procycling,11,2010,▼2
+28,72,4.0,102,Brutt Pavel,104,Team Katusha,11,2010,▼2
+31,84,4.0,137,Elmiger Martin,105,AG2R La Mondiale,11,2010,▲32
+29,33,4.0,103,Cummings Steve,106,Sky Procycling,11,2010,▼3
+28,212,4.0,,Benítez José Alberto,107,Footon-Servetto,11,2010,-
+29,99,4.0,,Lloyd Daniel,108,Cervelo Test Team,11,2010,-
+26,83,4.0,104,Champion Dimitri,109,AG2R La Mondiale,11,2010,▼5
+30,149,4.0,105,Wegmann Fabian,110,Milram,11,2010,▼5
+27,79,4.0,106,Vorganov Eduard,111,Team Katusha,11,2010,▼5
+35,24,4.0,107,Klöden Andreas,112,RadioShack,11,2010,▼5
+31,85,3.0,108,Gadret John,113,AG2R La Mondiale,11,2010,▼5
+29,61,3.0,109,Le Mével Christophe,114,Francaise des Jeux,11,2010,▼5
+26,22,2.0,110,Brajkovič Janez,115,RadioShack,11,2010,▼5
+31,198,2.0,111,Tankink Bram,116,Rabobank ProTeam,11,2010,▼5
+33,93,2.0,112,Gustov Volodymyr,117,Cervelo Test Team,11,2010,▼5
+31,189,2.0,113,Verdugo Gorka,118,Euskaltel - Euskadi,11,2010,▼5
+34,197,2.0,114,Niermann Grischa,119,Rabobank ProTeam,11,2010,▼5
+30,188,2.0,119,Velasco Iván,120,Euskaltel - Euskadi,11,2010,▼1
+28,177,2.0,115,Moinard Amaël,121,"Cofidis, le Crédit en Ligne",11,2010,▼6
+26,6,2.0,116,Navarro Daniel,122,Astana,11,2010,▼6
+32,48,2.0,117,Szmyd Sylwester,123,Liquigas - Doimo,11,2010,▼6
+30,135,2.0,118,Pineau Jérôme,124,Quickstep - Innergetic,11,2010,▼6
+25,14,2.0,120,Fuglsang Jakob,125,Saxo Bank,11,2010,▼5
+33,8,2.0,121,Tiralongo Paolo,126,Astana,11,2010,▼5
+30,28,2.0,122,Popovych Yaroslav,127,RadioShack,11,2010,▼5
+27,147,2.0,123,Rohregger Thomas,128,Milram,11,2010,▼5
+23,162,2.0,125,Costa Rui,129,Caisse d'Epargne,11,2010,▼4
+29,74,2.0,126,Kolobnev Alexandr,130,Team Katusha,11,2010,▼4
+31,7,2.0,127,Noval Benjamin,131,Astana,11,2010,▼4
+30,45,2.0,124,Kuschynski Aleksandr,132,Liquigas - Doimo,11,2010,▼8
+30,122,2.0,128,Ballan Alessandro,133,BMC Racing Team,11,2010,▼5
+29,5,2.0,129,Iglinskiy Maxim,134,Astana,11,2010,▼5
+32,88,2.0,130,Nocentini Rinaldo,135,AG2R La Mondiale,11,2010,▼5
+28,157,2.0,133,Sprick Matthieu,136,Bbox Bouygues Telecom,11,2010,▼3
+23,76,2.0,134,Pliuschin Alexandr,137,Team Katusha,11,2010,▼3
+30,42,2.0,135,Bellotti Francesco,138,Liquigas - Doimo,11,2010,▼3
+24,63,2.0,131,Di Grégorio Rémy,139,Francaise des Jeux,11,2010,▼8
+32,218,2.0,132,Pérez Aitor,140,Footon-Servetto,11,2010,▼8
+29,203,2.0,138,Da Dalto Mauro,141,Lampre - Farnese Vini,11,2010,▼3
+25,204,2.0,136,Gavazzi Francesco,142,Lampre - Farnese Vini,11,2010,▼6
+26,56,2.0,140,Maaskant Martijn,143,Team Garmin - Transitions,11,2010,▼3
+34,127,2.0,139,Kroon Karsten,144,BMC Racing Team,11,2010,▼5
+29,112,2.0,141,Eisel Bernhard,145,Team HTC - Columbia,11,2010,▼4
+36,94,2.0,142,Hunt Jeremy,146,Cervelo Test Team,11,2010,▼4
+35,113,2.0,144,Grabsch Bert,147,Team HTC - Columbia,11,2010,▼3
+27,136,2.0,145,Reda Francesco,148,Quickstep - Innergetic,11,2010,▼3
+36,15,2.0,146,O'Grady Stuart,149,Saxo Bank,11,2010,▼3
+32,95,167.0,2,Hushovd Thor,1,Cervelo Test Team,12,2010,▲1
+36,208,161.0,1,Petacchi Alessandro,2,Lampre - Farnese Vini,12,2010,▼1
+38,75,138.0,3,McEwen Robbie,3,Team Katusha,12,2010,-
+25,111,132.0,4,Cavendish Mark,4,Team HTC - Columbia,12,2010,-
+25,169,122.0,5,Rojas José Joaquín,5,Caisse d'Epargne,12,2010,-
+26,158,101.0,6,Turgot Sébastien,6,Bbox Bouygues Telecom,12,2010,-
+23,36,96.0,7,Boasson Hagen Edvald,7,Sky Procycling,12,2010,-
+23,142,87.0,8,Ciolek Gerald,8,Milram,12,2010,-
+27,1,,16*,Contador Alberto,9*,Astana,12,2010,-
+24,39,79.0,10,Thomas Geraint,9,Sky Procycling,12,2010,▲1
+25,11,74.0,16,Schleck Andy,10,Saxo Bank,12,2010,▲6
+31,131,70.0,11,Chavanel Sylvain,11,Quickstep - Innergetic,12,2010,-
+33,121,69.0,13,Evans Cadel,12,BMC Racing Team,12,2010,▲1
+25,108,69.0,12,Roelandts Jürgen,13,Omega Pharma-Lotto,12,2010,▼1
+32,181,68.0,18,Sánchez Samuel,14,Euskaltel - Euskadi,12,2010,▲4
+26,81,65.0,14,Roche Nicolas,15,AG2R La Mondiale,12,2010,▼1
+28,87,62.0,15,Mondory Lloyd,16,AG2R La Mondiale,12,2010,▼1
+23,46,59.0,17,Oss Daniel,17,Liquigas - Doimo,12,2010,-
+28,186,54.0,19,Pérez Rubén,18,Euskaltel - Euskadi,12,2010,▲1
+27,101,49.0,32,Van den Broeck Jurgen,19,Omega Pharma-Lotto,12,2010,▲13
+29,54,49.0,21,Hesjedal Ryder,20,Team Garmin - Transitions,12,2010,▲1
+35,102,45.0,22,Aerts Mario,21,Omega Pharma-Lotto,12,2010,▲1
+25,152,43.0,23,Arashiro Yukiya,22,Bbox Bouygues Telecom,12,2010,▲1
+36,205,40.0,24,Hondo Danilo,23,Lampre - Farnese Vini,12,2010,▲1
+29,165,39.0,25,Kiryienka Vasil,24,Caisse d'Epargne,12,2010,▲1
+32,191,,40*,Menchov Denis,26*,Rabobank ProTeam,12,2010,-
+36,9,39.0,53,Vinokourov Alexandre,25,Astana,12,2010,▲28
+31,77,39.0,76,Rodríguez Joaquim,26,Team Katusha,12,2010,▲50
+29,13,38.0,27,Cancellara Fabian,27,Saxo Bank,12,2010,-
+31,62,37.0,28,Casar Sandy,28,Francaise des Jeux,12,2010,-
+29,145,37.0,29,Knees Christian,29,Milram,12,2010,-
+24,195,35.0,46,Gesink Robert,30,Rabobank ProTeam,12,2010,▲16
+25,65,35.0,30,Ladagnous Matthieu,31,Francaise des Jeux,12,2010,▼1
+24,44,34.0,47,Kreuziger Roman,32,Liquigas - Doimo,12,2010,▲15
+26,161,34.0,36,Sánchez Luis León,33,Caisse d'Epargne,12,2010,▲3
+30,31,33.0,42,Wiggins Bradley,34,Sky Procycling,12,2010,▲8
+34,193,31.0,33,Freire Óscar,35,Rabobank ProTeam,12,2010,▼2
+33,146,31.0,34,Roberts Luke,36,Milram,12,2010,▼2
+25,174,31.0,35,El Fares Julien,37,"Cofidis, le Crédit en Ligne",12,2010,▼2
+36,25,30.0,52,Leipheimer Levi,38,RadioShack,12,2010,▲14
+35,52,29.0,37,Dean Julian,39,Team Garmin - Transitions,12,2010,▼2
+30,105,29.0,38,Lang Sebastian,40,Omega Pharma-Lotto,12,2010,▼2
+25,167,28.0,39,Perget Mathieu,41,Caisse d'Epargne,12,2010,▼2
+27,141,26.0,40,Gerdemann Linus,42,Milram,12,2010,▼2
+30,27,26.0,41,Paulinho Sérgio Miguel,43,RadioShack,12,2010,▼2
+23,156,26.0,44,Rolland Pierre,44,Bbox Bouygues Telecom,12,2010,-
+23,219,25.0,43,Valls Rafael,45,Footon-Servetto,12,2010,▼2
+30,168,24.0,68,Plaza Rubén,46,Caisse d'Epargne,12,2010,▲22
+28,201,24.0,64,Cunego Damiano,47,Lampre - Farnese Vini,12,2010,▲17
+31,164,23.0,45,Gutiérrez José Iván,48,Caisse d'Epargne,12,2010,▼3
+34,194,23.0,48,Garate Juan Manuel,49,Rabobank ProTeam,12,2010,▼1
+26,134,22.0,49,Devenyns Dries,50,Quickstep - Innergetic,12,2010,▼1
+29,58,22.0,50,Vansummeren Johan,51,Team Garmin - Transitions,12,2010,▼1
+31,151,22.0,51,Voeckler Thomas,52,Bbox Bouygues Telecom,12,2010,▼1
+28,107,21.0,54,Moreno Daniel,53,Omega Pharma-Lotto,12,2010,▲1
+39,166,20.0,55,Moreau Christophe,54,Caisse d'Epargne,12,2010,▲1
+23,82,17.0,56,Bouet Maxime,55,AG2R La Mondiale,12,2010,▲1
+33,57,17.0,57,Millar David,56,Team Garmin - Transitions,12,2010,▲1
+26,37,17.0,58,Löfkvist Thomas,57,Sky Procycling,12,2010,▲1
+35,24,17.0,112,Klöden Andreas,58,RadioShack,12,2010,▲54
+28,133,16.0,59,De Weert Kevin,59,Quickstep - Innergetic,12,2010,-
+31,153,16.0,69,Charteau Anthony,60,Bbox Bouygues Telecom,12,2010,▲9
+31,154,16.0,60,Fédrigo Pierrick,61,Bbox Bouygues Telecom,12,2010,▼1
+32,41,16.0,85,Basso Ivan,62,Liquigas - Doimo,12,2010,▲23
+38,21,16.0,61,Armstrong Lance,63,RadioShack,12,2010,▼2
+28,179,15.0,62,Pauriol Rémi,64,"Cofidis, le Crédit en Ligne",12,2010,▼2
+32,183,15.0,63,Martínez Egoi,65,Euskaltel - Euskadi,12,2010,▼2
+29,132,,67*,Barredo Carlos,68*,Quickstep - Innergetic,12,2010,-
+26,123,15.0,65,Bookwalter Brent,66,BMC Racing Team,12,2010,▼1
+25,103,15.0,66,de Greef Francis,67,Omega Pharma-Lotto,12,2010,▼1
+28,185,15.0,67,Pérez Alan,68,Euskaltel - Euskadi,12,2010,▼1
+38,23,15.0,86,Horner Chris,69,RadioShack,12,2010,▲17
+27,119,14.0,77,Siutsou Kanstantsin,70,Team HTC - Columbia,12,2010,▲7
+25,115,14.0,70,Martin Tony,71,Team HTC - Columbia,12,2010,▼1
+28,176,14.0,71,Minard Sébastien,72,"Cofidis, le Crédit en Ligne",12,2010,▼1
+36,196,14.0,72,Moerenhout Koos,73,Rabobank ProTeam,12,2010,▼1
+28,139,14.0,74,Wynants Maarten,74,Quickstep - Innergetic,12,2010,-
+24,192,13.0,73,Boom Lars,75,Rabobank ProTeam,12,2010,▼2
+35,172,12.0,75,Augé Stéphane,76,"Cofidis, le Crédit en Ligne",12,2010,▼1
+24,214,12.0,79,Durán Arkaitz,77,Footon-Servetto,12,2010,▲2
+32,34,12.0,78,Flecha Juan Antonio,78,Sky Procycling,12,2010,-
+30,98,12.0,80,Lancaster Brett,79,Cervelo Test Team,12,2010,▲1
+24,211,12.0,81,Capecchi Eros,80,Footon-Servetto,12,2010,▲1
+26,3,12.0,82,Grivko Andrey,81,Astana,12,2010,▲1
+30,64,12.0,83,Geslin Anthony,82,Francaise des Jeux,12,2010,▲1
+28,217,11.0,84,Mayoz Iban,83,Footon-Servetto,12,2010,▲1
+24,202,11.0,,Bole Grega,84,Lampre - Farnese Vini,12,2010,-
+35,91,10.0,92,Sastre Carlos,85,Cervelo Test Team,12,2010,▲7
+33,138,10.0,87,van de Walle Jurgen,86,Quickstep - Innergetic,12,2010,▲1
+27,178,10.0,88,Monier Damien,87,"Cofidis, le Crédit en Ligne",12,2010,▲1
+22,155,10.0,89,Gautier Cyril,88,Bbox Bouygues Telecom,12,2010,▲1
+25,143,10.0,90,Fröhlinger Johannes,89,Milram,12,2010,▲1
+34,32,8.0,91,Barry Michael,90,Sky Procycling,12,2010,▲1
+37,126,8.0,93,Hincapie George,91,BMC Racing Team,12,2010,▲2
+30,118,8.0,94,Rogers Michael,92,Team HTC - Columbia,12,2010,▲2
+29,89,8.0,95,Riblon Christophe,93,AG2R La Mondiale,12,2010,▲2
+26,163,7.0,96,Erviti Imanol,94,Caisse d'Epargne,12,2010,▲2
+32,159,6.0,97,Vogondy Nicolas,95,Bbox Bouygues Telecom,12,2010,▲2
+38,19,6.0,98,Voigt Jens,96,Saxo Bank,12,2010,▲2
+33,182,6.0,99,Isasi Iñaki,97,Euskaltel - Euskadi,12,2010,▲2
+23,43,6.0,100,Koren Kristijan,98,Liquigas - Doimo,12,2010,▲2
+27,116,6.0,101,Monfort Maxime,99,Team HTC - Columbia,12,2010,▲2
+26,38,6.0,103,Pauwels Serge,100,Sky Procycling,12,2010,▲3
+28,72,5.0,104,Brutt Pavel,101,Team Katusha,12,2010,▲3
+31,84,4.0,105,Elmiger Martin,102,AG2R La Mondiale,12,2010,▲3
+25,12,4.0,102,Breschel Matti,103,Saxo Bank,12,2010,▼1
+29,33,4.0,106,Cummings Steve,104,Sky Procycling,12,2010,▲2
+28,212,4.0,107,Benítez José Alberto,105,Footon-Servetto,12,2010,▲2
+29,99,4.0,108,Lloyd Daniel,106,Cervelo Test Team,12,2010,▲2
+26,83,4.0,109,Champion Dimitri,107,AG2R La Mondiale,12,2010,▲2
+30,149,4.0,110,Wegmann Fabian,108,Milram,12,2010,▲2
+27,79,4.0,111,Vorganov Eduard,109,Team Katusha,12,2010,▲2
+31,85,4.0,113,Gadret John,110,AG2R La Mondiale,12,2010,▲3
+29,61,3.0,114,Le Mével Christophe,111,Francaise des Jeux,12,2010,▲3
+31,198,3.0,116,Tankink Bram,112,Rabobank ProTeam,12,2010,▲4
+33,93,2.0,117,Gustov Volodymyr,113,Cervelo Test Team,12,2010,▲4
+26,22,2.0,115,Brajkovič Janez,114,RadioShack,12,2010,▲1
+31,189,2.0,118,Verdugo Gorka,115,Euskaltel - Euskadi,12,2010,▲3
+34,197,2.0,119,Niermann Grischa,116,Rabobank ProTeam,12,2010,▲3
+30,188,2.0,120,Velasco Iván,117,Euskaltel - Euskadi,12,2010,▲3
+32,48,2.0,123,Szmyd Sylwester,118,Liquigas - Doimo,12,2010,▲5
+33,8,2.0,126,Tiralongo Paolo,119,Astana,12,2010,▲7
+26,6,2.0,122,Navarro Daniel,120,Astana,12,2010,▲2
+25,14,2.0,125,Fuglsang Jakob,121,Saxo Bank,12,2010,▲4
+30,135,2.0,124,Pineau Jérôme,122,Quickstep - Innergetic,12,2010,▲2
+28,177,2.0,121,Moinard Amaël,123,"Cofidis, le Crédit en Ligne",12,2010,▼2
+27,147,2.0,128,Rohregger Thomas,124,Milram,12,2010,▲4
+30,28,2.0,127,Popovych Yaroslav,125,RadioShack,12,2010,▲2
+29,74,2.0,130,Kolobnev Alexandr,126,Team Katusha,12,2010,▲4
+23,162,2.0,129,Costa Rui,127,Caisse d'Epargne,12,2010,▲2
+31,7,2.0,131,Noval Benjamin,128,Astana,12,2010,▲3
+30,122,2.0,133,Ballan Alessandro,129,BMC Racing Team,12,2010,▲4
+29,5,2.0,134,Iglinskiy Maxim,130,Astana,12,2010,▲4
+23,76,2.0,137,Pliuschin Alexandr,131,Team Katusha,12,2010,▲6
+32,88,2.0,135,Nocentini Rinaldo,132,AG2R La Mondiale,12,2010,▲3
+28,157,2.0,136,Sprick Matthieu,133,Bbox Bouygues Telecom,12,2010,▲3
+24,63,2.0,139,Di Grégorio Rémy,134,Francaise des Jeux,12,2010,▲5
+32,218,2.0,140,Pérez Aitor,135,Footon-Servetto,12,2010,▲5
+30,45,2.0,132,Kuschynski Aleksandr,136,Liquigas - Doimo,12,2010,▼4
+29,203,2.0,141,Da Dalto Mauro,137,Lampre - Farnese Vini,12,2010,▲4
+30,42,2.0,138,Bellotti Francesco,138,Liquigas - Doimo,12,2010,-
+25,204,2.0,142,Gavazzi Francesco,139,Lampre - Farnese Vini,12,2010,▲3
+34,127,2.0,144,Kroon Karsten,140,BMC Racing Team,12,2010,▲4
+26,56,2.0,143,Maaskant Martijn,141,Team Garmin - Transitions,12,2010,▲2
+29,112,2.0,145,Eisel Bernhard,142,Team HTC - Columbia,12,2010,▲3
+36,94,2.0,146,Hunt Jeremy,143,Cervelo Test Team,12,2010,▲3
+27,136,2.0,148,Reda Francesco,144,Quickstep - Innergetic,12,2010,▲4
+35,113,2.0,147,Grabsch Bert,145,Team HTC - Columbia,12,2010,▲2
+36,15,2.0,149,O'Grady Stuart,146,Saxo Bank,12,2010,▲3
+36,208,187.0,2,Petacchi Alessandro,1,Lampre - Farnese Vini,13,2010,▲1
+32,95,185.0,1,Hushovd Thor,2,Cervelo Test Team,13,2010,▼1
+25,111,162.0,4,Cavendish Mark,3,Team HTC - Columbia,13,2010,▲1
+25,169,144.0,5,Rojas José Joaquín,4,Caisse d'Epargne,13,2010,▲1
+38,75,138.0,3,McEwen Robbie,5,Team Katusha,13,2010,▼2
+23,36,120.0,7,Boasson Hagen Edvald,6,Sky Procycling,13,2010,▲1
+23,142,102.0,8,Ciolek Gerald,7,Milram,13,2010,▲1
+26,158,101.0,6,Turgot Sébastien,8,Bbox Bouygues Telecom,13,2010,▼2
+25,108,81.0,13,Roelandts Jürgen,9,Omega Pharma-Lotto,13,2010,▲4
+27,1,,9*,Contador Alberto,10*,Astana,13,2010,-
+32,181,80.0,14,Sánchez Samuel,10,Euskaltel - Euskadi,13,2010,▲4
+28,87,77.0,16,Mondory Lloyd,11,AG2R La Mondiale,13,2010,▲5
+24,39,75.0,9,Thomas Geraint,12,Sky Procycling,13,2010,▼3
+31,131,74.0,11,Chavanel Sylvain,13,Quickstep - Innergetic,13,2010,▼2
+36,9,73.0,25,Vinokourov Alexandre,14,Astana,13,2010,▲11
+25,11,73.0,10,Schleck Andy,15,Saxo Bank,13,2010,▼5
+33,121,70.0,12,Evans Cadel,16,BMC Racing Team,13,2010,▼4
+26,81,69.0,15,Roche Nicolas,17,AG2R La Mondiale,13,2010,▼2
+23,46,62.0,17,Oss Daniel,18,Liquigas - Doimo,13,2010,▼1
+28,186,54.0,18,Pérez Rubén,19,Euskaltel - Euskadi,13,2010,▼1
+27,101,49.0,19,Van den Broeck Jurgen,20,Omega Pharma-Lotto,13,2010,▼1
+35,52,49.0,39,Dean Julian,21,Team Garmin - Transitions,13,2010,▲18
+32,191,,26*,Menchov Denis,23*,Rabobank ProTeam,13,2010,-
+25,152,48.0,22,Arashiro Yukiya,22,Bbox Bouygues Telecom,13,2010,-
+29,54,47.0,20,Hesjedal Ryder,23,Team Garmin - Transitions,13,2010,▼3
+35,102,47.0,21,Aerts Mario,24,Omega Pharma-Lotto,13,2010,▼3
+36,205,45.0,23,Hondo Danilo,25,Lampre - Farnese Vini,13,2010,▼2
+29,165,43.0,24,Kiryienka Vasil,26,Caisse d'Epargne,13,2010,▼2
+31,77,39.0,26,Rodríguez Joaquim,27,Team Katusha,13,2010,▼1
+29,13,39.0,27,Cancellara Fabian,28,Saxo Bank,13,2010,▼1
+34,193,37.0,35,Freire Óscar,29,Rabobank ProTeam,13,2010,▲6
+31,62,37.0,28,Casar Sandy,30,Francaise des Jeux,13,2010,▼2
+29,145,37.0,29,Knees Christian,31,Milram,13,2010,▼2
+24,195,35.0,30,Gesink Robert,32,Rabobank ProTeam,13,2010,▼2
+25,65,35.0,31,Ladagnous Matthieu,33,Francaise des Jeux,13,2010,▼2
+24,44,34.0,32,Kreuziger Roman,34,Liquigas - Doimo,13,2010,▼2
+34,194,34.0,49,Garate Juan Manuel,35,Rabobank ProTeam,13,2010,▲14
+26,161,33.0,33,Sánchez Luis León,36,Caisse d'Epargne,13,2010,▼3
+30,31,32.0,34,Wiggins Bradley,37,Sky Procycling,13,2010,▼3
+33,146,31.0,36,Roberts Luke,38,Milram,13,2010,▼2
+25,174,31.0,37,El Fares Julien,39,"Cofidis, le Crédit en Ligne",13,2010,▼2
+30,64,30.0,82,Geslin Anthony,40,Francaise des Jeux,13,2010,▲42
+36,25,29.0,38,Leipheimer Levi,41,RadioShack,13,2010,▼3
+39,166,29.0,54,Moreau Christophe,42,Caisse d'Epargne,13,2010,▲12
+24,202,29.0,84,Bole Grega,43,Lampre - Farnese Vini,13,2010,▲41
+30,105,28.0,40,Lang Sebastian,44,Omega Pharma-Lotto,13,2010,▼4
+31,154,27.0,61,Fédrigo Pierrick,45,Bbox Bouygues Telecom,13,2010,▲16
+25,167,26.0,41,Perget Mathieu,46,Caisse d'Epargne,13,2010,▼5
+27,141,26.0,42,Gerdemann Linus,47,Milram,13,2010,▼5
+30,27,26.0,43,Paulinho Sérgio Miguel,48,RadioShack,13,2010,▼5
+23,156,26.0,44,Rolland Pierre,49,Bbox Bouygues Telecom,13,2010,▼5
+23,219,25.0,45,Valls Rafael,50,Footon-Servetto,13,2010,▼5
+30,168,24.0,46,Plaza Rubén,51,Caisse d'Epargne,13,2010,▼5
+28,201,24.0,47,Cunego Damiano,52,Lampre - Farnese Vini,13,2010,▼5
+31,164,23.0,48,Gutiérrez José Iván,53,Caisse d'Epargne,13,2010,▼5
+32,34,23.0,78,Flecha Juan Antonio,54,Sky Procycling,13,2010,▲24
+26,134,22.0,50,Devenyns Dries,55,Quickstep - Innergetic,13,2010,▼5
+29,58,22.0,51,Vansummeren Johan,56,Team Garmin - Transitions,13,2010,▼5
+31,151,22.0,52,Voeckler Thomas,57,Bbox Bouygues Telecom,13,2010,▼5
+28,133,21.0,59,De Weert Kevin,58,Quickstep - Innergetic,13,2010,▲1
+38,23,20.0,69,Horner Chris,59,RadioShack,13,2010,▲10
+28,107,19.0,53,Moreno Daniel,60,Omega Pharma-Lotto,13,2010,▼7
+23,82,18.0,55,Bouet Maxime,61,AG2R La Mondiale,13,2010,▼6
+33,57,17.0,56,Millar David,62,Team Garmin - Transitions,13,2010,▼6
+26,37,17.0,57,Löfkvist Thomas,63,Sky Procycling,13,2010,▼6
+35,24,17.0,58,Klöden Andreas,64,RadioShack,13,2010,▼6
+31,153,16.0,60,Charteau Anthony,65,Bbox Bouygues Telecom,13,2010,▼5
+26,56,16.0,141,Maaskant Martijn,66,Team Garmin - Transitions,13,2010,▲75
+32,41,16.0,62,Basso Ivan,67,Liquigas - Doimo,13,2010,▼5
+28,179,16.0,64,Pauriol Rémi,68,"Cofidis, le Crédit en Ligne",13,2010,▼4
+38,21,15.0,63,Armstrong Lance,69,RadioShack,13,2010,▼6
+32,183,15.0,65,Martínez Egoi,70,Euskaltel - Euskadi,13,2010,▼5
+29,132,,68*,Barredo Carlos,73*,Quickstep - Innergetic,13,2010,-
+26,123,15.0,66,Bookwalter Brent,71,BMC Racing Team,13,2010,▼5
+25,103,15.0,67,de Greef Francis,72,Omega Pharma-Lotto,13,2010,▼5
+28,185,15.0,68,Pérez Alan,73,Euskaltel - Euskadi,13,2010,▼5
+27,119,15.0,70,Siutsou Kanstantsin,74,Team HTC - Columbia,13,2010,▼4
+25,115,14.0,71,Martin Tony,75,Team HTC - Columbia,13,2010,▼4
+28,176,14.0,72,Minard Sébastien,76,"Cofidis, le Crédit en Ligne",13,2010,▼4
+31,84,14.0,102,Elmiger Martin,77,AG2R La Mondiale,13,2010,▲25
+36,196,14.0,73,Moerenhout Koos,78,Rabobank ProTeam,13,2010,▼5
+28,139,13.0,74,Wynants Maarten,79,Quickstep - Innergetic,13,2010,▼5
+24,192,13.0,75,Boom Lars,80,Rabobank ProTeam,13,2010,▼5
+35,172,12.0,76,Augé Stéphane,81,"Cofidis, le Crédit en Ligne",13,2010,▼5
+24,214,12.0,77,Durán Arkaitz,82,Footon-Servetto,13,2010,▼5
+30,98,12.0,79,Lancaster Brett,83,Cervelo Test Team,13,2010,▼4
+24,211,12.0,80,Capecchi Eros,84,Footon-Servetto,13,2010,▼4
+26,3,12.0,81,Grivko Andrey,85,Astana,13,2010,▼4
+28,217,12.0,83,Mayoz Iban,86,Footon-Servetto,13,2010,▼3
+35,91,11.0,85,Sastre Carlos,87,Cervelo Test Team,13,2010,▼2
+33,138,11.0,86,van de Walle Jurgen,88,Quickstep - Innergetic,13,2010,▼2
+27,178,10.0,87,Monier Damien,89,"Cofidis, le Crédit en Ligne",13,2010,▼2
+22,155,10.0,88,Gautier Cyril,90,Bbox Bouygues Telecom,13,2010,▼2
+25,143,10.0,89,Fröhlinger Johannes,91,Milram,13,2010,▼2
+34,32,8.0,90,Barry Michael,92,Sky Procycling,13,2010,▼2
+29,61,8.0,111,Le Mével Christophe,93,Francaise des Jeux,13,2010,▲18
+37,126,8.0,91,Hincapie George,94,BMC Racing Team,13,2010,▼3
+30,118,8.0,92,Rogers Michael,95,Team HTC - Columbia,13,2010,▼3
+29,89,7.0,93,Riblon Christophe,96,AG2R La Mondiale,13,2010,▼3
+26,163,7.0,94,Erviti Imanol,97,Caisse d'Epargne,13,2010,▼3
+32,159,6.0,95,Vogondy Nicolas,98,Bbox Bouygues Telecom,13,2010,▼3
+38,19,6.0,96,Voigt Jens,99,Saxo Bank,13,2010,▼3
+33,182,6.0,97,Isasi Iñaki,100,Euskaltel - Euskadi,13,2010,▼3
+23,43,6.0,98,Koren Kristijan,101,Liquigas - Doimo,13,2010,▼3
+27,116,6.0,99,Monfort Maxime,102,Team HTC - Columbia,13,2010,▼3
+26,38,6.0,100,Pauwels Serge,103,Sky Procycling,13,2010,▼3
+28,72,5.0,101,Brutt Pavel,104,Team Katusha,13,2010,▼3
+25,12,4.0,103,Breschel Matti,105,Saxo Bank,13,2010,▼2
+29,33,4.0,104,Cummings Steve,106,Sky Procycling,13,2010,▼2
+28,212,4.0,105,Benítez José Alberto,107,Footon-Servetto,13,2010,▼2
+29,99,4.0,106,Lloyd Daniel,108,Cervelo Test Team,13,2010,▼2
+26,83,4.0,107,Champion Dimitri,109,AG2R La Mondiale,13,2010,▼2
+30,149,4.0,108,Wegmann Fabian,110,Milram,13,2010,▼2
+27,79,4.0,109,Vorganov Eduard,111,Team Katusha,13,2010,▼2
+31,85,4.0,110,Gadret John,112,AG2R La Mondiale,13,2010,▼2
+31,198,3.0,112,Tankink Bram,113,Rabobank ProTeam,13,2010,▼1
+33,93,3.0,113,Gustov Volodymyr,114,Cervelo Test Team,13,2010,▼1
+26,22,2.0,114,Brajkovič Janez,115,RadioShack,13,2010,▼1
+31,189,2.0,115,Verdugo Gorka,116,Euskaltel - Euskadi,13,2010,▼1
+34,197,2.0,116,Niermann Grischa,117,Rabobank ProTeam,13,2010,▼1
+30,188,2.0,117,Velasco Iván,118,Euskaltel - Euskadi,13,2010,▼1
+32,48,2.0,118,Szmyd Sylwester,119,Liquigas - Doimo,13,2010,▼1
+30,135,2.0,122,Pineau Jérôme,120,Quickstep - Innergetic,13,2010,▲2
+27,147,2.0,124,Rohregger Thomas,121,Milram,13,2010,▲3
+25,14,2.0,121,Fuglsang Jakob,122,Saxo Bank,13,2010,▼1
+33,8,2.0,119,Tiralongo Paolo,123,Astana,13,2010,▼4
+30,28,2.0,125,Popovych Yaroslav,124,RadioShack,13,2010,▲1
+28,177,2.0,123,Moinard Amaël,125,"Cofidis, le Crédit en Ligne",13,2010,▼2
+26,6,2.0,120,Navarro Daniel,126,Astana,13,2010,▼6
+29,74,2.0,126,Kolobnev Alexandr,127,Team Katusha,13,2010,▼1
+23,162,2.0,127,Costa Rui,128,Caisse d'Epargne,13,2010,▼1
+31,7,2.0,128,Noval Benjamin,129,Astana,13,2010,▼1
+30,122,2.0,129,Ballan Alessandro,130,BMC Racing Team,13,2010,▼1
+24,63,2.0,134,Di Grégorio Rémy,131,Francaise des Jeux,13,2010,▲3
+23,76,2.0,131,Pliuschin Alexandr,132,Team Katusha,13,2010,▼1
+32,88,2.0,132,Nocentini Rinaldo,133,AG2R La Mondiale,13,2010,▼1
+28,157,2.0,133,Sprick Matthieu,134,Bbox Bouygues Telecom,13,2010,▼1
+29,5,2.0,130,Iglinskiy Maxim,135,Astana,13,2010,▼5
+32,218,2.0,135,Pérez Aitor,136,Footon-Servetto,13,2010,▼1
+29,203,2.0,137,Da Dalto Mauro,137,Lampre - Farnese Vini,13,2010,-
+30,45,2.0,136,Kuschynski Aleksandr,138,Liquigas - Doimo,13,2010,▼2
+25,204,2.0,139,Gavazzi Francesco,139,Lampre - Farnese Vini,13,2010,-
+30,42,2.0,138,Bellotti Francesco,140,Liquigas - Doimo,13,2010,▼2
+28,69,2.0,,Vaugrenard Benoît,141,Francaise des Jeux,13,2010,-
+34,127,2.0,140,Kroon Karsten,142,BMC Racing Team,13,2010,▼2
+29,112,2.0,142,Eisel Bernhard,143,Team HTC - Columbia,13,2010,▼1
+36,94,2.0,143,Hunt Jeremy,144,Cervelo Test Team,13,2010,▼1
+27,136,2.0,144,Reda Francesco,145,Quickstep - Innergetic,13,2010,▼1
+35,113,2.0,145,Grabsch Bert,146,Team HTC - Columbia,13,2010,▼1
+36,15,2.0,146,O'Grady Stuart,147,Saxo Bank,13,2010,▼1
+36,208,187.0,1,Petacchi Alessandro,1,Lampre - Farnese Vini,14,2010,-
+32,95,185.0,2,Hushovd Thor,2,Cervelo Test Team,14,2010,-
+25,111,162.0,3,Cavendish Mark,3,Team HTC - Columbia,14,2010,-
+25,169,144.0,4,Rojas José Joaquín,4,Caisse d'Epargne,14,2010,-
+38,75,138.0,5,McEwen Robbie,5,Team Katusha,14,2010,-
+23,36,120.0,6,Boasson Hagen Edvald,6,Sky Procycling,14,2010,-
+23,142,102.0,7,Ciolek Gerald,7,Milram,14,2010,-
+26,158,101.0,8,Turgot Sébastien,8,Bbox Bouygues Telecom,14,2010,-
+32,181,92.0,10,Sánchez Samuel,9,Euskaltel - Euskadi,14,2010,▲1
+27,1,,10*,Contador Alberto,10*,Astana,14,2010,-
+25,11,89.0,15,Schleck Andy,10,Saxo Bank,14,2010,▲5
+25,108,83.0,9,Roelandts Jürgen,11,Omega Pharma-Lotto,14,2010,▼2
+36,9,81.0,14,Vinokourov Alexandre,12,Astana,14,2010,▲2
+28,87,76.0,11,Mondory Lloyd,13,AG2R La Mondiale,14,2010,▼2
+24,39,75.0,12,Thomas Geraint,14,Sky Procycling,14,2010,▼2
+31,131,74.0,13,Chavanel Sylvain,15,Quickstep - Innergetic,14,2010,▼2
+33,121,73.0,16,Evans Cadel,16,BMC Racing Team,14,2010,-
+32,191,,23*,Menchov Denis,18*,Rabobank ProTeam,14,2010,-
+26,81,69.0,17,Roche Nicolas,17,AG2R La Mondiale,14,2010,-
+27,101,64.0,20,Van den Broeck Jurgen,18,Omega Pharma-Lotto,14,2010,▲2
+23,46,62.0,18,Oss Daniel,19,Liquigas - Doimo,14,2010,▼1
+31,77,57.0,27,Rodríguez Joaquim,20,Team Katusha,14,2010,▲7
+28,186,54.0,19,Pérez Rubén,21,Euskaltel - Euskadi,14,2010,▼2
+29,54,49.0,23,Hesjedal Ryder,22,Team Garmin - Transitions,14,2010,▲1
+35,52,49.0,21,Dean Julian,23,Team Garmin - Transitions,14,2010,▼2
+25,152,49.0,22,Arashiro Yukiya,24,Bbox Bouygues Telecom,14,2010,▼2
+24,195,48.0,32,Gesink Robert,25,Rabobank ProTeam,14,2010,▲7
+35,102,47.0,24,Aerts Mario,26,Omega Pharma-Lotto,14,2010,▼2
+36,205,44.0,25,Hondo Danilo,27,Lampre - Farnese Vini,14,2010,▼2
+29,165,43.0,26,Kiryienka Vasil,28,Caisse d'Epargne,14,2010,▼2
+29,13,39.0,28,Cancellara Fabian,29,Saxo Bank,14,2010,▼1
+34,193,39.0,29,Freire Óscar,30,Rabobank ProTeam,14,2010,▼1
+31,62,37.0,30,Casar Sandy,31,Francaise des Jeux,14,2010,▼1
+29,145,37.0,31,Knees Christian,32,Milram,14,2010,▼1
+36,25,35.0,41,Leipheimer Levi,33,RadioShack,14,2010,▲8
+25,65,35.0,33,Ladagnous Matthieu,34,Francaise des Jeux,14,2010,▼1
+26,161,34.0,36,Sánchez Luis León,35,Caisse d'Epargne,14,2010,▲1
+24,44,34.0,34,Kreuziger Roman,36,Liquigas - Doimo,14,2010,▼2
+34,194,33.0,35,Garate Juan Manuel,37,Rabobank ProTeam,14,2010,▼2
+30,31,33.0,37,Wiggins Bradley,38,Sky Procycling,14,2010,▼1
+28,201,32.0,52,Cunego Damiano,39,Lampre - Farnese Vini,14,2010,▲13
+33,146,31.0,38,Roberts Luke,40,Milram,14,2010,▼2
+30,64,30.0,40,Geslin Anthony,41,Francaise des Jeux,14,2010,▼1
+25,174,30.0,39,El Fares Julien,42,"Cofidis, le Crédit en Ligne",14,2010,▼3
+39,166,29.0,42,Moreau Christophe,43,Caisse d'Epargne,14,2010,▼1
+29,89,29.0,96,Riblon Christophe,44,AG2R La Mondiale,14,2010,▲52
+24,202,29.0,43,Bole Grega,45,Lampre - Farnese Vini,14,2010,▼2
+30,105,28.0,44,Lang Sebastian,46,Omega Pharma-Lotto,14,2010,▼2
+31,154,27.0,45,Fédrigo Pierrick,47,Bbox Bouygues Telecom,14,2010,▼2
+25,167,26.0,46,Perget Mathieu,48,Caisse d'Epargne,14,2010,▼2
+27,141,26.0,47,Gerdemann Linus,49,Milram,14,2010,▼2
+30,27,26.0,48,Paulinho Sérgio Miguel,50,RadioShack,14,2010,▼2
+23,156,26.0,49,Rolland Pierre,51,Bbox Bouygues Telecom,14,2010,▼2
+23,219,25.0,50,Valls Rafael,52,Footon-Servetto,14,2010,▼2
+30,168,24.0,51,Plaza Rubén,53,Caisse d'Epargne,14,2010,▼2
+31,164,24.0,53,Gutiérrez José Iván,54,Caisse d'Epargne,14,2010,▼1
+32,34,23.0,54,Flecha Juan Antonio,55,Sky Procycling,14,2010,▼1
+26,134,22.0,55,Devenyns Dries,56,Quickstep - Innergetic,14,2010,▼1
+29,58,22.0,56,Vansummeren Johan,57,Team Garmin - Transitions,14,2010,▼1
+31,151,22.0,57,Voeckler Thomas,58,Bbox Bouygues Telecom,14,2010,▼1
+28,133,21.0,58,De Weert Kevin,59,Quickstep - Innergetic,14,2010,▼1
+35,172,20.0,81,Augé Stéphane,60,"Cofidis, le Crédit en Ligne",14,2010,▲21
+38,23,19.0,59,Horner Chris,61,RadioShack,14,2010,▼2
+28,107,18.0,60,Moreno Daniel,62,Omega Pharma-Lotto,14,2010,▼2
+33,57,18.0,62,Millar David,63,Team Garmin - Transitions,14,2010,▼1
+23,82,17.0,61,Bouet Maxime,64,AG2R La Mondiale,14,2010,▼3
+35,91,17.0,87,Sastre Carlos,65,Cervelo Test Team,14,2010,▲22
+26,37,17.0,63,Löfkvist Thomas,66,Sky Procycling,14,2010,▼3
+35,24,16.0,64,Klöden Andreas,67,RadioShack,14,2010,▼3
+31,153,16.0,65,Charteau Anthony,68,Bbox Bouygues Telecom,14,2010,▼3
+26,56,16.0,66,Maaskant Martijn,69,Team Garmin - Transitions,14,2010,▼3
+32,41,16.0,67,Basso Ivan,70,Liquigas - Doimo,14,2010,▼3
+28,179,16.0,68,Pauriol Rémi,71,"Cofidis, le Crédit en Ligne",14,2010,▼3
+29,132,,73*,Barredo Carlos,74*,Quickstep - Innergetic,14,2010,-
+26,123,15.0,71,Bookwalter Brent,72,BMC Racing Team,14,2010,▼1
+38,21,15.0,69,Armstrong Lance,73,RadioShack,14,2010,▼4
+32,183,15.0,70,Martínez Egoi,74,Euskaltel - Euskadi,14,2010,▼4
+25,103,15.0,72,de Greef Francis,75,Omega Pharma-Lotto,14,2010,▼3
+28,185,15.0,73,Pérez Alan,76,Euskaltel - Euskadi,14,2010,▼3
+27,119,15.0,74,Siutsou Kanstantsin,77,Team HTC - Columbia,14,2010,▼3
+25,115,14.0,75,Martin Tony,78,Team HTC - Columbia,14,2010,▼3
+28,176,14.0,76,Minard Sébastien,79,"Cofidis, le Crédit en Ligne",14,2010,▼3
+31,84,14.0,77,Elmiger Martin,80,AG2R La Mondiale,14,2010,▼3
+36,196,14.0,78,Moerenhout Koos,81,Rabobank ProTeam,14,2010,▼3
+24,192,13.0,80,Boom Lars,82,Rabobank ProTeam,14,2010,▼2
+28,139,13.0,79,Wynants Maarten,83,Quickstep - Innergetic,14,2010,▼4
+33,138,12.0,88,van de Walle Jurgen,84,Quickstep - Innergetic,14,2010,▲4
+30,98,12.0,83,Lancaster Brett,85,Cervelo Test Team,14,2010,▼2
+24,214,12.0,82,Durán Arkaitz,86,Footon-Servetto,14,2010,▼4
+24,211,12.0,84,Capecchi Eros,87,Footon-Servetto,14,2010,▼3
+26,3,12.0,85,Grivko Andrey,88,Astana,14,2010,▼3
+28,217,12.0,86,Mayoz Iban,89,Footon-Servetto,14,2010,▼3
+28,69,11.0,141,Vaugrenard Benoît,90,Francaise des Jeux,14,2010,▲51
+25,143,11.0,91,Fröhlinger Johannes,91,Milram,14,2010,-
+22,155,10.0,90,Gautier Cyril,92,Bbox Bouygues Telecom,14,2010,▼2
+27,178,8.0,89,Monier Damien,93,"Cofidis, le Crédit en Ligne",14,2010,▼4
+34,32,8.0,92,Barry Michael,94,Sky Procycling,14,2010,▼2
+29,61,8.0,93,Le Mével Christophe,95,Francaise des Jeux,14,2010,▼2
+37,126,8.0,94,Hincapie George,96,BMC Racing Team,14,2010,▼2
+33,182,8.0,100,Isasi Iñaki,97,Euskaltel - Euskadi,14,2010,▲3
+28,177,7.0,125,Moinard Amaël,98,"Cofidis, le Crédit en Ligne",14,2010,▲27
+32,159,7.0,98,Vogondy Nicolas,99,Bbox Bouygues Telecom,14,2010,▼1
+26,163,6.0,97,Erviti Imanol,100,Caisse d'Epargne,14,2010,▼3
+38,19,6.0,99,Voigt Jens,101,Saxo Bank,14,2010,▼2
+30,118,6.0,95,Rogers Michael,102,Team HTC - Columbia,14,2010,▼7
+23,43,6.0,101,Koren Kristijan,103,Liquigas - Doimo,14,2010,▼2
+31,59,6.0,,Zabriskie David,104,Team Garmin - Transitions,14,2010,-
+28,72,6.0,104,Brutt Pavel,105,Team Katusha,14,2010,▼1
+26,83,5.0,109,Champion Dimitri,106,AG2R La Mondiale,14,2010,▲3
+28,212,4.0,107,Benítez José Alberto,107,Footon-Servetto,14,2010,-
+29,33,4.0,106,Cummings Steve,108,Sky Procycling,14,2010,▼2
+27,116,4.0,102,Monfort Maxime,109,Team HTC - Columbia,14,2010,▼7
+25,12,4.0,105,Breschel Matti,110,Saxo Bank,14,2010,▼5
+26,38,4.0,103,Pauwels Serge,111,Sky Procycling,14,2010,▼8
+29,99,4.0,108,Lloyd Daniel,112,Cervelo Test Team,14,2010,▼4
+30,149,4.0,110,Wegmann Fabian,113,Milram,14,2010,▼3
+27,79,4.0,111,Vorganov Eduard,114,Team Katusha,14,2010,▼3
+31,85,4.0,112,Gadret John,115,AG2R La Mondiale,14,2010,▼3
+25,204,3.0,139,Gavazzi Francesco,116,Lampre - Farnese Vini,14,2010,▲23
+27,147,3.0,121,Rohregger Thomas,117,Milram,14,2010,▲4
+28,157,2.0,134,Sprick Matthieu,118,Bbox Bouygues Telecom,14,2010,▲16
+27,136,2.0,145,Reda Francesco,119,Quickstep - Innergetic,14,2010,▲26
+30,45,2.0,138,Kuschynski Aleksandr,120,Liquigas - Doimo,14,2010,▲18
+32,48,2.0,119,Szmyd Sylwester,121,Liquigas - Doimo,14,2010,▼2
+24,63,2.0,131,Di Grégorio Rémy,122,Francaise des Jeux,14,2010,▲9
+23,76,2.0,132,Pliuschin Alexandr,123,Team Katusha,14,2010,▲9
+23,162,2.0,128,Costa Rui,124,Caisse d'Epargne,14,2010,▲4
+34,127,2.0,142,Kroon Karsten,125,BMC Racing Team,14,2010,▲17
+32,88,2.0,133,Nocentini Rinaldo,126,AG2R La Mondiale,14,2010,▲7
+33,93,2.0,114,Gustov Volodymyr,127,Cervelo Test Team,14,2010,▼13
+36,94,2.0,144,Hunt Jeremy,128,Cervelo Test Team,14,2010,▲16
+35,113,2.0,146,Grabsch Bert,129,Team HTC - Columbia,14,2010,▲17
+30,122,2.0,130,Ballan Alessandro,130,BMC Racing Team,14,2010,-
+29,74,2.0,127,Kolobnev Alexandr,131,Team Katusha,14,2010,▼4
+30,42,2.0,140,Bellotti Francesco,132,Liquigas - Doimo,14,2010,▲8
+33,8,2.0,123,Tiralongo Paolo,133,Astana,14,2010,▼10
+31,7,2.0,129,Noval Benjamin,134,Astana,14,2010,▼5
+27,6,2.0,126,Navarro Daniel,135,Astana,14,2010,▼9
+30,28,2.0,124,Popovych Yaroslav,136,RadioShack,14,2010,▼12
+29,112,2.0,143,Eisel Bernhard,137,Team HTC - Columbia,14,2010,▲6
+29,5,2.0,135,Iglinskiy Maxim,138,Astana,14,2010,▼3
+30,188,2.0,118,Velasco Iván,139,Euskaltel - Euskadi,14,2010,▼21
+26,22,2.0,115,Brajkovič Janez,140,RadioShack,14,2010,▼25
+30,135,2.0,120,Pineau Jérôme,141,Quickstep - Innergetic,14,2010,▼21
+32,218,2.0,136,Pérez Aitor,142,Footon-Servetto,14,2010,▼6
+29,203,2.0,137,Da Dalto Mauro,143,Lampre - Farnese Vini,14,2010,▼6
+31,198,2.0,113,Tankink Bram,144,Rabobank ProTeam,14,2010,▼31
+34,197,2.0,117,Niermann Grischa,145,Rabobank ProTeam,14,2010,▼28
+31,189,2.0,116,Verdugo Gorka,146,Euskaltel - Euskadi,14,2010,▼30
+25,14,2.0,122,Fuglsang Jakob,147,Saxo Bank,14,2010,▼25
+36,15,2.0,147,O'Grady Stuart,148,Saxo Bank,14,2010,▼1
+36,208,187.0,1,Petacchi Alessandro,1,Lampre - Farnese Vini,15,2010,-
+32,95,185.0,2,Hushovd Thor,2,Cervelo Test Team,15,2010,-
+25,111,162.0,3,Cavendish Mark,3,Team HTC - Columbia,15,2010,-
+25,169,144.0,4,Rojas José Joaquín,4,Caisse d'Epargne,15,2010,-
+38,75,138.0,5,McEwen Robbie,5,Team Katusha,15,2010,-
+23,36,120.0,6,Boasson Hagen Edvald,6,Sky Procycling,15,2010,-
+26,158,107.0,8,Turgot Sébastien,7,Bbox Bouygues Telecom,15,2010,▲1
+23,142,102.0,7,Ciolek Gerald,8,Milram,15,2010,▼1
+32,181,100.0,9,Sánchez Samuel,9,Euskaltel - Euskadi,15,2010,-
+27,1,,10*,Contador Alberto,10*,Astana,15,2010,-
+28,87,98.0,13,Mondory Lloyd,10,AG2R La Mondiale,15,2010,▲3
+25,11,92.0,10,Schleck Andy,11,Saxo Bank,15,2010,▼1
+25,108,87.0,11,Roelandts Jürgen,12,Omega Pharma-Lotto,15,2010,▼1
+36,9,81.0,12,Vinokourov Alexandre,13,Astana,15,2010,▼1
+24,39,78.0,14,Thomas Geraint,14,Sky Procycling,15,2010,-
+31,131,74.0,15,Chavanel Sylvain,15,Quickstep - Innergetic,15,2010,-
+32,191,,18*,Menchov Denis,17*,Rabobank ProTeam,15,2010,-
+33,121,73.0,16,Evans Cadel,16,BMC Racing Team,15,2010,-
+26,81,71.0,17,Roche Nicolas,17,AG2R La Mondiale,15,2010,-
+27,101,69.0,18,Van den Broeck Jurgen,18,Omega Pharma-Lotto,15,2010,-
+23,46,62.0,19,Oss Daniel,19,Liquigas - Doimo,15,2010,-
+31,77,60.0,20,Rodríguez Joaquim,20,Team Katusha,15,2010,-
+28,186,54.0,21,Pérez Rubén,21,Euskaltel - Euskadi,15,2010,-
+29,54,49.0,22,Hesjedal Ryder,22,Team Garmin - Transitions,15,2010,-
+35,52,49.0,23,Dean Julian,23,Team Garmin - Transitions,15,2010,-
+25,152,49.0,24,Arashiro Yukiya,24,Bbox Bouygues Telecom,15,2010,-
+24,195,48.0,25,Gesink Robert,25,Rabobank ProTeam,15,2010,-
+35,102,47.0,26,Aerts Mario,26,Omega Pharma-Lotto,15,2010,-
+33,146,45.0,40,Roberts Luke,27,Milram,15,2010,▲13
+31,151,43.0,58,Voeckler Thomas,28,Bbox Bouygues Telecom,15,2010,▲30
+36,205,42.0,27,Hondo Danilo,29,Lampre - Farnese Vini,15,2010,▼2
+29,165,40.0,28,Kiryienka Vasil,30,Caisse d'Epargne,15,2010,▼2
+29,13,39.0,29,Cancellara Fabian,31,Saxo Bank,15,2010,▼2
+34,193,39.0,30,Freire Óscar,32,Rabobank ProTeam,15,2010,▼2
+31,62,37.0,31,Casar Sandy,33,Francaise des Jeux,15,2010,▼2
+29,145,37.0,32,Knees Christian,34,Milram,15,2010,▼2
+36,25,35.0,33,Leipheimer Levi,35,RadioShack,15,2010,▼2
+25,65,35.0,34,Ladagnous Matthieu,36,Francaise des Jeux,15,2010,▼2
+26,161,34.0,35,Sánchez Luis León,37,Caisse d'Epargne,15,2010,▼2
+24,44,34.0,36,Kreuziger Roman,38,Liquigas - Doimo,15,2010,▼2
+34,194,33.0,37,Garate Juan Manuel,39,Rabobank ProTeam,15,2010,▼2
+30,31,33.0,38,Wiggins Bradley,40,Sky Procycling,15,2010,▼2
+28,201,32.0,39,Cunego Damiano,41,Lampre - Farnese Vini,15,2010,▼2
+25,174,31.0,42,El Fares Julien,42,"Cofidis, le Crédit en Ligne",15,2010,-
+30,64,30.0,41,Geslin Anthony,43,Francaise des Jeux,15,2010,▼2
+39,166,29.0,43,Moreau Christophe,44,Caisse d'Epargne,15,2010,▼1
+29,89,29.0,44,Riblon Christophe,45,AG2R La Mondiale,15,2010,▼1
+24,202,29.0,45,Bole Grega,46,Lampre - Farnese Vini,15,2010,▼1
+30,105,28.0,46,Lang Sebastian,47,Omega Pharma-Lotto,15,2010,▼1
+31,154,27.0,47,Fédrigo Pierrick,48,Bbox Bouygues Telecom,15,2010,▼1
+25,167,26.0,48,Perget Mathieu,49,Caisse d'Epargne,15,2010,▼1
+29,58,26.0,57,Vansummeren Johan,50,Team Garmin - Transitions,15,2010,▲7
+27,141,26.0,49,Gerdemann Linus,51,Milram,15,2010,▼2
+30,27,26.0,50,Paulinho Sérgio Miguel,52,RadioShack,15,2010,▼2
+23,156,26.0,51,Rolland Pierre,53,Bbox Bouygues Telecom,15,2010,▼2
+23,219,25.0,52,Valls Rafael,54,Footon-Servetto,15,2010,▼2
+30,168,24.0,53,Plaza Rubén,55,Caisse d'Epargne,15,2010,▼2
+31,164,24.0,54,Gutiérrez José Iván,56,Caisse d'Epargne,15,2010,▼2
+32,34,23.0,55,Flecha Juan Antonio,57,Sky Procycling,15,2010,▼2
+26,134,22.0,56,Devenyns Dries,58,Quickstep - Innergetic,15,2010,▼2
+30,122,22.0,130,Ballan Alessandro,59,BMC Racing Team,15,2010,▲71
+28,133,22.0,59,De Weert Kevin,60,Quickstep - Innergetic,15,2010,▼1
+35,172,19.0,60,Augé Stéphane,61,"Cofidis, le Crédit en Ligne",15,2010,▼1
+38,23,19.0,61,Horner Chris,62,RadioShack,15,2010,▼1
+32,218,18.0,142,Pérez Aitor,63,Footon-Servetto,15,2010,▲79
+33,57,18.0,63,Millar David,64,Team Garmin - Transitions,15,2010,▼1
+28,107,17.0,62,Moreno Daniel,65,Omega Pharma-Lotto,15,2010,▼3
+23,82,17.0,64,Bouet Maxime,66,AG2R La Mondiale,15,2010,▼2
+31,153,17.0,68,Charteau Anthony,67,Bbox Bouygues Telecom,15,2010,▲1
+35,91,17.0,65,Sastre Carlos,68,Cervelo Test Team,15,2010,▼3
+26,37,16.0,66,Löfkvist Thomas,69,Sky Procycling,15,2010,▼3
+35,24,16.0,67,Klöden Andreas,70,RadioShack,15,2010,▼3
+26,56,16.0,69,Maaskant Martijn,71,Team Garmin - Transitions,15,2010,▼2
+32,41,16.0,70,Basso Ivan,72,Liquigas - Doimo,15,2010,▼2
+29,132,,74*,Barredo Carlos,75*,Quickstep - Innergetic,15,2010,-
+26,123,16.0,72,Bookwalter Brent,73,BMC Racing Team,15,2010,▼1
+38,21,15.0,73,Armstrong Lance,74,RadioShack,15,2010,▼1
+32,183,15.0,74,Martínez Egoi,75,Euskaltel - Euskadi,15,2010,▼1
+28,179,15.0,71,Pauriol Rémi,76,"Cofidis, le Crédit en Ligne",15,2010,▼5
+25,103,15.0,75,de Greef Francis,77,Omega Pharma-Lotto,15,2010,▼2
+28,185,15.0,76,Pérez Alan,78,Euskaltel - Euskadi,15,2010,▼2
+27,119,15.0,77,Siutsou Kanstantsin,79,Team HTC - Columbia,15,2010,▼2
+25,115,14.0,78,Martin Tony,80,Team HTC - Columbia,15,2010,▼2
+28,176,14.0,79,Minard Sébastien,81,"Cofidis, le Crédit en Ligne",15,2010,▼2
+31,84,14.0,80,Elmiger Martin,82,AG2R La Mondiale,15,2010,▼2
+36,196,14.0,81,Moerenhout Koos,83,Rabobank ProTeam,15,2010,▼2
+24,192,13.0,82,Boom Lars,84,Rabobank ProTeam,15,2010,▼2
+28,139,13.0,83,Wynants Maarten,85,Quickstep - Innergetic,15,2010,▼2
+33,138,12.0,84,van de Walle Jurgen,86,Quickstep - Innergetic,15,2010,▼2
+27,178,12.0,93,Monier Damien,87,"Cofidis, le Crédit en Ligne",15,2010,▲6
+27,136,12.0,119,Reda Francesco,88,Quickstep - Innergetic,15,2010,▲31
+30,98,12.0,85,Lancaster Brett,89,Cervelo Test Team,15,2010,▼4
+24,214,12.0,86,Durán Arkaitz,90,Footon-Servetto,15,2010,▼4
+26,3,12.0,88,Grivko Andrey,91,Astana,15,2010,▼3
+24,211,12.0,87,Capecchi Eros,92,Footon-Servetto,15,2010,▼5
+28,217,12.0,89,Mayoz Iban,93,Footon-Servetto,15,2010,▼4
+28,69,11.0,90,Vaugrenard Benoît,94,Francaise des Jeux,15,2010,▼4
+36,94,11.0,128,Hunt Jeremy,95,Cervelo Test Team,15,2010,▲33
+25,143,10.0,91,Fröhlinger Johannes,96,Milram,15,2010,▼5
+22,155,8.0,92,Gautier Cyril,97,Bbox Bouygues Telecom,15,2010,▼5
+34,32,8.0,94,Barry Michael,98,Sky Procycling,15,2010,▼4
+37,126,8.0,96,Hincapie George,99,BMC Racing Team,15,2010,▼3
+29,61,8.0,95,Le Mével Christophe,100,Francaise des Jeux,15,2010,▼5
+28,177,8.0,98,Moinard Amaël,101,"Cofidis, le Crédit en Ligne",15,2010,▼3
+33,182,7.0,97,Isasi Iñaki,102,Euskaltel - Euskadi,15,2010,▼5
+28,49,7.0,,Vandborg Brian Bach,103,Liquigas - Doimo,15,2010,-
+26,163,6.0,100,Erviti Imanol,104,Caisse d'Epargne,15,2010,▼4
+32,159,6.0,99,Vogondy Nicolas,105,Bbox Bouygues Telecom,15,2010,▼6
+38,19,6.0,101,Voigt Jens,106,Saxo Bank,15,2010,▼5
+30,118,6.0,102,Rogers Michael,107,Team HTC - Columbia,15,2010,▼5
+23,43,6.0,103,Koren Kristijan,108,Liquigas - Doimo,15,2010,▼5
+26,83,6.0,106,Champion Dimitri,109,AG2R La Mondiale,15,2010,▼3
+28,72,6.0,105,Brutt Pavel,110,Team Katusha,15,2010,▼5
+31,59,5.0,104,Zabriskie David,111,Team Garmin - Transitions,15,2010,▼7
+28,212,4.0,107,Benítez José Alberto,112,Footon-Servetto,15,2010,▼5
+29,33,4.0,108,Cummings Steve,113,Sky Procycling,15,2010,▼5
+27,116,4.0,109,Monfort Maxime,114,Team HTC - Columbia,15,2010,▼5
+30,135,4.0,141,Pineau Jérôme,115,Quickstep - Innergetic,15,2010,▲26
+29,99,4.0,112,Lloyd Daniel,116,Cervelo Test Team,15,2010,▼4
+26,38,4.0,111,Pauwels Serge,117,Sky Procycling,15,2010,▼6
+25,12,4.0,110,Breschel Matti,118,Saxo Bank,15,2010,▼8
+30,149,4.0,113,Wegmann Fabian,119,Milram,15,2010,▼6
+27,79,4.0,114,Vorganov Eduard,120,Team Katusha,15,2010,▼6
+35,73,4.0,,Ivanov Serguei,121,Team Katusha,15,2010,-
+25,204,3.0,116,Gavazzi Francesco,122,Lampre - Farnese Vini,15,2010,▼6
+34,127,3.0,125,Kroon Karsten,123,BMC Racing Team,15,2010,▲2
+27,147,2.0,117,Rohregger Thomas,124,Milram,15,2010,▼7
+29,74,2.0,131,Kolobnev Alexandr,125,Team Katusha,15,2010,▲6
+33,93,2.0,127,Gustov Volodymyr,126,Cervelo Test Team,15,2010,▲1
+32,88,2.0,126,Nocentini Rinaldo,127,AG2R La Mondiale,15,2010,▼1
+31,85,2.0,115,Gadret John,128,AG2R La Mondiale,15,2010,▼13
+35,113,2.0,129,Grabsch Bert,129,Team HTC - Columbia,15,2010,-
+23,76,2.0,123,Pliuschin Alexandr,130,Team Katusha,15,2010,▼7
+28,157,2.0,118,Sprick Matthieu,131,Bbox Bouygues Telecom,15,2010,▼13
+24,63,2.0,122,Di Grégorio Rémy,132,Francaise des Jeux,15,2010,▼10
+32,48,2.0,121,Szmyd Sylwester,133,Liquigas - Doimo,15,2010,▼12
+33,8,2.0,133,Tiralongo Paolo,134,Astana,15,2010,▼1
+30,42,2.0,132,Bellotti Francesco,135,Liquigas - Doimo,15,2010,▼3
+29,5,2.0,138,Iglinskiy Maxim,136,Astana,15,2010,▲2
+26,22,2.0,140,Brajkovič Janez,137,RadioShack,15,2010,▲3
+31,7,2.0,134,Noval Benjamin,138,Astana,15,2010,▼4
+27,6,2.0,135,Navarro Daniel,139,Astana,15,2010,▼4
+30,45,2.0,120,Kuschynski Aleksandr,140,Liquigas - Doimo,15,2010,▼20
+25,14,2.0,147,Fuglsang Jakob,141,Saxo Bank,15,2010,▲6
+29,112,2.0,137,Eisel Bernhard,142,Team HTC - Columbia,15,2010,▼5
+29,203,2.0,143,Da Dalto Mauro,143,Lampre - Farnese Vini,15,2010,-
+31,198,2.0,144,Tankink Bram,144,Rabobank ProTeam,15,2010,-
+34,197,2.0,145,Niermann Grischa,145,Rabobank ProTeam,15,2010,-
+31,189,2.0,146,Verdugo Gorka,146,Euskaltel - Euskadi,15,2010,-
+30,188,2.0,139,Velasco Iván,147,Euskaltel - Euskadi,15,2010,▼8
+23,162,2.0,124,Costa Rui,148,Caisse d'Epargne,15,2010,▼24
+30,28,2.0,136,Popovych Yaroslav,149,RadioShack,15,2010,▼13
+36,15,2.0,148,O'Grady Stuart,150,Saxo Bank,15,2010,▼2
+32,95,191.0,2,Hushovd Thor,1,Cervelo Test Team,16,2010,▲1
+36,208,187.0,1,Petacchi Alessandro,2,Lampre - Farnese Vini,16,2010,▼1
+25,111,162.0,3,Cavendish Mark,3,Team HTC - Columbia,16,2010,-
+25,169,149.0,4,Rojas José Joaquín,4,Caisse d'Epargne,16,2010,-
+38,75,138.0,5,McEwen Robbie,5,Team Katusha,16,2010,-
+23,36,120.0,6,Boasson Hagen Edvald,6,Sky Procycling,16,2010,-
+26,158,107.0,7,Turgot Sébastien,7,Bbox Bouygues Telecom,16,2010,-
+23,142,104.0,8,Ciolek Gerald,8,Milram,16,2010,-
+32,181,100.0,9,Sánchez Samuel,9,Euskaltel - Euskadi,16,2010,-
+27,1,,10*,Contador Alberto,10*,Astana,16,2010,-
+28,87,98.0,10,Mondory Lloyd,10,AG2R La Mondiale,16,2010,-
+25,11,92.0,11,Schleck Andy,11,Saxo Bank,16,2010,-
+25,108,87.0,12,Roelandts Jürgen,12,Omega Pharma-Lotto,16,2010,-
+36,9,81.0,13,Vinokourov Alexandre,13,Astana,16,2010,-
+24,39,78.0,14,Thomas Geraint,14,Sky Procycling,16,2010,-
+31,131,74.0,15,Chavanel Sylvain,15,Quickstep - Innergetic,16,2010,-
+32,191,,17*,Menchov Denis,17*,Rabobank ProTeam,16,2010,-
+33,121,73.0,16,Evans Cadel,16,BMC Racing Team,16,2010,-
+26,81,71.0,17,Roche Nicolas,17,AG2R La Mondiale,16,2010,-
+27,101,69.0,18,Van den Broeck Jurgen,18,Omega Pharma-Lotto,16,2010,-
+23,46,65.0,19,Oss Daniel,19,Liquigas - Doimo,16,2010,-
+31,62,60.0,33,Casar Sandy,20,Francaise des Jeux,16,2010,▲13
+31,77,54.0,20,Rodríguez Joaquim,21,Team Katusha,16,2010,▼1
+28,186,52.0,21,Pérez Rubén,22,Euskaltel - Euskadi,16,2010,▼1
+29,54,49.0,22,Hesjedal Ryder,23,Team Garmin - Transitions,16,2010,▼1
+35,52,49.0,23,Dean Julian,24,Team Garmin - Transitions,16,2010,▼1
+25,152,49.0,24,Arashiro Yukiya,25,Bbox Bouygues Telecom,16,2010,▼1
+31,154,48.0,48,Fédrigo Pierrick,26,Bbox Bouygues Telecom,16,2010,▲22
+24,195,47.0,25,Gesink Robert,27,Rabobank ProTeam,16,2010,▼2
+39,166,46.0,44,Moreau Christophe,28,Caisse d'Epargne,16,2010,▲16
+35,102,45.0,26,Aerts Mario,29,Omega Pharma-Lotto,16,2010,▼3
+28,201,45.0,41,Cunego Damiano,30,Lampre - Farnese Vini,16,2010,▲11
+33,146,43.0,27,Roberts Luke,31,Milram,16,2010,▼4
+31,151,43.0,28,Voeckler Thomas,32,Bbox Bouygues Telecom,16,2010,▼4
+36,205,42.0,29,Hondo Danilo,33,Lampre - Farnese Vini,16,2010,▼4
+29,165,40.0,30,Kiryienka Vasil,34,Caisse d'Epargne,16,2010,▼4
+30,168,39.0,55,Plaza Rubén,35,Caisse d'Epargne,16,2010,▲20
+29,13,39.0,31,Cancellara Fabian,36,Saxo Bank,16,2010,▼5
+34,193,38.0,32,Freire Óscar,37,Rabobank ProTeam,16,2010,▼5
+29,145,37.0,34,Knees Christian,38,Milram,16,2010,▼4
+29,132,,75*,Barredo Carlos,41*,Quickstep - Innergetic,16,2010,-
+36,25,37.0,35,Leipheimer Levi,39,RadioShack,16,2010,▼4
+25,65,35.0,36,Ladagnous Matthieu,40,Francaise des Jeux,16,2010,▼4
+24,44,34.0,38,Kreuziger Roman,41,Liquigas - Doimo,16,2010,▼3
+26,161,34.0,37,Sánchez Luis León,42,Caisse d'Epargne,16,2010,▼5
+34,194,34.0,39,Garate Juan Manuel,43,Rabobank ProTeam,16,2010,▼4
+30,31,33.0,40,Wiggins Bradley,44,Sky Procycling,16,2010,▼4
+38,23,33.0,62,Horner Chris,45,RadioShack,16,2010,▲17
+25,174,32.0,42,El Fares Julien,46,"Cofidis, le Crédit en Ligne",16,2010,▼4
+30,64,31.0,43,Geslin Anthony,47,Francaise des Jeux,16,2010,▼4
+29,89,30.0,45,Riblon Christophe,48,AG2R La Mondiale,16,2010,▼3
+24,202,29.0,46,Bole Grega,49,Lampre - Farnese Vini,16,2010,▼3
+38,21,29.0,74,Armstrong Lance,50,RadioShack,16,2010,▲24
+30,105,28.0,47,Lang Sebastian,51,Omega Pharma-Lotto,16,2010,▼4
+29,58,27.0,50,Vansummeren Johan,52,Team Garmin - Transitions,16,2010,▼2
+25,167,27.0,49,Perget Mathieu,53,Caisse d'Epargne,16,2010,▼4
+27,141,26.0,51,Gerdemann Linus,54,Milram,16,2010,▼3
+30,27,26.0,52,Paulinho Sérgio Miguel,55,RadioShack,16,2010,▼3
+23,156,26.0,53,Rolland Pierre,56,Bbox Bouygues Telecom,16,2010,▼3
+23,219,26.0,54,Valls Rafael,57,Footon-Servetto,16,2010,▼3
+33,138,25.0,86,van de Walle Jurgen,58,Quickstep - Innergetic,16,2010,▲28
+31,164,24.0,56,Gutiérrez José Iván,59,Caisse d'Epargne,16,2010,▼3
+32,34,24.0,57,Flecha Juan Antonio,60,Sky Procycling,16,2010,▼3
+26,134,23.0,58,Devenyns Dries,61,Quickstep - Innergetic,16,2010,▼3
+28,133,22.0,60,De Weert Kevin,62,Quickstep - Innergetic,16,2010,▼2
+30,122,22.0,59,Ballan Alessandro,63,BMC Racing Team,16,2010,▼4
+35,172,22.0,61,Augé Stéphane,64,"Cofidis, le Crédit en Ligne",16,2010,▼3
+28,107,19.0,65,Moreno Daniel,65,Omega Pharma-Lotto,16,2010,-
+32,218,19.0,63,Pérez Aitor,66,Footon-Servetto,16,2010,▼3
+23,82,18.0,66,Bouet Maxime,67,AG2R La Mondiale,16,2010,▼1
+33,57,17.0,64,Millar David,68,Team Garmin - Transitions,16,2010,▼4
+35,91,17.0,68,Sastre Carlos,69,Cervelo Test Team,16,2010,▼1
+35,24,17.0,70,Klöden Andreas,70,RadioShack,16,2010,-
+26,37,17.0,69,Löfkvist Thomas,71,Sky Procycling,16,2010,▼2
+31,153,16.0,67,Charteau Anthony,72,Bbox Bouygues Telecom,16,2010,▼5
+26,56,16.0,71,Maaskant Martijn,73,Team Garmin - Transitions,16,2010,▼2
+32,41,16.0,72,Basso Ivan,74,Liquigas - Doimo,16,2010,▼2
+28,179,16.0,76,Pauriol Rémi,75,"Cofidis, le Crédit en Ligne",16,2010,▲1
+32,183,16.0,75,Martínez Egoi,76,Euskaltel - Euskadi,16,2010,▼1
+24,211,15.0,92,Capecchi Eros,77,Footon-Servetto,16,2010,▲15
+26,123,15.0,73,Bookwalter Brent,78,BMC Racing Team,16,2010,▼5
+25,103,15.0,77,de Greef Francis,79,Omega Pharma-Lotto,16,2010,▼2
+28,185,15.0,78,Pérez Alan,80,Euskaltel - Euskadi,16,2010,▼2
+27,119,15.0,79,Siutsou Kanstantsin,81,Team HTC - Columbia,16,2010,▼2
+31,84,14.0,82,Elmiger Martin,82,AG2R La Mondiale,16,2010,-
+25,115,14.0,80,Martin Tony,83,Team HTC - Columbia,16,2010,▼3
+28,176,14.0,81,Minard Sébastien,84,"Cofidis, le Crédit en Ligne",16,2010,▼3
+36,196,14.0,83,Moerenhout Koos,85,Rabobank ProTeam,16,2010,▼2
+28,139,14.0,85,Wynants Maarten,86,Quickstep - Innergetic,16,2010,▼1
+24,192,13.0,84,Boom Lars,87,Rabobank ProTeam,16,2010,▼3
+27,178,12.0,87,Monier Damien,88,"Cofidis, le Crédit en Ligne",16,2010,▼1
+24,214,12.0,90,Durán Arkaitz,89,Footon-Servetto,16,2010,▲1
+27,136,12.0,88,Reda Francesco,90,Quickstep - Innergetic,16,2010,▼2
+30,98,12.0,89,Lancaster Brett,91,Cervelo Test Team,16,2010,▼2
+26,3,12.0,91,Grivko Andrey,92,Astana,16,2010,▼1
+28,217,12.0,93,Mayoz Iban,93,Footon-Servetto,16,2010,-
+28,69,12.0,94,Vaugrenard Benoît,94,Francaise des Jeux,16,2010,-
+36,94,11.0,95,Hunt Jeremy,95,Cervelo Test Team,16,2010,-
+22,155,10.0,97,Gautier Cyril,96,Bbox Bouygues Telecom,16,2010,▲1
+25,143,8.0,96,Fröhlinger Johannes,97,Milram,16,2010,▼1
+34,32,8.0,98,Barry Michael,98,Sky Procycling,16,2010,-
+29,61,8.0,100,Le Mével Christophe,99,Francaise des Jeux,16,2010,▲1
+37,126,8.0,99,Hincapie George,100,BMC Racing Team,16,2010,▼1
+30,118,8.0,107,Rogers Michael,101,Team HTC - Columbia,16,2010,▲6
+28,177,7.0,101,Moinard Amaël,102,"Cofidis, le Crédit en Ligne",16,2010,▼1
+32,159,7.0,105,Vogondy Nicolas,103,Bbox Bouygues Telecom,16,2010,▲2
+26,163,6.0,104,Erviti Imanol,104,Caisse d'Epargne,16,2010,-
+33,182,6.0,102,Isasi Iñaki,105,Euskaltel - Euskadi,16,2010,▼3
+28,49,6.0,103,Vandborg Brian Bach,106,Liquigas - Doimo,16,2010,▼3
+38,19,6.0,106,Voigt Jens,107,Saxo Bank,16,2010,▼1
+23,43,6.0,108,Koren Kristijan,108,Liquigas - Doimo,16,2010,-
+27,116,6.0,114,Monfort Maxime,109,Team HTC - Columbia,16,2010,▲5
+30,135,6.0,115,Pineau Jérôme,110,Quickstep - Innergetic,16,2010,▲5
+26,38,5.0,117,Pauwels Serge,111,Sky Procycling,16,2010,▲6
+28,72,4.0,110,Brutt Pavel,112,Team Katusha,16,2010,▼2
+25,12,4.0,118,Breschel Matti,113,Saxo Bank,16,2010,▲5
+28,212,4.0,112,Benítez José Alberto,114,Footon-Servetto,16,2010,▼2
+31,59,4.0,111,Zabriskie David,115,Team Garmin - Transitions,16,2010,▼4
+29,33,4.0,113,Cummings Steve,116,Sky Procycling,16,2010,▼3
+26,83,4.0,109,Champion Dimitri,117,AG2R La Mondiale,16,2010,▼8
+29,99,4.0,116,Lloyd Daniel,118,Cervelo Test Team,16,2010,▼2
+27,79,4.0,120,Vorganov Eduard,119,Team Katusha,16,2010,▲1
+30,149,4.0,119,Wegmann Fabian,120,Milram,16,2010,▼1
+31,85,4.0,128,Gadret John,121,AG2R La Mondiale,16,2010,▲7
+33,93,3.0,126,Gustov Volodymyr,122,Cervelo Test Team,16,2010,▲4
+26,22,3.0,137,Brajkovič Janez,123,RadioShack,16,2010,▲14
+31,189,2.0,146,Verdugo Gorka,124,Euskaltel - Euskadi,16,2010,▲22
+34,197,2.0,145,Niermann Grischa,125,Rabobank ProTeam,16,2010,▲20
+30,188,2.0,147,Velasco Iván,126,Euskaltel - Euskadi,16,2010,▲21
+32,48,2.0,133,Szmyd Sylwester,127,Liquigas - Doimo,16,2010,▲6
+27,6,2.0,139,Navarro Daniel,128,Astana,16,2010,▲11
+33,8,2.0,134,Tiralongo Paolo,129,Astana,16,2010,▲5
+25,14,2.0,141,Fuglsang Jakob,130,Saxo Bank,16,2010,▲11
+29,74,2.0,125,Kolobnev Alexandr,131,Team Katusha,16,2010,▼6
+27,147,2.0,124,Rohregger Thomas,132,Milram,16,2010,▼8
+24,63,2.0,132,Di Grégorio Rémy,133,Francaise des Jeux,16,2010,▼1
+23,162,2.0,148,Costa Rui,134,Caisse d'Epargne,16,2010,▲14
+30,28,2.0,149,Popovych Yaroslav,135,RadioShack,16,2010,▲14
+28,157,2.0,131,Sprick Matthieu,136,Bbox Bouygues Telecom,16,2010,▼5
+31,7,2.0,138,Noval Benjamin,137,Astana,16,2010,▲1
+25,204,2.0,122,Gavazzi Francesco,138,Lampre - Farnese Vini,16,2010,▼16
+23,76,2.0,130,Pliuschin Alexandr,139,Team Katusha,16,2010,▼9
+32,88,2.0,127,Nocentini Rinaldo,140,AG2R La Mondiale,16,2010,▼13
+35,73,2.0,121,Ivanov Serguei,141,Team Katusha,16,2010,▼20
+30,45,2.0,140,Kuschynski Aleksandr,142,Liquigas - Doimo,16,2010,▼2
+29,203,2.0,143,Da Dalto Mauro,143,Lampre - Farnese Vini,16,2010,-
+29,5,2.0,136,Iglinskiy Maxim,144,Astana,16,2010,▼8
+34,127,2.0,123,Kroon Karsten,145,BMC Racing Team,16,2010,▼22
+30,42,2.0,135,Bellotti Francesco,146,Liquigas - Doimo,16,2010,▼11
+29,112,2.0,142,Eisel Bernhard,147,Team HTC - Columbia,16,2010,▼5
+35,113,2.0,129,Grabsch Bert,148,Team HTC - Columbia,16,2010,▼19
+31,198,2.0,144,Tankink Bram,149,Rabobank ProTeam,16,2010,▼5
+36,15,2.0,150,O'Grady Stuart,150,Saxo Bank,16,2010,-
+32,95,191.0,1,Hushovd Thor,1,Cervelo Test Team,17,2010,-
+36,208,187.0,2,Petacchi Alessandro,2,Lampre - Farnese Vini,17,2010,-
+25,111,162.0,3,Cavendish Mark,3,Team HTC - Columbia,17,2010,-
+25,169,149.0,4,Rojas José Joaquín,4,Caisse d'Epargne,17,2010,-
+38,75,138.0,5,McEwen Robbie,5,Team Katusha,17,2010,-
+23,36,132.0,6,Boasson Hagen Edvald,6,Sky Procycling,17,2010,-
+27,1,,10*,Contador Alberto,7*,Astana,17,2010,-
+32,181,115.0,9,Sánchez Samuel,7,Euskaltel - Euskadi,17,2010,▲2
+25,11,112.0,11,Schleck Andy,8,Saxo Bank,17,2010,▲3
+26,158,107.0,7,Turgot Sébastien,9,Bbox Bouygues Telecom,17,2010,▼2
+23,142,107.0,8,Ciolek Gerald,10,Milram,17,2010,▼2
+28,87,104.0,10,Mondory Lloyd,11,AG2R La Mondiale,17,2010,▼1
+25,108,92.0,12,Roelandts Jürgen,12,Omega Pharma-Lotto,17,2010,-
+32,191,,17*,Menchov Denis,14*,Rabobank ProTeam,17,2010,-
+36,9,81.0,13,Vinokourov Alexandre,13,Astana,17,2010,-
+24,39,81.0,14,Thomas Geraint,14,Sky Procycling,17,2010,-
+31,131,78.0,15,Chavanel Sylvain,15,Quickstep - Innergetic,17,2010,-
+26,81,74.0,17,Roche Nicolas,16,AG2R La Mondiale,17,2010,▲1
+33,121,73.0,16,Evans Cadel,17,BMC Racing Team,17,2010,▼1
+27,101,69.0,18,Van den Broeck Jurgen,18,Omega Pharma-Lotto,17,2010,-
+31,77,69.0,21,Rodríguez Joaquim,19,Team Katusha,17,2010,▲2
+29,54,67.0,23,Hesjedal Ryder,20,Team Garmin - Transitions,17,2010,▲3
+24,195,64.0,27,Gesink Robert,21,Rabobank ProTeam,17,2010,▲6
+23,46,62.0,19,Oss Daniel,22,Liquigas - Doimo,17,2010,▼3
+31,62,54.0,20,Casar Sandy,23,Francaise des Jeux,17,2010,▼3
+28,186,54.0,22,Pérez Rubén,24,Euskaltel - Euskadi,17,2010,▼2
+28,201,52.0,30,Cunego Damiano,25,Lampre - Farnese Vini,17,2010,▲5
+35,52,49.0,24,Dean Julian,26,Team Garmin - Transitions,17,2010,▼2
+25,152,48.0,25,Arashiro Yukiya,27,Bbox Bouygues Telecom,17,2010,▼2
+31,154,48.0,26,Fédrigo Pierrick,28,Bbox Bouygues Telecom,17,2010,▼2
+39,166,47.0,28,Moreau Christophe,29,Caisse d'Epargne,17,2010,▼1
+35,102,46.0,29,Aerts Mario,30,Omega Pharma-Lotto,17,2010,▼1
+33,146,45.0,31,Roberts Luke,31,Milram,17,2010,-
+31,151,43.0,32,Voeckler Thomas,32,Bbox Bouygues Telecom,17,2010,-
+36,205,42.0,33,Hondo Danilo,33,Lampre - Farnese Vini,17,2010,-
+29,165,40.0,34,Kiryienka Vasil,34,Caisse d'Epargne,17,2010,-
+24,44,39.0,41,Kreuziger Roman,35,Liquigas - Doimo,17,2010,▲6
+38,23,39.0,45,Horner Chris,36,RadioShack,17,2010,▲9
+30,168,39.0,35,Plaza Rubén,37,Caisse d'Epargne,17,2010,▼2
+29,13,38.0,36,Cancellara Fabian,38,Saxo Bank,17,2010,▼2
+34,193,38.0,37,Freire Óscar,39,Rabobank ProTeam,17,2010,▼2
+29,145,37.0,38,Knees Christian,40,Milram,17,2010,▼2
+29,132,,41*,Barredo Carlos,43*,Quickstep - Innergetic,17,2010,-
+36,25,37.0,39,Leipheimer Levi,41,RadioShack,17,2010,▼2
+25,65,35.0,40,Ladagnous Matthieu,42,Francaise des Jeux,17,2010,▼2
+26,161,34.0,42,Sánchez Luis León,43,Caisse d'Epargne,17,2010,▼1
+34,194,34.0,43,Garate Juan Manuel,44,Rabobank ProTeam,17,2010,▼1
+30,31,34.0,44,Wiggins Bradley,45,Sky Procycling,17,2010,▼1
+25,174,33.0,46,El Fares Julien,46,"Cofidis, le Crédit en Ligne",17,2010,-
+30,64,32.0,47,Geslin Anthony,47,Francaise des Jeux,17,2010,-
+29,89,31.0,48,Riblon Christophe,48,AG2R La Mondiale,17,2010,-
+24,202,29.0,49,Bole Grega,49,Lampre - Farnese Vini,17,2010,-
+38,21,29.0,50,Armstrong Lance,50,RadioShack,17,2010,-
+30,105,28.0,51,Lang Sebastian,51,Omega Pharma-Lotto,17,2010,-
+32,34,27.0,60,Flecha Juan Antonio,52,Sky Procycling,17,2010,▲8
+29,58,27.0,52,Vansummeren Johan,53,Team Garmin - Transitions,17,2010,▼1
+25,167,26.0,53,Perget Mathieu,54,Caisse d'Epargne,17,2010,▼1
+27,141,26.0,54,Gerdemann Linus,55,Milram,17,2010,▼1
+30,27,26.0,55,Paulinho Sérgio Miguel,56,RadioShack,17,2010,▼1
+23,219,26.0,57,Valls Rafael,57,Footon-Servetto,17,2010,-
+23,156,26.0,56,Rolland Pierre,58,Bbox Bouygues Telecom,17,2010,▼2
+33,138,25.0,58,van de Walle Jurgen,59,Quickstep - Innergetic,17,2010,▼1
+31,164,24.0,59,Gutiérrez José Iván,60,Caisse d'Epargne,17,2010,▼1
+27,134,24.0,61,Devenyns Dries,61,Quickstep - Innergetic,17,2010,-
+35,24,23.0,70,Klöden Andreas,62,RadioShack,17,2010,▲8
+28,133,22.0,62,De Weert Kevin,63,Quickstep - Innergetic,17,2010,▼1
+30,122,22.0,63,Ballan Alessandro,64,BMC Racing Team,17,2010,▼1
+35,172,19.0,64,Augé Stéphane,65,"Cofidis, le Crédit en Ligne",17,2010,▼1
+28,107,19.0,65,Moreno Daniel,66,Omega Pharma-Lotto,17,2010,▼1
+28,179,19.0,75,Pauriol Rémi,67,"Cofidis, le Crédit en Ligne",17,2010,▲8
+32,218,18.0,66,Pérez Aitor,68,Footon-Servetto,17,2010,▼2
+23,82,17.0,67,Bouet Maxime,69,AG2R La Mondiale,17,2010,▼2
+33,57,17.0,68,Millar David,70,Team Garmin - Transitions,17,2010,▼2
+26,37,17.0,71,Löfkvist Thomas,71,Sky Procycling,17,2010,-
+35,91,17.0,69,Sastre Carlos,72,Cervelo Test Team,17,2010,▼3
+31,153,17.0,72,Charteau Anthony,73,Bbox Bouygues Telecom,17,2010,▼1
+26,56,16.0,73,Maaskant Martijn,74,Team Garmin - Transitions,17,2010,▼1
+32,41,16.0,74,Basso Ivan,75,Liquigas - Doimo,17,2010,▼1
+27,119,16.0,81,Siutsou Kanstantsin,76,Team HTC - Columbia,17,2010,▲5
+32,183,16.0,76,Martínez Egoi,77,Euskaltel - Euskadi,17,2010,▼1
+24,211,15.0,77,Capecchi Eros,78,Footon-Servetto,17,2010,▼1
+26,123,15.0,78,Bookwalter Brent,79,BMC Racing Team,17,2010,▼1
+25,103,15.0,79,de Greef Francis,80,Omega Pharma-Lotto,17,2010,▼1
+28,185,15.0,80,Pérez Alan,81,Euskaltel - Euskadi,17,2010,▼1
+31,84,15.0,82,Elmiger Martin,82,AG2R La Mondiale,17,2010,-
+25,115,14.0,83,Martin Tony,83,Team HTC - Columbia,17,2010,-
+28,176,14.0,84,Minard Sébastien,84,"Cofidis, le Crédit en Ligne",17,2010,-
+36,196,14.0,85,Moerenhout Koos,85,Rabobank ProTeam,17,2010,-
+28,139,14.0,86,Wynants Maarten,86,Quickstep - Innergetic,17,2010,-
+24,192,13.0,87,Boom Lars,87,Rabobank ProTeam,17,2010,-
+27,178,12.0,88,Monier Damien,88,"Cofidis, le Crédit en Ligne",17,2010,-
+24,214,12.0,89,Durán Arkaitz,89,Footon-Servetto,17,2010,-
+27,136,12.0,90,Reda Francesco,90,Quickstep - Innergetic,17,2010,-
+30,98,12.0,91,Lancaster Brett,91,Cervelo Test Team,17,2010,-
+26,3,12.0,92,Grivko Andrey,92,Astana,17,2010,-
+28,69,12.0,94,Vaugrenard Benoît,93,Francaise des Jeux,17,2010,▲1
+36,94,12.0,95,Hunt Jeremy,94,Cervelo Test Team,17,2010,▲1
+22,155,11.0,96,Gautier Cyril,95,Bbox Bouygues Telecom,17,2010,▲1
+29,74,8.0,131,Kolobnev Alexandr,96,Team Katusha,17,2010,▲35
+25,143,8.0,97,Fröhlinger Johannes,97,Milram,17,2010,-
+34,32,8.0,98,Barry Michael,98,Sky Procycling,17,2010,-
+29,61,8.0,99,Le Mével Christophe,99,Francaise des Jeux,17,2010,-
+37,126,8.0,100,Hincapie George,100,BMC Racing Team,17,2010,-
+30,118,8.0,101,Rogers Michael,101,Team HTC - Columbia,17,2010,-
+28,177,7.0,102,Moinard Amaël,102,"Cofidis, le Crédit en Ligne",17,2010,-
+26,163,7.0,104,Erviti Imanol,103,Caisse d'Epargne,17,2010,▲1
+32,159,6.0,103,Vogondy Nicolas,104,Bbox Bouygues Telecom,17,2010,▼1
+33,182,6.0,105,Isasi Iñaki,105,Euskaltel - Euskadi,17,2010,-
+28,49,6.0,106,Vandborg Brian Bach,106,Liquigas - Doimo,17,2010,-
+38,19,6.0,107,Voigt Jens,107,Saxo Bank,17,2010,-
+23,43,6.0,108,Koren Kristijan,108,Liquigas - Doimo,17,2010,-
+31,85,6.0,121,Gadret John,109,AG2R La Mondiale,17,2010,▲12
+27,116,6.0,109,Monfort Maxime,110,Team HTC - Columbia,17,2010,▼1
+30,135,5.0,110,Pineau Jérôme,111,Quickstep - Innergetic,17,2010,▼1
+31,59,4.0,115,Zabriskie David,112,Team Garmin - Transitions,17,2010,▲3
+26,38,4.0,111,Pauwels Serge,113,Sky Procycling,17,2010,▼2
+28,72,4.0,112,Brutt Pavel,114,Team Katusha,17,2010,▼2
+25,12,4.0,113,Breschel Matti,115,Saxo Bank,17,2010,▼2
+28,212,4.0,114,Benítez José Alberto,116,Footon-Servetto,17,2010,▼2
+29,33,4.0,116,Cummings Steve,117,Sky Procycling,17,2010,▼1
+26,83,4.0,117,Champion Dimitri,118,AG2R La Mondiale,17,2010,▼1
+29,99,4.0,118,Lloyd Daniel,119,Cervelo Test Team,17,2010,▼1
+27,79,4.0,119,Vorganov Eduard,120,Team Katusha,17,2010,▼1
+30,149,4.0,120,Wegmann Fabian,121,Milram,17,2010,▼1
+31,189,4.0,124,Verdugo Gorka,122,Euskaltel - Euskadi,17,2010,▲2
+33,93,3.0,122,Gustov Volodymyr,123,Cervelo Test Team,17,2010,▼1
+26,22,3.0,123,Brajkovič Janez,124,RadioShack,17,2010,▼1
+27,6,2.0,128,Navarro Daniel,125,Astana,17,2010,▲3
+25,14,2.0,130,Fuglsang Jakob,126,Saxo Bank,17,2010,▲4
+33,8,2.0,129,Tiralongo Paolo,127,Astana,17,2010,▲2
+30,188,2.0,126,Velasco Iván,128,Euskaltel - Euskadi,17,2010,▼2
+32,48,2.0,127,Szmyd Sylwester,129,Liquigas - Doimo,17,2010,▼2
+34,197,2.0,125,Niermann Grischa,130,Rabobank ProTeam,17,2010,▼5
+23,162,2.0,134,Costa Rui,131,Caisse d'Epargne,17,2010,▲3
+27,147,2.0,132,Rohregger Thomas,132,Milram,17,2010,-
+24,63,2.0,133,Di Grégorio Rémy,133,Francaise des Jeux,17,2010,-
+30,45,2.0,142,Kuschynski Aleksandr,134,Liquigas - Doimo,17,2010,▲8
+30,28,2.0,135,Popovych Yaroslav,135,RadioShack,17,2010,-
+32,88,2.0,140,Nocentini Rinaldo,136,AG2R La Mondiale,17,2010,▲4
+28,157,2.0,136,Sprick Matthieu,137,Bbox Bouygues Telecom,17,2010,▼1
+31,7,2.0,137,Noval Benjamin,138,Astana,17,2010,▼1
+25,204,2.0,138,Gavazzi Francesco,139,Lampre - Farnese Vini,17,2010,▼1
+35,73,2.0,141,Ivanov Serguei,140,Team Katusha,17,2010,▲1
+23,76,2.0,139,Pliuschin Alexandr,141,Team Katusha,17,2010,▼2
+29,203,2.0,143,Da Dalto Mauro,142,Lampre - Farnese Vini,17,2010,▲1
+30,42,2.0,146,Bellotti Francesco,143,Liquigas - Doimo,17,2010,▲3
+29,5,2.0,144,Iglinskiy Maxim,144,Astana,17,2010,-
+34,127,2.0,145,Kroon Karsten,145,BMC Racing Team,17,2010,-
+29,112,2.0,147,Eisel Bernhard,146,Team HTC - Columbia,17,2010,▲1
+35,113,2.0,148,Grabsch Bert,147,Team HTC - Columbia,17,2010,▲1
+36,15,2.0,150,O'Grady Stuart,148,Saxo Bank,17,2010,▲2
+36,208,213.0,2,Petacchi Alessandro,1,Lampre - Farnese Vini,18,2010,▲1
+32,95,203.0,1,Hushovd Thor,2,Cervelo Test Team,18,2010,▼1
+25,111,197.0,3,Cavendish Mark,3,Team HTC - Columbia,18,2010,-
+25,169,167.0,4,Rojas José Joaquín,4,Caisse d'Epargne,18,2010,-
+38,75,162.0,5,McEwen Robbie,5,Team Katusha,18,2010,-
+23,36,152.0,6,Boasson Hagen Edvald,6,Sky Procycling,18,2010,-
+26,158,122.0,9,Turgot Sébastien,7,Bbox Bouygues Telecom,18,2010,▲2
+27,1,,7*,Contador Alberto,8*,Astana,18,2010,-
+32,181,115.0,7,Sánchez Samuel,8,Euskaltel - Euskadi,18,2010,▼1
+25,11,112.0,8,Schleck Andy,9,Saxo Bank,18,2010,▼1
+23,142,107.0,10,Ciolek Gerald,10,Milram,18,2010,-
+28,87,106.0,11,Mondory Lloyd,11,AG2R La Mondiale,18,2010,-
+25,108,105.0,12,Roelandts Jürgen,12,Omega Pharma-Lotto,18,2010,-
+32,191,,14*,Menchov Denis,14*,Rabobank ProTeam,18,2010,-
+36,9,100.0,13,Vinokourov Alexandre,13,Astana,18,2010,-
+35,52,81.0,26,Dean Julian,14,Team Garmin - Transitions,18,2010,▲12
+26,81,78.0,16,Roche Nicolas,15,AG2R La Mondiale,18,2010,▲1
+24,39,78.0,14,Thomas Geraint,16,Sky Procycling,18,2010,▼2
+31,131,77.0,15,Chavanel Sylvain,17,Quickstep - Innergetic,18,2010,▼2
+33,121,74.0,17,Evans Cadel,18,BMC Racing Team,18,2010,▼1
+27,101,73.0,18,Van den Broeck Jurgen,19,Omega Pharma-Lotto,18,2010,▼1
+28,186,69.0,24,Pérez Rubén,20,Euskaltel - Euskadi,18,2010,▲4
+31,77,67.0,19,Rodríguez Joaquim,21,Team Katusha,18,2010,▼2
+23,46,65.0,22,Oss Daniel,22,Liquigas - Doimo,18,2010,-
+29,54,64.0,20,Hesjedal Ryder,23,Team Garmin - Transitions,18,2010,▼3
+34,193,64.0,39,Freire Óscar,24,Rabobank ProTeam,18,2010,▲15
+25,152,62.0,27,Arashiro Yukiya,25,Bbox Bouygues Telecom,18,2010,▲2
+24,195,59.0,21,Gesink Robert,26,Rabobank ProTeam,18,2010,▼5
+31,62,57.0,23,Casar Sandy,27,Francaise des Jeux,18,2010,▼4
+28,201,54.0,25,Cunego Damiano,28,Lampre - Farnese Vini,18,2010,▼3
+31,154,52.0,28,Fédrigo Pierrick,29,Bbox Bouygues Telecom,18,2010,▼1
+39,166,48.0,29,Moreau Christophe,30,Caisse d'Epargne,18,2010,▼1
+24,202,46.0,49,Bole Grega,31,Lampre - Farnese Vini,18,2010,▲18
+35,102,45.0,30,Aerts Mario,32,Omega Pharma-Lotto,18,2010,▼2
+33,146,44.0,31,Roberts Luke,33,Milram,18,2010,▼2
+38,23,43.0,36,Horner Chris,34,RadioShack,18,2010,▲2
+31,151,42.0,32,Voeckler Thomas,35,Bbox Bouygues Telecom,18,2010,▼3
+36,205,41.0,33,Hondo Danilo,36,Lampre - Farnese Vini,18,2010,▼3
+29,165,40.0,34,Kiryienka Vasil,37,Caisse d'Epargne,18,2010,▼3
+24,44,39.0,35,Kreuziger Roman,38,Liquigas - Doimo,18,2010,▼3
+30,168,39.0,37,Plaza Rubén,39,Caisse d'Epargne,18,2010,▼2
+29,13,39.0,38,Cancellara Fabian,40,Saxo Bank,18,2010,▼2
+29,145,38.0,40,Knees Christian,41,Milram,18,2010,▼1
+29,132,,43*,Barredo Carlos,44*,Quickstep - Innergetic,18,2010,-
+36,25,37.0,41,Leipheimer Levi,42,RadioShack,18,2010,▼1
+25,65,35.0,42,Ladagnous Matthieu,43,Francaise des Jeux,18,2010,▼1
+26,161,34.0,43,Sánchez Luis León,44,Caisse d'Epargne,18,2010,▼1
+34,194,34.0,44,Garate Juan Manuel,45,Rabobank ProTeam,18,2010,▼1
+30,31,34.0,45,Wiggins Bradley,46,Sky Procycling,18,2010,▼1
+30,122,33.0,64,Ballan Alessandro,47,BMC Racing Team,18,2010,▲17
+25,174,32.0,46,El Fares Julien,48,"Cofidis, le Crédit en Ligne",18,2010,▼2
+30,64,31.0,47,Geslin Anthony,49,Francaise des Jeux,18,2010,▼2
+29,89,30.0,48,Riblon Christophe,50,AG2R La Mondiale,18,2010,▼2
+38,21,29.0,50,Armstrong Lance,51,RadioShack,18,2010,▼1
+30,105,29.0,51,Lang Sebastian,52,Omega Pharma-Lotto,18,2010,▼1
+32,34,28.0,52,Flecha Juan Antonio,53,Sky Procycling,18,2010,▼1
+29,58,27.0,53,Vansummeren Johan,54,Team Garmin - Transitions,18,2010,▼1
+25,167,26.0,54,Perget Mathieu,55,Caisse d'Epargne,18,2010,▼1
+27,141,26.0,55,Gerdemann Linus,56,Milram,18,2010,▼1
+30,27,26.0,56,Paulinho Sérgio Miguel,57,RadioShack,18,2010,▼1
+26,56,26.0,74,Maaskant Martijn,58,Team Garmin - Transitions,18,2010,▲16
+23,219,26.0,57,Valls Rafael,59,Footon-Servetto,18,2010,▼2
+23,156,25.0,58,Rolland Pierre,60,Bbox Bouygues Telecom,18,2010,▼2
+33,138,25.0,59,van de Walle Jurgen,61,Quickstep - Innergetic,18,2010,▼2
+31,164,24.0,60,Gutiérrez José Iván,62,Caisse d'Epargne,18,2010,▼2
+27,134,24.0,61,Devenyns Dries,63,Quickstep - Innergetic,18,2010,▼2
+28,185,23.0,81,Pérez Alan,64,Euskaltel - Euskadi,18,2010,▲17
+28,133,22.0,63,De Weert Kevin,65,Quickstep - Innergetic,18,2010,▼2
+35,24,22.0,62,Klöden Andreas,66,RadioShack,18,2010,▼4
+35,172,20.0,65,Augé Stéphane,67,"Cofidis, le Crédit en Ligne",18,2010,▼2
+28,107,20.0,66,Moreno Daniel,68,Omega Pharma-Lotto,18,2010,▼2
+28,179,19.0,67,Pauriol Rémi,69,"Cofidis, le Crédit en Ligne",18,2010,▼2
+32,218,18.0,68,Pérez Aitor,70,Footon-Servetto,18,2010,▼2
+23,82,17.0,69,Bouet Maxime,71,AG2R La Mondiale,18,2010,▼2
+33,57,17.0,70,Millar David,72,Team Garmin - Transitions,18,2010,▼2
+26,37,17.0,71,Löfkvist Thomas,73,Sky Procycling,18,2010,▼2
+35,91,17.0,72,Sastre Carlos,74,Cervelo Test Team,18,2010,▼2
+31,153,17.0,73,Charteau Anthony,75,Bbox Bouygues Telecom,18,2010,▼2
+32,41,16.0,75,Basso Ivan,76,Liquigas - Doimo,18,2010,▼1
+27,119,16.0,76,Siutsou Kanstantsin,77,Team HTC - Columbia,18,2010,▼1
+32,183,16.0,77,Martínez Egoi,78,Euskaltel - Euskadi,18,2010,▼1
+24,211,15.0,78,Capecchi Eros,79,Footon-Servetto,18,2010,▼1
+26,123,15.0,79,Bookwalter Brent,80,BMC Racing Team,18,2010,▼1
+25,103,15.0,80,de Greef Francis,81,Omega Pharma-Lotto,18,2010,▼1
+31,84,15.0,82,Elmiger Martin,82,AG2R La Mondiale,18,2010,-
+25,115,15.0,83,Martin Tony,83,Team HTC - Columbia,18,2010,-
+23,66,14.0,,Roux Anthony,84,Francaise des Jeux,18,2010,-
+22,155,14.0,95,Gautier Cyril,85,Bbox Bouygues Telecom,18,2010,▲10
+28,176,14.0,84,Minard Sébastien,86,"Cofidis, le Crédit en Ligne",18,2010,▼2
+36,196,14.0,85,Moerenhout Koos,87,Rabobank ProTeam,18,2010,▼2
+28,139,13.0,86,Wynants Maarten,88,Quickstep - Innergetic,18,2010,▼2
+24,192,13.0,87,Boom Lars,89,Rabobank ProTeam,18,2010,▼2
+25,12,12.0,115,Breschel Matti,90,Saxo Bank,18,2010,▲25
+27,178,12.0,88,Monier Damien,91,"Cofidis, le Crédit en Ligne",18,2010,▼3
+24,214,12.0,89,Durán Arkaitz,92,Footon-Servetto,18,2010,▼3
+30,98,12.0,91,Lancaster Brett,93,Cervelo Test Team,18,2010,▼2
+27,136,12.0,90,Reda Francesco,94,Quickstep - Innergetic,18,2010,▼4
+26,3,12.0,92,Grivko Andrey,95,Astana,18,2010,▼3
+30,135,12.0,111,Pineau Jérôme,96,Quickstep - Innergetic,18,2010,▲15
+30,45,12.0,134,Kuschynski Aleksandr,97,Liquigas - Doimo,18,2010,▲37
+28,69,11.0,93,Vaugrenard Benoît,98,Francaise des Jeux,18,2010,▼5
+36,94,10.0,94,Hunt Jeremy,99,Cervelo Test Team,18,2010,▼5
+29,74,9.0,96,Kolobnev Alexandr,100,Team Katusha,18,2010,▼4
+25,143,8.0,97,Fröhlinger Johannes,101,Milram,18,2010,▼4
+34,32,8.0,98,Barry Michael,102,Sky Procycling,18,2010,▼4
+29,61,8.0,99,Le Mével Christophe,103,Francaise des Jeux,18,2010,▼4
+37,126,8.0,100,Hincapie George,104,BMC Racing Team,18,2010,▼4
+30,118,8.0,101,Rogers Michael,105,Team HTC - Columbia,18,2010,▼4
+28,177,7.0,102,Moinard Amaël,106,"Cofidis, le Crédit en Ligne",18,2010,▼4
+26,163,7.0,103,Erviti Imanol,107,Caisse d'Epargne,18,2010,▼4
+32,159,6.0,104,Vogondy Nicolas,108,Bbox Bouygues Telecom,18,2010,▼4
+33,182,6.0,105,Isasi Iñaki,109,Euskaltel - Euskadi,18,2010,▼4
+28,49,6.0,106,Vandborg Brian Bach,110,Liquigas - Doimo,18,2010,▼4
+38,19,6.0,107,Voigt Jens,111,Saxo Bank,18,2010,▼4
+29,112,6.0,146,Eisel Bernhard,112,Team HTC - Columbia,18,2010,▲34
+23,43,6.0,108,Koren Kristijan,113,Liquigas - Doimo,18,2010,▼5
+31,85,6.0,109,Gadret John,114,AG2R La Mondiale,18,2010,▼5
+27,116,6.0,110,Monfort Maxime,115,Team HTC - Columbia,18,2010,▼5
+31,59,5.0,112,Zabriskie David,116,Team Garmin - Transitions,18,2010,▼4
+26,38,4.0,113,Pauwels Serge,117,Sky Procycling,18,2010,▼4
+28,72,4.0,114,Brutt Pavel,118,Team Katusha,18,2010,▼4
+28,212,4.0,116,Benítez José Alberto,119,Footon-Servetto,18,2010,▼3
+29,33,4.0,117,Cummings Steve,120,Sky Procycling,18,2010,▼3
+26,83,4.0,118,Champion Dimitri,121,AG2R La Mondiale,18,2010,▼3
+29,99,4.0,119,Lloyd Daniel,122,Cervelo Test Team,18,2010,▼3
+27,79,4.0,120,Vorganov Eduard,123,Team Katusha,18,2010,▼3
+30,149,4.0,121,Wegmann Fabian,124,Milram,18,2010,▼3
+31,189,4.0,122,Verdugo Gorka,125,Euskaltel - Euskadi,18,2010,▼3
+33,93,3.0,123,Gustov Volodymyr,126,Cervelo Test Team,18,2010,▼3
+26,22,3.0,124,Brajkovič Janez,127,RadioShack,18,2010,▼3
+27,6,2.0,125,Navarro Daniel,128,Astana,18,2010,▼3
+25,14,2.0,126,Fuglsang Jakob,129,Saxo Bank,18,2010,▼3
+33,8,2.0,127,Tiralongo Paolo,130,Astana,18,2010,▼3
+30,188,2.0,128,Velasco Iván,131,Euskaltel - Euskadi,18,2010,▼3
+32,48,2.0,129,Szmyd Sylwester,132,Liquigas - Doimo,18,2010,▼3
+34,197,2.0,130,Niermann Grischa,133,Rabobank ProTeam,18,2010,▼3
+23,162,2.0,131,Costa Rui,134,Caisse d'Epargne,18,2010,▼3
+27,147,2.0,132,Rohregger Thomas,135,Milram,18,2010,▼3
+24,63,2.0,133,Di Grégorio Rémy,136,Francaise des Jeux,18,2010,▼3
+30,28,2.0,135,Popovych Yaroslav,137,RadioShack,18,2010,▼2
+32,88,2.0,136,Nocentini Rinaldo,138,AG2R La Mondiale,18,2010,▼2
+28,157,2.0,137,Sprick Matthieu,139,Bbox Bouygues Telecom,18,2010,▼2
+31,7,2.0,138,Noval Benjamin,140,Astana,18,2010,▼2
+25,204,2.0,139,Gavazzi Francesco,141,Lampre - Farnese Vini,18,2010,▼2
+35,73,2.0,140,Ivanov Serguei,142,Team Katusha,18,2010,▼2
+23,76,2.0,141,Pliuschin Alexandr,143,Team Katusha,18,2010,▼2
+29,203,2.0,142,Da Dalto Mauro,144,Lampre - Farnese Vini,18,2010,▼2
+30,42,2.0,143,Bellotti Francesco,145,Liquigas - Doimo,18,2010,▼2
+29,5,2.0,144,Iglinskiy Maxim,146,Astana,18,2010,▼2
+34,127,2.0,145,Kroon Karsten,147,BMC Racing Team,18,2010,▼2
+35,113,2.0,147,Grabsch Bert,148,Team HTC - Columbia,18,2010,▼1
+36,15,2.0,148,O'Grady Stuart,149,Saxo Bank,18,2010,▼1
+36,208,213.0,1,Petacchi Alessandro,1,Lampre - Farnese Vini,19,2010,-
+32,95,203.0,2,Hushovd Thor,2,Cervelo Test Team,19,2010,-
+25,111,197.0,3,Cavendish Mark,3,Team HTC - Columbia,19,2010,-
+25,169,167.0,4,Rojas José Joaquín,4,Caisse d'Epargne,19,2010,-
+38,75,162.0,5,McEwen Robbie,5,Team Katusha,19,2010,-
+23,36,152.0,6,Boasson Hagen Edvald,6,Sky Procycling,19,2010,-
+26,158,122.0,7,Turgot Sébastien,7,Bbox Bouygues Telecom,19,2010,-
+27,1,,8*,Contador Alberto,8*,Astana,19,2010,-
+32,181,115.0,8,Sánchez Samuel,8,Euskaltel - Euskadi,19,2010,-
+25,11,112.0,9,Schleck Andy,9,Saxo Bank,19,2010,-
+23,142,107.0,10,Ciolek Gerald,10,Milram,19,2010,-
+28,87,106.0,11,Mondory Lloyd,11,AG2R La Mondiale,19,2010,-
+25,108,105.0,12,Roelandts Jürgen,12,Omega Pharma-Lotto,19,2010,-
+32,191,,14*,Menchov Denis,14*,Rabobank ProTeam,19,2010,-
+36,9,100.0,13,Vinokourov Alexandre,13,Astana,19,2010,-
+35,52,81.0,14,Dean Julian,14,Team Garmin - Transitions,19,2010,-
+26,81,78.0,15,Roche Nicolas,15,AG2R La Mondiale,19,2010,-
+24,39,78.0,16,Thomas Geraint,16,Sky Procycling,19,2010,-
+31,131,77.0,17,Chavanel Sylvain,17,Quickstep - Innergetic,19,2010,-
+33,121,75.0,18,Evans Cadel,18,BMC Racing Team,19,2010,-
+27,101,73.0,19,Van den Broeck Jurgen,19,Omega Pharma-Lotto,19,2010,-
+28,186,69.0,20,Pérez Rubén,20,Euskaltel - Euskadi,19,2010,-
+31,77,67.0,21,Rodríguez Joaquim,21,Team Katusha,19,2010,-
+23,46,65.0,22,Oss Daniel,22,Liquigas - Doimo,19,2010,-
+29,54,64.0,23,Hesjedal Ryder,23,Team Garmin - Transitions,19,2010,-
+34,193,64.0,24,Freire Óscar,24,Rabobank ProTeam,19,2010,-
+25,152,62.0,25,Arashiro Yukiya,25,Bbox Bouygues Telecom,19,2010,-
+24,195,59.0,26,Gesink Robert,26,Rabobank ProTeam,19,2010,-
+29,13,57.0,40,Cancellara Fabian,27,Saxo Bank,19,2010,▲13
+31,62,54.0,27,Casar Sandy,28,Francaise des Jeux,19,2010,▼1
+28,201,52.0,28,Cunego Damiano,29,Lampre - Farnese Vini,19,2010,▼1
+31,154,52.0,29,Fédrigo Pierrick,30,Bbox Bouygues Telecom,19,2010,▼1
+39,166,48.0,30,Moreau Christophe,31,Caisse d'Epargne,19,2010,▼1
+24,202,46.0,31,Bole Grega,32,Lampre - Farnese Vini,19,2010,▼1
+35,102,45.0,32,Aerts Mario,33,Omega Pharma-Lotto,19,2010,▼1
+29,165,44.0,37,Kiryienka Vasil,34,Caisse d'Epargne,19,2010,▲3
+33,146,43.0,33,Roberts Luke,35,Milram,19,2010,▼2
+38,23,43.0,34,Horner Chris,36,RadioShack,19,2010,▼2
+31,151,42.0,35,Voeckler Thomas,37,Bbox Bouygues Telecom,19,2010,▼2
+36,205,41.0,36,Hondo Danilo,38,Lampre - Farnese Vini,19,2010,▼2
+24,44,40.0,38,Kreuziger Roman,39,Liquigas - Doimo,19,2010,▼1
+30,168,39.0,39,Plaza Rubén,40,Caisse d'Epargne,19,2010,▼1
+29,145,39.0,41,Knees Christian,41,Milram,19,2010,-
+29,132,,44*,Barredo Carlos,44*,Quickstep - Innergetic,19,2010,-
+36,25,38.0,42,Leipheimer Levi,42,RadioShack,19,2010,-
+25,65,35.0,43,Ladagnous Matthieu,43,Francaise des Jeux,19,2010,-
+26,161,34.0,44,Sánchez Luis León,44,Caisse d'Epargne,19,2010,-
+30,31,34.0,46,Wiggins Bradley,45,Sky Procycling,19,2010,▲1
+34,194,34.0,45,Garate Juan Manuel,46,Rabobank ProTeam,19,2010,▼1
+30,122,33.0,47,Ballan Alessandro,47,BMC Racing Team,19,2010,-
+25,174,33.0,48,El Fares Julien,48,"Cofidis, le Crédit en Ligne",19,2010,-
+30,64,32.0,49,Geslin Anthony,49,Francaise des Jeux,19,2010,-
+29,89,30.0,50,Riblon Christophe,50,AG2R La Mondiale,19,2010,-
+38,21,29.0,51,Armstrong Lance,51,RadioShack,19,2010,-
+30,105,29.0,52,Lang Sebastian,52,Omega Pharma-Lotto,19,2010,-
+32,34,28.0,53,Flecha Juan Antonio,53,Sky Procycling,19,2010,-
+29,58,27.0,54,Vansummeren Johan,54,Team Garmin - Transitions,19,2010,-
+25,167,26.0,55,Perget Mathieu,55,Caisse d'Epargne,19,2010,-
+27,141,26.0,56,Gerdemann Linus,56,Milram,19,2010,-
+25,115,26.0,83,Martin Tony,57,Team HTC - Columbia,19,2010,▲26
+30,27,26.0,57,Paulinho Sérgio Miguel,58,RadioShack,19,2010,▼1
+26,56,26.0,58,Maaskant Martijn,59,Team Garmin - Transitions,19,2010,▼1
+23,219,26.0,59,Valls Rafael,60,Footon-Servetto,19,2010,▼1
+23,156,25.0,60,Rolland Pierre,61,Bbox Bouygues Telecom,19,2010,▼1
+33,138,25.0,61,van de Walle Jurgen,62,Quickstep - Innergetic,19,2010,▼1
+31,164,24.0,62,Gutiérrez José Iván,63,Caisse d'Epargne,19,2010,▼1
+27,134,24.0,63,Devenyns Dries,64,Quickstep - Innergetic,19,2010,▼1
+28,185,23.0,64,Pérez Alan,65,Euskaltel - Euskadi,19,2010,▼1
+28,133,22.0,65,De Weert Kevin,66,Quickstep - Innergetic,19,2010,▼1
+35,24,22.0,66,Klöden Andreas,67,RadioShack,19,2010,▼1
+35,172,20.0,67,Augé Stéphane,68,"Cofidis, le Crédit en Ligne",19,2010,▼1
+36,196,20.0,87,Moerenhout Koos,69,Rabobank ProTeam,19,2010,▲18
+28,107,19.0,68,Moreno Daniel,70,Omega Pharma-Lotto,19,2010,▼2
+28,179,18.0,69,Pauriol Rémi,71,"Cofidis, le Crédit en Ligne",19,2010,▼2
+33,218,17.0,70,Pérez Aitor,72,Footon-Servetto,19,2010,▼2
+23,82,17.0,71,Bouet Maxime,73,AG2R La Mondiale,19,2010,▼2
+33,57,17.0,72,Millar David,74,Team Garmin - Transitions,19,2010,▼2
+26,37,17.0,73,Löfkvist Thomas,75,Sky Procycling,19,2010,▼2
+35,91,17.0,74,Sastre Carlos,76,Cervelo Test Team,19,2010,▼2
+31,153,17.0,75,Charteau Anthony,77,Bbox Bouygues Telecom,19,2010,▼2
+32,41,16.0,76,Basso Ivan,78,Liquigas - Doimo,19,2010,▼2
+27,119,16.0,77,Siutsou Kanstantsin,79,Team HTC - Columbia,19,2010,▼2
+32,183,16.0,78,Martínez Egoi,80,Euskaltel - Euskadi,19,2010,▼2
+24,211,15.0,79,Capecchi Eros,81,Footon-Servetto,19,2010,▼2
+26,123,15.0,80,Bookwalter Brent,82,BMC Racing Team,19,2010,▼2
+25,103,15.0,81,de Greef Francis,83,Omega Pharma-Lotto,19,2010,▼2
+31,84,15.0,82,Elmiger Martin,84,AG2R La Mondiale,19,2010,▼2
+23,66,15.0,84,Roux Anthony,85,Francaise des Jeux,19,2010,▼1
+22,155,14.0,85,Gautier Cyril,86,Bbox Bouygues Telecom,19,2010,▼1
+28,176,14.0,86,Minard Sébastien,87,"Cofidis, le Crédit en Ligne",19,2010,▼1
+28,139,14.0,88,Wynants Maarten,88,Quickstep - Innergetic,19,2010,-
+24,192,13.0,89,Boom Lars,89,Rabobank ProTeam,19,2010,-
+25,12,13.0,90,Breschel Matti,90,Saxo Bank,19,2010,-
+27,178,12.0,91,Monier Damien,91,"Cofidis, le Crédit en Ligne",19,2010,-
+24,214,12.0,92,Durán Arkaitz,92,Footon-Servetto,19,2010,-
+30,98,12.0,93,Lancaster Brett,93,Cervelo Test Team,19,2010,-
+35,113,12.0,148,Grabsch Bert,94,Team HTC - Columbia,19,2010,▲54
+26,3,12.0,95,Grivko Andrey,95,Astana,19,2010,-
+30,135,12.0,96,Pineau Jérôme,96,Quickstep - Innergetic,19,2010,-
+31,59,12.0,116,Zabriskie David,97,Team Garmin - Transitions,19,2010,▲19
+30,45,11.0,97,Kuschynski Aleksandr,98,Liquigas - Doimo,19,2010,▼1
+28,69,10.0,98,Vaugrenard Benoît,99,Francaise des Jeux,19,2010,▼1
+36,94,10.0,99,Hunt Jeremy,100,Cervelo Test Team,19,2010,▼1
+29,74,9.0,100,Kolobnev Alexandr,101,Team Katusha,19,2010,▼1
+25,143,8.0,101,Fröhlinger Johannes,102,Milram,19,2010,▼1
+34,32,8.0,102,Barry Michael,103,Sky Procycling,19,2010,▼1
+24,97,8.0,,Konovalovas Ignatas,104,Cervelo Test Team,19,2010,-
+29,61,8.0,103,Le Mével Christophe,105,Francaise des Jeux,19,2010,▼2
+37,126,8.0,104,Hincapie George,106,BMC Racing Team,19,2010,▼2
+30,118,8.0,105,Rogers Michael,107,Team HTC - Columbia,19,2010,▼2
+28,177,7.0,106,Moinard Amaël,108,"Cofidis, le Crédit en Ligne",19,2010,▼2
+26,163,7.0,107,Erviti Imanol,109,Caisse d'Epargne,19,2010,▼2
+32,159,6.0,108,Vogondy Nicolas,110,Bbox Bouygues Telecom,19,2010,▼2
+33,182,6.0,109,Isasi Iñaki,111,Euskaltel - Euskadi,19,2010,▼2
+38,19,6.0,111,Voigt Jens,112,Saxo Bank,19,2010,▼1
+28,49,6.0,110,Vandborg Brian Bach,113,Liquigas - Doimo,19,2010,▼3
+29,112,6.0,112,Eisel Bernhard,114,Team HTC - Columbia,19,2010,▼2
+23,43,6.0,113,Koren Kristijan,115,Liquigas - Doimo,19,2010,▼2
+31,85,6.0,114,Gadret John,116,AG2R La Mondiale,19,2010,▼2
+27,116,6.0,115,Monfort Maxime,117,Team HTC - Columbia,19,2010,▼2
+28,72,5.0,118,Brutt Pavel,118,Team Katusha,19,2010,-
+26,38,4.0,117,Pauwels Serge,119,Sky Procycling,19,2010,▼2
+28,212,4.0,119,Benítez José Alberto,120,Footon-Servetto,19,2010,▼1
+29,33,4.0,120,Cummings Steve,121,Sky Procycling,19,2010,▼1
+26,83,4.0,121,Champion Dimitri,122,AG2R La Mondiale,19,2010,▼1
+29,99,4.0,122,Lloyd Daniel,123,Cervelo Test Team,19,2010,▼1
+27,79,4.0,123,Vorganov Eduard,124,Team Katusha,19,2010,▼1
+30,149,4.0,124,Wegmann Fabian,125,Milram,19,2010,▼1
+32,199,4.0,,Tjallingii Maarten,126,Rabobank ProTeam,19,2010,-
+33,93,3.0,126,Gustov Volodymyr,127,Cervelo Test Team,19,2010,▼1
+31,189,3.0,125,Verdugo Gorka,128,Euskaltel - Euskadi,19,2010,▼3
+26,22,3.0,127,Brajkovič Janez,129,RadioShack,19,2010,▼2
+27,6,2.0,128,Navarro Daniel,130,Astana,19,2010,▼2
+25,14,2.0,129,Fuglsang Jakob,131,Saxo Bank,19,2010,▼2
+33,8,2.0,130,Tiralongo Paolo,132,Astana,19,2010,▼2
+34,197,2.0,133,Niermann Grischa,133,Rabobank ProTeam,19,2010,-
+32,48,2.0,132,Szmyd Sylwester,134,Liquigas - Doimo,19,2010,▼2
+30,188,2.0,131,Velasco Iván,135,Euskaltel - Euskadi,19,2010,▼4
+23,162,2.0,134,Costa Rui,136,Caisse d'Epargne,19,2010,▼2
+27,147,2.0,135,Rohregger Thomas,137,Milram,19,2010,▼2
+24,63,2.0,136,Di Grégorio Rémy,138,Francaise des Jeux,19,2010,▼2
+30,28,2.0,137,Popovych Yaroslav,139,RadioShack,19,2010,▼2
+32,88,2.0,138,Nocentini Rinaldo,140,AG2R La Mondiale,19,2010,▼2
+28,157,2.0,139,Sprick Matthieu,141,Bbox Bouygues Telecom,19,2010,▼2
+31,7,2.0,140,Noval Benjamin,142,Astana,19,2010,▼2
+25,204,2.0,141,Gavazzi Francesco,143,Lampre - Farnese Vini,19,2010,▼2
+23,76,2.0,143,Pliuschin Alexandr,144,Team Katusha,19,2010,▼1
+35,73,2.0,142,Ivanov Serguei,145,Team Katusha,19,2010,▼3
+30,42,2.0,145,Bellotti Francesco,146,Liquigas - Doimo,19,2010,▼1
+29,203,2.0,144,Da Dalto Mauro,147,Lampre - Farnese Vini,19,2010,▼3
+29,5,2.0,146,Iglinskiy Maxim,148,Astana,19,2010,▼2
+34,127,2.0,147,Kroon Karsten,149,BMC Racing Team,19,2010,▼2
+36,15,2.0,149,O'Grady Stuart,150,Saxo Bank,19,2010,▼1
+36,208,243.0,,Petacchi Alessandro,1,Lampre - Farnese Vini,20,2010,
+25,111,232.0,,Cavendish Mark,2,Team HTC - Columbia,20,2010,
+32,95,222.0,,Hushovd Thor,3,Cervelo Test Team,20,2010,
+25,169,179.0,,Rojas José Joaquín,4,Caisse d'Epargne,20,2010,
+38,75,179.0,,McEwen Robbie,5,Team Katusha,20,2010,
+23,36,161.0,,Boasson Hagen Edvald,6,Sky Procycling,20,2010,
+26,158,135.0,,Turgot Sébastien,7,Bbox Bouygues Telecom,20,2010,
+23,142,126.0,,Ciolek Gerald,8,Milram,20,2010,
+25,108,124.0,,Roelandts Jürgen,9,Omega Pharma-Lotto,20,2010,
+28,87,119.0,,Mondory Lloyd,10,AG2R La Mondiale,20,2010,
+27,1,,,Contador Alberto,11*,Astana,20,2010,
+32,181,115.0,,Sánchez Samuel,11,Euskaltel - Euskadi,20,2010,
+25,11,112.0,,Schleck Andy,12,Saxo Bank,20,2010,
+35,52,107.0,,Dean Julian,13,Team Garmin - Transitions,20,2010,
+32,191,,,Menchov Denis,15*,Rabobank ProTeam,20,2010,
+34,193,104.0,,Freire Óscar,14,Rabobank ProTeam,20,2010,
+23,46,81.0,,Oss Daniel,15,Liquigas - Doimo,20,2010,
+36,9,81.0,,Vinokourov Alexandre,16,Astana,20,2010,
+28,186,80.0,,Pérez Rubén,17,Euskaltel - Euskadi,20,2010,
+26,81,78.0,,Roche Nicolas,18,AG2R La Mondiale,20,2010,
+24,39,78.0,,Thomas Geraint,19,Sky Procycling,20,2010,
+31,131,77.0,,Chavanel Sylvain,20,Quickstep - Innergetic,20,2010,
+33,121,75.0,,Evans Cadel,21,BMC Racing Team,20,2010,
+27,101,73.0,,Van den Broeck Jurgen,22,Omega Pharma-Lotto,20,2010,
+25,152,69.0,,Arashiro Yukiya,23,Bbox Bouygues Telecom,20,2010,
+31,77,67.0,,Rodríguez Joaquim,24,Team Katusha,20,2010,
+29,54,67.0,,Hesjedal Ryder,25,Team Garmin - Transitions,20,2010,
+31,62,64.0,,Casar Sandy,26,Francaise des Jeux,20,2010,
+24,195,62.0,,Gesink Robert,27,Rabobank ProTeam,20,2010,
+29,13,56.0,,Cancellara Fabian,28,Saxo Bank,20,2010,
+28,201,54.0,,Cunego Damiano,29,Lampre - Farnese Vini,20,2010,
+31,154,52.0,,Fédrigo Pierrick,30,Bbox Bouygues Telecom,20,2010,
+36,205,48.0,,Hondo Danilo,31,Lampre - Farnese Vini,20,2010,
+39,166,46.0,,Moreau Christophe,32,Caisse d'Epargne,20,2010,
+33,146,45.0,,Roberts Luke,33,Milram,20,2010,
+24,202,45.0,,Bole Grega,34,Lampre - Farnese Vini,20,2010,
+35,102,45.0,,Aerts Mario,35,Omega Pharma-Lotto,20,2010,
+29,165,44.0,,Kiryienka Vasil,36,Caisse d'Epargne,20,2010,
+38,23,43.0,,Horner Chris,37,RadioShack,20,2010,
+31,151,43.0,,Voeckler Thomas,38,Bbox Bouygues Telecom,20,2010,
+26,56,41.0,,Maaskant Martijn,39,Team Garmin - Transitions,20,2010,
+24,44,40.0,,Kreuziger Roman,40,Liquigas - Doimo,20,2010,
+30,168,40.0,,Plaza Rubén,41,Caisse d'Epargne,20,2010,
+30,122,39.0,,Ballan Alessandro,42,BMC Racing Team,20,2010,
+29,145,38.0,,Knees Christian,43,Milram,20,2010,
+29,132,,,Barredo Carlos,46*,Quickstep - Innergetic,20,2010,
+36,25,37.0,,Leipheimer Levi,44,RadioShack,20,2010,
+25,65,37.0,,Ladagnous Matthieu,45,Francaise des Jeux,20,2010,
+26,161,34.0,,Sánchez Luis León,46,Caisse d'Epargne,20,2010,
+30,31,34.0,,Wiggins Bradley,47,Sky Procycling,20,2010,
+34,194,34.0,,Garate Juan Manuel,48,Rabobank ProTeam,20,2010,
+30,105,33.0,,Lang Sebastian,49,Omega Pharma-Lotto,20,2010,
+25,12,33.0,,Breschel Matti,50,Saxo Bank,20,2010,
+25,174,32.0,,El Fares Julien,51,"Cofidis, le Crédit en Ligne",20,2010,
+30,64,31.0,,Geslin Anthony,52,Francaise des Jeux,20,2010,
+29,89,30.0,,Riblon Christophe,53,AG2R La Mondiale,20,2010,
+38,21,29.0,,Armstrong Lance,54,RadioShack,20,2010,
+32,34,29.0,,Flecha Juan Antonio,55,Sky Procycling,20,2010,
+29,58,28.0,,Vansummeren Johan,56,Team Garmin - Transitions,20,2010,
+25,167,27.0,,Perget Mathieu,57,Caisse d'Epargne,20,2010,
+27,141,26.0,,Gerdemann Linus,58,Milram,20,2010,
+25,115,26.0,,Martin Tony,59,Team HTC - Columbia,20,2010,
+30,27,26.0,,Paulinho Sérgio Miguel,60,RadioShack,20,2010,
+23,219,26.0,,Valls Rafael,61,Footon-Servetto,20,2010,
+23,156,26.0,,Rolland Pierre,62,Bbox Bouygues Telecom,20,2010,
+33,138,25.0,,van de Walle Jurgen,63,Quickstep - Innergetic,20,2010,
+31,164,24.0,,Gutiérrez José Iván,64,Caisse d'Epargne,20,2010,
+27,134,24.0,,Devenyns Dries,65,Quickstep - Innergetic,20,2010,
+28,185,23.0,,Pérez Alan,66,Euskaltel - Euskadi,20,2010,
+24,192,22.0,,Boom Lars,67,Rabobank ProTeam,20,2010,
+28,133,22.0,,De Weert Kevin,68,Quickstep - Innergetic,20,2010,
+35,24,20.0,,Klöden Andreas,69,RadioShack,20,2010,
+35,172,20.0,,Augé Stéphane,70,"Cofidis, le Crédit en Ligne",20,2010,
+28,107,20.0,,Moreno Daniel,71,Omega Pharma-Lotto,20,2010,
+36,196,19.0,,Moerenhout Koos,72,Rabobank ProTeam,20,2010,
+28,179,18.0,,Pauriol Rémi,73,"Cofidis, le Crédit en Ligne",20,2010,
+33,218,18.0,,Pérez Aitor,74,Footon-Servetto,20,2010,
+23,82,17.0,,Bouet Maxime,75,AG2R La Mondiale,20,2010,
+33,57,17.0,,Millar David,76,Team Garmin - Transitions,20,2010,
+26,37,17.0,,Löfkvist Thomas,77,Sky Procycling,20,2010,
+35,91,17.0,,Sastre Carlos,78,Cervelo Test Team,20,2010,
+31,153,17.0,,Charteau Anthony,79,Bbox Bouygues Telecom,20,2010,
+30,45,16.0,,Kuschynski Aleksandr,80,Liquigas - Doimo,20,2010,
+32,41,16.0,,Basso Ivan,81,Liquigas - Doimo,20,2010,
+27,119,16.0,,Siutsou Kanstantsin,82,Team HTC - Columbia,20,2010,
+32,183,15.0,,Martínez Egoi,83,Euskaltel - Euskadi,20,2010,
+22,155,15.0,,Gautier Cyril,84,Bbox Bouygues Telecom,20,2010,
+24,211,15.0,,Capecchi Eros,85,Footon-Servetto,20,2010,
+26,123,15.0,,Bookwalter Brent,86,BMC Racing Team,20,2010,
+25,103,15.0,,de Greef Francis,87,Omega Pharma-Lotto,20,2010,
+31,84,15.0,,Elmiger Martin,88,AG2R La Mondiale,20,2010,
+23,66,15.0,,Roux Anthony,89,Francaise des Jeux,20,2010,
+28,176,14.0,,Minard Sébastien,90,"Cofidis, le Crédit en Ligne",20,2010,
+28,139,14.0,,Wynants Maarten,91,Quickstep - Innergetic,20,2010,
+27,178,14.0,,Monier Damien,92,"Cofidis, le Crédit en Ligne",20,2010,
+24,214,13.0,,Durán Arkaitz,93,Footon-Servetto,20,2010,
+30,98,12.0,,Lancaster Brett,94,Cervelo Test Team,20,2010,
+35,113,12.0,,Grabsch Bert,95,Team HTC - Columbia,20,2010,
+26,3,12.0,,Grivko Andrey,96,Astana,20,2010,
+30,135,12.0,,Pineau Jérôme,97,Quickstep - Innergetic,20,2010,
+31,59,12.0,,Zabriskie David,98,Team Garmin - Transitions,20,2010,
+23,43,11.0,,Koren Kristijan,99,Liquigas - Doimo,20,2010,
+28,69,10.0,,Vaugrenard Benoît,100,Francaise des Jeux,20,2010,
+34,127,10.0,,Kroon Karsten,101,BMC Racing Team,20,2010,
+36,94,9.0,,Hunt Jeremy,102,Cervelo Test Team,20,2010,
+29,74,8.0,,Kolobnev Alexandr,103,Team Katusha,20,2010,
+25,143,8.0,,Fröhlinger Johannes,104,Milram,20,2010,
+34,32,8.0,,Barry Michael,105,Sky Procycling,20,2010,
+24,97,8.0,,Konovalovas Ignatas,106,Cervelo Test Team,20,2010,
+29,61,8.0,,Le Mével Christophe,107,Francaise des Jeux,20,2010,
+37,126,8.0,,Hincapie George,108,BMC Racing Team,20,2010,
+30,118,8.0,,Rogers Michael,109,Team HTC - Columbia,20,2010,
+28,177,7.0,,Moinard Amaël,110,"Cofidis, le Crédit en Ligne",20,2010,
+26,163,7.0,,Erviti Imanol,111,Caisse d'Epargne,20,2010,
+32,159,6.0,,Vogondy Nicolas,112,Bbox Bouygues Telecom,20,2010,
+33,182,6.0,,Isasi Iñaki,113,Euskaltel - Euskadi,20,2010,
+38,19,6.0,,Voigt Jens,114,Saxo Bank,20,2010,
+28,49,6.0,,Vandborg Brian Bach,115,Liquigas - Doimo,20,2010,
+29,112,6.0,,Eisel Bernhard,116,Team HTC - Columbia,20,2010,
+31,85,6.0,,Gadret John,117,AG2R La Mondiale,20,2010,
+27,116,6.0,,Monfort Maxime,118,Team HTC - Columbia,20,2010,
+28,72,6.0,,Brutt Pavel,119,Team Katusha,20,2010,
+26,38,4.0,,Pauwels Serge,120,Sky Procycling,20,2010,
+28,212,4.0,,Benítez José Alberto,121,Footon-Servetto,20,2010,
+29,33,4.0,,Cummings Steve,122,Sky Procycling,20,2010,
+26,83,4.0,,Champion Dimitri,123,AG2R La Mondiale,20,2010,
+27,124,4.0,,Burghardt Marcus,124,BMC Racing Team,20,2010,
+29,99,4.0,,Lloyd Daniel,125,Cervelo Test Team,20,2010,
+27,79,4.0,,Vorganov Eduard,126,Team Katusha,20,2010,
+30,149,4.0,,Wegmann Fabian,127,Milram,20,2010,
+32,199,4.0,,Tjallingii Maarten,128,Rabobank ProTeam,20,2010,
+33,93,3.0,,Gustov Volodymyr,129,Cervelo Test Team,20,2010,
+31,189,3.0,,Verdugo Gorka,130,Euskaltel - Euskadi,20,2010,
+26,22,3.0,,Brajkovič Janez,131,RadioShack,20,2010,
+27,6,2.0,,Navarro Daniel,132,Astana,20,2010,
+25,14,2.0,,Fuglsang Jakob,133,Saxo Bank,20,2010,
+33,8,2.0,,Tiralongo Paolo,134,Astana,20,2010,
+34,197,2.0,,Niermann Grischa,135,Rabobank ProTeam,20,2010,
+32,48,2.0,,Szmyd Sylwester,136,Liquigas - Doimo,20,2010,
+30,188,2.0,,Velasco Iván,137,Euskaltel - Euskadi,20,2010,
+23,162,2.0,,Costa Rui,138,Caisse d'Epargne,20,2010,
+27,147,2.0,,Rohregger Thomas,139,Milram,20,2010,
+24,63,2.0,,Di Grégorio Rémy,140,Francaise des Jeux,20,2010,
+30,28,2.0,,Popovych Yaroslav,141,RadioShack,20,2010,
+32,88,2.0,,Nocentini Rinaldo,142,AG2R La Mondiale,20,2010,
+28,157,2.0,,Sprick Matthieu,143,Bbox Bouygues Telecom,20,2010,
+31,7,2.0,,Noval Benjamin,144,Astana,20,2010,
+25,204,2.0,,Gavazzi Francesco,145,Lampre - Farnese Vini,20,2010,
+23,76,2.0,,Pliuschin Alexandr,146,Team Katusha,20,2010,
+35,73,2.0,,Ivanov Serguei,147,Team Katusha,20,2010,
+30,42,2.0,,Bellotti Francesco,148,Liquigas - Doimo,20,2010,
+29,203,2.0,,Da Dalto Mauro,149,Lampre - Farnese Vini,20,2010,
+29,5,2.0,,Iglinskiy Maxim,150,Astana,20,2010,
+36,15,2.0,,O'Grady Stuart,151,Saxo Bank,20,2010,

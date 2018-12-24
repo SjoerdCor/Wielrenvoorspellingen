@@ -1,0 +1,2153 @@
+Age,BIB,Pnt,Prev,Rider,Rnk,Team,stage,year,▼▲
+26.0,32.0,87.0,3.0,Sagan Peter,1.0,Tinkoff,2,2016,▲2
+31.0,101.0,63.0,1.0,Cavendish Mark,2.0,Team Dimension Data,2,2016,▼1
+28.0,181.0,50.0,2.0,Kittel Marcel,3.0,Etixx - Quick Step,2,2016,▼1
+33.0,161.0,40.0,4.0,Greipel André,4.0,Lotto Soudal,2,2016,-
+24.0,182.0,33.0,21.0,Alaphilippe Julian,5.0,Etixx - Quick Step,2,2016,▲16
+24.0,171.0,25.0,5.0,Coquard Bryan,6.0,Direct Energie,2,2016,▼1
+28.0,144.0,21.0,12.0,Kristoff Alexander,7.0,Team Katusha,2,2016,▲5
+28.0,134.0,20.0,,Benedetti Cesare,8.0,Bora - Argon 18,2,2016,-
+26.0,77.0,20.0,6.0,Howard Leigh,9.0,IAM Cycling,2,2016,▼3
+36.0,12.0,20.0,,Valverde Alejandro,10.0,Movistar Team,2,2016,-
+25.0,207.0,20.0,,Matthews Michael,11.0,ORICA-BikeExchange,2,2016,-
+29.0,184.0,18.0,,Martin Dan,12.0,Etixx - Quick Step,2,2016,-
+24.0,67.0,18.0,17.0,Stuyven Jasper,13.0,Trek - Segafredo,2,2016,▲4
+31.0,98.0,17.0,15.0,Van Avermaet Greg,14.0,BMC Racing Team,2,2016,▲1
+30.0,139.0,17.0,,Voss Paul,15.0,Bora - Argon 18,2,2016,-
+31.0,133.0,17.0,7.0,Bárta Jan,16.0,Bora - Argon 18,2,2016,▼9
+25.0,68.0,16.0,8.0,Theuns Edward,17.0,Trek - Segafredo,2,2016,▼9
+26.0,212.0,15.0,,Breen Vegard,18.0,Fortuneo - Vital Concept,2,2016,-
+28.0,84.0,15.0,9.0,Howes Alex,19.0,Cannondale-Drapac Pro Cycling Team,2,2016,▼10
+25.0,51.0,14.0,,Kelderman Wilco,20.0,Team LottoNL-Jumbo,2,2016,-
+23.0,196.0,14.0,10.0,Laporte Christophe,21.0,"Cofidis, Solutions Crédits",2,2016,▼11
+26.0,213.0,13.0,11.0,Delaplace Anthony,22.0,Fortuneo - Vital Concept,2,2016,▼11
+28.0,165.0,12.0,,Gallopin Tony,23.0,Lotto Soudal,2,2016,-
+29.0,61.0,8.0,,Mollema Bauke,24.0,Trek - Segafredo,2,2016,-
+24.0,216.0,8.0,13.0,McLay Daniel,25.0,Fortuneo - Vital Concept,2,2016,▼12
+24.0,111.0,7.0,19.0,Barguil Warren,26.0,Team Giant - Alpecin,2,2016,▼7
+31.0,1.0,7.0,,Froome Chris,27.0,Team Sky,2,2016,-
+39.0,167.0,7.0,14.0,Henderson Gregory,28.0,Lotto Soudal,2,2016,▼14
+36.0,201.0,6.0,,Gerrans Simon,29.0,ORICA-BikeExchange,2,2016,-
+22.0,75.0,6.0,16.0,Enger Sondre Holst,30.0,IAM Cycling,2,2016,▼14
+26.0,164.0,6.0,,Debusschere Jens,31.0,Lotto Soudal,2,2016,-
+29.0,81.0,5.0,,Rolland Pierre,32.0,Cannondale-Drapac Pro Cycling Team,2,2016,-
+31.0,187.0,5.0,18.0,Sabatini Fabio,33.0,Etixx - Quick Step,2,2016,▼15
+23.0,209.0,4.0,,Yates Adam,34.0,ORICA-BikeExchange,2,2016,-
+33.0,186.0,4.0,20.0,Richeze Maximiliano,35.0,Etixx - Quick Step,2,2016,▼15
+31.0,146.0,3.0,22.0,Mørkøv Michael,36.0,Team Katusha,2,2016,▼14
+28.0,16.0,3.0,,Izagirre Gorka,37.0,Movistar Team,2,2016,-
+37.0,141.0,2.0,,Rodríguez Joaquim,38.0,Team Katusha,2,2016,-
+27.0,113.0,2.0,23.0,Degenkolb John,39.0,Team Giant - Alpecin,2,2016,▼16
+28.0,142.0,2.0,,Guarnieri Jacopo,40.0,Team Katusha,2,2016,-
+29.0,103.0,1.0,24.0,Boasson Hagen Edvald,41.0,Team Dimension Data,2,2016,▼17
+27.0,13.0,1.0,,Anacona Winner,42.0,Movistar Team,2,2016,-
+31.0,101.0,123.0,2.0,Cavendish Mark,1.0,Team Dimension Data,3,2016,▲1
+26.0,32.0,116.0,1.0,Sagan Peter,2.0,Tinkoff,3,2016,▼1
+33.0,161.0,79.0,4.0,Greipel André,3.0,Lotto Soudal,3,2016,▲1
+28.0,181.0,77.0,3.0,Kittel Marcel,4.0,Etixx - Quick Step,3,2016,▼1
+24.0,171.0,52.0,6.0,Coquard Bryan,5.0,Direct Energie,3,2016,▲1
+28.0,144.0,40.0,7.0,Kristoff Alexander,6.0,Team Katusha,3,2016,▲1
+24.0,182.0,35.0,5.0,Alaphilippe Julian,7.0,Etixx - Quick Step,3,2016,▼2
+25.0,207.0,33.0,11.0,Matthews Michael,8.0,ORICA-BikeExchange,3,2016,▲3
+25.0,68.0,32.0,17.0,Theuns Edward,9.0,Trek - Segafredo,3,2016,▲8
+23.0,196.0,24.0,21.0,Laporte Christophe,10.0,"Cofidis, Solutions Crédits",3,2016,▲11
+27.0,215.0,20.0,,Fonseca Armindo,11.0,Fortuneo - Vital Concept,3,2016,-
+26.0,77.0,20.0,9.0,Howard Leigh,12.0,IAM Cycling,3,2016,▼3
+28.0,134.0,20.0,8.0,Benedetti Cesare,13.0,Bora - Argon 18,3,2016,▼5
+36.0,12.0,20.0,10.0,Valverde Alejandro,14.0,Movistar Team,3,2016,▼4
+22.0,75.0,20.0,30.0,Enger Sondre Holst,15.0,IAM Cycling,3,2016,▲15
+29.0,184.0,18.0,12.0,Martin Dan,16.0,Etixx - Quick Step,3,2016,▼4
+24.0,67.0,18.0,13.0,Stuyven Jasper,17.0,Trek - Segafredo,3,2016,▼4
+31.0,98.0,17.0,14.0,Van Avermaet Greg,18.0,BMC Racing Team,3,2016,▼4
+30.0,139.0,17.0,15.0,Voss Paul,19.0,Bora - Argon 18,3,2016,▼4
+31.0,133.0,17.0,16.0,Bárta Jan,20.0,Bora - Argon 18,3,2016,▼4
+37.0,179.0,17.0,,Voeckler Thomas,21.0,Direct Energie,3,2016,-
+24.0,216.0,16.0,25.0,McLay Daniel,22.0,Fortuneo - Vital Concept,3,2016,▲3
+26.0,212.0,15.0,18.0,Breen Vegard,23.0,Fortuneo - Vital Concept,3,2016,▼5
+28.0,84.0,15.0,19.0,Howes Alex,24.0,Cannondale-Drapac Pro Cycling Team,3,2016,▼5
+25.0,51.0,14.0,20.0,Kelderman Wilco,25.0,Team LottoNL-Jumbo,3,2016,▼5
+26.0,213.0,13.0,22.0,Delaplace Anthony,26.0,Fortuneo - Vital Concept,3,2016,▼4
+28.0,165.0,12.0,23.0,Gallopin Tony,27.0,Lotto Soudal,3,2016,▼4
+31.0,187.0,11.0,33.0,Sabatini Fabio,28.0,Etixx - Quick Step,3,2016,▲5
+33.0,186.0,9.0,35.0,Richeze Maximiliano,29.0,Etixx - Quick Step,3,2016,▲6
+29.0,61.0,8.0,24.0,Mollema Bauke,30.0,Trek - Segafredo,3,2016,▼6
+31.0,1.0,7.0,27.0,Froome Chris,31.0,Team Sky,3,2016,▼4
+24.0,111.0,7.0,26.0,Barguil Warren,32.0,Team Giant - Alpecin,3,2016,▼6
+39.0,167.0,7.0,28.0,Henderson Gregory,33.0,Lotto Soudal,3,2016,▼5
+23.0,53.0,7.0,,Groenewegen Dylan,34.0,Team LottoNL-Jumbo,3,2016,-
+36.0,201.0,6.0,29.0,Gerrans Simon,35.0,ORICA-BikeExchange,3,2016,▼6
+26.0,164.0,6.0,31.0,Debusschere Jens,36.0,Lotto Soudal,3,2016,▼5
+27.0,113.0,6.0,39.0,Degenkolb John,37.0,Team Giant - Alpecin,3,2016,▲2
+29.0,81.0,5.0,32.0,Rolland Pierre,38.0,Cannondale-Drapac Pro Cycling Team,3,2016,▼6
+23.0,209.0,4.0,34.0,Yates Adam,39.0,ORICA-BikeExchange,3,2016,▼5
+29.0,163.0,4.0,,De Gendt Thomas,40.0,Lotto Soudal,3,2016,-
+28.0,16.0,3.0,37.0,Izagirre Gorka,41.0,Movistar Team,3,2016,▼4
+31.0,185.0,3.0,,Martin Tony,42.0,Etixx - Quick Step,3,2016,-
+26.0,154.0,3.0,,Cimolai Davide,43.0,Lampre - Merida,3,2016,-
+31.0,146.0,3.0,36.0,Mørkøv Michael,44.0,Team Katusha,3,2016,▼8
+37.0,141.0,2.0,38.0,Rodríguez Joaquim,45.0,Team Katusha,3,2016,▼7
+28.0,142.0,2.0,40.0,Guarnieri Jacopo,46.0,Team Katusha,3,2016,▼6
+32.0,14.0,2.0,,Erviti Imanol,47.0,Movistar Team,3,2016,-
+25.0,15.0,1.0,,Herrada Jesús,48.0,Movistar Team,3,2016,-
+29.0,103.0,1.0,41.0,Boasson Hagen Edvald,49.0,Team Dimension Data,3,2016,▼8
+27.0,13.0,1.0,42.0,Anacona Winner,50.0,Movistar Team,3,2016,▼8
+26.0,32.0,147.0,2.0,Sagan Peter,1.0,Tinkoff,4,2016,▲1
+31.0,101.0,142.0,1.0,Cavendish Mark,2.0,Team Dimension Data,4,2016,▼1
+28.0,181.0,137.0,4.0,Kittel Marcel,3.0,Etixx - Quick Step,4,2016,▲1
+33.0,161.0,87.0,3.0,Greipel André,4.0,Lotto Soudal,4,2016,▼1
+24.0,171.0,83.0,5.0,Coquard Bryan,5.0,Direct Energie,4,2016,-
+29.0,144.0,56.0,6.0,Kristoff Alexander,6.0,Team Katusha,4,2016,-
+25.0,68.0,45.0,9.0,Theuns Edward,7.0,Trek - Segafredo,4,2016,▲2
+25.0,207.0,38.0,8.0,Matthews Michael,8.0,ORICA-BikeExchange,4,2016,-
+24.0,182.0,37.0,7.0,Alaphilippe Julian,9.0,Etixx - Quick Step,4,2016,▼2
+22.0,75.0,34.0,15.0,Enger Sondre Holst,10.0,IAM Cycling,4,2016,▲5
+24.0,216.0,28.0,22.0,McLay Daniel,11.0,Fortuneo - Vital Concept,4,2016,▲11
+23.0,53.0,25.0,34.0,Groenewegen Dylan,12.0,Team LottoNL-Jumbo,4,2016,▲22
+23.0,196.0,24.0,10.0,Laporte Christophe,13.0,"Cofidis, Solutions Crédits",4,2016,▼3
+27.0,215.0,20.0,11.0,Fonseca Armindo,14.0,Fortuneo - Vital Concept,4,2016,▼3
+32.0,138.0,20.0,,Schillinger Andreas,15.0,Bora - Argon 18,4,2016,-
+28.0,134.0,20.0,13.0,Benedetti Cesare,16.0,Bora - Argon 18,4,2016,▼3
+26.0,77.0,20.0,12.0,Howard Leigh,17.0,IAM Cycling,4,2016,▼5
+36.0,12.0,20.0,14.0,Valverde Alejandro,18.0,Movistar Team,4,2016,▼4
+29.0,184.0,18.0,16.0,Martin Dan,19.0,Etixx - Quick Step,4,2016,▼3
+24.0,67.0,18.0,17.0,Stuyven Jasper,20.0,Trek - Segafredo,4,2016,▼3
+31.0,98.0,17.0,18.0,Van Avermaet Greg,21.0,BMC Racing Team,4,2016,▼3
+25.0,78.0,17.0,,Naesen Oliver,22.0,IAM Cycling,4,2016,-
+31.0,187.0,17.0,28.0,Sabatini Fabio,23.0,Etixx - Quick Step,4,2016,▲5
+31.0,133.0,17.0,20.0,Bárta Jan,24.0,Bora - Argon 18,4,2016,▼4
+30.0,139.0,17.0,19.0,Voss Paul,25.0,Bora - Argon 18,4,2016,▼6
+37.0,179.0,17.0,21.0,Voeckler Thomas,26.0,Direct Energie,4,2016,▼5
+36.0,63.0,15.0,,Irizar Markel,27.0,Trek - Segafredo,4,2016,-
+26.0,212.0,15.0,23.0,Breen Vegard,28.0,Fortuneo - Vital Concept,4,2016,▼5
+28.0,84.0,15.0,24.0,Howes Alex,29.0,Cannondale-Drapac Pro Cycling Team,4,2016,▼5
+25.0,51.0,14.0,25.0,Kelderman Wilco,30.0,Team LottoNL-Jumbo,4,2016,▼5
+33.0,186.0,14.0,29.0,Richeze Maximiliano,31.0,Etixx - Quick Step,4,2016,▼2
+36.0,201.0,13.0,35.0,Gerrans Simon,32.0,ORICA-BikeExchange,4,2016,▲3
+26.0,213.0,13.0,26.0,Delaplace Anthony,33.0,Fortuneo - Vital Concept,4,2016,▼7
+23.0,47.0,13.0,,Gougeard Alexis,34.0,AG2R La Mondiale,4,2016,-
+28.0,165.0,12.0,27.0,Gallopin Tony,35.0,Lotto Soudal,4,2016,▼8
+29.0,61.0,8.0,30.0,Mollema Bauke,36.0,Trek - Segafredo,4,2016,▼6
+35.0,44.0,8.0,,Dumoulin Samuel,37.0,AG2R La Mondiale,4,2016,-
+29.0,163.0,8.0,40.0,De Gendt Thomas,38.0,Lotto Soudal,4,2016,▲2
+24.0,111.0,7.0,32.0,Barguil Warren,39.0,Team Giant - Alpecin,4,2016,▼7
+31.0,1.0,7.0,31.0,Froome Chris,40.0,Team Sky,4,2016,▼9
+39.0,167.0,7.0,33.0,Henderson Gregory,41.0,Lotto Soudal,4,2016,▼8
+26.0,164.0,6.0,36.0,Debusschere Jens,42.0,Lotto Soudal,4,2016,▼6
+31.0,185.0,6.0,42.0,Martin Tony,43.0,Etixx - Quick Step,4,2016,▼1
+27.0,113.0,6.0,37.0,Degenkolb John,44.0,Team Giant - Alpecin,4,2016,▼7
+29.0,81.0,5.0,38.0,Rolland Pierre,45.0,Cannondale-Drapac Pro Cycling Team,4,2016,▼7
+27.0,57.0,5.0,,Vanmarcke Sep,46.0,Team LottoNL-Jumbo,4,2016,-
+23.0,209.0,4.0,39.0,Yates Adam,47.0,ORICA-BikeExchange,4,2016,▼8
+24.0,83.0,4.0,,Craddock Lawson,48.0,Cannondale-Drapac Pro Cycling Team,4,2016,-
+28.0,16.0,3.0,41.0,Izagirre Gorka,49.0,Movistar Team,4,2016,▼8
+26.0,154.0,3.0,43.0,Cimolai Davide,50.0,Lampre - Merida,4,2016,▼7
+31.0,146.0,3.0,44.0,Mørkøv Michael,51.0,Team Katusha,4,2016,▼7
+37.0,141.0,2.0,45.0,Rodríguez Joaquim,52.0,Team Katusha,4,2016,▼7
+28.0,142.0,2.0,46.0,Guarnieri Jacopo,53.0,Team Katusha,4,2016,▼7
+32.0,14.0,2.0,47.0,Erviti Imanol,54.0,Movistar Team,4,2016,▼7
+29.0,103.0,1.0,49.0,Boasson Hagen Edvald,55.0,Team Dimension Data,4,2016,▼6
+25.0,15.0,1.0,48.0,Herrada Jesús,56.0,Movistar Team,4,2016,▼8
+27.0,13.0,1.0,50.0,Anacona Winner,57.0,Movistar Team,4,2016,▼7
+26.0,32.0,150.0,1.0,Sagan Peter,1.0,Tinkoff,5,2016,-
+31.0,101.0,146.0,2.0,Cavendish Mark,2.0,Team Dimension Data,5,2016,-
+28.0,181.0,142.0,3.0,Kittel Marcel,3.0,Etixx - Quick Step,5,2016,-
+24.0,171.0,89.0,5.0,Coquard Bryan,4.0,Direct Energie,5,2016,▲1
+33.0,161.0,87.0,4.0,Greipel André,5.0,Lotto Soudal,5,2016,▼1
+31.0,98.0,67.0,21.0,Van Avermaet Greg,6.0,BMC Racing Team,5,2016,▲15
+29.0,144.0,56.0,6.0,Kristoff Alexander,7.0,Team Katusha,5,2016,▼1
+24.0,182.0,50.0,9.0,Alaphilippe Julian,8.0,Etixx - Quick Step,5,2016,▲1
+29.0,163.0,48.0,38.0,De Gendt Thomas,9.0,Lotto Soudal,5,2016,▲29
+25.0,68.0,45.0,7.0,Theuns Edward,10.0,Trek - Segafredo,5,2016,▼3
+25.0,207.0,38.0,8.0,Matthews Michael,11.0,ORICA-BikeExchange,5,2016,▼3
+29.0,184.0,35.0,19.0,Martin Dan,12.0,Etixx - Quick Step,5,2016,▲7
+22.0,75.0,34.0,10.0,Enger Sondre Holst,13.0,IAM Cycling,5,2016,▼3
+26.0,37.0,32.0,,Majka Rafał,14.0,Tinkoff,5,2016,-
+24.0,216.0,28.0,11.0,McLay Daniel,15.0,Fortuneo - Vital Concept,5,2016,▼4
+23.0,53.0,25.0,12.0,Groenewegen Dylan,16.0,Team LottoNL-Jumbo,5,2016,▼4
+23.0,196.0,24.0,13.0,Laporte Christophe,17.0,"Cofidis, Solutions Crédits",5,2016,▼4
+35.0,136.0,22.0,,Huzarski Bartosz,18.0,Bora - Argon 18,5,2016,-
+37.0,141.0,21.0,52.0,Rodríguez Joaquim,19.0,Team Katusha,5,2016,▲33
+27.0,215.0,20.0,14.0,Fonseca Armindo,20.0,Fortuneo - Vital Concept,5,2016,▼6
+32.0,138.0,20.0,15.0,Schillinger Andreas,21.0,Bora - Argon 18,5,2016,▼6
+28.0,134.0,20.0,16.0,Benedetti Cesare,22.0,Bora - Argon 18,5,2016,▼6
+26.0,77.0,20.0,17.0,Howard Leigh,23.0,IAM Cycling,5,2016,▼6
+36.0,12.0,20.0,18.0,Valverde Alejandro,24.0,Movistar Team,5,2016,▼6
+24.0,67.0,18.0,20.0,Stuyven Jasper,25.0,Trek - Segafredo,5,2016,▼5
+31.0,187.0,18.0,23.0,Sabatini Fabio,26.0,Etixx - Quick Step,5,2016,▼3
+32.0,24.0,17.0,,Grivko Andrey,27.0,Astana Pro Team,5,2016,-
+25.0,78.0,17.0,22.0,Naesen Oliver,28.0,IAM Cycling,5,2016,▼6
+37.0,179.0,17.0,26.0,Voeckler Thomas,29.0,Direct Energie,5,2016,▼3
+31.0,133.0,17.0,24.0,Bárta Jan,30.0,Bora - Argon 18,5,2016,▼6
+30.0,139.0,17.0,25.0,Voss Paul,31.0,Bora - Argon 18,5,2016,▼6
+31.0,1.0,16.0,40.0,Froome Chris,32.0,Team Sky,5,2016,▲8
+23.0,209.0,15.0,47.0,Yates Adam,33.0,ORICA-BikeExchange,5,2016,▲14
+36.0,63.0,15.0,27.0,Irizar Markel,34.0,Trek - Segafredo,5,2016,▼7
+28.0,84.0,15.0,29.0,Howes Alex,35.0,Cannondale-Drapac Pro Cycling Team,5,2016,▼6
+26.0,212.0,15.0,28.0,Breen Vegard,36.0,Fortuneo - Vital Concept,5,2016,▼8
+25.0,51.0,14.0,30.0,Kelderman Wilco,37.0,Team LottoNL-Jumbo,5,2016,▼7
+33.0,186.0,14.0,31.0,Richeze Maximiliano,38.0,Etixx - Quick Step,5,2016,▼7
+32.0,107.0,13.0,,Pauwels Serge,39.0,Team Dimension Data,5,2016,-
+36.0,201.0,13.0,32.0,Gerrans Simon,40.0,ORICA-BikeExchange,5,2016,▼8
+26.0,213.0,13.0,33.0,Delaplace Anthony,41.0,Fortuneo - Vital Concept,5,2016,▼8
+23.0,47.0,13.0,34.0,Gougeard Alexis,42.0,AG2R La Mondiale,5,2016,▼8
+28.0,165.0,12.0,35.0,Gallopin Tony,43.0,Lotto Soudal,5,2016,▼8
+29.0,81.0,11.0,45.0,Rolland Pierre,44.0,Cannondale-Drapac Pro Cycling Team,5,2016,▲1
+28.0,177.0,11.0,,Sicard Romain,45.0,Direct Energie,5,2016,-
+28.0,46.0,9.0,,Gautier Cyril,46.0,AG2R La Mondiale,5,2016,-
+29.0,61.0,8.0,36.0,Mollema Bauke,47.0,Trek - Segafredo,5,2016,▼11
+31.0,219.0,8.0,,Vachon Florian,48.0,Fortuneo - Vital Concept,5,2016,-
+35.0,44.0,8.0,37.0,Dumoulin Samuel,49.0,AG2R La Mondiale,5,2016,▼12
+24.0,111.0,7.0,39.0,Barguil Warren,50.0,Team Giant - Alpecin,5,2016,▼11
+27.0,99.0,7.0,,van Garderen Tejay,51.0,BMC Racing Team,5,2016,-
+39.0,167.0,7.0,41.0,Henderson Gregory,52.0,Lotto Soudal,5,2016,▼11
+31.0,185.0,6.0,43.0,Martin Tony,53.0,Etixx - Quick Step,5,2016,▼10
+26.0,164.0,6.0,42.0,Debusschere Jens,54.0,Lotto Soudal,5,2016,▼12
+27.0,113.0,6.0,44.0,Degenkolb John,55.0,Team Giant - Alpecin,5,2016,▼11
+31.0,91.0,5.0,,Porte Richie,56.0,BMC Racing Team,5,2016,-
+27.0,57.0,5.0,46.0,Vanmarcke Sep,57.0,Team LottoNL-Jumbo,5,2016,▼11
+25.0,41.0,4.0,,Bardet Romain,58.0,AG2R La Mondiale,5,2016,-
+24.0,83.0,4.0,48.0,Craddock Lawson,59.0,Cannondale-Drapac Pro Cycling Team,5,2016,▼11
+27.0,126.0,3.0,,Reichenbach Sébastien,60.0,FDJ,5,2016,-
+28.0,16.0,3.0,49.0,Izagirre Gorka,61.0,Movistar Team,5,2016,▼12
+26.0,154.0,3.0,50.0,Cimolai Davide,62.0,Lampre - Merida,5,2016,▼12
+31.0,146.0,3.0,51.0,Mørkøv Michael,63.0,Team Katusha,5,2016,▼12
+26.0,11.0,2.0,,Quintana Nairo,64.0,Movistar Team,5,2016,-
+28.0,142.0,2.0,53.0,Guarnieri Jacopo,65.0,Team Katusha,5,2016,▼12
+33.0,108.0,2.0,,Renshaw Mark,66.0,Team Dimension Data,5,2016,-
+32.0,14.0,2.0,54.0,Erviti Imanol,67.0,Movistar Team,5,2016,▼13
+29.0,103.0,1.0,55.0,Boasson Hagen Edvald,68.0,Team Dimension Data,5,2016,▼13
+25.0,15.0,1.0,56.0,Herrada Jesús,69.0,Movistar Team,5,2016,▼13
+27.0,13.0,1.0,57.0,Anacona Winner,70.0,Movistar Team,5,2016,▼13
+31.0,101.0,204.0,2.0,Cavendish Mark,1.0,Team Dimension Data,6,2016,▲1
+28.0,181.0,182.0,3.0,Kittel Marcel,2.0,Etixx - Quick Step,6,2016,▲1
+26.0,32.0,175.0,1.0,Sagan Peter,3.0,Tinkoff,6,2016,▼2
+24.0,171.0,112.0,4.0,Coquard Bryan,4.0,Direct Energie,6,2016,-
+33.0,161.0,89.0,5.0,Greipel André,5.0,Lotto Soudal,6,2016,-
+29.0,144.0,74.0,7.0,Kristoff Alexander,6.0,Team Katusha,6,2016,▲1
+31.0,98.0,67.0,6.0,Van Avermaet Greg,7.0,BMC Racing Team,6,2016,▼1
+25.0,68.0,64.0,10.0,Theuns Edward,8.0,Trek - Segafredo,6,2016,▲2
+25.0,207.0,57.0,11.0,Matthews Michael,9.0,ORICA-BikeExchange,6,2016,▲2
+24.0,182.0,50.0,8.0,Alaphilippe Julian,10.0,Etixx - Quick Step,6,2016,▼2
+29.0,163.0,48.0,9.0,De Gendt Thomas,11.0,Lotto Soudal,6,2016,▼2
+24.0,216.0,48.0,15.0,McLay Daniel,12.0,Fortuneo - Vital Concept,6,2016,▲3
+23.0,196.0,40.0,17.0,Laporte Christophe,13.0,"Cofidis, Solutions Crédits",6,2016,▲4
+31.0,133.0,37.0,30.0,Bárta Jan,14.0,Bora - Argon 18,6,2016,▲16
+23.0,53.0,37.0,16.0,Groenewegen Dylan,15.0,Team LottoNL-Jumbo,6,2016,▲1
+29.0,184.0,35.0,12.0,Martin Dan,16.0,Etixx - Quick Step,6,2016,▼4
+22.0,75.0,34.0,13.0,Enger Sondre Holst,17.0,IAM Cycling,6,2016,▼4
+26.0,37.0,32.0,14.0,Majka Rafał,18.0,Tinkoff,6,2016,▼4
+31.0,187.0,25.0,26.0,Sabatini Fabio,19.0,Etixx - Quick Step,6,2016,▲7
+35.0,136.0,22.0,18.0,Huzarski Bartosz,20.0,Bora - Argon 18,6,2016,▼2
+37.0,141.0,21.0,19.0,Rodríguez Joaquim,21.0,Team Katusha,6,2016,▼2
+27.0,215.0,20.0,20.0,Fonseca Armindo,22.0,Fortuneo - Vital Concept,6,2016,▼2
+28.0,134.0,20.0,22.0,Benedetti Cesare,23.0,Bora - Argon 18,6,2016,▼1
+32.0,138.0,20.0,21.0,Schillinger Andreas,24.0,Bora - Argon 18,6,2016,▼3
+26.0,77.0,20.0,23.0,Howard Leigh,25.0,IAM Cycling,6,2016,▼2
+36.0,12.0,20.0,24.0,Valverde Alejandro,26.0,Movistar Team,6,2016,▼2
+33.0,186.0,20.0,38.0,Richeze Maximiliano,27.0,Etixx - Quick Step,6,2016,▲11
+24.0,67.0,18.0,25.0,Stuyven Jasper,28.0,Trek - Segafredo,6,2016,▼3
+32.0,24.0,17.0,27.0,Grivko Andrey,29.0,Astana Pro Team,6,2016,▼2
+25.0,78.0,17.0,28.0,Naesen Oliver,30.0,IAM Cycling,6,2016,▼2
+31.0,152.0,17.0,,Arashiro Yukiya,31.0,Lampre - Merida,6,2016,-
+30.0,139.0,17.0,31.0,Voss Paul,32.0,Bora - Argon 18,6,2016,▼1
+37.0,179.0,17.0,29.0,Voeckler Thomas,33.0,Direct Energie,6,2016,▼4
+31.0,1.0,16.0,32.0,Froome Chris,34.0,Team Sky,6,2016,▼2
+23.0,209.0,15.0,33.0,Yates Adam,35.0,ORICA-BikeExchange,6,2016,▼2
+36.0,63.0,15.0,34.0,Irizar Markel,36.0,Trek - Segafredo,6,2016,▼2
+28.0,84.0,15.0,35.0,Howes Alex,37.0,Cannondale-Drapac Pro Cycling Team,6,2016,▼2
+26.0,212.0,15.0,36.0,Breen Vegard,38.0,Fortuneo - Vital Concept,6,2016,▼2
+25.0,51.0,14.0,37.0,Kelderman Wilco,39.0,Team LottoNL-Jumbo,6,2016,▼2
+32.0,107.0,13.0,39.0,Pauwels Serge,40.0,Team Dimension Data,6,2016,▼1
+36.0,201.0,13.0,40.0,Gerrans Simon,41.0,ORICA-BikeExchange,6,2016,▼1
+26.0,213.0,13.0,41.0,Delaplace Anthony,42.0,Fortuneo - Vital Concept,6,2016,▼1
+23.0,47.0,13.0,42.0,Gougeard Alexis,43.0,AG2R La Mondiale,6,2016,▼1
+35.0,44.0,12.0,49.0,Dumoulin Samuel,44.0,AG2R La Mondiale,6,2016,▲5
+28.0,165.0,12.0,43.0,Gallopin Tony,45.0,Lotto Soudal,6,2016,▼2
+29.0,81.0,11.0,44.0,Rolland Pierre,46.0,Cannondale-Drapac Pro Cycling Team,6,2016,▼2
+31.0,185.0,11.0,53.0,Martin Tony,47.0,Etixx - Quick Step,6,2016,▲6
+28.0,177.0,11.0,45.0,Sicard Romain,48.0,Direct Energie,6,2016,▼3
+28.0,46.0,9.0,46.0,Gautier Cyril,49.0,AG2R La Mondiale,6,2016,▼3
+29.0,61.0,8.0,47.0,Mollema Bauke,50.0,Trek - Segafredo,6,2016,▼3
+31.0,219.0,8.0,48.0,Vachon Florian,51.0,Fortuneo - Vital Concept,6,2016,▼3
+26.0,154.0,8.0,62.0,Cimolai Davide,52.0,Lampre - Merida,6,2016,▲10
+24.0,111.0,7.0,50.0,Barguil Warren,53.0,Team Giant - Alpecin,6,2016,▼3
+27.0,99.0,7.0,51.0,van Garderen Tejay,54.0,BMC Racing Team,6,2016,▼3
+39.0,167.0,7.0,52.0,Henderson Gregory,55.0,Lotto Soudal,6,2016,▼3
+27.0,132.0,7.0,,Archbold Shane,56.0,Bora - Argon 18,6,2016,-
+26.0,164.0,6.0,54.0,Debusschere Jens,57.0,Lotto Soudal,6,2016,▼3
+27.0,113.0,6.0,55.0,Degenkolb John,58.0,Team Giant - Alpecin,6,2016,▼3
+31.0,91.0,5.0,56.0,Porte Richie,59.0,BMC Racing Team,6,2016,▼3
+27.0,57.0,5.0,57.0,Vanmarcke Sep,60.0,Team LottoNL-Jumbo,6,2016,▼3
+25.0,41.0,4.0,58.0,Bardet Romain,61.0,AG2R La Mondiale,6,2016,▼3
+24.0,83.0,4.0,59.0,Craddock Lawson,62.0,Cannondale-Drapac Pro Cycling Team,6,2016,▼3
+35.0,105.0,4.0,,Eisel Bernhard,63.0,Team Dimension Data,6,2016,-
+27.0,126.0,3.0,60.0,Reichenbach Sébastien,64.0,FDJ,6,2016,▼4
+31.0,82.0,3.0,,Breschel Matti,65.0,Cannondale-Drapac Pro Cycling Team,6,2016,-
+28.0,16.0,3.0,61.0,Izagirre Gorka,66.0,Movistar Team,6,2016,▼5
+23.0,188.0,3.0,,Vakoč Petr,67.0,Etixx - Quick Step,6,2016,-
+31.0,146.0,3.0,63.0,Mørkøv Michael,68.0,Team Katusha,6,2016,▼5
+26.0,11.0,2.0,64.0,Quintana Nairo,69.0,Movistar Team,6,2016,▼5
+28.0,142.0,2.0,65.0,Guarnieri Jacopo,70.0,Team Katusha,6,2016,▼5
+33.0,108.0,2.0,66.0,Renshaw Mark,71.0,Team Dimension Data,6,2016,▼5
+32.0,14.0,2.0,67.0,Erviti Imanol,72.0,Movistar Team,6,2016,▼5
+26.0,189.0,2.0,,Vermote Julien,73.0,Etixx - Quick Step,6,2016,-
+29.0,103.0,1.0,68.0,Boasson Hagen Edvald,74.0,Team Dimension Data,6,2016,▼6
+25.0,15.0,1.0,69.0,Herrada Jesús,75.0,Movistar Team,6,2016,▼6
+27.0,13.0,1.0,70.0,Anacona Winner,76.0,Movistar Team,6,2016,▼6
+36.0,162.0,1.0,,Bak Lars Ytting,77.0,Lotto Soudal,6,2016,-
+31.0,101.0,204.0,1.0,Cavendish Mark,1.0,Team Dimension Data,7,2016,-
+28.0,181.0,182.0,2.0,Kittel Marcel,2.0,Etixx - Quick Step,7,2016,-
+26.0,32.0,175.0,3.0,Sagan Peter,3.0,Tinkoff,7,2016,-
+24.0,171.0,112.0,4.0,Coquard Bryan,4.0,Direct Energie,7,2016,-
+31.0,98.0,90.0,7.0,Van Avermaet Greg,5.0,BMC Racing Team,7,2016,▲2
+33.0,161.0,89.0,5.0,Greipel André,6.0,Lotto Soudal,7,2016,▼1
+29.0,144.0,74.0,6.0,Kristoff Alexander,7.0,Team Katusha,7,2016,▼1
+25.0,68.0,64.0,8.0,Theuns Edward,8.0,Trek - Segafredo,7,2016,-
+25.0,207.0,57.0,9.0,Matthews Michael,9.0,ORICA-BikeExchange,7,2016,-
+24.0,182.0,53.0,10.0,Alaphilippe Julian,10.0,Etixx - Quick Step,7,2016,-
+35.0,104.0,50.0,,Cummings Steve,11.0,Team Dimension Data,7,2016,-
+29.0,163.0,48.0,11.0,De Gendt Thomas,12.0,Lotto Soudal,7,2016,▼1
+24.0,216.0,48.0,12.0,McLay Daniel,13.0,Fortuneo - Vital Concept,7,2016,▼1
+23.0,196.0,40.0,13.0,Laporte Christophe,14.0,"Cofidis, Solutions Crédits",7,2016,▼1
+32.0,191.0,39.0,,Navarro Daniel,15.0,"Cofidis, Solutions Crédits",7,2016,-
+31.0,133.0,37.0,14.0,Bárta Jan,16.0,Bora - Argon 18,7,2016,▼2
+29.0,184.0,37.0,16.0,Martin Dan,17.0,Etixx - Quick Step,7,2016,▼1
+23.0,53.0,37.0,15.0,Groenewegen Dylan,18.0,Team LottoNL-Jumbo,7,2016,▼3
+22.0,75.0,34.0,17.0,Enger Sondre Holst,19.0,IAM Cycling,7,2016,▼2
+26.0,37.0,32.0,18.0,Majka Rafał,20.0,Tinkoff,7,2016,▼2
+31.0,205.0,29.0,,Impey Daryl,21.0,ORICA-BikeExchange,7,2016,-
+31.0,22.0,28.0,,Nibali Vincenzo,22.0,Astana Pro Team,7,2016,-
+36.0,12.0,27.0,26.0,Valverde Alejandro,23.0,Movistar Team,7,2016,▲3
+31.0,187.0,25.0,19.0,Sabatini Fabio,24.0,Etixx - Quick Step,7,2016,▼5
+31.0,1.0,22.0,34.0,Froome Chris,25.0,Team Sky,7,2016,▲9
+35.0,136.0,22.0,20.0,Huzarski Bartosz,26.0,Bora - Argon 18,7,2016,▼6
+28.0,84.0,22.0,37.0,Howes Alex,27.0,Cannondale-Drapac Pro Cycling Team,7,2016,▲10
+37.0,141.0,21.0,21.0,Rodríguez Joaquim,28.0,Team Katusha,7,2016,▼7
+27.0,215.0,20.0,22.0,Fonseca Armindo,29.0,Fortuneo - Vital Concept,7,2016,▼7
+28.0,134.0,20.0,23.0,Benedetti Cesare,30.0,Bora - Argon 18,7,2016,▼7
+32.0,138.0,20.0,24.0,Schillinger Andreas,31.0,Bora - Argon 18,7,2016,▼7
+26.0,77.0,20.0,25.0,Howard Leigh,32.0,IAM Cycling,7,2016,▼7
+33.0,186.0,20.0,27.0,Richeze Maximiliano,33.0,Etixx - Quick Step,7,2016,▼6
+24.0,67.0,18.0,28.0,Stuyven Jasper,34.0,Trek - Segafredo,7,2016,▼6
+32.0,24.0,17.0,29.0,Grivko Andrey,35.0,Astana Pro Team,7,2016,▼6
+25.0,78.0,17.0,30.0,Naesen Oliver,36.0,IAM Cycling,7,2016,▼6
+30.0,139.0,17.0,32.0,Voss Paul,37.0,Bora - Argon 18,7,2016,▼5
+31.0,152.0,17.0,31.0,Arashiro Yukiya,38.0,Lampre - Merida,7,2016,▼7
+37.0,179.0,17.0,33.0,Voeckler Thomas,39.0,Direct Energie,7,2016,▼6
+23.0,209.0,15.0,35.0,Yates Adam,40.0,ORICA-BikeExchange,7,2016,▼5
+32.0,198.0,15.0,,Maté Luis Ángel,41.0,"Cofidis, Solutions Crédits",7,2016,-
+32.0,55.0,15.0,,Martens Paul,42.0,Team LottoNL-Jumbo,7,2016,-
+36.0,63.0,15.0,36.0,Irizar Markel,43.0,Trek - Segafredo,7,2016,▼7
+26.0,212.0,15.0,38.0,Breen Vegard,44.0,Fortuneo - Vital Concept,7,2016,▼6
+25.0,51.0,14.0,39.0,Kelderman Wilco,45.0,Team LottoNL-Jumbo,7,2016,▼6
+30.0,9.0,13.0,,Thomas Geraint,46.0,Team Sky,7,2016,-
+32.0,107.0,13.0,40.0,Pauwels Serge,47.0,Team Dimension Data,7,2016,▼7
+31.0,185.0,13.0,47.0,Martin Tony,48.0,Etixx - Quick Step,7,2016,▼1
+29.0,217.0,13.0,,Périchon Pierre-Luc,49.0,Fortuneo - Vital Concept,7,2016,-
+31.0,82.0,13.0,65.0,Breschel Matti,50.0,Cannondale-Drapac Pro Cycling Team,7,2016,▲15
+26.0,213.0,13.0,42.0,Delaplace Anthony,51.0,Fortuneo - Vital Concept,7,2016,▼9
+36.0,201.0,13.0,41.0,Gerrans Simon,52.0,ORICA-BikeExchange,7,2016,▼11
+23.0,47.0,13.0,43.0,Gougeard Alexis,53.0,AG2R La Mondiale,7,2016,▼10
+28.0,16.0,12.0,66.0,Izagirre Gorka,54.0,Movistar Team,7,2016,▲12
+35.0,44.0,12.0,44.0,Dumoulin Samuel,55.0,AG2R La Mondiale,7,2016,▼11
+28.0,165.0,12.0,45.0,Gallopin Tony,56.0,Lotto Soudal,7,2016,▼11
+29.0,81.0,11.0,46.0,Rolland Pierre,57.0,Cannondale-Drapac Pro Cycling Team,7,2016,▼11
+30.0,115.0,11.0,,Geschke Simon,58.0,Team Giant - Alpecin,7,2016,-
+28.0,177.0,11.0,48.0,Sicard Romain,59.0,Direct Energie,7,2016,▼11
+28.0,6.0,11.0,,Poels Wout,60.0,Team Sky,7,2016,-
+31.0,91.0,9.0,59.0,Porte Richie,61.0,BMC Racing Team,7,2016,▼2
+28.0,46.0,9.0,49.0,Gautier Cyril,62.0,AG2R La Mondiale,7,2016,▼13
+29.0,61.0,8.0,50.0,Mollema Bauke,63.0,Trek - Segafredo,7,2016,▼13
+31.0,219.0,8.0,51.0,Vachon Florian,64.0,Fortuneo - Vital Concept,7,2016,▼13
+24.0,173.0,8.0,,Duchesne Antoine,65.0,Direct Energie,7,2016,-
+26.0,154.0,8.0,52.0,Cimolai Davide,66.0,Lampre - Merida,7,2016,▼14
+24.0,111.0,7.0,53.0,Barguil Warren,67.0,Team Giant - Alpecin,7,2016,▼14
+27.0,99.0,7.0,54.0,van Garderen Tejay,68.0,BMC Racing Team,7,2016,▼14
+39.0,167.0,7.0,55.0,Henderson Gregory,69.0,Lotto Soudal,7,2016,▼14
+27.0,132.0,7.0,56.0,Archbold Shane,70.0,Bora - Argon 18,7,2016,▼14
+27.0,113.0,6.0,58.0,Degenkolb John,71.0,Team Giant - Alpecin,7,2016,▼13
+26.0,164.0,6.0,57.0,Debusschere Jens,72.0,Lotto Soudal,7,2016,▼15
+30.0,36.0,5.0,,Kreuziger Roman,73.0,Tinkoff,7,2016,-
+27.0,57.0,5.0,60.0,Vanmarcke Sep,74.0,Team LottoNL-Jumbo,7,2016,▼14
+23.0,26.0,5.0,,Lutsenko Alexey,75.0,Astana Pro Team,7,2016,-
+25.0,41.0,4.0,61.0,Bardet Romain,76.0,AG2R La Mondiale,7,2016,▼15
+24.0,83.0,4.0,62.0,Craddock Lawson,77.0,Cannondale-Drapac Pro Cycling Team,7,2016,▼15
+35.0,105.0,4.0,63.0,Eisel Bernhard,78.0,Team Dimension Data,7,2016,▼15
+27.0,126.0,3.0,64.0,Reichenbach Sébastien,79.0,FDJ,7,2016,▼15
+30.0,42.0,3.0,,Bakelants Jan,80.0,AG2R La Mondiale,7,2016,-
+23.0,188.0,3.0,67.0,Vakoč Petr,81.0,Etixx - Quick Step,7,2016,▼14
+31.0,146.0,3.0,68.0,Mørkøv Michael,82.0,Team Katusha,7,2016,▼14
+26.0,11.0,2.0,69.0,Quintana Nairo,83.0,Movistar Team,7,2016,▼14
+28.0,142.0,2.0,70.0,Guarnieri Jacopo,84.0,Team Katusha,7,2016,▼14
+33.0,108.0,2.0,71.0,Renshaw Mark,85.0,Team Dimension Data,7,2016,▼14
+32.0,14.0,2.0,72.0,Erviti Imanol,86.0,Movistar Team,7,2016,▼14
+26.0,189.0,2.0,73.0,Vermote Julien,87.0,Etixx - Quick Step,7,2016,▼14
+28.0,49.0,1.0,,Vuillermoz Alexis,88.0,AG2R La Mondiale,7,2016,-
+29.0,103.0,1.0,74.0,Boasson Hagen Edvald,89.0,Team Dimension Data,7,2016,▼15
+25.0,15.0,1.0,75.0,Herrada Jesús,90.0,Movistar Team,7,2016,▼15
+27.0,13.0,1.0,76.0,Anacona Winner,91.0,Movistar Team,7,2016,▼15
+36.0,162.0,1.0,77.0,Bak Lars Ytting,92.0,Lotto Soudal,7,2016,▼15
+31.0,101.0,204.0,1.0,Cavendish Mark,1.0,Team Dimension Data,8,2016,-
+28.0,181.0,182.0,2.0,Kittel Marcel,2.0,Etixx - Quick Step,8,2016,-
+26.0,32.0,177.0,3.0,Sagan Peter,3.0,Tinkoff,8,2016,-
+24.0,171.0,112.0,4.0,Coquard Bryan,4.0,Direct Energie,8,2016,-
+31.0,98.0,90.0,5.0,Van Avermaet Greg,5.0,BMC Racing Team,8,2016,-
+33.0,161.0,89.0,6.0,Greipel André,6.0,Lotto Soudal,8,2016,-
+25.0,207.0,77.0,9.0,Matthews Michael,7.0,ORICA-BikeExchange,8,2016,▲2
+29.0,144.0,74.0,7.0,Kristoff Alexander,8.0,Team Katusha,8,2016,▼1
+25.0,68.0,64.0,8.0,Theuns Edward,9.0,Trek - Segafredo,8,2016,▼1
+29.0,184.0,54.0,17.0,Martin Dan,10.0,Etixx - Quick Step,8,2016,▲7
+24.0,182.0,53.0,10.0,Alaphilippe Julian,11.0,Etixx - Quick Step,8,2016,▼1
+35.0,104.0,50.0,11.0,Cummings Steve,12.0,Team Dimension Data,8,2016,▼1
+29.0,163.0,48.0,12.0,De Gendt Thomas,13.0,Lotto Soudal,8,2016,▼1
+24.0,216.0,48.0,13.0,McLay Daniel,14.0,Fortuneo - Vital Concept,8,2016,▼1
+32.0,191.0,44.0,15.0,Navarro Daniel,15.0,"Cofidis, Solutions Crédits",8,2016,-
+31.0,1.0,42.0,25.0,Froome Chris,16.0,Team Sky,8,2016,▲9
+23.0,196.0,40.0,14.0,Laporte Christophe,17.0,"Cofidis, Solutions Crédits",8,2016,▼3
+31.0,133.0,37.0,16.0,Bárta Jan,18.0,Bora - Argon 18,8,2016,▼2
+23.0,53.0,37.0,18.0,Groenewegen Dylan,19.0,Team LottoNL-Jumbo,8,2016,▼1
+37.0,141.0,36.0,28.0,Rodríguez Joaquim,20.0,Team Katusha,8,2016,▲8
+36.0,12.0,35.0,23.0,Valverde Alejandro,21.0,Movistar Team,8,2016,▲2
+22.0,75.0,34.0,19.0,Enger Sondre Holst,22.0,IAM Cycling,8,2016,▼3
+24.0,67.0,33.0,34.0,Stuyven Jasper,23.0,Trek - Segafredo,8,2016,▲11
+26.0,37.0,32.0,20.0,Majka Rafał,24.0,Tinkoff,8,2016,▼4
+31.0,205.0,29.0,21.0,Impey Daryl,25.0,ORICA-BikeExchange,8,2016,▼4
+31.0,22.0,28.0,22.0,Nibali Vincenzo,26.0,Astana Pro Team,8,2016,▼4
+30.0,139.0,28.0,37.0,Voss Paul,27.0,Bora - Argon 18,8,2016,▲10
+31.0,187.0,25.0,24.0,Sabatini Fabio,28.0,Etixx - Quick Step,8,2016,▼4
+23.0,209.0,24.0,40.0,Yates Adam,29.0,ORICA-BikeExchange,8,2016,▲11
+35.0,136.0,22.0,26.0,Huzarski Bartosz,30.0,Bora - Argon 18,8,2016,▼4
+28.0,84.0,22.0,27.0,Howes Alex,31.0,Cannondale-Drapac Pro Cycling Team,8,2016,▼4
+27.0,215.0,20.0,29.0,Fonseca Armindo,32.0,Fortuneo - Vital Concept,8,2016,▼3
+28.0,134.0,20.0,30.0,Benedetti Cesare,33.0,Bora - Argon 18,8,2016,▼3
+32.0,138.0,20.0,31.0,Schillinger Andreas,34.0,Bora - Argon 18,8,2016,▼3
+26.0,77.0,20.0,32.0,Howard Leigh,35.0,IAM Cycling,8,2016,▼3
+33.0,186.0,20.0,33.0,Richeze Maximiliano,36.0,Etixx - Quick Step,8,2016,▼3
+28.0,177.0,19.0,59.0,Sicard Romain,37.0,Direct Energie,8,2016,▲22
+25.0,41.0,17.0,76.0,Bardet Romain,38.0,AG2R La Mondiale,8,2016,▲38
+30.0,43.0,17.0,,Cherel Mickaël,39.0,AG2R La Mondiale,8,2016,-
+32.0,24.0,17.0,35.0,Grivko Andrey,40.0,Astana Pro Team,8,2016,▼5
+37.0,179.0,17.0,39.0,Voeckler Thomas,41.0,Direct Energie,8,2016,▼2
+25.0,78.0,17.0,36.0,Naesen Oliver,42.0,IAM Cycling,8,2016,▼6
+31.0,152.0,17.0,38.0,Arashiro Yukiya,43.0,Lampre - Merida,8,2016,▼5
+30.0,36.0,16.0,73.0,Kreuziger Roman,44.0,Tinkoff,8,2016,▲29
+29.0,61.0,15.0,63.0,Mollema Bauke,45.0,Trek - Segafredo,8,2016,▲18
+31.0,91.0,15.0,61.0,Porte Richie,46.0,BMC Racing Team,8,2016,▲15
+32.0,198.0,15.0,41.0,Maté Luis Ángel,47.0,"Cofidis, Solutions Crédits",8,2016,▼6
+32.0,55.0,15.0,42.0,Martens Paul,48.0,Team LottoNL-Jumbo,8,2016,▼6
+36.0,63.0,15.0,43.0,Irizar Markel,49.0,Trek - Segafredo,8,2016,▼6
+26.0,212.0,15.0,44.0,Breen Vegard,50.0,Fortuneo - Vital Concept,8,2016,▼6
+25.0,51.0,14.0,45.0,Kelderman Wilco,51.0,Team LottoNL-Jumbo,8,2016,▼6
+28.0,6.0,14.0,60.0,Poels Wout,52.0,Team Sky,8,2016,▲8
+30.0,9.0,13.0,46.0,Thomas Geraint,53.0,Team Sky,8,2016,▼7
+31.0,185.0,13.0,48.0,Martin Tony,54.0,Etixx - Quick Step,8,2016,▼6
+33.0,72.0,13.0,,Clement Stef,55.0,IAM Cycling,8,2016,-
+32.0,107.0,13.0,47.0,Pauwels Serge,56.0,Team Dimension Data,8,2016,▼9
+36.0,201.0,13.0,52.0,Gerrans Simon,57.0,ORICA-BikeExchange,8,2016,▼5
+29.0,217.0,13.0,49.0,Périchon Pierre-Luc,58.0,Fortuneo - Vital Concept,8,2016,▼9
+31.0,82.0,13.0,50.0,Breschel Matti,59.0,Cannondale-Drapac Pro Cycling Team,8,2016,▼9
+26.0,213.0,13.0,51.0,Delaplace Anthony,60.0,Fortuneo - Vital Concept,8,2016,▼9
+23.0,47.0,13.0,53.0,Gougeard Alexis,61.0,AG2R La Mondiale,8,2016,▼8
+28.0,16.0,12.0,54.0,Izagirre Gorka,62.0,Movistar Team,8,2016,▼8
+28.0,165.0,12.0,56.0,Gallopin Tony,63.0,Lotto Soudal,8,2016,▼7
+35.0,44.0,12.0,55.0,Dumoulin Samuel,64.0,AG2R La Mondiale,8,2016,▼9
+27.0,99.0,11.0,68.0,van Garderen Tejay,65.0,BMC Racing Team,8,2016,▲3
+29.0,81.0,11.0,57.0,Rolland Pierre,66.0,Cannondale-Drapac Pro Cycling Team,8,2016,▼9
+30.0,115.0,11.0,58.0,Geschke Simon,67.0,Team Giant - Alpecin,8,2016,▼9
+26.0,21.0,10.0,,Aru Fabio,68.0,Astana Pro Team,8,2016,-
+25.0,114.0,10.0,,Dumoulin Tom,69.0,Team Giant - Alpecin,8,2016,-
+28.0,46.0,9.0,62.0,Gautier Cyril,70.0,AG2R La Mondiale,8,2016,▼8
+24.0,89.0,9.0,,van Baarle Dylan,71.0,Cannondale-Drapac Pro Cycling Team,8,2016,-
+31.0,219.0,8.0,64.0,Vachon Florian,72.0,Fortuneo - Vital Concept,8,2016,▼8
+24.0,173.0,8.0,65.0,Duchesne Antoine,73.0,Direct Energie,8,2016,▼8
+26.0,154.0,8.0,66.0,Cimolai Davide,74.0,Lampre - Merida,8,2016,▼8
+26.0,11.0,7.0,83.0,Quintana Nairo,75.0,Movistar Team,8,2016,▲8
+24.0,111.0,7.0,67.0,Barguil Warren,76.0,Team Giant - Alpecin,8,2016,▼9
+32.0,28.0,7.0,,Sánchez Luis León,77.0,Astana Pro Team,8,2016,-
+25.0,15.0,7.0,90.0,Herrada Jesús,78.0,Movistar Team,8,2016,▲12
+39.0,167.0,7.0,69.0,Henderson Gregory,79.0,Lotto Soudal,8,2016,▼10
+27.0,132.0,7.0,70.0,Archbold Shane,80.0,Bora - Argon 18,8,2016,▼10
+27.0,113.0,6.0,71.0,Degenkolb John,81.0,Team Giant - Alpecin,8,2016,▼10
+26.0,164.0,6.0,72.0,Debusschere Jens,82.0,Lotto Soudal,8,2016,▼10
+23.0,26.0,5.0,75.0,Lutsenko Alexey,83.0,Astana Pro Team,8,2016,▼8
+27.0,57.0,5.0,74.0,Vanmarcke Sep,84.0,Team LottoNL-Jumbo,8,2016,▼10
+26.0,149.0,4.0,,Zakarin Ilnur,85.0,Team Katusha,8,2016,-
+24.0,83.0,4.0,77.0,Craddock Lawson,86.0,Cannondale-Drapac Pro Cycling Team,8,2016,▼9
+35.0,105.0,4.0,78.0,Eisel Bernhard,87.0,Team Dimension Data,8,2016,▼9
+24.0,157.0,3.0,,Meintjes Louis,88.0,Lampre - Merida,8,2016,-
+27.0,126.0,3.0,79.0,Reichenbach Sébastien,89.0,FDJ,8,2016,▼10
+30.0,42.0,3.0,80.0,Bakelants Jan,90.0,AG2R La Mondiale,8,2016,▼10
+23.0,188.0,3.0,81.0,Vakoč Petr,91.0,Etixx - Quick Step,8,2016,▼10
+28.0,2.0,2.0,,Henao Sergio,92.0,Team Sky,8,2016,-
+28.0,142.0,2.0,84.0,Guarnieri Jacopo,93.0,Team Katusha,8,2016,▼9
+32.0,14.0,2.0,86.0,Erviti Imanol,94.0,Movistar Team,8,2016,▼8
+33.0,108.0,2.0,85.0,Renshaw Mark,95.0,Team Dimension Data,8,2016,▼10
+26.0,189.0,2.0,87.0,Vermote Julien,96.0,Etixx - Quick Step,8,2016,▼9
+23.0,131.0,1.0,,Buchmann Emanuel,97.0,Bora - Argon 18,8,2016,-
+28.0,49.0,1.0,88.0,Vuillermoz Alexis,98.0,AG2R La Mondiale,8,2016,▼10
+26.0,121.0,1.0,,Pinot Thibaut,99.0,FDJ,8,2016,-
+27.0,13.0,1.0,91.0,Anacona Winner,100.0,Movistar Team,8,2016,▼9
+29.0,103.0,1.0,89.0,Boasson Hagen Edvald,101.0,Team Dimension Data,8,2016,▼12
+36.0,162.0,1.0,92.0,Bak Lars Ytting,102.0,Lotto Soudal,8,2016,▼10
+31.0,101.0,204.0,1.0,Cavendish Mark,1.0,Team Dimension Data,9,2016,-
+26.0,32.0,197.0,3.0,Sagan Peter,2.0,Tinkoff,9,2016,▲1
+28.0,181.0,182.0,2.0,Kittel Marcel,3.0,Etixx - Quick Step,9,2016,▼1
+24.0,171.0,112.0,4.0,Coquard Bryan,4.0,Direct Energie,9,2016,-
+31.0,98.0,90.0,5.0,Van Avermaet Greg,5.0,BMC Racing Team,9,2016,-
+33.0,161.0,89.0,6.0,Greipel André,6.0,Lotto Soudal,9,2016,-
+25.0,207.0,77.0,7.0,Matthews Michael,7.0,ORICA-BikeExchange,9,2016,-
+29.0,144.0,74.0,8.0,Kristoff Alexander,8.0,Team Katusha,9,2016,-
+29.0,163.0,65.0,13.0,De Gendt Thomas,9.0,Lotto Soudal,9,2016,▲4
+25.0,68.0,64.0,9.0,Theuns Edward,10.0,Trek - Segafredo,9,2016,▼1
+26.0,37.0,60.0,24.0,Majka Rafał,11.0,Tinkoff,9,2016,▲13
+32.0,191.0,58.0,15.0,Navarro Daniel,12.0,"Cofidis, Solutions Crédits",9,2016,▲3
+29.0,184.0,56.0,10.0,Martin Dan,13.0,Etixx - Quick Step,9,2016,▼3
+24.0,182.0,53.0,11.0,Alaphilippe Julian,14.0,Etixx - Quick Step,9,2016,▼3
+35.0,104.0,50.0,12.0,Cummings Steve,15.0,Team Dimension Data,9,2016,▼3
+24.0,216.0,48.0,14.0,McLay Daniel,16.0,Fortuneo - Vital Concept,9,2016,▼2
+31.0,1.0,47.0,16.0,Froome Chris,17.0,Team Sky,9,2016,▼1
+23.0,196.0,40.0,17.0,Laporte Christophe,18.0,"Cofidis, Solutions Crédits",9,2016,▼1
+31.0,133.0,37.0,18.0,Bárta Jan,19.0,Bora - Argon 18,9,2016,▼1
+23.0,53.0,37.0,19.0,Groenewegen Dylan,20.0,Team LottoNL-Jumbo,9,2016,▼1
+37.0,141.0,36.0,20.0,Rodríguez Joaquim,21.0,Team Katusha,9,2016,▼1
+36.0,12.0,35.0,21.0,Valverde Alejandro,22.0,Movistar Team,9,2016,▼1
+25.0,114.0,34.0,69.0,Dumoulin Tom,23.0,Team Giant - Alpecin,9,2016,▲46
+22.0,75.0,34.0,22.0,Enger Sondre Holst,24.0,IAM Cycling,9,2016,▼2
+24.0,67.0,33.0,23.0,Stuyven Jasper,25.0,Trek - Segafredo,9,2016,▼2
+23.0,209.0,30.0,29.0,Yates Adam,26.0,ORICA-BikeExchange,9,2016,▲3
+31.0,205.0,29.0,25.0,Impey Daryl,27.0,ORICA-BikeExchange,9,2016,▼2
+31.0,22.0,28.0,26.0,Nibali Vincenzo,28.0,Astana Pro Team,9,2016,▼2
+33.0,72.0,28.0,55.0,Clement Stef,29.0,IAM Cycling,9,2016,▲26
+30.0,139.0,28.0,27.0,Voss Paul,30.0,Bora - Argon 18,9,2016,▼3
+31.0,187.0,25.0,28.0,Sabatini Fabio,31.0,Etixx - Quick Step,9,2016,▼3
+35.0,136.0,22.0,30.0,Huzarski Bartosz,32.0,Bora - Argon 18,9,2016,▼2
+28.0,84.0,22.0,31.0,Howes Alex,33.0,Cannondale-Drapac Pro Cycling Team,9,2016,▼2
+27.0,215.0,20.0,32.0,Fonseca Armindo,34.0,Fortuneo - Vital Concept,9,2016,▼2
+28.0,134.0,20.0,33.0,Benedetti Cesare,35.0,Bora - Argon 18,9,2016,▼2
+32.0,138.0,20.0,34.0,Schillinger Andreas,36.0,Bora - Argon 18,9,2016,▼2
+26.0,77.0,20.0,35.0,Howard Leigh,37.0,IAM Cycling,9,2016,▼2
+29.0,151.0,20.0,,Costa Rui,38.0,Lampre - Merida,9,2016,-
+33.0,186.0,20.0,36.0,Richeze Maximiliano,39.0,Etixx - Quick Step,9,2016,▼3
+27.0,27.0,19.0,,Rosa Diego,40.0,Astana Pro Team,9,2016,-
+28.0,177.0,19.0,37.0,Sicard Romain,41.0,Direct Energie,9,2016,▼4
+31.0,91.0,18.0,46.0,Porte Richie,42.0,BMC Racing Team,9,2016,▲4
+25.0,15.0,18.0,78.0,Herrada Jesús,43.0,Movistar Team,9,2016,▲35
+25.0,41.0,17.0,38.0,Bardet Romain,44.0,AG2R La Mondiale,9,2016,▼6
+26.0,121.0,17.0,99.0,Pinot Thibaut,45.0,FDJ,9,2016,▲54
+32.0,24.0,17.0,40.0,Grivko Andrey,46.0,Astana Pro Team,9,2016,▼6
+30.0,43.0,17.0,39.0,Cherel Mickaël,47.0,AG2R La Mondiale,9,2016,▼8
+28.0,165.0,17.0,63.0,Gallopin Tony,48.0,Lotto Soudal,9,2016,▲15
+25.0,78.0,17.0,42.0,Naesen Oliver,49.0,IAM Cycling,9,2016,▼7
+37.0,179.0,17.0,41.0,Voeckler Thomas,50.0,Direct Energie,9,2016,▼9
+31.0,152.0,17.0,43.0,Arashiro Yukiya,51.0,Lampre - Merida,9,2016,▼8
+30.0,36.0,16.0,44.0,Kreuziger Roman,52.0,Tinkoff,9,2016,▼8
+29.0,61.0,15.0,45.0,Mollema Bauke,53.0,Trek - Segafredo,9,2016,▼8
+32.0,198.0,15.0,47.0,Maté Luis Ángel,54.0,"Cofidis, Solutions Crédits",9,2016,▼7
+32.0,55.0,15.0,48.0,Martens Paul,55.0,Team LottoNL-Jumbo,9,2016,▼7
+36.0,63.0,15.0,49.0,Irizar Markel,56.0,Trek - Segafredo,9,2016,▼7
+26.0,212.0,15.0,50.0,Breen Vegard,57.0,Fortuneo - Vital Concept,9,2016,▼7
+25.0,51.0,14.0,51.0,Kelderman Wilco,58.0,Team LottoNL-Jumbo,9,2016,▼7
+28.0,6.0,14.0,52.0,Poels Wout,59.0,Team Sky,9,2016,▼7
+27.0,13.0,14.0,100.0,Anacona Winner,60.0,Movistar Team,9,2016,▲40
+30.0,9.0,13.0,53.0,Thomas Geraint,61.0,Team Sky,9,2016,▼8
+32.0,107.0,13.0,56.0,Pauwels Serge,62.0,Team Dimension Data,9,2016,▼6
+31.0,185.0,13.0,54.0,Martin Tony,63.0,Etixx - Quick Step,9,2016,▼9
+36.0,201.0,13.0,57.0,Gerrans Simon,64.0,ORICA-BikeExchange,9,2016,▼7
+29.0,217.0,13.0,58.0,Périchon Pierre-Luc,65.0,Fortuneo - Vital Concept,9,2016,▼7
+26.0,213.0,13.0,60.0,Delaplace Anthony,66.0,Fortuneo - Vital Concept,9,2016,▼6
+31.0,82.0,13.0,59.0,Breschel Matti,67.0,Cannondale-Drapac Pro Cycling Team,9,2016,▼8
+23.0,47.0,13.0,61.0,Gougeard Alexis,68.0,AG2R La Mondiale,9,2016,▼7
+28.0,16.0,12.0,62.0,Izagirre Gorka,69.0,Movistar Team,9,2016,▼7
+35.0,44.0,12.0,64.0,Dumoulin Samuel,70.0,AG2R La Mondiale,9,2016,▼6
+26.0,11.0,11.0,75.0,Quintana Nairo,71.0,Movistar Team,9,2016,▲4
+27.0,99.0,11.0,65.0,van Garderen Tejay,72.0,BMC Racing Team,9,2016,▼7
+29.0,81.0,11.0,66.0,Rolland Pierre,73.0,Cannondale-Drapac Pro Cycling Team,9,2016,▼7
+30.0,115.0,11.0,67.0,Geschke Simon,74.0,Team Giant - Alpecin,9,2016,▼7
+26.0,21.0,10.0,68.0,Aru Fabio,75.0,Astana Pro Team,9,2016,▼7
+28.0,49.0,9.0,98.0,Vuillermoz Alexis,76.0,AG2R La Mondiale,9,2016,▲22
+26.0,52.0,9.0,,Bennett George,77.0,Team LottoNL-Jumbo,9,2016,-
+28.0,46.0,9.0,70.0,Gautier Cyril,78.0,AG2R La Mondiale,9,2016,▼8
+29.0,73.0,9.0,,Coppel Jérôme,79.0,IAM Cycling,9,2016,-
+24.0,89.0,9.0,71.0,van Baarle Dylan,80.0,Cannondale-Drapac Pro Cycling Team,9,2016,▼9
+31.0,219.0,8.0,72.0,Vachon Florian,81.0,Fortuneo - Vital Concept,9,2016,▼9
+24.0,173.0,8.0,73.0,Duchesne Antoine,82.0,Direct Energie,9,2016,▼9
+26.0,154.0,8.0,74.0,Cimolai Davide,83.0,Lampre - Merida,9,2016,▼9
+24.0,111.0,7.0,76.0,Barguil Warren,84.0,Team Giant - Alpecin,9,2016,▼8
+29.0,71.0,7.0,,Frank Mathias,85.0,IAM Cycling,9,2016,-
+32.0,28.0,7.0,77.0,Sánchez Luis León,86.0,Astana Pro Team,9,2016,▼9
+28.0,194.0,7.0,,Edet Nicolas,87.0,"Cofidis, Solutions Crédits",9,2016,-
+39.0,167.0,7.0,79.0,Henderson Gregory,88.0,Lotto Soudal,9,2016,▼9
+27.0,132.0,7.0,80.0,Archbold Shane,89.0,Bora - Argon 18,9,2016,▼9
+27.0,113.0,6.0,81.0,Degenkolb John,90.0,Team Giant - Alpecin,9,2016,▼9
+26.0,164.0,6.0,82.0,Debusschere Jens,91.0,Lotto Soudal,9,2016,▼9
+23.0,26.0,5.0,83.0,Lutsenko Alexey,92.0,Astana Pro Team,9,2016,▼9
+27.0,57.0,5.0,84.0,Vanmarcke Sep,93.0,Team LottoNL-Jumbo,9,2016,▼9
+26.0,149.0,4.0,85.0,Zakarin Ilnur,94.0,Team Katusha,9,2016,▼9
+24.0,83.0,4.0,86.0,Craddock Lawson,95.0,Cannondale-Drapac Pro Cycling Team,9,2016,▼9
+35.0,105.0,4.0,87.0,Eisel Bernhard,96.0,Team Dimension Data,9,2016,▼9
+24.0,157.0,3.0,88.0,Meintjes Louis,97.0,Lampre - Merida,9,2016,▼9
+27.0,126.0,3.0,89.0,Reichenbach Sébastien,98.0,FDJ,9,2016,▼9
+30.0,42.0,3.0,90.0,Bakelants Jan,99.0,AG2R La Mondiale,9,2016,▼9
+23.0,188.0,3.0,91.0,Vakoč Petr,100.0,Etixx - Quick Step,9,2016,▼9
+28.0,2.0,2.0,92.0,Henao Sergio,101.0,Team Sky,9,2016,▼9
+28.0,142.0,2.0,93.0,Guarnieri Jacopo,102.0,Team Katusha,9,2016,▼9
+32.0,14.0,2.0,94.0,Erviti Imanol,103.0,Movistar Team,9,2016,▼9
+26.0,189.0,2.0,96.0,Vermote Julien,104.0,Etixx - Quick Step,9,2016,▼8
+23.0,131.0,1.0,97.0,Buchmann Emanuel,105.0,Bora - Argon 18,9,2016,▼8
+29.0,103.0,1.0,101.0,Boasson Hagen Edvald,106.0,Team Dimension Data,9,2016,▼5
+36.0,162.0,1.0,102.0,Bak Lars Ytting,107.0,Lotto Soudal,9,2016,▼5
+26.0,32.0,242.0,2.0,Sagan Peter,1.0,Tinkoff,10,2016,▲1
+31.0,101.0,204.0,1.0,Cavendish Mark,2.0,Team Dimension Data,10,2016,▼1
+28.0,181.0,182.0,3.0,Kittel Marcel,3.0,Etixx - Quick Step,10,2016,-
+25.0,207.0,124.0,7.0,Matthews Michael,4.0,ORICA-BikeExchange,10,2016,▲3
+31.0,98.0,112.0,5.0,Van Avermaet Greg,5.0,BMC Racing Team,10,2016,-
+24.0,171.0,112.0,4.0,Coquard Bryan,6.0,Direct Energie,10,2016,▼2
+33.0,161.0,89.0,6.0,Greipel André,7.0,Lotto Soudal,10,2016,▼1
+29.0,144.0,74.0,8.0,Kristoff Alexander,8.0,Team Katusha,10,2016,-
+29.0,163.0,65.0,9.0,De Gendt Thomas,9.0,Lotto Soudal,10,2016,-
+25.0,68.0,64.0,10.0,Theuns Edward,10.0,Trek - Segafredo,10,2016,-
+35.0,104.0,62.0,15.0,Cummings Steve,11.0,Team Dimension Data,10,2016,▲4
+26.0,37.0,60.0,11.0,Majka Rafał,12.0,Tinkoff,10,2016,▼1
+32.0,191.0,58.0,12.0,Navarro Daniel,13.0,"Cofidis, Solutions Crédits",10,2016,▼1
+29.0,184.0,56.0,13.0,Martin Dan,14.0,Etixx - Quick Step,10,2016,▼1
+24.0,182.0,53.0,14.0,Alaphilippe Julian,15.0,Etixx - Quick Step,10,2016,▼1
+31.0,205.0,52.0,27.0,Impey Daryl,16.0,ORICA-BikeExchange,10,2016,▲11
+24.0,216.0,48.0,16.0,McLay Daniel,17.0,Fortuneo - Vital Concept,10,2016,▼1
+31.0,1.0,47.0,17.0,Froome Chris,18.0,Team Sky,10,2016,▼1
+23.0,196.0,40.0,18.0,Laporte Christophe,19.0,"Cofidis, Solutions Crédits",10,2016,▼1
+31.0,133.0,37.0,19.0,Bárta Jan,20.0,Bora - Argon 18,10,2016,▼1
+23.0,53.0,37.0,20.0,Groenewegen Dylan,21.0,Team LottoNL-Jumbo,10,2016,▼1
+37.0,141.0,36.0,21.0,Rodríguez Joaquim,22.0,Team Katusha,10,2016,▼1
+29.0,103.0,36.0,106.0,Boasson Hagen Edvald,23.0,Team Dimension Data,10,2016,▲83
+35.0,44.0,36.0,70.0,Dumoulin Samuel,24.0,AG2R La Mondiale,10,2016,▲46
+36.0,12.0,35.0,22.0,Valverde Alejandro,25.0,Movistar Team,10,2016,▼3
+31.0,22.0,35.0,28.0,Nibali Vincenzo,26.0,Astana Pro Team,10,2016,▲2
+28.0,165.0,35.0,48.0,Gallopin Tony,27.0,Lotto Soudal,10,2016,▲21
+25.0,114.0,34.0,23.0,Dumoulin Tom,28.0,Team Giant - Alpecin,10,2016,▼5
+22.0,75.0,34.0,24.0,Enger Sondre Holst,29.0,IAM Cycling,10,2016,▼5
+24.0,67.0,33.0,25.0,Stuyven Jasper,30.0,Trek - Segafredo,10,2016,▼5
+29.0,151.0,32.0,38.0,Costa Rui,31.0,Lampre - Merida,10,2016,▲7
+23.0,209.0,30.0,26.0,Yates Adam,32.0,ORICA-BikeExchange,10,2016,▼6
+33.0,72.0,28.0,29.0,Clement Stef,33.0,IAM Cycling,10,2016,▼4
+30.0,139.0,28.0,30.0,Voss Paul,34.0,Bora - Argon 18,10,2016,▼4
+28.0,94.0,26.0,,Caruso Damiano,35.0,BMC Racing Team,10,2016,-
+28.0,16.0,26.0,69.0,Izagirre Gorka,36.0,Movistar Team,10,2016,▲33
+31.0,187.0,25.0,31.0,Sabatini Fabio,37.0,Etixx - Quick Step,10,2016,▼6
+35.0,136.0,22.0,32.0,Huzarski Bartosz,38.0,Bora - Argon 18,10,2016,▼6
+25.0,203.0,22.0,,Durbridge Luke,39.0,ORICA-BikeExchange,10,2016,-
+28.0,84.0,22.0,33.0,Howes Alex,40.0,Cannondale-Drapac Pro Cycling Team,10,2016,▼7
+27.0,215.0,20.0,34.0,Fonseca Armindo,41.0,Fortuneo - Vital Concept,10,2016,▼7
+28.0,134.0,20.0,35.0,Benedetti Cesare,42.0,Bora - Argon 18,10,2016,▼7
+32.0,138.0,20.0,36.0,Schillinger Andreas,43.0,Bora - Argon 18,10,2016,▼7
+26.0,77.0,20.0,37.0,Howard Leigh,44.0,IAM Cycling,10,2016,▼7
+33.0,186.0,20.0,39.0,Richeze Maximiliano,45.0,Etixx - Quick Step,10,2016,▼6
+27.0,27.0,19.0,40.0,Rosa Diego,46.0,Astana Pro Team,10,2016,▼6
+28.0,177.0,19.0,41.0,Sicard Romain,47.0,Direct Energie,10,2016,▼6
+31.0,91.0,18.0,42.0,Porte Richie,48.0,BMC Racing Team,10,2016,▼6
+25.0,15.0,18.0,43.0,Herrada Jesús,49.0,Movistar Team,10,2016,▼6
+25.0,41.0,17.0,44.0,Bardet Romain,50.0,AG2R La Mondiale,10,2016,▼6
+26.0,121.0,17.0,45.0,Pinot Thibaut,51.0,FDJ,10,2016,▼6
+32.0,24.0,17.0,46.0,Grivko Andrey,52.0,Astana Pro Team,10,2016,▼6
+30.0,43.0,17.0,47.0,Cherel Mickaël,53.0,AG2R La Mondiale,10,2016,▼6
+25.0,78.0,17.0,49.0,Naesen Oliver,54.0,IAM Cycling,10,2016,▼5
+37.0,179.0,17.0,50.0,Voeckler Thomas,55.0,Direct Energie,10,2016,▼5
+31.0,152.0,17.0,51.0,Arashiro Yukiya,56.0,Lampre - Merida,10,2016,▼5
+30.0,36.0,16.0,52.0,Kreuziger Roman,57.0,Tinkoff,10,2016,▼5
+29.0,61.0,15.0,53.0,Mollema Bauke,58.0,Trek - Segafredo,10,2016,▼5
+32.0,198.0,15.0,54.0,Maté Luis Ángel,59.0,"Cofidis, Solutions Crédits",10,2016,▼5
+32.0,55.0,15.0,55.0,Martens Paul,60.0,Team LottoNL-Jumbo,10,2016,▼5
+36.0,63.0,15.0,56.0,Irizar Markel,61.0,Trek - Segafredo,10,2016,▼5
+26.0,212.0,15.0,57.0,Breen Vegard,62.0,Fortuneo - Vital Concept,10,2016,▼5
+25.0,51.0,14.0,58.0,Kelderman Wilco,63.0,Team LottoNL-Jumbo,10,2016,▼5
+28.0,6.0,14.0,59.0,Poels Wout,64.0,Team Sky,10,2016,▼5
+27.0,13.0,14.0,60.0,Anacona Winner,65.0,Movistar Team,10,2016,▼5
+30.0,9.0,13.0,61.0,Thomas Geraint,66.0,Team Sky,10,2016,▼5
+32.0,107.0,13.0,62.0,Pauwels Serge,67.0,Team Dimension Data,10,2016,▼5
+31.0,185.0,13.0,63.0,Martin Tony,68.0,Etixx - Quick Step,10,2016,▼5
+36.0,201.0,13.0,64.0,Gerrans Simon,69.0,ORICA-BikeExchange,10,2016,▼5
+29.0,217.0,13.0,65.0,Périchon Pierre-Luc,70.0,Fortuneo - Vital Concept,10,2016,▼5
+26.0,213.0,13.0,66.0,Delaplace Anthony,71.0,Fortuneo - Vital Concept,10,2016,▼5
+31.0,82.0,13.0,67.0,Breschel Matti,72.0,Cannondale-Drapac Pro Cycling Team,10,2016,▼5
+23.0,47.0,13.0,68.0,Gougeard Alexis,73.0,AG2R La Mondiale,10,2016,▼5
+26.0,11.0,11.0,71.0,Quintana Nairo,74.0,Movistar Team,10,2016,▼3
+27.0,99.0,11.0,72.0,van Garderen Tejay,75.0,BMC Racing Team,10,2016,▼3
+29.0,81.0,11.0,73.0,Rolland Pierre,76.0,Cannondale-Drapac Pro Cycling Team,10,2016,▼3
+30.0,115.0,11.0,74.0,Geschke Simon,77.0,Team Giant - Alpecin,10,2016,▼3
+26.0,21.0,10.0,75.0,Aru Fabio,78.0,Astana Pro Team,10,2016,▼3
+28.0,49.0,9.0,76.0,Vuillermoz Alexis,79.0,AG2R La Mondiale,10,2016,▼3
+26.0,52.0,9.0,77.0,Bennett George,80.0,Team LottoNL-Jumbo,10,2016,▼3
+28.0,46.0,9.0,78.0,Gautier Cyril,81.0,AG2R La Mondiale,10,2016,▼3
+29.0,73.0,9.0,79.0,Coppel Jérôme,82.0,IAM Cycling,10,2016,▼3
+24.0,89.0,9.0,80.0,van Baarle Dylan,83.0,Cannondale-Drapac Pro Cycling Team,10,2016,▼3
+31.0,219.0,8.0,81.0,Vachon Florian,84.0,Fortuneo - Vital Concept,10,2016,▼3
+24.0,173.0,8.0,82.0,Duchesne Antoine,85.0,Direct Energie,10,2016,▼3
+26.0,154.0,8.0,83.0,Cimolai Davide,86.0,Lampre - Merida,10,2016,▼3
+24.0,111.0,7.0,84.0,Barguil Warren,87.0,Team Giant - Alpecin,10,2016,▼3
+29.0,71.0,7.0,85.0,Frank Mathias,88.0,IAM Cycling,10,2016,▼3
+32.0,28.0,7.0,86.0,Sánchez Luis León,89.0,Astana Pro Team,10,2016,▼3
+28.0,194.0,7.0,87.0,Edet Nicolas,90.0,"Cofidis, Solutions Crédits",10,2016,▼3
+39.0,167.0,7.0,88.0,Henderson Gregory,91.0,Lotto Soudal,10,2016,▼3
+27.0,132.0,7.0,89.0,Archbold Shane,92.0,Bora - Argon 18,10,2016,▼3
+26.0,4.0,6.0,,Landa Mikel,93.0,Team Sky,10,2016,-
+37.0,172.0,6.0,,Chavanel Sylvain,94.0,Direct Energie,10,2016,-
+27.0,113.0,6.0,90.0,Degenkolb John,95.0,Team Giant - Alpecin,10,2016,▼5
+26.0,164.0,6.0,91.0,Debusschere Jens,96.0,Lotto Soudal,10,2016,▼5
+23.0,26.0,5.0,92.0,Lutsenko Alexey,97.0,Astana Pro Team,10,2016,▼5
+27.0,57.0,5.0,93.0,Vanmarcke Sep,98.0,Team LottoNL-Jumbo,10,2016,▼5
+26.0,149.0,4.0,94.0,Zakarin Ilnur,99.0,Team Katusha,10,2016,▼5
+24.0,83.0,4.0,95.0,Craddock Lawson,100.0,Cannondale-Drapac Pro Cycling Team,10,2016,▼5
+35.0,105.0,4.0,96.0,Eisel Bernhard,101.0,Team Dimension Data,10,2016,▼5
+24.0,157.0,3.0,97.0,Meintjes Louis,102.0,Lampre - Merida,10,2016,▼5
+27.0,126.0,3.0,98.0,Reichenbach Sébastien,103.0,FDJ,10,2016,▼5
+30.0,42.0,3.0,99.0,Bakelants Jan,104.0,AG2R La Mondiale,10,2016,▼5
+24.0,188.0,3.0,100.0,Vakoč Petr,105.0,Etixx - Quick Step,10,2016,▼5
+28.0,2.0,2.0,101.0,Henao Sergio,106.0,Team Sky,10,2016,▼5
+28.0,142.0,2.0,102.0,Guarnieri Jacopo,107.0,Team Katusha,10,2016,▼5
+32.0,14.0,2.0,103.0,Erviti Imanol,108.0,Movistar Team,10,2016,▼5
+26.0,189.0,2.0,104.0,Vermote Julien,109.0,Etixx - Quick Step,10,2016,▼5
+23.0,131.0,1.0,105.0,Buchmann Emanuel,110.0,Bora - Argon 18,10,2016,▼5
+36.0,162.0,1.0,107.0,Bak Lars Ytting,111.0,Lotto Soudal,10,2016,▼4
+26.0,32.0,309.0,1.0,Sagan Peter,1.0,Tinkoff,11,2016,-
+31.0,101.0,219.0,2.0,Cavendish Mark,2.0,Team Dimension Data,11,2016,-
+28.0,181.0,202.0,3.0,Kittel Marcel,3.0,Etixx - Quick Step,11,2016,-
+25.0,207.0,124.0,4.0,Matthews Michael,4.0,ORICA-BikeExchange,11,2016,-
+31.0,98.0,112.0,5.0,Van Avermaet Greg,5.0,BMC Racing Team,11,2016,-
+24.0,171.0,112.0,6.0,Coquard Bryan,6.0,Direct Energie,11,2016,-
+33.0,161.0,99.0,7.0,Greipel André,7.0,Lotto Soudal,11,2016,-
+29.0,144.0,92.0,8.0,Kristoff Alexander,8.0,Team Katusha,11,2016,-
+31.0,1.0,77.0,18.0,Froome Chris,9.0,Team Sky,11,2016,▲9
+29.0,163.0,65.0,9.0,De Gendt Thomas,10.0,Lotto Soudal,11,2016,▼1
+25.0,68.0,64.0,10.0,Theuns Edward,11.0,Trek - Segafredo,11,2016,▼1
+35.0,104.0,62.0,11.0,Cummings Steve,12.0,Team Dimension Data,11,2016,▼1
+26.0,37.0,60.0,12.0,Majka Rafał,13.0,Tinkoff,11,2016,▼1
+32.0,191.0,58.0,13.0,Navarro Daniel,14.0,"Cofidis, Solutions Crédits",11,2016,▼1
+29.0,184.0,56.0,14.0,Martin Dan,15.0,Etixx - Quick Step,11,2016,▼1
+23.0,196.0,56.0,19.0,Laporte Christophe,16.0,"Cofidis, Solutions Crédits",11,2016,▲3
+24.0,182.0,53.0,15.0,Alaphilippe Julian,17.0,Etixx - Quick Step,11,2016,▼2
+31.0,205.0,52.0,16.0,Impey Daryl,18.0,ORICA-BikeExchange,11,2016,▼2
+24.0,216.0,51.0,17.0,McLay Daniel,19.0,Fortuneo - Vital Concept,11,2016,▼2
+29.0,103.0,48.0,23.0,Boasson Hagen Edvald,20.0,Team Dimension Data,11,2016,▲3
+24.0,67.0,47.0,30.0,Stuyven Jasper,21.0,Trek - Segafredo,11,2016,▲9
+22.0,75.0,42.0,29.0,Enger Sondre Holst,22.0,IAM Cycling,11,2016,▲7
+23.0,53.0,41.0,21.0,Groenewegen Dylan,23.0,Team LottoNL-Jumbo,11,2016,▼2
+31.0,187.0,38.0,37.0,Sabatini Fabio,24.0,Etixx - Quick Step,11,2016,▲13
+36.0,12.0,38.0,25.0,Valverde Alejandro,25.0,Movistar Team,11,2016,-
+31.0,133.0,37.0,20.0,Bárta Jan,26.0,Bora - Argon 18,11,2016,▼6
+35.0,44.0,36.0,24.0,Dumoulin Samuel,27.0,AG2R La Mondiale,11,2016,▼3
+37.0,141.0,36.0,22.0,Rodríguez Joaquim,28.0,Team Katusha,11,2016,▼6
+28.0,165.0,35.0,27.0,Gallopin Tony,29.0,Lotto Soudal,11,2016,▼2
+31.0,22.0,35.0,26.0,Nibali Vincenzo,30.0,Astana Pro Team,11,2016,▼4
+25.0,114.0,34.0,28.0,Dumoulin Tom,31.0,Team Giant - Alpecin,11,2016,▼3
+29.0,151.0,32.0,31.0,Costa Rui,32.0,Lampre - Merida,11,2016,▼1
+23.0,209.0,32.0,32.0,Yates Adam,33.0,ORICA-BikeExchange,11,2016,▼1
+33.0,186.0,31.0,45.0,Richeze Maximiliano,34.0,Etixx - Quick Step,11,2016,▲11
+33.0,72.0,28.0,33.0,Clement Stef,35.0,IAM Cycling,11,2016,▼2
+30.0,139.0,28.0,34.0,Voss Paul,36.0,Bora - Argon 18,11,2016,▼2
+28.0,16.0,27.0,36.0,Izagirre Gorka,37.0,Movistar Team,11,2016,▼1
+25.0,203.0,26.0,39.0,Durbridge Luke,38.0,ORICA-BikeExchange,11,2016,▲1
+28.0,94.0,26.0,35.0,Caruso Damiano,39.0,BMC Racing Team,11,2016,▼4
+30.0,36.0,24.0,57.0,Kreuziger Roman,40.0,Tinkoff,11,2016,▲17
+25.0,78.0,24.0,54.0,Naesen Oliver,41.0,IAM Cycling,11,2016,▲13
+28.0,84.0,22.0,40.0,Howes Alex,42.0,Cannondale-Drapac Pro Cycling Team,11,2016,▼2
+35.0,136.0,22.0,38.0,Huzarski Bartosz,43.0,Bora - Argon 18,11,2016,▼5
+28.0,134.0,20.0,42.0,Benedetti Cesare,44.0,Bora - Argon 18,11,2016,▼2
+27.0,215.0,20.0,41.0,Fonseca Armindo,45.0,Fortuneo - Vital Concept,11,2016,▼4
+33.0,138.0,20.0,43.0,Schillinger Andreas,46.0,Bora - Argon 18,11,2016,▼3
+26.0,77.0,20.0,44.0,Howard Leigh,47.0,IAM Cycling,11,2016,▼3
+31.0,33.0,20.0,,Bodnar Maciej,48.0,Tinkoff,11,2016,-
+27.0,27.0,19.0,46.0,Rosa Diego,49.0,Astana Pro Team,11,2016,▼3
+28.0,177.0,19.0,47.0,Sicard Romain,50.0,Direct Energie,11,2016,▼3
+31.0,91.0,18.0,48.0,Porte Richie,51.0,BMC Racing Team,11,2016,▼3
+26.0,11.0,18.0,74.0,Quintana Nairo,52.0,Movistar Team,11,2016,▲22
+25.0,15.0,18.0,49.0,Herrada Jesús,53.0,Movistar Team,11,2016,▼4
+30.0,43.0,17.0,53.0,Cherel Mickaël,54.0,AG2R La Mondiale,11,2016,▼1
+31.0,152.0,17.0,56.0,Arashiro Yukiya,55.0,Lampre - Merida,11,2016,▲1
+25.0,41.0,17.0,50.0,Bardet Romain,56.0,AG2R La Mondiale,11,2016,▼6
+32.0,24.0,17.0,52.0,Grivko Andrey,57.0,Astana Pro Team,11,2016,▼5
+26.0,121.0,17.0,51.0,Pinot Thibaut,58.0,FDJ,11,2016,▼7
+37.0,179.0,17.0,55.0,Voeckler Thomas,59.0,Direct Energie,11,2016,▼4
+29.0,61.0,15.0,58.0,Mollema Bauke,60.0,Trek - Segafredo,11,2016,▼2
+36.0,63.0,15.0,61.0,Irizar Markel,61.0,Trek - Segafredo,11,2016,-
+32.0,198.0,15.0,59.0,Maté Luis Ángel,62.0,"Cofidis, Solutions Crédits",11,2016,▼3
+26.0,212.0,15.0,62.0,Breen Vegard,63.0,Fortuneo - Vital Concept,11,2016,▼1
+32.0,55.0,15.0,60.0,Martens Paul,64.0,Team LottoNL-Jumbo,11,2016,▼4
+25.0,51.0,14.0,63.0,Kelderman Wilco,65.0,Team LottoNL-Jumbo,11,2016,▼2
+27.0,13.0,14.0,65.0,Anacona Winner,66.0,Movistar Team,11,2016,▼1
+28.0,6.0,14.0,64.0,Poels Wout,67.0,Team Sky,11,2016,▼3
+31.0,185.0,13.0,68.0,Martin Tony,68.0,Etixx - Quick Step,11,2016,-
+30.0,9.0,13.0,66.0,Thomas Geraint,69.0,Team Sky,11,2016,▼3
+36.0,201.0,13.0,69.0,Gerrans Simon,70.0,ORICA-BikeExchange,11,2016,▼1
+29.0,217.0,13.0,70.0,Périchon Pierre-Luc,71.0,Fortuneo - Vital Concept,11,2016,▼1
+26.0,213.0,13.0,71.0,Delaplace Anthony,72.0,Fortuneo - Vital Concept,11,2016,▼1
+32.0,107.0,13.0,67.0,Pauwels Serge,73.0,Team Dimension Data,11,2016,▼6
+23.0,47.0,13.0,73.0,Gougeard Alexis,74.0,AG2R La Mondiale,11,2016,▼1
+31.0,82.0,13.0,72.0,Breschel Matti,75.0,Cannondale-Drapac Pro Cycling Team,11,2016,▼3
+29.0,81.0,11.0,76.0,Rolland Pierre,76.0,Cannondale-Drapac Pro Cycling Team,11,2016,-
+27.0,99.0,11.0,75.0,van Garderen Tejay,77.0,BMC Racing Team,11,2016,▼2
+30.0,115.0,11.0,77.0,Geschke Simon,78.0,Team Giant - Alpecin,11,2016,▼1
+27.0,113.0,11.0,95.0,Degenkolb John,79.0,Team Giant - Alpecin,11,2016,▲16
+24.0,39.0,10.0,,Valgren Michael,80.0,Tinkoff,11,2016,-
+26.0,21.0,10.0,78.0,Aru Fabio,81.0,Astana Pro Team,11,2016,▼3
+24.0,89.0,9.0,83.0,van Baarle Dylan,82.0,Cannondale-Drapac Pro Cycling Team,11,2016,▲1
+28.0,46.0,9.0,81.0,Gautier Cyril,83.0,AG2R La Mondiale,11,2016,▼2
+28.0,49.0,9.0,79.0,Vuillermoz Alexis,84.0,AG2R La Mondiale,11,2016,▼5
+29.0,73.0,9.0,82.0,Coppel Jérôme,85.0,IAM Cycling,11,2016,▼3
+33.0,183.0,9.0,,Keisse Iljo,86.0,Etixx - Quick Step,11,2016,-
+26.0,52.0,9.0,80.0,Bennett George,87.0,Team LottoNL-Jumbo,11,2016,▼7
+31.0,219.0,8.0,84.0,Vachon Florian,88.0,Fortuneo - Vital Concept,11,2016,▼4
+24.0,173.0,8.0,85.0,Duchesne Antoine,89.0,Direct Energie,11,2016,▼4
+26.0,154.0,8.0,86.0,Cimolai Davide,90.0,Lampre - Merida,11,2016,▼4
+24.0,111.0,7.0,87.0,Barguil Warren,91.0,Team Giant - Alpecin,11,2016,▼4
+32.0,28.0,7.0,89.0,Sánchez Luis León,92.0,Astana Pro Team,11,2016,▼3
+28.0,194.0,7.0,90.0,Edet Nicolas,93.0,"Cofidis, Solutions Crédits",11,2016,▼3
+29.0,71.0,7.0,88.0,Frank Mathias,94.0,IAM Cycling,11,2016,▼6
+39.0,167.0,7.0,91.0,Henderson Gregory,95.0,Lotto Soudal,11,2016,▼4
+28.0,142.0,7.0,107.0,Guarnieri Jacopo,96.0,Team Katusha,11,2016,▲11
+27.0,132.0,7.0,92.0,Archbold Shane,97.0,Bora - Argon 18,11,2016,▼5
+37.0,172.0,6.0,94.0,Chavanel Sylvain,98.0,Direct Energie,11,2016,▼4
+26.0,4.0,6.0,93.0,Landa Mikel,99.0,Team Sky,11,2016,▼6
+29.0,8.0,6.0,,Stannard Ian,100.0,Team Sky,11,2016,-
+27.0,106.0,6.0,,Janse van Rensburg Reinardt,101.0,Team Dimension Data,11,2016,-
+26.0,164.0,6.0,96.0,Debusschere Jens,102.0,Lotto Soudal,11,2016,▼6
+27.0,57.0,5.0,98.0,Vanmarcke Sep,103.0,Team LottoNL-Jumbo,11,2016,▼5
+23.0,26.0,5.0,97.0,Lutsenko Alexey,104.0,Astana Pro Team,11,2016,▼7
+24.0,83.0,4.0,100.0,Craddock Lawson,105.0,Cannondale-Drapac Pro Cycling Team,11,2016,▼5
+26.0,149.0,4.0,99.0,Zakarin Ilnur,106.0,Team Katusha,11,2016,▼7
+35.0,105.0,4.0,101.0,Eisel Bernhard,107.0,Team Dimension Data,11,2016,▼6
+24.0,157.0,3.0,102.0,Meintjes Louis,108.0,Lampre - Merida,11,2016,▼6
+27.0,126.0,3.0,103.0,Reichenbach Sébastien,109.0,FDJ,11,2016,▼6
+24.0,188.0,3.0,105.0,Vakoč Petr,110.0,Etixx - Quick Step,11,2016,▼5
+30.0,42.0,3.0,104.0,Bakelants Jan,111.0,AG2R La Mondiale,11,2016,▼7
+26.0,7.0,2.0,,Rowe Luke,112.0,Team Sky,11,2016,-
+32.0,14.0,2.0,108.0,Erviti Imanol,113.0,Movistar Team,11,2016,▼5
+28.0,2.0,2.0,106.0,Henao Sergio,114.0,Team Sky,11,2016,▼8
+26.0,189.0,2.0,109.0,Vermote Julien,115.0,Etixx - Quick Step,11,2016,▼6
+23.0,131.0,1.0,110.0,Buchmann Emanuel,116.0,Bora - Argon 18,11,2016,▼6
+36.0,162.0,1.0,111.0,Bak Lars Ytting,117.0,Lotto Soudal,11,2016,▼6
+26.0,32.0,309.0,1.0,Sagan Peter,1.0,Tinkoff,12,2016,-
+31.0,101.0,219.0,2.0,Cavendish Mark,2.0,Team Dimension Data,12,2016,-
+28.0,181.0,202.0,3.0,Kittel Marcel,3.0,Etixx - Quick Step,12,2016,-
+24.0,171.0,125.0,6.0,Coquard Bryan,4.0,Direct Energie,12,2016,▲2
+25.0,207.0,124.0,4.0,Matthews Michael,5.0,ORICA-BikeExchange,12,2016,▼1
+33.0,161.0,114.0,7.0,Greipel André,6.0,Lotto Soudal,12,2016,▲1
+31.0,98.0,112.0,5.0,Van Avermaet Greg,7.0,BMC Racing Team,12,2016,▼2
+29.0,163.0,106.0,10.0,De Gendt Thomas,8.0,Lotto Soudal,12,2016,▲2
+29.0,144.0,92.0,8.0,Kristoff Alexander,9.0,Team Katusha,12,2016,▼1
+32.0,191.0,90.0,14.0,Navarro Daniel,10.0,"Cofidis, Solutions Crédits",12,2016,▲4
+31.0,1.0,77.0,9.0,Froome Chris,11.0,Team Sky,12,2016,▼2
+25.0,68.0,64.0,11.0,Theuns Edward,12.0,Trek - Segafredo,12,2016,▼1
+35.0,104.0,62.0,12.0,Cummings Steve,13.0,Team Dimension Data,12,2016,▼1
+26.0,37.0,60.0,13.0,Majka Rafał,14.0,Tinkoff,12,2016,▼1
+29.0,184.0,56.0,15.0,Martin Dan,15.0,Etixx - Quick Step,12,2016,-
+23.0,196.0,56.0,16.0,Laporte Christophe,16.0,"Cofidis, Solutions Crédits",12,2016,-
+24.0,182.0,53.0,17.0,Alaphilippe Julian,17.0,Etixx - Quick Step,12,2016,-
+31.0,205.0,52.0,18.0,Impey Daryl,18.0,ORICA-BikeExchange,12,2016,-
+33.0,72.0,51.0,35.0,Clement Stef,19.0,IAM Cycling,12,2016,▲16
+24.0,216.0,51.0,19.0,McLay Daniel,20.0,Fortuneo - Vital Concept,12,2016,▼1
+29.0,103.0,48.0,20.0,Boasson Hagen Edvald,21.0,Team Dimension Data,12,2016,▼1
+24.0,67.0,47.0,21.0,Stuyven Jasper,22.0,Trek - Segafredo,12,2016,▼1
+32.0,107.0,46.0,73.0,Pauwels Serge,23.0,Team Dimension Data,12,2016,▲50
+22.0,75.0,42.0,22.0,Enger Sondre Holst,24.0,IAM Cycling,12,2016,▼2
+23.0,53.0,41.0,23.0,Groenewegen Dylan,25.0,Team LottoNL-Jumbo,12,2016,▼2
+23.0,209.0,38.0,33.0,Yates Adam,26.0,ORICA-BikeExchange,12,2016,▲7
+36.0,12.0,38.0,25.0,Valverde Alejandro,27.0,Movistar Team,12,2016,▼2
+37.0,141.0,38.0,28.0,Rodríguez Joaquim,28.0,Team Katusha,12,2016,-
+31.0,187.0,38.0,24.0,Sabatini Fabio,29.0,Etixx - Quick Step,12,2016,▼5
+31.0,133.0,37.0,26.0,Bárta Jan,30.0,Bora - Argon 18,12,2016,▼4
+35.0,44.0,36.0,27.0,Dumoulin Samuel,31.0,AG2R La Mondiale,12,2016,▼4
+31.0,22.0,35.0,30.0,Nibali Vincenzo,32.0,Astana Pro Team,12,2016,▼2
+28.0,165.0,35.0,29.0,Gallopin Tony,33.0,Lotto Soudal,12,2016,▼4
+25.0,114.0,34.0,31.0,Dumoulin Tom,34.0,Team Giant - Alpecin,12,2016,▼3
+29.0,151.0,32.0,32.0,Costa Rui,35.0,Lampre - Merida,12,2016,▼3
+27.0,54.0,32.0,,Lindeman Bert-Jan,36.0,Team LottoNL-Jumbo,12,2016,-
+33.0,186.0,31.0,34.0,Richeze Maximiliano,37.0,Etixx - Quick Step,12,2016,▼3
+33.0,183.0,29.0,86.0,Keisse Iljo,38.0,Etixx - Quick Step,12,2016,▲48
+37.0,172.0,29.0,98.0,Chavanel Sylvain,39.0,Direct Energie,12,2016,▲59
+30.0,139.0,29.0,36.0,Voss Paul,40.0,Bora - Argon 18,12,2016,▼4
+28.0,16.0,27.0,37.0,Izagirre Gorka,41.0,Movistar Team,12,2016,▼4
+28.0,94.0,26.0,39.0,Caruso Damiano,42.0,BMC Racing Team,12,2016,▼3
+25.0,203.0,26.0,38.0,Durbridge Luke,43.0,ORICA-BikeExchange,12,2016,▼5
+30.0,36.0,24.0,40.0,Kreuziger Roman,44.0,Tinkoff,12,2016,▼4
+25.0,78.0,24.0,41.0,Naesen Oliver,45.0,IAM Cycling,12,2016,▼4
+29.0,61.0,22.0,60.0,Mollema Bauke,46.0,Trek - Segafredo,12,2016,▲14
+35.0,136.0,22.0,43.0,Huzarski Bartosz,47.0,Bora - Argon 18,12,2016,▼4
+27.0,109.0,22.0,,Teklehaimanot Daniel,48.0,Team Dimension Data,12,2016,-
+28.0,84.0,22.0,42.0,Howes Alex,49.0,Cannondale-Drapac Pro Cycling Team,12,2016,▼7
+27.0,215.0,20.0,45.0,Fonseca Armindo,50.0,Fortuneo - Vital Concept,12,2016,▼5
+28.0,134.0,20.0,44.0,Benedetti Cesare,51.0,Bora - Argon 18,12,2016,▼7
+33.0,138.0,20.0,46.0,Schillinger Andreas,52.0,Bora - Argon 18,12,2016,▼6
+26.0,77.0,20.0,47.0,Howard Leigh,53.0,IAM Cycling,12,2016,▼6
+25.0,41.0,20.0,56.0,Bardet Romain,54.0,AG2R La Mondiale,12,2016,▲2
+31.0,33.0,20.0,48.0,Bodnar Maciej,55.0,Tinkoff,12,2016,▼7
+27.0,27.0,19.0,49.0,Rosa Diego,56.0,Astana Pro Team,12,2016,▼7
+28.0,177.0,19.0,50.0,Sicard Romain,57.0,Direct Energie,12,2016,▼7
+27.0,57.0,19.0,103.0,Vanmarcke Sep,58.0,Team LottoNL-Jumbo,12,2016,▲45
+26.0,11.0,18.0,52.0,Quintana Nairo,59.0,Movistar Team,12,2016,▼7
+31.0,91.0,18.0,51.0,Porte Richie,60.0,BMC Racing Team,12,2016,▼9
+25.0,15.0,18.0,53.0,Herrada Jesús,61.0,Movistar Team,12,2016,▼8
+26.0,121.0,17.0,58.0,Pinot Thibaut,62.0,FDJ,12,2016,▼4
+30.0,43.0,17.0,54.0,Cherel Mickaël,63.0,AG2R La Mondiale,12,2016,▼9
+32.0,24.0,17.0,57.0,Grivko Andrey,64.0,Astana Pro Team,12,2016,▼7
+37.0,179.0,17.0,59.0,Voeckler Thomas,65.0,Direct Energie,12,2016,▼6
+31.0,152.0,17.0,55.0,Arashiro Yukiya,66.0,Lampre - Merida,12,2016,▼11
+26.0,21.0,15.0,81.0,Aru Fabio,67.0,Astana Pro Team,12,2016,▲14
+32.0,198.0,15.0,62.0,Maté Luis Ángel,68.0,"Cofidis, Solutions Crédits",12,2016,▼6
+32.0,55.0,15.0,64.0,Martens Paul,69.0,Team LottoNL-Jumbo,12,2016,▼5
+36.0,63.0,15.0,61.0,Irizar Markel,70.0,Trek - Segafredo,12,2016,▼9
+26.0,212.0,15.0,63.0,Breen Vegard,71.0,Fortuneo - Vital Concept,12,2016,▼8
+25.0,51.0,14.0,65.0,Kelderman Wilco,72.0,Team LottoNL-Jumbo,12,2016,▼7
+28.0,6.0,14.0,67.0,Poels Wout,73.0,Team Sky,12,2016,▼6
+31.0,218.0,14.0,,Sørensen Chris Anker,74.0,Fortuneo - Vital Concept,12,2016,-
+27.0,13.0,14.0,66.0,Anacona Winner,75.0,Movistar Team,12,2016,▼9
+30.0,9.0,13.0,69.0,Thomas Geraint,76.0,Team Sky,12,2016,▼7
+31.0,185.0,13.0,68.0,Martin Tony,77.0,Etixx - Quick Step,12,2016,▼9
+26.0,213.0,13.0,72.0,Delaplace Anthony,78.0,Fortuneo - Vital Concept,12,2016,▼6
+36.0,201.0,13.0,70.0,Gerrans Simon,79.0,ORICA-BikeExchange,12,2016,▼9
+29.0,217.0,13.0,71.0,Périchon Pierre-Luc,80.0,Fortuneo - Vital Concept,12,2016,▼9
+31.0,82.0,13.0,75.0,Breschel Matti,81.0,Cannondale-Drapac Pro Cycling Team,12,2016,▼6
+23.0,47.0,13.0,74.0,Gougeard Alexis,82.0,AG2R La Mondiale,12,2016,▼8
+27.0,99.0,11.0,77.0,van Garderen Tejay,83.0,BMC Racing Team,12,2016,▼6
+29.0,81.0,11.0,76.0,Rolland Pierre,84.0,Cannondale-Drapac Pro Cycling Team,12,2016,▼8
+30.0,115.0,11.0,78.0,Geschke Simon,85.0,Team Giant - Alpecin,12,2016,▼7
+28.0,46.0,11.0,83.0,Gautier Cyril,86.0,AG2R La Mondiale,12,2016,▼3
+27.0,113.0,11.0,79.0,Degenkolb John,87.0,Team Giant - Alpecin,12,2016,▼8
+24.0,39.0,10.0,80.0,Valgren Michael,88.0,Tinkoff,12,2016,▼8
+28.0,49.0,9.0,84.0,Vuillermoz Alexis,89.0,AG2R La Mondiale,12,2016,▼5
+26.0,52.0,9.0,87.0,Bennett George,90.0,Team LottoNL-Jumbo,12,2016,▼3
+29.0,73.0,9.0,85.0,Coppel Jérôme,91.0,IAM Cycling,12,2016,▼6
+24.0,89.0,9.0,82.0,van Baarle Dylan,92.0,Cannondale-Drapac Pro Cycling Team,12,2016,▼10
+31.0,219.0,8.0,88.0,Vachon Florian,93.0,Fortuneo - Vital Concept,12,2016,▼5
+24.0,173.0,8.0,89.0,Duchesne Antoine,94.0,Direct Energie,12,2016,▼5
+26.0,154.0,8.0,90.0,Cimolai Davide,95.0,Lampre - Merida,12,2016,▼5
+24.0,157.0,7.0,108.0,Meintjes Louis,96.0,Lampre - Merida,12,2016,▲12
+24.0,111.0,7.0,91.0,Barguil Warren,97.0,Team Giant - Alpecin,12,2016,▼6
+29.0,71.0,7.0,94.0,Frank Mathias,98.0,IAM Cycling,12,2016,▼4
+32.0,28.0,7.0,92.0,Sánchez Luis León,99.0,Astana Pro Team,12,2016,▼7
+28.0,194.0,7.0,93.0,Edet Nicolas,100.0,"Cofidis, Solutions Crédits",12,2016,▼7
+33.0,197.0,7.0,,Lemoine Cyril,101.0,"Cofidis, Solutions Crédits",12,2016,-
+39.0,167.0,7.0,95.0,Henderson Gregory,102.0,Lotto Soudal,12,2016,▼7
+28.0,142.0,7.0,96.0,Guarnieri Jacopo,103.0,Team Katusha,12,2016,▼7
+27.0,132.0,7.0,97.0,Archbold Shane,104.0,Bora - Argon 18,12,2016,▼7
+26.0,4.0,6.0,99.0,Landa Mikel,105.0,Team Sky,12,2016,▼6
+27.0,106.0,6.0,101.0,Janse van Rensburg Reinardt,106.0,Team Dimension Data,12,2016,▼5
+26.0,164.0,6.0,102.0,Debusschere Jens,107.0,Lotto Soudal,12,2016,▼5
+29.0,8.0,6.0,100.0,Stannard Ian,108.0,Team Sky,12,2016,▼8
+23.0,26.0,5.0,104.0,Lutsenko Alexey,109.0,Astana Pro Team,12,2016,▼5
+26.0,149.0,4.0,106.0,Zakarin Ilnur,110.0,Team Katusha,12,2016,▼4
+24.0,83.0,4.0,105.0,Craddock Lawson,111.0,Cannondale-Drapac Pro Cycling Team,12,2016,▼6
+35.0,105.0,4.0,107.0,Eisel Bernhard,112.0,Team Dimension Data,12,2016,▼5
+27.0,126.0,3.0,109.0,Reichenbach Sébastien,113.0,FDJ,12,2016,▼4
+30.0,42.0,3.0,111.0,Bakelants Jan,114.0,AG2R La Mondiale,12,2016,▼3
+24.0,188.0,3.0,110.0,Vakoč Petr,115.0,Etixx - Quick Step,12,2016,▼5
+28.0,2.0,2.0,114.0,Henao Sergio,116.0,Team Sky,12,2016,▼2
+26.0,189.0,2.0,115.0,Vermote Julien,117.0,Etixx - Quick Step,12,2016,▼2
+32.0,14.0,2.0,113.0,Erviti Imanol,118.0,Movistar Team,12,2016,▼5
+26.0,7.0,2.0,112.0,Rowe Luke,119.0,Team Sky,12,2016,▼7
+23.0,131.0,1.0,116.0,Buchmann Emanuel,120.0,Bora - Argon 18,12,2016,▼4
+36.0,162.0,1.0,117.0,Bak Lars Ytting,121.0,Lotto Soudal,12,2016,▼4
+26.0,32.0,309.0,1.0,Sagan Peter,1.0,Tinkoff,13,2016,-
+31.0,101.0,219.0,2.0,Cavendish Mark,2.0,Team Dimension Data,13,2016,-
+28.0,181.0,202.0,3.0,Kittel Marcel,3.0,Etixx - Quick Step,13,2016,-
+24.0,171.0,125.0,4.0,Coquard Bryan,4.0,Direct Energie,13,2016,-
+25.0,207.0,124.0,5.0,Matthews Michael,5.0,ORICA-BikeExchange,13,2016,-
+33.0,161.0,114.0,6.0,Greipel André,6.0,Lotto Soudal,13,2016,-
+31.0,98.0,112.0,7.0,Van Avermaet Greg,7.0,BMC Racing Team,13,2016,-
+29.0,163.0,106.0,8.0,De Gendt Thomas,8.0,Lotto Soudal,13,2016,-
+31.0,1.0,94.0,11.0,Froome Chris,9.0,Team Sky,13,2016,▲2
+29.0,144.0,92.0,9.0,Kristoff Alexander,10.0,Team Katusha,13,2016,▼1
+32.0,191.0,90.0,10.0,Navarro Daniel,11.0,"Cofidis, Solutions Crédits",13,2016,▼1
+35.0,104.0,68.0,13.0,Cummings Steve,12.0,Team Dimension Data,13,2016,▲1
+26.0,37.0,60.0,14.0,Majka Rafał,13.0,Tinkoff,13,2016,▲1
+29.0,184.0,56.0,15.0,Martin Dan,14.0,Etixx - Quick Step,13,2016,▲1
+23.0,196.0,56.0,16.0,Laporte Christophe,15.0,"Cofidis, Solutions Crédits",13,2016,▲1
+25.0,114.0,54.0,34.0,Dumoulin Tom,16.0,Team Giant - Alpecin,13,2016,▲18
+33.0,72.0,53.0,19.0,Clement Stef,17.0,IAM Cycling,13,2016,▲2
+24.0,182.0,53.0,17.0,Alaphilippe Julian,18.0,Etixx - Quick Step,13,2016,▼1
+31.0,205.0,52.0,18.0,Impey Daryl,19.0,ORICA-BikeExchange,13,2016,▼1
+29.0,103.0,51.0,21.0,Boasson Hagen Edvald,20.0,Team Dimension Data,13,2016,▲1
+24.0,216.0,51.0,20.0,McLay Daniel,21.0,Fortuneo - Vital Concept,13,2016,▼1
+24.0,67.0,47.0,22.0,Stuyven Jasper,22.0,Trek - Segafredo,13,2016,-
+32.0,107.0,46.0,23.0,Pauwels Serge,23.0,Team Dimension Data,13,2016,-
+31.0,133.0,42.0,30.0,Bárta Jan,24.0,Bora - Argon 18,13,2016,▲6
+22.0,75.0,42.0,24.0,Enger Sondre Holst,25.0,IAM Cycling,13,2016,▼1
+23.0,53.0,41.0,25.0,Groenewegen Dylan,26.0,Team LottoNL-Jumbo,13,2016,▼1
+36.0,12.0,39.0,27.0,Valverde Alejandro,27.0,Movistar Team,13,2016,-
+23.0,209.0,38.0,26.0,Yates Adam,28.0,ORICA-BikeExchange,13,2016,▼2
+37.0,141.0,38.0,28.0,Rodríguez Joaquim,29.0,Team Katusha,13,2016,▼1
+31.0,187.0,38.0,29.0,Sabatini Fabio,30.0,Etixx - Quick Step,13,2016,▼1
+35.0,44.0,36.0,31.0,Dumoulin Samuel,31.0,AG2R La Mondiale,13,2016,-
+31.0,22.0,35.0,32.0,Nibali Vincenzo,32.0,Astana Pro Team,13,2016,-
+28.0,165.0,35.0,33.0,Gallopin Tony,33.0,Lotto Soudal,13,2016,-
+29.0,61.0,32.0,46.0,Mollema Bauke,34.0,Trek - Segafredo,13,2016,▲12
+29.0,151.0,32.0,35.0,Costa Rui,35.0,Lampre - Merida,13,2016,-
+27.0,54.0,32.0,36.0,Lindeman Bert-Jan,36.0,Team LottoNL-Jumbo,13,2016,-
+33.0,186.0,31.0,37.0,Richeze Maximiliano,37.0,Etixx - Quick Step,13,2016,-
+33.0,183.0,29.0,38.0,Keisse Iljo,38.0,Etixx - Quick Step,13,2016,-
+37.0,172.0,29.0,39.0,Chavanel Sylvain,39.0,Direct Energie,13,2016,-
+30.0,139.0,29.0,40.0,Voss Paul,40.0,Bora - Argon 18,13,2016,-
+28.0,16.0,27.0,41.0,Izagirre Gorka,41.0,Movistar Team,13,2016,-
+28.0,94.0,26.0,42.0,Caruso Damiano,42.0,BMC Racing Team,13,2016,-
+25.0,203.0,26.0,43.0,Durbridge Luke,43.0,ORICA-BikeExchange,13,2016,-
+30.0,36.0,24.0,44.0,Kreuziger Roman,44.0,Tinkoff,13,2016,-
+25.0,78.0,24.0,45.0,Naesen Oliver,45.0,IAM Cycling,13,2016,-
+31.0,33.0,24.0,55.0,Bodnar Maciej,46.0,Tinkoff,13,2016,▲9
+30.0,9.0,22.0,76.0,Thomas Geraint,47.0,Team Sky,13,2016,▲29
+35.0,136.0,22.0,47.0,Huzarski Bartosz,48.0,Bora - Argon 18,13,2016,▼1
+27.0,109.0,22.0,48.0,Teklehaimanot Daniel,49.0,Team Dimension Data,13,2016,▼1
+29.0,73.0,22.0,91.0,Coppel Jérôme,50.0,IAM Cycling,13,2016,▲41
+28.0,84.0,22.0,49.0,Howes Alex,51.0,Cannondale-Drapac Pro Cycling Team,13,2016,▼2
+27.0,215.0,20.0,50.0,Fonseca Armindo,52.0,Fortuneo - Vital Concept,13,2016,▼2
+28.0,134.0,20.0,51.0,Benedetti Cesare,53.0,Bora - Argon 18,13,2016,▼2
+33.0,138.0,20.0,52.0,Schillinger Andreas,54.0,Bora - Argon 18,13,2016,▼2
+26.0,77.0,20.0,53.0,Howard Leigh,55.0,IAM Cycling,13,2016,▼2
+25.0,41.0,20.0,54.0,Bardet Romain,56.0,AG2R La Mondiale,13,2016,▼2
+31.0,185.0,20.0,77.0,Martin Tony,57.0,Etixx - Quick Step,13,2016,▲20
+27.0,27.0,19.0,56.0,Rosa Diego,58.0,Astana Pro Team,13,2016,▼2
+28.0,177.0,19.0,57.0,Sicard Romain,59.0,Direct Energie,13,2016,▼2
+27.0,57.0,19.0,58.0,Vanmarcke Sep,60.0,Team LottoNL-Jumbo,13,2016,▼2
+26.0,11.0,18.0,59.0,Quintana Nairo,61.0,Movistar Team,13,2016,▼2
+31.0,91.0,18.0,60.0,Porte Richie,62.0,BMC Racing Team,13,2016,▼2
+25.0,15.0,18.0,61.0,Herrada Jesús,63.0,Movistar Team,13,2016,▼2
+32.0,24.0,17.0,64.0,Grivko Andrey,64.0,Astana Pro Team,13,2016,-
+30.0,43.0,17.0,63.0,Cherel Mickaël,65.0,AG2R La Mondiale,13,2016,▼2
+37.0,179.0,17.0,65.0,Voeckler Thomas,66.0,Direct Energie,13,2016,▼1
+31.0,152.0,17.0,66.0,Arashiro Yukiya,67.0,Lampre - Merida,13,2016,▼1
+26.0,21.0,15.0,67.0,Aru Fabio,68.0,Astana Pro Team,13,2016,▼1
+32.0,198.0,15.0,68.0,Maté Luis Ángel,69.0,"Cofidis, Solutions Crédits",13,2016,▼1
+27.0,19.0,15.0,,Oliveira Nelson,70.0,Movistar Team,13,2016,-
+32.0,55.0,15.0,69.0,Martens Paul,71.0,Team LottoNL-Jumbo,13,2016,▼2
+36.0,63.0,15.0,70.0,Irizar Markel,72.0,Trek - Segafredo,13,2016,▼2
+26.0,212.0,15.0,71.0,Breen Vegard,73.0,Fortuneo - Vital Concept,13,2016,▼2
+25.0,51.0,14.0,72.0,Kelderman Wilco,74.0,Team LottoNL-Jumbo,13,2016,▼2
+28.0,6.0,14.0,73.0,Poels Wout,75.0,Team Sky,13,2016,▼2
+31.0,218.0,14.0,74.0,Sørensen Chris Anker,76.0,Fortuneo - Vital Concept,13,2016,▼2
+27.0,13.0,14.0,75.0,Anacona Winner,77.0,Movistar Team,13,2016,▼2
+26.0,213.0,13.0,78.0,Delaplace Anthony,78.0,Fortuneo - Vital Concept,13,2016,-
+29.0,217.0,13.0,80.0,Périchon Pierre-Luc,79.0,Fortuneo - Vital Concept,13,2016,▲1
+31.0,82.0,13.0,81.0,Breschel Matti,80.0,Cannondale-Drapac Pro Cycling Team,13,2016,▲1
+23.0,47.0,13.0,82.0,Gougeard Alexis,81.0,AG2R La Mondiale,13,2016,▲1
+27.0,99.0,11.0,83.0,van Garderen Tejay,82.0,BMC Racing Team,13,2016,▲1
+29.0,81.0,11.0,84.0,Rolland Pierre,83.0,Cannondale-Drapac Pro Cycling Team,13,2016,▲1
+30.0,115.0,11.0,85.0,Geschke Simon,84.0,Team Giant - Alpecin,13,2016,▲1
+28.0,46.0,11.0,86.0,Gautier Cyril,85.0,AG2R La Mondiale,13,2016,▲1
+26.0,95.0,11.0,,Dennis Rohan,86.0,BMC Racing Team,13,2016,-
+27.0,113.0,11.0,87.0,Degenkolb John,87.0,Team Giant - Alpecin,13,2016,-
+24.0,39.0,10.0,88.0,Valgren Michael,88.0,Tinkoff,13,2016,-
+28.0,49.0,9.0,89.0,Vuillermoz Alexis,89.0,AG2R La Mondiale,13,2016,-
+26.0,52.0,9.0,90.0,Bennett George,90.0,Team LottoNL-Jumbo,13,2016,-
+24.0,89.0,9.0,92.0,van Baarle Dylan,91.0,Cannondale-Drapac Pro Cycling Team,13,2016,▲1
+27.0,17.0,8.0,,Izagirre Ion,92.0,Movistar Team,13,2016,-
+31.0,219.0,8.0,93.0,Vachon Florian,93.0,Fortuneo - Vital Concept,13,2016,-
+24.0,173.0,8.0,94.0,Duchesne Antoine,94.0,Direct Energie,13,2016,-
+26.0,154.0,8.0,95.0,Cimolai Davide,95.0,Lampre - Merida,13,2016,-
+24.0,157.0,7.0,96.0,Meintjes Louis,96.0,Lampre - Merida,13,2016,-
+24.0,111.0,7.0,97.0,Barguil Warren,97.0,Team Giant - Alpecin,13,2016,-
+29.0,71.0,7.0,98.0,Frank Mathias,98.0,IAM Cycling,13,2016,-
+32.0,28.0,7.0,99.0,Sánchez Luis León,99.0,Astana Pro Team,13,2016,-
+28.0,194.0,7.0,100.0,Edet Nicolas,100.0,"Cofidis, Solutions Crédits",13,2016,-
+33.0,197.0,7.0,101.0,Lemoine Cyril,101.0,"Cofidis, Solutions Crédits",13,2016,-
+39.0,167.0,7.0,102.0,Henderson Gregory,102.0,Lotto Soudal,13,2016,-
+28.0,142.0,7.0,103.0,Guarnieri Jacopo,103.0,Team Katusha,13,2016,-
+27.0,132.0,7.0,104.0,Archbold Shane,104.0,Bora - Argon 18,13,2016,-
+26.0,4.0,6.0,105.0,Landa Mikel,105.0,Team Sky,13,2016,-
+27.0,106.0,6.0,106.0,Janse van Rensburg Reinardt,106.0,Team Dimension Data,13,2016,-
+26.0,164.0,6.0,107.0,Debusschere Jens,107.0,Lotto Soudal,13,2016,-
+29.0,8.0,6.0,108.0,Stannard Ian,108.0,Team Sky,13,2016,-
+23.0,26.0,5.0,109.0,Lutsenko Alexey,109.0,Astana Pro Team,13,2016,-
+26.0,149.0,4.0,110.0,Zakarin Ilnur,110.0,Team Katusha,13,2016,-
+24.0,83.0,4.0,111.0,Craddock Lawson,111.0,Cannondale-Drapac Pro Cycling Team,13,2016,-
+35.0,105.0,4.0,112.0,Eisel Bernhard,112.0,Team Dimension Data,13,2016,-
+27.0,126.0,3.0,113.0,Reichenbach Sébastien,113.0,FDJ,13,2016,-
+30.0,42.0,3.0,114.0,Bakelants Jan,114.0,AG2R La Mondiale,13,2016,-
+24.0,188.0,3.0,115.0,Vakoč Petr,115.0,Etixx - Quick Step,13,2016,-
+28.0,2.0,2.0,116.0,Henao Sergio,116.0,Team Sky,13,2016,-
+32.0,14.0,2.0,118.0,Erviti Imanol,117.0,Movistar Team,13,2016,▲1
+26.0,189.0,2.0,117.0,Vermote Julien,118.0,Etixx - Quick Step,13,2016,▼1
+26.0,7.0,2.0,119.0,Rowe Luke,119.0,Team Sky,13,2016,-
+23.0,131.0,1.0,120.0,Buchmann Emanuel,120.0,Bora - Argon 18,13,2016,-
+36.0,162.0,1.0,121.0,Bak Lars Ytting,121.0,Lotto Soudal,13,2016,-
+26.0,32.0,340.0,1.0,Sagan Peter,1.0,Tinkoff,14,2016,-
+31.0,101.0,278.0,2.0,Cavendish Mark,2.0,Team Dimension Data,14,2016,-
+28.0,181.0,228.0,3.0,Kittel Marcel,3.0,Etixx - Quick Step,14,2016,-
+24.0,171.0,145.0,4.0,Coquard Bryan,4.0,Direct Energie,14,2016,-
+34.0,161.0,128.0,6.0,Greipel André,5.0,Lotto Soudal,14,2016,▲1
+25.0,207.0,127.0,5.0,Matthews Michael,6.0,ORICA-BikeExchange,14,2016,▼1
+29.0,144.0,122.0,10.0,Kristoff Alexander,7.0,Team Katusha,14,2016,▲3
+31.0,98.0,112.0,7.0,Van Avermaet Greg,8.0,BMC Racing Team,14,2016,▼1
+29.0,163.0,106.0,8.0,De Gendt Thomas,9.0,Lotto Soudal,14,2016,▼1
+31.0,1.0,94.0,9.0,Froome Chris,10.0,Team Sky,14,2016,▼1
+32.0,191.0,90.0,11.0,Navarro Daniel,11.0,"Cofidis, Solutions Crédits",14,2016,-
+35.0,104.0,68.0,12.0,Cummings Steve,12.0,Team Dimension Data,14,2016,-
+23.0,196.0,64.0,15.0,Laporte Christophe,13.0,"Cofidis, Solutions Crédits",14,2016,▲2
+26.0,37.0,60.0,13.0,Majka Rafał,14.0,Tinkoff,14,2016,▼1
+29.0,184.0,56.0,14.0,Martin Dan,15.0,Etixx - Quick Step,14,2016,▼1
+25.0,114.0,54.0,16.0,Dumoulin Tom,16.0,Team Giant - Alpecin,14,2016,-
+33.0,72.0,53.0,17.0,Clement Stef,17.0,IAM Cycling,14,2016,-
+24.0,182.0,53.0,18.0,Alaphilippe Julian,18.0,Etixx - Quick Step,14,2016,-
+31.0,205.0,52.0,19.0,Impey Daryl,19.0,ORICA-BikeExchange,14,2016,-
+29.0,103.0,51.0,20.0,Boasson Hagen Edvald,20.0,Team Dimension Data,14,2016,-
+24.0,216.0,51.0,21.0,McLay Daniel,21.0,Fortuneo - Vital Concept,14,2016,-
+24.0,67.0,47.0,22.0,Stuyven Jasper,22.0,Trek - Segafredo,14,2016,-
+23.0,53.0,47.0,26.0,Groenewegen Dylan,23.0,Team LottoNL-Jumbo,14,2016,▲3
+32.0,107.0,46.0,23.0,Pauwels Serge,24.0,Team Dimension Data,14,2016,▼1
+31.0,187.0,44.0,30.0,Sabatini Fabio,25.0,Etixx - Quick Step,14,2016,▲5
+35.0,44.0,43.0,31.0,Dumoulin Samuel,26.0,AG2R La Mondiale,14,2016,▲5
+31.0,133.0,42.0,24.0,Bárta Jan,27.0,Bora - Argon 18,14,2016,▼3
+22.0,75.0,42.0,25.0,Enger Sondre Holst,28.0,IAM Cycling,14,2016,▼3
+28.0,134.0,40.0,53.0,Benedetti Cesare,29.0,Bora - Argon 18,14,2016,▲24
+36.0,12.0,39.0,27.0,Valverde Alejandro,30.0,Movistar Team,14,2016,▼3
+28.0,84.0,39.0,51.0,Howes Alex,31.0,Cannondale-Drapac Pro Cycling Team,14,2016,▲20
+23.0,209.0,38.0,28.0,Yates Adam,32.0,ORICA-BikeExchange,14,2016,▼4
+37.0,141.0,38.0,29.0,Rodríguez Joaquim,33.0,Team Katusha,14,2016,▼4
+33.0,186.0,38.0,37.0,Richeze Maximiliano,34.0,Etixx - Quick Step,14,2016,▲3
+31.0,22.0,35.0,32.0,Nibali Vincenzo,35.0,Astana Pro Team,14,2016,▼3
+28.0,165.0,35.0,33.0,Gallopin Tony,36.0,Lotto Soudal,14,2016,▼3
+29.0,61.0,32.0,34.0,Mollema Bauke,37.0,Trek - Segafredo,14,2016,▼3
+29.0,151.0,32.0,35.0,Costa Rui,38.0,Lampre - Merida,14,2016,▼3
+27.0,54.0,32.0,36.0,Lindeman Bert-Jan,39.0,Team LottoNL-Jumbo,14,2016,▼3
+33.0,183.0,29.0,38.0,Keisse Iljo,40.0,Etixx - Quick Step,14,2016,▼2
+37.0,172.0,29.0,39.0,Chavanel Sylvain,41.0,Direct Energie,14,2016,▼2
+30.0,139.0,29.0,40.0,Voss Paul,42.0,Bora - Argon 18,14,2016,▼2
+27.0,113.0,29.0,87.0,Degenkolb John,43.0,Team Giant - Alpecin,14,2016,▲44
+28.0,16.0,27.0,41.0,Izagirre Gorka,44.0,Movistar Team,14,2016,▼3
+28.0,94.0,26.0,42.0,Caruso Damiano,45.0,BMC Racing Team,14,2016,▼3
+25.0,203.0,26.0,43.0,Durbridge Luke,46.0,ORICA-BikeExchange,14,2016,▼3
+30.0,36.0,24.0,44.0,Kreuziger Roman,47.0,Tinkoff,14,2016,▼3
+25.0,78.0,24.0,45.0,Naesen Oliver,48.0,IAM Cycling,14,2016,▼3
+31.0,33.0,24.0,46.0,Bodnar Maciej,49.0,Tinkoff,14,2016,▼3
+31.0,185.0,23.0,57.0,Martin Tony,50.0,Etixx - Quick Step,14,2016,▲7
+30.0,9.0,22.0,47.0,Thomas Geraint,51.0,Team Sky,14,2016,▼4
+35.0,136.0,22.0,48.0,Huzarski Bartosz,52.0,Bora - Argon 18,14,2016,▼4
+27.0,109.0,22.0,49.0,Teklehaimanot Daniel,53.0,Team Dimension Data,14,2016,▼4
+29.0,73.0,22.0,50.0,Coppel Jérôme,54.0,IAM Cycling,14,2016,▼4
+27.0,215.0,20.0,52.0,Fonseca Armindo,55.0,Fortuneo - Vital Concept,14,2016,▼3
+33.0,138.0,20.0,54.0,Schillinger Andreas,56.0,Bora - Argon 18,14,2016,▼2
+26.0,77.0,20.0,55.0,Howard Leigh,57.0,IAM Cycling,14,2016,▼2
+25.0,41.0,20.0,56.0,Bardet Romain,58.0,AG2R La Mondiale,14,2016,▼2
+27.0,27.0,19.0,58.0,Rosa Diego,59.0,Astana Pro Team,14,2016,▼1
+28.0,177.0,19.0,59.0,Sicard Romain,60.0,Direct Energie,14,2016,▼1
+27.0,57.0,19.0,60.0,Vanmarcke Sep,61.0,Team LottoNL-Jumbo,14,2016,▼1
+26.0,11.0,18.0,61.0,Quintana Nairo,62.0,Movistar Team,14,2016,▼1
+31.0,91.0,18.0,62.0,Porte Richie,63.0,BMC Racing Team,14,2016,▼1
+25.0,15.0,18.0,63.0,Herrada Jesús,64.0,Movistar Team,14,2016,▼1
+26.0,154.0,18.0,95.0,Cimolai Davide,65.0,Lampre - Merida,14,2016,▲30
+32.0,24.0,17.0,64.0,Grivko Andrey,66.0,Astana Pro Team,14,2016,▼2
+30.0,43.0,17.0,65.0,Cherel Mickaël,67.0,AG2R La Mondiale,14,2016,▼2
+37.0,179.0,17.0,66.0,Voeckler Thomas,68.0,Direct Energie,14,2016,▼2
+31.0,152.0,17.0,67.0,Arashiro Yukiya,69.0,Lampre - Merida,14,2016,▼2
+26.0,21.0,15.0,68.0,Aru Fabio,70.0,Astana Pro Team,14,2016,▼2
+32.0,198.0,15.0,69.0,Maté Luis Ángel,71.0,"Cofidis, Solutions Crédits",14,2016,▼2
+33.0,128.0,15.0,,Roy Jérémy,72.0,FDJ,14,2016,-
+27.0,19.0,15.0,70.0,Oliveira Nelson,73.0,Movistar Team,14,2016,▼3
+32.0,55.0,15.0,71.0,Martens Paul,74.0,Team LottoNL-Jumbo,14,2016,▼3
+36.0,63.0,15.0,72.0,Irizar Markel,75.0,Trek - Segafredo,14,2016,▼3
+26.0,212.0,15.0,73.0,Breen Vegard,76.0,Fortuneo - Vital Concept,14,2016,▼3
+25.0,51.0,14.0,74.0,Kelderman Wilco,77.0,Team LottoNL-Jumbo,14,2016,▼3
+28.0,6.0,14.0,75.0,Poels Wout,78.0,Team Sky,14,2016,▼3
+31.0,218.0,14.0,76.0,Sørensen Chris Anker,79.0,Fortuneo - Vital Concept,14,2016,▼3
+27.0,13.0,14.0,77.0,Anacona Winner,80.0,Movistar Team,14,2016,▼3
+37.0,74.0,13.0,,Elmiger Martin,81.0,IAM Cycling,14,2016,-
+26.0,213.0,13.0,78.0,Delaplace Anthony,82.0,Fortuneo - Vital Concept,14,2016,▼4
+29.0,217.0,13.0,79.0,Périchon Pierre-Luc,83.0,Fortuneo - Vital Concept,14,2016,▼4
+23.0,47.0,13.0,81.0,Gougeard Alexis,84.0,AG2R La Mondiale,14,2016,▼3
+27.0,99.0,11.0,82.0,van Garderen Tejay,85.0,BMC Racing Team,14,2016,▼3
+29.0,81.0,11.0,83.0,Rolland Pierre,86.0,Cannondale-Drapac Pro Cycling Team,14,2016,▼3
+30.0,115.0,11.0,84.0,Geschke Simon,87.0,Team Giant - Alpecin,14,2016,▼3
+28.0,46.0,11.0,85.0,Gautier Cyril,88.0,AG2R La Mondiale,14,2016,▼3
+26.0,95.0,11.0,86.0,Dennis Rohan,89.0,BMC Racing Team,14,2016,▼3
+24.0,39.0,10.0,88.0,Valgren Michael,90.0,Tinkoff,14,2016,▼2
+28.0,49.0,9.0,89.0,Vuillermoz Alexis,91.0,AG2R La Mondiale,14,2016,▼2
+26.0,52.0,9.0,90.0,Bennett George,92.0,Team LottoNL-Jumbo,14,2016,▼2
+24.0,89.0,9.0,91.0,van Baarle Dylan,93.0,Cannondale-Drapac Pro Cycling Team,14,2016,▼2
+27.0,17.0,8.0,92.0,Izagirre Ion,94.0,Movistar Team,14,2016,▼2
+31.0,219.0,8.0,93.0,Vachon Florian,95.0,Fortuneo - Vital Concept,14,2016,▼2
+24.0,173.0,8.0,94.0,Duchesne Antoine,96.0,Direct Energie,14,2016,▼2
+24.0,157.0,7.0,96.0,Meintjes Louis,97.0,Lampre - Merida,14,2016,▼1
+24.0,111.0,7.0,97.0,Barguil Warren,98.0,Team Giant - Alpecin,14,2016,▼1
+32.0,28.0,7.0,99.0,Sánchez Luis León,99.0,Astana Pro Team,14,2016,-
+28.0,194.0,7.0,100.0,Edet Nicolas,100.0,"Cofidis, Solutions Crédits",14,2016,-
+33.0,197.0,7.0,101.0,Lemoine Cyril,101.0,"Cofidis, Solutions Crédits",14,2016,-
+39.0,167.0,7.0,102.0,Henderson Gregory,102.0,Lotto Soudal,14,2016,-
+28.0,142.0,7.0,103.0,Guarnieri Jacopo,103.0,Team Katusha,14,2016,-
+27.0,132.0,7.0,104.0,Archbold Shane,104.0,Bora - Argon 18,14,2016,-
+26.0,4.0,6.0,105.0,Landa Mikel,105.0,Team Sky,14,2016,-
+27.0,106.0,6.0,106.0,Janse van Rensburg Reinardt,106.0,Team Dimension Data,14,2016,-
+26.0,164.0,6.0,107.0,Debusschere Jens,107.0,Lotto Soudal,14,2016,-
+29.0,8.0,6.0,108.0,Stannard Ian,108.0,Team Sky,14,2016,-
+36.0,162.0,6.0,121.0,Bak Lars Ytting,109.0,Lotto Soudal,14,2016,▲12
+23.0,26.0,5.0,109.0,Lutsenko Alexey,110.0,Astana Pro Team,14,2016,▼1
+24.0,188.0,5.0,115.0,Vakoč Petr,111.0,Etixx - Quick Step,14,2016,▲4
+25.0,135.0,5.0,,Bennett Sam,112.0,Bora - Argon 18,14,2016,-
+26.0,149.0,4.0,110.0,Zakarin Ilnur,113.0,Team Katusha,14,2016,▼3
+24.0,83.0,4.0,111.0,Craddock Lawson,114.0,Cannondale-Drapac Pro Cycling Team,14,2016,▼3
+28.0,87.0,4.0,,Navardauskas Ramūnas,115.0,Cannondale-Drapac Pro Cycling Team,14,2016,-
+36.0,112.0,4.0,,Curvers Roy,116.0,Team Giant - Alpecin,14,2016,-
+35.0,105.0,4.0,112.0,Eisel Bernhard,117.0,Team Dimension Data,14,2016,▼5
+27.0,126.0,3.0,113.0,Reichenbach Sébastien,118.0,FDJ,14,2016,▼5
+30.0,42.0,3.0,114.0,Bakelants Jan,119.0,AG2R La Mondiale,14,2016,▼5
+28.0,2.0,2.0,116.0,Henao Sergio,120.0,Team Sky,14,2016,▼4
+38.0,204.0,2.0,,Hayman Mathew,121.0,ORICA-BikeExchange,14,2016,-
+32.0,14.0,2.0,117.0,Erviti Imanol,122.0,Movistar Team,14,2016,▼5
+26.0,189.0,2.0,118.0,Vermote Julien,123.0,Etixx - Quick Step,14,2016,▼5
+26.0,7.0,2.0,119.0,Rowe Luke,124.0,Team Sky,14,2016,▼5
+23.0,131.0,1.0,120.0,Buchmann Emanuel,125.0,Bora - Argon 18,14,2016,▼5
+25.0,102.0,1.0,,Berhane Natnael,126.0,Team Dimension Data,14,2016,-
+26.0,32.0,340.0,1.0,Sagan Peter,1.0,Tinkoff,15,2016,-
+31.0,101.0,278.0,2.0,Cavendish Mark,2.0,Team Dimension Data,15,2016,-
+28.0,181.0,228.0,3.0,Kittel Marcel,3.0,Etixx - Quick Step,15,2016,-
+24.0,171.0,145.0,4.0,Coquard Bryan,4.0,Direct Energie,15,2016,-
+34.0,161.0,128.0,5.0,Greipel André,5.0,Lotto Soudal,15,2016,-
+25.0,207.0,127.0,6.0,Matthews Michael,6.0,ORICA-BikeExchange,15,2016,-
+29.0,144.0,122.0,7.0,Kristoff Alexander,7.0,Team Katusha,15,2016,-
+31.0,98.0,112.0,8.0,Van Avermaet Greg,8.0,BMC Racing Team,15,2016,-
+29.0,163.0,106.0,9.0,De Gendt Thomas,9.0,Lotto Soudal,15,2016,-
+32.0,191.0,105.0,11.0,Navarro Daniel,10.0,"Cofidis, Solutions Crédits",15,2016,▲1
+31.0,1.0,96.0,10.0,Froome Chris,11.0,Team Sky,15,2016,▼1
+26.0,37.0,94.0,14.0,Majka Rafał,12.0,Tinkoff,15,2016,▲2
+32.0,107.0,76.0,24.0,Pauwels Serge,13.0,Team Dimension Data,15,2016,▲11
+35.0,104.0,68.0,12.0,Cummings Steve,14.0,Team Dimension Data,15,2016,▼2
+33.0,72.0,66.0,17.0,Clement Stef,15.0,IAM Cycling,15,2016,▲2
+24.0,182.0,64.0,18.0,Alaphilippe Julian,16.0,Etixx - Quick Step,15,2016,▲2
+23.0,196.0,64.0,13.0,Laporte Christophe,17.0,"Cofidis, Solutions Crédits",15,2016,▼4
+29.0,184.0,56.0,15.0,Martin Dan,18.0,Etixx - Quick Step,15,2016,▼3
+25.0,114.0,54.0,16.0,Dumoulin Tom,19.0,Team Giant - Alpecin,15,2016,▼3
+31.0,205.0,52.0,19.0,Impey Daryl,20.0,ORICA-BikeExchange,15,2016,▼1
+29.0,103.0,51.0,20.0,Boasson Hagen Edvald,21.0,Team Dimension Data,15,2016,▼1
+24.0,216.0,51.0,21.0,McLay Daniel,22.0,Fortuneo - Vital Concept,15,2016,▼1
+24.0,67.0,47.0,22.0,Stuyven Jasper,23.0,Trek - Segafredo,15,2016,▼1
+23.0,53.0,47.0,23.0,Groenewegen Dylan,24.0,Team LottoNL-Jumbo,15,2016,▼1
+31.0,187.0,44.0,25.0,Sabatini Fabio,25.0,Etixx - Quick Step,15,2016,-
+35.0,44.0,43.0,26.0,Dumoulin Samuel,26.0,AG2R La Mondiale,15,2016,-
+31.0,133.0,42.0,27.0,Bárta Jan,27.0,Bora - Argon 18,15,2016,-
+22.0,75.0,42.0,28.0,Enger Sondre Holst,28.0,IAM Cycling,15,2016,-
+28.0,134.0,40.0,29.0,Benedetti Cesare,29.0,Bora - Argon 18,15,2016,-
+36.0,12.0,39.0,30.0,Valverde Alejandro,30.0,Movistar Team,15,2016,-
+28.0,84.0,39.0,31.0,Howes Alex,31.0,Cannondale-Drapac Pro Cycling Team,15,2016,-
+23.0,209.0,38.0,32.0,Yates Adam,32.0,ORICA-BikeExchange,15,2016,-
+37.0,141.0,38.0,33.0,Rodríguez Joaquim,33.0,Team Katusha,15,2016,-
+33.0,186.0,38.0,34.0,Richeze Maximiliano,34.0,Etixx - Quick Step,15,2016,-
+35.0,136.0,37.0,52.0,Huzarski Bartosz,35.0,Bora - Argon 18,15,2016,▲17
+31.0,22.0,36.0,35.0,Nibali Vincenzo,36.0,Astana Pro Team,15,2016,▼1
+28.0,165.0,35.0,36.0,Gallopin Tony,37.0,Lotto Soudal,15,2016,▼1
+29.0,61.0,32.0,37.0,Mollema Bauke,38.0,Trek - Segafredo,15,2016,▼1
+29.0,151.0,32.0,38.0,Costa Rui,39.0,Lampre - Merida,15,2016,▼1
+27.0,54.0,32.0,39.0,Lindeman Bert-Jan,40.0,Team LottoNL-Jumbo,15,2016,▼1
+33.0,183.0,29.0,40.0,Keisse Iljo,41.0,Etixx - Quick Step,15,2016,▼1
+37.0,172.0,29.0,41.0,Chavanel Sylvain,42.0,Direct Energie,15,2016,▼1
+30.0,139.0,29.0,42.0,Voss Paul,43.0,Bora - Argon 18,15,2016,▼1
+27.0,113.0,29.0,43.0,Degenkolb John,44.0,Team Giant - Alpecin,15,2016,▼1
+28.0,16.0,27.0,44.0,Izagirre Gorka,45.0,Movistar Team,15,2016,▼1
+28.0,94.0,26.0,45.0,Caruso Damiano,46.0,BMC Racing Team,15,2016,▼1
+25.0,203.0,26.0,46.0,Durbridge Luke,47.0,ORICA-BikeExchange,15,2016,▼1
+30.0,36.0,24.0,47.0,Kreuziger Roman,48.0,Tinkoff,15,2016,▼1
+28.0,49.0,24.0,91.0,Vuillermoz Alexis,49.0,AG2R La Mondiale,15,2016,▲42
+25.0,78.0,24.0,48.0,Naesen Oliver,50.0,IAM Cycling,15,2016,▼2
+31.0,33.0,24.0,49.0,Bodnar Maciej,51.0,Tinkoff,15,2016,▼2
+28.0,177.0,23.0,60.0,Sicard Romain,52.0,Direct Energie,15,2016,▲8
+31.0,185.0,23.0,50.0,Martin Tony,53.0,Etixx - Quick Step,15,2016,▼3
+30.0,9.0,22.0,51.0,Thomas Geraint,54.0,Team Sky,15,2016,▼3
+29.0,73.0,22.0,54.0,Coppel Jérôme,55.0,IAM Cycling,15,2016,▼1
+27.0,109.0,22.0,53.0,Teklehaimanot Daniel,56.0,Team Dimension Data,15,2016,▼3
+27.0,79.0,20.0,,Pantano Jarlinson,57.0,IAM Cycling,15,2016,-
+27.0,215.0,20.0,55.0,Fonseca Armindo,58.0,Fortuneo - Vital Concept,15,2016,▼3
+33.0,138.0,20.0,56.0,Schillinger Andreas,59.0,Bora - Argon 18,15,2016,▼3
+26.0,77.0,20.0,57.0,Howard Leigh,60.0,IAM Cycling,15,2016,▼3
+25.0,41.0,20.0,58.0,Bardet Romain,61.0,AG2R La Mondiale,15,2016,▼3
+29.0,81.0,20.0,86.0,Rolland Pierre,62.0,Cannondale-Drapac Pro Cycling Team,15,2016,▲24
+26.0,11.0,19.0,62.0,Quintana Nairo,63.0,Movistar Team,15,2016,▼1
+27.0,27.0,19.0,59.0,Rosa Diego,64.0,Astana Pro Team,15,2016,▼5
+27.0,57.0,19.0,61.0,Vanmarcke Sep,65.0,Team LottoNL-Jumbo,15,2016,▼4
+31.0,91.0,18.0,63.0,Porte Richie,66.0,BMC Racing Team,15,2016,▼3
+26.0,154.0,18.0,65.0,Cimolai Davide,67.0,Lampre - Merida,15,2016,▼2
+28.0,6.0,17.0,78.0,Poels Wout,68.0,Team Sky,15,2016,▲10
+30.0,43.0,17.0,67.0,Cherel Mickaël,69.0,AG2R La Mondiale,15,2016,▼2
+32.0,24.0,17.0,66.0,Grivko Andrey,70.0,Astana Pro Team,15,2016,▼4
+37.0,179.0,17.0,68.0,Voeckler Thomas,71.0,Direct Energie,15,2016,▼3
+31.0,152.0,17.0,69.0,Arashiro Yukiya,72.0,Lampre - Merida,15,2016,▼3
+27.0,126.0,16.0,118.0,Reichenbach Sébastien,73.0,FDJ,15,2016,▲45
+26.0,21.0,15.0,70.0,Aru Fabio,74.0,Astana Pro Team,15,2016,▼4
+33.0,124.0,15.0,,Morabito Steve,75.0,FDJ,15,2016,-
+32.0,198.0,15.0,71.0,Maté Luis Ángel,76.0,"Cofidis, Solutions Crédits",15,2016,▼5
+33.0,128.0,15.0,72.0,Roy Jérémy,77.0,FDJ,15,2016,▼5
+27.0,19.0,15.0,73.0,Oliveira Nelson,78.0,Movistar Team,15,2016,▼5
+32.0,55.0,15.0,74.0,Martens Paul,79.0,Team LottoNL-Jumbo,15,2016,▼5
+36.0,63.0,15.0,75.0,Irizar Markel,80.0,Trek - Segafredo,15,2016,▼5
+26.0,212.0,15.0,76.0,Breen Vegard,81.0,Fortuneo - Vital Concept,15,2016,▼5
+25.0,51.0,14.0,77.0,Kelderman Wilco,82.0,Team LottoNL-Jumbo,15,2016,▼5
+31.0,218.0,14.0,79.0,Sørensen Chris Anker,83.0,Fortuneo - Vital Concept,15,2016,▼4
+27.0,13.0,14.0,80.0,Anacona Winner,84.0,Movistar Team,15,2016,▼4
+37.0,74.0,13.0,81.0,Elmiger Martin,85.0,IAM Cycling,15,2016,▼4
+26.0,213.0,13.0,82.0,Delaplace Anthony,86.0,Fortuneo - Vital Concept,15,2016,▼4
+29.0,217.0,13.0,83.0,Périchon Pierre-Luc,87.0,Fortuneo - Vital Concept,15,2016,▼4
+23.0,47.0,13.0,84.0,Gougeard Alexis,88.0,AG2R La Mondiale,15,2016,▼4
+26.0,149.0,12.0,113.0,Zakarin Ilnur,89.0,Team Katusha,15,2016,▲24
+27.0,88.0,12.0,,Slagter Tom-Jelte,90.0,Cannondale-Drapac Pro Cycling Team,15,2016,-
+24.0,89.0,12.0,93.0,van Baarle Dylan,91.0,Cannondale-Drapac Pro Cycling Team,15,2016,▲2
+27.0,99.0,11.0,85.0,van Garderen Tejay,92.0,BMC Racing Team,15,2016,▼7
+30.0,115.0,11.0,87.0,Geschke Simon,93.0,Team Giant - Alpecin,15,2016,▼6
+28.0,46.0,11.0,88.0,Gautier Cyril,94.0,AG2R La Mondiale,15,2016,▼6
+26.0,95.0,11.0,89.0,Dennis Rohan,95.0,BMC Racing Team,15,2016,▼6
+29.0,25.0,10.0,,Kangert Tanel,96.0,Astana Pro Team,15,2016,-
+24.0,39.0,10.0,90.0,Valgren Michael,97.0,Tinkoff,15,2016,▼7
+26.0,52.0,9.0,92.0,Bennett George,98.0,Team LottoNL-Jumbo,15,2016,▼6
+34.0,145.0,9.0,,Losada Alberto,99.0,Team Katusha,15,2016,-
+27.0,17.0,8.0,94.0,Izagirre Ion,100.0,Movistar Team,15,2016,▼6
+31.0,219.0,8.0,95.0,Vachon Florian,101.0,Fortuneo - Vital Concept,15,2016,▼6
+24.0,173.0,8.0,96.0,Duchesne Antoine,102.0,Direct Energie,15,2016,▼6
+24.0,157.0,7.0,97.0,Meintjes Louis,103.0,Lampre - Merida,15,2016,▼6
+24.0,111.0,7.0,98.0,Barguil Warren,104.0,Team Giant - Alpecin,15,2016,▼6
+32.0,28.0,7.0,99.0,Sánchez Luis León,105.0,Astana Pro Team,15,2016,▼6
+24.0,159.0,7.0,,Polanc Jan,106.0,Lampre - Merida,15,2016,-
+28.0,194.0,7.0,100.0,Edet Nicolas,107.0,"Cofidis, Solutions Crédits",15,2016,▼7
+33.0,197.0,7.0,101.0,Lemoine Cyril,108.0,"Cofidis, Solutions Crédits",15,2016,▼7
+39.0,167.0,7.0,102.0,Henderson Gregory,109.0,Lotto Soudal,15,2016,▼7
+28.0,142.0,7.0,103.0,Guarnieri Jacopo,110.0,Team Katusha,15,2016,▼7
+27.0,132.0,7.0,104.0,Archbold Shane,111.0,Bora - Argon 18,15,2016,▼7
+26.0,4.0,6.0,105.0,Landa Mikel,112.0,Team Sky,15,2016,▼7
+27.0,106.0,6.0,106.0,Janse van Rensburg Reinardt,113.0,Team Dimension Data,15,2016,▼7
+29.0,8.0,6.0,108.0,Stannard Ian,114.0,Team Sky,15,2016,▼6
+36.0,162.0,6.0,109.0,Bak Lars Ytting,115.0,Lotto Soudal,15,2016,▼6
+39.0,69.0,5.0,,Zubeldia Haimar,116.0,Trek - Segafredo,15,2016,-
+28.0,155.0,5.0,,Đurasek Kristijan,117.0,Lampre - Merida,15,2016,-
+23.0,26.0,5.0,110.0,Lutsenko Alexey,118.0,Astana Pro Team,15,2016,▼8
+24.0,188.0,5.0,111.0,Vakoč Petr,119.0,Etixx - Quick Step,15,2016,▼8
+25.0,135.0,5.0,112.0,Bennett Sam,120.0,Bora - Argon 18,15,2016,▼8
+24.0,83.0,4.0,114.0,Craddock Lawson,121.0,Cannondale-Drapac Pro Cycling Team,15,2016,▼7
+28.0,87.0,4.0,115.0,Navardauskas Ramūnas,122.0,Cannondale-Drapac Pro Cycling Team,15,2016,▼7
+36.0,112.0,4.0,116.0,Curvers Roy,123.0,Team Giant - Alpecin,15,2016,▼7
+35.0,105.0,4.0,117.0,Eisel Bernhard,124.0,Team Dimension Data,15,2016,▼7
+30.0,42.0,3.0,119.0,Bakelants Jan,125.0,AG2R La Mondiale,15,2016,▼6
+28.0,2.0,2.0,120.0,Henao Sergio,126.0,Team Sky,15,2016,▼6
+24.0,156.0,2.0,,Grmay Tsgabu,127.0,Lampre - Merida,15,2016,-
+38.0,204.0,2.0,121.0,Hayman Mathew,128.0,ORICA-BikeExchange,15,2016,▼7
+32.0,14.0,2.0,122.0,Erviti Imanol,129.0,Movistar Team,15,2016,▼7
+26.0,189.0,2.0,123.0,Vermote Julien,130.0,Etixx - Quick Step,15,2016,▼7
+26.0,7.0,2.0,124.0,Rowe Luke,131.0,Team Sky,15,2016,▼7
+23.0,131.0,1.0,125.0,Buchmann Emanuel,132.0,Bora - Argon 18,15,2016,▼7
+25.0,102.0,1.0,126.0,Berhane Natnael,133.0,Team Dimension Data,15,2016,▼7
+26.0,32.0,405.0,1.0,Sagan Peter,1.0,Tinkoff,16,2016,-
+31.0,101.0,291.0,2.0,Cavendish Mark,2.0,Team Dimension Data,16,2016,-
+28.0,181.0,228.0,3.0,Kittel Marcel,3.0,Etixx - Quick Step,16,2016,-
+24.0,171.0,156.0,4.0,Coquard Bryan,4.0,Direct Energie,16,2016,-
+29.0,144.0,152.0,7.0,Kristoff Alexander,5.0,Team Katusha,16,2016,▲2
+25.0,207.0,143.0,6.0,Matthews Michael,6.0,ORICA-BikeExchange,16,2016,-
+34.0,161.0,128.0,5.0,Greipel André,7.0,Lotto Soudal,16,2016,▼2
+31.0,98.0,119.0,8.0,Van Avermaet Greg,8.0,BMC Racing Team,16,2016,-
+29.0,163.0,106.0,9.0,De Gendt Thomas,9.0,Lotto Soudal,16,2016,-
+33.0,191.0,105.0,10.0,Navarro Daniel,10.0,"Cofidis, Solutions Crédits",16,2016,-
+31.0,1.0,99.0,11.0,Froome Chris,11.0,Team Sky,16,2016,-
+26.0,37.0,94.0,12.0,Majka Rafał,12.0,Tinkoff,16,2016,-
+24.0,182.0,84.0,16.0,Alaphilippe Julian,13.0,Etixx - Quick Step,16,2016,▲3
+32.0,107.0,76.0,13.0,Pauwels Serge,14.0,Team Dimension Data,16,2016,▼1
+35.0,104.0,74.0,14.0,Cummings Steve,15.0,Team Dimension Data,16,2016,▼1
+33.0,72.0,66.0,15.0,Clement Stef,16.0,IAM Cycling,16,2016,▼1
+23.0,196.0,64.0,17.0,Laporte Christophe,17.0,"Cofidis, Solutions Crédits",16,2016,-
+22.0,75.0,62.0,28.0,Enger Sondre Holst,18.0,IAM Cycling,16,2016,▲10
+29.0,103.0,59.0,21.0,Boasson Hagen Edvald,19.0,Team Dimension Data,16,2016,▲2
+29.0,184.0,56.0,18.0,Martin Dan,20.0,Etixx - Quick Step,16,2016,▼2
+25.0,114.0,54.0,19.0,Dumoulin Tom,21.0,Team Giant - Alpecin,16,2016,▼2
+31.0,205.0,52.0,20.0,Impey Daryl,22.0,ORICA-BikeExchange,16,2016,▼2
+24.0,216.0,51.0,22.0,McLay Daniel,23.0,Fortuneo - Vital Concept,16,2016,▼1
+33.0,186.0,48.0,34.0,Richeze Maximiliano,24.0,Etixx - Quick Step,16,2016,▲10
+24.0,67.0,47.0,23.0,Stuyven Jasper,25.0,Trek - Segafredo,16,2016,▼2
+27.0,113.0,47.0,44.0,Degenkolb John,26.0,Team Giant - Alpecin,16,2016,▲18
+23.0,53.0,47.0,24.0,Groenewegen Dylan,27.0,Team LottoNL-Jumbo,16,2016,▼3
+36.0,12.0,45.0,30.0,Valverde Alejandro,28.0,Movistar Team,16,2016,▲2
+31.0,187.0,44.0,25.0,Sabatini Fabio,29.0,Etixx - Quick Step,16,2016,▼4
+35.0,44.0,43.0,26.0,Dumoulin Samuel,30.0,AG2R La Mondiale,16,2016,▼4
+31.0,133.0,42.0,27.0,Bárta Jan,31.0,Bora - Argon 18,16,2016,▼4
+28.0,134.0,40.0,29.0,Benedetti Cesare,32.0,Bora - Argon 18,16,2016,▼3
+31.0,185.0,40.0,53.0,Martin Tony,33.0,Etixx - Quick Step,16,2016,▲20
+28.0,84.0,39.0,31.0,Howes Alex,34.0,Cannondale-Drapac Pro Cycling Team,16,2016,▼3
+23.0,209.0,38.0,32.0,Yates Adam,35.0,ORICA-BikeExchange,16,2016,▼3
+37.0,141.0,38.0,33.0,Rodríguez Joaquim,36.0,Team Katusha,16,2016,▼3
+35.0,136.0,37.0,35.0,Huzarski Bartosz,37.0,Bora - Argon 18,16,2016,▼2
+37.0,172.0,37.0,42.0,Chavanel Sylvain,38.0,Direct Energie,16,2016,▲4
+31.0,22.0,36.0,36.0,Nibali Vincenzo,39.0,Astana Pro Team,16,2016,▼3
+28.0,165.0,35.0,37.0,Gallopin Tony,40.0,Lotto Soudal,16,2016,▼3
+30.0,36.0,34.0,48.0,Kreuziger Roman,41.0,Tinkoff,16,2016,▲7
+29.0,61.0,32.0,38.0,Mollema Bauke,42.0,Trek - Segafredo,16,2016,▼4
+29.0,151.0,32.0,39.0,Costa Rui,43.0,Lampre - Merida,16,2016,▼4
+27.0,54.0,32.0,40.0,Lindeman Bert-Jan,44.0,Team LottoNL-Jumbo,16,2016,▼4
+27.0,57.0,31.0,65.0,Vanmarcke Sep,45.0,Team LottoNL-Jumbo,16,2016,▲20
+33.0,183.0,29.0,41.0,Keisse Iljo,46.0,Etixx - Quick Step,16,2016,▼5
+30.0,139.0,29.0,43.0,Voss Paul,47.0,Bora - Argon 18,16,2016,▼4
+28.0,177.0,28.0,52.0,Sicard Romain,48.0,Direct Energie,16,2016,▲4
+28.0,16.0,27.0,45.0,Izagirre Gorka,49.0,Movistar Team,16,2016,▼4
+28.0,94.0,26.0,46.0,Caruso Damiano,50.0,BMC Racing Team,16,2016,▼4
+25.0,203.0,26.0,47.0,Durbridge Luke,51.0,ORICA-BikeExchange,16,2016,▼4
+25.0,41.0,24.0,61.0,Bardet Romain,52.0,AG2R La Mondiale,16,2016,▲9
+28.0,49.0,24.0,49.0,Vuillermoz Alexis,53.0,AG2R La Mondiale,16,2016,▼4
+25.0,78.0,24.0,50.0,Naesen Oliver,54.0,IAM Cycling,16,2016,▼4
+37.0,179.0,24.0,71.0,Voeckler Thomas,55.0,Direct Energie,16,2016,▲16
+31.0,33.0,24.0,51.0,Bodnar Maciej,56.0,Tinkoff,16,2016,▼5
+30.0,9.0,22.0,54.0,Thomas Geraint,57.0,Team Sky,16,2016,▼3
+29.0,73.0,22.0,55.0,Coppel Jérôme,58.0,IAM Cycling,16,2016,▼3
+27.0,109.0,22.0,56.0,Teklehaimanot Daniel,59.0,Team Dimension Data,16,2016,▼3
+27.0,79.0,20.0,57.0,Pantano Jarlinson,60.0,IAM Cycling,16,2016,▼3
+27.0,215.0,20.0,58.0,Fonseca Armindo,61.0,Fortuneo - Vital Concept,16,2016,▼3
+33.0,138.0,20.0,59.0,Schillinger Andreas,62.0,Bora - Argon 18,16,2016,▼3
+26.0,77.0,20.0,60.0,Howard Leigh,63.0,IAM Cycling,16,2016,▼3
+29.0,81.0,20.0,62.0,Rolland Pierre,64.0,Cannondale-Drapac Pro Cycling Team,16,2016,▼2
+26.0,11.0,19.0,63.0,Quintana Nairo,65.0,Movistar Team,16,2016,▼2
+27.0,27.0,19.0,64.0,Rosa Diego,66.0,Astana Pro Team,16,2016,▼2
+31.0,91.0,18.0,66.0,Porte Richie,67.0,BMC Racing Team,16,2016,▼1
+26.0,154.0,18.0,67.0,Cimolai Davide,68.0,Lampre - Merida,16,2016,▼1
+28.0,6.0,17.0,68.0,Poels Wout,69.0,Team Sky,16,2016,▼1
+30.0,43.0,17.0,69.0,Cherel Mickaël,70.0,AG2R La Mondiale,16,2016,▼1
+32.0,24.0,17.0,70.0,Grivko Andrey,71.0,Astana Pro Team,16,2016,▼1
+31.0,152.0,17.0,72.0,Arashiro Yukiya,72.0,Lampre - Merida,16,2016,-
+27.0,126.0,16.0,73.0,Reichenbach Sébastien,73.0,FDJ,16,2016,-
+26.0,21.0,15.0,74.0,Aru Fabio,74.0,Astana Pro Team,16,2016,-
+33.0,124.0,15.0,75.0,Morabito Steve,75.0,FDJ,16,2016,-
+32.0,198.0,15.0,76.0,Maté Luis Ángel,76.0,"Cofidis, Solutions Crédits",16,2016,-
+33.0,128.0,15.0,77.0,Roy Jérémy,77.0,FDJ,16,2016,-
+27.0,19.0,15.0,78.0,Oliveira Nelson,78.0,Movistar Team,16,2016,-
+32.0,55.0,15.0,79.0,Martens Paul,79.0,Team LottoNL-Jumbo,16,2016,-
+36.0,63.0,15.0,80.0,Irizar Markel,80.0,Trek - Segafredo,16,2016,-
+26.0,95.0,15.0,95.0,Dennis Rohan,81.0,BMC Racing Team,16,2016,▲14
+26.0,212.0,15.0,81.0,Breen Vegard,82.0,Fortuneo - Vital Concept,16,2016,▼1
+25.0,51.0,14.0,82.0,Kelderman Wilco,83.0,Team LottoNL-Jumbo,16,2016,▼1
+31.0,218.0,14.0,83.0,Sørensen Chris Anker,84.0,Fortuneo - Vital Concept,16,2016,▼1
+27.0,13.0,14.0,84.0,Anacona Winner,85.0,Movistar Team,16,2016,▼1
+35.0,62.0,14.0,,Cancellara Fabian,86.0,Trek - Segafredo,16,2016,-
+37.0,74.0,13.0,85.0,Elmiger Martin,87.0,IAM Cycling,16,2016,▼2
+26.0,213.0,13.0,86.0,Delaplace Anthony,88.0,Fortuneo - Vital Concept,16,2016,▼2
+29.0,217.0,13.0,87.0,Périchon Pierre-Luc,89.0,Fortuneo - Vital Concept,16,2016,▼2
+23.0,47.0,13.0,88.0,Gougeard Alexis,90.0,AG2R La Mondiale,16,2016,▼2
+26.0,149.0,12.0,89.0,Zakarin Ilnur,91.0,Team Katusha,16,2016,▼2
+27.0,88.0,12.0,90.0,Slagter Tom-Jelte,92.0,Cannondale-Drapac Pro Cycling Team,16,2016,▼2
+24.0,89.0,12.0,91.0,van Baarle Dylan,93.0,Cannondale-Drapac Pro Cycling Team,16,2016,▼2
+27.0,99.0,11.0,92.0,van Garderen Tejay,94.0,BMC Racing Team,16,2016,▼2
+30.0,115.0,11.0,93.0,Geschke Simon,95.0,Team Giant - Alpecin,16,2016,▼2
+34.0,145.0,11.0,99.0,Losada Alberto,96.0,Team Katusha,16,2016,▲3
+28.0,46.0,11.0,94.0,Gautier Cyril,97.0,AG2R La Mondiale,16,2016,▼3
+29.0,25.0,10.0,96.0,Kangert Tanel,98.0,Astana Pro Team,16,2016,▼2
+24.0,39.0,10.0,97.0,Valgren Michael,99.0,Tinkoff,16,2016,▼2
+24.0,157.0,9.0,103.0,Meintjes Louis,100.0,Lampre - Merida,16,2016,▲3
+26.0,52.0,9.0,98.0,Bennett George,101.0,Team LottoNL-Jumbo,16,2016,▼3
+42.0,38.0,9.0,,Tosatto Matteo,102.0,Tinkoff,16,2016,-
+27.0,17.0,8.0,100.0,Izagirre Ion,103.0,Movistar Team,16,2016,▼3
+31.0,219.0,8.0,101.0,Vachon Florian,104.0,Fortuneo - Vital Concept,16,2016,▼3
+24.0,173.0,8.0,102.0,Duchesne Antoine,105.0,Direct Energie,16,2016,▼3
+24.0,111.0,7.0,104.0,Barguil Warren,106.0,Team Giant - Alpecin,16,2016,▼2
+32.0,28.0,7.0,105.0,Sánchez Luis León,107.0,Astana Pro Team,16,2016,▼2
+24.0,159.0,7.0,106.0,Polanc Jan,108.0,Lampre - Merida,16,2016,▼2
+28.0,194.0,7.0,107.0,Edet Nicolas,109.0,"Cofidis, Solutions Crédits",16,2016,▼2
+33.0,197.0,7.0,108.0,Lemoine Cyril,110.0,"Cofidis, Solutions Crédits",16,2016,▼2
+39.0,167.0,7.0,109.0,Henderson Gregory,111.0,Lotto Soudal,16,2016,▼2
+28.0,142.0,7.0,110.0,Guarnieri Jacopo,112.0,Team Katusha,16,2016,▼2
+27.0,132.0,7.0,111.0,Archbold Shane,113.0,Bora - Argon 18,16,2016,▼2
+26.0,4.0,6.0,112.0,Landa Mikel,114.0,Team Sky,16,2016,▼2
+27.0,106.0,6.0,113.0,Janse van Rensburg Reinardt,115.0,Team Dimension Data,16,2016,▼2
+29.0,8.0,6.0,114.0,Stannard Ian,116.0,Team Sky,16,2016,▼2
+36.0,162.0,6.0,115.0,Bak Lars Ytting,117.0,Lotto Soudal,16,2016,▼2
+39.0,69.0,5.0,116.0,Zubeldia Haimar,118.0,Trek - Segafredo,16,2016,▼2
+24.0,137.0,5.0,,Konrad Patrick,119.0,Bora - Argon 18,16,2016,-
+28.0,155.0,5.0,117.0,Đurasek Kristijan,120.0,Lampre - Merida,16,2016,▼3
+23.0,26.0,5.0,118.0,Lutsenko Alexey,121.0,Astana Pro Team,16,2016,▼3
+24.0,188.0,5.0,119.0,Vakoč Petr,122.0,Etixx - Quick Step,16,2016,▼3
+25.0,135.0,5.0,120.0,Bennett Sam,123.0,Bora - Argon 18,16,2016,▼3
+24.0,83.0,4.0,121.0,Craddock Lawson,124.0,Cannondale-Drapac Pro Cycling Team,16,2016,▼3
+28.0,87.0,4.0,122.0,Navardauskas Ramūnas,125.0,Cannondale-Drapac Pro Cycling Team,16,2016,▼3
+36.0,112.0,4.0,123.0,Curvers Roy,126.0,Team Giant - Alpecin,16,2016,▼3
+35.0,105.0,4.0,124.0,Eisel Bernhard,127.0,Team Dimension Data,16,2016,▼3
+30.0,42.0,3.0,125.0,Bakelants Jan,128.0,AG2R La Mondiale,16,2016,▼3
+25.0,176.0,3.0,,Petit Adrien,129.0,Direct Energie,16,2016,-
+28.0,2.0,2.0,126.0,Henao Sergio,130.0,Team Sky,16,2016,▼4
+24.0,156.0,2.0,127.0,Grmay Tsgabu,131.0,Lampre - Merida,16,2016,▼4
+38.0,204.0,2.0,128.0,Hayman Mathew,132.0,ORICA-BikeExchange,16,2016,▼4
+32.0,14.0,2.0,129.0,Erviti Imanol,133.0,Movistar Team,16,2016,▼4
+26.0,189.0,2.0,130.0,Vermote Julien,134.0,Etixx - Quick Step,16,2016,▼4
+26.0,7.0,2.0,131.0,Rowe Luke,135.0,Team Sky,16,2016,▼4
+23.0,131.0,1.0,132.0,Buchmann Emanuel,136.0,Bora - Argon 18,16,2016,▼4
+25.0,102.0,1.0,133.0,Berhane Natnael,137.0,Team Dimension Data,16,2016,▼4
+35.0,174.0,1.0,,Gène Yohann,138.0,Direct Energie,16,2016,-
+26.0,32.0,425.0,1.0,Sagan Peter,1.0,Tinkoff,17,2016,-
+28.0,181.0,228.0,3.0,Kittel Marcel,2.0,Etixx - Quick Step,17,2016,▲1
+24.0,171.0,156.0,4.0,Coquard Bryan,3.0,Direct Energie,17,2016,▲1
+29.0,144.0,152.0,5.0,Kristoff Alexander,4.0,Team Katusha,17,2016,▲1
+25.0,207.0,143.0,6.0,Matthews Michael,5.0,ORICA-BikeExchange,17,2016,▲1
+31.0,98.0,136.0,8.0,Van Avermaet Greg,6.0,BMC Racing Team,17,2016,▲2
+34.0,161.0,128.0,7.0,Greipel André,7.0,Lotto Soudal,17,2016,-
+26.0,37.0,114.0,12.0,Majka Rafał,8.0,Tinkoff,17,2016,▲4
+29.0,163.0,106.0,9.0,De Gendt Thomas,9.0,Lotto Soudal,17,2016,-
+33.0,191.0,105.0,10.0,Navarro Daniel,10.0,"Cofidis, Solutions Crédits",17,2016,-
+31.0,1.0,104.0,11.0,Froome Chris,11.0,Team Sky,17,2016,-
+33.0,72.0,87.0,16.0,Clement Stef,12.0,IAM Cycling,17,2016,▲4
+24.0,182.0,84.0,13.0,Alaphilippe Julian,13.0,Etixx - Quick Step,17,2016,-
+32.0,107.0,77.0,14.0,Pauwels Serge,14.0,Team Dimension Data,17,2016,-
+35.0,104.0,74.0,15.0,Cummings Steve,15.0,Team Dimension Data,17,2016,-
+23.0,196.0,64.0,17.0,Laporte Christophe,16.0,"Cofidis, Solutions Crédits",17,2016,▲1
+22.0,75.0,62.0,18.0,Enger Sondre Holst,17.0,IAM Cycling,17,2016,▲1
+29.0,103.0,59.0,19.0,Boasson Hagen Edvald,18.0,Team Dimension Data,17,2016,▲1
+29.0,184.0,56.0,20.0,Martin Dan,19.0,Etixx - Quick Step,17,2016,▲1
+25.0,114.0,54.0,21.0,Dumoulin Tom,20.0,Team Giant - Alpecin,17,2016,▲1
+31.0,205.0,52.0,22.0,Impey Daryl,21.0,ORICA-BikeExchange,17,2016,▲1
+24.0,216.0,51.0,23.0,McLay Daniel,22.0,Fortuneo - Vital Concept,17,2016,▲1
+33.0,186.0,48.0,24.0,Richeze Maximiliano,23.0,Etixx - Quick Step,17,2016,▲1
+27.0,79.0,47.0,60.0,Pantano Jarlinson,24.0,IAM Cycling,17,2016,▲36
+27.0,113.0,47.0,26.0,Degenkolb John,25.0,Team Giant - Alpecin,17,2016,▲1
+24.0,67.0,47.0,25.0,Stuyven Jasper,26.0,Trek - Segafredo,17,2016,▼1
+23.0,53.0,47.0,27.0,Groenewegen Dylan,27.0,Team LottoNL-Jumbo,17,2016,-
+36.0,12.0,45.0,28.0,Valverde Alejandro,28.0,Movistar Team,17,2016,-
+31.0,187.0,44.0,29.0,Sabatini Fabio,29.0,Etixx - Quick Step,17,2016,-
+35.0,44.0,43.0,30.0,Dumoulin Samuel,30.0,AG2R La Mondiale,17,2016,-
+31.0,133.0,42.0,31.0,Bárta Jan,31.0,Bora - Argon 18,17,2016,-
+37.0,179.0,42.0,55.0,Voeckler Thomas,32.0,Direct Energie,17,2016,▲23
+23.0,209.0,42.0,35.0,Yates Adam,33.0,ORICA-BikeExchange,17,2016,▲2
+28.0,134.0,40.0,32.0,Benedetti Cesare,34.0,Bora - Argon 18,17,2016,▼2
+31.0,185.0,40.0,33.0,Martin Tony,35.0,Etixx - Quick Step,17,2016,▼2
+28.0,84.0,39.0,34.0,Howes Alex,36.0,Cannondale-Drapac Pro Cycling Team,17,2016,▼2
+37.0,141.0,38.0,36.0,Rodríguez Joaquim,37.0,Team Katusha,17,2016,▼1
+28.0,165.0,38.0,40.0,Gallopin Tony,38.0,Lotto Soudal,17,2016,▲2
+35.0,136.0,37.0,37.0,Huzarski Bartosz,39.0,Bora - Argon 18,17,2016,▼2
+37.0,172.0,37.0,38.0,Chavanel Sylvain,40.0,Direct Energie,17,2016,▼2
+26.0,149.0,36.0,91.0,Zakarin Ilnur,41.0,Team Katusha,17,2016,▲50
+31.0,22.0,36.0,39.0,Nibali Vincenzo,42.0,Astana Pro Team,17,2016,▼3
+30.0,36.0,34.0,41.0,Kreuziger Roman,43.0,Tinkoff,17,2016,▼2
+29.0,151.0,32.0,43.0,Costa Rui,44.0,Lampre - Merida,17,2016,▼1
+27.0,54.0,32.0,44.0,Lindeman Bert-Jan,45.0,Team LottoNL-Jumbo,17,2016,▼1
+29.0,61.0,32.0,42.0,Mollema Bauke,46.0,Trek - Segafredo,17,2016,▼4
+27.0,57.0,31.0,45.0,Vanmarcke Sep,47.0,Team LottoNL-Jumbo,17,2016,▼2
+33.0,183.0,29.0,46.0,Keisse Iljo,48.0,Etixx - Quick Step,17,2016,▼2
+30.0,139.0,29.0,47.0,Voss Paul,49.0,Bora - Argon 18,17,2016,▼2
+28.0,177.0,28.0,48.0,Sicard Romain,50.0,Direct Energie,17,2016,▼2
+25.0,41.0,27.0,52.0,Bardet Romain,51.0,AG2R La Mondiale,17,2016,▲1
+28.0,94.0,26.0,50.0,Caruso Damiano,52.0,BMC Racing Team,17,2016,▼2
+30.0,214.0,26.0,,Feillu Brice,53.0,Fortuneo - Vital Concept,17,2016,-
+25.0,203.0,26.0,51.0,Durbridge Luke,54.0,ORICA-BikeExchange,17,2016,▼3
+28.0,155.0,25.0,120.0,Đurasek Kristijan,55.0,Lampre - Merida,17,2016,▲65
+25.0,78.0,24.0,54.0,Naesen Oliver,56.0,IAM Cycling,17,2016,▼2
+28.0,49.0,24.0,53.0,Vuillermoz Alexis,57.0,AG2R La Mondiale,17,2016,▼4
+33.0,124.0,24.0,75.0,Morabito Steve,58.0,FDJ,17,2016,▲17
+31.0,33.0,24.0,56.0,Bodnar Maciej,59.0,Tinkoff,17,2016,▼3
+31.0,91.0,24.0,67.0,Porte Richie,60.0,BMC Racing Team,17,2016,▲7
+30.0,9.0,22.0,57.0,Thomas Geraint,61.0,Team Sky,17,2016,▼4
+27.0,109.0,22.0,59.0,Teklehaimanot Daniel,62.0,Team Dimension Data,17,2016,▼3
+29.0,73.0,22.0,58.0,Coppel Jérôme,63.0,IAM Cycling,17,2016,▼5
+27.0,215.0,20.0,61.0,Fonseca Armindo,64.0,Fortuneo - Vital Concept,17,2016,▼3
+26.0,77.0,20.0,63.0,Howard Leigh,65.0,IAM Cycling,17,2016,▼2
+33.0,138.0,20.0,62.0,Schillinger Andreas,66.0,Bora - Argon 18,17,2016,▼4
+29.0,81.0,20.0,64.0,Rolland Pierre,67.0,Cannondale-Drapac Pro Cycling Team,17,2016,▼3
+27.0,27.0,19.0,66.0,Rosa Diego,68.0,Astana Pro Team,17,2016,▼2
+29.0,25.0,19.0,98.0,Kangert Tanel,69.0,Astana Pro Team,17,2016,▲29
+26.0,11.0,19.0,65.0,Quintana Nairo,70.0,Movistar Team,17,2016,▼5
+26.0,154.0,18.0,68.0,Cimolai Davide,71.0,Lampre - Merida,17,2016,▼3
+26.0,21.0,17.0,74.0,Aru Fabio,72.0,Astana Pro Team,17,2016,▲2
+30.0,43.0,17.0,70.0,Cherel Mickaël,73.0,AG2R La Mondiale,17,2016,▼3
+32.0,24.0,17.0,71.0,Grivko Andrey,74.0,Astana Pro Team,17,2016,▼3
+31.0,152.0,17.0,72.0,Arashiro Yukiya,75.0,Lampre - Merida,17,2016,▼3
+28.0,6.0,17.0,69.0,Poels Wout,76.0,Team Sky,17,2016,▼7
+27.0,126.0,16.0,73.0,Reichenbach Sébastien,77.0,FDJ,17,2016,▼4
+23.0,26.0,16.0,121.0,Lutsenko Alexey,78.0,Astana Pro Team,17,2016,▲43
+32.0,198.0,15.0,76.0,Maté Luis Ángel,79.0,"Cofidis, Solutions Crédits",17,2016,▼3
+33.0,48.0,15.0,,Pozzovivo Domenico,80.0,AG2R La Mondiale,17,2016,-
+32.0,55.0,15.0,79.0,Martens Paul,81.0,Team LottoNL-Jumbo,17,2016,▼2
+36.0,63.0,15.0,80.0,Irizar Markel,82.0,Trek - Segafredo,17,2016,▼2
+27.0,19.0,15.0,78.0,Oliveira Nelson,83.0,Movistar Team,17,2016,▼5
+26.0,212.0,15.0,82.0,Breen Vegard,84.0,Fortuneo - Vital Concept,17,2016,▼2
+33.0,128.0,15.0,77.0,Roy Jérémy,85.0,FDJ,17,2016,▼8
+35.0,62.0,14.0,86.0,Cancellara Fabian,86.0,Trek - Segafredo,17,2016,-
+25.0,51.0,14.0,83.0,Kelderman Wilco,87.0,Team LottoNL-Jumbo,17,2016,▼4
+27.0,13.0,14.0,85.0,Anacona Winner,88.0,Movistar Team,17,2016,▼3
+31.0,218.0,14.0,84.0,Sørensen Chris Anker,89.0,Fortuneo - Vital Concept,17,2016,▼5
+37.0,74.0,13.0,87.0,Elmiger Martin,90.0,IAM Cycling,17,2016,▼3
+26.0,213.0,13.0,88.0,Delaplace Anthony,91.0,Fortuneo - Vital Concept,17,2016,▼3
+29.0,217.0,13.0,89.0,Périchon Pierre-Luc,92.0,Fortuneo - Vital Concept,17,2016,▼3
+23.0,47.0,13.0,90.0,Gougeard Alexis,93.0,AG2R La Mondiale,17,2016,▼3
+24.0,89.0,12.0,93.0,van Baarle Dylan,94.0,Cannondale-Drapac Pro Cycling Team,17,2016,▼1
+27.0,88.0,12.0,92.0,Slagter Tom-Jelte,95.0,Cannondale-Drapac Pro Cycling Team,17,2016,▼3
+27.0,99.0,11.0,94.0,van Garderen Tejay,96.0,BMC Racing Team,17,2016,▼2
+30.0,115.0,11.0,95.0,Geschke Simon,97.0,Team Giant - Alpecin,17,2016,▼2
+28.0,46.0,11.0,97.0,Gautier Cyril,98.0,AG2R La Mondiale,17,2016,▼1
+34.0,145.0,11.0,96.0,Losada Alberto,99.0,Team Katusha,17,2016,▼3
+24.0,157.0,10.0,100.0,Meintjes Louis,100.0,Lampre - Merida,17,2016,-
+24.0,39.0,10.0,99.0,Valgren Michael,101.0,Tinkoff,17,2016,▼2
+26.0,52.0,9.0,101.0,Bennett George,102.0,Team LottoNL-Jumbo,17,2016,▼1
+42.0,38.0,9.0,102.0,Tosatto Matteo,103.0,Tinkoff,17,2016,▼1
+27.0,17.0,8.0,103.0,Izagirre Ion,104.0,Movistar Team,17,2016,▼1
+24.0,173.0,8.0,105.0,Duchesne Antoine,105.0,Direct Energie,17,2016,-
+31.0,219.0,8.0,104.0,Vachon Florian,106.0,Fortuneo - Vital Concept,17,2016,▼2
+24.0,111.0,7.0,106.0,Barguil Warren,107.0,Team Giant - Alpecin,17,2016,▼1
+24.0,159.0,7.0,108.0,Polanc Jan,108.0,Lampre - Merida,17,2016,-
+32.0,28.0,7.0,107.0,Sánchez Luis León,109.0,Astana Pro Team,17,2016,▼2
+33.0,197.0,7.0,110.0,Lemoine Cyril,110.0,"Cofidis, Solutions Crédits",17,2016,-
+28.0,142.0,7.0,112.0,Guarnieri Jacopo,111.0,Team Katusha,17,2016,▲1
+39.0,167.0,7.0,111.0,Henderson Gregory,112.0,Lotto Soudal,17,2016,▼1
+27.0,132.0,7.0,113.0,Archbold Shane,113.0,Bora - Argon 18,17,2016,-
+28.0,194.0,7.0,109.0,Edet Nicolas,114.0,"Cofidis, Solutions Crédits",17,2016,▼5
+27.0,106.0,6.0,115.0,Janse van Rensburg Reinardt,115.0,Team Dimension Data,17,2016,-
+29.0,8.0,6.0,116.0,Stannard Ian,116.0,Team Sky,17,2016,-
+26.0,4.0,6.0,114.0,Landa Mikel,117.0,Team Sky,17,2016,▼3
+36.0,162.0,6.0,117.0,Bak Lars Ytting,118.0,Lotto Soudal,17,2016,▼1
+24.0,137.0,5.0,119.0,Konrad Patrick,119.0,Bora - Argon 18,17,2016,-
+24.0,188.0,5.0,122.0,Vakoč Petr,120.0,Etixx - Quick Step,17,2016,▲2
+39.0,69.0,5.0,118.0,Zubeldia Haimar,121.0,Trek - Segafredo,17,2016,▼3
+25.0,135.0,5.0,123.0,Bennett Sam,122.0,Bora - Argon 18,17,2016,▲1
+28.0,87.0,4.0,125.0,Navardauskas Ramūnas,123.0,Cannondale-Drapac Pro Cycling Team,17,2016,▲2
+36.0,112.0,4.0,126.0,Curvers Roy,124.0,Team Giant - Alpecin,17,2016,▲2
+35.0,105.0,4.0,127.0,Eisel Bernhard,125.0,Team Dimension Data,17,2016,▲2
+24.0,83.0,4.0,124.0,Craddock Lawson,126.0,Cannondale-Drapac Pro Cycling Team,17,2016,▼2
+30.0,42.0,3.0,128.0,Bakelants Jan,127.0,AG2R La Mondiale,17,2016,▲1
+25.0,176.0,3.0,129.0,Petit Adrien,128.0,Direct Energie,17,2016,▲1
+28.0,2.0,2.0,130.0,Henao Sergio,129.0,Team Sky,17,2016,▲1
+26.0,189.0,2.0,134.0,Vermote Julien,130.0,Etixx - Quick Step,17,2016,▲4
+32.0,14.0,2.0,133.0,Erviti Imanol,131.0,Movistar Team,17,2016,▲2
+24.0,156.0,2.0,131.0,Grmay Tsgabu,132.0,Lampre - Merida,17,2016,▼1
+38.0,204.0,2.0,132.0,Hayman Mathew,133.0,ORICA-BikeExchange,17,2016,▼1
+26.0,7.0,2.0,135.0,Rowe Luke,134.0,Team Sky,17,2016,▲1
+23.0,131.0,1.0,136.0,Buchmann Emanuel,135.0,Bora - Argon 18,17,2016,▲1
+35.0,174.0,1.0,138.0,Gène Yohann,136.0,Direct Energie,17,2016,▲2
+25.0,102.0,1.0,137.0,Berhane Natnael,137.0,Team Dimension Data,17,2016,-
+26.0,32.0,425.0,1.0,Sagan Peter,1.0,Tinkoff,18,2016,-
+28.0,181.0,228.0,2.0,Kittel Marcel,2.0,Etixx - Quick Step,18,2016,-
+24.0,171.0,156.0,3.0,Coquard Bryan,3.0,Direct Energie,18,2016,-
+29.0,144.0,152.0,4.0,Kristoff Alexander,4.0,Team Katusha,18,2016,-
+25.0,207.0,143.0,5.0,Matthews Michael,5.0,ORICA-BikeExchange,18,2016,-
+31.0,98.0,136.0,6.0,Van Avermaet Greg,6.0,BMC Racing Team,18,2016,-
+34.0,161.0,128.0,7.0,Greipel André,7.0,Lotto Soudal,18,2016,-
+31.0,1.0,124.0,11.0,Froome Chris,8.0,Team Sky,18,2016,▲3
+29.0,163.0,116.0,9.0,De Gendt Thomas,9.0,Lotto Soudal,18,2016,-
+26.0,37.0,114.0,8.0,Majka Rafał,10.0,Tinkoff,18,2016,▼2
+33.0,191.0,105.0,10.0,Navarro Daniel,11.0,"Cofidis, Solutions Crédits",18,2016,▼1
+33.0,72.0,89.0,12.0,Clement Stef,12.0,IAM Cycling,18,2016,-
+24.0,182.0,84.0,13.0,Alaphilippe Julian,13.0,Etixx - Quick Step,18,2016,-
+32.0,107.0,77.0,14.0,Pauwels Serge,14.0,Team Dimension Data,18,2016,-
+35.0,104.0,74.0,15.0,Cummings Steve,15.0,Team Dimension Data,18,2016,-
+25.0,114.0,71.0,20.0,Dumoulin Tom,16.0,Team Giant - Alpecin,18,2016,▲4
+23.0,196.0,64.0,16.0,Laporte Christophe,17.0,"Cofidis, Solutions Crédits",18,2016,▼1
+22.0,75.0,62.0,17.0,Enger Sondre Holst,18.0,IAM Cycling,18,2016,▼1
+29.0,103.0,59.0,18.0,Boasson Hagen Edvald,19.0,Team Dimension Data,18,2016,▼1
+29.0,184.0,56.0,19.0,Martin Dan,20.0,Etixx - Quick Step,18,2016,▼1
+31.0,205.0,52.0,21.0,Impey Daryl,21.0,ORICA-BikeExchange,18,2016,-
+24.0,216.0,51.0,22.0,McLay Daniel,22.0,Fortuneo - Vital Concept,18,2016,-
+36.0,12.0,49.0,28.0,Valverde Alejandro,23.0,Movistar Team,18,2016,▲5
+33.0,186.0,48.0,23.0,Richeze Maximiliano,24.0,Etixx - Quick Step,18,2016,▼1
+27.0,79.0,47.0,24.0,Pantano Jarlinson,25.0,IAM Cycling,18,2016,▼1
+24.0,67.0,47.0,26.0,Stuyven Jasper,26.0,Trek - Segafredo,18,2016,-
+27.0,113.0,47.0,25.0,Degenkolb John,27.0,Team Giant - Alpecin,18,2016,▼2
+23.0,53.0,47.0,27.0,Groenewegen Dylan,28.0,Team LottoNL-Jumbo,18,2016,▼1
+37.0,141.0,46.0,37.0,Rodríguez Joaquim,29.0,Team Katusha,18,2016,▲8
+31.0,187.0,44.0,29.0,Sabatini Fabio,30.0,Etixx - Quick Step,18,2016,▼1
+35.0,44.0,43.0,30.0,Dumoulin Samuel,31.0,AG2R La Mondiale,18,2016,▼1
+31.0,133.0,42.0,31.0,Bárta Jan,32.0,Bora - Argon 18,18,2016,▼1
+23.0,209.0,42.0,33.0,Yates Adam,33.0,ORICA-BikeExchange,18,2016,-
+37.0,179.0,42.0,32.0,Voeckler Thomas,34.0,Direct Energie,18,2016,▼2
+28.0,134.0,40.0,34.0,Benedetti Cesare,35.0,Bora - Argon 18,18,2016,▼1
+31.0,185.0,40.0,35.0,Martin Tony,36.0,Etixx - Quick Step,18,2016,▼1
+28.0,84.0,39.0,36.0,Howes Alex,37.0,Cannondale-Drapac Pro Cycling Team,18,2016,▼1
+25.0,41.0,38.0,51.0,Bardet Romain,38.0,AG2R La Mondiale,18,2016,▲13
+28.0,165.0,38.0,38.0,Gallopin Tony,39.0,Lotto Soudal,18,2016,▼1
+31.0,91.0,37.0,60.0,Porte Richie,40.0,BMC Racing Team,18,2016,▲20
+30.0,36.0,37.0,43.0,Kreuziger Roman,41.0,Tinkoff,18,2016,▲2
+31.0,22.0,37.0,42.0,Nibali Vincenzo,42.0,Astana Pro Team,18,2016,-
+35.0,136.0,37.0,39.0,Huzarski Bartosz,43.0,Bora - Argon 18,18,2016,▼4
+37.0,172.0,37.0,40.0,Chavanel Sylvain,44.0,Direct Energie,18,2016,▼4
+26.0,149.0,36.0,41.0,Zakarin Ilnur,45.0,Team Katusha,18,2016,▼4
+29.0,61.0,32.0,46.0,Mollema Bauke,46.0,Trek - Segafredo,18,2016,-
+26.0,21.0,32.0,72.0,Aru Fabio,47.0,Astana Pro Team,18,2016,▲25
+29.0,151.0,32.0,44.0,Costa Rui,48.0,Lampre - Merida,18,2016,▼4
+27.0,54.0,32.0,45.0,Lindeman Bert-Jan,49.0,Team LottoNL-Jumbo,18,2016,▼4
+27.0,57.0,31.0,47.0,Vanmarcke Sep,50.0,Team LottoNL-Jumbo,18,2016,▼3
+33.0,183.0,29.0,48.0,Keisse Iljo,51.0,Etixx - Quick Step,18,2016,▼3
+30.0,139.0,29.0,49.0,Voss Paul,52.0,Bora - Argon 18,18,2016,▼3
+28.0,177.0,28.0,50.0,Sicard Romain,53.0,Direct Energie,18,2016,▼3
+29.0,73.0,27.0,63.0,Coppel Jérôme,54.0,IAM Cycling,18,2016,▲9
+28.0,94.0,26.0,52.0,Caruso Damiano,55.0,BMC Racing Team,18,2016,▼3
+30.0,214.0,26.0,53.0,Feillu Brice,56.0,Fortuneo - Vital Concept,18,2016,▼3
+25.0,203.0,26.0,54.0,Durbridge Luke,57.0,ORICA-BikeExchange,18,2016,▼3
+26.0,11.0,25.0,70.0,Quintana Nairo,58.0,Movistar Team,18,2016,▲12
+28.0,155.0,25.0,55.0,Đurasek Kristijan,59.0,Lampre - Merida,18,2016,▼4
+28.0,49.0,24.0,57.0,Vuillermoz Alexis,60.0,AG2R La Mondiale,18,2016,▼3
+33.0,124.0,24.0,58.0,Morabito Steve,61.0,FDJ,18,2016,▼3
+25.0,78.0,24.0,56.0,Naesen Oliver,62.0,IAM Cycling,18,2016,▼6
+31.0,33.0,24.0,59.0,Bodnar Maciej,63.0,Tinkoff,18,2016,▼4
+30.0,9.0,22.0,61.0,Thomas Geraint,64.0,Team Sky,18,2016,▼3
+27.0,109.0,22.0,62.0,Teklehaimanot Daniel,65.0,Team Dimension Data,18,2016,▼3
+27.0,215.0,20.0,64.0,Fonseca Armindo,66.0,Fortuneo - Vital Concept,18,2016,▼2
+33.0,138.0,20.0,66.0,Schillinger Andreas,67.0,Bora - Argon 18,18,2016,▼1
+26.0,77.0,20.0,65.0,Howard Leigh,68.0,IAM Cycling,18,2016,▼3
+29.0,81.0,20.0,67.0,Rolland Pierre,69.0,Cannondale-Drapac Pro Cycling Team,18,2016,▼2
+29.0,25.0,19.0,69.0,Kangert Tanel,70.0,Astana Pro Team,18,2016,▼1
+27.0,27.0,19.0,68.0,Rosa Diego,71.0,Astana Pro Team,18,2016,▼3
+26.0,154.0,18.0,71.0,Cimolai Davide,72.0,Lampre - Merida,18,2016,▼1
+24.0,157.0,17.0,100.0,Meintjes Louis,73.0,Lampre - Merida,18,2016,▲27
+28.0,6.0,17.0,76.0,Poels Wout,74.0,Team Sky,18,2016,▲2
+30.0,43.0,17.0,73.0,Cherel Mickaël,75.0,AG2R La Mondiale,18,2016,▼2
+27.0,17.0,17.0,104.0,Izagirre Ion,76.0,Movistar Team,18,2016,▲28
+32.0,24.0,17.0,74.0,Grivko Andrey,77.0,Astana Pro Team,18,2016,▼3
+31.0,152.0,17.0,75.0,Arashiro Yukiya,78.0,Lampre - Merida,18,2016,▼3
+27.0,126.0,16.0,77.0,Reichenbach Sébastien,79.0,FDJ,18,2016,▼2
+23.0,26.0,16.0,78.0,Lutsenko Alexey,80.0,Astana Pro Team,18,2016,▼2
+33.0,48.0,15.0,80.0,Pozzovivo Domenico,81.0,AG2R La Mondiale,18,2016,▼1
+32.0,198.0,15.0,79.0,Maté Luis Ángel,82.0,"Cofidis, Solutions Crédits",18,2016,▼3
+27.0,19.0,15.0,83.0,Oliveira Nelson,83.0,Movistar Team,18,2016,-
+33.0,128.0,15.0,85.0,Roy Jérémy,84.0,FDJ,18,2016,▲1
+32.0,55.0,15.0,81.0,Martens Paul,85.0,Team LottoNL-Jumbo,18,2016,▼4
+36.0,63.0,15.0,82.0,Irizar Markel,86.0,Trek - Segafredo,18,2016,▼4
+26.0,212.0,15.0,84.0,Breen Vegard,87.0,Fortuneo - Vital Concept,18,2016,▼3
+25.0,51.0,14.0,87.0,Kelderman Wilco,88.0,Team LottoNL-Jumbo,18,2016,▼1
+31.0,218.0,14.0,89.0,Sørensen Chris Anker,89.0,Fortuneo - Vital Concept,18,2016,-
+27.0,13.0,14.0,88.0,Anacona Winner,90.0,Movistar Team,18,2016,▼2
+37.0,74.0,13.0,90.0,Elmiger Martin,91.0,IAM Cycling,18,2016,▼1
+26.0,213.0,13.0,91.0,Delaplace Anthony,92.0,Fortuneo - Vital Concept,18,2016,▼1
+29.0,217.0,13.0,92.0,Périchon Pierre-Luc,93.0,Fortuneo - Vital Concept,18,2016,▼1
+23.0,47.0,13.0,93.0,Gougeard Alexis,94.0,AG2R La Mondiale,18,2016,▼1
+27.0,88.0,12.0,95.0,Slagter Tom-Jelte,95.0,Cannondale-Drapac Pro Cycling Team,18,2016,-
+24.0,89.0,12.0,94.0,van Baarle Dylan,96.0,Cannondale-Drapac Pro Cycling Team,18,2016,▼2
+27.0,99.0,11.0,96.0,van Garderen Tejay,97.0,BMC Racing Team,18,2016,▼1
+34.0,145.0,11.0,99.0,Losada Alberto,98.0,Team Katusha,18,2016,▲1
+30.0,115.0,11.0,97.0,Geschke Simon,99.0,Team Giant - Alpecin,18,2016,▼2
+28.0,46.0,11.0,98.0,Gautier Cyril,100.0,AG2R La Mondiale,18,2016,▼2
+24.0,39.0,10.0,101.0,Valgren Michael,101.0,Tinkoff,18,2016,-
+26.0,52.0,9.0,102.0,Bennett George,102.0,Team LottoNL-Jumbo,18,2016,-
+42.0,38.0,9.0,103.0,Tosatto Matteo,103.0,Tinkoff,18,2016,-
+31.0,219.0,8.0,106.0,Vachon Florian,104.0,Fortuneo - Vital Concept,18,2016,▲2
+24.0,173.0,8.0,105.0,Duchesne Antoine,105.0,Direct Energie,18,2016,-
+24.0,111.0,7.0,107.0,Barguil Warren,106.0,Team Giant - Alpecin,18,2016,▲1
+32.0,28.0,7.0,109.0,Sánchez Luis León,107.0,Astana Pro Team,18,2016,▲2
+24.0,159.0,7.0,108.0,Polanc Jan,108.0,Lampre - Merida,18,2016,-
+28.0,194.0,7.0,114.0,Edet Nicolas,109.0,"Cofidis, Solutions Crédits",18,2016,▲5
+33.0,197.0,7.0,110.0,Lemoine Cyril,110.0,"Cofidis, Solutions Crédits",18,2016,-
+39.0,167.0,7.0,112.0,Henderson Gregory,111.0,Lotto Soudal,18,2016,▲1
+28.0,142.0,7.0,111.0,Guarnieri Jacopo,112.0,Team Katusha,18,2016,▼1
+26.0,4.0,6.0,117.0,Landa Mikel,113.0,Team Sky,18,2016,▲4
+27.0,106.0,6.0,115.0,Janse van Rensburg Reinardt,114.0,Team Dimension Data,18,2016,▲1
+29.0,8.0,6.0,116.0,Stannard Ian,115.0,Team Sky,18,2016,▲1
+36.0,162.0,6.0,118.0,Bak Lars Ytting,116.0,Lotto Soudal,18,2016,▲2
+39.0,69.0,5.0,121.0,Zubeldia Haimar,117.0,Trek - Segafredo,18,2016,▲4
+24.0,137.0,5.0,119.0,Konrad Patrick,118.0,Bora - Argon 18,18,2016,▲1
+24.0,188.0,5.0,120.0,Vakoč Petr,119.0,Etixx - Quick Step,18,2016,▲1
+25.0,135.0,5.0,122.0,Bennett Sam,120.0,Bora - Argon 18,18,2016,▲2
+24.0,83.0,4.0,126.0,Craddock Lawson,121.0,Cannondale-Drapac Pro Cycling Team,18,2016,▲5
+36.0,112.0,4.0,124.0,Curvers Roy,122.0,Team Giant - Alpecin,18,2016,▲2
+28.0,87.0,4.0,123.0,Navardauskas Ramūnas,123.0,Cannondale-Drapac Pro Cycling Team,18,2016,-
+35.0,105.0,4.0,125.0,Eisel Bernhard,124.0,Team Dimension Data,18,2016,▲1
+30.0,42.0,3.0,127.0,Bakelants Jan,125.0,AG2R La Mondiale,18,2016,▲2
+25.0,176.0,3.0,128.0,Petit Adrien,126.0,Direct Energie,18,2016,▲2
+28.0,2.0,2.0,129.0,Henao Sergio,127.0,Team Sky,18,2016,▲2
+24.0,156.0,2.0,132.0,Grmay Tsgabu,128.0,Lampre - Merida,18,2016,▲4
+32.0,14.0,2.0,131.0,Erviti Imanol,129.0,Movistar Team,18,2016,▲2
+38.0,204.0,2.0,133.0,Hayman Mathew,130.0,ORICA-BikeExchange,18,2016,▲3
+26.0,189.0,2.0,130.0,Vermote Julien,131.0,Etixx - Quick Step,18,2016,▼1
+26.0,7.0,2.0,134.0,Rowe Luke,132.0,Team Sky,18,2016,▲2
+23.0,131.0,1.0,135.0,Buchmann Emanuel,133.0,Bora - Argon 18,18,2016,▲2
+25.0,102.0,1.0,137.0,Berhane Natnael,134.0,Team Dimension Data,18,2016,▲3
+35.0,174.0,1.0,136.0,Gène Yohann,135.0,Direct Energie,18,2016,▲1
+26.0,32.0,425.0,1.0,Sagan Peter,1.0,Tinkoff,19,2016,-
+28.0,181.0,228.0,2.0,Kittel Marcel,2.0,Etixx - Quick Step,19,2016,-
+25.0,207.0,163.0,5.0,Matthews Michael,3.0,ORICA-BikeExchange,19,2016,▲2
+24.0,171.0,156.0,3.0,Coquard Bryan,4.0,Direct Energie,19,2016,▼1
+29.0,144.0,152.0,4.0,Kristoff Alexander,5.0,Team Katusha,19,2016,▼1
+31.0,98.0,136.0,6.0,Van Avermaet Greg,6.0,BMC Racing Team,19,2016,-
+29.0,163.0,133.0,9.0,De Gendt Thomas,7.0,Lotto Soudal,19,2016,▲2
+31.0,1.0,131.0,8.0,Froome Chris,8.0,Team Sky,19,2016,-
+34.0,161.0,128.0,7.0,Greipel André,9.0,Lotto Soudal,19,2016,▼2
+26.0,37.0,119.0,10.0,Majka Rafał,10.0,Tinkoff,19,2016,-
+33.0,72.0,89.0,12.0,Clement Stef,11.0,IAM Cycling,19,2016,▲1
+24.0,182.0,84.0,13.0,Alaphilippe Julian,12.0,Etixx - Quick Step,19,2016,▲1
+32.0,107.0,77.0,14.0,Pauwels Serge,13.0,Team Dimension Data,19,2016,▲1
+35.0,104.0,74.0,15.0,Cummings Steve,14.0,Team Dimension Data,19,2016,▲1
+29.0,184.0,65.0,20.0,Martin Dan,15.0,Etixx - Quick Step,19,2016,▲5
+36.0,12.0,64.0,23.0,Valverde Alejandro,16.0,Movistar Team,19,2016,▲7
+23.0,196.0,64.0,17.0,Laporte Christophe,17.0,"Cofidis, Solutions Crédits",19,2016,-
+37.0,141.0,63.0,29.0,Rodríguez Joaquim,18.0,Team Katusha,19,2016,▲11
+22.0,75.0,62.0,18.0,Enger Sondre Holst,19.0,IAM Cycling,19,2016,▼1
+29.0,103.0,59.0,19.0,Boasson Hagen Edvald,20.0,Team Dimension Data,19,2016,▼1
+25.0,41.0,58.0,38.0,Bardet Romain,21.0,AG2R La Mondiale,19,2016,▲17
+27.0,79.0,56.0,25.0,Pantano Jarlinson,22.0,IAM Cycling,19,2016,▲3
+31.0,205.0,52.0,21.0,Impey Daryl,23.0,ORICA-BikeExchange,19,2016,▼2
+31.0,185.0,51.0,36.0,Martin Tony,24.0,Etixx - Quick Step,19,2016,▲12
+24.0,216.0,51.0,22.0,McLay Daniel,25.0,Fortuneo - Vital Concept,19,2016,▼3
+33.0,186.0,48.0,24.0,Richeze Maximiliano,26.0,Etixx - Quick Step,19,2016,▼2
+24.0,67.0,47.0,26.0,Stuyven Jasper,27.0,Trek - Segafredo,19,2016,▼1
+27.0,113.0,47.0,27.0,Degenkolb John,28.0,Team Giant - Alpecin,19,2016,▼1
+23.0,53.0,47.0,28.0,Groenewegen Dylan,29.0,Team LottoNL-Jumbo,19,2016,▼1
+23.0,209.0,45.0,33.0,Yates Adam,30.0,ORICA-BikeExchange,19,2016,▲3
+31.0,187.0,44.0,30.0,Sabatini Fabio,31.0,Etixx - Quick Step,19,2016,▼1
+31.0,91.0,43.0,40.0,Porte Richie,32.0,BMC Racing Team,19,2016,▲8
+35.0,44.0,43.0,31.0,Dumoulin Samuel,33.0,AG2R La Mondiale,19,2016,▼2
+31.0,133.0,42.0,32.0,Bárta Jan,34.0,Bora - Argon 18,19,2016,▼2
+26.0,21.0,42.0,47.0,Aru Fabio,35.0,Astana Pro Team,19,2016,▲12
+37.0,179.0,42.0,34.0,Voeckler Thomas,36.0,Direct Energie,19,2016,▼2
+28.0,134.0,40.0,35.0,Benedetti Cesare,37.0,Bora - Argon 18,19,2016,▼2
+28.0,165.0,40.0,39.0,Gallopin Tony,38.0,Lotto Soudal,19,2016,▲1
+28.0,84.0,39.0,37.0,Howes Alex,39.0,Cannondale-Drapac Pro Cycling Team,19,2016,▼2
+30.0,36.0,37.0,41.0,Kreuziger Roman,40.0,Tinkoff,19,2016,▲1
+28.0,49.0,37.0,60.0,Vuillermoz Alexis,41.0,AG2R La Mondiale,19,2016,▲19
+31.0,22.0,37.0,42.0,Nibali Vincenzo,42.0,Astana Pro Team,19,2016,-
+35.0,136.0,37.0,43.0,Huzarski Bartosz,43.0,Bora - Argon 18,19,2016,-
+37.0,172.0,37.0,44.0,Chavanel Sylvain,44.0,Direct Energie,19,2016,-
+26.0,11.0,36.0,58.0,Quintana Nairo,45.0,Movistar Team,19,2016,▲13
+29.0,151.0,33.0,48.0,Costa Rui,46.0,Lampre - Merida,19,2016,▲2
+29.0,61.0,32.0,46.0,Mollema Bauke,47.0,Trek - Segafredo,19,2016,▼1
+27.0,54.0,32.0,49.0,Lindeman Bert-Jan,48.0,Team LottoNL-Jumbo,19,2016,▲1
+26.0,149.0,31.0,45.0,Zakarin Ilnur,49.0,Team Katusha,19,2016,▼4
+27.0,57.0,31.0,50.0,Vanmarcke Sep,50.0,Team LottoNL-Jumbo,19,2016,-
+24.0,157.0,30.0,73.0,Meintjes Louis,51.0,Lampre - Merida,19,2016,▲22
+33.0,183.0,29.0,51.0,Keisse Iljo,52.0,Etixx - Quick Step,19,2016,▼1
+30.0,139.0,29.0,52.0,Voss Paul,53.0,Bora - Argon 18,19,2016,▼1
+28.0,177.0,28.0,53.0,Sicard Romain,54.0,Direct Energie,19,2016,▼1
+29.0,73.0,27.0,54.0,Coppel Jérôme,55.0,IAM Cycling,19,2016,▼1
+28.0,94.0,26.0,55.0,Caruso Damiano,56.0,BMC Racing Team,19,2016,▼1
+30.0,214.0,26.0,56.0,Feillu Brice,57.0,Fortuneo - Vital Concept,19,2016,▼1
+25.0,203.0,26.0,57.0,Durbridge Luke,58.0,ORICA-BikeExchange,19,2016,▼1
+28.0,6.0,25.0,74.0,Poels Wout,59.0,Team Sky,19,2016,▲15
+28.0,155.0,25.0,59.0,Đurasek Kristijan,60.0,Lampre - Merida,19,2016,▼1
+26.0,212.0,25.0,87.0,Breen Vegard,61.0,Fortuneo - Vital Concept,19,2016,▲26
+33.0,124.0,24.0,61.0,Morabito Steve,62.0,FDJ,19,2016,▼1
+25.0,78.0,24.0,62.0,Naesen Oliver,63.0,IAM Cycling,19,2016,▼1
+31.0,33.0,24.0,63.0,Bodnar Maciej,64.0,Tinkoff,19,2016,▼1
+29.0,81.0,23.0,69.0,Rolland Pierre,65.0,Cannondale-Drapac Pro Cycling Team,19,2016,▲4
+27.0,17.0,22.0,76.0,Izagirre Ion,66.0,Movistar Team,19,2016,▲10
+27.0,109.0,22.0,65.0,Teklehaimanot Daniel,67.0,Team Dimension Data,19,2016,▼2
+27.0,215.0,20.0,66.0,Fonseca Armindo,68.0,Fortuneo - Vital Concept,19,2016,▼2
+33.0,138.0,20.0,67.0,Schillinger Andreas,69.0,Bora - Argon 18,19,2016,▼2
+26.0,77.0,20.0,68.0,Howard Leigh,70.0,IAM Cycling,19,2016,▼2
+29.0,25.0,19.0,70.0,Kangert Tanel,71.0,Astana Pro Team,19,2016,▼1
+27.0,27.0,19.0,71.0,Rosa Diego,72.0,Astana Pro Team,19,2016,▼1
+26.0,154.0,18.0,72.0,Cimolai Davide,73.0,Lampre - Merida,19,2016,▼1
+30.0,9.0,17.0,64.0,Thomas Geraint,74.0,Team Sky,19,2016,▼10
+30.0,43.0,17.0,75.0,Cherel Mickaël,75.0,AG2R La Mondiale,19,2016,-
+32.0,24.0,17.0,77.0,Grivko Andrey,76.0,Astana Pro Team,19,2016,▲1
+31.0,152.0,17.0,78.0,Arashiro Yukiya,77.0,Lampre - Merida,19,2016,▲1
+27.0,126.0,16.0,79.0,Reichenbach Sébastien,78.0,FDJ,19,2016,▲1
+23.0,131.0,16.0,133.0,Buchmann Emanuel,79.0,Bora - Argon 18,19,2016,▲54
+23.0,26.0,16.0,80.0,Lutsenko Alexey,80.0,Astana Pro Team,19,2016,-
+33.0,48.0,15.0,81.0,Pozzovivo Domenico,81.0,AG2R La Mondiale,19,2016,-
+32.0,198.0,15.0,82.0,Maté Luis Ángel,82.0,"Cofidis, Solutions Crédits",19,2016,-
+27.0,19.0,15.0,83.0,Oliveira Nelson,83.0,Movistar Team,19,2016,-
+33.0,128.0,15.0,84.0,Roy Jérémy,84.0,FDJ,19,2016,-
+32.0,55.0,15.0,85.0,Martens Paul,85.0,Team LottoNL-Jumbo,19,2016,-
+36.0,63.0,15.0,86.0,Irizar Markel,86.0,Trek - Segafredo,19,2016,-
+25.0,51.0,14.0,88.0,Kelderman Wilco,87.0,Team LottoNL-Jumbo,19,2016,▲1
+27.0,13.0,14.0,90.0,Anacona Winner,88.0,Movistar Team,19,2016,▲2
+31.0,218.0,14.0,89.0,Sørensen Chris Anker,89.0,Fortuneo - Vital Concept,19,2016,-
+37.0,74.0,13.0,91.0,Elmiger Martin,90.0,IAM Cycling,19,2016,▲1
+26.0,213.0,13.0,92.0,Delaplace Anthony,91.0,Fortuneo - Vital Concept,19,2016,▲1
+29.0,217.0,13.0,93.0,Périchon Pierre-Luc,92.0,Fortuneo - Vital Concept,19,2016,▲1
+23.0,47.0,13.0,94.0,Gougeard Alexis,93.0,AG2R La Mondiale,19,2016,▲1
+27.0,88.0,12.0,95.0,Slagter Tom-Jelte,94.0,Cannondale-Drapac Pro Cycling Team,19,2016,▲1
+24.0,89.0,12.0,96.0,van Baarle Dylan,95.0,Cannondale-Drapac Pro Cycling Team,19,2016,▲1
+27.0,99.0,11.0,97.0,van Garderen Tejay,96.0,BMC Racing Team,19,2016,▲1
+34.0,145.0,11.0,98.0,Losada Alberto,97.0,Team Katusha,19,2016,▲1
+28.0,46.0,11.0,100.0,Gautier Cyril,98.0,AG2R La Mondiale,19,2016,▲2
+30.0,115.0,11.0,99.0,Geschke Simon,99.0,Team Giant - Alpecin,19,2016,-
+26.0,4.0,10.0,113.0,Landa Mikel,100.0,Team Sky,19,2016,▲13
+24.0,39.0,10.0,101.0,Valgren Michael,101.0,Tinkoff,19,2016,-
+24.0,111.0,9.0,106.0,Barguil Warren,102.0,Team Giant - Alpecin,19,2016,▲4
+26.0,52.0,9.0,102.0,Bennett George,103.0,Team LottoNL-Jumbo,19,2016,▼1
+42.0,38.0,9.0,103.0,Tosatto Matteo,104.0,Tinkoff,19,2016,▼1
+31.0,219.0,8.0,104.0,Vachon Florian,105.0,Fortuneo - Vital Concept,19,2016,▼1
+24.0,173.0,8.0,105.0,Duchesne Antoine,106.0,Direct Energie,19,2016,▼1
+32.0,28.0,7.0,107.0,Sánchez Luis León,107.0,Astana Pro Team,19,2016,-
+24.0,159.0,7.0,108.0,Polanc Jan,108.0,Lampre - Merida,19,2016,-
+35.0,118.0,7.0,,ten Dam Laurens,109.0,Team Giant - Alpecin,19,2016,-
+28.0,194.0,7.0,109.0,Edet Nicolas,110.0,"Cofidis, Solutions Crédits",19,2016,▼1
+33.0,197.0,7.0,110.0,Lemoine Cyril,111.0,"Cofidis, Solutions Crédits",19,2016,▼1
+39.0,167.0,7.0,111.0,Henderson Gregory,112.0,Lotto Soudal,19,2016,▼1
+28.0,142.0,7.0,112.0,Guarnieri Jacopo,113.0,Team Katusha,19,2016,▼1
+33.0,93.0,6.0,,Burghardt Marcus,114.0,BMC Racing Team,19,2016,-
+27.0,106.0,6.0,114.0,Janse van Rensburg Reinardt,115.0,Team Dimension Data,19,2016,▼1
+29.0,8.0,6.0,115.0,Stannard Ian,116.0,Team Sky,19,2016,▼1
+36.0,162.0,6.0,116.0,Bak Lars Ytting,117.0,Lotto Soudal,19,2016,▼1
+39.0,69.0,5.0,117.0,Zubeldia Haimar,118.0,Trek - Segafredo,19,2016,▼1
+24.0,137.0,5.0,118.0,Konrad Patrick,119.0,Bora - Argon 18,19,2016,▼1
+24.0,188.0,5.0,119.0,Vakoč Petr,120.0,Etixx - Quick Step,19,2016,▼1
+25.0,135.0,5.0,120.0,Bennett Sam,121.0,Bora - Argon 18,19,2016,▼1
+34.0,96.0,4.0,,Moinard Amaël,122.0,BMC Racing Team,19,2016,-
+24.0,83.0,4.0,121.0,Craddock Lawson,123.0,Cannondale-Drapac Pro Cycling Team,19,2016,▼2
+36.0,112.0,4.0,122.0,Curvers Roy,124.0,Team Giant - Alpecin,19,2016,▼2
+28.0,87.0,4.0,123.0,Navardauskas Ramūnas,125.0,Cannondale-Drapac Pro Cycling Team,19,2016,▼2
+35.0,105.0,4.0,124.0,Eisel Bernhard,126.0,Team Dimension Data,19,2016,▼2
+30.0,42.0,3.0,125.0,Bakelants Jan,127.0,AG2R La Mondiale,19,2016,▼2
+25.0,176.0,3.0,126.0,Petit Adrien,128.0,Direct Energie,19,2016,▼2
+28.0,2.0,2.0,127.0,Henao Sergio,129.0,Team Sky,19,2016,▼2
+24.0,156.0,2.0,128.0,Grmay Tsgabu,130.0,Lampre - Merida,19,2016,▼2
+32.0,14.0,2.0,129.0,Erviti Imanol,131.0,Movistar Team,19,2016,▼2
+38.0,204.0,2.0,130.0,Hayman Mathew,132.0,ORICA-BikeExchange,19,2016,▼2
+26.0,189.0,2.0,131.0,Vermote Julien,133.0,Etixx - Quick Step,19,2016,▼2
+26.0,7.0,2.0,132.0,Rowe Luke,134.0,Team Sky,19,2016,▼2
+29.0,35.0,1.0,,Kišerlovski Robert,135.0,Tinkoff,19,2016,-
+25.0,102.0,1.0,134.0,Berhane Natnael,136.0,Team Dimension Data,19,2016,▼2
+35.0,174.0,1.0,135.0,Gène Yohann,137.0,Direct Energie,19,2016,▼2
+26.0,32.0,440.0,1.0,Sagan Peter,1.0,Tinkoff,20,2016,-
+28.0,181.0,228.0,2.0,Kittel Marcel,2.0,Etixx - Quick Step,20,2016,-
+25.0,207.0,183.0,3.0,Matthews Michael,3.0,ORICA-BikeExchange,20,2016,-
+24.0,171.0,156.0,4.0,Coquard Bryan,4.0,Direct Energie,20,2016,-
+29.0,144.0,152.0,5.0,Kristoff Alexander,5.0,Team Katusha,20,2016,-
+29.0,163.0,150.0,7.0,De Gendt Thomas,6.0,Lotto Soudal,20,2016,▲1
+31.0,98.0,136.0,6.0,Van Avermaet Greg,7.0,BMC Racing Team,20,2016,▼1
+31.0,1.0,131.0,8.0,Froome Chris,8.0,Team Sky,20,2016,-
+34.0,161.0,128.0,9.0,Greipel André,9.0,Lotto Soudal,20,2016,-
+26.0,37.0,120.0,10.0,Majka Rafał,10.0,Tinkoff,20,2016,-
+24.0,182.0,97.0,12.0,Alaphilippe Julian,11.0,Etixx - Quick Step,20,2016,▲1
+33.0,72.0,89.0,11.0,Clement Stef,12.0,IAM Cycling,20,2016,▼1
+32.0,107.0,77.0,13.0,Pauwels Serge,13.0,Team Dimension Data,20,2016,-
+35.0,104.0,74.0,14.0,Cummings Steve,14.0,Team Dimension Data,20,2016,-
+27.0,79.0,73.0,22.0,Pantano Jarlinson,15.0,IAM Cycling,20,2016,▲7
+29.0,184.0,72.0,15.0,Martin Dan,16.0,Etixx - Quick Step,20,2016,▼1
+37.0,141.0,71.0,18.0,Rodríguez Joaquim,17.0,Team Katusha,20,2016,▲1
+36.0,12.0,68.0,16.0,Valverde Alejandro,18.0,Movistar Team,20,2016,▼2
+25.0,41.0,64.0,21.0,Bardet Romain,19.0,AG2R La Mondiale,20,2016,▲2
+23.0,196.0,64.0,17.0,Laporte Christophe,20.0,"Cofidis, Solutions Crédits",20,2016,▼3
+22.0,75.0,62.0,19.0,Enger Sondre Holst,21.0,IAM Cycling,20,2016,▼2
+29.0,103.0,59.0,20.0,Boasson Hagen Edvald,22.0,Team Dimension Data,20,2016,▼2
+31.0,22.0,58.0,42.0,Nibali Vincenzo,23.0,Astana Pro Team,20,2016,▲19
+30.0,36.0,56.0,40.0,Kreuziger Roman,24.0,Tinkoff,20,2016,▲16
+29.0,151.0,55.0,46.0,Costa Rui,25.0,Lampre - Merida,20,2016,▲21
+31.0,205.0,52.0,23.0,Impey Daryl,26.0,ORICA-BikeExchange,20,2016,▼3
+31.0,185.0,51.0,24.0,Martin Tony,27.0,Etixx - Quick Step,20,2016,▼3
+24.0,216.0,51.0,25.0,McLay Daniel,28.0,Fortuneo - Vital Concept,20,2016,▼3
+23.0,209.0,48.0,30.0,Yates Adam,29.0,ORICA-BikeExchange,20,2016,▲1
+33.0,186.0,48.0,26.0,Richeze Maximiliano,30.0,Etixx - Quick Step,20,2016,▼4
+24.0,67.0,47.0,27.0,Stuyven Jasper,31.0,Trek - Segafredo,20,2016,▼4
+27.0,113.0,47.0,28.0,Degenkolb John,32.0,Team Giant - Alpecin,20,2016,▼4
+23.0,53.0,47.0,29.0,Groenewegen Dylan,33.0,Team LottoNL-Jumbo,20,2016,▼4
+27.0,17.0,44.0,66.0,Izagirre Ion,34.0,Movistar Team,20,2016,▲32
+28.0,165.0,44.0,38.0,Gallopin Tony,35.0,Lotto Soudal,20,2016,▲3
+31.0,187.0,44.0,31.0,Sabatini Fabio,36.0,Etixx - Quick Step,20,2016,▼5
+31.0,91.0,43.0,32.0,Porte Richie,37.0,BMC Racing Team,20,2016,▼5
+35.0,44.0,43.0,33.0,Dumoulin Samuel,38.0,AG2R La Mondiale,20,2016,▼5
+31.0,133.0,42.0,34.0,Bárta Jan,39.0,Bora - Argon 18,20,2016,▼5
+26.0,21.0,42.0,35.0,Aru Fabio,40.0,Astana Pro Team,20,2016,▼5
+37.0,179.0,42.0,36.0,Voeckler Thomas,41.0,Direct Energie,20,2016,▼5
+26.0,11.0,41.0,45.0,Quintana Nairo,42.0,Movistar Team,20,2016,▲3
+28.0,134.0,40.0,37.0,Benedetti Cesare,43.0,Bora - Argon 18,20,2016,▼6
+28.0,84.0,39.0,39.0,Howes Alex,44.0,Cannondale-Drapac Pro Cycling Team,20,2016,▼5
+28.0,49.0,37.0,41.0,Vuillermoz Alexis,45.0,AG2R La Mondiale,20,2016,▼4
+35.0,136.0,37.0,43.0,Huzarski Bartosz,46.0,Bora - Argon 18,20,2016,▼3
+37.0,172.0,37.0,44.0,Chavanel Sylvain,47.0,Direct Energie,20,2016,▼3
+25.0,51.0,36.0,87.0,Kelderman Wilco,48.0,Team LottoNL-Jumbo,20,2016,▲39
+24.0,157.0,32.0,51.0,Meintjes Louis,49.0,Lampre - Merida,20,2016,▲2
+29.0,61.0,32.0,47.0,Mollema Bauke,50.0,Trek - Segafredo,20,2016,▼3
+27.0,54.0,32.0,48.0,Lindeman Bert-Jan,51.0,Team LottoNL-Jumbo,20,2016,▼3
+26.0,149.0,31.0,49.0,Zakarin Ilnur,52.0,Team Katusha,20,2016,▼3
+27.0,57.0,31.0,50.0,Vanmarcke Sep,53.0,Team LottoNL-Jumbo,20,2016,▼3
+33.0,183.0,29.0,52.0,Keisse Iljo,54.0,Etixx - Quick Step,20,2016,▼2
+30.0,139.0,29.0,53.0,Voss Paul,55.0,Bora - Argon 18,20,2016,▼2
+28.0,177.0,28.0,54.0,Sicard Romain,56.0,Direct Energie,20,2016,▼2
+29.0,73.0,27.0,55.0,Coppel Jérôme,57.0,IAM Cycling,20,2016,▼2
+28.0,94.0,26.0,56.0,Caruso Damiano,58.0,BMC Racing Team,20,2016,▼2
+30.0,214.0,26.0,57.0,Feillu Brice,59.0,Fortuneo - Vital Concept,20,2016,▼2
+25.0,203.0,26.0,58.0,Durbridge Luke,60.0,ORICA-BikeExchange,20,2016,▼2
+28.0,6.0,25.0,59.0,Poels Wout,61.0,Team Sky,20,2016,▼2
+28.0,155.0,25.0,60.0,Đurasek Kristijan,62.0,Lampre - Merida,20,2016,▼2
+26.0,212.0,25.0,61.0,Breen Vegard,63.0,Fortuneo - Vital Concept,20,2016,▼2
+33.0,124.0,24.0,62.0,Morabito Steve,64.0,FDJ,20,2016,▼2
+25.0,78.0,24.0,63.0,Naesen Oliver,65.0,IAM Cycling,20,2016,▼2
+31.0,33.0,24.0,64.0,Bodnar Maciej,66.0,Tinkoff,20,2016,▼2
+29.0,81.0,23.0,65.0,Rolland Pierre,67.0,Cannondale-Drapac Pro Cycling Team,20,2016,▼2
+27.0,19.0,22.0,83.0,Oliveira Nelson,68.0,Movistar Team,20,2016,▲15
+27.0,109.0,22.0,67.0,Teklehaimanot Daniel,69.0,Team Dimension Data,20,2016,▼2
+24.0,89.0,22.0,95.0,van Baarle Dylan,70.0,Cannondale-Drapac Pro Cycling Team,20,2016,▲25
+27.0,215.0,20.0,68.0,Fonseca Armindo,71.0,Fortuneo - Vital Concept,20,2016,▼3
+33.0,138.0,20.0,69.0,Schillinger Andreas,72.0,Bora - Argon 18,20,2016,▼3
+26.0,77.0,20.0,70.0,Howard Leigh,73.0,IAM Cycling,20,2016,▼3
+29.0,25.0,19.0,71.0,Kangert Tanel,74.0,Astana Pro Team,20,2016,▼3
+27.0,27.0,19.0,72.0,Rosa Diego,75.0,Astana Pro Team,20,2016,▼3
+23.0,47.0,18.0,93.0,Gougeard Alexis,76.0,AG2R La Mondiale,20,2016,▲17
+26.0,154.0,18.0,73.0,Cimolai Davide,77.0,Lampre - Merida,20,2016,▼4
+30.0,9.0,17.0,74.0,Thomas Geraint,78.0,Team Sky,20,2016,▼4
+30.0,43.0,17.0,75.0,Cherel Mickaël,79.0,AG2R La Mondiale,20,2016,▼4
+32.0,24.0,17.0,76.0,Grivko Andrey,80.0,Astana Pro Team,20,2016,▼4
+31.0,152.0,17.0,77.0,Arashiro Yukiya,81.0,Lampre - Merida,20,2016,▼4
+27.0,126.0,16.0,78.0,Reichenbach Sébastien,82.0,FDJ,20,2016,▼4
+23.0,131.0,16.0,79.0,Buchmann Emanuel,83.0,Bora - Argon 18,20,2016,▼4
+23.0,26.0,16.0,80.0,Lutsenko Alexey,84.0,Astana Pro Team,20,2016,▼4
+33.0,48.0,15.0,81.0,Pozzovivo Domenico,85.0,AG2R La Mondiale,20,2016,▼4
+32.0,198.0,15.0,82.0,Maté Luis Ángel,86.0,"Cofidis, Solutions Crédits",20,2016,▼4
+33.0,128.0,15.0,84.0,Roy Jérémy,87.0,FDJ,20,2016,▼3
+32.0,55.0,15.0,85.0,Martens Paul,88.0,Team LottoNL-Jumbo,20,2016,▼3
+36.0,63.0,15.0,86.0,Irizar Markel,89.0,Trek - Segafredo,20,2016,▼3
+27.0,13.0,14.0,88.0,Anacona Winner,90.0,Movistar Team,20,2016,▼2
+31.0,218.0,14.0,89.0,Sørensen Chris Anker,91.0,Fortuneo - Vital Concept,20,2016,▼2
+37.0,74.0,13.0,90.0,Elmiger Martin,92.0,IAM Cycling,20,2016,▼2
+26.0,213.0,13.0,91.0,Delaplace Anthony,93.0,Fortuneo - Vital Concept,20,2016,▼2
+29.0,217.0,13.0,92.0,Périchon Pierre-Luc,94.0,Fortuneo - Vital Concept,20,2016,▼2
+27.0,88.0,12.0,94.0,Slagter Tom-Jelte,95.0,Cannondale-Drapac Pro Cycling Team,20,2016,▼1
+27.0,99.0,11.0,96.0,van Garderen Tejay,96.0,BMC Racing Team,20,2016,-
+30.0,115.0,11.0,99.0,Geschke Simon,97.0,Team Giant - Alpecin,20,2016,▲2
+34.0,145.0,11.0,97.0,Losada Alberto,98.0,Team Katusha,20,2016,▼1
+28.0,46.0,11.0,98.0,Gautier Cyril,99.0,AG2R La Mondiale,20,2016,▼1
+28.0,2.0,10.0,129.0,Henao Sergio,100.0,Team Sky,20,2016,▲29
+26.0,4.0,10.0,100.0,Landa Mikel,101.0,Team Sky,20,2016,▼1
+24.0,39.0,10.0,101.0,Valgren Michael,102.0,Tinkoff,20,2016,▼1
+24.0,111.0,9.0,102.0,Barguil Warren,103.0,Team Giant - Alpecin,20,2016,▼1
+26.0,52.0,9.0,103.0,Bennett George,104.0,Team LottoNL-Jumbo,20,2016,▼1
+42.0,38.0,9.0,104.0,Tosatto Matteo,105.0,Tinkoff,20,2016,▼1
+31.0,219.0,8.0,105.0,Vachon Florian,106.0,Fortuneo - Vital Concept,20,2016,▼1
+24.0,173.0,8.0,106.0,Duchesne Antoine,107.0,Direct Energie,20,2016,▼1
+32.0,28.0,7.0,107.0,Sánchez Luis León,108.0,Astana Pro Team,20,2016,▼1
+24.0,159.0,7.0,108.0,Polanc Jan,109.0,Lampre - Merida,20,2016,▼1
+35.0,118.0,7.0,109.0,ten Dam Laurens,110.0,Team Giant - Alpecin,20,2016,▼1
+28.0,194.0,7.0,110.0,Edet Nicolas,111.0,"Cofidis, Solutions Crédits",20,2016,▼1
+33.0,197.0,7.0,111.0,Lemoine Cyril,112.0,"Cofidis, Solutions Crédits",20,2016,▼1
+39.0,167.0,7.0,112.0,Henderson Gregory,113.0,Lotto Soudal,20,2016,▼1
+28.0,142.0,7.0,113.0,Guarnieri Jacopo,114.0,Team Katusha,20,2016,▼1
+33.0,93.0,6.0,114.0,Burghardt Marcus,115.0,BMC Racing Team,20,2016,▼1
+27.0,106.0,6.0,115.0,Janse van Rensburg Reinardt,116.0,Team Dimension Data,20,2016,▼1
+29.0,8.0,6.0,116.0,Stannard Ian,117.0,Team Sky,20,2016,▼1
+36.0,162.0,6.0,117.0,Bak Lars Ytting,118.0,Lotto Soudal,20,2016,▼1
+39.0,69.0,5.0,118.0,Zubeldia Haimar,119.0,Trek - Segafredo,20,2016,▼1
+24.0,137.0,5.0,119.0,Konrad Patrick,120.0,Bora - Argon 18,20,2016,▼1
+24.0,188.0,5.0,120.0,Vakoč Petr,121.0,Etixx - Quick Step,20,2016,▼1
+25.0,135.0,5.0,121.0,Bennett Sam,122.0,Bora - Argon 18,20,2016,▼1
+34.0,96.0,4.0,122.0,Moinard Amaël,123.0,BMC Racing Team,20,2016,▼1
+24.0,83.0,4.0,123.0,Craddock Lawson,124.0,Cannondale-Drapac Pro Cycling Team,20,2016,▼1
+36.0,112.0,4.0,124.0,Curvers Roy,125.0,Team Giant - Alpecin,20,2016,▼1
+28.0,87.0,4.0,125.0,Navardauskas Ramūnas,126.0,Cannondale-Drapac Pro Cycling Team,20,2016,▼1
+35.0,105.0,4.0,126.0,Eisel Bernhard,127.0,Team Dimension Data,20,2016,▼1
+30.0,42.0,3.0,127.0,Bakelants Jan,128.0,AG2R La Mondiale,20,2016,▼1
+27.0,206.0,3.0,,Juul-Jensen Christopher,129.0,ORICA-BikeExchange,20,2016,-
+25.0,176.0,3.0,128.0,Petit Adrien,130.0,Direct Energie,20,2016,▼2
+24.0,156.0,2.0,130.0,Grmay Tsgabu,131.0,Lampre - Merida,20,2016,▼1
+32.0,14.0,2.0,131.0,Erviti Imanol,132.0,Movistar Team,20,2016,▼1
+26.0,189.0,2.0,133.0,Vermote Julien,133.0,Etixx - Quick Step,20,2016,-
+38.0,204.0,2.0,132.0,Hayman Mathew,134.0,ORICA-BikeExchange,20,2016,▼2
+26.0,7.0,2.0,134.0,Rowe Luke,135.0,Team Sky,20,2016,▼1
+36.0,65.0,1.0,,Schleck Fränk,136.0,Trek - Segafredo,20,2016,-
+29.0,35.0,1.0,135.0,Kišerlovski Robert,137.0,Tinkoff,20,2016,▼2
+25.0,102.0,1.0,136.0,Berhane Natnael,138.0,Team Dimension Data,20,2016,▼2
+35.0,174.0,1.0,137.0,Gène Yohann,139.0,Direct Energie,20,2016,▼2
+26.0,32.0,470.0,1.0,Sagan Peter,1.0,Tinkoff,21,2016,-
+28.0,181.0,228.0,2.0,Kittel Marcel,2.0,Etixx - Quick Step,21,2016,-
+25.0,207.0,199.0,3.0,Matthews Michael,3.0,ORICA-BikeExchange,21,2016,-
+34.0,161.0,178.0,9.0,Greipel André,4.0,Lotto Soudal,21,2016,▲5
+29.0,144.0,172.0,5.0,Kristoff Alexander,5.0,Team Katusha,21,2016,-
+24.0,171.0,156.0,4.0,Coquard Bryan,6.0,Direct Energie,21,2016,▼2
+29.0,163.0,154.0,6.0,De Gendt Thomas,7.0,Lotto Soudal,21,2016,▼1
+31.0,98.0,136.0,7.0,Van Avermaet Greg,8.0,BMC Racing Team,21,2016,▼1
+31.0,1.0,131.0,8.0,Froome Chris,9.0,Team Sky,21,2016,▼1
+26.0,37.0,120.0,10.0,Majka Rafał,10.0,Tinkoff,21,2016,-
+24.0,182.0,97.0,11.0,Alaphilippe Julian,11.0,Etixx - Quick Step,21,2016,-
+33.0,72.0,89.0,12.0,Clement Stef,12.0,IAM Cycling,21,2016,-
+32.0,107.0,77.0,13.0,Pauwels Serge,13.0,Team Dimension Data,21,2016,-
+29.0,103.0,77.0,22.0,Boasson Hagen Edvald,14.0,Team Dimension Data,21,2016,▲8
+35.0,104.0,74.0,14.0,Cummings Steve,15.0,Team Dimension Data,21,2016,▼1
+23.0,196.0,74.0,20.0,Laporte Christophe,16.0,"Cofidis, Solutions Crédits",21,2016,▲4
+27.0,79.0,73.0,15.0,Pantano Jarlinson,17.0,IAM Cycling,21,2016,▼2
+29.0,184.0,72.0,16.0,Martin Dan,18.0,Etixx - Quick Step,21,2016,▼2
+37.0,141.0,71.0,17.0,Rodríguez Joaquim,19.0,Team Katusha,21,2016,▼2
+36.0,12.0,68.0,18.0,Valverde Alejandro,20.0,Movistar Team,21,2016,▼2
+25.0,41.0,64.0,19.0,Bardet Romain,21.0,AG2R La Mondiale,21,2016,▼2
+29.0,151.0,63.0,25.0,Costa Rui,22.0,Lampre - Merida,21,2016,▲3
+22.0,75.0,62.0,21.0,Enger Sondre Holst,23.0,IAM Cycling,21,2016,▼2
+24.0,67.0,61.0,31.0,Stuyven Jasper,24.0,Trek - Segafredo,21,2016,▲7
+31.0,133.0,59.0,39.0,Bárta Jan,25.0,Bora - Argon 18,21,2016,▲14
+31.0,22.0,58.0,23.0,Nibali Vincenzo,26.0,Astana Pro Team,21,2016,▼3
+30.0,36.0,56.0,24.0,Kreuziger Roman,27.0,Tinkoff,21,2016,▼3
+24.0,216.0,56.0,28.0,McLay Daniel,28.0,Fortuneo - Vital Concept,21,2016,-
+31.0,205.0,52.0,26.0,Impey Daryl,29.0,ORICA-BikeExchange,21,2016,▼3
+33.0,186.0,51.0,30.0,Richeze Maximiliano,30.0,Etixx - Quick Step,21,2016,-
+23.0,209.0,48.0,29.0,Yates Adam,31.0,ORICA-BikeExchange,21,2016,▼2
+27.0,113.0,47.0,32.0,Degenkolb John,32.0,Team Giant - Alpecin,21,2016,-
+23.0,53.0,47.0,33.0,Groenewegen Dylan,33.0,Team LottoNL-Jumbo,21,2016,-
+37.0,179.0,45.0,41.0,Voeckler Thomas,34.0,Direct Energie,21,2016,▲7
+27.0,17.0,44.0,34.0,Izagirre Ion,35.0,Movistar Team,21,2016,▼1
+28.0,165.0,44.0,35.0,Gallopin Tony,36.0,Lotto Soudal,21,2016,▼1
+31.0,187.0,44.0,36.0,Sabatini Fabio,37.0,Etixx - Quick Step,21,2016,▼1
+31.0,91.0,43.0,37.0,Porte Richie,38.0,BMC Racing Team,21,2016,▼1
+35.0,44.0,43.0,38.0,Dumoulin Samuel,39.0,AG2R La Mondiale,21,2016,▼1
+26.0,21.0,42.0,40.0,Aru Fabio,40.0,Astana Pro Team,21,2016,-
+26.0,11.0,41.0,42.0,Quintana Nairo,41.0,Movistar Team,21,2016,▲1
+28.0,134.0,40.0,43.0,Benedetti Cesare,42.0,Bora - Argon 18,21,2016,▲1
+37.0,172.0,39.0,47.0,Chavanel Sylvain,43.0,Direct Energie,21,2016,▲4
+28.0,84.0,39.0,44.0,Howes Alex,44.0,Cannondale-Drapac Pro Cycling Team,21,2016,-
+28.0,49.0,37.0,45.0,Vuillermoz Alexis,45.0,AG2R La Mondiale,21,2016,-
+35.0,136.0,37.0,46.0,Huzarski Bartosz,46.0,Bora - Argon 18,21,2016,-
+27.0,109.0,37.0,69.0,Teklehaimanot Daniel,47.0,Team Dimension Data,21,2016,▲22
+25.0,51.0,36.0,48.0,Kelderman Wilco,48.0,Team LottoNL-Jumbo,21,2016,-
+30.0,214.0,35.0,59.0,Feillu Brice,49.0,Fortuneo - Vital Concept,21,2016,▲10
+28.0,177.0,35.0,56.0,Sicard Romain,50.0,Direct Energie,21,2016,▲6
+24.0,157.0,32.0,49.0,Meintjes Louis,51.0,Lampre - Merida,21,2016,▼2
+29.0,61.0,32.0,50.0,Mollema Bauke,52.0,Trek - Segafredo,21,2016,▼2
+27.0,54.0,32.0,51.0,Lindeman Bert-Jan,53.0,Team LottoNL-Jumbo,21,2016,▼2
+26.0,149.0,31.0,52.0,Zakarin Ilnur,54.0,Team Katusha,21,2016,▼2
+27.0,57.0,31.0,53.0,Vanmarcke Sep,55.0,Team LottoNL-Jumbo,21,2016,▼2
+33.0,183.0,29.0,54.0,Keisse Iljo,56.0,Etixx - Quick Step,21,2016,▼2
+30.0,139.0,29.0,55.0,Voss Paul,57.0,Bora - Argon 18,21,2016,▼2
+33.0,128.0,28.0,87.0,Roy Jérémy,58.0,FDJ,21,2016,▲29
+23.0,47.0,28.0,76.0,Gougeard Alexis,59.0,AG2R La Mondiale,21,2016,▲17
+29.0,73.0,27.0,57.0,Coppel Jérôme,60.0,IAM Cycling,21,2016,▼3
+33.0,93.0,26.0,115.0,Burghardt Marcus,61.0,BMC Racing Team,21,2016,▲54
+28.0,94.0,26.0,58.0,Caruso Damiano,62.0,BMC Racing Team,21,2016,▼4
+25.0,203.0,26.0,60.0,Durbridge Luke,63.0,ORICA-BikeExchange,21,2016,▼3
+28.0,6.0,25.0,61.0,Poels Wout,64.0,Team Sky,21,2016,▼3
+28.0,155.0,25.0,62.0,Đurasek Kristijan,65.0,Lampre - Merida,21,2016,▼3
+26.0,212.0,25.0,63.0,Breen Vegard,66.0,Fortuneo - Vital Concept,21,2016,▼3
+26.0,77.0,24.0,73.0,Howard Leigh,67.0,IAM Cycling,21,2016,▲6
+33.0,124.0,24.0,64.0,Morabito Steve,68.0,FDJ,21,2016,▼4
+25.0,78.0,24.0,65.0,Naesen Oliver,69.0,IAM Cycling,21,2016,▼4
+31.0,33.0,24.0,66.0,Bodnar Maciej,70.0,Tinkoff,21,2016,▼4
+26.0,154.0,24.0,77.0,Cimolai Davide,71.0,Lampre - Merida,21,2016,▲6
+29.0,81.0,23.0,67.0,Rolland Pierre,72.0,Cannondale-Drapac Pro Cycling Team,21,2016,▼5
+27.0,19.0,22.0,68.0,Oliveira Nelson,73.0,Movistar Team,21,2016,▼5
+24.0,89.0,22.0,70.0,van Baarle Dylan,74.0,Cannondale-Drapac Pro Cycling Team,21,2016,▼4
+27.0,215.0,20.0,71.0,Fonseca Armindo,75.0,Fortuneo - Vital Concept,21,2016,▼4
+33.0,138.0,20.0,72.0,Schillinger Andreas,76.0,Bora - Argon 18,21,2016,▼4
+29.0,25.0,19.0,74.0,Kangert Tanel,77.0,Astana Pro Team,21,2016,▼3
+27.0,27.0,19.0,75.0,Rosa Diego,78.0,Astana Pro Team,21,2016,▼3
+30.0,9.0,17.0,78.0,Thomas Geraint,79.0,Team Sky,21,2016,▼1
+30.0,43.0,17.0,79.0,Cherel Mickaël,80.0,AG2R La Mondiale,21,2016,▼1
+32.0,24.0,17.0,80.0,Grivko Andrey,81.0,Astana Pro Team,21,2016,▼1
+31.0,152.0,17.0,81.0,Arashiro Yukiya,82.0,Lampre - Merida,21,2016,▼1
+27.0,126.0,16.0,82.0,Reichenbach Sébastien,83.0,FDJ,21,2016,▼1
+23.0,131.0,16.0,83.0,Buchmann Emanuel,84.0,Bora - Argon 18,21,2016,▼1
+23.0,26.0,16.0,84.0,Lutsenko Alexey,85.0,Astana Pro Team,21,2016,▼1
+28.0,87.0,16.0,126.0,Navardauskas Ramūnas,86.0,Cannondale-Drapac Pro Cycling Team,21,2016,▲40
+33.0,48.0,15.0,85.0,Pozzovivo Domenico,87.0,AG2R La Mondiale,21,2016,▼2
+32.0,198.0,15.0,86.0,Maté Luis Ángel,88.0,"Cofidis, Solutions Crédits",21,2016,▼2
+32.0,55.0,15.0,88.0,Martens Paul,89.0,Team LottoNL-Jumbo,21,2016,▼1
+36.0,63.0,15.0,89.0,Irizar Markel,90.0,Trek - Segafredo,21,2016,▼1
+24.0,83.0,15.0,124.0,Craddock Lawson,91.0,Cannondale-Drapac Pro Cycling Team,21,2016,▲33
+27.0,13.0,14.0,90.0,Anacona Winner,92.0,Movistar Team,21,2016,▼2
+31.0,218.0,14.0,91.0,Sørensen Chris Anker,93.0,Fortuneo - Vital Concept,21,2016,▼2
+37.0,74.0,13.0,92.0,Elmiger Martin,94.0,IAM Cycling,21,2016,▼2
+26.0,213.0,13.0,93.0,Delaplace Anthony,95.0,Fortuneo - Vital Concept,21,2016,▼2
+29.0,217.0,13.0,94.0,Périchon Pierre-Luc,96.0,Fortuneo - Vital Concept,21,2016,▼2
+27.0,106.0,13.0,116.0,Janse van Rensburg Reinardt,97.0,Team Dimension Data,21,2016,▲19
+25.0,135.0,13.0,122.0,Bennett Sam,98.0,Bora - Argon 18,21,2016,▲24
+27.0,88.0,12.0,95.0,Slagter Tom-Jelte,99.0,Cannondale-Drapac Pro Cycling Team,21,2016,▼4
+27.0,99.0,11.0,96.0,van Garderen Tejay,100.0,BMC Racing Team,21,2016,▼4
+30.0,115.0,11.0,97.0,Geschke Simon,101.0,Team Giant - Alpecin,21,2016,▼4
+34.0,145.0,11.0,98.0,Losada Alberto,102.0,Team Katusha,21,2016,▼4
+28.0,46.0,11.0,99.0,Gautier Cyril,103.0,AG2R La Mondiale,21,2016,▼4
+28.0,2.0,10.0,100.0,Henao Sergio,104.0,Team Sky,21,2016,▼4
+26.0,4.0,10.0,101.0,Landa Mikel,105.0,Team Sky,21,2016,▼4
+24.0,39.0,10.0,102.0,Valgren Michael,106.0,Tinkoff,21,2016,▼4
+24.0,188.0,10.0,121.0,Vakoč Petr,107.0,Etixx - Quick Step,21,2016,▲14
+24.0,111.0,9.0,103.0,Barguil Warren,108.0,Team Giant - Alpecin,21,2016,▼5
+26.0,52.0,9.0,104.0,Bennett George,109.0,Team LottoNL-Jumbo,21,2016,▼5
+24.0,173.0,9.0,107.0,Duchesne Antoine,110.0,Direct Energie,21,2016,▼3
+42.0,38.0,9.0,105.0,Tosatto Matteo,111.0,Tinkoff,21,2016,▼6
+31.0,219.0,8.0,106.0,Vachon Florian,112.0,Fortuneo - Vital Concept,21,2016,▼6
+32.0,28.0,7.0,108.0,Sánchez Luis León,113.0,Astana Pro Team,21,2016,▼5
+24.0,159.0,7.0,109.0,Polanc Jan,114.0,Lampre - Merida,21,2016,▼5
+35.0,118.0,7.0,110.0,ten Dam Laurens,115.0,Team Giant - Alpecin,21,2016,▼5
+28.0,194.0,7.0,111.0,Edet Nicolas,116.0,"Cofidis, Solutions Crédits",21,2016,▼5
+33.0,197.0,7.0,112.0,Lemoine Cyril,117.0,"Cofidis, Solutions Crédits",21,2016,▼5
+39.0,167.0,7.0,113.0,Henderson Gregory,118.0,Lotto Soudal,21,2016,▼5
+28.0,142.0,7.0,114.0,Guarnieri Jacopo,119.0,Team Katusha,21,2016,▼5
+31.0,175.0,6.0,,Jeandesboz Fabrice,120.0,Direct Energie,21,2016,-
+29.0,8.0,6.0,117.0,Stannard Ian,121.0,Team Sky,21,2016,▼4
+36.0,162.0,6.0,118.0,Bak Lars Ytting,122.0,Lotto Soudal,21,2016,▼4
+39.0,69.0,5.0,119.0,Zubeldia Haimar,123.0,Trek - Segafredo,21,2016,▼4
+24.0,137.0,5.0,120.0,Konrad Patrick,124.0,Bora - Argon 18,21,2016,▼4
+34.0,96.0,4.0,123.0,Moinard Amaël,125.0,BMC Racing Team,21,2016,▼2
+36.0,112.0,4.0,125.0,Curvers Roy,126.0,Team Giant - Alpecin,21,2016,▼1
+35.0,105.0,4.0,127.0,Eisel Bernhard,127.0,Team Dimension Data,21,2016,-
+30.0,42.0,3.0,128.0,Bakelants Jan,128.0,AG2R La Mondiale,21,2016,-
+27.0,206.0,3.0,129.0,Juul-Jensen Christopher,129.0,ORICA-BikeExchange,21,2016,-
+25.0,176.0,3.0,130.0,Petit Adrien,130.0,Direct Energie,21,2016,-
+29.0,127.0,2.0,,Roux Anthony,131.0,FDJ,21,2016,-
+24.0,156.0,2.0,131.0,Grmay Tsgabu,132.0,Lampre - Merida,21,2016,▼1
+32.0,14.0,2.0,132.0,Erviti Imanol,133.0,Movistar Team,21,2016,▼1
+26.0,189.0,2.0,133.0,Vermote Julien,134.0,Etixx - Quick Step,21,2016,▼1
+38.0,204.0,2.0,134.0,Hayman Mathew,135.0,ORICA-BikeExchange,21,2016,▼1
+26.0,7.0,2.0,135.0,Rowe Luke,136.0,Team Sky,21,2016,▼1
+36.0,65.0,1.0,136.0,Schleck Fränk,137.0,Trek - Segafredo,21,2016,▼1
+29.0,35.0,1.0,137.0,Kišerlovski Robert,138.0,Tinkoff,21,2016,▼1
+25.0,102.0,1.0,138.0,Berhane Natnael,139.0,Team Dimension Data,21,2016,▼1
+35.0,174.0,1.0,139.0,Gène Yohann,140.0,Direct Energie,21,2016,▼1

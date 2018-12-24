@@ -1,0 +1,572 @@
+Age,BIB,GC,GC-Time,Prev,Rider,Rnk,Team,Time,stage,year,▼▲
+24.0,182.0,2.0,+0:08,8.0,Alaphilippe Julian,1.0,Etixx - Quick Step,8:34:50 8:34:50,2,2016,▲7
+24.0,111.0,4.0,+0:14,7.0,Barguil Warren,2.0,Team Giant - Alpecin,0:06 0:06,2,2016,▲5
+25.0,51.0,15.0,+0:14,13.0,Kelderman Wilco,3.0,Team LottoNL-Jumbo,",, 0:06",2,2016,▲10
+23.0,209.0,21.0,+0:14,15.0,Yates Adam,4.0,ORICA-BikeExchange,",, 0:06",2,2016,▲11
+24.0,157.0,32.0,+0:25,20.0,Meintjes Louis,5.0,Lampre - Merida,0:17 0:17,2,2016,▲15
+24.0,83.0,35.0,+0:31,11.0,Craddock Lawson,6.0,Cannondale-Drapac Pro Cycling Team,0:23 0:23,2,2016,▲5
+25.0,211.0,38.0,+0:31,14.0,Sepúlveda Eduardo,7.0,Fortuneo - Vital Concept,",, 0:23",2,2016,▲7
+23.0,131.0,39.0,+0:31,16.0,Buchmann Emanuel,8.0,Bora - Argon 18,",, 0:23",2,2016,▲8
+24.0,137.0,42.0,+0:31,19.0,Konrad Patrick,9.0,Bora - Argon 18,",, 0:23",2,2016,▲10
+24.0,159.0,51.0,+0:49,23.0,Polanc Jan,10.0,Lampre - Merida,0:41 0:41,2,2016,▲13
+24.0,67.0,66.0,+1:11,6.0,Stuyven Jasper,11.0,Trek - Segafredo,1:03 1:03,2,2016,▼5
+24.0,171.0,67.0,+1:21,3.0,Coquard Bryan,12.0,Direct Energie,1:13 1:13,2,2016,▼9
+22.0,75.0,72.0,+1:36,5.0,Enger Sondre Holst,13.0,IAM Cycling,1:28 1:28,2,2016,▼8
+25.0,68.0,76.0,+1:53,1.0,Theuns Edward,14.0,Trek - Segafredo,1:45 1:45,2,2016,▼13
+22.0,158.0,79.0,+1:53,17.0,Pibernik Luka,15.0,Lampre - Merida,",, 1:45",2,2016,▲2
+23.0,196.0,90.0,+3:06,2.0,Laporte Christophe,16.0,"Cofidis, Solutions Crédits",2:58 2:58,2,2016,▼14
+24.0,39.0,96.0,+3:06,10.0,Valgren Michael,17.0,Tinkoff,",, 2:58",2,2016,▼7
+23.0,188.0,107.0,+3:44,24.0,Vakoč Petr,18.0,Etixx - Quick Step,3:36 3:36,2,2016,▲6
+25.0,203.0,110.0,+4:05,21.0,Durbridge Luke,19.0,ORICA-BikeExchange,3:57 3:57,2,2016,▲2
+24.0,216.0,138.0,+7:05,4.0,McLay Daniel,20.0,Fortuneo - Vital Concept,6:57 6:57,2,2016,▼16
+24.0,173.0,145.0,+7:05,12.0,Duchesne Antoine,21.0,Direct Energie,",, 6:57",2,2016,▼9
+25.0,143.0,161.0,+7:05,26.0,Haller Marco,22.0,Team Katusha,",, 6:57",2,2016,▲4
+23.0,53.0,165.0,+8:29,9.0,Groenewegen Dylan,23.0,Team LottoNL-Jumbo,8:21 8:21,2,2016,▼14
+23.0,47.0,171.0,+8:29,18.0,Gougeard Alexis,24.0,AG2R La Mondiale,",, 8:21",2,2016,▼6
+25.0,102.0,176.0,+8:29,22.0,Berhane Natnael,25.0,Team Dimension Data,",, 8:21",2,2016,▼3
+23.0,26.0,178.0,+8:29,25.0,Lutsenko Alexey,26.0,Astana Pro Team,",, 8:21",2,2016,▼1
+24.0,156.0,184.0,+8:38,28.0,Grmay Tsgabu,27.0,Lampre - Merida,8:30 8:30,2,2016,▲1
+24.0,89.0,190.0,+10:02,27.0,van Baarle Dylan,28.0,Cannondale-Drapac Pro Cycling Team,9:54 9:54,2,2016,▼1
+23.0,56.0,194.0,+11:38,29.0,Roosen Timo,29.0,Team LottoNL-Jumbo,11:30 11:30,2,2016,-
+24.0,182.0,2.0,+0:08,1.0,Alaphilippe Julian,1.0,Etixx - Quick Step,14:34:44 14:34:44,3,2016,-
+24.0,111.0,5.0,+0:14,2.0,Barguil Warren,2.0,Team Giant - Alpecin,0:06 0:06,3,2016,-
+25.0,51.0,14.0,+0:14,3.0,Kelderman Wilco,3.0,Team LottoNL-Jumbo,",, 0:06",3,2016,-
+23.0,209.0,18.0,+0:14,4.0,Yates Adam,4.0,ORICA-BikeExchange,",, 0:06",3,2016,-
+24.0,157.0,32.0,+0:25,5.0,Meintjes Louis,5.0,Lampre - Merida,0:17 0:17,3,2016,-
+24.0,83.0,35.0,+0:31,6.0,Craddock Lawson,6.0,Cannondale-Drapac Pro Cycling Team,0:23 0:23,3,2016,-
+25.0,211.0,37.0,+0:31,7.0,Sepúlveda Eduardo,7.0,Fortuneo - Vital Concept,",, 0:23",3,2016,-
+23.0,131.0,39.0,+0:31,8.0,Buchmann Emanuel,8.0,Bora - Argon 18,",, 0:23",3,2016,-
+24.0,137.0,40.0,+0:31,9.0,Konrad Patrick,9.0,Bora - Argon 18,",, 0:23",3,2016,-
+24.0,159.0,48.0,+0:49,10.0,Polanc Jan,10.0,Lampre - Merida,0:41 0:41,3,2016,-
+24.0,67.0,61.0,+1:11,11.0,Stuyven Jasper,11.0,Trek - Segafredo,1:03 1:03,3,2016,-
+24.0,171.0,62.0,+1:17,12.0,Coquard Bryan,12.0,Direct Energie,1:09 1:09,3,2016,-
+22.0,75.0,68.0,+1:36,13.0,Enger Sondre Holst,13.0,IAM Cycling,1:28 1:28,3,2016,-
+25.0,68.0,73.0,+1:53,14.0,Theuns Edward,14.0,Trek - Segafredo,1:45 1:45,3,2016,-
+22.0,158.0,75.0,+1:53,15.0,Pibernik Luka,15.0,Lampre - Merida,",, 1:45",3,2016,-
+23.0,196.0,89.0,+3:06,16.0,Laporte Christophe,16.0,"Cofidis, Solutions Crédits",2:58 2:58,3,2016,-
+24.0,39.0,91.0,+3:06,17.0,Valgren Michael,17.0,Tinkoff,",, 2:58",3,2016,-
+25.0,203.0,123.0,+6:08,19.0,Durbridge Luke,18.0,ORICA-BikeExchange,6:00 6:00,3,2016,▲1
+24.0,216.0,131.0,+7:05,20.0,McLay Daniel,19.0,Fortuneo - Vital Concept,6:57 6:57,3,2016,▲1
+24.0,173.0,141.0,+7:05,21.0,Duchesne Antoine,20.0,Direct Energie,",, 6:57",3,2016,▲1
+23.0,188.0,145.0,+7:15,18.0,Vakoč Petr,21.0,Etixx - Quick Step,7:07 7:07,3,2016,▼3
+23.0,53.0,158.0,+8:29,23.0,Groenewegen Dylan,22.0,Team LottoNL-Jumbo,8:21 8:21,3,2016,▲1
+23.0,47.0,164.0,+8:29,24.0,Gougeard Alexis,23.0,AG2R La Mondiale,",, 8:21",3,2016,▲1
+23.0,26.0,165.0,+8:29,26.0,Lutsenko Alexey,24.0,Astana Pro Team,",, 8:21",3,2016,▲2
+25.0,102.0,166.0,+8:29,25.0,Berhane Natnael,25.0,Team Dimension Data,",, 8:21",3,2016,-
+25.0,143.0,176.0,+9:13,22.0,Haller Marco,26.0,Team Katusha,9:04 9:04,3,2016,▼4
+24.0,156.0,178.0,+9:22,27.0,Grmay Tsgabu,27.0,Lampre - Merida,9:14 9:14,3,2016,-
+23.0,56.0,190.0,+11:38,29.0,Roosen Timo,28.0,Team LottoNL-Jumbo,11:30 11:30,3,2016,▲1
+24.0,89.0,191.0,+11:51,28.0,van Baarle Dylan,29.0,Cannondale-Drapac Pro Cycling Team,11:43 11:43,3,2016,▼1
+24.0,182.0,2.0,+0:12,1.0,Alaphilippe Julian,1.0,Etixx - Quick Step,20:03:14 20:03:14,4,2016,-
+24.0,111.0,4.0,+0:18,2.0,Barguil Warren,2.0,Team Giant - Alpecin,0:06 0:06,4,2016,-
+25.0,51.0,14.0,+0:18,3.0,Kelderman Wilco,3.0,Team LottoNL-Jumbo,",, 0:06",4,2016,-
+23.0,209.0,19.0,+0:18,4.0,Yates Adam,4.0,ORICA-BikeExchange,",, 0:06",4,2016,-
+24.0,157.0,30.0,+0:29,5.0,Meintjes Louis,5.0,Lampre - Merida,0:17 0:17,4,2016,-
+24.0,83.0,35.0,+0:35,6.0,Craddock Lawson,6.0,Cannondale-Drapac Pro Cycling Team,0:23 0:23,4,2016,-
+25.0,211.0,36.0,+0:35,7.0,Sepúlveda Eduardo,7.0,Fortuneo - Vital Concept,",, 0:23",4,2016,-
+24.0,137.0,38.0,+0:35,9.0,Konrad Patrick,8.0,Bora - Argon 18,",, 0:23",4,2016,▲1
+23.0,131.0,39.0,+0:35,8.0,Buchmann Emanuel,9.0,Bora - Argon 18,",, 0:23",4,2016,▼1
+24.0,159.0,47.0,+0:53,10.0,Polanc Jan,10.0,Lampre - Merida,0:41 0:41,4,2016,-
+24.0,171.0,56.0,+1:15,12.0,Coquard Bryan,11.0,Direct Energie,1:03 1:03,4,2016,▲1
+24.0,67.0,60.0,+1:36,11.0,Stuyven Jasper,12.0,Trek - Segafredo,1:24 1:24,4,2016,▼1
+22.0,75.0,63.0,+1:40,13.0,Enger Sondre Holst,13.0,IAM Cycling,1:28 1:28,4,2016,-
+25.0,68.0,67.0,+1:57,14.0,Theuns Edward,14.0,Trek - Segafredo,1:45 1:45,4,2016,-
+22.0,158.0,68.0,+1:57,15.0,Pibernik Luka,15.0,Lampre - Merida,",, 1:45",4,2016,-
+23.0,196.0,88.0,+3:31,16.0,Laporte Christophe,16.0,"Cofidis, Solutions Crédits",3:19 3:19,4,2016,-
+24.0,39.0,104.0,+5:20,17.0,Valgren Michael,17.0,Tinkoff,5:08 5:08,4,2016,-
+24.0,216.0,121.0,+7:09,19.0,McLay Daniel,18.0,Fortuneo - Vital Concept,6:57 6:57,4,2016,▲1
+24.0,173.0,126.0,+7:09,20.0,Duchesne Antoine,19.0,Direct Energie,",, 6:57",4,2016,▲1
+25.0,203.0,130.0,+7:45,18.0,Durbridge Luke,20.0,ORICA-BikeExchange,7:33 7:33,4,2016,▼2
+23.0,53.0,137.0,+8:33,22.0,Groenewegen Dylan,21.0,Team LottoNL-Jumbo,8:21 8:21,4,2016,▲1
+24.0,156.0,148.0,+9:26,27.0,Grmay Tsgabu,22.0,Lampre - Merida,9:14 9:14,4,2016,▲5
+23.0,188.0,150.0,+9:29,21.0,Vakoč Petr,23.0,Etixx - Quick Step,9:17 9:17,4,2016,▼2
+23.0,56.0,168.0,+11:42,28.0,Roosen Timo,24.0,Team LottoNL-Jumbo,11:30 11:30,4,2016,▲4
+25.0,143.0,174.0,+14:11,26.0,Haller Marco,25.0,Team Katusha,13:59 13:59,4,2016,▲1
+23.0,26.0,181.0,+15:01,24.0,Lutsenko Alexey,26.0,Astana Pro Team,14:49 14:49,4,2016,▼2
+24.0,89.0,182.0,+15:09,29.0,van Baarle Dylan,27.0,Cannondale-Drapac Pro Cycling Team,14:57 14:57,4,2016,▲2
+23.0,47.0,192.0,+17:32,23.0,Gougeard Alexis,28.0,AG2R La Mondiale,17:20 17:20,4,2016,▼5
+25.0,102.0,193.0,+17:32,25.0,Berhane Natnael,29.0,Team Dimension Data,",, 17:20",4,2016,▼4
+24.0,182.0,2.0,+5:11,1.0,Alaphilippe Julian,1.0,Etixx - Quick Step,25:39:57 25:39:57,5,2016,-
+24.0,111.0,6.0,+5:17,2.0,Barguil Warren,2.0,Team Giant - Alpecin,0:06 0:06,5,2016,-
+25.0,51.0,11.0,+5:17,3.0,Kelderman Wilco,3.0,Team LottoNL-Jumbo,",, 0:06",5,2016,-
+23.0,209.0,13.0,+5:17,4.0,Yates Adam,4.0,ORICA-BikeExchange,",, 0:06",5,2016,-
+24.0,157.0,19.0,+5:28,5.0,Meintjes Louis,5.0,Lampre - Merida,0:17 0:17,5,2016,-
+25.0,211.0,30.0,+8:44,7.0,Sepúlveda Eduardo,6.0,Fortuneo - Vital Concept,3:33 3:33,5,2016,▲1
+23.0,131.0,31.0,+8:44,9.0,Buchmann Emanuel,7.0,Bora - Argon 18,",, 3:33",5,2016,▲2
+24.0,137.0,39.0,+10:45,8.0,Konrad Patrick,8.0,Bora - Argon 18,5:34 5:34,5,2016,-
+24.0,83.0,51.0,+14:12,6.0,Craddock Lawson,9.0,Cannondale-Drapac Pro Cycling Team,9:01 9:01,5,2016,▼3
+24.0,156.0,74.0,+23:03,22.0,Grmay Tsgabu,10.0,Lampre - Merida,17:52 17:52,5,2016,▲12
+22.0,158.0,84.0,+25:34,15.0,Pibernik Luka,11.0,Lampre - Merida,20:23 20:23,5,2016,▲4
+24.0,67.0,88.0,+26:42,12.0,Stuyven Jasper,12.0,Trek - Segafredo,21:31 21:31,5,2016,-
+22.0,75.0,91.0,+26:46,13.0,Enger Sondre Holst,13.0,IAM Cycling,21:35 21:35,5,2016,-
+25.0,68.0,94.0,+27:03,14.0,Theuns Edward,14.0,Trek - Segafredo,21:52 21:52,5,2016,-
+24.0,159.0,111.0,+29:19,10.0,Polanc Jan,15.0,Lampre - Merida,24:08 24:08,5,2016,▼5
+23.0,196.0,112.0,+29:22,16.0,Laporte Christophe,16.0,"Cofidis, Solutions Crédits",24:11 24:11,5,2016,-
+24.0,171.0,117.0,+29:41,11.0,Coquard Bryan,17.0,Direct Energie,24:30 24:30,5,2016,▼6
+24.0,39.0,126.0,+30:26,17.0,Valgren Michael,18.0,Tinkoff,25:15 25:15,5,2016,▼1
+24.0,173.0,136.0,+32:15,19.0,Duchesne Antoine,19.0,Direct Energie,27:04 27:04,5,2016,-
+25.0,203.0,140.0,+32:51,20.0,Durbridge Luke,20.0,ORICA-BikeExchange,27:40 27:40,5,2016,-
+23.0,188.0,152.0,+34:35,23.0,Vakoč Petr,21.0,Etixx - Quick Step,29:24 29:24,5,2016,▲2
+24.0,216.0,160.0,+35:35,18.0,McLay Daniel,22.0,Fortuneo - Vital Concept,30:24 30:24,5,2016,▼4
+23.0,56.0,167.0,+36:48,24.0,Roosen Timo,23.0,Team LottoNL-Jumbo,31:37 31:37,5,2016,▲1
+23.0,53.0,169.0,+36:59,21.0,Groenewegen Dylan,24.0,Team LottoNL-Jumbo,31:48 31:48,5,2016,▼3
+23.0,26.0,177.0,+38:38,26.0,Lutsenko Alexey,25.0,Astana Pro Team,33:27 33:27,5,2016,▲1
+24.0,89.0,185.0,+40:15,27.0,van Baarle Dylan,26.0,Cannondale-Drapac Pro Cycling Team,35:04 35:04,5,2016,▲1
+25.0,143.0,189.0,+42:37,25.0,Haller Marco,27.0,Team Katusha,37:26 37:26,5,2016,▼2
+23.0,47.0,190.0,+42:38,28.0,Gougeard Alexis,28.0,AG2R La Mondiale,37:27 37:27,5,2016,-
+25.0,102.0,195.0,+45:58,29.0,Berhane Natnael,29.0,Team Dimension Data,40:47 40:47,5,2016,-
+24.0,182.0,2.0,+5:11,1.0,Alaphilippe Julian,1.0,Etixx - Quick Step,30:23:49 30:23:49,6,2016,-
+24.0,111.0,6.0,+5:17,2.0,Barguil Warren,2.0,Team Giant - Alpecin,0:06 0:06,6,2016,-
+25.0,51.0,12.0,+5:17,3.0,Kelderman Wilco,3.0,Team LottoNL-Jumbo,",, 0:06",6,2016,-
+23.0,209.0,13.0,+5:17,4.0,Yates Adam,4.0,ORICA-BikeExchange,",, 0:06",6,2016,-
+24.0,157.0,19.0,+5:28,5.0,Meintjes Louis,5.0,Lampre - Merida,0:17 0:17,6,2016,-
+25.0,211.0,30.0,+8:45,6.0,Sepúlveda Eduardo,6.0,Fortuneo - Vital Concept,3:34 3:34,6,2016,-
+23.0,131.0,31.0,+8:45,7.0,Buchmann Emanuel,7.0,Bora - Argon 18,",, 3:34",6,2016,-
+24.0,137.0,39.0,+10:46,8.0,Konrad Patrick,8.0,Bora - Argon 18,5:35 5:35,6,2016,-
+24.0,83.0,50.0,+14:13,9.0,Craddock Lawson,9.0,Cannondale-Drapac Pro Cycling Team,9:02 9:02,6,2016,-
+24.0,156.0,73.0,+23:04,10.0,Grmay Tsgabu,10.0,Lampre - Merida,17:53 17:53,6,2016,-
+22.0,158.0,82.0,+25:35,11.0,Pibernik Luka,11.0,Lampre - Merida,20:24 20:24,6,2016,-
+24.0,67.0,86.0,+26:43,12.0,Stuyven Jasper,12.0,Trek - Segafredo,21:32 21:32,6,2016,-
+22.0,75.0,89.0,+26:46,13.0,Enger Sondre Holst,13.0,IAM Cycling,21:35 21:35,6,2016,-
+25.0,68.0,92.0,+26:59,14.0,Theuns Edward,14.0,Trek - Segafredo,21:48 21:48,6,2016,-
+23.0,196.0,108.0,+29:18,16.0,Laporte Christophe,15.0,"Cofidis, Solutions Crédits",24:07 24:07,6,2016,▲1
+24.0,159.0,109.0,+29:20,15.0,Polanc Jan,16.0,Lampre - Merida,24:09 24:09,6,2016,▼1
+24.0,171.0,114.0,+29:37,17.0,Coquard Bryan,17.0,Direct Energie,24:26 24:26,6,2016,-
+24.0,39.0,124.0,+30:27,18.0,Valgren Michael,18.0,Tinkoff,25:16 25:16,6,2016,-
+25.0,203.0,143.0,+33:44,20.0,Durbridge Luke,19.0,ORICA-BikeExchange,28:33 28:33,6,2016,▲1
+24.0,173.0,154.0,+35:23,19.0,Duchesne Antoine,20.0,Direct Energie,30:12 30:12,6,2016,▼1
+24.0,216.0,155.0,+35:27,22.0,McLay Daniel,21.0,Fortuneo - Vital Concept,30:16 30:16,6,2016,▲1
+23.0,188.0,156.0,+35:28,21.0,Vakoč Petr,22.0,Etixx - Quick Step,30:17 30:17,6,2016,▼1
+23.0,56.0,165.0,+36:49,23.0,Roosen Timo,23.0,Team LottoNL-Jumbo,31:38 31:38,6,2016,-
+23.0,53.0,166.0,+36:55,24.0,Groenewegen Dylan,24.0,Team LottoNL-Jumbo,31:44 31:44,6,2016,-
+23.0,26.0,182.0,+40:55,25.0,Lutsenko Alexey,25.0,Astana Pro Team,35:44 35:44,6,2016,-
+24.0,89.0,183.0,+41:08,26.0,van Baarle Dylan,26.0,Cannondale-Drapac Pro Cycling Team,35:57 35:57,6,2016,-
+23.0,47.0,188.0,+42:39,28.0,Gougeard Alexis,27.0,AG2R La Mondiale,37:28 37:28,6,2016,▲1
+25.0,143.0,190.0,+43:17,27.0,Haller Marco,28.0,Team Katusha,38:06 38:06,6,2016,▼1
+25.0,102.0,195.0,+45:59,29.0,Berhane Natnael,29.0,Team Dimension Data,40:48 40:48,6,2016,-
+23.0,209.0,2.0,+5:50,4.0,Yates Adam,1.0,ORICA-BikeExchange,34:15:34 34:15:34,7,2016,▲3
+24.0,182.0,3.0,+5:51,1.0,Alaphilippe Julian,2.0,Etixx - Quick Step,0:01 0:01,7,2016,▼1
+24.0,111.0,8.0,+5:57,2.0,Barguil Warren,3.0,Team Giant - Alpecin,0:07 0:07,7,2016,▼1
+25.0,51.0,13.0,+5:57,3.0,Kelderman Wilco,4.0,Team LottoNL-Jumbo,",, 0:07",7,2016,▼1
+24.0,157.0,19.0,+6:08,5.0,Meintjes Louis,5.0,Lampre - Merida,0:18 0:18,7,2016,-
+23.0,131.0,28.0,+9:42,7.0,Buchmann Emanuel,6.0,Bora - Argon 18,3:52 3:52,7,2016,▲1
+25.0,211.0,29.0,+9:49,6.0,Sepúlveda Eduardo,7.0,Fortuneo - Vital Concept,3:59 3:59,7,2016,▼1
+24.0,137.0,38.0,+12:51,8.0,Konrad Patrick,8.0,Bora - Argon 18,7:01 7:01,7,2016,-
+24.0,83.0,49.0,+17:56,9.0,Craddock Lawson,9.0,Cannondale-Drapac Pro Cycling Team,12:06 12:06,7,2016,-
+24.0,156.0,80.0,+31:21,10.0,Grmay Tsgabu,10.0,Lampre - Merida,25:31 25:31,7,2016,-
+24.0,159.0,83.0,+33:03,16.0,Polanc Jan,11.0,Lampre - Merida,27:13 27:13,7,2016,▲5
+22.0,158.0,89.0,+35:26,11.0,Pibernik Luka,12.0,Lampre - Merida,29:36 29:36,7,2016,▼1
+24.0,67.0,92.0,+36:34,12.0,Stuyven Jasper,13.0,Trek - Segafredo,30:44 30:44,7,2016,▼1
+24.0,173.0,97.0,+39:07,20.0,Duchesne Antoine,14.0,Direct Energie,33:17 33:17,7,2016,▲6
+24.0,171.0,102.0,+40:01,17.0,Coquard Bryan,15.0,Direct Energie,34:11 34:11,7,2016,▲2
+24.0,39.0,109.0,+40:50,18.0,Valgren Michael,16.0,Tinkoff,35:00 35:00,7,2016,▲2
+22.0,75.0,112.0,+41:14,13.0,Enger Sondre Holst,17.0,IAM Cycling,35:24 35:24,7,2016,▼4
+25.0,68.0,116.0,+41:27,14.0,Theuns Edward,18.0,Trek - Segafredo,35:37 35:37,7,2016,▼4
+25.0,203.0,146.0,+48:12,19.0,Durbridge Luke,19.0,ORICA-BikeExchange,42:22 42:22,7,2016,-
+23.0,196.0,152.0,+49:39,15.0,Laporte Christophe,20.0,"Cofidis, Solutions Crédits",43:49 43:49,7,2016,▼5
+23.0,56.0,164.0,+51:16,23.0,Roosen Timo,21.0,Team LottoNL-Jumbo,45:26 45:26,7,2016,▲2
+23.0,26.0,166.0,+51:19,25.0,Lutsenko Alexey,22.0,Astana Pro Team,45:29 45:29,7,2016,▲3
+23.0,53.0,167.0,+51:23,24.0,Groenewegen Dylan,23.0,Team LottoNL-Jumbo,45:33 45:33,7,2016,▲1
+24.0,89.0,169.0,+51:32,26.0,van Baarle Dylan,24.0,Cannondale-Drapac Pro Cycling Team,45:42 45:42,7,2016,▲2
+23.0,188.0,171.0,+51:59,22.0,Vakoč Petr,25.0,Etixx - Quick Step,46:09 46:09,7,2016,▼3
+24.0,216.0,174.0,+52:39,21.0,McLay Daniel,26.0,Fortuneo - Vital Concept,46:49 46:49,7,2016,▼5
+25.0,102.0,186.0,+56:22,29.0,Berhane Natnael,27.0,Team Dimension Data,50:32 50:32,7,2016,▲2
+23.0,47.0,187.0,+57:06,27.0,Gougeard Alexis,28.0,AG2R La Mondiale,51:16 51:16,7,2016,▼1
+25.0,143.0,194.0,+1:00:29,28.0,Haller Marco,29.0,Team Katusha,54:39 54:39,7,2016,▼1
+23.0,209.0,2.0,+0:16,1.0,Yates Adam,1.0,ORICA-BikeExchange,39:13:20 39:13:20,8,2016,-
+24.0,157.0,13.0,+0:34,5.0,Meintjes Louis,2.0,Lampre - Merida,0:18 0:18,8,2016,▲3
+24.0,111.0,14.0,+1:51,3.0,Barguil Warren,3.0,Team Giant - Alpecin,1:35 1:35,8,2016,-
+25.0,51.0,16.0,+1:55,4.0,Kelderman Wilco,4.0,Team LottoNL-Jumbo,1:39 1:39,8,2016,-
+23.0,131.0,23.0,+5:36,6.0,Buchmann Emanuel,5.0,Bora - Argon 18,5:20 5:20,8,2016,▲1
+25.0,211.0,28.0,+9:33,7.0,Sepúlveda Eduardo,6.0,Fortuneo - Vital Concept,9:17 9:17,8,2016,▲1
+24.0,182.0,39.0,+25:58,2.0,Alaphilippe Julian,7.0,Etixx - Quick Step,25:42 25:42,8,2016,▼5
+24.0,137.0,52.0,+32:58,8.0,Konrad Patrick,8.0,Bora - Argon 18,32:42 32:42,8,2016,-
+24.0,83.0,68.0,+46:52,9.0,Craddock Lawson,9.0,Cannondale-Drapac Pro Cycling Team,46:36 46:36,8,2016,-
+24.0,159.0,81.0,+53:10,11.0,Polanc Jan,10.0,Lampre - Merida,52:54 52:54,8,2016,▲1
+24.0,39.0,90.0,+1:00:57,16.0,Valgren Michael,11.0,Tinkoff,1:00:41 1:00:41,8,2016,▲5
+22.0,158.0,97.0,+1:04:22,12.0,Pibernik Luka,12.0,Lampre - Merida,1:04:06 1:04:06,8,2016,-
+24.0,156.0,101.0,+1:04:58,10.0,Grmay Tsgabu,13.0,Lampre - Merida,1:04:42 1:04:42,8,2016,▼3
+23.0,26.0,106.0,+1:08:05,22.0,Lutsenko Alexey,14.0,Astana Pro Team,1:07:49 1:07:49,8,2016,▲8
+25.0,203.0,108.0,+1:08:19,19.0,Durbridge Luke,15.0,ORICA-BikeExchange,1:08:03 1:08:03,8,2016,▲4
+24.0,171.0,111.0,+1:08:57,15.0,Coquard Bryan,16.0,Direct Energie,1:08:41 1:08:41,8,2016,▼1
+24.0,67.0,116.0,+1:10:11,13.0,Stuyven Jasper,17.0,Trek - Segafredo,1:09:55 1:09:55,8,2016,▼4
+24.0,89.0,120.0,+1:10:59,24.0,van Baarle Dylan,18.0,Cannondale-Drapac Pro Cycling Team,1:10:43 1:10:43,8,2016,▲6
+24.0,173.0,128.0,+1:12:44,14.0,Duchesne Antoine,19.0,Direct Energie,1:12:28 1:12:28,8,2016,▼5
+22.0,75.0,136.0,+1:14:51,17.0,Enger Sondre Holst,20.0,IAM Cycling,1:14:35 1:14:35,8,2016,▼3
+25.0,68.0,137.0,+1:15:04,18.0,Theuns Edward,21.0,Trek - Segafredo,1:14:48 1:14:48,8,2016,▼3
+23.0,196.0,147.0,+1:18:35,20.0,Laporte Christophe,22.0,"Cofidis, Solutions Crédits",1:18:19 1:18:19,8,2016,▼2
+23.0,56.0,151.0,+1:20:12,21.0,Roosen Timo,23.0,Team LottoNL-Jumbo,1:19:56 1:19:56,8,2016,▼2
+23.0,188.0,156.0,+1:20:55,25.0,Vakoč Petr,24.0,Etixx - Quick Step,1:20:39 1:20:39,8,2016,▲1
+23.0,53.0,176.0,+1:25:00,23.0,Groenewegen Dylan,25.0,Team LottoNL-Jumbo,1:24:44 1:24:44,8,2016,▼2
+25.0,102.0,178.0,+1:25:18,27.0,Berhane Natnael,26.0,Team Dimension Data,1:25:02 1:25:02,8,2016,▲1
+24.0,216.0,183.0,+1:26:16,26.0,McLay Daniel,27.0,Fortuneo - Vital Concept,1:26:00 1:26:00,8,2016,▼1
+25.0,143.0,189.0,+1:29:25,29.0,Haller Marco,28.0,Team Katusha,1:29:09 1:29:09,8,2016,▲1
+23.0,47.0,191.0,+1:30:43,28.0,Gougeard Alexis,29.0,AG2R La Mondiale,1:30:27 1:30:27,8,2016,▼1
+23.0,209.0,2.0,+0:16,1.0,Yates Adam,1.0,ORICA-BikeExchange,44:36:19 44:36:19,9,2016,-
+24.0,157.0,9.0,+0:55,2.0,Meintjes Louis,2.0,Lampre - Merida,0:39 0:39,9,2016,-
+24.0,111.0,15.0,+2:51,3.0,Barguil Warren,3.0,Team Giant - Alpecin,2:35 2:35,9,2016,-
+25.0,51.0,19.0,+5:28,4.0,Kelderman Wilco,4.0,Team LottoNL-Jumbo,5:12 5:12,9,2016,-
+23.0,131.0,22.0,+8:48,5.0,Buchmann Emanuel,5.0,Bora - Argon 18,8:32 8:32,9,2016,-
+25.0,211.0,28.0,+16:57,6.0,Sepúlveda Eduardo,6.0,Fortuneo - Vital Concept,16:41 16:41,9,2016,-
+24.0,182.0,45.0,+40:37,7.0,Alaphilippe Julian,7.0,Etixx - Quick Step,40:21 40:21,9,2016,-
+24.0,137.0,62.0,+57:33,8.0,Konrad Patrick,8.0,Bora - Argon 18,57:17 57:17,9,2016,-
+24.0,83.0,69.0,+1:02:36,9.0,Craddock Lawson,9.0,Cannondale-Drapac Pro Cycling Team,1:02:20 1:02:20,9,2016,-
+24.0,159.0,75.0,+1:07:49,10.0,Polanc Jan,10.0,Lampre - Merida,1:07:33 1:07:33,9,2016,-
+24.0,156.0,89.0,+1:17:26,13.0,Grmay Tsgabu,11.0,Lampre - Merida,1:17:10 1:17:10,9,2016,▲2
+24.0,39.0,95.0,+1:22:38,11.0,Valgren Michael,12.0,Tinkoff,1:22:22 1:22:22,9,2016,▼1
+23.0,26.0,96.0,+1:23:49,14.0,Lutsenko Alexey,13.0,Astana Pro Team,1:23:33 1:23:33,9,2016,▲1
+22.0,158.0,101.0,+1:26:03,12.0,Pibernik Luka,14.0,Lampre - Merida,1:25:47 1:25:47,9,2016,▼2
+25.0,102.0,103.0,+1:27:10,26.0,Berhane Natnael,15.0,Team Dimension Data,1:26:54 1:26:54,9,2016,▲11
+24.0,171.0,107.0,+1:32:05,16.0,Coquard Bryan,16.0,Direct Energie,1:31:49 1:31:49,9,2016,-
+25.0,203.0,111.0,+1:33:47,15.0,Durbridge Luke,17.0,ORICA-BikeExchange,1:33:31 1:33:31,9,2016,▼2
+24.0,89.0,112.0,+1:35:34,18.0,van Baarle Dylan,18.0,Cannondale-Drapac Pro Cycling Team,1:35:18 1:35:18,9,2016,-
+24.0,173.0,116.0,+1:37:19,19.0,Duchesne Antoine,19.0,Direct Energie,1:37:03 1:37:03,9,2016,-
+24.0,67.0,126.0,+1:39:02,17.0,Stuyven Jasper,20.0,Trek - Segafredo,1:38:46 1:38:46,9,2016,▼3
+22.0,75.0,139.0,+1:43:42,20.0,Enger Sondre Holst,21.0,IAM Cycling,1:43:26 1:43:26,9,2016,▼1
+23.0,188.0,141.0,+1:44:03,24.0,Vakoč Petr,22.0,Etixx - Quick Step,1:43:47 1:43:47,9,2016,▲2
+25.0,68.0,142.0,+1:44:15,21.0,Theuns Edward,23.0,Trek - Segafredo,1:43:59 1:43:59,9,2016,▼2
+23.0,196.0,150.0,+1:47:46,22.0,Laporte Christophe,24.0,"Cofidis, Solutions Crédits",1:47:30 1:47:30,9,2016,▼2
+23.0,56.0,153.0,+1:49:03,23.0,Roosen Timo,25.0,Team LottoNL-Jumbo,1:48:47 1:48:47,9,2016,▼2
+23.0,53.0,174.0,+1:53:51,25.0,Groenewegen Dylan,26.0,Team LottoNL-Jumbo,1:53:35 1:53:35,9,2016,▼1
+24.0,216.0,182.0,+1:55:07,27.0,McLay Daniel,27.0,Fortuneo - Vital Concept,1:54:51 1:54:51,9,2016,-
+25.0,143.0,186.0,+1:58:16,28.0,Haller Marco,28.0,Team Katusha,1:58:00 1:58:00,9,2016,-
+23.0,47.0,187.0,+1:59:34,29.0,Gougeard Alexis,29.0,AG2R La Mondiale,1:59:18 1:59:18,9,2016,-
+23.0,209.0,2.0,+0:16,1.0,Yates Adam,1.0,ORICA-BikeExchange,49:08:36 49:08:36,10,2016,-
+24.0,157.0,9.0,+0:55,2.0,Meintjes Louis,2.0,Lampre - Merida,0:39 0:39,10,2016,-
+24.0,111.0,15.0,+2:51,3.0,Barguil Warren,3.0,Team Giant - Alpecin,2:35 2:35,10,2016,-
+25.0,51.0,19.0,+5:28,4.0,Kelderman Wilco,4.0,Team LottoNL-Jumbo,5:12 5:12,10,2016,-
+23.0,131.0,23.0,+8:48,5.0,Buchmann Emanuel,5.0,Bora - Argon 18,8:32 8:32,10,2016,-
+25.0,211.0,28.0,+16:57,6.0,Sepúlveda Eduardo,6.0,Fortuneo - Vital Concept,16:41 16:41,10,2016,-
+24.0,182.0,47.0,+40:37,7.0,Alaphilippe Julian,7.0,Etixx - Quick Step,40:21 40:21,10,2016,-
+24.0,137.0,63.0,+57:33,8.0,Konrad Patrick,8.0,Bora - Argon 18,57:17 57:17,10,2016,-
+24.0,83.0,70.0,+1:02:36,9.0,Craddock Lawson,9.0,Cannondale-Drapac Pro Cycling Team,1:02:20 1:02:20,10,2016,-
+24.0,159.0,76.0,+1:07:49,10.0,Polanc Jan,10.0,Lampre - Merida,1:07:33 1:07:33,10,2016,-
+24.0,156.0,90.0,+1:17:26,11.0,Grmay Tsgabu,11.0,Lampre - Merida,1:17:10 1:17:10,10,2016,-
+24.0,39.0,96.0,+1:22:38,12.0,Valgren Michael,12.0,Tinkoff,1:22:22 1:22:22,10,2016,-
+23.0,26.0,98.0,+1:24:48,13.0,Lutsenko Alexey,13.0,Astana Pro Team,1:24:32 1:24:32,10,2016,-
+25.0,203.0,100.0,+1:25:18,17.0,Durbridge Luke,14.0,ORICA-BikeExchange,1:25:02 1:25:02,10,2016,▲3
+22.0,158.0,102.0,+1:26:03,14.0,Pibernik Luka,15.0,Lampre - Merida,1:25:47 1:25:47,10,2016,▼1
+25.0,102.0,104.0,+1:27:10,15.0,Berhane Natnael,16.0,Team Dimension Data,1:26:54 1:26:54,10,2016,▼1
+24.0,171.0,110.0,+1:32:05,16.0,Coquard Bryan,17.0,Direct Energie,1:31:49 1:31:49,10,2016,▼1
+24.0,89.0,115.0,+1:35:34,18.0,van Baarle Dylan,18.0,Cannondale-Drapac Pro Cycling Team,1:35:18 1:35:18,10,2016,-
+24.0,173.0,119.0,+1:37:19,19.0,Duchesne Antoine,19.0,Direct Energie,1:37:03 1:37:03,10,2016,-
+24.0,67.0,128.0,+1:39:02,20.0,Stuyven Jasper,20.0,Trek - Segafredo,1:38:46 1:38:46,10,2016,-
+22.0,75.0,139.0,+1:43:42,21.0,Enger Sondre Holst,21.0,IAM Cycling,1:43:26 1:43:26,10,2016,-
+24.0,188.0,141.0,+1:44:03,22.0,Vakoč Petr,22.0,Etixx - Quick Step,1:43:47 1:43:47,10,2016,-
+25.0,68.0,142.0,+1:44:15,23.0,Theuns Edward,23.0,Trek - Segafredo,1:43:59 1:43:59,10,2016,-
+23.0,196.0,151.0,+1:48:45,24.0,Laporte Christophe,24.0,"Cofidis, Solutions Crédits",1:48:29 1:48:29,10,2016,-
+23.0,56.0,152.0,+1:49:03,25.0,Roosen Timo,25.0,Team LottoNL-Jumbo,1:48:47 1:48:47,10,2016,-
+23.0,53.0,173.0,+1:53:51,26.0,Groenewegen Dylan,26.0,Team LottoNL-Jumbo,1:53:35 1:53:35,10,2016,-
+24.0,216.0,184.0,+1:57:06,27.0,McLay Daniel,27.0,Fortuneo - Vital Concept,1:56:50 1:56:50,10,2016,-
+23.0,47.0,185.0,+1:59:34,29.0,Gougeard Alexis,28.0,AG2R La Mondiale,1:59:18 1:59:18,10,2016,▲1
+25.0,143.0,187.0,+2:00:15,28.0,Haller Marco,29.0,Team Katusha,1:59:59 1:59:59,10,2016,▼1
+23.0,209.0,2.0,+0:28,1.0,Yates Adam,1.0,ORICA-BikeExchange,52:35:05 52:35:05,11,2016,-
+24.0,157.0,13.0,+2:10,2.0,Meintjes Louis,2.0,Lampre - Merida,1:42 1:42,11,2016,-
+24.0,111.0,15.0,+3:03,3.0,Barguil Warren,3.0,Team Giant - Alpecin,2:35 2:35,11,2016,-
+25.0,51.0,18.0,+5:54,4.0,Kelderman Wilco,4.0,Team LottoNL-Jumbo,5:26 5:26,11,2016,-
+23.0,131.0,22.0,+10:03,5.0,Buchmann Emanuel,5.0,Bora - Argon 18,9:35 9:35,11,2016,-
+25.0,211.0,26.0,+18:12,6.0,Sepúlveda Eduardo,6.0,Fortuneo - Vital Concept,17:44 17:44,11,2016,-
+24.0,182.0,46.0,+43:13,7.0,Alaphilippe Julian,7.0,Etixx - Quick Step,42:45 42:45,11,2016,-
+24.0,137.0,61.0,+58:48,8.0,Konrad Patrick,8.0,Bora - Argon 18,58:20 58:20,11,2016,-
+24.0,159.0,75.0,+1:11:37,10.0,Polanc Jan,9.0,Lampre - Merida,1:11:09 1:11:09,11,2016,▲1
+24.0,83.0,88.0,+1:19:43,9.0,Craddock Lawson,10.0,Cannondale-Drapac Pro Cycling Team,1:19:15 1:19:15,11,2016,▼1
+24.0,39.0,91.0,+1:22:50,12.0,Valgren Michael,11.0,Tinkoff,1:22:22 1:22:22,11,2016,▲1
+24.0,156.0,92.0,+1:23:11,11.0,Grmay Tsgabu,12.0,Lampre - Merida,1:22:43 1:22:43,11,2016,▼1
+23.0,26.0,96.0,+1:25:37,13.0,Lutsenko Alexey,13.0,Astana Pro Team,1:25:09 1:25:09,11,2016,-
+25.0,203.0,98.0,+1:26:14,14.0,Durbridge Luke,14.0,ORICA-BikeExchange,1:25:46 1:25:46,11,2016,-
+22.0,158.0,99.0,+1:27:27,15.0,Pibernik Luka,15.0,Lampre - Merida,1:26:59 1:26:59,11,2016,-
+25.0,102.0,106.0,+1:31:06,16.0,Berhane Natnael,16.0,Team Dimension Data,1:30:38 1:30:38,11,2016,-
+24.0,171.0,107.0,+1:32:17,17.0,Coquard Bryan,17.0,Direct Energie,1:31:49 1:31:49,11,2016,-
+24.0,173.0,116.0,+1:37:45,19.0,Duchesne Antoine,18.0,Direct Energie,1:37:17 1:37:17,11,2016,▲1
+24.0,67.0,119.0,+1:39:14,20.0,Stuyven Jasper,19.0,Trek - Segafredo,1:38:46 1:38:46,11,2016,▲1
+24.0,89.0,121.0,+1:39:30,18.0,van Baarle Dylan,20.0,Cannondale-Drapac Pro Cycling Team,1:39:02 1:39:02,11,2016,▼2
+22.0,75.0,132.0,+1:43:54,21.0,Enger Sondre Holst,21.0,IAM Cycling,1:43:26 1:43:26,11,2016,-
+24.0,188.0,136.0,+1:45:09,22.0,Vakoč Petr,22.0,Etixx - Quick Step,1:44:41 1:44:41,11,2016,-
+23.0,196.0,144.0,+1:48:57,24.0,Laporte Christophe,23.0,"Cofidis, Solutions Crédits",1:48:29 1:48:29,11,2016,▲1
+25.0,68.0,152.0,+1:50:09,23.0,Theuns Edward,24.0,Trek - Segafredo,1:49:41 1:49:41,11,2016,▼1
+23.0,56.0,154.0,+1:50:18,25.0,Roosen Timo,25.0,Team LottoNL-Jumbo,1:49:50 1:49:50,11,2016,-
+23.0,53.0,165.0,+1:54:03,26.0,Groenewegen Dylan,26.0,Team LottoNL-Jumbo,1:53:35 1:53:35,11,2016,-
+24.0,216.0,174.0,+1:57:18,27.0,McLay Daniel,27.0,Fortuneo - Vital Concept,1:56:50 1:56:50,11,2016,-
+25.0,143.0,186.0,+2:02:28,29.0,Haller Marco,28.0,Team Katusha,2:02:00 2:02:00,11,2016,▲1
+23.0,47.0,187.0,+2:05:39,28.0,Gougeard Alexis,29.0,AG2R La Mondiale,2:05:11 2:05:11,11,2016,▼1
+23.0,209.0,2.0,+0:47,1.0,Yates Adam,1.0,ORICA-BikeExchange,57:12:20 57:12:20,12,2016,-
+24.0,157.0,12.0,+2:29,2.0,Meintjes Louis,2.0,Lampre - Merida,1:42 1:42,12,2016,-
+24.0,111.0,15.0,+4:28,3.0,Barguil Warren,3.0,Team Giant - Alpecin,3:41 3:41,12,2016,-
+23.0,131.0,21.0,+14:33,5.0,Buchmann Emanuel,4.0,Bora - Argon 18,13:46 13:46,12,2016,▲1
+25.0,51.0,25.0,+26:14,4.0,Kelderman Wilco,5.0,Team LottoNL-Jumbo,25:27 25:27,12,2016,▼1
+25.0,211.0,30.0,+38:32,6.0,Sepúlveda Eduardo,6.0,Fortuneo - Vital Concept,37:45 37:45,12,2016,-
+24.0,182.0,54.0,+1:01:45,7.0,Alaphilippe Julian,7.0,Etixx - Quick Step,1:00:58 1:00:58,12,2016,-
+24.0,137.0,59.0,+1:07:23,8.0,Konrad Patrick,8.0,Bora - Argon 18,1:06:36 1:06:36,12,2016,-
+24.0,156.0,80.0,+1:32:39,12.0,Grmay Tsgabu,9.0,Lampre - Merida,1:31:52 1:31:52,12,2016,▲3
+24.0,159.0,83.0,+1:34:56,9.0,Polanc Jan,10.0,Lampre - Merida,1:34:09 1:34:09,12,2016,▼1
+24.0,83.0,90.0,+1:40:35,10.0,Craddock Lawson,11.0,Cannondale-Drapac Pro Cycling Team,1:39:48 1:39:48,12,2016,▼1
+24.0,39.0,91.0,+1:41:22,11.0,Valgren Michael,12.0,Tinkoff,1:40:35 1:40:35,12,2016,▼1
+23.0,26.0,96.0,+1:44:09,13.0,Lutsenko Alexey,13.0,Astana Pro Team,1:43:22 1:43:22,12,2016,-
+25.0,203.0,97.0,+1:44:46,14.0,Durbridge Luke,14.0,ORICA-BikeExchange,1:43:59 1:43:59,12,2016,-
+22.0,158.0,104.0,+1:47:47,15.0,Pibernik Luka,15.0,Lampre - Merida,1:47:00 1:47:00,12,2016,-
+24.0,171.0,110.0,+1:50:49,17.0,Coquard Bryan,16.0,Direct Energie,1:50:02 1:50:02,12,2016,▲1
+24.0,173.0,113.0,+1:54:06,18.0,Duchesne Antoine,17.0,Direct Energie,1:53:19 1:53:19,12,2016,▲1
+25.0,102.0,114.0,+1:54:25,16.0,Berhane Natnael,18.0,Team Dimension Data,1:53:38 1:53:38,12,2016,▼2
+24.0,67.0,117.0,+1:55:35,19.0,Stuyven Jasper,19.0,Trek - Segafredo,1:54:48 1:54:48,12,2016,-
+24.0,89.0,118.0,+1:55:51,20.0,van Baarle Dylan,20.0,Cannondale-Drapac Pro Cycling Team,1:55:04 1:55:04,12,2016,-
+24.0,188.0,127.0,+2:01:30,22.0,Vakoč Petr,21.0,Etixx - Quick Step,2:00:43 2:00:43,12,2016,▲1
+25.0,68.0,139.0,+2:06:30,24.0,Theuns Edward,22.0,Trek - Segafredo,2:05:43 2:05:43,12,2016,▲2
+22.0,75.0,141.0,+2:07:13,21.0,Enger Sondre Holst,23.0,IAM Cycling,2:06:26 2:06:26,12,2016,▼2
+23.0,196.0,147.0,+2:09:55,23.0,Laporte Christophe,24.0,"Cofidis, Solutions Crédits",2:09:08 2:09:08,12,2016,▼1
+23.0,56.0,149.0,+2:10:38,25.0,Roosen Timo,25.0,Team LottoNL-Jumbo,2:09:51 2:09:51,12,2016,-
+23.0,53.0,167.0,+2:17:22,26.0,Groenewegen Dylan,26.0,Team LottoNL-Jumbo,2:16:35 2:16:35,12,2016,-
+24.0,216.0,177.0,+2:20:37,27.0,McLay Daniel,27.0,Fortuneo - Vital Concept,2:19:50 2:19:50,12,2016,-
+25.0,143.0,181.0,+2:22:48,28.0,Haller Marco,28.0,Team Katusha,2:22:01 2:22:01,12,2016,-
+23.0,47.0,185.0,+2:25:59,29.0,Gougeard Alexis,29.0,AG2R La Mondiale,2:25:12 2:25:12,12,2016,-
+23.0,209.0,3.0,+2:45,1.0,Yates Adam,1.0,ORICA-BikeExchange,58:05:36 58:05:36,13,2016,-
+24.0,157.0,12.0,+5:48,2.0,Meintjes Louis,2.0,Lampre - Merida,3:03 3:03,13,2016,-
+24.0,111.0,16.0,+8:23,3.0,Barguil Warren,3.0,Team Giant - Alpecin,5:38 5:38,13,2016,-
+23.0,131.0,20.0,+19:02,4.0,Buchmann Emanuel,4.0,Bora - Argon 18,16:17 16:17,13,2016,-
+25.0,51.0,24.0,+30:08,5.0,Kelderman Wilco,5.0,Team LottoNL-Jumbo,27:23 27:23,13,2016,-
+25.0,211.0,32.0,+44:56,6.0,Sepúlveda Eduardo,6.0,Fortuneo - Vital Concept,42:11 42:11,13,2016,-
+24.0,182.0,54.0,+1:07:57,7.0,Alaphilippe Julian,7.0,Etixx - Quick Step,1:05:12 1:05:12,13,2016,-
+24.0,137.0,60.0,+1:14:59,8.0,Konrad Patrick,8.0,Bora - Argon 18,1:12:14 1:12:14,13,2016,-
+24.0,159.0,79.0,+1:39:03,10.0,Polanc Jan,9.0,Lampre - Merida,1:36:18 1:36:18,13,2016,▲1
+24.0,156.0,80.0,+1:39:28,9.0,Grmay Tsgabu,10.0,Lampre - Merida,1:36:43 1:36:43,13,2016,▼1
+24.0,39.0,90.0,+1:46:20,12.0,Valgren Michael,11.0,Tinkoff,1:43:35 1:43:35,13,2016,▲1
+25.0,203.0,91.0,+1:46:44,14.0,Durbridge Luke,12.0,ORICA-BikeExchange,1:43:59 1:43:59,13,2016,▲2
+23.0,26.0,93.0,+1:46:47,13.0,Lutsenko Alexey,13.0,Astana Pro Team,1:44:02 1:44:02,13,2016,-
+24.0,83.0,95.0,+1:47:55,11.0,Craddock Lawson,14.0,Cannondale-Drapac Pro Cycling Team,1:45:10 1:45:10,13,2016,▼3
+22.0,158.0,107.0,+1:55:21,15.0,Pibernik Luka,15.0,Lampre - Merida,1:52:36 1:52:36,13,2016,-
+24.0,171.0,110.0,+1:57:47,16.0,Coquard Bryan,16.0,Direct Energie,1:55:02 1:55:02,13,2016,-
+24.0,173.0,113.0,+2:00:22,17.0,Duchesne Antoine,17.0,Direct Energie,1:57:37 1:57:37,13,2016,-
+24.0,89.0,114.0,+2:00:29,20.0,van Baarle Dylan,18.0,Cannondale-Drapac Pro Cycling Team,1:57:44 1:57:44,13,2016,▲2
+25.0,102.0,115.0,+2:01:10,18.0,Berhane Natnael,19.0,Team Dimension Data,1:58:25 1:58:25,13,2016,▼1
+24.0,67.0,116.0,+2:01:13,19.0,Stuyven Jasper,20.0,Trek - Segafredo,1:58:28 1:58:28,13,2016,▼1
+24.0,188.0,130.0,+2:09:05,21.0,Vakoč Petr,21.0,Etixx - Quick Step,2:06:20 2:06:20,13,2016,-
+22.0,75.0,138.0,+2:13:40,23.0,Enger Sondre Holst,22.0,IAM Cycling,2:10:55 2:10:55,13,2016,▲1
+23.0,56.0,142.0,+2:15:15,25.0,Roosen Timo,23.0,Team LottoNL-Jumbo,2:12:30 2:12:30,13,2016,▲2
+23.0,196.0,144.0,+2:16:46,24.0,Laporte Christophe,24.0,"Cofidis, Solutions Crédits",2:14:01 2:14:01,13,2016,-
+23.0,53.0,166.0,+2:24:10,26.0,Groenewegen Dylan,25.0,Team LottoNL-Jumbo,2:21:25 2:21:25,13,2016,▲1
+23.0,47.0,177.0,+2:29:18,29.0,Gougeard Alexis,26.0,AG2R La Mondiale,2:26:33 2:26:33,13,2016,▲3
+24.0,216.0,178.0,+2:29:24,27.0,McLay Daniel,27.0,Fortuneo - Vital Concept,2:26:39 2:26:39,13,2016,-
+25.0,143.0,182.0,+2:32:22,28.0,Haller Marco,28.0,Team Katusha,2:29:37 2:29:37,13,2016,-
+23.0,209.0,3.0,+2:45,1.0,Yates Adam,1.0,ORICA-BikeExchange,63:49:25 63:49:25,14,2016,-
+24.0,157.0,12.0,+5:48,2.0,Meintjes Louis,2.0,Lampre - Merida,3:03 3:03,14,2016,-
+24.0,111.0,16.0,+8:23,3.0,Barguil Warren,3.0,Team Giant - Alpecin,5:38 5:38,14,2016,-
+23.0,131.0,20.0,+19:02,4.0,Buchmann Emanuel,4.0,Bora - Argon 18,16:17 16:17,14,2016,-
+25.0,51.0,24.0,+30:27,5.0,Kelderman Wilco,5.0,Team LottoNL-Jumbo,27:42 27:42,14,2016,-
+25.0,211.0,31.0,+46:22,6.0,Sepúlveda Eduardo,6.0,Fortuneo - Vital Concept,43:37 43:37,14,2016,-
+24.0,182.0,53.0,+1:10:35,7.0,Alaphilippe Julian,7.0,Etixx - Quick Step,1:07:50 1:07:50,14,2016,-
+24.0,137.0,58.0,+1:14:59,8.0,Konrad Patrick,8.0,Bora - Argon 18,1:12:14 1:12:14,14,2016,-
+24.0,159.0,78.0,+1:39:03,9.0,Polanc Jan,9.0,Lampre - Merida,1:36:18 1:36:18,14,2016,-
+24.0,156.0,79.0,+1:39:28,10.0,Grmay Tsgabu,10.0,Lampre - Merida,1:36:43 1:36:43,14,2016,-
+24.0,39.0,88.0,+1:46:20,11.0,Valgren Michael,11.0,Tinkoff,1:43:35 1:43:35,14,2016,-
+25.0,203.0,89.0,+1:46:44,12.0,Durbridge Luke,12.0,ORICA-BikeExchange,1:43:59 1:43:59,14,2016,-
+23.0,26.0,94.0,+1:49:25,13.0,Lutsenko Alexey,13.0,Astana Pro Team,1:46:40 1:46:40,14,2016,-
+24.0,83.0,96.0,+1:50:33,14.0,Craddock Lawson,14.0,Cannondale-Drapac Pro Cycling Team,1:47:48 1:47:48,14,2016,-
+22.0,158.0,106.0,+1:55:21,15.0,Pibernik Luka,15.0,Lampre - Merida,1:52:36 1:52:36,14,2016,-
+24.0,171.0,108.0,+1:57:47,16.0,Coquard Bryan,16.0,Direct Energie,1:55:02 1:55:02,14,2016,-
+24.0,173.0,112.0,+2:00:48,17.0,Duchesne Antoine,17.0,Direct Energie,1:58:03 1:58:03,14,2016,-
+24.0,67.0,113.0,+2:01:13,20.0,Stuyven Jasper,18.0,Trek - Segafredo,1:58:28 1:58:28,14,2016,▲2
+24.0,89.0,116.0,+2:03:07,18.0,van Baarle Dylan,19.0,Cannondale-Drapac Pro Cycling Team,2:00:22 2:00:22,14,2016,▼1
+25.0,102.0,117.0,+2:03:48,19.0,Berhane Natnael,20.0,Team Dimension Data,2:01:03 2:01:03,14,2016,▼1
+24.0,188.0,131.0,+2:11:43,21.0,Vakoč Petr,21.0,Etixx - Quick Step,2:08:58 2:08:58,14,2016,-
+22.0,75.0,134.0,+2:13:40,22.0,Enger Sondre Holst,22.0,IAM Cycling,2:10:55 2:10:55,14,2016,-
+23.0,56.0,138.0,+2:15:15,23.0,Roosen Timo,23.0,Team LottoNL-Jumbo,2:12:30 2:12:30,14,2016,-
+23.0,196.0,141.0,+2:16:46,24.0,Laporte Christophe,24.0,"Cofidis, Solutions Crédits",2:14:01 2:14:01,14,2016,-
+23.0,53.0,161.0,+2:24:10,25.0,Groenewegen Dylan,25.0,Team LottoNL-Jumbo,2:21:25 2:21:25,14,2016,-
+23.0,47.0,173.0,+2:29:18,26.0,Gougeard Alexis,26.0,AG2R La Mondiale,2:26:33 2:26:33,14,2016,-
+24.0,216.0,174.0,+2:29:24,27.0,McLay Daniel,27.0,Fortuneo - Vital Concept,2:26:39 2:26:39,14,2016,-
+25.0,143.0,180.0,+2:32:54,28.0,Haller Marco,28.0,Team Katusha,2:30:09 2:30:09,14,2016,-
+23.0,209.0,3.0,+2:45,1.0,Yates Adam,1.0,ORICA-BikeExchange,68:17:21 68:17:21,15,2016,-
+24.0,157.0,12.0,+5:48,2.0,Meintjes Louis,2.0,Lampre - Merida,3:03 3:03,15,2016,-
+24.0,111.0,18.0,+19:05,3.0,Barguil Warren,3.0,Team Giant - Alpecin,16:20 16:20,15,2016,-
+23.0,131.0,21.0,+27:59,4.0,Buchmann Emanuel,4.0,Bora - Argon 18,25:14 25:14,15,2016,-
+25.0,51.0,30.0,+48:23,5.0,Kelderman Wilco,5.0,Team LottoNL-Jumbo,45:38 45:38,15,2016,-
+24.0,182.0,40.0,+1:07:50,7.0,Alaphilippe Julian,6.0,Etixx - Quick Step,1:05:05 1:05:05,15,2016,▲1
+25.0,211.0,41.0,+1:09:47,6.0,Sepúlveda Eduardo,7.0,Fortuneo - Vital Concept,1:07:02 1:07:02,15,2016,▼1
+24.0,137.0,61.0,+1:33:45,8.0,Konrad Patrick,8.0,Bora - Argon 18,1:31:00 1:31:00,15,2016,-
+24.0,159.0,66.0,+1:45:02,9.0,Polanc Jan,9.0,Lampre - Merida,1:42:17 1:42:17,15,2016,-
+24.0,156.0,83.0,+1:58:14,10.0,Grmay Tsgabu,10.0,Lampre - Merida,1:55:29 1:55:29,15,2016,-
+24.0,39.0,91.0,+2:05:06,11.0,Valgren Michael,11.0,Tinkoff,2:02:21 2:02:21,15,2016,-
+23.0,26.0,94.0,+2:08:11,13.0,Lutsenko Alexey,12.0,Astana Pro Team,2:05:26 2:05:26,15,2016,▲1
+25.0,203.0,100.0,+2:11:44,12.0,Durbridge Luke,13.0,ORICA-BikeExchange,2:08:59 2:08:59,15,2016,▼1
+24.0,83.0,101.0,+2:13:58,14.0,Craddock Lawson,14.0,Cannondale-Drapac Pro Cycling Team,2:11:13 2:11:13,15,2016,-
+24.0,89.0,105.0,+2:19:02,19.0,van Baarle Dylan,15.0,Cannondale-Drapac Pro Cycling Team,2:16:17 2:16:17,15,2016,▲4
+22.0,158.0,108.0,+2:20:21,15.0,Pibernik Luka,16.0,Lampre - Merida,2:17:36 2:17:36,15,2016,▼1
+24.0,171.0,111.0,+2:22:47,16.0,Coquard Bryan,17.0,Direct Energie,2:20:02 2:20:02,15,2016,▼1
+24.0,173.0,112.0,+2:24:13,17.0,Duchesne Antoine,18.0,Direct Energie,2:21:28 2:21:28,15,2016,▼1
+24.0,67.0,113.0,+2:26:13,18.0,Stuyven Jasper,19.0,Trek - Segafredo,2:23:28 2:23:28,15,2016,▼1
+25.0,102.0,118.0,+2:28:48,20.0,Berhane Natnael,20.0,Team Dimension Data,2:26:03 2:26:03,15,2016,-
+24.0,188.0,134.0,+2:35:08,21.0,Vakoč Petr,21.0,Etixx - Quick Step,2:32:23 2:32:23,15,2016,-
+22.0,75.0,142.0,+2:39:43,22.0,Enger Sondre Holst,22.0,IAM Cycling,2:36:58 2:36:58,15,2016,-
+23.0,196.0,143.0,+2:40:11,24.0,Laporte Christophe,23.0,"Cofidis, Solutions Crédits",2:37:26 2:37:26,15,2016,▲1
+23.0,56.0,144.0,+2:40:15,23.0,Roosen Timo,24.0,Team LottoNL-Jumbo,2:37:30 2:37:30,15,2016,▼1
+23.0,53.0,161.0,+2:50:13,25.0,Groenewegen Dylan,25.0,Team LottoNL-Jumbo,2:47:28 2:47:28,15,2016,-
+23.0,47.0,171.0,+2:55:21,26.0,Gougeard Alexis,26.0,AG2R La Mondiale,2:52:36 2:52:36,15,2016,-
+25.0,143.0,174.0,+2:56:19,28.0,Haller Marco,27.0,Team Katusha,2:53:34 2:53:34,15,2016,▲1
+24.0,216.0,177.0,+2:58:02,27.0,McLay Daniel,28.0,Fortuneo - Vital Concept,2:55:17 2:55:17,15,2016,▼1
+23.0,209.0,3.0,+2:45,1.0,Yates Adam,1.0,ORICA-BikeExchange,72:43:23 72:43:23,16,2016,-
+24.0,157.0,12.0,+5:48,2.0,Meintjes Louis,2.0,Lampre - Merida,3:03 3:03,16,2016,-
+24.0,111.0,18.0,+19:15,3.0,Barguil Warren,3.0,Team Giant - Alpecin,16:30 16:30,16,2016,-
+23.0,131.0,21.0,+28:38,4.0,Buchmann Emanuel,4.0,Bora - Argon 18,25:53 25:53,16,2016,-
+25.0,51.0,30.0,+48:23,5.0,Kelderman Wilco,5.0,Team LottoNL-Jumbo,45:38 45:38,16,2016,-
+25.0,211.0,43.0,+1:12:58,7.0,Sepúlveda Eduardo,6.0,Fortuneo - Vital Concept,1:10:13 1:10:13,16,2016,▲1
+24.0,182.0,48.0,+1:20:10,6.0,Alaphilippe Julian,7.0,Etixx - Quick Step,1:17:25 1:17:25,16,2016,▼1
+24.0,137.0,58.0,+1:33:45,8.0,Konrad Patrick,8.0,Bora - Argon 18,1:31:00 1:31:00,16,2016,-
+24.0,159.0,63.0,+1:45:41,9.0,Polanc Jan,9.0,Lampre - Merida,1:42:56 1:42:56,16,2016,-
+24.0,156.0,81.0,+1:59:34,10.0,Grmay Tsgabu,10.0,Lampre - Merida,1:56:49 1:56:49,16,2016,-
+23.0,26.0,93.0,+2:10:57,12.0,Lutsenko Alexey,11.0,Astana Pro Team,2:08:12 2:08:12,16,2016,▲1
+24.0,39.0,97.0,+2:13:24,11.0,Valgren Michael,12.0,Tinkoff,2:10:39 2:10:39,16,2016,▼1
+25.0,203.0,101.0,+2:18:37,13.0,Durbridge Luke,13.0,ORICA-BikeExchange,2:15:52 2:15:52,16,2016,-
+24.0,89.0,106.0,+2:21:13,15.0,van Baarle Dylan,14.0,Cannondale-Drapac Pro Cycling Team,2:18:28 2:18:28,16,2016,▲1
+22.0,158.0,107.0,+2:21:41,16.0,Pibernik Luka,15.0,Lampre - Merida,2:18:56 2:18:56,16,2016,▲1
+24.0,83.0,109.0,+2:22:16,14.0,Craddock Lawson,16.0,Cannondale-Drapac Pro Cycling Team,2:19:31 2:19:31,16,2016,▼2
+24.0,173.0,110.0,+2:27:07,18.0,Duchesne Antoine,17.0,Direct Energie,2:24:22 2:24:22,16,2016,▲1
+24.0,171.0,111.0,+2:27:37,17.0,Coquard Bryan,18.0,Direct Energie,2:24:52 2:24:52,16,2016,▼1
+24.0,67.0,112.0,+2:27:43,19.0,Stuyven Jasper,19.0,Trek - Segafredo,2:24:58 2:24:58,16,2016,-
+25.0,102.0,126.0,+2:35:41,20.0,Berhane Natnael,20.0,Team Dimension Data,2:32:56 2:32:56,16,2016,-
+24.0,188.0,127.0,+2:35:46,21.0,Vakoč Petr,21.0,Etixx - Quick Step,2:33:01 2:33:01,16,2016,-
+22.0,75.0,136.0,+2:39:39,22.0,Enger Sondre Holst,22.0,IAM Cycling,2:36:54 2:36:54,16,2016,-
+23.0,56.0,139.0,+2:41:35,24.0,Roosen Timo,23.0,Team LottoNL-Jumbo,2:38:50 2:38:50,16,2016,▲1
+23.0,53.0,156.0,+2:52:11,25.0,Groenewegen Dylan,24.0,Team LottoNL-Jumbo,2:49:26 2:49:26,16,2016,▲1
+23.0,196.0,158.0,+2:52:25,23.0,Laporte Christophe,25.0,"Cofidis, Solutions Crédits",2:49:40 2:49:40,16,2016,▼2
+25.0,143.0,169.0,+2:57:18,27.0,Haller Marco,26.0,Team Katusha,2:54:33 2:54:33,16,2016,▲1
+23.0,47.0,177.0,+3:03:39,26.0,Gougeard Alexis,27.0,AG2R La Mondiale,3:00:54 3:00:54,16,2016,▼1
+24.0,216.0,178.0,+3:05:25,28.0,McLay Daniel,28.0,Fortuneo - Vital Concept,3:02:40 3:02:40,16,2016,-
+23.0,209.0,3.0,+2:53,1.0,Yates Adam,1.0,ORICA-BikeExchange,77:28:03 77:28:03,17,2016,-
+24.0,157.0,10.0,+6:07,2.0,Meintjes Louis,2.0,Lampre - Merida,3:14 3:14,17,2016,-
+24.0,111.0,20.0,+33:05,3.0,Barguil Warren,3.0,Team Giant - Alpecin,30:12 30:12,17,2016,-
+23.0,131.0,22.0,+35:59,4.0,Buchmann Emanuel,4.0,Bora - Argon 18,33:06 33:06,17,2016,-
+25.0,51.0,35.0,+1:06:39,5.0,Kelderman Wilco,5.0,Team LottoNL-Jumbo,1:03:46 1:03:46,17,2016,-
+24.0,182.0,49.0,+1:38:08,7.0,Alaphilippe Julian,6.0,Etixx - Quick Step,1:35:15 1:35:15,17,2016,▲1
+25.0,211.0,53.0,+1:44:50,6.0,Sepúlveda Eduardo,7.0,Fortuneo - Vital Concept,1:41:57 1:41:57,17,2016,▼1
+24.0,137.0,60.0,+1:56:12,8.0,Konrad Patrick,8.0,Bora - Argon 18,1:53:19 1:53:19,17,2016,-
+24.0,159.0,61.0,+1:58:38,9.0,Polanc Jan,9.0,Lampre - Merida,1:55:45 1:55:45,17,2016,-
+23.0,26.0,75.0,+2:15:13,11.0,Lutsenko Alexey,10.0,Astana Pro Team,2:12:20 2:12:20,17,2016,▲1
+24.0,156.0,93.0,+2:31:26,10.0,Grmay Tsgabu,11.0,Lampre - Merida,2:28:33 2:28:33,17,2016,▼1
+24.0,39.0,94.0,+2:31:40,12.0,Valgren Michael,12.0,Tinkoff,2:28:47 2:28:47,17,2016,-
+24.0,89.0,102.0,+2:43:40,14.0,van Baarle Dylan,13.0,Cannondale-Drapac Pro Cycling Team,2:40:47 2:40:47,17,2016,▲1
+22.0,158.0,103.0,+2:44:08,15.0,Pibernik Luka,14.0,Lampre - Merida,2:41:15 2:41:15,17,2016,▲1
+24.0,67.0,104.0,+2:46:53,19.0,Stuyven Jasper,15.0,Trek - Segafredo,2:44:00 2:44:00,17,2016,▲4
+25.0,203.0,105.0,+2:47:34,13.0,Durbridge Luke,16.0,ORICA-BikeExchange,2:44:41 2:44:41,17,2016,▼3
+24.0,173.0,111.0,+2:53:27,17.0,Duchesne Antoine,17.0,Direct Energie,2:50:34 2:50:34,17,2016,-
+24.0,83.0,113.0,+2:54:08,16.0,Craddock Lawson,18.0,Cannondale-Drapac Pro Cycling Team,2:51:15 2:51:15,17,2016,▼2
+24.0,171.0,119.0,+2:59:29,18.0,Coquard Bryan,19.0,Direct Energie,2:56:36 2:56:36,17,2016,▼1
+23.0,56.0,120.0,+2:59:51,23.0,Roosen Timo,20.0,Team LottoNL-Jumbo,2:56:58 2:56:58,17,2016,▲3
+24.0,188.0,123.0,+3:00:59,21.0,Vakoč Petr,21.0,Etixx - Quick Step,2:58:06 2:58:06,17,2016,-
+25.0,102.0,135.0,+3:07:33,20.0,Berhane Natnael,22.0,Team Dimension Data,3:04:40 3:04:40,17,2016,▼2
+22.0,75.0,142.0,+3:11:31,22.0,Enger Sondre Holst,23.0,IAM Cycling,3:08:38 3:08:38,17,2016,▼1
+23.0,53.0,157.0,+3:24:03,24.0,Groenewegen Dylan,24.0,Team LottoNL-Jumbo,3:21:10 3:21:10,17,2016,-
+23.0,196.0,159.0,+3:24:17,25.0,Laporte Christophe,25.0,"Cofidis, Solutions Crédits",3:21:24 3:21:24,17,2016,-
+25.0,143.0,167.0,+3:29:10,26.0,Haller Marco,26.0,Team Katusha,3:26:17 3:26:17,17,2016,-
+23.0,47.0,173.0,+3:35:31,27.0,Gougeard Alexis,27.0,AG2R La Mondiale,3:32:38 3:32:38,17,2016,-
+24.0,216.0,174.0,+3:38:42,28.0,McLay Daniel,28.0,Fortuneo - Vital Concept,3:35:49 3:35:49,17,2016,-
+23.0,209.0,3.0,+4:16,1.0,Yates Adam,1.0,ORICA-BikeExchange,78:00:09 78:00:09,18,2016,-
+24.0,157.0,9.0,+7:15,2.0,Meintjes Louis,2.0,Lampre - Merida,2:59 2:59,18,2016,-
+24.0,111.0,20.0,+35:54,3.0,Barguil Warren,3.0,Team Giant - Alpecin,31:38 31:38,18,2016,-
+23.0,131.0,21.0,+38:42,4.0,Buchmann Emanuel,4.0,Bora - Argon 18,34:26 34:26,18,2016,-
+25.0,51.0,35.0,+1:10:11,5.0,Kelderman Wilco,5.0,Team LottoNL-Jumbo,1:05:55 1:05:55,18,2016,-
+24.0,182.0,49.0,+1:40:28,6.0,Alaphilippe Julian,6.0,Etixx - Quick Step,1:36:12 1:36:12,18,2016,-
+25.0,211.0,51.0,+1:47:30,7.0,Sepúlveda Eduardo,7.0,Fortuneo - Vital Concept,1:43:14 1:43:14,18,2016,-
+24.0,137.0,60.0,+2:00:01,8.0,Konrad Patrick,8.0,Bora - Argon 18,1:55:45 1:55:45,18,2016,-
+24.0,159.0,61.0,+2:01:54,9.0,Polanc Jan,9.0,Lampre - Merida,1:57:38 1:57:38,18,2016,-
+23.0,26.0,75.0,+2:17:25,10.0,Lutsenko Alexey,10.0,Astana Pro Team,2:13:09 2:13:09,18,2016,-
+24.0,39.0,92.0,+2:34:02,12.0,Valgren Michael,11.0,Tinkoff,2:29:46 2:29:46,18,2016,▲1
+24.0,156.0,94.0,+2:35:35,11.0,Grmay Tsgabu,12.0,Lampre - Merida,2:31:19 2:31:19,18,2016,▼1
+24.0,89.0,102.0,+2:47:19,13.0,van Baarle Dylan,13.0,Cannondale-Drapac Pro Cycling Team,2:43:03 2:43:03,18,2016,-
+22.0,158.0,103.0,+2:49:08,14.0,Pibernik Luka,14.0,Lampre - Merida,2:44:52 2:44:52,18,2016,-
+25.0,203.0,104.0,+2:51:13,16.0,Durbridge Luke,15.0,ORICA-BikeExchange,2:46:57 2:46:57,18,2016,▲1
+24.0,67.0,105.0,+2:51:40,15.0,Stuyven Jasper,16.0,Trek - Segafredo,2:47:24 2:47:24,18,2016,▼1
+24.0,173.0,110.0,+2:57:15,17.0,Duchesne Antoine,17.0,Direct Energie,2:52:59 2:52:59,18,2016,-
+24.0,83.0,113.0,+2:58:40,18.0,Craddock Lawson,18.0,Cannondale-Drapac Pro Cycling Team,2:54:24 2:54:24,18,2016,-
+24.0,171.0,117.0,+3:02:57,19.0,Coquard Bryan,19.0,Direct Energie,2:58:41 2:58:41,18,2016,-
+23.0,56.0,121.0,+3:04:12,20.0,Roosen Timo,20.0,Team LottoNL-Jumbo,2:59:56 2:59:56,18,2016,-
+24.0,188.0,124.0,+3:05:44,21.0,Vakoč Petr,21.0,Etixx - Quick Step,3:01:28 3:01:28,18,2016,-
+25.0,102.0,135.0,+3:13:01,22.0,Berhane Natnael,22.0,Team Dimension Data,3:08:45 3:08:45,18,2016,-
+22.0,75.0,142.0,+3:16:20,23.0,Enger Sondre Holst,23.0,IAM Cycling,3:12:04 3:12:04,18,2016,-
+23.0,196.0,158.0,+3:29:05,25.0,Laporte Christophe,24.0,"Cofidis, Solutions Crédits",3:24:49 3:24:49,18,2016,▲1
+23.0,53.0,160.0,+3:29:52,24.0,Groenewegen Dylan,25.0,Team LottoNL-Jumbo,3:25:36 3:25:36,18,2016,▼1
+25.0,143.0,167.0,+3:35:29,26.0,Haller Marco,26.0,Team Katusha,3:31:13 3:31:13,18,2016,-
+23.0,47.0,170.0,+3:37:54,27.0,Gougeard Alexis,27.0,AG2R La Mondiale,3:33:38 3:33:38,18,2016,-
+24.0,216.0,173.0,+3:45:21,28.0,McLay Daniel,28.0,Fortuneo - Vital Concept,3:41:05 3:41:05,18,2016,-
+23.0,209.0,4.0,+4:46,1.0,Yates Adam,1.0,ORICA-BikeExchange,82:15:23 82:15:23,19,2016,-
+24.0,157.0,8.0,+7:02,2.0,Meintjes Louis,2.0,Lampre - Merida,2:16 2:16,19,2016,-
+24.0,111.0,18.0,+36:35,3.0,Barguil Warren,3.0,Team Giant - Alpecin,31:49 31:49,19,2016,-
+23.0,131.0,21.0,+42:48,4.0,Buchmann Emanuel,4.0,Bora - Argon 18,38:02 38:02,19,2016,-
+25.0,51.0,36.0,+1:28:07,5.0,Kelderman Wilco,5.0,Team LottoNL-Jumbo,1:23:21 1:23:21,19,2016,-
+25.0,211.0,48.0,+1:58:37,7.0,Sepúlveda Eduardo,6.0,Fortuneo - Vital Concept,1:53:51 1:53:51,19,2016,▲1
+24.0,182.0,51.0,+2:03:38,6.0,Alaphilippe Julian,7.0,Etixx - Quick Step,1:58:52 1:58:52,19,2016,▼1
+24.0,159.0,58.0,+2:15:47,9.0,Polanc Jan,8.0,Lampre - Merida,2:11:01 2:11:01,19,2016,▲1
+23.0,26.0,67.0,+2:28:32,10.0,Lutsenko Alexey,9.0,Astana Pro Team,2:23:46 2:23:46,19,2016,▲1
+24.0,137.0,68.0,+2:30:53,8.0,Konrad Patrick,10.0,Bora - Argon 18,2:26:07 2:26:07,19,2016,▼2
+24.0,39.0,85.0,+2:53:23,11.0,Valgren Michael,11.0,Tinkoff,2:48:37 2:48:37,19,2016,-
+24.0,156.0,95.0,+3:06:27,12.0,Grmay Tsgabu,12.0,Lampre - Merida,3:01:41 3:01:41,19,2016,-
+24.0,89.0,96.0,+3:06:40,13.0,van Baarle Dylan,13.0,Cannondale-Drapac Pro Cycling Team,3:01:54 3:01:54,19,2016,-
+24.0,173.0,102.0,+3:19:32,17.0,Duchesne Antoine,14.0,Direct Energie,3:14:46 3:14:46,19,2016,▲3
+22.0,158.0,103.0,+3:20:00,14.0,Pibernik Luka,15.0,Lampre - Merida,3:15:14 3:15:14,19,2016,▼1
+25.0,203.0,106.0,+3:22:05,15.0,Durbridge Luke,16.0,ORICA-BikeExchange,3:17:19 3:17:19,19,2016,▼1
+24.0,67.0,108.0,+3:22:32,16.0,Stuyven Jasper,17.0,Trek - Segafredo,3:17:46 3:17:46,19,2016,▼1
+24.0,171.0,111.0,+3:26:07,19.0,Coquard Bryan,18.0,Direct Energie,3:21:21 3:21:21,19,2016,▲1
+24.0,188.0,113.0,+3:28:08,21.0,Vakoč Petr,19.0,Etixx - Quick Step,3:23:22 3:23:22,19,2016,▲2
+24.0,83.0,115.0,+3:29:32,18.0,Craddock Lawson,20.0,Cannondale-Drapac Pro Cycling Team,3:24:46 3:24:46,19,2016,▼2
+25.0,102.0,118.0,+3:32:22,22.0,Berhane Natnael,21.0,Team Dimension Data,3:27:36 3:27:36,19,2016,▲1
+23.0,56.0,123.0,+3:35:04,20.0,Roosen Timo,22.0,Team LottoNL-Jumbo,3:30:18 3:30:18,19,2016,▼2
+22.0,75.0,136.0,+3:45:40,23.0,Enger Sondre Holst,23.0,IAM Cycling,3:40:54 3:40:54,19,2016,-
+23.0,196.0,156.0,+3:59:57,24.0,Laporte Christophe,24.0,"Cofidis, Solutions Crédits",3:55:11 3:55:11,19,2016,-
+23.0,53.0,158.0,+4:00:44,25.0,Groenewegen Dylan,25.0,Team LottoNL-Jumbo,3:55:58 3:55:58,19,2016,-
+23.0,47.0,159.0,+4:01:04,27.0,Gougeard Alexis,26.0,AG2R La Mondiale,3:56:18 3:56:18,19,2016,▲1
+25.0,143.0,168.0,+4:06:21,26.0,Haller Marco,27.0,Team Katusha,4:01:35 4:01:35,19,2016,▼1
+24.0,216.0,171.0,+4:20:24,28.0,McLay Daniel,28.0,Fortuneo - Vital Concept,4:15:38 4:15:38,19,2016,-
+23.0,209.0,4.0,+4:42,1.0,Yates Adam,1.0,ORICA-BikeExchange,86:26:22 86:26:22,20,2016,-
+24.0,157.0,8.0,+6:58,2.0,Meintjes Louis,2.0,Lampre - Merida,2:16 2:16,20,2016,-
+23.0,131.0,21.0,+47:40,4.0,Buchmann Emanuel,3.0,Bora - Argon 18,42:58 42:58,20,2016,▲1
+24.0,111.0,23.0,+52:14,3.0,Barguil Warren,4.0,Team Giant - Alpecin,47:32 47:32,20,2016,▼1
+25.0,51.0,32.0,+1:24:38,5.0,Kelderman Wilco,5.0,Team LottoNL-Jumbo,1:19:56 1:19:56,20,2016,-
+24.0,182.0,41.0,+2:00:09,7.0,Alaphilippe Julian,6.0,Etixx - Quick Step,1:55:27 1:55:27,20,2016,▲1
+24.0,159.0,54.0,+2:18:24,8.0,Polanc Jan,7.0,Lampre - Merida,2:13:42 2:13:42,20,2016,▲1
+25.0,211.0,59.0,+2:28:27,6.0,Sepúlveda Eduardo,8.0,Fortuneo - Vital Concept,2:23:45 2:23:45,20,2016,▼2
+23.0,26.0,62.0,+2:41:52,9.0,Lutsenko Alexey,9.0,Astana Pro Team,2:37:10 2:37:10,20,2016,-
+24.0,137.0,65.0,+2:46:32,10.0,Konrad Patrick,10.0,Bora - Argon 18,2:41:50 2:41:50,20,2016,-
+24.0,39.0,78.0,+3:01:22,11.0,Valgren Michael,11.0,Tinkoff,2:56:40 2:56:40,20,2016,-
+24.0,89.0,91.0,+3:23:15,13.0,van Baarle Dylan,12.0,Cannondale-Drapac Pro Cycling Team,3:18:33 3:18:33,20,2016,▲1
+24.0,156.0,92.0,+3:23:17,12.0,Grmay Tsgabu,13.0,Lampre - Merida,3:18:35 3:18:35,20,2016,▼1
+24.0,67.0,100.0,+3:33:29,17.0,Stuyven Jasper,14.0,Trek - Segafredo,3:28:47 3:28:47,20,2016,▲3
+22.0,158.0,103.0,+3:38:17,15.0,Pibernik Luka,15.0,Lampre - Merida,3:33:35 3:33:35,20,2016,-
+24.0,173.0,108.0,+3:44:54,14.0,Duchesne Antoine,16.0,Direct Energie,3:40:12 3:40:12,20,2016,▼2
+23.0,56.0,112.0,+3:50:43,22.0,Roosen Timo,17.0,Team LottoNL-Jumbo,3:46:01 3:46:01,20,2016,▲5
+25.0,203.0,113.0,+3:51:55,16.0,Durbridge Luke,18.0,ORICA-BikeExchange,3:47:13 3:47:13,20,2016,▼2
+24.0,171.0,114.0,+3:51:57,18.0,Coquard Bryan,19.0,Direct Energie,3:47:15 3:47:15,20,2016,▼1
+24.0,188.0,119.0,+3:57:58,19.0,Vakoč Petr,20.0,Etixx - Quick Step,3:53:16 3:53:16,20,2016,▼1
+24.0,83.0,123.0,+3:59:12,20.0,Craddock Lawson,21.0,Cannondale-Drapac Pro Cycling Team,3:54:30 3:54:30,20,2016,▼1
+25.0,102.0,124.0,+4:02:12,21.0,Berhane Natnael,22.0,Team Dimension Data,3:57:30 3:57:30,20,2016,▼1
+22.0,75.0,139.0,+4:14:48,23.0,Enger Sondre Holst,23.0,IAM Cycling,4:10:06 4:10:06,20,2016,-
+23.0,47.0,148.0,+4:23:42,26.0,Gougeard Alexis,24.0,AG2R La Mondiale,4:19:00 4:19:00,20,2016,▲2
+23.0,196.0,158.0,+4:29:47,24.0,Laporte Christophe,25.0,"Cofidis, Solutions Crédits",4:25:05 4:25:05,20,2016,▼1
+23.0,53.0,161.0,+4:30:34,25.0,Groenewegen Dylan,26.0,Team LottoNL-Jumbo,4:25:52 4:25:52,20,2016,▼1
+25.0,143.0,164.0,+4:31:40,27.0,Haller Marco,27.0,Team Katusha,4:26:58 4:26:58,20,2016,-
+24.0,216.0,171.0,+4:50:14,28.0,McLay Daniel,28.0,Fortuneo - Vital Concept,4:45:32 4:45:32,20,2016,-
+23.0,209.0,4.0,+4:42,1.0,Yates Adam,1.0,ORICA-BikeExchange,89:09:30 89:09:30,21,2016,-
+24.0,157.0,8.0,+6:58,2.0,Meintjes Louis,2.0,Lampre - Merida,2:16 2:16,21,2016,-
+23.0,131.0,21.0,+47:40,3.0,Buchmann Emanuel,3.0,Bora - Argon 18,42:58 42:58,21,2016,-
+24.0,111.0,23.0,+52:14,4.0,Barguil Warren,4.0,Team Giant - Alpecin,47:32 47:32,21,2016,-
+25.0,51.0,32.0,+1:24:38,5.0,Kelderman Wilco,5.0,Team LottoNL-Jumbo,1:19:56 1:19:56,21,2016,-
+24.0,182.0,41.0,+2:00:09,6.0,Alaphilippe Julian,6.0,Etixx - Quick Step,1:55:27 1:55:27,21,2016,-
+24.0,159.0,54.0,+2:18:24,7.0,Polanc Jan,7.0,Lampre - Merida,2:13:42 2:13:42,21,2016,-
+25.0,211.0,59.0,+2:28:27,8.0,Sepúlveda Eduardo,8.0,Fortuneo - Vital Concept,2:23:45 2:23:45,21,2016,-
+23.0,26.0,62.0,+2:41:52,9.0,Lutsenko Alexey,9.0,Astana Pro Team,2:37:10 2:37:10,21,2016,-
+24.0,137.0,65.0,+2:46:32,10.0,Konrad Patrick,10.0,Bora - Argon 18,2:41:50 2:41:50,21,2016,-
+24.0,39.0,77.0,+3:01:22,11.0,Valgren Michael,11.0,Tinkoff,2:56:40 2:56:40,21,2016,-
+24.0,89.0,91.0,+3:23:15,12.0,van Baarle Dylan,12.0,Cannondale-Drapac Pro Cycling Team,3:18:33 3:18:33,21,2016,-
+24.0,156.0,92.0,+3:23:17,13.0,Grmay Tsgabu,13.0,Lampre - Merida,3:18:35 3:18:35,21,2016,-
+24.0,67.0,99.0,+3:33:29,14.0,Stuyven Jasper,14.0,Trek - Segafredo,3:28:47 3:28:47,21,2016,-
+22.0,158.0,102.0,+3:38:17,15.0,Pibernik Luka,15.0,Lampre - Merida,3:33:35 3:33:35,21,2016,-
+24.0,173.0,107.0,+3:44:54,16.0,Duchesne Antoine,16.0,Direct Energie,3:40:12 3:40:12,21,2016,-
+23.0,56.0,111.0,+3:50:43,17.0,Roosen Timo,17.0,Team LottoNL-Jumbo,3:46:01 3:46:01,21,2016,-
+25.0,203.0,112.0,+3:51:55,18.0,Durbridge Luke,18.0,ORICA-BikeExchange,3:47:13 3:47:13,21,2016,-
+24.0,171.0,113.0,+3:51:57,19.0,Coquard Bryan,19.0,Direct Energie,3:47:15 3:47:15,21,2016,-
+24.0,188.0,118.0,+3:57:58,20.0,Vakoč Petr,20.0,Etixx - Quick Step,3:53:16 3:53:16,21,2016,-
+24.0,83.0,124.0,+4:03:44,21.0,Craddock Lawson,21.0,Cannondale-Drapac Pro Cycling Team,3:59:02 3:59:02,21,2016,-
+25.0,102.0,125.0,+4:04:27,22.0,Berhane Natnael,22.0,Team Dimension Data,3:59:45 3:59:45,21,2016,-
+22.0,75.0,141.0,+4:17:32,23.0,Enger Sondre Holst,23.0,IAM Cycling,4:12:50 4:12:50,21,2016,-
+23.0,47.0,147.0,+4:23:42,24.0,Gougeard Alexis,24.0,AG2R La Mondiale,4:19:00 4:19:00,21,2016,-
+23.0,196.0,157.0,+4:29:47,25.0,Laporte Christophe,25.0,"Cofidis, Solutions Crédits",4:25:05 4:25:05,21,2016,-
+23.0,53.0,160.0,+4:30:34,26.0,Groenewegen Dylan,26.0,Team LottoNL-Jumbo,4:25:52 4:25:52,21,2016,-
+25.0,143.0,162.0,+4:31:40,27.0,Haller Marco,27.0,Team Katusha,4:26:58 4:26:58,21,2016,-
+24.0,216.0,170.0,+4:50:14,28.0,McLay Daniel,28.0,Fortuneo - Vital Concept,4:45:32 4:45:32,21,2016,-

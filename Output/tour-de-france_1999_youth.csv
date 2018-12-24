@@ -1,0 +1,598 @@
+Age,BIB,GC,GC-Time,Prev,Rider,Rnk,Team,Time,stage,year,▼▲
+24.0,87.0,6.0,+8:20,,Verbrugghe Rik,1.0,Lotto - Mobistar,8:20 8:20,0,1999,
+23.0,188.0,14.0,+8:27,,Vande Velde Christian,2.0,US Postal Service,0:07 0:07,0,1999,
+25.0,99.0,29.0,+8:34,,Salmon Benoît,3.0,Casino - AG2R,0:14 0:14,0,1999,
+24.0,132.0,30.0,+8:35,,Bäckstedt Magnus,4.0,Credit agricole,0:15 0:15,0,1999,
+24.0,81.0,35.0,+8:37,,Aerts Mario,5.0,Lotto - Mobistar,0:17 0:17,0,1999,
+23.0,146.0,37.0,+8:38,,Lefèvre Laurent,6.0,Festina - Lotus,0:18 0:18,0,1999,
+23.0,165.0,42.0,+8:38,,Mancebo Francisco,7.0,Banesto,",, 0:18",0,1999,
+25.0,56.0,52.0,+8:40,,Pérez Luis,8.0,O.N.C.E. - Deutsche Bank,0:20 0:20,0,1999,
+24.0,73.0,64.0,+8:43,,Commesso Salvatore,9.0,Saeco - Cannondale,0:23 0:23,0,1999,
+24.0,127.0,67.0,+8:44,,Horrillo Pedro,10.0,Vitalicio Seguros - Grupo Generali,0:24 0:24,0,1999,
+25.0,152.0,71.0,+8:46,,Bassons Christophe,11.0,La Française des Jeux,0:26 0:26,0,1999,
+25.0,158.0,72.0,+8:46,,Morin Anthony,12.0,La Française des Jeux,",, 0:26",0,1999,
+25.0,68.0,92.0,+8:49,,Sacchi Fabio,13.0,Polti,0:29 0:29,0,1999,
+22.0,26.0,94.0,+8:50,,Jaksche Jörg,14.0,Team Telekom,0:30 0:30,0,1999,
+23.0,106.0,108.0,+8:53,,Pinotti Marco,15.0,Lampre - Daikin - Colnago,0:33 0:33,0,1999,
+24.0,175.0,117.0,+8:56,,Giunti Massimo,16.0,Cantina Tollo - Alexia Alluminio,0:36 0:36,0,1999,
+24.0,176.0,120.0,+8:57,,Ljungqvist Marcus,17.0,Cantina Tollo - Alexia Alluminio,0:37 0:37,0,1999,
+21.0,153.0,121.0,+8:57,,Casper Jimmy,18.0,La Française des Jeux,",, 0:37",0,1999,
+23.0,125.0,129.0,+8:58,,García Francisco Tomas,19.0,Vitalicio Seguros - Grupo Generali,0:38 0:38,0,1999,
+25.0,135.0,131.0,+8:58,,Langella Anthony,20.0,Credit agricole,",, 0:38",0,1999,
+25.0,166.0,134.0,+8:58,,Navas David,21.0,Banesto,",, 0:38",0,1999,
+23.0,102.0,136.0,+8:59,,Belohvoščiks Raivis,22.0,Lampre - Daikin - Colnago,0:39 0:39,0,1999,
+23.0,199.0,139.0,+9:02,,Sweet Jay,23.0,BigMat - Auber 93,0:42 0:42,0,1999,
+23.0,2.0,141.0,+9:02,,De Wolf Steve,24.0,Cofidis,",, 0:42",0,1999,
+25.0,159.0,145.0,+9:04,,Nazon Damien,25.0,La Française des Jeux,0:44 0:44,0,1999,
+24.0,82.0,154.0,+9:06,,De Waele Fabian,26.0,Lotto - Mobistar,0:46 0:46,0,1999,
+24.0,194.0,157.0,+9:07,,Da Cruz Carlos,27.0,BigMat - Auber 93,0:47 0:47,0,1999,
+25.0,134.0,167.0,+9:17,,Hinault Sébastien,28.0,Credit agricole,0:57 0:57,0,1999,
+24.0,116.0,173.0,+9:20,,Otxoa Javier,29.0,Kelme - Costa Blanca,1:00 1:00,0,1999,
+25.0,177.0,175.0,+9:21,,Mazzanti Luca,30.0,Cantina Tollo - Alexia Alluminio,1:01 1:01,0,1999,
+23.0,174.0,176.0,+9:24,,Di Biase Moreno,31.0,Cantina Tollo - Alexia Alluminio,1:04 1:04,0,1999,
+23.0,7.0,178.0,+9:29,,Loder Thierry,32.0,Cofidis,1:09 1:09,0,1999,
+25.0,115.0,179.0,+9:32,,Gomez Jose Javier,33.0,Kelme - Costa Blanca,1:12 1:12,0,1999,
+24.0,87.0,7.0,+5:04:38,1.0,Verbrugghe Rik,1.0,Lotto - Mobistar,5:04:38 5:04:38,1,1999,-
+23.0,188.0,15.0,+5:04:43,2.0,Vande Velde Christian,2.0,US Postal Service,0:05 0:05,1,1999,-
+25.0,99.0,30.0,+5:04:52,3.0,Salmon Benoît,3.0,Casino - AG2R,0:14 0:14,1,1999,-
+24.0,132.0,31.0,+5:04:53,4.0,Bäckstedt Magnus,4.0,Credit agricole,0:15 0:15,1,1999,-
+24.0,81.0,37.0,+5:04:55,5.0,Aerts Mario,5.0,Lotto - Mobistar,0:17 0:17,1,1999,-
+23.0,146.0,39.0,+5:04:56,6.0,Lefèvre Laurent,6.0,Festina - Lotus,0:18 0:18,1,1999,-
+23.0,165.0,44.0,+5:04:56,7.0,Mancebo Francisco,7.0,Banesto,",, 0:18",1,1999,-
+25.0,56.0,55.0,+5:04:58,8.0,Pérez Luis,8.0,O.N.C.E. - Deutsche Bank,0:20 0:20,1,1999,-
+24.0,73.0,66.0,+5:05:01,9.0,Commesso Salvatore,9.0,Saeco - Cannondale,0:23 0:23,1,1999,-
+24.0,127.0,69.0,+5:05:02,10.0,Horrillo Pedro,10.0,Vitalicio Seguros - Grupo Generali,0:24 0:24,1,1999,-
+25.0,152.0,74.0,+5:05:04,11.0,Bassons Christophe,11.0,La Française des Jeux,0:26 0:26,1,1999,-
+25.0,158.0,75.0,+5:05:04,12.0,Morin Anthony,12.0,La Française des Jeux,",, 0:26",1,1999,-
+25.0,68.0,95.0,+5:05:07,13.0,Sacchi Fabio,13.0,Polti,0:29 0:29,1,1999,-
+22.0,26.0,97.0,+5:05:08,14.0,Jaksche Jörg,14.0,Team Telekom,0:30 0:30,1,1999,-
+23.0,106.0,110.0,+5:05:11,15.0,Pinotti Marco,15.0,Lampre - Daikin - Colnago,0:33 0:33,1,1999,-
+24.0,175.0,118.0,+5:05:14,16.0,Giunti Massimo,16.0,Cantina Tollo - Alexia Alluminio,0:36 0:36,1,1999,-
+24.0,176.0,121.0,+5:05:15,17.0,Ljungqvist Marcus,17.0,Cantina Tollo - Alexia Alluminio,0:37 0:37,1,1999,-
+21.0,153.0,122.0,+5:05:15,18.0,Casper Jimmy,18.0,La Française des Jeux,",, 0:37",1,1999,-
+23.0,125.0,128.0,+5:05:16,19.0,García Francisco Tomas,19.0,Vitalicio Seguros - Grupo Generali,0:38 0:38,1,1999,-
+25.0,135.0,130.0,+5:05:16,20.0,Langella Anthony,20.0,Credit agricole,",, 0:38",1,1999,-
+25.0,166.0,133.0,+5:05:16,21.0,Navas David,21.0,Banesto,",, 0:38",1,1999,-
+23.0,102.0,135.0,+5:05:17,22.0,Belohvoščiks Raivis,22.0,Lampre - Daikin - Colnago,0:39 0:39,1,1999,-
+23.0,199.0,138.0,+5:05:20,23.0,Sweet Jay,23.0,BigMat - Auber 93,0:42 0:42,1,1999,-
+23.0,2.0,140.0,+5:05:20,24.0,De Wolf Steve,24.0,Cofidis,",, 0:42",1,1999,-
+25.0,159.0,144.0,+5:05:22,25.0,Nazon Damien,25.0,La Française des Jeux,0:44 0:44,1,1999,-
+24.0,82.0,153.0,+5:05:24,26.0,De Waele Fabian,26.0,Lotto - Mobistar,0:46 0:46,1,1999,-
+24.0,194.0,156.0,+5:05:25,27.0,Da Cruz Carlos,27.0,BigMat - Auber 93,0:47 0:47,1,1999,-
+25.0,134.0,166.0,+5:05:35,28.0,Hinault Sébastien,28.0,Credit agricole,0:57 0:57,1,1999,-
+24.0,116.0,172.0,+5:05:38,29.0,Otxoa Javier,29.0,Kelme - Costa Blanca,1:00 1:00,1,1999,-
+25.0,177.0,174.0,+5:05:39,30.0,Mazzanti Luca,30.0,Cantina Tollo - Alexia Alluminio,1:01 1:01,1,1999,-
+23.0,174.0,175.0,+5:05:42,31.0,Di Biase Moreno,31.0,Cantina Tollo - Alexia Alluminio,1:04 1:04,1,1999,-
+23.0,7.0,177.0,+5:05:47,32.0,Loder Thierry,32.0,Cofidis,1:09 1:09,1,1999,-
+25.0,115.0,178.0,+5:05:50,33.0,Gomez Jose Javier,33.0,Kelme - Costa Blanca,1:12 1:12,1,1999,-
+23.0,188.0,12.0,+0:43,1.0,Vande Velde Christian,1.0,US Postal Service,13:19:42 13:19:42,3,1999,-
+25.0,99.0,22.0,+0:52,2.0,Salmon Benoît,2.0,Casino - AG2R,0:09 0:09,3,1999,-
+24.0,132.0,23.0,+0:53,3.0,Bäckstedt Magnus,3.0,Credit agricole,0:10 0:10,3,1999,-
+24.0,81.0,25.0,+0:55,4.0,Aerts Mario,4.0,Lotto - Mobistar,0:12 0:12,3,1999,-
+25.0,56.0,33.0,+0:58,5.0,Pérez Luis,5.0,O.N.C.E. - Deutsche Bank,0:15 0:15,3,1999,-
+24.0,73.0,38.0,+1:01,6.0,Commesso Salvatore,6.0,Saeco - Cannondale,0:18 0:18,3,1999,-
+21.0,153.0,58.0,+1:15,7.0,Casper Jimmy,7.0,La Française des Jeux,0:32 0:32,3,1999,-
+24.0,82.0,65.0,+1:24,8.0,De Waele Fabian,8.0,Lotto - Mobistar,0:41 0:41,3,1999,-
+25.0,134.0,67.0,+1:35,9.0,Hinault Sébastien,9.0,Credit agricole,0:52 0:52,3,1999,-
+24.0,127.0,87.0,+7:05,10.0,Horrillo Pedro,10.0,Vitalicio Seguros - Grupo Generali,6:22 6:22,3,1999,-
+25.0,158.0,90.0,+7:07,11.0,Morin Anthony,11.0,La Française des Jeux,6:24 6:24,3,1999,-
+25.0,68.0,97.0,+7:10,12.0,Sacchi Fabio,12.0,Polti,6:27 6:27,3,1999,-
+23.0,125.0,103.0,+7:19,13.0,García Francisco Tomas,13.0,Vitalicio Seguros - Grupo Generali,6:36 6:36,3,1999,-
+25.0,159.0,106.0,+7:23,14.0,Nazon Damien,14.0,La Française des Jeux,6:40 6:40,3,1999,-
+24.0,116.0,118.0,+7:41,15.0,Otxoa Javier,15.0,Kelme - Costa Blanca,6:58 6:58,3,1999,-
+24.0,87.0,127.0,+15:54,16.0,Verbrugghe Rik,16.0,Lotto - Mobistar,15:11 15:11,3,1999,-
+23.0,146.0,131.0,+16:12,17.0,Lefèvre Laurent,17.0,Festina - Lotus,15:29 15:29,3,1999,-
+23.0,165.0,132.0,+16:12,18.0,Mancebo Francisco,18.0,Banesto,",, 15:29",3,1999,-
+23.0,106.0,140.0,+16:27,19.0,Pinotti Marco,19.0,Lampre - Daikin - Colnago,15:44 15:44,3,1999,-
+24.0,176.0,142.0,+16:31,20.0,Ljungqvist Marcus,20.0,Cantina Tollo - Alexia Alluminio,15:48 15:48,3,1999,-
+25.0,135.0,144.0,+16:32,21.0,Langella Anthony,21.0,Credit agricole,15:49 15:49,3,1999,-
+23.0,2.0,145.0,+16:36,22.0,De Wolf Steve,22.0,Cofidis,15:53 15:53,3,1999,-
+25.0,115.0,152.0,+17:06,24.0,Gomez Jose Javier,23.0,Kelme - Costa Blanca,16:23 16:23,3,1999,▲1
+25.0,152.0,156.0,+20:27,25.0,Bassons Christophe,24.0,La Française des Jeux,19:44 19:44,3,1999,▲1
+22.0,26.0,157.0,+20:31,26.0,Jaksche Jörg,25.0,Team Telekom,19:48 19:48,3,1999,▲1
+25.0,166.0,161.0,+20:39,28.0,Navas David,26.0,Banesto,19:56 19:56,3,1999,▲2
+24.0,194.0,164.0,+20:48,30.0,Da Cruz Carlos,27.0,BigMat - Auber 93,20:05 20:05,3,1999,▲3
+25.0,177.0,167.0,+21:02,31.0,Mazzanti Luca,28.0,Cantina Tollo - Alexia Alluminio,20:19 20:19,3,1999,▲3
+23.0,7.0,168.0,+21:10,32.0,Loder Thierry,29.0,Cofidis,20:27 20:27,3,1999,▲3
+23.0,199.0,169.0,+21:23,29.0,Sweet Jay,30.0,BigMat - Auber 93,20:40 20:40,3,1999,▼1
+23.0,174.0,171.0,+22:03,23.0,Di Biase Moreno,31.0,Cantina Tollo - Alexia Alluminio,21:20 21:20,3,1999,▼8
+24.0,175.0,173.0,+23:00,27.0,Giunti Massimo,32.0,Cantina Tollo - Alexia Alluminio,22:17 22:17,3,1999,▼5
+23.0,102.0,177.0,+32:43,33.0,Belohvoščiks Raivis,33.0,Lampre - Daikin - Colnago,32:00 32:00,3,1999,-
+23.0,188.0,13.0,+0:47,1.0,Vande Velde Christian,1.0,US Postal Service,17:11:27 17:11:27,4,1999,-
+25.0,99.0,23.0,+0:56,2.0,Salmon Benoît,2.0,Casino - AG2R,0:09 0:09,4,1999,-
+24.0,132.0,24.0,+0:57,3.0,Bäckstedt Magnus,3.0,Credit agricole,0:10 0:10,4,1999,-
+24.0,81.0,29.0,+0:59,4.0,Aerts Mario,4.0,Lotto - Mobistar,0:12 0:12,4,1999,-
+25.0,56.0,35.0,+1:02,5.0,Pérez Luis,5.0,O.N.C.E. - Deutsche Bank,0:15 0:15,4,1999,-
+24.0,73.0,38.0,+1:05,6.0,Commesso Salvatore,6.0,Saeco - Cannondale,0:18 0:18,4,1999,-
+21.0,153.0,58.0,+1:19,7.0,Casper Jimmy,7.0,La Française des Jeux,0:32 0:32,4,1999,-
+24.0,82.0,65.0,+1:28,8.0,De Waele Fabian,8.0,Lotto - Mobistar,0:41 0:41,4,1999,-
+25.0,134.0,67.0,+1:39,9.0,Hinault Sébastien,9.0,Credit agricole,0:52 0:52,4,1999,-
+25.0,158.0,79.0,+7:03,11.0,Morin Anthony,10.0,La Française des Jeux,6:16 6:16,4,1999,▲1
+24.0,127.0,88.0,+7:09,10.0,Horrillo Pedro,11.0,Vitalicio Seguros - Grupo Generali,6:22 6:22,4,1999,▼1
+25.0,68.0,96.0,+7:14,12.0,Sacchi Fabio,12.0,Polti,6:27 6:27,4,1999,-
+23.0,125.0,102.0,+7:23,13.0,García Francisco Tomas,13.0,Vitalicio Seguros - Grupo Generali,6:36 6:36,4,1999,-
+25.0,159.0,105.0,+7:27,14.0,Nazon Damien,14.0,La Française des Jeux,6:40 6:40,4,1999,-
+24.0,116.0,117.0,+7:45,15.0,Otxoa Javier,15.0,Kelme - Costa Blanca,6:58 6:58,4,1999,-
+24.0,87.0,127.0,+15:58,16.0,Verbrugghe Rik,16.0,Lotto - Mobistar,15:11 15:11,4,1999,-
+23.0,146.0,131.0,+16:16,17.0,Lefèvre Laurent,17.0,Festina - Lotus,15:29 15:29,4,1999,-
+23.0,165.0,132.0,+16:16,18.0,Mancebo Francisco,18.0,Banesto,",, 15:29",4,1999,-
+23.0,106.0,139.0,+16:31,19.0,Pinotti Marco,19.0,Lampre - Daikin - Colnago,15:44 15:44,4,1999,-
+24.0,176.0,141.0,+16:35,20.0,Ljungqvist Marcus,20.0,Cantina Tollo - Alexia Alluminio,15:48 15:48,4,1999,-
+25.0,135.0,143.0,+16:36,21.0,Langella Anthony,21.0,Credit agricole,15:49 15:49,4,1999,-
+23.0,2.0,144.0,+16:40,22.0,De Wolf Steve,22.0,Cofidis,15:53 15:53,4,1999,-
+25.0,115.0,151.0,+17:10,23.0,Gomez Jose Javier,23.0,Kelme - Costa Blanca,16:23 16:23,4,1999,-
+25.0,152.0,157.0,+20:31,24.0,Bassons Christophe,24.0,La Française des Jeux,19:44 19:44,4,1999,-
+22.0,26.0,158.0,+20:35,25.0,Jaksche Jörg,25.0,Team Telekom,19:48 19:48,4,1999,-
+25.0,166.0,161.0,+20:43,26.0,Navas David,26.0,Banesto,19:56 19:56,4,1999,-
+24.0,194.0,164.0,+20:52,27.0,Da Cruz Carlos,27.0,BigMat - Auber 93,20:05 20:05,4,1999,-
+25.0,177.0,167.0,+21:06,28.0,Mazzanti Luca,28.0,Cantina Tollo - Alexia Alluminio,20:19 20:19,4,1999,-
+23.0,7.0,168.0,+21:14,29.0,Loder Thierry,29.0,Cofidis,20:27 20:27,4,1999,-
+23.0,199.0,169.0,+21:27,30.0,Sweet Jay,30.0,BigMat - Auber 93,20:40 20:40,4,1999,-
+23.0,174.0,171.0,+22:07,31.0,Di Biase Moreno,31.0,Cantina Tollo - Alexia Alluminio,21:20 21:20,4,1999,-
+24.0,175.0,173.0,+23:04,32.0,Giunti Massimo,32.0,Cantina Tollo - Alexia Alluminio,22:17 22:17,4,1999,-
+23.0,102.0,177.0,+32:47,33.0,Belohvoščiks Raivis,33.0,Lampre - Daikin - Colnago,32:00 32:00,4,1999,-
+23.0,188.0,13.0,+0:55,1.0,Vande Velde Christian,1.0,US Postal Service,22:47:55 22:47:55,5,1999,-
+25.0,99.0,24.0,+1:04,2.0,Salmon Benoît,2.0,Casino - AG2R,0:09 0:09,5,1999,-
+24.0,132.0,25.0,+1:05,3.0,Bäckstedt Magnus,3.0,Credit agricole,0:10 0:10,5,1999,-
+24.0,81.0,30.0,+1:07,4.0,Aerts Mario,4.0,Lotto - Mobistar,0:12 0:12,5,1999,-
+25.0,56.0,37.0,+1:10,5.0,Pérez Luis,5.0,O.N.C.E. - Deutsche Bank,0:15 0:15,5,1999,-
+24.0,73.0,38.0,+1:13,6.0,Commesso Salvatore,6.0,Saeco - Cannondale,0:18 0:18,5,1999,-
+21.0,153.0,58.0,+1:27,7.0,Casper Jimmy,7.0,La Française des Jeux,0:32 0:32,5,1999,-
+24.0,82.0,65.0,+1:36,8.0,De Waele Fabian,8.0,Lotto - Mobistar,0:41 0:41,5,1999,-
+25.0,134.0,67.0,+1:47,9.0,Hinault Sébastien,9.0,Credit agricole,0:52 0:52,5,1999,-
+25.0,158.0,78.0,+7:11,10.0,Morin Anthony,10.0,La Française des Jeux,6:16 6:16,5,1999,-
+24.0,127.0,88.0,+7:17,11.0,Horrillo Pedro,11.0,Vitalicio Seguros - Grupo Generali,6:22 6:22,5,1999,-
+25.0,68.0,95.0,+7:22,12.0,Sacchi Fabio,12.0,Polti,6:27 6:27,5,1999,-
+23.0,125.0,101.0,+7:31,13.0,García Francisco Tomas,13.0,Vitalicio Seguros - Grupo Generali,6:36 6:36,5,1999,-
+25.0,159.0,104.0,+7:35,14.0,Nazon Damien,14.0,La Française des Jeux,6:40 6:40,5,1999,-
+24.0,116.0,117.0,+7:53,15.0,Otxoa Javier,15.0,Kelme - Costa Blanca,6:58 6:58,5,1999,-
+24.0,87.0,127.0,+16:06,16.0,Verbrugghe Rik,16.0,Lotto - Mobistar,15:11 15:11,5,1999,-
+23.0,146.0,131.0,+16:24,17.0,Lefèvre Laurent,17.0,Festina - Lotus,15:29 15:29,5,1999,-
+23.0,165.0,132.0,+16:24,18.0,Mancebo Francisco,18.0,Banesto,",, 15:29",5,1999,-
+23.0,106.0,137.0,+16:39,19.0,Pinotti Marco,19.0,Lampre - Daikin - Colnago,15:44 15:44,5,1999,-
+24.0,176.0,139.0,+16:43,20.0,Ljungqvist Marcus,20.0,Cantina Tollo - Alexia Alluminio,15:48 15:48,5,1999,-
+25.0,135.0,140.0,+16:44,21.0,Langella Anthony,21.0,Credit agricole,15:49 15:49,5,1999,-
+23.0,2.0,141.0,+16:48,22.0,De Wolf Steve,22.0,Cofidis,15:53 15:53,5,1999,-
+25.0,115.0,148.0,+17:18,23.0,Gomez Jose Javier,23.0,Kelme - Costa Blanca,16:23 16:23,5,1999,-
+25.0,152.0,156.0,+20:39,24.0,Bassons Christophe,24.0,La Française des Jeux,19:44 19:44,5,1999,-
+22.0,26.0,157.0,+20:43,25.0,Jaksche Jörg,25.0,Team Telekom,19:48 19:48,5,1999,-
+25.0,166.0,159.0,+20:51,26.0,Navas David,26.0,Banesto,19:56 19:56,5,1999,-
+24.0,194.0,160.0,+20:54,27.0,Da Cruz Carlos,27.0,BigMat - Auber 93,19:59 19:59,5,1999,-
+25.0,177.0,165.0,+21:14,28.0,Mazzanti Luca,28.0,Cantina Tollo - Alexia Alluminio,20:19 20:19,5,1999,-
+23.0,199.0,166.0,+21:35,30.0,Sweet Jay,29.0,BigMat - Auber 93,20:40 20:40,5,1999,▲1
+23.0,7.0,168.0,+22:05,29.0,Loder Thierry,30.0,Cofidis,21:10 21:10,5,1999,▼1
+23.0,174.0,169.0,+22:15,31.0,Di Biase Moreno,31.0,Cantina Tollo - Alexia Alluminio,21:20 21:20,5,1999,-
+24.0,175.0,172.0,+23:12,32.0,Giunti Massimo,32.0,Cantina Tollo - Alexia Alluminio,22:17 22:17,5,1999,-
+23.0,102.0,176.0,+32:55,33.0,Belohvoščiks Raivis,33.0,Lampre - Daikin - Colnago,32:00 32:00,5,1999,-
+23.0,188.0,14.0,+1:09,1.0,Vande Velde Christian,1.0,US Postal Service,26:59:04 26:59:04,6,1999,-
+25.0,99.0,24.0,+1:18,2.0,Salmon Benoît,2.0,Casino - AG2R,0:09 0:09,6,1999,-
+24.0,132.0,25.0,+1:19,3.0,Bäckstedt Magnus,3.0,Credit agricole,0:10 0:10,6,1999,-
+24.0,81.0,30.0,+1:21,4.0,Aerts Mario,4.0,Lotto - Mobistar,0:12 0:12,6,1999,-
+25.0,56.0,37.0,+1:24,5.0,Pérez Luis,5.0,O.N.C.E. - Deutsche Bank,0:15 0:15,6,1999,-
+24.0,73.0,38.0,+1:27,6.0,Commesso Salvatore,6.0,Saeco - Cannondale,0:18 0:18,6,1999,-
+21.0,153.0,59.0,+1:41,7.0,Casper Jimmy,7.0,La Française des Jeux,0:32 0:32,6,1999,-
+24.0,82.0,65.0,+1:50,8.0,De Waele Fabian,8.0,Lotto - Mobistar,0:41 0:41,6,1999,-
+25.0,134.0,67.0,+2:01,9.0,Hinault Sébastien,9.0,Credit agricole,0:52 0:52,6,1999,-
+25.0,158.0,78.0,+7:25,10.0,Morin Anthony,10.0,La Française des Jeux,6:16 6:16,6,1999,-
+24.0,127.0,88.0,+7:31,11.0,Horrillo Pedro,11.0,Vitalicio Seguros - Grupo Generali,6:22 6:22,6,1999,-
+25.0,68.0,95.0,+7:36,12.0,Sacchi Fabio,12.0,Polti,6:27 6:27,6,1999,-
+23.0,125.0,101.0,+7:45,13.0,García Francisco Tomas,13.0,Vitalicio Seguros - Grupo Generali,6:36 6:36,6,1999,-
+25.0,159.0,104.0,+7:49,14.0,Nazon Damien,14.0,La Française des Jeux,6:40 6:40,6,1999,-
+24.0,116.0,117.0,+8:07,15.0,Otxoa Javier,15.0,Kelme - Costa Blanca,6:58 6:58,6,1999,-
+24.0,87.0,127.0,+16:20,16.0,Verbrugghe Rik,16.0,Lotto - Mobistar,15:11 15:11,6,1999,-
+23.0,146.0,130.0,+16:38,17.0,Lefèvre Laurent,17.0,Festina - Lotus,15:29 15:29,6,1999,-
+23.0,165.0,131.0,+16:38,18.0,Mancebo Francisco,18.0,Banesto,",, 15:29",6,1999,-
+23.0,106.0,136.0,+16:53,19.0,Pinotti Marco,19.0,Lampre - Daikin - Colnago,15:44 15:44,6,1999,-
+24.0,176.0,138.0,+16:57,20.0,Ljungqvist Marcus,20.0,Cantina Tollo - Alexia Alluminio,15:48 15:48,6,1999,-
+25.0,135.0,139.0,+16:58,21.0,Langella Anthony,21.0,Credit agricole,15:49 15:49,6,1999,-
+23.0,2.0,140.0,+17:02,22.0,De Wolf Steve,22.0,Cofidis,15:53 15:53,6,1999,-
+25.0,115.0,146.0,+17:32,23.0,Gomez Jose Javier,23.0,Kelme - Costa Blanca,16:23 16:23,6,1999,-
+25.0,152.0,154.0,+20:53,24.0,Bassons Christophe,24.0,La Française des Jeux,19:44 19:44,6,1999,-
+22.0,26.0,155.0,+20:57,25.0,Jaksche Jörg,25.0,Team Telekom,19:48 19:48,6,1999,-
+25.0,166.0,157.0,+21:05,26.0,Navas David,26.0,Banesto,19:56 19:56,6,1999,-
+24.0,194.0,158.0,+21:08,27.0,Da Cruz Carlos,27.0,BigMat - Auber 93,19:59 19:59,6,1999,-
+25.0,177.0,163.0,+21:28,28.0,Mazzanti Luca,28.0,Cantina Tollo - Alexia Alluminio,20:19 20:19,6,1999,-
+23.0,199.0,164.0,+21:49,29.0,Sweet Jay,29.0,BigMat - Auber 93,20:40 20:40,6,1999,-
+23.0,7.0,166.0,+22:19,30.0,Loder Thierry,30.0,Cofidis,21:10 21:10,6,1999,-
+23.0,174.0,167.0,+22:29,31.0,Di Biase Moreno,31.0,Cantina Tollo - Alexia Alluminio,21:20 21:20,6,1999,-
+24.0,175.0,170.0,+23:26,32.0,Giunti Massimo,32.0,Cantina Tollo - Alexia Alluminio,22:17 22:17,6,1999,-
+23.0,102.0,176.0,+42:00,33.0,Belohvoščiks Raivis,33.0,Lampre - Daikin - Colnago,40:51 40:51,6,1999,-
+23.0,188.0,16.0,+ 32:26:03,1.0,Vande Velde Christian,1.0,US Postal Service,32:26:03 32:26:03,7,1999,-
+25.0,99.0,26.0,+ 32:26:12,2.0,Salmon Benoît,2.0,Casino - AG2R,0:09 0:09,7,1999,-
+24.0,132.0,27.0,+ 32:26:13,3.0,Bäckstedt Magnus,3.0,Credit agricole,0:10 0:10,7,1999,-
+24.0,81.0,31.0,+ 32:26:15,4.0,Aerts Mario,4.0,Lotto - Mobistar,0:12 0:12,7,1999,-
+25.0,56.0,38.0,+ 32:26:18,5.0,Pérez Luis,5.0,O.N.C.E. - Deutsche Bank,0:15 0:15,7,1999,-
+24.0,73.0,39.0,+ 32:26:21,6.0,Commesso Salvatore,6.0,Saeco - Cannondale,0:18 0:18,7,1999,-
+21.0,153.0,61.0,+ 32:26:35,7.0,Casper Jimmy,7.0,La Française des Jeux,0:32 0:32,7,1999,-
+24.0,82.0,66.0,+ 32:26:44,8.0,De Waele Fabian,8.0,Lotto - Mobistar,0:41 0:41,7,1999,-
+25.0,134.0,68.0,+ 32:26:55,9.0,Hinault Sébastien,9.0,Credit agricole,0:52 0:52,7,1999,-
+25.0,158.0,78.0,+ 32:32:19,10.0,Morin Anthony,10.0,La Française des Jeux,6:16 6:16,7,1999,-
+24.0,127.0,88.0,+ 32:32:25,11.0,Horrillo Pedro,11.0,Vitalicio Seguros - Grupo Generali,6:22 6:22,7,1999,-
+25.0,68.0,95.0,+ 32:32:30,12.0,Sacchi Fabio,12.0,Polti,6:27 6:27,7,1999,-
+23.0,125.0,102.0,+ 32:32:39,13.0,García Francisco Tomas,13.0,Vitalicio Seguros - Grupo Generali,6:36 6:36,7,1999,-
+25.0,159.0,105.0,+ 32:32:43,14.0,Nazon Damien,14.0,La Française des Jeux,6:40 6:40,7,1999,-
+24.0,116.0,118.0,+ 32:33:01,15.0,Otxoa Javier,15.0,Kelme - Costa Blanca,6:58 6:58,7,1999,-
+24.0,87.0,128.0,+ 32:41:14,16.0,Verbrugghe Rik,16.0,Lotto - Mobistar,15:11 15:11,7,1999,-
+23.0,146.0,131.0,+ 32:41:32,17.0,Lefèvre Laurent,17.0,Festina - Lotus,15:29 15:29,7,1999,-
+23.0,165.0,132.0,+ 32:41:32,18.0,Mancebo Francisco,18.0,Banesto,",, 15:29",7,1999,-
+23.0,106.0,137.0,+ 32:41:47,19.0,Pinotti Marco,19.0,Lampre - Daikin - Colnago,15:44 15:44,7,1999,-
+24.0,176.0,140.0,+ 32:41:51,20.0,Ljungqvist Marcus,20.0,Cantina Tollo - Alexia Alluminio,15:48 15:48,7,1999,-
+25.0,135.0,141.0,+ 32:41:52,21.0,Langella Anthony,21.0,Credit agricole,15:49 15:49,7,1999,-
+23.0,2.0,142.0,+ 32:41:56,22.0,De Wolf Steve,22.0,Cofidis,15:53 15:53,7,1999,-
+25.0,115.0,147.0,+ 32:42:26,23.0,Gomez Jose Javier,23.0,Kelme - Costa Blanca,16:23 16:23,7,1999,-
+25.0,152.0,154.0,+ 32:45:47,24.0,Bassons Christophe,24.0,La Française des Jeux,19:44 19:44,7,1999,-
+22.0,26.0,155.0,+ 32:45:51,25.0,Jaksche Jörg,25.0,Team Telekom,19:48 19:48,7,1999,-
+25.0,166.0,158.0,+ 32:45:59,26.0,Navas David,26.0,Banesto,19:56 19:56,7,1999,-
+24.0,194.0,159.0,+ 32:46:02,27.0,Da Cruz Carlos,27.0,BigMat - Auber 93,19:59 19:59,7,1999,-
+25.0,177.0,164.0,+ 32:46:22,28.0,Mazzanti Luca,28.0,Cantina Tollo - Alexia Alluminio,20:19 20:19,7,1999,-
+23.0,199.0,165.0,+ 32:46:43,29.0,Sweet Jay,29.0,BigMat - Auber 93,20:40 20:40,7,1999,-
+23.0,7.0,167.0,+ 32:47:13,30.0,Loder Thierry,30.0,Cofidis,21:10 21:10,7,1999,-
+23.0,174.0,168.0,+ 32:47:23,31.0,Di Biase Moreno,31.0,Cantina Tollo - Alexia Alluminio,21:20 21:20,7,1999,-
+24.0,175.0,170.0,+ 32:48:20,32.0,Giunti Massimo,32.0,Cantina Tollo - Alexia Alluminio,22:17 22:17,7,1999,-
+23.0,102.0,177.0,+ 33:06:54,33.0,Belohvoščiks Raivis,33.0,Lampre - Daikin - Colnago,40:51 40:51,7,1999,-
+24.0,132.0,14.0,+ 33:39:31,3.0,Bäckstedt Magnus,1.0,Credit agricole,33:39:31 33:39:31,8,1999,▲2
+25.0,56.0,15.0,+ 33:39:33,5.0,Pérez Luis,2.0,O.N.C.E. - Deutsche Bank,0:02 0:02,8,1999,▲3
+25.0,99.0,25.0,+ 33:40:55,2.0,Salmon Benoît,3.0,Casino - AG2R,1:24 1:24,8,1999,▼1
+23.0,188.0,44.0,+ 33:42:29,1.0,Vande Velde Christian,4.0,US Postal Service,2:58 2:58,8,1999,▼3
+24.0,81.0,48.0,+ 33:42:52,4.0,Aerts Mario,5.0,Lotto - Mobistar,3:21 3:21,8,1999,▼1
+24.0,73.0,50.0,+ 33:43:14,6.0,Commesso Salvatore,6.0,Saeco - Cannondale,3:43 3:43,8,1999,-
+24.0,82.0,72.0,+ 33:47:00,8.0,De Waele Fabian,7.0,Lotto - Mobistar,7:29 7:29,8,1999,▲1
+25.0,158.0,76.0,+ 33:47:48,10.0,Morin Anthony,8.0,La Française des Jeux,8:17 8:17,8,1999,▲2
+25.0,134.0,77.0,+ 33:47:54,9.0,Hinault Sébastien,9.0,Credit agricole,8:23 8:23,8,1999,-
+21.0,153.0,95.0,+ 33:50:11,7.0,Casper Jimmy,10.0,La Française des Jeux,10:40 10:40,8,1999,▼3
+25.0,68.0,98.0,+ 33:50:17,12.0,Sacchi Fabio,11.0,Polti,10:46 10:46,8,1999,▲1
+25.0,159.0,100.0,+ 33:50:27,14.0,Nazon Damien,12.0,La Française des Jeux,10:56 10:56,8,1999,▲2
+24.0,127.0,103.0,+ 33:50:47,11.0,Horrillo Pedro,13.0,Vitalicio Seguros - Grupo Generali,11:16 11:16,8,1999,▼2
+23.0,125.0,106.0,+ 33:51:02,13.0,García Francisco Tomas,14.0,Vitalicio Seguros - Grupo Generali,11:31 11:31,8,1999,▼1
+24.0,116.0,122.0,+ 33:53:19,15.0,Otxoa Javier,15.0,Kelme - Costa Blanca,13:48 13:48,8,1999,-
+24.0,87.0,126.0,+ 33:55:23,16.0,Verbrugghe Rik,16.0,Lotto - Mobistar,15:52 15:52,8,1999,-
+23.0,146.0,127.0,+ 33:56:39,17.0,Lefèvre Laurent,17.0,Festina - Lotus,17:08 17:08,8,1999,-
+23.0,165.0,133.0,+ 33:58:01,18.0,Mancebo Francisco,18.0,Banesto,18:30 18:30,8,1999,-
+23.0,106.0,134.0,+ 33:58:27,19.0,Pinotti Marco,19.0,Lampre - Daikin - Colnago,18:56 18:56,8,1999,-
+25.0,115.0,139.0,+ 34:00:21,23.0,Gomez Jose Javier,20.0,Kelme - Costa Blanca,20:50 20:50,8,1999,▲3
+25.0,135.0,141.0,+ 34:00:42,21.0,Langella Anthony,21.0,Credit agricole,21:11 21:11,8,1999,-
+23.0,2.0,143.0,+ 34:01:32,22.0,De Wolf Steve,22.0,Cofidis,22:01 22:01,8,1999,-
+25.0,152.0,146.0,+ 34:02:05,24.0,Bassons Christophe,23.0,La Française des Jeux,22:34 22:34,8,1999,▲1
+24.0,176.0,148.0,+ 34:02:39,20.0,Ljungqvist Marcus,24.0,Cantina Tollo - Alexia Alluminio,23:08 23:08,8,1999,▼4
+25.0,166.0,154.0,+ 34:03:42,26.0,Navas David,25.0,Banesto,24:11 24:11,8,1999,▲1
+22.0,26.0,155.0,+ 34:04:04,25.0,Jaksche Jörg,26.0,Team Telekom,24:33 24:33,8,1999,▼1
+24.0,175.0,159.0,+ 34:05:21,32.0,Giunti Massimo,27.0,Cantina Tollo - Alexia Alluminio,25:50 25:50,8,1999,▲5
+24.0,194.0,161.0,+ 34:05:52,27.0,Da Cruz Carlos,28.0,BigMat - Auber 93,26:21 26:21,8,1999,▼1
+23.0,199.0,163.0,+ 34:06:31,29.0,Sweet Jay,29.0,BigMat - Auber 93,27:00 27:00,8,1999,-
+23.0,7.0,164.0,+ 34:06:44,30.0,Loder Thierry,30.0,Cofidis,27:13 27:13,8,1999,-
+25.0,177.0,166.0,+ 34:07:07,28.0,Mazzanti Luca,31.0,Cantina Tollo - Alexia Alluminio,27:36 27:36,8,1999,▼3
+23.0,174.0,170.0,+ 34:10:10,31.0,Di Biase Moreno,32.0,Cantina Tollo - Alexia Alluminio,30:39 30:39,8,1999,▼1
+23.0,102.0,175.0,+ 34:21:46,33.0,Belohvoščiks Raivis,33.0,Lampre - Daikin - Colnago,42:15 42:15,8,1999,-
+25.0,99.0,11.0,+ 39:41:49,3.0,Salmon Benoît,1.0,Casino - AG2R,39:41:49 39:41:49,9,1999,▲2
+24.0,81.0,16.0,+ 39:44:27,5.0,Aerts Mario,2.0,Lotto - Mobistar,2:38 2:38,9,1999,▲3
+25.0,56.0,32.0,+ 39:51:36,2.0,Pérez Luis,3.0,O.N.C.E. - Deutsche Bank,9:47 9:47,9,1999,▼1
+24.0,73.0,41.0,+ 39:58:27,6.0,Commesso Salvatore,4.0,Saeco - Cannondale,16:38 16:38,9,1999,▲2
+23.0,165.0,47.0,+ 40:02:18,18.0,Mancebo Francisco,5.0,Banesto,20:29 20:29,9,1999,▲13
+23.0,125.0,49.0,+ 40:03:11,14.0,García Francisco Tomas,6.0,Vitalicio Seguros - Grupo Generali,21:22 21:22,9,1999,▲8
+25.0,115.0,82.0,+ 40:16:44,20.0,Gomez Jose Javier,7.0,Kelme - Costa Blanca,34:55 34:55,9,1999,▲13
+24.0,132.0,83.0,+ 40:17:11,1.0,Bäckstedt Magnus,8.0,Credit agricole,35:22 35:22,9,1999,▼7
+23.0,2.0,87.0,+ 40:18:49,22.0,De Wolf Steve,9.0,Cofidis,37:00 37:00,9,1999,▲13
+25.0,152.0,89.0,+ 40:19:22,23.0,Bassons Christophe,10.0,La Française des Jeux,37:33 37:33,9,1999,▲13
+24.0,87.0,90.0,+ 40:19:46,16.0,Verbrugghe Rik,11.0,Lotto - Mobistar,37:57 37:57,9,1999,▲5
+23.0,188.0,91.0,+ 40:20:09,4.0,Vande Velde Christian,12.0,US Postal Service,38:20 38:20,9,1999,▼8
+25.0,68.0,102.0,+ 40:22:04,11.0,Sacchi Fabio,13.0,Polti,40:15 40:15,9,1999,▼2
+24.0,82.0,116.0,+ 40:24:40,7.0,De Waele Fabian,14.0,Lotto - Mobistar,42:51 42:51,9,1999,▼7
+25.0,158.0,120.0,+ 40:25:28,8.0,Morin Anthony,15.0,La Française des Jeux,43:39 43:39,9,1999,▼7
+25.0,134.0,121.0,+ 40:25:34,9.0,Hinault Sébastien,16.0,Credit agricole,43:45 43:45,9,1999,▼7
+25.0,166.0,124.0,+ 40:26:19,25.0,Navas David,17.0,Banesto,44:30 44:30,9,1999,▲8
+24.0,116.0,126.0,+ 40:26:44,15.0,Otxoa Javier,18.0,Kelme - Costa Blanca,44:55 44:55,9,1999,▼3
+25.0,159.0,129.0,+ 40:28:07,12.0,Nazon Damien,19.0,La Française des Jeux,46:18 46:18,9,1999,▼7
+22.0,26.0,131.0,+ 40:28:27,26.0,Jaksche Jörg,20.0,Team Telekom,46:38 46:38,9,1999,▲6
+24.0,127.0,132.0,+ 40:28:27,13.0,Horrillo Pedro,21.0,Vitalicio Seguros - Grupo Generali,",, 46:38",9,1999,▼8
+23.0,106.0,142.0,+ 40:30:14,19.0,Pinotti Marco,22.0,Lampre - Daikin - Colnago,48:25 48:25,9,1999,▼3
+23.0,146.0,147.0,+ 40:34:19,17.0,Lefèvre Laurent,23.0,Festina - Lotus,52:30 52:30,9,1999,▼6
+24.0,175.0,150.0,+ 40:37:08,27.0,Giunti Massimo,24.0,Cantina Tollo - Alexia Alluminio,55:19 55:19,9,1999,▲3
+24.0,194.0,151.0,+ 40:37:39,28.0,Da Cruz Carlos,25.0,BigMat - Auber 93,55:50 55:50,9,1999,▲3
+25.0,135.0,152.0,+ 40:38:22,21.0,Langella Anthony,26.0,Credit agricole,56:33 56:33,9,1999,▼5
+24.0,176.0,153.0,+ 40:40:19,24.0,Ljungqvist Marcus,27.0,Cantina Tollo - Alexia Alluminio,58:30 58:30,9,1999,▼3
+23.0,7.0,159.0,+ 40:44:24,30.0,Loder Thierry,28.0,Cofidis,1:02:35 1:02:35,9,1999,▲2
+25.0,177.0,161.0,+ 40:44:47,31.0,Mazzanti Luca,29.0,Cantina Tollo - Alexia Alluminio,1:02:58 1:02:58,9,1999,▲2
+23.0,174.0,163.0,+ 40:47:50,32.0,Di Biase Moreno,30.0,Cantina Tollo - Alexia Alluminio,1:06:01 1:06:01,9,1999,▲2
+23.0,199.0,166.0,+ 41:00:41,29.0,Sweet Jay,31.0,BigMat - Auber 93,1:18:52 1:18:52,9,1999,▼2
+23.0,102.0,167.0,+ 41:09:14,33.0,Belohvoščiks Raivis,32.0,Lampre - Daikin - Colnago,1:27:25 1:27:25,9,1999,▲1
+25.0,99.0,11.0,+ 46:26:33,1.0,Salmon Benoît,1.0,Casino - AG2R,46:26:33 46:26:33,10,1999,-
+24.0,81.0,15.0,+ 46:31:34,2.0,Aerts Mario,2.0,Lotto - Mobistar,5:01 5:01,10,1999,-
+23.0,125.0,33.0,+ 46:51:08,6.0,García Francisco Tomas,3.0,Vitalicio Seguros - Grupo Generali,24:35 24:35,10,1999,▲3
+23.0,165.0,35.0,+ 46:52:33,5.0,Mancebo Francisco,4.0,Banesto,26:00 26:00,10,1999,▲1
+24.0,73.0,45.0,+ 46:58:35,4.0,Commesso Salvatore,5.0,Saeco - Cannondale,32:02 32:02,10,1999,▼1
+23.0,2.0,49.0,+ 47:05:20,9.0,De Wolf Steve,6.0,Cofidis,38:47 38:47,10,1999,▲3
+25.0,56.0,55.0,+ 47:08:27,3.0,Pérez Luis,7.0,O.N.C.E. - Deutsche Bank,41:54 41:54,10,1999,▼4
+25.0,115.0,59.0,+ 47:11:07,7.0,Gomez Jose Javier,8.0,Kelme - Costa Blanca,44:34 44:34,10,1999,▼1
+22.0,26.0,72.0,+ 47:23:25,20.0,Jaksche Jörg,9.0,Team Telekom,56:52 56:52,10,1999,▲11
+24.0,132.0,90.0,+ 47:34:02,8.0,Bäckstedt Magnus,10.0,Credit agricole,1:07:29 1:07:29,10,1999,▼2
+25.0,152.0,95.0,+ 47:36:13,10.0,Bassons Christophe,11.0,La Française des Jeux,1:09:40 1:09:40,10,1999,▼1
+24.0,87.0,96.0,+ 47:36:37,11.0,Verbrugghe Rik,12.0,Lotto - Mobistar,1:10:04 1:10:04,10,1999,▼1
+25.0,166.0,97.0,+ 47:36:38,17.0,Navas David,13.0,Banesto,1:10:05 1:10:05,10,1999,▲4
+23.0,188.0,98.0,+ 47:37:00,12.0,Vande Velde Christian,14.0,US Postal Service,1:10:27 1:10:27,10,1999,▼2
+25.0,68.0,104.0,+ 47:38:55,13.0,Sacchi Fabio,15.0,Polti,1:12:22 1:12:22,10,1999,▼2
+24.0,116.0,110.0,+ 47:39:20,18.0,Otxoa Javier,16.0,Kelme - Costa Blanca,1:12:47 1:12:47,10,1999,▲2
+24.0,82.0,117.0,+ 47:41:31,14.0,De Waele Fabian,17.0,Lotto - Mobistar,1:14:58 1:14:58,10,1999,▼3
+25.0,158.0,121.0,+ 47:42:19,15.0,Morin Anthony,18.0,La Française des Jeux,1:15:46 1:15:46,10,1999,▼3
+25.0,134.0,122.0,+ 47:42:25,16.0,Hinault Sébastien,19.0,Credit agricole,1:15:52 1:15:52,10,1999,▼3
+25.0,159.0,127.0,+ 47:44:58,19.0,Nazon Damien,20.0,La Française des Jeux,1:18:25 1:18:25,10,1999,▼1
+24.0,127.0,129.0,+ 47:45:18,21.0,Horrillo Pedro,21.0,Vitalicio Seguros - Grupo Generali,1:18:45 1:18:45,10,1999,-
+23.0,106.0,138.0,+ 47:47:05,22.0,Pinotti Marco,22.0,Lampre - Daikin - Colnago,1:20:32 1:20:32,10,1999,-
+23.0,146.0,142.0,+ 47:51:10,23.0,Lefèvre Laurent,23.0,Festina - Lotus,1:24:37 1:24:37,10,1999,-
+24.0,175.0,144.0,+ 47:53:59,24.0,Giunti Massimo,24.0,Cantina Tollo - Alexia Alluminio,1:27:26 1:27:26,10,1999,-
+24.0,194.0,145.0,+ 47:54:30,25.0,Da Cruz Carlos,25.0,BigMat - Auber 93,1:27:57 1:27:57,10,1999,-
+25.0,135.0,146.0,+ 47:55:13,26.0,Langella Anthony,26.0,Credit agricole,1:28:40 1:28:40,10,1999,-
+24.0,176.0,147.0,+ 47:57:10,27.0,Ljungqvist Marcus,27.0,Cantina Tollo - Alexia Alluminio,1:30:37 1:30:37,10,1999,-
+23.0,7.0,153.0,+ 48:01:15,28.0,Loder Thierry,28.0,Cofidis,1:34:42 1:34:42,10,1999,-
+25.0,177.0,155.0,+ 48:01:38,29.0,Mazzanti Luca,29.0,Cantina Tollo - Alexia Alluminio,1:35:05 1:35:05,10,1999,-
+23.0,174.0,158.0,+ 48:07:18,30.0,Di Biase Moreno,30.0,Cantina Tollo - Alexia Alluminio,1:40:45 1:40:45,10,1999,-
+23.0,199.0,160.0,+ 48:18:20,31.0,Sweet Jay,31.0,BigMat - Auber 93,1:51:47 1:51:47,10,1999,-
+25.0,99.0,11.0,+ 51:22:58,1.0,Salmon Benoît,1.0,Casino - AG2R,51:22:58 51:22:58,11,1999,-
+24.0,81.0,15.0,+ 51:27:59,2.0,Aerts Mario,2.0,Lotto - Mobistar,5:01 5:01,11,1999,-
+23.0,125.0,33.0,+ 51:47:33,3.0,García Francisco Tomas,3.0,Vitalicio Seguros - Grupo Generali,24:35 24:35,11,1999,-
+23.0,165.0,37.0,+ 51:48:58,4.0,Mancebo Francisco,4.0,Banesto,26:00 26:00,11,1999,-
+24.0,73.0,46.0,+ 51:55:50,5.0,Commesso Salvatore,5.0,Saeco - Cannondale,32:52 32:52,11,1999,-
+23.0,2.0,53.0,+ 52:02:35,6.0,De Wolf Steve,6.0,Cofidis,39:37 39:37,11,1999,-
+25.0,56.0,57.0,+ 52:05:42,7.0,Pérez Luis,7.0,O.N.C.E. - Deutsche Bank,42:44 42:44,11,1999,-
+25.0,115.0,61.0,+ 52:08:22,8.0,Gomez Jose Javier,8.0,Kelme - Costa Blanca,45:24 45:24,11,1999,-
+24.0,87.0,64.0,+ 52:12:07,12.0,Verbrugghe Rik,9.0,Lotto - Mobistar,49:09 49:09,11,1999,▲3
+22.0,26.0,75.0,+ 52:20:40,9.0,Jaksche Jörg,10.0,Team Telekom,57:42 57:42,11,1999,▼1
+23.0,146.0,89.0,+ 52:29:06,23.0,Lefèvre Laurent,11.0,Festina - Lotus,1:06:08 1:06:08,11,1999,▲12
+24.0,132.0,95.0,+ 52:31:37,10.0,Bäckstedt Magnus,12.0,Credit agricole,1:08:39 1:08:39,11,1999,▼2
+25.0,152.0,97.0,+ 52:32:38,11.0,Bassons Christophe,13.0,La Française des Jeux,1:09:40 1:09:40,11,1999,▼2
+23.0,188.0,99.0,+ 52:33:50,14.0,Vande Velde Christian,14.0,US Postal Service,1:10:52 1:10:52,11,1999,-
+25.0,166.0,100.0,+ 52:33:53,13.0,Navas David,15.0,Banesto,1:10:55 1:10:55,11,1999,▼2
+25.0,68.0,105.0,+ 52:35:20,15.0,Sacchi Fabio,16.0,Polti,1:12:22 1:12:22,11,1999,▼1
+24.0,116.0,111.0,+ 52:35:45,16.0,Otxoa Javier,17.0,Kelme - Costa Blanca,1:12:47 1:12:47,11,1999,▼1
+24.0,82.0,117.0,+ 52:37:56,17.0,De Waele Fabian,18.0,Lotto - Mobistar,1:14:58 1:14:58,11,1999,▼1
+25.0,158.0,119.0,+ 52:38:44,18.0,Morin Anthony,19.0,La Française des Jeux,1:15:46 1:15:46,11,1999,▼1
+25.0,134.0,120.0,+ 52:38:46,19.0,Hinault Sébastien,20.0,Credit agricole,1:15:48 1:15:48,11,1999,▼1
+25.0,159.0,130.0,+ 52:42:13,20.0,Nazon Damien,21.0,La Française des Jeux,1:19:15 1:19:15,11,1999,▼1
+24.0,127.0,131.0,+ 52:42:33,21.0,Horrillo Pedro,22.0,Vitalicio Seguros - Grupo Generali,1:19:35 1:19:35,11,1999,▼1
+23.0,106.0,138.0,+ 52:44:20,22.0,Pinotti Marco,23.0,Lampre - Daikin - Colnago,1:21:22 1:21:22,11,1999,▼1
+24.0,175.0,144.0,+ 52:50:24,24.0,Giunti Massimo,24.0,Cantina Tollo - Alexia Alluminio,1:27:26 1:27:26,11,1999,-
+24.0,194.0,145.0,+ 52:50:55,25.0,Da Cruz Carlos,25.0,BigMat - Auber 93,1:27:57 1:27:57,11,1999,-
+25.0,135.0,146.0,+ 52:51:38,26.0,Langella Anthony,26.0,Credit agricole,1:28:40 1:28:40,11,1999,-
+24.0,176.0,147.0,+ 52:54:25,27.0,Ljungqvist Marcus,27.0,Cantina Tollo - Alexia Alluminio,1:31:27 1:31:27,11,1999,-
+25.0,177.0,153.0,+ 52:58:03,29.0,Mazzanti Luca,28.0,Cantina Tollo - Alexia Alluminio,1:35:05 1:35:05,11,1999,▲1
+23.0,7.0,154.0,+ 52:58:30,28.0,Loder Thierry,29.0,Cofidis,1:35:32 1:35:32,11,1999,▼1
+23.0,199.0,159.0,+ 53:15:35,31.0,Sweet Jay,30.0,BigMat - Auber 93,1:52:37 1:52:37,11,1999,▲1
+25.0,99.0,12.0,+ 56:29:25,1.0,Salmon Benoît,1.0,Casino - AG2R,56:29:25 56:29:25,12,1999,-
+24.0,81.0,17.0,+ 56:34:24,2.0,Aerts Mario,2.0,Lotto - Mobistar,4:59 4:59,12,1999,-
+23.0,125.0,33.0,+ 56:54:00,3.0,García Francisco Tomas,3.0,Vitalicio Seguros - Grupo Generali,24:35 24:35,12,1999,-
+23.0,165.0,36.0,+ 56:55:25,4.0,Mancebo Francisco,4.0,Banesto,26:00 26:00,12,1999,-
+23.0,2.0,39.0,+ 56:57:05,6.0,De Wolf Steve,5.0,Cofidis,27:40 27:40,12,1999,▲1
+24.0,73.0,48.0,+ 57:03:01,5.0,Commesso Salvatore,6.0,Saeco - Cannondale,33:36 33:36,12,1999,▼1
+25.0,56.0,58.0,+ 57:12:53,7.0,Pérez Luis,7.0,O.N.C.E. - Deutsche Bank,43:28 43:28,12,1999,-
+25.0,115.0,59.0,+ 57:14:49,8.0,Gomez Jose Javier,8.0,Kelme - Costa Blanca,45:24 45:24,12,1999,-
+24.0,87.0,62.0,+ 57:18:34,9.0,Verbrugghe Rik,9.0,Lotto - Mobistar,49:09 49:09,12,1999,-
+22.0,26.0,71.0,+ 57:27:28,10.0,Jaksche Jörg,10.0,Team Telekom,58:03 58:03,12,1999,-
+25.0,166.0,92.0,+ 57:41:26,15.0,Navas David,11.0,Banesto,1:12:01 1:12:01,12,1999,▲4
+25.0,68.0,96.0,+ 57:42:31,16.0,Sacchi Fabio,12.0,Polti,1:13:06 1:13:06,12,1999,▲4
+24.0,116.0,97.0,+ 57:42:40,17.0,Otxoa Javier,13.0,Kelme - Costa Blanca,1:13:15 1:13:15,12,1999,▲4
+23.0,146.0,100.0,+ 57:44:05,11.0,Lefèvre Laurent,14.0,Festina - Lotus,1:14:40 1:14:40,12,1999,▼3
+25.0,158.0,106.0,+ 57:45:11,19.0,Morin Anthony,15.0,La Française des Jeux,1:15:46 1:15:46,12,1999,▲4
+24.0,82.0,110.0,+ 57:46:12,18.0,De Waele Fabian,16.0,Lotto - Mobistar,1:16:47 1:16:47,12,1999,▲2
+23.0,188.0,113.0,+ 57:47:25,14.0,Vande Velde Christian,17.0,US Postal Service,1:18:00 1:18:00,12,1999,▼3
+23.0,106.0,120.0,+ 57:51:31,23.0,Pinotti Marco,18.0,Lampre - Daikin - Colnago,1:22:06 1:22:06,12,1999,▲5
+25.0,134.0,128.0,+ 57:57:29,20.0,Hinault Sébastien,19.0,Credit agricole,1:28:04 1:28:04,12,1999,▲1
+24.0,194.0,132.0,+ 57:58:06,25.0,Da Cruz Carlos,20.0,BigMat - Auber 93,1:28:41 1:28:41,12,1999,▲5
+24.0,175.0,139.0,+ 58:05:23,24.0,Giunti Massimo,21.0,Cantina Tollo - Alexia Alluminio,1:35:58 1:35:58,12,1999,▲3
+25.0,135.0,141.0,+ 58:06:37,26.0,Langella Anthony,22.0,Credit agricole,1:37:12 1:37:12,12,1999,▲4
+25.0,159.0,142.0,+ 58:07:17,21.0,Nazon Damien,23.0,La Française des Jeux,1:37:52 1:37:52,12,1999,▼2
+24.0,176.0,144.0,+ 58:09:24,27.0,Ljungqvist Marcus,24.0,Cantina Tollo - Alexia Alluminio,1:39:59 1:39:59,12,1999,▲3
+25.0,177.0,149.0,+ 58:13:02,28.0,Mazzanti Luca,25.0,Cantina Tollo - Alexia Alluminio,1:43:37 1:43:37,12,1999,▲3
+23.0,7.0,150.0,+ 58:13:29,29.0,Loder Thierry,26.0,Cofidis,1:44:04 1:44:04,12,1999,▲3
+24.0,127.0,151.0,+ 58:14:01,22.0,Horrillo Pedro,27.0,Vitalicio Seguros - Grupo Generali,1:44:36 1:44:36,12,1999,▼5
+23.0,199.0,155.0,+ 58:46:34,30.0,Sweet Jay,28.0,BigMat - Auber 93,2:17:09 2:17:09,12,1999,▲2
+25.0,99.0,12.0,+ 62:44:34,1.0,Salmon Benoît,1.0,Casino - AG2R,62:44:34 62:44:34,13,1999,-
+24.0,81.0,19.0,+ 62:49:33,2.0,Aerts Mario,2.0,Lotto - Mobistar,4:59 4:59,13,1999,-
+24.0,73.0,28.0,+ 62:55:22,6.0,Commesso Salvatore,3.0,Saeco - Cannondale,10:48 10:48,13,1999,▲3
+25.0,56.0,37.0,+ 63:07:50,7.0,Pérez Luis,4.0,O.N.C.E. - Deutsche Bank,23:16 23:16,13,1999,▲3
+23.0,125.0,39.0,+ 63:09:17,3.0,García Francisco Tomas,5.0,Vitalicio Seguros - Grupo Generali,24:43 24:43,13,1999,▼2
+23.0,165.0,41.0,+ 63:10:34,4.0,Mancebo Francisco,6.0,Banesto,26:00 26:00,13,1999,▼2
+23.0,2.0,45.0,+ 63:12:51,5.0,De Wolf Steve,7.0,Cofidis,28:17 28:17,13,1999,▼2
+25.0,115.0,64.0,+ 63:30:06,8.0,Gomez Jose Javier,8.0,Kelme - Costa Blanca,45:32 45:32,13,1999,-
+24.0,87.0,66.0,+ 63:33:51,9.0,Verbrugghe Rik,9.0,Lotto - Mobistar,49:17 49:17,13,1999,-
+22.0,26.0,75.0,+ 63:42:45,10.0,Jaksche Jörg,10.0,Team Telekom,58:11 58:11,13,1999,-
+25.0,166.0,95.0,+ 63:56:43,11.0,Navas David,11.0,Banesto,1:12:09 1:12:09,13,1999,-
+25.0,68.0,97.0,+ 63:57:40,12.0,Sacchi Fabio,12.0,Polti,1:13:06 1:13:06,13,1999,-
+24.0,116.0,99.0,+ 63:58:26,13.0,Otxoa Javier,13.0,Kelme - Costa Blanca,1:13:52 1:13:52,13,1999,-
+23.0,146.0,101.0,+ 64:00:10,14.0,Lefèvre Laurent,14.0,Festina - Lotus,1:15:36 1:15:36,13,1999,-
+25.0,158.0,104.0,+ 64:00:28,15.0,Morin Anthony,15.0,La Française des Jeux,1:15:54 1:15:54,13,1999,-
+24.0,82.0,108.0,+ 64:01:29,16.0,De Waele Fabian,16.0,Lotto - Mobistar,1:16:55 1:16:55,13,1999,-
+23.0,188.0,112.0,+ 64:03:05,17.0,Vande Velde Christian,17.0,US Postal Service,1:18:08 1:18:08,13,1999,-
+24.0,175.0,113.0,+ 64:03:13,21.0,Giunti Massimo,18.0,Cantina Tollo - Alexia Alluminio,1:18:39 1:18:39,13,1999,▲3
+23.0,106.0,121.0,+ 64:06:40,18.0,Pinotti Marco,19.0,Lampre - Daikin - Colnago,1:22:06 1:22:06,13,1999,▼1
+25.0,134.0,130.0,+ 64:13:06,19.0,Hinault Sébastien,20.0,Credit agricole,1:28:32 1:28:32,13,1999,▼1
+24.0,194.0,131.0,+ 64:13:15,20.0,Da Cruz Carlos,21.0,BigMat - Auber 93,1:28:41 1:28:41,13,1999,▼1
+25.0,135.0,140.0,+ 64:21:54,22.0,Langella Anthony,22.0,Credit agricole,1:37:20 1:37:20,13,1999,-
+25.0,159.0,141.0,+ 64:22:26,23.0,Nazon Damien,23.0,La Française des Jeux,1:37:52 1:37:52,13,1999,-
+24.0,176.0,143.0,+ 64:24:33,24.0,Ljungqvist Marcus,24.0,Cantina Tollo - Alexia Alluminio,1:39:59 1:39:59,13,1999,-
+25.0,177.0,148.0,+ 64:28:19,25.0,Mazzanti Luca,25.0,Cantina Tollo - Alexia Alluminio,1:43:45 1:43:45,13,1999,-
+24.0,127.0,149.0,+ 64:29:18,27.0,Horrillo Pedro,26.0,Vitalicio Seguros - Grupo Generali,1:44:44 1:44:44,13,1999,▲1
+23.0,7.0,150.0,+ 64:29:54,26.0,Loder Thierry,27.0,Cofidis,1:45:20 1:45:20,13,1999,▼1
+23.0,199.0,154.0,+ 65:06:05,28.0,Sweet Jay,28.0,BigMat - Auber 93,2:21:31 2:21:31,13,1999,-
+25.0,99.0,12.0,+ 67:36:00,1.0,Salmon Benoît,1.0,Casino - AG2R,67:36:00 67:36:00,14,1999,-
+24.0,81.0,21.0,+ 67:40:59,2.0,Aerts Mario,2.0,Lotto - Mobistar,4:59 4:59,14,1999,-
+24.0,73.0,30.0,+ 67:46:48,3.0,Commesso Salvatore,3.0,Saeco - Cannondale,10:48 10:48,14,1999,-
+25.0,56.0,37.0,+ 67:59:16,4.0,Pérez Luis,4.0,O.N.C.E. - Deutsche Bank,23:16 23:16,14,1999,-
+23.0,125.0,39.0,+ 68:00:43,5.0,García Francisco Tomas,5.0,Vitalicio Seguros - Grupo Generali,24:43 24:43,14,1999,-
+23.0,165.0,41.0,+ 68:02:00,6.0,Mancebo Francisco,6.0,Banesto,26:00 26:00,14,1999,-
+23.0,2.0,45.0,+ 68:04:17,7.0,De Wolf Steve,7.0,Cofidis,28:17 28:17,14,1999,-
+25.0,115.0,65.0,+ 68:21:32,8.0,Gomez Jose Javier,8.0,Kelme - Costa Blanca,45:32 45:32,14,1999,-
+24.0,87.0,67.0,+ 68:25:17,9.0,Verbrugghe Rik,9.0,Lotto - Mobistar,49:17 49:17,14,1999,-
+22.0,26.0,76.0,+ 68:34:11,10.0,Jaksche Jörg,10.0,Team Telekom,58:11 58:11,14,1999,-
+25.0,166.0,95.0,+ 68:48:09,11.0,Navas David,11.0,Banesto,1:12:09 1:12:09,14,1999,-
+25.0,68.0,97.0,+ 68:49:06,12.0,Sacchi Fabio,12.0,Polti,1:13:06 1:13:06,14,1999,-
+24.0,116.0,99.0,+ 68:49:52,13.0,Otxoa Javier,13.0,Kelme - Costa Blanca,1:13:52 1:13:52,14,1999,-
+25.0,158.0,103.0,+ 68:51:54,15.0,Morin Anthony,14.0,La Française des Jeux,1:15:54 1:15:54,14,1999,▲1
+24.0,82.0,105.0,+ 68:52:55,16.0,De Waele Fabian,15.0,Lotto - Mobistar,1:16:55 1:16:55,14,1999,▲1
+23.0,146.0,109.0,+ 68:53:26,14.0,Lefèvre Laurent,16.0,Festina - Lotus,1:17:26 1:17:26,14,1999,▼2
+24.0,175.0,112.0,+ 68:54:39,18.0,Giunti Massimo,17.0,Cantina Tollo - Alexia Alluminio,1:18:39 1:18:39,14,1999,▲1
+23.0,188.0,114.0,+ 68:56:21,17.0,Vande Velde Christian,18.0,US Postal Service,1:20:21 1:20:21,14,1999,▼1
+23.0,106.0,120.0,+ 68:58:06,19.0,Pinotti Marco,19.0,Lampre - Daikin - Colnago,1:22:06 1:22:06,14,1999,-
+25.0,134.0,129.0,+ 69:04:32,20.0,Hinault Sébastien,20.0,Credit agricole,1:28:32 1:28:32,14,1999,-
+24.0,194.0,130.0,+ 69:04:41,21.0,Da Cruz Carlos,21.0,BigMat - Auber 93,1:28:41 1:28:41,14,1999,-
+25.0,135.0,138.0,+ 69:13:20,22.0,Langella Anthony,22.0,Credit agricole,1:37:20 1:37:20,14,1999,-
+25.0,159.0,139.0,+ 69:13:52,23.0,Nazon Damien,23.0,La Française des Jeux,1:37:52 1:37:52,14,1999,-
+24.0,176.0,142.0,+ 69:15:59,24.0,Ljungqvist Marcus,24.0,Cantina Tollo - Alexia Alluminio,1:39:59 1:39:59,14,1999,-
+25.0,177.0,147.0,+ 69:19:45,25.0,Mazzanti Luca,25.0,Cantina Tollo - Alexia Alluminio,1:43:45 1:43:45,14,1999,-
+24.0,127.0,148.0,+ 69:20:44,26.0,Horrillo Pedro,26.0,Vitalicio Seguros - Grupo Generali,1:44:44 1:44:44,14,1999,-
+23.0,7.0,149.0,+ 69:23:10,27.0,Loder Thierry,27.0,Cofidis,1:47:10 1:47:10,14,1999,-
+23.0,199.0,152.0,+ 69:59:21,28.0,Sweet Jay,28.0,BigMat - Auber 93,2:23:21 2:23:21,14,1999,-
+25.0,99.0,14.0,+ 73:06:28,1.0,Salmon Benoît,1.0,Casino - AG2R,73:06:28 73:06:28,15,1999,-
+24.0,81.0,24.0,+ 73:16:09,2.0,Aerts Mario,2.0,Lotto - Mobistar,9:41 9:41,15,1999,-
+23.0,125.0,28.0,+ 73:24:11,5.0,García Francisco Tomas,3.0,Vitalicio Seguros - Grupo Generali,17:43 17:43,15,1999,▲2
+23.0,165.0,30.0,+ 73:28:29,6.0,Mancebo Francisco,4.0,Banesto,22:01 22:01,15,1999,▲2
+25.0,56.0,32.0,+ 73:31:33,4.0,Pérez Luis,5.0,O.N.C.E. - Deutsche Bank,25:05 25:05,15,1999,▼1
+24.0,73.0,40.0,+ 73:43:25,3.0,Commesso Salvatore,6.0,Saeco - Cannondale,36:57 36:57,15,1999,▼3
+23.0,2.0,43.0,+ 73:45:42,7.0,De Wolf Steve,7.0,Cofidis,39:14 39:14,15,1999,-
+25.0,115.0,52.0,+ 73:58:07,8.0,Gomez Jose Javier,8.0,Kelme - Costa Blanca,51:39 51:39,15,1999,-
+24.0,87.0,69.0,+ 74:21:54,9.0,Verbrugghe Rik,9.0,Lotto - Mobistar,1:15:26 1:15:26,15,1999,-
+22.0,26.0,78.0,+ 74:30:48,10.0,Jaksche Jörg,10.0,Team Telekom,1:24:20 1:24:20,15,1999,-
+24.0,116.0,81.0,+ 74:32:22,13.0,Otxoa Javier,11.0,Kelme - Costa Blanca,1:25:54 1:25:54,15,1999,▲2
+25.0,166.0,96.0,+ 74:44:46,11.0,Navas David,12.0,Banesto,1:38:18 1:38:18,15,1999,▼1
+25.0,68.0,98.0,+ 74:45:43,12.0,Sacchi Fabio,13.0,Polti,1:39:15 1:39:15,15,1999,▼1
+25.0,158.0,101.0,+ 74:48:31,14.0,Morin Anthony,14.0,La Française des Jeux,1:42:03 1:42:03,15,1999,-
+24.0,82.0,103.0,+ 74:49:32,15.0,De Waele Fabian,15.0,Lotto - Mobistar,1:43:04 1:43:04,15,1999,-
+23.0,146.0,107.0,+ 74:50:03,16.0,Lefèvre Laurent,16.0,Festina - Lotus,1:43:35 1:43:35,15,1999,-
+24.0,175.0,108.0,+ 74:51:16,17.0,Giunti Massimo,17.0,Cantina Tollo - Alexia Alluminio,1:44:48 1:44:48,15,1999,-
+23.0,188.0,111.0,+ 74:52:58,18.0,Vande Velde Christian,18.0,US Postal Service,1:46:30 1:46:30,15,1999,-
+23.0,106.0,117.0,+ 74:54:43,19.0,Pinotti Marco,19.0,Lampre - Daikin - Colnago,1:48:15 1:48:15,15,1999,-
+25.0,134.0,124.0,+ 75:01:09,20.0,Hinault Sébastien,20.0,Credit agricole,1:54:41 1:54:41,15,1999,-
+24.0,194.0,125.0,+ 75:01:18,21.0,Da Cruz Carlos,21.0,BigMat - Auber 93,1:54:50 1:54:50,15,1999,-
+25.0,135.0,133.0,+ 75:09:57,22.0,Langella Anthony,22.0,Credit agricole,2:03:29 2:03:29,15,1999,-
+24.0,176.0,134.0,+ 75:12:36,24.0,Ljungqvist Marcus,23.0,Cantina Tollo - Alexia Alluminio,2:06:08 2:06:08,15,1999,▲1
+25.0,177.0,139.0,+ 75:16:22,25.0,Mazzanti Luca,24.0,Cantina Tollo - Alexia Alluminio,2:09:54 2:09:54,15,1999,▲1
+24.0,127.0,140.0,+ 75:17:21,26.0,Horrillo Pedro,25.0,Vitalicio Seguros - Grupo Generali,2:10:53 2:10:53,15,1999,▲1
+23.0,7.0,141.0,+ 75:20:59,27.0,Loder Thierry,26.0,Cofidis,2:14:31 2:14:31,15,1999,▲1
+25.0,99.0,14.0,+ 78:25:48,1.0,Salmon Benoît,1.0,Casino - AG2R,78:25:48 78:25:48,16,1999,-
+24.0,81.0,22.0,+ 78:35:29,2.0,Aerts Mario,2.0,Lotto - Mobistar,9:41 9:41,16,1999,-
+23.0,125.0,27.0,+ 78:41:39,3.0,García Francisco Tomas,3.0,Vitalicio Seguros - Grupo Generali,15:51 15:51,16,1999,-
+23.0,165.0,29.0,+ 78:47:49,4.0,Mancebo Francisco,4.0,Banesto,22:01 22:01,16,1999,-
+25.0,56.0,30.0,+ 78:50:53,5.0,Pérez Luis,5.0,O.N.C.E. - Deutsche Bank,25:05 25:05,16,1999,-
+24.0,73.0,38.0,+ 79:02:45,6.0,Commesso Salvatore,6.0,Saeco - Cannondale,36:57 36:57,16,1999,-
+23.0,2.0,40.0,+ 79:05:02,7.0,De Wolf Steve,7.0,Cofidis,39:14 39:14,16,1999,-
+25.0,115.0,61.0,+ 79:41:34,8.0,Gomez Jose Javier,8.0,Kelme - Costa Blanca,1:15:46 1:15:46,16,1999,-
+24.0,87.0,73.0,+ 80:05:21,9.0,Verbrugghe Rik,9.0,Lotto - Mobistar,1:39:33 1:39:33,16,1999,-
+22.0,26.0,82.0,+ 80:14:15,10.0,Jaksche Jörg,10.0,Team Telekom,1:48:27 1:48:27,16,1999,-
+24.0,116.0,84.0,+ 80:15:49,11.0,Otxoa Javier,11.0,Kelme - Costa Blanca,1:50:01 1:50:01,16,1999,-
+23.0,146.0,88.0,+ 80:20:15,16.0,Lefèvre Laurent,12.0,Festina - Lotus,1:54:27 1:54:27,16,1999,▲4
+24.0,175.0,91.0,+ 80:21:28,17.0,Giunti Massimo,13.0,Cantina Tollo - Alexia Alluminio,1:55:40 1:55:40,16,1999,▲4
+23.0,188.0,94.0,+ 80:23:10,18.0,Vande Velde Christian,14.0,US Postal Service,1:57:22 1:57:22,16,1999,▲4
+25.0,166.0,97.0,+ 80:26:32,12.0,Navas David,15.0,Banesto,2:00:44 2:00:44,16,1999,▼3
+25.0,68.0,102.0,+ 80:29:10,13.0,Sacchi Fabio,16.0,Polti,2:03:22 2:03:22,16,1999,▼3
+25.0,158.0,105.0,+ 80:31:58,14.0,Morin Anthony,17.0,La Française des Jeux,2:06:10 2:06:10,16,1999,▼3
+24.0,82.0,107.0,+ 80:32:59,15.0,De Waele Fabian,18.0,Lotto - Mobistar,2:07:11 2:07:11,16,1999,▼3
+23.0,106.0,116.0,+ 80:38:10,19.0,Pinotti Marco,19.0,Lampre - Daikin - Colnago,2:12:22 2:12:22,16,1999,-
+25.0,134.0,123.0,+ 80:44:36,20.0,Hinault Sébastien,20.0,Credit agricole,2:18:48 2:18:48,16,1999,-
+24.0,194.0,124.0,+ 80:44:45,21.0,Da Cruz Carlos,21.0,BigMat - Auber 93,2:18:57 2:18:57,16,1999,-
+25.0,135.0,132.0,+ 80:53:24,22.0,Langella Anthony,22.0,Credit agricole,2:27:36 2:27:36,16,1999,-
+24.0,176.0,133.0,+ 80:56:03,23.0,Ljungqvist Marcus,23.0,Cantina Tollo - Alexia Alluminio,2:30:15 2:30:15,16,1999,-
+25.0,177.0,138.0,+ 80:59:49,24.0,Mazzanti Luca,24.0,Cantina Tollo - Alexia Alluminio,2:34:01 2:34:01,16,1999,-
+24.0,127.0,139.0,+ 81:00:48,25.0,Horrillo Pedro,25.0,Vitalicio Seguros - Grupo Generali,2:35:00 2:35:00,16,1999,-
+23.0,7.0,140.0,+ 81:04:26,26.0,Loder Thierry,26.0,Cofidis,2:38:38 2:38:38,16,1999,-
+25.0,99.0,13.0,+ 82:48:25,1.0,Salmon Benoît,1.0,Casino - AG2R,82:48:25 82:48:25,17,1999,-
+24.0,81.0,21.0,+ 82:57:58,2.0,Aerts Mario,2.0,Lotto - Mobistar,9:33 9:33,17,1999,-
+23.0,125.0,26.0,+ 83:04:16,3.0,García Francisco Tomas,3.0,Vitalicio Seguros - Grupo Generali,15:51 15:51,17,1999,-
+23.0,165.0,28.0,+ 83:10:26,4.0,Mancebo Francisco,4.0,Banesto,22:01 22:01,17,1999,-
+25.0,56.0,29.0,+ 83:13:30,5.0,Pérez Luis,5.0,O.N.C.E. - Deutsche Bank,25:05 25:05,17,1999,-
+24.0,73.0,37.0,+ 83:25:22,6.0,Commesso Salvatore,6.0,Saeco - Cannondale,36:57 36:57,17,1999,-
+23.0,2.0,39.0,+ 83:27:39,7.0,De Wolf Steve,7.0,Cofidis,39:14 39:14,17,1999,-
+25.0,115.0,59.0,+ 84:04:11,8.0,Gomez Jose Javier,8.0,Kelme - Costa Blanca,1:15:46 1:15:46,17,1999,-
+24.0,87.0,72.0,+ 84:27:58,9.0,Verbrugghe Rik,9.0,Lotto - Mobistar,1:39:33 1:39:33,17,1999,-
+22.0,26.0,82.0,+ 84:37:42,10.0,Jaksche Jörg,10.0,Team Telekom,1:49:17 1:49:17,17,1999,-
+24.0,116.0,84.0,+ 84:39:05,11.0,Otxoa Javier,11.0,Kelme - Costa Blanca,1:50:40 1:50:40,17,1999,-
+24.0,175.0,89.0,+ 84:44:05,13.0,Giunti Massimo,12.0,Cantina Tollo - Alexia Alluminio,1:55:40 1:55:40,17,1999,▲1
+23.0,188.0,92.0,+ 84:45:47,14.0,Vande Velde Christian,13.0,US Postal Service,1:57:22 1:57:22,17,1999,▲1
+23.0,146.0,93.0,+ 84:46:14,12.0,Lefèvre Laurent,14.0,Festina - Lotus,1:57:49 1:57:49,17,1999,▼2
+25.0,166.0,97.0,+ 84:49:48,15.0,Navas David,15.0,Banesto,2:01:23 2:01:23,17,1999,-
+25.0,68.0,100.0,+ 84:51:39,16.0,Sacchi Fabio,16.0,Polti,2:03:14 2:03:14,17,1999,-
+25.0,158.0,104.0,+ 84:54:35,17.0,Morin Anthony,17.0,La Française des Jeux,2:06:10 2:06:10,17,1999,-
+24.0,82.0,108.0,+ 84:56:11,18.0,De Waele Fabian,18.0,Lotto - Mobistar,2:07:46 2:07:46,17,1999,-
+23.0,106.0,115.0,+ 85:00:47,19.0,Pinotti Marco,19.0,Lampre - Daikin - Colnago,2:12:22 2:12:22,17,1999,-
+25.0,134.0,122.0,+ 85:07:13,20.0,Hinault Sébastien,20.0,Credit agricole,2:18:48 2:18:48,17,1999,-
+24.0,194.0,123.0,+ 85:07:16,21.0,Da Cruz Carlos,21.0,BigMat - Auber 93,2:18:51 2:18:51,17,1999,-
+25.0,135.0,131.0,+ 85:16:01,22.0,Langella Anthony,22.0,Credit agricole,2:27:36 2:27:36,17,1999,-
+24.0,176.0,132.0,+ 85:18:40,23.0,Ljungqvist Marcus,23.0,Cantina Tollo - Alexia Alluminio,2:30:15 2:30:15,17,1999,-
+25.0,177.0,135.0,+ 85:22:26,24.0,Mazzanti Luca,24.0,Cantina Tollo - Alexia Alluminio,2:34:01 2:34:01,17,1999,-
+24.0,127.0,138.0,+ 85:23:25,25.0,Horrillo Pedro,25.0,Vitalicio Seguros - Grupo Generali,2:35:00 2:35:00,17,1999,-
+23.0,7.0,139.0,+ 85:27:42,26.0,Loder Thierry,26.0,Cofidis,2:39:17 2:39:17,17,1999,-
+25.0,99.0,13.0,+ 87:09:15,1.0,Salmon Benoît,1.0,Casino - AG2R,87:09:15 87:09:15,18,1999,-
+24.0,81.0,21.0,+ 87:18:48,2.0,Aerts Mario,2.0,Lotto - Mobistar,9:33 9:33,18,1999,-
+23.0,125.0,26.0,+ 87:25:06,3.0,García Francisco Tomas,3.0,Vitalicio Seguros - Grupo Generali,15:51 15:51,18,1999,-
+23.0,165.0,28.0,+ 87:31:16,4.0,Mancebo Francisco,4.0,Banesto,22:01 22:01,18,1999,-
+25.0,56.0,30.0,+ 87:34:52,5.0,Pérez Luis,5.0,O.N.C.E. - Deutsche Bank,25:37 25:37,18,1999,-
+24.0,73.0,37.0,+ 87:46:12,6.0,Commesso Salvatore,6.0,Saeco - Cannondale,36:57 36:57,18,1999,-
+23.0,2.0,39.0,+ 87:48:29,7.0,De Wolf Steve,7.0,Cofidis,39:14 39:14,18,1999,-
+25.0,115.0,59.0,+ 88:25:01,8.0,Gomez Jose Javier,8.0,Kelme - Costa Blanca,1:15:46 1:15:46,18,1999,-
+25.0,87.0,72.0,+ 88:48:48,9.0,Verbrugghe Rik,9.0,Lotto - Mobistar,1:39:33 1:39:33,18,1999,-
+23.0,26.0,79.0,+ 88:55:28,10.0,Jaksche Jörg,10.0,Team Telekom,1:46:13 1:46:13,18,1999,-
+24.0,116.0,84.0,+ 88:59:55,11.0,Otxoa Javier,11.0,Kelme - Costa Blanca,1:50:40 1:50:40,18,1999,-
+24.0,175.0,90.0,+ 89:04:55,12.0,Giunti Massimo,12.0,Cantina Tollo - Alexia Alluminio,1:55:40 1:55:40,18,1999,-
+23.0,188.0,93.0,+ 89:06:37,13.0,Vande Velde Christian,13.0,US Postal Service,1:57:22 1:57:22,18,1999,-
+23.0,146.0,94.0,+ 89:07:04,14.0,Lefèvre Laurent,14.0,Festina - Lotus,1:57:49 1:57:49,18,1999,-
+25.0,166.0,97.0,+ 89:10:38,15.0,Navas David,15.0,Banesto,2:01:23 2:01:23,18,1999,-
+25.0,68.0,100.0,+ 89:12:29,16.0,Sacchi Fabio,16.0,Polti,2:03:14 2:03:14,18,1999,-
+25.0,158.0,104.0,+ 89:15:25,17.0,Morin Anthony,17.0,La Française des Jeux,2:06:10 2:06:10,18,1999,-
+24.0,82.0,107.0,+ 89:17:01,18.0,De Waele Fabian,18.0,Lotto - Mobistar,2:07:46 2:07:46,18,1999,-
+23.0,106.0,115.0,+ 89:21:37,19.0,Pinotti Marco,19.0,Lampre - Daikin - Colnago,2:12:22 2:12:22,18,1999,-
+25.0,134.0,122.0,+ 89:28:03,20.0,Hinault Sébastien,20.0,Credit agricole,2:18:48 2:18:48,18,1999,-
+24.0,194.0,123.0,+ 89:28:06,21.0,Da Cruz Carlos,21.0,BigMat - Auber 93,2:18:51 2:18:51,18,1999,-
+25.0,135.0,131.0,+ 89:36:51,22.0,Langella Anthony,22.0,Credit agricole,2:27:36 2:27:36,18,1999,-
+24.0,176.0,132.0,+ 89:39:30,23.0,Ljungqvist Marcus,23.0,Cantina Tollo - Alexia Alluminio,2:30:15 2:30:15,18,1999,-
+25.0,177.0,135.0,+ 89:43:16,24.0,Mazzanti Luca,24.0,Cantina Tollo - Alexia Alluminio,2:34:01 2:34:01,18,1999,-
+24.0,127.0,138.0,+ 89:44:15,25.0,Horrillo Pedro,25.0,Vitalicio Seguros - Grupo Generali,2:35:00 2:35:00,18,1999,-
+23.0,7.0,139.0,+ 89:48:32,26.0,Loder Thierry,26.0,Cofidis,2:39:17 2:39:17,18,1999,-
+25.0,99.0,16.0,+ 88:23:36,1.0,Salmon Benoît,1.0,Casino - AG2R,88:23:36 88:23:36,19,1999,-
+24.0,81.0,21.0,+ 88:33:58,2.0,Aerts Mario,2.0,Lotto - Mobistar,10:22 10:22,19,1999,-
+23.0,125.0,26.0,+ 88:40:08,3.0,García Francisco Tomas,3.0,Vitalicio Seguros - Grupo Generali,16:32 16:32,19,1999,-
+23.0,165.0,28.0,+ 88:45:08,4.0,Mancebo Francisco,4.0,Banesto,21:32 21:32,19,1999,-
+25.0,56.0,29.0,+ 88:47:30,5.0,Pérez Luis,5.0,O.N.C.E. - Deutsche Bank,23:54 23:54,19,1999,-
+24.0,73.0,38.0,+ 89:03:52,6.0,Commesso Salvatore,6.0,Saeco - Cannondale,40:16 40:16,19,1999,-
+23.0,2.0,41.0,+ 89:06:31,7.0,De Wolf Steve,7.0,Cofidis,42:55 42:55,19,1999,-
+25.0,115.0,59.0,+ 89:40:27,8.0,Gomez Jose Javier,8.0,Kelme - Costa Blanca,1:16:51 1:16:51,19,1999,-
+25.0,87.0,71.0,+ 89:59:08,9.0,Verbrugghe Rik,9.0,Lotto - Mobistar,1:35:32 1:35:32,19,1999,-
+23.0,26.0,80.0,+ 90:11:21,10.0,Jaksche Jörg,10.0,Team Telekom,1:47:45 1:47:45,19,1999,-
+23.0,188.0,85.0,+ 90:18:35,13.0,Vande Velde Christian,11.0,US Postal Service,1:54:59 1:54:59,19,1999,▲2
+24.0,116.0,86.0,+ 90:18:51,11.0,Otxoa Javier,12.0,Kelme - Costa Blanca,1:55:15 1:55:15,19,1999,▼1
+23.0,146.0,88.0,+ 90:19:45,14.0,Lefèvre Laurent,13.0,Festina - Lotus,1:56:09 1:56:09,19,1999,▲1
+24.0,175.0,91.0,+ 90:22:12,12.0,Giunti Massimo,14.0,Cantina Tollo - Alexia Alluminio,1:58:36 1:58:36,19,1999,▼2
+25.0,166.0,98.0,+ 90:28:08,15.0,Navas David,15.0,Banesto,2:04:32 2:04:32,19,1999,-
+25.0,68.0,99.0,+ 90:28:16,16.0,Sacchi Fabio,16.0,Polti,2:04:40 2:04:40,19,1999,-
+25.0,158.0,105.0,+ 90:31:14,17.0,Morin Anthony,17.0,La Française des Jeux,2:07:38 2:07:38,19,1999,-
+24.0,82.0,108.0,+ 90:33:58,18.0,De Waele Fabian,18.0,Lotto - Mobistar,2:10:22 2:10:22,19,1999,-
+23.0,106.0,113.0,+ 90:34:37,19.0,Pinotti Marco,19.0,Lampre - Daikin - Colnago,2:11:01 2:11:01,19,1999,-
+25.0,134.0,123.0,+ 90:45:40,20.0,Hinault Sébastien,20.0,Credit agricole,2:22:04 2:22:04,19,1999,-
+24.0,194.0,126.0,+ 90:46:27,21.0,Da Cruz Carlos,21.0,BigMat - Auber 93,2:22:51 2:22:51,19,1999,-
+24.0,176.0,131.0,+ 90:54:46,23.0,Ljungqvist Marcus,22.0,Cantina Tollo - Alexia Alluminio,2:31:10 2:31:10,19,1999,▲1
+25.0,135.0,132.0,+ 90:56:57,22.0,Langella Anthony,23.0,Credit agricole,2:33:21 2:33:21,19,1999,▼1
+24.0,127.0,135.0,+ 91:00:08,25.0,Horrillo Pedro,24.0,Vitalicio Seguros - Grupo Generali,2:36:32 2:36:32,19,1999,▲1
+25.0,177.0,137.0,+ 91:01:05,24.0,Mazzanti Luca,25.0,Cantina Tollo - Alexia Alluminio,2:37:29 2:37:29,19,1999,▼1
+23.0,7.0,139.0,+ 91:06:32,26.0,Loder Thierry,26.0,Cofidis,2:42:56 2:42:56,19,1999,-
+25.0,99.0,16.0,+ 92:01:15,1.0,Salmon Benoît,1.0,Casino - AG2R,92:01:15 92:01:15,20,1999,-
+24.0,81.0,21.0,+ 92:11:37,2.0,Aerts Mario,2.0,Lotto - Mobistar,10:22 10:22,20,1999,-
+23.0,125.0,26.0,+ 92:17:47,3.0,García Francisco Tomas,3.0,Vitalicio Seguros - Grupo Generali,16:32 16:32,20,1999,-
+23.0,165.0,28.0,+ 92:22:47,4.0,Mancebo Francisco,4.0,Banesto,21:32 21:32,20,1999,-
+25.0,56.0,29.0,+ 92:25:09,5.0,Pérez Luis,5.0,O.N.C.E. - Deutsche Bank,23:54 23:54,20,1999,-
+24.0,73.0,38.0,+ 92:41:31,6.0,Commesso Salvatore,6.0,Saeco - Cannondale,40:16 40:16,20,1999,-
+23.0,2.0,41.0,+ 92:44:10,7.0,De Wolf Steve,7.0,Cofidis,42:55 42:55,20,1999,-
+25.0,115.0,59.0,+ 93:18:06,8.0,Gomez Jose Javier,8.0,Kelme - Costa Blanca,1:16:51 1:16:51,20,1999,-
+25.0,87.0,71.0,+ 93:36:47,9.0,Verbrugghe Rik,9.0,Lotto - Mobistar,1:35:32 1:35:32,20,1999,-
+23.0,26.0,80.0,+ 93:49:00,10.0,Jaksche Jörg,10.0,Team Telekom,1:47:45 1:47:45,20,1999,-
+23.0,188.0,85.0,+ 93:56:14,11.0,Vande Velde Christian,11.0,US Postal Service,1:54:59 1:54:59,20,1999,-
+24.0,116.0,86.0,+ 93:56:30,12.0,Otxoa Javier,12.0,Kelme - Costa Blanca,1:55:15 1:55:15,20,1999,-
+23.0,146.0,88.0,+ 93:57:24,13.0,Lefèvre Laurent,13.0,Festina - Lotus,1:56:09 1:56:09,20,1999,-
+24.0,175.0,95.0,+ 94:02:41,14.0,Giunti Massimo,14.0,Cantina Tollo - Alexia Alluminio,2:01:26 2:01:26,20,1999,-
+25.0,166.0,98.0,+ 94:05:47,15.0,Navas David,15.0,Banesto,2:04:32 2:04:32,20,1999,-
+25.0,68.0,99.0,+ 94:05:55,16.0,Sacchi Fabio,16.0,Polti,2:04:40 2:04:40,20,1999,-
+25.0,158.0,105.0,+ 94:08:53,17.0,Morin Anthony,17.0,La Française des Jeux,2:07:38 2:07:38,20,1999,-
+24.0,82.0,108.0,+ 94:11:37,18.0,De Waele Fabian,18.0,Lotto - Mobistar,2:10:22 2:10:22,20,1999,-
+23.0,106.0,113.0,+ 94:12:16,19.0,Pinotti Marco,19.0,Lampre - Daikin - Colnago,2:11:01 2:11:01,20,1999,-
+25.0,134.0,123.0,+ 94:23:19,20.0,Hinault Sébastien,20.0,Credit agricole,2:22:04 2:22:04,20,1999,-
+24.0,194.0,126.0,+ 94:24:04,21.0,Da Cruz Carlos,21.0,BigMat - Auber 93,2:22:49 2:22:49,20,1999,-
+24.0,176.0,131.0,+ 94:32:25,22.0,Ljungqvist Marcus,22.0,Cantina Tollo - Alexia Alluminio,2:31:10 2:31:10,20,1999,-
+25.0,135.0,132.0,+ 94:34:36,23.0,Langella Anthony,23.0,Credit agricole,2:33:21 2:33:21,20,1999,-
+24.0,127.0,135.0,+ 94:37:47,24.0,Horrillo Pedro,24.0,Vitalicio Seguros - Grupo Generali,2:36:32 2:36:32,20,1999,-
+25.0,177.0,137.0,+ 94:38:44,25.0,Mazzanti Luca,25.0,Cantina Tollo - Alexia Alluminio,2:37:29 2:37:29,20,1999,-
+23.0,7.0,139.0,+ 94:44:11,26.0,Loder Thierry,26.0,Cofidis,2:42:56 2:42:56,20,1999,-

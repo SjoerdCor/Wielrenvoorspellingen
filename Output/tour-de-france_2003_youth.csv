@@ -1,0 +1,528 @@
+Age,BIB,GC,GC-Time,Prev,Rider,Rnk,Team,Time,UCI,stage,year,▼▲
+22.0,34.0,14.0,+0:12,,Karpets Vladimir,1.0,iBanesto.com,7:38 7:38,,0,2003,
+23.0,152.0,15.0,+0:12,,Astarloza Mikel,2.0,AG2R Prévoyance,",, ,,",,0,2003,
+25.0,125.0,18.0,+0:13,,Hushovd Thor,3.0,Crédit Agricole,0:01 0:01,,0,2003,
+23.0,117.0,19.0,+0:13,,Rogers Michael,4.0,Quickstep - Davitamon,",, 0:01",,0,2003,
+25.0,132.0,25.0,+0:16,,Becke Daniel,5.0,Team Bianchi,0:04 0:04,,0,2003,
+24.0,155.0,32.0,+0:18,,Flickinger Andy,6.0,AG2R Prévoyance,0:06 0:06,,0,2003,
+24.0,93.0,45.0,+0:20,,Cooke Baden,7.0,Fdjeux.com,0:08 0:08,,0,2003,
+25.0,104.0,46.0,+0:20,,Manzano Jesus Maria,8.0,Kelme - Costa Blanca,",, 0:08",,0,2003,
+25.0,36.0,49.0,+0:20,,Menchov Denis,9.0,iBanesto.com,",, 0:08",,0,2003,
+24.0,91.0,50.0,+0:21,,Casar Sandy,10.0,Fdjeux.com,0:09 0:09,,0,2003,
+25.0,38.0,57.0,+0:22,,Petrov Evgeni,11.0,iBanesto.com,0:10 0:10,,0,2003,
+25.0,52.0,77.0,+0:27,,Bertagnolli Leonardo,12.0,Saeco,0:15 0:15,,0,2003,
+24.0,37.0,84.0,+0:29,,Mercado Juan Miguel,13.0,iBanesto.com,0:17 0:17,,0,2003,
+25.0,178.0,85.0,+0:29,,Sánchez Samuel,14.0,Euskaltel - Euskadi,",, 0:17",,0,2003,
+23.0,214.0,91.0,+0:30,,Edaleine Christophe,15.0,Jean Delatour,0:18 0:18,,0,2003,
+24.0,217.0,96.0,+0:30,,Krivtsov Yuriy,16.0,Jean Delatour,",, 0:18",,0,2003,
+24.0,123.0,100.0,+0:31,,Fédrigo Pierrick,17.0,Crédit Agricole,0:19 0:19,,0,2003,
+24.0,95.0,102.0,+0:32,,Fritsch Nicolas,18.0,Fdjeux.com,0:20 0:20,,0,2003,
+25.0,49.0,104.0,+0:32,,Wielinga Remmert,19.0,Rabobank ProTeam,",, 0:20",,0,2003,
+24.0,183.0,105.0,+0:32,,Chavanel Sylvain,20.0,Brioches La Boulangère,",, 0:20",,0,2003,
+25.0,92.0,118.0,+0:34,,Casper Jimmy,21.0,Fdjeux.com,0:22 0:22,,0,2003,
+23.0,187.0,124.0,+0:35,,Pineau Jérôme,22.0,Brioches La Boulangère,0:23 0:23,,0,2003,
+23.0,185.0,131.0,+0:36,,Hary Maryan,23.0,Brioches La Boulangère,0:24 0:24,,0,2003,
+24.0,158.0,138.0,+0:37,,Portal Nicolas,24.0,AG2R Prévoyance,0:25 0:25,,0,2003,
+25.0,209.0,147.0,+0:38,,Pellizotti Franco,25.0,Alessio,0:26 0:26,,0,2003,
+24.0,25.0,154.0,+0:39,,Kessler Matthias,26.0,Team Telekom,0:27 0:27,,0,2003,
+24.0,105.0,159.0,+0:40,,Muñoz David,27.0,Kelme - Costa Blanca,0:28 0:28,,0,2003,
+22.0,213.0,186.0,+0:49,,Dumoulin Samuel,28.0,Jean Delatour,0:37 0:37,,0,2003,
+23.0,184.0,187.0,+0:49,,Geslin Anthony,29.0,Brioches La Boulangère,",, 0:37",,0,2003,
+24.0,189.0,192.0,+0:52,,Voeckler Thomas,30.0,Brioches La Boulangère,0:40 0:40,,0,2003,
+24.0,155.0,7.0,+0:10,6.0,Flickinger Andy,1.0,AG2R Prévoyance,3:52:05 3:52:05,,1,2003,▲5
+22.0,34.0,15.0,+0:16,1.0,Karpets Vladimir,2.0,iBanesto.com,0:06 0:06,,1,2003,▼1
+23.0,152.0,16.0,+0:16,2.0,Astarloza Mikel,3.0,AG2R Prévoyance,",, 0:06",,1,2003,▼1
+25.0,125.0,19.0,+0:17,3.0,Hushovd Thor,4.0,Crédit Agricole,0:07 0:07,,1,2003,▼1
+23.0,117.0,20.0,+0:17,4.0,Rogers Michael,5.0,Quickstep - Davitamon,",, 0:07",,1,2003,▼1
+25.0,132.0,29.0,+0:20,5.0,Becke Daniel,6.0,Team Bianchi,0:10 0:10,,1,2003,▼1
+24.0,93.0,48.0,+0:24,7.0,Cooke Baden,7.0,Fdjeux.com,0:14 0:14,,1,2003,-
+25.0,104.0,49.0,+0:24,8.0,Manzano Jesus Maria,8.0,Kelme - Costa Blanca,",, 0:14",,1,2003,-
+25.0,36.0,52.0,+0:24,9.0,Menchov Denis,9.0,iBanesto.com,",, 0:14",,1,2003,-
+24.0,91.0,53.0,+0:25,10.0,Casar Sandy,10.0,Fdjeux.com,0:15 0:15,,1,2003,-
+25.0,38.0,59.0,+0:26,11.0,Petrov Evgeni,11.0,iBanesto.com,0:16 0:16,,1,2003,-
+25.0,52.0,80.0,+0:31,12.0,Bertagnolli Leonardo,12.0,Saeco,0:21 0:21,,1,2003,-
+24.0,37.0,87.0,+0:33,13.0,Mercado Juan Miguel,13.0,iBanesto.com,0:23 0:23,,1,2003,-
+25.0,178.0,88.0,+0:33,14.0,Sánchez Samuel,14.0,Euskaltel - Euskadi,",, 0:23",,1,2003,-
+23.0,214.0,94.0,+0:34,15.0,Edaleine Christophe,15.0,Jean Delatour,0:24 0:24,,1,2003,-
+24.0,217.0,100.0,+0:34,16.0,Krivtsov Yuriy,16.0,Jean Delatour,",, 0:24",,1,2003,-
+24.0,123.0,104.0,+0:35,17.0,Fédrigo Pierrick,17.0,Crédit Agricole,0:25 0:25,,1,2003,-
+24.0,95.0,105.0,+0:36,18.0,Fritsch Nicolas,18.0,Fdjeux.com,0:26 0:26,,1,2003,-
+25.0,49.0,107.0,+0:36,19.0,Wielinga Remmert,19.0,Rabobank ProTeam,",, 0:26",,1,2003,-
+24.0,183.0,108.0,+0:36,20.0,Chavanel Sylvain,20.0,Brioches La Boulangère,",, 0:26",,1,2003,-
+25.0,92.0,120.0,+0:38,21.0,Casper Jimmy,21.0,Fdjeux.com,0:28 0:28,,1,2003,-
+23.0,187.0,126.0,+0:39,22.0,Pineau Jérôme,22.0,Brioches La Boulangère,0:29 0:29,,1,2003,-
+23.0,185.0,131.0,+0:40,23.0,Hary Maryan,23.0,Brioches La Boulangère,0:30 0:30,,1,2003,-
+24.0,158.0,138.0,+0:41,24.0,Portal Nicolas,24.0,AG2R Prévoyance,0:31 0:31,,1,2003,-
+25.0,209.0,146.0,+0:42,25.0,Pellizotti Franco,25.0,Alessio,0:32 0:32,,1,2003,-
+24.0,25.0,153.0,+0:43,26.0,Kessler Matthias,26.0,Team Telekom,0:33 0:33,,1,2003,-
+24.0,105.0,158.0,+0:44,27.0,Muñoz David,27.0,Kelme - Costa Blanca,0:34 0:34,,1,2003,-
+22.0,213.0,185.0,+0:53,28.0,Dumoulin Samuel,28.0,Jean Delatour,0:43 0:43,,1,2003,-
+23.0,184.0,186.0,+0:53,29.0,Geslin Anthony,29.0,Brioches La Boulangère,",, 0:43",,1,2003,-
+24.0,189.0,191.0,+0:56,30.0,Voeckler Thomas,30.0,Brioches La Boulangère,0:46 0:46,,1,2003,-
+24.0,93.0,4.0,+0:12,1.0,Cooke Baden,1.0,Fdjeux.com,12:26:11 12:26:11,,3,2003,-
+24.0,155.0,11.0,+0:18,2.0,Flickinger Andy,2.0,AG2R Prévoyance,0:06 0:06,,3,2003,-
+22.0,34.0,18.0,+0:24,3.0,Karpets Vladimir,3.0,iBanesto.com,0:12 0:12,,3,2003,-
+23.0,152.0,19.0,+0:24,4.0,Astarloza Mikel,4.0,AG2R Prévoyance,",, 0:12",,3,2003,-
+25.0,125.0,22.0,+0:25,5.0,Hushovd Thor,5.0,Crédit Agricole,0:13 0:13,,3,2003,-
+23.0,117.0,23.0,+0:25,6.0,Rogers Michael,6.0,Quickstep - Davitamon,",, 0:13",,3,2003,-
+25.0,104.0,40.0,+0:32,7.0,Manzano Jesus Maria,7.0,Kelme - Costa Blanca,0:20 0:20,,3,2003,-
+25.0,36.0,43.0,+0:32,8.0,Menchov Denis,8.0,iBanesto.com,",, 0:20",,3,2003,-
+24.0,91.0,45.0,+0:33,9.0,Casar Sandy,9.0,Fdjeux.com,0:21 0:21,,3,2003,-
+25.0,38.0,51.0,+0:34,10.0,Petrov Evgeni,10.0,iBanesto.com,0:22 0:22,,3,2003,-
+25.0,52.0,69.0,+0:39,11.0,Bertagnolli Leonardo,11.0,Saeco,0:27 0:27,,3,2003,-
+25.0,178.0,75.0,+0:41,13.0,Sánchez Samuel,12.0,Euskaltel - Euskadi,0:29 0:29,,3,2003,▲1
+23.0,214.0,81.0,+0:42,14.0,Edaleine Christophe,13.0,Jean Delatour,0:30 0:30,,3,2003,▲1
+24.0,217.0,85.0,+0:42,15.0,Krivtsov Yuriy,14.0,Jean Delatour,",, 0:30",,3,2003,▲1
+24.0,123.0,88.0,+0:43,16.0,Fédrigo Pierrick,15.0,Crédit Agricole,0:31 0:31,,3,2003,▲1
+24.0,95.0,89.0,+0:44,17.0,Fritsch Nicolas,16.0,Fdjeux.com,0:32 0:32,,3,2003,▲1
+24.0,183.0,91.0,+0:44,18.0,Chavanel Sylvain,17.0,Brioches La Boulangère,",, 0:32",,3,2003,▲1
+23.0,187.0,106.0,+0:47,19.0,Pineau Jérôme,18.0,Brioches La Boulangère,0:35 0:35,,3,2003,▲1
+24.0,158.0,116.0,+0:49,20.0,Portal Nicolas,19.0,AG2R Prévoyance,0:37 0:37,,3,2003,▲1
+25.0,209.0,121.0,+0:50,21.0,Pellizotti Franco,20.0,Alessio,0:38 0:38,,3,2003,▲1
+24.0,25.0,126.0,+0:51,22.0,Kessler Matthias,21.0,Team Telekom,0:39 0:39,,3,2003,▲1
+24.0,105.0,128.0,+0:52,23.0,Muñoz David,22.0,Kelme - Costa Blanca,0:40 0:40,,3,2003,▲1
+24.0,189.0,148.0,+1:04,26.0,Voeckler Thomas,23.0,Brioches La Boulangère,0:52 0:52,,3,2003,▲3
+23.0,185.0,158.0,+2:23,27.0,Hary Maryan,24.0,Brioches La Boulangère,2:11 2:11,,3,2003,▲3
+25.0,37.0,166.0,+3:14,12.0,Mercado Juan Miguel,25.0,iBanesto.com,3:02 3:02,,3,2003,▼13
+23.0,184.0,167.0,+3:28,25.0,Geslin Anthony,26.0,Brioches La Boulangère,3:16 3:16,,3,2003,▼1
+22.0,213.0,168.0,+3:34,24.0,Dumoulin Samuel,27.0,Jean Delatour,3:22 3:22,,3,2003,▼3
+25.0,132.0,185.0,+10:11,29.0,Becke Daniel,28.0,Team Bianchi,9:59 9:59,,3,2003,▲1
+25.0,49.0,187.0,+12:10,28.0,Wielinga Remmert,29.0,Rabobank ProTeam,11:58 11:58,,3,2003,▼1
+25.0,92.0,196.0,+16:55,30.0,Casper Jimmy,30.0,Fdjeux.com,16:43 16:43,,3,2003,-
+22.0,34.0,20.0,+1:11,3.0,Karpets Vladimir,1.0,iBanesto.com,13:45:55 13:45:55,,4,2003,▲2
+25.0,36.0,22.0,+1:19,8.0,Menchov Denis,2.0,iBanesto.com,0:08 0:08,,4,2003,▲6
+25.0,38.0,23.0,+1:21,10.0,Petrov Evgeni,3.0,iBanesto.com,0:10 0:10,,4,2003,▲7
+23.0,117.0,27.0,+1:30,6.0,Rogers Michael,4.0,Quickstep - Davitamon,0:19 0:19,,4,2003,▲2
+24.0,155.0,32.0,+1:38,2.0,Flickinger Andy,5.0,AG2R Prévoyance,0:27 0:27,,4,2003,▼3
+25.0,125.0,35.0,+1:39,5.0,Hushovd Thor,6.0,Crédit Agricole,0:28 0:28,,4,2003,▼1
+23.0,152.0,37.0,+1:44,4.0,Astarloza Mikel,7.0,AG2R Prévoyance,0:33 0:33,,4,2003,▼3
+24.0,123.0,52.0,+1:57,15.0,Fédrigo Pierrick,8.0,Crédit Agricole,0:46 0:46,,4,2003,▲7
+24.0,25.0,61.0,+2:03,21.0,Kessler Matthias,9.0,Team Telekom,0:52 0:52,,4,2003,▲12
+24.0,158.0,67.0,+2:09,19.0,Portal Nicolas,10.0,AG2R Prévoyance,0:58 0:58,,4,2003,▲9
+25.0,209.0,89.0,+2:37,20.0,Pellizotti Franco,11.0,Alessio,1:26 1:26,,4,2003,▲9
+24.0,183.0,99.0,+2:56,17.0,Chavanel Sylvain,12.0,Brioches La Boulangère,1:45 1:45,,4,2003,▲5
+23.0,187.0,102.0,+2:59,18.0,Pineau Jérôme,13.0,Brioches La Boulangère,1:48 1:48,,4,2003,▲5
+24.0,189.0,109.0,+3:16,23.0,Voeckler Thomas,14.0,Brioches La Boulangère,2:05 2:05,,4,2003,▲9
+25.0,52.0,114.0,+3:23,11.0,Bertagnolli Leonardo,15.0,Saeco,2:12 2:12,,4,2003,▼4
+24.0,93.0,115.0,+3:23,1.0,Cooke Baden,16.0,Fdjeux.com,",, 2:12",,4,2003,▼15
+24.0,91.0,121.0,+3:44,9.0,Casar Sandy,17.0,Fdjeux.com,2:33 2:33,,4,2003,▼8
+25.0,178.0,122.0,+3:45,12.0,Sánchez Samuel,18.0,Euskaltel - Euskadi,2:34 2:34,,4,2003,▼6
+24.0,95.0,128.0,+3:55,16.0,Fritsch Nicolas,19.0,Fdjeux.com,2:44 2:44,,4,2003,▼3
+23.0,214.0,135.0,+4:01,13.0,Edaleine Christophe,20.0,Jean Delatour,2:50 2:50,,4,2003,▼7
+25.0,37.0,136.0,+4:01,25.0,Mercado Juan Miguel,21.0,iBanesto.com,",, 2:50",,4,2003,▲4
+24.0,217.0,137.0,+4:01,14.0,Krivtsov Yuriy,22.0,Jean Delatour,",, 2:50",,4,2003,▼8
+25.0,104.0,138.0,+4:03,7.0,Manzano Jesus Maria,23.0,Kelme - Costa Blanca,2:52 2:52,,4,2003,▼16
+24.0,105.0,144.0,+4:23,22.0,Muñoz David,24.0,Kelme - Costa Blanca,3:12 3:12,,4,2003,▼2
+23.0,184.0,157.0,+5:40,26.0,Geslin Anthony,25.0,Brioches La Boulangère,4:29 4:29,,4,2003,▲1
+23.0,185.0,161.0,+6:45,24.0,Hary Maryan,26.0,Brioches La Boulangère,5:34 5:34,,4,2003,▼2
+22.0,213.0,162.0,+6:53,27.0,Dumoulin Samuel,27.0,Jean Delatour,5:42 5:42,,4,2003,-
+25.0,132.0,176.0,+10:36,28.0,Becke Daniel,28.0,Team Bianchi,9:25 9:25,,4,2003,-
+25.0,49.0,186.0,+14:33,29.0,Wielinga Remmert,29.0,Rabobank ProTeam,13:22 13:22,,4,2003,-
+25.0,92.0,196.0,+23:37,30.0,Casper Jimmy,30.0,Fdjeux.com,22:26 22:26,,4,2003,-
+22.0,34.0,19.0,+1:11,1.0,Karpets Vladimir,1.0,iBanesto.com,17:55:42 17:55:42,,5,2003,-
+25.0,36.0,22.0,+1:19,2.0,Menchov Denis,2.0,iBanesto.com,0:08 0:08,,5,2003,-
+25.0,38.0,23.0,+1:21,3.0,Petrov Evgeni,3.0,iBanesto.com,0:10 0:10,,5,2003,-
+23.0,117.0,27.0,+1:30,4.0,Rogers Michael,4.0,Quickstep - Davitamon,0:19 0:19,,5,2003,-
+24.0,155.0,32.0,+1:38,5.0,Flickinger Andy,5.0,AG2R Prévoyance,0:27 0:27,,5,2003,-
+25.0,125.0,35.0,+1:39,6.0,Hushovd Thor,6.0,Crédit Agricole,0:28 0:28,,5,2003,-
+23.0,152.0,37.0,+1:44,7.0,Astarloza Mikel,7.0,AG2R Prévoyance,0:33 0:33,,5,2003,-
+24.0,123.0,52.0,+1:57,8.0,Fédrigo Pierrick,8.0,Crédit Agricole,0:46 0:46,,5,2003,-
+24.0,25.0,60.0,+2:03,9.0,Kessler Matthias,9.0,Team Telekom,0:52 0:52,,5,2003,-
+24.0,158.0,66.0,+2:09,10.0,Portal Nicolas,10.0,AG2R Prévoyance,0:58 0:58,,5,2003,-
+25.0,209.0,88.0,+2:37,11.0,Pellizotti Franco,11.0,Alessio,1:26 1:26,,5,2003,-
+24.0,183.0,99.0,+2:56,12.0,Chavanel Sylvain,12.0,Brioches La Boulangère,1:45 1:45,,5,2003,-
+23.0,187.0,102.0,+2:59,13.0,Pineau Jérôme,13.0,Brioches La Boulangère,1:48 1:48,,5,2003,-
+24.0,93.0,108.0,+3:15,16.0,Cooke Baden,14.0,Fdjeux.com,2:04 2:04,,5,2003,▲2
+24.0,189.0,109.0,+3:16,14.0,Voeckler Thomas,15.0,Brioches La Boulangère,2:05 2:05,,5,2003,▼1
+25.0,52.0,114.0,+3:23,15.0,Bertagnolli Leonardo,16.0,Saeco,2:12 2:12,,5,2003,▼1
+24.0,91.0,121.0,+3:44,17.0,Casar Sandy,17.0,Fdjeux.com,2:33 2:33,,5,2003,-
+25.0,178.0,122.0,+3:45,18.0,Sánchez Samuel,18.0,Euskaltel - Euskadi,2:34 2:34,,5,2003,-
+24.0,95.0,128.0,+3:55,19.0,Fritsch Nicolas,19.0,Fdjeux.com,2:44 2:44,,5,2003,-
+23.0,214.0,135.0,+4:01,20.0,Edaleine Christophe,20.0,Jean Delatour,2:50 2:50,,5,2003,-
+25.0,37.0,136.0,+4:01,21.0,Mercado Juan Miguel,21.0,iBanesto.com,",, 2:50",,5,2003,-
+24.0,217.0,137.0,+4:01,22.0,Krivtsov Yuriy,22.0,Jean Delatour,",, 2:50",,5,2003,-
+25.0,104.0,138.0,+4:03,23.0,Manzano Jesus Maria,23.0,Kelme - Costa Blanca,2:52 2:52,,5,2003,-
+24.0,105.0,144.0,+4:23,24.0,Muñoz David,24.0,Kelme - Costa Blanca,3:12 3:12,,5,2003,-
+23.0,184.0,155.0,+5:40,25.0,Geslin Anthony,25.0,Brioches La Boulangère,4:29 4:29,,5,2003,-
+23.0,185.0,160.0,+6:45,26.0,Hary Maryan,26.0,Brioches La Boulangère,5:34 5:34,,5,2003,-
+22.0,213.0,170.0,+8:39,27.0,Dumoulin Samuel,27.0,Jean Delatour,7:28 7:28,,5,2003,-
+25.0,132.0,176.0,+10:36,28.0,Becke Daniel,28.0,Team Bianchi,9:25 9:25,,5,2003,-
+25.0,49.0,186.0,+14:33,29.0,Wielinga Remmert,29.0,Rabobank ProTeam,13:22 13:22,,5,2003,-
+25.0,92.0,196.0,+29:06,30.0,Casper Jimmy,30.0,Fdjeux.com,27:55 27:55,,5,2003,-
+22.0,34.0,19.0,+1:11,1.0,Karpets Vladimir,1.0,iBanesto.com,23:04:17 23:04:17,,6,2003,-
+25.0,36.0,22.0,+1:19,2.0,Menchov Denis,2.0,iBanesto.com,0:08 0:08,,6,2003,-
+25.0,38.0,23.0,+1:21,3.0,Petrov Evgeni,3.0,iBanesto.com,0:10 0:10,,6,2003,-
+23.0,117.0,27.0,+1:30,4.0,Rogers Michael,4.0,Quickstep - Davitamon,0:19 0:19,,6,2003,-
+24.0,155.0,32.0,+1:38,5.0,Flickinger Andy,5.0,AG2R Prévoyance,0:27 0:27,,6,2003,-
+25.0,125.0,35.0,+1:39,6.0,Hushovd Thor,6.0,Crédit Agricole,0:28 0:28,,6,2003,-
+23.0,152.0,37.0,+1:44,7.0,Astarloza Mikel,7.0,AG2R Prévoyance,0:33 0:33,,6,2003,-
+24.0,123.0,49.0,+1:57,8.0,Fédrigo Pierrick,8.0,Crédit Agricole,0:46 0:46,,6,2003,-
+24.0,25.0,55.0,+2:03,9.0,Kessler Matthias,9.0,Team Telekom,0:52 0:52,,6,2003,-
+24.0,158.0,61.0,+2:09,10.0,Portal Nicolas,10.0,AG2R Prévoyance,0:58 0:58,,6,2003,-
+25.0,209.0,84.0,+2:37,11.0,Pellizotti Franco,11.0,Alessio,1:26 1:26,,6,2003,-
+24.0,183.0,93.0,+2:56,12.0,Chavanel Sylvain,12.0,Brioches La Boulangère,1:45 1:45,,6,2003,-
+23.0,187.0,96.0,+2:59,13.0,Pineau Jérôme,13.0,Brioches La Boulangère,1:48 1:48,,6,2003,-
+24.0,93.0,99.0,+3:03,14.0,Cooke Baden,14.0,Fdjeux.com,1:52 1:52,,6,2003,-
+24.0,189.0,103.0,+3:16,15.0,Voeckler Thomas,15.0,Brioches La Boulangère,2:05 2:05,,6,2003,-
+25.0,52.0,107.0,+3:23,16.0,Bertagnolli Leonardo,16.0,Saeco,2:12 2:12,,6,2003,-
+24.0,91.0,113.0,+3:44,17.0,Casar Sandy,17.0,Fdjeux.com,2:33 2:33,,6,2003,-
+25.0,178.0,114.0,+3:45,18.0,Sánchez Samuel,18.0,Euskaltel - Euskadi,2:34 2:34,,6,2003,-
+24.0,95.0,118.0,+3:55,19.0,Fritsch Nicolas,19.0,Fdjeux.com,2:44 2:44,,6,2003,-
+23.0,214.0,125.0,+4:01,20.0,Edaleine Christophe,20.0,Jean Delatour,2:50 2:50,,6,2003,-
+25.0,37.0,126.0,+4:01,21.0,Mercado Juan Miguel,21.0,iBanesto.com,",, 2:50",,6,2003,-
+24.0,217.0,127.0,+4:01,22.0,Krivtsov Yuriy,22.0,Jean Delatour,",, 2:50",,6,2003,-
+24.0,105.0,136.0,+4:23,24.0,Muñoz David,23.0,Kelme - Costa Blanca,3:12 3:12,,6,2003,▲1
+23.0,184.0,142.0,+5:28,25.0,Geslin Anthony,24.0,Brioches La Boulangère,4:17 4:17,,6,2003,▲1
+25.0,104.0,146.0,+5:42,23.0,Manzano Jesus Maria,25.0,Kelme - Costa Blanca,4:31 4:31,,6,2003,▼2
+23.0,185.0,151.0,+6:45,26.0,Hary Maryan,26.0,Brioches La Boulangère,5:34 5:34,,6,2003,-
+22.0,213.0,161.0,+8:39,27.0,Dumoulin Samuel,27.0,Jean Delatour,7:28 7:28,,6,2003,-
+25.0,132.0,168.0,+10:36,28.0,Becke Daniel,28.0,Team Bianchi,9:25 9:25,,6,2003,-
+25.0,49.0,178.0,+17:43,29.0,Wielinga Remmert,29.0,Rabobank ProTeam,16:32 16:32,,6,2003,-
+25.0,92.0,194.0,+39:41,30.0,Casper Jimmy,30.0,Fdjeux.com,38:30 38:30,,6,2003,-
+25.0,36.0,14.0,+ 29:14:34,2.0,Menchov Denis,1.0,iBanesto.com,29:14:34 29:14:34,2914.0,7,2003,▲1
+25.0,38.0,15.0,+ 29:14:36,3.0,Petrov Evgeni,2.0,iBanesto.com,0:02 0:02,,7,2003,▲1
+23.0,117.0,16.0,+ 29:14:42,4.0,Rogers Michael,3.0,Quickstep - Davitamon,0:08 0:08,,7,2003,▲1
+23.0,152.0,19.0,+ 29:14:59,7.0,Astarloza Mikel,4.0,AG2R Prévoyance,0:25 0:25,,7,2003,▲3
+24.0,183.0,34.0,+ 29:15:42,12.0,Chavanel Sylvain,5.0,Brioches La Boulangère,1:08 1:08,1.0,7,2003,▲7
+25.0,178.0,43.0,+ 29:17:10,18.0,Sánchez Samuel,6.0,Euskaltel - Euskadi,2:36 2:36,2.0,7,2003,▲12
+25.0,37.0,46.0,+ 29:17:16,21.0,Mercado Juan Miguel,7.0,iBanesto.com,2:42 2:42,2.0,7,2003,▲14
+23.0,187.0,50.0,+ 29:17:53,13.0,Pineau Jérôme,8.0,Brioches La Boulangère,3:19 3:19,3.0,7,2003,▲5
+24.0,91.0,53.0,+ 29:18:38,17.0,Casar Sandy,9.0,Fdjeux.com,4:04 4:04,4.0,7,2003,▲8
+22.0,34.0,58.0,+ 29:18:58,1.0,Karpets Vladimir,10.0,iBanesto.com,4:24 4:24,4.0,7,2003,▼9
+24.0,25.0,71.0,+ 29:21:33,9.0,Kessler Matthias,11.0,Team Telekom,6:59 6:59,7.0,7,2003,▼2
+25.0,209.0,84.0,+ 29:26:18,11.0,Pellizotti Franco,12.0,Alessio,11:44 11:44,11.0,7,2003,▼1
+25.0,52.0,88.0,+ 29:27:04,16.0,Bertagnolli Leonardo,13.0,Saeco,12:30 12:30,12.0,7,2003,▲3
+24.0,95.0,90.0,+ 29:27:36,19.0,Fritsch Nicolas,14.0,Fdjeux.com,13:02 13:02,13.0,7,2003,▲5
+24.0,217.0,92.0,+ 29:27:42,22.0,Krivtsov Yuriy,15.0,Jean Delatour,13:08 13:08,13.0,7,2003,▲7
+24.0,155.0,103.0,+ 29:33:56,5.0,Flickinger Andy,16.0,AG2R Prévoyance,19:22 19:22,19.0,7,2003,▼11
+24.0,158.0,110.0,+ 29:34:27,10.0,Portal Nicolas,17.0,AG2R Prévoyance,19:53 19:53,20.0,7,2003,▼7
+25.0,125.0,116.0,+ 29:35:44,6.0,Hushovd Thor,18.0,Crédit Agricole,21:10 21:10,21.0,7,2003,▼12
+24.0,123.0,121.0,+ 29:36:02,8.0,Fédrigo Pierrick,19.0,Crédit Agricole,21:28 21:28,21.0,7,2003,▼11
+24.0,93.0,131.0,+ 29:37:08,14.0,Cooke Baden,20.0,Fdjeux.com,22:34 22:34,22.0,7,2003,▼6
+24.0,189.0,134.0,+ 29:37:21,15.0,Voeckler Thomas,21.0,Brioches La Boulangère,22:47 22:47,22.0,7,2003,▼6
+23.0,214.0,140.0,+ 29:38:06,20.0,Edaleine Christophe,22.0,Jean Delatour,23:32 23:32,23.0,7,2003,▼2
+24.0,105.0,142.0,+ 29:38:28,23.0,Muñoz David,23.0,Kelme - Costa Blanca,23:54 23:54,24.0,7,2003,-
+23.0,184.0,147.0,+ 29:39:33,24.0,Geslin Anthony,24.0,Brioches La Boulangère,24:59 24:59,25.0,7,2003,-
+23.0,185.0,155.0,+ 29:40:50,26.0,Hary Maryan,25.0,Brioches La Boulangère,26:16 26:16,26.0,7,2003,▲1
+25.0,49.0,157.0,+ 29:41:24,29.0,Wielinga Remmert,26.0,Rabobank ProTeam,26:50 26:50,27.0,7,2003,▲3
+22.0,213.0,164.0,+ 29:42:44,27.0,Dumoulin Samuel,27.0,Jean Delatour,28:10 28:10,28.0,7,2003,-
+25.0,132.0,167.0,+ 29:44:41,28.0,Becke Daniel,28.0,Team Bianchi,30:07 30:07,30.0,7,2003,-
+25.0,92.0,188.0,+ 30:21:13,30.0,Casper Jimmy,29.0,Fdjeux.com,1:06:39 1:06:39,106.0,7,2003,▲1
+25.0,36.0,14.0,+ 35:16:19,1.0,Menchov Denis,1.0,iBanesto.com,35:16:19 35:16:19,,8,2003,-
+23.0,152.0,22.0,+ 35:18:33,4.0,Astarloza Mikel,2.0,AG2R Prévoyance,2:14 2:14,,8,2003,▲2
+24.0,183.0,31.0,+ 35:21:23,5.0,Chavanel Sylvain,3.0,Brioches La Boulangère,5:04 5:04,,8,2003,▲2
+25.0,37.0,32.0,+ 35:21:38,7.0,Mercado Juan Miguel,4.0,iBanesto.com,5:19 5:19,,8,2003,▲3
+23.0,117.0,33.0,+ 35:21:41,3.0,Rogers Michael,5.0,Quickstep - Davitamon,5:22 5:22,,8,2003,▼2
+25.0,38.0,38.0,+ 35:24:48,2.0,Petrov Evgeni,6.0,iBanesto.com,8:29 8:29,,8,2003,▼4
+23.0,187.0,50.0,+ 35:36:38,8.0,Pineau Jérôme,7.0,Brioches La Boulangère,20:19 20:19,,8,2003,▲1
+24.0,95.0,63.0,+ 35:47:57,14.0,Fritsch Nicolas,8.0,Fdjeux.com,31:38 31:38,,8,2003,▲6
+22.0,34.0,64.0,+ 35:48:09,10.0,Karpets Vladimir,9.0,iBanesto.com,31:50 31:50,,8,2003,▲1
+24.0,91.0,71.0,+ 35:50:21,9.0,Casar Sandy,10.0,Fdjeux.com,34:02 34:02,,8,2003,▼1
+24.0,25.0,72.0,+ 35:50:44,11.0,Kessler Matthias,11.0,Team Telekom,34:25 34:25,,8,2003,-
+24.0,155.0,80.0,+ 35:53:57,16.0,Flickinger Andy,12.0,AG2R Prévoyance,37:38 37:38,,8,2003,▲4
+25.0,209.0,81.0,+ 35:55:29,12.0,Pellizotti Franco,13.0,Alessio,39:10 39:10,,8,2003,▼1
+25.0,52.0,83.0,+ 35:56:15,13.0,Bertagnolli Leonardo,14.0,Saeco,39:56 39:56,,8,2003,▼1
+24.0,217.0,86.0,+ 35:56:53,15.0,Krivtsov Yuriy,15.0,Jean Delatour,40:34 40:34,,8,2003,-
+24.0,123.0,112.0,+ 36:05:46,19.0,Fédrigo Pierrick,16.0,Crédit Agricole,49:27 49:27,,8,2003,▲3
+24.0,189.0,114.0,+ 36:06:32,21.0,Voeckler Thomas,17.0,Brioches La Boulangère,50:13 50:13,,8,2003,▲4
+24.0,158.0,116.0,+ 36:07:02,17.0,Portal Nicolas,18.0,AG2R Prévoyance,50:43 50:43,,8,2003,▼1
+23.0,184.0,121.0,+ 36:09:36,24.0,Geslin Anthony,19.0,Brioches La Boulangère,53:17 53:17,,8,2003,▲5
+25.0,125.0,129.0,+ 36:15:29,18.0,Hushovd Thor,20.0,Crédit Agricole,59:10 59:10,,8,2003,▼2
+24.0,93.0,137.0,+ 36:16:55,20.0,Cooke Baden,21.0,Fdjeux.com,1:00:36 1:00:36,,8,2003,▼1
+23.0,214.0,141.0,+ 36:17:55,22.0,Edaleine Christophe,22.0,Jean Delatour,1:01:36 1:01:36,,8,2003,-
+24.0,105.0,144.0,+ 36:18:17,23.0,Muñoz David,23.0,Kelme - Costa Blanca,1:01:58 1:01:58,,8,2003,-
+23.0,185.0,152.0,+ 36:20:39,25.0,Hary Maryan,24.0,Brioches La Boulangère,1:04:20 1:04:20,,8,2003,▲1
+22.0,213.0,158.0,+ 36:22:33,27.0,Dumoulin Samuel,25.0,Jean Delatour,1:06:14 1:06:14,,8,2003,▲2
+25.0,49.0,161.0,+ 36:24:25,26.0,Wielinga Remmert,26.0,Rabobank ProTeam,1:08:06 1:08:06,,8,2003,-
+25.0,132.0,162.0,+ 36:24:30,28.0,Becke Daniel,27.0,Team Bianchi,1:08:11 1:08:11,,8,2003,▲1
+25.0,92.0,180.0,+ 37:10:31,29.0,Casper Jimmy,28.0,Fdjeux.com,1:54:12 1:54:12,,8,2003,▲1
+25.0,36.0,11.0,+ 40:19:11,1.0,Menchov Denis,1.0,iBanesto.com,40:19:11 40:19:11,,9,2003,-
+24.0,183.0,25.0,+ 40:25:10,3.0,Chavanel Sylvain,2.0,Brioches La Boulangère,5:59 5:59,,9,2003,▲1
+25.0,38.0,31.0,+ 40:28:52,6.0,Petrov Evgeni,3.0,iBanesto.com,9:41 9:41,,9,2003,▲3
+25.0,37.0,35.0,+ 40:30:57,4.0,Mercado Juan Miguel,4.0,iBanesto.com,11:46 11:46,,9,2003,-
+23.0,152.0,36.0,+ 40:31:40,2.0,Astarloza Mikel,5.0,AG2R Prévoyance,12:29 12:29,,9,2003,▼3
+23.0,117.0,42.0,+ 40:39:19,5.0,Rogers Michael,6.0,Quickstep - Davitamon,20:08 20:08,,9,2003,▼1
+23.0,187.0,54.0,+ 40:58:06,7.0,Pineau Jérôme,7.0,Brioches La Boulangère,38:55 38:55,,9,2003,-
+24.0,25.0,57.0,+ 41:00:13,11.0,Kessler Matthias,8.0,Team Telekom,41:02 41:02,,9,2003,▲3
+22.0,34.0,59.0,+ 41:01:42,9.0,Karpets Vladimir,9.0,iBanesto.com,42:31 42:31,,9,2003,-
+25.0,209.0,63.0,+ 41:03:14,13.0,Pellizotti Franco,10.0,Alessio,44:03 44:03,,9,2003,▲3
+24.0,95.0,73.0,+ 41:09:15,8.0,Fritsch Nicolas,11.0,Fdjeux.com,50:04 50:04,,9,2003,▼3
+25.0,52.0,74.0,+ 41:09:48,14.0,Bertagnolli Leonardo,12.0,Saeco,50:37 50:37,,9,2003,▲2
+24.0,155.0,81.0,+ 41:11:35,12.0,Flickinger Andy,13.0,AG2R Prévoyance,52:24 52:24,,9,2003,▼1
+24.0,217.0,89.0,+ 41:18:11,15.0,Krivtsov Yuriy,14.0,Jean Delatour,59:00 59:00,,9,2003,▲1
+24.0,158.0,105.0,+ 41:28:20,18.0,Portal Nicolas,15.0,AG2R Prévoyance,1:09:09 1:09:09,,9,2003,▲3
+24.0,91.0,114.0,+ 41:35:04,10.0,Casar Sandy,16.0,Fdjeux.com,1:15:53 1:15:53,,9,2003,▼6
+25.0,125.0,117.0,+ 41:36:47,20.0,Hushovd Thor,17.0,Crédit Agricole,1:17:36 1:17:36,,9,2003,▲3
+23.0,185.0,122.0,+ 41:38:17,24.0,Hary Maryan,18.0,Brioches La Boulangère,1:19:06 1:19:06,,9,2003,▲6
+23.0,214.0,124.0,+ 41:39:13,22.0,Edaleine Christophe,19.0,Jean Delatour,1:20:02 1:20:02,,9,2003,▲3
+24.0,189.0,126.0,+ 41:41:15,17.0,Voeckler Thomas,20.0,Brioches La Boulangère,1:22:04 1:22:04,,9,2003,▼3
+23.0,184.0,131.0,+ 41:44:19,19.0,Geslin Anthony,21.0,Brioches La Boulangère,1:25:08 1:25:08,,9,2003,▼2
+24.0,123.0,133.0,+ 41:46:29,16.0,Fédrigo Pierrick,22.0,Crédit Agricole,1:27:18 1:27:18,,9,2003,▼6
+24.0,93.0,139.0,+ 41:51:38,21.0,Cooke Baden,23.0,Fdjeux.com,1:32:27 1:32:27,,9,2003,▼2
+24.0,105.0,148.0,+ 41:53:00,23.0,Muñoz David,24.0,Kelme - Costa Blanca,1:33:49 1:33:49,,9,2003,▼1
+22.0,213.0,160.0,+ 41:57:16,25.0,Dumoulin Samuel,25.0,Jean Delatour,1:38:05 1:38:05,,9,2003,-
+25.0,49.0,161.0,+ 41:59:08,26.0,Wielinga Remmert,26.0,Rabobank ProTeam,1:39:57 1:39:57,,9,2003,-
+25.0,132.0,162.0,+ 41:59:13,27.0,Becke Daniel,27.0,Team Bianchi,1:40:02 1:40:02,,9,2003,-
+25.0,36.0,11.0,+ 45:50:07,1.0,Menchov Denis,1.0,iBanesto.com,45:50:07 45:50:07,,10,2003,-
+24.0,183.0,25.0,+ 45:56:06,2.0,Chavanel Sylvain,2.0,Brioches La Boulangère,5:59 5:59,,10,2003,-
+25.0,38.0,31.0,+ 45:59:48,3.0,Petrov Evgeni,3.0,iBanesto.com,9:41 9:41,,10,2003,-
+25.0,37.0,35.0,+ 46:01:53,4.0,Mercado Juan Miguel,4.0,iBanesto.com,11:46 11:46,,10,2003,-
+23.0,152.0,36.0,+ 46:02:36,5.0,Astarloza Mikel,5.0,AG2R Prévoyance,12:29 12:29,,10,2003,-
+23.0,117.0,42.0,+ 46:10:15,6.0,Rogers Michael,6.0,Quickstep - Davitamon,20:08 20:08,,10,2003,-
+23.0,187.0,55.0,+ 46:29:02,7.0,Pineau Jérôme,7.0,Brioches La Boulangère,38:55 38:55,,10,2003,-
+24.0,25.0,58.0,+ 46:31:09,8.0,Kessler Matthias,8.0,Team Telekom,41:02 41:02,,10,2003,-
+22.0,34.0,60.0,+ 46:32:38,9.0,Karpets Vladimir,9.0,iBanesto.com,42:31 42:31,,10,2003,-
+25.0,209.0,64.0,+ 46:34:40,10.0,Pellizotti Franco,10.0,Alessio,44:32 44:32,,10,2003,-
+24.0,95.0,71.0,+ 46:40:11,11.0,Fritsch Nicolas,11.0,Fdjeux.com,50:04 50:04,,10,2003,-
+25.0,52.0,72.0,+ 46:40:44,12.0,Bertagnolli Leonardo,12.0,Saeco,50:37 50:37,,10,2003,-
+24.0,155.0,78.0,+ 46:42:31,13.0,Flickinger Andy,13.0,AG2R Prévoyance,52:24 52:24,,10,2003,-
+24.0,217.0,89.0,+ 46:49:07,14.0,Krivtsov Yuriy,14.0,Jean Delatour,59:00 59:00,,10,2003,-
+24.0,158.0,106.0,+ 46:59:16,15.0,Portal Nicolas,15.0,AG2R Prévoyance,1:09:09 1:09:09,,10,2003,-
+24.0,91.0,117.0,+ 47:06:00,16.0,Casar Sandy,16.0,Fdjeux.com,1:15:53 1:15:53,,10,2003,-
+25.0,125.0,120.0,+ 47:07:43,17.0,Hushovd Thor,17.0,Crédit Agricole,1:17:36 1:17:36,,10,2003,-
+23.0,185.0,126.0,+ 47:09:13,18.0,Hary Maryan,18.0,Brioches La Boulangère,1:19:06 1:19:06,,10,2003,-
+23.0,214.0,128.0,+ 47:10:09,19.0,Edaleine Christophe,19.0,Jean Delatour,1:20:02 1:20:02,,10,2003,-
+24.0,189.0,130.0,+ 47:12:11,20.0,Voeckler Thomas,20.0,Brioches La Boulangère,1:22:04 1:22:04,,10,2003,-
+23.0,184.0,136.0,+ 47:15:15,21.0,Geslin Anthony,21.0,Brioches La Boulangère,1:25:08 1:25:08,,10,2003,-
+24.0,123.0,138.0,+ 47:17:25,22.0,Fédrigo Pierrick,22.0,Crédit Agricole,1:27:18 1:27:18,,10,2003,-
+24.0,93.0,142.0,+ 47:22:30,23.0,Cooke Baden,23.0,Fdjeux.com,1:32:23 1:32:23,,10,2003,-
+24.0,105.0,149.0,+ 47:23:56,24.0,Muñoz David,24.0,Kelme - Costa Blanca,1:33:49 1:33:49,,10,2003,-
+22.0,213.0,160.0,+ 47:28:12,25.0,Dumoulin Samuel,25.0,Jean Delatour,1:38:05 1:38:05,,10,2003,-
+25.0,132.0,161.0,+ 47:30:09,27.0,Becke Daniel,26.0,Team Bianchi,1:40:02 1:40:02,,10,2003,▲1
+25.0,49.0,162.0,+ 47:30:33,26.0,Wielinga Remmert,27.0,Rabobank ProTeam,1:40:26 1:40:26,,10,2003,▼1
+25.0,36.0,11.0,+ 49:20:22,1.0,Menchov Denis,1.0,iBanesto.com,49:20:22 49:20:22,,11,2003,-
+24.0,183.0,25.0,+ 49:26:21,2.0,Chavanel Sylvain,2.0,Brioches La Boulangère,5:59 5:59,,11,2003,-
+25.0,38.0,31.0,+ 49:30:03,3.0,Petrov Evgeni,3.0,iBanesto.com,9:41 9:41,,11,2003,-
+25.0,37.0,35.0,+ 49:32:08,4.0,Mercado Juan Miguel,4.0,iBanesto.com,11:46 11:46,,11,2003,-
+23.0,152.0,36.0,+ 49:32:51,5.0,Astarloza Mikel,5.0,AG2R Prévoyance,12:29 12:29,,11,2003,-
+23.0,117.0,42.0,+ 49:40:11,6.0,Rogers Michael,6.0,Quickstep - Davitamon,19:49 19:49,,11,2003,-
+24.0,25.0,57.0,+ 50:01:24,8.0,Kessler Matthias,7.0,Team Telekom,41:02 41:02,,11,2003,▲1
+22.0,34.0,59.0,+ 50:02:53,9.0,Karpets Vladimir,8.0,iBanesto.com,42:31 42:31,,11,2003,▲1
+23.0,187.0,62.0,+ 50:03:55,7.0,Pineau Jérôme,9.0,Brioches La Boulangère,43:33 43:33,,11,2003,▼2
+25.0,209.0,64.0,+ 50:04:55,10.0,Pellizotti Franco,10.0,Alessio,44:33 44:33,,11,2003,-
+25.0,52.0,71.0,+ 50:10:59,12.0,Bertagnolli Leonardo,11.0,Saeco,50:37 50:37,,11,2003,▲1
+24.0,95.0,75.0,+ 50:11:45,11.0,Fritsch Nicolas,12.0,Fdjeux.com,51:23 51:23,,11,2003,▼1
+24.0,155.0,77.0,+ 50:12:46,13.0,Flickinger Andy,13.0,AG2R Prévoyance,52:24 52:24,,11,2003,-
+24.0,217.0,91.0,+ 50:20:41,14.0,Krivtsov Yuriy,14.0,Jean Delatour,1:00:19 1:00:19,,11,2003,-
+24.0,158.0,104.0,+ 50:29:12,15.0,Portal Nicolas,15.0,AG2R Prévoyance,1:08:50 1:08:50,,11,2003,-
+25.0,125.0,118.0,+ 50:37:58,17.0,Hushovd Thor,16.0,Crédit Agricole,1:17:36 1:17:36,,11,2003,▲1
+24.0,91.0,121.0,+ 50:39:17,16.0,Casar Sandy,17.0,Fdjeux.com,1:18:55 1:18:55,,11,2003,▼1
+23.0,214.0,123.0,+ 50:40:24,19.0,Edaleine Christophe,18.0,Jean Delatour,1:20:02 1:20:02,,11,2003,▲1
+23.0,185.0,127.0,+ 50:42:45,18.0,Hary Maryan,19.0,Brioches La Boulangère,1:22:23 1:22:23,,11,2003,▼1
+24.0,189.0,132.0,+ 50:45:43,20.0,Voeckler Thomas,20.0,Brioches La Boulangère,1:25:21 1:25:21,,11,2003,-
+23.0,184.0,133.0,+ 50:46:49,21.0,Geslin Anthony,21.0,Brioches La Boulangère,1:26:27 1:26:27,,11,2003,-
+24.0,123.0,135.0,+ 50:47:40,22.0,Fédrigo Pierrick,22.0,Crédit Agricole,1:27:18 1:27:18,,11,2003,-
+24.0,93.0,139.0,+ 50:52:45,23.0,Cooke Baden,23.0,Fdjeux.com,1:32:23 1:32:23,,11,2003,-
+24.0,105.0,145.0,+ 50:54:11,24.0,Muñoz David,24.0,Kelme - Costa Blanca,1:33:49 1:33:49,,11,2003,-
+22.0,213.0,156.0,+ 50:58:27,25.0,Dumoulin Samuel,25.0,Jean Delatour,1:38:05 1:38:05,,11,2003,-
+25.0,132.0,157.0,+ 51:00:24,26.0,Becke Daniel,26.0,Team Bianchi,1:40:02 1:40:02,,11,2003,-
+25.0,49.0,158.0,+ 51:02:07,27.0,Wielinga Remmert,27.0,Rabobank ProTeam,1:41:45 1:41:45,,11,2003,-
+25.0,36.0,10.0,+ 50:24:09,1.0,Menchov Denis,1.0,iBanesto.com,50:24:09 50:24:09,,12,2003,-
+24.0,183.0,30.0,+ 50:34:28,2.0,Chavanel Sylvain,2.0,Brioches La Boulangère,10:19 10:19,,12,2003,-
+25.0,38.0,32.0,+ 50:35:26,3.0,Petrov Evgeni,3.0,iBanesto.com,11:17 11:17,,12,2003,-
+25.0,37.0,35.0,+ 50:39:36,4.0,Mercado Juan Miguel,4.0,iBanesto.com,15:27 15:27,,12,2003,-
+23.0,152.0,37.0,+ 50:41:30,5.0,Astarloza Mikel,5.0,AG2R Prévoyance,17:21 17:21,,12,2003,-
+23.0,117.0,39.0,+ 50:44:49,6.0,Rogers Michael,6.0,Quickstep - Davitamon,20:40 20:40,,12,2003,-
+22.0,34.0,57.0,+ 51:08:23,8.0,Karpets Vladimir,7.0,iBanesto.com,44:14 44:14,,12,2003,▲1
+24.0,25.0,59.0,+ 51:10:19,7.0,Kessler Matthias,8.0,Team Telekom,46:10 46:10,,12,2003,▼1
+23.0,187.0,64.0,+ 51:12:28,9.0,Pineau Jérôme,9.0,Brioches La Boulangère,48:19 48:19,,12,2003,-
+25.0,209.0,66.0,+ 51:14:30,10.0,Pellizotti Franco,10.0,Alessio,50:21 50:21,,12,2003,-
+24.0,95.0,69.0,+ 51:17:30,12.0,Fritsch Nicolas,11.0,Fdjeux.com,53:21 53:21,,12,2003,▲1
+25.0,52.0,72.0,+ 51:19:00,11.0,Bertagnolli Leonardo,12.0,Saeco,54:51 54:51,,12,2003,▼1
+24.0,155.0,76.0,+ 51:20:01,13.0,Flickinger Andy,13.0,AG2R Prévoyance,55:52 55:52,,12,2003,-
+24.0,217.0,86.0,+ 51:25:52,14.0,Krivtsov Yuriy,14.0,Jean Delatour,1:01:43 1:01:43,,12,2003,-
+24.0,158.0,104.0,+ 51:36:20,15.0,Portal Nicolas,15.0,AG2R Prévoyance,1:12:11 1:12:11,,12,2003,-
+25.0,125.0,114.0,+ 51:43:16,16.0,Hushovd Thor,16.0,Crédit Agricole,1:19:07 1:19:07,,12,2003,-
+23.0,214.0,123.0,+ 51:48:05,18.0,Edaleine Christophe,17.0,Jean Delatour,1:23:56 1:23:56,,12,2003,▲1
+24.0,91.0,124.0,+ 51:48:56,17.0,Casar Sandy,18.0,Fdjeux.com,1:24:47 1:24:47,,12,2003,▼1
+23.0,185.0,125.0,+ 51:49:51,19.0,Hary Maryan,19.0,Brioches La Boulangère,1:25:42 1:25:42,,12,2003,-
+24.0,189.0,130.0,+ 51:54:06,20.0,Voeckler Thomas,20.0,Brioches La Boulangère,1:29:57 1:29:57,,12,2003,-
+24.0,123.0,133.0,+ 51:55:41,22.0,Fédrigo Pierrick,21.0,Crédit Agricole,1:31:32 1:31:32,,12,2003,▲1
+23.0,184.0,135.0,+ 51:56:56,21.0,Geslin Anthony,22.0,Brioches La Boulangère,1:32:47 1:32:47,,12,2003,▼1
+24.0,93.0,143.0,+ 52:02:21,23.0,Cooke Baden,23.0,Fdjeux.com,1:38:12 1:38:12,,12,2003,-
+24.0,105.0,152.0,+ 52:04:50,24.0,Muñoz David,24.0,Kelme - Costa Blanca,1:40:41 1:40:41,,12,2003,-
+22.0,213.0,156.0,+ 52:08:09,25.0,Dumoulin Samuel,25.0,Jean Delatour,1:44:00 1:44:00,,12,2003,-
+25.0,49.0,157.0,+ 52:09:29,27.0,Wielinga Remmert,26.0,Rabobank ProTeam,1:45:20 1:45:20,,12,2003,▲1
+25.0,132.0,158.0,+ 52:10:24,26.0,Becke Daniel,27.0,Team Bianchi,1:46:15 1:46:15,,12,2003,▼1
+25.0,36.0,12.0,+ 55:44:31,1.0,Menchov Denis,1.0,iBanesto.com,55:44:31 55:44:31,,13,2003,-
+25.0,37.0,25.0,+ 55:57:08,4.0,Mercado Juan Miguel,2.0,iBanesto.com,12:37 12:37,,13,2003,▲2
+25.0,38.0,32.0,+ 56:10:26,3.0,Petrov Evgeni,3.0,iBanesto.com,25:55 25:55,,13,2003,-
+23.0,152.0,34.0,+ 56:13:06,5.0,Astarloza Mikel,4.0,AG2R Prévoyance,28:35 28:35,,13,2003,▲1
+24.0,183.0,39.0,+ 56:23:50,2.0,Chavanel Sylvain,5.0,Brioches La Boulangère,39:19 39:19,,13,2003,▼3
+23.0,117.0,47.0,+ 56:34:31,6.0,Rogers Michael,6.0,Quickstep - Davitamon,50:00 50:00,,13,2003,-
+24.0,25.0,52.0,+ 56:43:04,8.0,Kessler Matthias,7.0,Team Telekom,58:33 58:33,,13,2003,▲1
+23.0,187.0,57.0,+ 56:47:28,9.0,Pineau Jérôme,8.0,Brioches La Boulangère,1:02:57 1:02:57,,13,2003,▲1
+24.0,155.0,62.0,+ 56:51:37,13.0,Flickinger Andy,9.0,AG2R Prévoyance,1:07:06 1:07:06,,13,2003,▲4
+22.0,34.0,68.0,+ 56:57:31,7.0,Karpets Vladimir,10.0,iBanesto.com,1:13:00 1:13:00,,13,2003,▼3
+24.0,95.0,70.0,+ 56:59:07,11.0,Fritsch Nicolas,11.0,Fdjeux.com,1:14:36 1:14:36,,13,2003,-
+24.0,217.0,75.0,+ 57:00:52,14.0,Krivtsov Yuriy,12.0,Jean Delatour,1:16:21 1:16:21,,13,2003,▲2
+25.0,52.0,83.0,+ 57:08:22,12.0,Bertagnolli Leonardo,13.0,Saeco,1:23:51 1:23:51,,13,2003,▼1
+24.0,158.0,102.0,+ 57:17:57,15.0,Portal Nicolas,14.0,AG2R Prévoyance,1:33:26 1:33:26,,13,2003,▲1
+25.0,125.0,104.0,+ 57:20:33,16.0,Hushovd Thor,15.0,Crédit Agricole,1:36:02 1:36:02,,13,2003,▲1
+25.0,209.0,107.0,+ 57:21:28,10.0,Pellizotti Franco,16.0,Alessio,1:36:57 1:36:57,,13,2003,▼6
+23.0,214.0,122.0,+ 57:37:27,17.0,Edaleine Christophe,17.0,Jean Delatour,1:52:56 1:52:56,,13,2003,-
+23.0,185.0,124.0,+ 57:39:13,19.0,Hary Maryan,18.0,Brioches La Boulangère,1:54:42 1:54:42,,13,2003,▲1
+24.0,91.0,128.0,+ 57:43:04,18.0,Casar Sandy,19.0,Fdjeux.com,1:58:33 1:58:33,,13,2003,▼1
+24.0,189.0,129.0,+ 57:43:28,20.0,Voeckler Thomas,20.0,Brioches La Boulangère,1:58:57 1:58:57,,13,2003,-
+25.0,49.0,130.0,+ 57:43:35,26.0,Wielinga Remmert,21.0,Rabobank ProTeam,1:59:04 1:59:04,,13,2003,▲5
+23.0,184.0,134.0,+ 57:46:18,22.0,Geslin Anthony,22.0,Brioches La Boulangère,2:01:47 2:01:47,,13,2003,-
+24.0,93.0,145.0,+ 57:53:02,23.0,Cooke Baden,23.0,Fdjeux.com,2:08:31 2:08:31,,13,2003,-
+24.0,105.0,148.0,+ 57:54:12,24.0,Muñoz David,24.0,Kelme - Costa Blanca,2:09:41 2:09:41,,13,2003,-
+22.0,213.0,152.0,+ 57:57:31,25.0,Dumoulin Samuel,25.0,Jean Delatour,2:13:00 2:13:00,,13,2003,-
+24.0,123.0,153.0,+ 57:59:04,21.0,Fédrigo Pierrick,26.0,Crédit Agricole,2:14:33 2:14:33,,13,2003,▼5
+25.0,132.0,154.0,+ 57:59:46,27.0,Becke Daniel,27.0,Team Bianchi,2:15:15 2:15:15,,13,2003,-
+25.0,36.0,13.0,+ 61:20:54,1.0,Menchov Denis,1.0,iBanesto.com,61:20:54 61:20:54,,14,2003,-
+23.0,152.0,29.0,+ 61:56:26,4.0,Astarloza Mikel,2.0,AG2R Prévoyance,35:32 35:32,,14,2003,▲2
+25.0,37.0,33.0,+ 61:58:57,2.0,Mercado Juan Miguel,3.0,iBanesto.com,38:03 38:03,,14,2003,▼1
+25.0,38.0,37.0,+ 62:05:38,3.0,Petrov Evgeni,4.0,iBanesto.com,44:44 44:44,,14,2003,▼1
+23.0,117.0,46.0,+ 62:26:03,6.0,Rogers Michael,5.0,Quickstep - Davitamon,1:05:09 1:05:09,,14,2003,▲1
+24.0,183.0,48.0,+ 62:28:38,5.0,Chavanel Sylvain,6.0,Brioches La Boulangère,1:07:44 1:07:44,,14,2003,▼1
+24.0,25.0,52.0,+ 62:31:21,7.0,Kessler Matthias,7.0,Team Telekom,1:10:27 1:10:27,,14,2003,-
+23.0,187.0,60.0,+ 62:39:00,8.0,Pineau Jérôme,8.0,Brioches La Boulangère,1:18:06 1:18:06,,14,2003,-
+24.0,155.0,61.0,+ 62:39:54,9.0,Flickinger Andy,9.0,AG2R Prévoyance,1:19:00 1:19:00,,14,2003,-
+24.0,95.0,65.0,+ 62:47:24,11.0,Fritsch Nicolas,10.0,Fdjeux.com,1:26:30 1:26:30,,14,2003,▲1
+25.0,36.0,12.0,+ 65:53:32,1.0,Menchov Denis,1.0,iBanesto.com,65:53:32 65:53:32,,15,2003,-
+23.0,152.0,28.0,+ 66:36:05,2.0,Astarloza Mikel,2.0,AG2R Prévoyance,42:33 42:33,,15,2003,-
+25.0,37.0,29.0,+ 66:37:12,3.0,Mercado Juan Miguel,3.0,iBanesto.com,43:40 43:40,,15,2003,-
+24.0,183.0,39.0,+ 67:00:39,6.0,Chavanel Sylvain,4.0,Brioches La Boulangère,1:07:07 1:07:07,,15,2003,▲2
+25.0,38.0,43.0,+ 67:09:48,4.0,Petrov Evgeni,5.0,iBanesto.com,1:16:16 1:16:16,,15,2003,▼1
+23.0,117.0,45.0,+ 67:11:55,5.0,Rogers Michael,6.0,Quickstep - Davitamon,1:18:23 1:18:23,,15,2003,▼1
+24.0,25.0,48.0,+ 67:17:13,7.0,Kessler Matthias,7.0,Team Telekom,1:23:41 1:23:41,,15,2003,-
+24.0,155.0,55.0,+ 67:25:46,9.0,Flickinger Andy,8.0,AG2R Prévoyance,1:32:14 1:32:14,,15,2003,▲1
+23.0,187.0,56.0,+ 67:28:15,8.0,Pineau Jérôme,9.0,Brioches La Boulangère,1:34:43 1:34:43,,15,2003,▼1
+24.0,95.0,57.0,+ 67:28:43,10.0,Fritsch Nicolas,10.0,Fdjeux.com,1:35:11 1:35:11,,15,2003,-
+25.0,209.0,81.0,+ 67:53:40,,Pellizotti Franco,11.0,Alessio,2:00:08 2:00:08,,15,2003,-
+22.0,34.0,85.0,+ 68:00:21,,Karpets Vladimir,12.0,iBanesto.com,2:06:49 2:06:49,,15,2003,-
+24.0,158.0,91.0,+ 68:08:37,,Portal Nicolas,13.0,AG2R Prévoyance,2:15:05 2:15:05,,15,2003,-
+24.0,217.0,93.0,+ 68:10:26,,Krivtsov Yuriy,14.0,Jean Delatour,2:16:54 2:16:54,,15,2003,-
+25.0,125.0,107.0,+ 68:29:29,,Hushovd Thor,15.0,Crédit Agricole,2:35:57 2:35:57,,15,2003,-
+23.0,184.0,111.0,+ 68:35:52,,Geslin Anthony,16.0,Brioches La Boulangère,2:42:20 2:42:20,,15,2003,-
+23.0,185.0,117.0,+ 68:42:03,,Hary Maryan,17.0,Brioches La Boulangère,2:48:31 2:48:31,,15,2003,-
+23.0,214.0,124.0,+ 68:46:25,,Edaleine Christophe,18.0,Jean Delatour,2:52:53 2:52:53,,15,2003,-
+24.0,91.0,128.0,+ 68:52:02,,Casar Sandy,19.0,Fdjeux.com,2:58:30 2:58:30,,15,2003,-
+24.0,189.0,129.0,+ 68:52:26,,Voeckler Thomas,20.0,Brioches La Boulangère,2:58:54 2:58:54,,15,2003,-
+25.0,49.0,130.0,+ 68:52:33,,Wielinga Remmert,21.0,Rabobank ProTeam,2:59:01 2:59:01,,15,2003,-
+24.0,93.0,140.0,+ 69:02:00,,Cooke Baden,22.0,Fdjeux.com,3:08:28 3:08:28,,15,2003,-
+24.0,105.0,143.0,+ 69:03:10,,Muñoz David,23.0,Kelme - Costa Blanca,3:09:38 3:09:38,,15,2003,-
+22.0,213.0,145.0,+ 69:06:29,,Dumoulin Samuel,24.0,Jean Delatour,3:12:57 3:12:57,,15,2003,-
+25.0,132.0,146.0,+ 69:09:20,,Becke Daniel,25.0,Team Bianchi,3:15:48 3:15:48,,15,2003,-
+25.0,36.0,12.0,+ 70:55:08,1.0,Menchov Denis,1.0,iBanesto.com,70:55:08 70:55:08,,16,2003,-
+23.0,152.0,28.0,+ 71:37:41,2.0,Astarloza Mikel,2.0,AG2R Prévoyance,42:33 42:33,,16,2003,-
+25.0,37.0,37.0,+ 71:55:46,3.0,Mercado Juan Miguel,3.0,iBanesto.com,1:00:38 1:00:38,,16,2003,-
+24.0,183.0,39.0,+ 72:02:15,4.0,Chavanel Sylvain,4.0,Brioches La Boulangère,1:07:07 1:07:07,,16,2003,-
+23.0,117.0,43.0,+ 72:14:14,6.0,Rogers Michael,5.0,Quickstep - Davitamon,1:19:06 1:19:06,,16,2003,▲1
+24.0,25.0,46.0,+ 72:19:31,7.0,Kessler Matthias,6.0,Team Telekom,1:24:23 1:24:23,,16,2003,▲1
+24.0,155.0,51.0,+ 72:27:22,8.0,Flickinger Andy,7.0,AG2R Prévoyance,1:32:14 1:32:14,,16,2003,▲1
+25.0,38.0,52.0,+ 72:28:22,5.0,Petrov Evgeni,8.0,iBanesto.com,1:33:14 1:33:14,,16,2003,▼3
+23.0,187.0,67.0,+ 72:46:49,9.0,Pineau Jérôme,9.0,Brioches La Boulangère,1:51:41 1:51:41,,16,2003,-
+25.0,209.0,75.0,+ 72:55:16,11.0,Pellizotti Franco,10.0,Alessio,2:00:08 2:00:08,,16,2003,▲1
+24.0,95.0,79.0,+ 73:00:44,10.0,Fritsch Nicolas,11.0,Fdjeux.com,2:05:36 2:05:36,,16,2003,▼1
+24.0,158.0,84.0,+ 73:10:13,13.0,Portal Nicolas,12.0,AG2R Prévoyance,2:15:05 2:15:05,,16,2003,▲1
+24.0,217.0,86.0,+ 73:11:54,14.0,Krivtsov Yuriy,13.0,Jean Delatour,2:16:46 2:16:46,,16,2003,▲1
+22.0,34.0,100.0,+ 73:32:22,12.0,Karpets Vladimir,14.0,iBanesto.com,2:37:14 2:37:14,,16,2003,▼2
+24.0,91.0,111.0,+ 73:53:38,19.0,Casar Sandy,15.0,Fdjeux.com,2:58:30 2:58:30,,16,2003,▲4
+23.0,184.0,112.0,+ 73:54:26,16.0,Geslin Anthony,16.0,Brioches La Boulangère,2:59:18 2:59:18,,16,2003,-
+25.0,125.0,119.0,+ 74:01:30,15.0,Hushovd Thor,17.0,Crédit Agricole,3:06:22 3:06:22,,16,2003,▼2
+23.0,185.0,128.0,+ 74:14:04,17.0,Hary Maryan,18.0,Brioches La Boulangère,3:18:56 3:18:56,,16,2003,▼1
+23.0,214.0,132.0,+ 74:18:26,18.0,Edaleine Christophe,19.0,Jean Delatour,3:23:18 3:23:18,,16,2003,▼1
+24.0,189.0,133.0,+ 74:24:27,20.0,Voeckler Thomas,20.0,Brioches La Boulangère,3:29:19 3:29:19,,16,2003,-
+24.0,93.0,141.0,+ 74:34:01,22.0,Cooke Baden,21.0,Fdjeux.com,3:38:53 3:38:53,,16,2003,▲1
+22.0,213.0,143.0,+ 74:34:48,24.0,Dumoulin Samuel,22.0,Jean Delatour,3:39:40 3:39:40,,16,2003,▲2
+24.0,105.0,145.0,+ 74:35:11,23.0,Muñoz David,23.0,Kelme - Costa Blanca,3:40:03 3:40:03,,16,2003,-
+25.0,132.0,148.0,+ 74:54:49,25.0,Becke Daniel,24.0,Team Bianchi,3:59:41 3:59:41,,16,2003,▲1
+25.0,36.0,12.0,+ 74:57:37,1.0,Menchov Denis,1.0,iBanesto.com,74:57:37 74:57:37,,17,2003,-
+23.0,152.0,28.0,+ 75:40:10,2.0,Astarloza Mikel,2.0,AG2R Prévoyance,42:33 42:33,,17,2003,-
+25.0,37.0,37.0,+ 75:58:15,3.0,Mercado Juan Miguel,3.0,iBanesto.com,1:00:38 1:00:38,,17,2003,-
+24.0,183.0,39.0,+ 76:04:44,4.0,Chavanel Sylvain,4.0,Brioches La Boulangère,1:07:07 1:07:07,,17,2003,-
+23.0,117.0,43.0,+ 76:16:43,5.0,Rogers Michael,5.0,Quickstep - Davitamon,1:19:06 1:19:06,,17,2003,-
+24.0,25.0,47.0,+ 76:22:00,6.0,Kessler Matthias,6.0,Team Telekom,1:24:23 1:24:23,,17,2003,-
+24.0,155.0,51.0,+ 76:29:51,7.0,Flickinger Andy,7.0,AG2R Prévoyance,1:32:14 1:32:14,,17,2003,-
+25.0,38.0,52.0,+ 76:30:51,8.0,Petrov Evgeni,8.0,iBanesto.com,1:33:14 1:33:14,,17,2003,-
+23.0,187.0,67.0,+ 76:49:18,9.0,Pineau Jérôme,9.0,Brioches La Boulangère,1:51:41 1:51:41,,17,2003,-
+25.0,209.0,75.0,+ 76:57:45,10.0,Pellizotti Franco,10.0,Alessio,2:00:08 2:00:08,,17,2003,-
+24.0,95.0,79.0,+ 77:03:13,11.0,Fritsch Nicolas,11.0,Fdjeux.com,2:05:36 2:05:36,,17,2003,-
+24.0,158.0,85.0,+ 77:12:42,12.0,Portal Nicolas,12.0,AG2R Prévoyance,2:15:05 2:15:05,,17,2003,-
+24.0,217.0,87.0,+ 77:14:23,13.0,Krivtsov Yuriy,13.0,Jean Delatour,2:16:46 2:16:46,,17,2003,-
+22.0,34.0,100.0,+ 77:34:51,14.0,Karpets Vladimir,14.0,iBanesto.com,2:37:14 2:37:14,,17,2003,-
+24.0,91.0,112.0,+ 77:56:07,15.0,Casar Sandy,15.0,Fdjeux.com,2:58:30 2:58:30,,17,2003,-
+23.0,184.0,113.0,+ 77:56:55,16.0,Geslin Anthony,16.0,Brioches La Boulangère,2:59:18 2:59:18,,17,2003,-
+25.0,125.0,119.0,+ 78:03:59,17.0,Hushovd Thor,17.0,Crédit Agricole,3:06:22 3:06:22,,17,2003,-
+23.0,185.0,130.0,+ 78:16:33,18.0,Hary Maryan,18.0,Brioches La Boulangère,3:18:56 3:18:56,,17,2003,-
+23.0,214.0,132.0,+ 78:20:55,19.0,Edaleine Christophe,19.0,Jean Delatour,3:23:18 3:23:18,,17,2003,-
+24.0,189.0,134.0,+ 78:26:56,20.0,Voeckler Thomas,20.0,Brioches La Boulangère,3:29:19 3:29:19,,17,2003,-
+24.0,93.0,142.0,+ 78:36:30,21.0,Cooke Baden,21.0,Fdjeux.com,3:38:53 3:38:53,,17,2003,-
+22.0,213.0,143.0,+ 78:37:17,22.0,Dumoulin Samuel,22.0,Jean Delatour,3:39:40 3:39:40,,17,2003,-
+24.0,105.0,145.0,+ 78:37:40,23.0,Muñoz David,23.0,Kelme - Costa Blanca,3:40:03 3:40:03,,17,2003,-
+25.0,132.0,148.0,+ 78:57:18,24.0,Becke Daniel,24.0,Team Bianchi,3:59:41 3:59:41,,17,2003,-
+25.0,36.0,12.0,+ 79:25:00,1.0,Menchov Denis,1.0,iBanesto.com,79:25:00 79:25:00,,18,2003,-
+23.0,152.0,30.0,+ 80:07:33,2.0,Astarloza Mikel,2.0,AG2R Prévoyance,42:33 42:33,,18,2003,-
+25.0,37.0,37.0,+ 80:25:38,3.0,Mercado Juan Miguel,3.0,iBanesto.com,1:00:38 1:00:38,,18,2003,-
+24.0,183.0,39.0,+ 80:32:07,4.0,Chavanel Sylvain,4.0,Brioches La Boulangère,1:07:07 1:07:07,,18,2003,-
+24.0,155.0,40.0,+ 80:33:22,7.0,Flickinger Andy,5.0,AG2R Prévoyance,1:08:22 1:08:22,,18,2003,▲2
+23.0,117.0,44.0,+ 80:44:06,5.0,Rogers Michael,6.0,Quickstep - Davitamon,1:19:06 1:19:06,,18,2003,▼1
+24.0,25.0,48.0,+ 80:49:23,6.0,Kessler Matthias,7.0,Team Telekom,1:24:23 1:24:23,,18,2003,▼1
+25.0,38.0,54.0,+ 80:58:14,8.0,Petrov Evgeni,8.0,iBanesto.com,1:33:14 1:33:14,,18,2003,-
+23.0,187.0,72.0,+ 81:16:41,9.0,Pineau Jérôme,9.0,Brioches La Boulangère,1:51:41 1:51:41,,18,2003,-
+25.0,209.0,76.0,+ 81:25:08,10.0,Pellizotti Franco,10.0,Alessio,2:00:08 2:00:08,,18,2003,-
+24.0,95.0,79.0,+ 81:30:36,11.0,Fritsch Nicolas,11.0,Fdjeux.com,2:05:36 2:05:36,,18,2003,-
+24.0,158.0,85.0,+ 81:40:05,12.0,Portal Nicolas,12.0,AG2R Prévoyance,2:15:05 2:15:05,,18,2003,-
+24.0,217.0,87.0,+ 81:41:46,13.0,Krivtsov Yuriy,13.0,Jean Delatour,2:16:46 2:16:46,,18,2003,-
+22.0,34.0,100.0,+ 82:02:14,14.0,Karpets Vladimir,14.0,iBanesto.com,2:37:14 2:37:14,,18,2003,-
+24.0,91.0,113.0,+ 82:23:30,15.0,Casar Sandy,15.0,Fdjeux.com,2:58:30 2:58:30,,18,2003,-
+23.0,184.0,114.0,+ 82:24:18,16.0,Geslin Anthony,16.0,Brioches La Boulangère,2:59:18 2:59:18,,18,2003,-
+24.0,189.0,119.0,+ 82:30:31,20.0,Voeckler Thomas,17.0,Brioches La Boulangère,3:05:31 3:05:31,,18,2003,▲3
+25.0,125.0,121.0,+ 82:31:22,17.0,Hushovd Thor,18.0,Crédit Agricole,3:06:22 3:06:22,,18,2003,▼1
+23.0,185.0,132.0,+ 82:43:56,18.0,Hary Maryan,19.0,Brioches La Boulangère,3:18:56 3:18:56,,18,2003,▼1
+23.0,214.0,133.0,+ 82:48:18,19.0,Edaleine Christophe,20.0,Jean Delatour,3:23:18 3:23:18,,18,2003,▼1
+24.0,93.0,141.0,+ 83:03:53,21.0,Cooke Baden,21.0,Fdjeux.com,3:38:53 3:38:53,,18,2003,-
+22.0,213.0,142.0,+ 83:04:40,22.0,Dumoulin Samuel,22.0,Jean Delatour,3:39:40 3:39:40,,18,2003,-
+24.0,105.0,144.0,+ 83:05:03,23.0,Muñoz David,23.0,Kelme - Costa Blanca,3:40:03 3:40:03,,18,2003,-
+25.0,132.0,147.0,+ 83:24:41,24.0,Becke Daniel,24.0,Team Bianchi,3:59:41 3:59:41,,18,2003,-
+25.0,36.0,12.0,+ 80:21:52,1.0,Menchov Denis,1.0,iBanesto.com,80:21:52 80:21:52,,19,2003,-
+23.0,152.0,30.0,+ 81:04:36,2.0,Astarloza Mikel,2.0,AG2R Prévoyance,42:44 42:44,,19,2003,-
+25.0,37.0,37.0,+ 81:24:40,3.0,Mercado Juan Miguel,3.0,iBanesto.com,1:02:48 1:02:48,,19,2003,-
+24.0,183.0,38.0,+ 81:27:24,4.0,Chavanel Sylvain,4.0,Brioches La Boulangère,1:05:32 1:05:32,,19,2003,-
+24.0,155.0,40.0,+ 81:31:16,5.0,Flickinger Andy,5.0,AG2R Prévoyance,1:09:24 1:09:24,,19,2003,-
+23.0,117.0,43.0,+ 81:39:51,6.0,Rogers Michael,6.0,Quickstep - Davitamon,1:17:59 1:17:59,,19,2003,-
+24.0,25.0,49.0,+ 81:47:25,7.0,Kessler Matthias,7.0,Team Telekom,1:25:33 1:25:33,,19,2003,-
+25.0,38.0,54.0,+ 81:54:26,8.0,Petrov Evgeni,8.0,iBanesto.com,1:32:34 1:32:34,,19,2003,-
+23.0,187.0,72.0,+ 82:13:56,9.0,Pineau Jérôme,9.0,Brioches La Boulangère,1:52:04 1:52:04,,19,2003,-
+25.0,209.0,76.0,+ 82:23:00,10.0,Pellizotti Franco,10.0,Alessio,2:01:08 2:01:08,,19,2003,-
+24.0,95.0,79.0,+ 82:28:29,11.0,Fritsch Nicolas,11.0,Fdjeux.com,2:06:37 2:06:37,,19,2003,-
+24.0,158.0,83.0,+ 82:37:27,12.0,Portal Nicolas,12.0,AG2R Prévoyance,2:15:35 2:15:35,,19,2003,-
+24.0,217.0,86.0,+ 82:38:24,13.0,Krivtsov Yuriy,13.0,Jean Delatour,2:16:32 2:16:32,,19,2003,-
+22.0,34.0,101.0,+ 82:59:17,14.0,Karpets Vladimir,14.0,iBanesto.com,2:37:25 2:37:25,,19,2003,-
+24.0,91.0,112.0,+ 83:22:06,15.0,Casar Sandy,15.0,Fdjeux.com,3:00:14 3:00:14,,19,2003,-
+23.0,184.0,115.0,+ 83:23:24,16.0,Geslin Anthony,16.0,Brioches La Boulangère,3:01:32 3:01:32,,19,2003,-
+25.0,125.0,119.0,+ 83:27:56,18.0,Hushovd Thor,17.0,Crédit Agricole,3:06:04 3:06:04,,19,2003,▲1
+24.0,189.0,120.0,+ 83:30:26,17.0,Voeckler Thomas,18.0,Brioches La Boulangère,3:08:34 3:08:34,,19,2003,▼1
+23.0,185.0,132.0,+ 83:42:30,19.0,Hary Maryan,19.0,Brioches La Boulangère,3:20:38 3:20:38,,19,2003,-
+23.0,214.0,133.0,+ 83:47:26,20.0,Edaleine Christophe,20.0,Jean Delatour,3:25:34 3:25:34,,19,2003,-
+24.0,105.0,141.0,+ 84:06:03,23.0,Muñoz David,21.0,Kelme - Costa Blanca,3:44:11 3:44:11,,19,2003,▲2
+22.0,213.0,142.0,+ 84:06:34,22.0,Dumoulin Samuel,22.0,Jean Delatour,3:44:42 3:44:42,,19,2003,-
+24.0,93.0,143.0,+ 84:06:55,21.0,Cooke Baden,23.0,Fdjeux.com,3:45:03 3:45:03,,19,2003,▼2
+25.0,132.0,147.0,+ 84:28:31,24.0,Becke Daniel,24.0,Team Bianchi,4:06:39 4:06:39,,19,2003,-
+25.0,36.0,11.0,+ 84:00:56,1.0,Menchov Denis,1.0,iBanesto.com,84:00:56 84:00:56,,20,2003,-
+23.0,152.0,29.0,+ 84:43:25,2.0,Astarloza Mikel,2.0,AG2R Prévoyance,42:29 42:29,,20,2003,-
+25.0,37.0,36.0,+ 85:03:44,3.0,Mercado Juan Miguel,3.0,iBanesto.com,1:02:48 1:02:48,,20,2003,-
+24.0,183.0,37.0,+ 85:06:13,4.0,Chavanel Sylvain,4.0,Brioches La Boulangère,1:05:17 1:05:17,,20,2003,-
+24.0,155.0,39.0,+ 85:10:05,5.0,Flickinger Andy,5.0,AG2R Prévoyance,1:09:09 1:09:09,,20,2003,-
+23.0,117.0,42.0,+ 85:18:40,6.0,Rogers Michael,6.0,Quickstep - Davitamon,1:17:44 1:17:44,,20,2003,-
+24.0,25.0,49.0,+ 85:26:29,7.0,Kessler Matthias,7.0,Team Telekom,1:25:33 1:25:33,,20,2003,-
+25.0,38.0,53.0,+ 85:33:15,8.0,Petrov Evgeni,8.0,iBanesto.com,1:32:19 1:32:19,,20,2003,-
+23.0,187.0,71.0,+ 85:52:45,9.0,Pineau Jérôme,9.0,Brioches La Boulangère,1:51:49 1:51:49,,20,2003,-
+25.0,209.0,75.0,+ 86:02:04,10.0,Pellizotti Franco,10.0,Alessio,2:01:08 2:01:08,,20,2003,-
+24.0,95.0,78.0,+ 86:08:10,11.0,Fritsch Nicolas,11.0,Fdjeux.com,2:07:14 2:07:14,,20,2003,-
+24.0,158.0,82.0,+ 86:16:16,12.0,Portal Nicolas,12.0,AG2R Prévoyance,2:15:20 2:15:20,,20,2003,-
+24.0,217.0,85.0,+ 86:17:13,13.0,Krivtsov Yuriy,13.0,Jean Delatour,2:16:17 2:16:17,,20,2003,-
+22.0,34.0,100.0,+ 86:38:21,14.0,Karpets Vladimir,14.0,iBanesto.com,2:37:25 2:37:25,,20,2003,-
+24.0,91.0,111.0,+ 87:00:55,15.0,Casar Sandy,15.0,Fdjeux.com,2:59:59 2:59:59,,20,2003,-
+23.0,184.0,114.0,+ 87:02:13,16.0,Geslin Anthony,16.0,Brioches La Boulangère,3:01:17 3:01:17,,20,2003,-
+25.0,125.0,118.0,+ 87:06:45,17.0,Hushovd Thor,17.0,Crédit Agricole,3:05:49 3:05:49,,20,2003,-
+24.0,189.0,119.0,+ 87:09:30,18.0,Voeckler Thomas,18.0,Brioches La Boulangère,3:08:34 3:08:34,,20,2003,-
+23.0,185.0,130.0,+ 87:22:07,19.0,Hary Maryan,19.0,Brioches La Boulangère,3:21:11 3:21:11,,20,2003,-
+23.0,214.0,131.0,+ 87:26:30,20.0,Edaleine Christophe,20.0,Jean Delatour,3:25:34 3:25:34,,20,2003,-
+24.0,105.0,139.0,+ 87:44:52,21.0,Muñoz David,21.0,Kelme - Costa Blanca,3:43:56 3:43:56,,20,2003,-
+24.0,93.0,140.0,+ 87:45:22,23.0,Cooke Baden,22.0,Fdjeux.com,3:44:26 3:44:26,,20,2003,▲1
+22.0,213.0,141.0,+ 87:46:11,22.0,Dumoulin Samuel,23.0,Jean Delatour,3:45:15 3:45:15,,20,2003,▼1
+25.0,132.0,145.0,+ 88:07:20,24.0,Becke Daniel,24.0,Team Bianchi,4:06:24 4:06:24,,20,2003,-

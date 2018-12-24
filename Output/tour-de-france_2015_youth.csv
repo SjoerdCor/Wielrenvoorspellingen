@@ -1,0 +1,567 @@
+Age,BIB,GC,GC-Time,Pnt,Prev,Rider,Rnk,Team,Time,stage,year,▼▲
+25,63,1.0,+0:00,,,Dennis Rohan,1,BMC Racing Team,14:56 14:56,1,2015,
+24,85,4.0,+0:08,,,Dumoulin Tom,2,Team Giant - Alpecin,0:08 0:08,1,2015,
+24,132,9.0,+0:30,,,Kelderman Wilco,3,Team LottoNL-Jumbo,0:30 0:30,1,2015,
+22,147,15.0,+0:38,,,Jungels Bob,4,Trek Factory Racing,0:38 0:38,1,2015,
+23,169,16.0,+0:38,,,van Baarle Dylan,5,Team Cannondale - Garmin,",, 0:38",1,2015,
+25,21,18.0,+0:41,,,Pinot Thibaut,6,FDJ,0:41 0:41,1,2015,
+25,47,19.0,+0:41,,,Sagan Peter,7,Tinkoff - Saxo,",, 0:41",1,2015,
+24,103,32.0,+0:46,,,Durbridge Luke,8,Orica GreenEDGE,0:46 0:46,1,2015,
+22,109,33.0,+0:46,,,Yates Simon,9,Orica GreenEDGE,",, 0:46",1,2015,
+24,105,47.0,+0:58,,,Matthews Michael,10,Orica GreenEDGE,0:58 0:58,1,2015,
+25,87,51.0,+0:59,,,Preidler Georg,11,Team Giant - Alpecin,0:59 0:59,1,2015,
+25,51,57.0,+1:01,,,Quintana Nairo,12,Movistar Team,1:01 1:01,1,2015,
+25,111,64.0,+1:06,,,Kwiatkowski Michał,13,Etixx - Quick Step,1:06 1:06,1,2015,
+22,194,78.0,+1:12,,,Buchmann Emanuel,14,Bora - Argon 18,1:12 1:12,1,2015,
+23,24,81.0,+1:12,,,Démare Arnaud,15,FDJ,",, 1:12",1,2015,
+22,108,97.0,+1:18,,,Yates Adam,16,Orica GreenEDGE,1:18 1:18,1,2015,
+24,79,102.0,+1:21,,,Wellens Tim,17,Lotto Soudal,1:21 1:21,1,2015,
+23,217,103.0,+1:21,,,Meintjes Louis,18,MTN - Qhubeka,",, 1:21",1,2015,
+21,176,115.0,+1:24,,,Sénéchal Florian,19,"Cofidis, Solutions Crédits",1:24 1:24,1,2015,
+22,173,120.0,+1:25,,,Laporte Christophe,20,"Cofidis, Solutions Crédits",1:25 1:25,1,2015,
+23,82,127.0,+1:27,,,Barguil Warren,21,Team Giant - Alpecin,1:27 1:27,1,2015,
+24,12,145.0,+1:34,,,Bardet Romain,22,AG2R La Mondiale,1:34 1:34,1,2015,
+24,94,150.0,+1:35,,,Haller Marco,23,Team Katusha,1:35 1:35,1,2015,
+24,201,157.0,+1:40,,,Sepúlveda Eduardo,24,Bretagne - Séché Environnement,1:40 1:40,1,2015,
+25,179,170.0,+1:48,,,Vanbilsen Kenneth,25,"Cofidis, Solutions Crédits",1:48 1:48,1,2015,
+24,193,171.0,+1:48,,,Bennett Sam,26,Bora - Argon 18,",, 1:48",1,2015,
+23,49,172.0,+1:49,,,Valgren Michael,27,Tinkoff - Saxo,1:49 1:49,1,2015,
+21,216,175.0,+1:51,,,Kudus Merhawi,28,MTN - Qhubeka,1:51 1:51,1,2015,
+23,122,176.0,+1:51,,,Coquard Bryan,29,Team Europcar,",, 1:51",1,2015,
+25,37,180.0,+1:54,,,Rowe Luke,30,Team Sky,1:54 1:54,1,2015,
+24,128,183.0,+1:57,,,Tulik Angelo,31,Team Europcar,1:57 1:57,1,2015,
+24,171,191.0,+2:14,,,Bouhanni Nacer,32,"Cofidis, Solutions Crédits",2:14 2:14,1,2015,
+24,85,3.0,+0:06,,2.0,Dumoulin Tom,1,Team Giant - Alpecin,3:44:07 3:44:07,2,2015,▲1
+25,47,4.0,+0:33,,7.0,Sagan Peter,2,Tinkoff - Saxo,0:27 0:27,2,2015,▲5
+25,111,19.0,+1:19,,13.0,Kwiatkowski Michał,3,Etixx - Quick Step,1:13 1:13,2,2015,▲10
+23,82,22.0,+1:25,,21.0,Barguil Warren,4,Team Giant - Alpecin,1:19 1:19,2,2015,▲17
+25,63,23.0,+1:26,,1.0,Dennis Rohan,5,BMC Racing Team,1:20 1:20,2,2015,▼4
+25,21,31.0,+2:07,,6.0,Pinot Thibaut,6,FDJ,2:01 2:01,2,2015,-
+25,87,42.0,+2:25,,11.0,Preidler Georg,7,Team Giant - Alpecin,2:19 2:19,2,2015,▲4
+25,51,44.0,+2:27,,12.0,Quintana Nairo,8,Movistar Team,2:21 2:21,2,2015,▲4
+23,24,51.0,+2:38,,15.0,Démare Arnaud,9,FDJ,2:32 2:32,2,2015,▲6
+22,173,68.0,+2:51,,20.0,Laporte Christophe,10,"Cofidis, Solutions Crédits",2:45 2:45,2,2015,▲10
+24,12,78.0,+3:00,,22.0,Bardet Romain,11,AG2R La Mondiale,2:54 2:54,2,2015,▲11
+24,193,85.0,+3:14,,26.0,Bennett Sam,12,Bora - Argon 18,3:08 3:08,2,2015,▲14
+24,132,95.0,+5:32,,3.0,Kelderman Wilco,13,Team LottoNL-Jumbo,5:26 5:26,2,2015,▼10
+22,147,97.0,+5:40,,4.0,Jungels Bob,14,Trek Factory Racing,5:34 5:34,2,2015,▼10
+23,169,98.0,+5:40,,5.0,van Baarle Dylan,15,Team Cannondale - Garmin,",, 5:34",2,2015,▼10
+24,79,106.0,+5:48,,17.0,Wellens Tim,16,Lotto Soudal,5:42 5:42,2,2015,▲1
+24,103,107.0,+5:48,,8.0,Durbridge Luke,17,Orica GreenEDGE,",, 5:42",2,2015,▼9
+22,109,108.0,+5:48,,9.0,Yates Simon,18,Orica GreenEDGE,",, 5:42",2,2015,▼9
+24,105,114.0,+6:00,,10.0,Matthews Michael,19,Orica GreenEDGE,5:54 5:54,2,2015,▼9
+22,194,127.0,+6:14,,14.0,Buchmann Emanuel,20,Bora - Argon 18,6:08 6:08,2,2015,▼6
+22,108,137.0,+6:20,,16.0,Yates Adam,21,Orica GreenEDGE,6:14 6:14,2,2015,▼5
+25,37,139.0,+6:21,,30.0,Rowe Luke,22,Team Sky,6:15 6:15,2,2015,▲8
+23,217,140.0,+6:23,,18.0,Meintjes Louis,23,MTN - Qhubeka,6:17 6:17,2,2015,▼5
+21,176,144.0,+6:26,,19.0,Sénéchal Florian,24,"Cofidis, Solutions Crédits",6:20 6:20,2,2015,▼5
+24,94,159.0,+6:37,,23.0,Haller Marco,25,Team Katusha,6:31 6:31,2,2015,▼2
+24,201,165.0,+6:42,,24.0,Sepúlveda Eduardo,26,Bretagne - Séché Environnement,6:36 6:36,2,2015,▼2
+25,179,172.0,+6:50,,25.0,Vanbilsen Kenneth,27,"Cofidis, Solutions Crédits",6:44 6:44,2,2015,▼2
+23,49,173.0,+6:51,,27.0,Valgren Michael,28,Tinkoff - Saxo,6:45 6:45,2,2015,▼1
+21,216,176.0,+6:53,,28.0,Kudus Merhawi,29,MTN - Qhubeka,6:47 6:47,2,2015,▼1
+23,122,177.0,+6:53,,29.0,Coquard Bryan,30,Team Europcar,",, 6:47",2,2015,▼1
+24,128,181.0,+6:59,,31.0,Tulik Angelo,31,Team Europcar,6:53 6:53,2,2015,-
+24,171,186.0,+7:16,,32.0,Bouhanni Nacer,32,"Cofidis, Solutions Crédits",7:10 7:10,2,2015,-
+25,47,6.0,+0:31,,2.0,Sagan Peter,1,Tinkoff - Saxo,7:12:08 7:12:08,3,2015,▲1
+23,82,11.0,+1:07,,4.0,Barguil Warren,2,Team Giant - Alpecin,0:36 0:36,3,2015,▲2
+25,51,17.0,+1:56,,8.0,Quintana Nairo,3,Movistar Team,1:25 1:25,3,2015,▲5
+25,111,19.0,+2:02,,3.0,Kwiatkowski Michał,4,Etixx - Quick Step,1:31 1:31,3,2015,▼1
+24,12,26.0,+2:54,,11.0,Bardet Romain,5,AG2R La Mondiale,2:23 2:23,3,2015,▲6
+25,21,27.0,+2:58,,6.0,Pinot Thibaut,6,FDJ,2:27 2:27,3,2015,-
+25,87,31.0,+3:22,,7.0,Preidler Georg,7,Team Giant - Alpecin,2:51 2:51,3,2015,-
+22,109,45.0,+5:17,,18.0,Yates Simon,8,Orica GreenEDGE,4:46 4:46,3,2015,▲10
+23,217,51.0,+6:17,,23.0,Meintjes Louis,9,MTN - Qhubeka,5:46 5:46,3,2015,▲14
+22,147,52.0,+6:23,,14.0,Jungels Bob,10,Trek Factory Racing,5:52 5:52,3,2015,▲4
+22,108,57.0,+6:38,,21.0,Yates Adam,11,Orica GreenEDGE,6:07 6:07,3,2015,▲10
+24,201,61.0,+6:45,,26.0,Sepúlveda Eduardo,12,Bretagne - Séché Environnement,6:14 6:14,3,2015,▲14
+24,132,62.0,+6:49,,13.0,Kelderman Wilco,13,Team LottoNL-Jumbo,6:18 6:18,3,2015,-
+21,216,63.0,+6:56,,29.0,Kudus Merhawi,14,MTN - Qhubeka,6:25 6:25,3,2015,▲15
+22,194,69.0,+7:31,,20.0,Buchmann Emanuel,15,Bora - Argon 18,7:00 7:00,3,2015,▲5
+24,79,83.0,+8:30,,16.0,Wellens Tim,16,Lotto Soudal,7:59 7:59,3,2015,-
+25,63,102.0,+10:24,,5.0,Dennis Rohan,17,BMC Racing Team,9:53 9:53,3,2015,▼12
+24,128,106.0,+10:41,,31.0,Tulik Angelo,18,Team Europcar,10:10 10:10,3,2015,▲13
+23,24,131.0,+12:50,,9.0,Démare Arnaud,19,FDJ,12:19 12:19,3,2015,▼10
+22,173,141.0,+13:18,,10.0,Laporte Christophe,20,"Cofidis, Solutions Crédits",12:47 12:47,3,2015,▼10
+24,193,148.0,+14:17,,12.0,Bennett Sam,21,Bora - Argon 18,13:46 13:46,3,2015,▼9
+23,169,152.0,+15:43,,15.0,van Baarle Dylan,22,Team Cannondale - Garmin,15:12 15:12,3,2015,▼7
+24,103,155.0,+15:51,,17.0,Durbridge Luke,23,Orica GreenEDGE,15:20 15:20,3,2015,▼6
+21,176,169.0,+16:46,,24.0,Sénéchal Florian,24,"Cofidis, Solutions Crédits",16:15 16:15,3,2015,-
+25,37,175.0,+17:05,,22.0,Rowe Luke,25,Team Sky,16:34 16:34,3,2015,▼3
+23,122,176.0,+17:05,,30.0,Coquard Bryan,26,Team Europcar,",, 16:34",3,2015,▲4
+25,179,181.0,+17:17,,27.0,Vanbilsen Kenneth,27,"Cofidis, Solutions Crédits",16:46 16:46,3,2015,-
+23,49,182.0,+17:18,,28.0,Valgren Michael,28,Tinkoff - Saxo,16:47 16:47,3,2015,-
+24,94,185.0,+17:42,,25.0,Haller Marco,29,Team Katusha,17:11 17:11,3,2015,▼4
+24,171,186.0,+17:43,,32.0,Bouhanni Nacer,30,"Cofidis, Solutions Crédits",17:12 17:12,3,2015,▲2
+24,105,194.0,+26:56,,19.0,Matthews Michael,31,Orica GreenEDGE,26:25 26:25,3,2015,▼12
+25,47,5.0,+0:39,,1.0,Sagan Peter,1,Tinkoff - Saxo,12:41:05 12:41:05,4,2015,-
+23,82,11.0,+1:19,,2.0,Barguil Warren,2,Team Giant - Alpecin,0:40 0:40,4,2015,-
+25,51,17.0,+2:08,,3.0,Quintana Nairo,3,Movistar Team,1:29 1:29,4,2015,-
+24,12,21.0,+3:06,,5.0,Bardet Romain,4,AG2R La Mondiale,2:27 2:27,4,2015,▲1
+25,21,30.0,+6:30,,6.0,Pinot Thibaut,5,FDJ,5:51 5:51,4,2015,▲1
+25,111,37.0,+8:07,,4.0,Kwiatkowski Michał,6,Etixx - Quick Step,7:28 7:28,4,2015,▼2
+25,87,41.0,+9:08,,7.0,Preidler Georg,7,Team Giant - Alpecin,8:29 8:29,4,2015,-
+24,201,50.0,+10:17,,12.0,Sepúlveda Eduardo,8,Bretagne - Séché Environnement,9:38 9:38,4,2015,▲4
+24,132,54.0,+10:21,,13.0,Kelderman Wilco,9,Team LottoNL-Jumbo,9:42 9:42,4,2015,▲4
+24,128,59.0,+11:08,,18.0,Tulik Angelo,10,Team Europcar,10:29 10:29,4,2015,▲8
+22,109,60.0,+11:22,,8.0,Yates Simon,11,Orica GreenEDGE,10:43 10:43,4,2015,▼3
+22,108,71.0,+12:24,,11.0,Yates Adam,12,Orica GreenEDGE,11:45 11:45,4,2015,▼1
+22,173,81.0,+13:30,,20.0,Laporte Christophe,13,"Cofidis, Solutions Crédits",12:51 12:51,4,2015,▲7
+25,63,89.0,+14:14,,17.0,Dennis Rohan,14,BMC Racing Team,13:35 13:35,4,2015,▲3
+23,24,104.0,+16:48,,19.0,Démare Arnaud,15,FDJ,16:09 16:09,4,2015,▲4
+21,176,107.0,+16:58,,24.0,Sénéchal Florian,16,"Cofidis, Solutions Crédits",16:19 16:19,4,2015,▲8
+23,122,109.0,+17:17,,26.0,Coquard Bryan,17,Team Europcar,16:38 16:38,4,2015,▲9
+24,171,113.0,+17:55,,30.0,Bouhanni Nacer,18,"Cofidis, Solutions Crédits",17:16 17:16,4,2015,▲12
+24,103,123.0,+19:41,,23.0,Durbridge Luke,19,Orica GreenEDGE,19:02 19:02,4,2015,▲4
+25,179,124.0,+19:47,,27.0,Vanbilsen Kenneth,20,"Cofidis, Solutions Crédits",19:08 19:08,4,2015,▲7
+23,49,135.0,+21:20,,28.0,Valgren Michael,21,Tinkoff - Saxo,20:41 20:41,4,2015,▲7
+25,37,146.0,+23:10,,25.0,Rowe Luke,22,Team Sky,22:31 22:31,4,2015,▲3
+23,217,149.0,+23:19,,9.0,Meintjes Louis,23,MTN - Qhubeka,22:40 22:40,4,2015,▼14
+22,147,150.0,+23:25,,10.0,Jungels Bob,24,Trek Factory Racing,22:46 22:46,4,2015,▼14
+21,216,152.0,+23:58,,14.0,Kudus Merhawi,25,MTN - Qhubeka,23:19 23:19,4,2015,▼11
+22,194,153.0,+24:33,,15.0,Buchmann Emanuel,26,Bora - Argon 18,23:54 23:54,4,2015,▼11
+24,79,155.0,+25:32,,16.0,Wellens Tim,27,Lotto Soudal,24:53 24:53,4,2015,▼11
+24,193,173.0,+31:19,,21.0,Bennett Sam,28,Bora - Argon 18,30:40 30:40,4,2015,▼7
+23,169,174.0,+31:35,,22.0,van Baarle Dylan,29,Team Cannondale - Garmin,30:56 30:56,4,2015,▼7
+24,94,185.0,+34:44,,29.0,Haller Marco,30,Team Katusha,34:05 34:05,4,2015,▼1
+24,105,191.0,+43:58,,31.0,Matthews Michael,31,Orica GreenEDGE,43:19 43:19,4,2015,-
+25,47,4.0,+0:33,,1.0,Sagan Peter,1,Tinkoff - Saxo,17:19:59 17:19:59,5,2015,-
+23,82,11.0,+1:19,,2.0,Barguil Warren,2,Team Giant - Alpecin,0:46 0:46,5,2015,-
+25,51,17.0,+2:08,,3.0,Quintana Nairo,3,Movistar Team,1:35 1:35,5,2015,-
+24,12,21.0,+3:06,,4.0,Bardet Romain,4,AG2R La Mondiale,2:33 2:33,5,2015,-
+25,21,30.0,+6:30,,5.0,Pinot Thibaut,5,FDJ,5:57 5:57,5,2015,-
+24,201,41.0,+10:17,,8.0,Sepúlveda Eduardo,6,Bretagne - Séché Environnement,9:44 9:44,5,2015,▲2
+25,111,44.0,+10:53,,6.0,Kwiatkowski Michał,7,Etixx - Quick Step,10:20 10:20,5,2015,▼1
+22,109,51.0,+12:18,,11.0,Yates Simon,8,Orica GreenEDGE,11:45 11:45,5,2015,▲3
+22,108,52.0,+12:36,,12.0,Yates Adam,9,Orica GreenEDGE,12:03 12:03,5,2015,▲3
+22,173,59.0,+13:30,,13.0,Laporte Christophe,10,"Cofidis, Solutions Crédits",12:57 12:57,5,2015,▲3
+23,24,73.0,+16:48,,15.0,Démare Arnaud,11,FDJ,16:15 16:15,5,2015,▲4
+23,122,75.0,+17:17,,17.0,Coquard Bryan,12,Team Europcar,16:44 16:44,5,2015,▲5
+25,63,76.0,+17:21,,14.0,Dennis Rohan,13,BMC Racing Team,16:48 16:48,5,2015,▲1
+21,176,77.0,+17:21,,16.0,Sénéchal Florian,14,"Cofidis, Solutions Crédits",",, 16:48",5,2015,▲2
+25,87,93.0,+21:31,,7.0,Preidler Georg,15,Team Giant - Alpecin,20:58 20:58,5,2015,▼8
+23,49,94.0,+21:32,,21.0,Valgren Michael,16,Tinkoff - Saxo,20:59 20:59,5,2015,▲5
+24,132,108.0,+24:36,,9.0,Kelderman Wilco,17,Team LottoNL-Jumbo,24:03 24:03,5,2015,▼8
+24,128,110.0,+25:23,,10.0,Tulik Angelo,18,Team Europcar,24:50 24:50,5,2015,▼8
+25,37,111.0,+25:38,,22.0,Rowe Luke,19,Team Sky,25:05 25:05,5,2015,▲3
+24,79,113.0,+25:44,,27.0,Wellens Tim,20,Lotto Soudal,25:11 25:11,5,2015,▲7
+23,169,140.0,+33:52,,29.0,van Baarle Dylan,21,Team Cannondale - Garmin,33:19 33:19,5,2015,▲8
+24,103,142.0,+33:56,,19.0,Durbridge Luke,22,Orica GreenEDGE,33:23 33:23,5,2015,▼3
+25,179,143.0,+34:02,,20.0,Vanbilsen Kenneth,23,"Cofidis, Solutions Crédits",33:29 33:29,5,2015,▼3
+23,217,157.0,+37:34,,23.0,Meintjes Louis,24,MTN - Qhubeka,37:01 37:01,5,2015,▼1
+22,147,158.0,+37:40,,24.0,Jungels Bob,25,Trek Factory Racing,37:07 37:07,5,2015,▼1
+21,216,160.0,+38:13,,25.0,Kudus Merhawi,26,MTN - Qhubeka,37:40 37:40,5,2015,▼1
+22,194,161.0,+38:48,,26.0,Buchmann Emanuel,27,Bora - Argon 18,38:15 38:15,5,2015,▼1
+24,193,174.0,+45:34,,28.0,Bennett Sam,28,Bora - Argon 18,45:01 45:01,5,2015,-
+24,94,177.0,+47:07,,30.0,Haller Marco,29,Team Katusha,46:34 46:34,5,2015,▲1
+24,105,189.0,+58:13,,31.0,Matthews Michael,30,Orica GreenEDGE,57:40 57:40,5,2015,▲1
+25,47,4.0,+0:27,,1.0,Sagan Peter,1,Tinkoff - Saxo,22:13:41 22:13:41,6,2015,-
+23,82,11.0,+1:19,,2.0,Barguil Warren,2,Team Giant - Alpecin,0:52 0:52,6,2015,-
+25,51,17.0,+2:08,,3.0,Quintana Nairo,3,Movistar Team,1:41 1:41,6,2015,-
+24,12,21.0,+3:06,,4.0,Bardet Romain,4,AG2R La Mondiale,2:39 2:39,6,2015,-
+25,21,30.0,+6:30,,5.0,Pinot Thibaut,5,FDJ,6:03 6:03,6,2015,-
+24,201,40.0,+10:17,,6.0,Sepúlveda Eduardo,6,Bretagne - Séché Environnement,9:50 9:50,6,2015,-
+25,111,42.0,+10:53,,7.0,Kwiatkowski Michał,7,Etixx - Quick Step,10:26 10:26,6,2015,-
+22,109,48.0,+12:18,,8.0,Yates Simon,8,Orica GreenEDGE,11:51 11:51,6,2015,-
+22,108,49.0,+12:36,,9.0,Yates Adam,9,Orica GreenEDGE,12:09 12:09,6,2015,-
+22,173,57.0,+13:30,,10.0,Laporte Christophe,10,"Cofidis, Solutions Crédits",13:03 13:03,6,2015,-
+23,24,68.0,+16:48,,11.0,Démare Arnaud,11,FDJ,16:21 16:21,6,2015,-
+23,122,71.0,+17:13,,12.0,Coquard Bryan,12,Team Europcar,16:46 16:46,6,2015,-
+25,63,73.0,+17:21,,13.0,Dennis Rohan,13,BMC Racing Team,16:54 16:54,6,2015,-
+21,176,74.0,+17:21,,14.0,Sénéchal Florian,14,"Cofidis, Solutions Crédits",",, 16:54",6,2015,-
+23,49,90.0,+21:32,,16.0,Valgren Michael,15,Tinkoff - Saxo,21:05 21:05,6,2015,▲1
+25,87,101.0,+24:35,,15.0,Preidler Georg,16,Team Giant - Alpecin,24:08 24:08,6,2015,▼1
+24,128,103.0,+25:23,,18.0,Tulik Angelo,17,Team Europcar,24:56 24:56,6,2015,▲1
+25,37,104.0,+25:38,,19.0,Rowe Luke,18,Team Sky,25:11 25:11,6,2015,▲1
+24,132,116.0,+27:40,,17.0,Kelderman Wilco,19,Team LottoNL-Jumbo,27:13 27:13,6,2015,▼2
+24,79,122.0,+28:48,,20.0,Wellens Tim,20,Lotto Soudal,28:21 28:21,6,2015,-
+24,103,137.0,+33:56,,22.0,Durbridge Luke,21,Orica GreenEDGE,33:29 33:29,6,2015,▲1
+25,179,138.0,+34:02,,23.0,Vanbilsen Kenneth,22,"Cofidis, Solutions Crédits",33:35 33:35,6,2015,▲1
+23,169,147.0,+36:56,,21.0,van Baarle Dylan,23,Team Cannondale - Garmin,36:29 36:29,6,2015,▼2
+22,147,159.0,+40:44,,25.0,Jungels Bob,24,Trek Factory Racing,40:17 40:17,6,2015,▲1
+21,216,161.0,+41:17,,26.0,Kudus Merhawi,25,MTN - Qhubeka,40:50 40:50,6,2015,▲1
+22,194,163.0,+41:52,,27.0,Buchmann Emanuel,26,Bora - Argon 18,41:25 41:25,6,2015,▲1
+23,217,164.0,+42:17,,24.0,Meintjes Louis,27,MTN - Qhubeka,41:50 41:50,6,2015,▼3
+24,94,173.0,+47:07,,29.0,Haller Marco,28,Team Katusha,46:40 46:40,6,2015,▲1
+24,193,176.0,+48:52,,28.0,Bennett Sam,29,Bora - Argon 18,48:25 48:25,6,2015,▼1
+24,105,188.0,+1:01:31,,30.0,Matthews Michael,30,Orica GreenEDGE,1:01:04 1:01:04,6,2015,-
+25,47,2.0,+0:11,,1.0,Sagan Peter,1,Tinkoff - Saxo,26:41:02 26:41:02,7,2015,-
+23,82,10.0,+1:07,,2.0,Barguil Warren,2,Team Giant - Alpecin,0:56 0:56,7,2015,-
+25,51,16.0,+1:56,,3.0,Quintana Nairo,3,Movistar Team,1:45 1:45,7,2015,-
+24,12,20.0,+2:54,,4.0,Bardet Romain,4,AG2R La Mondiale,2:43 2:43,7,2015,-
+25,21,29.0,+6:18,,5.0,Pinot Thibaut,5,FDJ,6:07 6:07,7,2015,-
+24,201,39.0,+10:05,,6.0,Sepúlveda Eduardo,6,Bretagne - Séché Environnement,9:54 9:54,7,2015,-
+25,111,43.0,+11:36,,7.0,Kwiatkowski Michał,7,Etixx - Quick Step,11:25 11:25,7,2015,-
+22,108,48.0,+12:48,,9.0,Yates Adam,8,Orica GreenEDGE,12:37 12:37,7,2015,▲1
+22,173,53.0,+13:18,,10.0,Laporte Christophe,9,"Cofidis, Solutions Crédits",13:07 13:07,7,2015,▲1
+22,109,55.0,+13:32,,8.0,Yates Simon,10,Orica GreenEDGE,13:21 13:21,7,2015,▼2
+23,24,67.0,+16:36,,11.0,Démare Arnaud,11,FDJ,16:25 16:25,7,2015,-
+23,122,68.0,+17:01,,12.0,Coquard Bryan,12,Team Europcar,16:50 16:50,7,2015,-
+22,176,69.0,+17:09,,14.0,Sénéchal Florian,13,"Cofidis, Solutions Crédits",16:58 16:58,7,2015,▲1
+25,63,78.0,+18:42,,13.0,Dennis Rohan,14,BMC Racing Team,18:31 18:31,7,2015,▼1
+23,49,88.0,+21:20,,15.0,Valgren Michael,15,Tinkoff - Saxo,21:09 21:09,7,2015,-
+25,87,100.0,+24:47,,16.0,Preidler Georg,16,Team Giant - Alpecin,24:36 24:36,7,2015,-
+24,128,101.0,+25:11,,17.0,Tulik Angelo,17,Team Europcar,25:00 25:00,7,2015,-
+25,37,111.0,+26:56,,18.0,Rowe Luke,18,Team Sky,26:45 26:45,7,2015,-
+24,132,118.0,+28:23,,19.0,Kelderman Wilco,19,Team LottoNL-Jumbo,28:12 28:12,7,2015,-
+24,79,121.0,+29:31,,20.0,Wellens Tim,20,Lotto Soudal,29:20 29:20,7,2015,-
+24,103,137.0,+34:39,,21.0,Durbridge Luke,21,Orica GreenEDGE,34:28 34:28,7,2015,-
+25,179,138.0,+34:45,,22.0,Vanbilsen Kenneth,22,"Cofidis, Solutions Crédits",34:34 34:34,7,2015,-
+23,169,148.0,+37:39,,23.0,van Baarle Dylan,23,Team Cannondale - Garmin,37:28 37:28,7,2015,-
+22,147,157.0,+40:32,,24.0,Jungels Bob,24,Trek Factory Racing,40:21 40:21,7,2015,-
+21,216,160.0,+41:29,,25.0,Kudus Merhawi,25,MTN - Qhubeka,41:18 41:18,7,2015,-
+22,194,162.0,+42:35,,26.0,Buchmann Emanuel,26,Bora - Argon 18,42:24 42:24,7,2015,-
+23,217,163.0,+43:33,,27.0,Meintjes Louis,27,MTN - Qhubeka,43:22 43:22,7,2015,-
+24,94,170.0,+46:55,,28.0,Haller Marco,28,Team Katusha,46:44 46:44,7,2015,-
+24,193,175.0,+48:40,,29.0,Bennett Sam,29,Bora - Argon 18,48:29 48:29,7,2015,-
+24,105,186.0,+1:02:14,,30.0,Matthews Michael,30,Orica GreenEDGE,1:02:03 1:02:03,7,2015,-
+25,47,2.0,+0:11,,1.0,Sagan Peter,1,Tinkoff - Saxo,31:02:07 31:02:07,8,2015,-
+23,82,8.0,+1:07,,2.0,Barguil Warren,2,Team Giant - Alpecin,0:56 0:56,8,2015,-
+25,51,16.0,+1:56,,3.0,Quintana Nairo,3,Movistar Team,1:45 1:45,8,2015,-
+24,12,20.0,+3:15,,4.0,Bardet Romain,4,AG2R La Mondiale,3:04 3:04,8,2015,-
+25,21,29.0,+6:33,,5.0,Pinot Thibaut,5,FDJ,6:22 6:22,8,2015,-
+24,201,37.0,+10:40,,6.0,Sepúlveda Eduardo,6,Bretagne - Séché Environnement,10:29 10:29,8,2015,-
+22,108,41.0,+12:48,,8.0,Yates Adam,7,Orica GreenEDGE,12:37 12:37,8,2015,▲1
+22,109,42.0,+13:32,,10.0,Yates Simon,8,Orica GreenEDGE,13:21 13:21,8,2015,▲2
+25,111,44.0,+14:34,,7.0,Kwiatkowski Michał,9,Etixx - Quick Step,14:23 14:23,8,2015,▼2
+22,173,52.0,+17:10,,9.0,Laporte Christophe,10,"Cofidis, Solutions Crédits",16:59 16:59,8,2015,▼1
+23,24,66.0,+21:21,,11.0,Démare Arnaud,11,FDJ,21:10 21:10,8,2015,-
+23,122,69.0,+21:43,,12.0,Coquard Bryan,12,Team Europcar,21:32 21:32,8,2015,-
+22,176,75.0,+23:11,,13.0,Sénéchal Florian,13,"Cofidis, Solutions Crédits",23:00 23:00,8,2015,-
+25,87,88.0,+25:46,,16.0,Preidler Georg,14,Team Giant - Alpecin,25:35 25:35,8,2015,▲2
+25,63,92.0,+26:30,,14.0,Dennis Rohan,15,BMC Racing Team,26:19 26:19,8,2015,▼1
+23,49,97.0,+27:22,,15.0,Valgren Michael,16,Tinkoff - Saxo,27:11 27:11,8,2015,▼1
+24,128,103.0,+29:56,,17.0,Tulik Angelo,17,Team Europcar,29:45 29:45,8,2015,-
+24,132,109.0,+31:21,,19.0,Kelderman Wilco,18,Team LottoNL-Jumbo,31:10 31:10,8,2015,▲1
+24,79,115.0,+32:47,,20.0,Wellens Tim,19,Lotto Soudal,32:36 32:36,8,2015,▲1
+25,37,127.0,+35:55,,18.0,Rowe Luke,20,Team Sky,35:44 35:44,8,2015,▼2
+24,103,131.0,+37:37,,21.0,Durbridge Luke,21,Orica GreenEDGE,37:26 37:26,8,2015,-
+22,147,140.0,+40:32,,24.0,Jungels Bob,22,Trek Factory Racing,40:21 40:21,8,2015,▲2
+25,179,148.0,+44:24,,22.0,Vanbilsen Kenneth,23,"Cofidis, Solutions Crédits",44:13 44:13,8,2015,▼1
+23,169,162.0,+48:27,,23.0,van Baarle Dylan,24,Team Cannondale - Garmin,48:16 48:16,8,2015,▼1
+21,216,166.0,+50:28,,25.0,Kudus Merhawi,25,MTN - Qhubeka,50:17 50:17,8,2015,-
+24,94,170.0,+51:24,,28.0,Haller Marco,26,Team Katusha,51:13 51:13,8,2015,▲2
+23,217,174.0,+52:32,,27.0,Meintjes Louis,27,MTN - Qhubeka,52:21 52:21,8,2015,-
+22,194,175.0,+53:23,,26.0,Buchmann Emanuel,28,Bora - Argon 18,53:12 53:12,8,2015,▼2
+24,193,178.0,+56:28,,29.0,Bennett Sam,29,Bora - Argon 18,56:17 56:17,8,2015,-
+24,105,185.0,+1:11:13,,30.0,Matthews Michael,30,Orica GreenEDGE,1:11:02 1:11:02,8,2015,-
+26,219,,,4.0,1.0,Teklehaimanot Daniel,1,MTN - Qhubeka,,9,2015,-
+36,91,,,2.0,2.0,Rodríguez Joaquim,2,Team Katusha,,9,2015,-
+27,19,,,2.0,3.0,Vuillermoz Alexis,3,AG2R La Mondiale,,9,2015,-
+28,67,,,1.0,4.0,Schär Michael,4,BMC Racing Team,,9,2015,-
+27,127,,,1.0,5.0,Sicard Romain,5,Team Europcar,,9,2015,-
+25,45,,,1.0,6.0,Majka Rafał,6,Tinkoff - Saxo,,9,2015,-
+28,73,,,1.0,7.0,De Gendt Thomas,7,Lotto Soudal,,9,2015,-
+30,31,,,1.0,8.0,Froome Chris,8,Team Sky,,9,2015,-
+28,167,,,1.0,9.0,Martin Dan,9,Team Cannondale - Garmin,,9,2015,-
+25,51,3.0,+3:09,,2.0,Quintana Nairo,1,Movistar Team,35:59:18 35:59:18,10,2015,▲1
+23,82,9.0,+6:12,,3.0,Barguil Warren,2,Team Giant - Alpecin,3:03 3:03,10,2015,▲1
+24,12,22.0,+13:38,,4.0,Bardet Romain,3,AG2R La Mondiale,10:29 10:29,10,2015,▲1
+24,201,26.0,+16:51,,6.0,Sepúlveda Eduardo,4,Bretagne - Séché Environnement,13:42 13:42,10,2015,▲2
+25,21,27.0,+18:18,,5.0,Pinot Thibaut,5,FDJ,15:09 15:09,10,2015,-
+22,108,29.0,+19:59,,8.0,Yates Adam,6,Orica GreenEDGE,16:50 16:50,10,2015,▲2
+25,47,34.0,+23:27,,1.0,Sagan Peter,7,Tinkoff - Saxo,20:18 20:18,10,2015,▼6
+25,111,58.0,+38:49,,7.0,Kwiatkowski Michał,8,Etixx - Quick Step,35:40 35:40,10,2015,▼1
+22,109,60.0,+39:48,,9.0,Yates Simon,9,Orica GreenEDGE,36:39 36:39,10,2015,-
+25,87,62.0,+41:13,,15.0,Preidler Georg,10,Team Giant - Alpecin,38:04 38:04,10,2015,▲5
+22,173,70.0,+43:12,,10.0,Laporte Christophe,11,"Cofidis, Solutions Crédits",40:03 40:03,10,2015,▼1
+24,132,90.0,+46:45,,17.0,Kelderman Wilco,12,Team LottoNL-Jumbo,43:36 43:36,10,2015,▲5
+22,176,94.0,+47:26,,11.0,Sénéchal Florian,13,"Cofidis, Solutions Crédits",44:17 44:17,10,2015,▼2
+25,63,98.0,+48:36,,13.0,Dennis Rohan,14,BMC Racing Team,45:27 45:27,10,2015,▼1
+23,49,100.0,+49:22,,16.0,Valgren Michael,15,Tinkoff - Saxo,46:13 46:13,10,2015,▲1
+23,122,101.0,+49:28,,12.0,Coquard Bryan,16,Team Europcar,46:19 46:19,10,2015,▼4
+23,24,120.0,+53:28,,14.0,Démare Arnaud,17,FDJ,50:19 50:19,10,2015,▼3
+22,147,125.0,+54:59,,21.0,Jungels Bob,18,Trek Factory Racing,51:50 51:50,10,2015,▲3
+24,128,126.0,+55:03,,18.0,Tulik Angelo,19,Team Europcar,51:54 51:54,10,2015,▼1
+24,79,133.0,+56:54,,19.0,Wellens Tim,20,Lotto Soudal,53:45 53:45,10,2015,▼1
+23,217,143.0,+1:00:15,,27.0,Meintjes Louis,21,MTN - Qhubeka,57:06 57:06,10,2015,▲6
+22,194,146.0,+1:01:32,,28.0,Buchmann Emanuel,22,Bora - Argon 18,58:23 58:23,10,2015,▲6
+25,37,149.0,+1:03:02,,20.0,Rowe Luke,23,Team Sky,59:53 59:53,10,2015,▼3
+24,103,150.0,+1:04:18,,22.0,Durbridge Luke,24,Orica GreenEDGE,1:01:09 1:01:09,10,2015,▼2
+21,216,152.0,+1:04:45,,25.0,Kudus Merhawi,25,MTN - Qhubeka,1:01:36 1:01:36,10,2015,-
+25,179,165.0,+1:12:10,,23.0,Vanbilsen Kenneth,26,"Cofidis, Solutions Crédits",1:09:01 1:09:01,10,2015,▼3
+23,169,169.0,+1:15:12,,24.0,van Baarle Dylan,27,Team Cannondale - Garmin,1:12:03 1:12:03,10,2015,▼3
+24,94,173.0,+1:16:47,,26.0,Haller Marco,28,Team Katusha,1:13:38 1:13:38,10,2015,▼2
+24,193,178.0,+1:24:16,,29.0,Bennett Sam,29,Bora - Argon 18,1:21:07 1:21:07,10,2015,-
+24,105,183.0,+1:42:47,,30.0,Matthews Michael,30,Orica GreenEDGE,1:39:38 1:39:38,10,2015,-
+25,51,3.0,+3:09,,1.0,Quintana Nairo,1,Movistar Team,41:06:40 41:06:40,11,2015,-
+23,82,9.0,+6:44,,2.0,Barguil Warren,2,Team Giant - Alpecin,3:35 3:35,11,2015,-
+24,12,20.0,+22:07,,3.0,Bardet Romain,3,AG2R La Mondiale,18:58 18:58,11,2015,-
+24,201,24.0,+25:20,,4.0,Sepúlveda Eduardo,4,Bretagne - Séché Environnement,22:11 22:11,11,2015,-
+22,108,31.0,+31:11,,6.0,Yates Adam,5,Orica GreenEDGE,28:02 28:02,11,2015,▲1
+25,21,35.0,+34:41,,5.0,Pinot Thibaut,6,FDJ,31:32 31:32,11,2015,▼1
+25,47,42.0,+42:46,,7.0,Sagan Peter,7,Tinkoff - Saxo,39:37 39:37,11,2015,-
+24,132,63.0,+57:18,,12.0,Kelderman Wilco,8,Team LottoNL-Jumbo,54:09 54:09,11,2015,▲4
+22,194,64.0,+57:30,,22.0,Buchmann Emanuel,9,Bora - Argon 18,54:21 54:21,11,2015,▲13
+25,87,66.0,+57:36,,10.0,Preidler Georg,10,Team Giant - Alpecin,54:27 54:27,11,2015,-
+24,128,81.0,+1:05:48,,19.0,Tulik Angelo,11,Team Europcar,1:02:39 1:02:39,11,2015,▲8
+25,111,83.0,+1:06:02,,8.0,Kwiatkowski Michał,12,Etixx - Quick Step,1:02:53 1:02:53,11,2015,▼4
+22,109,84.0,+1:07:01,,9.0,Yates Simon,13,Orica GreenEDGE,1:03:52 1:03:52,11,2015,▼4
+25,63,89.0,+1:07:55,,14.0,Dennis Rohan,14,BMC Racing Team,1:04:46 1:04:46,11,2015,-
+23,24,99.0,+1:09:51,,17.0,Démare Arnaud,15,FDJ,1:06:42 1:06:42,11,2015,▲2
+22,173,100.0,+1:10:25,,11.0,Laporte Christophe,16,"Cofidis, Solutions Crédits",1:07:16 1:07:16,11,2015,▼5
+23,217,101.0,+1:10:48,,21.0,Meintjes Louis,17,MTN - Qhubeka,1:07:39 1:07:39,11,2015,▲4
+23,49,102.0,+1:10:58,,15.0,Valgren Michael,18,Tinkoff - Saxo,1:07:49 1:07:49,11,2015,▼3
+21,216,114.0,+1:13:14,,25.0,Kudus Merhawi,19,MTN - Qhubeka,1:10:05 1:10:05,11,2015,▲6
+24,79,115.0,+1:13:27,,20.0,Wellens Tim,20,Lotto Soudal,1:10:18 1:10:18,11,2015,-
+22,147,117.0,+1:14:18,,18.0,Jungels Bob,21,Trek Factory Racing,1:11:09 1:11:09,11,2015,▼3
+22,176,120.0,+1:14:39,,13.0,Sénéchal Florian,22,"Cofidis, Solutions Crédits",1:11:30 1:11:30,11,2015,▼9
+23,122,122.0,+1:16:41,,16.0,Coquard Bryan,23,Team Europcar,1:13:32 1:13:32,11,2015,▼7
+25,37,151.0,+1:29:02,,23.0,Rowe Luke,24,Team Sky,1:25:53 1:25:53,11,2015,▼1
+24,103,155.0,+1:31:31,,24.0,Durbridge Luke,25,Orica GreenEDGE,1:28:22 1:28:22,11,2015,▼1
+25,179,163.0,+1:39:23,,26.0,Vanbilsen Kenneth,26,"Cofidis, Solutions Crédits",1:36:14 1:36:14,11,2015,-
+23,169,166.0,+1:42:25,,27.0,van Baarle Dylan,27,Team Cannondale - Garmin,1:39:16 1:39:16,11,2015,-
+24,94,168.0,+1:42:47,,28.0,Haller Marco,28,Team Katusha,1:39:38 1:39:38,11,2015,-
+24,193,173.0,+1:51:29,,29.0,Bennett Sam,29,Bora - Argon 18,1:48:20 1:48:20,11,2015,-
+24,105,177.0,+2:04:14,,30.0,Matthews Michael,30,Orica GreenEDGE,2:01:05 2:01:05,11,2015,-
+25,51,3.0,+3:09,,1.0,Quintana Nairo,1,Movistar Team,46:53:41 46:53:41,12,2015,-
+23,82,11.0,+9:43,,2.0,Barguil Warren,2,Team Giant - Alpecin,6:34 6:34,12,2015,-
+24,12,17.0,+17:05,,3.0,Bardet Romain,3,AG2R La Mondiale,13:56 13:56,12,2015,-
+24,201,20.0,+28:19,,4.0,Sepúlveda Eduardo,4,Bretagne - Séché Environnement,25:10 25:10,12,2015,-
+25,21,24.0,+34:41,,6.0,Pinot Thibaut,5,FDJ,31:32 31:32,12,2015,▲1
+22,108,42.0,+57:58,,5.0,Yates Adam,6,Orica GreenEDGE,54:49 54:49,12,2015,▼1
+23,217,52.0,+1:08:39,,17.0,Meintjes Louis,7,MTN - Qhubeka,1:05:30 1:05:30,12,2015,▲10
+25,47,56.0,+1:09:33,,7.0,Sagan Peter,8,Tinkoff - Saxo,1:06:24 1:06:24,12,2015,▼1
+22,194,57.0,+1:10:21,,9.0,Buchmann Emanuel,9,Bora - Argon 18,1:07:12 1:07:12,12,2015,-
+25,111,60.0,+1:10:50,,12.0,Kwiatkowski Michał,10,Etixx - Quick Step,1:07:41 1:07:41,12,2015,▲2
+24,132,62.0,+1:11:18,,8.0,Kelderman Wilco,11,Team LottoNL-Jumbo,1:08:09 1:08:09,12,2015,▼3
+25,87,68.0,+1:17:14,,10.0,Preidler Georg,12,Team Giant - Alpecin,1:14:05 1:14:05,12,2015,▼2
+22,147,86.0,+1:28:18,,21.0,Jungels Bob,13,Trek Factory Racing,1:25:09 1:25:09,12,2015,▲8
+25,63,89.0,+1:28:40,,14.0,Dennis Rohan,14,BMC Racing Team,1:25:31 1:25:31,12,2015,-
+24,128,95.0,+1:33:48,,11.0,Tulik Angelo,15,Team Europcar,1:30:39 1:30:39,12,2015,▼4
+22,109,104.0,+1:37:08,,13.0,Yates Simon,16,Orica GreenEDGE,1:33:59 1:33:59,12,2015,▼3
+23,24,112.0,+1:39:58,,15.0,Démare Arnaud,17,FDJ,1:36:49 1:36:49,12,2015,▼2
+21,216,113.0,+1:40:01,,19.0,Kudus Merhawi,18,MTN - Qhubeka,1:36:52 1:36:52,12,2015,▲1
+24,79,114.0,+1:40:14,,20.0,Wellens Tim,19,Lotto Soudal,1:37:05 1:37:05,12,2015,▲1
+22,173,115.0,+1:40:32,,16.0,Laporte Christophe,20,"Cofidis, Solutions Crédits",1:37:23 1:37:23,12,2015,▼4
+23,49,117.0,+1:41:15,,18.0,Valgren Michael,21,Tinkoff - Saxo,1:38:06 1:38:06,12,2015,▼3
+22,176,119.0,+1:41:36,,22.0,Sénéchal Florian,22,"Cofidis, Solutions Crédits",1:38:27 1:38:27,12,2015,-
+23,122,126.0,+1:44:41,,23.0,Coquard Bryan,23,Team Europcar,1:41:32 1:41:32,12,2015,-
+25,37,157.0,+1:59:09,,24.0,Rowe Luke,24,Team Sky,1:56:00 1:56:00,12,2015,-
+24,103,160.0,+2:01:38,,25.0,Durbridge Luke,25,Orica GreenEDGE,1:58:29 1:58:29,12,2015,-
+25,179,162.0,+2:09:30,,26.0,Vanbilsen Kenneth,26,"Cofidis, Solutions Crédits",2:06:21 2:06:21,12,2015,-
+23,169,166.0,+2:12:32,,27.0,van Baarle Dylan,27,Team Cannondale - Garmin,2:09:23 2:09:23,12,2015,-
+24,94,168.0,+2:12:54,,28.0,Haller Marco,28,Team Katusha,2:09:45 2:09:45,12,2015,-
+24,193,173.0,+2:21:36,,29.0,Bennett Sam,29,Bora - Argon 18,2:18:27 2:18:27,12,2015,-
+24,105,175.0,+2:34:21,,30.0,Matthews Michael,30,Orica GreenEDGE,2:31:12 2:31:12,12,2015,-
+25,51,3.0,+3:09,,1.0,Quintana Nairo,1,Movistar Team,51:37:30 51:37:30,13,2015,-
+23,82,11.0,+9:53,,2.0,Barguil Warren,2,Team Giant - Alpecin,6:44 6:44,13,2015,-
+24,12,15.0,+17:26,,3.0,Bardet Romain,3,AG2R La Mondiale,14:17 14:17,13,2015,-
+24,201,19.0,+28:19,,4.0,Sepúlveda Eduardo,4,Bretagne - Séché Environnement,26:01 26:01,13,2015,-
+25,21,22.0,+35:16,,5.0,Pinot Thibaut,5,FDJ,32:07 32:07,13,2015,-
+22,108,40.0,+59:49,,6.0,Yates Adam,6,Orica GreenEDGE,56:40 56:40,13,2015,-
+25,47,51.0,+1:09:20,,8.0,Sagan Peter,7,Tinkoff - Saxo,1:06:11 1:06:11,13,2015,▲1
+24,132,53.0,+1:11:35,,11.0,Kelderman Wilco,8,Team LottoNL-Jumbo,1:08:26 1:08:26,13,2015,▲3
+22,194,56.0,+1:12:55,,9.0,Buchmann Emanuel,9,Bora - Argon 18,1:09:46 1:09:46,13,2015,-
+23,217,60.0,+1:18:15,,7.0,Meintjes Louis,10,MTN - Qhubeka,1:15:06 1:15:06,13,2015,▼3
+25,111,70.0,+1:22:09,,10.0,Kwiatkowski Michał,11,Etixx - Quick Step,1:19:00 1:19:00,13,2015,▼1
+22,147,79.0,+1:30:09,,13.0,Jungels Bob,12,Trek Factory Racing,1:27:00 1:27:00,13,2015,▲1
+24,128,92.0,+1:35:55,,15.0,Tulik Angelo,13,Team Europcar,1:32:46 1:32:46,13,2015,▲2
+25,63,94.0,+1:36:46,,14.0,Dennis Rohan,14,BMC Racing Team,1:33:37 1:33:37,13,2015,-
+25,87,98.0,+1:38:32,,12.0,Preidler Georg,15,Team Giant - Alpecin,1:35:23 1:35:23,13,2015,▼3
+23,24,106.0,+1:40:38,,17.0,Démare Arnaud,16,FDJ,1:37:29 1:37:29,13,2015,▲1
+22,109,109.0,+1:43:51,,16.0,Yates Simon,17,Orica GreenEDGE,1:40:42 1:40:42,13,2015,▼1
+23,122,114.0,+1:46:58,,23.0,Coquard Bryan,18,Team Europcar,1:43:49 1:43:49,13,2015,▲5
+21,216,120.0,+1:49:37,,18.0,Kudus Merhawi,19,MTN - Qhubeka,1:46:28 1:46:28,13,2015,▼1
+22,176,124.0,+1:51:12,,22.0,Sénéchal Florian,20,"Cofidis, Solutions Crédits",1:48:03 1:48:03,13,2015,▲2
+24,79,128.0,+1:52:41,,19.0,Wellens Tim,21,Lotto Soudal,1:49:32 1:49:32,13,2015,▼2
+22,173,129.0,+1:53:04,,20.0,Laporte Christophe,22,"Cofidis, Solutions Crédits",1:49:55 1:49:55,13,2015,▼2
+23,49,130.0,+1:53:18,,21.0,Valgren Michael,23,Tinkoff - Saxo,1:50:09 1:50:09,13,2015,▼2
+25,37,153.0,+2:08:45,,24.0,Rowe Luke,24,Team Sky,2:05:36 2:05:36,13,2015,-
+24,103,160.0,+2:12:55,,25.0,Durbridge Luke,25,Orica GreenEDGE,2:09:46 2:09:46,13,2015,-
+24,94,161.0,+2:15:11,,28.0,Haller Marco,26,Team Katusha,2:12:02 2:12:02,13,2015,▲2
+23,169,166.0,+2:24:35,,27.0,van Baarle Dylan,27,Team Cannondale - Garmin,2:21:26 2:21:26,13,2015,-
+25,179,169.0,+2:30:48,,26.0,Vanbilsen Kenneth,28,"Cofidis, Solutions Crédits",2:27:39 2:27:39,13,2015,▼2
+24,105,173.0,+2:34:31,,30.0,Matthews Michael,29,Orica GreenEDGE,2:31:22 2:31:22,13,2015,▲1
+24,193,175.0,+2:43:06,,29.0,Bennett Sam,30,Bora - Argon 18,2:39:57 2:39:57,13,2015,▼1
+25,51,2.0,+3:10,,1.0,Quintana Nairo,1,Movistar Team,56:05:29 56:05:29,14,2015,-
+23,82,11.0,+11:03,,2.0,Barguil Warren,2,Team Giant - Alpecin,7:53 7:53,14,2015,-
+24,12,12.0,+13:10,,3.0,Bardet Romain,3,AG2R La Mondiale,10:00 10:00,14,2015,-
+25,21,17.0,+30:57,,5.0,Pinot Thibaut,4,FDJ,27:47 27:47,14,2015,▲1
+25,47,42.0,+1:05:34,,7.0,Sagan Peter,5,Tinkoff - Saxo,1:02:24 1:02:24,14,2015,▲2
+22,108,44.0,+1:06:34,,6.0,Yates Adam,6,Orica GreenEDGE,1:03:24 1:03:24,14,2015,-
+24,132,51.0,+1:17:04,,8.0,Kelderman Wilco,7,Team LottoNL-Jumbo,1:13:54 1:13:54,14,2015,▲1
+22,194,55.0,+1:21:19,,9.0,Buchmann Emanuel,8,Bora - Argon 18,1:18:09 1:18:09,14,2015,▲1
+22,147,61.0,+1:26:26,,12.0,Jungels Bob,9,Trek Factory Racing,1:23:16 1:23:16,14,2015,▲3
+23,217,68.0,+1:30:11,,10.0,Meintjes Louis,10,MTN - Qhubeka,1:27:01 1:27:01,14,2015,-
+25,111,76.0,+1:36:40,,11.0,Kwiatkowski Michał,11,Etixx - Quick Step,1:33:30 1:33:30,14,2015,-
+22,109,86.0,+1:40:09,,17.0,Yates Simon,12,Orica GreenEDGE,1:36:59 1:36:59,14,2015,▲5
+24,128,95.0,+1:44:23,,13.0,Tulik Angelo,13,Team Europcar,1:41:13 1:41:13,14,2015,-
+25,63,98.0,+1:46:12,,14.0,Dennis Rohan,14,BMC Racing Team,1:43:02 1:43:02,14,2015,-
+25,87,104.0,+1:49:29,,15.0,Preidler Georg,15,Team Giant - Alpecin,1:46:19 1:46:19,14,2015,-
+23,24,107.0,+1:51:35,,16.0,Démare Arnaud,16,FDJ,1:48:25 1:48:25,14,2015,-
+21,216,115.0,+1:58:01,,19.0,Kudus Merhawi,17,MTN - Qhubeka,1:54:51 1:54:51,14,2015,▲2
+23,122,117.0,+1:58:35,,18.0,Coquard Bryan,18,Team Europcar,1:55:25 1:55:25,14,2015,-
+22,176,122.0,+2:00:44,,20.0,Sénéchal Florian,19,"Cofidis, Solutions Crédits",1:57:34 1:57:34,14,2015,▲1
+22,173,126.0,+2:05:29,,22.0,Laporte Christophe,20,"Cofidis, Solutions Crédits",2:02:19 2:02:19,14,2015,▲2
+23,49,131.0,+2:07:49,,23.0,Valgren Michael,21,Tinkoff - Saxo,2:04:39 2:04:39,14,2015,▲2
+24,79,133.0,+2:08:43,,21.0,Wellens Tim,22,Lotto Soudal,2:05:33 2:05:33,14,2015,▼1
+25,37,153.0,+2:20:50,,24.0,Rowe Luke,23,Team Sky,2:17:40 2:17:40,14,2015,▲1
+24,103,156.0,+2:23:52,,25.0,Durbridge Luke,24,Orica GreenEDGE,2:20:42 2:20:42,14,2015,▲1
+24,94,160.0,+2:30:12,,26.0,Haller Marco,25,Team Katusha,2:27:02 2:27:02,14,2015,▲1
+23,169,165.0,+2:39:29,,27.0,van Baarle Dylan,26,Team Cannondale - Garmin,2:36:19 2:36:19,14,2015,▲1
+25,179,166.0,+2:42:53,,28.0,Vanbilsen Kenneth,27,"Cofidis, Solutions Crédits",2:39:43 2:39:43,14,2015,▲1
+24,105,168.0,+2:45:28,,29.0,Matthews Michael,28,Orica GreenEDGE,2:42:18 2:42:18,14,2015,▲1
+24,193,172.0,+2:59:08,,30.0,Bennett Sam,29,Bora - Argon 18,2:55:58 2:55:58,14,2015,▲1
+25,51,2.0,+3:10,,1.0,Quintana Nairo,1,Movistar Team,60:02:04 60:02:04,15,2015,-
+23,82,11.0,+11:03,,2.0,Barguil Warren,2,Team Giant - Alpecin,7:53 7:53,15,2015,-
+24,12,12.0,+13:10,,3.0,Bardet Romain,3,AG2R La Mondiale,10:00 10:00,15,2015,-
+25,21,17.0,+30:57,,4.0,Pinot Thibaut,4,FDJ,27:47 27:47,15,2015,-
+25,47,39.0,+1:05:34,,5.0,Sagan Peter,5,Tinkoff - Saxo,1:02:24 1:02:24,15,2015,-
+22,108,45.0,+1:12:00,,6.0,Yates Adam,6,Orica GreenEDGE,1:08:50 1:08:50,15,2015,-
+24,132,51.0,+1:18:49,,7.0,Kelderman Wilco,7,Team LottoNL-Jumbo,1:15:39 1:15:39,15,2015,-
+22,194,56.0,+1:25:40,,8.0,Buchmann Emanuel,8,Bora - Argon 18,1:22:30 1:22:30,15,2015,-
+22,147,60.0,+1:28:11,,9.0,Jungels Bob,9,Trek Factory Racing,1:25:01 1:25:01,15,2015,-
+23,217,67.0,+1:35:37,,10.0,Meintjes Louis,10,MTN - Qhubeka,1:32:27 1:32:27,15,2015,-
+25,111,75.0,+1:41:01,,11.0,Kwiatkowski Michał,11,Etixx - Quick Step,1:37:51 1:37:51,15,2015,-
+24,128,86.0,+1:44:47,,13.0,Tulik Angelo,12,Team Europcar,1:41:37 1:41:37,15,2015,▲1
+25,63,94.0,+1:50:33,,14.0,Dennis Rohan,13,BMC Racing Team,1:47:23 1:47:23,15,2015,▲1
+25,87,97.0,+1:50:50,,15.0,Preidler Georg,14,Team Giant - Alpecin,1:47:40 1:47:40,15,2015,▲1
+22,109,107.0,+1:55:50,,12.0,Yates Simon,15,Orica GreenEDGE,1:52:40 1:52:40,15,2015,▼3
+23,122,112.0,+1:58:35,,18.0,Coquard Bryan,16,Team Europcar,1:55:25 1:55:25,15,2015,▲2
+21,216,116.0,+2:00:15,,17.0,Kudus Merhawi,17,MTN - Qhubeka,1:57:05 1:57:05,15,2015,-
+22,173,123.0,+2:05:29,,20.0,Laporte Christophe,18,"Cofidis, Solutions Crédits",2:02:19 2:02:19,15,2015,▲2
+23,24,124.0,+2:07:16,,16.0,Démare Arnaud,19,FDJ,2:04:06 2:04:06,15,2015,▼3
+23,49,125.0,+2:08:50,,21.0,Valgren Michael,20,Tinkoff - Saxo,2:05:40 2:05:40,15,2015,▲1
+24,79,133.0,+2:13:04,,22.0,Wellens Tim,21,Lotto Soudal,2:09:54 2:09:54,15,2015,▲1
+22,176,137.0,+2:16:25,,19.0,Sénéchal Florian,22,"Cofidis, Solutions Crédits",2:13:15 2:13:15,15,2015,▼3
+25,37,142.0,+2:22:35,,23.0,Rowe Luke,23,Team Sky,2:19:25 2:19:25,15,2015,-
+24,103,151.0,+2:26:51,,24.0,Durbridge Luke,24,Orica GreenEDGE,2:23:41 2:23:41,15,2015,-
+24,94,154.0,+2:31:26,,25.0,Haller Marco,25,Team Katusha,2:28:16 2:28:16,15,2015,-
+25,179,164.0,+2:43:15,,27.0,Vanbilsen Kenneth,26,"Cofidis, Solutions Crédits",2:40:05 2:40:05,15,2015,▲1
+23,169,165.0,+2:44:55,,26.0,van Baarle Dylan,27,Team Cannondale - Garmin,2:41:45 2:41:45,15,2015,▼1
+24,105,166.0,+2:45:28,,28.0,Matthews Michael,28,Orica GreenEDGE,2:42:18 2:42:18,15,2015,-
+24,193,171.0,+3:14:49,,29.0,Bennett Sam,29,Bora - Argon 18,3:11:39 3:11:39,15,2015,-
+25,51,2.0,+3:10,,1.0,Quintana Nairo,1,Movistar Team,64:50:26 64:50:26,16,2015,-
+23,82,10.0,+11:03,,2.0,Barguil Warren,2,Team Giant - Alpecin,7:53 7:53,16,2015,-
+24,12,12.0,+13:10,,3.0,Bardet Romain,3,AG2R La Mondiale,10:00 10:00,16,2015,-
+25,21,19.0,+31:54,,4.0,Pinot Thibaut,4,FDJ,28:44 28:44,16,2015,-
+25,47,26.0,+47:46,,5.0,Sagan Peter,5,Tinkoff - Saxo,44:36 44:36,16,2015,-
+25,51,2.0,+3:10,,1.0,Quintana Nairo,1,Movistar Team,69:09:59 69:09:59,17,2015,-
+23,82,10.0,+13:08,,2.0,Barguil Warren,2,Team Giant - Alpecin,9:58 9:58,17,2015,-
+24,12,11.0,+16:04,,3.0,Bardet Romain,3,AG2R La Mondiale,12:54 12:54,17,2015,-
+25,21,18.0,+26:14,,4.0,Pinot Thibaut,4,FDJ,23:04 23:04,17,2015,-
+25,47,29.0,+1:01:35,,5.0,Sagan Peter,5,Tinkoff - Saxo,58:25 58:25,17,2015,-
+22,147,36.0,+1:13:33,,,Jungels Bob,6,Trek Factory Racing,1:10:23 1:10:23,17,2015,-
+22,108,37.0,+1:14:51,,,Yates Adam,7,Orica GreenEDGE,1:11:41 1:11:41,17,2015,-
+22,194,66.0,+1:48:51,,,Buchmann Emanuel,8,Bora - Argon 18,1:45:41 1:45:41,17,2015,-
+24,132,72.0,+1:53:51,,,Kelderman Wilco,9,Team LottoNL-Jumbo,1:50:41 1:50:41,17,2015,-
+24,128,85.0,+2:05:04,,,Tulik Angelo,10,Team Europcar,2:01:54 2:01:54,17,2015,-
+21,216,92.0,+2:11:18,,,Kudus Merhawi,11,MTN - Qhubeka,2:08:08 2:08:08,17,2015,-
+25,87,93.0,+2:11:25,,,Preidler Georg,12,Team Giant - Alpecin,2:08:15 2:08:15,17,2015,-
+25,63,100.0,+2:17:54,,,Dennis Rohan,13,BMC Racing Team,2:14:44 2:14:44,17,2015,-
+23,217,101.0,+2:17:54,,,Meintjes Louis,14,MTN - Qhubeka,",, 2:14:44",17,2015,-
+23,122,113.0,+2:29:22,,,Coquard Bryan,15,Team Europcar,2:26:12 2:26:12,17,2015,-
+23,49,115.0,+2:30:33,,,Valgren Michael,16,Tinkoff - Saxo,2:27:23 2:27:23,17,2015,-
+22,109,116.0,+2:30:52,,,Yates Simon,17,Orica GreenEDGE,2:27:42 2:27:42,17,2015,-
+24,94,122.0,+2:38:32,,,Haller Marco,18,Team Katusha,2:35:22 2:35:22,17,2015,-
+22,173,125.0,+2:40:31,,,Laporte Christophe,19,"Cofidis, Solutions Crédits",2:37:21 2:37:21,17,2015,-
+23,24,128.0,+2:42:18,,,Démare Arnaud,20,FDJ,2:39:08 2:39:08,17,2015,-
+22,176,132.0,+2:45:49,,,Sénéchal Florian,21,"Cofidis, Solutions Crédits",2:42:39 2:42:39,17,2015,-
+24,79,137.0,+2:48:06,,,Wellens Tim,22,Lotto Soudal,2:44:56 2:44:56,17,2015,-
+25,37,142.0,+2:53:12,,,Rowe Luke,23,Team Sky,2:50:02 2:50:02,17,2015,-
+24,103,150.0,+3:01:53,,,Durbridge Luke,24,Orica GreenEDGE,2:58:43 2:58:43,17,2015,-
+23,169,153.0,+3:05:30,,,van Baarle Dylan,25,Team Cannondale - Garmin,3:02:20 3:02:20,17,2015,-
+25,179,159.0,+3:18:17,,,Vanbilsen Kenneth,26,"Cofidis, Solutions Crédits",3:15:07 3:15:07,17,2015,-
+24,105,161.0,+3:20:30,,,Matthews Michael,27,Orica GreenEDGE,3:17:20 3:17:20,17,2015,-
+25,51,2.0,+3:10,,1.0,Quintana Nairo,1,Movistar Team,74:16:41 74:16:41,18,2015,-
+24,12,10.0,+12:52,,3.0,Bardet Romain,2,AG2R La Mondiale,9:42 9:42,18,2015,▲1
+23,82,11.0,+13:08,,2.0,Barguil Warren,3,Team Giant - Alpecin,9:58 9:58,18,2015,▼1
+25,21,16.0,+39:24,,4.0,Pinot Thibaut,4,FDJ,36:14 36:14,18,2015,-
+22,147,27.0,+1:11:30,,6.0,Jungels Bob,5,Trek Factory Racing,1:08:20 1:08:20,18,2015,▲1
+25,47,40.0,+1:34:24,,5.0,Sagan Peter,6,Tinkoff - Saxo,1:31:14 1:31:14,18,2015,▼1
+22,108,48.0,+1:46:21,,7.0,Yates Adam,7,Orica GreenEDGE,1:43:11 1:43:11,18,2015,-
+24,132,76.0,+2:18:17,,9.0,Kelderman Wilco,8,Team LottoNL-Jumbo,2:15:07 2:15:07,18,2015,▲1
+22,194,79.0,+2:21:40,,8.0,Buchmann Emanuel,9,Bora - Argon 18,2:18:30 2:18:30,18,2015,▼1
+25,87,83.0,+2:27:07,,12.0,Preidler Georg,10,Team Giant - Alpecin,2:23:57 2:23:57,18,2015,▲2
+24,128,93.0,+2:37:53,,10.0,Tulik Angelo,11,Team Europcar,2:34:43 2:34:43,18,2015,▼1
+25,63,97.0,+2:42:20,,13.0,Dennis Rohan,12,BMC Racing Team,2:39:10 2:39:10,18,2015,▲1
+21,216,99.0,+2:44:07,,11.0,Kudus Merhawi,13,MTN - Qhubeka,2:40:57 2:40:57,18,2015,▼2
+22,109,103.0,+2:46:34,,17.0,Yates Simon,14,Orica GreenEDGE,2:43:24 2:43:24,18,2015,▲3
+23,49,110.0,+2:54:59,,16.0,Valgren Michael,15,Tinkoff - Saxo,2:51:49 2:51:49,18,2015,▲1
+23,122,114.0,+3:02:11,,15.0,Coquard Bryan,16,Team Europcar,2:59:01 2:59:01,18,2015,▼1
+24,94,124.0,+3:11:21,,18.0,Haller Marco,17,Team Katusha,3:08:11 3:08:11,18,2015,▲1
+24,79,128.0,+3:12:32,,22.0,Wellens Tim,18,Lotto Soudal,3:09:22 3:09:22,18,2015,▲4
+22,173,130.0,+3:13:20,,19.0,Laporte Christophe,19,"Cofidis, Solutions Crédits",3:10:10 3:10:10,18,2015,-
+22,176,131.0,+3:13:45,,21.0,Sénéchal Florian,20,"Cofidis, Solutions Crédits",3:10:35 3:10:35,18,2015,▲1
+23,24,135.0,+3:15:07,,20.0,Démare Arnaud,21,FDJ,3:11:57 3:11:57,18,2015,▼1
+25,37,136.0,+3:17:38,,23.0,Rowe Luke,22,Team Sky,3:14:28 3:14:28,18,2015,▲1
+23,169,148.0,+3:33:26,,25.0,van Baarle Dylan,23,Team Cannondale - Garmin,3:30:16 3:30:16,18,2015,▲2
+24,103,150.0,+3:34:42,,24.0,Durbridge Luke,24,Orica GreenEDGE,3:31:32 3:31:32,18,2015,-
+24,105,151.0,+3:36:12,,27.0,Matthews Michael,25,Orica GreenEDGE,3:33:02 3:33:02,18,2015,▲2
+25,179,158.0,+3:51:06,,26.0,Vanbilsen Kenneth,26,"Cofidis, Solutions Crédits",3:47:56 3:47:56,18,2015,-
+25,51,2.0,+2:38,,1.0,Quintana Nairo,1,Movistar Team,78:40:12 78:40:12,19,2015,-
+24,12,9.0,+14:08,,2.0,Bardet Romain,2,AG2R La Mondiale,11:30 11:30,19,2015,-
+23,82,14.0,+27:00,,3.0,Barguil Warren,3,Team Giant - Alpecin,24:22 24:22,19,2015,-
+25,21,16.0,+40:40,,4.0,Pinot Thibaut,4,FDJ,38:02 38:02,19,2015,-
+22,147,29.0,+1:31:33,,5.0,Jungels Bob,5,Trek Factory Racing,1:28:55 1:28:55,19,2015,-
+25,47,40.0,+1:55:14,,6.0,Sagan Peter,6,Tinkoff - Saxo,1:52:36 1:52:36,19,2015,-
+22,108,53.0,+2:13:47,,7.0,Yates Adam,7,Orica GreenEDGE,2:11:09 2:11:09,19,2015,-
+24,132,78.0,+2:46:19,,8.0,Kelderman Wilco,8,Team LottoNL-Jumbo,2:43:41 2:43:41,19,2015,-
+22,194,82.0,+2:49:06,,9.0,Buchmann Emanuel,9,Bora - Argon 18,2:46:28 2:46:28,19,2015,-
+25,87,83.0,+2:54:33,,10.0,Preidler Georg,10,Team Giant - Alpecin,2:51:55 2:51:55,19,2015,-
+21,216,84.0,+2:54:38,,13.0,Kudus Merhawi,11,MTN - Qhubeka,2:52:00 2:52:00,19,2015,▲2
+24,128,90.0,+2:58:43,,11.0,Tulik Angelo,12,Team Europcar,2:56:05 2:56:05,19,2015,▼1
+25,63,100.0,+3:09:46,,12.0,Dennis Rohan,13,BMC Racing Team,3:07:08 3:07:08,19,2015,▼1
+22,109,105.0,+3:14:36,,14.0,Yates Simon,14,Orica GreenEDGE,3:11:58 3:11:58,19,2015,-
+23,122,110.0,+3:23:01,,16.0,Coquard Bryan,15,Team Europcar,3:20:23 3:20:23,19,2015,▲1
+24,94,124.0,+3:39:23,,17.0,Haller Marco,16,Team Katusha,3:36:45 3:36:45,19,2015,▲1
+24,79,128.0,+3:39:58,,18.0,Wellens Tim,17,Lotto Soudal,3:37:20 3:37:20,19,2015,▲1
+22,173,130.0,+3:41:22,,19.0,Laporte Christophe,18,"Cofidis, Solutions Crédits",3:38:44 3:38:44,19,2015,▲1
+22,176,133.0,+3:41:47,,20.0,Sénéchal Florian,19,"Cofidis, Solutions Crédits",3:39:09 3:39:09,19,2015,▲1
+23,24,135.0,+3:43:09,,21.0,Démare Arnaud,20,FDJ,3:40:31 3:40:31,19,2015,▲1
+25,37,136.0,+3:45:04,,22.0,Rowe Luke,21,Team Sky,3:42:26 3:42:26,19,2015,▲1
+23,169,146.0,+4:00:52,,23.0,van Baarle Dylan,22,Team Cannondale - Garmin,3:58:14 3:58:14,19,2015,▲1
+24,103,149.0,+4:02:44,,24.0,Durbridge Luke,23,Orica GreenEDGE,4:00:06 4:00:06,19,2015,▲1
+24,105,151.0,+4:04:14,,25.0,Matthews Michael,24,Orica GreenEDGE,4:01:36 4:01:36,19,2015,▲1
+25,179,157.0,+4:19:08,,26.0,Vanbilsen Kenneth,25,"Cofidis, Solutions Crédits",4:16:30 4:16:30,19,2015,▲1
+25,51,2.0,+1:12,,1.0,Quintana Nairo,1,Movistar Team,81:57:45 81:57:45,20,2015,-
+24,12,9.0,+16:00,,2.0,Bardet Romain,2,AG2R La Mondiale,14:48 14:48,20,2015,-
+23,82,14.0,+31:15,,3.0,Barguil Warren,3,Team Giant - Alpecin,30:03 30:03,20,2015,-
+25,21,16.0,+38:52,,4.0,Pinot Thibaut,4,FDJ,37:40 37:40,20,2015,-
+22,147,27.0,+1:33:21,,5.0,Jungels Bob,5,Trek Factory Racing,1:32:09 1:32:09,20,2015,-
+25,47,46.0,+2:14:55,,6.0,Sagan Peter,6,Tinkoff - Saxo,2:13:43 2:13:43,20,2015,-
+22,108,50.0,+2:16:36,,7.0,Yates Adam,7,Orica GreenEDGE,2:15:24 2:15:24,20,2015,-
+24,132,79.0,+3:04:07,,8.0,Kelderman Wilco,8,Team LottoNL-Jumbo,3:02:55 3:02:55,20,2015,-
+22,194,83.0,+3:08:47,,9.0,Buchmann Emanuel,9,Bora - Argon 18,3:07:35 3:07:35,20,2015,-
+21,216,84.0,+3:10:36,,11.0,Kudus Merhawi,10,MTN - Qhubeka,3:09:24 3:09:24,20,2015,▲1
+25,87,87.0,+3:14:14,,10.0,Preidler Georg,11,Team Giant - Alpecin,3:13:02 3:13:02,20,2015,▼1
+22,109,89.0,+3:16:04,,14.0,Yates Simon,12,Orica GreenEDGE,3:14:52 3:14:52,20,2015,▲2
+24,128,91.0,+3:18:24,,12.0,Tulik Angelo,13,Team Europcar,3:17:12 3:17:12,20,2015,▼1
+25,63,101.0,+3:27:34,,13.0,Dennis Rohan,14,BMC Racing Team,3:26:22 3:26:22,20,2015,▼1
+23,122,111.0,+3:42:42,,15.0,Coquard Bryan,15,Team Europcar,3:41:30 3:41:30,20,2015,-
+24,94,126.0,+3:59:04,,16.0,Haller Marco,16,Team Katusha,3:57:52 3:57:52,20,2015,-
+22,173,127.0,+3:59:10,,18.0,Laporte Christophe,17,"Cofidis, Solutions Crédits",3:57:58 3:57:58,20,2015,▲1
+24,79,129.0,+3:59:39,,17.0,Wellens Tim,18,Lotto Soudal,3:58:27 3:58:27,20,2015,▼1
+22,176,135.0,+4:04:06,,19.0,Sénéchal Florian,19,"Cofidis, Solutions Crédits",4:02:54 4:02:54,20,2015,-
+25,37,136.0,+4:04:45,,21.0,Rowe Luke,20,Team Sky,4:03:33 4:03:33,20,2015,▲1
+23,24,138.0,+4:05:28,,20.0,Démare Arnaud,21,FDJ,4:04:16 4:04:16,20,2015,▼1
+23,169,147.0,+4:18:40,,22.0,van Baarle Dylan,22,Team Cannondale - Garmin,4:17:28 4:17:28,20,2015,-
+24,103,151.0,+4:25:03,,23.0,Durbridge Luke,23,Orica GreenEDGE,4:23:51 4:23:51,20,2015,-
+24,105,152.0,+4:26:33,,24.0,Matthews Michael,24,Orica GreenEDGE,4:25:21 4:25:21,20,2015,-
+25,179,158.0,+4:41:27,,25.0,Vanbilsen Kenneth,25,"Cofidis, Solutions Crédits",4:40:15 4:40:15,20,2015,-
+25,51,2.0,+1:12,,1.0,Quintana Nairo,1,Movistar Team,84:47:26 84:47:26,21,2015,-
+24,12,9.0,+16:00,,2.0,Bardet Romain,2,AG2R La Mondiale,14:48 14:48,21,2015,-
+23,82,14.0,+31:15,,3.0,Barguil Warren,3,Team Giant - Alpecin,30:03 30:03,21,2015,-
+25,21,16.0,+38:52,,4.0,Pinot Thibaut,4,FDJ,37:40 37:40,21,2015,-
+22,147,27.0,+1:33:21,,5.0,Jungels Bob,5,Trek Factory Racing,1:32:09 1:32:09,21,2015,-
+25,47,46.0,+2:14:55,,6.0,Sagan Peter,6,Tinkoff - Saxo,2:13:43 2:13:43,21,2015,-
+22,108,50.0,+2:16:36,,7.0,Yates Adam,7,Orica GreenEDGE,2:15:24 2:15:24,21,2015,-
+24,132,79.0,+3:04:07,,8.0,Kelderman Wilco,8,Team LottoNL-Jumbo,3:02:55 3:02:55,21,2015,-
+22,194,83.0,+3:08:47,,9.0,Buchmann Emanuel,9,Bora - Argon 18,3:07:35 3:07:35,21,2015,-
+21,216,84.0,+3:10:36,,10.0,Kudus Merhawi,10,MTN - Qhubeka,3:09:24 3:09:24,21,2015,-
+25,87,87.0,+3:14:14,,11.0,Preidler Georg,11,Team Giant - Alpecin,3:13:02 3:13:02,21,2015,-
+22,109,89.0,+3:16:04,,12.0,Yates Simon,12,Orica GreenEDGE,3:14:52 3:14:52,21,2015,-
+24,128,91.0,+3:18:24,,13.0,Tulik Angelo,13,Team Europcar,3:17:12 3:17:12,21,2015,-
+25,63,101.0,+3:27:34,,14.0,Dennis Rohan,14,BMC Racing Team,3:26:22 3:26:22,21,2015,-
+23,122,110.0,+3:42:36,,15.0,Coquard Bryan,15,Team Europcar,3:41:24 3:41:24,21,2015,-
+24,94,126.0,+3:59:04,,16.0,Haller Marco,16,Team Katusha,3:57:52 3:57:52,21,2015,-
+22,173,127.0,+3:59:10,,17.0,Laporte Christophe,17,"Cofidis, Solutions Crédits",3:57:58 3:57:58,21,2015,-
+24,79,129.0,+3:59:39,,18.0,Wellens Tim,18,Lotto Soudal,3:58:27 3:58:27,21,2015,-
+22,176,135.0,+4:04:06,,19.0,Sénéchal Florian,19,"Cofidis, Solutions Crédits",4:02:54 4:02:54,21,2015,-
+25,37,136.0,+4:04:45,,20.0,Rowe Luke,20,Team Sky,4:03:33 4:03:33,21,2015,-
+23,24,138.0,+4:05:28,,21.0,Démare Arnaud,21,FDJ,4:04:16 4:04:16,21,2015,-
+23,169,147.0,+4:18:40,,22.0,van Baarle Dylan,22,Team Cannondale - Garmin,4:17:28 4:17:28,21,2015,-
+24,103,151.0,+4:25:03,,23.0,Durbridge Luke,23,Orica GreenEDGE,4:23:51 4:23:51,21,2015,-
+24,105,152.0,+4:26:33,,24.0,Matthews Michael,24,Orica GreenEDGE,4:25:21 4:25:21,21,2015,-
+25,179,158.0,+4:41:27,,25.0,Vanbilsen Kenneth,25,"Cofidis, Solutions Crédits",4:40:15 4:40:15,21,2015,-

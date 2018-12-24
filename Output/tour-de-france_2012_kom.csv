@@ -1,0 +1,673 @@
+Age,BIB,Pnt,Prev,Rider,Rnk,Team,stage,year,▼▲
+27.0,175.0,3.0,,Mørkøv Michael,1.0,Team Saxo Bank - Tinkoff Bank,1,2012,
+22.0,57.0,1.0,,Sagan Peter,2.0,Liquigas - Cannondale,1,2012,
+32.0,38.0,1.0,,Urtasun Pablo,3.0,Euskaltel - Euskadi,1,2012,
+27.0,175.0,4.0,1.0,Mørkøv Michael,1.0,Team Saxo Bank - Tinkoff Bank,2,2012,-
+22.0,57.0,1.0,2.0,Sagan Peter,2.0,Liquigas - Cannondale,2,2012,-
+32.0,38.0,1.0,3.0,Urtasun Pablo,3.0,Euskaltel - Euskadi,2,2012,-
+27.0,175.0,9.0,1.0,Mørkøv Michael,1.0,Team Saxo Bank - Tinkoff Bank,3,2012,-
+34.0,52.0,2.0,,Basso Ivan,2.0,Liquigas - Cannondale,3,2012,-
+22.0,57.0,2.0,2.0,Sagan Peter,3.0,Liquigas - Cannondale,3,2012,▼1
+32.0,38.0,1.0,3.0,Urtasun Pablo,4.0,Euskaltel - Euskadi,3,2012,▼1
+24.0,13.0,1.0,,Gallopin Tony,5.0,RadioShack - Nissan,3,2012,-
+30.0,77.0,1.0,,Minard Sébastien,6.0,AG2R La Mondiale,3,2012,-
+27.0,175.0,9.0,1.0,Mørkøv Michael,1.0,Team Saxo Bank - Tinkoff Bank,4,2012,-
+34.0,52.0,2.0,2.0,Basso Ivan,2.0,Liquigas - Cannondale,4,2012,-
+22.0,57.0,2.0,3.0,Sagan Peter,3.0,Liquigas - Cannondale,4,2012,-
+37.0,88.0,2.0,,Moncoutié David,4.0,"Cofidis, le Crédit en Ligne",4,2012,-
+22.0,92.0,2.0,,Delaplace Anthony,5.0,Saur - Sojasun,4,2012,-
+32.0,38.0,1.0,4.0,Urtasun Pablo,6.0,Euskaltel - Euskadi,4,2012,▼2
+24.0,13.0,1.0,5.0,Gallopin Tony,7.0,RadioShack - Nissan,4,2012,▼2
+30.0,77.0,1.0,6.0,Minard Sébastien,8.0,AG2R La Mondiale,4,2012,▼2
+27.0,175.0,9.0,1.0,Mørkøv Michael,1.0,Team Saxo Bank - Tinkoff Bank,5,2012,-
+34.0,52.0,2.0,2.0,Basso Ivan,2.0,Liquigas - Cannondale,5,2012,-
+22.0,57.0,2.0,3.0,Sagan Peter,3.0,Liquigas - Cannondale,5,2012,-
+22.0,92.0,2.0,5.0,Delaplace Anthony,4.0,Saur - Sojasun,5,2012,▲1
+37.0,88.0,2.0,4.0,Moncoutié David,5.0,"Cofidis, le Crédit en Ligne",5,2012,▼1
+32.0,38.0,1.0,6.0,Urtasun Pablo,6.0,Euskaltel - Euskadi,5,2012,-
+24.0,13.0,1.0,7.0,Gallopin Tony,7.0,RadioShack - Nissan,5,2012,-
+30.0,77.0,1.0,8.0,Minard Sébastien,8.0,AG2R La Mondiale,5,2012,-
+27.0,175.0,9.0,1.0,Mørkøv Michael,1.0,Team Saxo Bank - Tinkoff Bank,6,2012,-
+34.0,52.0,2.0,2.0,Basso Ivan,2.0,Liquigas - Cannondale,6,2012,-
+22.0,57.0,2.0,3.0,Sagan Peter,3.0,Liquigas - Cannondale,6,2012,-
+22.0,92.0,2.0,4.0,Delaplace Anthony,4.0,Saur - Sojasun,6,2012,-
+37.0,88.0,2.0,5.0,Moncoutié David,5.0,"Cofidis, le Crédit en Ligne",6,2012,-
+33.0,69.0,1.0,,Zabriskie David,6.0,Garmin Sharp,6,2012,-
+32.0,38.0,1.0,6.0,Urtasun Pablo,7.0,Euskaltel - Euskadi,6,2012,▼1
+24.0,13.0,1.0,7.0,Gallopin Tony,8.0,RadioShack - Nissan,6,2012,▼1
+30.0,77.0,1.0,8.0,Minard Sébastien,9.0,AG2R La Mondiale,6,2012,▼1
+27.0,105.0,20.0,,Froome Chris,1.0,Sky Procycling,7,2012,-
+35.0,1.0,16.0,,Evans Cadel,2.0,BMC Racing Team,7,2012,-
+32.0,101.0,12.0,,Wiggins Bradley,3.0,Sky Procycling,7,2012,-
+27.0,175.0,9.0,1.0,Mørkøv Michael,4.0,Team Saxo Bank - Tinkoff Bank,7,2012,▼3
+27.0,51.0,8.0,,Nibali Vincenzo,5.0,Liquigas - Cannondale,7,2012,-
+27.0,178.0,4.0,,Sørensen Chris Anker,6.0,Team Saxo Bank - Tinkoff Bank,7,2012,-
+25.0,81.0,4.0,,Taaramäe Rein,7.0,"Cofidis, le Crédit en Ligne",7,2012,-
+34.0,52.0,2.0,2.0,Basso Ivan,8.0,Liquigas - Cannondale,7,2012,▼6
+22.0,57.0,2.0,3.0,Sagan Peter,9.0,Liquigas - Cannondale,7,2012,▼6
+37.0,88.0,2.0,5.0,Moncoutié David,10.0,"Cofidis, le Crédit en Ligne",7,2012,▼5
+35.0,19.0,2.0,,Zubeldia Haimar,11.0,RadioShack - Nissan,7,2012,-
+28.0,155.0,2.0,,Sánchez Luis León,12.0,Rabobank Cycling Team,7,2012,-
+33.0,69.0,1.0,6.0,Zabriskie David,13.0,Garmin Sharp,7,2012,▼7
+32.0,38.0,1.0,7.0,Urtasun Pablo,14.0,Euskaltel - Euskadi,7,2012,▼7
+24.0,13.0,1.0,8.0,Gallopin Tony,15.0,RadioShack - Nissan,7,2012,▼7
+30.0,77.0,1.0,9.0,Minard Sébastien,16.0,AG2R La Mondiale,7,2012,▼7
+32.0,187.0,21.0,,Kessiakoff Fredrik,1.0,Astana Pro Team,8,2012,-
+27.0,105.0,20.0,1.0,Froome Chris,2.0,Sky Procycling,8,2012,▼1
+35.0,1.0,18.0,2.0,Evans Cadel,3.0,BMC Racing Team,8,2012,▼1
+22.0,146.0,16.0,,Pinot Thibaut,4.0,FDJ - BigMat,8,2012,-
+32.0,101.0,12.0,3.0,Wiggins Bradley,5.0,Sky Procycling,8,2012,▼2
+27.0,175.0,9.0,4.0,Mørkøv Michael,6.0,Team Saxo Bank - Tinkoff Bank,8,2012,▼2
+27.0,51.0,9.0,5.0,Nibali Vincenzo,7.0,Liquigas - Cannondale,8,2012,▼2
+24.0,13.0,9.0,15.0,Gallopin Tony,8.0,RadioShack - Nissan,8,2012,▲7
+27.0,178.0,8.0,6.0,Sørensen Chris Anker,9.0,Team Saxo Bank - Tinkoff Bank,8,2012,▼3
+29.0,148.0,5.0,,Roy Jérémy,10.0,FDJ - BigMat,8,2012,-
+25.0,76.0,5.0,,Kadri Blel,11.0,AG2R La Mondiale,8,2012,-
+37.0,88.0,5.0,10.0,Moncoutié David,12.0,"Cofidis, le Crédit en Ligne",8,2012,▼2
+40.0,18.0,4.0,,Voigt Jens,13.0,RadioShack - Nissan,8,2012,-
+29.0,111.0,4.0,,Van den Broeck Jurgen,14.0,Lotto Belisol Team,8,2012,-
+25.0,81.0,4.0,7.0,Taaramäe Rein,15.0,"Cofidis, le Crédit en Ligne",8,2012,▼8
+34.0,52.0,2.0,8.0,Basso Ivan,16.0,Liquigas - Cannondale,8,2012,▼8
+22.0,57.0,2.0,9.0,Sagan Peter,17.0,Liquigas - Cannondale,8,2012,▼8
+35.0,19.0,2.0,11.0,Zubeldia Haimar,18.0,RadioShack - Nissan,8,2012,▼7
+31.0,27.0,2.0,,Kern Christophe,19.0,Team Europcar,8,2012,-
+29.0,123.0,2.0,,Hoogerland Johnny,20.0,Vacansoleil - DCM,8,2012,-
+28.0,155.0,2.0,12.0,Sánchez Luis León,21.0,Rabobank Cycling Team,8,2012,▼9
+33.0,69.0,1.0,13.0,Zabriskie David,22.0,Garmin Sharp,8,2012,▼9
+32.0,38.0,1.0,14.0,Urtasun Pablo,23.0,Euskaltel - Euskadi,8,2012,▼9
+31.0,157.0,1.0,,ten Dam Laurens,24.0,Rabobank Cycling Team,8,2012,-
+25.0,152.0,1.0,,Kruijswijk Steven,25.0,Rabobank Cycling Team,8,2012,-
+30.0,77.0,1.0,16.0,Minard Sébastien,26.0,AG2R La Mondiale,8,2012,▼10
+32.0,187.0,21.0,1.0,Kessiakoff Fredrik,1.0,Astana Pro Team,9,2012,-
+27.0,105.0,20.0,2.0,Froome Chris,2.0,Sky Procycling,9,2012,-
+35.0,1.0,18.0,3.0,Evans Cadel,3.0,BMC Racing Team,9,2012,-
+22.0,146.0,16.0,4.0,Pinot Thibaut,4.0,FDJ - BigMat,9,2012,-
+32.0,101.0,12.0,5.0,Wiggins Bradley,5.0,Sky Procycling,9,2012,-
+27.0,175.0,9.0,6.0,Mørkøv Michael,6.0,Team Saxo Bank - Tinkoff Bank,9,2012,-
+27.0,51.0,9.0,7.0,Nibali Vincenzo,7.0,Liquigas - Cannondale,9,2012,-
+24.0,13.0,9.0,8.0,Gallopin Tony,8.0,RadioShack - Nissan,9,2012,-
+27.0,178.0,8.0,9.0,Sørensen Chris Anker,9.0,Team Saxo Bank - Tinkoff Bank,9,2012,-
+29.0,148.0,5.0,10.0,Roy Jérémy,10.0,FDJ - BigMat,9,2012,-
+25.0,76.0,5.0,11.0,Kadri Blel,11.0,AG2R La Mondiale,9,2012,-
+37.0,88.0,5.0,12.0,Moncoutié David,12.0,"Cofidis, le Crédit en Ligne",9,2012,-
+40.0,18.0,4.0,13.0,Voigt Jens,13.0,RadioShack - Nissan,9,2012,-
+29.0,111.0,4.0,14.0,Van den Broeck Jurgen,14.0,Lotto Belisol Team,9,2012,-
+25.0,81.0,4.0,15.0,Taaramäe Rein,15.0,"Cofidis, le Crédit en Ligne",9,2012,-
+34.0,52.0,2.0,16.0,Basso Ivan,16.0,Liquigas - Cannondale,9,2012,-
+22.0,57.0,2.0,17.0,Sagan Peter,17.0,Liquigas - Cannondale,9,2012,-
+35.0,19.0,2.0,18.0,Zubeldia Haimar,18.0,RadioShack - Nissan,9,2012,-
+29.0,123.0,2.0,20.0,Hoogerland Johnny,19.0,Vacansoleil - DCM,9,2012,▲1
+31.0,27.0,2.0,19.0,Kern Christophe,20.0,Team Europcar,9,2012,▼1
+28.0,155.0,2.0,21.0,Sánchez Luis León,21.0,Rabobank Cycling Team,9,2012,-
+33.0,69.0,1.0,22.0,Zabriskie David,22.0,Garmin Sharp,9,2012,-
+32.0,38.0,1.0,23.0,Urtasun Pablo,23.0,Euskaltel - Euskadi,9,2012,-
+31.0,157.0,1.0,24.0,ten Dam Laurens,24.0,Rabobank Cycling Team,9,2012,-
+25.0,152.0,1.0,25.0,Kruijswijk Steven,25.0,Rabobank Cycling Team,9,2012,-
+30.0,77.0,1.0,26.0,Minard Sébastien,26.0,AG2R La Mondiale,9,2012,-
+33.0,21.0,28.0,,Voeckler Thomas,1.0,Team Europcar,10,2012,-
+32.0,187.0,21.0,1.0,Kessiakoff Fredrik,2.0,Astana Pro Team,10,2012,▼1
+32.0,41.0,21.0,,Scarponi Michele,3.0,Lampre - ISD,10,2012,-
+27.0,105.0,20.0,2.0,Froome Chris,4.0,Sky Procycling,10,2012,▼2
+40.0,18.0,18.0,13.0,Voigt Jens,5.0,RadioShack - Nissan,10,2012,▲8
+35.0,1.0,18.0,3.0,Evans Cadel,6.0,BMC Racing Team,10,2012,▼3
+28.0,155.0,18.0,21.0,Sánchez Luis León,7.0,Rabobank Cycling Team,10,2012,▲14
+22.0,146.0,16.0,4.0,Pinot Thibaut,8.0,FDJ - BigMat,10,2012,▼4
+27.0,175.0,14.0,6.0,Mørkøv Michael,9.0,Team Saxo Bank - Tinkoff Bank,10,2012,▼3
+28.0,194.0,14.0,,Devenyns Dries,10.0,Omega Pharma - Quick-Step,10,2012,-
+32.0,101.0,12.0,5.0,Wiggins Bradley,11.0,Sky Procycling,10,2012,▼6
+33.0,141.0,10.0,,Casar Sandy,12.0,FDJ - BigMat,10,2012,-
+27.0,51.0,9.0,7.0,Nibali Vincenzo,13.0,Liquigas - Cannondale,10,2012,▼6
+24.0,13.0,9.0,8.0,Gallopin Tony,14.0,RadioShack - Nissan,10,2012,▼6
+27.0,178.0,8.0,9.0,Sørensen Chris Anker,15.0,Team Saxo Bank - Tinkoff Bank,10,2012,▼6
+34.0,35.0,8.0,,Martínez Egoi,16.0,Euskaltel - Euskadi,10,2012,-
+28.0,184.0,7.0,,Grivko Andrey,17.0,Astana Pro Team,10,2012,-
+35.0,183.0,6.0,,Fofonov Dmitriy,18.0,Astana Pro Team,10,2012,-
+29.0,148.0,5.0,10.0,Roy Jérémy,19.0,FDJ - BigMat,10,2012,▼9
+25.0,76.0,5.0,11.0,Kadri Blel,20.0,AG2R La Mondiale,10,2012,▼9
+37.0,88.0,5.0,12.0,Moncoutié David,21.0,"Cofidis, le Crédit en Ligne",10,2012,▼9
+29.0,111.0,4.0,14.0,Van den Broeck Jurgen,22.0,Lotto Belisol Team,10,2012,▼8
+25.0,81.0,4.0,15.0,Taaramäe Rein,23.0,"Cofidis, le Crédit en Ligne",10,2012,▼8
+34.0,52.0,2.0,16.0,Basso Ivan,24.0,Liquigas - Cannondale,10,2012,▼8
+22.0,57.0,2.0,17.0,Sagan Peter,25.0,Liquigas - Cannondale,10,2012,▼8
+35.0,19.0,2.0,18.0,Zubeldia Haimar,26.0,RadioShack - Nissan,10,2012,▼8
+35.0,71.0,2.0,,Peraud Jean-Christophe,27.0,AG2R La Mondiale,10,2012,-
+29.0,123.0,2.0,19.0,Hoogerland Johnny,28.0,Vacansoleil - DCM,10,2012,▼9
+31.0,27.0,2.0,20.0,Kern Christophe,29.0,Team Europcar,10,2012,▼9
+33.0,69.0,1.0,22.0,Zabriskie David,30.0,Garmin Sharp,10,2012,▼8
+32.0,38.0,1.0,23.0,Urtasun Pablo,31.0,Euskaltel - Euskadi,10,2012,▼8
+31.0,157.0,1.0,24.0,ten Dam Laurens,32.0,Rabobank Cycling Team,10,2012,▼8
+25.0,152.0,1.0,25.0,Kruijswijk Steven,33.0,Rabobank Cycling Team,10,2012,▼8
+30.0,77.0,1.0,26.0,Minard Sébastien,34.0,AG2R La Mondiale,10,2012,▼8
+32.0,187.0,66.0,2.0,Kessiakoff Fredrik,1.0,Astana Pro Team,11,2012,▲1
+25.0,29.0,55.0,,Rolland Pierre,2.0,Team Europcar,11,2012,-
+27.0,178.0,39.0,15.0,Sørensen Chris Anker,3.0,Team Saxo Bank - Tinkoff Bank,11,2012,▲12
+32.0,41.0,33.0,3.0,Scarponi Michele,4.0,Lampre - ISD,11,2012,▼1
+27.0,105.0,32.0,4.0,Froome Chris,5.0,Sky Procycling,11,2012,▼1
+22.0,146.0,32.0,8.0,Pinot Thibaut,6.0,FDJ - BigMat,11,2012,▲2
+27.0,199.0,29.0,,Velits Peter,7.0,Omega Pharma - Quick-Step,11,2012,-
+33.0,21.0,28.0,1.0,Voeckler Thomas,8.0,Team Europcar,11,2012,▼7
+31.0,27.0,20.0,29.0,Kern Christophe,9.0,Team Europcar,11,2012,▲20
+40.0,18.0,18.0,5.0,Voigt Jens,10.0,RadioShack - Nissan,11,2012,▼5
+35.0,1.0,18.0,6.0,Evans Cadel,11.0,BMC Racing Team,11,2012,▼5
+28.0,155.0,18.0,7.0,Sánchez Luis León,12.0,Rabobank Cycling Team,11,2012,▼5
+25.0,188.0,15.0,,Kišerlovski Robert,13.0,Astana Pro Team,11,2012,-
+27.0,175.0,14.0,9.0,Mørkøv Michael,14.0,Team Saxo Bank - Tinkoff Bank,11,2012,▼5
+32.0,101.0,14.0,11.0,Wiggins Bradley,15.0,Sky Procycling,11,2012,▼4
+40.0,14.0,14.0,,Horner Chris,16.0,RadioShack - Nissan,11,2012,-
+31.0,167.0,14.0,,Kiryienka Vasil,17.0,Movistar Team,11,2012,-
+28.0,194.0,14.0,10.0,Devenyns Dries,18.0,Omega Pharma - Quick-Step,11,2012,▼8
+27.0,51.0,13.0,13.0,Nibali Vincenzo,19.0,Liquigas - Cannondale,11,2012,▼6
+29.0,111.0,12.0,22.0,Van den Broeck Jurgen,20.0,Lotto Belisol Team,11,2012,▲2
+31.0,157.0,11.0,32.0,ten Dam Laurens,21.0,Rabobank Cycling Team,11,2012,▲11
+33.0,141.0,10.0,12.0,Casar Sandy,22.0,FDJ - BigMat,11,2012,▼10
+24.0,13.0,9.0,14.0,Gallopin Tony,23.0,RadioShack - Nissan,11,2012,▼9
+34.0,35.0,8.0,16.0,Martínez Egoi,24.0,Euskaltel - Euskadi,11,2012,▼8
+25.0,65.0,8.0,,Martin Dan,25.0,Garmin Sharp,11,2012,-
+26.0,94.0,8.0,,Feillu Brice,26.0,Saur - Sojasun,11,2012,-
+28.0,184.0,7.0,17.0,Grivko Andrey,27.0,Astana Pro Team,11,2012,▼10
+35.0,183.0,6.0,18.0,Fofonov Dmitriy,28.0,Astana Pro Team,11,2012,▼10
+29.0,148.0,5.0,19.0,Roy Jérémy,29.0,FDJ - BigMat,11,2012,▼10
+25.0,76.0,5.0,20.0,Kadri Blel,30.0,AG2R La Mondiale,11,2012,▼10
+37.0,88.0,5.0,21.0,Moncoutié David,31.0,"Cofidis, le Crédit en Ligne",11,2012,▼10
+25.0,81.0,4.0,23.0,Taaramäe Rein,32.0,"Cofidis, le Crédit en Ligne",11,2012,▼9
+38.0,189.0,4.0,,Vinokourov Alexandre,33.0,Astana Pro Team,11,2012,-
+34.0,52.0,2.0,24.0,Basso Ivan,34.0,Liquigas - Cannondale,11,2012,▼10
+22.0,57.0,2.0,25.0,Sagan Peter,35.0,Liquigas - Cannondale,11,2012,▼10
+35.0,19.0,2.0,26.0,Zubeldia Haimar,36.0,RadioShack - Nissan,11,2012,▼10
+32.0,161.0,2.0,,Valverde Alejandro,37.0,Movistar Team,11,2012,-
+35.0,71.0,2.0,27.0,Peraud Jean-Christophe,38.0,AG2R La Mondiale,11,2012,▼11
+29.0,123.0,2.0,28.0,Hoogerland Johnny,39.0,Vacansoleil - DCM,11,2012,▼11
+32.0,38.0,1.0,31.0,Urtasun Pablo,40.0,Euskaltel - Euskadi,11,2012,▼9
+33.0,69.0,1.0,30.0,Zabriskie David,41.0,Garmin Sharp,11,2012,▼11
+25.0,152.0,1.0,33.0,Kruijswijk Steven,42.0,Rabobank Cycling Team,11,2012,▼9
+30.0,77.0,1.0,34.0,Minard Sébastien,43.0,AG2R La Mondiale,11,2012,▼9
+32.0,187.0,66.0,1.0,Kessiakoff Fredrik,1.0,Astana Pro Team,12,2012,-
+25.0,29.0,55.0,2.0,Rolland Pierre,2.0,Team Europcar,12,2012,-
+27.0,178.0,39.0,3.0,Sørensen Chris Anker,3.0,Team Saxo Bank - Tinkoff Bank,12,2012,-
+25.0,188.0,37.0,13.0,Kišerlovski Robert,4.0,Astana Pro Team,12,2012,▲9
+32.0,41.0,33.0,4.0,Scarponi Michele,5.0,Lampre - ISD,12,2012,▼1
+27.0,105.0,32.0,5.0,Froome Chris,6.0,Sky Procycling,12,2012,▼1
+22.0,146.0,32.0,6.0,Pinot Thibaut,7.0,FDJ - BigMat,12,2012,▼1
+27.0,199.0,29.0,7.0,Velits Peter,8.0,Omega Pharma - Quick-Step,12,2012,▼1
+33.0,21.0,28.0,8.0,Voeckler Thomas,9.0,Team Europcar,12,2012,▼1
+31.0,27.0,20.0,9.0,Kern Christophe,10.0,Team Europcar,12,2012,▼1
+35.0,71.0,19.0,38.0,Peraud Jean-Christophe,11.0,AG2R La Mondiale,12,2012,▲27
+40.0,18.0,18.0,10.0,Voigt Jens,12.0,RadioShack - Nissan,12,2012,▼2
+35.0,1.0,18.0,11.0,Evans Cadel,13.0,BMC Racing Team,12,2012,▼2
+28.0,155.0,18.0,12.0,Sánchez Luis León,14.0,Rabobank Cycling Team,12,2012,▼2
+27.0,175.0,14.0,14.0,Mørkøv Michael,15.0,Team Saxo Bank - Tinkoff Bank,12,2012,▼1
+32.0,101.0,14.0,15.0,Wiggins Bradley,16.0,Sky Procycling,12,2012,▼1
+40.0,14.0,14.0,16.0,Horner Chris,17.0,RadioShack - Nissan,12,2012,▼1
+34.0,35.0,14.0,24.0,Martínez Egoi,18.0,Euskaltel - Euskadi,12,2012,▲6
+31.0,167.0,14.0,17.0,Kiryienka Vasil,19.0,Movistar Team,12,2012,▼2
+28.0,194.0,14.0,18.0,Devenyns Dries,20.0,Omega Pharma - Quick-Step,12,2012,▼2
+27.0,51.0,13.0,19.0,Nibali Vincenzo,21.0,Liquigas - Cannondale,12,2012,▼2
+29.0,111.0,12.0,20.0,Van den Broeck Jurgen,22.0,Lotto Belisol Team,12,2012,▼2
+31.0,157.0,11.0,21.0,ten Dam Laurens,23.0,Rabobank Cycling Team,12,2012,▼2
+33.0,141.0,10.0,22.0,Casar Sandy,24.0,FDJ - BigMat,12,2012,▼2
+24.0,13.0,9.0,23.0,Gallopin Tony,25.0,RadioShack - Nissan,12,2012,▼2
+25.0,65.0,8.0,25.0,Martin Dan,26.0,Garmin Sharp,12,2012,▼1
+26.0,94.0,8.0,26.0,Feillu Brice,27.0,Saur - Sojasun,12,2012,▼1
+28.0,184.0,7.0,27.0,Grivko Andrey,28.0,Astana Pro Team,12,2012,▼1
+32.0,17.0,7.0,,Popovych Yaroslav,29.0,RadioShack - Nissan,12,2012,-
+24.0,24.0,6.0,,Gautier Cyril,30.0,Team Europcar,12,2012,-
+35.0,183.0,6.0,28.0,Fofonov Dmitriy,31.0,Astana Pro Team,12,2012,▼3
+35.0,66.0,6.0,,Millar David,32.0,Garmin Sharp,12,2012,-
+29.0,148.0,5.0,29.0,Roy Jérémy,33.0,FDJ - BigMat,12,2012,▼4
+25.0,76.0,5.0,30.0,Kadri Blel,34.0,AG2R La Mondiale,12,2012,▼4
+25.0,81.0,4.0,32.0,Taaramäe Rein,35.0,"Cofidis, le Crédit en Ligne",12,2012,▼3
+38.0,189.0,4.0,33.0,Vinokourov Alexandre,36.0,Astana Pro Team,12,2012,▼3
+34.0,52.0,2.0,34.0,Basso Ivan,37.0,Liquigas - Cannondale,12,2012,▼3
+22.0,57.0,2.0,35.0,Sagan Peter,38.0,Liquigas - Cannondale,12,2012,▼3
+35.0,19.0,2.0,36.0,Zubeldia Haimar,39.0,RadioShack - Nissan,12,2012,▼3
+32.0,161.0,2.0,37.0,Valverde Alejandro,40.0,Movistar Team,12,2012,▼3
+29.0,123.0,2.0,39.0,Hoogerland Johnny,41.0,Vacansoleil - DCM,12,2012,▼2
+33.0,69.0,1.0,41.0,Zabriskie David,42.0,Garmin Sharp,12,2012,▼1
+32.0,38.0,1.0,40.0,Urtasun Pablo,43.0,Euskaltel - Euskadi,12,2012,▼3
+25.0,152.0,1.0,42.0,Kruijswijk Steven,44.0,Rabobank Cycling Team,12,2012,▼2
+30.0,77.0,1.0,43.0,Minard Sébastien,45.0,AG2R La Mondiale,12,2012,▼2
+25.0,54.0,1.0,,Koren Kristijan,46.0,Liquigas - Cannondale,12,2012,-
+32.0,187.0,66.0,1.0,Kessiakoff Fredrik,1.0,Astana Pro Team,13,2012,-
+25.0,29.0,55.0,2.0,Rolland Pierre,2.0,Team Europcar,13,2012,-
+27.0,178.0,39.0,3.0,Sørensen Chris Anker,3.0,Team Saxo Bank - Tinkoff Bank,13,2012,-
+25.0,188.0,37.0,4.0,Kišerlovski Robert,4.0,Astana Pro Team,13,2012,-
+32.0,41.0,33.0,5.0,Scarponi Michele,5.0,Lampre - ISD,13,2012,-
+27.0,105.0,32.0,6.0,Froome Chris,6.0,Sky Procycling,13,2012,-
+22.0,146.0,32.0,7.0,Pinot Thibaut,7.0,FDJ - BigMat,13,2012,-
+27.0,199.0,29.0,8.0,Velits Peter,8.0,Omega Pharma - Quick-Step,13,2012,-
+33.0,21.0,28.0,9.0,Voeckler Thomas,9.0,Team Europcar,13,2012,-
+31.0,27.0,20.0,10.0,Kern Christophe,10.0,Team Europcar,13,2012,-
+35.0,1.0,19.0,13.0,Evans Cadel,11.0,BMC Racing Team,13,2012,▲2
+35.0,71.0,19.0,11.0,Peraud Jean-Christophe,12.0,AG2R La Mondiale,13,2012,▼1
+40.0,18.0,18.0,12.0,Voigt Jens,13.0,RadioShack - Nissan,13,2012,▼1
+28.0,155.0,18.0,14.0,Sánchez Luis León,14.0,Rabobank Cycling Team,13,2012,-
+27.0,175.0,14.0,15.0,Mørkøv Michael,15.0,Team Saxo Bank - Tinkoff Bank,13,2012,-
+29.0,111.0,14.0,22.0,Van den Broeck Jurgen,16.0,Lotto Belisol Team,13,2012,▲6
+32.0,101.0,14.0,16.0,Wiggins Bradley,17.0,Sky Procycling,13,2012,▼1
+40.0,14.0,14.0,17.0,Horner Chris,18.0,RadioShack - Nissan,13,2012,▼1
+34.0,35.0,14.0,18.0,Martínez Egoi,19.0,Euskaltel - Euskadi,13,2012,▼1
+31.0,167.0,14.0,19.0,Kiryienka Vasil,20.0,Movistar Team,13,2012,▼1
+28.0,194.0,14.0,20.0,Devenyns Dries,21.0,Omega Pharma - Quick-Step,13,2012,▼1
+27.0,51.0,13.0,21.0,Nibali Vincenzo,22.0,Liquigas - Cannondale,13,2012,▼1
+31.0,157.0,11.0,23.0,ten Dam Laurens,23.0,Rabobank Cycling Team,13,2012,-
+33.0,141.0,10.0,24.0,Casar Sandy,24.0,FDJ - BigMat,13,2012,-
+25.0,65.0,8.0,26.0,Martin Dan,25.0,Garmin Sharp,13,2012,▲1
+26.0,94.0,8.0,27.0,Feillu Brice,26.0,Saur - Sojasun,13,2012,▲1
+28.0,184.0,7.0,28.0,Grivko Andrey,27.0,Astana Pro Team,13,2012,▲1
+32.0,17.0,7.0,29.0,Popovych Yaroslav,28.0,RadioShack - Nissan,13,2012,▲1
+24.0,24.0,6.0,30.0,Gautier Cyril,29.0,Team Europcar,13,2012,▲1
+35.0,183.0,6.0,31.0,Fofonov Dmitriy,30.0,Astana Pro Team,13,2012,▲1
+35.0,66.0,6.0,32.0,Millar David,31.0,Garmin Sharp,13,2012,▲1
+29.0,148.0,5.0,33.0,Roy Jérémy,32.0,FDJ - BigMat,13,2012,▲1
+25.0,76.0,5.0,34.0,Kadri Blel,33.0,AG2R La Mondiale,13,2012,▲1
+38.0,189.0,4.0,36.0,Vinokourov Alexandre,34.0,Astana Pro Team,13,2012,▲2
+25.0,81.0,4.0,35.0,Taaramäe Rein,35.0,"Cofidis, le Crédit en Ligne",13,2012,-
+34.0,52.0,2.0,37.0,Basso Ivan,36.0,Liquigas - Cannondale,13,2012,▲1
+22.0,57.0,2.0,38.0,Sagan Peter,37.0,Liquigas - Cannondale,13,2012,▲1
+35.0,19.0,2.0,39.0,Zubeldia Haimar,38.0,RadioShack - Nissan,13,2012,▲1
+32.0,161.0,2.0,40.0,Valverde Alejandro,39.0,Movistar Team,13,2012,▲1
+29.0,123.0,2.0,41.0,Hoogerland Johnny,40.0,Vacansoleil - DCM,13,2012,▲1
+33.0,69.0,1.0,42.0,Zabriskie David,41.0,Garmin Sharp,13,2012,▲1
+32.0,38.0,1.0,43.0,Urtasun Pablo,42.0,Euskaltel - Euskadi,13,2012,▲1
+25.0,152.0,1.0,44.0,Kruijswijk Steven,43.0,Rabobank Cycling Team,13,2012,▲1
+30.0,77.0,1.0,45.0,Minard Sébastien,44.0,AG2R La Mondiale,13,2012,▲1
+25.0,54.0,1.0,46.0,Koren Kristijan,45.0,Liquigas - Cannondale,13,2012,▲1
+32.0,187.0,69.0,1.0,Kessiakoff Fredrik,1.0,Astana Pro Team,14,2012,-
+25.0,29.0,55.0,2.0,Rolland Pierre,2.0,Team Europcar,14,2012,-
+27.0,178.0,39.0,3.0,Sørensen Chris Anker,3.0,Team Saxo Bank - Tinkoff Bank,14,2012,-
+33.0,21.0,33.0,9.0,Voeckler Thomas,4.0,Team Europcar,14,2012,▲5
+32.0,41.0,33.0,5.0,Scarponi Michele,5.0,Lampre - ISD,14,2012,-
+27.0,105.0,32.0,6.0,Froome Chris,6.0,Sky Procycling,14,2012,-
+22.0,146.0,32.0,7.0,Pinot Thibaut,7.0,FDJ - BigMat,14,2012,-
+27.0,199.0,29.0,8.0,Velits Peter,8.0,Omega Pharma - Quick-Step,14,2012,-
+28.0,155.0,21.0,14.0,Sánchez Luis León,9.0,Rabobank Cycling Team,14,2012,▲5
+33.0,141.0,20.0,24.0,Casar Sandy,10.0,FDJ - BigMat,14,2012,▲14
+31.0,27.0,20.0,10.0,Kern Christophe,11.0,Team Europcar,14,2012,▼1
+35.0,1.0,19.0,11.0,Evans Cadel,12.0,BMC Racing Team,14,2012,▼1
+35.0,71.0,19.0,12.0,Peraud Jean-Christophe,13.0,AG2R La Mondiale,14,2012,▼1
+40.0,18.0,18.0,13.0,Voigt Jens,14.0,RadioShack - Nissan,14,2012,▼1
+34.0,35.0,16.0,19.0,Martínez Egoi,15.0,Euskaltel - Euskadi,14,2012,▲4
+27.0,175.0,14.0,15.0,Mørkøv Michael,16.0,Team Saxo Bank - Tinkoff Bank,14,2012,▼1
+29.0,111.0,14.0,16.0,Van den Broeck Jurgen,17.0,Lotto Belisol Team,14,2012,▼1
+32.0,101.0,14.0,17.0,Wiggins Bradley,18.0,Sky Procycling,14,2012,▼1
+40.0,14.0,14.0,18.0,Horner Chris,19.0,RadioShack - Nissan,14,2012,▼1
+31.0,167.0,14.0,20.0,Kiryienka Vasil,20.0,Movistar Team,14,2012,-
+28.0,194.0,14.0,21.0,Devenyns Dries,21.0,Omega Pharma - Quick-Step,14,2012,-
+27.0,51.0,13.0,22.0,Nibali Vincenzo,22.0,Liquigas - Cannondale,14,2012,-
+32.0,177.0,11.0,,Paulinho Sérgio Miguel,23.0,Team Saxo Bank - Tinkoff Bank,14,2012,-
+31.0,157.0,11.0,23.0,ten Dam Laurens,24.0,Rabobank Cycling Team,14,2012,▼1
+30.0,4.0,10.0,,Gilbert Philippe,25.0,BMC Racing Team,14,2012,-
+22.0,57.0,8.0,37.0,Sagan Peter,26.0,Liquigas - Cannondale,14,2012,▲11
+29.0,139.0,8.0,,Vorganov Eduard,27.0,Team Katusha,14,2012,-
+24.0,34.0,8.0,,Izagirre Gorka,28.0,Euskaltel - Euskadi,14,2012,-
+25.0,65.0,8.0,25.0,Martin Dan,29.0,Garmin Sharp,14,2012,▼4
+26.0,94.0,8.0,26.0,Feillu Brice,30.0,Saur - Sojasun,14,2012,▼4
+28.0,184.0,7.0,27.0,Grivko Andrey,31.0,Astana Pro Team,14,2012,▼4
+32.0,17.0,7.0,28.0,Popovych Yaroslav,32.0,RadioShack - Nissan,14,2012,▼4
+24.0,24.0,6.0,29.0,Gautier Cyril,33.0,Team Europcar,14,2012,▼4
+35.0,183.0,6.0,30.0,Fofonov Dmitriy,34.0,Astana Pro Team,14,2012,▼4
+35.0,66.0,6.0,31.0,Millar David,35.0,Garmin Sharp,14,2012,▼4
+29.0,148.0,5.0,32.0,Roy Jérémy,36.0,FDJ - BigMat,14,2012,▼4
+25.0,76.0,5.0,33.0,Kadri Blel,37.0,AG2R La Mondiale,14,2012,▼4
+25.0,152.0,5.0,43.0,Kruijswijk Steven,38.0,Rabobank Cycling Team,14,2012,▲5
+38.0,189.0,4.0,34.0,Vinokourov Alexandre,39.0,Astana Pro Team,14,2012,▼5
+25.0,81.0,4.0,35.0,Taaramäe Rein,40.0,"Cofidis, le Crédit en Ligne",14,2012,▼5
+34.0,52.0,2.0,36.0,Basso Ivan,41.0,Liquigas - Cannondale,14,2012,▼5
+35.0,19.0,2.0,38.0,Zubeldia Haimar,42.0,RadioShack - Nissan,14,2012,▼4
+32.0,161.0,2.0,39.0,Valverde Alejandro,43.0,Movistar Team,14,2012,▼4
+29.0,123.0,2.0,40.0,Hoogerland Johnny,44.0,Vacansoleil - DCM,14,2012,▼4
+27.0,198.0,2.0,,Velits Martin,45.0,Omega Pharma - Quick-Step,14,2012,-
+33.0,69.0,1.0,41.0,Zabriskie David,46.0,Garmin Sharp,14,2012,▼5
+32.0,38.0,1.0,42.0,Urtasun Pablo,47.0,Euskaltel - Euskadi,14,2012,▼5
+30.0,77.0,1.0,44.0,Minard Sébastien,48.0,AG2R La Mondiale,14,2012,▼4
+36.0,68.0,1.0,,Vande Velde Christian,49.0,Garmin Sharp,14,2012,-
+25.0,54.0,1.0,45.0,Koren Kristijan,50.0,Liquigas - Cannondale,14,2012,▼5
+32.0,187.0,69.0,1.0,Kessiakoff Fredrik,1.0,Astana Pro Team,15,2012,-
+25.0,29.0,55.0,2.0,Rolland Pierre,2.0,Team Europcar,15,2012,-
+27.0,178.0,39.0,3.0,Sørensen Chris Anker,3.0,Team Saxo Bank - Tinkoff Bank,15,2012,-
+33.0,21.0,37.0,4.0,Voeckler Thomas,4.0,Team Europcar,15,2012,-
+32.0,41.0,33.0,5.0,Scarponi Michele,5.0,Lampre - ISD,15,2012,-
+27.0,105.0,32.0,6.0,Froome Chris,6.0,Sky Procycling,15,2012,-
+22.0,146.0,32.0,7.0,Pinot Thibaut,7.0,FDJ - BigMat,15,2012,-
+27.0,199.0,29.0,8.0,Velits Peter,8.0,Omega Pharma - Quick-Step,15,2012,-
+28.0,155.0,21.0,9.0,Sánchez Luis León,9.0,Rabobank Cycling Team,15,2012,-
+33.0,141.0,20.0,10.0,Casar Sandy,10.0,FDJ - BigMat,15,2012,-
+31.0,27.0,20.0,11.0,Kern Christophe,11.0,Team Europcar,15,2012,-
+35.0,1.0,19.0,12.0,Evans Cadel,12.0,BMC Racing Team,15,2012,-
+35.0,71.0,19.0,13.0,Peraud Jean-Christophe,13.0,AG2R La Mondiale,15,2012,-
+40.0,18.0,18.0,14.0,Voigt Jens,14.0,RadioShack - Nissan,15,2012,-
+34.0,35.0,16.0,15.0,Martínez Egoi,15.0,Euskaltel - Euskadi,15,2012,-
+27.0,175.0,14.0,16.0,Mørkøv Michael,16.0,Team Saxo Bank - Tinkoff Bank,15,2012,-
+29.0,111.0,14.0,17.0,Van den Broeck Jurgen,17.0,Lotto Belisol Team,15,2012,-
+32.0,101.0,14.0,18.0,Wiggins Bradley,18.0,Sky Procycling,15,2012,-
+40.0,14.0,14.0,19.0,Horner Chris,19.0,RadioShack - Nissan,15,2012,-
+28.0,194.0,14.0,21.0,Devenyns Dries,20.0,Omega Pharma - Quick-Step,15,2012,▲1
+31.0,167.0,14.0,20.0,Kiryienka Vasil,21.0,Movistar Team,15,2012,▼1
+27.0,51.0,13.0,22.0,Nibali Vincenzo,22.0,Liquigas - Cannondale,15,2012,-
+32.0,177.0,11.0,23.0,Paulinho Sérgio Miguel,23.0,Team Saxo Bank - Tinkoff Bank,15,2012,-
+31.0,157.0,11.0,24.0,ten Dam Laurens,24.0,Rabobank Cycling Team,15,2012,-
+30.0,4.0,10.0,25.0,Gilbert Philippe,25.0,BMC Racing Team,15,2012,-
+22.0,57.0,8.0,26.0,Sagan Peter,26.0,Liquigas - Cannondale,15,2012,-
+29.0,139.0,8.0,27.0,Vorganov Eduard,27.0,Team Katusha,15,2012,-
+26.0,94.0,8.0,30.0,Feillu Brice,28.0,Saur - Sojasun,15,2012,▲2
+25.0,65.0,8.0,29.0,Martin Dan,29.0,Garmin Sharp,15,2012,-
+24.0,34.0,8.0,28.0,Izagirre Gorka,30.0,Euskaltel - Euskadi,15,2012,▼2
+28.0,184.0,7.0,31.0,Grivko Andrey,31.0,Astana Pro Team,15,2012,-
+32.0,17.0,7.0,32.0,Popovych Yaroslav,32.0,RadioShack - Nissan,15,2012,-
+24.0,24.0,6.0,33.0,Gautier Cyril,33.0,Team Europcar,15,2012,-
+35.0,183.0,6.0,34.0,Fofonov Dmitriy,34.0,Astana Pro Team,15,2012,-
+35.0,66.0,6.0,35.0,Millar David,35.0,Garmin Sharp,15,2012,-
+25.0,76.0,5.0,37.0,Kadri Blel,36.0,AG2R La Mondiale,15,2012,▲1
+29.0,148.0,5.0,36.0,Roy Jérémy,37.0,FDJ - BigMat,15,2012,▼1
+25.0,152.0,5.0,38.0,Kruijswijk Steven,38.0,Rabobank Cycling Team,15,2012,-
+25.0,81.0,4.0,40.0,Taaramäe Rein,39.0,"Cofidis, le Crédit en Ligne",15,2012,▲1
+38.0,189.0,4.0,39.0,Vinokourov Alexandre,40.0,Astana Pro Team,15,2012,▼1
+34.0,52.0,2.0,41.0,Basso Ivan,41.0,Liquigas - Cannondale,15,2012,-
+35.0,19.0,2.0,42.0,Zubeldia Haimar,42.0,RadioShack - Nissan,15,2012,-
+32.0,161.0,2.0,43.0,Valverde Alejandro,43.0,Movistar Team,15,2012,-
+29.0,123.0,2.0,44.0,Hoogerland Johnny,44.0,Vacansoleil - DCM,15,2012,-
+27.0,198.0,2.0,45.0,Velits Martin,45.0,Omega Pharma - Quick-Step,15,2012,-
+32.0,38.0,1.0,47.0,Urtasun Pablo,46.0,Euskaltel - Euskadi,15,2012,▲1
+33.0,69.0,1.0,46.0,Zabriskie David,47.0,Garmin Sharp,15,2012,▼1
+36.0,68.0,1.0,49.0,Vande Velde Christian,48.0,Garmin Sharp,15,2012,▲1
+30.0,77.0,1.0,48.0,Minard Sébastien,49.0,AG2R La Mondiale,15,2012,▼1
+25.0,54.0,1.0,50.0,Koren Kristijan,50.0,Liquigas - Cannondale,15,2012,-
+31.0,83.0,1.0,,Dumoulin Samuel,51.0,"Cofidis, le Crédit en Ligne",15,2012,-
+33.0,21.0,107.0,4.0,Voeckler Thomas,1.0,Team Europcar,16,2012,▲3
+32.0,187.0,103.0,1.0,Kessiakoff Fredrik,2.0,Astana Pro Team,16,2012,▼1
+27.0,178.0,77.0,3.0,Sørensen Chris Anker,3.0,Team Saxo Bank - Tinkoff Bank,16,2012,-
+25.0,29.0,55.0,2.0,Rolland Pierre,4.0,Team Europcar,16,2012,▼2
+26.0,94.0,38.0,28.0,Feillu Brice,5.0,Saur - Sojasun,16,2012,▲23
+25.0,65.0,34.0,29.0,Martin Dan,6.0,Garmin Sharp,16,2012,▲23
+32.0,41.0,33.0,5.0,Scarponi Michele,7.0,Lampre - ISD,16,2012,▼2
+27.0,105.0,32.0,6.0,Froome Chris,8.0,Sky Procycling,16,2012,▼2
+22.0,146.0,32.0,7.0,Pinot Thibaut,9.0,FDJ - BigMat,16,2012,▼2
+40.0,18.0,31.0,14.0,Voigt Jens,10.0,RadioShack - Nissan,16,2012,▲4
+38.0,189.0,30.0,40.0,Vinokourov Alexandre,11.0,Astana Pro Team,16,2012,▲29
+27.0,199.0,29.0,8.0,Velits Peter,12.0,Omega Pharma - Quick-Step,16,2012,▼4
+34.0,35.0,22.0,15.0,Martínez Egoi,13.0,Euskaltel - Euskadi,16,2012,▲2
+28.0,155.0,21.0,9.0,Sánchez Luis León,14.0,Rabobank Cycling Team,16,2012,▼5
+33.0,141.0,20.0,10.0,Casar Sandy,15.0,FDJ - BigMat,16,2012,▼5
+31.0,27.0,20.0,11.0,Kern Christophe,16.0,Team Europcar,16,2012,▼5
+31.0,157.0,19.0,24.0,ten Dam Laurens,17.0,Rabobank Cycling Team,16,2012,▲7
+35.0,71.0,19.0,13.0,Peraud Jean-Christophe,18.0,AG2R La Mondiale,16,2012,▼5
+35.0,1.0,19.0,12.0,Evans Cadel,19.0,BMC Racing Team,16,2012,▼7
+27.0,22.0,16.0,,Arashiro Yukiya,20.0,Team Europcar,16,2012,-
+24.0,34.0,15.0,30.0,Izagirre Gorka,21.0,Euskaltel - Euskadi,16,2012,▲9
+27.0,175.0,14.0,16.0,Mørkøv Michael,22.0,Team Saxo Bank - Tinkoff Bank,16,2012,▼6
+29.0,111.0,14.0,17.0,Van den Broeck Jurgen,23.0,Lotto Belisol Team,16,2012,▼6
+32.0,101.0,14.0,18.0,Wiggins Bradley,24.0,Sky Procycling,16,2012,▼6
+40.0,14.0,14.0,19.0,Horner Chris,25.0,RadioShack - Nissan,16,2012,▼6
+28.0,194.0,14.0,20.0,Devenyns Dries,26.0,Omega Pharma - Quick-Step,16,2012,▼6
+31.0,167.0,14.0,21.0,Kiryienka Vasil,27.0,Movistar Team,16,2012,▼6
+27.0,51.0,13.0,22.0,Nibali Vincenzo,28.0,Liquigas - Cannondale,16,2012,▼6
+29.0,139.0,12.0,27.0,Vorganov Eduard,29.0,Team Katusha,16,2012,▼2
+32.0,177.0,11.0,23.0,Paulinho Sérgio Miguel,30.0,Team Saxo Bank - Tinkoff Bank,16,2012,▼7
+30.0,4.0,10.0,25.0,Gilbert Philippe,31.0,BMC Racing Team,16,2012,▼6
+22.0,57.0,8.0,26.0,Sagan Peter,32.0,Liquigas - Cannondale,16,2012,▼6
+31.0,166.0,8.0,,Karpets Vladimir,33.0,Movistar Team,16,2012,-
+32.0,17.0,7.0,32.0,Popovych Yaroslav,34.0,RadioShack - Nissan,16,2012,▼2
+28.0,184.0,7.0,31.0,Grivko Andrey,35.0,Astana Pro Team,16,2012,▼4
+39.0,5.0,6.0,,Hincapie George,36.0,BMC Racing Team,16,2012,-
+35.0,66.0,6.0,35.0,Millar David,37.0,Garmin Sharp,16,2012,▼2
+24.0,24.0,6.0,33.0,Gautier Cyril,38.0,Team Europcar,16,2012,▼5
+35.0,183.0,6.0,34.0,Fofonov Dmitriy,39.0,Astana Pro Team,16,2012,▼5
+29.0,148.0,5.0,37.0,Roy Jérémy,40.0,FDJ - BigMat,16,2012,▼3
+25.0,76.0,5.0,36.0,Kadri Blel,41.0,AG2R La Mondiale,16,2012,▼5
+25.0,152.0,5.0,38.0,Kruijswijk Steven,42.0,Rabobank Cycling Team,16,2012,▼4
+27.0,48.0,4.0,,Stortoni Simone,43.0,Lampre - ISD,16,2012,-
+25.0,81.0,4.0,39.0,Taaramäe Rein,44.0,"Cofidis, le Crédit en Ligne",16,2012,▼5
+34.0,52.0,2.0,41.0,Basso Ivan,45.0,Liquigas - Cannondale,16,2012,▼4
+35.0,19.0,2.0,42.0,Zubeldia Haimar,46.0,RadioShack - Nissan,16,2012,▼4
+32.0,161.0,2.0,43.0,Valverde Alejandro,47.0,Movistar Team,16,2012,▼4
+29.0,123.0,2.0,44.0,Hoogerland Johnny,48.0,Vacansoleil - DCM,16,2012,▼4
+27.0,198.0,2.0,45.0,Velits Martin,49.0,Omega Pharma - Quick-Step,16,2012,▼4
+32.0,38.0,1.0,46.0,Urtasun Pablo,50.0,Euskaltel - Euskadi,16,2012,▼4
+33.0,69.0,1.0,47.0,Zabriskie David,51.0,Garmin Sharp,16,2012,▼4
+30.0,77.0,1.0,49.0,Minard Sébastien,52.0,AG2R La Mondiale,16,2012,▼3
+25.0,54.0,1.0,50.0,Koren Kristijan,53.0,Liquigas - Cannondale,16,2012,▼3
+36.0,68.0,1.0,48.0,Vande Velde Christian,54.0,Garmin Sharp,16,2012,▼6
+31.0,83.0,1.0,51.0,Dumoulin Samuel,55.0,"Cofidis, le Crédit en Ligne",16,2012,▼4
+33.0,21.0,134.0,1.0,Voeckler Thomas,1.0,Team Europcar,17,2012,-
+32.0,187.0,123.0,2.0,Kessiakoff Fredrik,2.0,Astana Pro Team,17,2012,-
+27.0,178.0,77.0,3.0,Sørensen Chris Anker,3.0,Team Saxo Bank - Tinkoff Bank,17,2012,-
+25.0,29.0,63.0,4.0,Rolland Pierre,4.0,Team Europcar,17,2012,-
+32.0,161.0,51.0,47.0,Valverde Alejandro,5.0,Movistar Team,17,2012,▲42
+27.0,105.0,48.0,8.0,Froome Chris,6.0,Sky Procycling,17,2012,▲2
+34.0,35.0,43.0,13.0,Martínez Egoi,7.0,Euskaltel - Euskadi,17,2012,▲6
+22.0,146.0,40.0,9.0,Pinot Thibaut,8.0,FDJ - BigMat,17,2012,▲1
+26.0,94.0,38.0,5.0,Feillu Brice,9.0,Saur - Sojasun,17,2012,▼4
+25.0,65.0,34.0,6.0,Martin Dan,10.0,Garmin Sharp,17,2012,▼4
+32.0,41.0,33.0,7.0,Scarponi Michele,11.0,Lampre - ISD,17,2012,▼4
+40.0,18.0,31.0,10.0,Voigt Jens,12.0,RadioShack - Nissan,17,2012,▼2
+38.0,189.0,30.0,11.0,Vinokourov Alexandre,13.0,Astana Pro Team,17,2012,▼2
+27.0,199.0,29.0,12.0,Velits Peter,14.0,Omega Pharma - Quick-Step,17,2012,▼2
+32.0,101.0,26.0,24.0,Wiggins Bradley,15.0,Sky Procycling,17,2012,▲9
+33.0,141.0,24.0,15.0,Casar Sandy,16.0,FDJ - BigMat,17,2012,▼1
+29.0,111.0,22.0,23.0,Van den Broeck Jurgen,17.0,Lotto Belisol Team,17,2012,▲6
+24.0,34.0,21.0,21.0,Izagirre Gorka,18.0,Euskaltel - Euskadi,17,2012,▲3
+28.0,155.0,21.0,14.0,Sánchez Luis León,19.0,Rabobank Cycling Team,17,2012,▼5
+31.0,27.0,20.0,16.0,Kern Christophe,20.0,Team Europcar,17,2012,▼4
+25.0,76.0,19.0,41.0,Kadri Blel,21.0,AG2R La Mondiale,17,2012,▲20
+35.0,1.0,19.0,19.0,Evans Cadel,22.0,BMC Racing Team,17,2012,▼3
+31.0,157.0,19.0,17.0,ten Dam Laurens,23.0,Rabobank Cycling Team,17,2012,▼6
+35.0,71.0,19.0,18.0,Peraud Jean-Christophe,24.0,AG2R La Mondiale,17,2012,▼6
+25.0,163.0,16.0,,Costa Rui,25.0,Movistar Team,17,2012,-
+27.0,22.0,16.0,20.0,Arashiro Yukiya,26.0,Team Europcar,17,2012,▼6
+27.0,175.0,14.0,22.0,Mørkøv Michael,27.0,Team Saxo Bank - Tinkoff Bank,17,2012,▼5
+40.0,14.0,14.0,25.0,Horner Chris,28.0,RadioShack - Nissan,17,2012,▼3
+28.0,194.0,14.0,26.0,Devenyns Dries,29.0,Omega Pharma - Quick-Step,17,2012,▼3
+31.0,167.0,14.0,27.0,Kiryienka Vasil,30.0,Movistar Team,17,2012,▼3
+27.0,51.0,13.0,28.0,Nibali Vincenzo,31.0,Liquigas - Cannondale,17,2012,▼3
+29.0,139.0,12.0,29.0,Vorganov Eduard,32.0,Team Katusha,17,2012,▼3
+38.0,191.0,12.0,,Leipheimer Levi,33.0,Omega Pharma - Quick-Step,17,2012,-
+32.0,177.0,11.0,30.0,Paulinho Sérgio Miguel,34.0,Team Saxo Bank - Tinkoff Bank,17,2012,▼4
+30.0,4.0,10.0,31.0,Gilbert Philippe,35.0,BMC Racing Team,17,2012,▼4
+22.0,57.0,8.0,32.0,Sagan Peter,36.0,Liquigas - Cannondale,17,2012,▼4
+31.0,166.0,8.0,33.0,Karpets Vladimir,37.0,Movistar Team,17,2012,▼4
+28.0,184.0,7.0,35.0,Grivko Andrey,38.0,Astana Pro Team,17,2012,▼3
+32.0,17.0,7.0,34.0,Popovych Yaroslav,39.0,RadioShack - Nissan,17,2012,▼5
+39.0,5.0,6.0,36.0,Hincapie George,40.0,BMC Racing Team,17,2012,▼4
+24.0,24.0,6.0,38.0,Gautier Cyril,41.0,Team Europcar,17,2012,▼3
+35.0,183.0,6.0,39.0,Fofonov Dmitriy,42.0,Astana Pro Team,17,2012,▼3
+35.0,66.0,6.0,37.0,Millar David,43.0,Garmin Sharp,17,2012,▼6
+29.0,148.0,5.0,40.0,Roy Jérémy,44.0,FDJ - BigMat,17,2012,▼4
+25.0,152.0,5.0,42.0,Kruijswijk Steven,45.0,Rabobank Cycling Team,17,2012,▼3
+25.0,81.0,4.0,44.0,Taaramäe Rein,46.0,"Cofidis, le Crédit en Ligne",17,2012,▼2
+27.0,48.0,4.0,43.0,Stortoni Simone,47.0,Lampre - ISD,17,2012,▼4
+34.0,52.0,2.0,45.0,Basso Ivan,48.0,Liquigas - Cannondale,17,2012,▼3
+35.0,19.0,2.0,46.0,Zubeldia Haimar,49.0,RadioShack - Nissan,17,2012,▼3
+22.0,55.0,2.0,,Nerz Dominik,50.0,Liquigas - Cannondale,17,2012,-
+29.0,123.0,2.0,48.0,Hoogerland Johnny,51.0,Vacansoleil - DCM,17,2012,▼3
+27.0,198.0,2.0,49.0,Velits Martin,52.0,Omega Pharma - Quick-Step,17,2012,▼3
+33.0,69.0,1.0,51.0,Zabriskie David,53.0,Garmin Sharp,17,2012,▼2
+32.0,38.0,1.0,50.0,Urtasun Pablo,54.0,Euskaltel - Euskadi,17,2012,▼4
+25.0,102.0,1.0,,Boasson Hagen Edvald,55.0,Sky Procycling,17,2012,-
+36.0,68.0,1.0,54.0,Vande Velde Christian,56.0,Garmin Sharp,17,2012,▼2
+30.0,77.0,1.0,52.0,Minard Sébastien,57.0,AG2R La Mondiale,17,2012,▼5
+25.0,54.0,1.0,53.0,Koren Kristijan,58.0,Liquigas - Cannondale,17,2012,▼5
+31.0,83.0,1.0,55.0,Dumoulin Samuel,59.0,"Cofidis, le Crédit en Ligne",17,2012,▼4
+33.0,21.0,134.0,1.0,Voeckler Thomas,1.0,Team Europcar,18,2012,-
+32.0,187.0,123.0,2.0,Kessiakoff Fredrik,2.0,Astana Pro Team,18,2012,-
+27.0,178.0,77.0,3.0,Sørensen Chris Anker,3.0,Team Saxo Bank - Tinkoff Bank,18,2012,-
+25.0,29.0,63.0,4.0,Rolland Pierre,4.0,Team Europcar,18,2012,-
+32.0,161.0,51.0,5.0,Valverde Alejandro,5.0,Movistar Team,18,2012,-
+27.0,105.0,48.0,6.0,Froome Chris,6.0,Sky Procycling,18,2012,-
+34.0,35.0,43.0,7.0,Martínez Egoi,7.0,Euskaltel - Euskadi,18,2012,-
+22.0,146.0,40.0,8.0,Pinot Thibaut,8.0,FDJ - BigMat,18,2012,-
+26.0,94.0,38.0,9.0,Feillu Brice,9.0,Saur - Sojasun,18,2012,-
+25.0,65.0,34.0,10.0,Martin Dan,10.0,Garmin Sharp,18,2012,-
+32.0,41.0,33.0,11.0,Scarponi Michele,11.0,Lampre - ISD,18,2012,-
+40.0,18.0,31.0,12.0,Voigt Jens,12.0,RadioShack - Nissan,18,2012,-
+38.0,189.0,31.0,13.0,Vinokourov Alexandre,13.0,Astana Pro Team,18,2012,-
+27.0,199.0,29.0,14.0,Velits Peter,14.0,Omega Pharma - Quick-Step,18,2012,-
+32.0,101.0,26.0,15.0,Wiggins Bradley,15.0,Sky Procycling,18,2012,-
+33.0,141.0,24.0,16.0,Casar Sandy,16.0,FDJ - BigMat,18,2012,-
+29.0,111.0,22.0,17.0,Van den Broeck Jurgen,17.0,Lotto Belisol Team,18,2012,-
+24.0,34.0,21.0,18.0,Izagirre Gorka,18.0,Euskaltel - Euskadi,18,2012,-
+28.0,155.0,21.0,19.0,Sánchez Luis León,19.0,Rabobank Cycling Team,18,2012,-
+31.0,27.0,20.0,20.0,Kern Christophe,20.0,Team Europcar,18,2012,-
+25.0,76.0,19.0,21.0,Kadri Blel,21.0,AG2R La Mondiale,18,2012,-
+35.0,1.0,19.0,22.0,Evans Cadel,22.0,BMC Racing Team,18,2012,-
+31.0,157.0,19.0,23.0,ten Dam Laurens,23.0,Rabobank Cycling Team,18,2012,-
+35.0,71.0,19.0,24.0,Peraud Jean-Christophe,24.0,AG2R La Mondiale,18,2012,-
+27.0,22.0,18.0,26.0,Arashiro Yukiya,25.0,Team Europcar,18,2012,▲1
+25.0,163.0,16.0,25.0,Costa Rui,26.0,Movistar Team,18,2012,▼1
+27.0,175.0,14.0,27.0,Mørkøv Michael,27.0,Team Saxo Bank - Tinkoff Bank,18,2012,-
+40.0,14.0,14.0,28.0,Horner Chris,28.0,RadioShack - Nissan,18,2012,-
+28.0,194.0,14.0,29.0,Devenyns Dries,29.0,Omega Pharma - Quick-Step,18,2012,-
+31.0,167.0,14.0,30.0,Kiryienka Vasil,30.0,Movistar Team,18,2012,-
+27.0,51.0,13.0,31.0,Nibali Vincenzo,31.0,Liquigas - Cannondale,18,2012,-
+29.0,139.0,12.0,32.0,Vorganov Eduard,32.0,Team Katusha,18,2012,-
+38.0,191.0,12.0,33.0,Leipheimer Levi,33.0,Omega Pharma - Quick-Step,18,2012,-
+32.0,177.0,11.0,34.0,Paulinho Sérgio Miguel,34.0,Team Saxo Bank - Tinkoff Bank,18,2012,-
+30.0,4.0,10.0,35.0,Gilbert Philippe,35.0,BMC Racing Team,18,2012,-
+22.0,57.0,8.0,36.0,Sagan Peter,36.0,Liquigas - Cannondale,18,2012,-
+31.0,166.0,8.0,37.0,Karpets Vladimir,37.0,Movistar Team,18,2012,-
+28.0,184.0,7.0,38.0,Grivko Andrey,38.0,Astana Pro Team,18,2012,-
+32.0,17.0,7.0,39.0,Popovych Yaroslav,39.0,RadioShack - Nissan,18,2012,-
+39.0,5.0,6.0,40.0,Hincapie George,40.0,BMC Racing Team,18,2012,-
+24.0,24.0,6.0,41.0,Gautier Cyril,41.0,Team Europcar,18,2012,-
+35.0,183.0,6.0,42.0,Fofonov Dmitriy,42.0,Astana Pro Team,18,2012,-
+35.0,66.0,6.0,43.0,Millar David,43.0,Garmin Sharp,18,2012,-
+29.0,148.0,5.0,44.0,Roy Jérémy,44.0,FDJ - BigMat,18,2012,-
+25.0,152.0,5.0,45.0,Kruijswijk Steven,45.0,Rabobank Cycling Team,18,2012,-
+25.0,81.0,4.0,46.0,Taaramäe Rein,46.0,"Cofidis, le Crédit en Ligne",18,2012,-
+27.0,48.0,4.0,47.0,Stortoni Simone,47.0,Lampre - ISD,18,2012,-
+34.0,52.0,2.0,48.0,Basso Ivan,48.0,Liquigas - Cannondale,18,2012,-
+32.0,176.0,2.0,,Nuyens Nick,49.0,Team Saxo Bank - Tinkoff Bank,18,2012,-
+35.0,19.0,2.0,49.0,Zubeldia Haimar,50.0,RadioShack - Nissan,18,2012,▼1
+22.0,55.0,2.0,50.0,Nerz Dominik,51.0,Liquigas - Cannondale,18,2012,▼1
+29.0,123.0,2.0,51.0,Hoogerland Johnny,52.0,Vacansoleil - DCM,18,2012,▼1
+27.0,198.0,2.0,52.0,Velits Martin,53.0,Omega Pharma - Quick-Step,18,2012,▼1
+33.0,69.0,1.0,53.0,Zabriskie David,54.0,Garmin Sharp,18,2012,▼1
+31.0,202.0,1.0,,Albasini Michael,55.0,Orica GreenEDGE,18,2012,-
+32.0,38.0,1.0,54.0,Urtasun Pablo,56.0,Euskaltel - Euskadi,18,2012,▼2
+25.0,102.0,1.0,55.0,Boasson Hagen Edvald,57.0,Sky Procycling,18,2012,▼2
+36.0,68.0,1.0,56.0,Vande Velde Christian,58.0,Garmin Sharp,18,2012,▼2
+30.0,77.0,1.0,57.0,Minard Sébastien,59.0,AG2R La Mondiale,18,2012,▼2
+25.0,54.0,1.0,58.0,Koren Kristijan,60.0,Liquigas - Cannondale,18,2012,▼2
+31.0,83.0,1.0,59.0,Dumoulin Samuel,61.0,"Cofidis, le Crédit en Ligne",18,2012,▼2
+33.0,21.0,134.0,1.0,Voeckler Thomas,1.0,Team Europcar,19,2012,-
+32.0,187.0,123.0,2.0,Kessiakoff Fredrik,2.0,Astana Pro Team,19,2012,-
+27.0,178.0,77.0,3.0,Sørensen Chris Anker,3.0,Team Saxo Bank - Tinkoff Bank,19,2012,-
+25.0,29.0,63.0,4.0,Rolland Pierre,4.0,Team Europcar,19,2012,-
+32.0,161.0,51.0,5.0,Valverde Alejandro,5.0,Movistar Team,19,2012,-
+27.0,105.0,48.0,6.0,Froome Chris,6.0,Sky Procycling,19,2012,-
+34.0,35.0,43.0,7.0,Martínez Egoi,7.0,Euskaltel - Euskadi,19,2012,-
+22.0,146.0,40.0,8.0,Pinot Thibaut,8.0,FDJ - BigMat,19,2012,-
+26.0,94.0,38.0,9.0,Feillu Brice,9.0,Saur - Sojasun,19,2012,-
+25.0,65.0,34.0,10.0,Martin Dan,10.0,Garmin Sharp,19,2012,-
+32.0,41.0,33.0,11.0,Scarponi Michele,11.0,Lampre - ISD,19,2012,-
+40.0,18.0,31.0,12.0,Voigt Jens,12.0,RadioShack - Nissan,19,2012,-
+38.0,189.0,31.0,13.0,Vinokourov Alexandre,13.0,Astana Pro Team,19,2012,-
+27.0,199.0,29.0,14.0,Velits Peter,14.0,Omega Pharma - Quick-Step,19,2012,-
+32.0,101.0,26.0,15.0,Wiggins Bradley,15.0,Sky Procycling,19,2012,-
+33.0,141.0,24.0,16.0,Casar Sandy,16.0,FDJ - BigMat,19,2012,-
+29.0,111.0,22.0,17.0,Van den Broeck Jurgen,17.0,Lotto Belisol Team,19,2012,-
+24.0,34.0,21.0,18.0,Izagirre Gorka,18.0,Euskaltel - Euskadi,19,2012,-
+28.0,155.0,21.0,19.0,Sánchez Luis León,19.0,Rabobank Cycling Team,19,2012,-
+31.0,27.0,20.0,20.0,Kern Christophe,20.0,Team Europcar,19,2012,-
+25.0,76.0,19.0,21.0,Kadri Blel,21.0,AG2R La Mondiale,19,2012,-
+35.0,1.0,19.0,22.0,Evans Cadel,22.0,BMC Racing Team,19,2012,-
+31.0,157.0,19.0,23.0,ten Dam Laurens,23.0,Rabobank Cycling Team,19,2012,-
+35.0,71.0,19.0,24.0,Peraud Jean-Christophe,24.0,AG2R La Mondiale,19,2012,-
+27.0,22.0,18.0,25.0,Arashiro Yukiya,25.0,Team Europcar,19,2012,-
+25.0,163.0,16.0,26.0,Costa Rui,26.0,Movistar Team,19,2012,-
+27.0,175.0,14.0,27.0,Mørkøv Michael,27.0,Team Saxo Bank - Tinkoff Bank,19,2012,-
+40.0,14.0,14.0,28.0,Horner Chris,28.0,RadioShack - Nissan,19,2012,-
+28.0,194.0,14.0,29.0,Devenyns Dries,29.0,Omega Pharma - Quick-Step,19,2012,-
+31.0,167.0,14.0,30.0,Kiryienka Vasil,30.0,Movistar Team,19,2012,-
+27.0,51.0,13.0,31.0,Nibali Vincenzo,31.0,Liquigas - Cannondale,19,2012,-
+29.0,139.0,12.0,32.0,Vorganov Eduard,32.0,Team Katusha,19,2012,-
+38.0,191.0,12.0,33.0,Leipheimer Levi,33.0,Omega Pharma - Quick-Step,19,2012,-
+32.0,177.0,11.0,34.0,Paulinho Sérgio Miguel,34.0,Team Saxo Bank - Tinkoff Bank,19,2012,-
+30.0,4.0,10.0,35.0,Gilbert Philippe,35.0,BMC Racing Team,19,2012,-
+22.0,57.0,8.0,36.0,Sagan Peter,36.0,Liquigas - Cannondale,19,2012,-
+31.0,166.0,8.0,37.0,Karpets Vladimir,37.0,Movistar Team,19,2012,-
+28.0,184.0,7.0,38.0,Grivko Andrey,38.0,Astana Pro Team,19,2012,-
+32.0,17.0,7.0,39.0,Popovych Yaroslav,39.0,RadioShack - Nissan,19,2012,-
+39.0,5.0,6.0,40.0,Hincapie George,40.0,BMC Racing Team,19,2012,-
+24.0,24.0,6.0,41.0,Gautier Cyril,41.0,Team Europcar,19,2012,-
+35.0,183.0,6.0,42.0,Fofonov Dmitriy,42.0,Astana Pro Team,19,2012,-
+35.0,66.0,6.0,43.0,Millar David,43.0,Garmin Sharp,19,2012,-
+29.0,148.0,5.0,44.0,Roy Jérémy,44.0,FDJ - BigMat,19,2012,-
+25.0,152.0,5.0,45.0,Kruijswijk Steven,45.0,Rabobank Cycling Team,19,2012,-
+25.0,81.0,4.0,46.0,Taaramäe Rein,46.0,"Cofidis, le Crédit en Ligne",19,2012,-
+27.0,48.0,4.0,47.0,Stortoni Simone,47.0,Lampre - ISD,19,2012,-
+34.0,52.0,2.0,48.0,Basso Ivan,48.0,Liquigas - Cannondale,19,2012,-
+32.0,176.0,2.0,49.0,Nuyens Nick,49.0,Team Saxo Bank - Tinkoff Bank,19,2012,-
+35.0,19.0,2.0,50.0,Zubeldia Haimar,50.0,RadioShack - Nissan,19,2012,-
+22.0,55.0,2.0,51.0,Nerz Dominik,51.0,Liquigas - Cannondale,19,2012,-
+29.0,123.0,2.0,52.0,Hoogerland Johnny,52.0,Vacansoleil - DCM,19,2012,-
+27.0,198.0,2.0,53.0,Velits Martin,53.0,Omega Pharma - Quick-Step,19,2012,-
+33.0,69.0,1.0,54.0,Zabriskie David,54.0,Garmin Sharp,19,2012,-
+31.0,202.0,1.0,55.0,Albasini Michael,55.0,Orica GreenEDGE,19,2012,-
+32.0,38.0,1.0,56.0,Urtasun Pablo,56.0,Euskaltel - Euskadi,19,2012,-
+25.0,102.0,1.0,57.0,Boasson Hagen Edvald,57.0,Sky Procycling,19,2012,-
+36.0,68.0,1.0,58.0,Vande Velde Christian,58.0,Garmin Sharp,19,2012,-
+30.0,77.0,1.0,59.0,Minard Sébastien,59.0,AG2R La Mondiale,19,2012,-
+25.0,54.0,1.0,60.0,Koren Kristijan,60.0,Liquigas - Cannondale,19,2012,-
+31.0,83.0,1.0,61.0,Dumoulin Samuel,61.0,"Cofidis, le Crédit en Ligne",19,2012,-
+33.0,21.0,135.0,1.0,Voeckler Thomas,1.0,Team Europcar,20,2012,-
+32.0,187.0,123.0,2.0,Kessiakoff Fredrik,2.0,Astana Pro Team,20,2012,-
+27.0,178.0,77.0,3.0,Sørensen Chris Anker,3.0,Team Saxo Bank - Tinkoff Bank,20,2012,-
+25.0,29.0,63.0,4.0,Rolland Pierre,4.0,Team Europcar,20,2012,-
+32.0,161.0,51.0,5.0,Valverde Alejandro,5.0,Movistar Team,20,2012,-
+27.0,105.0,48.0,6.0,Froome Chris,6.0,Sky Procycling,20,2012,-
+34.0,35.0,43.0,7.0,Martínez Egoi,7.0,Euskaltel - Euskadi,20,2012,-
+22.0,146.0,40.0,8.0,Pinot Thibaut,8.0,FDJ - BigMat,20,2012,-
+26.0,94.0,38.0,9.0,Feillu Brice,9.0,Saur - Sojasun,20,2012,-
+25.0,65.0,34.0,10.0,Martin Dan,10.0,Garmin Sharp,20,2012,-
+32.0,41.0,33.0,11.0,Scarponi Michele,11.0,Lampre - ISD,20,2012,-
+40.0,18.0,31.0,12.0,Voigt Jens,12.0,RadioShack - Nissan,20,2012,-
+38.0,189.0,31.0,13.0,Vinokourov Alexandre,13.0,Astana Pro Team,20,2012,-
+27.0,199.0,29.0,14.0,Velits Peter,14.0,Omega Pharma - Quick-Step,20,2012,-
+32.0,101.0,26.0,15.0,Wiggins Bradley,15.0,Sky Procycling,20,2012,-
+33.0,141.0,24.0,16.0,Casar Sandy,16.0,FDJ - BigMat,20,2012,-
+29.0,111.0,22.0,17.0,Van den Broeck Jurgen,17.0,Lotto Belisol Team,20,2012,-
+24.0,34.0,21.0,18.0,Izagirre Gorka,18.0,Euskaltel - Euskadi,20,2012,-
+28.0,155.0,21.0,19.0,Sánchez Luis León,19.0,Rabobank Cycling Team,20,2012,-
+31.0,27.0,20.0,20.0,Kern Christophe,20.0,Team Europcar,20,2012,-
+25.0,76.0,19.0,21.0,Kadri Blel,21.0,AG2R La Mondiale,20,2012,-
+35.0,1.0,19.0,22.0,Evans Cadel,22.0,BMC Racing Team,20,2012,-
+31.0,157.0,19.0,23.0,ten Dam Laurens,23.0,Rabobank Cycling Team,20,2012,-
+35.0,71.0,19.0,24.0,Peraud Jean-Christophe,24.0,AG2R La Mondiale,20,2012,-
+27.0,22.0,18.0,25.0,Arashiro Yukiya,25.0,Team Europcar,20,2012,-
+25.0,163.0,16.0,26.0,Costa Rui,26.0,Movistar Team,20,2012,-
+27.0,175.0,14.0,27.0,Mørkøv Michael,27.0,Team Saxo Bank - Tinkoff Bank,20,2012,-
+40.0,14.0,14.0,28.0,Horner Chris,28.0,RadioShack - Nissan,20,2012,-
+29.0,194.0,14.0,29.0,Devenyns Dries,29.0,Omega Pharma - Quick-Step,20,2012,-
+31.0,167.0,14.0,30.0,Kiryienka Vasil,30.0,Movistar Team,20,2012,-
+27.0,51.0,13.0,31.0,Nibali Vincenzo,31.0,Liquigas - Cannondale,20,2012,-
+29.0,139.0,12.0,32.0,Vorganov Eduard,32.0,Team Katusha,20,2012,-
+38.0,191.0,12.0,33.0,Leipheimer Levi,33.0,Omega Pharma - Quick-Step,20,2012,-
+32.0,177.0,11.0,34.0,Paulinho Sérgio Miguel,34.0,Team Saxo Bank - Tinkoff Bank,20,2012,-
+30.0,4.0,10.0,35.0,Gilbert Philippe,35.0,BMC Racing Team,20,2012,-
+22.0,57.0,8.0,36.0,Sagan Peter,36.0,Liquigas - Cannondale,20,2012,-
+31.0,166.0,8.0,37.0,Karpets Vladimir,37.0,Movistar Team,20,2012,-
+28.0,184.0,7.0,38.0,Grivko Andrey,38.0,Astana Pro Team,20,2012,-
+32.0,17.0,7.0,39.0,Popovych Yaroslav,39.0,RadioShack - Nissan,20,2012,-
+39.0,5.0,6.0,40.0,Hincapie George,40.0,BMC Racing Team,20,2012,-
+24.0,24.0,6.0,41.0,Gautier Cyril,41.0,Team Europcar,20,2012,-
+35.0,183.0,6.0,42.0,Fofonov Dmitriy,42.0,Astana Pro Team,20,2012,-
+35.0,66.0,6.0,43.0,Millar David,43.0,Garmin Sharp,20,2012,-
+29.0,148.0,5.0,44.0,Roy Jérémy,44.0,FDJ - BigMat,20,2012,-
+25.0,152.0,5.0,45.0,Kruijswijk Steven,45.0,Rabobank Cycling Team,20,2012,-
+25.0,81.0,4.0,46.0,Taaramäe Rein,46.0,"Cofidis, le Crédit en Ligne",20,2012,-
+27.0,48.0,4.0,47.0,Stortoni Simone,47.0,Lampre - ISD,20,2012,-
+34.0,52.0,2.0,48.0,Basso Ivan,48.0,Liquigas - Cannondale,20,2012,-
+32.0,176.0,2.0,49.0,Nuyens Nick,49.0,Team Saxo Bank - Tinkoff Bank,20,2012,-
+35.0,19.0,2.0,50.0,Zubeldia Haimar,50.0,RadioShack - Nissan,20,2012,-
+22.0,55.0,2.0,51.0,Nerz Dominik,51.0,Liquigas - Cannondale,20,2012,-
+29.0,123.0,2.0,52.0,Hoogerland Johnny,52.0,Vacansoleil - DCM,20,2012,-
+27.0,198.0,2.0,53.0,Velits Martin,53.0,Omega Pharma - Quick-Step,20,2012,-
+33.0,69.0,1.0,54.0,Zabriskie David,54.0,Garmin Sharp,20,2012,-
+32.0,168.0,1.0,,Plaza Rubén,55.0,Movistar Team,20,2012,-
+31.0,202.0,1.0,55.0,Albasini Michael,56.0,Orica GreenEDGE,20,2012,▼1
+32.0,38.0,1.0,56.0,Urtasun Pablo,57.0,Euskaltel - Euskadi,20,2012,▼1
+25.0,102.0,1.0,57.0,Boasson Hagen Edvald,58.0,Sky Procycling,20,2012,▼1
+36.0,68.0,1.0,58.0,Vande Velde Christian,59.0,Garmin Sharp,20,2012,▼1
+30.0,77.0,1.0,59.0,Minard Sébastien,60.0,AG2R La Mondiale,20,2012,▼1
+25.0,54.0,1.0,60.0,Koren Kristijan,61.0,Liquigas - Cannondale,20,2012,▼1
+31.0,83.0,1.0,61.0,Dumoulin Samuel,62.0,"Cofidis, le Crédit en Ligne",20,2012,▼1

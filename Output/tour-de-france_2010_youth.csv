@@ -1,0 +1,714 @@
+Age,BIB,GC,GC-Time,Prev,Rider,Rnk,Team,Time,stage,year,▼▲
+25,115,2,+0:10,,Martin Tony,1,Team HTC - Columbia,10:10 10:10,0,2010,
+24,39,5,+0:23,,Thomas Geraint,2,Sky Procycling,0:13 0:13,0,2010,
+23,36,8,+0:32,,Boasson Hagen Edvald,3,Sky Procycling,0:22 0:22,0,2010,
+22,207,11,+0:35,,Malori Adriano,4,Lampre - Farnese Vini,0:25 0:25,0,2010,
+24,44,19,+0:38,,Kreuziger Roman,5,Liquigas - Doimo,0:28 0:28,0,2010,
+23,43,29,+0:42,,Koren Kristijan,6,Liquigas - Doimo,0:32 0:32,0,2010,
+23,46,30,+0:43,,Oss Daniel,7,Liquigas - Doimo,0:33 0:33,0,2010,
+24,192,31,+0:44,,Boom Lars,8,Rabobank ProTeam,0:34 0:34,0,2010,
+24,97,32,+0:44,,Konovalovas Ignatas,9,Cervelo Test Team,",, 0:34",0,2010,
+23,171,33,+0:45,,Taaramäe Rein,10,"Cofidis, le Crédit en Ligne",0:35 0:35,0,2010,
+23,162,41,+0:49,,Costa Rui,11,Caisse d'Epargne,0:39 0:39,0,2010,
+25,169,43,+0:49,,Rojas José Joaquín,12,Caisse d'Epargne,",, 0:39",0,2010,
+25,14,50,+0:50,,Fuglsang Jakob,13,Saxo Bank,0:40 0:40,0,2010,
+24,144,51,+0:50,,Kluge Roger,14,Milram,",, 0:40",0,2010,
+24,195,54,+0:51,,Gesink Robert,15,Rabobank ProTeam,0:41 0:41,0,2010,
+23,76,55,+0:51,,Pliuschin Alexandr,16,Team Katusha,",, 0:41",0,2010,
+23,142,59,+0:52,,Ciolek Gerald,17,Milram,0:42 0:42,0,2010,
+25,108,93,+1:02,,Roelandts Jürgen,18,Omega Pharma-Lotto,0:52 0:52,0,2010,
+24,104,95,+1:03,,Delage Mickaël,19,Omega Pharma-Lotto,0:53 0:53,0,2010,
+24,214,96,+1:03,,Durán Arkaitz,20,Footon-Servetto,",, 0:53",0,2010,
+25,174,97,+1:04,,El Fares Julien,21,"Cofidis, le Crédit en Ligne",0:54 0:54,0,2010,
+25,143,98,+1:04,,Fröhlinger Johannes,22,Milram,",, 0:54",0,2010,
+23,82,103,+1:05,,Bouet Maxime,23,AG2R La Mondiale,0:55 0:55,0,2010,
+23,66,106,+1:06,,Roux Anthony,24,Francaise des Jeux,0:56 0:56,0,2010,
+25,11,119,+1:09,,Schleck Andy,25,Saxo Bank,0:59 0:59,0,2010,
+22,155,122,+1:09,,Gautier Cyril,26,Bbox Bouygues Telecom,",, 0:59",0,2010,
+25,111,124,+1:10,,Cavendish Mark,27,Team HTC - Columbia,1:00 1:00,0,2010,
+24,209,126,+1:10,,Špilak Simon,28,Lampre - Farnese Vini,",, 1:00",0,2010,
+20,216,139,+1:13,,Felline Fabio,29,Footon-Servetto,1:03 1:03,0,2010,
+24,202,141,+1:14,,Bole Grega,30,Lampre - Farnese Vini,1:04 1:04,0,2010,
+23,137,144,+1:16,,Seeldraeyers Kevin,31,Quickstep - Innergetic,1:06 1:06,0,2010,
+23,219,152,+1:18,,Valls Rafael,32,Footon-Servetto,1:08 1:08,0,2010,
+24,211,153,+1:19,,Capecchi Eros,33,Footon-Servetto,1:09 1:09,0,2010,
+24,63,156,+1:19,,Di Grégorio Rémy,34,Francaise des Jeux,",, 1:09",0,2010,
+25,103,178,+1:25,,de Greef Francis,35,Omega Pharma-Lotto,1:15 1:15,0,2010,
+23,156,182,+1:28,,Rolland Pierre,36,Bbox Bouygues Telecom,1:18 1:18,0,2010,
+23,68,188,+1:37,,Sulzberger Wesley,37,Francaise des Jeux,1:27 1:27,0,2010,
+23,125,193,+3:32,,Frank Mathias,38,BMC Racing Team,3:22 3:22,0,2010,
+25,115,2,+0:10,1.0,Martin Tony,1,Team HTC - Columbia,5:19:48 5:19:48,1,2010,-
+24,39,5,+0:23,2.0,Thomas Geraint,2,Sky Procycling,0:13 0:13,1,2010,-
+23,36,8,+0:32,3.0,Boasson Hagen Edvald,3,Sky Procycling,0:22 0:22,1,2010,-
+22,207,11,+0:35,4.0,Malori Adriano,4,Lampre - Farnese Vini,0:25 0:25,1,2010,-
+24,44,19,+0:38,5.0,Kreuziger Roman,5,Liquigas - Doimo,0:28 0:28,1,2010,-
+23,43,29,+0:42,6.0,Koren Kristijan,6,Liquigas - Doimo,0:32 0:32,1,2010,-
+23,46,30,+0:43,7.0,Oss Daniel,7,Liquigas - Doimo,0:33 0:33,1,2010,-
+24,97,31,+0:44,9.0,Konovalovas Ignatas,8,Cervelo Test Team,0:34 0:34,1,2010,▲1
+23,171,32,+0:45,10.0,Taaramäe Rein,9,"Cofidis, le Crédit en Ligne",0:35 0:35,1,2010,▲1
+23,162,39,+0:49,11.0,Costa Rui,10,Caisse d'Epargne,0:39 0:39,1,2010,▲1
+25,169,41,+0:49,12.0,Rojas José Joaquín,11,Caisse d'Epargne,",, 0:39",1,2010,▲1
+25,14,48,+0:50,13.0,Fuglsang Jakob,12,Saxo Bank,0:40 0:40,1,2010,▲1
+24,144,49,+0:50,14.0,Kluge Roger,13,Milram,",, 0:40",1,2010,▲1
+24,195,52,+0:51,15.0,Gesink Robert,14,Rabobank ProTeam,0:41 0:41,1,2010,▲1
+23,76,53,+0:51,16.0,Pliuschin Alexandr,15,Team Katusha,",, 0:41",1,2010,▲1
+23,142,57,+0:52,17.0,Ciolek Gerald,16,Milram,0:42 0:42,1,2010,▲1
+25,108,90,+1:02,18.0,Roelandts Jürgen,17,Omega Pharma-Lotto,0:52 0:52,1,2010,▲1
+24,104,92,+1:03,19.0,Delage Mickaël,18,Omega Pharma-Lotto,0:53 0:53,1,2010,▲1
+24,214,93,+1:03,20.0,Durán Arkaitz,19,Footon-Servetto,",, 0:53",1,2010,▲1
+25,174,94,+1:04,21.0,El Fares Julien,20,"Cofidis, le Crédit en Ligne",0:54 0:54,1,2010,▲1
+25,143,95,+1:04,22.0,Fröhlinger Johannes,21,Milram,",, 0:54",1,2010,▲1
+23,82,100,+1:05,23.0,Bouet Maxime,22,AG2R La Mondiale,0:55 0:55,1,2010,▲1
+23,66,103,+1:06,24.0,Roux Anthony,23,Francaise des Jeux,0:56 0:56,1,2010,▲1
+25,11,116,+1:09,25.0,Schleck Andy,24,Saxo Bank,0:59 0:59,1,2010,▲1
+22,155,119,+1:09,26.0,Gautier Cyril,25,Bbox Bouygues Telecom,",, 0:59",1,2010,▲1
+25,111,121,+1:10,27.0,Cavendish Mark,26,Team HTC - Columbia,1:00 1:00,1,2010,▲1
+24,209,123,+1:10,28.0,Špilak Simon,27,Lampre - Farnese Vini,",, 1:00",1,2010,▲1
+20,216,136,+1:13,29.0,Felline Fabio,28,Footon-Servetto,1:03 1:03,1,2010,▲1
+24,202,138,+1:14,30.0,Bole Grega,29,Lampre - Farnese Vini,1:04 1:04,1,2010,▲1
+23,137,140,+1:16,31.0,Seeldraeyers Kevin,30,Quickstep - Innergetic,1:06 1:06,1,2010,▲1
+23,219,148,+1:18,32.0,Valls Rafael,31,Footon-Servetto,1:08 1:08,1,2010,▲1
+24,211,149,+1:19,33.0,Capecchi Eros,32,Footon-Servetto,1:09 1:09,1,2010,▲1
+24,63,152,+1:19,34.0,Di Grégorio Rémy,33,Francaise des Jeux,",, 1:09",1,2010,▲1
+25,103,173,+1:25,35.0,de Greef Francis,34,Omega Pharma-Lotto,1:15 1:15,1,2010,▲1
+23,156,177,+1:28,36.0,Rolland Pierre,35,Bbox Bouygues Telecom,1:18 1:18,1,2010,▲1
+23,68,182,+1:37,37.0,Sulzberger Wesley,36,Francaise des Jeux,1:27 1:27,1,2010,▲1
+24,192,188,+4:04,8.0,Boom Lars,37,Rabobank ProTeam,3:54 3:54,1,2010,▼29
+25,115,3,+3:07,1.0,Martin Tony,1,Team HTC - Columbia,10:04:32 10:04:32,2,2010,-
+24,39,6,+3:20,2.0,Thomas Geraint,2,Sky Procycling,0:13 0:13,2,2010,-
+23,36,8,+3:29,3.0,Boasson Hagen Edvald,3,Sky Procycling,0:22 0:22,2,2010,-
+24,44,16,+3:35,5.0,Kreuziger Roman,4,Liquigas - Doimo,0:28 0:28,2,2010,▲1
+23,43,22,+3:39,6.0,Koren Kristijan,5,Liquigas - Doimo,0:32 0:32,2,2010,▲1
+23,46,23,+3:40,7.0,Oss Daniel,6,Liquigas - Doimo,0:33 0:33,2,2010,▲1
+23,162,28,+3:46,10.0,Costa Rui,7,Caisse d'Epargne,0:39 0:39,2,2010,▲3
+25,169,30,+3:46,11.0,Rojas José Joaquín,8,Caisse d'Epargne,",, 0:39",2,2010,▲3
+25,14,36,+3:47,12.0,Fuglsang Jakob,9,Saxo Bank,0:40 0:40,2,2010,▲3
+24,195,39,+3:48,14.0,Gesink Robert,10,Rabobank ProTeam,0:41 0:41,2,2010,▲4
+23,76,40,+3:48,15.0,Pliuschin Alexandr,11,Team Katusha,",, 0:41",2,2010,▲4
+25,108,64,+3:59,17.0,Roelandts Jürgen,12,Omega Pharma-Lotto,0:52 0:52,2,2010,▲5
+24,214,66,+4:00,19.0,Durán Arkaitz,13,Footon-Servetto,0:53 0:53,2,2010,▲6
+25,174,67,+4:01,20.0,El Fares Julien,14,"Cofidis, le Crédit en Ligne",0:54 0:54,2,2010,▲6
+25,143,68,+4:01,21.0,Fröhlinger Johannes,15,Milram,",, 0:54",2,2010,▲6
+23,82,72,+4:02,22.0,Bouet Maxime,16,AG2R La Mondiale,0:55 0:55,2,2010,▲6
+25,11,82,+4:06,24.0,Schleck Andy,17,Saxo Bank,0:59 0:59,2,2010,▲7
+22,155,84,+4:06,25.0,Gautier Cyril,18,Bbox Bouygues Telecom,",, 0:59",2,2010,▲7
+23,219,99,+4:15,31.0,Valls Rafael,19,Footon-Servetto,1:08 1:08,2,2010,▲12
+24,63,102,+4:16,33.0,Di Grégorio Rémy,20,Francaise des Jeux,1:09 1:09,2,2010,▲13
+20,216,114,+4:23,28.0,Felline Fabio,21,Footon-Servetto,1:16 1:16,2,2010,▲7
+23,156,116,+4:25,35.0,Rolland Pierre,22,Bbox Bouygues Telecom,1:18 1:18,2,2010,▲13
+23,68,124,+4:47,36.0,Sulzberger Wesley,23,Francaise des Jeux,1:40 1:40,2,2010,▲13
+25,103,125,+5:24,34.0,de Greef Francis,24,Omega Pharma-Lotto,2:17 2:17,2,2010,▲10
+23,171,128,+8:37,9.0,Taaramäe Rein,25,"Cofidis, le Crédit en Ligne",5:30 5:30,2,2010,▼16
+25,111,147,+10:00,26.0,Cavendish Mark,26,Team HTC - Columbia,6:53 6:53,2,2010,-
+24,192,150,+11:56,37.0,Boom Lars,27,Rabobank ProTeam,8:49 8:49,2,2010,▲10
+22,207,151,+13:13,4.0,Malori Adriano,28,Lampre - Farnese Vini,10:06 10:06,2,2010,▼24
+23,142,156,+13:31,16.0,Ciolek Gerald,29,Milram,10:24 10:24,2,2010,▼13
+23,66,161,+13:44,23.0,Roux Anthony,30,Francaise des Jeux,10:37 10:37,2,2010,▼7
+24,209,164,+13:49,27.0,Špilak Simon,31,Lampre - Farnese Vini,10:42 10:42,2,2010,▼4
+23,137,167,+13:55,30.0,Seeldraeyers Kevin,32,Quickstep - Innergetic,10:48 10:48,2,2010,▼2
+24,211,169,+13:58,32.0,Capecchi Eros,33,Footon-Servetto,10:51 10:51,2,2010,▼1
+24,97,181,+18:48,8.0,Konovalovas Ignatas,34,Cervelo Test Team,15:41 15:41,2,2010,▼26
+24,144,182,+18:54,13.0,Kluge Roger,35,Milram,15:47 15:47,2,2010,▼22
+24,202,185,+19:18,29.0,Bole Grega,36,Lampre - Farnese Vini,16:11 16:11,2,2010,▼7
+24,39,2,+0:23,2.0,Thomas Geraint,1,Sky Procycling,14:54:23 14:54:23,3,2010,▲1
+25,11,6,+1:09,17.0,Schleck Andy,2,Saxo Bank,0:46 0:46,3,2010,▲15
+24,44,14,+2:24,4.0,Kreuziger Roman,3,Liquigas - Doimo,2:01 2:01,3,2010,▲1
+25,169,18,+2:35,8.0,Rojas José Joaquín,4,Caisse d'Epargne,2:12 2:12,3,2010,▲4
+25,115,19,+2:35,1.0,Martin Tony,5,Team HTC - Columbia,",, 2:12",3,2010,▼4
+24,214,20,+2:49,13.0,Durán Arkaitz,6,Footon-Servetto,2:26 2:26,3,2010,▲7
+25,14,24,+2:58,9.0,Fuglsang Jakob,7,Saxo Bank,2:35 2:35,3,2010,▲2
+23,43,34,+3:07,5.0,Koren Kristijan,8,Liquigas - Doimo,2:44 2:44,3,2010,▼3
+25,108,35,+3:10,12.0,Roelandts Jürgen,9,Omega Pharma-Lotto,2:47 2:47,3,2010,▲3
+23,162,37,+3:14,7.0,Costa Rui,10,Caisse d'Epargne,2:51 2:51,3,2010,▼3
+24,195,41,+3:16,10.0,Gesink Robert,11,Rabobank ProTeam,2:53 2:53,3,2010,▼1
+22,155,62,+3:34,18.0,Gautier Cyril,12,Bbox Bouygues Telecom,3:11 3:11,3,2010,▲6
+23,219,66,+3:43,19.0,Valls Rafael,13,Footon-Servetto,3:20 3:20,3,2010,▲6
+23,156,73,+3:53,22.0,Rolland Pierre,14,Bbox Bouygues Telecom,3:30 3:30,3,2010,▲8
+23,36,76,+4:30,3.0,Boasson Hagen Edvald,15,Sky Procycling,4:07 4:07,3,2010,▼12
+23,46,78,+4:41,6.0,Oss Daniel,16,Liquigas - Doimo,4:18 4:18,3,2010,▼10
+23,76,81,+4:49,11.0,Pliuschin Alexandr,17,Team Katusha,4:26 4:26,3,2010,▼6
+25,174,89,+7:32,14.0,El Fares Julien,18,"Cofidis, le Crédit en Ligne",7:09 7:09,3,2010,▼4
+25,143,90,+7:32,15.0,Fröhlinger Johannes,19,Milram,",, 7:09",3,2010,▼4
+24,63,97,+7:47,20.0,Di Grégorio Rémy,20,Francaise des Jeux,7:24 7:24,3,2010,-
+23,68,103,+8:18,23.0,Sulzberger Wesley,21,Francaise des Jeux,7:55 7:55,3,2010,▲2
+25,111,107,+9:11,26.0,Cavendish Mark,22,Team HTC - Columbia,8:48 8:48,3,2010,▲4
+20,216,119,+11:15,21.0,Felline Fabio,23,Footon-Servetto,10:52 10:52,3,2010,▼2
+25,103,121,+12:16,24.0,de Greef Francis,24,Omega Pharma-Lotto,11:53 11:53,3,2010,-
+23,142,127,+12:42,29.0,Ciolek Gerald,25,Milram,12:19 12:19,3,2010,▲4
+24,192,128,+12:57,27.0,Boom Lars,26,Rabobank ProTeam,12:34 12:34,3,2010,▲1
+23,82,145,+17:24,16.0,Bouet Maxime,27,AG2R La Mondiale,17:01 17:01,3,2010,▼11
+23,66,161,+20:36,30.0,Roux Anthony,28,Francaise des Jeux,20:13 20:13,3,2010,▲2
+23,137,162,+20:47,32.0,Seeldraeyers Kevin,29,Quickstep - Innergetic,20:24 20:24,3,2010,▲3
+24,97,167,+22:19,34.0,Konovalovas Ignatas,30,Cervelo Test Team,21:56 21:56,3,2010,▲4
+23,171,168,+22:43,25.0,Taaramäe Rein,31,"Cofidis, le Crédit en Ligne",22:20 22:20,3,2010,▼6
+24,144,170,+23:00,35.0,Kluge Roger,32,Milram,22:37 22:37,3,2010,▲3
+24,211,172,+23:25,33.0,Capecchi Eros,33,Footon-Servetto,23:02 23:02,3,2010,-
+24,209,181,+27:55,31.0,Špilak Simon,34,Lampre - Farnese Vini,27:32 27:32,3,2010,▼3
+22,207,184,+33:12,28.0,Malori Adriano,35,Lampre - Farnese Vini,32:49 32:49,3,2010,▼7
+24,202,185,+33:24,36.0,Bole Grega,36,Lampre - Farnese Vini,33:01 33:01,3,2010,-
+24,39,2,+0:23,1.0,Thomas Geraint,1,Sky Procycling,18:29:18 18:29:18,4,2010,-
+25,11,6,+1:09,2.0,Schleck Andy,2,Saxo Bank,0:46 0:46,4,2010,-
+24,44,14,+2:24,3.0,Kreuziger Roman,3,Liquigas - Doimo,2:01 2:01,4,2010,-
+25,169,18,+2:35,4.0,Rojas José Joaquín,4,Caisse d'Epargne,2:12 2:12,4,2010,-
+25,115,19,+2:35,5.0,Martin Tony,5,Team HTC - Columbia,",, 2:12",4,2010,-
+24,214,20,+2:49,6.0,Durán Arkaitz,6,Footon-Servetto,2:26 2:26,4,2010,-
+25,14,24,+2:58,7.0,Fuglsang Jakob,7,Saxo Bank,2:35 2:35,4,2010,-
+23,43,34,+3:07,8.0,Koren Kristijan,8,Liquigas - Doimo,2:44 2:44,4,2010,-
+25,108,35,+3:10,9.0,Roelandts Jürgen,9,Omega Pharma-Lotto,2:47 2:47,4,2010,-
+23,162,37,+3:14,10.0,Costa Rui,10,Caisse d'Epargne,2:51 2:51,4,2010,-
+22,155,60,+3:34,12.0,Gautier Cyril,11,Bbox Bouygues Telecom,3:11 3:11,4,2010,▲1
+23,219,64,+3:43,13.0,Valls Rafael,12,Footon-Servetto,3:20 3:20,4,2010,▲1
+23,156,71,+3:53,14.0,Rolland Pierre,13,Bbox Bouygues Telecom,3:30 3:30,4,2010,▲1
+23,36,75,+4:30,15.0,Boasson Hagen Edvald,14,Sky Procycling,4:07 4:07,4,2010,▲1
+23,46,77,+4:41,16.0,Oss Daniel,15,Liquigas - Doimo,4:18 4:18,4,2010,▲1
+23,76,80,+4:49,17.0,Pliuschin Alexandr,16,Team Katusha,4:26 4:26,4,2010,▲1
+24,195,83,+5:24,11.0,Gesink Robert,17,Rabobank ProTeam,5:01 5:01,4,2010,▼6
+25,174,89,+7:32,18.0,El Fares Julien,18,"Cofidis, le Crédit en Ligne",7:09 7:09,4,2010,-
+25,143,90,+7:32,19.0,Fröhlinger Johannes,19,Milram,",, 7:09",4,2010,-
+24,63,97,+7:47,20.0,Di Grégorio Rémy,20,Francaise des Jeux,7:24 7:24,4,2010,-
+23,68,103,+8:18,21.0,Sulzberger Wesley,21,Francaise des Jeux,7:55 7:55,4,2010,-
+25,111,106,+9:11,22.0,Cavendish Mark,22,Team HTC - Columbia,8:48 8:48,4,2010,-
+20,216,118,+11:15,23.0,Felline Fabio,23,Footon-Servetto,10:52 10:52,4,2010,-
+23,142,124,+12:42,25.0,Ciolek Gerald,24,Milram,12:19 12:19,4,2010,▲1
+24,192,129,+13:41,26.0,Boom Lars,25,Rabobank ProTeam,13:18 13:18,4,2010,▲1
+25,103,135,+15:04,24.0,de Greef Francis,26,Omega Pharma-Lotto,14:41 14:41,4,2010,▼2
+23,82,157,+18:58,27.0,Bouet Maxime,27,AG2R La Mondiale,18:35 18:35,4,2010,-
+23,137,161,+20:47,29.0,Seeldraeyers Kevin,28,Quickstep - Innergetic,20:24 20:24,4,2010,▲1
+23,171,164,+22:43,31.0,Taaramäe Rein,29,"Cofidis, le Crédit en Ligne",22:20 22:20,4,2010,▲2
+23,66,165,+22:44,28.0,Roux Anthony,30,Francaise des Jeux,22:21 22:21,4,2010,▼2
+24,144,169,+23:42,32.0,Kluge Roger,31,Milram,23:19 23:19,4,2010,▲1
+24,211,171,+24:07,33.0,Capecchi Eros,32,Footon-Servetto,23:44 23:44,4,2010,▲1
+24,97,173,+24:09,30.0,Konovalovas Ignatas,33,Cervelo Test Team,23:46 23:46,4,2010,▼3
+24,209,182,+28:34,34.0,Špilak Simon,34,Lampre - Farnese Vini,28:11 28:11,4,2010,-
+22,207,184,+33:12,35.0,Malori Adriano,35,Lampre - Farnese Vini,32:49 32:49,4,2010,-
+24,202,186,+35:32,36.0,Bole Grega,36,Lampre - Farnese Vini,35:09 35:09,4,2010,-
+24,39,2,+0:23,1.0,Thomas Geraint,1,Sky Procycling,23:00:08 23:00:08,5,2010,-
+25,11,6,+1:09,2.0,Schleck Andy,2,Saxo Bank,0:46 0:46,5,2010,-
+24,44,14,+2:24,3.0,Kreuziger Roman,3,Liquigas - Doimo,2:01 2:01,5,2010,-
+25,169,18,+2:35,4.0,Rojas José Joaquín,4,Caisse d'Epargne,2:12 2:12,5,2010,-
+25,115,19,+2:35,5.0,Martin Tony,5,Team HTC - Columbia,",, 2:12",5,2010,-
+24,214,20,+2:49,6.0,Durán Arkaitz,6,Footon-Servetto,2:26 2:26,5,2010,-
+25,14,23,+2:58,7.0,Fuglsang Jakob,7,Saxo Bank,2:35 2:35,5,2010,-
+23,43,33,+3:07,8.0,Koren Kristijan,8,Liquigas - Doimo,2:44 2:44,5,2010,-
+25,108,34,+3:10,9.0,Roelandts Jürgen,9,Omega Pharma-Lotto,2:47 2:47,5,2010,-
+23,162,36,+3:14,10.0,Costa Rui,10,Caisse d'Epargne,2:51 2:51,5,2010,-
+24,195,40,+3:16,17.0,Gesink Robert,11,Rabobank ProTeam,2:53 2:53,5,2010,▲6
+22,155,60,+3:34,11.0,Gautier Cyril,12,Bbox Bouygues Telecom,3:11 3:11,5,2010,▼1
+23,219,64,+3:43,12.0,Valls Rafael,13,Footon-Servetto,3:20 3:20,5,2010,▼1
+23,156,71,+3:53,13.0,Rolland Pierre,14,Bbox Bouygues Telecom,3:30 3:30,5,2010,▼1
+23,36,75,+4:30,14.0,Boasson Hagen Edvald,15,Sky Procycling,4:07 4:07,5,2010,▼1
+23,46,78,+4:41,15.0,Oss Daniel,16,Liquigas - Doimo,4:18 4:18,5,2010,▼1
+23,76,81,+4:49,16.0,Pliuschin Alexandr,17,Team Katusha,4:26 4:26,5,2010,▼1
+25,174,88,+7:32,18.0,El Fares Julien,18,"Cofidis, le Crédit en Ligne",7:09 7:09,5,2010,-
+25,143,89,+7:32,19.0,Fröhlinger Johannes,19,Milram,",, 7:09",5,2010,-
+24,63,95,+7:47,20.0,Di Grégorio Rémy,20,Francaise des Jeux,7:24 7:24,5,2010,-
+23,68,101,+8:18,21.0,Sulzberger Wesley,21,Francaise des Jeux,7:55 7:55,5,2010,-
+25,111,104,+9:11,22.0,Cavendish Mark,22,Team HTC - Columbia,8:48 8:48,5,2010,-
+20,216,115,+11:15,23.0,Felline Fabio,23,Footon-Servetto,10:52 10:52,5,2010,-
+23,142,122,+12:42,24.0,Ciolek Gerald,24,Milram,12:19 12:19,5,2010,-
+23,137,156,+20:47,28.0,Seeldraeyers Kevin,25,Quickstep - Innergetic,20:24 20:24,5,2010,▲3
+23,171,163,+22:43,29.0,Taaramäe Rein,26,"Cofidis, le Crédit en Ligne",22:20 22:20,5,2010,▲3
+24,144,166,+23:42,31.0,Kluge Roger,27,Milram,23:19 23:19,5,2010,▲4
+24,39,2,+0:20,1.0,Thomas Geraint,1,Sky Procycling,28:37:50 28:37:50,6,2010,-
+25,11,6,+1:09,2.0,Schleck Andy,2,Saxo Bank,0:49 0:49,6,2010,-
+24,44,14,+2:24,3.0,Kreuziger Roman,3,Liquigas - Doimo,2:04 2:04,6,2010,-
+25,169,17,+2:32,4.0,Rojas José Joaquín,4,Caisse d'Epargne,2:12 2:12,6,2010,-
+25,115,19,+2:35,5.0,Martin Tony,5,Team HTC - Columbia,2:15 2:15,6,2010,-
+24,214,20,+2:49,6.0,Durán Arkaitz,6,Footon-Servetto,2:29 2:29,6,2010,-
+25,14,23,+2:58,7.0,Fuglsang Jakob,7,Saxo Bank,2:38 2:38,6,2010,-
+23,43,33,+3:07,8.0,Koren Kristijan,8,Liquigas - Doimo,2:47 2:47,6,2010,-
+25,108,34,+3:10,9.0,Roelandts Jürgen,9,Omega Pharma-Lotto,2:50 2:50,6,2010,-
+23,162,36,+3:14,10.0,Costa Rui,10,Caisse d'Epargne,2:54 2:54,6,2010,-
+24,195,40,+3:16,11.0,Gesink Robert,11,Rabobank ProTeam,2:56 2:56,6,2010,-
+22,155,60,+3:34,12.0,Gautier Cyril,12,Bbox Bouygues Telecom,3:14 3:14,6,2010,-
+23,219,63,+3:43,13.0,Valls Rafael,13,Footon-Servetto,3:23 3:23,6,2010,-
+23,156,70,+3:53,14.0,Rolland Pierre,14,Bbox Bouygues Telecom,3:33 3:33,6,2010,-
+23,36,74,+4:27,15.0,Boasson Hagen Edvald,15,Sky Procycling,4:07 4:07,6,2010,-
+23,46,77,+4:41,16.0,Oss Daniel,16,Liquigas - Doimo,4:21 4:21,6,2010,-
+23,76,80,+4:49,17.0,Pliuschin Alexandr,17,Team Katusha,4:29 4:29,6,2010,-
+25,174,87,+7:32,18.0,El Fares Julien,18,"Cofidis, le Crédit en Ligne",7:12 7:12,6,2010,-
+25,143,88,+7:32,19.0,Fröhlinger Johannes,19,Milram,",, 7:12",6,2010,-
+24,63,95,+7:47,20.0,Di Grégorio Rémy,20,Francaise des Jeux,7:27 7:27,6,2010,-
+23,68,101,+8:18,21.0,Sulzberger Wesley,21,Francaise des Jeux,7:58 7:58,6,2010,-
+25,111,104,+9:08,22.0,Cavendish Mark,22,Team HTC - Columbia,8:48 8:48,6,2010,-
+20,216,114,+11:15,23.0,Felline Fabio,23,Footon-Servetto,10:55 10:55,6,2010,-
+23,142,120,+12:39,24.0,Ciolek Gerald,24,Milram,12:19 12:19,6,2010,-
+24,192,132,+16:11,,Boom Lars,25,Rabobank ProTeam,15:51 15:51,6,2010,-
+25,103,136,+17:31,,de Greef Francis,26,Omega Pharma-Lotto,17:11 17:11,6,2010,-
+23,137,159,+22:26,25.0,Seeldraeyers Kevin,27,Quickstep - Innergetic,22:06 22:06,6,2010,▼2
+23,82,160,+22:29,,Bouet Maxime,28,AG2R La Mondiale,22:09 22:09,6,2010,-
+23,171,164,+23:23,26.0,Taaramäe Rein,29,"Cofidis, le Crédit en Ligne",23:03 23:03,6,2010,▼3
+24,144,165,+23:42,27.0,Kluge Roger,30,Milram,23:22 23:22,6,2010,▼3
+24,97,169,+27:40,,Konovalovas Ignatas,31,Cervelo Test Team,27:20 27:20,6,2010,-
+24,211,170,+27:55,,Capecchi Eros,32,Footon-Servetto,27:35 27:35,6,2010,-
+24,209,176,+31:01,,Špilak Simon,33,Lampre - Farnese Vini,30:41 30:41,6,2010,-
+22,207,179,+35:39,,Malori Adriano,34,Lampre - Farnese Vini,35:19 35:19,6,2010,-
+23,66,180,+35:45,,Roux Anthony,35,Francaise des Jeux,35:25 35:25,6,2010,-
+24,202,182,+37:59,,Bole Grega,36,Lampre - Farnese Vini,37:39 37:39,6,2010,-
+25,11,4,+1:55,2.0,Schleck Andy,1,Saxo Bank,33:03:18 33:03:18,7,2010,▲1
+24,44,10,+3:10,3.0,Kreuziger Roman,2,Liquigas - Doimo,1:15 1:15,7,2010,▲1
+23,219,14,+3:39,13.0,Valls Rafael,3,Footon-Servetto,1:44 1:44,7,2010,▲10
+24,195,21,+4:02,11.0,Gesink Robert,4,Rabobank ProTeam,2:07 2:07,7,2010,▲7
+22,155,27,+4:20,12.0,Gautier Cyril,5,Bbox Bouygues Telecom,2:25 2:25,7,2010,▲7
+24,39,29,+4:37,1.0,Thomas Geraint,6,Sky Procycling,2:42 2:42,7,2010,▼5
+23,156,30,+4:39,14.0,Rolland Pierre,7,Bbox Bouygues Telecom,2:44 2:44,7,2010,▲7
+25,174,53,+12:35,18.0,El Fares Julien,8,"Cofidis, le Crédit en Ligne",10:40 10:40,7,2010,▲10
+25,14,58,+14:56,7.0,Fuglsang Jakob,9,Saxo Bank,13:01 13:01,7,2010,▼2
+23,162,59,+15:12,10.0,Costa Rui,10,Caisse d'Epargne,13:17 13:17,7,2010,-
+25,169,60,+15:43,4.0,Rojas José Joaquín,11,Caisse d'Epargne,13:48 13:48,7,2010,▼7
+25,143,62,+16:33,19.0,Fröhlinger Johannes,12,Milram,14:38 14:38,7,2010,▲7
+25,115,73,+20:48,5.0,Martin Tony,13,Team HTC - Columbia,18:53 18:53,7,2010,▼8
+24,214,75,+21:02,6.0,Durán Arkaitz,14,Footon-Servetto,19:07 19:07,7,2010,▼8
+23,36,90,+22:23,15.0,Boasson Hagen Edvald,15,Sky Procycling,20:28 20:28,7,2010,-
+23,76,92,+23:02,17.0,Pliuschin Alexandr,16,Team Katusha,21:07 21:07,7,2010,▲1
+23,43,97,+24:23,8.0,Koren Kristijan,17,Liquigas - Doimo,22:28 22:28,7,2010,▼9
+25,108,98,+24:26,9.0,Roelandts Jürgen,18,Omega Pharma-Lotto,22:31 22:31,7,2010,▼9
+23,46,105,+25:57,16.0,Oss Daniel,19,Liquigas - Doimo,24:02 24:02,7,2010,▼3
+24,63,106,+26:00,20.0,Di Grégorio Rémy,20,Francaise des Jeux,24:05 24:05,7,2010,-
+24,211,110,+28:41,32.0,Capecchi Eros,21,Footon-Servetto,26:46 26:46,7,2010,▲11
+20,216,119,+29:28,23.0,Felline Fabio,22,Footon-Servetto,27:33 27:33,7,2010,▲1
+25,103,120,+29:29,26.0,de Greef Francis,23,Omega Pharma-Lotto,27:34 27:34,7,2010,▲3
+23,68,123,+29:34,21.0,Sulzberger Wesley,24,Francaise des Jeux,27:39 27:39,7,2010,▼3
+25,111,125,+30:24,22.0,Cavendish Mark,25,Team HTC - Columbia,28:29 28:29,7,2010,▼3
+23,142,138,+33:55,24.0,Ciolek Gerald,26,Milram,32:00 32:00,7,2010,▼2
+24,192,141,+34:24,25.0,Boom Lars,27,Rabobank ProTeam,32:29 32:29,7,2010,▼2
+23,137,143,+35:37,27.0,Seeldraeyers Kevin,28,Quickstep - Innergetic,33:42 33:42,7,2010,▼1
+23,82,157,+40:42,28.0,Bouet Maxime,29,AG2R La Mondiale,38:47 38:47,7,2010,▼1
+23,171,169,+44:39,29.0,Taaramäe Rein,30,"Cofidis, le Crédit en Ligne",42:44 42:44,7,2010,▼1
+24,144,170,+44:58,30.0,Kluge Roger,31,Milram,43:03 43:03,7,2010,▼1
+24,97,172,+48:56,31.0,Konovalovas Ignatas,32,Cervelo Test Team,47:01 47:01,7,2010,▼1
+24,209,173,+49:14,33.0,Špilak Simon,33,Lampre - Farnese Vini,47:19 47:19,7,2010,-
+24,202,179,+56:12,36.0,Bole Grega,34,Lampre - Farnese Vini,54:17 54:17,7,2010,▲2
+22,207,180,+56:55,34.0,Malori Adriano,35,Lampre - Farnese Vini,55:00 55:00,7,2010,▼1
+23,66,182,+57:01,35.0,Roux Anthony,36,Francaise des Jeux,55:06 55:06,7,2010,▼1
+25,11,2,+0:20,1.0,Schleck Andy,1,Saxo Bank,37:57:29 37:57:29,8,2010,-
+24,44,5,+1:45,2.0,Kreuziger Roman,2,Liquigas - Doimo,1:25 1:25,8,2010,-
+24,195,9,+2:37,4.0,Gesink Robert,3,Rabobank ProTeam,2:17 2:17,8,2010,▲1
+23,219,17,+4:27,3.0,Valls Rafael,4,Footon-Servetto,4:07 4:07,8,2010,▼1
+23,156,33,+11:14,7.0,Rolland Pierre,5,Bbox Bouygues Telecom,10:54 10:54,8,2010,▲2
+25,174,42,+17:30,8.0,El Fares Julien,6,"Cofidis, le Crédit en Ligne",17:10 17:10,8,2010,▲2
+22,155,48,+24:17,5.0,Gautier Cyril,7,Bbox Bouygues Telecom,23:57 23:57,8,2010,▼2
+25,14,50,+24:48,9.0,Fuglsang Jakob,8,Saxo Bank,24:28 24:28,8,2010,▲1
+24,214,52,+25:17,14.0,Durán Arkaitz,9,Footon-Servetto,24:57 24:57,8,2010,▲5
+24,211,62,+29:29,21.0,Capecchi Eros,10,Footon-Servetto,29:09 29:09,8,2010,▲11
+24,39,66,+30:51,6.0,Thomas Geraint,11,Sky Procycling,30:31 30:31,8,2010,▼5
+23,162,71,+35:09,10.0,Costa Rui,12,Caisse d'Epargne,34:49 34:49,8,2010,▼2
+25,169,72,+35:40,11.0,Rojas José Joaquín,13,Caisse d'Epargne,35:20 35:20,8,2010,▼2
+25,103,78,+39:10,23.0,de Greef Francis,14,Omega Pharma-Lotto,38:50 38:50,8,2010,▲9
+25,143,89,+42:47,12.0,Fröhlinger Johannes,15,Milram,42:27 42:27,8,2010,▼3
+23,76,90,+42:59,16.0,Pliuschin Alexandr,16,Team Katusha,42:39 42:39,8,2010,-
+25,115,92,+43:24,13.0,Martin Tony,17,Team HTC - Columbia,43:04 43:04,8,2010,▼4
+24,63,97,+45:57,20.0,Di Grégorio Rémy,18,Francaise des Jeux,45:37 45:37,8,2010,▲2
+23,36,107,+48:37,15.0,Boasson Hagen Edvald,19,Sky Procycling,48:17 48:17,8,2010,▼4
+23,43,115,+50:37,17.0,Koren Kristijan,20,Liquigas - Doimo,50:17 50:17,8,2010,▼3
+25,108,116,+50:40,18.0,Roelandts Jürgen,21,Omega Pharma-Lotto,50:20 50:20,8,2010,▼3
+23,46,121,+52:11,19.0,Oss Daniel,22,Liquigas - Doimo,51:51 51:51,8,2010,▼3
+23,68,131,+55:48,24.0,Sulzberger Wesley,23,Francaise des Jeux,55:28 55:28,8,2010,▲1
+23,82,136,+56:49,29.0,Bouet Maxime,24,AG2R La Mondiale,56:29 56:29,8,2010,▲5
+20,216,141,+1:00:27,22.0,Felline Fabio,25,Footon-Servetto,1:00:07 1:00:07,8,2010,▼3
+24,192,144,+1:00:38,27.0,Boom Lars,26,Rabobank ProTeam,1:00:18 1:00:18,8,2010,▲1
+25,111,146,+1:01:23,25.0,Cavendish Mark,27,Team HTC - Columbia,1:01:03 1:01:03,8,2010,▼2
+23,137,149,+1:01:51,28.0,Seeldraeyers Kevin,28,Quickstep - Innergetic,1:01:31 1:01:31,8,2010,-
+23,171,151,+1:04:36,30.0,Taaramäe Rein,29,"Cofidis, le Crédit en Ligne",1:04:16 1:04:16,8,2010,▲1
+23,142,152,+1:04:54,26.0,Ciolek Gerald,30,Milram,1:04:34 1:04:34,8,2010,▼4
+24,97,170,+1:15:10,32.0,Konovalovas Ignatas,31,Cervelo Test Team,1:14:50 1:14:50,8,2010,▲1
+24,144,173,+1:16:15,31.0,Kluge Roger,32,Milram,1:15:55 1:15:55,8,2010,▼1
+24,209,175,+1:20:13,33.0,Špilak Simon,33,Lampre - Farnese Vini,1:19:53 1:19:53,8,2010,-
+24,202,178,+1:22:26,34.0,Bole Grega,34,Lampre - Farnese Vini,1:22:06 1:22:06,8,2010,-
+23,66,180,+1:23:26,36.0,Roux Anthony,35,Francaise des Jeux,1:23:06 1:23:06,8,2010,▲1
+22,207,182,+1:27:54,35.0,Malori Adriano,36,Lampre - Farnese Vini,1:27:34 1:27:34,8,2010,▼1
+25,11,1,+0:00,1.0,Schleck Andy,1,Saxo Bank,43:35:41 43:35:41,9,2010,-
+24,195,5,+4:22,3.0,Gesink Robert,2,Rabobank ProTeam,4:22 4:22,9,2010,▲1
+24,44,9,+5:11,2.0,Kreuziger Roman,3,Liquigas - Doimo,5:11 5:11,9,2010,▼1
+22,155,37,+28:50,7.0,Gautier Cyril,4,Bbox Bouygues Telecom,28:50 28:50,9,2010,▲3
+23,219,39,+30:01,4.0,Valls Rafael,5,Footon-Servetto,30:01 30:01,9,2010,▼1
+25,174,41,+30:29,6.0,El Fares Julien,6,"Cofidis, le Crédit en Ligne",30:29 30:29,9,2010,-
+25,14,54,+44:33,8.0,Fuglsang Jakob,7,Saxo Bank,44:33 44:33,9,2010,▲1
+23,156,57,+45:49,5.0,Rolland Pierre,8,Bbox Bouygues Telecom,45:49 45:49,9,2010,▼3
+24,214,63,+50:51,9.0,Durán Arkaitz,9,Footon-Servetto,50:51 50:51,9,2010,-
+24,39,64,+51:08,11.0,Thomas Geraint,10,Sky Procycling,51:08 51:08,9,2010,▲1
+25,103,69,+54:05,14.0,de Greef Francis,11,Omega Pharma-Lotto,54:05 54:05,9,2010,▲3
+24,211,70,+55:03,10.0,Capecchi Eros,12,Footon-Servetto,55:03 55:03,9,2010,▼2
+25,169,72,+55:57,13.0,Rojas José Joaquín,13,Caisse d'Epargne,55:57 55:57,9,2010,-
+25,143,77,+57:44,15.0,Fröhlinger Johannes,14,Milram,57:44 57:44,9,2010,▲1
+23,162,79,+1:00:43,12.0,Costa Rui,15,Caisse d'Epargne,1:00:43 1:00:43,9,2010,▼3
+23,36,91,+1:08:54,19.0,Boasson Hagen Edvald,16,Sky Procycling,1:08:54 1:08:54,9,2010,▲3
+24,63,94,+1:11:31,18.0,Di Grégorio Rémy,17,Francaise des Jeux,1:11:31 1:11:31,9,2010,▲1
+23,43,101,+1:16:11,20.0,Koren Kristijan,18,Liquigas - Doimo,1:16:11 1:16:11,9,2010,▲2
+23,82,105,+1:17:06,24.0,Bouet Maxime,19,AG2R La Mondiale,1:17:06 1:17:06,9,2010,▲5
+23,76,106,+1:17:34,16.0,Pliuschin Alexandr,20,Team Katusha,1:17:34 1:17:34,9,2010,▼4
+25,115,108,+1:17:59,17.0,Martin Tony,21,Team HTC - Columbia,1:17:59 1:17:59,9,2010,▼4
+24,192,118,+1:20:55,26.0,Boom Lars,22,Rabobank ProTeam,1:20:55 1:20:55,9,2010,▲4
+23,46,120,+1:22:04,22.0,Oss Daniel,23,Liquigas - Doimo,1:22:04 1:22:04,9,2010,▼1
+23,171,127,+1:24:53,29.0,Taaramäe Rein,24,"Cofidis, le Crédit en Ligne",1:24:53 1:24:53,9,2010,▲5
+25,108,128,+1:25:15,21.0,Roelandts Jürgen,25,Omega Pharma-Lotto,1:25:15 1:25:15,9,2010,▼4
+23,68,138,+1:30:23,23.0,Sulzberger Wesley,26,Francaise des Jeux,1:30:23 1:30:23,9,2010,▼3
+24,97,147,+1:35:27,31.0,Konovalovas Ignatas,27,Cervelo Test Team,1:35:27 1:35:27,9,2010,▲4
+25,111,148,+1:35:58,27.0,Cavendish Mark,28,Team HTC - Columbia,1:35:58 1:35:58,9,2010,▼1
+23,137,150,+1:36:26,28.0,Seeldraeyers Kevin,29,Quickstep - Innergetic,1:36:26 1:36:26,9,2010,▼1
+23,142,153,+1:39:29,30.0,Ciolek Gerald,30,Milram,1:39:29 1:39:29,9,2010,-
+24,209,164,+1:45:47,33.0,Špilak Simon,31,Lampre - Farnese Vini,1:45:47 1:45:47,9,2010,▲2
+24,202,170,+1:48:00,34.0,Bole Grega,32,Lampre - Farnese Vini,1:48:00 1:48:00,9,2010,▲2
+23,66,177,+1:58:18,35.0,Roux Anthony,33,Francaise des Jeux,1:58:18 1:58:18,9,2010,▲2
+22,207,178,+2:02:29,36.0,Malori Adriano,34,Lampre - Farnese Vini,2:02:29 2:02:29,9,2010,▲2
+25,11,1,+0:00,1.0,Schleck Andy,1,Saxo Bank,49:00:56 49:00:56,10,2010,-
+24,195,5,+4:22,2.0,Gesink Robert,2,Rabobank ProTeam,4:22 4:22,10,2010,-
+24,44,9,+5:11,3.0,Kreuziger Roman,3,Liquigas - Doimo,5:11 5:11,10,2010,-
+22,155,38,+30:18,4.0,Gautier Cyril,4,Bbox Bouygues Telecom,30:18 30:18,10,2010,-
+25,174,40,+30:29,6.0,El Fares Julien,5,"Cofidis, le Crédit en Ligne",30:29 30:29,10,2010,▲1
+23,219,42,+31:29,5.0,Valls Rafael,6,Footon-Servetto,31:29 31:29,10,2010,▼1
+23,156,43,+32:59,8.0,Rolland Pierre,7,Bbox Bouygues Telecom,32:59 32:59,10,2010,▲1
+25,14,57,+46:01,7.0,Fuglsang Jakob,8,Saxo Bank,46:01 46:01,10,2010,▼1
+24,39,64,+51:08,10.0,Thomas Geraint,9,Sky Procycling,51:08 51:08,10,2010,▲1
+24,214,65,+52:19,9.0,Durán Arkaitz,10,Footon-Servetto,52:19 52:19,10,2010,▼1
+24,211,70,+55:03,12.0,Capecchi Eros,11,Footon-Servetto,55:03 55:03,10,2010,▲1
+25,103,72,+55:33,11.0,de Greef Francis,12,Omega Pharma-Lotto,55:33 55:33,10,2010,▼1
+25,169,73,+55:57,13.0,Rojas José Joaquín,13,Caisse d'Epargne,55:57 55:57,10,2010,-
+25,143,78,+59:12,14.0,Fröhlinger Johannes,14,Milram,59:12 59:12,10,2010,-
+23,162,80,+1:02:11,15.0,Costa Rui,15,Caisse d'Epargne,1:02:11 1:02:11,10,2010,-
+23,82,86,+1:06:07,19.0,Bouet Maxime,16,AG2R La Mondiale,1:06:07 1:06:07,10,2010,▲3
+23,36,93,+1:10:22,16.0,Boasson Hagen Edvald,17,Sky Procycling,1:10:22 1:10:22,10,2010,▼1
+24,63,97,+1:12:59,17.0,Di Grégorio Rémy,18,Francaise des Jeux,1:12:59 1:12:59,10,2010,▼1
+23,43,100,+1:16:11,18.0,Koren Kristijan,19,Liquigas - Doimo,1:16:11 1:16:11,10,2010,▼1
+23,76,106,+1:17:34,20.0,Pliuschin Alexandr,20,Team Katusha,1:17:34 1:17:34,10,2010,-
+25,115,108,+1:17:59,21.0,Martin Tony,21,Team HTC - Columbia,1:17:59 1:17:59,10,2010,-
+23,46,117,+1:22:04,23.0,Oss Daniel,22,Liquigas - Doimo,1:22:04 1:22:04,10,2010,▲1
+24,192,120,+1:22:23,22.0,Boom Lars,23,Rabobank ProTeam,1:22:23 1:22:23,10,2010,▼1
+25,108,127,+1:25:15,25.0,Roelandts Jürgen,24,Omega Pharma-Lotto,1:25:15 1:25:15,10,2010,▲1
+23,171,130,+1:26:21,24.0,Taaramäe Rein,25,"Cofidis, le Crédit en Ligne",1:26:21 1:26:21,10,2010,▼1
+23,68,138,+1:30:23,26.0,Sulzberger Wesley,26,Francaise des Jeux,1:30:23 1:30:23,10,2010,-
+25,111,148,+1:35:58,28.0,Cavendish Mark,27,Team HTC - Columbia,1:35:58 1:35:58,10,2010,▲1
+24,97,150,+1:36:55,27.0,Konovalovas Ignatas,28,Cervelo Test Team,1:36:55 1:36:55,10,2010,▼1
+23,137,153,+1:37:54,29.0,Seeldraeyers Kevin,29,Quickstep - Innergetic,1:37:54 1:37:54,10,2010,-
+23,142,154,+1:39:29,30.0,Ciolek Gerald,30,Milram,1:39:29 1:39:29,10,2010,-
+24,209,165,+1:45:47,31.0,Špilak Simon,31,Lampre - Farnese Vini,1:45:47 1:45:47,10,2010,-
+24,202,167,+1:48:00,32.0,Bole Grega,32,Lampre - Farnese Vini,1:48:00 1:48:00,10,2010,-
+23,66,177,+2:00:46,33.0,Roux Anthony,33,Francaise des Jeux,2:00:46 2:00:46,10,2010,-
+22,207,178,+2:02:29,34.0,Malori Adriano,34,Lampre - Farnese Vini,2:02:29 2:02:29,10,2010,-
+25,11,1,+0:00,1.0,Schleck Andy,1,Saxo Bank,53:43:25 53:43:25,11,2010,-
+24,195,5,+4:22,2.0,Gesink Robert,2,Rabobank ProTeam,4:22 4:22,11,2010,-
+24,44,9,+5:11,3.0,Kreuziger Roman,3,Liquigas - Doimo,5:11 5:11,11,2010,-
+22,155,38,+30:18,4.0,Gautier Cyril,4,Bbox Bouygues Telecom,30:18 30:18,11,2010,-
+25,174,40,+30:29,5.0,El Fares Julien,5,"Cofidis, le Crédit en Ligne",30:29 30:29,11,2010,-
+23,219,46,+39:10,6.0,Valls Rafael,6,Footon-Servetto,39:10 39:10,11,2010,-
+23,156,47,+40:40,7.0,Rolland Pierre,7,Bbox Bouygues Telecom,40:40 40:40,11,2010,-
+25,14,60,+50:42,8.0,Fuglsang Jakob,8,Saxo Bank,50:42 50:42,11,2010,-
+24,39,62,+51:08,9.0,Thomas Geraint,9,Sky Procycling,51:08 51:08,11,2010,-
+24,214,63,+52:19,10.0,Durán Arkaitz,10,Footon-Servetto,52:19 52:19,11,2010,-
+25,169,68,+55:57,13.0,Rojas José Joaquín,11,Caisse d'Epargne,55:57 55:57,11,2010,▲2
+25,103,74,+58:02,12.0,de Greef Francis,12,Omega Pharma-Lotto,58:02 58:02,11,2010,-
+25,143,75,+59:12,14.0,Fröhlinger Johannes,13,Milram,59:12 59:12,11,2010,▲1
+23,162,77,+1:02:11,15.0,Costa Rui,14,Caisse d'Epargne,1:02:11 1:02:11,11,2010,▲1
+24,211,79,+1:02:44,11.0,Capecchi Eros,15,Footon-Servetto,1:02:44 1:02:44,11,2010,▼4
+23,36,91,+1:10:22,17.0,Boasson Hagen Edvald,16,Sky Procycling,1:10:22 1:10:22,11,2010,▲1
+23,82,94,+1:13:48,16.0,Bouet Maxime,17,AG2R La Mondiale,1:13:48 1:13:48,11,2010,▼1
+23,76,101,+1:17:34,20.0,Pliuschin Alexandr,18,Team Katusha,1:17:34 1:17:34,11,2010,▲2
+25,115,106,+1:19:08,21.0,Martin Tony,19,Team HTC - Columbia,1:19:08 1:19:08,11,2010,▲2
+24,63,111,+1:20:40,18.0,Di Grégorio Rémy,20,Francaise des Jeux,1:20:40 1:20:40,11,2010,▼2
+23,46,113,+1:22:04,22.0,Oss Daniel,21,Liquigas - Doimo,1:22:04 1:22:04,11,2010,▲1
+24,192,117,+1:22:52,23.0,Boom Lars,22,Rabobank ProTeam,1:22:52 1:22:52,11,2010,▲1
+23,43,119,+1:23:52,19.0,Koren Kristijan,23,Liquigas - Doimo,1:23:52 1:23:52,11,2010,▼4
+25,108,120,+1:25:15,24.0,Roelandts Jürgen,24,Omega Pharma-Lotto,1:25:15 1:25:15,11,2010,-
+23,68,132,+1:30:23,26.0,Sulzberger Wesley,25,Francaise des Jeux,1:30:23 1:30:23,11,2010,▲1
+23,171,138,+1:34:02,25.0,Taaramäe Rein,26,"Cofidis, le Crédit en Ligne",1:34:02 1:34:02,11,2010,▼1
+25,111,142,+1:35:58,27.0,Cavendish Mark,27,Team HTC - Columbia,1:35:58 1:35:58,11,2010,-
+23,142,146,+1:39:29,30.0,Ciolek Gerald,28,Milram,1:39:29 1:39:29,11,2010,▲2
+24,97,151,+1:41:36,28.0,Konovalovas Ignatas,29,Cervelo Test Team,1:41:36 1:41:36,11,2010,▼1
+23,137,158,+1:45:35,29.0,Seeldraeyers Kevin,30,Quickstep - Innergetic,1:45:35 1:45:35,11,2010,▼1
+24,209,159,+1:46:34,31.0,Špilak Simon,31,Lampre - Farnese Vini,1:46:34 1:46:34,11,2010,-
+24,202,164,+1:48:47,32.0,Bole Grega,32,Lampre - Farnese Vini,1:48:47 1:48:47,11,2010,-
+22,207,173,+2:04:09,34.0,Malori Adriano,33,Lampre - Farnese Vini,2:04:09 2:04:09,11,2010,▲1
+23,66,175,+2:05:51,33.0,Roux Anthony,34,Francaise des Jeux,2:05:51 2:05:51,11,2010,▼1
+25,11,1,+0:00,1.0,Schleck Andy,1,Saxo Bank,58:42:01 58:42:01,12,2010,-
+24,195,5,+4:27,2.0,Gesink Robert,2,Rabobank ProTeam,4:27 4:27,12,2010,-
+24,44,8,+5:16,3.0,Kreuziger Roman,3,Liquigas - Doimo,5:16 5:16,12,2010,-
+22,155,37,+31:01,4.0,Gautier Cyril,4,Bbox Bouygues Telecom,31:01 31:01,12,2010,-
+25,174,39,+33:54,5.0,El Fares Julien,5,"Cofidis, le Crédit en Ligne",33:54 33:54,12,2010,-
+23,156,45,+42:25,7.0,Rolland Pierre,6,Bbox Bouygues Telecom,42:25 42:25,12,2010,▲1
+23,219,48,+44:38,6.0,Valls Rafael,7,Footon-Servetto,44:38 44:38,12,2010,▼1
+25,14,57,+54:07,8.0,Fuglsang Jakob,8,Saxo Bank,54:07 54:07,12,2010,-
+24,39,60,+56:23,9.0,Thomas Geraint,9,Sky Procycling,56:23 56:23,12,2010,-
+24,214,62,+57:34,10.0,Durán Arkaitz,10,Footon-Servetto,57:34 57:34,12,2010,-
+25,169,63,+58:04,11.0,Rojas José Joaquín,11,Caisse d'Epargne,58:04 58:04,12,2010,-
+25,103,74,+1:03:17,12.0,de Greef Francis,12,Omega Pharma-Lotto,1:03:17 1:03:17,12,2010,-
+24,211,75,+1:03:45,15.0,Capecchi Eros,13,Footon-Servetto,1:03:45 1:03:45,12,2010,▲2
+25,143,76,+1:04:27,13.0,Fröhlinger Johannes,14,Milram,1:04:27 1:04:27,12,2010,▼1
+23,162,80,+1:07:39,14.0,Costa Rui,15,Caisse d'Epargne,1:07:39 1:07:39,12,2010,▼1
+23,82,92,+1:19:21,17.0,Bouet Maxime,16,AG2R La Mondiale,1:19:21 1:19:21,12,2010,▲1
+23,76,93,+1:20:29,18.0,Pliuschin Alexandr,17,Team Katusha,1:20:29 1:20:29,12,2010,▲1
+23,36,94,+1:20:32,16.0,Boasson Hagen Edvald,18,Sky Procycling,1:20:32 1:20:32,12,2010,▼2
+24,63,100,+1:22:25,20.0,Di Grégorio Rémy,19,Francaise des Jeux,1:22:25 1:22:25,12,2010,▲1
+25,115,105,+1:25:30,19.0,Martin Tony,20,Team HTC - Columbia,1:25:30 1:25:30,12,2010,▼1
+23,46,109,+1:27:19,21.0,Oss Daniel,21,Liquigas - Doimo,1:27:19 1:27:19,12,2010,-
+25,108,116,+1:30:30,24.0,Roelandts Jürgen,22,Omega Pharma-Lotto,1:30:30 1:30:30,12,2010,▲2
+23,43,124,+1:33:09,23.0,Koren Kristijan,23,Liquigas - Doimo,1:33:09 1:33:09,12,2010,-
+23,68,127,+1:35:38,25.0,Sulzberger Wesley,24,Francaise des Jeux,1:35:38 1:35:38,12,2010,▲1
+23,171,135,+1:39:30,26.0,Taaramäe Rein,25,"Cofidis, le Crédit en Ligne",1:39:30 1:39:30,12,2010,▲1
+23,137,144,+1:47:08,30.0,Seeldraeyers Kevin,26,Quickstep - Innergetic,1:47:08 1:47:08,12,2010,▲4
+24,97,146,+1:47:58,29.0,Konovalovas Ignatas,27,Cervelo Test Team,1:47:58 1:47:58,12,2010,▲2
+25,111,147,+1:48:27,27.0,Cavendish Mark,28,Team HTC - Columbia,1:48:27 1:48:27,12,2010,▼1
+23,142,151,+1:51:29,28.0,Ciolek Gerald,29,Milram,1:51:29 1:51:29,12,2010,▼1
+24,209,158,+1:55:51,31.0,Špilak Simon,30,Lampre - Farnese Vini,1:55:51 1:55:51,12,2010,▲1
+24,202,162,+1:57:06,32.0,Bole Grega,31,Lampre - Farnese Vini,1:57:06 1:57:06,12,2010,▲1
+22,207,171,+2:16:59,33.0,Malori Adriano,32,Lampre - Farnese Vini,2:16:59 2:16:59,12,2010,▲1
+23,66,173,+2:19:49,34.0,Roux Anthony,33,Francaise des Jeux,2:19:49 2:19:49,12,2010,▲1
+25,11,1,+0:00,1.0,Schleck Andy,1,Saxo Bank,63:08:40 63:08:40,13,2010,-
+24,195,5,+4:27,2.0,Gesink Robert,2,Rabobank ProTeam,4:27 4:27,13,2010,-
+24,44,8,+5:16,3.0,Kreuziger Roman,3,Liquigas - Doimo,5:16 5:16,13,2010,-
+22,155,37,+31:01,4.0,Gautier Cyril,4,Bbox Bouygues Telecom,31:01 31:01,13,2010,-
+25,174,39,+33:54,5.0,El Fares Julien,5,"Cofidis, le Crédit en Ligne",33:54 33:54,13,2010,-
+23,156,44,+42:25,6.0,Rolland Pierre,6,Bbox Bouygues Telecom,42:25 42:25,13,2010,-
+23,219,47,+45:59,7.0,Valls Rafael,7,Footon-Servetto,45:59 45:59,13,2010,-
+24,39,55,+56:23,9.0,Thomas Geraint,8,Sky Procycling,56:23 56:23,13,2010,▲1
+25,169,57,+58:04,11.0,Rojas José Joaquín,9,Caisse d'Epargne,58:04 58:04,13,2010,▲2
+24,214,58,+58:55,10.0,Durán Arkaitz,10,Footon-Servetto,58:55 58:55,13,2010,-
+25,14,61,+59:40,8.0,Fuglsang Jakob,11,Saxo Bank,59:40 59:40,13,2010,▼3
+24,211,68,+1:03:45,13.0,Capecchi Eros,12,Footon-Servetto,1:03:45 1:03:45,13,2010,▲1
+25,103,76,+1:07:39,12.0,de Greef Francis,13,Omega Pharma-Lotto,1:07:39 1:07:39,13,2010,▼1
+25,143,78,+1:08:49,14.0,Fröhlinger Johannes,14,Milram,1:08:49 1:08:49,13,2010,-
+23,162,81,+1:12:01,15.0,Costa Rui,15,Caisse d'Epargne,1:12:01 1:12:01,13,2010,-
+23,36,90,+1:20:32,18.0,Boasson Hagen Edvald,16,Sky Procycling,1:20:32 1:20:32,13,2010,▲2
+24,63,94,+1:22:25,19.0,Di Grégorio Rémy,17,Francaise des Jeux,1:22:25 1:22:25,13,2010,▲2
+23,76,95,+1:22:30,17.0,Pliuschin Alexandr,18,Team Katusha,1:22:30 1:22:30,13,2010,▼1
+23,82,100,+1:26:12,16.0,Bouet Maxime,19,AG2R La Mondiale,1:26:12 1:26:12,13,2010,▼3
+25,108,109,+1:30:30,22.0,Roelandts Jürgen,20,Omega Pharma-Lotto,1:30:30 1:30:30,13,2010,▲2
+23,46,111,+1:32:52,21.0,Oss Daniel,21,Liquigas - Doimo,1:32:52 1:32:52,13,2010,-
+25,115,116,+1:35:00,20.0,Martin Tony,22,Team HTC - Columbia,1:35:00 1:35:00,13,2010,▼2
+23,43,121,+1:37:31,23.0,Koren Kristijan,23,Liquigas - Doimo,1:37:31 1:37:31,13,2010,-
+23,68,133,+1:42:29,24.0,Sulzberger Wesley,24,Francaise des Jeux,1:42:29 1:42:29,13,2010,-
+25,111,141,+1:48:27,28.0,Cavendish Mark,25,Team HTC - Columbia,1:48:27 1:48:27,13,2010,▲3
+23,142,144,+1:51:29,29.0,Ciolek Gerald,26,Milram,1:51:29 1:51:29,13,2010,▲3
+24,192,145,+1:53:22,,Boom Lars,27,Rabobank ProTeam,1:53:22 1:53:22,13,2010,-
+23,137,146,+1:53:59,26.0,Seeldraeyers Kevin,28,Quickstep - Innergetic,1:53:59 1:53:59,13,2010,▼2
+24,97,148,+1:54:49,27.0,Konovalovas Ignatas,29,Cervelo Test Team,1:54:49 1:54:49,13,2010,▼2
+24,202,152,+1:57:06,31.0,Bole Grega,30,Lampre - Farnese Vini,1:57:06 1:57:06,13,2010,▲1
+24,209,160,+2:02:42,30.0,Špilak Simon,31,Lampre - Farnese Vini,2:02:42 2:02:42,13,2010,▼1
+22,207,170,+2:23:50,32.0,Malori Adriano,32,Lampre - Farnese Vini,2:23:50 2:23:50,13,2010,-
+23,66,172,+2:26:48,33.0,Roux Anthony,33,Francaise des Jeux,2:26:48 2:26:48,13,2010,-
+25,11,1,+0:00,1.0,Schleck Andy,1,Saxo Bank,68:02:30 68:02:30,14,2010,-
+24,195,4,+4:27,2.0,Gesink Robert,2,Rabobank ProTeam,4:27 4:27,14,2010,-
+24,44,10,+7:11,3.0,Kreuziger Roman,3,Liquigas - Doimo,7:11 7:11,14,2010,-
+25,174,32,+35:47,5.0,El Fares Julien,4,"Cofidis, le Crédit en Ligne",35:47 35:47,14,2010,▲1
+22,155,41,+45:07,4.0,Gautier Cyril,5,Bbox Bouygues Telecom,45:07 45:07,14,2010,▼1
+23,219,43,+49:50,7.0,Valls Rafael,6,Footon-Servetto,49:50 49:50,14,2010,▲1
+23,156,44,+50:22,6.0,Rolland Pierre,7,Bbox Bouygues Telecom,50:22 50:22,14,2010,▼1
+24,39,55,+1:10:29,8.0,Thomas Geraint,8,Sky Procycling,1:10:29 1:10:29,14,2010,-
+25,14,57,+1:13:44,11.0,Fuglsang Jakob,9,Saxo Bank,1:13:44 1:13:44,14,2010,▲2
+25,169,65,+1:17:39,9.0,Rojas José Joaquín,10,Caisse d'Epargne,1:17:39 1:17:39,14,2010,▼1
+24,214,67,+1:18:30,10.0,Durán Arkaitz,11,Footon-Servetto,1:18:30 1:18:30,14,2010,▼1
+25,103,68,+1:19:00,13.0,de Greef Francis,12,Omega Pharma-Lotto,1:19:00 1:19:00,14,2010,▲1
+25,143,75,+1:28:24,14.0,Fröhlinger Johannes,13,Milram,1:28:24 1:28:24,14,2010,▲1
+24,63,77,+1:30:46,17.0,Di Grégorio Rémy,14,Francaise des Jeux,1:30:46 1:30:46,14,2010,▲3
+23,162,79,+1:31:36,15.0,Costa Rui,15,Caisse d'Epargne,1:31:36 1:31:36,14,2010,-
+24,211,85,+1:39:33,12.0,Capecchi Eros,16,Footon-Servetto,1:39:33 1:39:33,14,2010,▼4
+23,43,99,+1:51:37,23.0,Koren Kristijan,17,Liquigas - Doimo,1:51:37 1:51:37,14,2010,▲6
+23,82,101,+1:53:45,19.0,Bouet Maxime,18,AG2R La Mondiale,1:53:45 1:53:45,14,2010,▲1
+23,36,104,+1:56:20,16.0,Boasson Hagen Edvald,19,Sky Procycling,1:56:20 1:56:20,14,2010,▼3
+23,76,107,+1:58:18,18.0,Pliuschin Alexandr,20,Team Katusha,1:58:18 1:58:18,14,2010,▼2
+23,137,112,+2:03:40,28.0,Seeldraeyers Kevin,21,Quickstep - Innergetic,2:03:40 2:03:40,14,2010,▲7
+25,108,118,+2:06:18,20.0,Roelandts Jürgen,22,Omega Pharma-Lotto,2:06:18 2:06:18,14,2010,▼2
+23,46,121,+2:08:40,21.0,Oss Daniel,23,Liquigas - Doimo,2:08:40 2:08:40,14,2010,▼2
+25,115,126,+2:10:48,22.0,Martin Tony,24,Team HTC - Columbia,2:10:48 2:10:48,14,2010,▼2
+24,192,136,+2:16:21,27.0,Boom Lars,25,Rabobank ProTeam,2:16:21 2:16:21,14,2010,▲2
+23,68,139,+2:18:17,24.0,Sulzberger Wesley,26,Francaise des Jeux,2:18:17 2:18:17,14,2010,▼2
+24,202,143,+2:20:05,30.0,Bole Grega,27,Lampre - Farnese Vini,2:20:05 2:20:05,14,2010,▲3
+25,111,147,+2:24:15,25.0,Cavendish Mark,28,Team HTC - Columbia,2:24:15 2:24:15,14,2010,▼3
+24,209,149,+2:25:41,31.0,Špilak Simon,29,Lampre - Farnese Vini,2:25:41 2:25:41,14,2010,▲2
+23,142,150,+2:27:17,26.0,Ciolek Gerald,30,Milram,2:27:17 2:27:17,14,2010,▼4
+24,97,152,+2:30:37,29.0,Konovalovas Ignatas,31,Cervelo Test Team,2:30:37 2:30:37,14,2010,▼2
+22,207,170,+2:59:38,32.0,Malori Adriano,32,Lampre - Farnese Vini,2:59:38 2:59:38,14,2010,-
+23,66,172,+3:02:36,33.0,Roux Anthony,33,Francaise des Jeux,3:02:36 3:02:36,14,2010,-
+25,11,1,+0:00,1.0,Schleck Andy,1,Saxo Bank,72:50:50 72:50:50,15,2010,-
+24,195,4,+4:53,2.0,Gesink Robert,2,Rabobank ProTeam,4:53 4:53,15,2010,-
+24,44,9,+7:50,3.0,Kreuziger Roman,3,Liquigas - Doimo,7:50 7:50,15,2010,-
+25,174,30,+40:53,4.0,El Fares Julien,4,"Cofidis, le Crédit en Ligne",40:53 40:53,15,2010,-
+22,155,39,+58:47,5.0,Gautier Cyril,5,Bbox Bouygues Telecom,58:47 58:47,15,2010,-
+23,156,45,+1:10:54,7.0,Rolland Pierre,6,Bbox Bouygues Telecom,1:10:54 1:10:54,15,2010,▲1
+23,219,47,+1:12:25,6.0,Valls Rafael,7,Footon-Servetto,1:12:25 1:12:25,15,2010,▼1
+25,14,58,+1:27:24,9.0,Fuglsang Jakob,8,Saxo Bank,1:27:24 1:27:24,15,2010,▲1
+25,169,63,+1:31:19,10.0,Rojas José Joaquín,9,Caisse d'Epargne,1:31:19 1:31:19,15,2010,▲1
+24,214,65,+1:32:10,11.0,Durán Arkaitz,10,Footon-Servetto,1:32:10 1:32:10,15,2010,▲1
+25,103,66,+1:32:40,12.0,de Greef Francis,11,Omega Pharma-Lotto,1:32:40 1:32:40,15,2010,▲1
+24,39,69,+1:33:04,8.0,Thomas Geraint,12,Sky Procycling,1:33:04 1:33:04,15,2010,▼4
+24,63,73,+1:40:25,14.0,Di Grégorio Rémy,13,Francaise des Jeux,1:40:25 1:40:25,15,2010,▲1
+25,143,79,+1:48:56,13.0,Fröhlinger Johannes,14,Milram,1:48:56 1:48:56,15,2010,▼1
+23,162,84,+1:56:56,15.0,Costa Rui,15,Caisse d'Epargne,1:56:56 1:56:56,15,2010,-
+24,211,86,+2:02:08,16.0,Capecchi Eros,16,Footon-Servetto,2:02:08 2:02:08,15,2010,-
+23,82,96,+2:07:25,18.0,Bouet Maxime,17,AG2R La Mondiale,2:07:25 2:07:25,15,2010,▲1
+23,76,97,+2:07:57,20.0,Pliuschin Alexandr,18,Team Katusha,2:07:57 2:07:57,15,2010,▲2
+23,43,105,+2:16:57,17.0,Koren Kristijan,19,Liquigas - Doimo,2:16:57 2:16:57,15,2010,▼2
+23,36,113,+2:21:40,19.0,Boasson Hagen Edvald,20,Sky Procycling,2:21:40 2:21:40,15,2010,▼1
+25,108,114,+2:22:28,22.0,Roelandts Jürgen,21,Omega Pharma-Lotto,2:22:28 2:22:28,15,2010,▲1
+23,137,120,+2:28:51,21.0,Seeldraeyers Kevin,22,Quickstep - Innergetic,2:28:51 2:28:51,15,2010,▼1
+24,192,121,+2:30:01,25.0,Boom Lars,23,Rabobank ProTeam,2:30:01 2:30:01,15,2010,▲2
+24,202,127,+2:33:45,27.0,Bole Grega,24,Lampre - Farnese Vini,2:33:45 2:33:45,15,2010,▲3
+23,46,128,+2:34:00,23.0,Oss Daniel,25,Liquigas - Doimo,2:34:00 2:34:00,15,2010,▼2
+25,115,132,+2:36:08,24.0,Martin Tony,26,Team HTC - Columbia,2:36:08 2:36:08,15,2010,▼2
+23,68,141,+2:43:37,26.0,Sulzberger Wesley,27,Francaise des Jeux,2:43:37 2:43:37,15,2010,▼1
+25,111,148,+2:49:35,28.0,Cavendish Mark,28,Team HTC - Columbia,2:49:35 2:49:35,15,2010,-
+24,209,150,+2:51:01,29.0,Špilak Simon,29,Lampre - Farnese Vini,2:51:01 2:51:01,15,2010,-
+23,142,151,+2:52:37,30.0,Ciolek Gerald,30,Milram,2:52:37 2:52:37,15,2010,-
+24,97,153,+2:55:57,31.0,Konovalovas Ignatas,31,Cervelo Test Team,2:55:57 2:55:57,15,2010,-
+23,66,168,+3:14:51,33.0,Roux Anthony,32,Francaise des Jeux,3:14:51 3:14:51,15,2010,▲1
+22,207,170,+3:24:58,32.0,Malori Adriano,33,Lampre - Farnese Vini,3:24:58 3:24:58,15,2010,▼1
+25,11,1,+0:00,1.0,Schleck Andy,1,Saxo Bank,78:29:18 78:29:18,16,2010,-
+24,195,4,+4:53,2.0,Gesink Robert,2,Rabobank ProTeam,4:53 4:53,16,2010,-
+24,44,9,+7:50,3.0,Kreuziger Roman,3,Liquigas - Doimo,7:50 7:50,16,2010,-
+25,174,26,+40:53,4.0,El Fares Julien,4,"Cofidis, le Crédit en Ligne",40:53 40:53,16,2010,-
+23,219,42,+1:12:25,7.0,Valls Rafael,5,Footon-Servetto,1:12:25 1:12:25,16,2010,▲2
+22,155,44,+1:15:44,5.0,Gautier Cyril,6,Bbox Bouygues Telecom,1:15:44 1:15:44,16,2010,▼1
+25,14,52,+1:27:24,8.0,Fuglsang Jakob,7,Saxo Bank,1:27:24 1:27:24,16,2010,▲1
+25,169,56,+1:31:19,9.0,Rojas José Joaquín,8,Caisse d'Epargne,1:31:19 1:31:19,16,2010,▲1
+24,39,57,+1:33:04,12.0,Thomas Geraint,9,Sky Procycling,1:33:04 1:33:04,16,2010,▲3
+23,156,64,+1:38:57,6.0,Rolland Pierre,10,Bbox Bouygues Telecom,1:38:57 1:38:57,16,2010,▼4
+23,162,70,+1:56:56,15.0,Costa Rui,11,Caisse d'Epargne,1:56:56 1:56:56,16,2010,▲4
+24,214,72,+2:00:13,10.0,Durán Arkaitz,12,Footon-Servetto,2:00:13 2:00:13,16,2010,▼2
+25,103,73,+2:00:43,11.0,de Greef Francis,13,Omega Pharma-Lotto,2:00:43 2:00:43,16,2010,▼2
+24,211,75,+2:02:08,16.0,Capecchi Eros,14,Footon-Servetto,2:02:08 2:02:08,16,2010,▲2
+24,63,78,+2:08:28,13.0,Di Grégorio Rémy,15,Francaise des Jeux,2:08:28 2:08:28,16,2010,▼2
+25,143,85,+2:16:59,14.0,Fröhlinger Johannes,16,Milram,2:16:59 2:16:59,16,2010,▼2
+23,82,100,+2:35:28,17.0,Bouet Maxime,17,AG2R La Mondiale,2:35:28 2:35:28,16,2010,-
+23,76,101,+2:36:00,18.0,Pliuschin Alexandr,18,Team Katusha,2:36:00 2:36:00,16,2010,-
+23,43,107,+2:45:00,19.0,Koren Kristijan,19,Liquigas - Doimo,2:45:00 2:45:00,16,2010,-
+23,36,117,+2:49:43,20.0,Boasson Hagen Edvald,20,Sky Procycling,2:49:43 2:49:43,16,2010,-
+25,108,118,+2:50:31,21.0,Roelandts Jürgen,21,Omega Pharma-Lotto,2:50:31 2:50:31,16,2010,-
+23,46,120,+2:50:57,25.0,Oss Daniel,22,Liquigas - Doimo,2:50:57 2:50:57,16,2010,▲3
+23,142,121,+2:52:37,30.0,Ciolek Gerald,23,Milram,2:52:37 2:52:37,16,2010,▲7
+24,97,125,+2:56:11,31.0,Konovalovas Ignatas,24,Cervelo Test Team,2:56:11 2:56:11,16,2010,▲7
+23,137,127,+2:56:54,22.0,Seeldraeyers Kevin,25,Quickstep - Innergetic,2:56:54 2:56:54,16,2010,▼3
+24,192,128,+2:58:04,23.0,Boom Lars,26,Rabobank ProTeam,2:58:04 2:58:04,16,2010,▼3
+24,202,133,+3:01:48,24.0,Bole Grega,27,Lampre - Farnese Vini,3:01:48 3:01:48,16,2010,▼3
+25,115,138,+3:04:11,26.0,Martin Tony,28,Team HTC - Columbia,3:04:11 3:04:11,16,2010,▼2
+23,68,145,+3:11:40,27.0,Sulzberger Wesley,29,Francaise des Jeux,3:11:40 3:11:40,16,2010,▼2
+25,111,151,+3:17:38,28.0,Cavendish Mark,30,Team HTC - Columbia,3:17:38 3:17:38,16,2010,▼2
+24,209,153,+3:19:04,29.0,Špilak Simon,31,Lampre - Farnese Vini,3:19:04 3:19:04,16,2010,▼2
+23,66,167,+3:42:54,32.0,Roux Anthony,32,Francaise des Jeux,3:42:54 3:42:54,16,2010,-
+22,207,168,+3:53:01,33.0,Malori Adriano,33,Lampre - Farnese Vini,3:53:01 3:53:01,16,2010,-
+25,11,1,+0:00,1.0,Schleck Andy,1,Saxo Bank,83:32:47 83:32:47,17,2010,-
+24,195,4,+6:33,2.0,Gesink Robert,2,Rabobank ProTeam,6:33 6:33,17,2010,-
+24,44,7,+10:04,3.0,Kreuziger Roman,3,Liquigas - Doimo,10:04 10:04,17,2010,-
+25,174,25,+48:48,4.0,El Fares Julien,4,"Cofidis, le Crédit en Ligne",48:48 48:48,17,2010,-
+22,155,41,+1:21:28,6.0,Gautier Cyril,5,Bbox Bouygues Telecom,1:21:28 1:21:28,17,2010,▲1
+25,14,47,+1:38:59,7.0,Fuglsang Jakob,6,Saxo Bank,1:38:59 1:38:59,17,2010,▲1
+23,219,50,+1:41:23,5.0,Valls Rafael,7,Footon-Servetto,1:41:23 1:41:23,17,2010,▼2
+23,156,52,+1:43:27,10.0,Rolland Pierre,8,Bbox Bouygues Telecom,1:43:27 1:43:27,17,2010,▲2
+25,169,64,+2:00:17,8.0,Rojas José Joaquín,9,Caisse d'Epargne,2:00:17 2:00:17,17,2010,▼1
+24,39,65,+2:02:02,9.0,Thomas Geraint,10,Sky Procycling,2:02:02 2:02:02,17,2010,▼1
+23,162,69,+2:09:01,11.0,Costa Rui,11,Caisse d'Epargne,2:09:01 2:09:01,17,2010,-
+25,103,70,+2:09:42,13.0,de Greef Francis,12,Omega Pharma-Lotto,2:09:42 2:09:42,17,2010,▲1
+24,63,74,+2:16:55,15.0,Di Grégorio Rémy,13,Francaise des Jeux,2:16:55 2:16:55,17,2010,▲2
+24,214,77,+2:29:11,12.0,Durán Arkaitz,14,Footon-Servetto,2:29:11 2:29:11,17,2010,▼2
+24,211,80,+2:31:06,14.0,Capecchi Eros,15,Footon-Servetto,2:31:06 2:31:06,17,2010,▼1
+25,143,87,+2:47:04,16.0,Fröhlinger Johannes,16,Milram,2:47:04 2:47:04,17,2010,-
+23,43,90,+2:52:02,19.0,Koren Kristijan,17,Liquigas - Doimo,2:52:02 2:52:02,17,2010,▲2
+23,82,105,+3:06:18,17.0,Bouet Maxime,18,AG2R La Mondiale,3:06:18 3:06:18,17,2010,▼1
+23,76,107,+3:07:46,18.0,Pliuschin Alexandr,19,Team Katusha,3:07:46 3:07:46,17,2010,▼1
+23,36,110,+3:10:21,20.0,Boasson Hagen Edvald,20,Sky Procycling,3:10:21 3:10:21,17,2010,-
+25,108,120,+3:19:29,21.0,Roelandts Jürgen,21,Omega Pharma-Lotto,3:19:29 3:19:29,17,2010,-
+24,202,121,+3:19:37,27.0,Bole Grega,22,Lampre - Farnese Vini,3:19:37 3:19:37,17,2010,▲5
+23,46,123,+3:19:55,22.0,Oss Daniel,23,Liquigas - Doimo,3:19:55 3:19:55,17,2010,▼1
+24,192,125,+3:21:23,26.0,Boom Lars,24,Rabobank ProTeam,3:21:23 3:21:23,17,2010,▲2
+23,142,127,+3:22:42,23.0,Ciolek Gerald,25,Milram,3:22:42 3:22:42,17,2010,▼2
+23,137,130,+3:25:04,25.0,Seeldraeyers Kevin,26,Quickstep - Innergetic,3:25:04 3:25:04,17,2010,▼1
+24,97,131,+3:26:37,24.0,Konovalovas Ignatas,27,Cervelo Test Team,3:26:37 3:26:37,17,2010,▼3
+25,115,140,+3:35:57,28.0,Martin Tony,28,Team HTC - Columbia,3:35:57 3:35:57,17,2010,-
+23,68,145,+3:41:50,29.0,Sulzberger Wesley,29,Francaise des Jeux,3:41:50 3:41:50,17,2010,-
+25,111,152,+3:49:24,30.0,Cavendish Mark,30,Team HTC - Columbia,3:49:24 3:49:24,17,2010,-
+23,66,166,+4:14:03,32.0,Roux Anthony,31,Francaise des Jeux,4:14:03 4:14:03,17,2010,▲1
+22,207,167,+4:23:06,33.0,Malori Adriano,32,Lampre - Farnese Vini,4:23:06 4:23:06,17,2010,▲1
+25,11,1,+0:00,1.0,Schleck Andy,1,Saxo Bank,88:09:56 88:09:56,18,2010,-
+24,195,4,+6:33,2.0,Gesink Robert,2,Rabobank ProTeam,6:33 6:33,18,2010,-
+24,44,7,+10:04,3.0,Kreuziger Roman,3,Liquigas - Doimo,10:04 10:04,18,2010,-
+25,174,25,+48:48,4.0,El Fares Julien,4,"Cofidis, le Crédit en Ligne",48:48 48:48,18,2010,-
+22,155,41,+1:21:28,5.0,Gautier Cyril,5,Bbox Bouygues Telecom,1:21:28 1:21:28,18,2010,-
+25,14,47,+1:38:59,6.0,Fuglsang Jakob,6,Saxo Bank,1:38:59 1:38:59,18,2010,-
+23,219,49,+1:41:23,7.0,Valls Rafael,7,Footon-Servetto,1:41:23 1:41:23,18,2010,-
+23,156,52,+1:43:27,8.0,Rolland Pierre,8,Bbox Bouygues Telecom,1:43:27 1:43:27,18,2010,-
+25,169,64,+2:00:17,9.0,Rojas José Joaquín,9,Caisse d'Epargne,2:00:17 2:00:17,18,2010,-
+24,39,65,+2:02:02,10.0,Thomas Geraint,10,Sky Procycling,2:02:02 2:02:02,18,2010,-
+23,162,69,+2:09:01,11.0,Costa Rui,11,Caisse d'Epargne,2:09:01 2:09:01,18,2010,-
+25,103,70,+2:09:42,12.0,de Greef Francis,12,Omega Pharma-Lotto,2:09:42 2:09:42,18,2010,-
+24,63,74,+2:16:55,13.0,Di Grégorio Rémy,13,Francaise des Jeux,2:16:55 2:16:55,18,2010,-
+24,214,77,+2:29:11,14.0,Durán Arkaitz,14,Footon-Servetto,2:29:11 2:29:11,18,2010,-
+24,211,80,+2:31:37,15.0,Capecchi Eros,15,Footon-Servetto,2:31:37 2:31:37,18,2010,-
+25,143,87,+2:47:04,16.0,Fröhlinger Johannes,16,Milram,2:47:04 2:47:04,18,2010,-
+23,43,90,+2:52:33,17.0,Koren Kristijan,17,Liquigas - Doimo,2:52:33 2:52:33,18,2010,-
+23,82,105,+3:06:18,18.0,Bouet Maxime,18,AG2R La Mondiale,3:06:18 3:06:18,18,2010,-
+23,76,107,+3:07:46,19.0,Pliuschin Alexandr,19,Team Katusha,3:07:46 3:07:46,18,2010,-
+23,36,110,+3:10:21,20.0,Boasson Hagen Edvald,20,Sky Procycling,3:10:21 3:10:21,18,2010,-
+25,108,119,+3:19:29,21.0,Roelandts Jürgen,21,Omega Pharma-Lotto,3:19:29 3:19:29,18,2010,-
+24,202,120,+3:19:37,22.0,Bole Grega,22,Lampre - Farnese Vini,3:19:37 3:19:37,18,2010,-
+24,192,123,+3:21:23,24.0,Boom Lars,23,Rabobank ProTeam,3:21:23 3:21:23,18,2010,▲1
+23,46,124,+3:21:34,23.0,Oss Daniel,24,Liquigas - Doimo,3:21:34 3:21:34,18,2010,▼1
+23,142,126,+3:22:42,25.0,Ciolek Gerald,25,Milram,3:22:42 3:22:42,18,2010,-
+23,137,128,+3:25:04,26.0,Seeldraeyers Kevin,26,Quickstep - Innergetic,3:25:04 3:25:04,18,2010,-
+24,97,130,+3:26:37,27.0,Konovalovas Ignatas,27,Cervelo Test Team,3:26:37 3:26:37,18,2010,-
+25,115,141,+3:36:28,28.0,Martin Tony,28,Team HTC - Columbia,3:36:28 3:36:28,18,2010,-
+23,68,147,+3:43:31,29.0,Sulzberger Wesley,29,Francaise des Jeux,3:43:31 3:43:31,18,2010,-
+25,111,151,+3:49:24,30.0,Cavendish Mark,30,Team HTC - Columbia,3:49:24 3:49:24,18,2010,-
+23,66,165,+4:14:03,31.0,Roux Anthony,31,Francaise des Jeux,4:14:03 4:14:03,18,2010,-
+22,207,166,+4:24:47,32.0,Malori Adriano,32,Lampre - Farnese Vini,4:24:47 4:24:47,18,2010,-
+25,11,1,+0:00,1.0,Schleck Andy,1,Saxo Bank,89:17:06 89:17:06,19,2010,-
+24,195,4,+8:52,2.0,Gesink Robert,2,Rabobank ProTeam,8:52 8:52,19,2010,-
+24,44,7,+11:15,3.0,Kreuziger Roman,3,Liquigas - Doimo,11:15 11:15,19,2010,-
+25,174,25,+52:43,4.0,El Fares Julien,4,"Cofidis, le Crédit en Ligne",52:43 52:43,19,2010,-
+22,155,42,+1:24:33,5.0,Gautier Cyril,5,Bbox Bouygues Telecom,1:24:33 1:24:33,19,2010,-
+25,14,47,+1:37:53,6.0,Fuglsang Jakob,6,Saxo Bank,1:37:53 1:37:53,19,2010,-
+23,219,50,+1:41:48,7.0,Valls Rafael,7,Footon-Servetto,1:41:48 1:41:48,19,2010,-
+23,156,55,+1:46:03,8.0,Rolland Pierre,8,Bbox Bouygues Telecom,1:46:03 1:46:03,19,2010,-
+24,39,64,+1:59:26,10.0,Thomas Geraint,9,Sky Procycling,1:59:26 1:59:26,19,2010,▲1
+25,169,65,+2:01:19,9.0,Rojas José Joaquín,10,Caisse d'Epargne,2:01:19 2:01:19,19,2010,▼1
+25,103,69,+2:11:43,12.0,de Greef Francis,11,Omega Pharma-Lotto,2:11:43 2:11:43,19,2010,▲1
+23,162,70,+2:11:49,11.0,Costa Rui,12,Caisse d'Epargne,2:11:49 2:11:49,19,2010,▼1
+24,63,75,+2:20:55,13.0,Di Grégorio Rémy,13,Francaise des Jeux,2:20:55 2:20:55,19,2010,-
+24,214,78,+2:29:10,14.0,Durán Arkaitz,14,Footon-Servetto,2:29:10 2:29:10,19,2010,-
+24,211,80,+2:33:59,15.0,Capecchi Eros,15,Footon-Servetto,2:33:59 2:33:59,19,2010,-
+25,143,87,+2:48:44,16.0,Fröhlinger Johannes,16,Milram,2:48:44 2:48:44,19,2010,-
+23,43,91,+2:56:32,17.0,Koren Kristijan,17,Liquigas - Doimo,2:56:32 2:56:32,19,2010,-
+23,82,103,+3:07:01,18.0,Bouet Maxime,18,AG2R La Mondiale,3:07:01 3:07:01,19,2010,-
+23,76,105,+3:08:26,19.0,Pliuschin Alexandr,19,Team Katusha,3:08:26 3:08:26,19,2010,-
+23,36,113,+3:14:18,20.0,Boasson Hagen Edvald,20,Sky Procycling,3:14:18 3:14:18,19,2010,-
+25,108,117,+3:17:48,21.0,Roelandts Jürgen,21,Omega Pharma-Lotto,3:17:48 3:17:48,19,2010,-
+23,46,121,+3:21:40,24.0,Oss Daniel,22,Liquigas - Doimo,3:21:40 3:21:40,19,2010,▲2
+24,202,122,+3:21:51,22.0,Bole Grega,23,Lampre - Farnese Vini,3:21:51 3:21:51,19,2010,▼1
+24,97,124,+3:22:57,27.0,Konovalovas Ignatas,24,Cervelo Test Team,3:22:57 3:22:57,19,2010,▲3
+24,192,127,+3:25:39,23.0,Boom Lars,25,Rabobank ProTeam,3:25:39 3:25:39,19,2010,▼2
+23,142,130,+3:26:57,25.0,Ciolek Gerald,26,Milram,3:26:57 3:26:57,19,2010,▼1
+23,137,131,+3:28:22,26.0,Seeldraeyers Kevin,27,Quickstep - Innergetic,3:28:22 3:28:22,19,2010,▼1
+25,115,134,+3:30:31,28.0,Martin Tony,28,Team HTC - Columbia,3:30:31 3:30:31,19,2010,-
+23,68,149,+3:46:20,29.0,Sulzberger Wesley,29,Francaise des Jeux,3:46:20 3:46:20,19,2010,-
+25,111,151,+3:50:44,30.0,Cavendish Mark,30,Team HTC - Columbia,3:50:44 3:50:44,19,2010,-
+23,66,164,+4:12:58,31.0,Roux Anthony,31,Francaise des Jeux,4:12:58 4:12:58,19,2010,-
+22,207,167,+4:25:47,32.0,Malori Adriano,32,Lampre - Farnese Vini,4:25:47 4:25:47,19,2010,-
+25,11,1,+0:00,,Schleck Andy,1,Saxo Bank,91:59:26 91:59:26,20,2010,
+24,195,4,+8:52,,Gesink Robert,2,Rabobank ProTeam,8:52 8:52,20,2010,
+24,44,7,+11:15,,Kreuziger Roman,3,Liquigas - Doimo,11:15 11:15,20,2010,
+25,174,24,+52:43,,El Fares Julien,4,"Cofidis, le Crédit en Ligne",52:43 52:43,20,2010,
+22,155,42,+1:24:33,,Gautier Cyril,5,Bbox Bouygues Telecom,1:24:33 1:24:33,20,2010,
+25,14,47,+1:37:53,,Fuglsang Jakob,6,Saxo Bank,1:37:53 1:37:53,20,2010,
+23,219,50,+1:41:48,,Valls Rafael,7,Footon-Servetto,1:41:48 1:41:48,20,2010,
+23,156,55,+1:46:03,,Rolland Pierre,8,Bbox Bouygues Telecom,1:46:03 1:46:03,20,2010,
+24,39,64,+1:59:26,,Thomas Geraint,9,Sky Procycling,1:59:26 1:59:26,20,2010,
+25,169,65,+2:01:19,,Rojas José Joaquín,10,Caisse d'Epargne,2:01:19 2:01:19,20,2010,
+25,103,69,+2:11:43,,de Greef Francis,11,Omega Pharma-Lotto,2:11:43 2:11:43,20,2010,
+23,162,70,+2:11:49,,Costa Rui,12,Caisse d'Epargne,2:11:49 2:11:49,20,2010,
+24,63,75,+2:20:55,,Di Grégorio Rémy,13,Francaise des Jeux,2:20:55 2:20:55,20,2010,
+24,214,78,+2:29:10,,Durán Arkaitz,14,Footon-Servetto,2:29:10 2:29:10,20,2010,
+24,211,80,+2:33:59,,Capecchi Eros,15,Footon-Servetto,2:33:59 2:33:59,20,2010,
+25,143,87,+2:48:44,,Fröhlinger Johannes,16,Milram,2:48:44 2:48:44,20,2010,
+23,43,91,+2:56:32,,Koren Kristijan,17,Liquigas - Doimo,2:56:32 2:56:32,20,2010,
+23,82,103,+3:07:01,,Bouet Maxime,18,AG2R La Mondiale,3:07:01 3:07:01,20,2010,
+23,76,105,+3:08:26,,Pliuschin Alexandr,19,Team Katusha,3:08:26 3:08:26,20,2010,
+23,36,113,+3:14:18,,Boasson Hagen Edvald,20,Sky Procycling,3:14:18 3:14:18,20,2010,
+25,108,117,+3:17:48,,Roelandts Jürgen,21,Omega Pharma-Lotto,3:17:48 3:17:48,20,2010,
+23,46,121,+3:21:40,,Oss Daniel,22,Liquigas - Doimo,3:21:40 3:21:40,20,2010,
+24,202,122,+3:22:28,,Bole Grega,23,Lampre - Farnese Vini,3:22:28 3:22:28,20,2010,
+24,97,124,+3:22:57,,Konovalovas Ignatas,24,Cervelo Test Team,3:22:57 3:22:57,20,2010,
+24,192,127,+3:25:39,,Boom Lars,25,Rabobank ProTeam,3:25:39 3:25:39,20,2010,
+23,142,130,+3:26:57,,Ciolek Gerald,26,Milram,3:26:57 3:26:57,20,2010,
+23,137,131,+3:28:22,,Seeldraeyers Kevin,27,Quickstep - Innergetic,3:28:22 3:28:22,20,2010,
+25,115,134,+3:30:31,,Martin Tony,28,Team HTC - Columbia,3:30:31 3:30:31,20,2010,
+23,68,149,+3:46:20,,Sulzberger Wesley,29,Francaise des Jeux,3:46:20 3:46:20,20,2010,
+25,111,151,+3:50:44,,Cavendish Mark,30,Team HTC - Columbia,3:50:44 3:50:44,20,2010,
+23,66,164,+4:12:58,,Roux Anthony,31,Francaise des Jeux,4:12:58 4:12:58,20,2010,
+22,207,167,+4:26:24,,Malori Adriano,32,Lampre - Farnese Vini,4:26:24 4:26:24,20,2010,

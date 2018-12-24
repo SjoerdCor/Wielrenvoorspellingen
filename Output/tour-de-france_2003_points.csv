@@ -1,0 +1,1575 @@
+Age,BIB,Pnt,Prev,Rider,Rnk,Team,stage,year,▼▲
+27.0,96.0,15.0,,McGee Bradley,1,Fdjeux.com,0,2003,
+26.0,61.0,12.0,,Millar David,2,Cofidis,0,2003,
+26.0,179.0,10.0,,Zubeldia Haimar,3,Euskaltel - Euskadi,0,2003,
+29.0,131.0,8.0,,Ullrich Jan,4,Team Bianchi,0,2003,
+28.0,8.0,6.0,,Peña Victor Hugo,5,US Postal Service,0,2003,
+32.0,71.0,5.0,,Hamilton Tyler,6,CSC ProTeam,0,2003,
+31.0,1.0,,,Armstrong Lance,7*,US Postal Service,0,2003,
+29.0,11.0,3.0,,Beloki Joseba,8,O.N.C.E. - Eroski,0,2003,
+30.0,21.0,2.0,,Botero Santiago,9,Team Telekom,0,2003,
+37.0,4.0,1.0,,Ekimov Viatcheslav,10,US Postal Service,0,2003,
+31.0,141.0,36.0,,McEwen Robbie,1,Lotto - Domo,1,2003,-
+29.0,88.0,35.0,,Petacchi Alessandro,2,Fassa Bortolo,1,2003,-
+32.0,29.0,26.0,,Zabel Erik,3,Team Telekom,1,2003,-
+29.0,111.0,24.0,,Bettini Paolo,4,Quickstep - Davitamon,1,2003,-
+24.0,93.0,22.0,,Cooke Baden,5,Fdjeux.com,1,2003,-
+25.0,125.0,20.0,,Hushovd Thor,6,Crédit Agricole,1,2003,-
+27.0,96.0,19.0,1,McGee Bradley,7,Fdjeux.com,1,2003,▼6
+27.0,44.0,19.0,,Freire Óscar,8,Rabobank ProTeam,1,2003,-
+26.0,116.0,18.0,,Paolini Luca,9,Quickstep - Davitamon,1,2003,-
+30.0,168.0,17.0,,Vainšteins Romāns,10,Vini Calderola - So.di,1,2003,-
+33.0,156.0,16.0,,Kirsipuu Jaan,11,AG2R Prévoyance,1,2003,-
+25.0,193.0,15.0,,Haselbacher René,12,Gerolsteiner,1,2003,-
+26.0,219.0,14.0,,Nazon Jean-Patrick,13,Jean Delatour,1,2003,-
+29.0,186.0,14.0,,Nazon Damien,14,Brioches La Boulangère,1,2003,-
+29.0,127.0,13.0,,O'Grady Stuart,15,Crédit Agricole,1,2003,-
+24.0,155.0,12.0,,Flickinger Andy,16,AG2R Prévoyance,1,2003,-
+26.0,61.0,12.0,2,Millar David,17,Cofidis,1,2003,▼15
+28.0,56.0,11.0,,Glomser Gerrit,18,Saeco,1,2003,-
+26.0,179.0,10.0,3,Zubeldia Haimar,19,Euskaltel - Euskadi,1,2003,▼16
+31.0,136.0,10.0,,Guidi Fabrizio,20,Team Bianchi,1,2003,-
+28.0,94.0,9.0,,Da Cruz Carlos,21,Fdjeux.com,1,2003,-
+29.0,131.0,8.0,4,Ullrich Jan,22,Team Bianchi,1,2003,▼18
+26.0,62.0,8.0,,Clain Médéric,23,Cofidis,1,2003,-
+28.0,153.0,7.0,,Botcharov Alexandre,24,AG2R Prévoyance,1,2003,-
+28.0,8.0,6.0,5,Peña Victor Hugo,25,US Postal Service,1,2003,▼20
+34.0,97.0,6.0,,Mengin Christophe,26,Fdjeux.com,1,2003,-
+26.0,19.0,6.0,,Vicioso Ángel,27,O.N.C.E. - Eroski,1,2003,-
+30.0,182.0,6.0,,Bénéteau Walter,28,Brioches La Boulangère,1,2003,-
+32.0,71.0,5.0,6,Hamilton Tyler,29,CSC ProTeam,1,2003,▼23
+25.0,206.0,5.0,,Furlan Angelo,30,Alessio,1,2003,-
+31.0,1.0,,7*,Armstrong Lance,31*,US Postal Service,1,2003,-
+26.0,45.0,4.0,,Hunter Robert,32,Rabobank ProTeam,1,2003,-
+29.0,11.0,3.0,8,Beloki Joseba,33,O.N.C.E. - Eroski,1,2003,▼25
+29.0,89.0,3.0,,Velo Marco,34,Fassa Bortolo,1,2003,-
+30.0,21.0,2.0,9,Botero Santiago,35,Team Telekom,1,2003,▼26
+25.0,178.0,2.0,,Sánchez Samuel,36,Euskaltel - Euskadi,1,2003,-
+37.0,4.0,1.0,10,Ekimov Viatcheslav,37,US Postal Service,1,2003,▼27
+23.0,184.0,1.0,,Geslin Anthony,38,Brioches La Boulangère,1,2003,-
+31.0,141.0,86.0,1,McEwen Robbie,1,Lotto - Domo,3,2003,-
+33.0,29.0,74.0,3,Zabel Erik,2,Team Telekom,3,2003,▲1
+29.0,88.0,72.0,8,Petacchi Alessandro,3,Fassa Bortolo,3,2003,▲5
+26.0,219.0,72.0,4,Nazon Jean-Patrick,4,Jean Delatour,3,2003,-
+24.0,93.0,62.0,2,Cooke Baden,5,Fdjeux.com,3,2003,▼3
+27.0,44.0,60.0,9,Freire Óscar,6,Rabobank ProTeam,3,2003,▲3
+25.0,125.0,57.0,7,Hushovd Thor,7,Crédit Agricole,3,2003,-
+33.0,156.0,54.0,6,Kirsipuu Jaan,8,AG2R Prévoyance,3,2003,▼2
+26.0,116.0,51.0,11,Paolini Luca,9,Quickstep - Davitamon,3,2003,▲2
+29.0,127.0,49.0,10,O'Grady Stuart,10,Crédit Agricole,3,2003,-
+30.0,168.0,47.0,15,Vainšteins Romāns,11,Vini Calderola - So.di,3,2003,▲4
+29.0,111.0,43.0,5,Bettini Paolo,12,Quickstep - Davitamon,3,2003,▼7
+27.0,96.0,32.0,13,McGee Bradley,13,Fdjeux.com,3,2003,-
+28.0,53.0,28.0,26,Commesso Salvatore,14,Saeco,3,2003,▲12
+28.0,56.0,25.0,12,Glomser Gerrit,15,Saeco,3,2003,▼3
+25.0,206.0,23.0,40,Furlan Angelo,16,Alessio,3,2003,▲24
+29.0,131.0,21.0,20,Ullrich Jan,17,Team Bianchi,3,2003,▲3
+29.0,167.0,20.0,16,Rodriguez Fred,18,Vini Calderola - So.di,3,2003,▼2
+29.0,195.0,19.0,,Pollack Olaf,19,Gerolsteiner,3,2003,-
+26.0,215.0,18.0,14,Finot Frédéric,20,Jean Delatour,3,2003,▼6
+26.0,45.0,18.0,42,Hunter Robert,21,Rabobank ProTeam,3,2003,▲21
+35.0,151.0,17.0,33,Brochard Laurent,22,AG2R Prévoyance,3,2003,▲11
+26.0,172.0,16.0,17,Artetxe Mikel,23,Euskaltel - Euskadi,3,2003,▼6
+25.0,193.0,15.0,18,Haselbacher René,24,Gerolsteiner,3,2003,▼6
+29.0,186.0,14.0,19,Nazon Damien,25,Brioches La Boulangère,3,2003,▼6
+24.0,155.0,12.0,21,Flickinger Andy,26,AG2R Prévoyance,3,2003,▼5
+26.0,61.0,12.0,22,Millar David,27,Cofidis,3,2003,▼5
+26.0,19.0,12.0,23,Vicioso Ángel,28,O.N.C.E. - Eroski,3,2003,▼5
+26.0,163.0,12.0,24,Bossoni Paolo,29,Vini Calderola - So.di,3,2003,▼5
+27.0,126.0,12.0,25,Jégou Lilian,30,Crédit Agricole,3,2003,▼5
+23.0,187.0,11.0,,Pineau Jérôme,31,Brioches La Boulangère,3,2003,-
+26.0,179.0,10.0,27,Zubeldia Haimar,32,Euskaltel - Euskadi,3,2003,▼5
+31.0,129.0,10.0,28,Voigt Jens,33,Crédit Agricole,3,2003,▼5
+28.0,153.0,10.0,32,Botcharov Alexandre,34,AG2R Prévoyance,3,2003,▼2
+29.0,188.0,10.0,,Renier Franck,35,Brioches La Boulangère,3,2003,-
+31.0,136.0,10.0,29,Guidi Fabrizio,36,Team Bianchi,3,2003,▼7
+30.0,174.0,9.0,30,Etxebarria Unai,37,Euskaltel - Euskadi,3,2003,▼7
+28.0,94.0,9.0,31,Da Cruz Carlos,38,Fdjeux.com,3,2003,▼7
+34.0,97.0,8.0,37,Mengin Christophe,39,Fdjeux.com,3,2003,▼2
+26.0,62.0,8.0,34,Clain Médéric,40,Cofidis,3,2003,▼6
+23.0,184.0,7.0,51,Geslin Anthony,41,Brioches La Boulangère,3,2003,▲10
+28.0,84.0,7.0,,González Aitor,42,Fassa Bortolo,3,2003,-
+26.0,176.0,7.0,35,Landaluze Iñigo,43,Euskaltel - Euskadi,3,2003,▼8
+28.0,8.0,6.0,36,Peña Victor Hugo,44,US Postal Service,3,2003,▼8
+30.0,182.0,6.0,38,Bénéteau Walter,45,Brioches La Boulangère,3,2003,▼7
+32.0,198.0,6.0,,Totschnig Georg,46,Gerolsteiner,3,2003,-
+32.0,71.0,5.0,39,Hamilton Tyler,47,CSC ProTeam,3,2003,▼8
+31.0,1.0,,41*,Armstrong Lance,48*,US Postal Service,3,2003,-
+32.0,121.0,4.0,43,Moreau Christophe,49,Crédit Agricole,3,2003,▼6
+29.0,11.0,3.0,44,Beloki Joseba,50,O.N.C.E. - Eroski,3,2003,▼6
+32.0,139.0,3.0,45,Steinhauser Tobias,51,Team Bianchi,3,2003,▼6
+29.0,89.0,3.0,46,Velo Marco,52,Fassa Bortolo,3,2003,▼6
+30.0,21.0,2.0,47,Botero Santiago,53,Team Telekom,3,2003,▼6
+25.0,178.0,2.0,48,Sánchez Samuel,54,Euskaltel - Euskadi,3,2003,▼6
+37.0,4.0,1.0,49,Ekimov Viatcheslav,55,US Postal Service,3,2003,▼6
+31.0,76.0,1.0,50,Peron Andrea,56,CSC ProTeam,3,2003,▼6
+31.0,141.0,86.0,1,McEwen Robbie,1,Lotto - Domo,4,2003,-
+33.0,29.0,74.0,2,Zabel Erik,2,Team Telekom,4,2003,-
+29.0,88.0,72.0,3,Petacchi Alessandro,3,Fassa Bortolo,4,2003,-
+26.0,219.0,72.0,4,Nazon Jean-Patrick,4,Jean Delatour,4,2003,-
+24.0,93.0,62.0,5,Cooke Baden,5,Fdjeux.com,4,2003,-
+27.0,44.0,60.0,6,Freire Óscar,6,Rabobank ProTeam,4,2003,-
+25.0,125.0,57.0,7,Hushovd Thor,7,Crédit Agricole,4,2003,-
+33.0,156.0,54.0,8,Kirsipuu Jaan,8,AG2R Prévoyance,4,2003,-
+26.0,116.0,51.0,9,Paolini Luca,9,Quickstep - Davitamon,4,2003,-
+29.0,127.0,49.0,10,O'Grady Stuart,10,Crédit Agricole,4,2003,-
+30.0,168.0,47.0,11,Vainšteins Romāns,11,Vini Calderola - So.di,4,2003,-
+29.0,111.0,43.0,12,Bettini Paolo,12,Quickstep - Davitamon,4,2003,-
+27.0,96.0,32.0,13,McGee Bradley,13,Fdjeux.com,4,2003,-
+28.0,53.0,28.0,14,Commesso Salvatore,14,Saeco,4,2003,-
+28.0,56.0,25.0,15,Glomser Gerrit,15,Saeco,4,2003,-
+25.0,206.0,23.0,16,Furlan Angelo,16,Alessio,4,2003,-
+29.0,131.0,21.0,17,Ullrich Jan,17,Team Bianchi,4,2003,-
+29.0,167.0,20.0,18,Rodriguez Fred,18,Vini Calderola - So.di,4,2003,-
+29.0,195.0,19.0,19,Pollack Olaf,19,Gerolsteiner,4,2003,-
+26.0,215.0,18.0,20,Finot Frédéric,20,Jean Delatour,4,2003,-
+26.0,45.0,18.0,21,Hunter Robert,21,Rabobank ProTeam,4,2003,-
+35.0,151.0,17.0,22,Brochard Laurent,22,AG2R Prévoyance,4,2003,-
+26.0,172.0,16.0,23,Artetxe Mikel,23,Euskaltel - Euskadi,4,2003,-
+25.0,193.0,15.0,24,Haselbacher René,24,Gerolsteiner,4,2003,-
+29.0,186.0,14.0,25,Nazon Damien,25,Brioches La Boulangère,4,2003,-
+24.0,155.0,12.0,26,Flickinger Andy,26,AG2R Prévoyance,4,2003,-
+26.0,19.0,12.0,28,Vicioso Ángel,27,O.N.C.E. - Eroski,4,2003,▲1
+26.0,61.0,12.0,27,Millar David,28,Cofidis,4,2003,▼1
+26.0,163.0,12.0,29,Bossoni Paolo,29,Vini Calderola - So.di,4,2003,-
+27.0,126.0,12.0,30,Jégou Lilian,30,Crédit Agricole,4,2003,-
+23.0,187.0,11.0,31,Pineau Jérôme,31,Brioches La Boulangère,4,2003,-
+31.0,129.0,10.0,33,Voigt Jens,32,Crédit Agricole,4,2003,▲1
+28.0,153.0,10.0,34,Botcharov Alexandre,33,AG2R Prévoyance,4,2003,▲1
+26.0,179.0,10.0,32,Zubeldia Haimar,34,Euskaltel - Euskadi,4,2003,▼2
+29.0,188.0,10.0,35,Renier Franck,35,Brioches La Boulangère,4,2003,-
+31.0,136.0,10.0,36,Guidi Fabrizio,36,Team Bianchi,4,2003,-
+30.0,174.0,9.0,37,Etxebarria Unai,37,Euskaltel - Euskadi,4,2003,-
+28.0,94.0,9.0,38,Da Cruz Carlos,38,Fdjeux.com,4,2003,-
+26.0,62.0,8.0,40,Clain Médéric,39,Cofidis,4,2003,▲1
+34.0,97.0,8.0,39,Mengin Christophe,40,Fdjeux.com,4,2003,▼1
+23.0,184.0,7.0,41,Geslin Anthony,41,Brioches La Boulangère,4,2003,-
+28.0,84.0,7.0,42,González Aitor,42,Fassa Bortolo,4,2003,-
+26.0,176.0,7.0,43,Landaluze Iñigo,43,Euskaltel - Euskadi,4,2003,-
+28.0,8.0,6.0,44,Peña Victor Hugo,44,US Postal Service,4,2003,-
+32.0,198.0,6.0,46,Totschnig Georg,45,Gerolsteiner,4,2003,▲1
+30.0,182.0,6.0,45,Bénéteau Walter,46,Brioches La Boulangère,4,2003,▼1
+32.0,71.0,5.0,47,Hamilton Tyler,47,CSC ProTeam,4,2003,-
+31.0,1.0,,48*,Armstrong Lance,48*,US Postal Service,4,2003,-
+32.0,121.0,4.0,49,Moreau Christophe,49,Crédit Agricole,4,2003,-
+29.0,11.0,3.0,50,Beloki Joseba,50,O.N.C.E. - Eroski,4,2003,-
+32.0,139.0,3.0,51,Steinhauser Tobias,51,Team Bianchi,4,2003,-
+29.0,89.0,3.0,52,Velo Marco,52,Fassa Bortolo,4,2003,-
+30.0,21.0,2.0,53,Botero Santiago,53,Team Telekom,4,2003,-
+25.0,178.0,2.0,54,Sánchez Samuel,54,Euskaltel - Euskadi,4,2003,-
+37.0,4.0,1.0,55,Ekimov Viatcheslav,55,US Postal Service,4,2003,-
+31.0,76.0,1.0,56,Peron Andrea,56,CSC ProTeam,4,2003,-
+31.0,141.0,108.0,1,McEwen Robbie,1,Lotto - Domo,5,2003,-
+29.0,88.0,107.0,3,Petacchi Alessandro,2,Fassa Bortolo,5,2003,▲1
+33.0,29.0,98.0,2,Zabel Erik,3,Team Telekom,5,2003,▼1
+24.0,93.0,88.0,5,Cooke Baden,4,Fdjeux.com,5,2003,▲1
+26.0,219.0,88.0,4,Nazon Jean-Patrick,5,Jean Delatour,5,2003,▼1
+33.0,156.0,84.0,8,Kirsipuu Jaan,6,AG2R Prévoyance,5,2003,▲2
+25.0,125.0,76.0,7,Hushovd Thor,7,Crédit Agricole,5,2003,-
+27.0,44.0,74.0,6,Freire Óscar,8,Rabobank ProTeam,5,2003,▼2
+26.0,116.0,71.0,9,Paolini Luca,9,Quickstep - Davitamon,5,2003,-
+29.0,127.0,67.0,10,O'Grady Stuart,10,Crédit Agricole,5,2003,-
+30.0,168.0,59.0,11,Vainšteins Romāns,11,Vini Calderola - So.di,5,2003,-
+29.0,111.0,43.0,12,Bettini Paolo,12,Quickstep - Davitamon,5,2003,-
+27.0,96.0,42.0,13,McGee Bradley,13,Fdjeux.com,5,2003,-
+29.0,167.0,37.0,18,Rodriguez Fred,14,Vini Calderola - So.di,5,2003,▲4
+29.0,195.0,34.0,19,Pollack Olaf,15,Gerolsteiner,5,2003,▲4
+28.0,56.0,31.0,15,Glomser Gerrit,16,Saeco,5,2003,▼1
+25.0,206.0,28.0,16,Furlan Angelo,17,Alessio,5,2003,▼1
+28.0,53.0,28.0,14,Commesso Salvatore,18,Saeco,5,2003,▼4
+29.0,186.0,27.0,25,Nazon Damien,19,Brioches La Boulangère,5,2003,▲6
+29.0,131.0,21.0,17,Ullrich Jan,20,Team Bianchi,5,2003,▼3
+35.0,151.0,21.0,22,Brochard Laurent,21,AG2R Prévoyance,5,2003,▲1
+31.0,129.0,20.0,32,Voigt Jens,22,Crédit Agricole,5,2003,▲10
+31.0,136.0,19.0,36,Guidi Fabrizio,23,Team Bianchi,5,2003,▲13
+26.0,112.0,18.0,,Bodrogi László,24,Quickstep - Davitamon,5,2003,-
+26.0,215.0,18.0,20,Finot Frédéric,25,Jean Delatour,5,2003,▼5
+26.0,45.0,18.0,21,Hunter Robert,26,Rabobank ProTeam,5,2003,▼5
+28.0,153.0,17.0,33,Botcharov Alexandre,27,AG2R Prévoyance,5,2003,▲6
+26.0,172.0,16.0,23,Artetxe Mikel,28,Euskaltel - Euskadi,5,2003,▼5
+25.0,193.0,15.0,24,Haselbacher René,29,Gerolsteiner,5,2003,▼5
+24.0,155.0,12.0,26,Flickinger Andy,30,AG2R Prévoyance,5,2003,▼4
+26.0,61.0,12.0,28,Millar David,31,Cofidis,5,2003,▼3
+26.0,163.0,12.0,29,Bossoni Paolo,32,Vini Calderola - So.di,5,2003,▼3
+26.0,19.0,12.0,27,Vicioso Ángel,33,O.N.C.E. - Eroski,5,2003,▼6
+27.0,126.0,12.0,30,Jégou Lilian,34,Crédit Agricole,5,2003,▼4
+29.0,124.0,11.0,,Hinault Sébastien,35,Crédit Agricole,5,2003,-
+23.0,187.0,11.0,31,Pineau Jérôme,36,Brioches La Boulangère,5,2003,▼5
+23.0,184.0,10.0,41,Geslin Anthony,37,Brioches La Boulangère,5,2003,▲4
+26.0,179.0,10.0,34,Zubeldia Haimar,38,Euskaltel - Euskadi,5,2003,▼4
+29.0,188.0,10.0,35,Renier Franck,39,Brioches La Boulangère,5,2003,▼4
+30.0,174.0,9.0,37,Etxebarria Unai,40,Euskaltel - Euskadi,5,2003,▼3
+28.0,94.0,9.0,38,Da Cruz Carlos,41,Fdjeux.com,5,2003,▼3
+26.0,62.0,8.0,39,Clain Médéric,42,Cofidis,5,2003,▼3
+34.0,97.0,8.0,40,Mengin Christophe,43,Fdjeux.com,5,2003,▼3
+24.0,217.0,8.0,,Krivtsov Yuriy,44,Jean Delatour,5,2003,-
+28.0,84.0,7.0,42,González Aitor,45,Fassa Bortolo,5,2003,▼3
+26.0,176.0,7.0,43,Landaluze Iñigo,46,Euskaltel - Euskadi,5,2003,▼3
+29.0,8.0,6.0,44,Peña Victor Hugo,47,US Postal Service,5,2003,▼3
+30.0,73.0,6.0,,Jalabert Nicolas,48,CSC ProTeam,5,2003,-
+32.0,198.0,6.0,45,Totschnig Georg,49,Gerolsteiner,5,2003,▼4
+30.0,182.0,6.0,46,Bénéteau Walter,50,Brioches La Boulangère,5,2003,▼4
+32.0,71.0,5.0,47,Hamilton Tyler,51,CSC ProTeam,5,2003,▼4
+31.0,1.0,,48*,Armstrong Lance,52*,US Postal Service,5,2003,-
+32.0,121.0,4.0,49,Moreau Christophe,53,Crédit Agricole,5,2003,▼4
+29.0,11.0,3.0,50,Beloki Joseba,54,O.N.C.E. - Eroski,5,2003,▼4
+32.0,139.0,3.0,51,Steinhauser Tobias,55,Team Bianchi,5,2003,▼4
+29.0,89.0,3.0,52,Velo Marco,56,Fassa Bortolo,5,2003,▼4
+30.0,21.0,2.0,53,Botero Santiago,57,Team Telekom,5,2003,▼4
+30.0,64.0,2.0,,Gaumont Philippe,58,Cofidis,5,2003,-
+25.0,178.0,2.0,54,Sánchez Samuel,59,Euskaltel - Euskadi,5,2003,▼5
+28.0,159.0,2.0,,Turpin Ludovic,60,AG2R Prévoyance,5,2003,-
+37.0,4.0,1.0,55,Ekimov Viatcheslav,61,US Postal Service,5,2003,▼6
+23.0,117.0,1.0,,Rogers Michael,62,Quickstep - Davitamon,5,2003,-
+31.0,76.0,1.0,56,Peron Andrea,63,CSC ProTeam,5,2003,▼7
+29.0,88.0,144.0,2,Petacchi Alessandro,1,Fassa Bortolo,6,2003,▲1
+24.0,93.0,118.0,4,Cooke Baden,2,Fdjeux.com,6,2003,▲2
+31.0,141.0,110.0,1,McEwen Robbie,3,Lotto - Domo,6,2003,▼2
+25.0,125.0,100.0,7,Hushovd Thor,4,Crédit Agricole,6,2003,▲3
+33.0,29.0,98.0,3,Zabel Erik,5,Team Telekom,6,2003,▼2
+29.0,127.0,91.0,10,O'Grady Stuart,6,Crédit Agricole,6,2003,▲4
+26.0,219.0,88.0,5,Nazon Jean-Patrick,7,Jean Delatour,6,2003,▼2
+26.0,116.0,87.0,9,Paolini Luca,8,Quickstep - Davitamon,6,2003,▲1
+33.0,156.0,84.0,6,Kirsipuu Jaan,9,AG2R Prévoyance,6,2003,▼3
+27.0,44.0,83.0,8,Freire Óscar,10,Rabobank ProTeam,6,2003,▼2
+30.0,168.0,81.0,11,Vainšteins Romāns,11,Vini Calderola - So.di,6,2003,-
+28.0,56.0,49.0,16,Glomser Gerrit,12,Saeco,6,2003,▲4
+29.0,167.0,47.0,14,Rodriguez Fred,13,Vini Calderola - So.di,6,2003,▲1
+29.0,186.0,47.0,19,Nazon Damien,14,Brioches La Boulangère,6,2003,▲5
+27.0,96.0,46.0,13,McGee Bradley,15,Fdjeux.com,6,2003,▼2
+31.0,136.0,45.0,23,Guidi Fabrizio,16,Team Bianchi,6,2003,▲7
+29.0,111.0,43.0,12,Bettini Paolo,17,Quickstep - Davitamon,6,2003,▼5
+28.0,53.0,43.0,18,Commesso Salvatore,18,Saeco,6,2003,-
+29.0,195.0,34.0,15,Pollack Olaf,19,Gerolsteiner,6,2003,▼4
+29.0,124.0,30.0,35,Hinault Sébastien,20,Crédit Agricole,6,2003,▲15
+29.0,131.0,28.0,20,Ullrich Jan,21,Team Bianchi,6,2003,▼1
+28.0,153.0,28.0,27,Botcharov Alexandre,22,AG2R Prévoyance,6,2003,▲5
+25.0,206.0,28.0,17,Furlan Angelo,23,Alessio,6,2003,▼6
+24.0,217.0,25.0,44,Krivtsov Yuriy,24,Jean Delatour,6,2003,▲20
+23.0,184.0,22.0,37,Geslin Anthony,25,Brioches La Boulangère,6,2003,▲12
+35.0,151.0,21.0,21,Brochard Laurent,26,AG2R Prévoyance,6,2003,▼5
+31.0,129.0,20.0,22,Voigt Jens,27,Crédit Agricole,6,2003,▼5
+26.0,112.0,18.0,24,Bodrogi László,28,Quickstep - Davitamon,6,2003,▼4
+26.0,215.0,18.0,25,Finot Frédéric,29,Jean Delatour,6,2003,▼4
+26.0,45.0,18.0,26,Hunter Robert,30,Rabobank ProTeam,6,2003,▼4
+26.0,172.0,16.0,28,Artetxe Mikel,31,Euskaltel - Euskadi,6,2003,▼3
+29.0,11.0,15.0,54,Beloki Joseba,32,O.N.C.E. - Eroski,6,2003,▲22
+25.0,193.0,15.0,29,Haselbacher René,33,Gerolsteiner,6,2003,▼4
+27.0,35.0,14.0,,Lastras Pablo,34,iBanesto.com,6,2003,-
+28.0,17.0,13.0,,Pradera Mikel,35,O.N.C.E. - Eroski,6,2003,-
+24.0,155.0,12.0,30,Flickinger Andy,36,AG2R Prévoyance,6,2003,▼6
+26.0,61.0,12.0,31,Millar David,37,Cofidis,6,2003,▼6
+26.0,163.0,12.0,32,Bossoni Paolo,38,Vini Calderola - So.di,6,2003,▼6
+27.0,126.0,12.0,34,Jégou Lilian,39,Crédit Agricole,6,2003,▼5
+23.0,187.0,11.0,36,Pineau Jérôme,40,Brioches La Boulangère,6,2003,▼4
+26.0,179.0,11.0,38,Zubeldia Haimar,41,Euskaltel - Euskadi,6,2003,▼3
+29.0,188.0,10.0,39,Renier Franck,42,Brioches La Boulangère,6,2003,▼3
+28.0,84.0,9.0,45,González Aitor,43,Fassa Bortolo,6,2003,▲2
+30.0,174.0,9.0,40,Etxebarria Unai,44,Euskaltel - Euskadi,6,2003,▼4
+28.0,94.0,9.0,41,Da Cruz Carlos,45,Fdjeux.com,6,2003,▼4
+29.0,28.0,8.0,,Vinokourov Alexandre,46,Team Telekom,6,2003,-
+26.0,62.0,8.0,42,Clain Médéric,47,Cofidis,6,2003,▼5
+34.0,97.0,8.0,43,Mengin Christophe,48,Fdjeux.com,6,2003,▼5
+26.0,176.0,7.0,46,Landaluze Iñigo,49,Euskaltel - Euskadi,6,2003,▼3
+29.0,8.0,6.0,47,Peña Victor Hugo,50,US Postal Service,6,2003,▼3
+23.0,117.0,6.0,62,Rogers Michael,51,Quickstep - Davitamon,6,2003,▲11
+30.0,73.0,6.0,48,Jalabert Nicolas,52,CSC ProTeam,6,2003,▼4
+32.0,198.0,6.0,49,Totschnig Georg,53,Gerolsteiner,6,2003,▼4
+30.0,182.0,6.0,50,Bénéteau Walter,54,Brioches La Boulangère,6,2003,▼4
+32.0,71.0,5.0,51,Hamilton Tyler,55,CSC ProTeam,6,2003,▼4
+31.0,1.0,,52*,Armstrong Lance,56*,US Postal Service,6,2003,-
+32.0,121.0,4.0,53,Moreau Christophe,57,Crédit Agricole,6,2003,▼4
+32.0,139.0,3.0,55,Steinhauser Tobias,58,Team Bianchi,6,2003,▼3
+29.0,89.0,3.0,56,Velo Marco,59,Fassa Bortolo,6,2003,▼3
+29.0,102.0,3.0,,Gutiérrez José Enrique,60,Kelme - Costa Blanca,6,2003,-
+30.0,21.0,2.0,57,Botero Santiago,61,Team Telekom,6,2003,▼4
+30.0,64.0,2.0,58,Gaumont Philippe,62,Cofidis,6,2003,▼4
+25.0,178.0,2.0,59,Sánchez Samuel,63,Euskaltel - Euskadi,6,2003,▼4
+33.0,142.0,2.0,,Baguet Serge,64,Lotto - Domo,6,2003,-
+28.0,159.0,2.0,60,Turpin Ludovic,65,AG2R Prévoyance,6,2003,▼5
+37.0,4.0,1.0,61,Ekimov Viatcheslav,66,US Postal Service,6,2003,▼5
+31.0,76.0,1.0,63,Peron Andrea,67,CSC ProTeam,6,2003,▼4
+24.0,93.0,118.0,2,Cooke Baden,1,Fdjeux.com,7,2003,▲1
+31.0,141.0,110.0,3,McEwen Robbie,2,Lotto - Domo,7,2003,▲1
+25.0,125.0,100.0,4,Hushovd Thor,3,Crédit Agricole,7,2003,▲1
+33.0,29.0,98.0,5,Zabel Erik,4,Team Telekom,7,2003,▲1
+29.0,127.0,91.0,6,O'Grady Stuart,5,Crédit Agricole,7,2003,▲1
+26.0,219.0,88.0,7,Nazon Jean-Patrick,6,Jean Delatour,7,2003,▲1
+26.0,116.0,87.0,8,Paolini Luca,7,Quickstep - Davitamon,7,2003,▲1
+27.0,44.0,83.0,10,Freire Óscar,8,Rabobank ProTeam,7,2003,▲2
+30.0,168.0,81.0,11,Vainšteins Romāns,9,Vini Calderola - So.di,7,2003,▲2
+29.0,111.0,55.0,17,Bettini Paolo,10,Quickstep - Davitamon,7,2003,▲7
+28.0,56.0,49.0,12,Glomser Gerrit,11,Saeco,7,2003,▲1
+29.0,167.0,47.0,13,Rodriguez Fred,12,Vini Calderola - So.di,7,2003,▲1
+29.0,186.0,47.0,14,Nazon Damien,13,Brioches La Boulangère,7,2003,▲1
+27.0,96.0,46.0,15,McGee Bradley,14,Fdjeux.com,7,2003,▲1
+31.0,136.0,45.0,16,Guidi Fabrizio,15,Team Bianchi,7,2003,▲1
+28.0,53.0,43.0,18,Commesso Salvatore,16,Saeco,7,2003,▲2
+29.0,124.0,30.0,20,Hinault Sébastien,17,Crédit Agricole,7,2003,▲3
+29.0,131.0,28.0,21,Ullrich Jan,18,Team Bianchi,7,2003,▲3
+28.0,153.0,28.0,22,Botcharov Alexandre,19,AG2R Prévoyance,7,2003,▲3
+24.0,217.0,25.0,24,Krivtsov Yuriy,20,Jean Delatour,7,2003,▲4
+25.0,206.0,23.0,23,Furlan Angelo,21,Alessio,7,2003,▲2
+33.0,119.0,22.0,,Virenque Richard,22,Quickstep - Davitamon,7,2003,-
+23.0,184.0,22.0,25,Geslin Anthony,23,Brioches La Boulangère,7,2003,▲2
+34.0,23.0,21.0,,Aldag Rolf,24,Team Telekom,7,2003,-
+35.0,151.0,21.0,26,Brochard Laurent,25,AG2R Prévoyance,7,2003,▲1
+26.0,61.0,20.0,37,Millar David,26,Cofidis,7,2003,▲11
+31.0,129.0,20.0,27,Voigt Jens,27,Crédit Agricole,7,2003,-
+23.0,117.0,19.0,51,Rogers Michael,28,Quickstep - Davitamon,7,2003,▲23
+26.0,112.0,18.0,28,Bodrogi László,29,Quickstep - Davitamon,7,2003,▼1
+26.0,215.0,18.0,29,Finot Frédéric,30,Jean Delatour,7,2003,▼1
+26.0,45.0,18.0,30,Hunter Robert,31,Rabobank ProTeam,7,2003,▼1
+26.0,172.0,16.0,31,Artetxe Mikel,32,Euskaltel - Euskadi,7,2003,▼1
+29.0,11.0,15.0,32,Beloki Joseba,33,O.N.C.E. - Eroski,7,2003,▼1
+24.0,183.0,15.0,,Chavanel Sylvain,34,Brioches La Boulangère,7,2003,-
+25.0,193.0,15.0,33,Haselbacher René,35,Gerolsteiner,7,2003,▼2
+29.0,28.0,14.0,46,Vinokourov Alexandre,36,Team Telekom,7,2003,▲10
+32.0,121.0,14.0,57,Moreau Christophe,37,Crédit Agricole,7,2003,▲20
+27.0,35.0,14.0,34,Lastras Pablo,38,iBanesto.com,7,2003,▼4
+32.0,198.0,13.0,53,Totschnig Georg,39,Gerolsteiner,7,2003,▲14
+28.0,17.0,13.0,35,Pradera Mikel,40,O.N.C.E. - Eroski,7,2003,▼5
+24.0,155.0,12.0,36,Flickinger Andy,41,AG2R Prévoyance,7,2003,▼5
+29.0,161.0,12.0,,Garzelli Stefano,42,Vini Calderola - So.di,7,2003,-
+26.0,62.0,12.0,47,Clain Médéric,43,Cofidis,7,2003,▲4
+27.0,163.0,12.0,38,Bossoni Paolo,44,Vini Calderola - So.di,7,2003,▼6
+27.0,126.0,12.0,39,Jégou Lilian,45,Crédit Agricole,7,2003,▼6
+26.0,179.0,11.0,41,Zubeldia Haimar,46,Euskaltel - Euskadi,7,2003,▼5
+23.0,187.0,11.0,40,Pineau Jérôme,47,Brioches La Boulangère,7,2003,▼7
+29.0,188.0,10.0,42,Renier Franck,48,Brioches La Boulangère,7,2003,▼6
+34.0,201.0,9.0,,Dufaux Laurent,49,Alessio,7,2003,-
+28.0,84.0,9.0,43,González Aitor,50,Fassa Bortolo,7,2003,▼7
+28.0,94.0,9.0,45,Da Cruz Carlos,51,Fdjeux.com,7,2003,▼6
+30.0,174.0,9.0,44,Etxebarria Unai,52,Euskaltel - Euskadi,7,2003,▼8
+34.0,97.0,8.0,48,Mengin Christophe,53,Fdjeux.com,7,2003,▼5
+26.0,176.0,7.0,49,Landaluze Iñigo,54,Euskaltel - Euskadi,7,2003,▼5
+30.0,182.0,6.0,54,Bénéteau Walter,55,Brioches La Boulangère,7,2003,▼1
+29.0,8.0,6.0,50,Peña Victor Hugo,56,US Postal Service,7,2003,▼6
+30.0,73.0,6.0,52,Jalabert Nicolas,57,CSC ProTeam,7,2003,▼5
+31.0,1.0,,56*,Armstrong Lance,58*,US Postal Service,7,2003,-
+23.0,152.0,5.0,,Astarloza Mikel,59,AG2R Prévoyance,7,2003,-
+32.0,71.0,5.0,55,Hamilton Tyler,60,CSC ProTeam,7,2003,▼5
+27.0,68.0,4.0,,Trentin Guido,61,Cofidis,7,2003,-
+27.0,47.0,3.0,,Niermann Grischa,62,Rabobank ProTeam,7,2003,-
+32.0,139.0,3.0,58,Steinhauser Tobias,63,Team Bianchi,7,2003,▼5
+29.0,102.0,3.0,60,Gutiérrez José Enrique,64,Kelme - Costa Blanca,7,2003,▼4
+25.0,36.0,2.0,,Menchov Denis,65,iBanesto.com,7,2003,-
+26.0,128.0,2.0,,Poilvet Benoît,66,Crédit Agricole,7,2003,-
+30.0,21.0,2.0,61,Botero Santiago,67,Team Telekom,7,2003,▼6
+30.0,64.0,2.0,62,Gaumont Philippe,68,Cofidis,7,2003,▼6
+28.0,159.0,2.0,65,Turpin Ludovic,69,AG2R Prévoyance,7,2003,▼4
+33.0,142.0,2.0,64,Baguet Serge,70,Lotto - Domo,7,2003,▼6
+31.0,76.0,1.0,67,Peron Andrea,71,CSC ProTeam,7,2003,▼4
+37.0,4.0,1.0,66,Ekimov Viatcheslav,72,US Postal Service,7,2003,▼6
+24.0,93.0,120.0,1,Cooke Baden,1,Fdjeux.com,8,2003,-
+31.0,141.0,110.0,2,McEwen Robbie,2,Lotto - Domo,8,2003,-
+25.0,125.0,104.0,3,Hushovd Thor,3,Crédit Agricole,8,2003,-
+33.0,29.0,98.0,4,Zabel Erik,4,Team Telekom,8,2003,-
+29.0,127.0,91.0,5,O'Grady Stuart,5,Crédit Agricole,8,2003,-
+26.0,219.0,88.0,6,Nazon Jean-Patrick,6,Jean Delatour,8,2003,-
+26.0,116.0,87.0,7,Paolini Luca,7,Quickstep - Davitamon,8,2003,-
+27.0,44.0,83.0,8,Freire Óscar,8,Rabobank ProTeam,8,2003,-
+30.0,168.0,81.0,9,Vainšteins Romāns,9,Vini Calderola - So.di,8,2003,-
+29.0,111.0,55.0,10,Bettini Paolo,10,Quickstep - Davitamon,8,2003,-
+29.0,167.0,47.0,12,Rodriguez Fred,11,Vini Calderola - So.di,8,2003,▲1
+27.0,96.0,46.0,14,McGee Bradley,12,Fdjeux.com,8,2003,▲2
+31.0,136.0,45.0,15,Guidi Fabrizio,13,Team Bianchi,8,2003,▲2
+28.0,56.0,44.0,11,Glomser Gerrit,14,Saeco,8,2003,▼3
+28.0,53.0,43.0,16,Commesso Salvatore,15,Saeco,8,2003,▲1
+29.0,186.0,42.0,13,Nazon Damien,16,Brioches La Boulangère,8,2003,▼3
+29.0,28.0,31.0,36,Vinokourov Alexandre,17,Team Telekom,8,2003,▲19
+29.0,131.0,31.0,18,Ullrich Jan,18,Team Bianchi,8,2003,-
+29.0,124.0,30.0,17,Hinault Sébastien,19,Crédit Agricole,8,2003,▼2
+28.0,153.0,28.0,19,Botcharov Alexandre,20,AG2R Prévoyance,8,2003,▼1
+29.0,11.0,25.0,33,Beloki Joseba,21,O.N.C.E. - Eroski,8,2003,▲12
+24.0,217.0,25.0,20,Krivtsov Yuriy,22,Jean Delatour,8,2003,▼2
+26.0,179.0,23.0,46,Zubeldia Haimar,23,Euskaltel - Euskadi,8,2003,▲23
+33.0,119.0,22.0,22,Virenque Richard,24,Quickstep - Davitamon,8,2003,▼2
+23.0,184.0,22.0,23,Geslin Anthony,25,Brioches La Boulangère,8,2003,▼2
+35.0,151.0,21.0,25,Brochard Laurent,26,AG2R Prévoyance,8,2003,▼1
+34.0,23.0,21.0,24,Aldag Rolf,27,Team Telekom,8,2003,▼3
+25.0,171.0,20.0,,Mayo Iban,28,Euskaltel - Euskadi,8,2003,-
+31.0,1.0,,58*,Armstrong Lance,29*,US Postal Service,8,2003,-
+26.0,61.0,20.0,26,Millar David,30,Cofidis,8,2003,▼4
+31.0,129.0,20.0,27,Voigt Jens,31,Crédit Agricole,8,2003,▼4
+32.0,121.0,19.0,37,Moreau Christophe,32,Crédit Agricole,8,2003,▲5
+23.0,117.0,19.0,28,Rogers Michael,33,Quickstep - Davitamon,8,2003,▼5
+26.0,112.0,18.0,29,Bodrogi László,34,Quickstep - Davitamon,8,2003,▼5
+26.0,215.0,18.0,30,Finot Frédéric,35,Jean Delatour,8,2003,▼5
+26.0,45.0,18.0,31,Hunter Robert,36,Rabobank ProTeam,8,2003,▼5
+25.0,206.0,18.0,21,Furlan Angelo,37,Alessio,8,2003,▼16
+26.0,172.0,16.0,32,Artetxe Mikel,38,Euskaltel - Euskadi,8,2003,▼6
+24.0,183.0,15.0,34,Chavanel Sylvain,39,Brioches La Boulangère,8,2003,▼5
+25.0,193.0,15.0,35,Haselbacher René,40,Gerolsteiner,8,2003,▼5
+32.0,71.0,14.0,60,Hamilton Tyler,41,CSC ProTeam,8,2003,▲19
+27.0,35.0,14.0,38,Lastras Pablo,42,iBanesto.com,8,2003,▼4
+27.0,31.0,13.0,,Mancebo Francisco,43,iBanesto.com,8,2003,-
+29.0,161.0,13.0,42,Garzelli Stefano,44,Vini Calderola - So.di,8,2003,▼2
+32.0,198.0,13.0,39,Totschnig Georg,45,Gerolsteiner,8,2003,▼6
+28.0,17.0,13.0,40,Pradera Mikel,46,O.N.C.E. - Eroski,8,2003,▼6
+24.0,155.0,12.0,41,Flickinger Andy,47,AG2R Prévoyance,8,2003,▼6
+29.0,188.0,12.0,48,Renier Franck,48,Brioches La Boulangère,8,2003,-
+27.0,163.0,12.0,44,Bossoni Paolo,49,Vini Calderola - So.di,8,2003,▼5
+27.0,126.0,12.0,45,Jégou Lilian,50,Crédit Agricole,8,2003,▼5
+23.0,187.0,11.0,47,Pineau Jérôme,51,Brioches La Boulangère,8,2003,▼4
+34.0,201.0,9.0,49,Dufaux Laurent,52,Alessio,8,2003,▼3
+28.0,94.0,9.0,51,Da Cruz Carlos,53,Fdjeux.com,8,2003,▼2
+30.0,174.0,9.0,52,Etxebarria Unai,54,Euskaltel - Euskadi,8,2003,▼2
+25.0,81.0,8.0,,Basso Ivan,55,Fassa Bortolo,8,2003,-
+34.0,97.0,8.0,53,Mengin Christophe,56,Fdjeux.com,8,2003,▼3
+34.0,175.0,7.0,,Laiseka Roberto,57,Euskaltel - Euskadi,8,2003,-
+26.0,62.0,7.0,43,Clain Médéric,58,Cofidis,8,2003,▼15
+24.0,158.0,6.0,,Portal Nicolas,59,AG2R Prévoyance,8,2003,-
+30.0,146.0,6.0,,Merckx Axel,60,Lotto - Domo,8,2003,-
+27.0,204.0,6.0,,Caucchioli Pietro,61,Alessio,8,2003,-
+30.0,182.0,6.0,55,Bénéteau Walter,62,Brioches La Boulangère,8,2003,▼7
+29.0,8.0,6.0,56,Peña Victor Hugo,63,US Postal Service,8,2003,▼7
+30.0,73.0,6.0,57,Jalabert Nicolas,64,CSC ProTeam,8,2003,▼7
+23.0,152.0,5.0,59,Astarloza Mikel,65,AG2R Prévoyance,8,2003,▼6
+29.0,2.0,4.0,,Heras Roberto,66,US Postal Service,8,2003,-
+25.0,36.0,4.0,65,Menchov Denis,67,iBanesto.com,8,2003,▼2
+27.0,68.0,4.0,61,Trentin Guido,68,Cofidis,8,2003,▼7
+24.0,123.0,4.0,,Fédrigo Pierrick,69,Crédit Agricole,8,2003,-
+32.0,139.0,3.0,63,Steinhauser Tobias,70,Team Bianchi,8,2003,▼7
+29.0,102.0,3.0,64,Gutiérrez José Enrique,71,Kelme - Costa Blanca,8,2003,▼7
+26.0,128.0,2.0,66,Poilvet Benoît,72,Crédit Agricole,8,2003,▼6
+26.0,176.0,2.0,54,Landaluze Iñigo,73,Euskaltel - Euskadi,8,2003,▼19
+30.0,21.0,2.0,67,Botero Santiago,74,Team Telekom,8,2003,▼7
+28.0,159.0,2.0,69,Turpin Ludovic,75,AG2R Prévoyance,8,2003,▼6
+33.0,142.0,2.0,70,Baguet Serge,76,Lotto - Domo,8,2003,▼6
+30.0,64.0,2.0,68,Gaumont Philippe,77,Cofidis,8,2003,▼9
+31.0,76.0,1.0,71,Peron Andrea,78,CSC ProTeam,8,2003,▼7
+37.0,4.0,1.0,72,Ekimov Viatcheslav,79,US Postal Service,8,2003,▼7
+24.0,93.0,120.0,1,Cooke Baden,1,Fdjeux.com,9,2003,-
+31.0,141.0,110.0,2,McEwen Robbie,2,Lotto - Domo,9,2003,-
+25.0,125.0,104.0,3,Hushovd Thor,3,Crédit Agricole,9,2003,-
+33.0,29.0,98.0,4,Zabel Erik,4,Team Telekom,9,2003,-
+26.0,219.0,88.0,6,Nazon Jean-Patrick,5,Jean Delatour,9,2003,▲1
+26.0,116.0,87.0,7,Paolini Luca,6,Quickstep - Davitamon,9,2003,▲1
+29.0,127.0,86.0,5,O'Grady Stuart,7,Crédit Agricole,9,2003,▼2
+27.0,44.0,83.0,8,Freire Óscar,8,Rabobank ProTeam,9,2003,-
+30.0,168.0,81.0,9,Vainšteins Romāns,9,Vini Calderola - So.di,9,2003,-
+29.0,111.0,72.0,10,Bettini Paolo,10,Quickstep - Davitamon,9,2003,-
+29.0,28.0,51.0,17,Vinokourov Alexandre,11,Team Telekom,9,2003,▲6
+29.0,167.0,47.0,11,Rodriguez Fred,12,Vini Calderola - So.di,9,2003,▼1
+27.0,96.0,46.0,12,McGee Bradley,13,Fdjeux.com,9,2003,▼1
+31.0,136.0,45.0,13,Guidi Fabrizio,14,Team Bianchi,9,2003,▼1
+28.0,56.0,44.0,14,Glomser Gerrit,15,Saeco,9,2003,▼1
+29.0,131.0,43.0,18,Ullrich Jan,16,Team Bianchi,9,2003,▲2
+28.0,53.0,43.0,15,Commesso Salvatore,17,Saeco,9,2003,▼2
+29.0,186.0,42.0,16,Nazon Damien,18,Brioches La Boulangère,9,2003,▼2
+25.0,171.0,35.0,28,Mayo Iban,19,Euskaltel - Euskadi,9,2003,▲9
+31.0,1.0,,29*,Armstrong Lance,20*,US Postal Service,9,2003,-
+26.0,179.0,30.0,23,Zubeldia Haimar,21,Euskaltel - Euskadi,9,2003,▲2
+29.0,124.0,30.0,19,Hinault Sébastien,22,Crédit Agricole,9,2003,▼3
+28.0,153.0,28.0,20,Botcharov Alexandre,23,AG2R Prévoyance,9,2003,▼3
+24.0,217.0,25.0,22,Krivtsov Yuriy,24,Jean Delatour,9,2003,▼2
+33.0,119.0,22.0,24,Virenque Richard,25,Quickstep - Davitamon,9,2003,▼1
+23.0,184.0,22.0,25,Geslin Anthony,26,Brioches La Boulangère,9,2003,▼1
+32.0,198.0,22.0,45,Totschnig Georg,27,Gerolsteiner,9,2003,▲18
+27.0,31.0,21.0,43,Mancebo Francisco,28,iBanesto.com,9,2003,▲15
+32.0,121.0,21.0,32,Moreau Christophe,29,Crédit Agricole,9,2003,▲3
+35.0,151.0,21.0,26,Brochard Laurent,30,AG2R Prévoyance,9,2003,▼4
+34.0,23.0,21.0,27,Aldag Rolf,31,Team Telekom,9,2003,▼4
+32.0,71.0,20.0,41,Hamilton Tyler,32,CSC ProTeam,9,2003,▲9
+26.0,61.0,20.0,30,Millar David,33,Cofidis,9,2003,▼3
+31.0,129.0,20.0,31,Voigt Jens,34,Crédit Agricole,9,2003,▼3
+23.0,117.0,19.0,33,Rogers Michael,35,Quickstep - Davitamon,9,2003,▼2
+26.0,112.0,18.0,34,Bodrogi László,36,Quickstep - Davitamon,9,2003,▼2
+26.0,215.0,18.0,35,Finot Frédéric,37,Jean Delatour,9,2003,▼2
+25.0,81.0,18.0,55,Basso Ivan,38,Fassa Bortolo,9,2003,▲17
+26.0,45.0,18.0,36,Hunter Robert,39,Rabobank ProTeam,9,2003,▼3
+26.0,172.0,16.0,38,Artetxe Mikel,40,Euskaltel - Euskadi,9,2003,▼2
+24.0,183.0,15.0,39,Chavanel Sylvain,41,Brioches La Boulangère,9,2003,▼2
+25.0,193.0,15.0,40,Haselbacher René,42,Gerolsteiner,9,2003,▼2
+27.0,35.0,14.0,42,Lastras Pablo,43,iBanesto.com,9,2003,▼1
+29.0,161.0,13.0,44,Garzelli Stefano,44,Vini Calderola - So.di,9,2003,-
+28.0,17.0,13.0,46,Pradera Mikel,45,O.N.C.E. - Eroski,9,2003,▲1
+30.0,133.0,12.0,,Casero Ángel Luis,46,Team Bianchi,9,2003,-
+24.0,155.0,12.0,47,Flickinger Andy,47,AG2R Prévoyance,9,2003,-
+34.0,175.0,12.0,57,Laiseka Roberto,48,Euskaltel - Euskadi,9,2003,▲9
+29.0,188.0,12.0,48,Renier Franck,49,Brioches La Boulangère,9,2003,▼1
+27.0,163.0,12.0,49,Bossoni Paolo,50,Vini Calderola - So.di,9,2003,▼1
+34.0,201.0,9.0,52,Dufaux Laurent,51,Alessio,9,2003,▲1
+30.0,174.0,9.0,54,Etxebarria Unai,52,Euskaltel - Euskadi,9,2003,▲2
+28.0,94.0,9.0,53,Da Cruz Carlos,53,Fdjeux.com,9,2003,-
+34.0,97.0,8.0,56,Mengin Christophe,54,Fdjeux.com,9,2003,▲2
+25.0,36.0,7.0,67,Menchov Denis,55,iBanesto.com,9,2003,▲12
+26.0,62.0,7.0,58,Clain Médéric,56,Cofidis,9,2003,▲2
+30.0,146.0,6.0,60,Merckx Axel,57,Lotto - Domo,9,2003,▲3
+24.0,158.0,6.0,59,Portal Nicolas,58,AG2R Prévoyance,9,2003,▲1
+27.0,204.0,6.0,61,Caucchioli Pietro,59,Alessio,9,2003,▲2
+23.0,187.0,6.0,51,Pineau Jérôme,60,Brioches La Boulangère,9,2003,▼9
+29.0,8.0,6.0,63,Peña Victor Hugo,61,US Postal Service,9,2003,▲2
+30.0,182.0,6.0,62,Bénéteau Walter,62,Brioches La Boulangère,9,2003,-
+30.0,73.0,6.0,64,Jalabert Nicolas,63,CSC ProTeam,9,2003,▲1
+29.0,2.0,5.0,66,Heras Roberto,64,US Postal Service,9,2003,▲2
+23.0,152.0,5.0,65,Astarloza Mikel,65,AG2R Prévoyance,9,2003,-
+26.0,15.0,4.0,,Jaksche Jörg,66,O.N.C.E. - Eroski,9,2003,-
+32.0,181.0,4.0,,Rous Didier,67,Brioches La Boulangère,9,2003,-
+24.0,123.0,4.0,69,Fédrigo Pierrick,68,Crédit Agricole,9,2003,▲1
+32.0,139.0,3.0,70,Steinhauser Tobias,69,Team Bianchi,9,2003,▲1
+30.0,21.0,2.0,74,Botero Santiago,70,Team Telekom,9,2003,▲4
+31.0,177.0,2.0,,López de Munain Alberto,71,Euskaltel - Euskadi,9,2003,-
+26.0,128.0,2.0,72,Poilvet Benoît,72,Crédit Agricole,9,2003,-
+28.0,159.0,2.0,75,Turpin Ludovic,73,AG2R Prévoyance,9,2003,▲2
+26.0,176.0,2.0,73,Landaluze Iñigo,74,Euskaltel - Euskadi,9,2003,▼1
+33.0,142.0,2.0,76,Baguet Serge,75,Lotto - Domo,9,2003,▲1
+30.0,64.0,2.0,77,Gaumont Philippe,76,Cofidis,9,2003,▲1
+31.0,76.0,1.0,78,Peron Andrea,77,CSC ProTeam,9,2003,▲1
+37.0,4.0,1.0,79,Ekimov Viatcheslav,78,US Postal Service,9,2003,▲1
+24.0,93.0,140.0,1,Cooke Baden,1,Fdjeux.com,10,2003,-
+31.0,141.0,131.0,2,McEwen Robbie,2,Lotto - Domo,10,2003,-
+33.0,29.0,112.0,4,Zabel Erik,3,Team Telekom,10,2003,▲1
+25.0,125.0,107.0,3,Hushovd Thor,4,Crédit Agricole,10,2003,▼1
+26.0,219.0,100.0,5,Nazon Jean-Patrick,5,Jean Delatour,10,2003,-
+29.0,127.0,94.0,7,O'Grady Stuart,6,Crédit Agricole,10,2003,▲1
+26.0,116.0,94.0,6,Paolini Luca,7,Quickstep - Davitamon,10,2003,▼1
+27.0,44.0,83.0,8,Freire Óscar,8,Rabobank ProTeam,10,2003,-
+30.0,168.0,81.0,9,Vainšteins Romāns,9,Vini Calderola - So.di,10,2003,-
+29.0,111.0,72.0,10,Bettini Paolo,10,Quickstep - Davitamon,10,2003,-
+29.0,186.0,72.0,18,Nazon Damien,11,Brioches La Boulangère,10,2003,▲7
+29.0,167.0,60.0,12,Rodriguez Fred,12,Vini Calderola - So.di,10,2003,-
+31.0,136.0,57.0,14,Guidi Fabrizio,13,Team Bianchi,10,2003,▲1
+28.0,56.0,55.0,15,Glomser Gerrit,14,Saeco,10,2003,▲1
+29.0,28.0,51.0,11,Vinokourov Alexandre,15,Team Telekom,10,2003,▼4
+27.0,96.0,46.0,13,McGee Bradley,16,Fdjeux.com,10,2003,▼3
+29.0,131.0,43.0,16,Ullrich Jan,17,Team Bianchi,10,2003,▼1
+28.0,53.0,43.0,17,Commesso Salvatore,18,Saeco,10,2003,▼1
+25.0,193.0,37.0,42,Haselbacher René,19,Gerolsteiner,10,2003,▲23
+25.0,171.0,35.0,19,Mayo Iban,20,Euskaltel - Euskadi,10,2003,▼1
+30.0,77.0,35.0,,Piil Jakob Storm,21,CSC ProTeam,10,2003,-
+31.0,1.0,,20*,Armstrong Lance,22*,US Postal Service,10,2003,-
+29.0,58.0,32.0,,Sacchi Fabio,23,Saeco,10,2003,-
+29.0,124.0,32.0,22,Hinault Sébastien,24,Crédit Agricole,10,2003,▼2
+26.0,179.0,30.0,21,Zubeldia Haimar,25,Euskaltel - Euskadi,10,2003,▼4
+28.0,43.0,30.0,,de Groot Bram,26,Rabobank ProTeam,10,2003,-
+28.0,153.0,28.0,23,Botcharov Alexandre,27,AG2R Prévoyance,10,2003,▼4
+24.0,217.0,25.0,24,Krivtsov Yuriy,28,Jean Delatour,10,2003,▼4
+33.0,119.0,22.0,25,Virenque Richard,29,Quickstep - Davitamon,10,2003,▼4
+23.0,184.0,22.0,26,Geslin Anthony,30,Brioches La Boulangère,10,2003,▼4
+32.0,198.0,22.0,27,Totschnig Georg,31,Gerolsteiner,10,2003,▼4
+30.0,64.0,22.0,76,Gaumont Philippe,32,Cofidis,10,2003,▲44
+27.0,31.0,21.0,28,Mancebo Francisco,33,iBanesto.com,10,2003,▼5
+32.0,121.0,21.0,29,Moreau Christophe,34,Crédit Agricole,10,2003,▼5
+35.0,151.0,21.0,30,Brochard Laurent,35,AG2R Prévoyance,10,2003,▼5
+34.0,23.0,21.0,31,Aldag Rolf,36,Team Telekom,10,2003,▼5
+33.0,142.0,21.0,75,Baguet Serge,37,Lotto - Domo,10,2003,▲38
+32.0,71.0,20.0,32,Hamilton Tyler,38,CSC ProTeam,10,2003,▼6
+26.0,61.0,20.0,33,Millar David,39,Cofidis,10,2003,▼6
+31.0,129.0,20.0,34,Voigt Jens,40,Crédit Agricole,10,2003,▼6
+23.0,117.0,19.0,35,Rogers Michael,41,Quickstep - Davitamon,10,2003,▼6
+26.0,112.0,18.0,36,Bodrogi László,42,Quickstep - Davitamon,10,2003,▼6
+26.0,215.0,18.0,37,Finot Frédéric,43,Jean Delatour,10,2003,▼6
+25.0,81.0,18.0,38,Basso Ivan,44,Fassa Bortolo,10,2003,▼6
+30.0,33.0,18.0,,Garcia José Vicente,45,iBanesto.com,10,2003,-
+26.0,45.0,18.0,39,Hunter Robert,46,Rabobank ProTeam,10,2003,▼7
+26.0,172.0,16.0,40,Artetxe Mikel,47,Euskaltel - Euskadi,10,2003,▼7
+24.0,183.0,15.0,41,Chavanel Sylvain,48,Brioches La Boulangère,10,2003,▼7
+29.0,102.0,15.0,,Gutiérrez José Enrique,49,Kelme - Costa Blanca,10,2003,-
+27.0,35.0,14.0,43,Lastras Pablo,50,iBanesto.com,10,2003,▼7
+24.0,155.0,13.0,47,Flickinger Andy,51,AG2R Prévoyance,10,2003,▼4
+28.0,17.0,13.0,45,Pradera Mikel,52,O.N.C.E. - Eroski,10,2003,▼7
+30.0,133.0,12.0,46,Casero Ángel Luis,53,Team Bianchi,10,2003,▼7
+34.0,175.0,12.0,48,Laiseka Roberto,54,Euskaltel - Euskadi,10,2003,▼6
+29.0,188.0,12.0,49,Renier Franck,55,Brioches La Boulangère,10,2003,▼6
+27.0,163.0,12.0,50,Bossoni Paolo,56,Vini Calderola - So.di,10,2003,▼6
+30.0,182.0,11.0,62,Bénéteau Walter,57,Brioches La Boulangère,10,2003,▲5
+34.0,201.0,9.0,51,Dufaux Laurent,58,Alessio,10,2003,▼7
+30.0,174.0,9.0,52,Etxebarria Unai,59,Euskaltel - Euskadi,10,2003,▼7
+28.0,94.0,9.0,53,Da Cruz Carlos,60,Fdjeux.com,10,2003,▼7
+23.0,214.0,9.0,,Edaleine Christophe,61,Jean Delatour,10,2003,-
+34.0,97.0,8.0,54,Mengin Christophe,62,Fdjeux.com,10,2003,▼8
+25.0,36.0,7.0,55,Menchov Denis,63,iBanesto.com,10,2003,▼8
+26.0,62.0,7.0,56,Clain Médéric,64,Cofidis,10,2003,▼8
+30.0,146.0,6.0,57,Merckx Axel,65,Lotto - Domo,10,2003,▼8
+24.0,158.0,6.0,58,Portal Nicolas,66,AG2R Prévoyance,10,2003,▼8
+27.0,204.0,6.0,59,Caucchioli Pietro,67,Alessio,10,2003,▼8
+23.0,187.0,6.0,60,Pineau Jérôme,68,Brioches La Boulangère,10,2003,▼8
+29.0,8.0,6.0,61,Peña Victor Hugo,69,US Postal Service,10,2003,▼8
+30.0,73.0,6.0,63,Jalabert Nicolas,70,CSC ProTeam,10,2003,▼7
+22.0,213.0,6.0,,Dumoulin Samuel,71,Jean Delatour,10,2003,-
+29.0,2.0,5.0,64,Heras Roberto,72,US Postal Service,10,2003,▼8
+23.0,152.0,5.0,65,Astarloza Mikel,73,AG2R Prévoyance,10,2003,▼8
+26.0,15.0,4.0,66,Jaksche Jörg,74,O.N.C.E. - Eroski,10,2003,▼8
+32.0,181.0,4.0,67,Rous Didier,75,Brioches La Boulangère,10,2003,▼8
+24.0,123.0,4.0,68,Fédrigo Pierrick,76,Crédit Agricole,10,2003,▼8
+31.0,148.0,4.0,,van Bon Léon,77,Lotto - Domo,10,2003,-
+32.0,139.0,3.0,69,Steinhauser Tobias,78,Team Bianchi,10,2003,▼9
+30.0,21.0,2.0,70,Botero Santiago,79,Team Telekom,10,2003,▼9
+26.0,128.0,2.0,72,Poilvet Benoît,80,Crédit Agricole,10,2003,▼8
+31.0,177.0,2.0,71,López de Munain Alberto,81,Euskaltel - Euskadi,10,2003,▼10
+28.0,159.0,2.0,73,Turpin Ludovic,82,AG2R Prévoyance,10,2003,▼9
+26.0,176.0,2.0,74,Landaluze Iñigo,83,Euskaltel - Euskadi,10,2003,▼9
+31.0,76.0,1.0,77,Peron Andrea,84,CSC ProTeam,10,2003,▼7
+37.0,4.0,1.0,78,Ekimov Viatcheslav,85,US Postal Service,10,2003,▼7
+24.0,93.0,156.0,1,Cooke Baden,1,Fdjeux.com,11,2003,-
+31.0,141.0,148.0,2,McEwen Robbie,2,Lotto - Domo,11,2003,-
+33.0,29.0,126.0,3,Zabel Erik,3,Team Telekom,11,2003,-
+29.0,127.0,122.0,6,O'Grady Stuart,4,Crédit Agricole,11,2003,▲2
+25.0,125.0,120.0,4,Hushovd Thor,5,Crédit Agricole,11,2003,▼1
+26.0,219.0,111.0,5,Nazon Jean-Patrick,6,Jean Delatour,11,2003,▼1
+26.0,116.0,106.0,7,Paolini Luca,7,Quickstep - Davitamon,11,2003,-
+27.0,44.0,83.0,8,Freire Óscar,8,Rabobank ProTeam,11,2003,-
+29.0,186.0,82.0,11,Nazon Damien,9,Brioches La Boulangère,11,2003,▲2
+30.0,168.0,81.0,9,Vainšteins Romāns,10,Vini Calderola - So.di,11,2003,▼1
+29.0,111.0,72.0,10,Bettini Paolo,11,Quickstep - Davitamon,11,2003,▼1
+31.0,136.0,72.0,13,Guidi Fabrizio,12,Team Bianchi,11,2003,▲1
+29.0,167.0,69.0,12,Rodriguez Fred,13,Vini Calderola - So.di,11,2003,▼1
+28.0,56.0,63.0,14,Glomser Gerrit,14,Saeco,11,2003,-
+28.0,43.0,62.0,26,de Groot Bram,15,Rabobank ProTeam,11,2003,▲11
+29.0,28.0,51.0,15,Vinokourov Alexandre,16,Team Telekom,11,2003,▼1
+27.0,96.0,48.0,16,McGee Bradley,17,Fdjeux.com,11,2003,▼1
+29.0,131.0,47.0,17,Ullrich Jan,18,Team Bianchi,11,2003,▼1
+28.0,94.0,43.0,60,Da Cruz Carlos,19,Fdjeux.com,11,2003,▲41
+28.0,53.0,43.0,18,Commesso Salvatore,20,Saeco,11,2003,▼2
+23.0,117.0,37.0,41,Rogers Michael,21,Quickstep - Davitamon,11,2003,▲20
+25.0,193.0,37.0,19,Haselbacher René,22,Gerolsteiner,11,2003,▼3
+25.0,171.0,35.0,20,Mayo Iban,23,Euskaltel - Euskadi,11,2003,▼3
+30.0,77.0,35.0,21,Piil Jakob Storm,24,CSC ProTeam,11,2003,▼3
+25.0,32.0,35.0,,Flecha Juan Antonio,25,iBanesto.com,11,2003,-
+31.0,1.0,,22*,Armstrong Lance,26*,US Postal Service,11,2003,-
+29.0,58.0,32.0,23,Sacchi Fabio,27,Saeco,11,2003,▼4
+29.0,124.0,32.0,24,Hinault Sébastien,28,Crédit Agricole,11,2003,▼4
+26.0,179.0,30.0,25,Zubeldia Haimar,29,Euskaltel - Euskadi,11,2003,▼4
+28.0,153.0,28.0,27,Botcharov Alexandre,30,AG2R Prévoyance,11,2003,▼3
+25.0,16.0,28.0,,Nozal Isidro,31,O.N.C.E. - Eroski,11,2003,-
+24.0,158.0,25.0,66,Portal Nicolas,32,AG2R Prévoyance,11,2003,▲34
+24.0,217.0,25.0,28,Krivtsov Yuriy,33,Jean Delatour,11,2003,▼5
+27.0,31.0,24.0,33,Mancebo Francisco,34,iBanesto.com,11,2003,▼1
+34.0,63.0,24.0,,Cuesta Iñigo,35,Cofidis,11,2003,-
+33.0,119.0,22.0,29,Virenque Richard,36,Quickstep - Davitamon,11,2003,▼7
+23.0,184.0,22.0,30,Geslin Anthony,37,Brioches La Boulangère,11,2003,▼7
+32.0,198.0,22.0,31,Totschnig Georg,38,Gerolsteiner,11,2003,▼7
+30.0,64.0,22.0,32,Gaumont Philippe,39,Cofidis,11,2003,▼7
+32.0,121.0,21.0,34,Moreau Christophe,40,Crédit Agricole,11,2003,▼6
+35.0,151.0,21.0,35,Brochard Laurent,41,AG2R Prévoyance,11,2003,▼6
+34.0,23.0,21.0,36,Aldag Rolf,42,Team Telekom,11,2003,▼6
+33.0,142.0,21.0,37,Baguet Serge,43,Lotto - Domo,11,2003,▼6
+32.0,71.0,20.0,38,Hamilton Tyler,44,CSC ProTeam,11,2003,▼6
+26.0,61.0,20.0,39,Millar David,45,Cofidis,11,2003,▼6
+26.0,112.0,18.0,42,Bodrogi László,46,Quickstep - Davitamon,11,2003,▼4
+26.0,215.0,18.0,43,Finot Frédéric,47,Jean Delatour,11,2003,▼4
+25.0,81.0,18.0,44,Basso Ivan,48,Fassa Bortolo,11,2003,▼4
+30.0,33.0,18.0,45,Garcia José Vicente,49,iBanesto.com,11,2003,▼4
+26.0,45.0,18.0,46,Hunter Robert,50,Rabobank ProTeam,11,2003,▼4
+26.0,172.0,16.0,47,Artetxe Mikel,51,Euskaltel - Euskadi,11,2003,▼4
+24.0,183.0,15.0,48,Chavanel Sylvain,52,Brioches La Boulangère,11,2003,▼4
+29.0,102.0,15.0,49,Gutiérrez José Enrique,53,Kelme - Costa Blanca,11,2003,▼4
+27.0,35.0,14.0,50,Lastras Pablo,54,iBanesto.com,11,2003,▼4
+24.0,155.0,13.0,51,Flickinger Andy,55,AG2R Prévoyance,11,2003,▼4
+28.0,17.0,13.0,52,Pradera Mikel,56,O.N.C.E. - Eroski,11,2003,▼4
+30.0,133.0,12.0,53,Casero Ángel Luis,57,Team Bianchi,11,2003,▼4
+34.0,175.0,12.0,54,Laiseka Roberto,58,Euskaltel - Euskadi,11,2003,▼4
+29.0,188.0,12.0,55,Renier Franck,59,Brioches La Boulangère,11,2003,▼4
+27.0,163.0,12.0,56,Bossoni Paolo,60,Vini Calderola - So.di,11,2003,▼4
+30.0,182.0,11.0,57,Bénéteau Walter,61,Brioches La Boulangère,11,2003,▼4
+31.0,148.0,10.0,77,van Bon Léon,62,Lotto - Domo,11,2003,▲15
+34.0,201.0,9.0,58,Dufaux Laurent,63,Alessio,11,2003,▼5
+30.0,174.0,9.0,59,Etxebarria Unai,64,Euskaltel - Euskadi,11,2003,▼5
+23.0,214.0,9.0,61,Edaleine Christophe,65,Jean Delatour,11,2003,▼4
+34.0,97.0,8.0,62,Mengin Christophe,66,Fdjeux.com,11,2003,▼4
+25.0,36.0,7.0,63,Menchov Denis,67,iBanesto.com,11,2003,▼4
+26.0,62.0,7.0,64,Clain Médéric,68,Cofidis,11,2003,▼4
+34.0,137.0,7.0,,Liese Thomas,69,Team Bianchi,11,2003,-
+30.0,146.0,6.0,65,Merckx Axel,70,Lotto - Domo,11,2003,▼5
+27.0,204.0,6.0,67,Caucchioli Pietro,71,Alessio,11,2003,▼4
+23.0,187.0,6.0,68,Pineau Jérôme,72,Brioches La Boulangère,11,2003,▼4
+29.0,8.0,6.0,69,Peña Victor Hugo,73,US Postal Service,11,2003,▼4
+30.0,73.0,6.0,70,Jalabert Nicolas,74,CSC ProTeam,11,2003,▼4
+22.0,213.0,6.0,71,Dumoulin Samuel,75,Jean Delatour,11,2003,▼4
+29.0,2.0,5.0,72,Heras Roberto,76,US Postal Service,11,2003,▼4
+23.0,152.0,5.0,73,Astarloza Mikel,77,AG2R Prévoyance,11,2003,▼4
+29.0,199.0,5.0,,Zberg Markus,78,Gerolsteiner,11,2003,-
+26.0,15.0,4.0,74,Jaksche Jörg,79,O.N.C.E. - Eroski,11,2003,▼5
+32.0,181.0,4.0,75,Rous Didier,80,Brioches La Boulangère,11,2003,▼5
+24.0,123.0,4.0,76,Fédrigo Pierrick,81,Crédit Agricole,11,2003,▼5
+30.0,21.0,2.0,79,Botero Santiago,82,Team Telekom,11,2003,▼3
+26.0,128.0,2.0,80,Poilvet Benoît,83,Crédit Agricole,11,2003,▼3
+28.0,159.0,2.0,82,Turpin Ludovic,84,AG2R Prévoyance,11,2003,▼2
+31.0,177.0,2.0,81,López de Munain Alberto,85,Euskaltel - Euskadi,11,2003,▼4
+26.0,176.0,2.0,83,Landaluze Iñigo,86,Euskaltel - Euskadi,11,2003,▼3
+31.0,76.0,1.0,84,Peron Andrea,87,CSC ProTeam,11,2003,▼3
+37.0,4.0,1.0,85,Ekimov Viatcheslav,88,US Postal Service,11,2003,▼3
+28.0,83.0,1.0,,Cioni Dario David,89,Fassa Bortolo,11,2003,-
+24.0,93.0,156.0,1,Cooke Baden,1,Fdjeux.com,12,2003,-
+31.0,141.0,148.0,2,McEwen Robbie,2,Lotto - Domo,12,2003,-
+33.0,29.0,126.0,3,Zabel Erik,3,Team Telekom,12,2003,-
+29.0,127.0,122.0,4,O'Grady Stuart,4,Crédit Agricole,12,2003,-
+25.0,125.0,120.0,5,Hushovd Thor,5,Crédit Agricole,12,2003,-
+26.0,219.0,111.0,6,Nazon Jean-Patrick,6,Jean Delatour,12,2003,-
+26.0,116.0,106.0,7,Paolini Luca,7,Quickstep - Davitamon,12,2003,-
+27.0,44.0,83.0,8,Freire Óscar,8,Rabobank ProTeam,12,2003,-
+29.0,186.0,82.0,9,Nazon Damien,9,Brioches La Boulangère,12,2003,-
+30.0,168.0,81.0,10,Vainšteins Romāns,10,Vini Calderola - So.di,12,2003,-
+29.0,111.0,72.0,11,Bettini Paolo,11,Quickstep - Davitamon,12,2003,-
+31.0,136.0,72.0,12,Guidi Fabrizio,12,Team Bianchi,12,2003,-
+29.0,167.0,69.0,13,Rodriguez Fred,13,Vini Calderola - So.di,12,2003,-
+28.0,56.0,63.0,14,Glomser Gerrit,14,Saeco,12,2003,-
+29.0,131.0,62.0,18,Ullrich Jan,15,Team Bianchi,12,2003,▲3
+28.0,43.0,62.0,15,de Groot Bram,16,Rabobank ProTeam,12,2003,▼1
+29.0,28.0,61.0,16,Vinokourov Alexandre,17,Team Telekom,12,2003,▼1
+27.0,96.0,48.0,17,McGee Bradley,18,Fdjeux.com,12,2003,▼1
+31.0,1.0,,26*,Armstrong Lance,19*,US Postal Service,12,2003,-
+28.0,94.0,43.0,19,Da Cruz Carlos,20,Fdjeux.com,12,2003,▼1
+28.0,53.0,43.0,20,Commesso Salvatore,21,Saeco,12,2003,▼1
+26.0,179.0,38.0,29,Zubeldia Haimar,22,Euskaltel - Euskadi,12,2003,▲7
+23.0,117.0,37.0,21,Rogers Michael,23,Quickstep - Davitamon,12,2003,▼2
+25.0,193.0,37.0,22,Haselbacher René,24,Gerolsteiner,12,2003,▼2
+25.0,171.0,35.0,23,Mayo Iban,25,Euskaltel - Euskadi,12,2003,▼2
+30.0,77.0,35.0,24,Piil Jakob Storm,26,CSC ProTeam,12,2003,▼2
+25.0,32.0,35.0,25,Flecha Juan Antonio,27,iBanesto.com,12,2003,▼2
+29.0,58.0,32.0,27,Sacchi Fabio,28,Saeco,12,2003,▼1
+29.0,124.0,32.0,28,Hinault Sébastien,29,Crédit Agricole,12,2003,▼1
+28.0,153.0,28.0,30,Botcharov Alexandre,30,AG2R Prévoyance,12,2003,-
+25.0,16.0,28.0,31,Nozal Isidro,31,O.N.C.E. - Eroski,12,2003,-
+32.0,71.0,26.0,44,Hamilton Tyler,32,CSC ProTeam,12,2003,▲12
+24.0,158.0,25.0,32,Portal Nicolas,33,AG2R Prévoyance,12,2003,▼1
+24.0,217.0,25.0,33,Krivtsov Yuriy,34,Jean Delatour,12,2003,▼1
+27.0,31.0,24.0,34,Mancebo Francisco,35,iBanesto.com,12,2003,▼1
+26.0,61.0,24.0,45,Millar David,36,Cofidis,12,2003,▲9
+34.0,63.0,24.0,35,Cuesta Iñigo,37,Cofidis,12,2003,▼2
+33.0,119.0,22.0,36,Virenque Richard,38,Quickstep - Davitamon,12,2003,▼2
+23.0,184.0,22.0,37,Geslin Anthony,39,Brioches La Boulangère,12,2003,▼2
+32.0,198.0,22.0,38,Totschnig Georg,40,Gerolsteiner,12,2003,▼2
+30.0,64.0,22.0,39,Gaumont Philippe,41,Cofidis,12,2003,▼2
+32.0,121.0,21.0,40,Moreau Christophe,42,Crédit Agricole,12,2003,▼2
+35.0,151.0,21.0,41,Brochard Laurent,43,AG2R Prévoyance,12,2003,▼2
+33.0,142.0,21.0,43,Baguet Serge,44,Lotto - Domo,12,2003,▼1
+34.0,23.0,21.0,42,Aldag Rolf,45,Team Telekom,12,2003,▼3
+26.0,112.0,18.0,46,Bodrogi László,46,Quickstep - Davitamon,12,2003,-
+26.0,215.0,18.0,47,Finot Frédéric,47,Jean Delatour,12,2003,-
+25.0,81.0,18.0,48,Basso Ivan,48,Fassa Bortolo,12,2003,-
+30.0,33.0,18.0,49,Garcia José Vicente,49,iBanesto.com,12,2003,-
+26.0,45.0,18.0,50,Hunter Robert,50,Rabobank ProTeam,12,2003,-
+26.0,172.0,16.0,51,Artetxe Mikel,51,Euskaltel - Euskadi,12,2003,-
+24.0,183.0,15.0,52,Chavanel Sylvain,52,Brioches La Boulangère,12,2003,-
+29.0,102.0,15.0,53,Gutiérrez José Enrique,53,Kelme - Costa Blanca,12,2003,-
+27.0,35.0,14.0,54,Lastras Pablo,54,iBanesto.com,12,2003,-
+24.0,155.0,13.0,55,Flickinger Andy,55,AG2R Prévoyance,12,2003,-
+28.0,17.0,13.0,56,Pradera Mikel,56,O.N.C.E. - Eroski,12,2003,-
+30.0,133.0,12.0,57,Casero Ángel Luis,57,Team Bianchi,12,2003,-
+34.0,175.0,12.0,58,Laiseka Roberto,58,Euskaltel - Euskadi,12,2003,-
+29.0,188.0,12.0,59,Renier Franck,59,Brioches La Boulangère,12,2003,-
+27.0,163.0,12.0,60,Bossoni Paolo,60,Vini Calderola - So.di,12,2003,-
+30.0,182.0,11.0,61,Bénéteau Walter,61,Brioches La Boulangère,12,2003,-
+31.0,148.0,10.0,62,van Bon Léon,62,Lotto - Domo,12,2003,-
+34.0,201.0,9.0,63,Dufaux Laurent,63,Alessio,12,2003,-
+30.0,174.0,9.0,64,Etxebarria Unai,64,Euskaltel - Euskadi,12,2003,-
+23.0,214.0,9.0,65,Edaleine Christophe,65,Jean Delatour,12,2003,-
+34.0,97.0,8.0,66,Mengin Christophe,66,Fdjeux.com,12,2003,-
+25.0,36.0,7.0,67,Menchov Denis,67,iBanesto.com,12,2003,-
+26.0,62.0,7.0,68,Clain Médéric,68,Cofidis,12,2003,-
+34.0,137.0,7.0,69,Liese Thomas,69,Team Bianchi,12,2003,-
+30.0,146.0,6.0,70,Merckx Axel,70,Lotto - Domo,12,2003,-
+27.0,204.0,6.0,71,Caucchioli Pietro,71,Alessio,12,2003,-
+23.0,187.0,6.0,72,Pineau Jérôme,72,Brioches La Boulangère,12,2003,-
+29.0,8.0,6.0,73,Peña Victor Hugo,73,US Postal Service,12,2003,-
+30.0,73.0,6.0,74,Jalabert Nicolas,74,CSC ProTeam,12,2003,-
+22.0,213.0,6.0,75,Dumoulin Samuel,75,Jean Delatour,12,2003,-
+29.0,2.0,5.0,76,Heras Roberto,76,US Postal Service,12,2003,-
+23.0,152.0,5.0,77,Astarloza Mikel,77,AG2R Prévoyance,12,2003,-
+29.0,199.0,5.0,78,Zberg Markus,78,Gerolsteiner,12,2003,-
+34.0,194.0,5.0,,Peschel Uwe,79,Gerolsteiner,12,2003,-
+26.0,15.0,4.0,79,Jaksche Jörg,80,O.N.C.E. - Eroski,12,2003,▼1
+32.0,181.0,4.0,80,Rous Didier,81,Brioches La Boulangère,12,2003,▼1
+24.0,123.0,4.0,81,Fédrigo Pierrick,82,Crédit Agricole,12,2003,▼1
+30.0,154.0,3.0,,Chaurreau Íñigo,83,AG2R Prévoyance,12,2003,-
+30.0,21.0,3.0,82,Botero Santiago,84,Team Telekom,12,2003,▼2
+33.0,138.0,2.0,,Plaza David,85,Team Bianchi,12,2003,-
+26.0,128.0,2.0,83,Poilvet Benoît,86,Crédit Agricole,12,2003,▼3
+26.0,176.0,2.0,86,Landaluze Iñigo,87,Euskaltel - Euskadi,12,2003,▼1
+28.0,159.0,2.0,84,Turpin Ludovic,88,AG2R Prévoyance,12,2003,▼4
+31.0,177.0,2.0,85,López de Munain Alberto,89,Euskaltel - Euskadi,12,2003,▼4
+31.0,76.0,1.0,87,Peron Andrea,90,CSC ProTeam,12,2003,▼3
+37.0,4.0,1.0,88,Ekimov Viatcheslav,91,US Postal Service,12,2003,▼3
+28.0,83.0,1.0,89,Cioni Dario David,92,Fassa Bortolo,12,2003,▼3
+24.0,93.0,156.0,1,Cooke Baden,1,Fdjeux.com,13,2003,-
+31.0,141.0,148.0,2,McEwen Robbie,2,Lotto - Domo,13,2003,-
+25.0,125.0,132.0,5,Hushovd Thor,3,Crédit Agricole,13,2003,▲2
+33.0,29.0,126.0,3,Zabel Erik,4,Team Telekom,13,2003,▼1
+29.0,127.0,122.0,4,O'Grady Stuart,5,Crédit Agricole,13,2003,▼1
+26.0,219.0,111.0,6,Nazon Jean-Patrick,6,Jean Delatour,13,2003,-
+26.0,116.0,106.0,7,Paolini Luca,7,Quickstep - Davitamon,13,2003,-
+27.0,44.0,83.0,8,Freire Óscar,8,Rabobank ProTeam,13,2003,-
+29.0,186.0,82.0,9,Nazon Damien,9,Brioches La Boulangère,13,2003,-
+30.0,168.0,81.0,10,Vainšteins Romāns,10,Vini Calderola - So.di,13,2003,-
+29.0,131.0,79.0,15,Ullrich Jan,11,Team Bianchi,13,2003,▲4
+29.0,28.0,73.0,17,Vinokourov Alexandre,12,Team Telekom,13,2003,▲5
+29.0,111.0,72.0,11,Bettini Paolo,13,Quickstep - Davitamon,13,2003,▼2
+31.0,136.0,72.0,12,Guidi Fabrizio,14,Team Bianchi,13,2003,▼2
+29.0,167.0,69.0,13,Rodriguez Fred,15,Vini Calderola - So.di,13,2003,▼2
+28.0,56.0,63.0,14,Glomser Gerrit,16,Saeco,13,2003,▼2
+28.0,43.0,62.0,16,de Groot Bram,17,Rabobank ProTeam,13,2003,▼1
+31.0,1.0,,19*,Armstrong Lance,18*,US Postal Service,13,2003,-
+26.0,179.0,53.0,22,Zubeldia Haimar,19,Euskaltel - Euskadi,13,2003,▲3
+28.0,94.0,51.0,20,Da Cruz Carlos,20,Fdjeux.com,13,2003,-
+27.0,96.0,48.0,18,McGee Bradley,21,Fdjeux.com,13,2003,▼3
+25.0,171.0,43.0,25,Mayo Iban,22,Euskaltel - Euskadi,13,2003,▲3
+28.0,53.0,43.0,21,Commesso Salvatore,23,Saeco,13,2003,▼2
+23.0,117.0,37.0,23,Rogers Michael,24,Quickstep - Davitamon,13,2003,▼1
+25.0,193.0,37.0,24,Haselbacher René,25,Gerolsteiner,13,2003,▼1
+30.0,77.0,35.0,26,Piil Jakob Storm,26,CSC ProTeam,13,2003,-
+25.0,32.0,35.0,27,Flecha Juan Antonio,27,iBanesto.com,13,2003,-
+32.0,71.0,32.0,32,Hamilton Tyler,28,CSC ProTeam,13,2003,▲4
+29.0,58.0,32.0,28,Sacchi Fabio,29,Saeco,13,2003,▼1
+29.0,124.0,32.0,29,Hinault Sébastien,30,Crédit Agricole,13,2003,▼1
+25.0,81.0,28.0,48,Basso Ivan,31,Fassa Bortolo,13,2003,▲17
+27.0,31.0,28.0,35,Mancebo Francisco,32,iBanesto.com,13,2003,▲3
+32.0,121.0,28.0,42,Moreau Christophe,33,Crédit Agricole,13,2003,▲9
+28.0,153.0,28.0,30,Botcharov Alexandre,34,AG2R Prévoyance,13,2003,▼4
+25.0,16.0,28.0,31,Nozal Isidro,35,O.N.C.E. - Eroski,13,2003,▼4
+33.0,119.0,25.0,38,Virenque Richard,36,Quickstep - Davitamon,13,2003,▲2
+24.0,158.0,25.0,33,Portal Nicolas,37,AG2R Prévoyance,13,2003,▼4
+24.0,217.0,25.0,34,Krivtsov Yuriy,38,Jean Delatour,13,2003,▼4
+32.0,198.0,24.0,40,Totschnig Georg,39,Gerolsteiner,13,2003,▲1
+26.0,61.0,24.0,36,Millar David,40,Cofidis,13,2003,▼4
+34.0,63.0,24.0,37,Cuesta Iñigo,41,Cofidis,13,2003,▼4
+35.0,151.0,23.0,43,Brochard Laurent,42,AG2R Prévoyance,13,2003,▲1
+23.0,184.0,22.0,39,Geslin Anthony,43,Brioches La Boulangère,13,2003,▼4
+30.0,64.0,22.0,41,Gaumont Philippe,44,Cofidis,13,2003,▼3
+33.0,142.0,21.0,44,Baguet Serge,45,Lotto - Domo,13,2003,▼1
+34.0,23.0,21.0,45,Aldag Rolf,46,Team Telekom,13,2003,▼1
+28.0,78.0,20.0,,Sastre Carlos,47,CSC ProTeam,13,2003,-
+26.0,112.0,18.0,46,Bodrogi László,48,Quickstep - Davitamon,13,2003,▼2
+26.0,215.0,18.0,47,Finot Frédéric,49,Jean Delatour,13,2003,▼2
+30.0,33.0,18.0,49,Garcia José Vicente,50,iBanesto.com,13,2003,▼1
+26.0,45.0,18.0,50,Hunter Robert,51,Rabobank ProTeam,13,2003,▼1
+26.0,172.0,16.0,51,Artetxe Mikel,52,Euskaltel - Euskadi,13,2003,▼1
+24.0,183.0,15.0,52,Chavanel Sylvain,53,Brioches La Boulangère,13,2003,▼1
+29.0,102.0,15.0,53,Gutiérrez José Enrique,54,Kelme - Costa Blanca,13,2003,▼1
+34.0,201.0,14.0,63,Dufaux Laurent,55,Alessio,13,2003,▲8
+27.0,35.0,14.0,54,Lastras Pablo,56,iBanesto.com,13,2003,▼2
+24.0,155.0,13.0,55,Flickinger Andy,57,AG2R Prévoyance,13,2003,▼2
+28.0,17.0,13.0,56,Pradera Mikel,58,O.N.C.E. - Eroski,13,2003,▼2
+30.0,133.0,12.0,57,Casero Ángel Luis,59,Team Bianchi,13,2003,▼2
+34.0,175.0,12.0,58,Laiseka Roberto,60,Euskaltel - Euskadi,13,2003,▼2
+29.0,188.0,12.0,59,Renier Franck,61,Brioches La Boulangère,13,2003,▼2
+27.0,163.0,12.0,60,Bossoni Paolo,62,Vini Calderola - So.di,13,2003,▼2
+30.0,182.0,11.0,61,Bénéteau Walter,63,Brioches La Boulangère,13,2003,▼2
+31.0,148.0,10.0,62,van Bon Léon,64,Lotto - Domo,13,2003,▼2
+25.0,37.0,9.0,,Mercado Juan Miguel,65,iBanesto.com,13,2003,-
+23.0,214.0,9.0,65,Edaleine Christophe,66,Jean Delatour,13,2003,▼1
+34.0,97.0,8.0,66,Mengin Christophe,67,Fdjeux.com,13,2003,▼1
+25.0,36.0,7.0,67,Menchov Denis,68,iBanesto.com,13,2003,▼1
+26.0,62.0,7.0,68,Clain Médéric,69,Cofidis,13,2003,▼1
+34.0,137.0,7.0,69,Liese Thomas,70,Team Bianchi,13,2003,▼1
+30.0,146.0,6.0,70,Merckx Axel,71,Lotto - Domo,13,2003,▼1
+23.0,187.0,6.0,72,Pineau Jérôme,72,Brioches La Boulangère,13,2003,-
+29.0,8.0,6.0,73,Peña Victor Hugo,73,US Postal Service,13,2003,-
+30.0,73.0,6.0,74,Jalabert Nicolas,74,CSC ProTeam,13,2003,-
+22.0,213.0,6.0,75,Dumoulin Samuel,75,Jean Delatour,13,2003,-
+29.0,2.0,5.0,76,Heras Roberto,76,US Postal Service,13,2003,-
+32.0,181.0,5.0,81,Rous Didier,77,Brioches La Boulangère,13,2003,▲4
+23.0,152.0,5.0,77,Astarloza Mikel,78,AG2R Prévoyance,13,2003,▼1
+29.0,199.0,5.0,78,Zberg Markus,79,Gerolsteiner,13,2003,▼1
+34.0,194.0,5.0,79,Peschel Uwe,80,Gerolsteiner,13,2003,▼1
+26.0,15.0,4.0,80,Jaksche Jörg,81,O.N.C.E. - Eroski,13,2003,▼1
+24.0,123.0,4.0,82,Fédrigo Pierrick,82,Crédit Agricole,13,2003,-
+30.0,154.0,3.0,83,Chaurreau Íñigo,83,AG2R Prévoyance,13,2003,-
+30.0,21.0,3.0,84,Botero Santiago,84,Team Telekom,13,2003,-
+33.0,138.0,2.0,85,Plaza David,85,Team Bianchi,13,2003,-
+26.0,128.0,2.0,86,Poilvet Benoît,86,Crédit Agricole,13,2003,-
+31.0,177.0,2.0,89,López de Munain Alberto,87,Euskaltel - Euskadi,13,2003,▲2
+28.0,159.0,2.0,88,Turpin Ludovic,88,AG2R Prévoyance,13,2003,-
+26.0,176.0,2.0,87,Landaluze Iñigo,89,Euskaltel - Euskadi,13,2003,▼2
+31.0,203.0,2.0,,Bertolini Alessandro,90,Alessio,13,2003,-
+37.0,4.0,1.0,91,Ekimov Viatcheslav,91,US Postal Service,13,2003,-
+31.0,76.0,1.0,90,Peron Andrea,92,CSC ProTeam,13,2003,▼2
+28.0,83.0,1.0,92,Cioni Dario David,93,Fassa Bortolo,13,2003,▼1
+24.0,93.0,156.0,1,Cooke Baden,1,Fdjeux.com,14,2003,-
+31.0,141.0,148.0,2,McEwen Robbie,2,Lotto - Domo,14,2003,-
+25.0,125.0,132.0,3,Hushovd Thor,3,Crédit Agricole,14,2003,-
+33.0,29.0,126.0,4,Zabel Erik,4,Team Telekom,14,2003,-
+29.0,127.0,122.0,5,O'Grady Stuart,5,Crédit Agricole,14,2003,-
+26.0,219.0,111.0,6,Nazon Jean-Patrick,6,Jean Delatour,14,2003,-
+26.0,116.0,106.0,7,Paolini Luca,7,Quickstep - Davitamon,14,2003,-
+29.0,131.0,83.0,11,Ullrich Jan,8,Team Bianchi,14,2003,▲3
+29.0,28.0,83.0,12,Vinokourov Alexandre,9,Team Telekom,14,2003,▲3
+27.0,44.0,83.0,8,Freire Óscar,10,Rabobank ProTeam,14,2003,▼2
+29.0,186.0,82.0,9,Nazon Damien,11,Brioches La Boulangère,14,2003,▼2
+30.0,168.0,81.0,10,Vainšteins Romāns,12,Vini Calderola - So.di,14,2003,▼2
+29.0,111.0,76.0,13,Bettini Paolo,13,Quickstep - Davitamon,14,2003,-
+31.0,136.0,72.0,14,Guidi Fabrizio,14,Team Bianchi,14,2003,-
+29.0,167.0,69.0,15,Rodriguez Fred,15,Vini Calderola - So.di,14,2003,-
+31.0,1.0,,18*,Armstrong Lance,16*,US Postal Service,14,2003,-
+28.0,56.0,63.0,16,Glomser Gerrit,17,Saeco,14,2003,▼1
+28.0,43.0,62.0,17,de Groot Bram,18,Rabobank ProTeam,14,2003,▼1
+26.0,179.0,60.0,19,Zubeldia Haimar,19,Euskaltel - Euskadi,14,2003,-
+25.0,171.0,52.0,22,Mayo Iban,20,Euskaltel - Euskadi,14,2003,▲2
+28.0,94.0,51.0,20,Da Cruz Carlos,21,Fdjeux.com,14,2003,▼1
+27.0,96.0,43.0,21,McGee Bradley,22,Fdjeux.com,14,2003,▼1
+33.0,119.0,42.0,36,Virenque Richard,23,Quickstep - Davitamon,14,2003,▲13
+30.0,77.0,41.0,26,Piil Jakob Storm,24,CSC ProTeam,14,2003,▲2
+28.0,53.0,38.0,23,Commesso Salvatore,25,Saeco,14,2003,▼2
+34.0,201.0,37.0,55,Dufaux Laurent,26,Alessio,14,2003,▲29
+23.0,117.0,37.0,24,Rogers Michael,27,Quickstep - Davitamon,14,2003,▼3
+25.0,32.0,35.0,27,Flecha Juan Antonio,28,iBanesto.com,14,2003,▼1
+25.0,81.0,34.0,31,Basso Ivan,29,Fassa Bortolo,14,2003,▲2
+32.0,71.0,32.0,28,Hamilton Tyler,30,CSC ProTeam,14,2003,▼2
+29.0,58.0,32.0,29,Sacchi Fabio,31,Saeco,14,2003,▼2
+29.0,124.0,32.0,30,Hinault Sébastien,32,Crédit Agricole,14,2003,▼2
+32.0,121.0,31.0,33,Moreau Christophe,33,Crédit Agricole,14,2003,-
+28.0,153.0,29.0,34,Botcharov Alexandre,34,AG2R Prévoyance,14,2003,-
+27.0,31.0,28.0,32,Mancebo Francisco,35,iBanesto.com,14,2003,▼3
+25.0,16.0,28.0,35,Nozal Isidro,36,O.N.C.E. - Eroski,14,2003,▼1
+24.0,158.0,25.0,37,Portal Nicolas,37,AG2R Prévoyance,14,2003,-
+24.0,217.0,25.0,38,Krivtsov Yuriy,38,Jean Delatour,14,2003,-
+31.0,51.0,24.0,,Simoni Gilberto,39,Saeco,14,2003,-
+32.0,198.0,24.0,39,Totschnig Georg,40,Gerolsteiner,14,2003,▼1
+26.0,61.0,24.0,40,Millar David,41,Cofidis,14,2003,▼1
+34.0,63.0,24.0,41,Cuesta Iñigo,42,Cofidis,14,2003,▼1
+35.0,151.0,23.0,42,Brochard Laurent,43,AG2R Prévoyance,14,2003,▼1
+30.0,182.0,23.0,63,Bénéteau Walter,44,Brioches La Boulangère,14,2003,▲19
+23.0,184.0,22.0,43,Geslin Anthony,45,Brioches La Boulangère,14,2003,▼2
+30.0,64.0,22.0,44,Gaumont Philippe,46,Cofidis,14,2003,▼2
+34.0,23.0,21.0,46,Aldag Rolf,47,Team Telekom,14,2003,▼1
+33.0,142.0,21.0,45,Baguet Serge,48,Lotto - Domo,14,2003,▼3
+28.0,78.0,20.0,47,Sastre Carlos,49,CSC ProTeam,14,2003,▼2
+26.0,112.0,18.0,48,Bodrogi László,50,Quickstep - Davitamon,14,2003,▼2
+26.0,215.0,18.0,49,Finot Frédéric,51,Jean Delatour,14,2003,▼2
+30.0,33.0,18.0,50,Garcia José Vicente,52,iBanesto.com,14,2003,▼2
+26.0,172.0,16.0,52,Artetxe Mikel,53,Euskaltel - Euskadi,14,2003,▼1
+24.0,183.0,15.0,53,Chavanel Sylvain,54,Brioches La Boulangère,14,2003,▼1
+31.0,76.0,14.0,92,Peron Andrea,55,CSC ProTeam,14,2003,▲37
+27.0,35.0,14.0,56,Lastras Pablo,56,iBanesto.com,14,2003,-
+24.0,155.0,13.0,57,Flickinger Andy,57,AG2R Prévoyance,14,2003,-
+28.0,17.0,13.0,58,Pradera Mikel,58,O.N.C.E. - Eroski,14,2003,-
+30.0,133.0,12.0,59,Casero Ángel Luis,59,Team Bianchi,14,2003,-
+34.0,175.0,12.0,60,Laiseka Roberto,60,Euskaltel - Euskadi,14,2003,-
+29.0,188.0,12.0,61,Renier Franck,61,Brioches La Boulangère,14,2003,-
+29.0,102.0,10.0,54,Gutiérrez José Enrique,62,Kelme - Costa Blanca,14,2003,▼8
+34.0,97.0,10.0,67,Mengin Christophe,63,Fdjeux.com,14,2003,▲4
+31.0,148.0,10.0,64,van Bon Léon,64,Lotto - Domo,14,2003,-
+25.0,37.0,9.0,65,Mercado Juan Miguel,65,iBanesto.com,14,2003,-
+23.0,214.0,9.0,66,Edaleine Christophe,66,Jean Delatour,14,2003,-
+25.0,36.0,7.0,68,Menchov Denis,67,iBanesto.com,14,2003,▲1
+26.0,62.0,7.0,69,Clain Médéric,68,Cofidis,14,2003,▲1
+34.0,137.0,7.0,70,Liese Thomas,69,Team Bianchi,14,2003,▲1
+27.0,163.0,7.0,62,Bossoni Paolo,70,Vini Calderola - So.di,14,2003,▼8
+30.0,146.0,6.0,71,Merckx Axel,71,Lotto - Domo,14,2003,-
+23.0,187.0,6.0,72,Pineau Jérôme,72,Brioches La Boulangère,14,2003,-
+29.0,8.0,6.0,73,Peña Victor Hugo,73,US Postal Service,14,2003,-
+30.0,73.0,6.0,74,Jalabert Nicolas,74,CSC ProTeam,14,2003,-
+22.0,213.0,6.0,75,Dumoulin Samuel,75,Jean Delatour,14,2003,-
+32.0,181.0,5.0,77,Rous Didier,76,Brioches La Boulangère,14,2003,▲1
+29.0,2.0,5.0,76,Heras Roberto,77,US Postal Service,14,2003,▼1
+23.0,152.0,5.0,78,Astarloza Mikel,78,AG2R Prévoyance,14,2003,-
+29.0,199.0,5.0,79,Zberg Markus,79,Gerolsteiner,14,2003,-
+34.0,194.0,5.0,80,Peschel Uwe,80,Gerolsteiner,14,2003,-
+26.0,15.0,4.0,81,Jaksche Jörg,81,O.N.C.E. - Eroski,14,2003,-
+30.0,154.0,3.0,83,Chaurreau Íñigo,82,AG2R Prévoyance,14,2003,▲1
+26.0,169.0,3.0,,Zampieri Steve,83,Vini Calderola - So.di,14,2003,-
+30.0,21.0,3.0,84,Botero Santiago,84,Team Telekom,14,2003,-
+33.0,138.0,2.0,85,Plaza David,85,Team Bianchi,14,2003,-
+30.0,27.0,2.0,,Nardello Daniele,86,Team Telekom,14,2003,-
+26.0,176.0,2.0,89,Landaluze Iñigo,87,Euskaltel - Euskadi,14,2003,▲2
+26.0,128.0,2.0,86,Poilvet Benoît,88,Crédit Agricole,14,2003,▼2
+28.0,159.0,2.0,88,Turpin Ludovic,89,AG2R Prévoyance,14,2003,▼1
+31.0,177.0,2.0,87,López de Munain Alberto,90,Euskaltel - Euskadi,14,2003,▼3
+31.0,203.0,2.0,90,Bertolini Alessandro,91,Alessio,14,2003,▼1
+37.0,4.0,1.0,91,Ekimov Viatcheslav,92,US Postal Service,14,2003,▼1
+28.0,83.0,1.0,93,Cioni Dario David,93,Fassa Bortolo,14,2003,-
+24.0,93.0,156.0,1,Cooke Baden,1,Fdjeux.com,15,2003,-
+31.0,141.0,148.0,2,McEwen Robbie,2,Lotto - Domo,15,2003,-
+25.0,125.0,134.0,3,Hushovd Thor,3,Crédit Agricole,15,2003,-
+33.0,29.0,126.0,4,Zabel Erik,4,Team Telekom,15,2003,-
+29.0,127.0,122.0,5,O'Grady Stuart,5,Crédit Agricole,15,2003,-
+26.0,219.0,111.0,6,Nazon Jean-Patrick,6,Jean Delatour,15,2003,-
+26.0,116.0,106.0,7,Paolini Luca,7,Quickstep - Davitamon,15,2003,-
+29.0,131.0,98.0,8,Ullrich Jan,8,Team Bianchi,15,2003,-
+29.0,28.0,91.0,9,Vinokourov Alexandre,9,Team Telekom,15,2003,-
+31.0,1.0,,16*,Armstrong Lance,10*,US Postal Service,15,2003,-
+27.0,44.0,83.0,10,Freire Óscar,11,Rabobank ProTeam,15,2003,▼1
+29.0,186.0,82.0,11,Nazon Damien,12,Brioches La Boulangère,15,2003,▼1
+30.0,168.0,81.0,12,Vainšteins Romāns,13,Vini Calderola - So.di,15,2003,▼1
+29.0,111.0,76.0,13,Bettini Paolo,14,Quickstep - Davitamon,15,2003,▼1
+26.0,179.0,73.0,19,Zubeldia Haimar,15,Euskaltel - Euskadi,15,2003,▲4
+31.0,136.0,72.0,14,Guidi Fabrizio,16,Team Bianchi,15,2003,▼2
+25.0,171.0,69.0,20,Mayo Iban,17,Euskaltel - Euskadi,15,2003,▲3
+28.0,56.0,63.0,17,Glomser Gerrit,18,Saeco,15,2003,▼1
+28.0,43.0,62.0,18,de Groot Bram,19,Rabobank ProTeam,15,2003,▼1
+28.0,94.0,51.0,21,Da Cruz Carlos,20,Fdjeux.com,15,2003,▲1
+25.0,81.0,44.0,29,Basso Ivan,21,Fassa Bortolo,15,2003,▲8
+27.0,96.0,43.0,22,McGee Bradley,22,Fdjeux.com,15,2003,-
+32.0,121.0,43.0,33,Moreau Christophe,23,Crédit Agricole,15,2003,▲10
+33.0,119.0,42.0,23,Virenque Richard,24,Quickstep - Davitamon,15,2003,▼1
+30.0,77.0,41.0,24,Piil Jakob Storm,25,CSC ProTeam,15,2003,▼1
+32.0,71.0,41.0,30,Hamilton Tyler,26,CSC ProTeam,15,2003,▲4
+28.0,53.0,38.0,25,Commesso Salvatore,27,Saeco,15,2003,▼2
+34.0,201.0,37.0,26,Dufaux Laurent,28,Alessio,15,2003,▼2
+23.0,117.0,37.0,27,Rogers Michael,29,Quickstep - Davitamon,15,2003,▼2
+25.0,32.0,35.0,28,Flecha Juan Antonio,30,iBanesto.com,15,2003,▼2
+24.0,183.0,33.0,54,Chavanel Sylvain,31,Brioches La Boulangère,15,2003,▲23
+29.0,58.0,32.0,31,Sacchi Fabio,32,Saeco,15,2003,▼1
+29.0,124.0,32.0,32,Hinault Sébastien,33,Crédit Agricole,15,2003,▼1
+28.0,153.0,29.0,34,Botcharov Alexandre,34,AG2R Prévoyance,15,2003,-
+27.0,31.0,28.0,35,Mancebo Francisco,35,iBanesto.com,15,2003,-
+25.0,16.0,28.0,36,Nozal Isidro,36,O.N.C.E. - Eroski,15,2003,-
+32.0,198.0,26.0,40,Totschnig Georg,37,Gerolsteiner,15,2003,▲3
+28.0,78.0,25.0,49,Sastre Carlos,38,CSC ProTeam,15,2003,▲11
+24.0,158.0,25.0,37,Portal Nicolas,39,AG2R Prévoyance,15,2003,▼2
+24.0,217.0,25.0,38,Krivtsov Yuriy,40,Jean Delatour,15,2003,▼2
+31.0,51.0,24.0,39,Simoni Gilberto,41,Saeco,15,2003,▼2
+26.0,61.0,24.0,41,Millar David,42,Cofidis,15,2003,▼1
+34.0,63.0,24.0,42,Cuesta Iñigo,43,Cofidis,15,2003,▼1
+35.0,151.0,23.0,43,Brochard Laurent,44,AG2R Prévoyance,15,2003,▼1
+30.0,182.0,23.0,44,Bénéteau Walter,45,Brioches La Boulangère,15,2003,▼1
+23.0,184.0,22.0,45,Geslin Anthony,46,Brioches La Boulangère,15,2003,▼1
+30.0,64.0,22.0,46,Gaumont Philippe,47,Cofidis,15,2003,▼1
+34.0,23.0,21.0,47,Aldag Rolf,48,Team Telekom,15,2003,▼1
+33.0,142.0,21.0,48,Baguet Serge,49,Lotto - Domo,15,2003,▼1
+26.0,112.0,18.0,50,Bodrogi László,50,Quickstep - Davitamon,15,2003,-
+26.0,215.0,18.0,51,Finot Frédéric,51,Jean Delatour,15,2003,-
+30.0,33.0,18.0,52,Garcia José Vicente,52,iBanesto.com,15,2003,-
+26.0,172.0,16.0,53,Artetxe Mikel,53,Euskaltel - Euskadi,15,2003,-
+34.0,175.0,15.0,60,Laiseka Roberto,54,Euskaltel - Euskadi,15,2003,▲6
+27.0,35.0,14.0,56,Lastras Pablo,55,iBanesto.com,15,2003,▲1
+31.0,76.0,14.0,55,Peron Andrea,56,CSC ProTeam,15,2003,▼1
+24.0,155.0,13.0,57,Flickinger Andy,57,AG2R Prévoyance,15,2003,-
+28.0,17.0,13.0,58,Pradera Mikel,58,O.N.C.E. - Eroski,15,2003,-
+30.0,133.0,12.0,59,Casero Ángel Luis,59,Team Bianchi,15,2003,-
+29.0,188.0,12.0,61,Renier Franck,60,Brioches La Boulangère,15,2003,▲1
+25.0,36.0,11.0,67,Menchov Denis,61,iBanesto.com,15,2003,▲6
+30.0,21.0,11.0,84,Botero Santiago,62,Team Telekom,15,2003,▲22
+29.0,102.0,10.0,62,Gutiérrez José Enrique,63,Kelme - Costa Blanca,15,2003,▼1
+34.0,97.0,10.0,63,Mengin Christophe,64,Fdjeux.com,15,2003,▼1
+31.0,148.0,10.0,64,van Bon Léon,65,Lotto - Domo,15,2003,▼1
+25.0,37.0,9.0,65,Mercado Juan Miguel,66,iBanesto.com,15,2003,▼1
+23.0,214.0,9.0,66,Edaleine Christophe,67,Jean Delatour,15,2003,▼1
+30.0,9.0,7.0,,Rubiera José Luis,68,US Postal Service,15,2003,-
+34.0,137.0,7.0,69,Liese Thomas,69,Team Bianchi,15,2003,-
+27.0,163.0,7.0,70,Bossoni Paolo,70,Vini Calderola - So.di,15,2003,-
+23.0,187.0,6.0,72,Pineau Jérôme,71,Brioches La Boulangère,15,2003,▲1
+29.0,8.0,6.0,73,Peña Victor Hugo,72,US Postal Service,15,2003,▲1
+30.0,73.0,6.0,74,Jalabert Nicolas,73,CSC ProTeam,15,2003,▲1
+22.0,213.0,6.0,75,Dumoulin Samuel,74,Jean Delatour,15,2003,▲1
+32.0,181.0,5.0,76,Rous Didier,75,Brioches La Boulangère,15,2003,▲1
+23.0,152.0,5.0,78,Astarloza Mikel,76,AG2R Prévoyance,15,2003,▲2
+30.0,154.0,5.0,82,Chaurreau Íñigo,77,AG2R Prévoyance,15,2003,▲5
+29.0,2.0,5.0,77,Heras Roberto,78,US Postal Service,15,2003,▼1
+29.0,199.0,5.0,79,Zberg Markus,79,Gerolsteiner,15,2003,-
+34.0,194.0,5.0,80,Peschel Uwe,80,Gerolsteiner,15,2003,-
+26.0,15.0,4.0,81,Jaksche Jörg,81,O.N.C.E. - Eroski,15,2003,-
+26.0,169.0,3.0,83,Zampieri Steve,82,Vini Calderola - So.di,15,2003,▲1
+33.0,138.0,2.0,85,Plaza David,83,Team Bianchi,15,2003,▲2
+30.0,27.0,2.0,86,Nardello Daniele,84,Team Telekom,15,2003,▲2
+31.0,177.0,2.0,90,López de Munain Alberto,85,Euskaltel - Euskadi,15,2003,▲5
+26.0,176.0,2.0,87,Landaluze Iñigo,86,Euskaltel - Euskadi,15,2003,▲1
+26.0,128.0,2.0,88,Poilvet Benoît,87,Crédit Agricole,15,2003,▲1
+28.0,159.0,2.0,89,Turpin Ludovic,88,AG2R Prévoyance,15,2003,▲1
+26.0,62.0,2.0,68,Clain Médéric,89,Cofidis,15,2003,▼21
+31.0,203.0,2.0,91,Bertolini Alessandro,90,Alessio,15,2003,▲1
+32.0,3.0,1.0,,Beltrán Manuel,91,US Postal Service,15,2003,-
+37.0,4.0,1.0,92,Ekimov Viatcheslav,92,US Postal Service,15,2003,-
+28.0,83.0,1.0,93,Cioni Dario David,93,Fassa Bortolo,15,2003,-
+24.0,93.0,156.0,1,Cooke Baden,1,Fdjeux.com,16,2003,-
+31.0,141.0,148.0,2,McEwen Robbie,2,Lotto - Domo,16,2003,-
+33.0,29.0,143.0,4,Zabel Erik,3,Team Telekom,16,2003,▲1
+25.0,125.0,134.0,3,Hushovd Thor,4,Crédit Agricole,16,2003,▼1
+29.0,127.0,128.0,5,O'Grady Stuart,5,Crédit Agricole,16,2003,-
+26.0,116.0,119.0,7,Paolini Luca,6,Quickstep - Davitamon,16,2003,▲1
+26.0,219.0,111.0,6,Nazon Jean-Patrick,7,Jean Delatour,16,2003,▼1
+29.0,131.0,98.0,8,Ullrich Jan,8,Team Bianchi,16,2003,-
+29.0,28.0,91.0,9,Vinokourov Alexandre,9,Team Telekom,16,2003,-
+31.0,1.0,,10*,Armstrong Lance,10*,US Postal Service,16,2003,-
+27.0,44.0,83.0,11,Freire Óscar,11,Rabobank ProTeam,16,2003,-
+29.0,186.0,82.0,12,Nazon Damien,12,Brioches La Boulangère,16,2003,-
+30.0,168.0,81.0,13,Vainšteins Romāns,13,Vini Calderola - So.di,16,2003,-
+31.0,136.0,79.0,16,Guidi Fabrizio,14,Team Bianchi,16,2003,▲2
+29.0,111.0,76.0,14,Bettini Paolo,15,Quickstep - Davitamon,16,2003,▼1
+28.0,56.0,75.0,18,Glomser Gerrit,16,Saeco,16,2003,▲2
+32.0,71.0,73.0,26,Hamilton Tyler,17,CSC ProTeam,16,2003,▲9
+26.0,179.0,73.0,15,Zubeldia Haimar,18,Euskaltel - Euskadi,16,2003,▼3
+28.0,43.0,72.0,19,de Groot Bram,19,Rabobank ProTeam,16,2003,-
+25.0,171.0,69.0,17,Mayo Iban,20,Euskaltel - Euskadi,16,2003,▼3
+28.0,94.0,51.0,20,Da Cruz Carlos,21,Fdjeux.com,16,2003,▼1
+25.0,81.0,44.0,21,Basso Ivan,22,Fassa Bortolo,16,2003,▼1
+27.0,96.0,43.0,22,McGee Bradley,23,Fdjeux.com,16,2003,▼1
+32.0,121.0,43.0,23,Moreau Christophe,24,Crédit Agricole,16,2003,▼1
+33.0,119.0,42.0,24,Virenque Richard,25,Quickstep - Davitamon,16,2003,▼1
+30.0,77.0,41.0,25,Piil Jakob Storm,26,CSC ProTeam,16,2003,▼1
+28.0,53.0,41.0,27,Commesso Salvatore,27,Saeco,16,2003,-
+24.0,217.0,40.0,40,Krivtsov Yuriy,28,Jean Delatour,16,2003,▲12
+34.0,201.0,37.0,28,Dufaux Laurent,29,Alessio,16,2003,▼1
+23.0,117.0,37.0,29,Rogers Michael,30,Quickstep - Davitamon,16,2003,▼1
+25.0,32.0,35.0,30,Flecha Juan Antonio,31,iBanesto.com,16,2003,▼1
+24.0,183.0,33.0,31,Chavanel Sylvain,32,Brioches La Boulangère,16,2003,▼1
+29.0,58.0,32.0,32,Sacchi Fabio,33,Saeco,16,2003,▼1
+29.0,124.0,32.0,33,Hinault Sébastien,34,Crédit Agricole,16,2003,▼1
+28.0,153.0,29.0,34,Botcharov Alexandre,35,AG2R Prévoyance,16,2003,▼1
+27.0,31.0,28.0,35,Mancebo Francisco,36,iBanesto.com,16,2003,▼1
+25.0,16.0,28.0,36,Nozal Isidro,37,O.N.C.E. - Eroski,16,2003,▼1
+24.0,158.0,27.0,39,Portal Nicolas,38,AG2R Prévoyance,16,2003,▲1
+32.0,198.0,26.0,37,Totschnig Georg,39,Gerolsteiner,16,2003,▼2
+28.0,78.0,25.0,38,Sastre Carlos,40,CSC ProTeam,16,2003,▼2
+31.0,51.0,24.0,41,Simoni Gilberto,41,Saeco,16,2003,-
+26.0,61.0,24.0,42,Millar David,42,Cofidis,16,2003,-
+34.0,63.0,24.0,43,Cuesta Iñigo,43,Cofidis,16,2003,-
+35.0,151.0,23.0,44,Brochard Laurent,44,AG2R Prévoyance,16,2003,-
+30.0,182.0,23.0,45,Bénéteau Walter,45,Brioches La Boulangère,16,2003,-
+23.0,184.0,22.0,46,Geslin Anthony,46,Brioches La Boulangère,16,2003,-
+33.0,142.0,22.0,49,Baguet Serge,47,Lotto - Domo,16,2003,▲2
+30.0,64.0,22.0,47,Gaumont Philippe,48,Cofidis,16,2003,▼1
+34.0,23.0,21.0,48,Aldag Rolf,49,Team Telekom,16,2003,▼1
+26.0,112.0,18.0,50,Bodrogi László,50,Quickstep - Davitamon,16,2003,-
+26.0,215.0,18.0,51,Finot Frédéric,51,Jean Delatour,16,2003,-
+30.0,33.0,18.0,52,Garcia José Vicente,52,iBanesto.com,16,2003,-
+24.0,155.0,17.0,57,Flickinger Andy,53,AG2R Prévoyance,16,2003,▲4
+26.0,172.0,16.0,53,Artetxe Mikel,54,Euskaltel - Euskadi,16,2003,▼1
+34.0,175.0,15.0,54,Laiseka Roberto,55,Euskaltel - Euskadi,16,2003,▼1
+34.0,97.0,15.0,64,Mengin Christophe,56,Fdjeux.com,16,2003,▲8
+31.0,76.0,14.0,56,Peron Andrea,57,CSC ProTeam,16,2003,▼1
+27.0,35.0,14.0,55,Lastras Pablo,58,iBanesto.com,16,2003,▼3
+29.0,199.0,14.0,79,Zberg Markus,59,Gerolsteiner,16,2003,▲20
+28.0,17.0,13.0,58,Pradera Mikel,60,O.N.C.E. - Eroski,16,2003,▼2
+30.0,133.0,12.0,59,Casero Ángel Luis,61,Team Bianchi,16,2003,▼2
+29.0,188.0,12.0,60,Renier Franck,62,Brioches La Boulangère,16,2003,▼2
+25.0,36.0,11.0,61,Menchov Denis,63,iBanesto.com,16,2003,▼2
+30.0,21.0,11.0,62,Botero Santiago,64,Team Telekom,16,2003,▼2
+29.0,102.0,10.0,63,Gutiérrez José Enrique,65,Kelme - Costa Blanca,16,2003,▼2
+31.0,148.0,10.0,65,van Bon Léon,66,Lotto - Domo,16,2003,▼1
+25.0,37.0,9.0,66,Mercado Juan Miguel,67,iBanesto.com,16,2003,▼1
+23.0,214.0,9.0,67,Edaleine Christophe,68,Jean Delatour,16,2003,▼1
+24.0,91.0,8.0,,Casar Sandy,69,Fdjeux.com,16,2003,-
+30.0,9.0,7.0,68,Rubiera José Luis,70,US Postal Service,16,2003,▼2
+34.0,137.0,7.0,69,Liese Thomas,71,Team Bianchi,16,2003,▼2
+27.0,163.0,7.0,70,Bossoni Paolo,72,Vini Calderola - So.di,16,2003,▼2
+23.0,187.0,6.0,71,Pineau Jérôme,73,Brioches La Boulangère,16,2003,▼2
+29.0,8.0,6.0,72,Peña Victor Hugo,74,US Postal Service,16,2003,▼2
+30.0,73.0,6.0,73,Jalabert Nicolas,75,CSC ProTeam,16,2003,▼2
+22.0,213.0,6.0,74,Dumoulin Samuel,76,Jean Delatour,16,2003,▼2
+32.0,181.0,5.0,75,Rous Didier,77,Brioches La Boulangère,16,2003,▼2
+23.0,152.0,5.0,76,Astarloza Mikel,78,AG2R Prévoyance,16,2003,▼2
+30.0,154.0,5.0,77,Chaurreau Íñigo,79,AG2R Prévoyance,16,2003,▼2
+29.0,2.0,5.0,78,Heras Roberto,80,US Postal Service,16,2003,▼2
+34.0,194.0,5.0,80,Peschel Uwe,81,Gerolsteiner,16,2003,▼1
+27.0,15.0,4.0,81,Jaksche Jörg,82,O.N.C.E. - Eroski,16,2003,▼1
+35.0,65.0,4.0,,Lelli Massimiliano,83,Cofidis,16,2003,-
+29.0,207.0,4.0,,Miholjević Vladimir,84,Alessio,16,2003,-
+28.0,159.0,4.0,88,Turpin Ludovic,85,AG2R Prévoyance,16,2003,▲3
+33.0,138.0,2.0,83,Plaza David,86,Team Bianchi,16,2003,▼3
+30.0,27.0,2.0,84,Nardello Daniele,87,Team Telekom,16,2003,▼3
+31.0,177.0,2.0,85,López de Munain Alberto,88,Euskaltel - Euskadi,16,2003,▼3
+26.0,176.0,2.0,86,Landaluze Iñigo,89,Euskaltel - Euskadi,16,2003,▼3
+26.0,128.0,2.0,87,Poilvet Benoît,90,Crédit Agricole,16,2003,▼3
+26.0,62.0,2.0,89,Clain Médéric,91,Cofidis,16,2003,▼2
+31.0,203.0,2.0,90,Bertolini Alessandro,92,Alessio,16,2003,▼2
+32.0,3.0,1.0,91,Beltrán Manuel,93,US Postal Service,16,2003,▼2
+37.0,4.0,1.0,92,Ekimov Viatcheslav,94,US Postal Service,16,2003,▼2
+28.0,83.0,1.0,93,Cioni Dario David,95,Fassa Bortolo,16,2003,▼2
+24.0,93.0,169.0,1,Cooke Baden,1,Fdjeux.com,17,2003,-
+31.0,141.0,163.0,2,McEwen Robbie,2,Lotto - Domo,17,2003,-
+33.0,29.0,157.0,3,Zabel Erik,3,Team Telekom,17,2003,-
+25.0,125.0,146.0,4,Hushovd Thor,4,Crédit Agricole,17,2003,-
+29.0,127.0,133.0,5,O'Grady Stuart,5,Crédit Agricole,17,2003,-
+26.0,116.0,126.0,6,Paolini Luca,6,Quickstep - Davitamon,17,2003,-
+26.0,219.0,119.0,7,Nazon Jean-Patrick,7,Jean Delatour,17,2003,-
+28.0,43.0,99.0,19,de Groot Bram,8,Rabobank ProTeam,17,2003,▲11
+29.0,131.0,98.0,8,Ullrich Jan,9,Team Bianchi,17,2003,▼1
+29.0,28.0,91.0,9,Vinokourov Alexandre,10,Team Telekom,17,2003,▼1
+29.0,186.0,91.0,12,Nazon Damien,11,Brioches La Boulangère,17,2003,▲1
+31.0,136.0,90.0,14,Guidi Fabrizio,12,Team Bianchi,17,2003,▲2
+28.0,56.0,85.0,16,Glomser Gerrit,13,Saeco,17,2003,▲3
+31.0,1.0,,10*,Armstrong Lance,14*,US Postal Service,17,2003,-
+27.0,44.0,83.0,11,Freire Óscar,15,Rabobank ProTeam,17,2003,▼4
+30.0,168.0,81.0,13,Vainšteins Romāns,16,Vini Calderola - So.di,17,2003,▼3
+29.0,111.0,76.0,15,Bettini Paolo,17,Quickstep - Davitamon,17,2003,▼2
+32.0,71.0,73.0,17,Hamilton Tyler,18,CSC ProTeam,17,2003,▼1
+26.0,179.0,73.0,18,Zubeldia Haimar,19,Euskaltel - Euskadi,17,2003,▼1
+25.0,171.0,69.0,20,Mayo Iban,20,Euskaltel - Euskadi,17,2003,-
+28.0,53.0,63.0,27,Commesso Salvatore,21,Saeco,17,2003,▲6
+28.0,94.0,51.0,21,Da Cruz Carlos,22,Fdjeux.com,17,2003,▼1
+27.0,96.0,47.0,23,McGee Bradley,23,Fdjeux.com,17,2003,-
+25.0,81.0,44.0,22,Basso Ivan,24,Fassa Bortolo,17,2003,▼2
+32.0,121.0,43.0,24,Moreau Christophe,25,Crédit Agricole,17,2003,▼1
+34.0,97.0,43.0,56,Mengin Christophe,26,Fdjeux.com,17,2003,▲30
+33.0,119.0,42.0,25,Virenque Richard,27,Quickstep - Davitamon,17,2003,▼2
+30.0,77.0,41.0,26,Piil Jakob Storm,28,CSC ProTeam,17,2003,▼2
+27.0,163.0,41.0,72,Bossoni Paolo,29,Vini Calderola - So.di,17,2003,▲43
+31.0,148.0,40.0,66,van Bon Léon,30,Lotto - Domo,17,2003,▲36
+24.0,217.0,40.0,28,Krivtsov Yuriy,31,Jean Delatour,17,2003,▼3
+30.0,33.0,38.0,52,Garcia José Vicente,32,iBanesto.com,17,2003,▲20
+32.0,115.0,37.0,,Knaven Servais,33,Quickstep - Davitamon,17,2003,-
+34.0,201.0,37.0,29,Dufaux Laurent,34,Alessio,17,2003,▼5
+23.0,117.0,37.0,30,Rogers Michael,35,Quickstep - Davitamon,17,2003,▼5
+25.0,32.0,35.0,31,Flecha Juan Antonio,36,iBanesto.com,17,2003,▼5
+24.0,183.0,33.0,32,Chavanel Sylvain,37,Brioches La Boulangère,17,2003,▼5
+29.0,58.0,32.0,33,Sacchi Fabio,38,Saeco,17,2003,▼5
+29.0,124.0,32.0,34,Hinault Sébastien,39,Crédit Agricole,17,2003,▼5
+28.0,153.0,29.0,35,Botcharov Alexandre,40,AG2R Prévoyance,17,2003,▼5
+27.0,31.0,28.0,36,Mancebo Francisco,41,iBanesto.com,17,2003,▼5
+25.0,16.0,28.0,37,Nozal Isidro,42,O.N.C.E. - Eroski,17,2003,▼5
+24.0,158.0,27.0,38,Portal Nicolas,43,AG2R Prévoyance,17,2003,▼5
+32.0,198.0,26.0,39,Totschnig Georg,44,Gerolsteiner,17,2003,▼5
+28.0,78.0,25.0,40,Sastre Carlos,45,CSC ProTeam,17,2003,▼5
+31.0,51.0,24.0,41,Simoni Gilberto,46,Saeco,17,2003,▼5
+26.0,61.0,24.0,42,Millar David,47,Cofidis,17,2003,▼5
+34.0,63.0,24.0,43,Cuesta Iñigo,48,Cofidis,17,2003,▼5
+24.0,155.0,23.0,53,Flickinger Andy,49,AG2R Prévoyance,17,2003,▲4
+35.0,151.0,23.0,44,Brochard Laurent,50,AG2R Prévoyance,17,2003,▼6
+30.0,182.0,23.0,45,Bénéteau Walter,51,Brioches La Boulangère,17,2003,▼6
+23.0,184.0,22.0,46,Geslin Anthony,52,Brioches La Boulangère,17,2003,▼6
+33.0,142.0,22.0,47,Baguet Serge,53,Lotto - Domo,17,2003,▼6
+34.0,23.0,22.0,49,Aldag Rolf,54,Team Telekom,17,2003,▼5
+30.0,64.0,22.0,48,Gaumont Philippe,55,Cofidis,17,2003,▼7
+26.0,62.0,20.0,91,Clain Médéric,56,Cofidis,17,2003,▲35
+30.0,75.0,19.0,,Luttenberger Peter,57,CSC ProTeam,17,2003,-
+26.0,112.0,18.0,50,Bodrogi László,58,Quickstep - Davitamon,17,2003,▼8
+26.0,215.0,18.0,51,Finot Frédéric,59,Jean Delatour,17,2003,▼8
+26.0,172.0,16.0,54,Artetxe Mikel,60,Euskaltel - Euskadi,17,2003,▼6
+34.0,175.0,15.0,55,Laiseka Roberto,61,Euskaltel - Euskadi,17,2003,▼6
+31.0,76.0,14.0,57,Peron Andrea,62,CSC ProTeam,17,2003,▼5
+27.0,35.0,14.0,58,Lastras Pablo,63,iBanesto.com,17,2003,▼5
+29.0,199.0,14.0,59,Zberg Markus,64,Gerolsteiner,17,2003,▼5
+27.0,106.0,13.0,,Parra Iván Ramiro,65,Kelme - Costa Blanca,17,2003,-
+28.0,17.0,13.0,60,Pradera Mikel,66,O.N.C.E. - Eroski,17,2003,▼6
+30.0,133.0,12.0,61,Casero Ángel Luis,67,Team Bianchi,17,2003,▼6
+29.0,102.0,12.0,65,Gutiérrez José Enrique,68,Kelme - Costa Blanca,17,2003,▼3
+29.0,188.0,12.0,62,Renier Franck,69,Brioches La Boulangère,17,2003,▼7
+25.0,36.0,11.0,63,Menchov Denis,70,iBanesto.com,17,2003,▼7
+30.0,21.0,11.0,64,Botero Santiago,71,Team Telekom,17,2003,▼7
+24.0,91.0,11.0,69,Casar Sandy,72,Fdjeux.com,17,2003,▼3
+25.0,37.0,9.0,67,Mercado Juan Miguel,73,iBanesto.com,17,2003,▼6
+23.0,214.0,9.0,68,Edaleine Christophe,74,Jean Delatour,17,2003,▼6
+30.0,9.0,7.0,70,Rubiera José Luis,75,US Postal Service,17,2003,▼5
+34.0,137.0,7.0,71,Liese Thomas,76,Team Bianchi,17,2003,▼5
+23.0,187.0,6.0,73,Pineau Jérôme,77,Brioches La Boulangère,17,2003,▼4
+29.0,8.0,6.0,74,Peña Victor Hugo,78,US Postal Service,17,2003,▼4
+30.0,73.0,6.0,75,Jalabert Nicolas,79,CSC ProTeam,17,2003,▼4
+22.0,213.0,6.0,76,Dumoulin Samuel,80,Jean Delatour,17,2003,▼4
+32.0,181.0,5.0,77,Rous Didier,81,Brioches La Boulangère,17,2003,▼4
+23.0,152.0,5.0,78,Astarloza Mikel,82,AG2R Prévoyance,17,2003,▼4
+30.0,154.0,5.0,79,Chaurreau Íñigo,83,AG2R Prévoyance,17,2003,▼4
+29.0,2.0,5.0,80,Heras Roberto,84,US Postal Service,17,2003,▼4
+34.0,194.0,5.0,81,Peschel Uwe,85,Gerolsteiner,17,2003,▼4
+27.0,15.0,4.0,82,Jaksche Jörg,86,O.N.C.E. - Eroski,17,2003,▼4
+35.0,65.0,4.0,83,Lelli Massimiliano,87,Cofidis,17,2003,▼4
+29.0,207.0,4.0,84,Miholjević Vladimir,88,Alessio,17,2003,▼4
+28.0,159.0,4.0,85,Turpin Ludovic,89,AG2R Prévoyance,17,2003,▼4
+33.0,138.0,2.0,86,Plaza David,90,Team Bianchi,17,2003,▼4
+30.0,27.0,2.0,87,Nardello Daniele,91,Team Telekom,17,2003,▼4
+31.0,177.0,2.0,88,López de Munain Alberto,92,Euskaltel - Euskadi,17,2003,▼4
+26.0,176.0,2.0,89,Landaluze Iñigo,93,Euskaltel - Euskadi,17,2003,▼4
+26.0,128.0,2.0,90,Poilvet Benoît,94,Crédit Agricole,17,2003,▼4
+31.0,203.0,2.0,92,Bertolini Alessandro,95,Alessio,17,2003,▼3
+32.0,3.0,1.0,93,Beltrán Manuel,96,US Postal Service,17,2003,▼3
+37.0,4.0,1.0,94,Ekimov Viatcheslav,97,US Postal Service,17,2003,▼3
+28.0,83.0,1.0,95,Cioni Dario David,98,Fassa Bortolo,17,2003,▼3
+31.0,141.0,178.0,2,McEwen Robbie,1,Lotto - Domo,18,2003,▲1
+24.0,93.0,176.0,1,Cooke Baden,2,Fdjeux.com,18,2003,▼1
+33.0,29.0,165.0,3,Zabel Erik,3,Team Telekom,18,2003,-
+25.0,125.0,151.0,4,Hushovd Thor,4,Crédit Agricole,18,2003,-
+29.0,127.0,133.0,5,O'Grady Stuart,5,Crédit Agricole,18,2003,-
+26.0,116.0,132.0,6,Paolini Luca,6,Quickstep - Davitamon,18,2003,-
+26.0,219.0,119.0,7,Nazon Jean-Patrick,7,Jean Delatour,18,2003,-
+31.0,136.0,107.0,12,Guidi Fabrizio,8,Team Bianchi,18,2003,▲4
+29.0,131.0,104.0,9,Ullrich Jan,9,Team Bianchi,18,2003,-
+28.0,43.0,99.0,8,de Groot Bram,10,Rabobank ProTeam,18,2003,▼2
+29.0,28.0,91.0,10,Vinokourov Alexandre,11,Team Telekom,18,2003,▼1
+29.0,186.0,91.0,11,Nazon Damien,12,Brioches La Boulangère,18,2003,▼1
+31.0,1.0,,14*,Armstrong Lance,13*,US Postal Service,18,2003,-
+28.0,56.0,85.0,13,Glomser Gerrit,14,Saeco,18,2003,▼1
+27.0,44.0,83.0,15,Freire Óscar,15,Rabobank ProTeam,18,2003,-
+28.0,94.0,81.0,22,Da Cruz Carlos,16,Fdjeux.com,18,2003,▲6
+30.0,168.0,81.0,16,Vainšteins Romāns,17,Vini Calderola - So.di,18,2003,▼1
+29.0,111.0,76.0,17,Bettini Paolo,18,Quickstep - Davitamon,18,2003,▼1
+32.0,71.0,73.0,18,Hamilton Tyler,19,CSC ProTeam,18,2003,▼1
+26.0,179.0,73.0,19,Zubeldia Haimar,20,Euskaltel - Euskadi,18,2003,▼1
+25.0,171.0,69.0,20,Mayo Iban,21,Euskaltel - Euskadi,18,2003,▼1
+28.0,53.0,63.0,21,Commesso Salvatore,22,Saeco,18,2003,▼1
+27.0,35.0,49.0,63,Lastras Pablo,23,iBanesto.com,18,2003,▲40
+24.0,155.0,49.0,49,Flickinger Andy,24,AG2R Prévoyance,18,2003,▲25
+27.0,96.0,47.0,23,McGee Bradley,25,Fdjeux.com,18,2003,▼2
+25.0,81.0,44.0,24,Basso Ivan,26,Fassa Bortolo,18,2003,▼2
+32.0,121.0,43.0,25,Moreau Christophe,27,Crédit Agricole,18,2003,▼2
+34.0,97.0,43.0,26,Mengin Christophe,28,Fdjeux.com,18,2003,▼2
+33.0,119.0,42.0,27,Virenque Richard,29,Quickstep - Davitamon,18,2003,▼2
+30.0,77.0,41.0,28,Piil Jakob Storm,30,CSC ProTeam,18,2003,▼2
+27.0,163.0,41.0,29,Bossoni Paolo,31,Vini Calderola - So.di,18,2003,▼2
+31.0,148.0,40.0,30,van Bon Léon,32,Lotto - Domo,18,2003,▼2
+24.0,217.0,40.0,31,Krivtsov Yuriy,33,Jean Delatour,18,2003,▼2
+30.0,33.0,38.0,32,Garcia José Vicente,34,iBanesto.com,18,2003,▼2
+32.0,115.0,37.0,33,Knaven Servais,35,Quickstep - Davitamon,18,2003,▼2
+34.0,201.0,37.0,34,Dufaux Laurent,36,Alessio,18,2003,▼2
+23.0,117.0,37.0,35,Rogers Michael,37,Quickstep - Davitamon,18,2003,▼2
+25.0,32.0,35.0,36,Flecha Juan Antonio,38,iBanesto.com,18,2003,▼2
+29.0,124.0,35.0,39,Hinault Sébastien,39,Crédit Agricole,18,2003,-
+24.0,183.0,33.0,37,Chavanel Sylvain,40,Brioches La Boulangère,18,2003,▼3
+29.0,58.0,32.0,38,Sacchi Fabio,41,Saeco,18,2003,▼3
+28.0,153.0,29.0,40,Botcharov Alexandre,42,AG2R Prévoyance,18,2003,▼2
+27.0,31.0,28.0,41,Mancebo Francisco,43,iBanesto.com,18,2003,▼2
+30.0,27.0,28.0,91,Nardello Daniele,44,Team Telekom,18,2003,▲47
+25.0,16.0,28.0,42,Nozal Isidro,45,O.N.C.E. - Eroski,18,2003,▼3
+24.0,158.0,27.0,43,Portal Nicolas,46,AG2R Prévoyance,18,2003,▼3
+32.0,198.0,26.0,44,Totschnig Georg,47,Gerolsteiner,18,2003,▼3
+35.0,65.0,26.0,87,Lelli Massimiliano,48,Cofidis,18,2003,▲39
+28.0,78.0,25.0,45,Sastre Carlos,49,CSC ProTeam,18,2003,▼4
+28.0,17.0,25.0,66,Pradera Mikel,50,O.N.C.E. - Eroski,18,2003,▲16
+31.0,51.0,24.0,46,Simoni Gilberto,51,Saeco,18,2003,▼5
+31.0,76.0,24.0,62,Peron Andrea,52,CSC ProTeam,18,2003,▲10
+28.0,114.0,24.0,,Cañada David,53,Quickstep - Davitamon,18,2003,-
+26.0,61.0,24.0,47,Millar David,54,Cofidis,18,2003,▼7
+34.0,63.0,24.0,48,Cuesta Iñigo,55,Cofidis,18,2003,▼7
+35.0,151.0,23.0,50,Brochard Laurent,56,AG2R Prévoyance,18,2003,▼6
+30.0,182.0,23.0,51,Bénéteau Walter,57,Brioches La Boulangère,18,2003,▼6
+23.0,184.0,22.0,52,Geslin Anthony,58,Brioches La Boulangère,18,2003,▼6
+33.0,142.0,22.0,53,Baguet Serge,59,Lotto - Domo,18,2003,▼6
+34.0,23.0,22.0,54,Aldag Rolf,60,Team Telekom,18,2003,▼6
+30.0,64.0,22.0,55,Gaumont Philippe,61,Cofidis,18,2003,▼6
+24.0,189.0,21.0,,Voeckler Thomas,62,Brioches La Boulangère,18,2003,-
+29.0,207.0,20.0,88,Miholjević Vladimir,63,Alessio,18,2003,▲25
+26.0,62.0,20.0,56,Clain Médéric,64,Cofidis,18,2003,▼8
+30.0,75.0,19.0,57,Luttenberger Peter,65,CSC ProTeam,18,2003,▼8
+35.0,113.0,19.0,,Bramati Davide,66,Quickstep - Davitamon,18,2003,-
+26.0,112.0,18.0,58,Bodrogi László,67,Quickstep - Davitamon,18,2003,▼9
+26.0,215.0,18.0,59,Finot Frédéric,68,Jean Delatour,18,2003,▼9
+32.0,55.0,18.0,,Fornaciari Paolo,69,Saeco,18,2003,-
+26.0,172.0,16.0,60,Artetxe Mikel,70,Euskaltel - Euskadi,18,2003,▼10
+34.0,175.0,15.0,61,Laiseka Roberto,71,Euskaltel - Euskadi,18,2003,▼10
+32.0,107.0,14.0,,Pascual Javier,72,Kelme - Costa Blanca,18,2003,-
+29.0,199.0,14.0,64,Zberg Markus,73,Gerolsteiner,18,2003,▼9
+27.0,106.0,13.0,65,Parra Iván Ramiro,74,Kelme - Costa Blanca,18,2003,▼9
+26.0,143.0,13.0,,Brandt Christophe,75,Lotto - Domo,18,2003,-
+30.0,133.0,12.0,67,Casero Ángel Luis,76,Team Bianchi,18,2003,▼9
+29.0,102.0,12.0,68,Gutiérrez José Enrique,77,Kelme - Costa Blanca,18,2003,▼9
+28.0,83.0,12.0,98,Cioni Dario David,78,Fassa Bortolo,18,2003,▲20
+29.0,188.0,12.0,69,Renier Franck,79,Brioches La Boulangère,18,2003,▼10
+25.0,36.0,11.0,70,Menchov Denis,80,iBanesto.com,18,2003,▼10
+24.0,91.0,11.0,72,Casar Sandy,81,Fdjeux.com,18,2003,▼9
+22.0,213.0,10.0,80,Dumoulin Samuel,82,Jean Delatour,18,2003,▼2
+25.0,37.0,9.0,73,Mercado Juan Miguel,83,iBanesto.com,18,2003,▼10
+23.0,214.0,9.0,74,Edaleine Christophe,84,Jean Delatour,18,2003,▼10
+30.0,9.0,7.0,75,Rubiera José Luis,85,US Postal Service,18,2003,▼10
+34.0,137.0,7.0,76,Liese Thomas,86,Team Bianchi,18,2003,▼10
+23.0,187.0,6.0,77,Pineau Jérôme,87,Brioches La Boulangère,18,2003,▼10
+29.0,8.0,6.0,78,Peña Victor Hugo,88,US Postal Service,18,2003,▼10
+30.0,73.0,6.0,79,Jalabert Nicolas,89,CSC ProTeam,18,2003,▼10
+32.0,181.0,5.0,81,Rous Didier,90,Brioches La Boulangère,18,2003,▼9
+23.0,152.0,5.0,82,Astarloza Mikel,91,AG2R Prévoyance,18,2003,▼9
+30.0,154.0,5.0,83,Chaurreau Íñigo,92,AG2R Prévoyance,18,2003,▼9
+29.0,2.0,5.0,84,Heras Roberto,93,US Postal Service,18,2003,▼9
+34.0,194.0,5.0,85,Peschel Uwe,94,Gerolsteiner,18,2003,▼9
+27.0,15.0,4.0,86,Jaksche Jörg,95,O.N.C.E. - Eroski,18,2003,▼9
+28.0,159.0,4.0,89,Turpin Ludovic,96,AG2R Prévoyance,18,2003,▼7
+33.0,138.0,2.0,90,Plaza David,97,Team Bianchi,18,2003,▼7
+31.0,177.0,2.0,92,López de Munain Alberto,98,Euskaltel - Euskadi,18,2003,▼6
+26.0,176.0,2.0,93,Landaluze Iñigo,99,Euskaltel - Euskadi,18,2003,▼6
+26.0,128.0,2.0,94,Poilvet Benoît,100,Crédit Agricole,18,2003,▼6
+31.0,203.0,2.0,95,Bertolini Alessandro,101,Alessio,18,2003,▼6
+32.0,3.0,1.0,96,Beltrán Manuel,102,US Postal Service,18,2003,▼6
+37.0,4.0,1.0,97,Ekimov Viatcheslav,103,US Postal Service,18,2003,▼6
+24.0,95.0,1.0,,Fritsch Nicolas,104,Fdjeux.com,18,2003,-
+31.0,141.0,178.0,1,McEwen Robbie,1,Lotto - Domo,19,2003,-
+24.0,93.0,176.0,2,Cooke Baden,2,Fdjeux.com,19,2003,-
+33.0,29.0,165.0,3,Zabel Erik,3,Team Telekom,19,2003,-
+25.0,125.0,151.0,4,Hushovd Thor,4,Crédit Agricole,19,2003,-
+29.0,127.0,133.0,5,O'Grady Stuart,5,Crédit Agricole,19,2003,-
+26.0,116.0,132.0,6,Paolini Luca,6,Quickstep - Davitamon,19,2003,-
+26.0,219.0,119.0,7,Nazon Jean-Patrick,7,Jean Delatour,19,2003,-
+29.0,131.0,112.0,9,Ullrich Jan,8,Team Bianchi,19,2003,▲1
+31.0,136.0,107.0,8,Guidi Fabrizio,9,Team Bianchi,19,2003,▼1
+28.0,43.0,99.0,10,de Groot Bram,10,Rabobank ProTeam,19,2003,-
+31.0,1.0,,13*,Armstrong Lance,11*,US Postal Service,19,2003,-
+29.0,28.0,91.0,11,Vinokourov Alexandre,12,Team Telekom,19,2003,▼1
+29.0,186.0,91.0,12,Nazon Damien,13,Brioches La Boulangère,19,2003,▼1
+32.0,71.0,85.0,19,Hamilton Tyler,14,CSC ProTeam,19,2003,▲5
+28.0,56.0,85.0,14,Glomser Gerrit,15,Saeco,19,2003,▼1
+27.0,44.0,83.0,15,Freire Óscar,16,Rabobank ProTeam,19,2003,▼1
+28.0,94.0,81.0,16,Da Cruz Carlos,17,Fdjeux.com,19,2003,▼1
+30.0,168.0,81.0,17,Vainšteins Romāns,18,Vini Calderola - So.di,19,2003,▼1
+29.0,111.0,76.0,18,Bettini Paolo,19,Quickstep - Davitamon,19,2003,▼1
+26.0,179.0,73.0,20,Zubeldia Haimar,20,Euskaltel - Euskadi,19,2003,-
+25.0,171.0,69.0,21,Mayo Iban,21,Euskaltel - Euskadi,19,2003,-
+28.0,53.0,63.0,22,Commesso Salvatore,22,Saeco,19,2003,-
+27.0,35.0,49.0,23,Lastras Pablo,23,iBanesto.com,19,2003,-
+24.0,155.0,49.0,24,Flickinger Andy,24,AG2R Prévoyance,19,2003,-
+27.0,96.0,47.0,25,McGee Bradley,25,Fdjeux.com,19,2003,-
+25.0,81.0,44.0,26,Basso Ivan,26,Fassa Bortolo,19,2003,-
+32.0,121.0,43.0,27,Moreau Christophe,27,Crédit Agricole,19,2003,-
+34.0,97.0,43.0,28,Mengin Christophe,28,Fdjeux.com,19,2003,-
+33.0,119.0,42.0,29,Virenque Richard,29,Quickstep - Davitamon,19,2003,-
+30.0,77.0,41.0,30,Piil Jakob Storm,30,CSC ProTeam,19,2003,-
+27.0,163.0,41.0,31,Bossoni Paolo,31,Vini Calderola - So.di,19,2003,-
+31.0,148.0,40.0,32,van Bon Léon,32,Lotto - Domo,19,2003,-
+24.0,217.0,40.0,33,Krivtsov Yuriy,33,Jean Delatour,19,2003,-
+26.0,61.0,39.0,54,Millar David,34,Cofidis,19,2003,▲20
+30.0,33.0,38.0,34,Garcia José Vicente,35,iBanesto.com,19,2003,▼1
+32.0,115.0,37.0,35,Knaven Servais,36,Quickstep - Davitamon,19,2003,▼1
+34.0,201.0,37.0,36,Dufaux Laurent,37,Alessio,19,2003,▼1
+23.0,117.0,37.0,37,Rogers Michael,38,Quickstep - Davitamon,19,2003,▼1
+25.0,32.0,35.0,38,Flecha Juan Antonio,39,iBanesto.com,19,2003,▼1
+24.0,183.0,35.0,40,Chavanel Sylvain,40,Brioches La Boulangère,19,2003,-
+29.0,124.0,35.0,39,Hinault Sébastien,41,Crédit Agricole,19,2003,▼2
+29.0,58.0,32.0,41,Sacchi Fabio,42,Saeco,19,2003,▼1
+28.0,153.0,29.0,42,Botcharov Alexandre,43,AG2R Prévoyance,19,2003,▼1
+27.0,31.0,28.0,43,Mancebo Francisco,44,iBanesto.com,19,2003,▼1
+30.0,27.0,28.0,44,Nardello Daniele,45,Team Telekom,19,2003,▼1
+25.0,16.0,28.0,45,Nozal Isidro,46,O.N.C.E. - Eroski,19,2003,▼1
+24.0,158.0,27.0,46,Portal Nicolas,47,AG2R Prévoyance,19,2003,▼1
+32.0,198.0,26.0,47,Totschnig Georg,48,Gerolsteiner,19,2003,▼1
+35.0,65.0,26.0,48,Lelli Massimiliano,49,Cofidis,19,2003,▼1
+28.0,78.0,25.0,49,Sastre Carlos,50,CSC ProTeam,19,2003,▼1
+28.0,17.0,25.0,50,Pradera Mikel,51,O.N.C.E. - Eroski,19,2003,▼1
+31.0,51.0,24.0,51,Simoni Gilberto,52,Saeco,19,2003,▼1
+26.0,112.0,24.0,67,Bodrogi László,53,Quickstep - Davitamon,19,2003,▲14
+31.0,76.0,24.0,52,Peron Andrea,54,CSC ProTeam,19,2003,▼2
+28.0,114.0,24.0,53,Cañada David,55,Quickstep - Davitamon,19,2003,▼2
+34.0,63.0,24.0,55,Cuesta Iñigo,56,Cofidis,19,2003,▼1
+35.0,151.0,23.0,56,Brochard Laurent,57,AG2R Prévoyance,19,2003,▼1
+30.0,182.0,23.0,57,Bénéteau Walter,58,Brioches La Boulangère,19,2003,▼1
+23.0,184.0,22.0,58,Geslin Anthony,59,Brioches La Boulangère,19,2003,▼1
+33.0,142.0,22.0,59,Baguet Serge,60,Lotto - Domo,19,2003,▼1
+34.0,23.0,22.0,60,Aldag Rolf,61,Team Telekom,19,2003,▼1
+30.0,64.0,22.0,61,Gaumont Philippe,62,Cofidis,19,2003,▼1
+24.0,189.0,21.0,62,Voeckler Thomas,63,Brioches La Boulangère,19,2003,▼1
+29.0,207.0,20.0,63,Miholjević Vladimir,64,Alessio,19,2003,▼1
+26.0,62.0,20.0,64,Clain Médéric,65,Cofidis,19,2003,▼1
+30.0,75.0,19.0,65,Luttenberger Peter,66,CSC ProTeam,19,2003,▼1
+35.0,113.0,19.0,66,Bramati Davide,67,Quickstep - Davitamon,19,2003,▼1
+26.0,215.0,18.0,68,Finot Frédéric,68,Jean Delatour,19,2003,-
+32.0,55.0,18.0,69,Fornaciari Paolo,69,Saeco,19,2003,-
+26.0,172.0,16.0,70,Artetxe Mikel,70,Euskaltel - Euskadi,19,2003,-
+34.0,175.0,15.0,71,Laiseka Roberto,71,Euskaltel - Euskadi,19,2003,-
+32.0,107.0,14.0,72,Pascual Javier,72,Kelme - Costa Blanca,19,2003,-
+29.0,199.0,14.0,73,Zberg Markus,73,Gerolsteiner,19,2003,-
+27.0,106.0,13.0,74,Parra Iván Ramiro,74,Kelme - Costa Blanca,19,2003,-
+26.0,143.0,13.0,75,Brandt Christophe,75,Lotto - Domo,19,2003,-
+30.0,133.0,12.0,76,Casero Ángel Luis,76,Team Bianchi,19,2003,-
+29.0,102.0,12.0,77,Gutiérrez José Enrique,77,Kelme - Costa Blanca,19,2003,-
+28.0,83.0,12.0,78,Cioni Dario David,78,Fassa Bortolo,19,2003,-
+29.0,188.0,12.0,79,Renier Franck,79,Brioches La Boulangère,19,2003,-
+25.0,36.0,11.0,80,Menchov Denis,80,iBanesto.com,19,2003,-
+24.0,91.0,11.0,81,Casar Sandy,81,Fdjeux.com,19,2003,-
+29.0,8.0,10.0,88,Peña Victor Hugo,82,US Postal Service,19,2003,▲6
+22.0,213.0,10.0,82,Dumoulin Samuel,83,Jean Delatour,19,2003,▼1
+25.0,37.0,9.0,83,Mercado Juan Miguel,84,iBanesto.com,19,2003,▼1
+23.0,214.0,9.0,84,Edaleine Christophe,85,Jean Delatour,19,2003,▼1
+30.0,9.0,7.0,85,Rubiera José Luis,86,US Postal Service,19,2003,▼1
+34.0,137.0,7.0,86,Liese Thomas,87,Team Bianchi,19,2003,▼1
+23.0,187.0,6.0,87,Pineau Jérôme,88,Brioches La Boulangère,19,2003,▼1
+37.0,4.0,6.0,103,Ekimov Viatcheslav,89,US Postal Service,19,2003,▲14
+30.0,73.0,6.0,89,Jalabert Nicolas,90,CSC ProTeam,19,2003,▼1
+32.0,181.0,5.0,90,Rous Didier,91,Brioches La Boulangère,19,2003,▼1
+23.0,152.0,5.0,91,Astarloza Mikel,92,AG2R Prévoyance,19,2003,▼1
+30.0,154.0,5.0,92,Chaurreau Íñigo,93,AG2R Prévoyance,19,2003,▼1
+29.0,2.0,5.0,93,Heras Roberto,94,US Postal Service,19,2003,▼1
+34.0,194.0,5.0,94,Peschel Uwe,95,Gerolsteiner,19,2003,▼1
+27.0,15.0,4.0,95,Jaksche Jörg,96,O.N.C.E. - Eroski,19,2003,▼1
+28.0,159.0,4.0,96,Turpin Ludovic,97,AG2R Prévoyance,19,2003,▼1
+30.0,5.0,3.0,,Hincapie George,98,US Postal Service,19,2003,-
+33.0,138.0,2.0,97,Plaza David,99,Team Bianchi,19,2003,▼2
+31.0,177.0,2.0,98,López de Munain Alberto,100,Euskaltel - Euskadi,19,2003,▼2
+26.0,176.0,2.0,99,Landaluze Iñigo,101,Euskaltel - Euskadi,19,2003,▼2
+26.0,128.0,2.0,100,Poilvet Benoît,102,Crédit Agricole,19,2003,▼2
+31.0,203.0,2.0,101,Bertolini Alessandro,103,Alessio,19,2003,▼2
+32.0,3.0,1.0,102,Beltrán Manuel,104,US Postal Service,19,2003,▼2
+29.0,82.0,1.0,,Bruseghin Marzio,105,Fassa Bortolo,19,2003,-
+24.0,95.0,1.0,104,Fritsch Nicolas,106,Fdjeux.com,19,2003,▼2
+24.0,93.0,216.0,2,Cooke Baden,1,Fdjeux.com,20,2003,▲1
+31.0,141.0,214.0,1,McEwen Robbie,2,Lotto - Domo,20,2003,▼1
+33.0,29.0,188.0,3,Zabel Erik,3,Team Telekom,20,2003,-
+25.0,125.0,173.0,4,Hushovd Thor,4,Crédit Agricole,20,2003,-
+26.0,116.0,156.0,6,Paolini Luca,5,Quickstep - Davitamon,20,2003,▲1
+26.0,219.0,154.0,7,Nazon Jean-Patrick,6,Jean Delatour,20,2003,▲1
+29.0,127.0,153.0,5,O'Grady Stuart,7,Crédit Agricole,20,2003,▼2
+31.0,136.0,122.0,9,Guidi Fabrizio,8,Team Bianchi,20,2003,▲1
+29.0,131.0,112.0,8,Ullrich Jan,9,Team Bianchi,20,2003,▼1
+29.0,186.0,107.0,13,Nazon Damien,10,Brioches La Boulangère,20,2003,▲3
+28.0,56.0,102.0,15,Glomser Gerrit,11,Saeco,20,2003,▲4
+28.0,43.0,99.0,10,de Groot Bram,12,Rabobank ProTeam,20,2003,▼2
+30.0,168.0,99.0,18,Vainšteins Romāns,13,Vini Calderola - So.di,20,2003,▲5
+27.0,44.0,97.0,16,Freire Óscar,14,Rabobank ProTeam,20,2003,▲2
+31.0,1.0,,11*,Armstrong Lance,15*,US Postal Service,20,2003,-
+29.0,28.0,91.0,12,Vinokourov Alexandre,16,Team Telekom,20,2003,▼4
+29.0,111.0,88.0,19,Bettini Paolo,17,Quickstep - Davitamon,20,2003,▲2
+32.0,71.0,85.0,14,Hamilton Tyler,18,CSC ProTeam,20,2003,▼4
+28.0,94.0,81.0,17,Da Cruz Carlos,19,Fdjeux.com,20,2003,▼2
+26.0,179.0,73.0,20,Zubeldia Haimar,20,Euskaltel - Euskadi,20,2003,-
+25.0,171.0,69.0,21,Mayo Iban,21,Euskaltel - Euskadi,20,2003,-
+28.0,53.0,69.0,22,Commesso Salvatore,22,Saeco,20,2003,-
+24.0,155.0,58.0,24,Flickinger Andy,23,AG2R Prévoyance,20,2003,▲1
+27.0,35.0,49.0,23,Lastras Pablo,24,iBanesto.com,20,2003,▼1
+27.0,96.0,47.0,25,McGee Bradley,25,Fdjeux.com,20,2003,-
+25.0,32.0,46.0,39,Flecha Juan Antonio,26,iBanesto.com,20,2003,▲13
+25.0,81.0,44.0,26,Basso Ivan,27,Fassa Bortolo,20,2003,▼1
+32.0,121.0,43.0,27,Moreau Christophe,28,Crédit Agricole,20,2003,▼1
+34.0,97.0,43.0,28,Mengin Christophe,29,Fdjeux.com,20,2003,▼1
+33.0,119.0,42.0,29,Virenque Richard,30,Quickstep - Davitamon,20,2003,▼1
+30.0,77.0,41.0,30,Piil Jakob Storm,31,CSC ProTeam,20,2003,▼1
+27.0,163.0,41.0,31,Bossoni Paolo,32,Vini Calderola - So.di,20,2003,▼1
+31.0,148.0,40.0,32,van Bon Léon,33,Lotto - Domo,20,2003,▼1
+24.0,217.0,40.0,33,Krivtsov Yuriy,34,Jean Delatour,20,2003,▼1
+26.0,61.0,39.0,34,Millar David,35,Cofidis,20,2003,▼1
+30.0,33.0,38.0,35,Garcia José Vicente,36,iBanesto.com,20,2003,▼1
+32.0,115.0,37.0,36,Knaven Servais,37,Quickstep - Davitamon,20,2003,▼1
+34.0,201.0,37.0,37,Dufaux Laurent,38,Alessio,20,2003,▼1
+23.0,117.0,37.0,38,Rogers Michael,39,Quickstep - Davitamon,20,2003,▼1
+35.0,151.0,36.0,57,Brochard Laurent,40,AG2R Prévoyance,20,2003,▲17
+24.0,183.0,35.0,40,Chavanel Sylvain,41,Brioches La Boulangère,20,2003,▼1
+29.0,58.0,35.0,42,Sacchi Fabio,42,Saeco,20,2003,-
+29.0,124.0,35.0,41,Hinault Sébastien,43,Crédit Agricole,20,2003,▼2
+28.0,153.0,31.0,43,Botcharov Alexandre,44,AG2R Prévoyance,20,2003,▼1
+23.0,184.0,30.0,59,Geslin Anthony,45,Brioches La Boulangère,20,2003,▲14
+30.0,64.0,29.0,62,Gaumont Philippe,46,Cofidis,20,2003,▲16
+24.0,158.0,28.0,47,Portal Nicolas,47,AG2R Prévoyance,20,2003,-
+27.0,31.0,28.0,44,Mancebo Francisco,48,iBanesto.com,20,2003,▼4
+30.0,27.0,28.0,45,Nardello Daniele,49,Team Telekom,20,2003,▼4
+25.0,16.0,28.0,46,Nozal Isidro,50,O.N.C.E. - Eroski,20,2003,▼4
+32.0,198.0,26.0,48,Totschnig Georg,51,Gerolsteiner,20,2003,▼3
+35.0,65.0,26.0,49,Lelli Massimiliano,52,Cofidis,20,2003,▼3
+28.0,78.0,25.0,50,Sastre Carlos,53,CSC ProTeam,20,2003,▼3
+28.0,17.0,25.0,51,Pradera Mikel,54,O.N.C.E. - Eroski,20,2003,▼3
+31.0,51.0,24.0,52,Simoni Gilberto,55,Saeco,20,2003,▼3
+26.0,112.0,24.0,53,Bodrogi László,56,Quickstep - Davitamon,20,2003,▼3
+31.0,76.0,24.0,54,Peron Andrea,57,CSC ProTeam,20,2003,▼3
+28.0,114.0,24.0,55,Cañada David,58,Quickstep - Davitamon,20,2003,▼3
+34.0,63.0,24.0,56,Cuesta Iñigo,59,Cofidis,20,2003,▼3
+30.0,182.0,23.0,58,Bénéteau Walter,60,Brioches La Boulangère,20,2003,▼2
+33.0,142.0,22.0,60,Baguet Serge,61,Lotto - Domo,20,2003,▼1
+34.0,23.0,22.0,61,Aldag Rolf,62,Team Telekom,20,2003,▼1
+24.0,189.0,21.0,63,Voeckler Thomas,63,Brioches La Boulangère,20,2003,-
+29.0,207.0,20.0,64,Miholjević Vladimir,64,Alessio,20,2003,-
+26.0,62.0,20.0,65,Clain Médéric,65,Cofidis,20,2003,-
+30.0,75.0,19.0,66,Luttenberger Peter,66,CSC ProTeam,20,2003,-
+29.0,199.0,19.0,73,Zberg Markus,67,Gerolsteiner,20,2003,▲6
+35.0,113.0,19.0,67,Bramati Davide,68,Quickstep - Davitamon,20,2003,▼1
+26.0,215.0,18.0,68,Finot Frédéric,69,Jean Delatour,20,2003,▼1
+32.0,55.0,18.0,69,Fornaciari Paolo,70,Saeco,20,2003,▼1
+26.0,172.0,16.0,70,Artetxe Mikel,71,Euskaltel - Euskadi,20,2003,▼1
+34.0,175.0,15.0,71,Laiseka Roberto,72,Euskaltel - Euskadi,20,2003,▼1
+32.0,107.0,14.0,72,Pascual Javier,73,Kelme - Costa Blanca,20,2003,▼1
+27.0,106.0,13.0,74,Parra Iván Ramiro,74,Kelme - Costa Blanca,20,2003,-
+26.0,143.0,13.0,75,Brandt Christophe,75,Lotto - Domo,20,2003,-
+30.0,133.0,12.0,76,Casero Ángel Luis,76,Team Bianchi,20,2003,-
+29.0,102.0,12.0,77,Gutiérrez José Enrique,77,Kelme - Costa Blanca,20,2003,-
+28.0,83.0,12.0,78,Cioni Dario David,78,Fassa Bortolo,20,2003,-
+29.0,188.0,12.0,79,Renier Franck,79,Brioches La Boulangère,20,2003,-
+25.0,36.0,11.0,80,Menchov Denis,80,iBanesto.com,20,2003,-
+24.0,91.0,11.0,81,Casar Sandy,81,Fdjeux.com,20,2003,-
+29.0,8.0,10.0,82,Peña Victor Hugo,82,US Postal Service,20,2003,-
+24.0,105.0,10.0,,Muñoz David,83,Kelme - Costa Blanca,20,2003,-
+22.0,213.0,10.0,83,Dumoulin Samuel,84,Jean Delatour,20,2003,▼1
+25.0,37.0,9.0,84,Mercado Juan Miguel,85,iBanesto.com,20,2003,▼1
+23.0,214.0,9.0,85,Edaleine Christophe,86,Jean Delatour,20,2003,▼1
+30.0,9.0,7.0,86,Rubiera José Luis,87,US Postal Service,20,2003,▼1
+34.0,137.0,7.0,87,Liese Thomas,88,Team Bianchi,20,2003,▼1
+23.0,187.0,6.0,88,Pineau Jérôme,89,Brioches La Boulangère,20,2003,▼1
+37.0,4.0,6.0,89,Ekimov Viatcheslav,90,US Postal Service,20,2003,▼1
+30.0,73.0,6.0,90,Jalabert Nicolas,91,CSC ProTeam,20,2003,▼1
+32.0,181.0,5.0,91,Rous Didier,92,Brioches La Boulangère,20,2003,▼1
+23.0,152.0,5.0,92,Astarloza Mikel,93,AG2R Prévoyance,20,2003,▼1
+30.0,154.0,5.0,93,Chaurreau Íñigo,94,AG2R Prévoyance,20,2003,▼1
+29.0,2.0,5.0,94,Heras Roberto,95,US Postal Service,20,2003,▼1
+27.0,15.0,4.0,96,Jaksche Jörg,96,O.N.C.E. - Eroski,20,2003,-
+29.0,12.0,4.0,,Andrle René,97,O.N.C.E. - Eroski,20,2003,-
+28.0,159.0,4.0,97,Turpin Ludovic,98,AG2R Prévoyance,20,2003,▼1
+30.0,5.0,3.0,98,Hincapie George,99,US Postal Service,20,2003,▼1
+33.0,138.0,2.0,99,Plaza David,100,Team Bianchi,20,2003,▼1
+31.0,177.0,2.0,100,López de Munain Alberto,101,Euskaltel - Euskadi,20,2003,▼1
+26.0,176.0,2.0,101,Landaluze Iñigo,102,Euskaltel - Euskadi,20,2003,▼1
+26.0,128.0,2.0,102,Poilvet Benoît,103,Crédit Agricole,20,2003,▼1
+32.0,203.0,2.0,103,Bertolini Alessandro,104,Alessio,20,2003,▼1
+32.0,3.0,1.0,104,Beltrán Manuel,105,US Postal Service,20,2003,▼1
+29.0,82.0,1.0,105,Bruseghin Marzio,106,Fassa Bortolo,20,2003,▼1
+24.0,95.0,1.0,106,Fritsch Nicolas,107,Fdjeux.com,20,2003,▼1

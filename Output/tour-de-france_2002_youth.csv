@@ -1,0 +1,533 @@
+Age,BIB,GC,GC-Time,Pnt,Prev,Rider,Rnk,Team,Time,UCI,stage,year,▼▲
+25,47,5.0,+9:12,,,Millar David,1,Cofidis,9:13 9:13,,0,2002,
+23,153,19.0,+9:24,,,Bertogliati Rubens,2,Lampre - Daikin,0:12 0:12,,0,2002,
+24,81,27.0,+9:27,,,Basso Ivan,3,Fassa Bortolo,0:15 0:15,,0,2002,
+23,94,28.0,+9:27,,,Cooke Baden,4,La Française des Jeux,",, 0:15",,0,2002,
+23,92,33.0,+9:29,,,Casar Sandy,5,La Française des Jeux,0:16 0:16,,0,2002,
+24,167,39.0,+9:31,,,Mayo Iban,6,Euskaltel - Euskadi,0:19 0:19,,0,2002,
+25,169,52.0,+9:35,,,Zubeldia Haimar,7,Euskaltel - Euskadi,0:23 0:23,,0,2002,
+24,168,53.0,+9:35,,,Sánchez Samuel,8,Euskaltel - Euskadi,",, 0:23",,0,2002,
+25,125,58.0,+9:36,,,Hunter Robert,9,Mapei - Quickstep,",, 0:23",,0,2002,
+24,154,59.0,+9:36,,,Cortinovis Alessandro,10,Lampre - Daikin,",, 0:23",,0,2002,
+24,91,60.0,+9:36,,,Vogondy Nicolas,11,La Française des Jeux,0:24 0:24,,0,2002,
+25,84,67.0,+9:38,,,Gustov Volodymyr,12,Fassa Bortolo,0:26 0:26,,0,2002,
+24,39,75.0,+9:41,,,Zaballa Constantino,13,Kelme - Costa Blanca,0:28 0:28,,0,2002,
+24,26,83.0,+9:43,,,Nozal Isidro,14,O.N.C.E. - Eroski,0:31 0:31,,0,2002,
+25,144,84.0,+9:43,,,Brandt Christophe,15,Lotto - Adecco,",, 0:31",,0,2002,
+25,162,92.0,+9:45,,,Arrizabalaga Gorka,16,Euskaltel - Euskadi,0:32 0:32,,0,2002,
+22,117,100.0,+9:46,,,Pineau Jérôme,17,Bonjour,0:34 0:34,,0,2002,
+24,36,107.0,+9:48,,,Pérez Santiago,18,Kelme - Costa Blanca,0:36 0:36,,0,2002,
+24,131,108.0,+9:48,,,Menchov Denis,19,iBanesto.com,",, 0:36",,0,2002,
+24,64,124.0,+9:53,,,Hushovd Thor,20,Crédit Agricole,0:40 0:40,,0,2002,
+22,206,126.0,+9:53,,,Edaleine Christophe,21,Jean Delatour,0:41 0:41,,0,2002,
+24,93,130.0,+9:55,,,Casper Jimmy,22,La Française des Jeux,0:43 0:43,,0,2002,
+23,129,143.0,+9:59,,,Trampusch Gerhard,23,Mapei - Quickstep,0:47 0:47,,0,2002,
+23,185,149.0,+10:01,,,Flickinger Andy,24,AG2R Prévoyance,0:49 0:49,,0,2002,
+23,114,157.0,+10:03,,,Chavanel Sylvain,25,Bonjour,0:51 0:51,,0,2002,
+25,105,172.0,+10:14,,,Engels Addy,26,Rabobank ProTeam,1:01 1:01,,0,2002,
+24,156,185.0,+10:31,,,Pagliarini Luciano André,27,Lampre - Daikin,1:18 1:18,,0,2002,
+24,165,187.0,+10:35,,,González Gorka,28,Euskaltel - Euskadi,1:23 1:23,,0,2002,
+23,153,1.0,+0:00,,2.0,Bertogliati Rubens,1,Lampre - Daikin,4:58:21 4:58:21,,1,2002,▲1
+25,47,6.0,+0:08,,1.0,Millar David,2,Cofidis,0:08 0:08,,1,2002,▼1
+24,81,27.0,+0:23,,3.0,Basso Ivan,3,Fassa Bortolo,0:23 0:23,,1,2002,-
+23,94,28.0,+0:23,,4.0,Cooke Baden,4,La Française des Jeux,",, 0:23",,1,2002,-
+23,92,33.0,+0:24,,5.0,Casar Sandy,5,La Française des Jeux,0:24 0:24,,1,2002,-
+25,169,45.0,+0:31,,7.0,Zubeldia Haimar,6,Euskaltel - Euskadi,0:31 0:31,,1,2002,▲1
+24,154,50.0,+0:31,,10.0,Cortinovis Alessandro,7,Lampre - Daikin,",, 0:31",,1,2002,▲3
+24,91,51.0,+0:32,,11.0,Vogondy Nicolas,8,La Française des Jeux,0:32 0:32,,1,2002,▲3
+25,84,56.0,+0:34,,12.0,Gustov Volodymyr,9,Fassa Bortolo,0:34 0:34,,1,2002,▲3
+24,26,63.0,+0:39,,14.0,Nozal Isidro,10,O.N.C.E. - Eroski,0:39 0:39,,1,2002,▲4
+25,144,64.0,+0:39,,15.0,Brandt Christophe,11,Lotto - Adecco,",, 0:39",,1,2002,▲4
+22,117,77.0,+0:42,,17.0,Pineau Jérôme,12,Bonjour,0:42 0:42,,1,2002,▲5
+24,36,82.0,+0:44,,18.0,Pérez Santiago,13,Kelme - Costa Blanca,0:44 0:44,,1,2002,▲5
+24,131,83.0,+0:44,,19.0,Menchov Denis,14,iBanesto.com,",, 0:44",,1,2002,▲5
+23,129,101.0,+0:55,,23.0,Trampusch Gerhard,15,Mapei - Quickstep,0:55 0:55,,1,2002,▲8
+23,185,104.0,+0:57,,24.0,Flickinger Andy,16,AG2R Prévoyance,0:57 0:57,,1,2002,▲8
+25,105,118.0,+1:09,,26.0,Engels Addy,17,Rabobank ProTeam,1:09 1:09,,1,2002,▲9
+22,206,122.0,+1:16,,21.0,Edaleine Christophe,18,Jean Delatour,1:16 1:16,,1,2002,▲3
+24,39,136.0,+3:56,,13.0,Zaballa Constantino,19,Kelme - Costa Blanca,3:56 3:56,,1,2002,▼6
+23,114,141.0,+4:19,,25.0,Chavanel Sylvain,20,Bonjour,4:19 4:19,,1,2002,▲5
+24,93,145.0,+4:30,,22.0,Casper Jimmy,21,La Française des Jeux,4:30 4:30,,1,2002,▲1
+24,167,148.0,+4:40,,6.0,Mayo Iban,22,Euskaltel - Euskadi,4:40 4:40,,1,2002,▼16
+24,168,152.0,+4:44,,8.0,Sánchez Samuel,23,Euskaltel - Euskadi,4:44 4:44,,1,2002,▼15
+25,125,153.0,+4:44,,9.0,Hunter Robert,24,Mapei - Quickstep,",, 4:44",,1,2002,▼15
+25,162,158.0,+4:53,,16.0,Arrizabalaga Gorka,25,Euskaltel - Euskadi,4:53 4:53,,1,2002,▼9
+24,64,182.0,+12:14,,20.0,Hushovd Thor,26,Crédit Agricole,12:14 12:14,,1,2002,▼6
+24,165,187.0,+12:57,,28.0,González Gorka,27,Euskaltel - Euskadi,12:57 12:57,,1,2002,▲1
+24,156,189.0,+17:07,,27.0,Pagliarini Luciano André,28,Lampre - Daikin,17:15 17:15,,1,2002,▼1
+23,153,1.0,+0:00,,1.0,Bertogliati Rubens,1,Lampre - Daikin,9:18:12 9:18:12,,2,2002,-
+25,47,7.0,+0:08,,2.0,Millar David,2,Cofidis,0:08 0:08,,2,2002,-
+24,81,29.0,+0:23,,3.0,Basso Ivan,3,Fassa Bortolo,0:23 0:23,,2,2002,-
+23,94,30.0,+0:23,,4.0,Cooke Baden,4,La Française des Jeux,",, 0:23",,2,2002,-
+23,92,35.0,+0:24,,5.0,Casar Sandy,5,La Française des Jeux,0:24 0:24,,2,2002,-
+25,169,46.0,+0:31,,6.0,Zubeldia Haimar,6,Euskaltel - Euskadi,0:31 0:31,,2,2002,-
+24,154,50.0,+0:31,,7.0,Cortinovis Alessandro,7,Lampre - Daikin,",, 0:31",,2,2002,-
+24,91,51.0,+0:32,,8.0,Vogondy Nicolas,8,La Française des Jeux,0:32 0:32,,2,2002,-
+25,84,56.0,+0:34,,9.0,Gustov Volodymyr,9,Fassa Bortolo,0:34 0:34,,2,2002,-
+24,26,63.0,+0:39,,10.0,Nozal Isidro,10,O.N.C.E. - Eroski,0:39 0:39,,2,2002,-
+25,144,64.0,+0:39,,11.0,Brandt Christophe,11,Lotto - Adecco,",, 0:39",,2,2002,-
+22,117,77.0,+0:42,,12.0,Pineau Jérôme,12,Bonjour,0:42 0:42,,2,2002,-
+24,36,82.0,+0:44,,13.0,Pérez Santiago,13,Kelme - Costa Blanca,0:44 0:44,,2,2002,-
+24,131,83.0,+0:44,,14.0,Menchov Denis,14,iBanesto.com,",, 0:44",,2,2002,-
+23,129,101.0,+0:55,,15.0,Trampusch Gerhard,15,Mapei - Quickstep,0:55 0:55,,2,2002,-
+23,185,104.0,+0:57,,16.0,Flickinger Andy,16,AG2R Prévoyance,0:57 0:57,,2,2002,-
+25,105,118.0,+1:09,,17.0,Engels Addy,17,Rabobank ProTeam,1:09 1:09,,2,2002,-
+22,206,122.0,+1:16,,18.0,Edaleine Christophe,18,Jean Delatour,1:16 1:16,,2,2002,-
+24,39,136.0,+3:56,,19.0,Zaballa Constantino,19,Kelme - Costa Blanca,3:56 3:56,,2,2002,-
+23,114,138.0,+4:03,,20.0,Chavanel Sylvain,20,Bonjour,4:03 4:03,,2,2002,-
+24,93,145.0,+4:30,,21.0,Casper Jimmy,21,La Française des Jeux,4:30 4:30,,2,2002,-
+24,167,148.0,+4:40,,22.0,Mayo Iban,22,Euskaltel - Euskadi,4:40 4:40,,2,2002,-
+25,125,151.0,+4:44,,24.0,Hunter Robert,23,Mapei - Quickstep,4:44 4:44,,2,2002,▲1
+25,162,155.0,+4:53,,25.0,Arrizabalaga Gorka,24,Euskaltel - Euskadi,4:53 4:53,,2,2002,▲1
+24,168,179.0,+13:00,,23.0,Sánchez Samuel,25,Euskaltel - Euskadi,13:00 13:00,,2,2002,▼2
+24,165,182.0,+15:35,,27.0,González Gorka,26,Euskaltel - Euskadi,15:35 15:35,,2,2002,▲1
+24,156,185.0,+17:15,,28.0,Pagliarini Luciano André,27,Lampre - Daikin,17:15 17:15,,2,2002,▲1
+24,64,189.0,+31:30,,26.0,Hushovd Thor,28,Crédit Agricole,31:30 31:30,,2,2002,▼2
+23,153,3.0,+0:14,,1.0,Bertogliati Rubens,1,Lampre - Daikin,13:31:49 13:31:49,,3,2002,-
+25,47,8.0,+0:22,,2.0,Millar David,2,Cofidis,0:08 0:08,,3,2002,-
+23,94,13.0,+0:29,,4.0,Cooke Baden,3,La Française des Jeux,0:15 0:15,,3,2002,▲1
+24,81,30.0,+0:37,,3.0,Basso Ivan,4,Fassa Bortolo,0:23 0:23,,3,2002,▼1
+23,92,35.0,+0:38,,5.0,Casar Sandy,5,La Française des Jeux,0:24 0:24,,3,2002,-
+25,169,47.0,+0:45,,6.0,Zubeldia Haimar,6,Euskaltel - Euskadi,0:31 0:31,,3,2002,-
+24,154,51.0,+0:45,,7.0,Cortinovis Alessandro,7,Lampre - Daikin,",, 0:31",,3,2002,-
+24,91,52.0,+0:46,,8.0,Vogondy Nicolas,8,La Française des Jeux,0:32 0:32,,3,2002,-
+25,84,57.0,+0:48,,9.0,Gustov Volodymyr,9,Fassa Bortolo,0:34 0:34,,3,2002,-
+24,26,64.0,+0:53,,10.0,Nozal Isidro,10,O.N.C.E. - Eroski,0:39 0:39,,3,2002,-
+25,144,65.0,+0:53,,11.0,Brandt Christophe,11,Lotto - Adecco,",, 0:39",,3,2002,-
+22,117,77.0,+0:56,,12.0,Pineau Jérôme,12,Bonjour,0:42 0:42,,3,2002,-
+24,36,82.0,+0:58,,13.0,Pérez Santiago,13,Kelme - Costa Blanca,0:44 0:44,,3,2002,-
+24,131,83.0,+0:58,,14.0,Menchov Denis,14,iBanesto.com,",, 0:44",,3,2002,-
+23,129,101.0,+1:09,,15.0,Trampusch Gerhard,15,Mapei - Quickstep,0:55 0:55,,3,2002,-
+23,185,104.0,+1:11,,16.0,Flickinger Andy,16,AG2R Prévoyance,0:57 0:57,,3,2002,-
+25,105,118.0,+1:23,,17.0,Engels Addy,17,Rabobank ProTeam,1:09 1:09,,3,2002,-
+22,206,122.0,+1:30,,18.0,Edaleine Christophe,18,Jean Delatour,1:16 1:16,,3,2002,-
+24,39,136.0,+4:10,,19.0,Zaballa Constantino,19,Kelme - Costa Blanca,3:56 3:56,,3,2002,-
+23,114,138.0,+4:17,,20.0,Chavanel Sylvain,20,Bonjour,4:03 4:03,,3,2002,-
+24,93,145.0,+4:44,,21.0,Casper Jimmy,21,La Française des Jeux,4:30 4:30,,3,2002,-
+24,167,148.0,+4:54,,22.0,Mayo Iban,22,Euskaltel - Euskadi,4:40 4:40,,3,2002,-
+25,125,151.0,+4:58,,23.0,Hunter Robert,23,Mapei - Quickstep,4:44 4:44,,3,2002,-
+25,162,155.0,+5:07,,24.0,Arrizabalaga Gorka,24,Euskaltel - Euskadi,4:53 4:53,,3,2002,-
+24,168,178.0,+13:14,,25.0,Sánchez Samuel,25,Euskaltel - Euskadi,13:00 13:00,,3,2002,-
+24,165,181.0,+15:49,,26.0,González Gorka,26,Euskaltel - Euskadi,15:35 15:35,,3,2002,-
+24,156,184.0,+17:29,,27.0,Pagliarini Luciano André,27,Lampre - Daikin,17:15 17:15,,3,2002,-
+24,64,189.0,+31:44,,28.0,Hushovd Thor,28,Crédit Agricole,31:30 31:30,,3,2002,-
+33,98,,,29.0,1.0,Mengin Christophe,1,La Française des Jeux,,,4,2002,-
+27,183,,,26.0,2.0,Bergès Stéphane,2,AG2R Prévoyance,,,4,2002,-
+37,155,,,15.0,3.0,Dierckxsens Ludo,3,Lampre - Daikin,,,4,2002,-
+28,201,,,9.0,4.0,Halgand Patrice,4,Jean Delatour,,,4,2002,-
+23,114,,,6.0,5.0,Chavanel Sylvain,5,Bonjour,,,4,2002,-
+28,118,,,5.0,6.0,Renier Franck,6,Bonjour,,,4,2002,-
+26,208,,,5.0,7.0,Lefèvre Laurent,7,Jean Delatour,,,4,2002,-
+25,72,,,3.0,8.0,Bruylandts Dave,8,Domo - Farm Frites,,,4,2002,-
+35,95,,,3.0,9.0,Durand Jacky,9,La Française des Jeux,,,4,2002,-
+24,81,,,1.0,12.0,Basso Ivan,10,Fassa Bortolo,,,4,2002,▲2
+32,71,,,1.0,10.0,Virenque Richard,11,Domo - Farm Frites,,,4,2002,▼1
+27,141,,,1.0,11.0,Verbrugghe Rik,12,Lotto - Adecco,,,4,2002,▼1
+23,185,,,1.0,13.0,Flickinger Andy,13,AG2R Prévoyance,,,4,2002,-
+24,64,,,1.0,14.0,Hushovd Thor,14,Crédit Agricole,,,4,2002,-
+24,26,7.0,+0:27,,1.0,Nozal Isidro,1,O.N.C.E. - Eroski,19:06:23 19:06:23,,5,2002,-
+25,47,23.0,+1:40,,2.0,Millar David,2,Cofidis,1:13 1:13,,5,2002,-
+24,81,24.0,+1:41,,3.0,Basso Ivan,3,Fassa Bortolo,1:14 1:14,,5,2002,-
+25,84,25.0,+1:52,,4.0,Gustov Volodymyr,4,Fassa Bortolo,1:25 1:25,,5,2002,-
+23,153,32.0,+2:10,,5.0,Bertogliati Rubens,5,Lampre - Daikin,1:43 1:43,,5,2002,-
+24,131,44.0,+2:28,,6.0,Menchov Denis,6,iBanesto.com,2:01 2:01,,5,2002,-
+24,36,57.0,+2:51,,7.0,Pérez Santiago,7,Kelme - Costa Blanca,2:24 2:24,,5,2002,-
+23,94,68.0,+3:31,,8.0,Cooke Baden,8,La Française des Jeux,3:04 3:04,,5,2002,-
+22,117,75.0,+3:43,,9.0,Pineau Jérôme,9,Bonjour,3:16 3:16,,5,2002,-
+23,92,79.0,+3:46,,10.0,Casar Sandy,10,La Française des Jeux,3:19 3:19,,5,2002,-
+24,91,81.0,+3:54,,11.0,Vogondy Nicolas,11,La Française des Jeux,3:27 3:27,,5,2002,-
+25,144,84.0,+3:59,,12.0,Brandt Christophe,12,Lotto - Adecco,3:32 3:32,,5,2002,-
+22,206,98.0,+4:20,,15.0,Edaleine Christophe,13,Jean Delatour,3:53 3:53,,5,2002,▲2
+23,129,105.0,+4:30,,13.0,Trampusch Gerhard,14,Mapei - Quickstep,4:03 4:03,,5,2002,▼1
+25,169,107.0,+4:41,,14.0,Zubeldia Haimar,15,Euskaltel - Euskadi,4:14 4:14,,5,2002,▼1
+23,185,116.0,+5:09,,16.0,Flickinger Andy,16,AG2R Prévoyance,4:42 4:42,,5,2002,-
+24,39,120.0,+6:03,,17.0,Zaballa Constantino,17,Kelme - Costa Blanca,5:36 5:36,,5,2002,-
+23,114,130.0,+7:04,,18.0,Chavanel Sylvain,18,Bonjour,6:37 6:37,,5,2002,-
+25,125,143.0,+8:19,,21.0,Hunter Robert,19,Mapei - Quickstep,7:52 7:52,,5,2002,▲2
+24,93,145.0,+8:37,,22.0,Casper Jimmy,20,La Française des Jeux,8:10 8:10,,5,2002,▲2
+24,167,147.0,+8:50,,23.0,Mayo Iban,21,Euskaltel - Euskadi,8:23 8:23,,5,2002,▲2
+24,154,163.0,+14:38,,19.0,Cortinovis Alessandro,22,Lampre - Daikin,14:11 14:11,,5,2002,▼3
+25,105,166.0,+15:16,,20.0,Engels Addy,23,Rabobank ProTeam,14:49 14:49,,5,2002,▼3
+25,162,169.0,+16:22,,24.0,Arrizabalaga Gorka,24,Euskaltel - Euskadi,15:55 15:55,,5,2002,-
+24,168,172.0,+17:10,,25.0,Sánchez Samuel,25,Euskaltel - Euskadi,16:43 16:43,,5,2002,-
+24,156,184.0,+24:03,,27.0,Pagliarini Luciano André,26,Lampre - Daikin,23:36 23:36,,5,2002,▲1
+24,165,186.0,+29:26,,26.0,González Gorka,27,Euskaltel - Euskadi,28:59 28:59,,5,2002,▼1
+24,64,187.0,+33:46,,28.0,Hushovd Thor,28,Crédit Agricole,33:19 33:19,,5,2002,-
+24,26,7.0,+0:27,,1.0,Nozal Isidro,1,O.N.C.E. - Eroski,23:29:30 23:29:30,,6,2002,-
+25,47,23.0,+1:40,,2.0,Millar David,2,Cofidis,1:13 1:13,,6,2002,-
+24,81,24.0,+1:41,,3.0,Basso Ivan,3,Fassa Bortolo,1:14 1:14,,6,2002,-
+25,84,25.0,+1:52,,4.0,Gustov Volodymyr,4,Fassa Bortolo,1:25 1:25,,6,2002,-
+23,153,33.0,+2:10,,5.0,Bertogliati Rubens,5,Lampre - Daikin,1:43 1:43,,6,2002,-
+24,131,44.0,+2:28,,6.0,Menchov Denis,6,iBanesto.com,2:01 2:01,,6,2002,-
+24,36,57.0,+2:51,,7.0,Pérez Santiago,7,Kelme - Costa Blanca,2:24 2:24,,6,2002,-
+23,94,68.0,+3:31,,8.0,Cooke Baden,8,La Française des Jeux,3:04 3:04,,6,2002,-
+22,117,75.0,+3:43,,9.0,Pineau Jérôme,9,Bonjour,3:16 3:16,,6,2002,-
+23,92,78.0,+3:46,,10.0,Casar Sandy,10,La Française des Jeux,3:19 3:19,,6,2002,-
+24,91,80.0,+3:54,,11.0,Vogondy Nicolas,11,La Française des Jeux,3:27 3:27,,6,2002,-
+25,144,83.0,+3:59,,12.0,Brandt Christophe,12,Lotto - Adecco,3:32 3:32,,6,2002,-
+22,206,97.0,+4:20,,13.0,Edaleine Christophe,13,Jean Delatour,3:53 3:53,,6,2002,-
+23,129,104.0,+4:30,,14.0,Trampusch Gerhard,14,Mapei - Quickstep,4:03 4:03,,6,2002,-
+25,169,105.0,+4:41,,15.0,Zubeldia Haimar,15,Euskaltel - Euskadi,4:14 4:14,,6,2002,-
+24,39,116.0,+6:03,,17.0,Zaballa Constantino,16,Kelme - Costa Blanca,5:36 5:36,,6,2002,▲1
+23,114,126.0,+7:04,,18.0,Chavanel Sylvain,17,Bonjour,6:37 6:37,,6,2002,▲1
+25,125,139.0,+8:19,,19.0,Hunter Robert,18,Mapei - Quickstep,7:52 7:52,,6,2002,▲1
+24,93,141.0,+8:37,,20.0,Casper Jimmy,19,La Française des Jeux,8:10 8:10,,6,2002,▲1
+24,167,143.0,+8:50,,21.0,Mayo Iban,20,Euskaltel - Euskadi,8:23 8:23,,6,2002,▲1
+24,154,159.0,+14:38,,22.0,Cortinovis Alessandro,21,Lampre - Daikin,14:11 14:11,,6,2002,▲1
+25,105,162.0,+15:16,,23.0,Engels Addy,22,Rabobank ProTeam,14:49 14:49,,6,2002,▲1
+25,162,165.0,+16:22,,24.0,Arrizabalaga Gorka,23,Euskaltel - Euskadi,15:55 15:55,,6,2002,▲1
+24,168,168.0,+17:10,,25.0,Sánchez Samuel,24,Euskaltel - Euskadi,16:43 16:43,,6,2002,▲1
+23,185,169.0,+17:12,,16.0,Flickinger Andy,25,AG2R Prévoyance,16:45 16:45,,6,2002,▼9
+24,156,182.0,+24:03,,26.0,Pagliarini Luciano André,26,Lampre - Daikin,23:36 23:36,,6,2002,-
+24,165,184.0,+29:26,,27.0,González Gorka,27,Euskaltel - Euskadi,28:59 28:59,,6,2002,-
+24,64,185.0,+33:46,,28.0,Hushovd Thor,28,Crédit Agricole,33:19 33:19,,6,2002,-
+24,26,5.0,+0:27,,1.0,Nozal Isidro,1,O.N.C.E. - Eroski,27:40:26 27:40:26,38.0,7,2002,-
+25,47,20.0,+1:40,,2.0,Millar David,2,Cofidis,1:13 1:13,32.0,7,2002,-
+24,81,21.0,+1:41,,3.0,Basso Ivan,3,Fassa Bortolo,1:14 1:14,24.0,7,2002,-
+24,131,39.0,+2:28,,6.0,Menchov Denis,4,iBanesto.com,2:01 2:01,21.0,7,2002,▲2
+24,36,50.0,+2:51,,7.0,Pérez Santiago,5,Kelme - Costa Blanca,2:24 2:24,19.0,7,2002,▲2
+23,94,62.0,+3:31,,8.0,Cooke Baden,6,La Française des Jeux,3:04 3:04,16.0,7,2002,▲2
+25,84,63.0,+3:32,,4.0,Gustov Volodymyr,7,Fassa Bortolo,3:05 3:05,16.0,7,2002,▼3
+23,92,69.0,+3:46,,10.0,Casar Sandy,8,La Française des Jeux,3:19 3:19,15.0,7,2002,▲2
+24,91,71.0,+3:54,,11.0,Vogondy Nicolas,9,La Française des Jeux,3:27 3:27,14.0,7,2002,▲2
+23,129,84.0,+4:30,,14.0,Trampusch Gerhard,10,Mapei - Quickstep,4:03 4:03,12.0,7,2002,▲4
+25,169,87.0,+4:41,,15.0,Zubeldia Haimar,11,Euskaltel - Euskadi,4:14 4:14,11.0,7,2002,▲4
+25,144,89.0,+4:50,,12.0,Brandt Christophe,12,Lotto - Adecco,4:23 4:23,9.0,7,2002,-
+22,206,94.0,+5:11,,13.0,Edaleine Christophe,13,Jean Delatour,4:44 4:44,9.0,7,2002,-
+23,153,102.0,+5:56,,5.0,Bertogliati Rubens,14,Lampre - Daikin,5:29 5:29,9.0,7,2002,▼9
+24,39,106.0,+6:30,,16.0,Zaballa Constantino,15,Kelme - Costa Blanca,6:03 6:03,7.0,7,2002,▲1
+22,117,111.0,+6:54,,9.0,Pineau Jérôme,16,Bonjour,6:27 6:27,7.0,7,2002,▼7
+23,114,123.0,+8:30,,17.0,Chavanel Sylvain,17,Bonjour,8:03 8:03,6.0,7,2002,-
+25,125,125.0,+8:56,,18.0,Hunter Robert,18,Mapei - Quickstep,8:29 8:29,6.0,7,2002,-
+24,167,130.0,+9:49,,20.0,Mayo Iban,19,Euskaltel - Euskadi,9:22 9:22,4.0,7,2002,▲1
+24,93,145.0,+12:23,,19.0,Casper Jimmy,20,La Française des Jeux,11:56 11:56,4.0,7,2002,▼1
+24,154,155.0,+15:37,,21.0,Cortinovis Alessandro,21,Lampre - Daikin,15:10 15:10,3.0,7,2002,-
+24,168,159.0,+17:10,,24.0,Sánchez Samuel,22,Euskaltel - Euskadi,16:43 16:43,3.0,7,2002,▲2
+25,162,162.0,+18:02,,23.0,Arrizabalaga Gorka,23,Euskaltel - Euskadi,17:35 17:35,3.0,7,2002,-
+23,185,164.0,+18:52,,25.0,Flickinger Andy,24,AG2R Prévoyance,18:25 18:25,3.0,7,2002,▲1
+25,105,166.0,+19:02,,22.0,Engels Addy,25,Rabobank ProTeam,18:35 18:35,2.0,7,2002,▼3
+24,156,182.0,+28:23,,26.0,Pagliarini Luciano André,26,Lampre - Daikin,27:56 27:56,2.0,7,2002,-
+24,165,183.0,+30:07,,27.0,González Gorka,27,Euskaltel - Euskadi,29:40 29:40,2.0,7,2002,-
+24,64,184.0,+33:46,,28.0,Hushovd Thor,28,Crédit Agricole,33:19 33:19,1.0,7,2002,-
+24,26,5.0,+0:27,,1.0,Nozal Isidro,1,O.N.C.E. - Eroski,32:19:13 32:19:13,,8,2002,-
+25,47,20.0,+1:40,,2.0,Millar David,2,Cofidis,1:13 1:13,,8,2002,-
+24,81,21.0,+1:41,,3.0,Basso Ivan,3,Fassa Bortolo,1:14 1:14,,8,2002,-
+24,131,39.0,+2:28,,4.0,Menchov Denis,4,iBanesto.com,2:01 2:01,,8,2002,-
+24,36,51.0,+2:51,,5.0,Pérez Santiago,5,Kelme - Costa Blanca,2:24 2:24,,8,2002,-
+23,94,64.0,+3:31,,6.0,Cooke Baden,6,La Française des Jeux,3:04 3:04,,8,2002,-
+25,84,65.0,+3:32,,7.0,Gustov Volodymyr,7,Fassa Bortolo,3:05 3:05,,8,2002,-
+23,92,67.0,+3:40,,8.0,Casar Sandy,8,La Française des Jeux,3:13 3:13,,8,2002,-
+24,91,74.0,+4:02,,9.0,Vogondy Nicolas,9,La Française des Jeux,3:35 3:35,,8,2002,-
+23,129,85.0,+4:30,,10.0,Trampusch Gerhard,10,Mapei - Quickstep,4:03 4:03,,8,2002,-
+25,169,87.0,+4:41,,11.0,Zubeldia Haimar,11,Euskaltel - Euskadi,4:14 4:14,,8,2002,-
+25,144,89.0,+4:50,,12.0,Brandt Christophe,12,Lotto - Adecco,4:23 4:23,,8,2002,-
+22,206,95.0,+5:11,,13.0,Edaleine Christophe,13,Jean Delatour,4:44 4:44,,8,2002,-
+23,153,102.0,+5:56,,14.0,Bertogliati Rubens,14,Lampre - Daikin,5:29 5:29,,8,2002,-
+24,39,104.0,+6:30,,15.0,Zaballa Constantino,15,Kelme - Costa Blanca,6:03 6:03,,8,2002,-
+22,117,108.0,+6:54,,16.0,Pineau Jérôme,16,Bonjour,6:27 6:27,,8,2002,-
+23,114,121.0,+8:30,,17.0,Chavanel Sylvain,17,Bonjour,8:03 8:03,,8,2002,-
+25,125,123.0,+8:56,,18.0,Hunter Robert,18,Mapei - Quickstep,8:29 8:29,,8,2002,-
+24,167,127.0,+9:49,,19.0,Mayo Iban,19,Euskaltel - Euskadi,9:22 9:22,,8,2002,-
+24,93,150.0,+14:48,,20.0,Casper Jimmy,20,La Française des Jeux,14:21 14:21,,8,2002,-
+24,154,153.0,+15:37,,21.0,Cortinovis Alessandro,21,Lampre - Daikin,15:10 15:10,,8,2002,-
+24,168,157.0,+17:10,,22.0,Sánchez Samuel,22,Euskaltel - Euskadi,16:43 16:43,,8,2002,-
+25,162,160.0,+18:02,,23.0,Arrizabalaga Gorka,23,Euskaltel - Euskadi,17:35 17:35,,8,2002,-
+25,105,163.0,+19:02,,25.0,Engels Addy,24,Rabobank ProTeam,18:35 18:35,,8,2002,▲1
+23,185,167.0,+21:20,,24.0,Flickinger Andy,25,AG2R Prévoyance,20:53 20:53,,8,2002,▼1
+24,156,179.0,+30:51,,26.0,Pagliarini Luciano André,26,Lampre - Daikin,30:24 30:24,,8,2002,-
+24,165,180.0,+31:18,,27.0,González Gorka,27,Euskaltel - Euskadi,30:51 30:51,,8,2002,-
+24,64,182.0,+33:46,,28.0,Hushovd Thor,28,Crédit Agricole,33:19 33:19,,8,2002,-
+25,47,7.0,+2:11,,2.0,Millar David,1,Cofidis,33:23:34 33:23:34,,9,2002,▲1
+24,26,16.0,+3:37,,1.0,Nozal Isidro,2,O.N.C.E. - Eroski,1:26 1:26,,9,2002,▼1
+24,81,17.0,+4:05,,3.0,Basso Ivan,3,Fassa Bortolo,1:54 1:54,,9,2002,-
+24,131,30.0,+5:24,,4.0,Menchov Denis,4,iBanesto.com,3:13 3:13,,9,2002,-
+23,92,47.0,+6:52,,8.0,Casar Sandy,5,La Française des Jeux,4:41 4:41,,9,2002,▲3
+25,169,52.0,+7:12,,11.0,Zubeldia Haimar,6,Euskaltel - Euskadi,5:01 5:01,,9,2002,▲5
+25,84,57.0,+7:45,,7.0,Gustov Volodymyr,7,Fassa Bortolo,5:34 5:34,,9,2002,-
+24,91,62.0,+8:06,,9.0,Vogondy Nicolas,8,La Française des Jeux,5:55 5:55,,9,2002,▲1
+24,36,68.0,+8:46,,5.0,Pérez Santiago,9,Kelme - Costa Blanca,6:35 6:35,,9,2002,▼4
+23,94,73.0,+9:17,,6.0,Cooke Baden,10,La Française des Jeux,7:06 7:06,,9,2002,▼4
+22,206,82.0,+9:49,,13.0,Edaleine Christophe,11,Jean Delatour,7:38 7:38,,9,2002,▲2
+23,129,87.0,+10:11,,10.0,Trampusch Gerhard,12,Mapei - Quickstep,8:00 8:00,,9,2002,▼2
+25,144,91.0,+10:44,,12.0,Brandt Christophe,13,Lotto - Adecco,8:33 8:33,,9,2002,▼1
+23,114,100.0,+12:04,,17.0,Chavanel Sylvain,14,Bonjour,9:53 9:53,,9,2002,▲3
+23,153,108.0,+12:57,,14.0,Bertogliati Rubens,15,Lampre - Daikin,10:46 10:46,,9,2002,▼1
+22,117,110.0,+13:11,,16.0,Pineau Jérôme,16,Bonjour,11:00 11:00,,9,2002,-
+24,39,115.0,+14:01,,15.0,Zaballa Constantino,17,Kelme - Costa Blanca,11:50 11:50,,9,2002,▼2
+25,125,120.0,+14:40,,18.0,Hunter Robert,18,Mapei - Quickstep,12:29 12:29,,9,2002,-
+24,167,130.0,+16:44,,19.0,Mayo Iban,19,Euskaltel - Euskadi,14:33 14:33,,9,2002,-
+24,154,148.0,+20:23,,21.0,Cortinovis Alessandro,20,Lampre - Daikin,18:12 18:12,,9,2002,▲1
+24,168,153.0,+21:31,,22.0,Sánchez Samuel,21,Euskaltel - Euskadi,19:20 19:20,,9,2002,▲1
+24,93,155.0,+22:13,,20.0,Casper Jimmy,22,La Française des Jeux,20:02 20:02,,9,2002,▼2
+25,162,161.0,+23:41,,23.0,Arrizabalaga Gorka,23,Euskaltel - Euskadi,21:30 21:30,,9,2002,-
+25,105,163.0,+26:41,,24.0,Engels Addy,24,Rabobank ProTeam,24:30 24:30,,9,2002,-
+23,185,168.0,+27:59,,25.0,Flickinger Andy,25,AG2R Prévoyance,25:48 25:48,,9,2002,-
+24,156,179.0,+37:32,,26.0,Pagliarini Luciano André,26,Lampre - Daikin,35:21 35:21,,9,2002,-
+24,64,180.0,+38:22,,28.0,Hushovd Thor,27,Crédit Agricole,36:11 36:11,,9,2002,▲1
+24,165,181.0,+40:37,,27.0,González Gorka,28,Euskaltel - Euskadi,38:26 38:26,,9,2002,▼1
+25,47,7.0,+2:11,,1.0,Millar David,1,Cofidis,36:27:46 36:27:46,,10,2002,-
+24,26,18.0,+3:37,,2.0,Nozal Isidro,2,O.N.C.E. - Eroski,1:26 1:26,,10,2002,-
+24,81,19.0,+4:05,,3.0,Basso Ivan,3,Fassa Bortolo,1:54 1:54,,10,2002,-
+24,91,29.0,+5:07,,8.0,Vogondy Nicolas,4,La Française des Jeux,2:56 2:56,,10,2002,▲4
+24,131,34.0,+5:24,,4.0,Menchov Denis,5,iBanesto.com,3:13 3:13,,10,2002,▼1
+23,92,50.0,+6:52,,5.0,Casar Sandy,6,La Française des Jeux,4:41 4:41,,10,2002,▼1
+25,169,55.0,+7:12,,6.0,Zubeldia Haimar,7,Euskaltel - Euskadi,5:01 5:01,,10,2002,▼1
+25,84,60.0,+7:45,,7.0,Gustov Volodymyr,8,Fassa Bortolo,5:34 5:34,,10,2002,▼1
+24,36,71.0,+8:46,,9.0,Pérez Santiago,9,Kelme - Costa Blanca,6:35 6:35,,10,2002,-
+23,94,75.0,+9:17,,10.0,Cooke Baden,10,La Française des Jeux,7:06 7:06,,10,2002,-
+22,117,78.0,+9:29,,16.0,Pineau Jérôme,11,Bonjour,7:18 7:18,,10,2002,▲5
+22,206,86.0,+9:49,,11.0,Edaleine Christophe,12,Jean Delatour,7:38 7:38,,10,2002,▼1
+23,129,89.0,+10:11,,12.0,Trampusch Gerhard,13,Mapei - Quickstep,8:00 8:00,,10,2002,▼1
+25,144,94.0,+10:44,,13.0,Brandt Christophe,14,Lotto - Adecco,8:33 8:33,,10,2002,▼1
+24,39,97.0,+11:04,,17.0,Zaballa Constantino,15,Kelme - Costa Blanca,8:53 8:53,,10,2002,▲2
+23,114,104.0,+12:04,,14.0,Chavanel Sylvain,16,Bonjour,9:53 9:53,,10,2002,▼2
+23,153,111.0,+12:57,,15.0,Bertogliati Rubens,17,Lampre - Daikin,10:46 10:46,,10,2002,▼2
+25,125,120.0,+14:40,,18.0,Hunter Robert,18,Mapei - Quickstep,12:29 12:29,,10,2002,-
+24,167,130.0,+16:44,,19.0,Mayo Iban,19,Euskaltel - Euskadi,14:33 14:33,,10,2002,-
+24,154,147.0,+20:23,,20.0,Cortinovis Alessandro,20,Lampre - Daikin,18:12 18:12,,10,2002,-
+24,168,152.0,+21:31,,21.0,Sánchez Samuel,21,Euskaltel - Euskadi,19:20 19:20,,10,2002,-
+24,93,154.0,+22:13,,22.0,Casper Jimmy,22,La Française des Jeux,20:02 20:02,,10,2002,-
+25,162,159.0,+23:41,,23.0,Arrizabalaga Gorka,23,Euskaltel - Euskadi,21:30 21:30,,10,2002,-
+23,185,161.0,+24:56,,25.0,Flickinger Andy,24,AG2R Prévoyance,22:45 22:45,,10,2002,▲1
+25,105,163.0,+26:41,,24.0,Engels Addy,25,Rabobank ProTeam,24:30 24:30,,10,2002,▼1
+24,156,178.0,+37:32,,26.0,Pagliarini Luciano André,26,Lampre - Daikin,35:21 35:21,,10,2002,-
+24,64,179.0,+38:22,,27.0,Hushovd Thor,27,Crédit Agricole,36:11 36:11,,10,2002,-
+24,165,180.0,+40:37,,28.0,González Gorka,28,Euskaltel - Euskadi,38:26 38:26,,10,2002,-
+24,81,8.0,+ 40:53:00,,3.0,Basso Ivan,1,Fassa Bortolo,40:53:00 40:53:00,,11,2002,▲2
+24,91,17.0,+ 40:55:03,,4.0,Vogondy Nicolas,2,La Française des Jeux,2:03 2:03,,11,2002,▲2
+24,26,20.0,+ 40:55:38,,2.0,Nozal Isidro,3,O.N.C.E. - Eroski,2:38 2:38,,11,2002,▼1
+25,169,26.0,+ 40:56:46,,7.0,Zubeldia Haimar,4,Euskaltel - Euskadi,3:46 3:46,,11,2002,▲3
+25,47,27.0,+ 40:57:06,,1.0,Millar David,5,Cofidis,4:06 4:06,,11,2002,▼4
+24,131,42.0,+ 40:59:32,,5.0,Menchov Denis,6,iBanesto.com,6:32 6:32,,11,2002,▼1
+25,84,51.0,+ 41:02:47,,8.0,Gustov Volodymyr,7,Fassa Bortolo,9:47 9:47,,11,2002,▲1
+25,144,56.0,+ 41:03:37,,14.0,Brandt Christophe,8,Lotto - Adecco,10:37 10:37,,11,2002,▲6
+23,92,77.0,+ 41:14:43,,6.0,Casar Sandy,9,La Française des Jeux,21:43 21:43,,11,2002,▼3
+22,117,87.0,+ 41:17:20,,11.0,Pineau Jérôme,10,Bonjour,24:20 24:20,,11,2002,▲1
+22,206,93.0,+ 41:17:40,,12.0,Edaleine Christophe,11,Jean Delatour,24:40 24:40,,11,2002,▲1
+23,129,96.0,+ 41:18:02,,13.0,Trampusch Gerhard,12,Mapei - Quickstep,25:02 25:02,,11,2002,▲1
+24,39,100.0,+ 41:18:55,,15.0,Zaballa Constantino,13,Kelme - Costa Blanca,25:55 25:55,,11,2002,▲2
+25,105,109.0,+ 41:20:30,,25.0,Engels Addy,14,Rabobank ProTeam,27:30 27:30,,11,2002,▲11
+25,125,115.0,+ 41:22:31,,18.0,Hunter Robert,15,Mapei - Quickstep,29:31 29:31,,11,2002,▲3
+23,94,117.0,+ 41:23:35,,10.0,Cooke Baden,16,La Française des Jeux,30:35 30:35,,11,2002,▼6
+23,114,124.0,+ 41:26:22,,16.0,Chavanel Sylvain,17,Bonjour,33:22 33:22,,11,2002,▼1
+23,153,127.0,+ 41:27:15,,17.0,Bertogliati Rubens,18,Lampre - Daikin,34:15 34:15,,11,2002,▼1
+24,168,135.0,+ 41:29:22,,21.0,Sánchez Samuel,19,Euskaltel - Euskadi,36:22 36:22,,11,2002,▲2
+24,167,140.0,+ 41:31:55,,19.0,Mayo Iban,20,Euskaltel - Euskadi,38:55 38:55,,11,2002,▼1
+24,154,148.0,+ 41:34:41,,20.0,Cortinovis Alessandro,21,Lampre - Daikin,41:41 41:41,,11,2002,▼1
+25,162,149.0,+ 41:34:44,,23.0,Arrizabalaga Gorka,22,Euskaltel - Euskadi,41:44 41:44,,11,2002,▲1
+23,185,160.0,+ 41:39:14,,24.0,Flickinger Andy,23,AG2R Prévoyance,46:14 46:14,,11,2002,▲1
+24,93,161.0,+ 41:40:10,,22.0,Casper Jimmy,24,La Française des Jeux,47:10 47:10,,11,2002,▼2
+24,64,174.0,+ 41:52:40,,27.0,Hushovd Thor,25,Crédit Agricole,59:40 59:40,,11,2002,▲2
+24,165,175.0,+ 41:55:05,,28.0,González Gorka,26,Euskaltel - Euskadi,1:02:05 1:02:05,,11,2002,▲2
+24,156,177.0,+ 42:09:44,,26.0,Pagliarini Luciano André,27,Lampre - Daikin,1:16:44 1:16:44,,11,2002,▼1
+24,81,16.0,+ 47:00:16,,1.0,Basso Ivan,1,Fassa Bortolo,47:00:16 47:00:16,,12,2002,-
+24,26,17.0,+ 47:00:26,,3.0,Nozal Isidro,2,O.N.C.E. - Eroski,0:10 0:10,,12,2002,▲1
+24,91,20.0,+ 47:01:23,,2.0,Vogondy Nicolas,3,La Française des Jeux,1:07 1:07,,12,2002,▼1
+25,169,21.0,+ 47:01:36,,4.0,Zubeldia Haimar,4,Euskaltel - Euskadi,1:20 1:20,,12,2002,-
+25,144,41.0,+ 47:12:07,,8.0,Brandt Christophe,5,Lotto - Adecco,11:51 11:51,,12,2002,▲3
+25,84,48.0,+ 47:16:03,,7.0,Gustov Volodymyr,6,Fassa Bortolo,15:47 15:47,,12,2002,▲1
+23,129,57.0,+ 47:27:19,,12.0,Trampusch Gerhard,7,Mapei - Quickstep,27:03 27:03,,12,2002,▲5
+22,117,59.0,+ 47:29:25,,10.0,Pineau Jérôme,8,Bonjour,29:09 29:09,,12,2002,▲2
+23,114,63.0,+ 47:33:47,,17.0,Chavanel Sylvain,9,Bonjour,33:31 33:31,,12,2002,▲8
+25,47,74.0,+ 47:38:07,,5.0,Millar David,10,Cofidis,37:51 37:51,,12,2002,▼5
+24,131,79.0,+ 47:40:33,,6.0,Menchov Denis,11,iBanesto.com,40:17 40:17,,12,2002,▼5
+25,125,96.0,+ 47:47:08,,15.0,Hunter Robert,12,Mapei - Quickstep,46:52 46:52,,12,2002,▲3
+23,92,102.0,+ 47:55:44,,9.0,Casar Sandy,13,La Française des Jeux,55:28 55:28,,12,2002,▼4
+23,185,106.0,+ 47:56:43,,23.0,Flickinger Andy,14,AG2R Prévoyance,56:27 56:27,,12,2002,▲9
+22,206,112.0,+ 47:58:41,,11.0,Edaleine Christophe,15,Jean Delatour,58:25 58:25,,12,2002,▼4
+24,167,116.0,+ 47:59:39,,20.0,Mayo Iban,16,Euskaltel - Euskadi,59:23 59:23,,12,2002,▲4
+24,39,117.0,+ 47:59:56,,13.0,Zaballa Constantino,17,Kelme - Costa Blanca,59:40 59:40,,12,2002,▼4
+25,105,121.0,+ 48:01:31,,14.0,Engels Addy,18,Rabobank ProTeam,1:01:15 1:01:15,,12,2002,▼4
+23,94,124.0,+ 48:04:36,,16.0,Cooke Baden,19,La Française des Jeux,1:04:20 1:04:20,,12,2002,▼3
+23,153,130.0,+ 48:08:16,,18.0,Bertogliati Rubens,20,Lampre - Daikin,1:08:00 1:08:00,,12,2002,▼2
+24,154,146.0,+ 48:15:42,,21.0,Cortinovis Alessandro,21,Lampre - Daikin,1:15:26 1:15:26,,12,2002,-
+25,162,147.0,+ 48:15:45,,22.0,Arrizabalaga Gorka,22,Euskaltel - Euskadi,1:15:29 1:15:29,,12,2002,-
+24,93,156.0,+ 48:21:11,,24.0,Casper Jimmy,23,La Française des Jeux,1:20:55 1:20:55,,12,2002,▲1
+24,64,165.0,+ 48:33:41,,25.0,Hushovd Thor,24,Crédit Agricole,1:33:25 1:33:25,,12,2002,▲1
+24,81,18.0,+ 51:18:30,,1.0,Basso Ivan,1,Fassa Bortolo,51:18:30 51:18:30,,13,2002,-
+24,26,19.0,+ 51:18:40,,2.0,Nozal Isidro,2,O.N.C.E. - Eroski,0:10 0:10,,13,2002,-
+24,91,23.0,+ 51:19:37,,3.0,Vogondy Nicolas,3,La Française des Jeux,1:07 1:07,,13,2002,-
+25,169,24.0,+ 51:19:50,,4.0,Zubeldia Haimar,4,Euskaltel - Euskadi,1:20 1:20,,13,2002,-
+25,144,43.0,+ 51:30:21,,5.0,Brandt Christophe,5,Lotto - Adecco,11:51 11:51,,13,2002,-
+25,84,48.0,+ 51:34:17,,6.0,Gustov Volodymyr,6,Fassa Bortolo,15:47 15:47,,13,2002,-
+23,129,56.0,+ 51:45:33,,7.0,Trampusch Gerhard,7,Mapei - Quickstep,27:03 27:03,,13,2002,-
+25,47,59.0,+ 51:46:05,,10.0,Millar David,8,Cofidis,27:35 27:35,,13,2002,▲2
+22,117,61.0,+ 51:47:39,,8.0,Pineau Jérôme,9,Bonjour,29:09 29:09,,13,2002,▼1
+23,114,68.0,+ 51:52:01,,9.0,Chavanel Sylvain,10,Bonjour,33:31 33:31,,13,2002,▼1
+24,131,86.0,+ 52:01:34,,11.0,Menchov Denis,11,iBanesto.com,43:04 43:04,,13,2002,-
+25,125,97.0,+ 52:08:09,,12.0,Hunter Robert,12,Mapei - Quickstep,49:39 49:39,,13,2002,-
+23,92,103.0,+ 52:13:58,,13.0,Casar Sandy,13,La Française des Jeux,55:28 55:28,,13,2002,-
+22,206,111.0,+ 52:16:55,,15.0,Edaleine Christophe,14,Jean Delatour,58:25 58:25,,13,2002,▲1
+23,185,112.0,+ 52:17:08,,14.0,Flickinger Andy,15,AG2R Prévoyance,58:38 58:38,,13,2002,▼1
+24,39,115.0,+ 52:18:10,,17.0,Zaballa Constantino,16,Kelme - Costa Blanca,59:40 59:40,,13,2002,▲1
+24,167,120.0,+ 52:20:40,,16.0,Mayo Iban,17,Euskaltel - Euskadi,1:02:10 1:02:10,,13,2002,▼1
+25,105,122.0,+ 52:22:32,,18.0,Engels Addy,18,Rabobank ProTeam,1:04:02 1:04:02,,13,2002,-
+23,94,123.0,+ 52:22:50,,19.0,Cooke Baden,19,La Française des Jeux,1:04:20 1:04:20,,13,2002,-
+23,153,129.0,+ 52:26:30,,20.0,Bertogliati Rubens,20,Lampre - Daikin,1:08:00 1:08:00,,13,2002,-
+24,154,145.0,+ 52:33:56,,21.0,Cortinovis Alessandro,21,Lampre - Daikin,1:15:26 1:15:26,,13,2002,-
+25,162,146.0,+ 52:34:23,,22.0,Arrizabalaga Gorka,22,Euskaltel - Euskadi,1:15:53 1:15:53,,13,2002,-
+24,93,154.0,+ 52:39:25,,23.0,Casper Jimmy,23,La Française des Jeux,1:20:55 1:20:55,,13,2002,-
+24,64,163.0,+ 52:51:55,,24.0,Hushovd Thor,24,Crédit Agricole,1:33:25 1:33:25,,13,2002,-
+24,81,11.0,+ 57:05:35,,1.0,Basso Ivan,1,Fassa Bortolo,57:05:35 57:05:35,88.0,14,2002,-
+24,91,21.0,+ 57:11:40,,3.0,Vogondy Nicolas,2,La Française des Jeux,6:05 6:05,50.0,14,2002,▲1
+25,169,23.0,+ 57:13:24,,4.0,Zubeldia Haimar,3,Euskaltel - Euskadi,7:49 7:49,33.0,14,2002,▲1
+25,144,42.0,+ 57:23:10,,5.0,Brandt Christophe,4,Lotto - Adecco,17:35 17:35,24.0,14,2002,▲1
+24,26,44.0,+ 57:24:25,,2.0,Nozal Isidro,5,O.N.C.E. - Eroski,18:50 18:50,24.0,14,2002,▼3
+25,84,46.0,+ 57:28:26,,6.0,Gustov Volodymyr,6,Fassa Bortolo,22:51 22:51,19.0,14,2002,-
+23,114,55.0,+ 57:45:26,,10.0,Chavanel Sylvain,7,Bonjour,39:51 39:51,19.0,14,2002,▲3
+25,47,56.0,+ 57:47:31,,8.0,Millar David,8,Cofidis,41:56 41:56,19.0,14,2002,-
+23,129,60.0,+ 57:51:09,,7.0,Trampusch Gerhard,9,Mapei - Quickstep,45:34 45:34,18.0,14,2002,▼2
+22,117,69.0,+ 57:57:47,,9.0,Pineau Jérôme,10,Bonjour,52:12 52:12,18.0,14,2002,▼1
+24,131,86.0,+ 58:06:35,,11.0,Menchov Denis,11,iBanesto.com,1:01:00 1:01:00,16.0,14,2002,-
+22,206,91.0,+ 58:09:50,,14.0,Edaleine Christophe,12,Jean Delatour,1:04:15 1:04:15,14.0,14,2002,▲2
+23,185,99.0,+ 58:15:51,,15.0,Flickinger Andy,13,AG2R Prévoyance,1:10:16 1:10:16,13.0,14,2002,▲2
+25,125,101.0,+ 58:16:50,,12.0,Hunter Robert,14,Mapei - Quickstep,1:11:15 1:11:15,12.0,14,2002,▼2
+23,92,110.0,+ 58:24:06,,13.0,Casar Sandy,15,La Française des Jeux,1:18:31 1:18:31,12.0,14,2002,▼2
+24,39,118.0,+ 58:28:18,,16.0,Zaballa Constantino,16,Kelme - Costa Blanca,1:22:43 1:22:43,11.0,14,2002,-
+24,167,123.0,+ 58:31:08,,17.0,Mayo Iban,17,Euskaltel - Euskadi,1:25:33 1:25:33,10.0,14,2002,-
+25,105,124.0,+ 58:31:13,,18.0,Engels Addy,18,Rabobank ProTeam,1:25:38 1:25:38,9.0,14,2002,-
+23,94,126.0,+ 58:32:58,,19.0,Cooke Baden,19,La Française des Jeux,1:27:23 1:27:23,9.0,14,2002,-
+23,153,131.0,+ 58:36:38,,20.0,Bertogliati Rubens,20,Lampre - Daikin,1:31:03 1:31:03,8.0,14,2002,-
+24,154,143.0,+ 58:44:04,,21.0,Cortinovis Alessandro,21,Lampre - Daikin,1:38:29 1:38:29,8.0,14,2002,-
+24,64,149.0,+ 58:46:56,,24.0,Hushovd Thor,22,Crédit Agricole,1:41:21 1:41:21,8.0,14,2002,▲2
+25,162,150.0,+ 58:47:08,,22.0,Arrizabalaga Gorka,23,Euskaltel - Euskadi,1:41:33 1:41:33,8.0,14,2002,▼1
+24,93,158.0,+ 58:56:19,,23.0,Casper Jimmy,24,La Française des Jeux,1:50:44 1:50:44,7.0,14,2002,▼1
+24,81,10.0,+ 63:07:43,,1.0,Basso Ivan,1,Fassa Bortolo,63:07:43 63:07:43,,15,2002,-
+24,91,22.0,+ 63:14:57,,2.0,Vogondy Nicolas,2,La Française des Jeux,7:14 7:14,,15,2002,-
+25,169,26.0,+ 63:19:44,,3.0,Zubeldia Haimar,3,Euskaltel - Euskadi,12:01 12:01,,15,2002,-
+25,144,39.0,+ 63:27:53,,4.0,Brandt Christophe,4,Lotto - Adecco,20:10 20:10,,15,2002,-
+25,84,40.0,+ 63:35:30,,6.0,Gustov Volodymyr,5,Fassa Bortolo,27:47 27:47,,15,2002,▲1
+24,26,41.0,+ 63:38:39,,5.0,Nozal Isidro,6,O.N.C.E. - Eroski,30:56 30:56,,15,2002,▼1
+23,114,49.0,+ 63:49:18,,7.0,Chavanel Sylvain,7,Bonjour,41:35 41:35,,15,2002,-
+23,129,60.0,+ 64:01:48,,9.0,Trampusch Gerhard,8,Mapei - Quickstep,54:05 54:05,,15,2002,▲1
+25,47,64.0,+ 64:03:46,,8.0,Millar David,9,Cofidis,56:03 56:03,,15,2002,▼1
+22,117,68.0,+ 64:11:20,,10.0,Pineau Jérôme,10,Bonjour,1:03:37 1:03:37,,15,2002,-
+23,92,89.0,+ 64:23:46,,15.0,Casar Sandy,11,La Française des Jeux,1:16:03 1:16:03,,15,2002,▲4
+24,131,90.0,+ 64:25:33,,11.0,Menchov Denis,12,iBanesto.com,1:17:50 1:17:50,,15,2002,▼1
+23,185,94.0,+ 64:27:07,,13.0,Flickinger Andy,13,AG2R Prévoyance,1:19:24 1:19:24,,15,2002,-
+22,206,97.0,+ 64:28:48,,12.0,Edaleine Christophe,14,Jean Delatour,1:21:05 1:21:05,,15,2002,▼2
+25,125,104.0,+ 64:35:48,,14.0,Hunter Robert,15,Mapei - Quickstep,1:28:05 1:28:05,,15,2002,▼1
+25,105,105.0,+ 64:36:10,,18.0,Engels Addy,16,Rabobank ProTeam,1:28:27 1:28:27,,15,2002,▲2
+24,167,115.0,+ 64:44:31,,17.0,Mayo Iban,17,Euskaltel - Euskadi,1:36:48 1:36:48,,15,2002,-
+24,39,122.0,+ 64:47:36,,16.0,Zaballa Constantino,18,Kelme - Costa Blanca,1:39:53 1:39:53,,15,2002,▼2
+23,94,129.0,+ 64:53:32,,19.0,Cooke Baden,19,La Française des Jeux,1:45:49 1:45:49,,15,2002,-
+23,153,135.0,+ 64:57:12,,20.0,Bertogliati Rubens,20,Lampre - Daikin,1:49:29 1:49:29,,15,2002,-
+24,154,145.0,+ 65:04:38,,21.0,Cortinovis Alessandro,21,Lampre - Daikin,1:56:55 1:56:55,,15,2002,-
+25,162,147.0,+ 65:06:06,,23.0,Arrizabalaga Gorka,22,Euskaltel - Euskadi,1:58:23 1:58:23,,15,2002,▲1
+24,64,153.0,+ 65:07:30,,22.0,Hushovd Thor,23,Crédit Agricole,1:59:47 1:59:47,,15,2002,▼1
+24,93,162.0,+ 65:29:50,,24.0,Casper Jimmy,24,La Française des Jeux,2:22:07 2:22:07,,15,2002,-
+24,81,10.0,+ 68:58:26,,1.0,Basso Ivan,1,Fassa Bortolo,68:58:26 68:58:26,,16,2002,-
+24,91,18.0,+ 69:09:20,,2.0,Vogondy Nicolas,2,La Française des Jeux,10:54 10:54,,16,2002,-
+25,169,35.0,+ 69:42:39,,3.0,Zubeldia Haimar,3,Euskaltel - Euskadi,44:13 44:13,,16,2002,-
+25,144,36.0,+ 69:42:54,,4.0,Brandt Christophe,4,Lotto - Adecco,44:28 44:28,,16,2002,-
+23,114,42.0,+ 69:47:41,,7.0,Chavanel Sylvain,5,Bonjour,49:15 49:15,,16,2002,▲2
+25,84,45.0,+ 69:50:31,,5.0,Gustov Volodymyr,6,Fassa Bortolo,52:05 52:05,,16,2002,▼1
+24,26,46.0,+ 69:51:57,,6.0,Nozal Isidro,7,O.N.C.E. - Eroski,53:31 53:31,,16,2002,▼1
+23,129,67.0,+ 70:24:43,,8.0,Trampusch Gerhard,8,Mapei - Quickstep,1:26:17 1:26:17,,16,2002,-
+25,47,69.0,+ 70:26:41,,9.0,Millar David,9,Cofidis,1:28:15 1:28:15,,16,2002,-
+22,117,79.0,+ 70:34:15,,10.0,Pineau Jérôme,10,Bonjour,1:35:49 1:35:49,,16,2002,-
+23,92,91.0,+ 70:46:41,,11.0,Casar Sandy,11,La Française des Jeux,1:48:15 1:48:15,,16,2002,-
+24,131,92.0,+ 70:48:28,,12.0,Menchov Denis,12,iBanesto.com,1:50:02 1:50:02,,16,2002,-
+23,185,94.0,+ 70:50:02,,13.0,Flickinger Andy,13,AG2R Prévoyance,1:51:36 1:51:36,,16,2002,-
+25,125,96.0,+ 70:50:47,,15.0,Hunter Robert,14,Mapei - Quickstep,1:52:21 1:52:21,,16,2002,▲1
+25,105,97.0,+ 70:51:11,,16.0,Engels Addy,15,Rabobank ProTeam,1:52:45 1:52:45,,16,2002,▲1
+22,206,98.0,+ 70:51:43,,14.0,Edaleine Christophe,16,Jean Delatour,1:53:17 1:53:17,,16,2002,▼2
+24,167,99.0,+ 70:51:58,,17.0,Mayo Iban,17,Euskaltel - Euskadi,1:53:32 1:53:32,,16,2002,-
+24,39,121.0,+ 71:10:31,,18.0,Zaballa Constantino,18,Kelme - Costa Blanca,2:12:05 2:12:05,,16,2002,-
+23,94,126.0,+ 71:16:27,,19.0,Cooke Baden,19,La Française des Jeux,2:18:01 2:18:01,,16,2002,-
+23,153,133.0,+ 71:20:17,,20.0,Bertogliati Rubens,20,Lampre - Daikin,2:21:51 2:21:51,,16,2002,-
+24,154,141.0,+ 71:27:33,,21.0,Cortinovis Alessandro,21,Lampre - Daikin,2:29:07 2:29:07,,16,2002,-
+25,162,142.0,+ 71:29:01,,22.0,Arrizabalaga Gorka,22,Euskaltel - Euskadi,2:30:35 2:30:35,,16,2002,-
+24,64,148.0,+ 71:30:25,,23.0,Hushovd Thor,23,Crédit Agricole,2:31:59 2:31:59,,16,2002,-
+24,81,11.0,+ 73:05:29,,1.0,Basso Ivan,1,Fassa Bortolo,73:05:29 73:05:29,,17,2002,-
+24,91,20.0,+ 73:17:08,,2.0,Vogondy Nicolas,2,La Française des Jeux,11:39 11:39,,17,2002,-
+25,144,34.0,+ 73:52:02,,4.0,Brandt Christophe,3,Lotto - Adecco,46:33 46:33,,17,2002,▲1
+23,114,36.0,+ 73:55:04,,5.0,Chavanel Sylvain,4,Bonjour,49:35 49:35,,17,2002,▲1
+25,169,37.0,+ 73:59:18,,3.0,Zubeldia Haimar,5,Euskaltel - Euskadi,53:49 53:49,,17,2002,▼2
+24,26,38.0,+ 73:59:19,,7.0,Nozal Isidro,6,O.N.C.E. - Eroski,53:50 53:50,,17,2002,▲1
+25,84,43.0,+ 74:02:06,,6.0,Gustov Volodymyr,7,Fassa Bortolo,56:37 56:37,,17,2002,▼1
+23,129,63.0,+ 74:36:18,,8.0,Trampusch Gerhard,8,Mapei - Quickstep,1:30:49 1:30:49,,17,2002,-
+25,47,71.0,+ 74:49:02,,9.0,Millar David,9,Cofidis,1:43:33 1:43:33,,17,2002,-
+23,92,84.0,+ 74:57:56,,11.0,Casar Sandy,10,La Française des Jeux,1:52:27 1:52:27,,17,2002,▲1
+22,117,86.0,+ 74:59:54,,10.0,Pineau Jérôme,11,Bonjour,1:54:25 1:54:25,,17,2002,▼1
+24,167,88.0,+ 75:03:13,,17.0,Mayo Iban,12,Euskaltel - Euskadi,1:57:44 1:57:44,,17,2002,▲5
+25,105,91.0,+ 75:03:37,,15.0,Engels Addy,13,Rabobank ProTeam,1:58:08 1:58:08,,17,2002,▲2
+25,125,94.0,+ 75:07:26,,14.0,Hunter Robert,14,Mapei - Quickstep,2:01:57 2:01:57,,17,2002,-
+24,131,95.0,+ 75:07:50,,12.0,Menchov Denis,15,iBanesto.com,2:02:21 2:02:21,,17,2002,▼3
+23,185,100.0,+ 75:16:41,,13.0,Flickinger Andy,16,AG2R Prévoyance,2:11:12 2:11:12,,17,2002,▼3
+22,206,101.0,+ 75:17:22,,16.0,Edaleine Christophe,17,Jean Delatour,2:11:53 2:11:53,,17,2002,▼1
+24,39,115.0,+ 75:27:10,,18.0,Zaballa Constantino,18,Kelme - Costa Blanca,2:21:41 2:21:41,,17,2002,-
+24,64,122.0,+ 75:35:50,,23.0,Hushovd Thor,19,Crédit Agricole,2:30:21 2:30:21,,17,2002,▲4
+23,94,126.0,+ 75:43:06,,19.0,Cooke Baden,20,La Française des Jeux,2:37:37 2:37:37,,17,2002,▼1
+23,153,132.0,+ 75:46:56,,20.0,Bertogliati Rubens,21,Lampre - Daikin,2:41:27 2:41:27,,17,2002,▼1
+24,154,139.0,+ 75:54:12,,21.0,Cortinovis Alessandro,22,Lampre - Daikin,2:48:43 2:48:43,,17,2002,▼1
+25,162,141.0,+ 75:55:40,,22.0,Arrizabalaga Gorka,23,Euskaltel - Euskadi,2:50:11 2:50:11,,17,2002,▼1
+24,81,11.0,+ 77:45:39,,1.0,Basso Ivan,1,Fassa Bortolo,77:45:39 77:45:39,,18,2002,-
+24,91,21.0,+ 77:57:18,,2.0,Vogondy Nicolas,2,La Française des Jeux,11:39 11:39,,18,2002,-
+25,144,34.0,+ 78:32:12,,3.0,Brandt Christophe,3,Lotto - Adecco,46:33 46:33,,18,2002,-
+23,114,36.0,+ 78:35:14,,4.0,Chavanel Sylvain,4,Bonjour,49:35 49:35,,18,2002,-
+25,169,37.0,+ 78:39:28,,5.0,Zubeldia Haimar,5,Euskaltel - Euskadi,53:49 53:49,,18,2002,-
+24,26,38.0,+ 78:39:29,,6.0,Nozal Isidro,6,O.N.C.E. - Eroski,53:50 53:50,,18,2002,-
+25,84,43.0,+ 78:42:16,,7.0,Gustov Volodymyr,7,Fassa Bortolo,56:37 56:37,,18,2002,-
+23,129,63.0,+ 79:16:28,,8.0,Trampusch Gerhard,8,Mapei - Quickstep,1:30:49 1:30:49,,18,2002,-
+25,47,71.0,+ 79:29:12,,9.0,Millar David,9,Cofidis,1:43:33 1:43:33,,18,2002,-
+23,92,84.0,+ 79:38:06,,10.0,Casar Sandy,10,La Française des Jeux,1:52:27 1:52:27,,18,2002,-
+22,117,87.0,+ 79:40:04,,11.0,Pineau Jérôme,11,Bonjour,1:54:25 1:54:25,,18,2002,-
+24,167,89.0,+ 79:43:23,,12.0,Mayo Iban,12,Euskaltel - Euskadi,1:57:44 1:57:44,,18,2002,-
+25,105,92.0,+ 79:43:47,,13.0,Engels Addy,13,Rabobank ProTeam,1:58:08 1:58:08,,18,2002,-
+25,125,96.0,+ 79:47:36,,14.0,Hunter Robert,14,Mapei - Quickstep,2:01:57 2:01:57,,18,2002,-
+24,131,97.0,+ 79:48:00,,15.0,Menchov Denis,15,iBanesto.com,2:02:21 2:02:21,,18,2002,-
+23,185,102.0,+ 79:56:51,,16.0,Flickinger Andy,16,AG2R Prévoyance,2:11:12 2:11:12,,18,2002,-
+22,206,103.0,+ 79:57:32,,17.0,Edaleine Christophe,17,Jean Delatour,2:11:53 2:11:53,,18,2002,-
+24,64,111.0,+ 80:03:58,,19.0,Hushovd Thor,18,Crédit Agricole,2:18:19 2:18:19,,18,2002,▲1
+24,39,116.0,+ 80:07:20,,18.0,Zaballa Constantino,19,Kelme - Costa Blanca,2:21:41 2:21:41,,18,2002,▼1
+23,94,127.0,+ 80:23:16,,20.0,Cooke Baden,20,La Française des Jeux,2:37:37 2:37:37,,18,2002,-
+23,153,134.0,+ 80:27:06,,21.0,Bertogliati Rubens,21,Lampre - Daikin,2:41:27 2:41:27,,18,2002,-
+24,154,141.0,+ 80:34:22,,22.0,Cortinovis Alessandro,22,Lampre - Daikin,2:48:43 2:48:43,,18,2002,-
+25,162,143.0,+ 80:35:50,,23.0,Arrizabalaga Gorka,23,Euskaltel - Euskadi,2:50:11 2:50:11,,18,2002,-
+24,81,11.0,+ 78:53:43,,1.0,Basso Ivan,1,Fassa Bortolo,78:53:43 78:53:43,,19,2002,-
+24,91,19.0,+ 79:07:09,,2.0,Vogondy Nicolas,2,La Française des Jeux,13:26 13:26,,19,2002,-
+25,144,35.0,+ 79:42:15,,3.0,Brandt Christophe,3,Lotto - Adecco,48:32 48:32,,19,2002,-
+23,114,36.0,+ 79:43:51,,4.0,Chavanel Sylvain,4,Bonjour,50:08 50:08,,19,2002,-
+24,26,38.0,+ 79:47:52,,6.0,Nozal Isidro,5,O.N.C.E. - Eroski,54:09 54:09,,19,2002,▲1
+25,169,39.0,+ 79:50:04,,5.0,Zubeldia Haimar,6,Euskaltel - Euskadi,56:21 56:21,,19,2002,▼1
+25,84,40.0,+ 79:51:51,,7.0,Gustov Volodymyr,7,Fassa Bortolo,58:08 58:08,,19,2002,-
+23,129,63.0,+ 80:25:55,,8.0,Trampusch Gerhard,8,Mapei - Quickstep,1:32:12 1:32:12,,19,2002,-
+25,47,68.0,+ 80:34:16,,9.0,Millar David,9,Cofidis,1:40:33 1:40:33,,19,2002,-
+23,92,83.0,+ 80:46:47,,10.0,Casar Sandy,10,La Française des Jeux,1:53:04 1:53:04,,19,2002,-
+22,117,87.0,+ 80:52:49,,11.0,Pineau Jérôme,11,Bonjour,1:59:06 1:59:06,,19,2002,-
+24,167,88.0,+ 80:52:52,,12.0,Mayo Iban,12,Euskaltel - Euskadi,1:59:09 1:59:09,,19,2002,-
+24,131,93.0,+ 80:55:56,,15.0,Menchov Denis,13,iBanesto.com,2:02:13 2:02:13,,19,2002,▲2
+25,105,94.0,+ 80:56:02,,13.0,Engels Addy,14,Rabobank ProTeam,2:02:19 2:02:19,,19,2002,▼1
+25,125,97.0,+ 80:59:57,,14.0,Hunter Robert,15,Mapei - Quickstep,2:06:14 2:06:14,,19,2002,▼1
+22,206,100.0,+ 81:05:28,,17.0,Edaleine Christophe,16,Jean Delatour,2:11:45 2:11:45,,19,2002,▲1
+23,185,103.0,+ 81:07:38,,16.0,Flickinger Andy,17,AG2R Prévoyance,2:13:55 2:13:55,,19,2002,▼1
+24,64,112.0,+ 81:15:08,,18.0,Hushovd Thor,18,Crédit Agricole,2:21:25 2:21:25,,19,2002,-
+24,39,116.0,+ 81:18:55,,19.0,Zaballa Constantino,19,Kelme - Costa Blanca,2:25:12 2:25:12,,19,2002,-
+23,94,127.0,+ 81:34:59,,20.0,Cooke Baden,20,La Française des Jeux,2:41:16 2:41:16,,19,2002,-
+23,153,138.0,+ 81:44:35,,21.0,Bertogliati Rubens,21,Lampre - Daikin,2:50:52 2:50:52,,19,2002,-
+24,154,140.0,+ 81:45:35,,22.0,Cortinovis Alessandro,22,Lampre - Daikin,2:51:52 2:51:52,,19,2002,-
+25,162,142.0,+ 81:47:10,,23.0,Arrizabalaga Gorka,23,Euskaltel - Euskadi,2:53:27 2:53:27,,19,2002,-
+24,81,11.0,+ 82:24:30,,1.0,Basso Ivan,1,Fassa Bortolo,82:24:30 82:24:30,,20,2002,-
+24,91,19.0,+ 82:37:56,,2.0,Vogondy Nicolas,2,La Française des Jeux,13:26 13:26,,20,2002,-
+25,144,35.0,+ 83:13:02,,3.0,Brandt Christophe,3,Lotto - Adecco,48:32 48:32,,20,2002,-
+23,114,36.0,+ 83:14:38,,4.0,Chavanel Sylvain,4,Bonjour,50:08 50:08,,20,2002,-
+24,26,38.0,+ 83:18:39,,5.0,Nozal Isidro,5,O.N.C.E. - Eroski,54:09 54:09,,20,2002,-
+25,169,39.0,+ 83:20:51,,6.0,Zubeldia Haimar,6,Euskaltel - Euskadi,56:21 56:21,,20,2002,-
+25,84,40.0,+ 83:22:38,,7.0,Gustov Volodymyr,7,Fassa Bortolo,58:08 58:08,,20,2002,-
+23,129,63.0,+ 83:56:42,,8.0,Trampusch Gerhard,8,Mapei - Quickstep,1:32:12 1:32:12,,20,2002,-
+25,47,68.0,+ 84:05:03,,9.0,Millar David,9,Cofidis,1:40:33 1:40:33,,20,2002,-
+23,92,83.0,+ 84:17:34,,10.0,Casar Sandy,10,La Française des Jeux,1:53:04 1:53:04,,20,2002,-
+22,117,87.0,+ 84:23:36,,11.0,Pineau Jérôme,11,Bonjour,1:59:06 1:59:06,,20,2002,-
+24,167,88.0,+ 84:23:39,,12.0,Mayo Iban,12,Euskaltel - Euskadi,1:59:09 1:59:09,,20,2002,-
+24,131,93.0,+ 84:26:43,,13.0,Menchov Denis,13,iBanesto.com,2:02:13 2:02:13,,20,2002,-
+25,105,94.0,+ 84:26:49,,14.0,Engels Addy,14,Rabobank ProTeam,2:02:19 2:02:19,,20,2002,-
+25,125,97.0,+ 84:30:44,,15.0,Hunter Robert,15,Mapei - Quickstep,2:06:14 2:06:14,,20,2002,-
+22,206,100.0,+ 84:36:15,,16.0,Edaleine Christophe,16,Jean Delatour,2:11:45 2:11:45,,20,2002,-
+23,185,103.0,+ 84:38:25,,17.0,Flickinger Andy,17,AG2R Prévoyance,2:13:55 2:13:55,,20,2002,-
+24,64,112.0,+ 84:45:55,,18.0,Hushovd Thor,18,Crédit Agricole,2:21:25 2:21:25,,20,2002,-
+24,39,116.0,+ 84:49:42,,19.0,Zaballa Constantino,19,Kelme - Costa Blanca,2:25:12 2:25:12,,20,2002,-
+23,94,127.0,+ 85:05:34,,20.0,Cooke Baden,20,La Française des Jeux,2:41:04 2:41:04,,20,2002,-
+23,153,138.0,+ 85:15:22,,21.0,Bertogliati Rubens,21,Lampre - Daikin,2:50:52 2:50:52,,20,2002,-
+24,154,140.0,+ 85:16:22,,22.0,Cortinovis Alessandro,22,Lampre - Daikin,2:51:52 2:51:52,,20,2002,-
+25,162,142.0,+ 85:17:57,,23.0,Arrizabalaga Gorka,23,Euskaltel - Euskadi,2:53:27 2:53:27,,20,2002,-

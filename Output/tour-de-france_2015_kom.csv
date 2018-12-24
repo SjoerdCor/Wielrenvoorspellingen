@@ -1,0 +1,640 @@
+Age,BIB,Pnt,Prev,Rider,Rnk,Team,stage,year,▼▲
+36.0,91.0,2.0,,Rodríguez Joaquim,1.0,Team Katusha,3,2015,
+25.0,45.0,1.0,,Majka Rafał,2.0,Tinkoff - Saxo,3,2015,
+28.0,67.0,1.0,,Schär Michael,3.0,BMC Racing Team,3,2015,
+30.0,31.0,1.0,,Froome Chris,4.0,Team Sky,3,2015,
+36.0,91.0,2.0,1.0,Rodríguez Joaquim,1.0,Team Katusha,4,2015,-
+28.0,67.0,1.0,3.0,Schär Michael,2.0,BMC Racing Team,4,2015,▲1
+25.0,45.0,1.0,2.0,Majka Rafał,3.0,Tinkoff - Saxo,4,2015,▼1
+28.0,73.0,1.0,,De Gendt Thomas,4.0,Lotto Soudal,4,2015,-
+30.0,31.0,1.0,4.0,Froome Chris,5.0,Team Sky,4,2015,▼1
+36.0,91.0,2.0,1.0,Rodríguez Joaquim,1.0,Team Katusha,5,2015,-
+28.0,67.0,1.0,2.0,Schär Michael,2.0,BMC Racing Team,5,2015,-
+25.0,45.0,1.0,3.0,Majka Rafał,3.0,Tinkoff - Saxo,5,2015,-
+28.0,73.0,1.0,4.0,De Gendt Thomas,4.0,Lotto Soudal,5,2015,-
+30.0,31.0,1.0,5.0,Froome Chris,5.0,Team Sky,5,2015,-
+26.0,219.0,3.0,,Teklehaimanot Daniel,1.0,MTN - Qhubeka,6,2015,-
+36.0,91.0,2.0,1.0,Rodríguez Joaquim,2.0,Team Katusha,6,2015,▼1
+28.0,67.0,1.0,2.0,Schär Michael,3.0,BMC Racing Team,6,2015,▼1
+25.0,45.0,1.0,3.0,Majka Rafał,4.0,Tinkoff - Saxo,6,2015,▼1
+28.0,73.0,1.0,4.0,De Gendt Thomas,5.0,Lotto Soudal,6,2015,▼1
+30.0,31.0,1.0,5.0,Froome Chris,6.0,Team Sky,6,2015,▼1
+26.0,219.0,4.0,1.0,Teklehaimanot Daniel,1.0,MTN - Qhubeka,7,2015,-
+36.0,91.0,2.0,2.0,Rodríguez Joaquim,2.0,Team Katusha,7,2015,-
+28.0,67.0,1.0,3.0,Schär Michael,3.0,BMC Racing Team,7,2015,-
+25.0,45.0,1.0,4.0,Majka Rafał,4.0,Tinkoff - Saxo,7,2015,-
+28.0,73.0,1.0,5.0,De Gendt Thomas,5.0,Lotto Soudal,7,2015,-
+30.0,31.0,1.0,6.0,Froome Chris,6.0,Team Sky,7,2015,-
+26.0,219.0,4.0,1.0,Teklehaimanot Daniel,1.0,MTN - Qhubeka,8,2015,-
+36.0,91.0,2.0,2.0,Rodríguez Joaquim,2.0,Team Katusha,8,2015,-
+27.0,19.0,2.0,,Vuillermoz Alexis,3.0,AG2R La Mondiale,8,2015,-
+28.0,67.0,1.0,3.0,Schär Michael,4.0,BMC Racing Team,8,2015,▼1
+27.0,127.0,1.0,,Sicard Romain,5.0,Team Europcar,8,2015,-
+25.0,45.0,1.0,4.0,Majka Rafał,6.0,Tinkoff - Saxo,8,2015,▼2
+28.0,73.0,1.0,5.0,De Gendt Thomas,7.0,Lotto Soudal,8,2015,▼2
+30.0,31.0,1.0,6.0,Froome Chris,8.0,Team Sky,8,2015,▼2
+28.0,167.0,1.0,,Martin Dan,9.0,Team Cannondale - Garmin,8,2015,-
+30.0,31.0,51.0,8.0,Froome Chris,1.0,Team Sky,10,2015,▲7
+30.0,35.0,40.0,,Porte Richie,2.0,Team Sky,10,2015,-
+25.0,51.0,32.0,,Quintana Nairo,3.0,Movistar Team,10,2015,-
+29.0,131.0,28.0,,Gesink Robert,4.0,Team LottoNL-Jumbo,10,2015,-
+35.0,59.0,24.0,,Valverde Alejandro,5.0,Movistar Team,10,2015,-
+29.0,39.0,20.0,,Thomas Geraint,6.0,Team Sky,10,2015,-
+22.0,108.0,16.0,,Yates Adam,7.0,Orica GreenEDGE,10,2015,-
+28.0,121.0,12.0,,Rolland Pierre,8.0,Team Europcar,10,2015,-
+27.0,71.0,8.0,,Gallopin Tony,9.0,Lotto Soudal,10,2015,-
+26.0,219.0,4.0,1.0,Teklehaimanot Daniel,10.0,MTN - Qhubeka,10,2015,▼9
+26.0,61.0,4.0,,van Garderen Tejay,11.0,BMC Racing Team,10,2015,-
+25.0,179.0,3.0,,Vanbilsen Kenneth,12.0,"Cofidis, Solutions Crédits",10,2015,-
+36.0,91.0,2.0,2.0,Rodríguez Joaquim,13.0,Team Katusha,10,2015,▼11
+27.0,19.0,2.0,3.0,Vuillermoz Alexis,14.0,AG2R La Mondiale,10,2015,▼11
+27.0,127.0,1.0,5.0,Sicard Romain,15.0,Team Europcar,10,2015,▼10
+28.0,67.0,1.0,4.0,Schär Michael,16.0,BMC Racing Team,10,2015,▼12
+25.0,45.0,1.0,6.0,Majka Rafał,17.0,Tinkoff - Saxo,10,2015,▼11
+28.0,73.0,1.0,7.0,De Gendt Thomas,18.0,Lotto Soudal,10,2015,▼11
+28.0,167.0,1.0,9.0,Martin Dan,19.0,Team Cannondale - Garmin,10,2015,▼10
+30.0,31.0,57.0,1.0,Froome Chris,1.0,Team Sky,11,2015,-
+30.0,35.0,40.0,2.0,Porte Richie,2.0,Team Sky,11,2015,-
+25.0,45.0,32.0,17.0,Majka Rafał,3.0,Tinkoff - Saxo,11,2015,▲14
+25.0,51.0,32.0,3.0,Quintana Nairo,4.0,Movistar Team,11,2015,▼1
+29.0,131.0,28.0,4.0,Gesink Robert,5.0,Team LottoNL-Jumbo,11,2015,▼1
+28.0,167.0,27.0,19.0,Martin Dan,6.0,Team Cannondale - Garmin,11,2015,▲13
+31.0,218.0,26.0,,Pauwels Serge,7.0,MTN - Qhubeka,11,2015,-
+35.0,59.0,24.0,5.0,Valverde Alejandro,8.0,Movistar Team,11,2015,▼3
+36.0,129.0,23.0,,Voeckler Thomas,9.0,Team Europcar,11,2015,-
+29.0,39.0,22.0,6.0,Thomas Geraint,10.0,Team Sky,11,2015,▼4
+28.0,121.0,16.0,8.0,Rolland Pierre,11.0,Team Europcar,11,2015,▼3
+22.0,108.0,16.0,7.0,Yates Adam,12.0,Orica GreenEDGE,11,2015,▼5
+22.0,194.0,16.0,,Buchmann Emanuel,13.0,Bora - Argon 18,11,2015,-
+29.0,177.0,12.0,,Simon Julien,14.0,"Cofidis, Solutions Crédits",11,2015,-
+32.0,27.0,10.0,,Morabito Steve,15.0,FDJ,11,2015,-
+27.0,71.0,8.0,9.0,Gallopin Tony,16.0,Lotto Soudal,11,2015,▼7
+26.0,219.0,6.0,10.0,Teklehaimanot Daniel,17.0,MTN - Qhubeka,11,2015,▼7
+26.0,61.0,4.0,11.0,van Garderen Tejay,18.0,BMC Racing Team,11,2015,▼7
+25.0,179.0,3.0,12.0,Vanbilsen Kenneth,19.0,"Cofidis, Solutions Crédits",11,2015,▼7
+36.0,91.0,2.0,13.0,Rodríguez Joaquim,20.0,Team Katusha,11,2015,▼7
+27.0,19.0,2.0,14.0,Vuillermoz Alexis,21.0,AG2R La Mondiale,11,2015,▼7
+27.0,127.0,1.0,15.0,Sicard Romain,22.0,Team Europcar,11,2015,▼7
+28.0,67.0,1.0,16.0,Schär Michael,23.0,BMC Racing Team,11,2015,▼7
+28.0,73.0,1.0,18.0,De Gendt Thomas,24.0,Lotto Soudal,11,2015,▼6
+30.0,31.0,61.0,1.0,Froome Chris,1.0,Team Sky,12,2015,-
+36.0,91.0,52.0,20.0,Rodríguez Joaquim,2.0,Team Katusha,12,2015,▲18
+30.0,3.0,41.0,,Fuglsang Jakob,3.0,Astana Pro Team,12,2015,-
+30.0,35.0,40.0,2.0,Porte Richie,4.0,Team Sky,12,2015,▼2
+24.0,12.0,35.0,,Bardet Romain,5.0,AG2R La Mondiale,12,2015,-
+25.0,45.0,32.0,3.0,Majka Rafał,6.0,Tinkoff - Saxo,12,2015,▼3
+25.0,51.0,32.0,4.0,Quintana Nairo,7.0,Movistar Team,12,2015,▼3
+35.0,59.0,32.0,8.0,Valverde Alejandro,8.0,Movistar Team,12,2015,-
+29.0,131.0,28.0,5.0,Gesink Robert,9.0,Team LottoNL-Jumbo,12,2015,▼4
+27.0,57.0,28.0,,Izagirre Gorka,10.0,Movistar Team,12,2015,-
+23.0,217.0,28.0,,Meintjes Louis,11.0,MTN - Qhubeka,12,2015,-
+28.0,167.0,27.0,6.0,Martin Dan,12.0,Team Cannondale - Garmin,12,2015,▼6
+31.0,218.0,26.0,7.0,Pauwels Serge,13.0,MTN - Qhubeka,12,2015,▼6
+29.0,14.0,24.0,,Cherel Mickaël,14.0,AG2R La Mondiale,12,2015,-
+36.0,129.0,23.0,9.0,Voeckler Thomas,15.0,Team Europcar,12,2015,▼6
+29.0,39.0,22.0,10.0,Thomas Geraint,16.0,Team Sky,12,2015,▼6
+30.0,192.0,20.0,,Bárta Jan,17.0,Bora - Argon 18,12,2015,-
+27.0,127.0,17.0,22.0,Sicard Romain,18.0,Team Europcar,12,2015,▲4
+28.0,121.0,16.0,11.0,Rolland Pierre,19.0,Team Europcar,12,2015,▼8
+22.0,108.0,16.0,12.0,Yates Adam,20.0,Orica GreenEDGE,12,2015,▼8
+22.0,194.0,16.0,13.0,Buchmann Emanuel,21.0,Bora - Argon 18,12,2015,▼8
+25.0,87.0,13.0,,Preidler Georg,22.0,Team Giant - Alpecin,12,2015,-
+29.0,177.0,12.0,14.0,Simon Julien,23.0,"Cofidis, Solutions Crédits",12,2015,▼9
+25.0,111.0,10.0,,Kwiatkowski Michał,24.0,Etixx - Quick Step,12,2015,-
+27.0,154.0,10.0,,Đurasek Kristijan,25.0,Lampre - Merida,12,2015,-
+32.0,27.0,10.0,15.0,Morabito Steve,26.0,FDJ,12,2015,▼11
+27.0,71.0,8.0,16.0,Gallopin Tony,27.0,Lotto Soudal,12,2015,▼11
+26.0,139.0,8.0,,Vanmarcke Sep,28.0,Team LottoNL-Jumbo,12,2015,-
+26.0,219.0,6.0,17.0,Teklehaimanot Daniel,29.0,MTN - Qhubeka,12,2015,▼12
+26.0,61.0,4.0,18.0,van Garderen Tejay,30.0,BMC Racing Team,12,2015,▼12
+30.0,26.0,4.0,,Ladagnous Matthieu,31.0,FDJ,12,2015,-
+25.0,179.0,3.0,19.0,Vanbilsen Kenneth,32.0,"Cofidis, Solutions Crédits",12,2015,▼13
+32.0,28.0,3.0,,Roy Jérémy,33.0,FDJ,12,2015,-
+27.0,19.0,2.0,21.0,Vuillermoz Alexis,34.0,AG2R La Mondiale,12,2015,▼13
+36.0,183.0,2.0,,Chavanel Sylvain,35.0,IAM Cycling,12,2015,-
+32.0,9.0,2.0,,Westra Lieuwe,36.0,Astana Pro Team,12,2015,-
+28.0,67.0,1.0,23.0,Schär Michael,37.0,BMC Racing Team,12,2015,▼14
+28.0,73.0,1.0,24.0,De Gendt Thomas,38.0,Lotto Soudal,12,2015,▼14
+25.0,203.0,1.0,,Delaplace Anthony,39.0,Bretagne - Séché Environnement,12,2015,-
+30.0,31.0,61.0,1.0,Froome Chris,1.0,Team Sky,13,2015,-
+36.0,91.0,52.0,2.0,Rodríguez Joaquim,2.0,Team Katusha,13,2015,-
+30.0,3.0,41.0,3.0,Fuglsang Jakob,3.0,Astana Pro Team,13,2015,-
+30.0,35.0,40.0,4.0,Porte Richie,4.0,Team Sky,13,2015,-
+24.0,12.0,35.0,5.0,Bardet Romain,5.0,AG2R La Mondiale,13,2015,-
+25.0,45.0,32.0,6.0,Majka Rafał,6.0,Tinkoff - Saxo,13,2015,-
+25.0,51.0,32.0,7.0,Quintana Nairo,7.0,Movistar Team,13,2015,-
+35.0,59.0,32.0,8.0,Valverde Alejandro,8.0,Movistar Team,13,2015,-
+29.0,131.0,28.0,9.0,Gesink Robert,9.0,Team LottoNL-Jumbo,13,2015,-
+27.0,57.0,28.0,10.0,Izagirre Gorka,10.0,Movistar Team,13,2015,-
+23.0,217.0,28.0,11.0,Meintjes Louis,11.0,MTN - Qhubeka,13,2015,-
+28.0,167.0,27.0,12.0,Martin Dan,12.0,Team Cannondale - Garmin,13,2015,-
+31.0,218.0,26.0,13.0,Pauwels Serge,13.0,MTN - Qhubeka,13,2015,-
+29.0,14.0,24.0,14.0,Cherel Mickaël,14.0,AG2R La Mondiale,13,2015,-
+36.0,129.0,23.0,15.0,Voeckler Thomas,15.0,Team Europcar,13,2015,-
+29.0,39.0,22.0,16.0,Thomas Geraint,16.0,Team Sky,13,2015,-
+30.0,192.0,20.0,17.0,Bárta Jan,17.0,Bora - Argon 18,13,2015,-
+27.0,127.0,17.0,18.0,Sicard Romain,18.0,Team Europcar,13,2015,-
+28.0,121.0,16.0,19.0,Rolland Pierre,19.0,Team Europcar,13,2015,-
+22.0,108.0,16.0,20.0,Yates Adam,20.0,Orica GreenEDGE,13,2015,-
+22.0,194.0,16.0,21.0,Buchmann Emanuel,21.0,Bora - Argon 18,13,2015,-
+25.0,87.0,13.0,22.0,Preidler Georg,22.0,Team Giant - Alpecin,13,2015,-
+29.0,177.0,12.0,23.0,Simon Julien,23.0,"Cofidis, Solutions Crédits",13,2015,-
+27.0,154.0,10.0,25.0,Đurasek Kristijan,24.0,Lampre - Merida,13,2015,▲1
+25.0,111.0,10.0,24.0,Kwiatkowski Michał,25.0,Etixx - Quick Step,13,2015,▼1
+32.0,27.0,10.0,26.0,Morabito Steve,26.0,FDJ,13,2015,-
+27.0,71.0,8.0,27.0,Gallopin Tony,27.0,Lotto Soudal,13,2015,-
+26.0,139.0,8.0,28.0,Vanmarcke Sep,28.0,Team LottoNL-Jumbo,13,2015,-
+26.0,219.0,6.0,29.0,Teklehaimanot Daniel,29.0,MTN - Qhubeka,13,2015,-
+26.0,61.0,4.0,30.0,van Garderen Tejay,30.0,BMC Racing Team,13,2015,-
+30.0,26.0,4.0,31.0,Ladagnous Matthieu,31.0,FDJ,13,2015,-
+28.0,73.0,3.0,38.0,De Gendt Thomas,32.0,Lotto Soudal,13,2015,▲6
+25.0,179.0,3.0,32.0,Vanbilsen Kenneth,33.0,"Cofidis, Solutions Crédits",13,2015,▼1
+32.0,28.0,3.0,33.0,Roy Jérémy,34.0,FDJ,13,2015,▼1
+27.0,19.0,2.0,34.0,Vuillermoz Alexis,35.0,AG2R La Mondiale,13,2015,▼1
+27.0,25.0,2.0,,Geniez Alexandre,36.0,FDJ,13,2015,-
+36.0,183.0,2.0,35.0,Chavanel Sylvain,37.0,IAM Cycling,13,2015,▼2
+32.0,9.0,2.0,36.0,Westra Lieuwe,38.0,Astana Pro Team,13,2015,▼2
+24.0,132.0,1.0,,Kelderman Wilco,39.0,Team LottoNL-Jumbo,13,2015,-
+28.0,67.0,1.0,37.0,Schär Michael,40.0,BMC Racing Team,13,2015,▼3
+25.0,203.0,1.0,39.0,Delaplace Anthony,41.0,Bretagne - Séché Environnement,13,2015,▼2
+30.0,31.0,61.0,1.0,Froome Chris,1.0,Team Sky,14,2015,-
+36.0,91.0,52.0,2.0,Rodríguez Joaquim,2.0,Team Katusha,14,2015,-
+30.0,3.0,41.0,3.0,Fuglsang Jakob,3.0,Astana Pro Team,14,2015,-
+30.0,35.0,40.0,4.0,Porte Richie,4.0,Team Sky,14,2015,-
+24.0,12.0,38.0,5.0,Bardet Romain,5.0,AG2R La Mondiale,14,2015,-
+25.0,45.0,32.0,6.0,Majka Rafał,6.0,Tinkoff - Saxo,14,2015,-
+25.0,51.0,32.0,7.0,Quintana Nairo,7.0,Movistar Team,14,2015,-
+35.0,59.0,32.0,8.0,Valverde Alejandro,8.0,Movistar Team,14,2015,-
+29.0,131.0,28.0,9.0,Gesink Robert,9.0,Team LottoNL-Jumbo,14,2015,-
+27.0,57.0,28.0,10.0,Izagirre Gorka,10.0,Movistar Team,14,2015,-
+23.0,217.0,28.0,11.0,Meintjes Louis,11.0,MTN - Qhubeka,14,2015,-
+28.0,167.0,27.0,12.0,Martin Dan,12.0,Team Cannondale - Garmin,14,2015,-
+31.0,218.0,26.0,13.0,Pauwels Serge,13.0,MTN - Qhubeka,14,2015,-
+29.0,14.0,24.0,14.0,Cherel Mickaël,14.0,AG2R La Mondiale,14,2015,-
+36.0,129.0,23.0,15.0,Voeckler Thomas,15.0,Team Europcar,14,2015,-
+29.0,39.0,22.0,16.0,Thomas Geraint,16.0,Team Sky,14,2015,-
+30.0,192.0,20.0,17.0,Bárta Jan,17.0,Bora - Argon 18,14,2015,-
+27.0,127.0,17.0,18.0,Sicard Romain,18.0,Team Europcar,14,2015,-
+28.0,121.0,16.0,19.0,Rolland Pierre,19.0,Team Europcar,14,2015,-
+22.0,108.0,16.0,20.0,Yates Adam,20.0,Orica GreenEDGE,14,2015,-
+22.0,194.0,16.0,21.0,Buchmann Emanuel,21.0,Bora - Argon 18,14,2015,-
+25.0,87.0,13.0,22.0,Preidler Georg,22.0,Team Giant - Alpecin,14,2015,-
+29.0,177.0,12.0,23.0,Simon Julien,23.0,"Cofidis, Solutions Crédits",14,2015,-
+25.0,111.0,10.0,25.0,Kwiatkowski Michał,24.0,Etixx - Quick Step,14,2015,▲1
+27.0,154.0,10.0,24.0,Đurasek Kristijan,25.0,Lampre - Merida,14,2015,▼1
+30.0,26.0,9.0,31.0,Ladagnous Matthieu,26.0,FDJ,14,2015,▲5
+27.0,71.0,8.0,27.0,Gallopin Tony,27.0,Lotto Soudal,14,2015,-
+26.0,139.0,8.0,28.0,Vanmarcke Sep,28.0,Team LottoNL-Jumbo,14,2015,-
+26.0,219.0,6.0,29.0,Teklehaimanot Daniel,29.0,MTN - Qhubeka,14,2015,-
+32.0,28.0,6.0,34.0,Roy Jérémy,30.0,FDJ,14,2015,▲4
+25.0,21.0,5.0,,Pinot Thibaut,31.0,FDJ,14,2015,-
+26.0,61.0,4.0,30.0,van Garderen Tejay,32.0,BMC Racing Team,14,2015,▼2
+28.0,73.0,3.0,32.0,De Gendt Thomas,33.0,Lotto Soudal,14,2015,▼1
+25.0,179.0,3.0,33.0,Vanbilsen Kenneth,34.0,"Cofidis, Solutions Crédits",14,2015,▼1
+27.0,19.0,2.0,35.0,Vuillermoz Alexis,35.0,AG2R La Mondiale,14,2015,-
+27.0,25.0,2.0,36.0,Geniez Alexandre,36.0,FDJ,14,2015,-
+29.0,13.0,2.0,,Bakelants Jan,37.0,AG2R La Mondiale,14,2015,-
+36.0,183.0,2.0,37.0,Chavanel Sylvain,38.0,IAM Cycling,14,2015,▼1
+34.0,212.0,2.0,,Cummings Steve,39.0,MTN - Qhubeka,14,2015,-
+32.0,9.0,2.0,38.0,Westra Lieuwe,40.0,Astana Pro Team,14,2015,▼2
+24.0,132.0,1.0,39.0,Kelderman Wilco,41.0,Team LottoNL-Jumbo,14,2015,▼2
+28.0,67.0,1.0,40.0,Schär Michael,42.0,BMC Racing Team,14,2015,▼2
+28.0,165.0,1.0,,Koren Kristijan,43.0,Team Cannondale - Garmin,14,2015,-
+34.0,196.0,1.0,,Huzarski Bartosz,44.0,Bora - Argon 18,14,2015,-
+26.0,188.0,1.0,,Pantano Jarlinson,45.0,IAM Cycling,14,2015,-
+28.0,118.0,1.0,,Urán Rigoberto,46.0,Etixx - Quick Step,14,2015,-
+25.0,203.0,1.0,41.0,Delaplace Anthony,47.0,Bretagne - Séché Environnement,14,2015,▼6
+30.0,31.0,61.0,1.0,Froome Chris,1.0,Team Sky,15,2015,-
+36.0,91.0,52.0,2.0,Rodríguez Joaquim,2.0,Team Katusha,15,2015,-
+30.0,3.0,41.0,3.0,Fuglsang Jakob,3.0,Astana Pro Team,15,2015,-
+30.0,35.0,40.0,4.0,Porte Richie,4.0,Team Sky,15,2015,-
+24.0,12.0,38.0,5.0,Bardet Romain,5.0,AG2R La Mondiale,15,2015,-
+25.0,45.0,32.0,6.0,Majka Rafał,6.0,Tinkoff - Saxo,15,2015,-
+25.0,51.0,32.0,7.0,Quintana Nairo,7.0,Movistar Team,15,2015,-
+35.0,59.0,32.0,8.0,Valverde Alejandro,8.0,Movistar Team,15,2015,-
+31.0,218.0,28.0,13.0,Pauwels Serge,9.0,MTN - Qhubeka,15,2015,▲4
+29.0,131.0,28.0,9.0,Gesink Robert,10.0,Team LottoNL-Jumbo,15,2015,▼1
+27.0,57.0,28.0,10.0,Izagirre Gorka,11.0,Movistar Team,15,2015,▼1
+23.0,217.0,28.0,11.0,Meintjes Louis,12.0,MTN - Qhubeka,15,2015,▼1
+28.0,167.0,27.0,12.0,Martin Dan,13.0,Team Cannondale - Garmin,15,2015,▼1
+29.0,14.0,24.0,14.0,Cherel Mickaël,14.0,AG2R La Mondiale,15,2015,-
+36.0,129.0,23.0,15.0,Voeckler Thomas,15.0,Team Europcar,15,2015,-
+29.0,39.0,22.0,16.0,Thomas Geraint,16.0,Team Sky,15,2015,-
+30.0,192.0,20.0,17.0,Bárta Jan,17.0,Bora - Argon 18,15,2015,-
+27.0,127.0,17.0,18.0,Sicard Romain,18.0,Team Europcar,15,2015,-
+28.0,121.0,16.0,19.0,Rolland Pierre,19.0,Team Europcar,15,2015,-
+22.0,108.0,16.0,20.0,Yates Adam,20.0,Orica GreenEDGE,15,2015,-
+22.0,194.0,16.0,21.0,Buchmann Emanuel,21.0,Bora - Argon 18,15,2015,-
+25.0,87.0,13.0,22.0,Preidler Georg,22.0,Team Giant - Alpecin,15,2015,-
+25.0,111.0,12.0,24.0,Kwiatkowski Michał,23.0,Etixx - Quick Step,15,2015,▲1
+29.0,177.0,12.0,23.0,Simon Julien,24.0,"Cofidis, Solutions Crédits",15,2015,▼1
+25.0,21.0,11.0,31.0,Pinot Thibaut,25.0,FDJ,15,2015,▲6
+27.0,154.0,10.0,25.0,Đurasek Kristijan,26.0,Lampre - Merida,15,2015,▼1
+30.0,26.0,9.0,26.0,Ladagnous Matthieu,27.0,FDJ,15,2015,▼1
+27.0,71.0,8.0,27.0,Gallopin Tony,28.0,Lotto Soudal,15,2015,▼1
+26.0,139.0,8.0,28.0,Vanmarcke Sep,29.0,Team LottoNL-Jumbo,15,2015,▼1
+26.0,219.0,6.0,29.0,Teklehaimanot Daniel,30.0,MTN - Qhubeka,15,2015,▼1
+32.0,28.0,6.0,30.0,Roy Jérémy,31.0,FDJ,15,2015,▼1
+26.0,61.0,4.0,32.0,van Garderen Tejay,32.0,BMC Racing Team,15,2015,-
+28.0,73.0,3.0,33.0,De Gendt Thomas,33.0,Lotto Soudal,15,2015,-
+25.0,179.0,3.0,34.0,Vanbilsen Kenneth,34.0,"Cofidis, Solutions Crédits",15,2015,-
+34.0,164.0,3.0,,Hesjedal Ryder,35.0,Team Cannondale - Garmin,15,2015,-
+32.0,9.0,3.0,40.0,Westra Lieuwe,36.0,Astana Pro Team,15,2015,▲4
+27.0,19.0,2.0,35.0,Vuillermoz Alexis,37.0,AG2R La Mondiale,15,2015,▼2
+27.0,25.0,2.0,36.0,Geniez Alexandre,38.0,FDJ,15,2015,▼2
+29.0,13.0,2.0,37.0,Bakelants Jan,39.0,AG2R La Mondiale,15,2015,▼2
+36.0,183.0,2.0,38.0,Chavanel Sylvain,40.0,IAM Cycling,15,2015,▼2
+34.0,212.0,2.0,39.0,Cummings Steve,41.0,MTN - Qhubeka,15,2015,▼2
+35.0,46.0,1.0,,Rogers Michael,42.0,Tinkoff - Saxo,15,2015,-
+28.0,165.0,1.0,43.0,Koren Kristijan,43.0,Team Cannondale - Garmin,15,2015,-
+24.0,132.0,1.0,41.0,Kelderman Wilco,44.0,Team LottoNL-Jumbo,15,2015,▼3
+28.0,67.0,1.0,42.0,Schär Michael,45.0,BMC Racing Team,15,2015,▼3
+34.0,196.0,1.0,44.0,Huzarski Bartosz,46.0,Bora - Argon 18,15,2015,▼2
+26.0,188.0,1.0,45.0,Pantano Jarlinson,47.0,IAM Cycling,15,2015,▼2
+28.0,118.0,1.0,46.0,Urán Rigoberto,48.0,Etixx - Quick Step,15,2015,▼2
+25.0,203.0,1.0,47.0,Delaplace Anthony,49.0,Bretagne - Séché Environnement,15,2015,▼2
+25.0,117.0,1.0,,Trentin Matteo,50.0,Etixx - Quick Step,15,2015,-
+30.0,31.0,61.0,1.0,Froome Chris,1.0,Team Sky,16,2015,-
+36.0,91.0,52.0,2.0,Rodríguez Joaquim,2.0,Team Katusha,16,2015,-
+30.0,3.0,41.0,3.0,Fuglsang Jakob,3.0,Astana Pro Team,16,2015,-
+30.0,35.0,40.0,4.0,Porte Richie,4.0,Team Sky,16,2015,-
+24.0,12.0,38.0,5.0,Bardet Romain,5.0,AG2R La Mondiale,16,2015,-
+31.0,218.0,33.0,9.0,Pauwels Serge,6.0,MTN - Qhubeka,16,2015,▲3
+25.0,45.0,32.0,6.0,Majka Rafał,7.0,Tinkoff - Saxo,16,2015,▼1
+25.0,51.0,32.0,7.0,Quintana Nairo,8.0,Movistar Team,16,2015,▼1
+35.0,59.0,32.0,8.0,Valverde Alejandro,9.0,Movistar Team,16,2015,▼1
+29.0,131.0,28.0,10.0,Gesink Robert,10.0,Team LottoNL-Jumbo,16,2015,-
+27.0,57.0,28.0,11.0,Izagirre Gorka,11.0,Movistar Team,16,2015,-
+23.0,217.0,28.0,12.0,Meintjes Louis,12.0,MTN - Qhubeka,16,2015,-
+28.0,167.0,27.0,13.0,Martin Dan,13.0,Team Cannondale - Garmin,16,2015,-
+29.0,14.0,24.0,14.0,Cherel Mickaël,14.0,AG2R La Mondiale,16,2015,-
+36.0,129.0,23.0,15.0,Voeckler Thomas,15.0,Team Europcar,16,2015,-
+29.0,39.0,22.0,16.0,Thomas Geraint,16.0,Team Sky,16,2015,-
+30.0,192.0,20.0,17.0,Bárta Jan,17.0,Bora - Argon 18,16,2015,-
+27.0,127.0,17.0,18.0,Sicard Romain,18.0,Team Europcar,16,2015,-
+28.0,121.0,16.0,19.0,Rolland Pierre,19.0,Team Europcar,16,2015,-
+22.0,108.0,16.0,20.0,Yates Adam,20.0,Orica GreenEDGE,16,2015,-
+22.0,194.0,16.0,21.0,Buchmann Emanuel,21.0,Bora - Argon 18,16,2015,-
+25.0,87.0,13.0,22.0,Preidler Georg,22.0,Team Giant - Alpecin,16,2015,-
+25.0,111.0,12.0,23.0,Kwiatkowski Michał,23.0,Etixx - Quick Step,16,2015,-
+29.0,177.0,12.0,24.0,Simon Julien,24.0,"Cofidis, Solutions Crédits",16,2015,-
+25.0,21.0,11.0,25.0,Pinot Thibaut,25.0,FDJ,16,2015,-
+27.0,154.0,10.0,26.0,Đurasek Kristijan,26.0,Lampre - Merida,16,2015,-
+30.0,26.0,9.0,27.0,Ladagnous Matthieu,27.0,FDJ,16,2015,-
+27.0,71.0,8.0,28.0,Gallopin Tony,28.0,Lotto Soudal,16,2015,-
+26.0,139.0,8.0,29.0,Vanmarcke Sep,29.0,Team LottoNL-Jumbo,16,2015,-
+26.0,219.0,6.0,30.0,Teklehaimanot Daniel,30.0,MTN - Qhubeka,16,2015,-
+28.0,73.0,6.0,33.0,De Gendt Thomas,31.0,Lotto Soudal,16,2015,▲2
+32.0,28.0,6.0,31.0,Roy Jérémy,32.0,FDJ,16,2015,▼1
+35.0,156.0,5.0,,Plaza Rubén,33.0,Lampre - Merida,16,2015,-
+26.0,61.0,4.0,32.0,van Garderen Tejay,34.0,BMC Racing Team,16,2015,▼2
+25.0,179.0,3.0,34.0,Vanbilsen Kenneth,35.0,"Cofidis, Solutions Crédits",16,2015,▼1
+25.0,47.0,3.0,,Sagan Peter,36.0,Tinkoff - Saxo,16,2015,-
+32.0,9.0,3.0,36.0,Westra Lieuwe,37.0,Astana Pro Team,16,2015,▼1
+34.0,164.0,3.0,35.0,Hesjedal Ryder,38.0,Team Cannondale - Garmin,16,2015,▼3
+27.0,19.0,2.0,37.0,Vuillermoz Alexis,39.0,AG2R La Mondiale,16,2015,▼2
+27.0,25.0,2.0,38.0,Geniez Alexandre,40.0,FDJ,16,2015,▼2
+26.0,188.0,2.0,47.0,Pantano Jarlinson,41.0,IAM Cycling,16,2015,▲6
+29.0,13.0,2.0,39.0,Bakelants Jan,42.0,AG2R La Mondiale,16,2015,▼3
+29.0,86.0,2.0,,Geschke Simon,43.0,Team Giant - Alpecin,16,2015,-
+28.0,211.0,2.0,,Boasson Hagen Edvald,44.0,MTN - Qhubeka,16,2015,-
+36.0,183.0,2.0,40.0,Chavanel Sylvain,45.0,IAM Cycling,16,2015,▼5
+34.0,212.0,2.0,41.0,Cummings Steve,46.0,MTN - Qhubeka,16,2015,▼5
+28.0,165.0,1.0,43.0,Koren Kristijan,47.0,Team Cannondale - Garmin,16,2015,▼4
+24.0,132.0,1.0,44.0,Kelderman Wilco,48.0,Team LottoNL-Jumbo,16,2015,▼4
+34.0,196.0,1.0,46.0,Huzarski Bartosz,49.0,Bora - Argon 18,16,2015,▼3
+28.0,67.0,1.0,45.0,Schär Michael,50.0,BMC Racing Team,16,2015,▼5
+35.0,46.0,1.0,42.0,Rogers Michael,51.0,Tinkoff - Saxo,16,2015,▼9
+25.0,117.0,1.0,50.0,Trentin Matteo,52.0,Etixx - Quick Step,16,2015,▼2
+24.0,94.0,1.0,,Haller Marco,53.0,Team Katusha,16,2015,-
+28.0,118.0,1.0,48.0,Urán Rigoberto,54.0,Etixx - Quick Step,16,2015,▼6
+25.0,203.0,1.0,49.0,Delaplace Anthony,55.0,Bretagne - Séché Environnement,16,2015,▼6
+30.0,31.0,61.0,1.0,Froome Chris,1.0,Team Sky,17,2015,-
+36.0,91.0,52.0,2.0,Rodríguez Joaquim,2.0,Team Katusha,17,2015,-
+30.0,3.0,41.0,3.0,Fuglsang Jakob,3.0,Astana Pro Team,17,2015,-
+31.0,218.0,40.0,6.0,Pauwels Serge,4.0,MTN - Qhubeka,17,2015,▲2
+30.0,35.0,40.0,4.0,Porte Richie,5.0,Team Sky,17,2015,▼1
+24.0,12.0,38.0,5.0,Bardet Romain,6.0,AG2R La Mondiale,17,2015,▼1
+25.0,45.0,34.0,7.0,Majka Rafał,7.0,Tinkoff - Saxo,17,2015,-
+25.0,51.0,32.0,8.0,Quintana Nairo,8.0,Movistar Team,17,2015,-
+35.0,59.0,32.0,9.0,Valverde Alejandro,9.0,Movistar Team,17,2015,-
+29.0,131.0,28.0,10.0,Gesink Robert,10.0,Team LottoNL-Jumbo,17,2015,-
+27.0,57.0,28.0,11.0,Izagirre Gorka,11.0,Movistar Team,17,2015,-
+23.0,217.0,28.0,12.0,Meintjes Louis,12.0,MTN - Qhubeka,17,2015,-
+28.0,167.0,27.0,13.0,Martin Dan,13.0,Team Cannondale - Garmin,17,2015,-
+29.0,14.0,24.0,14.0,Cherel Mickaël,14.0,AG2R La Mondiale,17,2015,-
+36.0,129.0,23.0,15.0,Voeckler Thomas,15.0,Team Europcar,17,2015,-
+29.0,86.0,22.0,43.0,Geschke Simon,16.0,Team Giant - Alpecin,17,2015,▲27
+29.0,39.0,22.0,16.0,Thomas Geraint,17.0,Team Sky,17,2015,▼1
+25.0,21.0,21.0,25.0,Pinot Thibaut,18.0,FDJ,17,2015,▲7
+30.0,192.0,20.0,17.0,Bárta Jan,19.0,Bora - Argon 18,17,2015,▼2
+27.0,127.0,17.0,18.0,Sicard Romain,20.0,Team Europcar,17,2015,▼2
+22.0,108.0,17.0,20.0,Yates Adam,21.0,Orica GreenEDGE,17,2015,▼1
+28.0,121.0,16.0,19.0,Rolland Pierre,22.0,Team Europcar,17,2015,▼3
+22.0,194.0,16.0,21.0,Buchmann Emanuel,23.0,Bora - Argon 18,17,2015,▼2
+27.0,154.0,13.0,26.0,Đurasek Kristijan,24.0,Lampre - Merida,17,2015,▲2
+25.0,87.0,13.0,22.0,Preidler Georg,25.0,Team Giant - Alpecin,17,2015,▼3
+26.0,161.0,12.0,,Talansky Andrew,26.0,Team Cannondale - Garmin,17,2015,-
+29.0,177.0,12.0,24.0,Simon Julien,27.0,"Cofidis, Solutions Crédits",17,2015,▼3
+30.0,26.0,9.0,27.0,Ladagnous Matthieu,28.0,FDJ,17,2015,▼1
+27.0,71.0,8.0,28.0,Gallopin Tony,29.0,Lotto Soudal,17,2015,▼1
+26.0,139.0,8.0,29.0,Vanmarcke Sep,30.0,Team LottoNL-Jumbo,17,2015,▼1
+26.0,219.0,7.0,30.0,Teklehaimanot Daniel,31.0,MTN - Qhubeka,17,2015,▼1
+28.0,73.0,6.0,31.0,De Gendt Thomas,32.0,Lotto Soudal,17,2015,▼1
+32.0,28.0,6.0,32.0,Roy Jérémy,33.0,FDJ,17,2015,▼1
+35.0,156.0,5.0,33.0,Plaza Rubén,34.0,Lampre - Merida,17,2015,▼1
+28.0,118.0,5.0,54.0,Urán Rigoberto,35.0,Etixx - Quick Step,17,2015,▲19
+28.0,181.0,4.0,,Frank Mathias,36.0,IAM Cycling,17,2015,-
+25.0,179.0,3.0,35.0,Vanbilsen Kenneth,37.0,"Cofidis, Solutions Crédits",17,2015,▼2
+25.0,47.0,3.0,36.0,Sagan Peter,38.0,Tinkoff - Saxo,17,2015,▼2
+34.0,164.0,3.0,38.0,Hesjedal Ryder,39.0,Team Cannondale - Garmin,17,2015,▼1
+29.0,56.0,3.0,,Herrada José,40.0,Movistar Team,17,2015,-
+32.0,9.0,3.0,37.0,Westra Lieuwe,41.0,Astana Pro Team,17,2015,▼4
+27.0,19.0,2.0,39.0,Vuillermoz Alexis,42.0,AG2R La Mondiale,17,2015,▼3
+27.0,25.0,2.0,40.0,Geniez Alexandre,43.0,FDJ,17,2015,▼3
+26.0,188.0,2.0,41.0,Pantano Jarlinson,44.0,IAM Cycling,17,2015,▼3
+29.0,13.0,2.0,42.0,Bakelants Jan,45.0,AG2R La Mondiale,17,2015,▼3
+28.0,133.0,2.0,,Kruijswijk Steven,46.0,Team LottoNL-Jumbo,17,2015,-
+36.0,183.0,2.0,45.0,Chavanel Sylvain,47.0,IAM Cycling,17,2015,▼2
+28.0,211.0,2.0,44.0,Boasson Hagen Edvald,48.0,MTN - Qhubeka,17,2015,▼4
+34.0,212.0,2.0,46.0,Cummings Steve,49.0,MTN - Qhubeka,17,2015,▼3
+35.0,46.0,1.0,51.0,Rogers Michael,50.0,Tinkoff - Saxo,17,2015,▲1
+28.0,67.0,1.0,50.0,Schär Michael,51.0,BMC Racing Team,17,2015,▼1
+28.0,165.0,1.0,47.0,Koren Kristijan,52.0,Team Cannondale - Garmin,17,2015,▼5
+24.0,132.0,1.0,48.0,Kelderman Wilco,53.0,Team LottoNL-Jumbo,17,2015,▼5
+34.0,196.0,1.0,49.0,Huzarski Bartosz,54.0,Bora - Argon 18,17,2015,▼5
+25.0,203.0,1.0,55.0,Delaplace Anthony,55.0,Bretagne - Séché Environnement,17,2015,-
+26.0,81.0,1.0,,Degenkolb John,56.0,Team Giant - Alpecin,17,2015,-
+25.0,117.0,1.0,52.0,Trentin Matteo,57.0,Etixx - Quick Step,17,2015,▼5
+24.0,94.0,1.0,53.0,Haller Marco,58.0,Team Katusha,17,2015,▼5
+36.0,91.0,68.0,2.0,Rodríguez Joaquim,1.0,Team Katusha,18,2015,▲1
+24.0,12.0,68.0,6.0,Bardet Romain,2.0,AG2R La Mondiale,18,2015,▲4
+30.0,3.0,64.0,3.0,Fuglsang Jakob,3.0,Astana Pro Team,18,2015,-
+30.0,31.0,61.0,1.0,Froome Chris,4.0,Team Sky,18,2015,▼3
+31.0,218.0,55.0,4.0,Pauwels Serge,5.0,MTN - Qhubeka,18,2015,▼1
+30.0,35.0,40.0,5.0,Porte Richie,6.0,Team Sky,18,2015,▼1
+25.0,45.0,34.0,7.0,Majka Rafał,7.0,Tinkoff - Saxo,18,2015,-
+25.0,51.0,32.0,8.0,Quintana Nairo,8.0,Movistar Team,18,2015,-
+35.0,59.0,32.0,9.0,Valverde Alejandro,9.0,Movistar Team,18,2015,-
+29.0,131.0,28.0,10.0,Gesink Robert,10.0,Team LottoNL-Jumbo,18,2015,-
+27.0,57.0,28.0,11.0,Izagirre Gorka,11.0,Movistar Team,18,2015,-
+28.0,167.0,27.0,13.0,Martin Dan,12.0,Team Cannondale - Garmin,18,2015,▲1
+28.0,121.0,24.0,22.0,Rolland Pierre,13.0,Team Europcar,18,2015,▲9
+29.0,14.0,24.0,14.0,Cherel Mickaël,14.0,AG2R La Mondiale,18,2015,-
+25.0,21.0,23.0,18.0,Pinot Thibaut,15.0,FDJ,18,2015,▲3
+36.0,129.0,23.0,15.0,Voeckler Thomas,16.0,Team Europcar,18,2015,▼1
+29.0,86.0,22.0,16.0,Geschke Simon,17.0,Team Giant - Alpecin,18,2015,▼1
+29.0,39.0,22.0,17.0,Thomas Geraint,18.0,Team Sky,18,2015,▼1
+26.0,161.0,22.0,26.0,Talansky Andrew,19.0,Team Cannondale - Garmin,18,2015,▲7
+26.0,52.0,21.0,,Anacona Winner,20.0,Movistar Team,18,2015,-
+30.0,192.0,20.0,19.0,Bárta Jan,21.0,Bora - Argon 18,18,2015,▼2
+27.0,127.0,17.0,20.0,Sicard Romain,22.0,Team Europcar,18,2015,▼2
+22.0,108.0,17.0,21.0,Yates Adam,23.0,Orica GreenEDGE,18,2015,▼2
+22.0,147.0,16.0,,Jungels Bob,24.0,Trek Factory Racing,18,2015,-
+22.0,194.0,16.0,23.0,Buchmann Emanuel,25.0,Bora - Argon 18,18,2015,▼2
+25.0,87.0,15.0,25.0,Preidler Georg,26.0,Team Giant - Alpecin,18,2015,▼1
+27.0,154.0,13.0,24.0,Đurasek Kristijan,27.0,Lampre - Merida,18,2015,▼3
+29.0,177.0,12.0,27.0,Simon Julien,28.0,"Cofidis, Solutions Crédits",18,2015,▼1
+30.0,26.0,9.0,28.0,Ladagnous Matthieu,29.0,FDJ,18,2015,▼1
+27.0,71.0,8.0,29.0,Gallopin Tony,30.0,Lotto Soudal,18,2015,▼1
+27.0,62.0,8.0,,Caruso Damiano,31.0,BMC Racing Team,18,2015,-
+26.0,139.0,8.0,30.0,Vanmarcke Sep,32.0,Team LottoNL-Jumbo,18,2015,▼2
+26.0,219.0,7.0,31.0,Teklehaimanot Daniel,33.0,MTN - Qhubeka,18,2015,▼2
+28.0,73.0,6.0,32.0,De Gendt Thomas,34.0,Lotto Soudal,18,2015,▼2
+32.0,28.0,6.0,33.0,Roy Jérémy,35.0,FDJ,18,2015,▼2
+35.0,156.0,5.0,34.0,Plaza Rubén,36.0,Lampre - Merida,18,2015,▼2
+28.0,118.0,5.0,35.0,Urán Rigoberto,37.0,Etixx - Quick Step,18,2015,▼2
+34.0,164.0,5.0,39.0,Hesjedal Ryder,38.0,Team Cannondale - Garmin,18,2015,▲1
+28.0,181.0,4.0,36.0,Frank Mathias,39.0,IAM Cycling,18,2015,▼3
+27.0,123.0,4.0,,Gautier Cyril,40.0,Team Europcar,18,2015,-
+25.0,179.0,3.0,37.0,Vanbilsen Kenneth,41.0,"Cofidis, Solutions Crédits",18,2015,▼4
+25.0,47.0,3.0,38.0,Sagan Peter,42.0,Tinkoff - Saxo,18,2015,▼4
+29.0,56.0,3.0,40.0,Herrada José,43.0,Movistar Team,18,2015,▼3
+32.0,9.0,3.0,41.0,Westra Lieuwe,44.0,Astana Pro Team,18,2015,▼3
+27.0,19.0,2.0,42.0,Vuillermoz Alexis,45.0,AG2R La Mondiale,18,2015,▼3
+27.0,25.0,2.0,43.0,Geniez Alexandre,46.0,FDJ,18,2015,▼3
+26.0,188.0,2.0,44.0,Pantano Jarlinson,47.0,IAM Cycling,18,2015,▼3
+29.0,13.0,2.0,45.0,Bakelants Jan,48.0,AG2R La Mondiale,18,2015,▼3
+28.0,133.0,2.0,46.0,Kruijswijk Steven,49.0,Team LottoNL-Jumbo,18,2015,▼3
+36.0,183.0,2.0,47.0,Chavanel Sylvain,50.0,IAM Cycling,18,2015,▼3
+28.0,211.0,2.0,48.0,Boasson Hagen Edvald,51.0,MTN - Qhubeka,18,2015,▼3
+34.0,212.0,2.0,49.0,Cummings Steve,52.0,MTN - Qhubeka,18,2015,▼3
+35.0,46.0,1.0,50.0,Rogers Michael,53.0,Tinkoff - Saxo,18,2015,▼3
+28.0,67.0,1.0,51.0,Schär Michael,54.0,BMC Racing Team,18,2015,▼3
+28.0,165.0,1.0,52.0,Koren Kristijan,55.0,Team Cannondale - Garmin,18,2015,▼3
+24.0,132.0,1.0,53.0,Kelderman Wilco,56.0,Team LottoNL-Jumbo,18,2015,▼3
+34.0,196.0,1.0,54.0,Huzarski Bartosz,57.0,Bora - Argon 18,18,2015,▼3
+34.0,17.0,1.0,,Riblon Christophe,58.0,AG2R La Mondiale,18,2015,-
+25.0,203.0,1.0,55.0,Delaplace Anthony,59.0,Bretagne - Séché Environnement,18,2015,▼4
+25.0,63.0,1.0,,Dennis Rohan,60.0,BMC Racing Team,18,2015,-
+26.0,81.0,1.0,56.0,Degenkolb John,61.0,Team Giant - Alpecin,18,2015,▼5
+25.0,117.0,1.0,57.0,Trentin Matteo,62.0,Etixx - Quick Step,18,2015,▼5
+24.0,94.0,1.0,58.0,Haller Marco,63.0,Team Katusha,18,2015,▼5
+24.0,12.0,90.0,2.0,Bardet Romain,1.0,AG2R La Mondiale,19,2015,▲1
+30.0,31.0,87.0,4.0,Froome Chris,2.0,Team Sky,19,2015,▲2
+36.0,91.0,78.0,1.0,Rodríguez Joaquim,3.0,Team Katusha,19,2015,▼2
+30.0,3.0,64.0,3.0,Fuglsang Jakob,4.0,Astana Pro Team,19,2015,▼1
+25.0,51.0,56.0,8.0,Quintana Nairo,5.0,Movistar Team,19,2015,▲3
+31.0,218.0,55.0,5.0,Pauwels Serge,6.0,MTN - Qhubeka,19,2015,▼1
+28.0,121.0,54.0,13.0,Rolland Pierre,7.0,Team Europcar,19,2015,▲6
+30.0,1.0,47.0,,Nibali Vincenzo,8.0,Astana Pro Team,19,2015,-
+25.0,45.0,40.0,7.0,Majka Rafał,9.0,Tinkoff - Saxo,19,2015,▼2
+30.0,35.0,40.0,6.0,Porte Richie,10.0,Team Sky,19,2015,▼4
+35.0,59.0,34.0,9.0,Valverde Alejandro,11.0,Movistar Team,19,2015,▼2
+25.0,21.0,32.0,15.0,Pinot Thibaut,12.0,FDJ,19,2015,▲3
+29.0,131.0,32.0,10.0,Gesink Robert,13.0,Team LottoNL-Jumbo,19,2015,▼3
+27.0,57.0,28.0,11.0,Izagirre Gorka,14.0,Movistar Team,19,2015,▼3
+28.0,167.0,27.0,12.0,Martin Dan,15.0,Team Cannondale - Garmin,19,2015,▼3
+29.0,14.0,24.0,14.0,Cherel Mickaël,16.0,AG2R La Mondiale,19,2015,▼2
+36.0,129.0,23.0,16.0,Voeckler Thomas,17.0,Team Europcar,19,2015,▼1
+27.0,127.0,23.0,22.0,Sicard Romain,18.0,Team Europcar,19,2015,▲4
+29.0,86.0,22.0,17.0,Geschke Simon,19.0,Team Giant - Alpecin,19,2015,▼2
+26.0,161.0,22.0,19.0,Talansky Andrew,20.0,Team Cannondale - Garmin,19,2015,▼1
+29.0,39.0,22.0,18.0,Thomas Geraint,21.0,Team Sky,19,2015,▼3
+26.0,52.0,21.0,20.0,Anacona Winner,22.0,Movistar Team,19,2015,▼2
+30.0,192.0,20.0,21.0,Bárta Jan,23.0,Bora - Argon 18,19,2015,▼2
+22.0,108.0,17.0,23.0,Yates Adam,24.0,Orica GreenEDGE,19,2015,▼1
+22.0,147.0,16.0,24.0,Jungels Bob,25.0,Trek Factory Racing,19,2015,▼1
+22.0,194.0,16.0,25.0,Buchmann Emanuel,26.0,Bora - Argon 18,19,2015,▼1
+25.0,87.0,15.0,26.0,Preidler Georg,27.0,Team Giant - Alpecin,19,2015,▼1
+27.0,154.0,13.0,27.0,Đurasek Kristijan,28.0,Lampre - Merida,19,2015,▼1
+29.0,44.0,12.0,,Kreuziger Roman,29.0,Tinkoff - Saxo,19,2015,-
+29.0,177.0,12.0,28.0,Simon Julien,30.0,"Cofidis, Solutions Crédits",19,2015,▼2
+28.0,133.0,10.0,49.0,Kruijswijk Steven,31.0,Team LottoNL-Jumbo,19,2015,▲18
+27.0,34.0,10.0,,Poels Wout,32.0,Team Sky,19,2015,-
+30.0,26.0,9.0,29.0,Ladagnous Matthieu,33.0,FDJ,19,2015,▼4
+26.0,219.0,8.0,33.0,Teklehaimanot Daniel,34.0,MTN - Qhubeka,19,2015,▼1
+27.0,71.0,8.0,30.0,Gallopin Tony,35.0,Lotto Soudal,19,2015,▼5
+27.0,62.0,8.0,31.0,Caruso Damiano,36.0,BMC Racing Team,19,2015,▼5
+26.0,139.0,8.0,32.0,Vanmarcke Sep,37.0,Team LottoNL-Jumbo,19,2015,▼5
+35.0,156.0,7.0,36.0,Plaza Rubén,38.0,Lampre - Merida,19,2015,▼2
+28.0,73.0,6.0,34.0,De Gendt Thomas,39.0,Lotto Soudal,19,2015,▼5
+32.0,28.0,6.0,35.0,Roy Jérémy,40.0,FDJ,19,2015,▼5
+28.0,118.0,5.0,37.0,Urán Rigoberto,41.0,Etixx - Quick Step,19,2015,▼4
+34.0,164.0,5.0,38.0,Hesjedal Ryder,42.0,Team Cannondale - Garmin,19,2015,▼4
+28.0,181.0,4.0,39.0,Frank Mathias,43.0,IAM Cycling,19,2015,▼4
+27.0,123.0,4.0,40.0,Gautier Cyril,44.0,Team Europcar,19,2015,▼4
+25.0,179.0,3.0,41.0,Vanbilsen Kenneth,45.0,"Cofidis, Solutions Crédits",19,2015,▼4
+25.0,47.0,3.0,42.0,Sagan Peter,46.0,Tinkoff - Saxo,19,2015,▼4
+29.0,56.0,3.0,43.0,Herrada José,47.0,Movistar Team,19,2015,▼4
+32.0,9.0,3.0,44.0,Westra Lieuwe,48.0,Astana Pro Team,19,2015,▼4
+27.0,19.0,2.0,45.0,Vuillermoz Alexis,49.0,AG2R La Mondiale,19,2015,▼4
+27.0,25.0,2.0,46.0,Geniez Alexandre,50.0,FDJ,19,2015,▼4
+32.0,41.0,2.0,,Contador Alberto,51.0,Tinkoff - Saxo,19,2015,-
+26.0,188.0,2.0,47.0,Pantano Jarlinson,52.0,IAM Cycling,19,2015,▼5
+29.0,13.0,2.0,48.0,Bakelants Jan,53.0,AG2R La Mondiale,19,2015,▼5
+36.0,183.0,2.0,50.0,Chavanel Sylvain,54.0,IAM Cycling,19,2015,▼4
+28.0,211.0,2.0,51.0,Boasson Hagen Edvald,55.0,MTN - Qhubeka,19,2015,▼4
+34.0,212.0,2.0,52.0,Cummings Steve,56.0,MTN - Qhubeka,19,2015,▼4
+35.0,46.0,1.0,53.0,Rogers Michael,57.0,Tinkoff - Saxo,19,2015,▼4
+28.0,67.0,1.0,54.0,Schär Michael,58.0,BMC Racing Team,19,2015,▼4
+28.0,165.0,1.0,55.0,Koren Kristijan,59.0,Team Cannondale - Garmin,19,2015,▼4
+24.0,132.0,1.0,56.0,Kelderman Wilco,60.0,Team LottoNL-Jumbo,19,2015,▼4
+34.0,196.0,1.0,57.0,Huzarski Bartosz,61.0,Bora - Argon 18,19,2015,▼4
+34.0,17.0,1.0,58.0,Riblon Christophe,62.0,AG2R La Mondiale,19,2015,▼4
+25.0,203.0,1.0,59.0,Delaplace Anthony,63.0,Bretagne - Séché Environnement,19,2015,▼4
+25.0,63.0,1.0,60.0,Dennis Rohan,64.0,BMC Racing Team,19,2015,▼4
+26.0,81.0,1.0,61.0,Degenkolb John,65.0,Team Giant - Alpecin,19,2015,▼4
+25.0,117.0,1.0,62.0,Trentin Matteo,66.0,Etixx - Quick Step,19,2015,▼4
+24.0,94.0,1.0,63.0,Haller Marco,67.0,Team Katusha,19,2015,▼4
+30.0,31.0,119.0,2.0,Froome Chris,1.0,Team Sky,20,2015,▲1
+25.0,51.0,108.0,5.0,Quintana Nairo,2.0,Movistar Team,20,2015,▲3
+24.0,12.0,90.0,1.0,Bardet Romain,3.0,AG2R La Mondiale,20,2015,▼2
+25.0,21.0,82.0,12.0,Pinot Thibaut,4.0,FDJ,20,2015,▲8
+36.0,91.0,78.0,3.0,Rodríguez Joaquim,5.0,Team Katusha,20,2015,▼2
+28.0,121.0,74.0,7.0,Rolland Pierre,6.0,Team Europcar,20,2015,▲1
+35.0,59.0,72.0,11.0,Valverde Alejandro,7.0,Movistar Team,20,2015,▲4
+30.0,3.0,64.0,4.0,Fuglsang Jakob,8.0,Astana Pro Team,20,2015,▼4
+30.0,35.0,58.0,10.0,Porte Richie,9.0,Team Sky,20,2015,▲1
+31.0,218.0,55.0,6.0,Pauwels Serge,10.0,MTN - Qhubeka,20,2015,▼4
+30.0,1.0,53.0,8.0,Nibali Vincenzo,11.0,Astana Pro Team,20,2015,▼3
+34.0,164.0,41.0,42.0,Hesjedal Ryder,12.0,Team Cannondale - Garmin,20,2015,▲30
+25.0,45.0,40.0,9.0,Majka Rafał,13.0,Tinkoff - Saxo,20,2015,▼4
+26.0,52.0,33.0,22.0,Anacona Winner,14.0,Movistar Team,20,2015,▲8
+29.0,131.0,32.0,13.0,Gesink Robert,15.0,Team LottoNL-Jumbo,20,2015,▼2
+27.0,57.0,28.0,14.0,Izagirre Gorka,16.0,Movistar Team,20,2015,▼2
+27.0,25.0,27.0,50.0,Geniez Alexandre,17.0,FDJ,20,2015,▲33
+28.0,167.0,27.0,15.0,Martin Dan,18.0,Team Cannondale - Garmin,20,2015,▼3
+29.0,14.0,24.0,16.0,Cherel Mickaël,19.0,AG2R La Mondiale,20,2015,▼3
+36.0,129.0,23.0,17.0,Voeckler Thomas,20.0,Team Europcar,20,2015,▼3
+27.0,127.0,23.0,18.0,Sicard Romain,21.0,Team Europcar,20,2015,▼3
+29.0,86.0,22.0,19.0,Geschke Simon,22.0,Team Giant - Alpecin,20,2015,▼3
+26.0,161.0,22.0,20.0,Talansky Andrew,23.0,Team Cannondale - Garmin,20,2015,▼3
+29.0,39.0,22.0,21.0,Thomas Geraint,24.0,Team Sky,20,2015,▼3
+30.0,192.0,20.0,23.0,Bárta Jan,25.0,Bora - Argon 18,20,2015,▼2
+27.0,168.0,20.0,,Navardauskas Ramūnas,26.0,Team Cannondale - Garmin,20,2015,-
+27.0,34.0,18.0,32.0,Poels Wout,27.0,Team Sky,20,2015,▲5
+22.0,108.0,17.0,24.0,Yates Adam,28.0,Orica GreenEDGE,20,2015,▼4
+22.0,147.0,16.0,25.0,Jungels Bob,29.0,Trek Factory Racing,20,2015,▼4
+22.0,194.0,16.0,26.0,Buchmann Emanuel,30.0,Bora - Argon 18,20,2015,▼4
+27.0,172.0,16.0,,Edet Nicolas,31.0,"Cofidis, Solutions Crédits",20,2015,-
+25.0,87.0,15.0,27.0,Preidler Georg,32.0,Team Giant - Alpecin,20,2015,▼5
+35.0,72.0,14.0,,Bak Lars Ytting,33.0,Lotto Soudal,20,2015,-
+27.0,154.0,13.0,28.0,Đurasek Kristijan,34.0,Lampre - Merida,20,2015,▼6
+29.0,44.0,12.0,29.0,Kreuziger Roman,35.0,Tinkoff - Saxo,20,2015,▼6
+29.0,177.0,12.0,30.0,Simon Julien,36.0,"Cofidis, Solutions Crédits",20,2015,▼6
+35.0,156.0,11.0,38.0,Plaza Rubén,37.0,Lampre - Merida,20,2015,▲1
+28.0,133.0,10.0,31.0,Kruijswijk Steven,38.0,Team LottoNL-Jumbo,20,2015,▼7
+30.0,26.0,9.0,33.0,Ladagnous Matthieu,39.0,FDJ,20,2015,▼6
+26.0,219.0,8.0,34.0,Teklehaimanot Daniel,40.0,MTN - Qhubeka,20,2015,▼6
+27.0,71.0,8.0,35.0,Gallopin Tony,41.0,Lotto Soudal,20,2015,▼6
+27.0,62.0,8.0,36.0,Caruso Damiano,42.0,BMC Racing Team,20,2015,▼6
+26.0,139.0,8.0,37.0,Vanmarcke Sep,43.0,Team LottoNL-Jumbo,20,2015,▼6
+28.0,73.0,6.0,39.0,De Gendt Thomas,44.0,Lotto Soudal,20,2015,▼5
+32.0,28.0,6.0,40.0,Roy Jérémy,45.0,FDJ,20,2015,▼5
+28.0,118.0,5.0,41.0,Urán Rigoberto,46.0,Etixx - Quick Step,20,2015,▼5
+28.0,181.0,4.0,43.0,Frank Mathias,47.0,IAM Cycling,20,2015,▼4
+27.0,123.0,4.0,44.0,Gautier Cyril,48.0,Team Europcar,20,2015,▼4
+25.0,179.0,3.0,45.0,Vanbilsen Kenneth,49.0,"Cofidis, Solutions Crédits",20,2015,▼4
+25.0,47.0,3.0,46.0,Sagan Peter,50.0,Tinkoff - Saxo,20,2015,▼4
+29.0,56.0,3.0,47.0,Herrada José,51.0,Movistar Team,20,2015,▼4
+32.0,9.0,3.0,48.0,Westra Lieuwe,52.0,Astana Pro Team,20,2015,▼4
+27.0,19.0,2.0,49.0,Vuillermoz Alexis,53.0,AG2R La Mondiale,20,2015,▼4
+32.0,41.0,2.0,51.0,Contador Alberto,54.0,Tinkoff - Saxo,20,2015,▼3
+26.0,188.0,2.0,52.0,Pantano Jarlinson,55.0,IAM Cycling,20,2015,▼3
+29.0,13.0,2.0,53.0,Bakelants Jan,56.0,AG2R La Mondiale,20,2015,▼3
+36.0,183.0,2.0,54.0,Chavanel Sylvain,57.0,IAM Cycling,20,2015,▼3
+28.0,211.0,2.0,55.0,Boasson Hagen Edvald,58.0,MTN - Qhubeka,20,2015,▼3
+34.0,212.0,2.0,56.0,Cummings Steve,59.0,MTN - Qhubeka,20,2015,▼3
+35.0,46.0,1.0,57.0,Rogers Michael,60.0,Tinkoff - Saxo,20,2015,▼3
+28.0,67.0,1.0,58.0,Schär Michael,61.0,BMC Racing Team,20,2015,▼3
+28.0,165.0,1.0,59.0,Koren Kristijan,62.0,Team Cannondale - Garmin,20,2015,▼3
+24.0,132.0,1.0,60.0,Kelderman Wilco,63.0,Team LottoNL-Jumbo,20,2015,▼3
+34.0,196.0,1.0,61.0,Huzarski Bartosz,64.0,Bora - Argon 18,20,2015,▼3
+34.0,17.0,1.0,62.0,Riblon Christophe,65.0,AG2R La Mondiale,20,2015,▼3
+25.0,203.0,1.0,63.0,Delaplace Anthony,66.0,Bretagne - Séché Environnement,20,2015,▼3
+25.0,63.0,1.0,64.0,Dennis Rohan,67.0,BMC Racing Team,20,2015,▼3
+26.0,81.0,1.0,65.0,Degenkolb John,68.0,Team Giant - Alpecin,20,2015,▼3
+25.0,117.0,1.0,66.0,Trentin Matteo,69.0,Etixx - Quick Step,20,2015,▼3
+24.0,94.0,1.0,67.0,Haller Marco,70.0,Team Katusha,20,2015,▼3
+30.0,31.0,119.0,1.0,Froome Chris,1.0,Team Sky,21,2015,-
+25.0,51.0,108.0,2.0,Quintana Nairo,2.0,Movistar Team,21,2015,-
+24.0,12.0,90.0,3.0,Bardet Romain,3.0,AG2R La Mondiale,21,2015,-
+25.0,21.0,82.0,4.0,Pinot Thibaut,4.0,FDJ,21,2015,-
+36.0,91.0,78.0,5.0,Rodríguez Joaquim,5.0,Team Katusha,21,2015,-
+28.0,121.0,74.0,6.0,Rolland Pierre,6.0,Team Europcar,21,2015,-
+35.0,59.0,72.0,7.0,Valverde Alejandro,7.0,Movistar Team,21,2015,-
+30.0,3.0,64.0,8.0,Fuglsang Jakob,8.0,Astana Pro Team,21,2015,-
+30.0,35.0,58.0,9.0,Porte Richie,9.0,Team Sky,21,2015,-
+31.0,218.0,55.0,10.0,Pauwels Serge,10.0,MTN - Qhubeka,21,2015,-
+30.0,1.0,53.0,11.0,Nibali Vincenzo,11.0,Astana Pro Team,21,2015,-
+34.0,164.0,41.0,12.0,Hesjedal Ryder,12.0,Team Cannondale - Garmin,21,2015,-
+25.0,45.0,40.0,13.0,Majka Rafał,13.0,Tinkoff - Saxo,21,2015,-
+26.0,52.0,33.0,14.0,Anacona Winner,14.0,Movistar Team,21,2015,-
+29.0,131.0,32.0,15.0,Gesink Robert,15.0,Team LottoNL-Jumbo,21,2015,-
+27.0,57.0,28.0,16.0,Izagirre Gorka,16.0,Movistar Team,21,2015,-
+27.0,25.0,27.0,17.0,Geniez Alexandre,17.0,FDJ,21,2015,-
+28.0,167.0,27.0,18.0,Martin Dan,18.0,Team Cannondale - Garmin,21,2015,-
+29.0,14.0,24.0,19.0,Cherel Mickaël,19.0,AG2R La Mondiale,21,2015,-
+36.0,129.0,23.0,20.0,Voeckler Thomas,20.0,Team Europcar,21,2015,-
+27.0,127.0,23.0,21.0,Sicard Romain,21.0,Team Europcar,21,2015,-
+29.0,86.0,22.0,22.0,Geschke Simon,22.0,Team Giant - Alpecin,21,2015,-
+26.0,161.0,22.0,23.0,Talansky Andrew,23.0,Team Cannondale - Garmin,21,2015,-
+29.0,39.0,22.0,24.0,Thomas Geraint,24.0,Team Sky,21,2015,-
+30.0,192.0,20.0,25.0,Bárta Jan,25.0,Bora - Argon 18,21,2015,-
+27.0,168.0,20.0,26.0,Navardauskas Ramūnas,26.0,Team Cannondale - Garmin,21,2015,-
+27.0,34.0,18.0,27.0,Poels Wout,27.0,Team Sky,21,2015,-
+22.0,108.0,17.0,28.0,Yates Adam,28.0,Orica GreenEDGE,21,2015,-
+22.0,147.0,16.0,29.0,Jungels Bob,29.0,Trek Factory Racing,21,2015,-
+22.0,194.0,16.0,30.0,Buchmann Emanuel,30.0,Bora - Argon 18,21,2015,-
+27.0,172.0,16.0,31.0,Edet Nicolas,31.0,"Cofidis, Solutions Crédits",21,2015,-
+25.0,87.0,15.0,32.0,Preidler Georg,32.0,Team Giant - Alpecin,21,2015,-
+35.0,72.0,14.0,33.0,Bak Lars Ytting,33.0,Lotto Soudal,21,2015,-
+28.0,154.0,13.0,34.0,Đurasek Kristijan,34.0,Lampre - Merida,21,2015,-
+29.0,44.0,12.0,35.0,Kreuziger Roman,35.0,Tinkoff - Saxo,21,2015,-
+29.0,177.0,12.0,36.0,Simon Julien,36.0,"Cofidis, Solutions Crédits",21,2015,-
+35.0,156.0,11.0,37.0,Plaza Rubén,37.0,Lampre - Merida,21,2015,-
+28.0,133.0,10.0,38.0,Kruijswijk Steven,38.0,Team LottoNL-Jumbo,21,2015,-
+30.0,26.0,9.0,39.0,Ladagnous Matthieu,39.0,FDJ,21,2015,-
+26.0,219.0,8.0,40.0,Teklehaimanot Daniel,40.0,MTN - Qhubeka,21,2015,-
+27.0,71.0,8.0,41.0,Gallopin Tony,41.0,Lotto Soudal,21,2015,-
+27.0,62.0,8.0,42.0,Caruso Damiano,42.0,BMC Racing Team,21,2015,-
+26.0,139.0,8.0,43.0,Vanmarcke Sep,43.0,Team LottoNL-Jumbo,21,2015,-
+28.0,73.0,6.0,44.0,De Gendt Thomas,44.0,Lotto Soudal,21,2015,-
+32.0,28.0,6.0,45.0,Roy Jérémy,45.0,FDJ,21,2015,-
+28.0,118.0,5.0,46.0,Urán Rigoberto,46.0,Etixx - Quick Step,21,2015,-
+28.0,181.0,4.0,47.0,Frank Mathias,47.0,IAM Cycling,21,2015,-
+27.0,123.0,4.0,48.0,Gautier Cyril,48.0,Team Europcar,21,2015,-
+25.0,179.0,3.0,49.0,Vanbilsen Kenneth,49.0,"Cofidis, Solutions Crédits",21,2015,-
+25.0,47.0,3.0,50.0,Sagan Peter,50.0,Tinkoff - Saxo,21,2015,-
+29.0,56.0,3.0,51.0,Herrada José,51.0,Movistar Team,21,2015,-
+32.0,9.0,3.0,52.0,Westra Lieuwe,52.0,Astana Pro Team,21,2015,-
+27.0,19.0,2.0,53.0,Vuillermoz Alexis,53.0,AG2R La Mondiale,21,2015,-
+32.0,41.0,2.0,54.0,Contador Alberto,54.0,Tinkoff - Saxo,21,2015,-
+26.0,188.0,2.0,55.0,Pantano Jarlinson,55.0,IAM Cycling,21,2015,-
+29.0,13.0,2.0,56.0,Bakelants Jan,56.0,AG2R La Mondiale,21,2015,-
+36.0,183.0,2.0,57.0,Chavanel Sylvain,57.0,IAM Cycling,21,2015,-
+28.0,211.0,2.0,58.0,Boasson Hagen Edvald,58.0,MTN - Qhubeka,21,2015,-
+34.0,212.0,2.0,59.0,Cummings Steve,59.0,MTN - Qhubeka,21,2015,-
+35.0,46.0,1.0,60.0,Rogers Michael,60.0,Tinkoff - Saxo,21,2015,-
+28.0,67.0,1.0,61.0,Schär Michael,61.0,BMC Racing Team,21,2015,-
+28.0,165.0,1.0,62.0,Koren Kristijan,62.0,Team Cannondale - Garmin,21,2015,-
+24.0,132.0,1.0,63.0,Kelderman Wilco,63.0,Team LottoNL-Jumbo,21,2015,-
+34.0,196.0,1.0,64.0,Huzarski Bartosz,64.0,Bora - Argon 18,21,2015,-
+33.0,157.0,1.0,,Pozzato Filippo,65.0,Lampre - Merida,21,2015,-
+34.0,17.0,1.0,65.0,Riblon Christophe,66.0,AG2R La Mondiale,21,2015,▼1
+25.0,203.0,1.0,66.0,Delaplace Anthony,67.0,Bretagne - Séché Environnement,21,2015,▼1
+25.0,63.0,1.0,67.0,Dennis Rohan,68.0,BMC Racing Team,21,2015,▼1
+26.0,81.0,1.0,68.0,Degenkolb John,69.0,Team Giant - Alpecin,21,2015,▼1
+25.0,117.0,1.0,69.0,Trentin Matteo,70.0,Etixx - Quick Step,21,2015,▼1
+24.0,94.0,1.0,70.0,Haller Marco,71.0,Team Katusha,21,2015,▼1
